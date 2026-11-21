@@ -2,6 +2,19 @@
 
 Biblioteca digital de estudos bíblicos, desenvolvida em Astro, editável com Decap CMS e preparada para publicação automática pelo Netlify.
 
+## Projeto editorial: Livro de Daniel
+
+- **Testamento:** Antigo Testamento.
+- **Índice:** [Daniel — estudo por capítulos](https://prima-scriptura.netlify.app/comentarios/daniel/).
+- **Capítulos publicados:** 1, 2 e 3, com exposição histórico-exegética e comentários versículo por versículo.
+- **Capítulos 4–12:** previstos no índice, ainda não publicados.
+- **Fonte editorial:** documento `Comentário Bíblico - Livro de Daniel`, no Google Drive.
+- **Bíblia de referência:** Almeida Revista e Atualizada (ARA), consultável por links da Sociedade Bíblica do Brasil.
+- **Arquivo dos comentários:** `src/content/comentarios/daniel-capitulo-{1,2,3}.md`.
+- **Páginas de leitura:** `/comentarios/daniel/capitulo-1/` até `/comentarios/daniel/capitulo-3/`.
+
+Os comentários autorais foram preservados na transferência; as transcrições integrais dos versículos bíblicos foram substituídas por links à ARA.
+
 ## Projeto editorial: Primeira Epístola de João
 
 - **Livro:** 1 João — Fé, Amor e Certeza da Vida Eterna.
