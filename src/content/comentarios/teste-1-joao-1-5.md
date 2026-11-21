@@ -59,7 +59,7 @@ A fé cristã começa na pessoa de Jesus Cristo. Ele é a vida que Deus revelou 
 
 ---
 
-## Deus é luz (1 João 1:5)
+## Versículo 5 — Deus é luz (1 João 1:5)
 
 A declaração de que Deus é luz revela a pureza de seu caráter. Nele não existe mentira, injustiça nem maldade. Assim como a luz torna visível o que estava escondido, a presença de Deus expõe aquilo que precisa ser transformado no coração humano. Aproximar-se dele não significa encontrar um Deus indiferente ao pecado, mas um Pai santo que deseja conduzir seus filhos à verdade.
 
