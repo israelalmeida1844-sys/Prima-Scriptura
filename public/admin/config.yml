@@ -5,7 +5,7 @@
 # 4. Configure o deploy automático do Netlify a partir do repositório.
 backend:
   name: github
-  repo: SEU_USUARIO/SEU_REPOSITORIO
+ repo: israelalmeida1844-sys/Prima-Scriptura
   branch: main
   # base_url: https://SEU-PROVEDOR-OAUTH
   # auth_endpoint: auth
