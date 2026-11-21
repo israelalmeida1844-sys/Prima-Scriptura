@@ -1,0 +1,38 @@
+---
+import Base from './Base.astro';
+const { frontmatter } = Astro.props;
+const heading = frontmatter?.title || 'Comentário bíblico de 1 João';
+const description = frontmatter?.description || 'Estudo bíblico na Primeira Epístola de João';
+const label = frontmatter?.label || 'ESTUDO INTRODUTÓRIO';
+---
+<Base title={heading} description={description}>
+  <section class="section study-section">
+    <div class="wrap">
+      <nav class="study-breadcrumb" aria-label="Caminho de navegação">
+        <a href="/comentarios/">Comentários bíblicos</a><span aria-hidden="true">/</span>
+        <a href="/comentarios/1-joao/">1 João</a><span aria-hidden="true">/</span>
+        <span>{heading}</span>
+      </nav>
+      <header class="study-header">
+        <p class="eyebrow">{label}</p>
+        <h1>{heading}</h1>
+        <p class="study-deck">{description}</p>
+      </header>
+      <article class="article">
+        <div class="prose"><slot /></div>
+        <nav class="study-back"><a href="/comentarios/1-joao/">← Voltar ao índice de capítulos</a></nav>
+      </article>
+    </div>
+  </section>
+</Base>
+<style>
+.study-section{padding:42px 0 86px}
+.study-breadcrumb{display:flex;flex-wrap:wrap;gap:12px;align-items:center;font:500 12px Inter,sans-serif;color:#6e7b89;margin-bottom:65px}
+.study-breadcrumb a{text-decoration:underline;text-underline-offset:4px}
+.study-header{max-width:830px;margin:0 auto 56px;padding-bottom:30px;border-bottom:1px solid #e5dac7}
+.study-header h1{font-size:clamp(34px,4.6vw,52px);line-height:1.2;letter-spacing:-.04em;margin:14px 0}
+.study-deck{font:400 20px/1.7 "Source Serif 4",Georgia,serif;color:#627082;margin:0}
+.study-back{border-top:1px solid #e2d8c7;margin-top:62px;padding-top:25px;font:700 13px Inter,sans-serif;color:#916b36}
+.study-back a{text-decoration:underline;text-underline-offset:4px}
+@media(max-width:760px){.study-section{padding-top:28px}.study-breadcrumb{margin-bottom:40px}.study-header{margin-bottom:30px}.study-deck{font-size:18px}}
+</style>
