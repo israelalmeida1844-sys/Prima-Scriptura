@@ -22,6 +22,14 @@ const published = chapters.filter(item => item.available).length;
         <div><span>Disponíveis</span><strong>{published} de 5</strong></div>
         <div><span>Texto bíblico</span><strong>ARA</strong></div>
       </div>
+      <div class="preface-card">
+        <div>
+          <span class="preface-label">ANTES DE COMEÇAR</span>
+          <h2>Introdução geral a 1 João</h2>
+          <p>Autoria, data, contexto histórico, destinatários, estrutura e principais temas teológicos. Inclui as notas bibliográficas do manuscrito.</p>
+        </div>
+        <a href="/comentarios/1-joao/introducao/" class="preface-link">Ler introdução <span aria-hidden="true">→</span></a>
+      </div>
       <div class="section-heading">
         <div><div class="eyebrow">ÍNDICE DE LEITURA</div><h2>Escolha um capítulo</h2></div>
         <p>Selecione um capítulo disponível para abrir o comentário completo.</p>
@@ -31,7 +39,7 @@ const published = chapters.filter(item => item.available).length;
           <a class="chapter-card available" href={'/comentarios/1-joao/capitulo-' + number + '/'} aria-label={'Ler comentário do capítulo ' + number}>
             <div class="chapter-card-top"><span>CAPÍTULO</span><span class="status">Disponível</span></div>
             <div class="chapter-number">{String(number).padStart(2,'0')}</div>
-            <h3>{number === 1 ? 'A vida revelada e a comunhão com Deus' : entry.data.title}</h3>
+            <h3>{entry.data.title.replace(/^1 João — Capítulo \d+:\s*/, '')}</h3>
             <p>{entry.data.description}</p>
             <strong class="read">Ler comentário <span aria-hidden="true">→</span></strong>
           </a>
@@ -43,6 +51,14 @@ const published = chapters.filter(item => item.available).length;
             <p>O comentário deste capítulo será incluído em uma próxima etapa do projeto.</p>
           </div>
         ))}
+      </div>
+      <div class="conclusion-card">
+        <div>
+          <span class="preface-label">ENCERRAMENTO DO ESTUDO</span>
+          <h2>Conclusão geral</h2>
+          <p>Uma síntese das mensagens de fé, comunhão, obediência, amor e certeza da vida eterna em 1 João.</p>
+        </div>
+        <a href="/comentarios/1-joao/conclusao/" class="preface-link">Ler conclusão <span aria-hidden="true">→</span></a>
       </div>
       <p class="translation-note">O comentário usa a <strong>Almeida Revista e Atualizada (ARA)</strong> como versão bíblica de referência. O texto integral da tradução pode ser lido na <a href="https://www.sbb.org.br/biblia/ARA/1JN.1" target="_blank" rel="noopener noreferrer">Sociedade Bíblica do Brasil</a>.</p>
     </div>
@@ -78,4 +94,12 @@ const published = chapters.filter(item => item.available).length;
 .translation-note{border-top:1px solid #e5ddcf;padding-top:30px;margin-top:40px;color:#687485;font-size:13px;line-height:1.7}
 .translation-note a{text-decoration:underline;text-underline-offset:3px;color:#936e34}
 @media(max-width:760px){.book-project{padding-top:28px}.breadcrumbs{margin-bottom:36px}.book-metadata{grid-template-columns:repeat(2,1fr);gap:22px;padding:22px}.book-metadata>div{border:0;padding:0}.section-heading{display:block}.section-heading p{max-width:none}.chapter-card{min-height:270px}}
+
+.preface-card,.conclusion-card{display:flex;align-items:center;justify-content:space-between;gap:30px;border:1px solid #dfcfb3;border-radius:12px;background:#f8f3e9;padding:28px 32px;margin:0 0 58px}
+.conclusion-card{margin:38px 0 8px;background:#fff}
+.preface-label{font:700 10px Inter,sans-serif;letter-spacing:.15em;color:#986e34}
+.preface-card h2,.conclusion-card h2{font-size:23px;line-height:1.4;margin:8px 0 12px}
+.preface-card p,.conclusion-card p{font:400 14px/1.7 Inter,sans-serif;color:#647180;max-width:660px;margin:0}
+.preface-link{font:700 13px Inter,sans-serif;color:#946b30;white-space:nowrap;border-bottom:1px solid #b08b54;padding-bottom:5px}
+@media(max-width:760px){.preface-card,.conclusion-card{padding:23px;display:block}.preface-link{display:inline-block;margin-top:20px;white-space:normal}}
 </style>
