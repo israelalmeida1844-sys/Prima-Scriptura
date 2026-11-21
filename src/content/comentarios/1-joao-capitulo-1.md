@@ -13,7 +13,7 @@ verses: "1–10"
 
 > **Texto bíblico de referência:** Almeida Revista e Atualizada (ARA). [Leia 1 João 1 na Sociedade Bíblica do Brasil](https://www.sbb.org.br/biblia/ARA/1JN.1).
 
-Capítulo 1 — A vida revelada e a comunhão com Deus (1 João 1:1–10)
+## Capítulo 1 — A vida revelada e a comunhão com Deus (1 João 1:1–10)
 
 O primeiro capítulo de 1 João apresenta duas verdades que devem caminhar juntas: Jesus Cristo veio ao mundo para nos dar vida e comunhão com Deus; essa comunhão deve aparecer em uma maneira sincera e santa de viver. João não escreve apenas para transmitir informações religiosas. Ele deseja que seus leitores conheçam o Salvador, desfrutem da alegria de pertencer a Deus e abandonem tudo aquilo que contraria a verdade do evangelho.
 
