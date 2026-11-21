@@ -1,44 +1,49 @@
-# Prima Scriptura — Versão 2.0
+# Prima Scriptura — Comentários bíblicos
 
-Plataforma de comentários bíblicos e estudos temáticos, criada com **Astro** e preparada para **Decap CMS**.
+Biblioteca digital de estudos bíblicos, desenvolvida em Astro, editável com Decap CMS e preparada para publicação automática pelo Netlify.
 
-## Requisitos
-Node.js 20.3+ (recomendado Node 22) e npm.
+## Projeto editorial: Primeira Epístola de João
 
-## Rodar localmente
+- **Livro:** 1 João — Fé, Amor e Certeza da Vida Eterna.
+- **Leitura:** [índice de 1 João](https://prima-scriptura.netlify.app/comentarios/1-joao/).
+- **Introdução geral:** `/comentarios/1-joao/introducao/`.
+- **Cinco capítulos:** `/comentarios/1-joao/capitulo-1/` até `/comentarios/1-joao/capitulo-5/`.
+- **Conclusão geral:** `/comentarios/1-joao/conclusao/`.
+- **Tradução de referência:** Almeida Revista e Atualizada (ARA), com links de leitura para a Sociedade Bíblica do Brasil.
+- **Conteúdo:** comentários expositivos, aplicações, sínteses e 86 notas bibliográficas, a partir do manuscrito editorial no Google Drive.
+
+Os cinco capítulos estão armazenados em `src/content/comentarios/` com `draft: false`. As páginas públicas são geradas pela estrutura `src/pages/comentarios/1-joao/`.
+
+## Desenvolvimento
+
+Instalar e executar localmente:
+
 ```bash
 npm install
 npm run dev
 ```
-Acesse o endereço informado pelo terminal (normalmente http://localhost:4321).
 
-## Gerar o site
+Gerar a versão de produção:
+
 ```bash
 npm run build
 npm run preview
 ```
 
-## Publicar gratuitamente no Netlify
-1. Crie um repositório GitHub e envie os arquivos deste projeto.
-2. No Netlify, importe o repositório e configure o comando `npm run build` e a pasta `dist` (já definidos em `netlify.toml`).
-3. Configure o endereço real em `astro.config.mjs`.
-4. Cada push na branch principal dispara uma nova publicação.
+## Publicação no Netlify
 
-## Painel administrativo — atenção
-O caminho `/admin/` contém o Decap CMS, **mas o login não funcionará até configurar GitHub e OAuth**. O Netlify não fornece automaticamente autenticação para o backend GitHub. Configure um provedor OAuth seguro, ajuste `public/admin/config.yml` e autorize somente editores confiáveis. Não coloque tokens ou segredos em arquivos públicos.
+A configuração existente está em `netlify.toml`:
 
-Após a configuração, acesse `https://SEU-SITE.netlify.app/admin/` para criar artigos. O fluxo editorial salva os textos no GitHub e o Netlify recompila o site quando as alterações são incorporadas à branch principal.
+- comando de build: `npm run build`
+- diretório publicado: `dist`
+- versão de Node.js: `22`
 
-## Estrutura de conteúdos
-- `src/content/comentarios/`: comentários em Markdown com metadados de livro, capítulo e versículos.
-- `src/content/estudos/`: estudos temáticos em Markdown.
-- `src/pages/`: páginas públicas, listagens, pesquisa e páginas individuais.
-- `public/admin/config.yml`: campos do editor.
+Quando o site Netlify estiver conectado a este repositório, uma atualização na branch de produção (`main`, conforme a configuração de integração) deverá acionar um novo deploy. Verifique no painel do Netlify o status **Published** para confirmar que a versão está visível ao público.
 
-A busca é feita no navegador sobre títulos, descrições e metadados publicados (não indexa o corpo integral dos artigos).
+## Administração e segurança
 
-## Direitos autorais
-Não publique traduções bíblicas protegidas ou trechos extensos de obras sem autorização. Para a ARA, confira as condições de licenciamento e atribuição da Sociedade Bíblica do Brasil.
+O painel de conteúdos fica em `/admin/` e utiliza o Decap CMS. O backend do GitHub e o serviço OAuth são configurados em `public/admin/config.yml`. Nunca coloque segredos de autenticação no repositório público.
 
-## Situação
-Protótipo funcional com dois textos demonstrativos. Ainda é necessário configurar autenticação e publicar em hospedagem para uso real.
+## Direito autoral
+
+O comentário remete à versão ARA da Sociedade Bíblica do Brasil sem republicar integralmente seu texto, respeitando os direitos da tradução. Revisão bibliográfica final recomendada antes de uma edição comercial.
