@@ -1,5 +1,51 @@
 ---
-import Base from '../../layouts/Base.astro';import {getCollection} from 'astro:content';
-const items=(await getCollection('comentarios',({data})=>!data.draft)).sort((a,b)=>a.data.book.localeCompare(b.data.book,'pt-BR')||a.data.chapter-b.data.chapter);
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const entries = (await getCollection('comentarios', ({data}) => !data.draft))
+  .sort((a,b) => a.data.book.localeCompare(b.data.book, 'pt-BR') || a.data.chapter - b.data.chapter);
+const books = Array.from(new Set(entries.map(item => item.data.book))).map(book => {
+  const chapters = entries.filter(item => item.data.book === book);
+  return {
+    name: book,
+    testament: chapters[0].data.testament,
+    count: chapters.length,
+    total: book === '1 João' ? 5 : chapters.length,
+    url: book === '1 João' ? '/comentarios/1-joao/' : '/comentarios/' + chapters[0].id + '/'
+  };
+});
 ---
-<Base title="Comentários bíblicos"><section class="section"><div class="wrap"><div class="eyebrow">Antigo e Novo Testamento</div><h1>Comentários bíblicos</h1><p>Organizados por livro, capítulo e passagem.</p><div class="grid">{items.map(item=><a class="card" href={'/comentarios/'+item.id+'/'}><div class="kicker">{item.data.testament} · {item.data.book} {item.data.chapter}:{item.data.verses}</div><h3>{item.data.title}</h3><p>{item.data.description}</p><strong>Ler comentário →</strong></a>)}</div>{items.length===0&&<p>Não há comentários publicados.</p>}</div></section></Base>
+<Base title="Comentários bíblicos" description="Biblioteca de comentários bíblicos organizados por livro e capítulo.">
+  <section class="section books-page">
+    <div class="wrap">
+      <div class="eyebrow">BIBLIOTECA DE ESTUDOS BÍBLICOS</div>
+      <h1>Comentários bíblicos</h1>
+      <p class="page-intro">Escolha um livro da Bíblia e, em seguida, selecione o capítulo que deseja estudar.</p>
+      <div class="book-grid">
+        {books.map(book => (
+          <a href={book.url} class="book-card">
+            <span class="book-testament">{book.testament}</span>
+            <h2>{book.name}</h2>
+            <p>Comentários organizados por capítulo, com exposição bíblica e aplicações para a vida.</p>
+            <span class="book-progress">{book.count} de {book.total} capítulos disponíveis</span>
+            <strong>Ver capítulos <span aria-hidden="true">→</span></strong>
+          </a>
+        ))}
+      </div>
+      {books.length === 0 && <p>Não há comentários publicados.</p>}
+    </div>
+  </section>
+</Base>
+<style>
+.books-page{padding-top:80px;padding-bottom:90px}
+.books-page h1{font-size:clamp(33px,4.7vw,51px);letter-spacing:-.035em;margin:12px 0 17px}
+.page-intro{font:400 19px/1.75 "Source Serif 4",Georgia,serif;color:#556477;max-width:720px;margin-bottom:42px}
+.book-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:20px}
+.book-card{display:flex;flex-direction:column;min-height:290px;border:1px solid #e5d9c5;border-radius:12px;padding:30px;background:white;box-shadow:0 12px 34px #14294207;transition:border-color .2s,transform .2s}
+.book-card:hover{border-color:#bc9960;transform:translateY(-3px)}
+.book-testament{color:#936d36;font:700 11px Inter,sans-serif;letter-spacing:.13em;text-transform:uppercase}
+.book-card h2{font-size:31px;margin:22px 0 14px}
+.book-card p{font:400 15px/1.8 "Source Serif 4",Georgia,serif;color:#687484;margin:0 0 26px}
+.book-progress{display:block;color:#657486;font:600 12px Inter,sans-serif;margin-top:auto;padding-bottom:12px}
+.book-card strong{font:700 14px Inter,sans-serif;color:#916a32}
+@media(max-width:760px){.books-page{padding-top:48px}.book-card{min-height:255px}}
+</style>
