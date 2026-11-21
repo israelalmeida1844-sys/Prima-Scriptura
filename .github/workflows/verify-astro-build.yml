@@ -1,0 +1,28 @@
+name: Verificar compilação do Prima Scriptura
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependências
+        run: npm install --no-audit --no-fund
+      - name: Compilar e verificar páginas
+        run: |
+          npm run build
+          test -f dist/index.html
+          test -f dist/comentarios/daniel/index.html
+          test -f dist/comentarios/daniel/capitulo-1/index.html
+          test -f dist/comentarios/daniel/capitulo-2/index.html
+          test -f dist/comentarios/daniel/capitulo-3/index.html
+          test -f dist/comentarios/1-joao/index.html
