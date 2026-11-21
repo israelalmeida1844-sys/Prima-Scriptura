@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';import {getCollection,render} from 'astro:content';
-export async function getStaticPaths(){const entries=await getCollection('comentarios',({data})=>!data.draft && data.book !== '1 João');return entries.map(entry=>({params:{slug:entry.id},props:{entry}}));}
+export async function getStaticPaths(){const entries=await getCollection('comentarios',({data})=>!data.draft && data.book !== '1 João' && data.book !== 'Daniel');return entries.map(entry=>({params:{slug:entry.id},props:{entry}}));}
 const {entry}=Astro.props;const {Content}=await render(entry);
 ---
 <Base title={entry.data.title} description={entry.data.description}><section class="section"><div class="wrap"><article class="article"><a href="/comentarios">← Voltar para comentarios</a><div class="kicker" style="margin-top:28px">{entry.data.book + " · " + entry.data.chapter + ":" + entry.data.verses}</div><h1>{entry.data.title}</h1><p>{entry.data.description}</p><div class="meta">{entry.data.author} · {entry.data.date.toLocaleDateString('pt-BR')}</div><div class="prose"><Content/></div></article></div></section></Base>
