@@ -1,0 +1,81 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const publicEntries = await getCollection('comentarios', ({data}) => !data.draft && data.book === '1 João');
+const chapters = Array.from({ length: 5 }, (_, i) => {
+  const number = i + 1;
+  const entry = publicEntries.find(item => item.data.chapter === number);
+  return { number, entry, available: Boolean(entry) };
+});
+const published = chapters.filter(item => item.available).length;
+---
+<Base title="1 João — Comentário bíblico por capítulos" description="Estude a Primeira Epístola de João capítulo por capítulo, com comentários bíblicos, aplicações e leitura na versão ARA.">
+  <section class="section book-project">
+    <div class="wrap">
+      <nav class="breadcrumbs" aria-label="Caminho de navegação"><a href="/comentarios/">Comentários bíblicos</a><span aria-hidden="true">/</span><span>1 João</span></nav>
+      <div class="eyebrow">NOVO TESTAMENTO · COMENTÁRIO BÍBLICO</div>
+      <h1>Primeira Epístola de João</h1>
+      <p class="intro">Fé, amor e certeza da vida eterna. Uma jornada pelo texto bíblico, com exposição por capítulo, aplicações para a vida e referências para aprofundamento.</p>
+      <div class="book-metadata" aria-label="Informações da obra">
+        <div><span>Livro bíblico</span><strong>1 João</strong></div>
+        <div><span>Capítulos</span><strong>5</strong></div>
+        <div><span>Disponíveis</span><strong>{published} de 5</strong></div>
+        <div><span>Texto bíblico</span><strong>ARA</strong></div>
+      </div>
+      <div class="section-heading">
+        <div><div class="eyebrow">ÍNDICE DE LEITURA</div><h2>Escolha um capítulo</h2></div>
+        <p>Selecione um capítulo disponível para abrir o comentário completo.</p>
+      </div>
+      <div class="chapter-grid">
+        {chapters.map(({number,entry,available}) => available ? (
+          <a class="chapter-card available" href={'/comentarios/1-joao/capitulo-' + number + '/'} aria-label={'Ler comentário do capítulo ' + number}>
+            <div class="chapter-card-top"><span>CAPÍTULO</span><span class="status">Disponível</span></div>
+            <div class="chapter-number">{String(number).padStart(2,'0')}</div>
+            <h3>{number === 1 ? 'A vida revelada e a comunhão com Deus' : entry.data.title}</h3>
+            <p>{entry.data.description}</p>
+            <strong class="read">Ler comentário <span aria-hidden="true">→</span></strong>
+          </a>
+        ) : (
+          <div class="chapter-card upcoming" aria-label={'Capítulo ' + number + ' em preparação'}>
+            <div class="chapter-card-top"><span>CAPÍTULO</span><span class="pending">Em preparação</span></div>
+            <div class="chapter-number">{String(number).padStart(2,'0')}</div>
+            <h3>Capítulo {number}</h3>
+            <p>O comentário deste capítulo será incluído em uma próxima etapa do projeto.</p>
+          </div>
+        ))}
+      </div>
+      <p class="translation-note">O comentário usa a <strong>Almeida Revista e Atualizada (ARA)</strong> como versão bíblica de referência. O texto integral da tradução pode ser lido na <a href="https://www.sbb.org.br/biblia/ARA/1JN.1" target="_blank" rel="noopener noreferrer">Sociedade Bíblica do Brasil</a>.</p>
+    </div>
+  </section>
+</Base>
+<style>
+.book-project{padding-top:42px;padding-bottom:96px}
+.breadcrumbs{font:500 13px Inter,sans-serif;display:flex;align-items:center;gap:12px;color:#718091;margin-bottom:54px}
+.breadcrumbs a{text-decoration:underline;text-underline-offset:4px}
+.book-project h1{font-size:clamp(33px,5vw,54px);line-height:1.18;letter-spacing:-.04em;max-width:800px;margin:15px 0 24px}
+.intro{max-width:730px;font:400 clamp(17px,2vw,19px)/1.85 "Source Serif 4",Georgia,serif;color:#546377;margin:0 0 42px}
+.book-metadata{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border:1px solid #e7dfd2;border-radius:12px;background:white;padding:24px 32px;margin-bottom:65px}
+.book-metadata>div{display:flex;flex-direction:column;gap:5px;padding-left:26px;border-left:1px solid #eee6d9}
+.book-metadata>div:first-child{padding-left:0;border-left:0}
+.book-metadata span{font:600 11px Inter,sans-serif;color:#7d8793;letter-spacing:.11em;text-transform:uppercase}
+.book-metadata strong{font:600 17px Inter,sans-serif;color:#142942}
+.section-heading{display:flex;justify-content:space-between;align-items:end;gap:24px;margin-bottom:24px}
+.section-heading h2{font-size:clamp(24px,3vw,32px);margin:10px 0 0}
+.section-heading p{max-width:270px;font-size:14px;line-height:1.6;color:#6c7886}
+.chapter-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(245px,1fr));gap:18px}
+.chapter-card{display:flex;flex-direction:column;min-height:295px;background:#fff;border:1px solid #e6ded0;border-radius:12px;padding:24px 26px;transition:border-color .18s,transform .18s,box-shadow .18s}
+.chapter-card.available:hover{transform:translateY(-3px);border-color:#c5a167;box-shadow:0 12px 32px #1429420d}
+.chapter-card-top{display:flex;align-items:center;justify-content:space-between;gap:10px;font:700 10px Inter,sans-serif;letter-spacing:.11em;color:#936e34}
+.chapter-card-top .status{letter-spacing:0;color:#356a52;background:#e8f3ed;border-radius:30px;padding:6px 9px}
+.chapter-card-top .pending{letter-spacing:0;color:#778190;background:#eef0f1;border-radius:30px;padding:6px 9px}
+.chapter-number{font:700 46px/1.15 "Libre Baskerville",Georgia,serif;letter-spacing:-.04em;color:#17304d;margin:22px 0 15px}
+.chapter-card h3{font-size:17px;line-height:1.48;margin:0 0 10px}
+.chapter-card p{font:400 13px/1.65 Inter,sans-serif;color:#6b7581;margin:0 0 26px}
+.chapter-card .read{font-size:13px;color:#a47632;margin-top:auto}
+.chapter-card .read span{margin-left:5px}
+.chapter-card.upcoming{background:#f8f7f4;border-style:dashed}
+.chapter-card.upcoming .chapter-number,.chapter-card.upcoming h3{color:#7b8793}
+.translation-note{border-top:1px solid #e5ddcf;padding-top:30px;margin-top:40px;color:#687485;font-size:13px;line-height:1.7}
+.translation-note a{text-decoration:underline;text-underline-offset:3px;color:#936e34}
+@media(max-width:760px){.book-project{padding-top:28px}.breadcrumbs{margin-bottom:36px}.book-metadata{grid-template-columns:repeat(2,1fr);gap:22px;padding:22px}.book-metadata>div{border:0;padding:0}.section-heading{display:block}.section-heading p{max-width:none}.chapter-card{min-height:270px}}
+</style>
