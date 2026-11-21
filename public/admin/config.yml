@@ -1,0 +1,54 @@
+# CONFIGURAÇÃO NECESSÁRIA ANTES DE PUBLICAR PELO PAINEL:
+# 1. Crie um repositório GitHub e substitua SEU_USUARIO/SEU_REPOSITORIO.
+# 2. Configure um provedor de autenticação OAuth compatível com GitHub.
+# 3. Informe auth_endpoint e base_url conforme seu provedor OAuth.
+# 4. Configure o deploy automático do Netlify a partir do repositório.
+backend:
+  name: github
+  repo: SEU_USUARIO/SEU_REPOSITORIO
+  branch: main
+  # base_url: https://SEU-PROVEDOR-OAUTH
+  # auth_endpoint: auth
+publish: false
+publish_mode: editorial_workflow
+media_folder: public/uploads
+public_folder: /uploads
+locale: pt
+collections:
+  - name: comentarios
+    label: Comentários bíblicos
+    label_singular: Comentário
+    folder: src/content/comentarios
+    create: true
+    slug: '{{slug}}'
+    extension: md
+    format: frontmatter
+    fields:
+      - {label: Título, name: title, widget: string}
+      - {label: Descrição, name: description, widget: text}
+      - {label: Data, name: date, widget: datetime, format: 'YYYY-MM-DD', time_format: false}
+      - {label: Autor, name: author, widget: string, default: 'Equipe Prima Scriptura'}
+      - {label: Rascunho, name: draft, widget: boolean, default: false}
+      - {label: Etiquetas, name: tags, widget: list, default: []}
+      - {label: Livro bíblico, name: book, widget: string}
+      - {label: Testamento, name: testament, widget: select, options: ['Antigo Testamento', 'Novo Testamento']}
+      - {label: Capítulo, name: chapter, widget: number, value_type: int, min: 1}
+      - {label: Versículos, name: verses, widget: string}
+      - {label: Conteúdo, name: body, widget: markdown}
+  - name: estudos
+    label: Estudos temáticos
+    label_singular: Estudo
+    folder: src/content/estudos
+    create: true
+    slug: '{{slug}}'
+    extension: md
+    format: frontmatter
+    fields:
+      - {label: Título, name: title, widget: string}
+      - {label: Descrição, name: description, widget: text}
+      - {label: Data, name: date, widget: datetime, format: 'YYYY-MM-DD', time_format: false}
+      - {label: Autor, name: author, widget: string, default: 'Equipe Prima Scriptura'}
+      - {label: Rascunho, name: draft, widget: boolean, default: false}
+      - {label: Etiquetas, name: tags, widget: list, default: []}
+      - {label: Categoria, name: category, widget: select, options: ['Profecias bíblicas', 'Santuário e salvação', 'Interpretação bíblica', 'Teologia', 'História bíblica', 'Línguas bíblicas']}
+      - {label: Conteúdo, name: body, widget: markdown}
