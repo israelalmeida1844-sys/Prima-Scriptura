@@ -1,5 +1,5 @@
 /**
- * Validação editorial automatizada para os rascunhos de Gênesis 4–30.
+ * Validação editorial automatizada para os rascunhos de Gênesis 4–50.
  *
  * Execução: node scripts/validar-genesis-rascunhos.mjs
  *
@@ -16,6 +16,10 @@ const expected = new Map([
   [17, 27], [18, 33], [19, 38], [20, 18],
   [21, 34], [22, 24], [23, 20], [24, 67], [25, 34],
   [26, 35], [27, 46], [28, 22], [29, 35], [30, 43],
+  [31, 55], [32, 32], [33, 20], [34, 31], [35, 29],
+  [36, 43], [37, 36], [38, 30], [39, 23], [40, 23],
+  [41, 57], [42, 38], [43, 34], [44, 34], [45, 28],
+  [46, 34], [47, 31], [48, 22], [49, 33], [50, 26],
 ]);
 
 const problems = [];
@@ -59,7 +63,7 @@ for (const [chapter, lastVerse] of expected) {
 }
 
 if (problems.length) {
-  console.error(`Falhou: ${problems.length} problema(s) estrutural(is) em Gênesis 4–30:\n${problems.join('\n')}`);
+  console.error(`Falhou: ${problems.length} problema(s) estrutural(is) em Gênesis 4–50:\n${problems.join('\n')}`);
   process.exitCode = 1;
 } else {
   console.log(`OK: ${expected.size} capítulos; ${headingCount} seções bíblicas; ${noteCount} notas vinculadas; cerca de ${wordCount} unidades de texto. Todos permanecem draft: true.`);
