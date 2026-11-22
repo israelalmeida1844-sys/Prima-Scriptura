@@ -63,7 +63,7 @@ A imagem apresenta o pecado como ameaça à espreita. O substantivo *ḥaṭṭ�
 
 A correspondência vocabular com Gênesis 3:16 é notável: desejo e domínio reaparecem, agora no conflito entre Caim e o pecado. O contexto favorece a leitura de que Caim deve governar a força que deseja dominá-lo. Trata-se de exortação à responsabilidade moral, não de garantia de que vencerá sem escolher obedecer.
 
-## Gênesis 4:8–16 — O homicídio e a proteção inesperada
+## Gênesis 4:8–15 — O homicídio e a proteção inesperada
 
 ### “Caim disse a Abel” — וַיֹּאמֶר קַיִן אֶל־הֶבֶל (*wayyōʾmer Qayin ʾel-Heḇel*) — v. 8
 
