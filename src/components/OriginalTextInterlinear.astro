@@ -4,20 +4,21 @@
  * SBLGNT CC BY 4.0; MorphGNT CC BY-SA 3.0; glosas auxiliares MACULA CC BY 4.0.
  * Veja src/data/1-joao-grego/NOTAS-EDITORIAIS.md.
  */
-interface Props { chapter: number; verses: Record<string, string[][]> }
-const {chapter, verses} = Astro.props;
+interface Props { chapter: number; verses: Record<string, string[][]>; book?: '1 João' | 'Hebreus' }
+const {chapter, verses, book = '1 João'} = Astro.props;
 ---
 <section
   class="original-panel"
   data-original-panel
   data-chapter={chapter}
+  data-book={book}
   data-greek-data={JSON.stringify(verses)}
   hidden
   aria-labelledby="original-title"
 >
   <div class="original-head">
     <span class="original-eyebrow">FERRAMENTA DE ESTUDO · GREGO KOINÉ</span>
-    <h2 id="original-title" data-original-title>1 João — Texto original</h2>
+    <h2 id="original-title" data-original-title>{book} — Texto original</h2>
     <p>Interlinear horizontal, palavra por palavra. O texto-base é a edição crítica SBLGNT.</p>
   </div>
 
@@ -57,8 +58,8 @@ const {chapter, verses} = Astro.props;
   <p class="original-counter" data-original-counter aria-live="polite"></p>
   <div class="original-foot">
     <p><strong>Texto:</strong> <a href="https://sblgnt.com/" target="_blank" rel="noopener noreferrer">SBL Greek New Testament (SBLGNT)</a> — © 2010 Society of Biblical Literature e Logos Bible Software, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.</p>
-    <p><strong>Lemas e morfologia:</strong> <a href="https://github.com/morphgnt/sblgnt" target="_blank" rel="noopener noreferrer">MorphGNT 6.12</a> (James K. Tauber, ed., 2017), <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a>. Apoio às glosas: <a href="https://github.com/Clear-Bible/macula-greek" target="_blank" rel="noopener noreferrer">MACULA Greek</a> (CC BY 4.0). Glosas portuguesas e transliteração adaptadas pelo Prima Scriptura.</p>
-    <p data-original-text-note hidden><strong>Nota textual (1 João 5:7–8):</strong> o chamado <em>Comma Joanino</em> não consta do texto principal da edição crítica SBLGNT; a disposição dos versículos pode diferir de algumas traduções portuguesas.</p>
+    <p><strong>Lemas e morfologia:</strong> <a href="https://github.com/morphgnt/sblgnt" target="_blank" rel="noopener noreferrer">MorphGNT 6.12</a> (James K. Tauber, ed., 2017), <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a>. Apoio às glosas: <a href="https://github.com/Clear-Bible/macula-greek" target="_blank" rel="noopener noreferrer">MACULA Greek</a> (CC BY 4.0). Glosas portuguesas e transliteração adaptadas pelo Prima Scriptura. O sinal «—» indica glosa ainda não revisada; não deve ser interpretado como tradução.</p>
+    <p data-original-text-note hidden={book !== '1 João'}><strong>Nota textual (1 João 5:7–8):</strong> o chamado <em>Comma Joanino</em> não consta do texto principal da edição crítica SBLGNT; a disposição dos versículos pode diferir de algumas traduções portuguesas.</p>
   </div>
 </section>
 <script>
@@ -96,6 +97,7 @@ const {chapter, verses} = Astro.props;
   }
   for(const panel of document.querySelectorAll<HTMLElement>('[data-original-panel]')){
     const chapter=Number(panel.dataset.chapter);
+    const book=panel.dataset.book||'1 João';
     let verseData:GreekVerseData={};
     try{verseData=JSON.parse(panel.dataset.greekData||'{}') as GreekVerseData;}catch{verseData={};}
     // Os dados já estão incorporados à página estática: não é necessária rede externa.
@@ -126,9 +128,9 @@ const {chapter, verses} = Astro.props;
     function renderVerse(v:number){
       const words=verseData[String(v)];
       if(!words||!words.length)return;
-      if(heading)heading.textContent='1 João '+chapter+':'+v+' — Texto original';
-      if(wordCount)wordCount.textContent=words.length+' palavra'+(words.length!==1?'s':'')+' · SBLGNT · 1 João '+chapter+':'+v;
-      if(textualNote instanceof HTMLElement)textualNote.hidden=!(chapter===5&&(v===7||v===8));
+      if(heading)heading.textContent=book+' '+chapter+':'+v+' — Texto original';
+      if(wordCount)wordCount.textContent=words.length+' palavra'+(words.length!==1?'s':'')+' · SBLGNT · '+book+' '+chapter+':'+v;
+      if(textualNote instanceof HTMLElement)textualNote.hidden=!(book==='1 João'&&chapter===5&&(v===7||v===8));
       for(const mode of ['original','transliteracao','literal'] as const){
         const target=panel.querySelector('[data-original-strip="'+mode+'"]');
         if(target)target.replaceChildren(...words.map(w=>stripWord(w,mode)));
@@ -153,7 +155,7 @@ const {chapter, verses} = Astro.props;
       if(literal){
         const sequential=words.map(w=>{
           const token=w[0],mark=token.match(/[,:;.!?··]$/u)?.[0]||'';
-          return w[4].split(';')[0].trim()+mark;
+          return (w[4]==='—'?'[glosa em revisão]':w[4].split(';')[0].trim())+mark;
         }).join(' ');
         literal.textContent=sequential;
       }
