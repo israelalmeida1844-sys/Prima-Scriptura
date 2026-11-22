@@ -69,3 +69,8 @@ jobs:
           test -f dist/comentarios/1-joao/capitulo-5/index.html
           test -f dist/comentarios/1-joao/introducao/index.html
           test -f dist/admin/index.html
+          test -f dist/admin/glosas.html
+          grep -q 'href="/admin/glosas.html"' dist/admin/index.html
+          grep -q 'Editor de glosas gregas' dist/admin/glosas.html
+          grep -q 'Entrar com GitHub' dist/admin/glosas.html
+          grep -q 'TextEncoder' dist/admin/glosas.html
