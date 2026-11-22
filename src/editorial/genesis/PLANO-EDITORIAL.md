@@ -51,7 +51,11 @@ O texto bíblico hebraico é a referência primária. As obras acima ajudam a or
 - [x] Produzir primeira redação de Gênesis 3:1–24, com 12 notas e comparação lexical com 2:25.
 - [x] Localizar e consultar *Andrews Bible Commentary: Old Testament* (2020), pp. 143–147, no Google Drive.
 - [ ] Conferir o hebraico e as transliterações de Gênesis 2–3 contra edição crítica e revisar a precisão das notas.
-- [ ] Prosseguir pelos capítulos 4–50.
+- [x] Primeira redação de Gênesis 4–12 concluída (nove capítulos, 69 notas exegéticas).
+- [x] Revisão crítica de passagens sensíveis, especialmente Gn 4:1 e 4:17; veja `REVISAO-4-12.md`.
+- [x] Criado verificador estrutural dos rascunhos (`scripts/validar-genesis-rascunhos.mjs`).
+- [ ] Realizar colação hebraica crítica integral e aprovação editorial dos capítulos 4–12.
+- [ ] Prosseguir pelos capítulos 13–50.
 - [ ] Projetar interface hebraica e blocos interativos do site, somente após validar o padrão editorial.
 - [ ] Solicitar aprovação editorial antes de qualquer alteração em `main` ou publicação.
 
@@ -65,3 +69,8 @@ A análise de Gn 2:25 distingue עֲרוּמִּים (*ʿărummîm*, nudez sem v
 [Andrews Bible Commentary: Old Testament, arquivo localizado no Drive](https://drive.google.com/file/d/1xMDUnVBZa-ambehCcPyUzl177iUtVato/view?usp=drivesdk).
 
 As notas são explicativas e de apoio bibliográfico, sem transcrição direta das obras, e os arquivos permanecem `draft: true` na branch de trabalho.
+
+
+## Rodada de Gênesis 4–12 (22/11/2026)
+
+Nove capítulos acrescentados à branch isolada, todos com `draft: true`. As notas exegéticas numeradas de Gn 4–12 somam 69, com âncoras verificadas. O documento [`REVISAO-4-12.md`](REVISAO-4-12.md) registra a auditoria de conteúdo, formas hebraicas discutidas, correções realizadas e verificações pendentes antes da publicação. Não há autorização para mesclar a PR ou publicar enquanto existir essa pendência.
