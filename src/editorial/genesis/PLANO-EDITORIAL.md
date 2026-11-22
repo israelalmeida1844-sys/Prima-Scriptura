@@ -55,7 +55,11 @@ O texto bíblico hebraico é a referência primária. As obras acima ajudam a or
 - [x] Revisão crítica de passagens sensíveis, especialmente Gn 4:1 e 4:17; veja `REVISAO-4-12.md`.
 - [x] Criado verificador estrutural dos rascunhos (`scripts/validar-genesis-rascunhos.mjs`).
 - [ ] Realizar colação hebraica crítica integral e aprovação editorial dos capítulos 4–12.
-- [ ] Prosseguir pelos capítulos 13–50.
+- [x] Primeira redação dos capítulos 13–20 concluída (195 versículos cobertos, 55 notas exegéticas).
+- [x] Revisão estrutural de Gênesis 13–20 concluída; relatório em `REVISAO-13-20.md`.
+- [x] Validador do repositório ampliado para Gênesis 4–20.
+- [ ] Conferência acadêmica integral das formas hebraicas de Gênesis 13–20 e testes de build do site.
+- [ ] Prosseguir pelos capítulos 21–50.
 - [ ] Projetar interface hebraica e blocos interativos do site, somente após validar o padrão editorial.
 - [ ] Solicitar aprovação editorial antes de qualquer alteração em `main` ou publicação.
 
@@ -74,3 +78,8 @@ As notas são explicativas e de apoio bibliográfico, sem transcrição direta d
 ## Rodada de Gênesis 4–12 (22/11/2026)
 
 Nove capítulos acrescentados à branch isolada, todos com `draft: true`. As notas exegéticas numeradas de Gn 4–12 somam 69, com âncoras verificadas. O documento [`REVISAO-4-12.md`](REVISAO-4-12.md) registra a auditoria de conteúdo, formas hebraicas discutidas, correções realizadas e verificações pendentes antes da publicação. Não há autorização para mesclar a PR ou publicar enquanto existir essa pendência.
+
+
+## Rodada de Gênesis 13–20 (22/11/2026)
+
+Foram adicionados oito arquivos, todos com `draft: true`, contendo comentários de expressões hebraicas, diálogo acadêmico com Doukhan/Andrews/Kidner, referências bíblicas e 55 notas numeradas. A auditoria estrutural independente confirmou 195 versículos cobertos e todas as âncoras de nota íntegros. O relatório [`REVISAO-13-20.md`](REVISAO-13-20.md) registra a metodologia e as verificações pendentes antes de publicação. A branch `main` continua intocada.
