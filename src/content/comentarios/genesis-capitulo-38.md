@@ -35,7 +35,7 @@ Judá instrui Onã a cumprir uma obrigação familiar que a legislação posteri
 
 Judá ordena que Tamar aguarde, mas o narrador revela que ele teme perder também Selá. O tempo de espera torna-se mecanismo de adiamento de um direito que havia sido implicitamente prometido. A vulnerabilidade de Tamar não decorre somente da viuvez; é agravada pelo controle masculino sobre sua possibilidade de formar família e pelo medo de Judá.
 
-## Gênesis 38:12–19 — O disfarce de Tamar e os objetos como garantia
+## Gênesis 38:12–23 — O disfarce de Tamar e os objetos como garantia
 
 ### “Tamar tirou os vestidos da viuvez, cobriu-se com um véu” — וַתְּכַס בַּצָּעִיף (*wattəḵas baṣṣāʿîp̄*) — vv. 12–14
 
