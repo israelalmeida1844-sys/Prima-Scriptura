@@ -77,7 +77,7 @@ A genealogia aproxima-se do mundo do dilúvio. Matusalém recebe a maior duraç�
 
 Lameque associa o nome de Noé (*Nōaḥ*) ao verbo *nāḥam*, “consolar”, “aliviar”. A semelhança sonora participa da explicação narrativa do nome, embora o nome em si se relacione mais diretamente à ideia de repouso. O comentário do pai relembra o trabalho penoso sobre uma terra amaldiçoada (3:17). Noé surge como portador de esperança em um mundo de sofrimento, não como alguém que abolirá imediatamente todas as consequências do pecado.<sup><a href="#gn5-nota-6">6</a></sup>
 
-### “Noé gerou Sem, Cam e Jafé” — שֵׁם חָם וָיָפֶת (*Šēm Ḥām wāYāṯeṯ*) — v. 32
+### “Noé gerou Sem, Cam e Jafé” — שֵׁם חָם וָיָפֶת (*Šēm Ḥām wāYāp̄eṯ*) — v. 32
 
 Os três filhos são mencionados juntos porque prepararão a genealogia da humanidade depois do dilúvio (Gn 9–10). A sequência de nomes não prova, por si só, a ordem cronológica de nascimento dos três. Para qualquer cálculo, é preciso relacionar 5:32 a 7:6, 10:21 e 11:10, além de reconhecer questões de tradução em passagens ambíguas.
 
