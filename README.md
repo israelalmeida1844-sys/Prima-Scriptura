@@ -1,3 +1,12 @@
+## Piloto de Texto Original — 1 João 5:8
+
+- **Acesso:** `/comentarios/1-joao/capitulo-5/#v8`; selecione o versículo 8 na navegação horizontal para exibir o painel.
+- **Quatro modos:** Texto original (grego + glosas), Transliteração (grego + transliteração), Tradução literal (interlinear e frase aproximada) e Análise gramatical (formas, lemas e morfologia).
+- **Tipografia grega:** `Times New Roman`, com fontes Times/serif locais como alternativa quando indisponível.
+- **Fonte:** SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature e Logos Bible Software, [CC BY 4.0](https://sblgnt.com/license/). Glosas, tradução e análise portuguesas são adaptações do Prima Scriptura.
+- **Escopo:** neste teste só 1 João 5:8 recebe o conteúdo interlinear. Nenhum outro versículo é apresentado como preenchido sem revisão da fonte.
+- **Componente:** `src/components/OriginalTextInterlinear.astro`, integrado à página de 1 João sem mudar o comentário original.
+
 # Prima Scriptura — Comentários bíblicos
 
 Biblioteca digital de estudos bíblicos, desenvolvida em Astro, editável com Decap CMS e preparada para publicação estática no Cloudflare Pages (com Netlify preservado como contingência).

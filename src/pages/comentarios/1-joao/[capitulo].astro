@@ -1,5 +1,6 @@
 ---
 import Base from '../../../layouts/Base.astro';
+import OriginalTextInterlinear from '../../../components/OriginalTextInterlinear.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -57,6 +58,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
           <div class="verse-number-grid" data-verse-buttons role="group" aria-label={'Selecionar versículo em 1 João ' + chapter}></div>
           <p class="verse-current" data-verse-status role="status" aria-live="polite"></p>
         </nav>
+        {chapter === 5 && <OriginalTextInterlinear />}
         <div class="prose" id="joao-prose"><Content /></div>
         <nav class="verse-step-navigation" data-verse-step-navigation hidden aria-label="Navegar entre os comentários de 1 João">
           <button type="button" data-verse-prev class="verse-step-button verse-step-prev" aria-label="Voltar ao versículo anterior">
@@ -136,6 +138,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
             buttons.push(button);
           }
 
+          const originalPanel = browser.closest('article')?.querySelector('[data-original-panel]');
           const stepNavigation = browser.closest('article')?.querySelector('[data-verse-step-navigation]');
           const previousButton = stepNavigation?.querySelector('[data-verse-prev]');
           const nextButton = stepNavigation?.querySelector('[data-verse-next]');
@@ -230,15 +233,21 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
             else status.textContent = '1 João ' + chapter + ':' + v + ' — ' +
               (hasSpecific ? 'comentário específico do versículo.' : 'comentário da passagem que abrange este versículo.');
             updateStepButtons(selection);
+            // Neste primeiro teste, o painel filológico pertence a 1 João 5:8.
+            if (originalPanel instanceof HTMLElement) {
+              originalPanel.hidden = chapter !== 5 || selection !== '8';
+            }
             if (changeAddress) {
               const url = new URL(window.location.href);
               url.hash = selection === 'all' ? '' : selection === 'intro' ? 'introducao' : 'v' + selection;
               window.history.pushState(null,'',url);
             }
             if (scroll) {
-              const target = selection === 'all' || selection === 'intro'
-                ? browser
-                : blocks.find(el => el.tagName === 'H3' &&
+              const target = selection === '8' && chapter === 5 && originalPanel instanceof HTMLElement
+                ? originalPanel
+                : selection === 'all' || selection === 'intro'
+                  ? browser
+                  : blocks.find(el => el.tagName === 'H3' &&
                     Number(el.getAttribute('data-joao-group')) === g &&
                     el.getAttribute('data-joao-kind') === 'detail' && detailMatches(el, v))
                   ?? blocks.find(el => el.tagName === 'H2' && Number(el.getAttribute('data-joao-group')) === g)
@@ -256,7 +265,11 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
           window.addEventListener('popstate', () => displaySelection(fromAddress(),false,false));
           window.addEventListener('hashchange', () => displaySelection(fromAddress(),false,false));
           browser.hidden = false;
-          displaySelection(fromAddress(),false,false);
+          const initial = fromAddress();
+          displaySelection(initial,false,false);
+          if (initial === '8' && chapter === 5 && originalPanel instanceof HTMLElement) {
+            window.requestAnimationFrame(() => originalPanel.scrollIntoView({ behavior: 'instant', block: 'start' }));
+          }
         }
       }
     }
