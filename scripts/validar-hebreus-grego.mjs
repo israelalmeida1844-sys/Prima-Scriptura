@@ -14,8 +14,8 @@ for(let ch=1;ch<=13;ch++){
     for(const [i,w] of tokens.entries()){
       assert.equal(w.length,6,'Campos incompletos em Hb '+ch+':'+v+':'+i);
       assert.ok(w.every(s=>typeof s==='string'&&s.trim().length>0),'Campo vazio em Hb '+ch+':'+v+':'+i);
-      assert.match(w[0],/\\p{Script=Greek}/u);
-      assert.match(w[1],/\\p{Script=Greek}/u);
+      assert.match(w[0],/\p{Script=Greek}/u);
+      assert.match(w[1],/\p{Script=Greek}/u);
       assert.equal(w[3].length,8,'Morfologia inválida em Hb '+ch+':'+v+':'+i);
       if(w[4]==='—')pending++;
       count++;
