@@ -43,7 +43,7 @@ O contraste com Babel é forte. Em Gn 11:4, os construtores desejavam produzir u
 
 A promessa se converte em responsabilidade. Abrão não foi chamado para ser apenas beneficiário das dádivas de Deus, mas transmissor delas. A relação entre graça recebida e serviço prestado é central: a eleição de uma família não se destina a negar os outros povos, mas a criar um caminho de bênção para eles.
 
-### “Abençoarei os que te abençoarem... amaldiçoarei quem te desprezar” — וַאֲבָרְכָה מְבָרֲכֶיךָ וּמְקַלֶּלְךָ אָאֹר (*waʾăḇārəḵâ məḇārăḵeḵā ûməqalleləḵā ʾāʾōr*) — v. 3
+### “Abençoarei os que te abençoarem... amaldiçoarei quem te desprezar” — וַאֲבָרְכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר (*waʾăḇārəḵâ məḇārăḵeḵā ûməqalleləḵā ʾāʾōr*) — v. 3
 
 A formulação distingue um grupo plural de abençoadores e uma forma singular relacionada a quem despreza ou trata levianamente o escolhido. O verbo usado para a atitude humana negativa (*qll*) difere do verbo do juízo divino (*ʾrr*). Essa variação sublinha a seriedade de desprezar o portador da promessa, mas não dá licença para transformar qualquer crítica a um descendente de Abrão em afronta religiosa. O contexto é a proteção do propósito divino de abençoar as nações.<sup><a href="#gn12-nota-3">3</a></sup>
 
