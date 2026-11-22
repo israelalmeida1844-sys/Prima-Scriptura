@@ -71,10 +71,6 @@ Finalmente, a resposta celestial de Daniel 8:14 — até duas mil e trezentas ta
 
 - A confirmação da visão da tarde e da manhã, a enfermidade e o espanto de Daniel diante da parte cronológica ainda não explicada (8:26–27)
 
-![Linha das 2.300 tardes e manhãs](/diagramas/daniel-8-profecias-tempo.svg)
-
-*Diagrama de cronologia profética na interpretação historicista adventista apresentada neste comentário.*
-
 ### I. O Cenário Histórico e Geográfico e a Visão do Carneiro Medo-Persa (Daniel 8:1–4)
 
 #### Daniel 8:1
@@ -158,6 +154,10 @@ A pergunta dirigida pelo anjo ao Maravilhoso Numerador começa com o clamor clá
 #### Daniel 8:14
 
 Este versículo é a rocha granítica da profecia bíblica e da mensagem adventista do santuário. Embora a pergunta do versículo 13 tivesse sido formulada por um anjo, o Maravilhoso Numerador (Cristo, Palmoni) volta-Se e dirige a resposta diretamente ao profeta humano: Ele disse para mim! Deus queria que Daniel e toda a igreja remanescente do tempo do fim soubessem que aquela resposta cronológica e redentora fora revelada para o consolo, a fé e a missão do povo de Deus. A resposta de Palmoni compõe-se de duas cláusulas monumentais: um período profético exato (até duas mil e trezentas tardes e manhãs) e o evento escatológico que ocorreria imediatamente ao término desse período (e então o santuário será purificado, restaurado e vindicado).
+
+![Linha das 2.300 tardes e manhãs](/diagramas/daniel-8-profecias-tempo.svg)
+
+*Diagrama de cronologia profética na interpretação historicista adventista apresentada neste comentário.*
 
 Analisemos em primeiro lugar a expressão cronológica: até duas mil e trezentas tardes e manhãs (no hebraico literal, até tarde-manhã duas mil e trezentas). Conforme demonstram Richard M. Davidson, em A Song for the Sanctuary, 2022, capítulo 20, Gerhard F. Hasel, 1986, páginas 435 a 447, e William H. Shea, 1982, a tentativa de intérpretes críticos (que buscam forçar a profecia no período de três anos de Antíoco Epifânio entre 167 e 164 a.C.) de dividir as 2.300 tardes e manhãs pela metade, alegando que elas significariam 1.150 dias (contando separadamente 1.150 sacrifícios da tarde e 1.150 sacrifícios da manhã), viola frontalmente a língua e o uso bíblico hebraico por quatro razões irrefutáveis (além do fato histórico de que a profanação de Antíoco durou exatamente três anos ou cerca de 1.095 dias segundo 1 Macabeus 1:54, 59 e 4:52, não se encaixando nem em 1.150 nem em 2.300 dias!). Primeira razão: no texto hebraico de Daniel 8:14, as palavras tarde e manhã estão no singular (erev boqer), formando uma unidade composta indivisível que define um ciclo diário completo de vinte e quatro horas, qualificada pelo numeral total dois mil e trezentos (exatamente como em Gênesis 1:5, 8, 13, 19, 23, 31: e foi a tarde e a manhã, o dia primeiro, o dia segundo...). Segunda razão: em todo o Antigo Testamento, sempre que os dois sacrifícios diários do santuário são mencionados juntos, a ordem hebraica invariável é sempre manhã e tarde (Êxodo 29:38–39; Levítico 6:20; Números 28:3–4; 1 Reis 18:29, 36; 2 Crônicas 2:4; 13:11; 31:3; Esdras 3:3), e jamais tarde e manhã! Terceira razão: segundo a regra de contagem de unidades compostas da gramática hebraica bíblica (como quarenta dias e quarenta noites em Gênesis 7:4, 12; Êxodo 24:18; 1 Reis 19:8, que significam quarenta dias completos e jamais vinte dias!), duas mil e trezentas tardes e manhãs significam inequivocamente dois mil e trezentos dias completos. Quarta razão, destacada por Richard M. Davidson (2022, capítulo 20): por que Daniel 8:14 utiliza especificamente a ordem tarde e manhã? Porque, além de ecoar a linguagem da Criação de Gênesis 1 (onde o dia bíblico começa ao pôr do sol, na tarde), o Dia da Expiação (Yom Kippur) é o dia sagrado que Levítico 23:32 enfatiza solenemente como sendo celebrado de uma tarde a outra tarde!
 

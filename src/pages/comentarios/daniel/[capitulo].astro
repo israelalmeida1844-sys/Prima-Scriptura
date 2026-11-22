@@ -40,7 +40,23 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
       </div>
       <article class="article reading-content">
         <div class="meta">{entry.data.author} · Comentário de Daniel {chapter}:1–{entry.data.verses.split('–').at(-1)}</div>
-        <div class="prose"><Content /></div>
+
+        <nav class="verse-browser" data-verse-browser data-chapter={chapter} aria-label={'Navegação pelos versículos de Daniel ' + chapter} hidden>
+          <div class="verse-browser-top">
+            <div>
+              <span class="verse-eyebrow">LEITURA POR VERSÍCULO</span>
+              <h2>Escolha o versículo que deseja estudar</h2>
+              <p>Clique em um número para ver somente o comentário correspondente. A leitura integral permanece disponível.</p>
+            </div>
+            <div class="verse-view-controls">
+              <button type="button" class="verse-control" data-verse-target="all" aria-pressed="true" aria-controls="daniel-prose">Capítulo completo</button>
+              <button type="button" class="verse-control" data-verse-target="intro" aria-pressed="false" aria-controls="daniel-prose">Introdução e esboço</button>
+            </div>
+          </div>
+          <div class="verse-number-grid" data-verse-buttons role="group" aria-label={'Selecionar o número do versículo em Daniel ' + chapter}></div>
+          <p class="verse-current" data-verse-status role="status" aria-live="polite"></p>
+        </nav>
+        <div class="prose" id="daniel-prose"><Content /></div>
       </article>
       <div class="next-reading">
         <div><span>CONTINUE A LEITURA</span><strong>Explore os capítulos de Daniel</strong></div>
@@ -49,6 +65,101 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
     </div>
   </section>
 </Base>
+<script>
+  // Navegação progressiva: sem JavaScript, o comentário integral continua visível.
+  const browser = document.querySelector('[data-verse-browser]');
+  if (browser instanceof HTMLElement) {
+    const article = browser.closest('article');
+    const prose = article?.querySelector('.prose');
+    const chapter = Number(browser.dataset.chapter);
+    if (prose instanceof HTMLElement && Number.isInteger(chapter)) {
+      const blocks = Array.from(prose.children);
+      const verses = [];
+      let segment = 'intro';
+      let foundFirstVerse = false;
+
+      for (const element of blocks) {
+        if (element.tagName === 'H4') {
+          const match = element.textContent?.trim().match(/^Daniel\\s+(\\d+):(\\d+)$/i);
+          if (match && Number(match[1]) === chapter) {
+            segment = match[2];
+            if (!verses.includes(segment)) verses.push(segment);
+            element.id = 'v' + segment;
+            foundFirstVerse = true;
+          }
+        } else if (/^H[123]$/.test(element.tagName)) {
+          segment = foundFirstVerse ? 'section' : 'intro';
+        }
+        element.setAttribute('data-verse-part', segment);
+      }
+
+      if (verses.length) {
+        const grid = browser.querySelector('[data-verse-buttons]');
+        const status = browser.querySelector('[data-verse-status]');
+        const controls = Array.from(browser.querySelectorAll('button[data-verse-target]'));
+
+        if (grid instanceof HTMLElement && status instanceof HTMLElement) {
+          for (const verse of verses) {
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.className = 'verse-number';
+            button.textContent = verse;
+            button.dataset.verseTarget = verse;
+            button.setAttribute('aria-label', 'Mostrar comentário de Daniel ' + chapter + ':' + verse);
+            button.setAttribute('aria-pressed', 'false');
+            button.setAttribute('aria-controls', 'daniel-prose');
+            grid.append(button);
+            controls.push(button);
+          }
+
+          function showSelection(requested, changeAddress = true, scrollToBrowser = true) {
+            const selection = requested === 'intro' || verses.includes(requested) ? requested : 'all';
+            for (const element of blocks) {
+              element.hidden = selection !== 'all' && element.getAttribute('data-verse-part') !== selection;
+            }
+            for (const button of controls) {
+              const active = button.dataset.verseTarget === selection;
+              button.setAttribute('aria-pressed', String(active));
+              button.classList.toggle('is-active', active);
+            }
+            status.textContent = selection === 'all'
+              ? 'Exibindo o capítulo completo.'
+              : selection === 'intro'
+                ? 'Exibindo a introdução e o esboço do capítulo.'
+                : 'Exibindo somente o comentário de Daniel ' + chapter + ':' + selection + '.';
+
+            if (changeAddress) {
+              const url = new URL(window.location.href);
+              url.hash = verses.includes(selection) ? 'v' + selection : selection === 'intro' ? 'introducao' : '';
+              window.history.pushState(null, '', url);
+            }
+            if (scrollToBrowser) browser.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+
+          function selectionFromAddress() {
+            const hash = window.location.hash;
+            if (hash === '#introducao') return 'intro';
+            const match = hash.match(/^#v(\\d+)$/);
+            return match && verses.includes(match[1]) ? match[1] : 'all';
+          }
+
+          browser.addEventListener('click', (event) => {
+            const target = event.target;
+            if (!(target instanceof Element)) return;
+            const button = target.closest('button[data-verse-target]');
+            if (!(button instanceof HTMLButtonElement) || !browser.contains(button)) return;
+            showSelection(button.dataset.verseTarget || 'all');
+          });
+
+          window.addEventListener('popstate', () => showSelection(selectionFromAddress(), false, false));
+          window.addEventListener('hashchange', () => showSelection(selectionFromAddress(), false, false));
+          browser.hidden = false;
+          showSelection(selectionFromAddress(), false, false);
+        }
+      }
+    }
+  }
+</script>
 <style>
 .reading-page{padding-top:34px;padding-bottom:90px}
 .breadcrumbs{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:64px;font:500 12px Inter,sans-serif;color:#75808d}
@@ -74,4 +185,23 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
 .next-reading a{font:700 13px Inter,sans-serif;color:#8f672d}
 @media(max-width:760px){.breadcrumbs{margin-bottom:38px}.reading-head{margin-bottom:30px}.reading-description{font-size:18px}.bible-reference{flex-direction:column;align-items:stretch;padding:20px}.bible-link{white-space:normal}.next-reading{flex-direction:column;align-items:flex-start}}
 :global(.reading-content .prose img){display:block;max-width:100%;height:auto;margin:28px auto 14px;border:1px solid #d9e5e9;border-radius:12px}
+
+.verse-browser{max-width:790px;margin:0 0 32px;padding:24px 26px 21px;border:1px solid #d9dfdd;background:#f8f8f5;border-radius:12px;scroll-margin-top:14px}
+.verse-browser[hidden]{display:none!important}
+.verse-browser-top{display:flex;align-items:flex-start;justify-content:space-between;gap:24px;margin-bottom:20px}
+.verse-eyebrow{font:700 10px Inter,sans-serif;letter-spacing:.14em;color:#8a682f}
+.verse-browser h2{font:700 18px/1.5 Inter,sans-serif;letter-spacing:-.015em;color:#17304d;margin:6px 0}
+.verse-browser-top p{font:400 13px/1.65 Inter,sans-serif;color:#657587;margin:0;max-width:380px}
+.verse-view-controls{display:flex;flex-wrap:wrap;gap:8px;min-width:225px;justify-content:flex-end}
+.verse-control,.verse-number{appearance:none;border:1px solid #cbd5d8;background:#fff;color:#294358;border-radius:7px;cursor:pointer;transition:background .12s,border-color .12s}
+.verse-control{padding:10px 12px;font:600 12px/1.4 Inter,sans-serif}
+.verse-number-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(42px,1fr));gap:8px}
+.verse-number{min-height:43px;font:700 14px/1.3 Inter,sans-serif}
+.verse-control:hover,.verse-number:hover{border-color:#a78044;background:#f3eee5}
+.verse-control.is-active,.verse-number.is-active{background:#17304d;border-color:#17304d;color:#fff}
+.verse-control:focus-visible,.verse-number:focus-visible{outline:3px solid #b58b49;outline-offset:3px}
+.verse-current{font:500 12px/1.5 Inter,sans-serif;color:#647589;margin:15px 0 0}
+:global(.reading-content .prose > [hidden]){display:none!important}
+@media(max-width:760px){.verse-browser{padding:18px 16px}.verse-browser-top{display:block}.verse-view-controls{margin-top:14px;justify-content:flex-start}.verse-number-grid{grid-template-columns:repeat(auto-fill,minmax(38px,1fr))}.verse-number{min-height:41px}}
+
 </style>
