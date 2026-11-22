@@ -39,7 +39,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
         <a class="bible-link" href={araUrl} target="_blank" rel="noopener noreferrer">Ler capítulo na ARA <span aria-hidden="true">↗</span></a>
       </div>
       <article class="article reading-content">
-        <div class="meta">Equipe Prima Scriptura · Comentário de Daniel {chapter}:1–{entry.data.verses.split('–').at(-1)}</div>
+        <div class="meta">{entry.data.author} · Comentário de Daniel {chapter}:1–{entry.data.verses.split('–').at(-1)}</div>
         <div class="prose"><Content /></div>
       </article>
       <div class="next-reading">
@@ -73,4 +73,5 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
 .next-reading strong{font:600 17px "Libre Baskerville",Georgia,serif;color:#182e49}
 .next-reading a{font:700 13px Inter,sans-serif;color:#8f672d}
 @media(max-width:760px){.breadcrumbs{margin-bottom:38px}.reading-head{margin-bottom:30px}.reading-description{font-size:18px}.bible-reference{flex-direction:column;align-items:stretch;padding:20px}.bible-link{white-space:normal}.next-reading{flex-direction:column;align-items:flex-start}}
+:global(.reading-content .prose img){display:block;max-width:100%;height:auto;margin:28px auto 14px;border:1px solid #d9e5e9;border-radius:12px}
 </style>

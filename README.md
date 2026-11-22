@@ -6,12 +6,12 @@ Biblioteca digital de estudos bíblicos, desenvolvida em Astro, editável com De
 
 - **Testamento:** Antigo Testamento.
 - **Índice:** [Daniel — estudo por capítulos](/comentarios/daniel/).
-- **Capítulos publicados:** 1, 2 e 3, com exposição histórico-exegética e comentários versículo por versículo.
-- **Capítulos 4–12:** previstos no índice, ainda não publicados.
+- **Capítulos publicados:** 1 a 12, com exposição histórico-exegética e comentários versículo por versículo.
+- **Gráficos de profecias de tempo:** Daniel 7 (1.260 anos), Daniel 8 (2.300 anos), Daniel 9 (70 semanas) e Daniel 12 (1.260, 1.290 e 1.335 anos).
 - **Fonte editorial:** documento `Comentário Bíblico - Livro de Daniel`, no Google Drive.
 - **Bíblia de referência:** Almeida Revista e Atualizada (ARA), consultável por links da Sociedade Bíblica do Brasil.
-- **Arquivo dos comentários:** `src/content/comentarios/daniel-capitulo-{1,2,3}.md`.
-- **Páginas de leitura:** `/comentarios/daniel/capitulo-1/` até `/comentarios/daniel/capitulo-3/`.
+- **Arquivo dos comentários:** `src/content/comentarios/daniel-capitulo-{1..12}.md`.
+- **Páginas de leitura:** `/comentarios/daniel/capitulo-1/` até `/comentarios/daniel/capitulo-12/`.
 
 Os comentários autorais foram preservados na transferência; as transcrições integrais dos versículos bíblicos foram substituídas por links à ARA.
 

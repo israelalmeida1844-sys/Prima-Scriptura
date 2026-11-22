@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
+<title id="title">Daniel 7 | Um tempo, tempos e metade de um tempo</title><desc id="desc">1.260 anos — interpretação historicista adventista. Esquema ilustrativo, sem proporção temporal exata.</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f9fbfd"/><stop offset="1" stop-color="#e9f0f4"/></linearGradient></defs>
+<rect width="1200" height="450" rx="24" fill="url(#paper)"/>
+<rect x="20" y="20" width="1160" height="410" rx="17" fill="#fff" stroke="#d9e5e9" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="64" y="80" fill="#15304c" font-size="31" text-anchor="start" font-weight="700">Daniel 7 | Um tempo, tempos e metade de um tempo</text>
+<text x="64" y="116" fill="#536a7f" font-size="19" text-anchor="start" font-weight="400">1.260 anos — interpretação historicista adventista</text>
+<rect x="92" y="182" width="822" height="72" rx="12" fill="#28536d"/><text x="503" y="226" fill="white" font-size="27" text-anchor="middle" font-weight="600">1.260 anos: 538–1798 d.C.</text>
+     <rect x="919" y="182" width="195" height="72" rx="12" fill="#bd9254"/><text x="1016" y="225" fill="#fff" font-size="26" text-anchor="middle" font-weight="600">Juízo</text>
+     <path d="M95 252v34" stroke="#25475d" stroke-width="2"/><text x="95" y="312" fill="#24445e" font-size="22" text-anchor="start" font-weight="700">538 d.C.</text><path d="M913 252v34" stroke="#25475d" stroke-width="2"/><text x="913" y="312" fill="#24445e" font-size="22" text-anchor="middle" font-weight="700">1798 d.C.</text><path d="M1114 252v34" stroke="#25475d" stroke-width="2"/><text x="1114" y="312" fill="#24445e" font-size="22" text-anchor="end" font-weight="700">1844</text>
+     <text x="95" y="359" fill="#48647a" font-size="20" text-anchor="start" font-weight="400">Período de supremacia do chifre pequeno</text>
+     <text x="1114" y="359" fill="#48647a" font-size="20" text-anchor="end" font-weight="400">Dn 8:14</text>
+<text x="65" y="393" fill="#536a7f" font-size="16" text-anchor="start" font-weight="400">Esquema ilustrativo, sem proporção temporal exata.</text>
+</g></svg>

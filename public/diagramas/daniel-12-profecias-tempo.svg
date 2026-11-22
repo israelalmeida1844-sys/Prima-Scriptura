@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 475" role="img" aria-labelledby="title desc">
+<title id="title">Daniel 12 | Três períodos proféticos</title><desc id="desc">1.260, 1.290 e 1.335 dias interpretados como anos. Datas apresentadas no manuscrito; diagrama comparativo, sem escala.</desc>
+<defs><linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f9fbfd"/><stop offset="1" stop-color="#e9f0f4"/></linearGradient></defs>
+<rect width="1200" height="475" rx="24" fill="url(#paper)"/>
+<rect x="20" y="20" width="1160" height="435" rx="17" fill="#fff" stroke="#d9e5e9" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="64" y="80" fill="#15304c" font-size="31" text-anchor="start" font-weight="700">Daniel 12 | Três períodos proféticos</text>
+<text x="64" y="116" fill="#536a7f" font-size="19" text-anchor="start" font-weight="400">1.260, 1.290 e 1.335 dias interpretados como anos</text>
+<text x="66" y="184" fill="#173753" font-size="26" text-anchor="start" font-weight="700">1.260 anos</text><rect x="361" y="148" width="577" height="57" rx="12" fill="#28536d"/><text x="650" y="185" fill="#fff" font-size="27" text-anchor="middle" font-weight="600">538 → 1798</text>
+     <text x="66" y="282" fill="#173753" font-size="26" text-anchor="start" font-weight="700">1.290 anos</text><rect x="339" y="245" width="599" height="57" rx="12" fill="#2b7e89"/><text x="638" y="282" fill="#fff" font-size="27" text-anchor="middle" font-weight="600">508 → 1798</text>
+     <text x="66" y="380" fill="#173753" font-size="26" text-anchor="start" font-weight="700">1.335 anos</text><rect x="339" y="343" width="785" height="57" rx="12" fill="#bd9254"/><text x="731" y="380" fill="#fff" font-size="27" text-anchor="middle" font-weight="600">508 → 1843/1844</text>
+<text x="65" y="418" fill="#536a7f" font-size="16" text-anchor="start" font-weight="400">Datas apresentadas no manuscrito; diagrama comparativo, sem escala.</text>
+</g></svg>
