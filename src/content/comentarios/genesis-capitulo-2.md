@@ -51,11 +51,11 @@ A cena é descrita por ausências: certas plantas do campo ainda não tinham sur
 
 O verbo *yāṣar* é empregado para o ato de formar, frequentemente associado ao trabalho de um oleiro (cf. Jr 18:4–6). O recurso literário aproxima a criação humana de um gesto deliberado e pessoal. O artigo em *hāʾāḏām* favorece inicialmente a leitura “o ser humano”; o texto ainda prepara o uso do termo como designação pessoal no desenrolar da história.
 
-### “Do pó da terra” — עָפָר מִן־הָאֲדָמָה (*ʿāḇār min-hāʾăḏāmâ*) — v. 7
+### “Do pó da terra” — עָפָר מִן־הָאֲדָמָה (*ʿāp̄ār min-hāʾăḏāmâ*) — v. 7
 
 O texto aproxima os sons *ʾāḏām* (“humano”) e *ʾăḏāmâ* (“solo”), ressaltando a pertença do ser humano ao mundo que habita. A humanidade possui dignidade especial como imagem de Deus (1:26–27), mas não é autossuficiente nem divina por natureza: sua vida depende inteiramente do Criador e do ambiente que ele lhe confia.
 
-### “Sopro de vida... ser vivente” — נִשְׁמַת חַיִּים ... נֶפֶשׁ חַיָּה (*nišmaṯ ḥayyîm ... neḇeš ḥayyâ*) — v. 7
+### “Sopro de vida... ser vivente” — נִשְׁמַת חַיִּים ... נֶפֶשׁ חַיָּה (*nišmaṯ ḥayyîm ... nep̄eš ḥayyâ*) — v. 7
 
 Deus comunica o fôlego da vida à criatura formada do pó, e o homem **torna-se** *neḇeš ḥayyâ*, um ser vivo. A frase não declara que ele recebeu, como componente separado, uma alma naturalmente imortal. A mesma expressão *neḇeš ḥayyâ* é utilizada para criaturas animais em Gn 1:20,24. Na compreensão adventista, o versículo sustenta uma visão integrada da vida humana: corpo vivificado pelo sopro recebido de Deus.<sup><a href="#gn2-nota-5">5</a></sup>
 
