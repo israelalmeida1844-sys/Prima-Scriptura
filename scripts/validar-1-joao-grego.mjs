@@ -22,7 +22,7 @@ for(let chapter=1;chapter<=5;chapter++){
    assert.match(greek,/\p{Script=Greek}/u);
    assert.match(lemma,/\p{Script=Greek}/u);
    assert.equal(morph.length,8,'Código morfológico fora do padrão em '+chapter+':'+verse);
-   assert.match(translit,/[A-Za-z]/);
+   assert.match(translit,/[\p{Script=Latin}]/u);
    lemmas.add(lemma);
    count++;
   }
