@@ -69,9 +69,7 @@ O método hermenêutico que governa Daniel 7 e as visões subsequentes é o prin
 
 - O veredito do Tribunal Celestial, a entrega do reino eterno ao povo dos santos do Altíssimo e a reação final de Daniel (7:26–28)
 
-![Linha dos 1.260 anos proféticos](/diagramas/daniel-7-profecias-tempo.svg)
 
-*Diagrama de cronologia profética na interpretação historicista adventista apresentada neste comentário.*
 
 ### I. O Marco Cronológico e o Cenário Cósmico da Visão (Daniel 7:1–3)
 
@@ -200,6 +198,10 @@ O anjo explica com clareza cristalina que os dez chifres não são dez indivídu
 #### Daniel 7:25
 
 Este versículo apresenta as quatro grandes ações espirituais e históricas que caracterizam a supremacia do chifre pequeno durante a Idade Média. Em primeiro lugar, ele proferirá palavras contra o Altíssimo (no aramaico, lesad Illaya, literalmente palavras ao lado do Altíssimo, isto é, colocando-se em posição de igualdade usurpadora ao lado de Deus e contra Deus). Nos Evangelhos, a Bíblia define essa pretensão exatamente como blasfêmia (Apocalipse 13:5–6): quando um ser humano mortal reivindica para si na terra o lugar e os títulos de Deus (João 10:33; 2 Tessalonicenses 2:3–4) e arroga ao seu sacerdócio o poder divino de perdoar pecados (Marcos 2:7; Lucas 5:21). Em segundo lugar, ele magoará ou consumirá os santos do Altíssimo: o verbo aramaico empregado aqui (yeballe, da raiz bela) significa gastar uma veste pelo atrito lento e contínuo, esgotar e oprimir incessantemente — descrição exata dos séculos de perseguição movida pelas cruzadas papais contra os valdenses e albigenses e pelos tribunais da Inquisição contra milhões de cristãos fiéis às Escrituras (Elias Brasil de Souza, 2019, páginas 66 e 67).
+
+![Linha dos 1.260 anos proféticos](/diagramas/daniel-7-profecias-tempo.svg)
+
+*Daniel 7:25 — 1.260 anos proféticos (538–1798 d.C.) na interpretação historicista adventista.*
 
 Em terceiro lugar, ele cuidará em mudar os tempos e a lei (no aramaico, weyisbar lehashnayah zimnin wedat). O verbo traduzido por cuidará (sebar, pensar, tencionar, presumir) indica que o chifre pequeno teria a intenção arrogante e a presunção de alterar a Lei de Deus, embora jamais pudesse revogar de fato a validade eterna da Lei divina no céu (Salmo 111:7–8; Mateus 5:18). No vocabulário do livro de Daniel, somente Deus tem autoridade para mudar os tempos e as estações (Daniel 2:21), e a palavra lei (dat), quando ligada ao Altíssimo (como em Daniel 6:5, a lei do seu Deus), designa a santa Lei moral e perpétua do Criador. Historicamente, o sistema papal cumpriu à risca esta profecia ao alterar o Decálogo em seus catecismos tradicionais: suprimiu o segundo mandamento (que proíbe a veneração religiosa de imagens esculpidas, Êxodo 20:4–6), dividiu o décimo mandamento em dois para manter a contagem de dez, e ousou mudar o quarto mandamento — o único preceito de toda a Lei de Deus que une simultaneamente o tempo sagrado e a Lei moral, o Sábado do sétimo dia (Êxodo 20:8–11) —, transferindo a observância do sábado bíblico para o domingo (o primeiro dia da semana) e proclamando essa mudança como a marca de sua autoridade eclesiástica acima da Bíblia (Gerhard F. Hasel, 1986, páginas 418 a 425; Ervin Ochoa, 2018, páginas 96 a 98).
 

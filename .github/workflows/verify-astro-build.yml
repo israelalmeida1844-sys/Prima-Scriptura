@@ -34,6 +34,11 @@ jobs:
           test -f dist/comentarios/daniel/capitulo-3/index.html
           for chapter in 4 5 6 7 8 9 10 11 12; do test -f dist/comentarios/daniel/capitulo-${chapter}/index.html; done
           for chapter in 7 8 9 12; do test -f dist/diagramas/daniel-${chapter}-profecias-tempo.svg; done
+          for period in 1290 1335; do test -f dist/diagramas/daniel-12-${period}-anos.svg; done
+          grep -q 'data-verse-prev' dist/comentarios/daniel/capitulo-7/index.html
+          grep -q 'data-verse-next' dist/comentarios/daniel/capitulo-9/index.html
+          grep -q 'daniel-12-1290-anos.svg' dist/comentarios/daniel/capitulo-12/index.html
+          grep -q 'daniel-12-1335-anos.svg' dist/comentarios/daniel/capitulo-12/index.html
           test -f dist/comentarios/hebreus/index.html
           test -f dist/comentarios/hebreus/introducao/index.html
           for chapter in 1 2 3 4 5 6 7 8 9 10 11 12 13; do test -f dist/comentarios/hebreus/capitulo-${chapter}/index.html; done

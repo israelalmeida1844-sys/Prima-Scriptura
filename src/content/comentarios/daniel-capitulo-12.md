@@ -51,9 +51,7 @@ A terceira unidade (Daniel 12:13) é o epílogo pessoal dirigido ao profeta Dani
 
 - A exortação final à perseverança, a promessa do descanso na morte e o levantar na ressurreição para receber a herança no fim dos dias (12:13)
 
-![Comparativo dos 1.260, 1.290 e 1.335 anos](/diagramas/daniel-12-profecias-tempo.svg)
 
-*Diagrama de cronologia profética na interpretação historicista adventista apresentada neste comentário.*
 
 ### I. A Culminação Escatológica do Discurso Profético: O Levantar de Miguel, a Ressurreição e a Glorificação dos Sábios (Daniel 12:1–3)
 
@@ -109,6 +107,10 @@ Respondendo diretamente à pergunta de Daniel sobre qual seria o resultado espir
 
 Antes de despedir o profeta, o Senhor concede nos versículos 11 e 12 duas coordenadas cronológicas suplementares que ampliam a resposta do versículo 7 (os 1.260 anos) e iluminam a transição para o tempo do fim e o descelamento completo do livro. No texto original hebraico do versículo 11 (onde a palavra sacrifício não existe, figurando apenas o termo técnico o contínuo, hatamid), a declaração diz literalmente: E desde o tempo em que o contínuo for tirado e para se estabelecer a abominação desoladora, haverá mil duzentos e noventa dias. Como demonstra exaustivamente Carlos Elías Mora (Dios defiende a su pueblo, 2012, p. 221–230, em harmonia com William H. Shea, Gerhard Pfandl, Alberto R. Timm e Ángel Manuel Rodríguez), a exegese fiel deste versículo requer observar três fatos linguísticos e históricos decisivos.
 
+![Gráfico dos 1.290 anos de Daniel 12:11](/diagramas/daniel-12-1290-anos.svg)
+
+*Daniel 12:11 — período de 1.290 anos: de 508 a 1798 d.C., na interpretação historicista apresentada no manuscrito.*
+
 Primeiro, os três termos centrais de Daniel 12:11 — o verbo tirar ou remover (sur), o substantivo o contínuo (hatamid) e a expressão a abominação desoladora (shiqquts shomem) — reproduzem palavra por palavra exatamente a mesma tríade lexical de Daniel 11:31 (tirarão o contínuo e estabelecerão a abominação desoladora)! Como em Daniel 11:31 esses dois atos descrevem a obra histórica do poder papal na formação da aliança político-militar com os reis seculares para usurpar o ministério contínuo de Cristo no Santuário Celestial e implantar o sistema apóstata da união Igreja-Estado antes do período de perseguição que vai até o tempo do fim (11:32–35), o versículo 12:11 está fornecendo a medição cronológica exata daquele mesmo processo histórico descrito em 11:31!
 
 Segundo, pertencendo à seção explicativa da visão apocalíptica de Daniel 10 a 12 e estando diretamente ligado ao período simbólico dos três tempos e meio do versículo 7 (1.260 dias proféticos = 1.260 anos, de 538 a 1798 d.C.), o período de 1.290 dias é regido pelo mesmo princípio bíblico de um dia por um ano (Nm 14:34; Ez 4:6; exatamente como em Apocalipse 11:3 e 12:6, onde o período de três tempos e meio também é expresso com número cardinal acompanhado da palavra dias: mil duzentos e sessenta dias = 1.260 anos), representando 1.290 anos históricos reais. Como refuta detalhadamente Carlos Elías Mora (Dios defiende a su pueblo, 2012, p. 225–230), qualquer tentativa de arrancar os 1.290 e 1.335 dias de seu contexto histórico em 11:31 e 12:7 para projetá-los como dias literais no futuro (alegando que o contínuo seria o sábado e a abominação desoladora seria uma futura lei dominical) viola a unidade estrutural e lexical de Daniel 8, 11 e 12, contradiz o significado bíblico de hatamid em todas as suas ocorrências no Antigo Testamento, entra em choque com a negativa do anjo em fornecer novos detalhes além do tempo do fim nos versículos 8 e 9, e contraria frontalmente o juramento de Apocalipse 10:6 e as declarações inspiradas de Ellen G. White de que nunca mais haveria mensagem baseada em tempo profético nem marcação de tempo após o ano de 1844 (Primeiros Escritos, p. 75; Mensagens Escolhidas, Vol. 1, p. 188, 191).
@@ -118,6 +120,10 @@ Terceiro, se os 1.290 anos culminam no mesmo marco histórico em que terminam os
 #### Daniel 12:12
 
 Em continuidade imediata com o versículo 11 — e partindo, portanto, do mesmo marco inicial de 508 d.C., já que nenhum novo evento de partida é mencionado —, o Senhor pronuncia a única bem-aventurança formal (ashrei, Feliz ou Bem-aventurado!) de todo o livro de Daniel sobre aqueles que esperam com fé perseverante (o mesmo verbo hebraico usado em Habacuque 2:3 para os que aguardam o cumprimento da visão escatológica no tempo determinado) e chegam até o fim dos mil trezentos e trinta e cinco dias proféticos (1.335 anos)! Somando-se 1.335 anos ao marco inicial de 508 d.C. (ou acrescentando-se os 45 anos adicionais ao término dos 1.290 anos em 1798 d.C.), chegamos com precisão matemática ao ano de 1843/1844 d.C. (508 + 1.335 = 1843/1844)! Por que o Céu pronuncia uma bem-aventurança tão especial sobre a geração que esperou e alcançou o ano de 1843/1844? Porque aqueles quarenta e cinco anos entre 1798 e 1843/1844 corresponderam exatamente ao período do grande despertar profético mundial predito no versículo 4 (em que o livro de Daniel foi esquadrinhado e o conhecimento profético se multiplicou), culminando na conclusão do maior período profético da Bíblia — os 2.300 anos de Daniel 8:14 — em 22 de outubro de 1844! Aqueles que alcançaram esse marco glorioso e perseveraram na fé viram o livro de Daniel completamente descelado, compreenderam a entrada de nosso Sumo Sacerdote Jesus Cristo no Lugar Santíssimo do Santuário Celestial para a obra final de purificação e juízo investigativo pré-advento (Dn 7:9–10, 13–14; 8:14) e tornaram-se os pioneiros do movimento adventista remanescente encarregado de proclamar as Três Mensagens Angélicas a todo o mundo antes que Miguel Se levante (Ap 10:8–11; 14:6–12; Carlos Elías Mora, Dios defiende a su pueblo, 2012, p. 224–225; Elias Brasil de Souza, El Libro de Daniel, 2020, p. 164–166; Richard M. Davidson, A Song for the Sanctuary, 2022, Cap. 23).
+
+![Gráfico dos 1.335 anos de Daniel 12:12](/diagramas/daniel-12-1335-anos.svg)
+
+*Daniel 12:12 — período de 1.335 anos: de 508 a 1843/1844, conforme a cronologia interpretativa do manuscrito.*
 
 ### III. O Epílogo Pessoal: O Descanso de Daniel e a Promessa da Ressurreição e Herança Eterna (Daniel 12:13)
 

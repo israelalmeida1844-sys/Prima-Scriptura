@@ -57,6 +57,16 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
           <p class="verse-current" data-verse-status role="status" aria-live="polite"></p>
         </nav>
         <div class="prose" id="daniel-prose"><Content /></div>
+        <nav class="verse-step-navigation" data-verse-step-navigation hidden aria-label="Navegar entre os comentários de Daniel">
+          <button type="button" data-verse-prev class="verse-step-button verse-step-prev" aria-label="Voltar ao versículo anterior">
+            <span class="verse-step-arrow" aria-hidden="true">←</span>
+            <span class="verse-step-text"><small>VOLTAR</small><strong data-verse-prev-label>Versículo anterior</strong></span>
+          </button>
+          <button type="button" data-verse-next class="verse-step-button verse-step-next" aria-label="Avançar ao próximo versículo">
+            <span class="verse-step-text"><small>AVANÇAR</small><strong data-verse-next-label>Próximo versículo</strong></span>
+            <span class="verse-step-arrow" aria-hidden="true">→</span>
+          </button>
+        </nav>
       </article>
       <div class="next-reading">
         <div><span>CONTINUE A LEITURA</span><strong>Explore os capítulos de Daniel</strong></div>
@@ -102,6 +112,11 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
       const grid = browser.querySelector('[data-verse-buttons]');
       const status = browser.querySelector('[data-verse-status]');
       const controls = Array.from(browser.querySelectorAll('button[data-verse-target]'));
+      const stepNavigation = browser.closest('article')?.querySelector('[data-verse-step-navigation]');
+      const previousButton = stepNavigation?.querySelector('[data-verse-prev]');
+      const nextButton = stepNavigation?.querySelector('[data-verse-next]');
+      // Todos os 12 capítulos: permite seguir de um capítulo ao próximo sem retornar ao índice.
+      const chapterLengths = [21,49,30,37,31,28,28,27,27,21,45,13];
 
       if (verses.length && grid instanceof HTMLElement && status instanceof HTMLElement) {
         for (const verse of verses) {
@@ -148,6 +163,42 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
               ? 'Exibindo a introdução e o esboço do capítulo.'
               : 'Exibindo somente o comentário de Daniel ' + chapter + ':' + selection + '.';
 
+          // Rodapé contextual: setas disponíveis somente quando se lê um versículo.
+          if (stepNavigation instanceof HTMLElement) {
+            const index = verses.indexOf(selection);
+            stepNavigation.hidden = index < 0;
+            if (index >= 0) {
+              const current = Number(selection);
+              const previous = index > 0
+                ? { chapter, verse: Number(verses[index - 1]) }
+                : chapter > 1
+                  ? { chapter: chapter - 1, verse: chapterLengths[chapter - 2] }
+                  : null;
+              const next = index < verses.length - 1
+                ? { chapter, verse: Number(verses[index + 1]) }
+                : chapter < chapterLengths.length
+                  ? { chapter: chapter + 1, verse: 1 }
+                  : null;
+
+              function updateStep(button: Element | null | undefined, destination: { chapter: number; verse: number } | null) {
+                if (!(button instanceof HTMLButtonElement)) return;
+                button.disabled = !destination;
+                button.dataset.targetChapter = destination ? String(destination.chapter) : '';
+                button.dataset.targetVerse = destination ? String(destination.verse) : '';
+                const direction = button.hasAttribute('data-verse-prev') ? 'Voltar' : 'Avançar';
+                button.setAttribute('aria-label', destination
+                  ? direction + ' para Daniel ' + destination.chapter + ':' + destination.verse
+                  : direction + ': limite do livro de Daniel');
+                const label = button.querySelector('[data-verse-prev-label], [data-verse-next-label]');
+                if (label) label.textContent = destination
+                  ? 'Daniel ' + destination.chapter + ':' + destination.verse
+                  : (previous === null && button.hasAttribute('data-verse-prev') ? 'Início do livro' : 'Fim do livro');
+              }
+              updateStep(previousButton, previous);
+              updateStep(nextButton, next);
+            }
+          }
+
           if (changeAddress) {
             const url = new URL(window.location.href);
             url.hash = selection === 'all' ? '' : selection === 'intro' ? 'introducao' : 'v' + selection;
@@ -177,6 +228,25 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
           if (!(button instanceof HTMLButtonElement) || !browser.contains(button)) return;
           showSelection(button.dataset.verseTarget || 'all');
         });
+
+        // Navegação sequencial; atualiza o hash e o foco no mesmo capítulo.
+        // Ao atingir os limites, abre o primeiro/último versículo do capítulo adjacente.
+        if (stepNavigation instanceof HTMLElement) {
+          stepNavigation.addEventListener('click', event => {
+            const clicked = event.target;
+            if (!(clicked instanceof Element)) return;
+            const button = clicked.closest('button[data-verse-prev],button[data-verse-next]');
+            if (!(button instanceof HTMLButtonElement) || button.disabled) return;
+            const targetChapter = Number(button.dataset.targetChapter);
+            const targetVerse = Number(button.dataset.targetVerse);
+            if (!Number.isInteger(targetChapter) || !Number.isInteger(targetVerse) || targetVerse < 1) return;
+            if (targetChapter === chapter) {
+              showSelection(String(targetVerse));
+            } else {
+              window.location.assign('/comentarios/daniel/capitulo-' + targetChapter + '/#v' + targetVerse);
+            }
+          });
+        }
 
         const syncAddress = () => showSelection(fromHash(), false, true, false);
         window.addEventListener('popstate', syncAddress);
@@ -242,4 +312,17 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
 .verse-number-grid{display:flex;flex-wrap:nowrap;overflow-x:auto;gap:8px;padding:5px 2px 13px;scrollbar-width:thin;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain;max-width:100%}
 .verse-number{flex:0 0 44px;min-width:44px;min-height:44px}
 @media(max-width:760px){.reading-head{min-height:240px;padding:24px 21px}.reading-head h1{font-size:clamp(29px,7vw,38px)}.reading-head .reading-description{font-size:16px;line-height:1.5}.verse-number{flex-basis:42px;min-width:42px}}
+.verse-step-navigation{display:flex;justify-content:space-between;gap:16px;border-top:1px solid #d9e1e4;padding-top:25px;margin-top:45px;max-width:790px}
+.verse-step-navigation[hidden]{display:none!important}
+.verse-step-button{display:flex;align-items:center;gap:13px;min-height:76px;min-width:0;flex:1;background:#f7f9fa;color:#17304d;border:1px solid #d4dfe5;border-radius:12px;padding:13px 20px;cursor:pointer;transition:border-color .15s,background .15s}
+.verse-step-button:hover:not(:disabled){border-color:#b28b53;background:#f6f1e8}
+.verse-step-button:focus-visible{outline:3px solid #b28b53;outline-offset:4px}
+.verse-step-button:disabled{opacity:.46;cursor:not-allowed}
+.verse-step-next{justify-content:flex-end;text-align:right}
+.verse-step-arrow{font:700 30px/1 Inter,Arial,sans-serif;color:#9a743c}
+.verse-step-text{display:flex;flex-direction:column;gap:7px;min-width:0}
+.verse-step-text small{font:700 10px Inter,Arial,sans-serif;letter-spacing:.13em;color:#7d8894}
+.verse-step-text strong{font:700 15px Inter,Arial,sans-serif;color:#203a54}
+@media(max-width:600px){.verse-step-navigation{gap:8px}.verse-step-button{min-height:68px;padding:10px 12px;gap:8px}.verse-step-arrow{font-size:24px}.verse-step-text strong{font-size:12px}}
+
 </style>
