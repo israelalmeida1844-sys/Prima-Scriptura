@@ -66,96 +66,124 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
   </section>
 </Base>
 <script>
-  // Navegação progressiva: sem JavaScript, o comentário integral continua visível.
+  // Navegação progressiva: o capítulo permanece legível sem JavaScript.
+  // Os capítulos 1–3 usam títulos H3 para versículos; os capítulos 4–12 usam H4.
   const browser = document.querySelector('[data-verse-browser]');
+
   if (browser instanceof HTMLElement) {
-    const article = browser.closest('article');
-    const prose = article?.querySelector('.prose');
+    const prose = browser.closest('article')?.querySelector('.prose');
     const chapter = Number(browser.dataset.chapter);
+
     if (prose instanceof HTMLElement && Number.isInteger(chapter)) {
       const blocks = Array.from(prose.children);
-      const verses = [];
+      const verseHeadings = new Map<string, HTMLElement>();
       let segment = 'intro';
-      let foundFirstVerse = false;
+      let reachedVerses = false;
 
       for (const element of blocks) {
-        if (element.tagName === 'H4') {
-          const match = element.textContent?.trim().match(/^Daniel\s+(\d+):(\d+)$/i);
-          if (match && Number(match[1]) === chapter) {
-            segment = match[2];
-            if (!verses.includes(segment)) verses.push(segment);
-            element.id = 'v' + segment;
-            foundFirstVerse = true;
-          }
-        } else if (/^H[123]$/.test(element.tagName)) {
-          segment = foundFirstVerse ? 'section' : 'intro';
+        if (!(element instanceof HTMLElement)) continue;
+        const isHeading = /^H[1-4]$/.test(element.tagName);
+        const match = isHeading
+          ? element.textContent?.trim().match(/^Daniel\s+(\d+):(\d+)$/i)
+          : null;
+
+        if (match && Number(match[1]) === chapter) {
+          segment = String(Number(match[2]));
+          verseHeadings.set(segment, element);
+          element.id = 'v' + segment;
+          reachedVerses = true;
+        } else if (isHeading) {
+          segment = reachedVerses ? 'section' : 'intro';
         }
-        element.setAttribute('data-verse-part', segment);
+        element.dataset.versePart = segment;
       }
 
-      if (verses.length) {
-        const grid = browser.querySelector('[data-verse-buttons]');
-        const status = browser.querySelector('[data-verse-status]');
-        const controls = Array.from(browser.querySelectorAll('button[data-verse-target]'));
+      const verses = Array.from(verseHeadings.keys()).sort((a, b) => Number(a) - Number(b));
+      const grid = browser.querySelector('[data-verse-buttons]');
+      const status = browser.querySelector('[data-verse-status]');
+      const controls = Array.from(browser.querySelectorAll('button[data-verse-target]'));
 
-        if (grid instanceof HTMLElement && status instanceof HTMLElement) {
-          for (const verse of verses) {
-            const button = document.createElement('button');
-            button.type = 'button';
-            button.className = 'verse-number';
-            button.textContent = verse;
-            button.dataset.verseTarget = verse;
-            button.setAttribute('aria-label', 'Mostrar comentário de Daniel ' + chapter + ':' + verse);
-            button.setAttribute('aria-pressed', 'false');
-            button.setAttribute('aria-controls', 'daniel-prose');
-            grid.append(button);
-            controls.push(button);
-          }
-
-          function showSelection(requested, changeAddress = true, scrollToBrowser = true) {
-            const selection = requested === 'intro' || verses.includes(requested) ? requested : 'all';
-            for (const element of blocks) {
-              element.hidden = selection !== 'all' && element.getAttribute('data-verse-part') !== selection;
-            }
-            for (const button of controls) {
-              const active = button.dataset.verseTarget === selection;
-              button.setAttribute('aria-pressed', String(active));
-              button.classList.toggle('is-active', active);
-            }
-            status.textContent = selection === 'all'
-              ? 'Exibindo o capítulo completo.'
-              : selection === 'intro'
-                ? 'Exibindo a introdução e o esboço do capítulo.'
-                : 'Exibindo somente o comentário de Daniel ' + chapter + ':' + selection + '.';
-
-            if (changeAddress) {
-              const url = new URL(window.location.href);
-              url.hash = verses.includes(selection) ? 'v' + selection : selection === 'intro' ? 'introducao' : '';
-              window.history.pushState(null, '', url);
-            }
-            if (scrollToBrowser) browser.scrollIntoView({ behavior: 'smooth', block: 'start' });
-          }
-
-          function selectionFromAddress() {
-            const hash = window.location.hash;
-            if (hash === '#introducao') return 'intro';
-            const match = hash.match(/^#v(\d+)$/);
-            return match && verses.includes(match[1]) ? match[1] : 'all';
-          }
-
-          browser.addEventListener('click', (event) => {
-            const target = event.target;
-            if (!(target instanceof Element)) return;
-            const button = target.closest('button[data-verse-target]');
-            if (!(button instanceof HTMLButtonElement) || !browser.contains(button)) return;
-            showSelection(button.dataset.verseTarget || 'all');
-          });
-
-          window.addEventListener('popstate', () => showSelection(selectionFromAddress(), false, false));
-          window.addEventListener('hashchange', () => showSelection(selectionFromAddress(), false, false));
-          browser.hidden = false;
-          showSelection(selectionFromAddress(), false, false);
+      if (verses.length && grid instanceof HTMLElement && status instanceof HTMLElement) {
+        for (const verse of verses) {
+          const button = document.createElement('button');
+          button.type = 'button';
+          button.className = 'verse-number';
+          button.textContent = verse;
+          button.dataset.verseTarget = verse;
+          button.setAttribute('aria-label', 'Mostrar comentário de Daniel ' + chapter + ':' + verse);
+          button.setAttribute('aria-pressed', 'false');
+          button.setAttribute('aria-controls', 'daniel-prose');
+          grid.append(button);
+          controls.push(button);
         }
+
+        function fromHash() {
+          if (window.location.hash === '#introducao') return 'intro';
+          const found = window.location.hash.match(/^#v(\d+)$/i);
+          const verse = found ? String(Number(found[1])) : '';
+          return verseHeadings.has(verse) ? verse : 'all';
+        }
+
+        function showSelection(requested: string, changeAddress = true, scroll = true, smooth = true) {
+          const verse = String(Number(requested));
+          const selection = requested === 'intro'
+            ? 'intro'
+            : verseHeadings.has(verse) ? verse : 'all';
+
+          for (const element of blocks) {
+            if (element instanceof HTMLElement) {
+              element.hidden = selection !== 'all' && element.dataset.versePart !== selection;
+            }
+          }
+
+          for (const button of controls) {
+            const active = button.dataset.verseTarget === selection;
+            button.setAttribute('aria-pressed', String(active));
+            button.classList.toggle('is-active', active);
+          }
+
+          status.textContent = selection === 'all'
+            ? 'Exibindo o capítulo completo.'
+            : selection === 'intro'
+              ? 'Exibindo a introdução e o esboço do capítulo.'
+              : 'Exibindo somente o comentário de Daniel ' + chapter + ':' + selection + '.';
+
+          if (changeAddress) {
+            const url = new URL(window.location.href);
+            url.hash = selection === 'all' ? '' : selection === 'intro' ? 'introducao' : 'v' + selection;
+            window.history.pushState(null, '', url);
+          }
+
+          // Os IDs dos versículos são configurados pelo JavaScript.
+          // Um link direto #v14 chega antes desses IDs existirem no DOM;
+          // por isso é necessário rolar explicitamente após a seleção.
+          if (scroll) {
+            const target = verseHeadings.get(selection)
+              ?? (selection === 'intro'
+                ? blocks.find(el => el instanceof HTMLElement && el.dataset.versePart === 'intro')
+                : prose);
+            if (target instanceof HTMLElement) {
+              window.requestAnimationFrame(() => {
+                target.scrollIntoView({ behavior: smooth ? 'smooth' : 'instant', block: 'start' });
+              });
+            }
+          }
+        }
+
+        browser.addEventListener('click', (event) => {
+          const clicked = event.target;
+          if (!(clicked instanceof Element)) return;
+          const button = clicked.closest('button[data-verse-target]');
+          if (!(button instanceof HTMLButtonElement) || !browser.contains(button)) return;
+          showSelection(button.dataset.verseTarget || 'all');
+        });
+
+        const syncAddress = () => showSelection(fromHash(), false, true, false);
+        window.addEventListener('popstate', syncAddress);
+        window.addEventListener('hashchange', syncAddress);
+        browser.hidden = false;
+        const initial = fromHash();
+        showSelection(initial, false, initial !== 'all', false);
       }
     }
   }
@@ -202,6 +230,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
 .verse-control:focus-visible,.verse-number:focus-visible{outline:3px solid #b58b49;outline-offset:3px}
 .verse-current{font:500 12px/1.5 Inter,sans-serif;color:#647589;margin:15px 0 0}
 :global(.reading-content .prose > [hidden]){display:none!important}
+:global(.reading-content .prose > [id^='v']){scroll-margin-top:28px}
 @media(max-width:760px){.verse-browser{padding:18px 16px}.verse-browser-top{display:block}.verse-view-controls{margin-top:14px;justify-content:flex-start}.verse-number-grid{grid-template-columns:repeat(auto-fill,minmax(38px,1fr))}.verse-number{min-height:41px}}
 
 
