@@ -45,7 +45,7 @@ A mudança de nome recebida em Peniel (32:28) é reafirmada numa revelação em 
 
 A coluna (*maṣṣēḇâ*), a oferta derramada e o óleo marcam o lugar de manifestação divina. A cena ecoa Gênesis 28:18–22, indicando cumprimento do compromisso de Betel. O texto não identifica com certeza a composição da libação, de modo que não se deve afirmar dogmaticamente que se tratava de suco não fermentado ou vinho fermentado com base apenas no substantivo. O monumento tem função memorial; seu uso não equivale a adoração da pedra.
 
-## Gênesis 35:16–22 — A morte de Raquel e a ação de Rúben
+## Gênesis 35:16–21 — A morte de Raquel
 
 ### “Chamou-o Benoni; mas seu pai chamou-o Benjamim” — בֶּן־אוֹנִי ... בִּנְיָמִין (*Ben-ʾÔnî ... Binyāmîn*) — vv. 16–18
 
@@ -55,11 +55,11 @@ O parto difícil termina com a morte de Raquel. *Ben-ʾÔnî* é tradicionalment
 
 O narrador identifica Efrata com Belém e registra o pilar do túmulo de Raquel. Isso situa a morte em caminho, não no sepulcro ancestral de Macpela. O local ganha importância na tradição posterior (Jr 31:15; Mt 2:18), mas essas releituras não devem apagar o sofrimento concreto da mulher e da família. A localização exata de um túmulo venerado hoje não é demonstrada somente por este versículo.<sup><a href="#gn35-nota-7">7</a></sup>
 
+## Gênesis 35:22–29 — A ação de Rúben, os doze filhos e a despedida de Isaque
+
 ### “Rúben deitou-se com Bila, concubina de seu pai” — וַיִּשְׁכַּב אֶת־בִּלְהָה (*wayyiškaḇ ʾeṯ-Bilhâ*) — vv. 22
 
 A ação é apresentada como relação sexual proibida e grave desrespeito ao pai, independentemente de possível ambição pela liderança familiar. O texto diz que Israel ouviu, mas não descreve punição imediata. Gênesis 49:3–4 retomará o ato ao explicar a perda de precedência de Rúben. Não se deve transformar a hipótese política de tomada de autoridade em certeza sobre sua intenção íntima, nem ignorar a posição vulnerável de Bila.<sup><a href="#gn35-nota-8">8</a></sup>
-
-## Gênesis 35:22–29 — Os doze filhos e a despedida de Isaque
 
 ### “Os filhos de Jacó foram doze” — וַיִּהְיוּ בְנֵי־יַעֲקֹב שְׁנֵים עָשָׂר (*wayyihyû bənê-Yaʿăqōḇ šənêm ʿāśār*) — vv. 22–26
 
