@@ -97,6 +97,10 @@ O relato registra que Noé tomou conhecimento do ocorrido, mas não explica o me
 
 **O texto nomeia Canaã, não Cam, como destinatário da maldição.** A razão dessa transferência é debatida. O narrador pode estar antecipando a história da descendência cananeia e suas relações com Israel, mas não fornece explicação causal completa. A frase nunca pode ser legitimamente convertida em maldição racial sobre africanos, povos negros ou descendentes de Cam como conjunto: essa interpretação é textual, histórica e moralmente insustentável.<sup><a href="#gn9-nota-7">7</a></sup>
 
+### “Servo dos servos será de seus irmãos” — עֶבֶד עֲבָדִים (*ʿeḇeḏ ʿăḇāḏîm*) — vv. 25–27
+
+A construção hebraica repete o substantivo em singular e plural, intensificando a condição servil anunciada na palavra de Noé. O texto é uma sentença poética sobre Canaã; não é uma lei estabelecendo que alguém possa escravizar povos por sua genealogia ou aparência física. A história bíblica posterior demonstra que pessoas de origem cananeia podem participar da comunidade de fé. Interpretar a frase como ordem divina de escravização racial contradiz tanto seu destinatário específico quanto o propósito maior da bênção prometida às nações (12:3).<sup><a href="#gn9-nota-7">7</a></sup>
+
 ### “Bendito seja o SENHOR, Deus de Sem” — בָּרוּךְ יְהוָה אֱלֹהֵי שֵׁם (*bārûḵ YHWH ʾĕlōhê Šēm*) — v. 26
 
 A bênção se dirige primeiramente ao SENHOR, reconhecido como Deus de Sem. A sequência aponta para uma linhagem pela qual o plano de Deus continuará, sem afirmar que outras famílias não possam participar da bênção divina. A genealogia de Sem conduzirá ao chamado de Abraão (11:10–12:3), cujo objetivo declarado alcança todas as famílias da terra.
