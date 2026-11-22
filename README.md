@@ -1,11 +1,11 @@
 # Prima Scriptura — Comentários bíblicos
 
-Biblioteca digital de estudos bíblicos, desenvolvida em Astro, editável com Decap CMS e preparada para publicação automática pelo Netlify.
+Biblioteca digital de estudos bíblicos, desenvolvida em Astro, editável com Decap CMS e preparada para publicação estática no Cloudflare Pages (com Netlify preservado como contingência).
 
 ## Projeto editorial: Livro de Daniel
 
 - **Testamento:** Antigo Testamento.
-- **Índice:** [Daniel — estudo por capítulos](https://prima-scriptura.netlify.app/comentarios/daniel/).
+- **Índice:** [Daniel — estudo por capítulos](/comentarios/daniel/).
 - **Capítulos publicados:** 1, 2 e 3, com exposição histórico-exegética e comentários versículo por versículo.
 - **Capítulos 4–12:** previstos no índice, ainda não publicados.
 - **Fonte editorial:** documento `Comentário Bíblico - Livro de Daniel`, no Google Drive.
@@ -18,7 +18,7 @@ Os comentários autorais foram preservados na transferência; as transcrições 
 ## Projeto editorial: Primeira Epístola de João
 
 - **Livro:** 1 João — Fé, Amor e Certeza da Vida Eterna.
-- **Leitura:** [índice de 1 João](https://prima-scriptura.netlify.app/comentarios/1-joao/).
+- **Leitura:** [índice de 1 João](/comentarios/1-joao/).
 - **Introdução geral:** `/comentarios/1-joao/introducao/`.
 - **Cinco capítulos:** `/comentarios/1-joao/capitulo-1/` até `/comentarios/1-joao/capitulo-5/`.
 - **Conclusão geral:** `/comentarios/1-joao/conclusao/`.
@@ -43,7 +43,31 @@ npm run build
 npm run preview
 ```
 
-## Publicação no Netlify
+## Migração para o Cloudflare Pages
+
+O projeto está preparado para ser conectado ao Cloudflare Pages. A hospedagem nova deve importar **este mesmo repositório GitHub**; não é necessário duplicar os comentários ou converter o Astro.
+
+Parâmetros de configuração:
+
+| Campo | Valor |
+| --- | --- |
+| Repositório | `israelalmeida1844-sys/Prima-Scriptura` |
+| Branch de produção | `main` |
+| Framework | Astro |
+| Diretório raiz | `/` |
+| Comando de build | `npm run build` |
+| Diretório de saída | `dist` |
+| Node.js | `22` (arquivo `.node-version`) |
+
+O arquivo `astro.config.mjs` usa `SITE_URL` (se definida) ou `CF_PAGES_URL` (fornecida pelo Cloudflare) para configurar a URL pública da versão construída.
+
+**Passo que depende do proprietário:** entrar no [Cloudflare Dashboard](https://dash.cloudflare.com/), abrir **Workers & Pages**, criar um projeto **Pages** com integração GitHub e autorizar somente o repositório acima. A configuração completa e os testes posteriores estão em [CLOUDFLARE_PAGES.md](CLOUDFLARE_PAGES.md).
+
+A autenticação do Decap CMS em `/admin/` utiliza um Worker OAuth externo configurado em `public/admin/config.yml`. Manter a configuração atual e **testar o login após criar a URL Cloudflare**; se o OAuth limitar a origem, a configuração do Worker ou do aplicativo GitHub pode exigir um ajuste. Não publicar credenciais no GitHub.
+
+**Não desligar o Netlify** até confirmar o novo site, seus capítulos, a busca e o painel administrativo.
+
+## Netlify — configuração antiga preservada
 
 A configuração existente está em `netlify.toml`:
 

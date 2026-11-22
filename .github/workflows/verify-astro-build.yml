@@ -26,3 +26,6 @@ jobs:
           test -f dist/comentarios/daniel/capitulo-2/index.html
           test -f dist/comentarios/daniel/capitulo-3/index.html
           test -f dist/comentarios/1-joao/index.html
+          test -f dist/comentarios/1-joao/capitulo-5/index.html
+          test -f dist/comentarios/1-joao/introducao/index.html
+          test -f dist/admin/index.html
