@@ -1,5 +1,19 @@
 ---
 import Base from '../../../layouts/Base.astro';
+import OriginalTextInterlinear from '../../../components/OriginalTextInterlinear.astro';
+import original1 from '../../../data/hebreus-grego/capitulo-1.json';
+import original2 from '../../../data/hebreus-grego/capitulo-2.json';
+import original3 from '../../../data/hebreus-grego/capitulo-3.json';
+import original4 from '../../../data/hebreus-grego/capitulo-4.json';
+import original5 from '../../../data/hebreus-grego/capitulo-5.json';
+import original6 from '../../../data/hebreus-grego/capitulo-6.json';
+import original7 from '../../../data/hebreus-grego/capitulo-7.json';
+import original8 from '../../../data/hebreus-grego/capitulo-8.json';
+import original9 from '../../../data/hebreus-grego/capitulo-9.json';
+import original10 from '../../../data/hebreus-grego/capitulo-10.json';
+import original11 from '../../../data/hebreus-grego/capitulo-11.json';
+import original12 from '../../../data/hebreus-grego/capitulo-12.json';
+import original13 from '../../../data/hebreus-grego/capitulo-13.json';
 import { getCollection, render } from 'astro:content';
 import { HEBREUS_PASSAGENS } from '../../../data/hebreus-passagens';
 
@@ -14,6 +28,21 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const chapter = entry.data.chapter;
 const passages = HEBREUS_PASSAGENS[chapter] ?? [];
+const greekByChapter: Record<number, Record<string,string[][]>> = {
+  1: original1,
+  2: original2,
+  3: original3,
+  4: original4,
+  5: original5,
+  6: original6,
+  7: original7,
+  8: original8,
+  9: original9,
+  10: original10,
+  11: original11,
+  12: original12,
+  13: original13
+};
 const verseCount = Number(entry.data.verses.split('–').at(-1));
 const araUrl = 'https://www.sbb.org.br/biblia/ARA/HEB.' + chapter;
 ---
@@ -58,6 +87,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/HEB.' + chapter;
           <div class="verse-number-grid" data-verse-buttons role="group" aria-label={'Selecionar versículo em Hebreus ' + chapter}></div>
           <p class="verse-current" data-verse-status role="status" aria-live="polite"></p>
         </nav>
+        <OriginalTextInterlinear chapter={chapter} verses={greekByChapter[chapter]} book="Hebreus" />
         <div class="prose" id="hebreus-prose"><Content /></div>
         <nav class="verse-step-navigation" data-verse-step-navigation hidden aria-label="Navegar entre os comentários de Hebreus">
           <button type="button" data-verse-prev class="verse-step-button verse-step-prev" aria-label="Voltar ao versículo anterior">
@@ -125,6 +155,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/HEB.' + chapter;
           }
 
 
+          const originalPanel = browser.closest('article')?.querySelector('[data-original-panel]');
           const stepNavigation = browser.closest('article')?.querySelector('[data-verse-step-navigation]');
           const previousButton = stepNavigation?.querySelector('[data-verse-prev]');
           const nextButton = stepNavigation?.querySelector('[data-verse-next]');
@@ -213,13 +244,23 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/HEB.' + chapter;
               status.textContent = 'Hebreus ' + chapter + ':' + label + ' — ' + heading + '. Seleção do versículo ' + selection + '; comentário organizado por passagem.';
             }
             updateStepButtons(selection);
+            // O comentário continua organizado por passagem, mas o interlinear é individual por versículo.
+            if (originalPanel instanceof HTMLElement) {
+              const number = Number(selection);
+              const available = Number.isInteger(number) && number >= 1 && number <= maxVerse && selection !== 'all' && selection !== 'intro';
+              originalPanel.hidden = !available;
+              if (available) {
+                originalPanel.dataset.activeVerse = String(number);
+                originalPanel.dispatchEvent(new CustomEvent('original-verse-change'));
+              }
+            }
             if (changeAddress) {
               const url = new URL(window.location.href);
               url.hash = selection === 'intro' ? 'introducao' : selection === 'all' ? '' : 'v' + selection;
               window.history.pushState(null, '', url);
             }
             if (scroll) {
-              const target = selection === 'all' || selection === 'intro' ? browser : headings[g] ?? browser;
+              const target = selection === 'all' || selection === 'intro' ? browser : originalPanel instanceof HTMLElement ? originalPanel : headings[g] ?? browser;
               window.requestAnimationFrame(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }));
             }
           }
@@ -234,6 +275,9 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/HEB.' + chapter;
           window.addEventListener('hashchange', () => showSelection(addressSelection(), false, false));
           browser.hidden = false;
           showSelection(addressSelection(), false, false);
+          if (addressSelection() !== 'all' && addressSelection() !== 'intro' && originalPanel instanceof HTMLElement) {
+            window.requestAnimationFrame(() => originalPanel.scrollIntoView({ behavior: 'instant', block: 'start' }));
+          }
         }
       }
     }
