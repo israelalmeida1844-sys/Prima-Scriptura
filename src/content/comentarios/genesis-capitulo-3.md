@@ -117,7 +117,7 @@ O solo, associado sonoramente ao homem desde 2:7, participa agora das consequên
 
 As imagens agrícolas tornam concreto o peso da sobrevivência em um mundo afetado pelo mal. O vocabulário transforma o contraste entre o jardim abundante e a terra resistente em experiência cotidiana. Na leitura cristã, a restauração final da criação é horizonte de esperança (Rm 8:19–23), mas essa associação não elimina o sentido histórico do esforço humano descrito aqui.
 
-### “Tu és pó e ao pó tornarás” — עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב (*ʿāḇār ʾattâ wəʾel-ʿāḇār tāšûḇ*) — v. 19
+### “Tu és pó e ao pó tornarás” — עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב (*ʿāp̄ār ʾattâ wəʾel-ʿāp̄ār tāšûḇ*) — v. 19
 
 A frase retoma deliberadamente a origem humana de 2:7. A vida não é propriedade autônoma do ser humano; separar-se da fonte da vida conduz à mortalidade. Essa afirmação se harmoniza com a compreensão adventista da morte como retorno ao pó e dependência da ação divina para uma futura ressurreição, embora a doutrina completa deva ser examinada no conjunto da Escritura.<sup><a href="#gn3-nota-10">10</a></sup>
 
