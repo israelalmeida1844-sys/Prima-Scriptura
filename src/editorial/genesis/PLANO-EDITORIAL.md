@@ -63,7 +63,14 @@ O texto bíblico hebraico é a referência primária. As obras acima ajudam a or
 - [x] Auditoria estrutural de Gn 21–30 registrada em `REVISAO-21-30.md`.
 - [x] Validador do repositório ampliado para Gn 4–30.
 - [ ] Colação exaustiva das expressões hebraicas e revisão de bibliografia de Gn 21–30.
-- [ ] Prosseguir pelos capítulos 31–50.
+- [x] Primeira redação dos capítulos 31–50 concluída (659 versículos abrangidos, 222 blocos hebraicos, 192 notas).
+- [x] Auditoria estrutural de Gn 31–50 concluída e documentada em `REVISAO-31-50.md`.
+- [x] Verificador editorial ampliado para os capítulos 4–50.
+- [x] **Primeira redação dos 50 capítulos de Gênesis registrada no GitHub, em rascunho.**
+- [ ] Realizar colação filológica sistemática de Gênesis 1–50, inclusive notas, variantes e transliterações.
+- [ ] Verificar bibliografia e aparatos de passagens textualmente controversas.
+- [ ] Executar testes de compilação, revisão de links e visualização do hebraico no Astro.
+- [ ] Submeter a redação completa à aprovação editorial antes de publicar.
 - [ ] Projetar interface hebraica e blocos interativos do site, somente após validar o padrão editorial.
 - [ ] Solicitar aprovação editorial antes de qualquer alteração em `main` ou publicação.
 
@@ -92,3 +99,8 @@ Foram adicionados oito arquivos, todos com `draft: true`, contendo comentários 
 ## Rodada de Gênesis 21–30 (22/11/2026)
 
 Foram registrados dez arquivos novos `genesis-capitulo-21.md` a `genesis-capitulo-30.md`, todos com `draft: true`. Os capítulos abrangem 360 versículos organizados em 190 blocos de expressão hebraica, com 62 notas internas numeradas. Os metadados, títulos de seção, chamadas de nota e presença de links ARA foram checados diretamente na branch, sem lacunas estruturais. O relatório [`REVISAO-21-30.md`](REVISAO-21-30.md) explicita as decisões exegéticas e as verificações acadêmicas e de build pendentes. A branch principal não foi modificada.
+
+
+## Rodada de Gênesis 31–50 (22/11/2026)
+
+Os vinte capítulos finais foram acrescentados à mesma branch isolada, cada um com `draft: true`, comentários de expressões hebraicas, notas exegéticas, referências e discussão das alternativas relevantes. A auditoria estrutural verificou cobertura de 659 versículos, 222 blocos e 192 notas; corrigiu metadados e chamadas de Gn 31, o título de Gn 38 e a sobreposição de intervalos de Gn 35. O relatório [`REVISAO-31-50.md`](REVISAO-31-50.md) registra as verificações concluídas e as pendências filológicas e de compilação. A **primeira redação de Gênesis 1–50** está completa na branch, mas não foi autorizada para publicação, nem mesclada à `main`.
