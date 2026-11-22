@@ -1,0 +1,27 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { Content as Introduction } from '../../../editorial/hebreus/introducao.md';
+import { Content as References } from '../../../editorial/hebreus/referencias.md';
+---
+<Base title="Hebreus — Introdução geral e bibliografia" description="Introdução acadêmica, fundamentos teológicos adventistas e referências bibliográficas para o comentário da Epístola aos Hebreus.">
+  <section class="section intro-page">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Caminho de navegação"><a href="/comentarios/">Comentários</a><span>/</span><a href="/comentarios/hebreus/">Hebreus</a><span>/</span><span>Introdução</span></nav>
+      <div class="eyebrow">NOVO TESTAMENTO · INTRODUÇÃO TEOLÓGICA</div>
+      <h1>Hebreus — Introdução geral</h1>
+      <p class="lead">Autoria, contexto histórico, estrutura retórica, cristologia e a doutrina do santuário na leitura adventista.</p>
+      <p class="jump"><a href="#referencias">Consultar referências bibliográficas ↓</a></p>
+      <article class="article"><div class="prose"><Introduction /></div></article>
+      <section id="referencias" class="article references" aria-label="Referências bibliográficas"><div class="prose"><References /></div></section>
+      <p class="return"><a href="/comentarios/hebreus/">← Voltar ao índice de Hebreus</a></p>
+    </div>
+  </section>
+</Base>
+<style>
+.intro-page{padding:40px 0 90px}.crumbs{font:500 13px Inter,sans-serif;display:flex;align-items:center;gap:10px;color:#75818d;margin-bottom:40px}
+.crumbs a{text-decoration:underline;text-underline-offset:4px}.intro-page h1{font-size:clamp(32px,5vw,52px);margin:16px 0}
+.lead{font:400 19px/1.7 "Source Serif 4",Georgia,serif;color:#5b6675;max-width:760px}
+.jump{margin:22px 0 50px;font:600 13px Inter,sans-serif}.jump a,.return a{color:#977139;text-decoration:underline}
+.references{margin-top:60px;padding-top:30px;border-top:1px solid #ded5c8}.references :global(.prose){font-size:16px;line-height:1.8;overflow-wrap:anywhere}
+.return{max-width:790px;margin:40px auto 0;font:600 13px Inter,sans-serif}
+</style>

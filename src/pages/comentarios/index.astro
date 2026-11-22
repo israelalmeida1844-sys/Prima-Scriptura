@@ -9,8 +9,8 @@ const books = Array.from(new Set(entries.map(item => item.data.book))).map(book 
     name: book,
     testament: chapters[0].data.testament,
     count: chapters.length,
-    total: book === '1 João' ? 5 : book === 'Daniel' ? 12 : chapters.length,
-    url: book === '1 João' ? '/comentarios/1-joao/' : book === 'Daniel' ? '/comentarios/daniel/' : '/comentarios/' + chapters[0].id + '/'
+    total: book === '1 João' ? 5 : book === 'Daniel' ? 12 : book === 'Hebreus' ? 13 : chapters.length,
+    url: book === '1 João' ? '/comentarios/1-joao/' : book === 'Daniel' ? '/comentarios/daniel/' : book === 'Hebreus' ? '/comentarios/hebreus/' : '/comentarios/' + chapters[0].id + '/'
   };
 });
 ---

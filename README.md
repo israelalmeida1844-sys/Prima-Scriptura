@@ -15,6 +15,17 @@ Biblioteca digital de estudos bíblicos, desenvolvida em Astro, editável com De
 
 Os comentários autorais foram preservados na transferência; as transcrições integrais dos versículos bíblicos foram substituídas por links à ARA.
 
+## Projeto editorial: Epístola aos Hebreus
+
+- **Fonte editorial:** documento `Comentário Bíblico - Epístola aos Hebreus`, no Google Drive.
+- **Capítulos:** 1–13, organizados por seções exegéticas e teológicas.
+- **Índice:** `/comentarios/hebreus/`.
+- **Introdução e bibliografia:** `/comentarios/hebreus/introducao/`.
+- **Navegação:** seleção por número de versículo abre o bloco exegético correspondente. O manuscrito não contém comentários separados de cada versículo.
+- **Diagramas:** Hb 4:14–16, 8:1–6, 9:1–10 e 10:19–25; posicionados nos comentários correspondentes.
+- **Tradução de consulta:** ARA, por links para a Sociedade Bíblica do Brasil.
+- **Arquivos:** `src/content/comentarios/hebreus-capitulo-{1..13}.md`, `src/editorial/hebreus/` e `public/diagramas/hebreus-*`.
+
 ## Projeto editorial: Primeira Epístola de João
 
 - **Livro:** 1 João — Fé, Amor e Certeza da Vida Eterna.

@@ -1,0 +1,102 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const entries = await getCollection('comentarios', ({data}) => !data.draft && data.book === 'Hebreus');
+const titles = [
+  "A Supremacia do Filho sobre os Profetas e os Anjos",
+  "A Advertência contra a Negligência e o Propósito Redentor da Encarnação",
+  "A Superioridade de Cristo sobre Moisés e a Advertência contra a Incredulidade",
+  "A Promessa do Descanso e o Sumo Sacerdote Compassivo",
+  "O Sumo Sacerdócio segundo a Ordem de Melquisedeque e a Exortação contra a Imaturidade",
+  "O Progresso Rumo à Maturidade, a Gravidade da Apostasia e a Âncora da Esperança Além do Véu",
+  "A Ordem de Melquisedeque e a Superioridade do Sacerdócio Eterno",
+  "O Santuário Celestial e a Excelência da Nova Aliança",
+  "O Santuário Terrestre, o Sangue de Cristo e a Purificação Escatológica",
+  "A Eficácia do Sacrifício Único de Cristo e a Entrada Confiante no Santuário",
+  "A Natureza da Fé Triunfante e a Nuvem de Testemunhas",
+  "A Corrida da Fé, a Disciplina Paternal e o Monte Sião",
+  "A Ética da Aliança, o Sacrifício Fora do Arraial e a Doxologia Eterna"
+];
+const chapters = titles.map((title, i) => {
+  const number = i + 1;
+  const entry = entries.find(item => item.data.chapter === number);
+  return { number, title, entry, available: Boolean(entry) };
+});
+const availableCount = chapters.filter(c => c.available).length;
+---
+<Base title="Hebreus — Comentário bíblico por capítulos" description="Introdução e comentários exegéticos dos treze capítulos de Hebreus, com navegação interativa por versículo e diagramas teológicos.">
+  <section class="section hebreus-project">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Navegação"><a href="/comentarios/">Comentários bíblicos</a><span>/</span><span>Hebreus</span></nav>
+      <div class="eyebrow">NOVO TESTAMENTO · CRISTOLOGIA E SANTUÁRIO</div>
+      <h1>Comentário Bíblico de Hebreus</h1>
+      <p class="subtitle">Introdução geral, análise histórica e exegética e reflexão teológica na perspectiva adventista do sétimo dia.</p>
+      <div class="metadata">
+        <div><small>LIVRO</small><strong>Hebreus</strong></div>
+        <div><small>TESTAMENTO</small><strong>Novo</strong></div>
+        <div><small>CAPÍTULOS</small><strong>13</strong></div>
+        <div><small>DISPONÍVEIS</small><strong>{availableCount} de 13</strong></div>
+        <div><small>BÍBLIA</small><strong>ARA</strong></div>
+      </div>
+      <a class="chapter available" href="/comentarios/hebreus/introducao/" style="min-height:170px;margin-bottom:36px">
+        <div class="top"><span>ANTES DA LEITURA</span><span class="tag">Disponível</span></div>
+        <h3 style="margin-top:18px">Introdução geral e referências bibliográficas</h3>
+        <p>Autoria, gênero literário, contexto histórico, teologia do santuário e fontes acadêmicas.</p>
+        <strong class="read">Ler introdução <span aria-hidden="true">→</span></strong>
+      </a>
+      <div class="section-heading">
+        <div><div class="eyebrow">ÍNDICE DO LIVRO</div><h2>Escolha um capítulo</h2></div>
+        <p>Selecione um capítulo e use os números dos versículos para abrir a seção correspondente do comentário.</p>
+      </div>
+      <div class="chapters">
+        {chapters.map(({number,title,entry,available}) => available ? (
+          <a class="chapter available" href={'/comentarios/hebreus/capitulo-' + number + '/'} aria-label={'Abrir comentário de Hebreus capítulo ' + number}>
+            <div class="top"><span>CAPÍTULO</span><span class="tag">Disponível</span></div>
+            <div class="number">{String(number).padStart(2,'0')}</div>
+            <h3>{title}</h3>
+            <p>{entry.data.description}</p>
+            <strong class="read">Ler comentário <span aria-hidden="true">→</span></strong>
+          </a>
+        ) : (
+          <div class="chapter pending" aria-label={'Hebreus capítulo ' + number + ' em preparação'}>
+            <div class="top"><span>CAPÍTULO</span><span class="tag">Em preparação</span></div>
+            <div class="number">{String(number).padStart(2,'0')}</div>
+            <h3>{title}</h3>
+            <p>Comentário em preparação para publicação.</p>
+          </div>
+        ))}
+      </div>
+      <p class="ara-notice">O manuscrito de Hebreus está organizado por <strong>passagens temáticas</strong>. Na leitura por versículo, cada número abre a seção que o abrange, não um comentário independente sobre aquele versículo. Referência bíblica para consulta: <a href="https://www.sbb.org.br/biblia/ARA/HEB.1" target="_blank" rel="noopener noreferrer">ARA — Sociedade Bíblica do Brasil</a>.</p>
+    </div>
+  </section>
+</Base>
+<style>
+.hebreus-project{padding:44px 0 100px}
+.crumbs{font:500 13px Inter,sans-serif;display:flex;align-items:center;gap:11px;color:#748394;margin-bottom:52px}
+.crumbs a{text-decoration:underline;text-underline-offset:4px}
+.hebreus-project h1{font-size:clamp(33px,5vw,53px);line-height:1.16;letter-spacing:-.04em;max-width:850px;margin:15px 0 18px}
+.subtitle{max-width:770px;font:400 19px/1.82 "Source Serif 4",Georgia,serif;color:#5b6878;margin:0 0 40px}
+.metadata{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border:1px solid #e6dccd;border-radius:12px;background:#fff;padding:25px 27px;margin-bottom:62px;gap:17px}
+.metadata>div{display:flex;flex-direction:column;gap:7px;padding-left:20px;border-left:1px solid #e9e2d7}
+.metadata>div:first-child{padding-left:0;border-left:0}
+.metadata small{font:700 10px Inter,sans-serif;letter-spacing:.12em;color:#8994a0}
+.metadata strong{font:600 16px Inter,sans-serif;color:#162d4c}
+.section-heading{display:flex;gap:30px;align-items:flex-end;justify-content:space-between;margin-bottom:25px}
+.section-heading h2{font-size:clamp(26px,3vw,33px);margin:10px 0 0}
+.section-heading p{max-width:315px;color:#6d7886;font-size:13px;line-height:1.6}
+.chapters{display:grid;grid-template-columns:repeat(auto-fill,minmax(245px,1fr));gap:18px}
+.chapter{display:flex;flex-direction:column;min-height:300px;background:#fff;border:1px solid #e5dac8;border-radius:12px;padding:24px 25px;transition:border-color .2s,box-shadow .2s,transform .2s}
+.chapter.available:hover{border-color:#b99860;transform:translateY(-3px);box-shadow:0 15px 32px #1429420c}
+.top{display:flex;gap:8px;align-items:center;justify-content:space-between;font:700 10px Inter,sans-serif;letter-spacing:.11em;color:#9c763f}
+.top .tag{letter-spacing:0;color:#356c51;background:#e7f3eb;border-radius:25px;padding:6px 9px}
+.pending .top .tag{color:#768391;background:#edf0f2}
+.number{font:700 44px/1.2 "Libre Baskerville",Georgia,serif;color:#17304d;margin:19px 0 14px}
+.chapter h3{font-size:17px;line-height:1.5;letter-spacing:-.01em;margin:0 0 12px}
+.chapter p{font:400 13px/1.65 Inter,sans-serif;color:#6b7887;margin:0 0 23px}
+.read{margin-top:auto;font:700 13px Inter,sans-serif;color:#906b34}
+.pending{background:#f7f6f3;border-style:dashed}
+.pending .number,.pending h3{color:#83909b}
+.ara-notice{margin-top:42px;padding-top:27px;border-top:1px solid #e5dac8;font:400 13px/1.7 Inter,sans-serif;color:#71808e}
+.ara-notice a{color:#936b34;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:760px){.hebreus-project{padding:30px 0 70px}.crumbs{margin-bottom:36px}.metadata{grid-template-columns:repeat(2,1fr);padding:20px}.metadata>div{padding:0;border:0}.section-heading{display:block}.section-heading p{max-width:none}.chapter{min-height:265px}}
+</style>

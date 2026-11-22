@@ -5,7 +5,7 @@ const comentarios = (await getCollection('comentarios', ({data}) => !data.draft)
 const estudos = (await getCollection('estudos', ({data}) => !data.draft)).sort((a,b) => b.data.date.valueOf() - a.data.date.valueOf());
 const livros = Array.from(new Set(comentarios.map(item => item.data.book))).map(name => {
   const chapters = comentarios.filter(item => item.data.book === name);
-  return { name, testament: chapters[0].data.testament, chapterCount: chapters.length, link: name === '1 João' ? '/comentarios/1-joao/' : name === 'Daniel' ? '/comentarios/daniel/' : '/comentarios/' + chapters[0].id + '/' };
+  return { name, testament: chapters[0].data.testament, chapterCount: chapters.length, link: name === '1 João' ? '/comentarios/1-joao/' : name === 'Daniel' ? '/comentarios/daniel/' : name === 'Hebreus' ? '/comentarios/hebreus/' : '/comentarios/' + chapters[0].id + '/' };
 });
 ---
 <Base title="Estudos bíblicos e comentários">
