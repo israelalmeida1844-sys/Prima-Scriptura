@@ -132,13 +132,13 @@
     const list=chapterData[verse.value],entry=list[chosen.index];
     if(!entry||entry[4]!==chosen.original){status('O item foi alterado. Recarregue o capítulo.','error');return;}
     el('save').disabled=true;status('Salvando no GitHub...');
-    const p=path();const previous=entry[4];entry[4]=val;
+    const p=path();const previous=entry[4];const savedIndex=chosen.index;entry[4]=val;
     try{
       const payload={message:'Revisar glosa em '+reference()+': '+reason,content:encode64(JSON.stringify(chapterData)),sha,branch:'main'};
       const result=await api('https://api.github.com/repos/'+REPO+'/contents/'+p,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
       if(!result.content?.sha)throw Error('GitHub não confirmou a versão do arquivo.');
-      sha=result.content.sha;chosen.original=val;el('previewGloss').textContent=val;
-      renderWords();selectWord(chosen?.index??-1);
+      sha=result.content.sha;
+      renderWords();selectWord(savedIndex);
       status('Glosa salva com sucesso no GitHub. A publicação depende da compilação do site.','ok');
     }catch(err){entry[4]=previous;status('Não foi possível salvar: '+(err.message||err),'error');}
     finally{el('save').disabled=false;}
