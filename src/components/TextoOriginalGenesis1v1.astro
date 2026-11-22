@@ -51,11 +51,18 @@ import { genesis1v1 } from '../data/texto-original/genesis-1-1';
     </dl>
     <p data-lexicon-explanation>{genesis1v1.words[4].explanation}</p>
     <h4>Ocorrências na Bíblia Hebraica</h4>
-    <p class="examples">Exemplos: <span data-lexicon-examples>{genesis1v1.words[4].occurrencesExamples.join('; ')}</span></p>
-    <a class="concordance-link" data-lexicon-concordance href={genesis1v1.words[4].concordanceUrl} target="_blank" rel="noopener noreferrer">
-      Consultar concordância hebraica — <span data-lexicon-link-strong>{genesis1v1.words[4].strong}</span> ↗
-    </a>
-    <p class="concordance-note">A listagem integral de ocorrências é consultada na concordância externa. A pesquisa interna paginada por lema ainda não foi implementada.</p>
+    <button type="button" class="concordance-toggle" data-occurrences-toggle aria-controls="gn1-1-occurrences" aria-expanded="false">
+      Mostrar todas as ocorrências ↓
+    </button>
+    <div id="gn1-1-occurrences" class="concordance-panel" data-occurrences-panel hidden>
+      <p class="concordance-status" data-occurrences-status role="status">
+        Selecione “Mostrar todas as ocorrências” para consultar as referências.
+      </p>
+      <p class="concordance-total" data-occurrences-total hidden></p>
+      <div class="concordance-references" data-occurrences-refs aria-label="Referências em ordem bíblica"></div>
+      <p class="concordance-selection" data-occurrences-selection hidden></p>
+    </div>
+    <p class="concordance-note">As referências são exibidas horizontalmente, em abreviação bíblica, separadas por ponto e vírgula. O índice é consultado em arquivo local do Prima Scriptura, gerado a partir da Open Scriptures Hebrew Bible (CC BY 4.0).</p>
   </section>
 
   <section class="translation-panel" data-panel-translation>
@@ -84,26 +91,113 @@ import { genesis1v1 } from '../data/texto-original/genesis-1-1';
         explanation: '[data-lexicon-explanation]',
       };
       const show = (index: number) => {
+        requestSequence++;
         const word = words[index];
         if (!word) return;
         for (const [name, selector] of Object.entries(fields)) {
           const el = root.querySelector<HTMLElement>(selector);
           if (el) el.textContent = word[name as keyof typeof word] as string;
         }
-        const examples = root.querySelector<HTMLElement>('[data-lexicon-examples]');
-        if (examples) examples.textContent = word.occurrencesExamples.join('; ');
-        const link = root.querySelector<HTMLAnchorElement>('[data-lexicon-concordance]');
-        if (link) link.href = word.concordanceUrl;
-        const linkStrong = root.querySelector<HTMLElement>('[data-lexicon-link-strong]');
-        if (linkStrong) linkStrong.textContent = word.strong;
+        const panel = root.querySelector<HTMLElement>('[data-occurrences-panel]');
+        const toggle = root.querySelector<HTMLButtonElement>('[data-occurrences-toggle]');
+        if (panel && toggle) {
+          panel.hidden = true;
+          toggle.setAttribute('aria-expanded', 'false');
+          toggle.textContent = 'Mostrar todas as ocorrências ↓';
+          root.querySelector<HTMLElement>('[data-occurrences-total]')?.setAttribute('hidden', '');
+          root.querySelector<HTMLElement>('[data-occurrences-selection]')?.setAttribute('hidden', '');
+          root.querySelector<HTMLElement>('[data-occurrences-refs]')?.replaceChildren();
+        }
         root.querySelectorAll<HTMLButtonElement>('[data-word-index]').forEach(button => {
           const selected = Number(button.dataset.wordIndex) === index;
           button.classList.toggle('selected', selected);
           button.setAttribute('aria-pressed', String(selected));
         });
       };
+      let selectedIndex = 4;
+      const originalShow = show;
+      const selectWord = (index: number) => { selectedIndex = index; originalShow(index); };
       root.querySelectorAll<HTMLButtonElement>('[data-word-index]').forEach(button => {
-        button.addEventListener('click', () => show(Number(button.dataset.wordIndex)));
+        button.addEventListener('click', () => selectWord(Number(button.dataset.wordIndex)));
+      });
+
+      const toggleOccurrences = root.querySelector<HTMLButtonElement>('[data-occurrences-toggle]');
+      const occurrencePanel = root.querySelector<HTMLElement>('[data-occurrences-panel]');
+      const occurrenceStatus = root.querySelector<HTMLElement>('[data-occurrences-status]');
+      const occurrenceTotal = root.querySelector<HTMLElement>('[data-occurrences-total]');
+      const occurrenceRefs = root.querySelector<HTMLElement>('[data-occurrences-refs]');
+      const occurrenceSelection = root.querySelector<HTMLElement>('[data-occurrences-selection]');
+      const cache = new Map<string, { complete: boolean; references: string[]; tokenCount: number; verseCount: number }>();
+      let requestSequence = 0;
+      const formatNumber = (value: number) => new Intl.NumberFormat('pt-BR').format(value);
+      toggleOccurrences?.addEventListener('click', async () => {
+        if (!toggleOccurrences || !occurrencePanel || !occurrenceStatus || !occurrenceTotal || !occurrenceRefs) return;
+        if (!occurrencePanel.hidden) {
+          occurrencePanel.hidden = true;
+          toggleOccurrences.setAttribute('aria-expanded', 'false');
+          toggleOccurrences.textContent = 'Mostrar todas as ocorrências ↓';
+          return;
+        }
+        const thisRequest = ++requestSequence;
+        const strong = words[selectedIndex].strong;
+        occurrencePanel.hidden = false;
+        toggleOccurrences.setAttribute('aria-expanded', 'true');
+        toggleOccurrences.textContent = 'Ocultar ocorrências ↑';
+        occurrenceStatus.hidden = false;
+        occurrenceStatus.textContent = 'Carregando concordância interna…';
+        occurrenceRefs.replaceChildren();
+        occurrenceTotal.hidden = true;
+        if (occurrenceSelection) occurrenceSelection.hidden = true;
+        try {
+          let corpus = cache.get(strong);
+          if (!corpus) {
+            const response = await fetch('/data/concordancia-hebraica/' + encodeURIComponent(strong) + '.json');
+            if (!response.ok) throw new Error('Arquivo local ausente (' + response.status + ')');
+            corpus = await response.json();
+            if (!corpus || corpus.complete !== true || !Array.isArray(corpus.references) ||
+                !Number.isInteger(corpus.verseCount) || !Number.isInteger(corpus.tokenCount) ||
+                corpus.references.length !== corpus.verseCount) {
+              throw new Error('Índice hebraico incompleto ou inválido');
+            }
+            cache.set(strong, corpus);
+          }
+          if (thisRequest !== requestSequence || words[selectedIndex].strong !== strong) return;
+          occurrenceStatus.hidden = true;
+          occurrenceTotal.hidden = false;
+          occurrenceTotal.textContent = formatNumber(corpus.verseCount) + ' versículos · ' +
+            formatNumber(corpus.tokenCount) + ' ocorrências da palavra · ' + strong;
+          // Para H853 pode haver milhares de referências. Renderizar sem bloquear a tela.
+          const references = corpus.references;
+          let offset = 0;
+          const renderChunk = () => {
+            if (thisRequest !== requestSequence || occurrencePanel.hidden || words[selectedIndex].strong !== strong) return;
+            const fragment = document.createDocumentFragment();
+            const limit = Math.min(offset + 300, references.length);
+            for (let j = offset; j < limit; j++) {
+              const item = document.createElement('button');
+              item.type = 'button';
+              item.className = 'concordance-reference';
+              item.textContent = references[j];
+              item.setAttribute('aria-label', 'Referência ' + references[j]);
+              item.addEventListener('click', () => {
+                if (occurrenceSelection) {
+                  occurrenceSelection.hidden = false;
+                  occurrenceSelection.textContent = references[j] + ' — referência selecionada. O texto contextual será incorporado numa etapa editorial posterior.';
+                }
+              });
+              fragment.appendChild(item);
+              if (j < references.length - 1) fragment.appendChild(document.createTextNode('; '));
+            }
+            occurrenceRefs.appendChild(fragment);
+            offset = limit;
+            if (offset < references.length) window.requestAnimationFrame(renderChunk);
+          };
+          renderChunk();
+        } catch (error) {
+          if (thisRequest !== requestSequence) return;
+          occurrenceStatus.hidden = false;
+          occurrenceStatus.textContent = 'A concordância completa ainda não foi gerada para esta versão do rascunho. Execute o gerador de índice local antes do teste de publicação.';
+        }
       });
       const classes: Record<string, string> = {
         hebrew: 'hide-hebrew',
@@ -151,8 +245,15 @@ import { genesis1v1 } from '../data/texto-original/genesis-1-1';
   .lexicon-fields div{display:grid;grid-template-columns:105px minmax(0,1fr);border-bottom:1px solid #e2e2e2;padding:9px 0;gap:9px}
   .lexicon-fields dt{font-weight:700;font-size:13px}.lexicon-fields dd{margin:0;font-size:13px;overflow-wrap:anywhere}
   .lexicon-card p{font-size:14px;line-height:1.7}.lexicon-card h4{font-size:14px;margin:18px 0 4px}
-  .concordance-link{display:inline-block;border:1px solid #1c3554;border-radius:7px;padding:10px 13px;color:#1c3554;text-decoration:none;font-size:13px;font-weight:700}
-  .concordance-link:hover{background:#edf2f8}
+  .concordance-toggle{display:block;width:100%;border:1px solid #1c3554;background:transparent;color:#1c3554;border-radius:7px;padding:11px 13px;font-size:13px;font-weight:700;cursor:pointer;text-align:center}
+  .concordance-toggle:hover,.concordance-toggle:focus-visible{background:#edf2f8}
+  .concordance-panel{margin-top:12px;padding:14px;border-radius:9px;background:#f5f7fa}
+  .concordance-panel[hidden],.concordance-total[hidden],.concordance-selection[hidden]{display:none}
+  .concordance-status,.concordance-total,.concordance-selection{font-size:12px;color:#526074}
+  .concordance-references{font-size:13px;line-height:2.15;overflow-wrap:normal;white-space:normal;direction:ltr;text-align:left}
+  .concordance-reference{display:inline;border:0;padding:2px 0;background:transparent;color:#216091;font:inherit;cursor:pointer;text-decoration:none}
+  .concordance-reference:hover,.concordance-reference:focus-visible{text-decoration:underline;color:#101f35}
+  .concordance-selection{border-top:1px solid #d9e0e8;padding-top:9px;margin-top:12px}
   .translation-panel{border-top:1px solid #e4e0d8;margin-top:22px;padding-top:14px}
   .translation-panel h3{margin:0 0 7px;font:700 11px Inter,Arial,sans-serif;letter-spacing:.06em;color:#647083;text-transform:uppercase}
   .translation-panel p{font:500 21px/1.5 'Source Serif 4',Georgia,serif;margin:0 0 7px;color:#101f35}
