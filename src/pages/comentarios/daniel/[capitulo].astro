@@ -80,7 +80,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
 
       for (const element of blocks) {
         if (element.tagName === 'H4') {
-          const match = element.textContent?.trim().match(/^Daniel\\s+(\\d+):(\\d+)$/i);
+          const match = element.textContent?.trim().match(/^Daniel\s+(\d+):(\d+)$/i);
           if (match && Number(match[1]) === chapter) {
             segment = match[2];
             if (!verses.includes(segment)) verses.push(segment);
@@ -139,7 +139,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/DAN.' + chapter;
           function selectionFromAddress() {
             const hash = window.location.hash;
             if (hash === '#introducao') return 'intro';
-            const match = hash.match(/^#v(\\d+)$/);
+            const match = hash.match(/^#v(\d+)$/);
             return match && verses.includes(match[1]) ? match[1] : 'all';
           }
 
