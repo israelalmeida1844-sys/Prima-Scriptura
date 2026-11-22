@@ -37,6 +37,15 @@ jobs:
           grep -q 'πνεῦμα' dist/comentarios/1-joao/capitulo-5/index.html
           grep -q 'data-verse-browser' dist/comentarios/daniel/capitulo-8/index.html
           grep -q 'data-hebreus-browser' dist/comentarios/hebreus/capitulo-9/index.html
+          # Texto crítico de Hebreus: 13 capítulos e quatro visualizações interlineares
+          node scripts/validar-hebreus-grego.mjs
+          for chapter in {1..13}; do
+            grep -q 'data-original-panel' dist/comentarios/hebreus/capitulo-${chapter}/index.html
+            grep -q 'data-original-tab="transliteracao"' dist/comentarios/hebreus/capitulo-${chapter}/index.html
+            grep -q 'data-original-tab="literal"' dist/comentarios/hebreus/capitulo-${chapter}/index.html
+            grep -q 'data-original-tab="gramatica"' dist/comentarios/hebreus/capitulo-${chapter}/index.html
+            grep -q 'data-greek-data=' dist/comentarios/hebreus/capitulo-${chapter}/index.html
+          done
           grep -q 'data-verse-prev' dist/comentarios/hebreus/capitulo-1/index.html
           grep -q 'data-verse-next' dist/comentarios/hebreus/capitulo-13/index.html
           grep -q 'data-verse-prev' dist/comentarios/1-joao/capitulo-1/index.html
