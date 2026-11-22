@@ -1,15 +1,24 @@
 ---
 /**
- * Primeiro piloto de texto original no Prima Scriptura.
- * 1 João 5:8 — SBLGNT © 2010 SBL / Logos, CC BY 4.0.
- * Traduções, transliterações e análises em português: edição Prima Scriptura.
+ * Interlinear completo dos 105 versículos de 1 João.
+ * SBLGNT CC BY 4.0; MorphGNT CC BY-SA 3.0; glosas auxiliares MACULA CC BY 4.0.
+ * Veja src/data/1-joao-grego/NOTAS-EDITORIAIS.md.
  */
+interface Props { chapter: number; verses: Record<string, string[][]> }
+const {chapter, verses} = Astro.props;
 ---
-<section class="original-panel" data-original-panel data-reference="1jo5:8" hidden aria-labelledby="original-title">
+<section
+  class="original-panel"
+  data-original-panel
+  data-chapter={chapter}
+  data-greek-data={JSON.stringify(verses)}
+  hidden
+  aria-labelledby="original-title"
+>
   <div class="original-head">
     <span class="original-eyebrow">FERRAMENTA DE ESTUDO · GREGO KOINÉ</span>
-    <h2 id="original-title">1 João 5:8 — Texto original</h2>
-    <p>Interlinear palavra por palavra, no mesmo alinhamento horizontal do texto grego.</p>
+    <h2 id="original-title" data-original-title>1 João — Texto original</h2>
+    <p>Interlinear horizontal, palavra por palavra. O texto-base é a edição crítica SBLGNT.</p>
   </div>
 
   <div class="original-tabs" role="group" aria-label="Escolher modo do estudo do texto original">
@@ -20,161 +29,188 @@
   </div>
 
   <div id="original-pane-original" class="original-pane" data-original-view="original">
-    <p class="original-mode">Grego original <span>tradução palavra por palavra abaixo</span></p>
-    <div class="greek-strip" aria-label="1 João 5:8 em grego com tradução alinhada">
-      <div class="greek-token" title="Artigo definido; nominativo neutro singular."><span class="greek" lang="grc">τὸ</span><span class="gloss" lang="pt-BR">o</span></div>
-      <div class="greek-token" title="Substantivo; nominativo neutro singular."><span class="greek" lang="grc">πνεῦμα</span><span class="gloss" lang="pt-BR">Espírito</span></div>
-      <div class="greek-token" title="Conjunção coordenativa aditiva."><span class="greek" lang="grc">καὶ</span><span class="gloss" lang="pt-BR">e</span></div>
-      <div class="greek-token" title="Artigo definido; nominativo neutro singular."><span class="greek" lang="grc">τὸ</span><span class="gloss" lang="pt-BR">a</span></div>
-      <div class="greek-token" title="Substantivo; nominativo neutro singular."><span class="greek" lang="grc">ὕδωρ</span><span class="gloss" lang="pt-BR">água</span></div>
-      <div class="greek-token" title="Conjunção coordenativa aditiva."><span class="greek" lang="grc">καὶ</span><span class="gloss" lang="pt-BR">e</span></div>
-      <div class="greek-token" title="Artigo definido; nominativo neutro singular."><span class="greek" lang="grc">τὸ</span><span class="gloss" lang="pt-BR">o</span></div>
-      <div class="greek-token" title="Substantivo; nominativo neutro singular."><span class="greek" lang="grc">αἷμα,</span><span class="gloss" lang="pt-BR">sangue</span></div>
-      <div class="greek-token" title="Conjunção coordenativa aditiva."><span class="greek" lang="grc">καὶ</span><span class="gloss" lang="pt-BR">e</span></div>
-      <div class="greek-token" title="Artigo definido; nominativo masculino plural."><span class="greek" lang="grc">οἱ</span><span class="gloss" lang="pt-BR">os</span></div>
-      <div class="greek-token" title="Numeral cardinal; nominativo masculino plural."><span class="greek" lang="grc">τρεῖς</span><span class="gloss" lang="pt-BR">três</span></div>
-      <div class="greek-token" title="Preposição com acusativo."><span class="greek" lang="grc">εἰς</span><span class="gloss" lang="pt-BR">para</span></div>
-      <div class="greek-token" title="Artigo definido; acusativo neutro singular."><span class="greek" lang="grc">τὸ</span><span class="gloss" lang="pt-BR">o</span></div>
-      <div class="greek-token" title="Numeral cardinal; acusativo neutro singular."><span class="greek" lang="grc">ἕν</span><span class="gloss" lang="pt-BR">um</span></div>
-      <div class="greek-token" title="Verbo; presente do indicativo ativo, 3.ª pessoa do plural."><span class="greek" lang="grc">εἰσιν.</span><span class="gloss" lang="pt-BR">são</span></div>
-    </div>
+    <p class="original-mode">Texto original <span>grego e glosa em português abaixo de cada palavra</span></p>
+    <div class="greek-strip" data-original-strip="original" lang="grc"></div>
   </div>
-
   <div id="original-pane-transliteracao" class="original-pane" data-original-view="transliteracao" hidden>
-    <p class="original-mode">Transliteração <span>leitura do grego em caracteres latinos, palavra por palavra</span></p>
-    <div class="greek-strip" aria-label="Palavras gregas com transliteração alinhada">
-      <div class="greek-token"><span class="greek" lang="grc">τὸ</span><span class="gloss translit">to</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">πνεῦμα</span><span class="gloss translit">pneuma</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">καὶ</span><span class="gloss translit">kai</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">τὸ</span><span class="gloss translit">to</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">ὕδωρ</span><span class="gloss translit">hydōr</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">καὶ</span><span class="gloss translit">kai</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">τὸ</span><span class="gloss translit">to</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">αἷμα,</span><span class="gloss translit">haima</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">καὶ</span><span class="gloss translit">kai</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">οἱ</span><span class="gloss translit">hoi</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">τρεῖς</span><span class="gloss translit">treis</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">εἰς</span><span class="gloss translit">eis</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">τὸ</span><span class="gloss translit">to</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">ἕν</span><span class="gloss translit">hen</span></div>
-      <div class="greek-token"><span class="greek" lang="grc">εἰσιν.</span><span class="gloss translit">eisin</span></div>
-    </div>
-    <p class="original-remark">A transliteração segue uma convenção acadêmica simplificada: <em>ō</em> representa ômega; <em>h</em> marca aspiração quando pertinente.</p>
+    <p class="original-mode">Transliteração <span>forma grega e sua representação em caracteres latinos</span></p>
+    <div class="greek-strip" data-original-strip="transliteracao"></div>
+    <p class="original-remark">Transliteração acadêmica simplificada: <em>ē</em> = eta e <em>ō</em> = ômega. Não é uma transcrição fonética do grego moderno.</p>
   </div>
-
   <div id="original-pane-literal" class="original-pane" data-original-view="literal" hidden>
-    <p class="original-mode">Tradução literal <span>cada palavra na ordem do texto grego</span></p>
-    <div class="greek-strip" aria-label="Tradução literal interlinear de 1 João 5:8">
-      <div class="greek-token" title="Artigo definido; nominativo neutro singular."><span class="greek" lang="grc">τὸ</span><span class="gloss" lang="pt-BR">o</span></div>
-      <div class="greek-token" title="Substantivo; nominativo neutro singular."><span class="greek" lang="grc">πνεῦμα</span><span class="gloss" lang="pt-BR">Espírito</span></div>
-      <div class="greek-token" title="Conjunção coordenativa aditiva."><span class="greek" lang="grc">καὶ</span><span class="gloss" lang="pt-BR">e</span></div>
-      <div class="greek-token" title="Artigo definido; nominativo neutro singular."><span class="greek" lang="grc">τὸ</span><span class="gloss" lang="pt-BR">a</span></div>
-      <div class="greek-token" title="Substantivo; nominativo neutro singular."><span class="greek" lang="grc">ὕδωρ</span><span class="gloss" lang="pt-BR">água</span></div>
-      <div class="greek-token" title="Conjunção coordenativa aditiva."><span class="greek" lang="grc">καὶ</span><span class="gloss" lang="pt-BR">e</span></div>
-      <div class="greek-token" title="Artigo definido; nominativo neutro singular."><span class="greek" lang="grc">τὸ</span><span class="gloss" lang="pt-BR">o</span></div>
-      <div class="greek-token" title="Substantivo; nominativo neutro singular."><span class="greek" lang="grc">αἷμα,</span><span class="gloss" lang="pt-BR">sangue</span></div>
-      <div class="greek-token" title="Conjunção coordenativa aditiva."><span class="greek" lang="grc">καὶ</span><span class="gloss" lang="pt-BR">e</span></div>
-      <div class="greek-token" title="Artigo definido; nominativo masculino plural."><span class="greek" lang="grc">οἱ</span><span class="gloss" lang="pt-BR">os</span></div>
-      <div class="greek-token" title="Numeral cardinal; nominativo masculino plural."><span class="greek" lang="grc">τρεῖς</span><span class="gloss" lang="pt-BR">três</span></div>
-      <div class="greek-token" title="Preposição com acusativo."><span class="greek" lang="grc">εἰς</span><span class="gloss" lang="pt-BR">para</span></div>
-      <div class="greek-token" title="Artigo definido; acusativo neutro singular."><span class="greek" lang="grc">τὸ</span><span class="gloss" lang="pt-BR">o</span></div>
-      <div class="greek-token" title="Numeral cardinal; acusativo neutro singular."><span class="greek" lang="grc">ἕν</span><span class="gloss" lang="pt-BR">um</span></div>
-      <div class="greek-token" title="Verbo; presente do indicativo ativo, 3.ª pessoa do plural."><span class="greek" lang="grc">εἰσιν.</span><span class="gloss" lang="pt-BR">são</span></div>
-    </div>
-    <p class="original-sentence"><strong>Leitura aproximada em português:</strong> “O Espírito, e a água, e o sangue; e os três convergem para uma só coisa.”</p>
-    <p class="original-remark">A expressão “convergem para uma só coisa” explicita o sentido de <span lang="grc" class="greek-inline">εἰς τὸ ἕν εἰσιν</span>; não é uma equivalência mecânica palavra por palavra.</p>
+    <p class="original-mode">Tradução literal <span>correspondências lexicais na ordem do grego</span></p>
+    <div class="greek-strip" data-original-strip="literal"></div>
+    <p class="original-sentence"><strong>Sequência de glosas (não é tradução fluente):</strong> <span data-original-literal></span></p>
+    <p class="original-remark">A sequência acima não substitui uma tradução contextual. A estrutura sintática, a flexão verbal e as possibilidades lexicais devem ser consideradas no estudo do versículo.</p>
   </div>
-
   <div id="original-pane-gramatica" class="original-pane" data-original-view="gramatica" hidden>
-    <p class="original-mode">Análise gramatical <span>forma, lema e classificação morfológica</span></p>
+    <p class="original-mode">Análise gramatical <span>forma, lema, categoria e morfologia da SBLGNT/MorphGNT</span></p>
     <div class="grammar-scroll">
       <table class="grammar-table">
-        <thead><tr><th>Forma grega</th><th>Lema</th><th>Descrição gramatical</th></tr></thead>
-        <tbody>
-        <tr><td class="greek" lang="grc">τὸ</td><td class="greek lemma" lang="grc">ὁ, ἡ, τό</td><td>Artigo definido; nominativo neutro singular.<small>Determina πνεῦμα (Espírito).</small></td></tr>
-        <tr><td class="greek" lang="grc">πνεῦμα</td><td class="greek lemma" lang="grc">πνεῦμα</td><td>Substantivo; nominativo neutro singular.<small>Primeiro dos três testemunhos enumerados.</small></td></tr>
-        <tr><td class="greek" lang="grc">καὶ</td><td class="greek lemma" lang="grc">καί</td><td>Conjunção coordenativa aditiva.<small>Liga os elementos da enumeração.</small></td></tr>
-        <tr><td class="greek" lang="grc">τὸ</td><td class="greek lemma" lang="grc">ὁ, ἡ, τό</td><td>Artigo definido; nominativo neutro singular.<small>Determina ὕδωρ (água); o gênero da palavra grega é neutro.</small></td></tr>
-        <tr><td class="greek" lang="grc">ὕδωρ</td><td class="greek lemma" lang="grc">ὕδωρ</td><td>Substantivo; nominativo neutro singular.<small>Segundo elemento da enumeração.</small></td></tr>
-        <tr><td class="greek" lang="grc">καὶ</td><td class="greek lemma" lang="grc">καί</td><td>Conjunção coordenativa aditiva.<small>Coordena os testemunhos.</small></td></tr>
-        <tr><td class="greek" lang="grc">τὸ</td><td class="greek lemma" lang="grc">ὁ, ἡ, τό</td><td>Artigo definido; nominativo neutro singular.<small>Determina αἷμα (sangue).</small></td></tr>
-        <tr><td class="greek" lang="grc">αἷμα</td><td class="greek lemma" lang="grc">αἷμα</td><td>Substantivo; nominativo neutro singular.<small>Terceiro elemento da enumeração.</small></td></tr>
-        <tr><td class="greek" lang="grc">καὶ</td><td class="greek lemma" lang="grc">καί</td><td>Conjunção coordenativa aditiva.<small>Une as duas orações.</small></td></tr>
-        <tr><td class="greek" lang="grc">οἱ</td><td class="greek lemma" lang="grc">ὁ, ἡ, τό</td><td>Artigo definido; nominativo masculino plural.<small>Acompanha o numeral τρεῖς, retomando as testemunhas de 5:7.</small></td></tr>
-        <tr><td class="greek" lang="grc">τρεῖς</td><td class="greek lemma" lang="grc">τρεῖς</td><td>Numeral cardinal; nominativo masculino plural.<small>Sujeito da oração: 'os três'.</small></td></tr>
-        <tr><td class="greek" lang="grc">εἰς</td><td class="greek lemma" lang="grc">εἰς</td><td>Preposição com acusativo.<small>Expressa direção, finalidade ou convergência.</small></td></tr>
-        <tr><td class="greek" lang="grc">τὸ</td><td class="greek lemma" lang="grc">ὁ, ἡ, τό</td><td>Artigo definido; acusativo neutro singular.<small>Determina ἕν no complemento da preposição.</small></td></tr>
-        <tr><td class="greek" lang="grc">ἕν</td><td class="greek lemma" lang="grc">εἷς</td><td>Numeral cardinal; acusativo neutro singular.<small>Indica unidade de testemunho ou de finalidade.</small></td></tr>
-        <tr><td class="greek" lang="grc">εἰσιν</td><td class="greek lemma" lang="grc">εἰμί</td><td>Verbo; presente do indicativo ativo, 3.ª pessoa do plural.<small>Forma de εἰμί ('ser/estar').</small></td></tr>
-        </tbody>
+        <thead><tr><th>Nº</th><th>Forma grega</th><th>Lema</th><th>Morfologia</th><th>Glosa</th></tr></thead>
+        <tbody data-original-grammar></tbody>
       </table>
     </div>
-    <p class="original-remark"><strong>Observação:</strong> em <span lang="grc" class="greek-inline">οἱ τρεῖς</span>, o masculino plural retoma os três que dão testemunho (1 João 5:7). Em <span lang="grc" class="greek-inline">εἰς τὸ ἕν</span>, o acusativo neutro singular completa a preposição <span lang="grc" class="greek-inline">εἰς</span>.</p>
+    <p class="original-remark">Os códigos de lematização e morfologia seguem MorphGNT. A análise indica formas gramaticais, não determina isoladamente a função sintática ou a interpretação de cada palavra.</p>
   </div>
 
+  <p class="original-counter" data-original-counter aria-live="polite"></p>
   <div class="original-foot">
-    <p><strong>Base textual:</strong> <a href="https://sblgnt.com/" target="_blank" rel="noopener noreferrer">SBL Greek New Testament (SBLGNT)</a>, © 2010 Society of Biblical Literature e Logos Bible Software, sob <a href="https://sblgnt.com/license/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>. A segmentação, as glosas portuguesas, a transliteração e a análise são adaptações didáticas do Prima Scriptura.</p>
-    <p><strong>Nota textual:</strong> o chamado <em>Comma Joanino</em> não integra o texto grego principal da SBLGNT em 1 João 5:7–8. O texto aqui exibido corresponde à divisão do versículo 8 nessa edição.</p>
+    <p><strong>Texto:</strong> <a href="https://sblgnt.com/" target="_blank" rel="noopener noreferrer">SBL Greek New Testament (SBLGNT)</a> — © 2010 Society of Biblical Literature e Logos Bible Software, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.</p>
+    <p><strong>Lemas e morfologia:</strong> <a href="https://github.com/morphgnt/sblgnt" target="_blank" rel="noopener noreferrer">MorphGNT 6.12</a> (James K. Tauber, ed., 2017), <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a>. Apoio às glosas: <a href="https://github.com/Clear-Bible/macula-greek" target="_blank" rel="noopener noreferrer">MACULA Greek</a> (CC BY 4.0). Glosas portuguesas e transliteração adaptadas pelo Prima Scriptura.</p>
+    <p data-original-text-note hidden><strong>Nota textual (1 João 5:7–8):</strong> o chamado <em>Comma Joanino</em> não consta do texto principal da edição crítica SBLGNT; a disposição dos versículos pode diferir de algumas traduções portuguesas.</p>
   </div>
 </section>
-
 <script>
-  // Controles independentes; a seleção do versículo é feita pela página de 1 João.
-  for (const panel of document.querySelectorAll('[data-original-panel]')) {
-    if (!(panel instanceof HTMLElement)) continue;
-    const tabs = Array.from(panel.querySelectorAll<HTMLButtonElement>('[data-original-tab]'));
-    const views = Array.from(panel.querySelectorAll<HTMLElement>('[data-original-view]'));
-    panel.addEventListener('click', event => {
-      const element = event.target;
-      if (!(element instanceof Element)) return;
-      const button = element.closest('button[data-original-tab]');
-      if (!(button instanceof HTMLButtonElement) || !panel.contains(button)) return;
-      const chosen = button.dataset.originalTab;
-      if (!chosen) return;
-      for (const tab of tabs) {
-        const selected = tab === button;
-        tab.setAttribute('aria-pressed', String(selected));
-        tab.classList.toggle('is-selected', selected);
+  type GreekWord = [string, string, string, string, string, string];
+  type GreekVerseData = Record<string, GreekWord[]>;
+  const partOfSpeech: Record<string,string> = {
+    'A-':'adjetivo / numeral','C-':'conjunção','D-':'advérbio','I-':'interjeição',
+    'N-':'substantivo','P-':'preposição','RA':'artigo definido',
+    'RD':'pronome demonstrativo','RI':'pronome interrogativo / indefinido',
+    'RP':'pronome pessoal / reflexivo','RR':'pronome relativo',
+    'V-':'verbo','X-':'partícula'
+  };
+  const tense:Record<string,string>={P:'presente',I:'imperfeito',F:'futuro',A:'aoristo',X:'perfeito',Y:'mais-que-perfeito'};
+  const voice:Record<string,string>={A:'ativa',M:'média',P:'passiva'};
+  const mood:Record<string,string>={I:'indicativo',D:'imperativo',S:'subjuntivo',O:'optativo',N:'infinitivo',P:'particípio'};
+  const grammaticalCase:Record<string,string>={N:'nominativo',G:'genitivo',D:'dativo',A:'acusativo',V:'vocativo'};
+  const number:Record<string,string>={S:'singular',P:'plural'};
+  const gender:Record<string,string>={M:'masculino',F:'feminino',N:'neutro'};
+  const degree:Record<string,string>={C:'comparativo',S:'superlativo'};
+
+  function explainMorph(pos:string,code:string):string{
+    const c=code.padEnd(8,'-');
+    const details:string[]=[partOfSpeech[pos]||'categoria não identificada'];
+    if(pos==='V-'){
+      if(tense[c[1]])details.push(tense[c[1]]);
+      if(mood[c[3]])details.push(mood[c[3]]);
+      if(voice[c[2]])details.push('voz '+voice[c[2]]);
+      if('123'.includes(c[0]))details.push(c[0]+'ª pessoa');
+    }
+    if(grammaticalCase[c[4]])details.push(grammaticalCase[c[4]]);
+    if(number[c[5]])details.push(number[c[5]]);
+    if(gender[c[6]])details.push(gender[c[6]]);
+    if(degree[c[7]])details.push(degree[c[7]]);
+    return details.join(' · ');
+  }
+  for(const panel of document.querySelectorAll<HTMLElement>('[data-original-panel]')){
+    const chapter=Number(panel.dataset.chapter);
+    let verseData:GreekVerseData={};
+    try{verseData=JSON.parse(panel.dataset.greekData||'{}') as GreekVerseData;}catch{verseData={};}
+    // Os dados já estão incorporados à página estática: não é necessária rede externa.
+    const tabs=Array.from(panel.querySelectorAll<HTMLButtonElement>('[data-original-tab]'));
+    const views=Array.from(panel.querySelectorAll<HTMLElement>('[data-original-view]'));
+    const heading=panel.querySelector('[data-original-title]');
+    const wordCount=panel.querySelector('[data-original-counter]');
+    const textualNote=panel.querySelector('[data-original-text-note]');
+    const literal=panel.querySelector('[data-original-literal]');
+    const tbody=panel.querySelector<HTMLTableSectionElement>('[data-original-grammar]');
+
+    function stripWord(word:GreekWord,mode:'original'|'transliteracao'|'literal'):HTMLDivElement{
+      const token=document.createElement('div');
+      token.className='greek-token';
+      const greek=document.createElement('span');
+      greek.className='greek';
+      greek.lang='grc';
+      greek.textContent=word[0];
+      const gloss=document.createElement('span');
+      gloss.className='gloss'+(mode==='transliteracao'?' translit':'');
+      gloss.lang=mode==='transliteracao'?'en':'pt-BR';
+      gloss.textContent=mode==='transliteracao'?word[5]:word[4];
+      token.append(greek,gloss);
+      token.title=word[1]+' · '+explainMorph(word[2],word[3]);
+      return token;
+    }
+    function renderVerse(v:number){
+      const words=verseData[String(v)];
+      if(!words||!words.length)return;
+      if(heading)heading.textContent='1 João '+chapter+':'+v+' — Texto original';
+      if(wordCount)wordCount.textContent=words.length+' palavra'+(words.length!==1?'s':'')+' · SBLGNT · 1 João '+chapter+':'+v;
+      if(textualNote instanceof HTMLElement)textualNote.hidden=!(chapter===5&&(v===7||v===8));
+      for(const mode of ['original','transliteracao','literal'] as const){
+        const target=panel.querySelector('[data-original-strip="'+mode+'"]');
+        if(target)target.replaceChildren(...words.map(w=>stripWord(w,mode)));
       }
-      for (const view of views) {
-        view.hidden = view.dataset.originalView !== chosen;
+      if(tbody){
+        const fragment=document.createDocumentFragment();
+        words.forEach((word,index)=>{
+          const row=document.createElement('tr');
+          for(const [i,value] of [
+            [0,String(index+1)],[1,word[0]],[2,word[1]],
+            [3,explainMorph(word[2],word[3])],[4,word[4]]
+          ] as [number,string][]){
+            const td=document.createElement('td');
+            if(i===1||i===2){td.className='greek';td.lang='grc';}
+            td.textContent=value;
+            row.append(td);
+          }
+          fragment.append(row);
+        });
+        tbody.replaceChildren(fragment);
       }
+      if(literal){
+        const sequential=words.map(w=>{
+          const token=w[0],mark=token.match(/[,:;.!?··]$/u)?.[0]||'';
+          return w[4].split(';')[0].trim()+mark;
+        }).join(' ');
+        literal.textContent=sequential;
+      }
+    }
+    panel.addEventListener('original-verse-change',()=>{
+      const v=Number(panel.dataset.activeVerse);
+      if(Number.isInteger(v))renderVerse(v);
     });
+    panel.addEventListener('click',event=>{
+      const clicked=event.target;
+      if(!(clicked instanceof Element))return;
+      const button=clicked.closest('button[data-original-tab]');
+      if(!(button instanceof HTMLButtonElement)||!panel.contains(button))return;
+      const mode=button.dataset.originalTab;
+      if(!mode)return;
+      for(const tab of tabs){
+        const active=tab===button;
+        tab.classList.toggle('is-selected',active);
+        tab.setAttribute('aria-pressed',String(active));
+      }
+      for(const view of views)view.hidden=view.dataset.originalView!==mode;
+    });
+    const initial=Number(panel.dataset.activeVerse);
+    if(Number.isInteger(initial)&&initial>0)renderVerse(initial);
   }
 </script>
-
 <style>
-.original-panel{max-width:790px;margin:8px 0 38px;background:#fff;border:1px solid #d6d9d9;border-radius:14px;padding:28px;box-shadow:0 12px 36px #1429420b;scroll-margin-top:24px}
-.original-panel[hidden],.original-pane[hidden]{display:none!important}
+.original-panel{max-width:790px;margin:8px 0 35px;background:#fff;border:1px solid #d6d9dc;border-radius:14px;padding:28px;box-shadow:0 12px 36px #1429420b;scroll-margin-top:24px}
+.original-panel[hidden],.original-pane[hidden],.original-foot p[hidden]{display:none!important}
 .original-eyebrow{font:700 10px/1.5 Inter,Arial,sans-serif;letter-spacing:.15em;color:#98743d}
 .original-head h2{font:700 23px/1.35 'Libre Baskerville',Georgia,serif;color:#17304d;margin:8px 0 9px}
 .original-head p{font:400 13px/1.7 Inter,Arial,sans-serif;color:#607083;margin:0}
 .original-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:25px 0 22px}
 .original-tab{appearance:none;cursor:pointer;border-radius:8px;border:1px solid #c9d4da;color:#244156;background:#f8f9f8;padding:10px 13px;font:600 12px/1.4 Inter,Arial,sans-serif}
 .original-tab:hover{background:#f3ede2;border-color:#b69360}
-.original-tab.is-selected{background:#17304d;color:white;border-color:#17304d}
+.original-tab.is-selected{background:#17304d;color:#fff;border-color:#17304d}
 .original-tab:focus-visible{outline:3px solid #b8935a;outline-offset:3px}
 .original-mode{display:flex;flex-wrap:wrap;column-gap:14px;align-items:baseline;font:700 12px/1.5 Inter,Arial,sans-serif;color:#263e57;margin:0 0 13px}
 .original-mode span{font-weight:400;color:#77828d}
 .greek-strip{display:flex;align-items:stretch;gap:10px;overflow-x:auto;scrollbar-width:thin;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch;padding:8px 2px 18px}
 .greek-token{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;flex:0 0 auto;min-width:66px;min-height:82px;padding:13px 11px;border:1px solid #e2e7e9;border-radius:9px;background:#f7f9fa;gap:8px}
-.greek{font-family:'Times New Roman',Times,serif!important;font-size:26px;line-height:1.3;font-weight:400;font-style:normal;color:#1c324e;white-space:nowrap}
-.greek-token .gloss{font:500 12px/1.5 Inter,Arial,sans-serif;color:#6b7685;white-space:nowrap}
+.greek{font-family:'Times New Roman',Times,serif!important;font-size:26px;line-height:1.35;font-weight:400;font-style:normal;color:#1c324e;white-space:nowrap}
+.greek-token .gloss{font:500 12px/1.55 Inter,Arial,sans-serif;color:#697688;white-space:nowrap}
 .greek-token .translit{font-style:italic;color:#7e6239}
-.greek-inline{font-family:'Times New Roman',Times,serif!important;font-size:1.15em;white-space:nowrap}
 .original-sentence{font:400 16px/1.75 Georgia,serif;background:#f4f0e8;color:#283e4c;padding:16px 18px;border-left:3px solid #b18e56;border-radius:3px;margin:17px 0 12px}
 .original-remark{font:400 12.5px/1.75 Inter,Arial,sans-serif;color:#697586;margin:14px 0 0}
 .grammar-scroll{overflow-x:auto;max-width:100%;border:1px solid #e2e5e7;border-radius:9px}
-.grammar-table{width:100%;border-collapse:collapse;font:400 13px/1.6 Inter,Arial,sans-serif;color:#334a5d;text-align:left}
+.grammar-table{width:100%;border-collapse:collapse;font:400 12.5px/1.6 Inter,Arial,sans-serif;color:#334a5d;text-align:left}
 .grammar-table th{font:700 11px/1.5 Inter,Arial,sans-serif;background:#edf2f5;color:#29465e;padding:12px 13px;white-space:nowrap}
-.grammar-table td{padding:10px 13px;border-top:1px solid #e5e9ed;vertical-align:top}
-.grammar-table td:first-child{min-width:90px}
-.grammar-table td:nth-child(2){min-width:110px}
-.grammar-table td:last-child{min-width:260px}
-.grammar-table td .greek{font-size:22px}
-.grammar-table small{display:block;color:#718092;font-size:11px;margin-top:3px}
-.original-foot{border-top:1px solid #e0e5e8;padding-top:17px;margin-top:24px}
-.original-foot p{font:400 11.5px/1.8 Inter,Arial,sans-serif;color:#75808d;margin:0 0 9px}
+.grammar-table td{padding:11px 12px;border-top:1px solid #e5e9ed;vertical-align:top}
+.grammar-table td:first-child{min-width:42px;text-align:center}
+.grammar-table td:nth-child(2),.grammar-table td:nth-child(3){min-width:85px}
+.grammar-table td:nth-child(4){min-width:245px}
+.grammar-table td:nth-child(5){min-width:100px}
+.grammar-table td.greek{font-size:21px;line-height:1.45}
+.original-counter{font:600 11px/1.6 Inter,Arial,sans-serif;color:#7b8390;margin:17px 0 0}
+.original-foot{border-top:1px solid #e0e5e8;padding-top:17px;margin-top:21px}
+.original-foot p{font:400 11.5px/1.85 Inter,Arial,sans-serif;color:#75808d;margin:0 0 9px}
 .original-foot a{color:#78572d;text-decoration:underline;text-underline-offset:2px}
 @media(max-width:760px){.original-panel{padding:18px 15px}.original-head h2{font-size:20px}.original-tabs{gap:7px}.original-tab{font-size:11px;padding:9px 11px}.greek{font-size:25px}.greek-token{min-width:65px;padding:11px 10px}}
 </style>

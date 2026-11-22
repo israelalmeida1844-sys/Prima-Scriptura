@@ -1,11 +1,13 @@
-## Piloto de Texto Original — 1 João 5:8
+## Texto original completo de 1 João
 
-- **Acesso:** `/comentarios/1-joao/capitulo-5/#v8`; selecione o versículo 8 na navegação horizontal para exibir o painel.
-- **Quatro modos:** Texto original (grego + glosas), Transliteração (grego + transliteração), Tradução literal (interlinear e frase aproximada) e Análise gramatical (formas, lemas e morfologia).
-- **Tipografia grega:** `Times New Roman`, com fontes Times/serif locais como alternativa quando indisponível.
-- **Fonte:** SBL Greek New Testament (SBLGNT), © 2010 Society of Biblical Literature e Logos Bible Software, [CC BY 4.0](https://sblgnt.com/license/). Glosas, tradução e análise portuguesas são adaptações do Prima Scriptura.
-- **Escopo:** neste teste só 1 João 5:8 recebe o conteúdo interlinear. Nenhum outro versículo é apresentado como preenchido sem revisão da fonte.
-- **Componente:** `src/components/OriginalTextInterlinear.astro`, integrado à página de 1 João sem mudar o comentário original.
+- **Cobertura:** 1 João 1:1–5:21 (105 versículos; 2.137 formas gregas).
+- **Acesso:** `/comentarios/1-joao/capitulo-1/#v1` a `/comentarios/1-joao/capitulo-5/#v21`; o painel aparece ao selecionar qualquer versículo.
+- **Quatro modos:** Texto original (grego + glosas em português), Transliteração, Tradução literal (glosas alinhadas) e Análise gramatical (forma, lema e descrição morfológica). Os botões realmente alteram o conteúdo exibido e preservam o modo escolhido ao navegar entre versículos.
+- **Tipografia grega:** `Times New Roman`, com alternativa local Times/serif.
+- **Base crítica:** SBLGNT © 2010 SBL/Logos (CC BY 4.0); lemas e morfologia MorphGNT 6.12 (CC BY-SA 3.0); apoio às glosas MACULA Greek (CC BY 4.0).
+- **Limite editorial:** glosas lexicais são auxiliares didáticos, não tradução contextual concluída; conferir a análise morfológica e o contexto exegético.
+- **Notas editoriais e fontes:** `src/data/1-joao-grego/NOTAS-EDITORIAIS.md`. Os dados JSON ficam em `src/data/1-joao-grego/`; componente de interface em `src/components/OriginalTextInterlinear.astro`.
+- **Validação:** `node scripts/validar-1-joao-grego.mjs` confere todos os 105 versículos e dados.
 
 # Prima Scriptura — Comentários bíblicos
 

@@ -26,12 +26,15 @@ jobs:
             grep -q 'data-book-picker' dist/comentarios/${book}/index.html
           done
           grep -q 'data-joao-browser' dist/comentarios/1-joao/capitulo-1/index.html
-          # Piloto de texto original: apenas 1 João 5:8
-          grep -q 'data-original-panel' dist/comentarios/1-joao/capitulo-5/index.html
-          grep -q 'data-original-tab="transliteracao"' dist/comentarios/1-joao/capitulo-5/index.html
-          grep -q 'data-original-view="gramatica"' dist/comentarios/1-joao/capitulo-5/index.html
+          # Interlinear grego em todos os cinco capítulos de 1 João
+          node scripts/validar-1-joao-grego.mjs
+          for chapter in 1 2 3 4 5; do
+            grep -q 'data-original-panel' dist/comentarios/1-joao/capitulo-${chapter}/index.html
+            grep -q 'data-original-tab="transliteracao"' dist/comentarios/1-joao/capitulo-${chapter}/index.html
+            grep -q 'data-original-view="gramatica"' dist/comentarios/1-joao/capitulo-${chapter}/index.html
+            grep -q 'data-greek-data=' dist/comentarios/1-joao/capitulo-${chapter}/index.html
+          done
           grep -q 'πνεῦμα' dist/comentarios/1-joao/capitulo-5/index.html
-          ! grep -q 'data-original-panel' dist/comentarios/1-joao/capitulo-4/index.html
           grep -q 'data-verse-browser' dist/comentarios/daniel/capitulo-8/index.html
           grep -q 'data-hebreus-browser' dist/comentarios/hebreus/capitulo-9/index.html
           grep -q 'data-verse-prev' dist/comentarios/hebreus/capitulo-1/index.html

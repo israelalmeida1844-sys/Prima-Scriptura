@@ -1,6 +1,11 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import OriginalTextInterlinear from '../../../components/OriginalTextInterlinear.astro';
+import original1 from '../../../data/1-joao-grego/capitulo-1.json';
+import original2 from '../../../data/1-joao-grego/capitulo-2.json';
+import original3 from '../../../data/1-joao-grego/capitulo-3.json';
+import original4 from '../../../data/1-joao-grego/capitulo-4.json';
+import original5 from '../../../data/1-joao-grego/capitulo-5.json';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -14,6 +19,9 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const chapter = entry.data.chapter;
 const verseCount = Number(entry.data.verses.split('–').at(-1));
+const greekByChapter: Record<number,Record<string,string[][]>> = {
+  1:original1, 2:original2, 3:original3, 4:original4, 5:original5
+};
 const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
 ---
 <Base title={'1 João — Capítulo ' + chapter} description={entry.data.description}>
@@ -58,7 +66,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
           <div class="verse-number-grid" data-verse-buttons role="group" aria-label={'Selecionar versículo em 1 João ' + chapter}></div>
           <p class="verse-current" data-verse-status role="status" aria-live="polite"></p>
         </nav>
-        {chapter === 5 && <OriginalTextInterlinear />}
+        <OriginalTextInterlinear chapter={chapter} verses={greekByChapter[chapter]} />
         <div class="prose" id="joao-prose"><Content /></div>
         <nav class="verse-step-navigation" data-verse-step-navigation hidden aria-label="Navegar entre os comentários de 1 João">
           <button type="button" data-verse-prev class="verse-step-button verse-step-prev" aria-label="Voltar ao versículo anterior">
@@ -233,9 +241,15 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
             else status.textContent = '1 João ' + chapter + ':' + v + ' — ' +
               (hasSpecific ? 'comentário específico do versículo.' : 'comentário da passagem que abrange este versículo.');
             updateStepButtons(selection);
-            // Neste primeiro teste, o painel filológico pertence a 1 João 5:8.
+            // Texto grego disponível em todos os versículos de 1 João.
             if (originalPanel instanceof HTMLElement) {
-              originalPanel.hidden = chapter !== 5 || selection !== '8';
+              const selectedVerse = Number(selection);
+              const available = Number.isInteger(selectedVerse) && selectedVerse >= 1 && selectedVerse <= verseCount;
+              originalPanel.hidden = !available;
+              if (available) {
+                originalPanel.dataset.activeVerse = String(selectedVerse);
+                originalPanel.dispatchEvent(new CustomEvent('original-verse-change'));
+              }
             }
             if (changeAddress) {
               const url = new URL(window.location.href);
@@ -243,7 +257,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
               window.history.pushState(null,'',url);
             }
             if (scroll) {
-              const target = selection === '8' && chapter === 5 && originalPanel instanceof HTMLElement
+              const target = selection !== 'all' && selection !== 'intro' && originalPanel instanceof HTMLElement
                 ? originalPanel
                 : selection === 'all' || selection === 'intro'
                   ? browser
@@ -267,7 +281,7 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
           browser.hidden = false;
           const initial = fromAddress();
           displaySelection(initial,false,false);
-          if (initial === '8' && chapter === 5 && originalPanel instanceof HTMLElement) {
+          if (initial !== 'all' && initial !== 'intro' && originalPanel instanceof HTMLElement) {
             window.requestAnimationFrame(() => originalPanel.scrollIntoView({ behavior: 'instant', block: 'start' }));
           }
         }
