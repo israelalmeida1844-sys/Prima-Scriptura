@@ -59,7 +59,11 @@ O texto bíblico hebraico é a referência primária. As obras acima ajudam a or
 - [x] Revisão estrutural de Gênesis 13–20 concluída; relatório em `REVISAO-13-20.md`.
 - [x] Validador do repositório ampliado para Gênesis 4–20.
 - [ ] Conferência acadêmica integral das formas hebraicas de Gênesis 13–20 e testes de build do site.
-- [ ] Prosseguir pelos capítulos 21–50.
+- [x] Primeira redação dos capítulos 21–30 concluída (360 versículos, 190 blocos de comentário, 62 notas).
+- [x] Auditoria estrutural de Gn 21–30 registrada em `REVISAO-21-30.md`.
+- [x] Validador do repositório ampliado para Gn 4–30.
+- [ ] Colação exaustiva das expressões hebraicas e revisão de bibliografia de Gn 21–30.
+- [ ] Prosseguir pelos capítulos 31–50.
 - [ ] Projetar interface hebraica e blocos interativos do site, somente após validar o padrão editorial.
 - [ ] Solicitar aprovação editorial antes de qualquer alteração em `main` ou publicação.
 
@@ -83,3 +87,8 @@ Nove capítulos acrescentados à branch isolada, todos com `draft: true`. As not
 ## Rodada de Gênesis 13–20 (22/11/2026)
 
 Foram adicionados oito arquivos, todos com `draft: true`, contendo comentários de expressões hebraicas, diálogo acadêmico com Doukhan/Andrews/Kidner, referências bíblicas e 55 notas numeradas. A auditoria estrutural independente confirmou 195 versículos cobertos e todas as âncoras de nota íntegros. O relatório [`REVISAO-13-20.md`](REVISAO-13-20.md) registra a metodologia e as verificações pendentes antes de publicação. A branch `main` continua intocada.
+
+
+## Rodada de Gênesis 21–30 (22/11/2026)
+
+Foram registrados dez arquivos novos `genesis-capitulo-21.md` a `genesis-capitulo-30.md`, todos com `draft: true`. Os capítulos abrangem 360 versículos organizados em 190 blocos de expressão hebraica, com 62 notas internas numeradas. Os metadados, títulos de seção, chamadas de nota e presença de links ARA foram checados diretamente na branch, sem lacunas estruturais. O relatório [`REVISAO-21-30.md`](REVISAO-21-30.md) explicita as decisões exegéticas e as verificações acadêmicas e de build pendentes. A branch principal não foi modificada.
