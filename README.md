@@ -38,6 +38,14 @@ Os comentários autorais foram preservados na transferência; as transcrições 
 
 Os cinco capítulos estão armazenados em `src/content/comentarios/` com `draft: false`. As páginas públicas são geradas pela estrutura `src/pages/comentarios/1-joao/`.
 
+## Identidade visual e navegação dos comentários
+
+- Cabeçalhos ilustrados: Daniel idoso na cova dos leões, Cristo sumo sacerdote junto à arca em Hebreus e João escrevendo sua epístola.
+- Imagens otimizadas em `public/images/*-hero.webp`, adaptadas ao desktop e celular.
+- Ao selecionar um cartão de capítulo nos índices de Daniel, 1 João ou Hebreus, os números dos versículos aparecem em uma faixa **horizontal rolável**.
+- Nos capítulos, a faixa horizontal permite selecionar o comentário de um versículo, abrir o capítulo completo ou consultar o contexto.
+- Hebreus e parte de 1 João têm comentários temáticos por passagens; nesses casos, a seleção indica a seção exegética pertinente, sem inventar conteúdo versículo a versículo.
+
 ## Desenvolvimento
 
 Instalar e executar localmente:

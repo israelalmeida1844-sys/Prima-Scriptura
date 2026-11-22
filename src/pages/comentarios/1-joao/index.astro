@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import ChapterVersePicker from '../../../components/ChapterVersePicker.astro';
 const publicEntries = await getCollection('comentarios', ({data}) => !data.draft && data.book === '1 João');
 const chapters = Array.from({ length: 5 }, (_, i) => {
   const number = i + 1;
@@ -13,9 +14,11 @@ const published = chapters.filter(item => item.available).length;
   <section class="section book-project">
     <div class="wrap">
       <nav class="breadcrumbs" aria-label="Caminho de navegação"><a href="/comentarios/">Comentários bíblicos</a><span aria-hidden="true">/</span><span>1 João</span></nav>
+      <div class="book-hero book-hero--john">
       <div class="eyebrow">NOVO TESTAMENTO · COMENTÁRIO BÍBLICO</div>
       <h1>Primeira Epístola de João</h1>
       <p class="intro">Fé, amor e certeza da vida eterna. Uma jornada pelo texto bíblico, com exposição por capítulo, aplicações para a vida e referências para aprofundamento.</p>
+      </div>
       <div class="book-metadata" aria-label="Informações da obra">
         <div><span>Livro bíblico</span><strong>1 João</strong></div>
         <div><span>Capítulos</span><strong>5</strong></div>
@@ -34,6 +37,7 @@ const published = chapters.filter(item => item.available).length;
         <div><div class="eyebrow">ÍNDICE DE LEITURA</div><h2>Escolha um capítulo</h2></div>
         <p>Selecione um capítulo disponível para abrir o comentário completo.</p>
       </div>
+      <ChapterVersePicker bookSlug="1-joao" bookName="1 João" chapters={chapters.filter(c => c.available).map(c => ({ number: c.number, verses: Number(c.entry.data.verses.split('–').at(-1)) }))} />
       <div class="chapter-grid">
         {chapters.map(({number,entry,available}) => available ? (
           <a class="chapter-card available" href={'/comentarios/1-joao/capitulo-' + number + '/'} aria-label={'Ler comentário do capítulo ' + number}>
@@ -102,4 +106,11 @@ const published = chapters.filter(item => item.available).length;
 .preface-card p,.conclusion-card p{font:400 14px/1.7 Inter,sans-serif;color:#647180;max-width:660px;margin:0}
 .preface-link{font:700 13px Inter,sans-serif;color:#946b30;white-space:nowrap;border-bottom:1px solid #b08b54;padding-bottom:5px}
 @media(max-width:760px){.preface-card,.conclusion-card{padding:23px;display:block}.preface-link{display:inline-block;margin-top:20px;white-space:normal}}
+
+.book-hero{min-height:320px;margin:8px 0 38px;padding:47px 48px;display:flex;flex-direction:column;justify-content:center;background:linear-gradient(90deg,rgba(7,22,40,.95) 0%,rgba(11,30,53,.78) 42%,rgba(14,32,53,.05) 88%),url('/images/1-joao-hero.webp') center/cover no-repeat;border-radius:16px;box-shadow:0 16px 45px #11243e25}
+.book-hero .eyebrow{color:#efc991}
+.book-hero h1{color:#fff;margin:15px 0;max-width:650px}
+.book-hero .intro{color:#eaf2f8;max-width:595px;margin:0;font-size:18px;line-height:1.72}
+.book-hero--john{background-image:linear-gradient(90deg,rgba(7,22,40,.08) 0%,rgba(7,22,40,.52) 42%,rgba(7,22,40,.96) 100%),url('/images/1-joao-hero.webp');align-items:flex-end;text-align:right}.book-hero--john h1,.book-hero--john .intro{max-width:60%;align-self:flex-end}
+@media(max-width:760px){.book-hero{min-height:285px;padding:25px 23px;border-radius:12px}.book-hero h1{font-size:clamp(30px,7vw,43px)}.book-hero .intro{font-size:16px;line-height:1.62}.book-hero--john h1,.book-hero--john .intro{max-width:73%}.book-hero--john{background-position:35% center}}
 </style>

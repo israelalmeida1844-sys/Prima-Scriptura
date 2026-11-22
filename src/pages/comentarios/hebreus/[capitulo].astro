@@ -211,4 +211,13 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/HEB.' + chapter;
 :global(.reading-content .prose > [hidden]){display:none!important}
 @media(max-width:760px){.verse-browser{padding:18px 16px}.verse-browser-top{display:block}.verse-view-controls{margin-top:14px;justify-content:flex-start}.verse-number-grid{grid-template-columns:repeat(auto-fill,minmax(38px,1fr))}.verse-number{min-height:41px}}
 
+
+.reading-head{max-width:900px;min-height:263px;background-image:linear-gradient(90deg,rgba(9,24,44,.96),rgba(9,24,44,.72) 50%,rgba(9,24,44,.04) 100%),url('/images/hebreus-hero.webp');background-size:cover;background-position:center center;display:flex;flex-direction:column;justify-content:center;margin:0 auto 34px;padding:30px 39px;border-radius:14px;box-shadow:0 14px 37px #10264224;}
+.reading-head .eyebrow{color:#e7c58d}
+.reading-head .chapter-index{color:#e9c58e;margin:14px 0 9px}
+.reading-head h1{color:#fff;}
+.reading-head .reading-description{color:#eaf2f8;font-size:18px}
+.verse-number-grid{display:flex;flex-wrap:nowrap;overflow-x:auto;gap:8px;padding:5px 2px 13px;scrollbar-width:thin;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain;max-width:100%}
+.verse-number{flex:0 0 44px;min-width:44px;min-height:44px}
+@media(max-width:760px){.reading-head{min-height:240px;padding:24px 21px}.reading-head h1{font-size:clamp(29px,7vw,38px)}.reading-head .reading-description{font-size:16px;line-height:1.5}.verse-number{flex-basis:42px;min-width:42px}}
 </style>

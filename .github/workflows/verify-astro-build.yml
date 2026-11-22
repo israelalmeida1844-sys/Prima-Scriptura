@@ -21,6 +21,13 @@ jobs:
         run: |
           npm run build
           test -f dist/index.html
+          for book in daniel hebreus 1-joao; do
+            test -f dist/images/${book}-hero.webp
+            grep -q 'data-book-picker' dist/comentarios/${book}/index.html
+          done
+          grep -q 'data-joao-browser' dist/comentarios/1-joao/capitulo-1/index.html
+          grep -q 'data-verse-browser' dist/comentarios/daniel/capitulo-8/index.html
+          grep -q 'data-hebreus-browser' dist/comentarios/hebreus/capitulo-9/index.html
           test -f dist/comentarios/daniel/index.html
           test -f dist/comentarios/daniel/capitulo-1/index.html
           test -f dist/comentarios/daniel/capitulo-2/index.html

@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import ChapterVersePicker from '../../../components/ChapterVersePicker.astro';
 const publicEntries = await getCollection('comentarios', ({data}) => !data.draft && data.book === 'Daniel');
 const chapterTitles = [
   'A prova de fidelidade na corte de Babilônia',
@@ -27,9 +28,11 @@ const availableCount = chapters.filter(item => item.available).length;
   <section class="section daniel-project">
     <div class="wrap">
       <nav class="crumbs" aria-label="Navegação"><a href="/comentarios/">Comentários bíblicos</a><span>/</span><span>Daniel</span></nav>
+      <div class="book-hero ">
       <div class="eyebrow">ANTIGO TESTAMENTO · PROFECIA E HISTÓRIA</div>
       <h1>Comentário Bíblico de Daniel</h1>
       <p class="subtitle">Análise exegética, histórica e teológica, capítulo por capítulo, na perspectiva historicista adventista do sétimo dia.</p>
+      </div>
       <div class="metadata">
         <div><small>LIVRO</small><strong>Daniel</strong></div>
         <div><small>TESTAMENTO</small><strong>Antigo</strong></div>
@@ -41,6 +44,7 @@ const availableCount = chapters.filter(item => item.available).length;
         <div><div class="eyebrow">ÍNDICE DO LIVRO</div><h2>Escolha um capítulo</h2></div>
         <p>Os capítulos publicados podem ser abertos para leitura completa. Os 12 capítulos estão disponíveis para leitura completa. Os capítulos 7, 8, 9 e 12 incluem diagramas sobre as profecias de tempo.</p>
       </div>
+      <ChapterVersePicker bookSlug="daniel" bookName="Daniel" chapters={chapters.filter(c => c.available).map(c => ({ number: c.number, verses: Number(c.entry.data.verses.split('–').at(-1)) }))} />
       <div class="chapters">
         {chapters.map(({number,label,entry,available}) => available ? (
           <a class="chapter available" href={'/comentarios/daniel/capitulo-' + number + '/'} aria-label={'Abrir comentário de Daniel capítulo ' + number}>
@@ -92,4 +96,11 @@ const availableCount = chapters.filter(item => item.available).length;
 .ara-notice{margin-top:42px;padding-top:27px;border-top:1px solid #e5dac8;font:400 13px/1.7 Inter,sans-serif;color:#71808e}
 .ara-notice a{color:#936b34;text-decoration:underline;text-underline-offset:3px}
 @media(max-width:760px){.daniel-project{padding:30px 0 70px}.crumbs{margin-bottom:36px}.metadata{grid-template-columns:repeat(2,1fr);padding:20px}.metadata>div{padding:0;border:0}.section-heading{display:block}.section-heading p{max-width:none}.chapter{min-height:265px}}
+
+.book-hero{min-height:320px;margin:8px 0 38px;padding:47px 48px;display:flex;flex-direction:column;justify-content:center;background:linear-gradient(90deg,rgba(7,22,40,.95) 0%,rgba(11,30,53,.78) 42%,rgba(14,32,53,.05) 88%),url('/images/daniel-hero.webp') center/cover no-repeat;border-radius:16px;box-shadow:0 16px 45px #11243e25}
+.book-hero .eyebrow{color:#efc991}
+.book-hero h1{color:#fff;margin:15px 0;max-width:650px}
+.book-hero .subtitle{color:#eaf2f8;max-width:595px;margin:0;font-size:18px;line-height:1.72}
+
+@media(max-width:760px){.book-hero{min-height:285px;padding:25px 23px;border-radius:12px}.book-hero h1{font-size:clamp(30px,7vw,43px)}.book-hero .subtitle{font-size:16px;line-height:1.62}}
 </style>
