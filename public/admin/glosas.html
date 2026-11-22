@@ -14,7 +14,7 @@
 <main>
 <h1>Editor de glosas gregas</h1>
 <p class="muted">Edição palavra por palavra, com histórico de alterações no GitHub e preservação do texto crítico.</p>
-<div class="notice">A edição altera <strong>apenas a glosa portuguesa</strong>. O texto grego, o lema, a morfologia e a transliteração permanecem intactos. As alterações não são públicas até serem salvas e publicadas pelo site.</div>
+<div class="notice">As glosas são salvas na <strong>área de rascunhos</strong>, separada do site público. Você pode acumular quantas correções desejar e publicá-las juntas apenas quando clicar em <strong>Publicar alterações</strong>. O texto grego, o lema e a morfologia são preservados.</div>
 <div class="grid">
 <aside class="panel">
 <h2>1. Autenticação</h2>
@@ -28,7 +28,7 @@
 <div class="control"><label for="verse">Versículo</label><select id="verse"></select></div>
 <div class="control"><label for="filter">Filtrar palavra ou glosa</label><input id="filter" placeholder="Ex.: ἀγάπη ou amor" autocomplete="off"></div>
 <button id="load" type="button">Recarregar capítulo</button>
-<div id="status" class="status" role="status" aria-live="polite">Faça login para iniciar.</div>
+<div id="status" class="status" role="status" aria-live="polite">Faça login para iniciar.</div><hr style="border:0;border-top:1px solid #e1e6e9;margin:22px 0"><h2>Publicação sob seu controle</h2><p id="draft-summary" class="hint muted">Entre para consultar as alterações em rascunho.</p><div class="row"><button id="refresh-drafts" type="button">Consultar pendências</button><button id="publish" class="primary" type="button" disabled>Publicar alterações</button></div><p class="hint muted">O botão de publicação reúne as alterações na ramificação principal. Confira as pendências antes de publicar.</p>
 </aside>
 <section class="panel">
 <h2>3. Selecione a palavra</h2>
@@ -47,8 +47,8 @@
 <div class="control"><label>Morfologia</label><div id="morph" class="mono"></div></div>
 </div>
 <div class="control"><label for="reason">Justificativa para o histórico de edição</label><input id="reason" placeholder="Ex.: adequação ao contexto de Hb 7:25" maxlength="180"></div>
-<div class="row"><button id="save" type="button" class="primary">Salvar no GitHub</button><button id="reset" type="button">Desfazer edição</button></div>
-<p class="hint muted">Ao salvar, será criado um commit no repositório. Se outro editor tiver alterado o arquivo, a gravação será bloqueada para evitar perda de dados.</p>
+<div class="row"><button id="save" type="button" class="primary">Salvar rascunho</button><button id="reset" type="button">Desfazer edição</button></div>
+<p class="hint muted">Salvar rascunho não envia alterações para a versão pública. O GitHub mantém o histórico; conflitos de edição bloqueiam a gravação.</p>
 </div>
 </div>
 </div>
@@ -62,14 +62,60 @@
   const REPO='israelalmeida1844-sys/Prima-Scriptura';
   const OAUTH='https://prima-scriptura-auth.israelalmeida1844.workers.dev';
   const ALLOWED_LOGIN='israelalmeida1844-sys';
+  const DRAFT_BRANCH='rascunhos-glosas';
   const LENGTHS={hebreus:[14,18,19,16,14,20,28,13,28,39,40,29,25],'1-joao':[10,29,24,21,21]};
   const el=id=>document.getElementById(id);
-  let token=null,username=null,sha=null,chapterData=null,chosen=null,loading=false;
+  let token=null,username=null,sha=null,chapterData=null,chosen=null,loading=false,draftExists=false,publishable=false;
   const words=el('words'),book=el('book'),chapter=el('chapter'),verse=el('verse'),gloss=el('gloss');
   const status=(msg,kind='')=>{const node=el('status');node.textContent=msg;node.className='status '+kind;};
   const path=()=> 'src/data/'+(book.value==='hebreus'?'hebreus-grego':'1-joao-grego')+'/capitulo-'+chapter.value+'.json';
   const reference=()=> (book.value==='hebreus'?'Hebreus':'1 João')+' '+chapter.value+':'+verse.value;
   const esc=(str)=>String(str||'').trim();
+  const gitUrl=(suffix)=>'https://api.github.com/repos/'+REPO+'/'+suffix;
+  async function checkDraft(){
+    if(!token)return false;
+    const res=await fetch(gitUrl('git/ref/heads/'+DRAFT_BRANCH),{headers:{Accept:'application/vnd.github+json',Authorization:'Bearer '+token,'X-GitHub-Api-Version':'2022-11-28'},cache:'no-store'});
+    if(res.status===404){draftExists=false;return false;}
+    if(!res.ok)throw Error('Não foi possível consultar a ramificação de rascunhos (HTTP '+res.status+').');
+    draftExists=true;return true;
+  }
+  async function ensureDraft(){
+    if(await checkDraft())return;
+    const base=await api(gitUrl('git/ref/heads/main'));
+    try{
+      await api(gitUrl('git/refs'),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ref:'refs/heads/'+DRAFT_BRANCH,sha:base.object.sha})});
+    }catch(e){if(!await checkDraft())throw e;}
+    draftExists=true;
+  }
+  async function refreshDrafts(){
+    if(!token){el('draft-summary').textContent='Entre para consultar as alterações.';el('publish').disabled=true;return;}
+    el('publish').disabled=true;
+    try{
+      if(!await checkDraft()){el('draft-summary').textContent='Nenhuma alteração em rascunho.';publishable=false;return;}
+      const diff=await api(gitUrl('compare/main...'+DRAFT_BRANCH));
+      const changed=(diff.files||[]).filter(file=>file.status!=='removed');
+      const permitted=changed.every(file=>/^src\/data\/(hebreus-grego|1-joao-grego)\/capitulo-\d+\.json$/.test(file.filename));
+      const count=changed.length;
+      publishable=!!diff.ahead_by && count>0 && permitted && !(diff.files||[]).some(file=>file.status==='removed');
+      el('draft-summary').textContent=count?count+' arquivo(s) com glosas modificadas em rascunho'+(diff.behind_by?' (a base pública avançou desde o início da revisão)':'')+(permitted?'':'. Atenção: mudanças não permitidas na ramificação!')+'.': 'Nenhuma glosa pendente de publicação.';
+      el('publish').disabled=!publishable;
+    }catch(e){publishable=false;el('draft-summary').textContent='Falha ao consultar rascunhos: '+e.message;}
+  }
+  async function publishDrafts(){
+    if(!token||!publishable)return;
+    const diff=await api(gitUrl('compare/main...'+DRAFT_BRANCH));
+    const files=diff.files||[];
+    if(!diff.ahead_by||!files.length||files.some(f=>f.status==='removed'||!/^src\/data\/(hebreus-grego|1-joao-grego)\/capitulo-\d+\.json$/.test(f.filename))){status('Publicação bloqueada: alterações inesperadas no rascunho.','error');await refreshDrafts();return;}
+    const names=files.map(f=>f.filename).join('\n');
+    if(!confirm('PUBLICAR agora as glosas?\n\n'+files.length+' capítulo(s) alterado(s):\n'+names+'\n\nIsso atualiza o ramo main e pode iniciar uma compilação.'))return;
+    el('publish').disabled=true;status('Publicando alterações reunidas...');
+    try{
+      const merged=await api(gitUrl('merges'),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({base:'main',head:DRAFT_BRANCH,commit_message:'Publicar revisão acumulada das glosas gregas'})});
+      // A sincronização da ramificação secundária evita reintroduzir revisões já publicadas.
+      if(merged.sha){try{await api(gitUrl('git/refs/heads/'+DRAFT_BRANCH),{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({sha:merged.sha,force:false})});}catch{ /* A revisão já foi publicada: manter confirmação sem ocultar o merge. */ }}
+      await refreshDrafts();status('Revisões publicadas no GitHub. A hospedagem pode iniciar uma compilação.','ok');
+    }catch(e){status('Publicação não concluída: '+e.message+'. Confira as pendências antes de repetir.','error');await refreshDrafts();}
+  }
   function fillSelect(node,n){node.replaceChildren(...Array.from({length:n},(_,i)=>{const option=document.createElement('option');option.value=String(i+1);option.textContent=String(i+1);return option;}));}
   function fillChapters(){fillSelect(chapter,LENGTHS[book.value].length);fillVerses();}
   function fillVerses(){fillSelect(verse,LENGTHS[book.value][Number(chapter.value)-1]);}
@@ -112,7 +158,8 @@
     revokeView();if(!token){status('Conecte-se para visualizar as glosas.');return;}
     loading=true;el('load').disabled=true;status('Carregando '+(book.value==='hebreus'?'Hebreus ':'1 João ')+chapter.value+'...');
     try{
-      const file=await api('https://api.github.com/repos/'+REPO+'/contents/'+path()+'?ref=main');
+      const existing=await checkDraft();
+      const file=await api(gitUrl('contents/'+path()+'?ref='+(existing?DRAFT_BRANCH:'main')));
       if(!file.sha||file.encoding!=='base64')throw Error('Formato inesperado no arquivo.');
       const parsed=JSON.parse(decode64(file.content));
       const length=LENGTHS[book.value][Number(chapter.value)-1];
@@ -127,19 +174,20 @@
     const val=esc(gloss.value);
     if(!val||val.length>600){status('Informe uma glosa entre 1 e 600 caracteres.','error');return;}
     if(val===chosen.original){status('Nenhuma alteração a salvar.');return;}
-    if(!confirm('Confirmar alteração em '+reference()+'?\n\n'+chosen.original+' → '+val+'\n\nEsta ação será registrada no GitHub.'))return;
+    if(!confirm('Salvar RASCUNHO em '+reference()+'?\n\n'+chosen.original+' → '+val+'\n\nIsso NÃO publica o site.'))return;
     const reason=esc(el('reason').value)||'correção lexical manual';
     const list=chapterData[verse.value],entry=list[chosen.index];
     if(!entry||entry[4]!==chosen.original){status('O item foi alterado. Recarregue o capítulo.','error');return;}
-    el('save').disabled=true;status('Salvando no GitHub...');
+    el('save').disabled=true;status('Salvando rascunho sem publicar...');
     const p=path();const previous=entry[4];const savedIndex=chosen.index;entry[4]=val;
     try{
-      const payload={message:'Revisar glosa em '+reference()+': '+reason,content:encode64(JSON.stringify(chapterData)),sha,branch:'main'};
+      await ensureDraft();
+      const payload={message:'Rascunho de glosa em '+reference()+': '+reason,content:encode64(JSON.stringify(chapterData)),sha,branch:DRAFT_BRANCH};
       const result=await api('https://api.github.com/repos/'+REPO+'/contents/'+p,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
       if(!result.content?.sha)throw Error('GitHub não confirmou a versão do arquivo.');
       sha=result.content.sha;
       renderWords();selectWord(savedIndex);
-      status('Glosa salva com sucesso no GitHub. A publicação depende da compilação do site.','ok');
+      status('Rascunho salvo com sucesso. O site público não foi alterado.','ok');await refreshDrafts();
     }catch(err){entry[4]=previous;status('Não foi possível salvar: '+(err.message||err),'error');}
     finally{el('save').disabled=false;}
   }
@@ -169,14 +217,16 @@
         token=payload.token;
         const user=await api('https://api.github.com/user');
         if(user.login!==ALLOWED_LOGIN){token=null;throw Error('Sua conta GitHub não está autorizada para editar este repositório.');}
-        username=user.login;updateLogin();status('Login realizado. Carregando capítulo...','ok');await loadChapter();
+        username=user.login;updateLogin();status('Login realizado. Carregando rascunhos...','ok');await loadChapter();await refreshDrafts();
       }catch(err){token=null;username=null;updateLogin();status(err.message||'Falha no login.','error');}
       finally{try{popup.close();}catch{}}
     };
     window.addEventListener('message',receive);
   }
   el('login').addEventListener('click',login);
-  el('logout').addEventListener('click',()=>{token=null;username=null;revokeView();updateLogin();status('Sessão encerrada.');});
+  el('logout').addEventListener('click',()=>{token=null;username=null;revokeView();updateLogin();refreshDrafts();status('Sessão encerrada.');});
+  el('publish').addEventListener('click',publishDrafts);
+  el('refresh-drafts').addEventListener('click',refreshDrafts);
   book.addEventListener('change',()=>{fillChapters();loadChapter();});
   chapter.addEventListener('change',()=>{fillVerses();loadChapter();});
   verse.addEventListener('change',renderWords);
