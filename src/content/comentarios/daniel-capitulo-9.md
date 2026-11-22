@@ -157,11 +157,11 @@ Gabriel revela a Daniel um segredo confortador do governo divino: não foi neces
 
 #### Daniel 9:24
 
-Imediatamente após ordenar a Daniel que compreendesse a visão das 2.300 tardes e manhãs (v. 23), Gabriel inicia no versículo 24 com uma expressão puramente cronológica: Setenta semanas estão determinadas sobre o seu povo e sobre a sua santa cidade. A análise filológica e teológica deste versículo monumental estabelece três pilares fundamentais da interpretação bíblica historicista.
-
 ![Cronologia das setenta semanas](/diagramas/daniel-9-profecias-tempo.svg)
 
 *Daniel 9:24–27 — cronologia das 70 semanas: 457 a.C., 27, 31 e 34 d.C., segundo a interpretação historicista adventista.*
+
+Imediatamente após ordenar a Daniel que compreendesse a visão das 2.300 tardes e manhãs (v. 23), Gabriel inicia no versículo 24 com uma expressão puramente cronológica: Setenta semanas estão determinadas sobre o seu povo e sobre a sua santa cidade. A análise filológica e teológica deste versículo monumental estabelece três pilares fundamentais da interpretação bíblica historicista.
 
 Em primeiro lugar, o significado de setenta semanas: no original hebraico, o substantivo traduzido por semanas significa literalmente unidades de sete ou septênios (setenta setes), que no contexto imediatamente antecedente de anos em Daniel 9:2 (setenta anos) e na legislação sabática e jubilar de Levítico 25:8 (sete semanas de anos, sete vezes sete anos) designam setenta semanas de anos, equivalentes a 490 anos literais (70 vezes 7 = 490 dias proféticos que, pelo princípio bíblico de um dia por um ano de Números 14:34 e Ezequiel 4:6, correspondem a 490 anos solares reais). Como observam Jacques B. Doukhan (Segredos de Daniel, 2007, p. 139–145) e Richard M. Davidson (A Song for the Sanctuary, 2022, Cap. 22), 490 anos correspondem exatamente a dez ciclos jubilares de 49 anos (10 vezes 49 = 490), apontando para o Grande Jubileu Messiânico em que o Ungido do Senhor proclamaria a libertação definitiva da escravidão do pecado (Is 61:1–2; Lc 4:18–21).
 
