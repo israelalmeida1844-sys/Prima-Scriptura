@@ -1,5 +1,5 @@
 /**
- * Gera arquivos locais de concordância para os lemas presentes em Gênesis 1:1.
+ * Gera arquivos locais de concordância para os lemas presentes em Gênesis 1:1–2.
  *
  * Fonte: Open Scriptures Hebrew Bible (OSHB), https://github.com/openscriptures/morphhb
  * Texto WLC: domínio público. Lemas/morfologia OSHB: CC BY 4.0.
@@ -24,13 +24,13 @@ const BOOKS = [
   ['Hab','Hc'],['Zeph','Sf'],['Hag','Ag'],['Zech','Zc'],['Mal','Ml']
 ];
 
-const TARGETS = ['H7225','H1254','H430','H853','H8064','H776'];
+const TARGETS = ["H7225","H1254","H430","H853","H8064","H776","H1961","H8414","H922","H2822","H5921","H6440","H8415","H7307","H7363","H4325"];
 const TAG = 'v.2.2'; // Versão fixa, para reprodução das contagens
 const ORIGIN = 'https://raw.githubusercontent.com/openscriptures/morphhb/' + TAG + '/wlc/';
 const OUTPUT_DIR = resolve('public/data/concordancia-hebraica');
 const AUTHOR_CREDIT = 'Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb';
 const force = process.argv.includes('--force');
-const manifestPath = resolve(OUTPUT_DIR, 'genesis-1-1-manifest.json');
+const manifestPath = resolve(OUTPUT_DIR, 'genesis-1-1-2-manifest.json');
 
 async function fetchSource(book) {
   const url = ORIGIN + book + '.xml';
@@ -107,10 +107,19 @@ async function main() {
     console.log(book + ': ' + totals[book] + ' versículos indexados');
   }
   // Validações do próprio versículo piloto e da cobertura dos 39 livros.
-  const gen11 = 'Gn 1:1';
+  const expectedByVerse = new Map([
+    ['Gn 1:1', ['H7225','H1254','H430','H853','H8064','H776']],
+    ['Gn 1:2', ['H776','H1961','H8414','H922','H2822','H5921','H6440','H8415','H7307','H430','H7363','H4325']]
+  ]);
+  for (const [verse, strongs] of expectedByVerse) {
+    for (const key of strongs) {
+      if (!output[key].references.includes(verse)) {
+        throw new Error(key + ': ' + verse + ' não encontrado na base OSHB');
+      }
+    }
+  }
   for (const key of TARGETS) {
     const item = output[key];
-    if (!item.references.includes(gen11)) throw new Error(key + ': Gn 1:1 não encontrado');
     if (item.references.length > item.tokenCount) throw new Error(key + ': contagem inconsistente');
   }
   if (Object.keys(totals).length !== 39) throw new Error('Corpus bíblico incompleto');
