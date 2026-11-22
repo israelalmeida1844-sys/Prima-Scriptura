@@ -28,6 +28,10 @@ jobs:
           grep -q 'data-joao-browser' dist/comentarios/1-joao/capitulo-1/index.html
           grep -q 'data-verse-browser' dist/comentarios/daniel/capitulo-8/index.html
           grep -q 'data-hebreus-browser' dist/comentarios/hebreus/capitulo-9/index.html
+          grep -q 'data-verse-prev' dist/comentarios/hebreus/capitulo-1/index.html
+          grep -q 'data-verse-next' dist/comentarios/hebreus/capitulo-13/index.html
+          grep -q 'data-verse-prev' dist/comentarios/1-joao/capitulo-1/index.html
+          grep -q 'data-verse-next' dist/comentarios/1-joao/capitulo-5/index.html
           test -f dist/comentarios/daniel/index.html
           test -f dist/comentarios/daniel/capitulo-1/index.html
           test -f dist/comentarios/daniel/capitulo-2/index.html

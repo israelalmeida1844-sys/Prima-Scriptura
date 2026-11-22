@@ -58,6 +58,16 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
           <p class="verse-current" data-verse-status role="status" aria-live="polite"></p>
         </nav>
         <div class="prose" id="joao-prose"><Content /></div>
+        <nav class="verse-step-navigation" data-verse-step-navigation hidden aria-label="Navegar entre os comentários de 1 João">
+          <button type="button" data-verse-prev class="verse-step-button verse-step-prev" aria-label="Voltar ao versículo anterior">
+            <span class="verse-step-arrow" aria-hidden="true">←</span>
+            <span class="verse-step-text"><small>VOLTAR</small><strong data-verse-prev-label>Versículo anterior</strong></span>
+          </button>
+          <button type="button" data-verse-next class="verse-step-button verse-step-next" aria-label="Avançar ao próximo versículo">
+            <span class="verse-step-text"><small>AVANÇAR</small><strong data-verse-next-label>Próximo versículo</strong></span>
+            <span class="verse-step-arrow" aria-hidden="true">→</span>
+          </button>
+        </nav>
       </article>
       <div class="next-reading">
         <div><span>CONTINUE A LEITURA</span><strong>Explore os capítulos de 1 João</strong></div>
@@ -125,6 +135,64 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
             grid.append(button);
             buttons.push(button);
           }
+
+          const stepNavigation = browser.closest('article')?.querySelector('[data-verse-step-navigation]');
+          const previousButton = stepNavigation?.querySelector('[data-verse-prev]');
+          const nextButton = stepNavigation?.querySelector('[data-verse-next]');
+          const chapterLengths = [10,29,24,21,21];
+          const bookSlug = '1-joao';
+
+          function updateStepButtons(selection: string) {
+            if (!(stepNavigation instanceof HTMLElement)) return;
+            const number = Number(selection);
+            const selected = Number.isInteger(number) && number >= 1 && number <= chapterLengths[chapter - 1];
+            stepNavigation.hidden = !selected;
+            if (!selected) return;
+
+            const previous = number > 1
+              ? { chapter, verse: number - 1 }
+              : chapter > 1 ? { chapter: chapter - 1, verse: chapterLengths[chapter - 2] } : null;
+            const next = number < chapterLengths[chapter - 1]
+              ? { chapter, verse: number + 1 }
+              : chapter < chapterLengths.length ? { chapter: chapter + 1, verse: 1 } : null;
+
+            const update = (button: Element | null | undefined, destination: { chapter: number; verse: number } | null) => {
+              if (!(button instanceof HTMLButtonElement)) return;
+              button.disabled = !destination;
+              button.dataset.targetChapter = destination ? String(destination.chapter) : '';
+              button.dataset.targetVerse = destination ? String(destination.verse) : '';
+              const back = button.hasAttribute('data-verse-prev');
+              button.setAttribute('aria-label', destination
+                ? (back ? 'Voltar para ' : 'Avançar para ') + '1 João ' + destination.chapter + ':' + destination.verse
+                : (back ? 'Início' : 'Fim') + ' do livro de 1 João');
+              const label = button.querySelector('[data-verse-prev-label], [data-verse-next-label]');
+              if (label) label.textContent = destination
+                ? '1 João ' + destination.chapter + ':' + destination.verse
+                : back ? 'Início do livro' : 'Fim do livro';
+            };
+            update(previousButton, previous);
+            update(nextButton, next);
+          }
+
+          if (stepNavigation instanceof HTMLElement) {
+            stepNavigation.addEventListener('click', event => {
+              const clicked = event.target;
+              if (!(clicked instanceof Element)) return;
+              const button = clicked.closest('button[data-verse-prev],button[data-verse-next]');
+              if (!(button instanceof HTMLButtonElement) || button.disabled) return;
+              const destinationChapter = Number(button.dataset.targetChapter);
+              const destinationVerse = Number(button.dataset.targetVerse);
+              if (!Number.isInteger(destinationChapter) || !Number.isInteger(destinationVerse) ||
+                  destinationChapter < 1 || destinationChapter > chapterLengths.length ||
+                  destinationVerse < 1 || destinationVerse > chapterLengths[destinationChapter - 1]) return;
+              if (destinationChapter === chapter) {
+                displaySelection(String(destinationVerse));
+              } else {
+                window.location.assign('/comentarios/' + bookSlug + '/capitulo-' + destinationChapter + '/#v' + destinationVerse);
+              }
+            });
+          }
+
           const findGroup = (v: number) => ranges.findIndex(r => v >= r[0] && v <= r[1]);
           const detailMatches = (element: Element, v: number) => {
             const match = (element.getAttribute('data-detail-range') || '').split(':').map(Number);
@@ -161,12 +229,22 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
             else if (selection === 'intro') status.textContent = 'Exibindo o contexto do capítulo.';
             else status.textContent = '1 João ' + chapter + ':' + v + ' — ' +
               (hasSpecific ? 'comentário específico do versículo.' : 'comentário da passagem que abrange este versículo.');
+            updateStepButtons(selection);
             if (changeAddress) {
               const url = new URL(window.location.href);
               url.hash = selection === 'all' ? '' : selection === 'intro' ? 'introducao' : 'v' + selection;
               window.history.pushState(null,'',url);
             }
-            if (scroll) browser.scrollIntoView({behavior:'smooth',block:'start'});
+            if (scroll) {
+              const target = selection === 'all' || selection === 'intro'
+                ? browser
+                : blocks.find(el => el.tagName === 'H3' &&
+                    Number(el.getAttribute('data-joao-group')) === g &&
+                    el.getAttribute('data-joao-kind') === 'detail' && detailMatches(el, v))
+                  ?? blocks.find(el => el.tagName === 'H2' && Number(el.getAttribute('data-joao-group')) === g)
+                  ?? browser;
+              window.requestAnimationFrame(() => target.scrollIntoView({ behavior: 'smooth', block: 'start' }));
+            }
           }
           browser.addEventListener('click', event => {
             const target = event.target;
@@ -235,4 +313,17 @@ const araUrl = 'https://www.sbb.org.br/biblia/ARA/1JN.' + chapter;
 .verse-number{flex:0 0 44px;min-width:44px;min-height:44px}
 @media(max-width:760px){.reading-head{min-height:240px;padding:24px 21px}.reading-head h1{font-size:clamp(29px,7vw,38px)}.reading-head .reading-description{font-size:16px;line-height:1.5}.reading-head h1,.reading-head .reading-description{max-width:72%}.reading-head{background-position:38% center}.verse-number{flex-basis:42px;min-width:42px}}
 
+:global(.reading-content .prose > h2),:global(.reading-content .prose > h3){scroll-margin-top:24px}
+.verse-step-navigation{display:flex;justify-content:space-between;gap:16px;border-top:1px solid #d9e1e4;padding-top:25px;margin-top:45px;max-width:790px}
+.verse-step-navigation[hidden]{display:none!important}
+.verse-step-button{display:flex;align-items:center;gap:13px;min-height:76px;min-width:0;flex:1;background:#f7f9fa;color:#17304d;border:1px solid #d4dfe5;border-radius:12px;padding:13px 20px;cursor:pointer;transition:border-color .15s,background .15s}
+.verse-step-button:hover:not(:disabled){border-color:#b28b53;background:#f6f1e8}
+.verse-step-button:focus-visible{outline:3px solid #b28b53;outline-offset:4px}
+.verse-step-button:disabled{opacity:.46;cursor:not-allowed}
+.verse-step-next{justify-content:flex-end;text-align:right}
+.verse-step-arrow{font:700 30px/1 Inter,Arial,sans-serif;color:#9a743c}
+.verse-step-text{display:flex;flex-direction:column;gap:7px;min-width:0}
+.verse-step-text small{font:700 10px Inter,Arial,sans-serif;letter-spacing:.13em;color:#7d8894}
+.verse-step-text strong{font:700 15px Inter,Arial,sans-serif;color:#203a54}
+@media(max-width:600px){.verse-step-navigation{gap:8px}.verse-step-button{min-height:68px;padding:10px 12px;gap:8px}.verse-step-arrow{font-size:24px}.verse-step-text strong{font-size:12px}}
 </style>
