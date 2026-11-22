@@ -1,8 +1,9 @@
 /**
  * Prima Scriptura — texto original de Gênesis 1:1.
  * Estado: aprovado pelo editor para gravação apenas na branch de rascunho.
- * A consulta de TODAS as ocorrências é feita pela concordância externa
- * por lema/Strong; a lista interna paginada ainda NÃO está implementada.
+ * As ocorrências serão consultadas no índice estático local por lema/Strong,
+ * gerado a partir do corpus completo OSHB. Não confundir referência de exemplo
+ * com listagem de todas as ocorrências.
  * O hebraico é armazenado em ordem canônica de leitura (direita → esquerda).
  */
 export const genesis1v1 = {
@@ -18,7 +19,6 @@ export const genesis1v1 = {
       meanings: 'Princípio, começo, primeira parte, primícias.',
       explanation: 'A preposição בְּ acrescenta o sentido de “em”. Neste contexto, a expressão é tradicionalmente traduzida “no princípio”. A relação sintática com o restante do versículo é discutida na exegese.',
       occurrencesExamples: ['Gn 1:1', 'Gn 10:10', 'Êx 23:19', 'Pv 1:7'],
-      concordanceUrl: 'https://biblehub.com/hebrew/7225.htm',
     },
     {
       id: 'gn1-1-2', hebrew: 'בָּרָא', transliteration: 'bārāʾ',
@@ -27,7 +27,6 @@ export const genesis1v1 = {
       meanings: 'Criar, formar, produzir.',
       explanation: 'Neste versículo, expressa a ação criadora de Deus e concorda com o sujeito אֱלֹהִים.',
       occurrencesExamples: ['Gn 1:1', 'Gn 1:21', 'Gn 1:27', 'Is 45:18'],
-      concordanceUrl: 'https://biblehub.com/hebrew/1254.htm',
     },
     {
       id: 'gn1-1-3', hebrew: 'אֱלֹהִים', transliteration: 'ʾĕlōhîm',
@@ -36,7 +35,6 @@ export const genesis1v1 = {
       meanings: 'Deus; em outros contextos, deuses ou seres divinos.',
       explanation: 'Embora tenha forma plural, designa aqui o Deus criador e está acompanhado do verbo singular בָּרָא. A forma plural isoladamente não demonstra a doutrina da Trindade.',
       occurrencesExamples: ['Gn 1:1', 'Gn 1:2', 'Gn 1:3', 'Gn 2:2'],
-      concordanceUrl: 'https://biblehub.com/hebrew/430.htm',
     },
     {
       id: 'gn1-1-4', hebrew: 'אֵת', transliteration: 'ʾēṯ',
@@ -45,7 +43,6 @@ export const genesis1v1 = {
       meanings: 'Partícula gramatical normalmente sem tradução independente.',
       explanation: 'Introduz “os céus” como objeto direto do verbo “criar”.',
       occurrencesExamples: ['Gn 1:1', 'Gn 1:16', 'Gn 1:21'],
-      concordanceUrl: 'https://biblehub.com/hebrew/853.htm',
     },
     {
       id: 'gn1-1-5', hebrew: 'הַשָּׁמַיִם', transliteration: 'haššāmayim',
@@ -54,7 +51,6 @@ export const genesis1v1 = {
       meanings: 'Céus, céu, firmamento ou espaço celeste.',
       explanation: 'O prefixo הַ corresponde ao artigo definido “os”. O substantivo שָׁמַיִם significa “céus”. Em Gênesis 1:1, a expressão “os céus e a terra” indica, em conjunto, a totalidade da criação.',
       occurrencesExamples: ['Gn 1:1', 'Gn 1:8', 'Gn 2:1', 'Sl 19:1'],
-      concordanceUrl: 'https://biblehub.com/hebrew/8064.htm',
     },
     {
       id: 'gn1-1-6', hebrew: 'וְאֵת', transliteration: 'wə-ʾēṯ',
@@ -63,7 +59,6 @@ export const genesis1v1 = {
       meanings: 'Conjunção “e” seguida do marcador de objeto direto.',
       explanation: 'A conjunção une “a terra” a “os céus”. A partícula אֵת introduz o objeto definido e normalmente não é traduzida.',
       occurrencesExamples: ['Gn 1:1', 'Gn 1:16', 'Gn 1:21'],
-      concordanceUrl: 'https://biblehub.com/hebrew/853.htm',
     },
     {
       id: 'gn1-1-7', hebrew: 'הָאָרֶץ', transliteration: 'hāʾāreṣ',
@@ -72,7 +67,6 @@ export const genesis1v1 = {
       meanings: 'Terra, território, chão, região ou país.',
       explanation: 'Neste contexto, completa a expressão abrangente “os céus e a terra”.',
       occurrencesExamples: ['Gn 1:1', 'Gn 1:2', 'Gn 1:10', 'Gn 12:1'],
-      concordanceUrl: 'https://biblehub.com/hebrew/776.htm',
     },
   ],
 } as const;
