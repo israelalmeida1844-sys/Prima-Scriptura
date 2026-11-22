@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "prebuild": "node scripts/gerar-concordancia-genesis-1-1.mjs",
+    "concordancia:gerar": "node scripts/gerar-concordancia-genesis-1-1.mjs --force"
   },
   "dependencies": {
     "astro": "^5.0.0",
