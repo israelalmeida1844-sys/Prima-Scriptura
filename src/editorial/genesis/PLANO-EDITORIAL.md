@@ -42,8 +42,10 @@ O texto bíblico hebraico é a referência primária. As obras acima ajudam a or
 - [x] Localizar fontes e orientar a metodologia.
 - [x] Criar branch isolada, sem alterar `main`.
 - [x] Iniciar Gênesis 1:1–5 por expressões.
-- [ ] Revisar formalmente grafia, vocalização, transliteração e análises de Gênesis 1:1–5.
-- [ ] Concluir Gênesis 1:6–31.
+- [x] Ampliar a primeira redação de Gênesis 1:6–31 e acrescentar 11 notas exegéticas numeradas.
+- [ ] Revisar formalmente grafia, vocalização, transliteração e análises de Gênesis 1:1–31.
+- [ ] Verificar as 11 notas do comentário e padronizar a numeração por capítulo.
+- [x] Concluir a primeira redação de Gênesis 1:6–31 (pendente de revisão acadêmica).
 - [ ] Revisar introdução geral, estrutura e bibliografia de trabalho.
 - [ ] Avançar pelos capítulos 2–50.
 - [ ] Projetar interface hebraica e blocos interativos do site, somente após validar o padrão editorial.
