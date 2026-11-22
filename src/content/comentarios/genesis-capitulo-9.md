@@ -99,7 +99,7 @@ O relato registra que Noé tomou conhecimento do ocorrido, mas não explica o me
 
 ### “Servo dos servos será de seus irmãos” — עֶבֶד עֲבָדִים (*ʿeḇeḏ ʿăḇāḏîm*) — vv. 25–27
 
-A construção hebraica repete o substantivo em singular e plural, intensificando a condição servil anunciada na palavra de Noé. O texto é uma sentença poética sobre Canaã; não é uma lei estabelecendo que alguém possa escravizar povos por sua genealogia ou aparência física. A história bíblica posterior demonstra que pessoas de origem cananeia podem participar da comunidade de fé. Interpretar a frase como ordem divina de escravização racial contradiz tanto seu destinatário específico quanto o propósito maior da bênção prometida às nações (12:3).<sup><a href="#gn9-nota-7">7</a></sup>
+A construção hebraica repete o substantivo em singular e plural, intensificando a condição servil anunciada na palavra de Noé. O texto é uma sentença poética sobre Canaã; não é uma lei estabelecendo que alguém possa escravizar povos por sua genealogia ou aparência física. A história bíblica posterior demonstra que pessoas de origem cananeia podem participar da comunidade de fé. Interpretar a frase como ordem divina de escravização racial contradiz tanto seu destinatário específico quanto o propósito maior da bênção prometida às nações (12:3).
 
 ### “Bendito seja o SENHOR, Deus de Sem” — בָּרוּךְ יְהוָה אֱלֹהֵי שֵׁם (*bārûḵ YHWH ʾĕlōhê Šēm*) — v. 26
 
