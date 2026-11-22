@@ -1,6 +1,6 @@
 ---
 title: "Gênesis — Capítulo 31: A saída da casa de Labão e a aliança de fronteira"
-description: "Comentário exegético de Gênesis 31:1–43, com análise de expressões hebraicas, contexto histórico e notas do comentário bíblico."
+description: "Comentário exegético de Gênesis 31:1–55, com análise de expressões hebraicas, contexto histórico e notas do comentário bíblico."
 date: 2026-11-22
 author: "Equipe Prima Scriptura"
 draft: true
@@ -8,7 +8,7 @@ tags: ["Gênesis", "hebraico", "comentário exegético", "Patriarcas"]
 book: "Gênesis"
 testament: "Antigo Testamento"
 chapter: 31
-verses: "1–43"
+verses: "1–55"
 ---
 
 > **RASCUNHO — NÃO PUBLICAR.** ARA como referência: [Gênesis 31](https://www.sbb.org.br/biblia/ARA/GEN.31). Redação autoral por expressões hebraicas; orientação geral: Doukhan, *Comentário Bíblico Internacional Adventista — Gênesis*; *Andrews Bible Commentary: Old Testament*; Derek Kidner, *Gênesis: Introdução e Comentário*.
@@ -49,7 +49,7 @@ Labão persegue Jacó por sete dias, mas Deus lhe aparece antes do encontro e es
 
 ### “Por que me enganaste?” — לָמָּה נַחְבֵּאתָ לִבְרֹחַ (*lāmmâ naḥbēʾtā liḇrōaḥ*) — vv. 25–30
 
-Labão acusa Jacó de fuga secreta e de ter levado suas filhas como cativas. Suas palavras parecem invocar afeto familiar, mas precisam ser comparadas à experiência de exploração narrada pelas filhas e pelo próprio Jacó. A pergunta pelos deuses roubados introduz o conflito religioso dos *terafins*. Não é correto aceitar a autodefesa de Labão como descrição imparcial das relações familiares.<sup><a href="#gn31-nota-5">5</a></sup>
+Labão acusa Jacó de fuga secreta e de ter levado suas filhas como cativas. Suas palavras parecem invocar afeto familiar, mas precisam ser comparadas à experiência de exploração narrada pelas filhas e pelo próprio Jacó. A pergunta pelos deuses roubados introduz o conflito religioso dos *terafins*. Não é correto aceitar a autodefesa de Labão como descrição imparcial das relações familiares.
 
 ### “Raquel os pôs na sela do camelo” — בְּכַר הַגָּמָל (*bəḵar haggāmāl*) — vv. 31–35
 
