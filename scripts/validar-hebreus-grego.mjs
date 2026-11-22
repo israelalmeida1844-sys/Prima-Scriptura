@@ -27,4 +27,13 @@ for(let ch=1;ch<=13;ch++){
 }
 assert.equal(sum,4935);
 assert.equal(versesTotal,303);
-console.log('Hebreus: 13 capítulos, 303 versículos e 4.935 palavras verificadas. '+pending+' glosas lexicais aguardam revisão.');
+assert.equal(pending,0,'Ainda existem glosas vazias em Hebreus');
+const ch=(n)=>JSON.parse(readFileSync(new URL('../src/data/hebreus-grego/capitulo-'+n+'.json',import.meta.url),'utf8'));
+const find=(n,v,lemma)=>ch(n)[String(v)].filter(w=>w[1]===lemma).map(w=>w[4]);
+assert.ok(find(7,25,'ἐντυγχάνω').some(g=>g.includes('interceder')),'Hb 7:25: intercessão');
+assert.ok(find(4,9,'σαββατισμός').some(g=>g.includes('sabático')),'Hb 4:9: descanso sabático');
+assert.ok(find(10,10,'θέλημα').every(g=>g==='vontade'),'Hb 10:10: vontade');
+assert.ok(find(9,16,'διαθήκη').some(g=>g.includes('testamento')),'Hb 9:16: nuance de testamento');
+assert.ok(find(11,1,'ὑπόστασις').some(g=>g.includes('certeza')),'Hb 11:1: certeza');
+for(let n=1;n<=13;n++)for(const ws of Object.values(ch(n)))for(const w of ws)if(w[1]==='ὑπέρ')assert.notEqual(w[4],'pois','Hb '+n+': ὑπέρ não é pois');
+console.log('Hebreus: 13 capítulos, 303 versículos, 4.935 tokens gregos e nenhuma glosa vazia. Testes lexicais críticos aprovados.');
