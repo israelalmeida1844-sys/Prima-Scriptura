@@ -1,0 +1,205 @@
+{
+  "strong": "G4016",
+  "lemma": "περιβάλλω",
+  "lemmaTranslit": "periballō",
+  "tokenCount": 23,
+  "verseCount": 23,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 2,
+    "Lucas": 2,
+    "João": 1,
+    "Atos": 1,
+    "Apocalipse": 12
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 29,
+      "reference": "Mt 6:29",
+      "text": "αὐτοῦ περιεβάλετο ὡς",
+      "highlightedWord": "περιεβάλετο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mt 6:31",
+      "text": "Τί περιβαλώμεθα;",
+      "highlightedWord": "περιβαλώμεθα;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 36,
+      "reference": "Mt 25:36",
+      "text": "καὶ περιεβάλετέ με,",
+      "highlightedWord": "περιεβάλετέ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 38,
+      "reference": "Mt 25:38",
+      "text": "καὶ περιεβάλομεν;",
+      "highlightedWord": "περιεβάλομεν;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 43,
+      "reference": "Mt 25:43",
+      "text": "οὐ περιεβάλετέ με,",
+      "highlightedWord": "περιεβάλετέ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 51,
+      "reference": "Mk 14:51",
+      "text": "αὐτῷ περιβεβλημένος σινδόνα",
+      "highlightedWord": "περιβεβλημένος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Mk 16:5",
+      "text": "δεξιοῖς περιβεβλημένον στολὴν",
+      "highlightedWord": "περιβεβλημένον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Lk 12:27",
+      "text": "αὐτοῦ περιεβάλετο ὡς",
+      "highlightedWord": "περιεβάλετο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 11,
+      "reference": "Lk 23:11",
+      "text": "ἐμπαίξας περιβαλὼν ἐσθῆτα",
+      "highlightedWord": "περιβαλὼν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Jn 19:2",
+      "text": "πορφυροῦν περιέβαλον αὐτόν,",
+      "highlightedWord": "περιέβαλον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Ac 12:8",
+      "text": "αὐτῷ· Περιβαλοῦ τὸ",
+      "highlightedWord": "Περιβαλοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Re 3:5",
+      "text": "οὕτως περιβαλεῖται ἐν",
+      "highlightedWord": "περιβαλεῖται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "ἵνα περιβάλῃ καὶ",
+      "highlightedWord": "περιβάλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "καθημένους περιβεβλημένους ἐν",
+      "highlightedWord": "περιβεβλημένους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Re 7:9",
+      "text": "ἀρνίου, περιβεβλημένους στολὰς",
+      "highlightedWord": "περιβεβλημένους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Re 7:13",
+      "text": "οἱ περιβεβλημένοι τὰς",
+      "highlightedWord": "περιβεβλημένοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Re 10:1",
+      "text": "οὐρανοῦ, περιβεβλημένον νεφέλην,",
+      "highlightedWord": "περιβεβλημένον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Re 11:3",
+      "text": "ἑξήκοντα, περιβεβλημένοι σάκκους.",
+      "highlightedWord": "περιβεβλημένοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Re 12:1",
+      "text": "γυνὴ περιβεβλημένη τὸν",
+      "highlightedWord": "περιβεβλημένη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Re 17:4",
+      "text": "ἦν περιβεβλημένη πορφυροῦν",
+      "highlightedWord": "περιβεβλημένη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Re 18:16",
+      "text": "ἡ περιβεβλημένη βύσσινον",
+      "highlightedWord": "περιβεβλημένη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Re 19:8",
+      "text": "ἵνα περιβάληται βύσσινον",
+      "highlightedWord": "περιβάληται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Re 19:13",
+      "text": "καὶ περιβεβλημένος ἱμάτιον",
+      "highlightedWord": "περιβεβλημένος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
