@@ -4,7 +4,13 @@ on:
   push:
     branches:
       - rascunho/apocalipse
+    paths-ignore:
+      - '.github/reports/**'
   workflow_dispatch:
+
+concurrency:
+  group: homologacao-apocalipse-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -22,6 +28,20 @@ jobs:
           node-version: '22'
       - name: Instalar dependencias
         run: npm install --no-audit --no-fund
+      - name: Obter fontes acadêmicas fixadas
+        run: |
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+          git clone --quiet https://github.com/jtauber/greek-lemma-mappings.git /tmp/prima-lemma-mappings
+          test "$(git -C /tmp/prima-lemma-mappings hash-object lexemes.yaml)" = "a5cd101e445e51eb67fe05aceb06a14b991d41f2"
+      - name: Gerar concordancias gregas exaustivas
+        run: node scripts/generate-apocalipse-1-9-20-concordancias.mjs
+      - name: Registrar concordancias novas na branch de rascunho
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/concordancia-grega src/data/lexico-grego/apocalipse-1-9-20-concordancias-relatorio.json
+          git diff --cached --quiet || (git commit -m "feat(apocalipse): concordancias canonicas verificadas para 1:9-20" && git push origin HEAD:rascunho/apocalipse)
       - name: Compilar Astro
         id: build
         run: npm run build
@@ -30,13 +50,13 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          for v in {1..8}; do
+          for v in {1..20}; do
             test -s "dist/comentarios/apocalipse/capitulo-1/versiculo-$v/index.html"
           done
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
-          const verses = [3,4,5,6,7,8];
-          const expected = [20,31,33,22,25,21];
+          const verses = Array.from({length:18}, (_,i)=>i+3);
+          const expected = [20,31,33,22,25,21,32,15,31,15,17,20,18,30,28,24,13,33];
           for (const [i,v] of verses.entries()) {
             const file = fs.readFileSync(`src/data/texto-original/apocalipse/apocalipse-1-${v}.ts`, 'utf8');
             const match = file.match(/=\s*(\{[\s\S]*\})\s*as const;/);
@@ -51,7 +71,7 @@ jobs:
               if(data.complete !== true || data.references.length!==data.verseCount) throw new Error(`Concordancia invalida: ${w.strong}`);
             }
           }
-          console.log('PASSOU: 152 tokens, oito rotas, morfologia e concordancias.');
+          console.log('PASSOU: 428 tokens, 20 rotas, morfologia e concordancias.');
           NODE
 
       - name: Registrar resultado da homologacao no repositorio
@@ -65,7 +85,7 @@ jobs:
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
           const { BUILD_OUTCOME, AUDIT_OUTCOME, VERIFIED_COMMIT } = process.env;
-          fs.writeFileSync('.github/reports/apocalipse-1-3-8.json', JSON.stringify({
+          fs.writeFileSync('.github/reports/apocalipse-1-3-20.json', JSON.stringify({
             checkedCommit: VERIFIED_COMMIT,
             node: '22',
             build: BUILD_OUTCOME,
@@ -76,6 +96,6 @@ jobs:
           NODE
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .github/reports/apocalipse-1-3-8.json
+          git add .github/reports/apocalipse-1-3-20.json
           git commit -m "ci(apocalipse): registra resultado verificavel de homologacao" || true
           git push origin HEAD:rascunho/apocalipse
