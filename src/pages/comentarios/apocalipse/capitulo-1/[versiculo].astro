@@ -9,15 +9,28 @@ import TextoOriginalApocalipse1v6 from '../../../../components/TextoOriginalApoc
 import TextoOriginalApocalipse1v7 from '../../../../components/TextoOriginalApocalipse1v7.astro';
 import TextoOriginalApocalipse1v8 from '../../../../components/TextoOriginalApocalipse1v8.astro';
 
+import TextoOriginalApocalipse1v9 from '../../../../components/TextoOriginalApocalipse1v9.astro';
+import TextoOriginalApocalipse1v10 from '../../../../components/TextoOriginalApocalipse1v10.astro';
+import TextoOriginalApocalipse1v11 from '../../../../components/TextoOriginalApocalipse1v11.astro';
+import TextoOriginalApocalipse1v12 from '../../../../components/TextoOriginalApocalipse1v12.astro';
+import TextoOriginalApocalipse1v13 from '../../../../components/TextoOriginalApocalipse1v13.astro';
+import TextoOriginalApocalipse1v14 from '../../../../components/TextoOriginalApocalipse1v14.astro';
+import TextoOriginalApocalipse1v15 from '../../../../components/TextoOriginalApocalipse1v15.astro';
+import TextoOriginalApocalipse1v16 from '../../../../components/TextoOriginalApocalipse1v16.astro';
+import TextoOriginalApocalipse1v17 from '../../../../components/TextoOriginalApocalipse1v17.astro';
+import TextoOriginalApocalipse1v18 from '../../../../components/TextoOriginalApocalipse1v18.astro';
+import TextoOriginalApocalipse1v19 from '../../../../components/TextoOriginalApocalipse1v19.astro';
+import TextoOriginalApocalipse1v20 from '../../../../components/TextoOriginalApocalipse1v20.astro';
+
 export function getStaticPaths() {
-  return [1, 2, 3, 4, 5, 6, 7, 8].map(number => ({
+  return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20].map(number => ({
     params: { versiculo: 'versiculo-' + number },
     props: { number }
   }));
 }
 
 const { number } = Astro.props;
-const components = [TextoOriginalApocalipse1v1, TextoOriginalApocalipse1v2, TextoOriginalApocalipse1v3, TextoOriginalApocalipse1v4, TextoOriginalApocalipse1v5, TextoOriginalApocalipse1v6, TextoOriginalApocalipse1v7, TextoOriginalApocalipse1v8];
+const components = [TextoOriginalApocalipse1v1, TextoOriginalApocalipse1v2, TextoOriginalApocalipse1v3, TextoOriginalApocalipse1v4, TextoOriginalApocalipse1v5, TextoOriginalApocalipse1v6, TextoOriginalApocalipse1v7, TextoOriginalApocalipse1v8, TextoOriginalApocalipse1v9, TextoOriginalApocalipse1v10, TextoOriginalApocalipse1v11, TextoOriginalApocalipse1v12, TextoOriginalApocalipse1v13, TextoOriginalApocalipse1v14, TextoOriginalApocalipse1v15, TextoOriginalApocalipse1v16, TextoOriginalApocalipse1v17, TextoOriginalApocalipse1v18, TextoOriginalApocalipse1v19, TextoOriginalApocalipse1v20];
 const WordComponent = components[number - 1];
 const base = '/comentarios/apocalipse/capitulo-1/';
 ---
@@ -49,7 +62,7 @@ const base = '/comentarios/apocalipse/capitulo-1/';
       </div>
 
       <nav class="verse-picker" aria-label="Selecionar versículo de Apocalipse capítulo 1">
-        {[1, 2, 3, 4, 5, 6, 7, 8].map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
+        {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20].map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
       </nav>
 
       <WordComponent />
@@ -57,11 +70,11 @@ const base = '/comentarios/apocalipse/capitulo-1/';
       <nav class="verse-navigation" aria-label="Navegação entre versículos">
         {number > 1 ? <a data-apocalipse-prev href={base + 'versiculo-' + (number - 1) + '/'}>← Versículo anterior</a> : <span class="disabled" aria-disabled="true">Início do conteúdo disponível</span>}
         <a class="chapter-return" href={base}>Índice do capítulo 1</a>
-        {number < 8 ? <a data-apocalipse-next href={base + 'versiculo-' + (number + 1) + '/'}>Próximo versículo →</a> : <span class="disabled" aria-disabled="true">Versículo 9 em preparação editorial</span>}
+        {number < 20 ? <a data-apocalipse-next href={base + 'versiculo-' + (number + 1) + '/'}>Próximo versículo →</a> : <span class="disabled" aria-disabled="true">Conclusão do capítulo 1</span>}
       </nav>
 
       <p class="reader-note">
-        Edição acadêmica de avaliação (Apocalipse 1:1–8). Texto crítico base: SBL Greek New Testament (SBLGNT); lemas e análise morfológica: MorphGNT 6.12 (CC BY-SA 3.0 / CC BY 4.0).
+        Edição acadêmica de avaliação (Apocalipse 1:1–20). Texto crítico base: SBL Greek New Testament (SBLGNT); lemas e análise morfológica: MorphGNT 6.12 (CC BY-SA 3.0 / CC BY 4.0).
       </p>
     </div>
   </section>
