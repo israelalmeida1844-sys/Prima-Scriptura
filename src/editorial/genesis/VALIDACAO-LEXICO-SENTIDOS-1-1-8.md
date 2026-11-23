@@ -63,7 +63,7 @@ Algumas classificações distinguem explicitamente usos de **troncos verbais dif
 
 **Geração WLC/OSHB e conferência de referências:** GitHub Actions `45100798289`, **sucesso**: https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45100798289 .
 
-**Homologação Chromium dos oito versículos, 90 palavras e quatro larguras:** GitHub Actions `45101176599`, https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45101176599 . Conferir o resultado final antes de marcar esta etapa como aprovada.
+**Homologação Chromium dos oito versículos, 90 palavras e quatro larguras: APROVADA.** GitHub Actions `45101176599`, https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45101176599 . Resultado final dos testes: «VALIDAÇÃO COMPLETA: 36 lemas, 80 exemplos, 90 palavras por resolução, 4 resoluções, navegação e concordâncias preservadas». Captura de tela: artefato `14785521568` em https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45101176599/artifacts/14785521568 . A captura H776/Gn 1:2 (390 px) foi inspecionada visualmente: os três sentidos, as amostras hebraicas e o lema ampliado estão legíveis, sem transbordamento horizontal.
 
 O roteiro testa 1440, 768, 390 e 320 px; verifica a ficha lexical completa de cada uma das 90 palavras, mudança dos exemplos e dos lemas, idioma/direção de escrita, tamanho/família tipográfica, estado dos botões, carregamento da concordância, ausência de overflow e ausência de erros JavaScript.
 
