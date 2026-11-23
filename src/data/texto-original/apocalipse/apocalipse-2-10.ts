@@ -8,7 +8,7 @@ export const apocalipse2v10 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Não temas o que estás para sofrer. Eis que o diabo lançará alguns de vós na prisão, para que sejais provados, e tereis tribulação por dez dias. Sê fiel até a morte, e dar-te-ei a coroa da vida.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "στέφανος, coroa de honra/vitória, difere lexicalmente de διάδημα, diadema; «dez dias» é expressão de provação cuja relação proposta com Dn 1:12–14 é interpretativa, sem impor cronologia.",
+  "textualNotes": "στέφανος, coroa de honra/vitória, difere lexicalmente de διάδημα, diadema; «dez dias» é expressão de provação cuja relação proposta com Dn 1:12–14 é interpretativa, sem impor cronologia.\n\n[Revisão acadêmica complementar] μηδὲν φοβοῦ exprime ordem de não temer; ἵνα πειρασθῆτε indica finalidade ou resultado pretendido da prova. Os dez dias não fixam cronologia histórica sem argumento externo.",
   "exegeticalNotes": [
     "O texto anuncia sofrimento e exige fidelidade.",
     "A coroa da vida é promessa; o sentido temporal de dez dias é debatido."

@@ -8,7 +8,7 @@ export const apocalipse2v27 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "e ele as pastoreará com cetro de ferro, como são despedaçados os vasos de cerâmica,",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ποιμανεῖ é futuro ativo indicativo, terceira pessoa singular de ποιμαίνω («pastoreará/governará»), imagem relacionada ao Salmo 2:8–9. συντρίβεται é presente médio/passivo indicativo, terceira pessoa singular, com τὰ σκεύη τὰ κεραμικά (neutro plural) como sujeito. Em grego, sujeito neutro plural pode concordar com verbo singular; essa construção não é erro a corrigir para plural. A frase deve conservar distinção entre o pastoreio ativo e os vasos que são despedaçados.",
+  "textualNotes": "ποιμανεῖ, futuro ativo indicativo, terceira pessoa singular de ποιμαίνω, pode ter sentido de pastorear e governar. ἐν ῥάβδῳ σιδηρᾷ e vasos de barro evocam Sl 2:8–9. A forma συντρίβεται é presente médio/passivo indicativo singular; preservar a sua configuração real e discutir a combinação sintática, sem adaptar à forma esperada.\n\n[Revisão acadêmica complementar] ποιμανεῖ é futuro de ποιμαίνω, 'pastorear/governar'; συντρίβεται é presente médio/passivo singular, apesar de τὰ σκεύη ser neutro plural, concordância verbal possível em grego. Não reescrever para plural nem impor exclusivamente 'despedaçará' ao sujeito do primeiro verbo.",
   "exegeticalNotes": [
     "O governo com cetro de ferro dialoga diretamente com o Salmo 2.",
     "A metáfora de pastoreio e a imagem de vasos quebrados devem ser examinadas conjuntamente."

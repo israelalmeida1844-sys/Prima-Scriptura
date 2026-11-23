@@ -8,7 +8,7 @@ export const apocalipse2v4 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, contra ti que abandonaste o teu primeiro amor.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ἀφῆκες é aoristo ativo indicativo, 2ª pessoa singular de ἀφίημι; τὴν ἀγάπην σου τὴν πρώτην caracteriza o amor inicial abandonado, em construção atributiva repetida.",
+  "textualNotes": "ἀφῆκες é aoristo ativo indicativo, 2ª pessoa singular de ἀφίημι; τὴν ἀγάπην σου τὴν πρώτην caracteriza o amor inicial abandonado, em construção atributiva repetida.\n\n[Revisão acadêmica complementar] τὴν ἀγάπην ... τὴν πρώτην apresenta adjetivo em segunda posição atributiva. ἀφῆκες descreve abandono, não o sentido isolado 'perdoar' do lema ἀφίημι.",
   "exegeticalNotes": [
     "O primeiro amor é apresentado como algo abandonado, apesar de outros elogios.",
     "A memória do passado conduz à convocação à mudança."

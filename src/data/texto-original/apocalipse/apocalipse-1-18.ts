@@ -8,7 +8,7 @@ export const apocalipse1v18 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "e aquele que vive. Estive morto, mas eis que vivo para todo o sempre e tenho as chaves da morte e do Hades.",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "O SBLGNT apresenta τοῦ θανάτου καὶ τοῦ ᾅδου. ἔχω é presente ativo indicativo primeira pessoa singular («tenho»); ἐγενόμην é aoristo médio indicativo («tornei-me/estive»). ᾅδης designa o domínio dos mortos, sem equivaler automaticamente a tormento eterno.",
+  "textualNotes": "O SBLGNT apresenta τοῦ θανάτου καὶ τοῦ ᾅδου. ἔχω é presente ativo indicativo primeira pessoa singular («tenho»); ἐγενόμην é aoristo médio indicativo («tornei-me/estive»). ᾅδης designa o domínio dos mortos, sem equivaler automaticamente a tormento eterno.\n\n[Revisão acadêmica complementar] ᾅδης refere-se à esfera dos mortos; a leitura dos termos não autoriza por si a identificação com tormento eterno. A imagem das chaves comunica autoridade.",
   "exegeticalNotes": [
     "O Vivente identifica-se pela morte real e pela vida sem fim.",
     "As chaves simbolizam autoridade sobre a morte e o Hades."

@@ -8,7 +8,7 @@ export const apocalipse2v26 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao vencedor, aquele que guardar até o fim as minhas obras, darei autoridade sobre as nações,",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὁ νικῶν e ὁ τηρῶν são particípios presentes ativos substantivados; ἄχρι τέλους estabelece continuidade até o fim. ἐξουσίαν ἐπὶ τῶν ἐθνῶν prepara a aplicação messiânica do Salmo 2.",
+  "textualNotes": "ὁ νικῶν e ὁ τηρῶν são particípios presentes ativos substantivados; ἄχρι τέλους estabelece continuidade até o fim. ἐξουσίαν ἐπὶ τῶν ἐθνῶν prepara a aplicação messiânica do Salmo 2.\n\n[Revisão acadêmica complementar] ὁ νικῶν e ὁ τηρῶν são particípios substantivados com sentido de perseverança; τὰ ἔργα μου é objeto de τηρῶν, não referência automática a mérito salvífico.",
   "exegeticalNotes": [
     "A autoridade prometida ao vencedor participa da linguagem régia e messiânica.",
     "A obediência perseverante e as obras de Cristo aparecem ligadas."

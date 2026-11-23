@@ -8,7 +8,7 @@ export const apocalipse1v14 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sua cabeça e seus cabelos eram brancos como lã branca, como neve; seus olhos, como chama de fogo.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "κεφαλὴ e τρίχες integram a apresentação dos traços da figura; λευκαὶ é nominativo feminino plural, concordando com τρίχες. Lã e neve evocam Daniel 7:9, sem estabelecer identidade direta entre todos os detalhes.",
+  "textualNotes": "κεφαλὴ e τρίχες integram a apresentação dos traços da figura; λευκαὶ é nominativo feminino plural, concordando com τρίχες. Lã e neve evocam Daniel 7:9, sem estabelecer identidade direta entre todos os detalhes.\n\n[Revisão acadêmica complementar] λευκαὶ no feminino plural concorda com τρίχες. A justaposição de imagens lembra Dn 7:9, porém não deve fundir as figuras sem argumento contextual.",
   "exegeticalNotes": [
     "A brancura da cabeça e dos cabelos evoca imagens de pureza e majestade.",
     "Os olhos como fogo antecipam o olhar penetrante do Cristo exaltado."

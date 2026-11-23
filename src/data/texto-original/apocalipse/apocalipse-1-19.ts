@@ -8,7 +8,7 @@ export const apocalipse1v19 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Escreva, portanto, as coisas que você viu, as que são e as que estão para acontecer depois destas.",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "γράψον é imperativo aoristo ativo segunda pessoa singular; εἶδες é aoristo ativo indicativo segunda pessoa singular («viste»); εἰσὶν é presente ativo indicativo terceira pessoa plural («são»); μέλλει (3ª pessoa singular) rege γίνεσθαι, infinitivo presente médio. A tríade de relativas não impõe uma divisão cronológica rígida de todo o livro.",
+  "textualNotes": "γράψον é imperativo aoristo ativo segunda pessoa singular; εἶδες é aoristo ativo indicativo segunda pessoa singular («viste»); εἰσὶν é presente ativo indicativo terceira pessoa plural («são»); μέλλει (3ª pessoa singular) rege γίνεσθαι, infinitivo presente médio. A tríade de relativas não impõe uma divisão cronológica rígida de todo o livro.\n\n[Revisão acadêmica complementar] As três relativas ἃ εἶδες, ἃ εἰσίν, ἃ μέλλει γίνεσθαι são sintaticamente paralelas, mas não prescrevem obrigatoriamente três seções cronológicas do livro.",
   "exegeticalNotes": [
     "O imperativo de escrever reitera a responsabilidade profética de João.",
     "A tríade temporal exige cautela antes de impor uma divisão rígida ao livro."

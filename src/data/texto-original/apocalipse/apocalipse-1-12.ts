@@ -8,7 +8,7 @@ export const apocalipse1v12 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Voltei-me para ver a voz que falava comigo e, ao voltar-me, vi sete candelabros de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "βλέπειν τὴν φωνήν, literalmente «ver a voz», é expressão sensorial marcante; o infinitivo presente depende de ἐπέστρεψα. O particípio ἐπιστρέψας indica uma ação antecedente à visão expressa por εἶδον.",
+  "textualNotes": "βλέπειν τὴν φωνήν, literalmente «ver a voz», é expressão sensorial marcante; o infinitivo presente depende de ἐπέστρεψα. O particípio ἐπιστρέψας indica uma ação antecedente à visão expressa por εἶδον.\n\n[Revisão acadêmica complementar] βλέπειν depende de ἐπέστρεψα; a metáfora sensorial de ver uma voz pertence ao texto e não deve ser apagada na análise literal.",
   "exegeticalNotes": [
     "A imagem de «ver a voz» orienta o leitor do som ao personagem glorioso.",
     "Os candelabros serão identificados em 1:20 como igrejas."

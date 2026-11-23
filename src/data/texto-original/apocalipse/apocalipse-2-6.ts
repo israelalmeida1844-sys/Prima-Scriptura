@@ -8,7 +8,7 @@ export const apocalipse2v6 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tens, porém, isto a teu favor: odeias as obras dos nicolaítas, que eu também odeio.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Νικολαϊτῶν é genitivo plural do nome grupal Νικολαΐτης. Identificar diretamente os nicolaítas com os seguidores de Balaão (2:14–15) é inferência interpretativa e não identificação histórica comprovada pela etimologia.",
+  "textualNotes": "Νικολαϊτῶν é genitivo plural do nome grupal Νικολαΐτης. Identificar diretamente os nicolaítas com os seguidores de Balaão (2:14–15) é inferência interpretativa e não identificação histórica comprovada pela etimologia.\n\n[Revisão acadêmica complementar] Νικολαϊτῶν é genitivo plural de grupo. O texto não fornece etimologia segura nem biografia de seus participantes; correlações com Balaão exigem discussão de 2:14–15.",
   "exegeticalNotes": [
     "Os nicolaítas são mencionados sem descrição histórica completa.",
     "A relação com Balaão requer interpretação a partir do restante da carta."

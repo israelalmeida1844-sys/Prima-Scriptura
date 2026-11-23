@@ -8,7 +8,7 @@ export const apocalipse1v17 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quando o vi, caí a seus pés como morto. Ele pôs sua mão direita sobre mim e disse: «Não tenha medo. Eu sou o Primeiro e o Último,",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "φοβοῦ é imperativo presente médio/passivo formal de verbo deponente, precedido de μή; significa «não temas». πρῶτος e ἔσχατος fazem eco à linguagem de soberania divina (Is 44:6; 48:12).",
+  "textualNotes": "φοβοῦ é imperativo presente médio/passivo formal de verbo deponente, precedido de μή; significa «não temas». πρῶτος e ἔσχατος fazem eco à linguagem de soberania divina (Is 44:6; 48:12).\n\n[Revisão acadêmica complementar] μή + φοβοῦ é proibição no imperativo presente; a relação entre primeiro/último e linguagem de Isaías é alusão teológica, não equivalência lexical.",
   "exegeticalNotes": [
     "A reação de João combina reverência e incapacidade diante da visão.",
     "A palavra «não temas» altera a dinâmica da cena."

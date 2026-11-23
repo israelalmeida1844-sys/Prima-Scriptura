@@ -8,7 +8,7 @@ export const apocalipse2v12 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Pérgamo escreve: Assim diz aquele que tem a espada longa de dois gumes, afiada:",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὁ ἔχων é particípio presente ativo nominativo masculino singular; os adjetivos τὴν δίστομον e τὴν ὀξεῖαν, ambos acusativos femininos singulares, qualificam ῥομφαίαν e retomam Ap 1:16.",
+  "textualNotes": "ὁ ἔχων é particípio presente ativo nominativo masculino singular; os adjetivos τὴν δίστομον e τὴν ὀξεῖαν, ambos acusativos femininos singulares, qualificam ῥομφαίαν e retomam Ap 1:16.\n\n[Revisão acadêmica complementar] ὁ ἔχων está substantivado; τὴν δίστομον e τὴν ὀξεῖαν são modificadores adjetivais de ῥομφαίαν, não objetos independentes.",
   "exegeticalNotes": [
     "A abertura da carta a Pérgamo destaca a espada de Cristo.",
     "O símbolo já aparece na visão de Ap 1:16."

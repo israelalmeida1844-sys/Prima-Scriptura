@@ -8,7 +8,7 @@ export const apocalipse2v21 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Dei-lhe tempo para arrepender-se, mas ela não quer arrepender-se de sua imoralidade sexual.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ἔδωκα é aoristo ativo indicativo, primeira pessoa singular. A sequência ἵνα μετανοήσῃ e οὐ θέλει μετανοῆσαι distingue oportunidade concedida e recusa persistente.",
+  "textualNotes": "ἔδωκα é aoristo ativo indicativo, primeira pessoa singular. A sequência ἵνα μετανοήσῃ e οὐ θέλει μετανοῆσαι distingue oportunidade concedida e recusa persistente.\n\n[Revisão acadêmica complementar] ἵνα μετανοήσῃ apresenta a finalidade do tempo concedido; οὐ θέλει μετανοῆσαι indica recusa. A referência à πορνεία deve permanecer contextual, sem reconstrução histórica inventada.",
   "exegeticalNotes": [
     "A oferta de tempo para arrependimento antecede a sentença.",
     "O texto distingue a oportunidade oferecida da resistência da personagem."

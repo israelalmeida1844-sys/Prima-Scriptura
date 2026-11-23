@@ -7,7 +7,7 @@ export const apocalipse1v8 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, que era e que vem, o Todo-Poderoso.",
-  "textualNotes": "O SBLGNT traz ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος em aposição a κύριος ὁ θεός. Ao contrário de Ap 1:4, aqui não há ἀπό antes da fórmula; portanto, não ocorre neste ponto o solecismo preposicional. Há, contudo, construção deliberadamente solene do nome divino. A inclusão de «o princípio e o fim» em certas tradições textuais não integra o texto-base SBLGNT deste versículo.",
+  "textualNotes": "O SBLGNT traz ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος em aposição a κύριος ὁ θεός. Ao contrário de Ap 1:4, aqui não há ἀπό antes da fórmula; portanto, não ocorre neste ponto o solecismo preposicional. Há, contudo, construção deliberadamente solene do nome divino. A inclusão de «o princípio e o fim» em certas tradições textuais não integra o texto-base SBLGNT deste versículo.\n\n[Revisão acadêmica complementar] A forma ὁ παντοκράτωρ é título divino; ὁ ἦν constitui nominalização incomum de imperfeito, sem a regência ἀπό problemática de 1:4.",
   "translationNote": "«Alfa» e «Ômega» reproduzem a imagem alfabética do original; «Todo-Poderoso» traduz παντοκράτωρ.",
   "words": [
     {

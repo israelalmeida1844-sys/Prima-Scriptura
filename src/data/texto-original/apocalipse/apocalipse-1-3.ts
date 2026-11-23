@@ -7,7 +7,7 @@ export const apocalipse1v3 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Feliz aquele que lê e aqueles que ouvem as palavras desta profecia e guardam o que nela está escrito, pois o tempo está próximo.",
-  "textualNotes": "Texto-base SBLGNT 2010. Os particípios ἀναγινώσκων, ἀκούοντες e τηροῦντες são formas presentes ativas; γεγραμμένα é perfeito passivo. Não confundir marca de aparato ou pontuação editorial com variante lexical.",
+  "textualNotes": "Texto-base SBLGNT 2010. Os particípios ἀναγινώσκων, ἀκούοντες e τηροῦντες são formas presentes ativas; γεγραμμένα é perfeito passivo. Não confundir marca de aparato ou pontuação editorial com variante lexical.\n\n[Revisão acadêmica complementar] μακάριος inicia uma bem-aventurança; ὁ ἀναγινώσκων singular distingue o leitor público dos ouvintes plurais. τηροῦντες acrescenta resposta obediente, não mera audição.",
   "translationNote": "Tradução editorial; a bem-aventurança conjuga leitura pública, escuta e observância.",
   "words": [
     {

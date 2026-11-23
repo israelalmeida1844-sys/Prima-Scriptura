@@ -8,7 +8,7 @@ export const apocalipse2v2 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço as tuas obras, o teu trabalho e a tua perseverança; não podes suportar os maus e puseste à prova aqueles que se dizem apóstolos, mas não são, e os achaste falsos.",
   "translationNote": "O presente δύνῃ rege o infinitivo aoristo βαστάσαι; a tradução distingue perseverança da recusa em suportar agentes maus.",
-  "textualNotes": "οὐ δύνῃ βαστάσαι κακούς combina verbo deponente δύναμαι (presente médio/passivo indicativo 2ª pessoa singular) e infinitivo aoristo ativo βαστάσαι. A perícope discute o exame de reivindicações de apostolado.",
+  "textualNotes": "οὐ δύνῃ βαστάσαι κακούς combina verbo deponente δύναμαι (presente médio/passivo indicativo 2ª pessoa singular) e infinitivo aoristo ativo βαστάσαι. A perícope discute o exame de reivindicações de apostolado.\n\n[Revisão acadêmica complementar] οὐ δύνῃ βαστάσαι une verbo de possibilidade e infinitivo complementar; πειράζω caracteriza submeter alegações à prova. ψευδεῖς é predicativo do objeto αὐτούς.",
   "exegeticalNotes": [
     "A comunidade é elogiada por obras, perseverança e exame crítico dos falsos apóstolos.",
     "Discernimento e fidelidade são apresentados em conjunto."

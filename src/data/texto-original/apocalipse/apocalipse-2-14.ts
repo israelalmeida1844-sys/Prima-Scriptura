@@ -8,7 +8,7 @@ export const apocalipse2v14 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, algumas coisas contra ti: tens aí os que seguem o ensino de Balaão, que ensinava Balaque a colocar tropeço diante dos filhos de Israel, para comerem alimentos sacrificados a ídolos e praticarem imoralidade sexual.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "διδαχὴν Βαλαάμ retoma Balaão (Nm 25:1–2; 31:16). σκάνδαλον denota armadilha ou ocasião de tropeço; φαγεῖν e πορνεῦσαι são infinitivos aoristos ativos que explicam a transgressão induzida. A forma de Βαλαάμ é indeclinável no uso grego.",
+  "textualNotes": "διδαχὴν Βαλαάμ retoma Balaão (Nm 25:1–2; 31:16). σκάνδαλον denota armadilha ou ocasião de tropeço; φαγεῖν e πορνεῦσαι são infinitivos aoristos ativos que explicam a transgressão induzida. A forma de Βαλαάμ é indeclinável no uso grego.\n\n[Revisão acadêmica complementar] Βαλαάμ é forma indeclinável, mas sua função depende de διδαχήν. Os infinitivos φαγεῖν e πορνεῦσαι especificam condutas induzidas pela armadilha.",
   "exegeticalNotes": [
     "A figura de Balaão funciona como modelo narrativo de indução à idolatria e imoralidade.",
     "O escândalo representa tropeço espiritual diante de Israel, com ecos do Pentateuco."

@@ -8,7 +8,7 @@ export const apocalipse2v5 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Lembra-te, portanto, de onde caíste; arrepende-te e pratica as primeiras obras. Caso contrário, venho a ti e removerei o teu candelabro de seu lugar, se não te arrependeres.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "πέπτωκας é perfeito ativo indicativo de πίπτω (queda com resultado presente). μετανοήσῃς é subjuntivo aoristo ativo em condição com ἐὰν μή.",
+  "textualNotes": "πέπτωκας é perfeito ativo indicativo de πίπτω (queda com resultado presente). μετανοήσῃς é subjuntivo aoristo ativo em condição com ἐὰν μή.\n\n[Revisão acadêmica complementar] μνημόνευε é imperativo presente; μετανόησον e ποίησον são imperativos aoristos. A consequência da remoção da λυχνία depende da condição ἐὰν μὴ μετανοήσῃς.",
   "exegeticalNotes": [
     "Arrependimento e obras retomadas constituem a resposta exigida.",
     "A remoção do candelabro é imagem de juízo comunitário."

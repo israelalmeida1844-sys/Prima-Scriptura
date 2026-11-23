@@ -8,7 +8,7 @@ export const apocalipse2v8 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Esmirna escreve: Assim diz o Primeiro e o Último, que esteve morto e voltou a viver:",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ἔζησεν é aoristo ativo indicativo, 3ª pessoa singular, de ζάω; a morte precedente dá valor ingressivo à expressão «voltou a viver».",
+  "textualNotes": "ἔζησεν é aoristo ativo indicativo, 3ª pessoa singular, de ζάω; a morte precedente dá valor ingressivo à expressão «voltou a viver».\n\n[Revisão acadêmica complementar] ὁ πρῶτος καὶ ὁ ἔσχατος estabelece título cristológico; ἔζησεν pode traduzir a retomada da vida após tornar-se morto, sem forçar valor semântico exclusivo do aoristo.",
   "exegeticalNotes": [
     "O Cristo que morreu e voltou a viver dirige-se à igreja de Esmirna.",
     "O título Primeiro e Último retoma Ap 1:17."

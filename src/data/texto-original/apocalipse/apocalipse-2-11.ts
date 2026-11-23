@@ -8,7 +8,7 @@ export const apocalipse2v11 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. O vencedor de modo algum sofrerá dano da segunda morte.",
   "translationNote": "οὐ μή com aoristo passivo subjuntivo equivale a «de modo algum sofrerá dano», não a duas negações que se anulam.",
-  "textualNotes": "οὐ μή + ἀδικηθῇ, aoristo passivo subjuntivo 3ª pessoa singular, expressa negação enfática prospectiva. A segunda morte é retomada em Ap 20:6,14; 21:8.",
+  "textualNotes": "οὐ μή + ἀδικηθῇ, aoristo passivo subjuntivo 3ª pessoa singular, expressa negação enfática prospectiva. A segunda morte é retomada em Ap 20:6,14; 21:8.\n\n[Revisão acadêmica complementar] οὐ μή seguido de subjuntivo aoristo passivo ἀδικηθῇ é negação enfática de dano futuro; segunda morte é expressão intratextual que deve ser analisada em Ap 20–21.",
   "exegeticalNotes": [
     "A segunda morte é distinta do sofrimento da morte física.",
     "A negação οὐ μή é intensiva."

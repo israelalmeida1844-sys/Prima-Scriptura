@@ -8,7 +8,7 @@ export const apocalipse2v17 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei do maná escondido; também lhe darei uma pedrinha branca e, sobre a pedrinha, um nome novo escrito, que ninguém conhece, exceto quem o recebe.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Três elementos articulam a promessa ao vencedor: τοῦ μάννα τοῦ κεκρυμμένου (genitivo partitivo do maná escondido); ψῆφον λευκήν (pedrinha branca, possivelmente sinal de absolvição, admissão ou identificação; interpretação incerta); ὄνομα καινὸν γεγραμμένον (novo nome escrito). Não apresentar um único simbolismo histórico como certeza textual.",
+  "textualNotes": "Três elementos articulam a promessa ao vencedor: τοῦ μάννα τοῦ κεκρυμμένου (genitivo partitivo do maná escondido); ψῆφον λευκήν (pedrinha branca, possivelmente sinal de absolvição, admissão ou identificação; interpretação incerta); ὄνομα καινὸν γεγραμμένον (novo nome escrito). Não apresentar um único simbolismo histórico como certeza textual.\n\n[Revisão acadêmica complementar] τοῦ μάννα τοῦ κεκρυμμένου é genitivo partitivo; ψῆφος λευκή oferece simbolismo interpretativamente aberto. ὄνομα καινὸν γεγραμμένον associa qualidade e particípio perfeito ao nome.",
   "exegeticalNotes": [
     "O maná escondido, a pedra branca e o nome novo formam uma promessa composta.",
     "As interpretações judiciais e sociais para a pedra são propostas, não fatos demonstrados."

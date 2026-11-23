@@ -8,7 +8,7 @@ export const apocalipse2v19 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço tuas obras, teu amor, tua fé, teu serviço e tua perseverança, e sei que tuas últimas obras são mais numerosas que as primeiras.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "πλείονα é comparativo acusativo neutro plural, relacionado a τὰ ἔργα, e τῶν πρώτων oferece o padrão comparativo genitivo; amor, fé, serviço e perseverança são qualidades elogiadas.",
+  "textualNotes": "πλείονα é comparativo acusativo neutro plural, relacionado a τὰ ἔργα, e τῶν πρώτων oferece o padrão comparativo genitivo; amor, fé, serviço e perseverança são qualidades elogiadas.\n\n[Revisão acadêmica complementar] πλείονα, comparativo neutro plural, concorda com τὰ ἔργα; τῶν πρώτων é genitivo de comparação. A tradução pode suplementar 'sei', mas deve marcar que não há segundo Οἶδα expresso.",
   "exegeticalNotes": [
     "O elogio destaca progresso nas obras, em contraste com a acusação que segue.",
     "Fé e serviço coexistem com o problema de tolerância ao ensino descrito."

@@ -8,7 +8,7 @@ export const apocalipse2v16 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Arrepende-te, portanto! Do contrário, venho a ti sem demora e lutarei contra eles com a espada da minha boca.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "μετανόησον é imperativo aoristo ativo, segunda pessoa singular. πολεμήσω está no futuro ativo indicativo, primeira pessoa singular; a guerra é contra os grupos indicados no contexto, representada pela espada que procede da boca de Cristo (1:16; 2:12).",
+  "textualNotes": "μετανόησον é imperativo aoristo ativo, segunda pessoa singular. πολεμήσω está no futuro ativo indicativo, primeira pessoa singular; a guerra é contra os grupos indicados no contexto, representada pela espada que procede da boca de Cristo (1:16; 2:12).\n\n[Revisão acadêmica complementar] μετανόησον é dirigido à comunidade singular; πολεμήσω μετ’ αὐτῶν desloca o alvo do juízo ao grupo plural; esse contraste pronominal exige explicação.",
   "exegeticalNotes": [
     "O chamado ao arrependimento antecede a ameaça de julgamento.",
     "A espada da boca é linguagem de conflito e autoridade, não incentivo a violência humana."

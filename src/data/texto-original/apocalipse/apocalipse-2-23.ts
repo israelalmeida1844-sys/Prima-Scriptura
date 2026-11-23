@@ -8,7 +8,7 @@ export const apocalipse2v23 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E matarei seus filhos com morte; todas as igrejas saberão que eu sou aquele que sonda rins e corações, e darei a cada um de vós segundo as vossas obras.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὁ ἐραυνῶν νεφροὺς καὶ καρδίας: 'aquele que sonda rins e corações'. A linguagem hebraica de interioridade e juízo ecoa Jr 11:20; 17:10 e Sl 7:9, sem exigir identidade verbal absoluta entre versões. ἀποκτενῶ ἐν θανάτῳ expressa sanção judicial em formulação enfática.",
+  "textualNotes": "ὁ ἐραυνῶν νεφροὺς καὶ καρδίας: 'aquele que sonda rins e corações'. A linguagem hebraica de interioridade e juízo ecoa Jr 11:20; 17:10 e Sl 7:9, sem exigir identidade verbal absoluta entre versões. ἀποκτενῶ ἐν θανάτῳ expressa sanção judicial em formulação enfática.\n\n[Revisão acadêmica complementar] ἀποκτενῶ ἐν θανάτῳ é expressão enfática; νεφρούς e καρδίας representam o foro interior em linguagem antropológica bíblica. Aplicação histórica concreta requer evidências independentes.",
   "exegeticalNotes": [
     "O julgamento afirma o conhecimento divino da interioridade e das obras.",
     "Rins e coração representam dimensões da vida interior em linguagem semítica."

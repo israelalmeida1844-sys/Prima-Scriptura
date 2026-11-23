@@ -8,7 +8,7 @@ export const apocalipse2v7 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei de comer da árvore da vida que está no paraíso de Deus.",
   "translationNote": "A construção de dativo τῷ νικῶντι ... αὐτῷ foi vertida com retomada do beneficiário; a árvore da vida remete à promessa escatológica.",
-  "textualNotes": "τῷ νικῶντι δώσω αὐτῷ apresenta dativo topicalizado retomado pelo pronome dativo. A árvore da vida estabelece alusão ao Éden (Gn 2–3 na Septuaginta), sem reivindicar citação verbal idêntica.",
+  "textualNotes": "τῷ νικῶντι δώσω αὐτῷ apresenta dativo topicalizado retomado pelo pronome dativo. A árvore da vida estabelece alusão ao Éden (Gn 2–3 na Septuaginta), sem reivindicar citação verbal idêntica.\n\n[Revisão acadêmica complementar] τῷ νικῶντι é particípio substantivado no dativo, retomado por αὐτῷ; φαγεῖν depende de δώσω. O ξύλον τῆς ζωῆς ecoa Gn 2–3 e Ap 22.",
   "exegeticalNotes": [
     "O convite a ouvir dirige a mensagem à totalidade das igrejas.",
     "A promessa da árvore da vida faz eco ao Éden."

@@ -7,7 +7,7 @@ export const apocalipse1v5 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "E da parte de Jesus Cristo, a testemunha fiel, o primogênito dentre os mortos e o soberano dos reis da terra. Àquele que nos ama e nos libertou dos nossos pecados por seu sangue,",
-  "textualNotes": "O SBLGNT lê λύσαντι (particípio aoristo ativo de λύω: «libertou»), em concordância com as principais edições críticas; a tradição do Textus Receptus lê λούσαντι (de λούω: «lavou»). A diferença de uma letra envolve imagens distintas, ambas cristologicamente coerentes. Verificar sempre o aparato para atribuições específicas de testemunhas e suas correções; não se deve apresentar um agrupamento simplificado de manuscritos como colação exaustiva.",
+  "textualNotes": "O SBLGNT lê λύσαντι (particípio aoristo ativo de λύω: «libertou»), em concordância com as principais edições críticas; a tradição do Textus Receptus lê λούσαντι (de λούω: «lavou»). A diferença de uma letra envolve imagens distintas, ambas cristologicamente coerentes. Verificar sempre o aparato para atribuições específicas de testemunhas e suas correções; não se deve apresentar um agrupamento simplificado de manuscritos como colação exaustiva.\n\n[Revisão acadêmica complementar] ὁ μάρτυς ... nominativo após ἀπὸ Ἰησοῦ Χριστοῦ apresenta aposições formalmente dissonantes. λύσαντι significa libertar; λούσαντι, lavar, pertence a outra tradição textual e não pode substituir o lema do texto crítico.",
   "translationNote": "A expressão ἐν τῷ αἵματι αὐτοῦ é vertida como «por seu sangue»; o meio ou esfera requer análise contextual.",
   "words": [
     {

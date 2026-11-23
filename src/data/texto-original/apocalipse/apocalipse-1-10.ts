@@ -8,7 +8,7 @@ export const apocalipse1v10 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Achei-me no Espírito no dia do Senhor e ouvi atrás de mim uma voz forte, semelhante ao som de uma trombeta,",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "κυριακῇ ἡμέρᾳ é expressão dativa («dia pertencente ao Senhor»). O adjetivo κυριακός, isoladamente, não identifica o dia semanal; isso requer análise histórica e intertextual.",
+  "textualNotes": "κυριακῇ ἡμέρᾳ é expressão dativa («dia pertencente ao Senhor»). O adjetivo κυριακός, isoladamente, não identifica o dia semanal; isso requer análise histórica e intertextual.\n\n[Revisão acadêmica complementar] ἐν πνεύματι pode indicar condição de experiência visionária; κυριακῇ modifica ἡμέρᾳ, mas não resolve por si só qual dia era referido historicamente.",
   "exegeticalNotes": [
     "A experiência «no Espírito» introduz a percepção profética sem especificar seu mecanismo.",
     "A expressão «dia do Senhor» requer uma discussão histórica separada de sua interpretação denominacional."
