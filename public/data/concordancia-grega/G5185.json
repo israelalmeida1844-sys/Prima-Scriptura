@@ -1,0 +1,391 @@
+{
+  "strong": "G5185",
+  "lemma": "τυφλός",
+  "lemmaTranslit": "typhlos",
+  "tokenCount": 50,
+  "verseCount": 46,
+  "bookDistribution": {
+    "Mateus": 17,
+    "Marcos": 5,
+    "Lucas": 8,
+    "João": 16,
+    "Atos": 1,
+    "Romanos": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Mt 9:27",
+      "text": "δύο τυφλοὶ κράζοντες",
+      "highlightedWord": "τυφλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Mt 9:28",
+      "text": "οἱ τυφλοί, καὶ",
+      "highlightedWord": "τυφλοί,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Mt 11:5",
+      "text": "τυφλοὶ ἀναβλέπουσιν",
+      "highlightedWord": "τυφλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Mt 12:22",
+      "text": "δαιμονιζόμενος τυφλὸς καὶ",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Mt 15:14",
+      "text": "αὐτούς· τυφλοί εἰσιν",
+      "highlightedWord": "τυφλοί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Mt 15:30",
+      "text": "κωφούς, τυφλούς, χωλούς,",
+      "highlightedWord": "τυφλούς,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mt 15:31",
+      "text": "καὶ τυφλοὺς βλέποντας·",
+      "highlightedWord": "τυφλοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Mt 20:30",
+      "text": "δύο τυφλοὶ καθήμενοι",
+      "highlightedWord": "τυφλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Mt 21:14",
+      "text": "αὐτῷ τυφλοὶ καὶ",
+      "highlightedWord": "τυφλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 16,
+      "reference": "Mt 23:16",
+      "text": "ὁδηγοὶ τυφλοὶ οἱ",
+      "highlightedWord": "τυφλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 17,
+      "reference": "Mt 23:17",
+      "text": "καὶ τυφλοί, τίς",
+      "highlightedWord": "τυφλοί,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Mt 23:19",
+      "text": "τυφλοί, τί",
+      "highlightedWord": "τυφλοί,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 24,
+      "reference": "Mt 23:24",
+      "text": "ὁδηγοὶ τυφλοί, οἱ",
+      "highlightedWord": "τυφλοί,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 26,
+      "reference": "Mt 23:26",
+      "text": "Φαρισαῖε τυφλέ, καθάρισον",
+      "highlightedWord": "τυφλέ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Mk 8:22",
+      "text": "αὐτῷ τυφλὸν καὶ",
+      "highlightedWord": "τυφλὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Mk 8:23",
+      "text": "τοῦ τυφλοῦ ἐξήνεγκεν",
+      "highlightedWord": "τυφλοῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 46,
+      "reference": "Mk 10:46",
+      "text": "Βαρτιμαῖος τυφλὸς προσαίτης",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 49,
+      "reference": "Mk 10:49",
+      "text": "τὸν τυφλὸν λέγοντες",
+      "highlightedWord": "τυφλὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 51,
+      "reference": "Mk 10:51",
+      "text": "δὲ τυφλὸς εἶπεν",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Lk 4:18",
+      "text": "καὶ τυφλοῖς ἀνάβλεψιν,",
+      "highlightedWord": "τυφλοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Lk 6:39",
+      "text": "δύναται τυφλὸς τυφλὸν",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Lk 7:21",
+      "text": "καὶ τυφλοῖς πολλοῖς",
+      "highlightedWord": "τυφλοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Lk 7:22",
+      "text": "ἠκούσατε· τυφλοὶ ἀναβλέπουσιν,",
+      "highlightedWord": "τυφλοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Lk 14:13",
+      "text": "χωλούς, τυφλούς·",
+      "highlightedWord": "τυφλούς·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Lk 14:21",
+      "text": "καὶ τυφλοὺς καὶ",
+      "highlightedWord": "τυφλοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Lk 18:35",
+      "text": "Ἰεριχὼ τυφλός τις",
+      "highlightedWord": "τυφλός"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Jn 5:3",
+      "text": "ἀσθενούντων, τυφλῶν, χωλῶν,",
+      "highlightedWord": "τυφλῶν,"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Jn 9:1",
+      "text": "ἄνθρωπον τυφλὸν ἐκ",
+      "highlightedWord": "τυφλὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Jn 9:2",
+      "text": "ἵνα τυφλὸς γεννηθῇ;",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Jn 9:13",
+      "text": "ποτε τυφλόν.",
+      "highlightedWord": "τυφλόν."
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Jn 9:17",
+      "text": "τῷ τυφλῷ πάλιν·",
+      "highlightedWord": "τυφλῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Jn 9:18",
+      "text": "ἦν τυφλὸς καὶ",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Jn 9:19",
+      "text": "ὅτι τυφλὸς ἐγεννήθη;",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Jn 9:20",
+      "text": "ὅτι τυφλὸς ἐγεννήθη·",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Jn 9:24",
+      "text": "ἦν τυφλὸς καὶ",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Jn 9:25",
+      "text": "ὅτι τυφλὸς ὢν",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Jn 9:32",
+      "text": "ὀφθαλμοὺς τυφλοῦ γεγεννημένου·",
+      "highlightedWord": "τυφλοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Jn 9:39",
+      "text": "βλέποντες τυφλοὶ γένωνται.",
+      "highlightedWord": "τυφλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Jn 9:40",
+      "text": "ἡμεῖς τυφλοί ἐσμεν;",
+      "highlightedWord": "τυφλοί"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Jn 9:41",
+      "text": "Εἰ τυφλοὶ ἦτε,",
+      "highlightedWord": "τυφλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Jn 10:21",
+      "text": "δύναται τυφλῶν ὀφθαλμοὺς",
+      "highlightedWord": "τυφλῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Jn 11:37",
+      "text": "τοῦ τυφλοῦ ποιῆσαι",
+      "highlightedWord": "τυφλοῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ac 13:11",
+      "text": "ἔσῃ τυφλὸς μὴ",
+      "highlightedWord": "τυφλὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Ro 2:19",
+      "text": "εἶναι τυφλῶν, φῶς",
+      "highlightedWord": "τυφλῶν,"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Pe 1:9",
+      "text": "ταῦτα, τυφλός ἐστιν",
+      "highlightedWord": "τυφλός"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "καὶ τυφλὸς καὶ",
+      "highlightedWord": "τυφλὸς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
