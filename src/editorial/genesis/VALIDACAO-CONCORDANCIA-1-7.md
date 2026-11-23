@@ -74,6 +74,6 @@ Atribuição: Original work of the Open Scriptures Hebrew Bible available at htt
 
 **Auditoria do corpus e build:** GitHub Actions 45094486817, sucesso: https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45094486817
 
-**Testes em navegador:** GitHub Actions 45094506907: https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45094506907 . Registrar o resultado final quando confirmado.
+**Testes em navegador:** GitHub Actions 45094506907, **concluído com sucesso**: https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45094506907 . Foram verificados todos os sete protótipos, inclusive os 17 controles de seleção lexical de Gn 1:7, alternância de modos, estados de carregamento/erro, concordâncias, fonte computada Times New Roman, sobreposição geométrica de rótulos e ausência de rolagem horizontal do documento em 1440, 390 e 320 px.
 
 **Limites acadêmicos e operacionais:** não houve colação exaustiva de variantes de todos os testemunhos textuais nem avaliação estética humana em diferentes dispositivos. A compilação da página não a publica no site; a branch pública do GitHub continua acessível como repositório. Não executar merge/deploy sem aprovação expressa.
