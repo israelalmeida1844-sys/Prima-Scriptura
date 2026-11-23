@@ -47,7 +47,7 @@
 - **Οἶδά σου τὰ ἔργα:** Οἶδα tem forma de perfeito ativo indicativo, 1ª pessoa singular, com sentido presente «sei/conheço»; σου é genitivo pronominal relacionado à comunidade; τὰ ἔργα é acusativo neutro plural. A colocação do pronome antes do objeto merece anotação sintática, sem forçar regra categórica de posse.
 - **ὅτι ὄνομα ἔχεις ὅτι ζῇς:** primeira partícula ὅτι introduz conteúdo conhecido; a segunda explica o teor da reputação. Distinguir ambas de um «porque» automático.
 - **νεκρὸς εἶ:** νεκρός é predicativo nominativo masculino singular; εἶ é presente ativo indicativo, 2ª pessoa singular. Contraste entre reputação de vida e condição de morte.
-- **Variante a colacionar:** parte da tradição do Textus Receptus apresenta τὸ ὄνομα; o estudo usa ὄνομα sem artigo conforme SBLGNT. Não atribuir testemunhos manuscritos individuais sem aparato.
+- **Cautela com alegações de variantes:** o texto-base consultado apresenta ὄνομα sem artigo, e o aparato comparativo do SBLGNT consultado não assinala uma unidade de variação em 3:1. A alegação anterior sobre τὸ ὄνομα no Textus Receptus foi retirada por falta de comprovação específica nesta revisão; não inferir unanimidade dos testemunhos manuscritos.
 - **Ajuste estilístico proposto:** «Conheço tuas obras: tens reputação de estar vivo, mas estás morto». É tradução contextual, não equivalência interlinear palavra a palavra.
 
 **Verificação de implantação:** não foram encontrados `src/data/texto-original/apocalipse/apocalipse-3-1.ts`, `src/pages/comentarios/apocalipse/capitulo-3/index.astro` ou `scripts/gerar-apocalipse-3.mjs` na branch em 23/11/2026. Assim, testes de tokens, Strong, concordância, Astro, navegador e rotas do capítulo 3 permanecem **bloqueados por ausência da implementação**.
@@ -61,3 +61,7 @@ Semântica e sintaxe: estudo-piloto iniciado.
 Léxico e concordâncias: pendentes.  
 Interface e build: pendentes.  
 Publicação: proibida até aprovação.
+
+## Encaminhamento após a revisão de todo o capítulo
+
+O exame de 3:1 integra agora o relatório `docs/revisao-academica-apocalipse-3-1-22-2026-11-23.md`. A auditoria em `docs/auditoria-corpus-apocalipse-3-1-22.json` verificou **525 registros em 22 versículos** no corpus MorphGNT fixado, identificando **170 lemas**; **169** têm mapeamento direto Strong no arquivo de referência, enquanto o lema `ζηλεύω` em 3:19 requer decisão editorial de equivalência e documentação das fontes. Não se deve chamar o interlinear de aprovado antes de criar os 22 arquivos e executar testes Astro.
