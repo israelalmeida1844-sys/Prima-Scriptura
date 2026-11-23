@@ -1,0 +1,160 @@
+{
+  "strong": "G988",
+  "lemma": "βλασφημία",
+  "lemmaTranslit": "blasphēmia",
+  "tokenCount": 18,
+  "verseCount": 17,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 3,
+    "Lucas": 1,
+    "João": 1,
+    "Efésios": 1,
+    "Colossenses": 1,
+    "1 Timóteo": 1,
+    "Judas": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Mt 12:31",
+      "text": "καὶ βλασφημία ἀφεθήσεται",
+      "highlightedWord": "βλασφημία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Mt 15:19",
+      "text": "ψευδομαρτυρίαι, βλασφημίαι.",
+      "highlightedWord": "βλασφημίαι."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 65,
+      "reference": "Mt 26:65",
+      "text": "τὴν βλασφημίαν·",
+      "highlightedWord": "βλασφημίαν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Mk 3:28",
+      "text": "αἱ βλασφημίαι ὅσα",
+      "highlightedWord": "βλασφημίαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Mk 7:22",
+      "text": "πονηρός, βλασφημία, ὑπερηφανία,",
+      "highlightedWord": "βλασφημία,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 64,
+      "reference": "Mk 14:64",
+      "text": "τῆς βλασφημίας· τί",
+      "highlightedWord": "βλασφημίας·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Lk 5:21",
+      "text": "λαλεῖ βλασφημίας; τίς",
+      "highlightedWord": "βλασφημίας;"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Jn 10:33",
+      "text": "περὶ βλασφημίας, καὶ",
+      "highlightedWord": "βλασφημίας,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Eph 4:31",
+      "text": "καὶ βλασφημία ἀρθήτω",
+      "highlightedWord": "βλασφημία"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Col 3:8",
+      "text": "κακίαν, βλασφημίαν, αἰσχρολογίαν",
+      "highlightedWord": "βλασφημίαν,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "1Ti 6:4",
+      "text": "ἔρις, βλασφημίαι, ὑπόνοιαι",
+      "highlightedWord": "βλασφημίαι,"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Jud 1:9",
+      "text": "ἐπενεγκεῖν βλασφημίας, ἀλλὰ",
+      "highlightedWord": "βλασφημίας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "τὴν βλασφημίαν ἐκ",
+      "highlightedWord": "βλασφημίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Re 13:1",
+      "text": "ὀνόματα βλασφημίας.",
+      "highlightedWord": "βλασφημίας."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Re 13:5",
+      "text": "καὶ βλασφημίας, καὶ",
+      "highlightedWord": "βλασφημίας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Re 13:6",
+      "text": "εἰς βλασφημίας πρὸς",
+      "highlightedWord": "βλασφημίας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Re 17:3",
+      "text": "ὀνόματα βλασφημίας, ἔχων",
+      "highlightedWord": "βλασφημίας,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

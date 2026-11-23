@@ -1,0 +1,1130 @@
+{
+  "strong": "G2068",
+  "lemma": "ἐσθίω",
+  "lemmaTranslit": "esthiō",
+  "tokenCount": 157,
+  "verseCount": 138,
+  "bookDistribution": {
+    "Mateus": 24,
+    "Marcos": 26,
+    "Lucas": 33,
+    "João": 15,
+    "Atos": 7,
+    "Romanos": 13,
+    "1 Coríntios": 27,
+    "2 Tessalonicenses": 3,
+    "Hebreus": 2,
+    "Tiago": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mt 6:25",
+      "text": "τί φάγητε, μηδὲ",
+      "highlightedWord": "φάγητε,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mt 6:31",
+      "text": "Τί φάγωμεν; ἤ·",
+      "highlightedWord": "φάγωμεν;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Mt 9:11",
+      "text": "ἁμαρτωλῶν ἐσθίει ὁ",
+      "highlightedWord": "ἐσθίει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Mt 11:18",
+      "text": "μήτε ἐσθίων μήτε",
+      "highlightedWord": "ἐσθίων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Mt 11:19",
+      "text": "ἀνθρώπου ἐσθίων καὶ",
+      "highlightedWord": "ἐσθίων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Mt 12:1",
+      "text": "καὶ ἐσθίειν.",
+      "highlightedWord": "ἐσθίειν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Mt 12:4",
+      "text": "προθέσεως ἔφαγον, ὃ",
+      "highlightedWord": "ἔφαγον,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Mt 14:16",
+      "text": "ὑμεῖς φαγεῖν.",
+      "highlightedWord": "φαγεῖν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Mt 14:20",
+      "text": "καὶ ἔφαγον πάντες",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Mt 14:21",
+      "text": "δὲ ἐσθίοντες ἦσαν",
+      "highlightedWord": "ἐσθίοντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Mt 15:2",
+      "text": "ἄρτον ἐσθίωσιν.",
+      "highlightedWord": "ἐσθίωσιν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Mt 15:20",
+      "text": "χερσὶν φαγεῖν οὐ",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Mt 15:27",
+      "text": "κυνάρια ἐσθίει ἀπὸ",
+      "highlightedWord": "ἐσθίει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Mt 15:32",
+      "text": "τί φάγωσιν· καὶ",
+      "highlightedWord": "φάγωσιν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "Mt 15:37",
+      "text": "καὶ ἔφαγον πάντες",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 38,
+      "reference": "Mt 15:38",
+      "text": "δὲ ἐσθίοντες ἦσαν",
+      "highlightedWord": "ἐσθίοντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 49,
+      "reference": "Mt 24:49",
+      "text": "αὐτοῦ, ἐσθίῃ δὲ",
+      "highlightedWord": "ἐσθίῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 35,
+      "reference": "Mt 25:35",
+      "text": "μοι φαγεῖν, ἐδίψησα",
+      "highlightedWord": "φαγεῖν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 42,
+      "reference": "Mt 25:42",
+      "text": "μοι φαγεῖν, ἐδίψησα",
+      "highlightedWord": "φαγεῖν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 17,
+      "reference": "Mt 26:17",
+      "text": "σοι φαγεῖν τὸ",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 21,
+      "reference": "Mt 26:21",
+      "text": "καὶ ἐσθιόντων αὐτῶν",
+      "highlightedWord": "ἐσθιόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 26,
+      "reference": "Mt 26:26",
+      "text": "Ἐσθιόντων δὲ",
+      "highlightedWord": "Ἐσθιόντων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Mk 2:16",
+      "text": "ὅτι ἐσθίει μετὰ",
+      "highlightedWord": "ἐσθίει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Mk 2:26",
+      "text": "προθέσεως ἔφαγεν, οὓς",
+      "highlightedWord": "ἔφαγεν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Mk 3:20",
+      "text": "ἄρτον φαγεῖν.",
+      "highlightedWord": "φαγεῖν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Mk 5:43",
+      "text": "αὐτῇ φαγεῖν.",
+      "highlightedWord": "φαγεῖν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mk 6:31",
+      "text": "οὐδὲ φαγεῖν εὐκαίρουν.",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 36,
+      "reference": "Mk 6:36",
+      "text": "τί φάγωσιν.",
+      "highlightedWord": "φάγωσιν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 37,
+      "reference": "Mk 6:37",
+      "text": "ὑμεῖς φαγεῖν. καὶ",
+      "highlightedWord": "φαγεῖν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Mk 6:42",
+      "text": "καὶ ἔφαγον πάντες",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Mk 6:44",
+      "text": "οἱ φαγόντες τοὺς",
+      "highlightedWord": "φαγόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Mk 7:2",
+      "text": "ἀνίπτοις, ἐσθίουσιν τοὺς",
+      "highlightedWord": "ἐσθίουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Mk 7:3",
+      "text": "οὐκ ἐσθίουσιν, κρατοῦντες",
+      "highlightedWord": "ἐσθίουσιν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Mk 7:4",
+      "text": "οὐκ ἐσθίουσιν, καὶ",
+      "highlightedWord": "ἐσθίουσιν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Mk 7:5",
+      "text": "χερσὶν ἐσθίουσιν τὸν",
+      "highlightedWord": "ἐσθίουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Mk 7:28",
+      "text": "τραπέζης ἐσθίουσιν ἀπὸ",
+      "highlightedWord": "ἐσθίουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Mk 8:1",
+      "text": "τί φάγωσιν, προσκαλεσάμενος",
+      "highlightedWord": "φάγωσιν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Mk 8:2",
+      "text": "τί φάγωσιν·",
+      "highlightedWord": "φάγωσιν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Mk 8:8",
+      "text": "καὶ ἔφαγον καὶ",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Mk 11:14",
+      "text": "καρπὸν φάγοι. καὶ",
+      "highlightedWord": "φάγοι."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Mk 14:12",
+      "text": "ἵνα φάγῃς τὸ",
+      "highlightedWord": "φάγῃς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Mk 14:14",
+      "text": "μου φάγω;",
+      "highlightedWord": "φάγω;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Mk 14:18",
+      "text": "καὶ ἐσθιόντων ὁ",
+      "highlightedWord": "ἐσθιόντων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Mk 14:22",
+      "text": "Καὶ ἐσθιόντων αὐτῶν",
+      "highlightedWord": "ἐσθιόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Lk 4:2",
+      "text": "οὐκ ἔφαγεν οὐδὲν",
+      "highlightedWord": "ἔφαγεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Lk 5:30",
+      "text": "ἁμαρτωλῶν ἐσθίετε καὶ",
+      "highlightedWord": "ἐσθίετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Lk 5:33",
+      "text": "σοὶ ἐσθίουσιν καὶ",
+      "highlightedWord": "ἐσθίουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Lk 6:1",
+      "text": "καὶ ἤσθιον τοὺς",
+      "highlightedWord": "ἤσθιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Lk 6:4",
+      "text": "λαβὼν ἔφαγεν καὶ",
+      "highlightedWord": "ἔφαγεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Lk 7:33",
+      "text": "μὴ ἐσθίων ἄρτον",
+      "highlightedWord": "ἐσθίων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Lk 7:34",
+      "text": "ἀνθρώπου ἐσθίων καὶ",
+      "highlightedWord": "ἐσθίων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Lk 7:36",
+      "text": "ἵνα φάγῃ μετ’",
+      "highlightedWord": "φάγῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 55,
+      "reference": "Lk 8:55",
+      "text": "δοθῆναι φαγεῖν.",
+      "highlightedWord": "φαγεῖν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Lk 9:13",
+      "text": "ὑμεῖς φαγεῖν. οἱ",
+      "highlightedWord": "φαγεῖν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Lk 9:17",
+      "text": "καὶ ἔφαγον καὶ",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Lk 10:7",
+      "text": "μένετε, ἐσθίοντες καὶ",
+      "highlightedWord": "ἐσθίοντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Lk 10:8",
+      "text": "ὑμᾶς, ἐσθίετε τὰ",
+      "highlightedWord": "ἐσθίετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Lk 12:19",
+      "text": "ἀναπαύου, φάγε, πίε,",
+      "highlightedWord": "φάγε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Lk 12:22",
+      "text": "τί φάγητε, μηδὲ",
+      "highlightedWord": "φάγητε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Lk 12:29",
+      "text": "τί φάγητε καὶ",
+      "highlightedWord": "φάγητε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Lk 12:45",
+      "text": "παιδίσκας, ἐσθίειν τε",
+      "highlightedWord": "ἐσθίειν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Lk 13:26",
+      "text": "λέγειν· Ἐφάγομεν ἐνώπιόν",
+      "highlightedWord": "Ἐφάγομεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Lk 14:1",
+      "text": "σαββάτῳ φαγεῖν ἄρτον",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Lk 14:15",
+      "text": "ὅστις φάγεται ἄρτον",
+      "highlightedWord": "φάγεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Lk 15:16",
+      "text": "ὧν ἤσθιον οἱ",
+      "highlightedWord": "ἤσθιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Lk 15:23",
+      "text": "καὶ φαγόντες εὐφρανθῶμεν,",
+      "highlightedWord": "φαγόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Lk 17:8",
+      "text": "ἕως φάγω καὶ",
+      "highlightedWord": "φάγω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Lk 17:27",
+      "text": "ἤσθιον, ἔπινον,",
+      "highlightedWord": "ἤσθιον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 28,
+      "reference": "Lk 17:28",
+      "text": "Λώτ· ἤσθιον, ἔπινον,",
+      "highlightedWord": "ἤσθιον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Lk 22:8",
+      "text": "ἵνα φάγωμεν.",
+      "highlightedWord": "φάγωμεν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Lk 22:11",
+      "text": "μου φάγω;",
+      "highlightedWord": "φάγω;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 15,
+      "reference": "Lk 22:15",
+      "text": "πάσχα φαγεῖν μεθ’",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Lk 22:16",
+      "text": "μὴ φάγω αὐτὸ",
+      "highlightedWord": "φάγω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Lk 22:30",
+      "text": "ἵνα ἔσθητε καὶ",
+      "highlightedWord": "ἔσθητε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Lk 24:43",
+      "text": "αὐτῶν ἔφαγεν.",
+      "highlightedWord": "ἔφαγεν."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Jn 4:31",
+      "text": "Ῥαββί, φάγε.",
+      "highlightedWord": "φάγε."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Jn 4:32",
+      "text": "ἔχω φαγεῖν ἣν",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Jn 4:33",
+      "text": "αὐτῷ φαγεῖν;",
+      "highlightedWord": "φαγεῖν;"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Jn 6:5",
+      "text": "ἵνα φάγωσιν οὗτοι;",
+      "highlightedWord": "φάγωσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Jn 6:23",
+      "text": "ὅπου ἔφαγον τὸν",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 26,
+      "reference": "Jn 6:26",
+      "text": "ὅτι ἐφάγετε ἐκ",
+      "highlightedWord": "ἐφάγετε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Jn 6:31",
+      "text": "μάννα ἔφαγον ἐν",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Jn 6:49",
+      "text": "ὑμῶν ἔφαγον ἐν",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Jn 6:50",
+      "text": "αὐτοῦ φάγῃ καὶ",
+      "highlightedWord": "φάγῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 51,
+      "reference": "Jn 6:51",
+      "text": "τις φάγῃ ἐκ",
+      "highlightedWord": "φάγῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 52,
+      "reference": "Jn 6:52",
+      "text": "αὐτοῦ φαγεῖν;",
+      "highlightedWord": "φαγεῖν;"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 53,
+      "reference": "Jn 6:53",
+      "text": "μὴ φάγητε τὴν",
+      "highlightedWord": "φάγητε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 58,
+      "reference": "Jn 6:58",
+      "text": "καθὼς ἔφαγον οἱ",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Jn 18:28",
+      "text": "ἀλλὰ φάγωσιν τὸ",
+      "highlightedWord": "φάγωσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Ac 9:9",
+      "text": "οὐκ ἔφαγεν οὐδὲ",
+      "highlightedWord": "ἔφαγεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Ac 10:13",
+      "text": "καὶ φάγε.",
+      "highlightedWord": "φάγε."
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Ac 10:14",
+      "text": "οὐδέποτε ἔφαγον πᾶν",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Ac 11:7",
+      "text": "καὶ φάγε.",
+      "highlightedWord": "φάγε."
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Ac 23:12",
+      "text": "μήτε φαγεῖν μήτε",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 21,
+      "reference": "Ac 23:21",
+      "text": "μήτε φαγεῖν μήτε",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 35,
+      "reference": "Ac 27:35",
+      "text": "ἤρξατο ἐσθίειν.",
+      "highlightedWord": "ἐσθίειν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Ro 14:2",
+      "text": "πιστεύει φαγεῖν πάντα,",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Ro 14:3",
+      "text": "ὁ ἐσθίων τὸν",
+      "highlightedWord": "ἐσθίων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Ro 14:6",
+      "text": "ὁ ἐσθίων κυρίῳ",
+      "highlightedWord": "ἐσθίων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ro 14:20",
+      "text": "προσκόμματος ἐσθίοντι.",
+      "highlightedWord": "ἐσθίοντι."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Ro 14:21",
+      "text": "μὴ φαγεῖν κρέα",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Ro 14:23",
+      "text": "ἐὰν φάγῃ κατακέκριται,",
+      "highlightedWord": "φάγῃ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "1Co 8:7",
+      "text": "εἰδωλόθυτον ἐσθίουσιν, καὶ",
+      "highlightedWord": "ἐσθίουσιν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "1Co 8:8",
+      "text": "ἐὰν φάγωμεν, περισσεύομεν,",
+      "highlightedWord": "φάγωμεν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "1Co 8:10",
+      "text": "εἰδωλόθυτα ἐσθίειν;",
+      "highlightedWord": "ἐσθίειν;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "1Co 8:13",
+      "text": "μὴ φάγω κρέα",
+      "highlightedWord": "φάγω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "1Co 9:4",
+      "text": "ἐξουσίαν φαγεῖν καὶ",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "1Co 9:7",
+      "text": "οὐκ ἐσθίει; τίς",
+      "highlightedWord": "ἐσθίει;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "1Co 9:13",
+      "text": "ἱεροῦ ἐσθίουσιν, οἱ",
+      "highlightedWord": "ἐσθίουσιν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "1Co 10:3",
+      "text": "βρῶμα ἔφαγον",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "1Co 10:7",
+      "text": "λαὸς φαγεῖν καὶ",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "1Co 10:18",
+      "text": "οἱ ἐσθίοντες τὰς",
+      "highlightedWord": "ἐσθίοντες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "1Co 10:25",
+      "text": "πωλούμενον ἐσθίετε μηδὲν",
+      "highlightedWord": "ἐσθίετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "1Co 10:27",
+      "text": "ὑμῖν ἐσθίετε μηδὲν",
+      "highlightedWord": "ἐσθίετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "1Co 10:28",
+      "text": "μὴ ἐσθίετε δι’",
+      "highlightedWord": "ἐσθίετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "1Co 10:31",
+      "text": "οὖν ἐσθίετε εἴτε",
+      "highlightedWord": "ἐσθίετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "1Co 11:20",
+      "text": "δεῖπνον φαγεῖν,",
+      "highlightedWord": "φαγεῖν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "1Co 11:21",
+      "text": "τῷ φαγεῖν, καὶ",
+      "highlightedWord": "φαγεῖν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "1Co 11:22",
+      "text": "τὸ ἐσθίειν καὶ",
+      "highlightedWord": "ἐσθίειν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "1Co 11:26",
+      "text": "ἐὰν ἐσθίητε τὸν",
+      "highlightedWord": "ἐσθίητε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "1Co 11:27",
+      "text": "ἂν ἐσθίῃ τὸν",
+      "highlightedWord": "ἐσθίῃ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "1Co 11:28",
+      "text": "ἄρτου ἐσθιέτω καὶ",
+      "highlightedWord": "ἐσθιέτω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "1Co 11:29",
+      "text": "γὰρ ἐσθίων καὶ",
+      "highlightedWord": "ἐσθίων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "1Co 11:33",
+      "text": "τὸ φαγεῖν ἀλλήλους",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "1Co 11:34",
+      "text": "οἴκῳ ἐσθιέτω, ἵνα",
+      "highlightedWord": "ἐσθιέτω,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "1Co 15:32",
+      "text": "ἐγείρονται, Φάγωμεν καὶ",
+      "highlightedWord": "Φάγωμεν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Th 3:8",
+      "text": "ἄρτον ἐφάγομεν παρά",
+      "highlightedWord": "ἐφάγομεν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Th 3:10",
+      "text": "μηδὲ ἐσθιέτω.",
+      "highlightedWord": "ἐσθιέτω."
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Th 3:12",
+      "text": "ἄρτον ἐσθίωσιν.",
+      "highlightedWord": "ἐσθίωσιν."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Heb 10:27",
+      "text": "ζῆλος ἐσθίειν μέλλοντος",
+      "highlightedWord": "ἐσθίειν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Heb 13:10",
+      "text": "οὗ φαγεῖν οὐκ",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Jas 5:3",
+      "text": "καὶ φάγεται τὰς",
+      "highlightedWord": "φάγεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Re 2:7",
+      "text": "αὐτῷ φαγεῖν ἐκ",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "Ἰσραήλ, φαγεῖν εἰδωλόθυτα",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "καὶ φαγεῖν εἰδωλόθυτα.",
+      "highlightedWord": "φαγεῖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Re 10:10",
+      "text": "ὅτε ἔφαγον αὐτό,",
+      "highlightedWord": "ἔφαγον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Re 17:16",
+      "text": "αὐτῆς φάγονται, καὶ",
+      "highlightedWord": "φάγονται,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Re 19:18",
+      "text": "ἵνα φάγητε σάρκας",
+      "highlightedWord": "φάγητε"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

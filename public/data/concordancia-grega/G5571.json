@@ -1,0 +1,41 @@
+{
+  "strong": "G5571",
+  "lemma": "ψευδής",
+  "lemmaTranslit": "pseudēs",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Atos": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ac 6:13",
+      "text": "μάρτυρας ψευδεῖς λέγοντας·",
+      "highlightedWord": "ψευδεῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "αὐτοὺς ψευδεῖς·",
+      "highlightedWord": "ψευδεῖς·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Re 21:8",
+      "text": "τοῖς ψευδέσιν τὸ",
+      "highlightedWord": "ψευδέσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

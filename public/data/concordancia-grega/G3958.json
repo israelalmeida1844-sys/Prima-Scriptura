@@ -1,0 +1,357 @@
+{
+  "strong": "G3958",
+  "lemma": "πάσχω",
+  "lemmaTranslit": "paschō",
+  "tokenCount": 42,
+  "verseCount": 41,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 3,
+    "Lucas": 6,
+    "Atos": 5,
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 4,
+    "1 Pedro": 12,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Mt 16:21",
+      "text": "πολλὰ παθεῖν ἀπὸ",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Mt 17:12",
+      "text": "μέλλει πάσχειν ὑπ’",
+      "highlightedWord": "πάσχειν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Mt 17:15",
+      "text": "κακῶς πάσχει, πολλάκις",
+      "highlightedWord": "πάσχει,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Mt 27:19",
+      "text": "γὰρ ἔπαθον σήμερον",
+      "highlightedWord": "ἔπαθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mk 5:26",
+      "text": "πολλὰ παθοῦσα ὑπὸ",
+      "highlightedWord": "παθοῦσα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mk 8:31",
+      "text": "πολλὰ παθεῖν καὶ",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mk 9:12",
+      "text": "πολλὰ πάθῃ καὶ",
+      "highlightedWord": "πάθῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Lk 9:22",
+      "text": "πολλὰ παθεῖν καὶ",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Lk 13:2",
+      "text": "ταῦτα πεπόνθασιν;",
+      "highlightedWord": "πεπόνθασιν;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Lk 17:25",
+      "text": "πολλὰ παθεῖν καὶ",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 15,
+      "reference": "Lk 22:15",
+      "text": "με παθεῖν·",
+      "highlightedWord": "παθεῖν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 26,
+      "reference": "Lk 24:26",
+      "text": "ἔδει παθεῖν τὸν",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 46,
+      "reference": "Lk 24:46",
+      "text": "γέγραπται παθεῖν τὸν",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Ac 1:3",
+      "text": "τὸ παθεῖν αὐτὸν",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Ac 3:18",
+      "text": "προφητῶν παθεῖν τὸν",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Ac 9:16",
+      "text": "μου παθεῖν.",
+      "highlightedWord": "παθεῖν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Ac 17:3",
+      "text": "ἔδει παθεῖν καὶ",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Ac 28:5",
+      "text": "πῦρ ἔπαθεν οὐδὲν",
+      "highlightedWord": "ἔπαθεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "1Co 12:26",
+      "text": "εἴτε πάσχει ἓν",
+      "highlightedWord": "πάσχει"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Co 1:6",
+      "text": "ἡμεῖς πάσχομεν,",
+      "highlightedWord": "πάσχομεν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Ga 3:4",
+      "text": "τοσαῦτα ἐπάθετε εἰκῇ;",
+      "highlightedWord": "ἐπάθετε"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Php 1:29",
+      "text": "αὐτοῦ πάσχειν),",
+      "highlightedWord": "πάσχειν),"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Th 2:14",
+      "text": "αὐτὰ ἐπάθετε καὶ",
+      "highlightedWord": "ἐπάθετε"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Th 1:5",
+      "text": "καὶ πάσχετε,",
+      "highlightedWord": "πάσχετε,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Ti 1:12",
+      "text": "ταῦτα πάσχω, ἀλλ’",
+      "highlightedWord": "πάσχω,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Heb 2:18",
+      "text": "γὰρ πέπονθεν αὐτὸς",
+      "highlightedWord": "πέπονθεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Heb 5:8",
+      "text": "ὧν ἔπαθεν τὴν",
+      "highlightedWord": "ἔπαθεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Heb 9:26",
+      "text": "πολλάκις παθεῖν ἀπὸ",
+      "highlightedWord": "παθεῖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Heb 13:12",
+      "text": "πύλης ἔπαθεν.",
+      "highlightedWord": "ἔπαθεν."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Pe 2:19",
+      "text": "λύπας πάσχων ἀδίκως·",
+      "highlightedWord": "πάσχων"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "1Pe 2:20",
+      "text": "καὶ πάσχοντες ὑπομενεῖτε,",
+      "highlightedWord": "πάσχοντες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "1Pe 2:21",
+      "text": "Χριστὸς ἔπαθεν ὑπὲρ",
+      "highlightedWord": "ἔπαθεν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "1Pe 2:23",
+      "text": "ἀντελοιδόρει, πάσχων οὐκ",
+      "highlightedWord": "πάσχων"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Pe 3:14",
+      "text": "καὶ πάσχοιτε διὰ",
+      "highlightedWord": "πάσχοιτε"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Pe 3:17",
+      "text": "θεοῦ, πάσχειν ἢ",
+      "highlightedWord": "πάσχειν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Pe 3:18",
+      "text": "ἁμαρτιῶν ἔπαθεν, δίκαιος",
+      "highlightedWord": "ἔπαθεν,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Pe 4:1",
+      "text": "οὖν παθόντος σαρκὶ",
+      "highlightedWord": "παθόντος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Pe 4:15",
+      "text": "ὑμῶν πασχέτω ὡς",
+      "highlightedWord": "πασχέτω"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Pe 4:19",
+      "text": "οἱ πάσχοντες κατὰ",
+      "highlightedWord": "πάσχοντες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Pe 5:10",
+      "text": "ὀλίγον παθόντας αὐτὸς",
+      "highlightedWord": "παθόντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "μέλλεις πάσχειν. ἰδοὺ",
+      "highlightedWord": "πάσχειν."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

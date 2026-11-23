@@ -1,8 +1,12 @@
 {
-  "checkedCommit": "b27e4c873ac9913971725da5d07cacfc122982ab",
+  "checkedCommit": "603f5560113ec1daafd98a1892688d57d07df93d",
   "node": "22",
   "build": "success",
   "staticRoutesAndConcordances": "success",
+  "philologicalSourceAlignment": "success",
+  "chapter2SourceAlignment": "success",
+  "chapter2Generation": "success",
+  "chapter2Concordances": "success",
   "approved": true,
   "source": "GitHub Actions / homologacao-apocalipse.yml"
 }

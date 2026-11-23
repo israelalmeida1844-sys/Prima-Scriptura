@@ -1,0 +1,4993 @@
+{
+  "strong": "G2443",
+  "lemma": "ἵνα",
+  "lemmaTranslit": "hina",
+  "tokenCount": 662,
+  "verseCount": 619,
+  "bookDistribution": {
+    "Mateus": 39,
+    "Marcos": 64,
+    "Lucas": 46,
+    "João": 144,
+    "Atos": 15,
+    "Romanos": 30,
+    "1 Coríntios": 57,
+    "2 Coríntios": 44,
+    "Gálatas": 17,
+    "Efésios": 23,
+    "Filipenses": 12,
+    "Colossenses": 13,
+    "1 Tessalonicenses": 7,
+    "2 Tessalonicenses": 7,
+    "1 Timóteo": 15,
+    "2 Timóteo": 5,
+    "Tito": 13,
+    "Filemom": 4,
+    "Hebreus": 20,
+    "Tiago": 4,
+    "1 Pedro": 13,
+    "2 Pedro": 2,
+    "1 João": 19,
+    "2 João": 5,
+    "3 João": 2,
+    "Apocalipse": 42
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Mt 1:22",
+      "text": "γέγονεν ἵνα πληρωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Mt 2:15",
+      "text": "Ἡρῴδου· ἵνα πληρωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Mt 4:3",
+      "text": "εἰπὲ ἵνα οἱ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Mt 4:14",
+      "text": "ἵνα πληρωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Mt 5:29",
+      "text": "σοι ἵνα ἀπόληται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "σοι ἵνα ἀπόληται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Mt 7:1",
+      "text": "κρίνετε, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Mt 7:12",
+      "text": "θέλητε ἵνα ποιῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Mt 8:8",
+      "text": "ἱκανὸς ἵνα μου",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mt 9:6",
+      "text": "ἵνα δὲ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Mt 10:25",
+      "text": "μαθητῇ ἵνα γένηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Mt 12:10",
+      "text": "θεραπεύειν; ἵνα κατηγορήσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Mt 12:16",
+      "text": "αὐτοῖς ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Mt 12:17",
+      "text": "ἵνα πληρωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Mt 14:15",
+      "text": "ὄχλους, ἵνα ἀπελθόντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 36,
+      "reference": "Mt 14:36",
+      "text": "αὐτὸν ἵνα μόνον",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Mt 16:20",
+      "text": "μαθηταῖς ἵνα μηδενὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "ἵνα δὲ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Mt 18:6",
+      "text": "αὐτῷ ἵνα κρεμασθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Mt 18:14",
+      "text": "οὐρανοῖς ἵνα ἀπόληται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Mt 18:16",
+      "text": "δύο, ἵνα ἐπὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Mt 19:13",
+      "text": "παιδία ἵνα τὰς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Mt 19:16",
+      "text": "ποιήσω ἵνα σχῶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Mt 20:21",
+      "text": "Εἰπὲ ἵνα καθίσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Mt 20:31",
+      "text": "αὐτοῖς ἵνα σιωπήσωσιν·",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 33,
+      "reference": "Mt 20:33",
+      "text": "Κύριε, ἵνα ἀνοιγῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Mt 21:4",
+      "text": "γέγονεν ἵνα πληρωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 26,
+      "reference": "Mt 23:26",
+      "text": "παροψίδος, ἵνα γένηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 20,
+      "reference": "Mt 24:20",
+      "text": "δὲ ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Mt 26:4",
+      "text": "συνεβουλεύσαντο ἵνα τὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 5,
+      "reference": "Mt 26:5",
+      "text": "ἑορτῇ, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 16,
+      "reference": "Mt 26:16",
+      "text": "εὐκαιρίαν ἵνα αὐτὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 41,
+      "reference": "Mt 26:41",
+      "text": "προσεύχεσθε, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 56,
+      "reference": "Mt 26:56",
+      "text": "γέγονεν ἵνα πληρωθῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 63,
+      "reference": "Mt 26:63",
+      "text": "ζῶντος ἵνα ἡμῖν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 20,
+      "reference": "Mt 27:20",
+      "text": "ὄχλους ἵνα αἰτήσωνται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 26,
+      "reference": "Mt 27:26",
+      "text": "παρέδωκεν ἵνα σταυρωθῇ.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 32,
+      "reference": "Mt 27:32",
+      "text": "ἠγγάρευσαν ἵνα ἄρῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 10,
+      "reference": "Mt 28:10",
+      "text": "μου ἵνα ἀπέλθωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 38,
+      "reference": "Mk 1:38",
+      "text": "κωμοπόλεις, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mk 2:10",
+      "text": "ἵνα δὲ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Mk 3:2",
+      "text": "αὐτόν, ἵνα κατηγορήσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Mk 3:9",
+      "text": "αὐτοῦ ἵνα πλοιάριον",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Mk 3:10",
+      "text": "αὐτῷ ἵνα αὐτοῦ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Mk 3:12",
+      "text": "αὐτοῖς ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Mk 3:14",
+      "text": "δώδεκα, ἵνα ὦσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Mk 4:12",
+      "text": "ἵνα βλέποντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Mk 4:21",
+      "text": "λύχνος ἵνα ὑπὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Mk 4:22",
+      "text": "μὴ ἵνα φανερωθῇ,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Mk 5:10",
+      "text": "πολλὰ ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Mk 5:12",
+      "text": "χοίρους, ἵνα εἰς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Mk 5:18",
+      "text": "δαιμονισθεὶς ἵνα μετ’",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mk 5:23",
+      "text": "ἔχει, ἵνα ἐλθὼν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Mk 5:43",
+      "text": "πολλὰ ἵνα μηδεὶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mk 6:8",
+      "text": "αὐτοῖς ἵνα μηδὲν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Mk 6:12",
+      "text": "ἐκήρυξαν ἵνα μετανοῶσιν,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mk 6:25",
+      "text": "Θέλω ἵνα ἐξαυτῆς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 36,
+      "reference": "Mk 6:36",
+      "text": "αὐτούς, ἵνα ἀπελθόντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Mk 6:41",
+      "text": "αὐτοῦ ἵνα παρατιθῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 56,
+      "reference": "Mk 6:56",
+      "text": "αὐτὸν ἵνα κἂν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Mk 7:9",
+      "text": "θεοῦ, ἵνα τὴν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Mk 7:26",
+      "text": "αὐτὸν ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 32,
+      "reference": "Mk 7:32",
+      "text": "αὐτὸν ἵνα ἐπιθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Mk 7:36",
+      "text": "αὐτοῖς ἵνα μηδενὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Mk 8:6",
+      "text": "αὐτοῦ ἵνα παρατιθῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Mk 8:22",
+      "text": "αὐτὸν ἵνα αὐτοῦ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Mk 8:30",
+      "text": "αὐτοῖς ἵνα μηδενὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mk 9:9",
+      "text": "αὐτοῖς ἵνα μηδενὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mk 9:12",
+      "text": "ἀνθρώπου ἵνα πολλὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mk 9:18",
+      "text": "σου ἵνα αὐτὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mk 9:22",
+      "text": "ὕδατα ἵνα ἀπολέσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Mk 9:30",
+      "text": "ἤθελεν ἵνα τις",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Mk 10:13",
+      "text": "παιδία ἵνα αὐτῶν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Mk 10:17",
+      "text": "ποιήσω ἵνα ζωὴν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Mk 10:35",
+      "text": "θέλομεν ἵνα ὃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Mk 10:37",
+      "text": "ἡμῖν ἵνα εἷς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 48,
+      "reference": "Mk 10:48",
+      "text": "πολλοὶ ἵνα σιωπήσῃ·",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 51,
+      "reference": "Mk 10:51",
+      "text": "Ραββουνι, ἵνα ἀναβλέψω.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Mk 11:16",
+      "text": "ἤφιεν ἵνα τις",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mk 11:25",
+      "text": "τινος, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Mk 11:28",
+      "text": "ταύτην ἵνα ταῦτα",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Mk 12:2",
+      "text": "δοῦλον, ἵνα παρὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Mk 12:13",
+      "text": "Ἡρῳδιανῶν ἵνα αὐτὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Mk 12:15",
+      "text": "δηνάριον ἵνα ἴδω.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mk 12:19",
+      "text": "τέκνον, ἵνα λάβῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Mk 13:18",
+      "text": "δὲ ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mk 13:34",
+      "text": "ἐνετείλατο ἵνα γρηγορῇ.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Mk 14:10",
+      "text": "ἀρχιερεῖς ἵνα αὐτὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Mk 14:12",
+      "text": "ἑτοιμάσωμεν ἵνα φάγῃς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mk 14:35",
+      "text": "προσηύχετο ἵνα εἰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 38,
+      "reference": "Mk 14:38",
+      "text": "προσεύχεσθε, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 49,
+      "reference": "Mk 14:49",
+      "text": "ἀλλ’ ἵνα πληρωθῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Mk 15:11",
+      "text": "ὄχλον ἵνα μᾶλλον",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 15,
+      "reference": "Mk 15:15",
+      "text": "φραγελλώσας ἵνα σταυρωθῇ.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Mk 15:20",
+      "text": "αὐτὸν ἵνα σταυρώσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Mk 15:21",
+      "text": "Ῥούφου, ἵνα ἄρῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Mk 15:32",
+      "text": "σταυροῦ, ἵνα ἴδωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Mk 16:1",
+      "text": "ἀρώματα ἵνα ἐλθοῦσαι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Lk 1:4",
+      "text": "ἵνα ἐπιγνῷς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 43,
+      "reference": "Lk 1:43",
+      "text": "τοῦτο ἵνα ἔλθῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Lk 4:3",
+      "text": "τούτῳ ἵνα γένηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Lk 5:24",
+      "text": "ἵνα δὲ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Lk 6:7",
+      "text": "θεραπεύει, ἵνα εὕρωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Lk 6:31",
+      "text": "θέλετε ἵνα ποιῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Lk 6:34",
+      "text": "δανίζουσιν ἵνα ἀπολάβωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Lk 7:6",
+      "text": "εἰμι ἵνα ὑπὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Lk 7:36",
+      "text": "Φαρισαίων ἵνα φάγῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Lk 8:10",
+      "text": "παραβολαῖς, ἵνα βλέποντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Lk 8:12",
+      "text": "αὐτῶν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Lk 8:16",
+      "text": "τίθησιν, ἵνα οἱ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Lk 8:31",
+      "text": "αὐτὸν ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Lk 8:32",
+      "text": "αὐτὸν ἵνα ἐπιτρέψῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Lk 9:12",
+      "text": "ὄχλον, ἵνα πορευθέντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Lk 9:40",
+      "text": "σου ἵνα ἐκβάλωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Lk 9:45",
+      "text": "αὐτῶν ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Lk 10:40",
+      "text": "αὐτῇ ἵνα μοι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Lk 11:33",
+      "text": "λυχνίαν, ἵνα οἱ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 50,
+      "reference": "Lk 11:50",
+      "text": "ἵνα ἐκζητηθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Lk 12:36",
+      "text": "γάμων, ἵνα ἐλθόντος",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Lk 14:10",
+      "text": "τόπον, ἵνα ὅταν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Lk 14:23",
+      "text": "εἰσελθεῖν, ἵνα γεμισθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Lk 14:29",
+      "text": "ἵνα μήποτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Lk 15:29",
+      "text": "ἔριφον ἵνα μετὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Lk 16:4",
+      "text": "ποιήσω, ἵνα ὅταν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Lk 16:9",
+      "text": "ἀδικίας, ἵνα ὅταν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Lk 16:24",
+      "text": "Λάζαρον ἵνα βάψῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Lk 16:27",
+      "text": "πάτερ, ἵνα πέμψῃς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Lk 16:28",
+      "text": "αὐτοῖς, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Lk 17:2",
+      "text": "ἢ ἵνα σκανδαλίσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Lk 18:5",
+      "text": "αὐτήν ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Lk 18:15",
+      "text": "βρέφη ἵνα αὐτῶν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 39,
+      "reference": "Lk 18:39",
+      "text": "αὐτῷ ἵνα σιγήσῃ·",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 41,
+      "reference": "Lk 18:41",
+      "text": "Κύριε, ἵνα ἀναβλέψω.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Lk 19:4",
+      "text": "συκομορέαν ἵνα ἴδῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Lk 19:15",
+      "text": "ἀργύριον, ἵνα γνοῖ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Lk 20:10",
+      "text": "δοῦλον, ἵνα ἀπὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Lk 20:14",
+      "text": "αὐτόν, ἵνα ἡμῶν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Lk 20:20",
+      "text": "εἶναι, ἵνα ἐπιλάβωνται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Lk 20:28",
+      "text": "ᾖ, ἵνα λάβῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Lk 21:36",
+      "text": "δεόμενοι ἵνα κατισχύσητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Lk 22:8",
+      "text": "πάσχα ἵνα φάγωμεν.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Lk 22:30",
+      "text": "ἵνα ἔσθητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 32,
+      "reference": "Lk 22:32",
+      "text": "σοῦ ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Lk 22:46",
+      "text": "προσεύχεσθε, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jn 1:7",
+      "text": "μαρτυρίαν, ἵνα μαρτυρήσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Jn 1:8",
+      "text": "ἀλλ’ ἵνα μαρτυρήσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Jn 1:19",
+      "text": "Λευίτας ἵνα ἐρωτήσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Jn 1:22",
+      "text": "εἶ; ἵνα ἀπόκρισιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Jn 1:27",
+      "text": "ἄξιος ἵνα λύσω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Jn 1:31",
+      "text": "ἀλλ’ ἵνα φανερωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Jn 2:25",
+      "text": "εἶχεν ἵνα τις",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Jn 3:15",
+      "text": "ἵνα πᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Jn 3:16",
+      "text": "ἔδωκεν, ἵνα πᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Jn 3:17",
+      "text": "κόσμον ἵνα κρίνῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Jn 3:20",
+      "text": "φῶς, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Jn 3:21",
+      "text": "φῶς, ἵνα φανερωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Jn 4:8",
+      "text": "πόλιν, ἵνα τροφὰς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jn 4:15",
+      "text": "ὕδωρ, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Jn 4:34",
+      "text": "ἐστιν ἵνα ποιήσω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Jn 4:36",
+      "text": "αἰώνιον, ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 47,
+      "reference": "Jn 4:47",
+      "text": "ἠρώτα ἵνα καταβῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jn 5:7",
+      "text": "ἔχω ἵνα ὅταν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Jn 5:14",
+      "text": "ἁμάρτανε, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Jn 5:20",
+      "text": "ἔργα, ἵνα ὑμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Jn 5:23",
+      "text": "ἵνα πάντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Jn 5:34",
+      "text": "λέγω ἵνα ὑμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Jn 5:36",
+      "text": "πατὴρ ἵνα τελειώσω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Jn 5:40",
+      "text": "με ἵνα ζωὴν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Jn 6:5",
+      "text": "ἄρτους ἵνα φάγωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Jn 6:7",
+      "text": "αὐτοῖς ἵνα ἕκαστος",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Jn 6:12",
+      "text": "κλάσματα, ἵνα μή",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Jn 6:15",
+      "text": "αὐτὸν ἵνα ποιήσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 28,
+      "reference": "Jn 6:28",
+      "text": "ποιῶμεν ἵνα ἐργαζώμεθα",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 29,
+      "reference": "Jn 6:29",
+      "text": "θεοῦ ἵνα πιστεύητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Jn 6:30",
+      "text": "σημεῖον, ἵνα ἴδωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Jn 6:38",
+      "text": "οὐχ ἵνα ποιῶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Jn 6:39",
+      "text": "με ἵνα πᾶν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 40,
+      "reference": "Jn 6:40",
+      "text": "μου ἵνα πᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Jn 6:50",
+      "text": "καταβαίνων ἵνα τις",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Jn 7:3",
+      "text": "Ἰουδαίαν, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Jn 7:23",
+      "text": "σαββάτῳ ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 32,
+      "reference": "Jn 7:32",
+      "text": "ὑπηρέτας ἵνα πιάσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 56,
+      "reference": "Jn 8:56",
+      "text": "ἠγαλλιάσατο ἵνα ἴδῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 59,
+      "reference": "Jn 8:59",
+      "text": "λίθους ἵνα βάλωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Jn 9:2",
+      "text": "αὐτοῦ, ἵνα τυφλὸς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Jn 9:3",
+      "text": "ἀλλ’ ἵνα φανερωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Jn 9:22",
+      "text": "Ἰουδαῖοι ἵνα ἐάν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Jn 9:36",
+      "text": "κύριε, ἵνα πιστεύσω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Jn 9:39",
+      "text": "ἦλθον, ἵνα οἱ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Jn 10:10",
+      "text": "μὴ ἵνα κλέψῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Jn 10:17",
+      "text": "μου, ἵνα πάλιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Jn 10:31",
+      "text": "Ἰουδαῖοι ἵνα λιθάσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Jn 10:38",
+      "text": "πιστεύετε, ἵνα γνῶτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Jn 11:4",
+      "text": "θεοῦ ἵνα δοξασθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Jn 11:11",
+      "text": "πορεύομαι ἵνα ἐξυπνίσω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Jn 11:15",
+      "text": "ὑμᾶς, ἵνα πιστεύσητε,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Jn 11:16",
+      "text": "ἡμεῖς ἵνα ἀποθάνωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Jn 11:19",
+      "text": "Μαριὰμ ἵνα παραμυθήσωνται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Jn 11:31",
+      "text": "μνημεῖον ἵνα κλαύσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Jn 11:37",
+      "text": "ποιῆσαι ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 42,
+      "reference": "Jn 11:42",
+      "text": "εἶπον, ἵνα πιστεύσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 50,
+      "reference": "Jn 11:50",
+      "text": "ὑμῖν ἵνα εἷς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 52,
+      "reference": "Jn 11:52",
+      "text": "ἀλλ’ ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 53,
+      "reference": "Jn 11:53",
+      "text": "ἐβουλεύσαντο ἵνα ἀποκτείνωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 55,
+      "reference": "Jn 11:55",
+      "text": "πάσχα ἵνα ἁγνίσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 57,
+      "reference": "Jn 11:57",
+      "text": "ἐντολὰς ἵνα ἐάν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Jn 12:7",
+      "text": "αὐτήν, ἵνα εἰς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Jn 12:9",
+      "text": "ἀλλ’ ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Jn 12:10",
+      "text": "ἀρχιερεῖς ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Jn 12:20",
+      "text": "ἀναβαινόντων ἵνα προσκυνήσωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Jn 12:23",
+      "text": "ὥρα ἵνα δοξασθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "ἔχετε, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Jn 12:36",
+      "text": "φῶς, ἵνα υἱοὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Jn 12:38",
+      "text": "ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Jn 12:40",
+      "text": "καρδίαν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Jn 12:42",
+      "text": "ὡμολόγουν ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Jn 12:46",
+      "text": "ἐλήλυθα, ἵνα πᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Jn 12:47",
+      "text": "ἦλθον ἵνα κρίνω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Jn 13:1",
+      "text": "ὥρα ἵνα μεταβῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Jn 13:2",
+      "text": "καρδίαν ἵνα παραδοῖ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Jn 13:15",
+      "text": "ὑμῖν ἵνα καθὼς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Jn 13:18",
+      "text": "ἀλλ’ ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Jn 13:19",
+      "text": "γενέσθαι, ἵνα πιστεύσητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Jn 13:29",
+      "text": "πτωχοῖς ἵνα τι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Jn 13:34",
+      "text": "ὑμῖν ἵνα ἀγαπᾶτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Jn 14:3",
+      "text": "ἐμαυτόν, ἵνα ὅπου",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Jn 14:13",
+      "text": "ποιήσω, ἵνα δοξασθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Jn 14:16",
+      "text": "ὑμῖν ἵνα ᾖ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Jn 14:29",
+      "text": "γενέσθαι, ἵνα ὅταν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Jn 14:31",
+      "text": "ἀλλ’ ἵνα γνῷ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Jn 15:2",
+      "text": "αὐτὸ ἵνα καρπὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Jn 15:8",
+      "text": "μου ἵνα καρπὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Jn 15:11",
+      "text": "ὑμῖν ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "Jn 15:12",
+      "text": "ἐμὴ ἵνα ἀγαπᾶτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Jn 15:13",
+      "text": "ἔχει, ἵνα τις",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Jn 15:16",
+      "text": "ὑμᾶς ἵνα ὑμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Jn 15:17",
+      "text": "ὑμῖν ἵνα ἀγαπᾶτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Jn 15:25",
+      "text": "ἀλλ’ ἵνα πληρωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Jn 16:1",
+      "text": "ὑμῖν ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Jn 16:2",
+      "text": "ὥρα ἵνα πᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Jn 16:4",
+      "text": "ὑμῖν ἵνα ὅταν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Jn 16:7",
+      "text": "ὑμῖν ἵνα ἐγὼ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Jn 16:24",
+      "text": "λήμψεσθε, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Jn 16:30",
+      "text": "ἔχεις ἵνα τίς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 32,
+      "reference": "Jn 16:32",
+      "text": "ἐλήλυθεν ἵνα σκορπισθῆτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Jn 16:33",
+      "text": "ὑμῖν ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Jn 17:1",
+      "text": "υἱόν, ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Jn 17:2",
+      "text": "σαρκός, ἵνα πᾶν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Jn 17:3",
+      "text": "ζωὴ ἵνα γινώσκωσι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Jn 17:4",
+      "text": "μοι ἵνα ποιήσω·",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Jn 17:11",
+      "text": "μοι, ἵνα ὦσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Jn 17:12",
+      "text": "ἀπωλείας, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Jn 17:13",
+      "text": "κόσμῳ ἵνα ἔχωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Jn 17:15",
+      "text": "ἐρωτῶ ἵνα ἄρῃς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 19,
+      "reference": "Jn 17:19",
+      "text": "ἐμαυτόν, ἵνα ὦσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 21,
+      "reference": "Jn 17:21",
+      "text": "ἵνα πάντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Jn 17:22",
+      "text": "αὐτοῖς, ἵνα ὦσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Jn 17:23",
+      "text": "ἐμοί, ἵνα ὦσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Jn 17:24",
+      "text": "θέλω ἵνα ὅπου",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Jn 17:26",
+      "text": "γνωρίσω, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Jn 18:9",
+      "text": "ἵνα πληρωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Jn 18:28",
+      "text": "πραιτώριον, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Jn 18:32",
+      "text": "ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 36,
+      "reference": "Jn 18:36",
+      "text": "ἄν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 37,
+      "reference": "Jn 18:37",
+      "text": "κόσμον ἵνα μαρτυρήσω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 39,
+      "reference": "Jn 18:39",
+      "text": "ὑμῖν ἵνα ἕνα",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Jn 19:4",
+      "text": "ἔξω, ἵνα γνῶτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Jn 19:16",
+      "text": "αὐτοῖς ἵνα σταυρωθῇ.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Jn 19:24",
+      "text": "ἔσται· ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Jn 19:28",
+      "text": "τετέλεσται ἵνα τελειωθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Jn 19:31",
+      "text": "ἦν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Jn 19:35",
+      "text": "λέγει, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 36,
+      "reference": "Jn 19:36",
+      "text": "ταῦτα ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Jn 19:38",
+      "text": "Ἰουδαίων, ἵνα ἄρῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Jn 20:31",
+      "text": "γέγραπται ἵνα πιστεύητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Ac 2:25",
+      "text": "ἐστιν ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ac 4:17",
+      "text": "ἀλλ’ ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ac 5:15",
+      "text": "κραβάττων, ἵνα ἐρχομένου",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Ac 8:19",
+      "text": "ταύτην ἵνα ᾧ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ac 9:21",
+      "text": "ἐληλύθει ἵνα δεδεμένους",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Ac 16:30",
+      "text": "ποιεῖν ἵνα σωθῶ;",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 36,
+      "reference": "Ac 16:36",
+      "text": "στρατηγοὶ ἵνα ἀπολυθῆτε·",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Ac 17:15",
+      "text": "Τιμόθεον ἵνα ὡς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Ac 19:4",
+      "text": "αὐτὸν ἵνα πιστεύσωσιν,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Ac 21:24",
+      "text": "αὐτοῖς ἵνα ξυρήσονται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Ac 22:5",
+      "text": "Ἰερουσαλὴμ ἵνα τιμωρηθῶσιν.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Ac 22:24",
+      "text": "αὐτὸν ἵνα ἐπιγνῷ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 24,
+      "reference": "Ac 23:24",
+      "text": "παραστῆσαι ἵνα ἐπιβιβάσαντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 4,
+      "reference": "Ac 24:4",
+      "text": "ἵνα δὲ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 42,
+      "reference": "Ac 27:42",
+      "text": "ἐγένετο ἵνα τοὺς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ro 1:11",
+      "text": "ὑμᾶς, ἵνα τι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "δεῦρο, ἵνα τινὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ro 3:8",
+      "text": "κακὰ ἵνα ἔλθῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ro 3:19",
+      "text": "λαλεῖ, ἵνα πᾶν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ro 4:16",
+      "text": "πίστεως, ἵνα κατὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Ro 5:20",
+      "text": "παρεισῆλθεν ἵνα πλεονάσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Ro 5:21",
+      "text": "ἵνα ὥσπερ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ro 6:1",
+      "text": "ἁμαρτίᾳ, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ro 6:4",
+      "text": "θάνατον, ἵνα ὥσπερ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Ro 6:6",
+      "text": "συνεσταυρώθη, ἵνα καταργηθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Ro 7:4",
+      "text": "ἐγερθέντι ἵνα καρποφορήσωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Ro 7:13",
+      "text": "ἁμαρτία, ἵνα φανῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Ro 8:4",
+      "text": "ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Ro 8:17",
+      "text": "συμπάσχομεν ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Ro 9:11",
+      "text": "φαῦλον, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Ro 9:23",
+      "text": "καὶ ἵνα γνωρίσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Ro 11:11",
+      "text": "ἔπταισαν ἵνα πέσωσιν;",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ro 11:19",
+      "text": "κλάδοι ἵνα ἐγὼ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "τοῦτο, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Ro 11:31",
+      "text": "ἐλέει ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Ro 11:32",
+      "text": "ἀπείθειαν ἵνα τοὺς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Ro 14:9",
+      "text": "ἔζησεν ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Ro 15:4",
+      "text": "ἐγράφη, ἵνα διὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Ro 15:6",
+      "text": "ἵνα ὁμοθυμαδὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Ro 15:16",
+      "text": "θεοῦ, ἵνα γένηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Ro 15:20",
+      "text": "Χριστός, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Ro 15:31",
+      "text": "ἵνα ῥυσθῶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Ro 15:32",
+      "text": "ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Ro 16:2",
+      "text": "ἵνα αὐτὴν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "1Co 1:10",
+      "text": "Χριστοῦ ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Co 1:15",
+      "text": "ἵνα μή",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Co 1:17",
+      "text": "λόγου, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "1Co 1:27",
+      "text": "θεός, ἵνα καταισχύνῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "1Co 1:28",
+      "text": "ὄντα, ἵνα τὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "1Co 1:31",
+      "text": "ἵνα καθὼς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Co 2:5",
+      "text": "ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Co 2:12",
+      "text": "θεοῦ, ἵνα εἰδῶμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Co 3:18",
+      "text": "γενέσθω, ἵνα γένηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Co 4:2",
+      "text": "οἰκονόμοις ἵνα πιστός",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Co 4:3",
+      "text": "ἐστιν, ἵνα ὑφ’",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Co 4:6",
+      "text": "ὑμᾶς, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Co 4:8",
+      "text": "ἐβασιλεύσατε, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Co 5:2",
+      "text": "ἐπενθήσατε, ἵνα ἀρθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Co 5:5",
+      "text": "σαρκός, ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "1Co 5:7",
+      "text": "ζύμην, ἵνα ἦτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "1Co 7:5",
+      "text": "καιρὸν ἵνα σχολάσητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "1Co 7:29",
+      "text": "λοιπὸν ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "1Co 7:34",
+      "text": "κυρίου, ἵνα ᾖ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "1Co 7:35",
+      "text": "οὐχ ἵνα βρόχον",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "1Co 8:13",
+      "text": "αἰῶνα, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "1Co 9:12",
+      "text": "στέγομεν ἵνα μή",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "1Co 9:15",
+      "text": "ταῦτα ἵνα οὕτως",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "1Co 9:18",
+      "text": "μισθός; ἵνα εὐαγγελιζόμενος",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "1Co 9:19",
+      "text": "ἐδούλωσα, ἵνα τοὺς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "1Co 9:20",
+      "text": "Ἰουδαῖος, ἵνα Ἰουδαίους",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "1Co 9:21",
+      "text": "Χριστοῦ, ἵνα κερδάνω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "1Co 9:22",
+      "text": "ἀσθενής, ἵνα τοὺς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "1Co 9:23",
+      "text": "εὐαγγέλιον, ἵνα συγκοινωνὸς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "1Co 9:24",
+      "text": "τρέχετε ἵνα καταλάβητε.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "1Co 9:25",
+      "text": "οὖν ἵνα φθαρτὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "1Co 10:33",
+      "text": "πολλῶν, ἵνα σωθῶσιν.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "1Co 11:19",
+      "text": "εἶναι, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "1Co 11:32",
+      "text": "παιδευόμεθα, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "1Co 11:34",
+      "text": "ἐσθιέτω, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "1Co 12:25",
+      "text": "ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "1Co 13:3",
+      "text": "μου, ἵνα καυθήσομαι,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "1Co 14:1",
+      "text": "δὲ ἵνα προφητεύητε.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "1Co 14:5",
+      "text": "δὲ ἵνα προφητεύητε·",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "1Co 14:12",
+      "text": "ζητεῖτε ἵνα περισσεύητε.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "1Co 14:13",
+      "text": "προσευχέσθω ἵνα διερμηνεύῃ.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "1Co 14:19",
+      "text": "λαλῆσαι, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "1Co 14:31",
+      "text": "προφητεύειν, ἵνα πάντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "1Co 15:28",
+      "text": "πάντα, ἵνα ᾖ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "εὐοδῶται, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "1Co 16:6",
+      "text": "παραχειμάσω, ἵνα ὑμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "1Co 16:10",
+      "text": "βλέπετε ἵνα ἀφόβως",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "1Co 16:11",
+      "text": "εἰρήνῃ, ἵνα ἔλθῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "1Co 16:12",
+      "text": "αὐτὸν ἵνα ἔλθῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "1Co 16:16",
+      "text": "ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Co 1:9",
+      "text": "ἐσχήκαμεν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Co 1:11",
+      "text": "δεήσει, ἵνα ἐκ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "2Co 1:15",
+      "text": "ἐλθεῖν, ἵνα δευτέραν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Co 1:17",
+      "text": "βουλεύομαι, ἵνα ᾖ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Co 2:3",
+      "text": "αὐτὸ ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Co 2:4",
+      "text": "οὐχ ἵνα λυπηθῆτε,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Co 2:5",
+      "text": "μέρους ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Co 2:9",
+      "text": "ἔγραψα ἵνα γνῶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Co 2:11",
+      "text": "ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "2Co 4:7",
+      "text": "σκεύεσιν, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "2Co 4:10",
+      "text": "περιφέροντες, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "2Co 4:11",
+      "text": "Ἰησοῦν, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "2Co 4:15",
+      "text": "ὑμᾶς, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "2Co 5:4",
+      "text": "ἐπενδύσασθαι, ἵνα καταποθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "2Co 5:10",
+      "text": "Χριστοῦ, ἵνα κομίσηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "2Co 5:12",
+      "text": "ἡμῶν, ἵνα ἔχητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "2Co 5:15",
+      "text": "ἀπέθανεν ἵνα οἱ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "2Co 5:21",
+      "text": "ἐποίησεν, ἵνα ἡμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "2Co 6:3",
+      "text": "προσκοπήν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "2Co 7:9",
+      "text": "θεόν, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "2Co 8:6",
+      "text": "Τίτον ἵνα καθὼς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "2Co 8:7",
+      "text": "ἀγάπῃ, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "2Co 8:9",
+      "text": "ὤν, ἵνα ὑμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "2Co 8:13",
+      "text": "γὰρ ἵνα ἄλλοις",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "2Co 8:14",
+      "text": "ὑστέρημα, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "2Co 9:3",
+      "text": "ἀδελφούς, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "2Co 9:4",
+      "text": "ἡμεῖς, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "2Co 9:5",
+      "text": "ἀδελφοὺς ἵνα προέλθωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "2Co 9:8",
+      "text": "ὑμᾶς, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "2Co 10:9",
+      "text": "ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "2Co 11:7",
+      "text": "ταπεινῶν ἵνα ὑμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "2Co 11:12",
+      "text": "ποιήσω, ἵνα ἐκκόψω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "2Co 11:16",
+      "text": "με, ἵνα κἀγὼ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "2Co 12:7",
+      "text": "διὸ ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "2Co 12:8",
+      "text": "παρεκάλεσα ἵνα ἀποστῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "2Co 12:9",
+      "text": "μου, ἵνα ἐπισκηνώσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "2Co 13:7",
+      "text": "οὐχ ἵνα ἡμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "2Co 13:10",
+      "text": "γράφω, ἵνα παρὼν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ga 1:16",
+      "text": "ἐμοὶ ἵνα εὐαγγελίζωμαι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Ga 2:4",
+      "text": "Ἰησοῦ, ἵνα ἡμᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ga 2:5",
+      "text": "ὑποταγῇ, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ga 2:9",
+      "text": "κοινωνίας, ἵνα ἡμεῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Ga 2:10",
+      "text": "πτωχῶν ἵνα μνημονεύωμεν,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ga 2:16",
+      "text": "ἐπιστεύσαμεν, ἵνα δικαιωθῶμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Ga 2:19",
+      "text": "ἀπέθανον ἵνα θεῷ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Ga 3:14",
+      "text": "ἵνα εἰς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Ga 3:22",
+      "text": "ἁμαρτίαν ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Ga 3:24",
+      "text": "Χριστόν, ἵνα ἐκ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Ga 4:5",
+      "text": "ἵνα τοὺς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ga 4:17",
+      "text": "θέλουσιν, ἵνα αὐτοὺς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Ga 5:17",
+      "text": "ἀντίκειται, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Ga 6:12",
+      "text": "μόνον ἵνα τῷ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ga 6:13",
+      "text": "περιτέμνεσθαι ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Eph 1:17",
+      "text": "ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Eph 2:7",
+      "text": "ἵνα ἐνδείξηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Eph 2:9",
+      "text": "ἔργων, ἵνα μή",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Eph 2:10",
+      "text": "θεὸς ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Eph 2:15",
+      "text": "καταργήσας, ἵνα τοὺς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Eph 3:10",
+      "text": "ἵνα γνωρισθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Eph 3:16",
+      "text": "ἵνα δῷ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Eph 3:18",
+      "text": "ἵνα ἐξισχύσητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Eph 3:19",
+      "text": "Χριστοῦ, ἵνα πληρωθῆτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Eph 4:10",
+      "text": "οὐρανῶν, ἵνα πληρώσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Eph 4:14",
+      "text": "ἵνα μηκέτι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Eph 4:28",
+      "text": "ἀγαθόν, ἵνα ἔχῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "χρείας, ἵνα δῷ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Eph 5:26",
+      "text": "ἵνα αὐτὴν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Eph 5:27",
+      "text": "ἵνα παραστήσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "γυνὴ ἵνα φοβῆται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Eph 6:3",
+      "text": "ἵνα εὖ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Eph 6:13",
+      "text": "θεοῦ, ἵνα δυνηθῆτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Eph 6:19",
+      "text": "ἐμοῦ, ἵνα μοι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Eph 6:20",
+      "text": "ἁλύσει, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Eph 6:21",
+      "text": "Ἵνα δὲ",
+      "highlightedWord": "Ἵνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Eph 6:22",
+      "text": "τοῦτο ἵνα γνῶτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Php 1:9",
+      "text": "προσεύχομαι ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Php 1:10",
+      "text": "διαφέροντα, ἵνα ἦτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Php 1:26",
+      "text": "ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Php 1:27",
+      "text": "πολιτεύεσθε, ἵνα εἴτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Php 2:2",
+      "text": "χαρὰν ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Php 2:10",
+      "text": "ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Php 2:15",
+      "text": "ἵνα γένησθε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Php 2:19",
+      "text": "ὑμῖν, ἵνα κἀγὼ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Php 2:27",
+      "text": "ἐμέ, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Php 2:28",
+      "text": "αὐτὸν ἵνα ἰδόντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 30,
+      "reference": "Php 2:30",
+      "text": "ψυχῇ ἵνα ἀναπληρώσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Php 3:8",
+      "text": "σκύβαλα ἵνα Χριστὸν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Col 1:9",
+      "text": "αἰτούμενοι ἵνα πληρωθῆτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Col 1:18",
+      "text": "νεκρῶν, ἵνα γένηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Col 1:28",
+      "text": "σοφίᾳ, ἵνα παραστήσωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Col 2:2",
+      "text": "ἵνα παρακληθῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Col 2:4",
+      "text": "λέγω ἵνα μηδεὶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Col 3:21",
+      "text": "ὑμῶν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Col 4:3",
+      "text": "ἡμῶν, ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Col 4:4",
+      "text": "ἵνα φανερώσω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Col 4:8",
+      "text": "τοῦτο ἵνα γνῶτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Col 4:12",
+      "text": "προσευχαῖς, ἵνα σταθῆτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Col 4:16",
+      "text": "ποιήσατε ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Col 4:17",
+      "text": "κυρίῳ, ἵνα αὐτὴν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Th 2:16",
+      "text": "λαλῆσαι ἵνα σωθῶσιν,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Th 4:1",
+      "text": "Ἰησοῦ, ἵνα καθὼς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Th 4:12",
+      "text": "ἵνα περιπατῆτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Th 4:13",
+      "text": "κοιμωμένων, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Th 5:4",
+      "text": "σκότει, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Th 5:10",
+      "text": "ἡμῶν ἵνα εἴτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Th 1:11",
+      "text": "ὑμῶν, ἵνα ὑμᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Th 2:12",
+      "text": "ἵνα κριθῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Th 3:1",
+      "text": "ἡμῶν, ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Th 3:2",
+      "text": "καὶ ἵνα ῥυσθῶμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Th 3:9",
+      "text": "ἀλλ’ ἵνα ἑαυτοὺς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Th 3:12",
+      "text": "Χριστῷ ἵνα μετὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Th 3:14",
+      "text": "αὐτῷ, ἵνα ἐντραπῇ·",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Ti 1:3",
+      "text": "Μακεδονίαν, ἵνα παραγγείλῃς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Ti 1:16",
+      "text": "ἠλεήθην, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "1Ti 1:18",
+      "text": "προφητείας, ἵνα στρατεύῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "1Ti 1:20",
+      "text": "Σατανᾷ ἵνα παιδευθῶσι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Ti 2:2",
+      "text": "ὄντων, ἵνα ἤρεμον",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Ti 3:6",
+      "text": "νεόφυτον, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Ti 3:7",
+      "text": "ἔξωθεν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Ti 3:15",
+      "text": "βραδύνω, ἵνα εἰδῇς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Ti 4:15",
+      "text": "ἴσθι, ἵνα σου",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "1Ti 5:7",
+      "text": "παράγγελλε, ἵνα ἀνεπίλημπτοι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Ti 5:16",
+      "text": "ἐκκλησία, ἵνα ταῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Ti 5:20",
+      "text": "ἔλεγχε, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "1Ti 5:21",
+      "text": "ἀγγέλων, ἵνα ταῦτα",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Ti 6:1",
+      "text": "ἡγείσθωσαν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Ti 6:19",
+      "text": "μέλλον, ἵνα ἐπιλάβωνται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Ti 1:4",
+      "text": "δακρύων, ἵνα χαρᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Ti 2:4",
+      "text": "πραγματείαις, ἵνα τῷ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "2Ti 2:10",
+      "text": "ἐκλεκτούς, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Ti 3:17",
+      "text": "ἵνα ἄρτιος",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "2Ti 4:17",
+      "text": "με, ἵνα δι’",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Tit 1:5",
+      "text": "Κρήτῃ ἵνα τὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Tit 1:9",
+      "text": "λόγου, ἵνα δυνατὸς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Tit 1:13",
+      "text": "ἀποτόμως, ἵνα ὑγιαίνωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Tit 2:4",
+      "text": "ἵνα σωφρονίζωσι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Tit 2:5",
+      "text": "ἀνδράσιν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Tit 2:8",
+      "text": "ἀκατάγνωστον, ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Tit 2:10",
+      "text": "ἀγαθήν, ἵνα τὴν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Tit 2:12",
+      "text": "ἡμᾶς, ἵνα ἀρνησάμενοι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Tit 2:14",
+      "text": "ἡμῶν ἵνα λυτρώσηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Tit 3:7",
+      "text": "ἵνα δικαιωθέντες",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Tit 3:8",
+      "text": "διαβεβαιοῦσθαι, ἵνα φροντίζωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Tit 3:13",
+      "text": "πρόπεμψον, ἵνα μηδὲν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Tit 3:14",
+      "text": "χρείας, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Phm 1:13",
+      "text": "κατέχειν, ἵνα ὑπὲρ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Phm 1:14",
+      "text": "ποιῆσαι, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Phm 1:15",
+      "text": "ὥραν ἵνα αἰώνιον",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Phm 1:19",
+      "text": "ἀποτίσω· ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Heb 2:14",
+      "text": "αὐτῶν, ἵνα διὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Heb 2:17",
+      "text": "ὁμοιωθῆναι, ἵνα ἐλεήμων",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "καλεῖται, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Heb 4:11",
+      "text": "κατάπαυσιν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Heb 4:16",
+      "text": "χάριτος, ἵνα λάβωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Heb 5:1",
+      "text": "θεόν, ἵνα προσφέρῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Heb 6:12",
+      "text": "ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Heb 6:18",
+      "text": "ἵνα διὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Heb 9:25",
+      "text": "οὐδ’ ἵνα πολλάκις",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Heb 10:9",
+      "text": "πρῶτον ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Heb 10:36",
+      "text": "χρείαν ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Heb 11:28",
+      "text": "αἵματος, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 35,
+      "reference": "Heb 11:35",
+      "text": "ἀπολύτρωσιν, ἵνα κρείττονος",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 40,
+      "reference": "Heb 11:40",
+      "text": "προβλεψαμένου, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Heb 12:3",
+      "text": "ἀντιλογίαν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Heb 12:13",
+      "text": "ὑμῶν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Heb 12:27",
+      "text": "πεποιημένων, ἵνα μείνῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Heb 13:12",
+      "text": "Ἰησοῦς, ἵνα ἁγιάσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Heb 13:17",
+      "text": "ἀποδώσοντες, ἵνα μετὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Heb 13:19",
+      "text": "ποιῆσαι ἵνα τάχιον",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jas 1:4",
+      "text": "ἐχέτω, ἵνα ἦτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Jas 4:3",
+      "text": "αἰτεῖσθε, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jas 5:9",
+      "text": "ἀλλήλων, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jas 5:12",
+      "text": "οὔ, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Pe 1:7",
+      "text": "ἵνα τὸ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Pe 2:2",
+      "text": "ἐπιποθήσατε, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Pe 2:12",
+      "text": "καλήν, ἵνα, ἐν",
+      "highlightedWord": "ἵνα,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "1Pe 2:21",
+      "text": "ὑπογραμμὸν ἵνα ἐπακολουθήσητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "1Pe 2:24",
+      "text": "ξύλον, ἵνα ταῖς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Pe 3:1",
+      "text": "ἀνδράσιν, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Pe 3:9",
+      "text": "ἐκλήθητε ἵνα εὐλογίαν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Pe 3:16",
+      "text": "ἀγαθήν, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Pe 3:18",
+      "text": "ἀδίκων, ἵνα ὑμᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Pe 4:6",
+      "text": "εὐηγγελίσθη ἵνα κριθῶσι",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Pe 4:11",
+      "text": "θεός· ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Pe 4:13",
+      "text": "χαίρετε, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Pe 5:6",
+      "text": "θεοῦ, ἵνα ὑμᾶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Pe 1:4",
+      "text": "δεδώρηται, ἵνα διὰ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Pe 3:17",
+      "text": "φυλάσσεσθε ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Jn 1:3",
+      "text": "ὑμῖν, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "1Jn 1:4",
+      "text": "ἡμεῖς ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Jn 1:9",
+      "text": "δίκαιος ἵνα ἀφῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Jn 2:1",
+      "text": "ὑμῖν ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Jn 2:19",
+      "text": "ἀλλ’ ἵνα φανερωθῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "1Jn 2:27",
+      "text": "ἔχετε ἵνα τις",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "1Jn 2:28",
+      "text": "αὐτῷ, ἵνα ἐὰν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Jn 3:1",
+      "text": "πατὴρ ἵνα τέκνα",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Jn 3:5",
+      "text": "ἐφανερώθη ἵνα τὰς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Jn 3:8",
+      "text": "θεοῦ ἵνα λύσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Jn 3:11",
+      "text": "ἀρχῆς, ἵνα ἀγαπῶμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "1Jn 3:23",
+      "text": "αὐτοῦ, ἵνα πιστεύσωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Jn 4:9",
+      "text": "κόσμον ἵνα ζήσωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Jn 4:17",
+      "text": "ἡμῶν, ἵνα παρρησίαν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "1Jn 4:21",
+      "text": "αὐτοῦ, ἵνα ὁ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "1Jn 5:3",
+      "text": "θεοῦ ἵνα τὰς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Jn 5:13",
+      "text": "ὑμῖν ἵνα εἰδῆτε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Jn 5:16",
+      "text": "λέγω ἵνα ἐρωτήσῃ.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Jn 5:20",
+      "text": "διάνοιαν ἵνα γινώσκωμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Jn 1:5",
+      "text": "ἀρχῆς, ἵνα ἀγαπῶμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Jn 1:6",
+      "text": "ἀγάπη, ἵνα περιπατῶμεν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Jn 1:8",
+      "text": "ἑαυτούς, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Jn 1:12",
+      "text": "λαλῆσαι, ἵνα ἡ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "3Jn 1:4",
+      "text": "χαράν, ἵνα ἀκούω",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "3Jn 1:8",
+      "text": "τοιούτους, ἵνα συνεργοὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "φυλακὴν ἵνα πειρασθῆτε,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Re 2:21",
+      "text": "χρόνον ἵνα μετανοήσῃ,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "αὐτοὺς ἵνα ἥξουσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Re 3:11",
+      "text": "ἔχεις, ἵνα μηδεὶς",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "πυρὸς ἵνα πλουτήσῃς,",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Re 6:2",
+      "text": "καὶ ἵνα νικήσῃ.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Re 6:4",
+      "text": "καὶ ἵνα ἀλλήλους",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "αὐτοῖς ἵνα ἀναπαύσονται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Re 7:1",
+      "text": "γῆς, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Re 8:3",
+      "text": "πολλὰ ἵνα δώσει",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Re 8:6",
+      "text": "αὑτοὺς ἵνα σαλπίσωσιν.",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "ἀστέρων, ἵνα σκοτισθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Re 9:4",
+      "text": "αὐταῖς ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "αὐτοῖς ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Re 9:15",
+      "text": "ἐνιαυτόν, ἵνα ἀποκτείνωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "αὐτῶν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "οὐρανόν, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "τεκεῖν, ἵνα ὅταν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Re 12:6",
+      "text": "θεοῦ, ἵνα ἐκεῖ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "μεγάλου, ἵνα πέτηται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Re 12:15",
+      "text": "ποταμόν, ἵνα αὐτὴν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Re 13:12",
+      "text": "κατοικοῦντας ἵνα προσκυνήσουσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Re 13:13",
+      "text": "μεγάλα, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Re 13:15",
+      "text": "θηρίου, ἵνα καὶ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Re 13:16",
+      "text": "δούλους, ἵνα δῶσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "καὶ ἵνα μή",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Re 14:13",
+      "text": "πνεῦμα, ἵνα ἀναπαήσονται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Re 16:12",
+      "text": "αὐτοῦ, ἵνα ἑτοιμασθῇ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Re 16:15",
+      "text": "αὐτοῦ, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Re 18:4",
+      "text": "αὐτῆς, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Re 19:8",
+      "text": "αὐτῇ ἵνα περιβάληται",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "ὀξεῖα, ἵνα ἐν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Re 19:18",
+      "text": "ἵνα φάγητε",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "αὐτοῦ, ἵνα μὴ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Re 21:15",
+      "text": "χρυσοῦν, ἵνα μετρήσῃ",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Re 21:23",
+      "text": "σελήνης, ἵνα φαίνωσιν",
+      "highlightedWord": "ἵνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Re 22:14",
+      "text": "αὐτῶν, ἵνα ἔσται",
+      "highlightedWord": "ἵνα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

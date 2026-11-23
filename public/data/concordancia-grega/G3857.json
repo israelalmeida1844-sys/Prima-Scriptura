@@ -1,0 +1,42 @@
+{
+  "strong": "G3857",
+  "lemma": "παράδεισος",
+  "lemmaTranslit": "paradeisos",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Lucas": 1,
+    "2 Coríntios": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 43,
+      "reference": "Lk 23:43",
+      "text": "τῷ παραδείσῳ.",
+      "highlightedWord": "παραδείσῳ."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "2Co 12:4",
+      "text": "τὸν παράδεισον καὶ",
+      "highlightedWord": "παράδεισον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Re 2:7",
+      "text": "τῷ παραδείσῳ τοῦ",
+      "highlightedWord": "παραδείσῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,309 @@
+{
+  "strong": "G1228",
+  "lemma": "διάβολος",
+  "lemmaTranslit": "diabolos",
+  "tokenCount": 37,
+  "verseCount": 35,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Lucas": 5,
+    "João": 3,
+    "Atos": 2,
+    "Efésios": 2,
+    "1 Timóteo": 3,
+    "2 Timóteo": 2,
+    "Tito": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "1 João": 4,
+    "Judas": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Mt 4:1",
+      "text": "τοῦ διαβόλου.",
+      "highlightedWord": "διαβόλου."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mt 4:5",
+      "text": "ὁ διάβολος εἰς",
+      "highlightedWord": "διάβολος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Mt 4:8",
+      "text": "ὁ διάβολος εἰς",
+      "highlightedWord": "διάβολος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Mt 4:11",
+      "text": "ὁ διάβολος, καὶ",
+      "highlightedWord": "διάβολος,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 39,
+      "reference": "Mt 13:39",
+      "text": "ὁ διάβολος· ὁ",
+      "highlightedWord": "διάβολος·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 41,
+      "reference": "Mt 25:41",
+      "text": "τῷ διαβόλῳ καὶ",
+      "highlightedWord": "διαβόλῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Lk 4:2",
+      "text": "τοῦ διαβόλου. καὶ",
+      "highlightedWord": "διαβόλου."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Lk 4:3",
+      "text": "ὁ διάβολος· Εἰ",
+      "highlightedWord": "διάβολος·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Lk 4:6",
+      "text": "ὁ διάβολος· Σοὶ",
+      "highlightedWord": "διάβολος·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Lk 4:13",
+      "text": "ὁ διάβολος ἀπέστη",
+      "highlightedWord": "διάβολος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Lk 8:12",
+      "text": "ὁ διάβολος καὶ",
+      "highlightedWord": "διάβολος"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 70,
+      "reference": "Jn 6:70",
+      "text": "εἷς διάβολός ἐστιν.",
+      "highlightedWord": "διάβολός"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Jn 8:44",
+      "text": "τοῦ διαβόλου ἐστὲ",
+      "highlightedWord": "διαβόλου"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Jn 13:2",
+      "text": "τοῦ διαβόλου ἤδη",
+      "highlightedWord": "διαβόλου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Ac 10:38",
+      "text": "τοῦ διαβόλου, ὅτι",
+      "highlightedWord": "διαβόλου,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Ac 13:10",
+      "text": "υἱὲ διαβόλου, ἐχθρὲ",
+      "highlightedWord": "διαβόλου,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Eph 4:27",
+      "text": "τῷ διαβόλῳ.",
+      "highlightedWord": "διαβόλῳ."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Eph 6:11",
+      "text": "τοῦ διαβόλου·",
+      "highlightedWord": "διαβόλου·"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Ti 3:6",
+      "text": "τοῦ διαβόλου.",
+      "highlightedWord": "διαβόλου."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Ti 3:7",
+      "text": "τοῦ διαβόλου.",
+      "highlightedWord": "διαβόλου."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Ti 3:11",
+      "text": "μὴ διαβόλους, νηφαλίους,",
+      "highlightedWord": "διαβόλους,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "2Ti 2:26",
+      "text": "τοῦ διαβόλου παγίδος,",
+      "highlightedWord": "διαβόλου"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Ti 3:3",
+      "text": "ἄσπονδοι, διάβολοι, ἀκρατεῖς,",
+      "highlightedWord": "διάβολοι,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Tit 2:3",
+      "text": "μὴ διαβόλους μηδὲ",
+      "highlightedWord": "διαβόλους"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Heb 2:14",
+      "text": "τὸν διάβολον,",
+      "highlightedWord": "διάβολον,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Jas 4:7",
+      "text": "τῷ διαβόλῳ, καὶ",
+      "highlightedWord": "διαβόλῳ,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Pe 5:8",
+      "text": "ὑμῶν διάβολος ὡς",
+      "highlightedWord": "διάβολος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Jn 3:8",
+      "text": "τοῦ διαβόλου ἐστίν,",
+      "highlightedWord": "διαβόλου"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Jn 3:10",
+      "text": "τοῦ διαβόλου· πᾶς",
+      "highlightedWord": "διαβόλου·"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Jud 1:9",
+      "text": "τῷ διαβόλῳ διακρινόμενος",
+      "highlightedWord": "διαβόλῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "ὁ διάβολος ἐξ",
+      "highlightedWord": "διάβολος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "καλούμενος Διάβολος καὶ",
+      "highlightedWord": "Διάβολος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Re 12:12",
+      "text": "ὁ διάβολος πρὸς",
+      "highlightedWord": "διάβολος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Re 20:2",
+      "text": "ἐστιν Διάβολος καὶ",
+      "highlightedWord": "Διάβολος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Re 20:10",
+      "text": "ὁ διάβολος ὁ",
+      "highlightedWord": "διάβολος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

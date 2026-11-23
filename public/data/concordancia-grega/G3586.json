@@ -1,0 +1,167 @@
+{
+  "strong": "G3586",
+  "lemma": "ξύλον",
+  "lemmaTranslit": "xylon",
+  "tokenCount": 20,
+  "verseCount": 18,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Marcos": 2,
+    "Lucas": 2,
+    "Atos": 4,
+    "1 Coríntios": 1,
+    "Gálatas": 1,
+    "1 Pedro": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 47,
+      "reference": "Mt 26:47",
+      "text": "καὶ ξύλων ἀπὸ",
+      "highlightedWord": "ξύλων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 55,
+      "reference": "Mt 26:55",
+      "text": "καὶ ξύλων συλλαβεῖν",
+      "highlightedWord": "ξύλων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 43,
+      "reference": "Mk 14:43",
+      "text": "καὶ ξύλων παρὰ",
+      "highlightedWord": "ξύλων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 48,
+      "reference": "Mk 14:48",
+      "text": "καὶ ξύλων συλλαβεῖν",
+      "highlightedWord": "ξύλων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 52,
+      "reference": "Lk 22:52",
+      "text": "καὶ ξύλων;",
+      "highlightedWord": "ξύλων;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 31,
+      "reference": "Lk 23:31",
+      "text": "ὑγρῷ ξύλῳ ταῦτα",
+      "highlightedWord": "ξύλῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Ac 5:30",
+      "text": "ἐπὶ ξύλου·",
+      "highlightedWord": "ξύλου·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Ac 10:39",
+      "text": "ἐπὶ ξύλου.",
+      "highlightedWord": "ξύλου."
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Ac 13:29",
+      "text": "τοῦ ξύλου ἔθηκαν",
+      "highlightedWord": "ξύλου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Ac 16:24",
+      "text": "τὸ ξύλον.",
+      "highlightedWord": "ξύλον."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Co 3:12",
+      "text": "τιμίους, ξύλα, χόρτον,",
+      "highlightedWord": "ξύλα,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Ga 3:13",
+      "text": "ἐπὶ ξύλου,",
+      "highlightedWord": "ξύλου,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "1Pe 2:24",
+      "text": "τὸ ξύλον, ἵνα",
+      "highlightedWord": "ξύλον,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Re 2:7",
+      "text": "τοῦ ξύλου τῆς",
+      "highlightedWord": "ξύλου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Re 18:12",
+      "text": "πᾶν ξύλον θύϊνον",
+      "highlightedWord": "ξύλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Re 22:2",
+      "text": "ἐκεῖθεν ξύλον ζωῆς",
+      "highlightedWord": "ξύλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Re 22:14",
+      "text": "τὸ ξύλον τῆς",
+      "highlightedWord": "ξύλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 19,
+      "reference": "Re 22:19",
+      "text": "τοῦ ξύλου τῆς",
+      "highlightedWord": "ξύλου"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

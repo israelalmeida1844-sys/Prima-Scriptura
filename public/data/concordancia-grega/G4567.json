@@ -1,0 +1,291 @@
+{
+  "strong": "G4567",
+  "lemma": "Σατανᾶς",
+  "lemmaTranslit": "Satanas",
+  "tokenCount": 36,
+  "verseCount": 33,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 6,
+    "Lucas": 5,
+    "João": 1,
+    "Atos": 2,
+    "Romanos": 1,
+    "1 Coríntios": 2,
+    "2 Coríntios": 3,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 2,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Mt 4:10",
+      "text": "Ὕπαγε, Σατανᾶ· γέγραπται",
+      "highlightedWord": "Σατανᾶ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Mt 12:26",
+      "text": "ὁ Σατανᾶς τὸν",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Mt 16:23",
+      "text": "μου, Σατανᾶ· σκάνδαλον",
+      "highlightedWord": "Σατανᾶ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Mk 1:13",
+      "text": "τοῦ Σατανᾶ, καὶ",
+      "highlightedWord": "Σατανᾶ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Mk 3:23",
+      "text": "δύναται Σατανᾶς Σατανᾶν",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Mk 3:26",
+      "text": "ὁ Σατανᾶς ἀνέστη",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Mk 4:15",
+      "text": "ὁ Σατανᾶς καὶ",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Mk 8:33",
+      "text": "μου, Σατανᾶ, ὅτι",
+      "highlightedWord": "Σατανᾶ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Lk 10:18",
+      "text": "τὸν Σατανᾶν ὡς",
+      "highlightedWord": "Σατανᾶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Lk 11:18",
+      "text": "ὁ Σατανᾶς ἐφ’",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Lk 13:16",
+      "text": "ὁ Σατανᾶς ἰδοὺ",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Lk 22:3",
+      "text": "δὲ Σατανᾶς εἰς",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 31,
+      "reference": "Lk 22:31",
+      "text": "ὁ Σατανᾶς ἐξῃτήσατο",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Jn 13:27",
+      "text": "ὁ Σατανᾶς. λέγει",
+      "highlightedWord": "Σατανᾶς."
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ac 5:3",
+      "text": "ὁ Σατανᾶς τὴν",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 18,
+      "reference": "Ac 26:18",
+      "text": "τοῦ Σατανᾶ ἐπὶ",
+      "highlightedWord": "Σατανᾶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Ro 16:20",
+      "text": "τὸν Σατανᾶν ὑπὸ",
+      "highlightedWord": "Σατανᾶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Co 5:5",
+      "text": "τῷ Σατανᾷ εἰς",
+      "highlightedWord": "Σατανᾷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "1Co 7:5",
+      "text": "ὁ Σατανᾶς διὰ",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Co 2:11",
+      "text": "τοῦ Σατανᾶ, οὐ",
+      "highlightedWord": "Σατανᾶ,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "2Co 11:14",
+      "text": "ὁ Σατανᾶς μετασχηματίζεται",
+      "highlightedWord": "Σατανᾶς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "2Co 12:7",
+      "text": "ἄγγελος Σατανᾶ, ἵνα",
+      "highlightedWord": "Σατανᾶ,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "1Th 2:18",
+      "text": "ὁ Σατανᾶς.",
+      "highlightedWord": "Σατανᾶς."
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Th 2:9",
+      "text": "τοῦ Σατανᾶ ἐν",
+      "highlightedWord": "Σατανᾶ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "1Ti 1:20",
+      "text": "τῷ Σατανᾷ ἵνα",
+      "highlightedWord": "Σατανᾷ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Ti 5:15",
+      "text": "τοῦ Σατανᾶ.",
+      "highlightedWord": "Σατανᾶ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "τοῦ Σατανᾶ.",
+      "highlightedWord": "Σατανᾶ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "τοῦ Σατανᾶ, καὶ",
+      "highlightedWord": "Σατανᾶ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "τοῦ Σατανᾶ, ὡς",
+      "highlightedWord": "Σατανᾶ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "τοῦ Σατανᾶ, τῶν",
+      "highlightedWord": "Σατανᾶ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "ὁ Σατανᾶς, ὁ",
+      "highlightedWord": "Σατανᾶς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Re 20:2",
+      "text": "ὁ Σατανᾶς, καὶ",
+      "highlightedWord": "Σατανᾶς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Re 20:7",
+      "text": "ὁ Σατανᾶς ἐκ",
+      "highlightedWord": "Σατανᾶς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

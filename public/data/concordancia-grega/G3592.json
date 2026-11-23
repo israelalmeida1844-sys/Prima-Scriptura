@@ -1,0 +1,99 @@
+{
+  "strong": "G3592",
+  "lemma": "ὅδε",
+  "lemmaTranslit": "hode",
+  "tokenCount": 10,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Lucas": 1,
+    "Atos": 1,
+    "Tiago": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Lk 10:39",
+      "text": "καὶ τῇδε ἦν",
+      "highlightedWord": "τῇδε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "εἶπεν· Τάδε λέγει",
+      "highlightedWord": "Τάδε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Jas 4:13",
+      "text": "εἰς τήνδε τὴν",
+      "highlightedWord": "τήνδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "γράψον· Τάδε λέγει",
+      "highlightedWord": "Τάδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Re 2:8",
+      "text": "γράψον· Τάδε λέγει",
+      "highlightedWord": "Τάδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Re 2:12",
+      "text": "γράψον· Τάδε λέγει",
+      "highlightedWord": "Τάδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Re 2:18",
+      "text": "γράψον· Τάδε λέγει",
+      "highlightedWord": "Τάδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Re 3:1",
+      "text": "γράψον· Τάδε λέγει",
+      "highlightedWord": "Τάδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "γράψον· Τάδε λέγει",
+      "highlightedWord": "Τάδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Re 3:14",
+      "text": "γράψον· Τάδε λέγει",
+      "highlightedWord": "Τάδε"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

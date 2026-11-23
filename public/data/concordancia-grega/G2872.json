@@ -1,0 +1,197 @@
+{
+  "strong": "G2872",
+  "lemma": "κοπιάω",
+  "lemmaTranslit": "kopiaō",
+  "tokenCount": 23,
+  "verseCount": 21,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Lucas": 2,
+    "João": 3,
+    "Atos": 1,
+    "Romanos": 3,
+    "1 Coríntios": 3,
+    "Gálatas": 1,
+    "Efésios": 1,
+    "Filipenses": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 2,
+    "2 Timóteo": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 28,
+      "reference": "Mt 6:28",
+      "text": "οὐ κοπιῶσιν οὐδὲ",
+      "highlightedWord": "κοπιῶσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Mt 11:28",
+      "text": "οἱ κοπιῶντες καὶ",
+      "highlightedWord": "κοπιῶντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Lk 5:5",
+      "text": "νυκτὸς κοπιάσαντες οὐδὲν",
+      "highlightedWord": "κοπιάσαντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Lk 12:27",
+      "text": "οὐ κοπιᾷ οὐδὲ",
+      "highlightedWord": "κοπιᾷ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Jn 4:6",
+      "text": "Ἰησοῦς κεκοπιακὼς ἐκ",
+      "highlightedWord": "κεκοπιακὼς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 38,
+      "reference": "Jn 4:38",
+      "text": "ὑμεῖς κεκοπιάκατε· ἄλλοι",
+      "highlightedWord": "κεκοπιάκατε·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 35,
+      "reference": "Ac 20:35",
+      "text": "οὕτως κοπιῶντας δεῖ",
+      "highlightedWord": "κοπιῶντας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Ro 16:6",
+      "text": "πολλὰ ἐκοπίασεν εἰς",
+      "highlightedWord": "ἐκοπίασεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Ro 16:12",
+      "text": "τὰς κοπιώσας ἐν",
+      "highlightedWord": "κοπιώσας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Co 4:12",
+      "text": "καὶ κοπιῶμεν ἐργαζόμενοι",
+      "highlightedWord": "κοπιῶμεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "1Co 15:10",
+      "text": "πάντων ἐκοπίασα, οὐκ",
+      "highlightedWord": "ἐκοπίασα,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "1Co 16:16",
+      "text": "καὶ κοπιῶντι.",
+      "highlightedWord": "κοπιῶντι."
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Ga 4:11",
+      "text": "εἰκῇ κεκοπίακα εἰς",
+      "highlightedWord": "κεκοπίακα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Eph 4:28",
+      "text": "δὲ κοπιάτω ἐργαζόμενος",
+      "highlightedWord": "κοπιάτω"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Php 2:16",
+      "text": "κενὸν ἐκοπίασα.",
+      "highlightedWord": "ἐκοπίασα."
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Col 1:29",
+      "text": "καὶ κοπιῶ ἀγωνιζόμενος",
+      "highlightedWord": "κοπιῶ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Th 5:12",
+      "text": "τοὺς κοπιῶντας ἐν",
+      "highlightedWord": "κοπιῶντας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Ti 4:10",
+      "text": "γὰρ κοπιῶμεν καὶ",
+      "highlightedWord": "κοπιῶμεν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "1Ti 5:17",
+      "text": "οἱ κοπιῶντες ἐν",
+      "highlightedWord": "κοπιῶντες"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "2Ti 2:6",
+      "text": "τὸν κοπιῶντα γεωργὸν",
+      "highlightedWord": "κοπιῶντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Re 2:3",
+      "text": "οὐ κεκοπίακες.",
+      "highlightedWord": "κεκοπίακες."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

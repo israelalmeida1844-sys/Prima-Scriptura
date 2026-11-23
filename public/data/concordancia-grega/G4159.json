@@ -1,0 +1,229 @@
+{
+  "strong": "G4159",
+  "lemma": "πόθεν",
+  "lemmaTranslit": "pothen",
+  "tokenCount": 29,
+  "verseCount": 26,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 3,
+    "Lucas": 4,
+    "João": 13,
+    "Tiago": 2,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Mt 13:27",
+      "text": "ἀγρῷ; πόθεν οὖν",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 54,
+      "reference": "Mt 13:54",
+      "text": "λέγειν· Πόθεν τούτῳ",
+      "highlightedWord": "Πόθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 56,
+      "reference": "Mt 13:56",
+      "text": "εἰσιν; πόθεν οὖν",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 33,
+      "reference": "Mt 15:33",
+      "text": "μαθηταί· Πόθεν ἡμῖν",
+      "highlightedWord": "Πόθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Mt 21:25",
+      "text": "Ἰωάννου πόθεν ἦν;",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mk 6:2",
+      "text": "λέγοντες· Πόθεν τούτῳ",
+      "highlightedWord": "Πόθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Mk 8:4",
+      "text": "ὅτι Πόθεν τούτους",
+      "highlightedWord": "Πόθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Mk 12:37",
+      "text": "καὶ πόθεν αὐτοῦ",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 43,
+      "reference": "Lk 1:43",
+      "text": "καὶ πόθεν μοι",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Lk 13:25",
+      "text": "ὑμᾶς πόθεν ἐστέ.",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Lk 13:27",
+      "text": "οἶδα πόθεν ἐστέ·",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Lk 20:7",
+      "text": "εἰδέναι πόθεν.",
+      "highlightedWord": "πόθεν."
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 48,
+      "reference": "Jn 1:48",
+      "text": "Ναθαναήλ· Πόθεν με",
+      "highlightedWord": "Πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Jn 2:9",
+      "text": "ᾔδει πόθεν ἐστίν,",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jn 3:8",
+      "text": "οἶδας πόθεν ἔρχεται",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "βαθύ· πόθεν οὖν",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Jn 6:5",
+      "text": "Φίλιππον· Πόθεν ἀγοράσωμεν",
+      "highlightedWord": "Πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Jn 7:27",
+      "text": "οἴδαμεν πόθεν ἐστίν·",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Jn 7:28",
+      "text": "οἴδατε πόθεν εἰμί·",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Jn 8:14",
+      "text": "οἶδα πόθεν ἦλθον",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Jn 9:29",
+      "text": "οἴδαμεν πόθεν ἐστίν.",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Jn 9:30",
+      "text": "οἴδατε πόθεν ἐστίν,",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Jn 19:9",
+      "text": "Ἰησοῦ· Πόθεν εἶ",
+      "highlightedWord": "Πόθεν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Jas 4:1",
+      "text": "Πόθεν πόλεμοι",
+      "highlightedWord": "Πόθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "οὖν πόθεν πέπτωκας,",
+      "highlightedWord": "πόθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Re 7:13",
+      "text": "καὶ πόθεν ἦλθον;",
+      "highlightedWord": "πόθεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}
