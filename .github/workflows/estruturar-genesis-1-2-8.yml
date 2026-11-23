@@ -1,4 +1,5 @@
 name: Estruturar integralmente Gênesis 1:2–8 (somente rascunho)
+# Conferir fontes WLC dos títulos massoréticos ainda sem equivalente numerado.
 on:
   push:
     branches: [rascunho/genesis]
