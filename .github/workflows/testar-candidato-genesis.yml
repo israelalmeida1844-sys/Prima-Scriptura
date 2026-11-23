@@ -1,0 +1,53 @@
+name: Testar candidato seletivo Gênesis 1:1–8 (sem deploy)
+on:
+  push:
+    branches: [publicacao/genesis-1-1-8]
+    paths: ['.github/workflows/testar-candidato-genesis.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publicacao/genesis-1-1-8
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar ferramentas de compilação e navegador
+        run: |
+          npm install --no-audit --no-fund
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+      - name: Auditar 36 índices Strong OSHB 2.2
+        run: node scripts/homologar-genesis-indices.mjs
+      - name: Testar Astro no código real candidato à produção
+        run: |
+          npm run build
+          for v in {1..8}; do
+            test -f dist/comentarios/genesis/capitulo-1/versiculo-$v/index.html
+          done
+          test -f dist/comentarios/genesis/index.html
+          test -f dist/comentarios/genesis/capitulo-1/index.html
+          for book in 1-joao hebreus daniel; do test -f dist/comentarios/$book/index.html; done
+          if ls src/content/comentarios/genesis-capitulo-*.md >/dev/null 2>&1; then
+            echo "FALHA: 50 manuscritos de Gênesis não deveriam entrar neste pacote." >&2
+            exit 1
+          fi
+      - name: Navegar e capturar o candidato em Chromium (4 resoluções)
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 > /tmp/preview.log 2>&1 &
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:4321/comentarios/genesis/ >/dev/null; then break; fi
+            sleep 1
+          done
+          node scripts/homologar-genesis-1-1-8.mjs
+      - name: Evidência técnica do candidato
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: candidato-producao-genesis
+          path: artifacts/genesis-visual/
+          if-no-files-found: warn
