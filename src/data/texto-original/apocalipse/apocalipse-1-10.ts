@@ -7,8 +7,8 @@ export const apocalipse1v10 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Achei-me no Espírito no dia do Senhor e ouvi atrás de mim uma voz forte, semelhante ao som de uma trombeta,",
-  "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "A forma κυριακῇ ἡμέρᾳ significa literalmente «dia pertencente ao Senhor». O grego não identifica por si só o dia da semana; distinguir hipótese histórica, uso cristão posterior e interpretação confessional.",
+  "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
+  "textualNotes": "κυριακῇ ἡμέρᾳ é dativo feminino singular, «dia pertencente ao Senhor» (κυριακός, G2960). A identificação histórica ou confessional do dia não é determinada somente pelo adjetivo. As marcas ⸂...⸃ do aparato SBLGNT em ὀπίσω μου φωνὴν dizem respeito a variantes de ordem textual e foram omitidas da superfície do interlinear, não do testemunho crítico.",
   "exegeticalNotes": [
     "A experiência «no Espírito» introduz a percepção profética sem especificar seu mecanismo.",
     "A expressão «dia do Senhor» requer uma discussão histórica separada de sua interpretação denominacional."
@@ -19,7 +19,7 @@ export const apocalipse1v10 = {
       "shortMorph": "V-AMI-1S",
       "greek": "ἐγενόμην",
       "transliteration": "egenomēn",
-      "gloss": "estava",
+      "gloss": "estive",
       "strong": "G1096",
       "lemma": "γίνομαι",
       "lemmaTransliteration": "ginomai",
@@ -32,7 +32,7 @@ export const apocalipse1v10 = {
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal principal, primeira pessoa singular",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -115,7 +115,7 @@ export const apocalipse1v10 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "o",
+      "gloss": "na/à",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -147,12 +147,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
       "meanings": "pertencente ao Senhor",
-      "explanation": "Adjetivo dativo singular feminino; modificador adjetival ou predicativo. A equivalência portuguesa «do Senhor» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo dativo feminino singular, concorda com ἡμέρᾳ; indica pertencimento ao Senhor. A identificação do dia da semana exige argumentação histórica adicional.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo dativo feminino singular, modificador de ἡμέρᾳ",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -259,7 +259,7 @@ export const apocalipse1v10 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "de mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -296,7 +296,7 @@ export const apocalipse1v10 = {
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Objeto direto de ἤκουσα",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
