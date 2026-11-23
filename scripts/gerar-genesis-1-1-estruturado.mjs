@@ -53,7 +53,16 @@ const sectionPt={pentateuco:'Pentateuco',profetas:'Profetas',escritos:'Escritos'
 const byAbbr=new Map(ALL.map(x=>[x[0],x]));
 const ids=['H7225','H1254','H430','H853','H8064','H776'];
 const sourceBase='https://raw.githubusercontent.com/openscriptures/morphhb/v.2.2/wlc/';
-const ptBase='https://raw.githubusercontent.com/damarals/biblias/main/data/canonical/ALM1911/';
+const ptBase='https://raw.githubusercontent.com/damarals/biblias/bae7ba00cb44729a72b3c1ee20db62da274ff765/data/canonical/ALM1911/';
+const versificationUrl='https://raw.githubusercontent.com/metaxiamultimedia/scriptures-js-source-stepbible-versification/f426b7253623731ce788c8ce7abcd1d8f95c1f70/data/stepbible-versification/mapping.json';
+const ENGLISH_NAMES={
+ Gn:'Genesis','Êx':'Exodus',Lv:'Leviticus',Nm:'Numbers',Dt:'Deuteronomy',Js:'Joshua',Jz:'Judges',Rt:'Ruth',
+ '1Sm':'1 Samuel','2Sm':'2 Samuel','1Rs':'1 Kings','2Rs':'2 Kings','1Cr':'1 Chronicles','2Cr':'2 Chronicles',
+ Ed:'Ezra',Ne:'Nehemiah',Et:'Esther','Jó':'Job',Sl:'Psalms',Pv:'Proverbs',Ec:'Ecclesiastes',Ct:'Song of Solomon',
+ Is:'Isaiah',Jr:'Jeremiah',Lm:'Lamentations',Ez:'Ezekiel',Dn:'Daniel',Os:'Hosea',Jl:'Joel',Am:'Amos',Ob:'Obadiah',
+ Jn:'Jonah',Mq:'Micah',Na:'Nahum',Hc:'Habakkuk',Sf:'Zephaniah',Ag:'Haggai',Zc:'Zechariah',Ml:'Malachi'
+};
+let mtEnglishMap={};
 const out='src/editorial/genesis/GEN.1.1-estruturado-completo.json';
 const auditOut='src/editorial/genesis/GEN.1.1-auditoria-de-fonte.json';
 const hebAccent=/[\u0591-\u05AF\u05BD\u05BF\u05C0\u05C4\u05C5\u05C7]/g;
@@ -94,40 +103,23 @@ async function fetchText(url,attempts=4){
  }
 }
 function checkAndGetPortuguese({row,chapter,verse,hebrewBook,portugueseBook,audit}){
- let ch=chapter,v=verse;
- const hebChapterCount=hebrewBook.chapterVerseCounts.get(ch);
- let ptChapter=portugueseBook.chapters.find(x=>x.number===ch);
- if(row[0]==='Jl'){
-  // OSHB Hebrew Joel: chapters 1–4; Almeida 1911: chapters 1–3.
-  if(ch===3){ch=2;v=verse+27;ptChapter=portugueseBook.chapters.find(x=>x.number===2)}
-  if(ch===4){ch=3;v=verse;ptChapter=portugueseBook.chapters.find(x=>x.number===3)}
+ const mtKey=ENGLISH_NAMES[row[0]]+' '+chapter+':'+verse;
+ if(!ENGLISH_NAMES[row[0]])die('Sem nome inglês para o livro '+row[0]);
+ const mapping=Object.prototype.hasOwnProperty.call(mtEnglishMap,mtKey)?mtEnglishMap[mtKey]:undefined;
+ if(mapping===null){
+   audit.alignmentUnavailable.push({ref:row[0]+' '+chapter+':'+verse,reason:'Título massorético sem versículo inglês/português correspondente (TVTMS).'});
+   return '[Título de salmo no Texto Massorético; não há versículo correspondente na Almeida 1911.]';
  }
- if(row[0]==='Ml'&&ch===3&&verse>=19){
-  ch=4;v=verse-18;ptChapter=portugueseBook.chapters.find(x=>x.number===4);
+ const ptChapterNumber=mapping?.chapter??chapter;
+ const ptVerseNumber=mapping?.verse??verse;
+ if(mapping){
+  audit.mappingsApplied.push({mt:row[0]+' '+chapter+':'+verse,almeida1911:row[0]+' '+ptChapterNumber+':'+ptVerseNumber,part:mapping.part??null});
  }
- if(row[0]==='Sl'){
-  const originalPt=portugueseBook.chapters.find(x=>x.number===chapter);
-  const count=originalPt?.verses?.length??0;
-  const diff=hebChapterCount-count;
-  if(diff===1||diff===2){
-   v=verse-diff;
-   if(v<=0){audit.alignmentUnavailable.push({ref:row[0]+' '+chapter+':'+verse,reason:'Título hebraico contado como versículo, ausente na edição portuguesa.'});return '[Título massorético do salmo; sem versículo correspondente na Almeida 1911.]'}
-  }else if(diff!==0){
-   audit.alignmentUnavailable.push({ref:row[0]+' '+chapter+':'+verse,reason:'Diferença de contagem de versículos no Salmo: '+diff});
-   return '[Sem excerto português: numeração deste salmo requer colação manual.]';
-  }
- }
- const found=ptChapter?.verses?.find(x=>x.number===v)?.text?.trim();
+ const ptChapter=portugueseBook.chapters.find(x=>x.number===ptChapterNumber);
+ const found=ptChapter?.verses?.find(x=>x.number===ptVerseNumber)?.text?.trim();
  if(!found){
-  audit.alignmentUnavailable.push({ref:row[0]+' '+chapter+':'+verse,reason:'Sem texto correspondente na Almeida 1911 para '+ch+':'+v});
-  return '[Sem excerto português seguro para esta referência; conferir numeração textual.]';
- }
- if(row[0]!=='Sl'&&row[0]!=='Jl'&&row[0]!=='Ml'){
-  const ptCount=ptChapter.verses.length;
-  if(hebChapterCount!==ptCount){
-   audit.alignmentWarnings.push({ref:row[0]+' '+chapter+':'+verse,reason:'Contagens de versículos divergentes (WLC '+hebChapterCount+', ALM1911 '+ptCount+').'});
-   return '[Excerto português não incluído: a numeração desta passagem difere entre as edições.]';
-  }
+  audit.alignmentUnavailable.push({ref:row[0]+' '+chapter+':'+verse,reason:'Nenhum versículo português em '+ptChapterNumber+':'+ptVerseNumber+' (TVTMS).'});
+  return '[Não foi possível alinhar este versículo ao texto português histórico.]';
  }
  return found;
 }
@@ -167,7 +159,9 @@ const tokens=[
  [7,'הָאָרֶץ','הארץ','hāʾāreṣ','a terra','H776','HTd/Ncbsa','','','','comum (OSHB); feminino no uso','singular','coordinated_direct_object','Segundo objeto direto coordenado','GEN.1.1.2','Artigo definido (HTd) mais Ncbsa. O lema אֶרֶץ é geralmente feminino.']
 ].map(row=>{if(row[14]==='')row[14]=null;return makeToken(row)});
 const concordances={};
-const audit={source:'OSHB v.2.2 (WLC) + ALM1911 (domínio público)',createdAt:'gerado pela auditoria automatizada',alignmentUnavailable:[],alignmentWarnings:[],counts:{},downloadedBooks:[],errors:[]};
+const audit={source:'OSHB v.2.2 (WLC) + ALM1911 (domínio público) + STEPBible TVTMS MT→English CC BY 4.0',
+ createdAt:'gerado pela auditoria automatizada',
+ alignmentUnavailable:[],alignmentWarnings:[],mappingsApplied:[],counts:{},downloadedBooks:[],errors:[]};
 const occurrences=new Map();
 for(const id of ids){
  const x=JSON.parse(await readFile('public/data/concordancia-hebraica/'+id+'.json','utf8'));
@@ -180,6 +174,9 @@ for(const x of occurrences.values())for(const ref of x.references){
  if(!byAbbr.has(abbr))die('Livro inexistente: '+ref);
  neededBooks.add(abbr);
 }
+const mappingSource=JSON.parse(await fetchText(versificationUrl));
+mtEnglishMap=mappingSource['MT->English'];
+if(!mtEnglishMap||Object.keys(mtEnglishMap).length<1000)die('Tabela MT→English insuficiente');
 const src=new Map();
 const books=[...neededBooks];
 for(let offset=0;offset<books.length;offset+=5){
@@ -237,7 +234,8 @@ if(seen!==11708)die('Era esperado 11708 versículos indexados, obtidos '+seen);
 audit.totalItems=seen;
 audit.alignmentUnavailableCount=audit.alignmentUnavailable.length;
 audit.alignmentWarningCount=audit.alignmentWarnings.length;
+audit.numberOfMappedReferences=audit.mappingsApplied.length;
 await mkdir(dirname(out),{recursive:true});
 await writeFile(out,JSON.stringify(output,null,2)+'\n');
 await writeFile(auditOut,JSON.stringify(audit,null,2)+'\n');
-console.log('SUCCESS: GEN.1.1 completo;',seen,'registros de concordância, 6 lemas, 7 tokens. Avisos de alinhamento:',audit.alignmentUnavailableCount,audit.alignmentWarningCount);
+console.log('SUCCESS: GEN.1.1 completo;',seen,'registros de concordância, 6 lemas, 7 tokens. Mapas de versificação:',audit.numberOfMappedReferences,'Avisos de alinhamento:',audit.alignmentUnavailableCount,audit.alignmentWarningCount);
