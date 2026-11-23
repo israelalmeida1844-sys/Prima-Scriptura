@@ -1,0 +1,61 @@
+{
+  "sourceCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "chapter": 4,
+  "verses": 11,
+  "tokens": 293,
+  "lemmas": 113,
+  "newStrongEntries": 46,
+  "lexiconEntries": 398,
+  "perVerse": [
+    {
+      "verse": 1,
+      "tokens": 33
+    },
+    {
+      "verse": 2,
+      "tokens": 16
+    },
+    {
+      "verse": 3,
+      "tokens": 17
+    },
+    {
+      "verse": 4,
+      "tokens": 26
+    },
+    {
+      "verse": 5,
+      "tokens": 25
+    },
+    {
+      "verse": 6,
+      "tokens": 25
+    },
+    {
+      "verse": 7,
+      "tokens": 29
+    },
+    {
+      "verse": 8,
+      "tokens": 41
+    },
+    {
+      "verse": 9,
+      "tokens": 22
+    },
+    {
+      "verse": 10,
+      "tokens": 29
+    },
+    {
+      "verse": 11,
+      "tokens": 30
+    }
+  ],
+  "strongException": {
+    "lemma": "κύκλῳ",
+    "strong": "G2945",
+    "source": "https://studybible.info/strongs/G2945"
+  },
+  "status": "Texto alinhado ao corpus; concordâncias e build pendentes de execução"
+}
