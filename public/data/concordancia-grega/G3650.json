@@ -1,0 +1,799 @@
+{
+  "strong": "G3650",
+  "lemma": "ὅλος",
+  "lemmaTranslit": "holos",
+  "tokenCount": 108,
+  "verseCount": 96,
+  "bookDistribution": {
+    "Mateus": 22,
+    "Marcos": 18,
+    "Lucas": 17,
+    "João": 6,
+    "Atos": 19,
+    "Romanos": 4,
+    "1 Coríntios": 4,
+    "2 Coríntios": 1,
+    "Gálatas": 2,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 1,
+    "Tito": 1,
+    "Hebreus": 1,
+    "Tiago": 4,
+    "1 João": 2,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Mt 1:22",
+      "text": "δὲ ὅλον γέγονεν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Mt 4:23",
+      "text": "ἐν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Mt 4:24",
+      "text": "εἰς ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Mt 5:29",
+      "text": "μὴ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "μὴ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Mt 6:22",
+      "text": "ἁπλοῦς, ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Mt 6:23",
+      "text": "ᾖ, ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Mt 9:26",
+      "text": "εἰς ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mt 9:31",
+      "text": "ἐν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Mt 13:33",
+      "text": "ἐζυμώθη ὅλον.",
+      "highlightedWord": "ὅλον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mt 14:35",
+      "text": "εἰς ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Mt 16:26",
+      "text": "κόσμον ὅλον κερδήσῃ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Mt 20:6",
+      "text": "ἑστήκατε ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 37,
+      "reference": "Mt 22:37",
+      "text": "ἐν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 40,
+      "reference": "Mt 22:40",
+      "text": "ἐντολαῖς ὅλος ὁ",
+      "highlightedWord": "ὅλος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 14,
+      "reference": "Mt 24:14",
+      "text": "ἐν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 13,
+      "reference": "Mt 26:13",
+      "text": "ἐν ὅλῳ τῷ",
+      "highlightedWord": "ὅλῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 56,
+      "reference": "Mt 26:56",
+      "text": "δὲ ὅλον γέγονεν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 59,
+      "reference": "Mt 26:59",
+      "text": "συνέδριον ὅλον ἐζήτουν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 27,
+      "reference": "Mt 27:27",
+      "text": "αὐτὸν ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Mk 1:28",
+      "text": "εἰς ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Mk 1:33",
+      "text": "ἦν ὅλη ἡ",
+      "highlightedWord": "ὅλη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Mk 1:39",
+      "text": "εἰς ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 55,
+      "reference": "Mk 6:55",
+      "text": "περιέδραμον ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Mk 8:36",
+      "text": "κόσμον ὅλον καὶ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "Mk 12:30",
+      "text": "ἐξ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Mk 12:33",
+      "text": "ἐξ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 44,
+      "reference": "Mk 12:44",
+      "text": "ἔβαλεν, ὅλον τὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Mk 14:9",
+      "text": "εἰς ὅλον τὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 55,
+      "reference": "Mk 14:55",
+      "text": "καὶ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Mk 15:1",
+      "text": "καὶ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Mk 15:16",
+      "text": "συγκαλοῦσιν ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 33,
+      "reference": "Mk 15:33",
+      "text": "ἐφ’ ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 65,
+      "reference": "Lk 1:65",
+      "text": "ἐν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Lk 4:14",
+      "text": "καθ’ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Lk 5:5",
+      "text": "δι’ ὅλης νυκτὸς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Lk 7:17",
+      "text": "ἐν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Lk 8:39",
+      "text": "καθ’ ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 43,
+      "reference": "Lk 8:43",
+      "text": "προσαναλώσασα ὅλον τὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Lk 9:25",
+      "text": "κόσμον ὅλον ἑαυτὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Lk 10:27",
+      "text": "ἐξ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Lk 11:34",
+      "text": "καὶ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Lk 11:36",
+      "text": "σου ὅλον φωτεινόν,",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Lk 13:21",
+      "text": "ἐζυμώθη ὅλον.",
+      "highlightedWord": "ὅλον."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 5,
+      "reference": "Lk 23:5",
+      "text": "καθ’ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 44,
+      "reference": "Lk 23:44",
+      "text": "ἐφ’ ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 53,
+      "reference": "Jn 4:53",
+      "text": "αὐτοῦ ὅλη.",
+      "highlightedWord": "ὅλη."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Jn 7:23",
+      "text": "ὅτι ὅλον ἄνθρωπον",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Jn 9:34",
+      "text": "ἐγεννήθης ὅλος, καὶ",
+      "highlightedWord": "ὅλος,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 50,
+      "reference": "Jn 11:50",
+      "text": "μὴ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Jn 13:10",
+      "text": "καθαρὸς ὅλος· καὶ",
+      "highlightedWord": "ὅλος·"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Jn 19:23",
+      "text": "δι’ ὅλου·",
+      "highlightedWord": "ὅλου·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ac 2:2",
+      "text": "ἐπλήρωσεν ὅλον τὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 47,
+      "reference": "Ac 2:47",
+      "text": "πρὸς ὅλον τὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Ac 5:11",
+      "text": "ἐφ’ ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Ac 7:10",
+      "text": "καὶ ὅλον τὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Ac 7:11",
+      "text": "ἐφ’ ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Ac 9:31",
+      "text": "καθ’ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Ac 9:42",
+      "text": "καθ’ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Ac 10:22",
+      "text": "ὑπὸ ὅλου τοῦ",
+      "highlightedWord": "ὅλου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Ac 10:37",
+      "text": "καθ’ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Ac 11:26",
+      "text": "ἐνιαυτὸν ὅλον συναχθῆναι",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Ac 11:28",
+      "text": "ἐφ’ ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Ac 13:6",
+      "text": "δὲ ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 49,
+      "reference": "Ac 13:49",
+      "text": "δι’ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Ac 15:22",
+      "text": "σὺν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Ac 18:8",
+      "text": "σὺν ὅλῳ τῷ",
+      "highlightedWord": "ὅλῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Ac 19:27",
+      "text": "ἣν ὅλη ἡ",
+      "highlightedWord": "ὅλη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Ac 21:30",
+      "text": "πόλις ὅλη καὶ",
+      "highlightedWord": "ὅλη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Ac 21:31",
+      "text": "ὅτι ὅλη συγχύννεται",
+      "highlightedWord": "ὅλη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 30,
+      "reference": "Ac 28:30",
+      "text": "διετίαν ὅλην ἐν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ro 1:8",
+      "text": "ἐν ὅλῳ τῷ",
+      "highlightedWord": "ὅλῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Ro 8:36",
+      "text": "θανατούμεθα ὅλην τὴν",
+      "highlightedWord": "ὅλην"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Ro 10:21",
+      "text": "λέγει· Ὅλην τὴν",
+      "highlightedWord": "Ὅλην"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Ro 16:23",
+      "text": "καὶ ὅλης τῆς",
+      "highlightedWord": "ὅλης"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Co 5:6",
+      "text": "ζύμη ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "1Co 12:17",
+      "text": "εἰ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "1Co 14:23",
+      "text": "ἐκκλησία ὅλη ἐπὶ",
+      "highlightedWord": "ὅλη"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Co 1:1",
+      "text": "ἐν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ga 5:3",
+      "text": "ἐστὶν ὅλον τὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Ga 5:9",
+      "text": "ζύμη ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Php 1:13",
+      "text": "ἐν ὅλῳ τῷ",
+      "highlightedWord": "ὅλῳ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Th 4:10",
+      "text": "ἐν ὅλῃ τῇ",
+      "highlightedWord": "ὅλῃ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Tit 1:11",
+      "text": "οἵτινες ὅλους οἴκους",
+      "highlightedWord": "ὅλους"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Heb 3:5",
+      "text": "ἐν ὅλῳ τῷ",
+      "highlightedWord": "ὅλῳ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Jas 2:10",
+      "text": "γὰρ ὅλον τὸν",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jas 3:2",
+      "text": "καὶ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Jas 3:3",
+      "text": "καὶ ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Jas 3:6",
+      "text": "σπιλοῦσα ὅλον τὸ",
+      "highlightedWord": "ὅλον"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Jn 2:2",
+      "text": "περὶ ὅλου τοῦ",
+      "highlightedWord": "ὅλου"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Jn 5:19",
+      "text": "κόσμος ὅλος ἐν",
+      "highlightedWord": "ὅλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Re 3:10",
+      "text": "οἰκουμένης ὅλης, πειράσαι",
+      "highlightedWord": "ὅλης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Re 6:12",
+      "text": "σελήνη ὅλη ἐγένετο",
+      "highlightedWord": "ὅλη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "οἰκουμένην ὅλην— ἐβλήθη",
+      "highlightedWord": "ὅλην—"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Re 13:3",
+      "text": "ἐθαυμάσθη ὅλη ἡ",
+      "highlightedWord": "ὅλη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Re 16:14",
+      "text": "οἰκουμένης ὅλης, συναγαγεῖν",
+      "highlightedWord": "ὅλης,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
