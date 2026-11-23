@@ -3,7 +3,7 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 const entries = (await getCollection('comentarios', ({data}) => !data.draft))
   .sort((a,b) => a.data.book.localeCompare(b.data.book, 'pt-BR') || a.data.chapter - b.data.chapter);
-const books = Array.from(new Set(entries.map(item => item.data.book))).map(book => {
+const booksFromCollection = Array.from(new Set(entries.map(item => item.data.book))).map(book => {
   const chapters = entries.filter(item => item.data.book === book);
   return {
     name: book,
@@ -13,6 +13,8 @@ const books = Array.from(new Set(entries.map(item => item.data.book))).map(book 
     url: book === '1 João' ? '/comentarios/1-joao/' : book === 'Daniel' ? '/comentarios/daniel/' : book === 'Hebreus' ? '/comentarios/hebreus/' : '/comentarios/' + chapters[0].id + '/'
   };
 });
+// Gênesis é uma edição experimental com oito versículos interlineares, ainda sem capítulo completo no CMS.
+const books = [{name:'Gênesis',testament:'Antigo Testamento',count:0,total:50,url:'/comentarios/genesis/',partial:true},...booksFromCollection];
 ---
 <Base title="Comentários bíblicos" description="Biblioteca de comentários bíblicos organizados por livro e capítulo.">
   <section class="section books-page">
@@ -28,9 +30,9 @@ const books = Array.from(new Set(entries.map(item => item.data.book))).map(book 
               <a href={book.url} class="book-card">
                 <span class="book-testament">{book.testament}</span>
                 <h3>{book.name}</h3>
-                <p>Comentários organizados por capítulo, com exposição bíblica e referências para aprofundamento.</p>
-                <span class="book-progress">{book.count} de {book.total} capítulos disponíveis</span>
-                <strong>Ver capítulos <span aria-hidden="true">→</span></strong>
+                <p>{book.partial ? 'Edição de avaliação: Gênesis 1:1–8 com hebraico interlinear e concordâncias completas. Demais versículos em desenvolvimento.' : 'Comentários organizados por capítulo, com exposição bíblica e referências para aprofundamento.'}</p>
+                <span class="book-progress">{book.partial ? '8 versículos para avaliação · 50 capítulos no livro' : book.count + ' de ' + book.total + ' capítulos disponíveis'}</span>
+                <strong>{book.partial ? 'Avaliar Gênesis' : 'Ver capítulos'} <span aria-hidden="true">→</span></strong>
               </a>
             ))}
           </div>
