@@ -1,0 +1,26 @@
+{
+  "strong": "G2875",
+  "lemma": "κόπτω",
+  "lemmaTranslit": "koptō",
+  "tokenCount": 8,
+  "verseCount": 8,
+  "bookDistribution": {
+    "Mt": 3,
+    "Mc": 1,
+    "Lc": 2,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 11:17",
+    "Mt 21:8",
+    "Mt 24:30",
+    "Mc 11:8",
+    "Lc 8:52",
+    "Lc 23:27",
+    "Ap 1:7",
+    "Ap 18:9"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}
