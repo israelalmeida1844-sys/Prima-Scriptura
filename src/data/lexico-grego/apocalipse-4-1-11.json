@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 4:1–11 (inclui lemas reutilizados dos capítulos 1–3)",
   "source": "SBLGNT/MorphGNT 6.12",
-  "editorialStatus": "Novos verbetes contextualizados; crítica textual e sintaxe por token ainda em validação acadêmica.",
+  "editorialStatus": "Revisão acadêmica de Apocalipse 4:1–11: distinção δεῖ/G1163 e σάρδιον/sárdio corrigidas; identificação mineralógica e variantes textuais assinaladas com cautela.",
   "entries": {
     "G602": {
       "strong": "G602",
@@ -333,28 +333,24 @@
       "strong": "G1163",
       "lemma": "δέω",
       "lemmaTransliteration": "deō",
-      "partOfSpeech": "Verbo impessoal",
+      "partOfSpeech": "Verbo impessoal (forma δεῖ)",
       "senses": [
         {
           "id": "G1163-1",
-          "label": "Necessidade divina, decreto soberano inescapável",
-          "definition": "Expressa a compulsão teológica decorrente da vontade inalterável de Deus e das profecias inspiradas.",
+          "label": "Ser necessário, ser preciso, dever",
+          "definition": "Uso impessoal de δεῖ, com sentido de necessidade, obrigação ou conveniência de uma ação. A forma é tradicionalmente indexada como Strong G1163; o MorphGNT registra o lema morfológico δέω, relacionado ao verbo G1210.",
           "examples": [
+            {
+              "reference": "Ap 4:1",
+              "greek": "ἃ δεῖ γενέσθαι",
+              "translation": "aquilo que deve acontecer",
+              "explanation": "δεῖ rege o infinitivo aoristo médio γενέσθαι e assinala necessidade no contexto do anúncio profético; a força exata da necessidade resulta do contexto."
+            },
             {
               "reference": "Ap 1:1",
               "greek": "ἃ δεῖ γενέσθαι ἐν τάχει",
-              "wordForm": "δεῖ",
-              "translation": "as coisas que é necessário acontecerem em breve.",
-              "explanation": "Alusão direta à versão grega de Daniel 2:28-29, enfatizando que os impérios mundiais e a história estão subordinados ao plano de Deus.",
-              "source": "SBLGNT"
-            },
-            {
-              "reference": "Mt 16:21",
-              "greek": "ὅτι δεῖ αὐτὸν εἰς Ἱεροσόλυμα ἀπελθεῖν καὶ πολλὰ παθεῖν",
-              "wordForm": "δεῖ",
-              "translation": "que era necessário ir a Jerusalém e sofrer muitas coisas.",
-              "explanation": "O sofrimento vicário de Cristo era uma necessidade estipulada pelo plano redentor da aliança.",
-              "source": "SBLGNT"
+              "translation": "aquilo que deve acontecer em breve",
+              "explanation": "A mesma construção apresenta os acontecimentos revelados como necessários sem determinar o significado temporal apenas pelo verbo δεῖ."
             }
           ]
         }
@@ -8078,14 +8074,14 @@
       "senses": [
         {
           "id": "G4556-1",
-          "label": "sardônio",
-          "definition": "Sardônio ou pedra de Sárdis, gema preciosa mencionada na descrição do trono em 4:3.",
+          "label": "Sárdio (pedra preciosa; cornalina)",
+          "definition": "σάρδιον designa o sárdio, pedra preciosa frequentemente associada à cornalina. Não confundir com σαρδόνυξ (sardônio, G4557), outra designação gemológica em Ap 21:20.",
           "examples": [
             {
-              "reference": "Apocalipse 4:3",
-              "greek": "καὶ σαρδίῳ, καὶ",
-              "translation": "sardônio",
-              "explanation": "Sardônio ou pedra de Sárdis, gema preciosa mencionada na descrição do trono em 4:3."
+              "reference": "Ap 4:3",
+              "greek": "λίθῳ ἰάσπιδι καὶ σαρδίῳ",
+              "translation": "pedra de jaspe e sárdio",
+              "explanation": "A comparação descreve esplendor visual sem identificar de maneira conclusiva uma espécie mineral moderna."
             }
           ]
         }
