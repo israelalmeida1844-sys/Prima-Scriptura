@@ -48,6 +48,8 @@ jobs:
         run: node scripts/generate-apocalipse-2-1-12.mjs
       - name: Revisar glosas contextuais do capitulo 2
         run: node scripts/revisar-glossas-apocalipse-2.mjs
+      - name: Revisar verbetes lexicais essenciais do capitulo 2
+        run: node scripts/revisar-lexico-apocalipse-2.mjs
       - name: Gerar concordancias do capitulo 2
         id: concord2
         run: node scripts/generate-apocalipse-2-1-12-concordancias.mjs
