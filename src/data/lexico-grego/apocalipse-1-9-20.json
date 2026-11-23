@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 1:9–20",
   "source": "MorphGNT 6.12 (aaed91e5) + mapeamento de Strong por jtauber/greek-lemma-mappings",
-  "editorialStatus": "Rascunho; sentidos amplos não equivalem a glosas contextualizadas",
+  "editorialStatus": "Edição crítica em avaliação; verbetes-chave revisados individualmente, demais definições ainda requerem cotejo especializado com léxicos de referência.",
   "entries": {
     "G80": {
       "strong": "G80",
@@ -33,14 +33,14 @@
       "senses": [
         {
           "id": "G4791-1",
-          "label": "coparticipante",
-          "definition": "coparticipante; companheiro",
+          "label": "coparticipante / quem partilha uma condição",
+          "definition": "Adjetivo/substantivo de relação: quem participa juntamente com outros de uma situação, dom ou responsabilidade. Em Ap 1:9, a coparticipação de João na tribulação, no reino e na perseverança em Jesus é solidária e comunitária.",
           "examples": [
             {
               "reference": "Apocalipse 1:9",
               "greek": "καὶ συγκοινωνὸς ἐν",
               "translation": "coparticipante",
-              "explanation": "Exemplo contextual da ocorrência de συγκοινωνός; consulte o versículo e a análise sintática para determinar o valor da expressão."
+              "explanation": "Em Ap 1:9, o dativo coordenado indica o âmbito da experiência compartilhada, não uma simples identidade formal."
             }
           ]
         }
@@ -159,14 +159,14 @@
       "senses": [
         {
           "id": "G2960-1",
-          "label": "do Senhor",
-          "definition": "pertencente ao Senhor",
+          "label": "pertencente ao Senhor",
+          "definition": "Adjetivo relacional κυριακός: aquilo que pertence ao Senhor ou lhe diz respeito. Em 1:10, modifica ἡμέρᾳ (dativo feminino singular). Não determina, por si só, a identificação histórica do dia da semana.",
           "examples": [
             {
               "reference": "Apocalipse 1:10",
               "greek": "τῇ κυριακῇ ἡμέρᾳ,",
               "translation": "do Senhor",
-              "explanation": "Exemplo contextual da ocorrência de κυριακός; consulte o versículo e a análise sintática para determinar o valor da expressão."
+              "explanation": "«Dia do Senhor» é opção tradutória literal; distinguir discussão filológica de interpretação histórica ou denominacional."
             }
           ]
         }
@@ -705,14 +705,14 @@
       "senses": [
         {
           "id": "G4158-1",
-          "label": "veste longa",
-          "definition": "roupa longa até os pés",
+          "label": "veste longa até os pés",
+          "definition": "Adjetivo ποδήρης, frequentemente substantivado, para roupa comprida até os pés. A forma ποδήρη é acusativo singular masculino em Ap 1:13.",
           "examples": [
             {
               "reference": "Apocalipse 1:13",
               "greek": "ἐνδεδυμένον ποδήρη καὶ",
               "translation": "veste longa",
-              "explanation": "Exemplo contextual da ocorrência de ποδήρης; consulte o versículo e a análise sintática para determinar o valor da expressão."
+              "explanation": "A associação com vestimentas sacerdotais/representação régia requer apoio em outros textos; não faz parte do significado lexical necessário."
             }
           ]
         }
@@ -999,14 +999,14 @@
       "senses": [
         {
           "id": "G5474-1",
-          "label": "bronze brilhante",
-          "definition": "metal brilhante; bronze refinado",
+          "label": "metal brilhante de identificação incerta",
+          "definition": "Substantivo neutro χαλκολίβανον, de interpretação metalúrgica disputada. Ocorre duas vezes no Novo Testamento, em Ap 1:15 e 2:18; portanto, não é um hapax legomenon.",
           "examples": [
             {
               "reference": "Apocalipse 1:15",
               "greek": "ὅμοιοι χαλκολιβάνῳ, ὡς",
               "translation": "bronze brilhante",
-              "explanation": "Exemplo contextual da ocorrência de χαλκολίβανον; consulte o versículo e a análise sintática para determinar o valor da expressão."
+              "explanation": "A tradução «bronze refinado» é tradicional, não identificação química ou etimológica incontroversa."
             }
           ]
         }
@@ -1209,14 +1209,14 @@
       "senses": [
         {
           "id": "G4501-1",
-          "label": "espada",
-          "definition": "espada longa",
+          "label": "espada longa",
+          "definition": "Substantivo feminino ῥομφαία: espada grande ou arma de lâmina longa. Em Ap 1:16, a espada procede simbolicamente da boca da figura vista por João.",
           "examples": [
             {
               "reference": "Apocalipse 1:16",
               "greek": "αὐτοῦ ῥομφαία δίστομος",
               "translation": "espada",
-              "explanation": "Exemplo contextual da ocorrência de ῥομφαία; consulte o versículo e a análise sintática para determinar o valor da expressão."
+              "explanation": "Os dois gumes são expressos pelo modificador δίστομος; o sentido figurado decorre do contexto apocalíptico."
             }
           ]
         }
@@ -1587,14 +1587,14 @@
       "senses": [
         {
           "id": "G86-1",
-          "label": "Hades",
-          "definition": "Hades; domínio dos mortos",
+          "label": "Hades / mundo dos mortos",
+          "definition": "Substantivo masculino ᾅδης: domínio dos mortos, mundo dos mortos. Em Ap 1:18, aparece no genitivo singular governado pela expressão «as chaves».",
           "examples": [
             {
               "reference": "Apocalipse 1:18",
               "greek": "τοῦ ᾅδου.",
               "translation": "Hades",
-              "explanation": "Exemplo contextual da ocorrência de ᾅδης; consulte o versículo e a análise sintática para determinar o valor da expressão."
+              "explanation": "Não pressupor que o vocábulo seja sinônimo lexical automático de tormento eterno."
             }
           ]
         }
@@ -1671,14 +1671,14 @@
       "senses": [
         {
           "id": "G3466-1",
-          "label": "mistério",
-          "definition": "mistério; segredo revelado",
+          "label": "mistério revelado",
+          "definition": "Substantivo neutro μυστήριον: realidade antes encoberta cujo sentido se torna conhecido por revelação ou interpretação. Em Ap 1:20 refere-se à identidade das estrelas e dos candelabros.",
           "examples": [
             {
               "reference": "Apocalipse 1:20",
               "greek": "τὸ μυστήριον τῶν",
               "translation": "mistério",
-              "explanation": "Exemplo contextual da ocorrência de μυστήριον; consulte o versículo e a análise sintática para determinar o valor da expressão."
+              "explanation": "Forma nominal neutra singular ambígua entre nominativo e acusativo; MorphGNT registra nominativo nesta passagem."
             }
           ]
         }
