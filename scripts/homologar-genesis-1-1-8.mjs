@@ -29,6 +29,7 @@ try {
     assert.ok(await page.locator('a[href="/comentarios/genesis/"]').first().isVisible(),'Gênesis ausente da página inicial');
     await visit(book);
     assert.ok((await page.locator('h1').first().innerText()).includes('Gênesis'));
+    assert.equal(await page.locator('.genesis-crumbs a').first().evaluate(el=>getComputedStyle(el).color),'rgb(67, 91, 118)','Breadcrumb do livro ilegível');
     const bookLinks=await page.locator('a[href^="/comentarios/genesis/"]').evaluateAll(elements=>[...new Set(elements.map(a=>a.getAttribute('href')).filter(Boolean))]);
     for(const href of bookLinks){
       const resp=await context.request.get(origin+href);
@@ -37,6 +38,7 @@ try {
     if(viewport.width===1440||viewport.width===390)await page.screenshot({path:artifactDir+'/livro-'+viewport.width+'.png',fullPage:true});
     await visit(chapter);
     assert.ok((await page.locator('.summary').innerText()).includes('8 de 31'),'Capítulo apresentado indevidamente como completo');
+    assert.equal(await page.locator('.crumbs a').first().evaluate(el=>getComputedStyle(el).color),'rgb(67, 91, 118)','Breadcrumb do capítulo ilegível');
     const chapterLinks=await page.locator('a[href^="/comentarios/genesis/capitulo-1/versiculo-"]').evaluateAll(elements=>[...new Set(elements.map(a=>a.getAttribute('href')))]);
     assert.equal(chapterLinks.length,8,'Somente oito versos devem estar disponíveis');
     for(const href of chapterLinks)assert.equal((await context.request.get(origin+href)).status(),200,'Link quebrado '+href);
@@ -45,6 +47,10 @@ try {
       const path=chapter+'versiculo-'+verse+'/';
       await visit(path);
       const root=page.locator('[data-original-genesis-1-'+verse+']');
+      const headerColor=await root.locator('.interlinear-header').evaluate(el=>getComputedStyle(el).backgroundColor);
+      assert.equal(headerColor,'rgba(0, 0, 0, 0)','Cabeçalho escuro indevido: Gn 1:'+verse);
+      assert.ok(await root.locator('.interlinear-header h2').isVisible(),'Título interlinear não visível em '+verse);
+      assert.equal(await page.locator('.breadcrumbs a').first().evaluate(el=>getComputedStyle(el).color),'rgb(67, 91, 118)','Breadcrumb do versículo ilegível');
       assert.equal(await root.locator('[data-word-index]').count(),count,'Número de unidades incorreto em '+verse);
       assert.equal(await root.locator('.word-hebrew').count(),count);
       assert.ok((await root.locator('.lexicon-fields dt').first().evaluate(el=>getComputedStyle(el).fontFamily)).includes('Times New Roman'));
