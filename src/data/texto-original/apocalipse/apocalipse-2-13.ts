@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:13 · SBLGNT / MorphGNT 6.12 */
+/** Prima Scriptura · Ap 2:13 */
 export const apocalipse2v13 = {
   "reference": "Apocalipse 2:13",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 13,
-  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
-  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
+  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sei onde habitas, onde está o trono de Satanás. Entretanto, conservas meu nome e não negaste minha fé, mesmo nos dias de Antipas, minha testemunha fiel, que foi morto entre vós, onde Satanás habita.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
   "textualNotes": "ὅπου ὁ θρόνος τοῦ Σατανᾶ descreve Pérgamo polemicamente; associações ao altar de Zeus ou ao culto imperial são hipóteses históricas concorrentes, não referências explicitadas no grego. Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου está no nominativo com aposições nominativas, embora o encadeamento após ἐν ταῖς ἡμέραις seja sintaticamente abrupto; não converter o nome para genitivo.",
   "exegeticalNotes": [
     "Pérgamo: fidelidade comunitária em ambiente de conflito religioso; o trono de Satanás é linguagem simbólica cujo referente histórico permanece debatido.",
@@ -19,7 +19,7 @@ export const apocalipse2v13 = {
       "shortMorph": "V-XAI-1S",
       "greek": "Οἶδα",
       "transliteration": "Oida",
-      "gloss": "conheço",
+      "gloss": "conhecer",
       "strong": "G1492",
       "lemma": "οἶδα",
       "lemmaTransliteration": "oida",
@@ -27,12 +27,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "conhecer",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «conheço»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "onde",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «onde»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse2v13 = {
       "shortMorph": "V-PAI-2S",
       "greek": "κατοικεῖς,",
       "transliteration": "katoikeis",
-      "gloss": "habitas",
+      "gloss": "habitar",
       "strong": "G2730",
       "lemma": "κατοικέω",
       "lemmaTransliteration": "katoikeō",
@@ -75,12 +75,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "habitar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «habitas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "onde",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «onde»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -123,7 +123,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "trono",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual «trono»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -163,7 +163,7 @@ export const apocalipse2v13 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "do",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -171,7 +171,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual «do»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Satanás",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «Satanás»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -219,12 +219,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse2v13 = {
       "shortMorph": "V-PAI-2S",
       "greek": "κρατεῖς",
       "transliteration": "krateis",
-      "gloss": "conservas",
+      "gloss": "segurar firmemente",
       "strong": "G2902",
       "lemma": "κρατέω",
       "lemmaTransliteration": "krateō",
@@ -243,12 +243,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «conservas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -267,7 +267,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular neutro. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "nome",
-      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual «nome»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -307,7 +307,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "eu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -315,12 +315,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -339,12 +339,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -363,12 +363,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -379,7 +379,7 @@ export const apocalipse2v13 = {
       "shortMorph": "V-AMI-2S",
       "greek": "ἠρνήσω",
       "transliteration": "ērnēsō",
-      "gloss": "negaste",
+      "gloss": "negar",
       "strong": "G720",
       "lemma": "ἀρνέομαι",
       "lemmaTransliteration": "arneomai",
@@ -387,12 +387,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "2AMI-S--",
       "morphology": "Verbo no aoristo, voz média, indicativo, 2ª pessoa singular",
       "meanings": "negar",
-      "explanation": "Verbo no aoristo, voz média, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «negaste»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz média, indicativo, 2ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -403,7 +403,7 @@ export const apocalipse2v13 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "a",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -411,7 +411,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "fé",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «fé»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -451,7 +451,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "eu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -459,12 +459,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -483,12 +483,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "e",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -507,12 +507,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz complemento",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -523,7 +523,7 @@ export const apocalipse2v13 = {
       "shortMorph": "Art-DPF",
       "greek": "ταῖς",
       "transliteration": "tais",
-      "gloss": "às",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -531,7 +531,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo plural feminino. Determinante nominal. Glosa contextual «às»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido dativo plural feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "dia",
-      "explanation": "Substantivo dativo plural feminino. Núcleo nominal. Glosa contextual «dia»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo dativo plural feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -579,12 +579,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "Antipas",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual «Antipas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Nome próprio nominativo em construção de retomada após expressão temporal; estrutura sintaticamente abrupta",
+        "role": "Núcleo nominal",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -603,7 +603,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "testemunha",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual «testemunha»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -643,7 +643,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "eu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -651,12 +651,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -675,7 +675,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -699,12 +699,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "fiel",
-      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. Glosa contextual «fiel»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo nominativo singular masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -715,7 +715,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "eu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -723,12 +723,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -747,12 +747,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Pronome relativo nominativo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo nominativo singular masculino. Elemento discursivo. Glosa contextual «que»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome relativo nominativo singular masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -763,7 +763,7 @@ export const apocalipse2v13 = {
       "shortMorph": "V-API-3S",
       "greek": "ἀπεκτάνθη",
       "transliteration": "apektanthē",
-      "gloss": "foi morto",
+      "gloss": "matar",
       "strong": "G615",
       "lemma": "ἀποκτείνω",
       "lemmaTransliteration": "apokteinō",
@@ -771,12 +771,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo no aoristo, voz passiva, indicativo, 3ª pessoa singular",
       "meanings": "matar",
-      "explanation": "Verbo no aoristo, voz passiva, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «foi morto»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz passiva, indicativo, 3ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -795,12 +795,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "junto de",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «junto de»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz complemento",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -811,7 +811,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-DP-",
       "greek": "ὑμῖν,",
       "transliteration": "hymin",
-      "gloss": "entre vós",
+      "gloss": "tu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -819,12 +819,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo plural. Elemento discursivo. Glosa contextual «entre vós»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal dativo plural. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -843,12 +843,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "onde",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «onde»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
@@ -867,7 +867,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -891,7 +891,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "Satanás",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual «Satanás»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -907,7 +907,7 @@ export const apocalipse2v13 = {
       "shortMorph": "V-PAI-3S",
       "greek": "κατοικεῖ.",
       "transliteration": "katoikei",
-      "gloss": "habita",
+      "gloss": "habitar",
       "strong": "G2730",
       "lemma": "κατοικέω",
       "lemmaTransliteration": "katoikeō",
@@ -915,12 +915,12 @@ export const apocalipse2v13 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "habitar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «habita»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },

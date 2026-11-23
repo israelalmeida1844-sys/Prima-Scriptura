@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:16 · SBLGNT / MorphGNT 6.12 */
+/** Prima Scriptura · Ap 2:16 */
 export const apocalipse2v16 = {
   "reference": "Apocalipse 2:16",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 16,
-  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
-  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
+  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Arrepende-te, portanto! Do contrário, venho a ti sem demora e lutarei contra eles com a espada da minha boca.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
   "textualNotes": "μετανόησον é imperativo aoristo ativo, segunda pessoa singular. πολεμήσω está no futuro ativo indicativo, primeira pessoa singular; a guerra é contra os grupos indicados no contexto, representada pela espada que procede da boca de Cristo (1:16; 2:12).",
   "exegeticalNotes": [
     "O chamado ao arrependimento antecede a ameaça de julgamento.",
@@ -19,7 +19,7 @@ export const apocalipse2v16 = {
       "shortMorph": "V-AAD-2S",
       "greek": "μετανόησον",
       "transliteration": "metanoēson",
-      "gloss": "arrepende-te",
+      "gloss": "arrepender-se",
       "strong": "G3340",
       "lemma": "μετανοέω",
       "lemmaTransliteration": "metanoeō",
@@ -27,12 +27,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «arrepende-te»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "portanto",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «portanto»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «se»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "porém",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «porém»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -139,7 +139,7 @@ export const apocalipse2v16 = {
       "shortMorph": "V-PMI-1S",
       "greek": "ἔρχομαί",
       "transliteration": "erchomai",
-      "gloss": "venho",
+      "gloss": "vir",
       "strong": "G2064",
       "lemma": "ἔρχομαι",
       "lemmaTransliteration": "erchomai",
@@ -147,12 +147,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "1PMI-S--",
       "morphology": "Verbo no presente, voz média, indicativo, 1ª pessoa singular",
       "meanings": "vir",
-      "explanation": "Verbo no presente, voz média, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «venho»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz média, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo singular. Elemento discursivo. Glosa contextual «tu»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal dativo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -187,7 +187,7 @@ export const apocalipse2v16 = {
       "shortMorph": "D-",
       "greek": "ταχύ,",
       "transliteration": "tachy",
-      "gloss": "sem demora",
+      "gloss": "rapidamente",
       "strong": "G5035",
       "lemma": "ταχύ",
       "lemmaTransliteration": "tachy",
@@ -195,12 +195,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "rapidamente",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «sem demora»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse2v16 = {
       "shortMorph": "V-FAI-1S",
       "greek": "πολεμήσω",
       "transliteration": "polemēsō",
-      "gloss": "lutarei",
+      "gloss": "guerrear",
       "strong": "G4170",
       "lemma": "πολεμέω",
       "lemmaTransliteration": "polemeō",
@@ -243,12 +243,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "guerrear",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «lutarei»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -267,12 +267,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "com",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «com»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz complemento",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -291,12 +291,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal genitivo plural masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo plural masculino. Elemento discursivo. Glosa contextual «dele»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo plural masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -315,12 +315,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz complemento",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
@@ -331,7 +331,7 @@ export const apocalipse2v16 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "na/à",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -339,7 +339,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular feminino. Determinante nominal. Glosa contextual «na/à»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido dativo singular feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "espada longa",
-      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. Glosa contextual «espada longa»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -379,7 +379,7 @@ export const apocalipse2v16 = {
       "shortMorph": "Art-GSN",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "do",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -387,7 +387,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular neutro. Determinante nominal. Glosa contextual «do»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido genitivo singular neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "boca",
-      "explanation": "Substantivo genitivo singular neutro. Núcleo nominal. Glosa contextual «boca»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo singular neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -427,7 +427,7 @@ export const apocalipse2v16 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου.",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "eu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -435,12 +435,12 @@ export const apocalipse2v16 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },

@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "scope": "Apocalipse 2:13–29",
-  "source": "SBLGNT / MorphGNT 6.12 aaed91e5 / jtauber Greek lemma mappings",
-  "editorialStatus": "Rascunho acadêmico: verbetes novos centrais revisados; ainda requer cotejo integral com léxicos críticos e aparato textual.",
+  "source": "SBLGNT / MorphGNT 6.12 aaed91e5; Strong jtauber com G2045 documentado externamente",
+  "editorialStatus": "Rascunho acadêmico; definições pendentes de revisão crítica integral",
   "entries": {
     "G4226": {
       "strong": "G4226",
@@ -19,7 +19,7 @@
               "reference": "Apocalipse 2:13",
               "greek": "Οἶδα ποῦ κατοικεῖς,",
               "translation": "onde",
-              "explanation": "Exemplo da ocorrência de ποῦ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -40,7 +40,7 @@
               "reference": "Apocalipse 2:13",
               "greek": "ποῦ κατοικεῖς, ὅπου",
               "translation": "habitar",
-              "explanation": "Exemplo da ocorrência de κατοικέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -61,7 +61,7 @@
               "reference": "Apocalipse 2:13",
               "greek": "κατοικεῖς, ὅπου ὁ",
               "translation": "onde",
-              "explanation": "Exemplo da ocorrência de ὅπου no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -82,7 +82,7 @@
               "reference": "Apocalipse 2:13",
               "greek": "οὐκ ἠρνήσω τὴν",
               "translation": "negar",
-              "explanation": "Exemplo da ocorrência de ἀρνέομαι no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -103,7 +103,7 @@
               "reference": "Apocalipse 2:13",
               "greek": "τὴν πίστιν μου",
               "translation": "fé",
-              "explanation": "Exemplo da ocorrência de πίστις no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -117,14 +117,14 @@
       "senses": [
         {
           "id": "G493-1",
-          "label": "Antipas, nome próprio masculino",
-          "definition": "Ἀντιπᾶς é nome pessoal masculino. Em Ap 2:13 encontra-se no nominativo, seguido dos apostos ὁ μάρτυς μου, ὁ πιστός μου.",
+          "label": "Antipas",
+          "definition": "Antipas",
           "examples": [
             {
               "reference": "Apocalipse 2:13",
               "greek": "ἡμέραις Ἀντιπᾶς, ὁ",
               "translation": "Antipas",
-              "explanation": "A construção mostra nominativo em lugar onde se poderia esperar relação genitiva; não alterar caso para harmonizar."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -145,7 +145,7 @@
               "reference": "Apocalipse 2:13",
               "greek": "ὃς ἀπεκτάνθη παρ’",
               "translation": "matar",
-              "explanation": "Exemplo da ocorrência de ἀποκτείνω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -166,7 +166,7 @@
               "reference": "Apocalipse 2:13",
               "greek": "ἀπεκτάνθη παρ’ ὑμῖν,",
               "translation": "junto de",
-              "explanation": "Exemplo da ocorrência de παρά no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -187,7 +187,7 @@
               "reference": "Apocalipse 2:14",
               "greek": "σοῦ ὀλίγα, ὅτι",
               "translation": "pouco",
-              "explanation": "Exemplo da ocorrência de ὀλίγος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -208,7 +208,7 @@
               "reference": "Apocalipse 2:14",
               "greek": "ἔχεις ἐκεῖ κρατοῦντας",
               "translation": "ali",
-              "explanation": "Exemplo da ocorrência de ἐκεῖ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -229,7 +229,7 @@
               "reference": "Apocalipse 2:14",
               "greek": "τὴν διδαχὴν Βαλαάμ,",
               "translation": "ensino",
-              "explanation": "Exemplo da ocorrência de διδαχή no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -250,7 +250,7 @@
               "reference": "Apocalipse 2:14",
               "greek": "διδαχὴν Βαλαάμ, ὃς",
               "translation": "Balaão",
-              "explanation": "Exemplo da ocorrência de Βαλαάμ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -271,7 +271,7 @@
               "reference": "Apocalipse 2:14",
               "greek": "ὃς ἐδίδασκεν τῷ",
               "translation": "ensinar",
-              "explanation": "Exemplo da ocorrência de διδάσκω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -292,7 +292,7 @@
               "reference": "Apocalipse 2:14",
               "greek": "τῷ Βαλὰκ βαλεῖν",
               "translation": "Balaque",
-              "explanation": "Exemplo da ocorrência de Βαλάκ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -306,14 +306,14 @@
       "senses": [
         {
           "id": "G4625-1",
-          "label": "armadilha; objeto de tropeço",
-          "definition": "σκάνδαλον indica armadilha ou obstáculo que leva à queda. Em Ap 2:14 designa a indução de Israel à idolatria e à imoralidade.",
+          "label": "armadilha",
+          "definition": "armadilha",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "βαλεῖν σκάνδαλον ἐνώπιον",
               "translation": "armadilha",
-              "explanation": "Não equiparar o termo à simples ofensa subjetiva do português contemporâneo."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -334,7 +334,7 @@
               "reference": "Apocalipse 2:14",
               "greek": "υἱῶν Ἰσραήλ, φαγεῖν",
               "translation": "Israel",
-              "explanation": "Exemplo da ocorrência de Ἰσραήλ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -349,13 +349,13 @@
         {
           "id": "G1494-1",
           "label": "alimento sacrificado a ídolos",
-          "definition": "εἰδωλόθυτον qualifica alimento associado a sacrifícios pagãos. Em Ap 2:14, descreve prática vinculada ao ensino de Balaão.",
+          "definition": "alimento sacrificado a ídolos",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "φαγεῖν εἰδωλόθυτα καὶ",
               "translation": "alimento sacrificado a ídolos",
-              "explanation": "O significado e a avaliação da prática dependem de seu cenário idolátrico, não apenas de dieta."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -370,13 +370,13 @@
         {
           "id": "G4203-1",
           "label": "praticar imoralidade sexual",
-          "definition": "πορνεύω denota relações sexuais ilícitas na ética judaico-cristã antiga; no Apocalipse pode ainda integrar imagens de infidelidade religiosa.",
+          "definition": "praticar imoralidade sexual",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "καὶ πορνεῦσαι·",
               "translation": "praticar imoralidade sexual",
-              "explanation": "Distinguir dimensão moral e simbolismo profético sem reduzir o vocábulo a um único valor em todas as passagens."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -397,7 +397,7 @@
               "reference": "Apocalipse 2:15",
               "greek": "οὕτως ἔχεις",
               "translation": "assim",
-              "explanation": "Exemplo da ocorrência de οὕτω(ς) no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -418,7 +418,7 @@
               "reference": "Apocalipse 2:15",
               "greek": "Νικολαϊτῶν ὁμοίως.",
               "translation": "igualmente",
-              "explanation": "Exemplo da ocorrência de ὁμοίως no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -439,7 +439,7 @@
               "reference": "Apocalipse 2:16",
               "greek": "σοι ταχύ, καὶ",
               "translation": "rapidamente",
-              "explanation": "Exemplo da ocorrência de ταχύ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -460,7 +460,7 @@
               "reference": "Apocalipse 2:16",
               "greek": "καὶ πολεμήσω μετ’",
               "translation": "guerrear",
-              "explanation": "Exemplo da ocorrência de πολεμέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -474,14 +474,14 @@
       "senses": [
         {
           "id": "G3131-1",
-          "label": "maná, alimento concedido por Deus",
-          "definition": "μάννα nomeia o alimento provido no deserto. Em Ap 2:17, o maná escondido constitui promessa ao vencedor.",
+          "label": "maná",
+          "definition": "maná",
           "examples": [
             {
               "reference": "Apocalipse 2:17",
               "greek": "τοῦ μάννα τοῦ",
               "translation": "maná",
-              "explanation": "A conexão com Êxodo é sólida; o referente escatológico preciso exige argumentação interpretativa."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -502,7 +502,7 @@
               "reference": "Apocalipse 2:17",
               "greek": "τοῦ κεκρυμμένου, καὶ",
               "translation": "esconder",
-              "explanation": "Exemplo da ocorrência de κρύπτω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -516,14 +516,14 @@
       "senses": [
         {
           "id": "G5586-1",
-          "label": "pedrinha, seixo, pedra usada como ficha",
-          "definition": "ψῆφος designa pequena pedra ou ficha utilizada em diferentes práticas antigas. Em Ap 2:17 aparece como pedra branca concedida ao vencedor.",
+          "label": "pedrinha",
+          "definition": "pedrinha",
           "examples": [
             {
               "reference": "Apocalipse 2:17",
               "greek": "αὐτῷ ψῆφον λευκήν,",
               "translation": "pedrinha",
-              "explanation": "Absolvição jurídica, entrada em banquete e hospitalidade são interpretações possíveis, não uma identificação arqueológica comprovada."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -537,14 +537,14 @@
       "senses": [
         {
           "id": "G2537-1",
-          "label": "novo, qualitativamente novo",
-          "definition": "καινός pode designar novidade de caráter, estado ou condição. Em Ap 2:17 modifica ὄνομα, o novo nome inscrito na pedra.",
+          "label": "novo",
+          "definition": "novo",
           "examples": [
             {
               "reference": "Apocalipse 2:17",
               "greek": "ὄνομα καινὸν γεγραμμένον",
               "translation": "novo",
-              "explanation": "Evitar contrastar mecanicamente καινός com νέος sem avaliar contextos de uso."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -565,7 +565,7 @@
               "reference": "Apocalipse 2:17",
               "greek": "ὃ οὐδεὶς οἶδεν",
               "translation": "ninguém",
-              "explanation": "Exemplo da ocorrência de οὐδείς no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -586,7 +586,7 @@
               "reference": "Apocalipse 2:17",
               "greek": "ὁ λαμβάνων.",
               "translation": "receber",
-              "explanation": "Exemplo da ocorrência de λαμβάνω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -607,7 +607,7 @@
               "reference": "Apocalipse 2:19",
               "greek": "τὴν διακονίαν καὶ",
               "translation": "serviço",
-              "explanation": "Exemplo da ocorrência de διακονία no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -628,7 +628,7 @@
               "reference": "Apocalipse 2:20",
               "greek": "τὴν γυναῖκα Ἰεζάβελ,",
               "translation": "mulher",
-              "explanation": "Exemplo da ocorrência de γυνή no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -642,14 +642,14 @@
       "senses": [
         {
           "id": "G2403-1",
-          "label": "Jezabel, nome próprio feminino",
-          "definition": "Ἰεζάβελ é o nome da rainha do relato dos Reis, usado em Ap 2:20 para caracterizar uma figura associada a falsa profecia e sedução.",
+          "label": "Jezabel",
+          "definition": "Jezabel",
           "examples": [
             {
               "reference": "Apocalipse 2:20",
               "greek": "γυναῖκα Ἰεζάβελ, ἡ",
               "translation": "Jezabel",
-              "explanation": "A identificação como apelido tipológico é provável, mas não demonstrável de modo definitivo."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -670,7 +670,7 @@
               "reference": "Apocalipse 2:20",
               "greek": "ἑαυτὴν προφῆτιν, καὶ",
               "translation": "profetisa",
-              "explanation": "Exemplo da ocorrência de προφῆτις no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -691,7 +691,7 @@
               "reference": "Apocalipse 2:20",
               "greek": "καὶ πλανᾷ τοὺς",
               "translation": "enganar",
-              "explanation": "Exemplo da ocorrência de πλανάω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -712,7 +712,7 @@
               "reference": "Apocalipse 2:20",
               "greek": "τοὺς ἐμοὺς δούλους",
               "translation": "meu",
-              "explanation": "Exemplo da ocorrência de ἐμός no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -733,7 +733,7 @@
               "reference": "Apocalipse 2:21",
               "greek": "αὐτῇ χρόνον ἵνα",
               "translation": "tempo",
-              "explanation": "Exemplo da ocorrência de χρόνος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -754,7 +754,7 @@
               "reference": "Apocalipse 2:21",
               "greek": "οὐ θέλει μετανοῆσαι",
               "translation": "querer",
-              "explanation": "Exemplo da ocorrência de θέλω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -775,7 +775,7 @@
               "reference": "Apocalipse 2:21",
               "greek": "τῆς πορνείας αὐτῆς.",
               "translation": "imoralidade sexual",
-              "explanation": "Exemplo da ocorrência de πορνεία no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -789,14 +789,14 @@
       "senses": [
         {
           "id": "G2825-1",
-          "label": "leito, cama, lugar de repouso",
-          "definition": "κλίνη significa leito ou cama. Em Ap 2:22, torna-se imagem de julgamento, possivelmente com ironia em relação à infidelidade.",
+          "label": "leito",
+          "definition": "leito",
           "examples": [
             {
               "reference": "Apocalipse 2:22",
               "greek": "εἰς κλίνην, καὶ",
               "translation": "leito",
-              "explanation": "Não inferir uma doença concreta nem uma punição médica específica somente do substantivo."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -817,7 +817,7 @@
               "reference": "Apocalipse 2:22",
               "greek": "τοὺς μοιχεύοντας μετ’",
               "translation": "adulterar",
-              "explanation": "Exemplo da ocorrência de μοιχεύω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -838,7 +838,7 @@
               "reference": "Apocalipse 2:23",
               "greek": "τὰ τέκνα αὐτῆς",
               "translation": "filho",
-              "explanation": "Exemplo da ocorrência de τέκνον no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -859,7 +859,7 @@
               "reference": "Apocalipse 2:23",
               "greek": "καὶ γνώσονται πᾶσαι",
               "translation": "conhecer",
-              "explanation": "Exemplo da ocorrência de γινώσκω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -880,7 +880,7 @@
               "reference": "Apocalipse 2:23",
               "greek": "ὁ ἐραυνῶν νεφροὺς",
               "translation": "investigar",
-              "explanation": "Exemplo da ocorrência de ἐραυνάω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -894,14 +894,14 @@
       "senses": [
         {
           "id": "G3510-1",
-          "label": "rim, órgão interno; em imagens, afetos íntimos",
-          "definition": "νεφρός designa os rins; em linguagem hebraica, os órgãos internos podem simbolizar as dimensões profundas da vida humana.",
+          "label": "rim",
+          "definition": "rim",
           "examples": [
             {
               "reference": "Apocalipse 2:23",
               "greek": "ἐραυνῶν νεφροὺς καὶ",
               "translation": "rim",
-              "explanation": "Em Ap 2:23 a coordenação com καρδίας descreve a capacidade divina de examinar o interior."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -915,14 +915,14 @@
       "senses": [
         {
           "id": "G2588-1",
-          "label": "coração; centro interior da pessoa",
-          "definition": "καρδία pode denotar coração físico ou o centro de pensamentos, desejos e decisões. Em Ap 2:23 participa da linguagem bíblica de conhecimento divino.",
+          "label": "coração",
+          "definition": "coração",
           "examples": [
             {
               "reference": "Apocalipse 2:23",
               "greek": "καὶ καρδίας, καὶ",
               "translation": "coração",
-              "explanation": "Não reduzir a expressão a sentimentos em oposição exclusiva à razão."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -943,7 +943,7 @@
               "reference": "Apocalipse 2:23",
               "greek": "ὑμῖν ἑκάστῳ κατὰ",
               "translation": "cada um",
-              "explanation": "Exemplo da ocorrência de ἕκαστος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -964,7 +964,7 @@
               "reference": "Apocalipse 2:24",
               "greek": "τοῖς λοιποῖς τοῖς",
               "translation": "restante",
-              "explanation": "Exemplo da ocorrência de λοιπός no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -978,14 +978,14 @@
       "senses": [
         {
           "id": "G901-1",
-          "label": "profundo; de grande profundidade",
-          "definition": "βαθύς significa profundo. Em Ap 2:24, τὰ βαθέα substantivado integra o título ou afirmação polêmica «profundezas de Satanás».",
+          "label": "profundo",
+          "definition": "profundo",
           "examples": [
             {
               "reference": "Apocalipse 2:24",
               "greek": "τὰ βαθέα τοῦ",
               "translation": "profundo",
-              "explanation": "Não pressupor automaticamente a existência de movimento gnóstico desenvolvido."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1006,7 +1006,7 @@
               "reference": "Apocalipse 2:24",
               "greek": "ὑμᾶς ἄλλο βάρος·",
               "translation": "outro",
-              "explanation": "Exemplo da ocorrência de ἄλλος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1020,14 +1020,14 @@
       "senses": [
         {
           "id": "G922-1",
-          "label": "peso, fardo, carga",
-          "definition": "βάρος designa peso ou carga, inclusive em sentido figurado. Em Ap 2:24 Cristo afirma não impor outro fardo.",
+          "label": "peso",
+          "definition": "peso",
           "examples": [
             {
               "reference": "Apocalipse 2:24",
               "greek": "ἄλλο βάρος·",
               "translation": "peso",
-              "explanation": "A possível evocação de At 15:28 é intertextual e não comprova dependência literária direta."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1048,7 +1048,7 @@
               "reference": "Apocalipse 2:25",
               "greek": "πλὴν ὃ",
               "translation": "contudo",
-              "explanation": "Exemplo da ocorrência de πλήν no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1069,7 +1069,7 @@
               "reference": "Apocalipse 2:25",
               "greek": "οὗ ἂν ἥξω.",
               "translation": "partícula modal",
-              "explanation": "Exemplo da ocorrência de ἄν no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1090,7 +1090,7 @@
               "reference": "Apocalipse 2:25",
               "greek": "ἂν ἥξω.",
               "translation": "chegar",
-              "explanation": "Exemplo da ocorrência de ἥκω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1111,7 +1111,7 @@
               "reference": "Apocalipse 2:26",
               "greek": "ἄχρι τέλους τὰ",
               "translation": "fim",
-              "explanation": "Exemplo da ocorrência de τέλος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1132,7 +1132,7 @@
               "reference": "Apocalipse 2:26",
               "greek": "αὐτῷ ἐξουσίαν ἐπὶ",
               "translation": "autoridade",
-              "explanation": "Exemplo da ocorrência de ἐξουσία no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1153,7 +1153,7 @@
               "reference": "Apocalipse 2:26",
               "greek": "τῶν ἐθνῶν,",
               "translation": "nação",
-              "explanation": "Exemplo da ocorrência de ἔθνος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1167,14 +1167,14 @@
       "senses": [
         {
           "id": "G4165-1",
-          "label": "apascentar; conduzir; governar",
-          "definition": "ποιμαίνω significa pastorear e, figuradamente, reger como pastor. Em Ap 2:27 é linguagem régia messiânica relacionada ao Salmo 2.",
+          "label": "apascentar",
+          "definition": "apascentar",
           "examples": [
             {
               "reference": "Apocalipse 2:27",
               "greek": "καὶ ποιμανεῖ αὐτοὺς",
               "translation": "apascentar",
-              "explanation": "A forma ποιμανεῖ é futuro ativo indicativo de terceira pessoa singular."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1188,14 +1188,14 @@
       "senses": [
         {
           "id": "G4464-1",
-          "label": "vara, bastão; cetro",
-          "definition": "ῥάβδος designa vara, cajado ou cetro, conforme contexto. Em Ap 2:27, a vara de ferro é imagem régia derivada do Salmo 2.",
+          "label": "vara",
+          "definition": "vara",
           "examples": [
             {
               "reference": "Apocalipse 2:27",
               "greek": "ἐν ῥάβδῳ σιδηρᾷ",
               "translation": "vara",
-              "explanation": "A dureza da vara é expressa pelo adjetivo σιδηρᾷ, não pelo substantivo isoladamente."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1210,13 +1210,13 @@
         {
           "id": "G4603-1",
           "label": "de ferro",
-          "definition": "σιδηροῦς é adjetivo referente a ferro; em Ap 2:27 a forma σιδηρᾷ concorda com ῥάβδῳ no dativo singular feminino.",
+          "definition": "de ferro",
           "examples": [
             {
               "reference": "Apocalipse 2:27",
               "greek": "ῥάβδῳ σιδηρᾷ ὡς",
               "translation": "de ferro",
-              "explanation": "A força do símbolo é textual, não descrição literal de tecnologia militar."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1237,7 +1237,7 @@
               "reference": "Apocalipse 2:27",
               "greek": "τὰ σκεύη τὰ",
               "translation": "vaso",
-              "explanation": "Exemplo da ocorrência de σκεῦος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1251,14 +1251,14 @@
       "senses": [
         {
           "id": "G2764-1",
-          "label": "cerâmico, feito de barro cozido",
-          "definition": "κεραμικός descreve objetos de cerâmica. Em Ap 2:27 qualifica os vasos comparados à fragilidade diante do governo messiânico.",
+          "label": "de cerâmica",
+          "definition": "de cerâmica",
           "examples": [
             {
               "reference": "Apocalipse 2:27",
               "greek": "τὰ κεραμικὰ συντρίβεται,",
               "translation": "de cerâmica",
-              "explanation": "O contraste com a vara de ferro procede da imagem do Salmo 2."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1272,14 +1272,14 @@
       "senses": [
         {
           "id": "G4937-1",
-          "label": "despedaçar, quebrar completamente",
-          "definition": "συντρίβω expressa romper ou despedaçar. Em Ap 2:27 a forma συντρίβεται é presente médio/passivo indicativo singular no MorphGNT.",
+          "label": "despedaçar",
+          "definition": "despedaçar",
           "examples": [
             {
               "reference": "Apocalipse 2:27",
               "greek": "κεραμικὰ συντρίβεται,",
               "translation": "despedaçar",
-              "explanation": "Preservar a peculiaridade sintática da comparação em vez de reescrever o grego."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }
@@ -1293,14 +1293,14 @@
       "senses": [
         {
           "id": "G4407-1",
-          "label": "matutino, da manhã",
-          "definition": "πρωϊνός é adjetivo relacionado à manhã. Em Ap 2:28 qualifica ἀστέρα, estrela da manhã.",
+          "label": "matutino",
+          "definition": "matutino",
           "examples": [
             {
               "reference": "Apocalipse 2:28",
               "greek": "τὸν πρωϊνόν.",
               "translation": "matutino",
-              "explanation": "A identificação de Cristo em Ap 22:16 constitui paralelo interno interpretativo."
+              "explanation": "Ocorrência do lema; nuance contextual a examinar."
             }
           ]
         }

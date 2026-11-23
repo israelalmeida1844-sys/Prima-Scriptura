@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:23 · SBLGNT / MorphGNT 6.12 */
+/** Prima Scriptura · Ap 2:23 */
 export const apocalipse2v23 = {
   "reference": "Apocalipse 2:23",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 23,
-  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
-  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
+  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E matarei seus filhos com morte; todas as igrejas saberão que eu sou aquele que sonda rins e corações, e darei a cada um de vós segundo as vossas obras.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
   "textualNotes": "ὁ ἐραυνῶν νεφροὺς καὶ καρδίας: 'aquele que sonda rins e corações'. A linguagem hebraica de interioridade e juízo ecoa Jr 11:20; 17:10 e Sl 7:9, sem exigir identidade verbal absoluta entre versões. ἀποκτενῶ ἐν θανάτῳ expressa sanção judicial em formulação enfática.",
   "exegeticalNotes": [
     "O julgamento afirma o conhecimento divino da interioridade e das obras.",
@@ -27,12 +27,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse2v23 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -51,7 +51,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -67,7 +67,7 @@ export const apocalipse2v23 = {
       "shortMorph": "N-APN",
       "greek": "τέκνα",
       "transliteration": "tekna",
-      "gloss": "filhos",
+      "gloss": "filho",
       "strong": "G5043",
       "lemma": "τέκνον",
       "lemmaTransliteration": "teknon",
@@ -75,7 +75,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "filho",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «filhos»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -91,7 +91,7 @@ export const apocalipse2v23 = {
       "shortMorph": "PPro-GSF",
       "greek": "αὐτῆς",
       "transliteration": "autēs",
-      "gloss": "dele/dela",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -99,12 +99,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Elemento discursivo. Glosa contextual «dele/dela»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular feminino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -115,7 +115,7 @@ export const apocalipse2v23 = {
       "shortMorph": "V-FAI-1S",
       "greek": "ἀποκτενῶ",
       "transliteration": "apoktenō",
-      "gloss": "matarei",
+      "gloss": "matar",
       "strong": "G615",
       "lemma": "ἀποκτείνω",
       "lemmaTransliteration": "apokteinō",
@@ -123,12 +123,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "matar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «matarei»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz complemento",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -171,7 +171,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "morte",
-      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. Glosa contextual «morte»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -195,12 +195,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse2v23 = {
       "shortMorph": "V-FMI-3P",
       "greek": "γνώσονται",
       "transliteration": "gnōsontai",
-      "gloss": "saberão",
+      "gloss": "conhecer",
       "strong": "G1097",
       "lemma": "γινώσκω",
       "lemmaTransliteration": "ginōskō",
@@ -219,12 +219,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "3FMI-P--",
       "morphology": "Verbo no futuro, voz média, indicativo, 3ª pessoa plural",
       "meanings": "conhecer",
-      "explanation": "Verbo no futuro, voz média, indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual «saberão»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz média, indicativo, 3ª pessoa plural. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse2v23 = {
       "shortMorph": "Adj-NPF",
       "greek": "πᾶσαι",
       "transliteration": "pasai",
-      "gloss": "todas",
+      "gloss": "todo",
       "strong": "G3956",
       "lemma": "πᾶς",
       "lemmaTransliteration": "pas",
@@ -243,12 +243,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "todo",
-      "explanation": "Adjetivo nominativo plural feminino. Elemento discursivo. Glosa contextual «todas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo nominativo plural feminino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -259,7 +259,7 @@ export const apocalipse2v23 = {
       "shortMorph": "Art-NPF",
       "greek": "αἱ",
       "transliteration": "hai",
-      "gloss": "as",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -267,7 +267,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo plural feminino. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo plural feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual «assembleia»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -315,12 +315,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "que",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «que»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -339,12 +339,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal nominativo singular. Elemento discursivo. Glosa contextual «eu»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal nominativo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -355,7 +355,7 @@ export const apocalipse2v23 = {
       "shortMorph": "V-PAI-1S",
       "greek": "εἰμι",
       "transliteration": "eimi",
-      "gloss": "sou",
+      "gloss": "ser",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -363,12 +363,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «sou»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -387,7 +387,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -403,7 +403,7 @@ export const apocalipse2v23 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "ἐραυνῶν",
       "transliteration": "eraunōn",
-      "gloss": "sonda",
+      "gloss": "investigar",
       "strong": "G2045",
       "lemma": "ἐραυνάω",
       "lemmaTransliteration": "eraunaō",
@@ -411,12 +411,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "investigar",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. Glosa contextual «sonda»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Particípio em construção sintática",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -427,7 +427,7 @@ export const apocalipse2v23 = {
       "shortMorph": "N-APM",
       "greek": "νεφροὺς",
       "transliteration": "nephrous",
-      "gloss": "rins",
+      "gloss": "rim",
       "strong": "G3510",
       "lemma": "νεφρός",
       "lemmaTransliteration": "nephros",
@@ -435,7 +435,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "rim",
-      "explanation": "Substantivo acusativo plural masculino. Núcleo nominal. Glosa contextual «rins»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -459,12 +459,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -475,7 +475,7 @@ export const apocalipse2v23 = {
       "shortMorph": "N-APF",
       "greek": "καρδίας,",
       "transliteration": "kardias",
-      "gloss": "corações",
+      "gloss": "coração",
       "strong": "G2588",
       "lemma": "καρδία",
       "lemmaTransliteration": "kardia",
@@ -483,7 +483,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "coração",
-      "explanation": "Substantivo acusativo plural feminino. Núcleo nominal. Glosa contextual «corações»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -507,12 +507,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -523,7 +523,7 @@ export const apocalipse2v23 = {
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "darei",
+      "gloss": "dar",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -531,12 +531,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «darei»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -547,7 +547,7 @@ export const apocalipse2v23 = {
       "shortMorph": "PPro-DP-",
       "greek": "ὑμῖν",
       "transliteration": "hymin",
-      "gloss": "a vós",
+      "gloss": "tu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -555,12 +555,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo plural. Elemento discursivo. Glosa contextual «a vós»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal dativo plural. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -571,7 +571,7 @@ export const apocalipse2v23 = {
       "shortMorph": "Adj-DSM",
       "greek": "ἑκάστῳ",
       "transliteration": "hekastō",
-      "gloss": "a cada um",
+      "gloss": "cada um",
       "strong": "G1538",
       "lemma": "ἕκαστος",
       "lemmaTransliteration": "hekastos",
@@ -579,12 +579,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "----DSM-",
       "morphology": "Adjetivo dativo singular masculino",
       "meanings": "cada um",
-      "explanation": "Adjetivo dativo singular masculino. Elemento discursivo. Glosa contextual «a cada um»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo dativo singular masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -603,12 +603,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "contra",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «contra»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz complemento",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },
@@ -619,7 +619,7 @@ export const apocalipse2v23 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -627,7 +627,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -651,7 +651,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obra»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -667,7 +667,7 @@ export const apocalipse2v23 = {
       "shortMorph": "PPro-GP-",
       "greek": "ὑμῶν.",
       "transliteration": "hymōn",
-      "gloss": "de vós",
+      "gloss": "tu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -675,12 +675,12 @@ export const apocalipse2v23 = {
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo plural. Elemento discursivo. Glosa contextual «de vós»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo plural. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.23.C1",
         "governedBy": null
       },

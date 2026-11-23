@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:27 · SBLGNT / MorphGNT 6.12 */
+/** Prima Scriptura · Ap 2:27 */
 export const apocalipse2v27 = {
   "reference": "Apocalipse 2:27",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 27,
-  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
-  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
+  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "e ele as pastoreará com cetro de ferro, como são despedaçados os vasos de cerâmica,",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
   "textualNotes": "ποιμανεῖ, futuro ativo indicativo, terceira pessoa singular de ποιμαίνω, pode ter sentido de pastorear e governar. ἐν ῥάβδῳ σιδηρᾷ e vasos de barro evocam Sl 2:8–9. A forma συντρίβεται é presente médio/passivo indicativo singular; preservar a sua configuração real e discutir a combinação sintática, sem adaptar à forma esperada.",
   "exegeticalNotes": [
     "O governo com cetro de ferro dialoga diretamente com o Salmo 2.",
@@ -27,12 +27,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse2v27 = {
       "shortMorph": "V-FAI-3S",
       "greek": "ποιμανεῖ",
       "transliteration": "poimanei",
-      "gloss": "pastoreará",
+      "gloss": "apascentar",
       "strong": "G4165",
       "lemma": "ποιμαίνω",
       "lemmaTransliteration": "poimainō",
@@ -51,12 +51,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "3FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "apascentar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «pastoreará»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse2v27 = {
       "shortMorph": "PPro-APM",
       "greek": "αὐτοὺς",
       "transliteration": "autous",
-      "gloss": "as",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -75,12 +75,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome pessoal acusativo plural masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal acusativo plural masculino. Elemento discursivo. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal acusativo plural masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz complemento",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -115,7 +115,7 @@ export const apocalipse2v27 = {
       "shortMorph": "N-DSF",
       "greek": "ῥάβδῳ",
       "transliteration": "hrabdō",
-      "gloss": "cetro",
+      "gloss": "vara",
       "strong": "G4464",
       "lemma": "ῥάβδος",
       "lemmaTransliteration": "hrabdos",
@@ -123,7 +123,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "vara",
-      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. Glosa contextual «cetro»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -147,12 +147,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
       "meanings": "de ferro",
-      "explanation": "Adjetivo dativo singular feminino. Elemento discursivo. Glosa contextual «de ferro»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo dativo singular feminino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "como",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «como»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -187,7 +187,7 @@ export const apocalipse2v27 = {
       "shortMorph": "Art-NPN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "os",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -195,7 +195,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo plural neutro. Determinante nominal. Glosa contextual «os»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -211,7 +211,7 @@ export const apocalipse2v27 = {
       "shortMorph": "N-NPN",
       "greek": "σκεύη",
       "transliteration": "skeuē",
-      "gloss": "vasos",
+      "gloss": "vaso",
       "strong": "G4632",
       "lemma": "σκεῦος",
       "lemmaTransliteration": "skeuos",
@@ -219,7 +219,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo nominativo plural neutro",
       "meanings": "vaso",
-      "explanation": "Substantivo nominativo plural neutro. Núcleo nominal. Glosa contextual «vasos»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo plural neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -235,7 +235,7 @@ export const apocalipse2v27 = {
       "shortMorph": "Art-NPN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "os",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -243,7 +243,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo plural neutro. Determinante nominal. Glosa contextual «os»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -267,12 +267,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo nominativo plural neutro",
       "meanings": "de cerâmica",
-      "explanation": "Adjetivo nominativo plural neutro. Elemento discursivo. Glosa contextual «de cerâmica»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo nominativo plural neutro. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -283,7 +283,7 @@ export const apocalipse2v27 = {
       "shortMorph": "V-PPI-3S",
       "greek": "συντρίβεται,",
       "transliteration": "syntribetai",
-      "gloss": "são despedaçados",
+      "gloss": "despedaçar",
       "strong": "G4937",
       "lemma": "συντρίβω",
       "lemmaTransliteration": "syntribō",
@@ -291,12 +291,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "3PPI-S--",
       "morphology": "Verbo no presente, voz passiva, indicativo, 3ª pessoa singular",
       "meanings": "despedaçar",
-      "explanation": "Verbo no presente, voz passiva, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «são despedaçados»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz passiva, indicativo, 3ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Presente médio/passivo indicativo, terceira pessoa singular; mantém-se a forma da edição crítica",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },

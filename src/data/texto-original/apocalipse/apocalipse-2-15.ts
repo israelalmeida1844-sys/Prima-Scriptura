@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:15 · SBLGNT / MorphGNT 6.12 */
+/** Prima Scriptura · Ap 2:15 */
 export const apocalipse2v15 = {
   "reference": "Apocalipse 2:15",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 15,
-  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
-  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
+  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Assim também tens os que seguem o ensino dos nicolaítas, da mesma maneira.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
   "textualNotes": "O SBLGNT conclui com ὁμοίως, advérbio 'igualmente', sem a adição ὃ μισῶ de edições do Textus Receptus. A formulação crítica mantém a comparação entre o ensino dos nicolaítas e o de Balaão; a tradução deve evitar ampliar o texto.",
   "exegeticalNotes": [
     "Os nicolaítas são apresentados por proximidade com o modelo de Balaão, sem identificação histórica indiscutível.",
@@ -27,12 +27,12 @@ export const apocalipse2v15 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "assim",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «assim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.15.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse2v15 = {
       "shortMorph": "V-PAI-2S",
       "greek": "ἔχεις",
       "transliteration": "echeis",
-      "gloss": "tens",
+      "gloss": "ter",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -51,12 +51,12 @@ export const apocalipse2v15 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «tens»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.15.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v15 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "e",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.15.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v15 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal nominativo singular. Elemento discursivo. Glosa contextual «tu»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal nominativo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.15.C1",
         "governedBy": null
       },
@@ -115,7 +115,7 @@ export const apocalipse2v15 = {
       "shortMorph": "V-PAP-APM",
       "greek": "κρατοῦντας",
       "transliteration": "kratountas",
-      "gloss": "os que seguem",
+      "gloss": "segurar firmemente",
       "strong": "G2902",
       "lemma": "κρατέω",
       "lemmaTransliteration": "krateō",
@@ -123,12 +123,12 @@ export const apocalipse2v15 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "Verbo no presente, voz ativa, particípio acusativo plural masculino",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Particípio em construção sintática. Glosa contextual «os que seguem»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
       "syntax": {
-        "role": "Particípio em construção sintática",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.15.C1",
         "governedBy": null
       },
@@ -139,7 +139,7 @@ export const apocalipse2v15 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "a",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -147,7 +147,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "ensino",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «ensino»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -187,7 +187,7 @@ export const apocalipse2v15 = {
       "shortMorph": "N-GPM",
       "greek": "Νικολαϊτῶν",
       "transliteration": "Nikolaitōn",
-      "gloss": "nicolaítas",
+      "gloss": "nicolaíta",
       "strong": "G3531",
       "lemma": "Νικολαΐτης",
       "lemmaTransliteration": "Nikolaitēs",
@@ -195,7 +195,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "nicolaíta",
-      "explanation": "Substantivo genitivo plural masculino. Núcleo nominal. Glosa contextual «nicolaítas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo plural masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -211,7 +211,7 @@ export const apocalipse2v15 = {
       "shortMorph": "D-",
       "greek": "ὁμοίως.",
       "transliteration": "homoiōs",
-      "gloss": "da mesma maneira",
+      "gloss": "igualmente",
       "strong": "G3668",
       "lemma": "ὁμοίως",
       "lemmaTransliteration": "homoiōs",
@@ -219,12 +219,12 @@ export const apocalipse2v15 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "igualmente",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «da mesma maneira»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.15.C1",
         "governedBy": null
       },

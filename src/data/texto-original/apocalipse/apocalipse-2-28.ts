@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:28 · SBLGNT / MorphGNT 6.12 */
+/** Prima Scriptura · Ap 2:28 */
 export const apocalipse2v28 = {
   "reference": "Apocalipse 2:28",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 28,
-  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
-  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
+  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "assim como eu também recebi de meu Pai; e lhe darei a estrela da manhã.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
   "textualNotes": "τὸν ἀστέρα τὸν πρωϊνόν promete a estrela da manhã; Ap 22:16 identifica Jesus com a estrela resplandecente da manhã. Nm 24:17 é um possível antecedente messiânico. A promessa é escatológica; sua natureza exata merece interpretação contextual.",
   "exegeticalNotes": [
     "A estrela da manhã constitui promessa de proximidade com o Cristo exaltado.",
@@ -27,12 +27,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "como",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «como»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu também",
-      "explanation": "Pronome pessoal nominativo singular. Elemento discursivo. Glosa contextual «eu também»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal nominativo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse2v28 = {
       "shortMorph": "V-XAI-1S",
       "greek": "εἴληφα",
       "transliteration": "eilēpha",
-      "gloss": "recebi",
+      "gloss": "receber",
       "strong": "G2983",
       "lemma": "λαμβάνω",
       "lemmaTransliteration": "lambanō",
@@ -75,12 +75,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "receber",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «recebi»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -91,7 +91,7 @@ export const apocalipse2v28 = {
       "shortMorph": "P-",
       "greek": "παρὰ",
       "transliteration": "para",
-      "gloss": "de",
+      "gloss": "junto de",
       "strong": "G3844",
       "lemma": "παρά",
       "lemmaTransliteration": "para",
@@ -99,12 +99,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "junto de",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz complemento",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -115,7 +115,7 @@ export const apocalipse2v28 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "do",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -123,7 +123,7 @@ export const apocalipse2v28 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual «do»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
@@ -139,7 +139,7 @@ export const apocalipse2v28 = {
       "shortMorph": "N-GSM",
       "greek": "πατρός",
       "transliteration": "patros",
-      "gloss": "Pai",
+      "gloss": "pai",
       "strong": "G3962",
       "lemma": "πατήρ",
       "lemmaTransliteration": "patēr",
@@ -147,7 +147,7 @@ export const apocalipse2v28 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "pai",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «Pai»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
@@ -163,7 +163,7 @@ export const apocalipse2v28 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "eu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -171,12 +171,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Conector da oração",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse2v28 = {
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "darei",
+      "gloss": "dar",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -219,12 +219,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «darei»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal ou forma dependente",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse2v28 = {
       "shortMorph": "PPro-DSM",
       "greek": "αὐτῷ",
       "transliteration": "autō",
-      "gloss": "a ele",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -243,12 +243,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----DSM-",
       "morphology": "Pronome pessoal dativo singular masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal dativo singular masculino. Elemento discursivo. Glosa contextual «a ele»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal dativo singular masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -267,7 +267,7 @@ export const apocalipse2v28 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v28 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo acusativo singular masculino. Núcleo nominal. Glosa contextual «estrela»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v28 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
@@ -331,7 +331,7 @@ export const apocalipse2v28 = {
       "shortMorph": "Adj-ASM",
       "greek": "πρωϊνόν.",
       "transliteration": "prōinon",
-      "gloss": "da manhã",
+      "gloss": "matutino",
       "strong": "G4407",
       "lemma": "πρωϊνός",
       "lemmaTransliteration": "prōinos",
@@ -339,12 +339,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo acusativo singular masculino",
       "meanings": "matutino",
-      "explanation": "Adjetivo acusativo singular masculino. Elemento discursivo. Glosa contextual «da manhã»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo acusativo singular masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Elemento da construção",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
