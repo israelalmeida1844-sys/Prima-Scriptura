@@ -1,0 +1,3860 @@
+{
+  "source": "Westminster Leningrad Codex / OSHB v.2.2",
+  "state": "edição pública para avaliação filológica",
+  "verses": {
+    "1": {
+      "verseRef": "GEN.1.1",
+      "versePt": "Gn 1:1",
+      "translationPt": "No princípio, Deus criou os céus e a terra.",
+      "translationNotePt": "Tradução editorial independente. A construção temporal בְּרֵאשִׁית admite discussão sintática; a opção apresentada trata o versículo como oração principal. Nos itens de concordância, excerptPt reproduz a Almeida 1911 em ortografia histórica (domínio público), exceto cinco títulos de salmos sem versículo português numerado, traduzidos editorialmente do Texto Massorético e identificados na auditoria. As correspondências de numeração seguem a tabela STEPBible TVTMS MT→English (CC BY 4.0).",
+      "wordCount": 7,
+      "lexemeCount": 6,
+      "totalReferenceRows": 11708,
+      "overviewPt": "A ordem hebraica observada é: **adjunto temporal — predicado verbal — sujeito — marcador do objeto — objeto direto — conjunção + marcador — segundo objeto direto**. A coordenação final combina duas entidades definidas e pode ser interpretada como expressão abrangente («céus e terra»), não como enumeração de todos os detalhes materiais da criação.",
+      "lexemes": {
+        "H7225": {
+          "strong": "H7225",
+          "lemmaHe": "רֵאשִׁית",
+          "lemmaTranslit": "rēʾšîṯ",
+          "rootConsonants": "ראש",
+          "rootTranslit": "rʾš",
+          "glossPt": "princípio, primeira parte, primícias",
+          "partOfSpeech": "substantivo feminino"
+        },
+        "H1254": {
+          "strong": "H1254",
+          "lemmaHe": "בָּרָא",
+          "lemmaTranslit": "bārāʾ",
+          "rootConsonants": "ברא",
+          "rootTranslit": "brʾ",
+          "glossPt": "criar",
+          "partOfSpeech": "verbo"
+        },
+        "H430": {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "Deus; deuses",
+          "partOfSpeech": "substantivo masculino de forma plural"
+        },
+        "H853": {
+          "strong": "H853",
+          "lemmaHe": "אֵת",
+          "lemmaTranslit": "ʾēṯ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "marcador de objeto direto definido",
+          "partOfSpeech": "partícula"
+        },
+        "H8064": {
+          "strong": "H8064",
+          "lemmaHe": "שָׁמַיִם",
+          "lemmaTranslit": "šāmayim",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "céu, céus",
+          "partOfSpeech": "substantivo masculino de forma plural"
+        },
+        "H776": {
+          "strong": "H776",
+          "lemmaHe": "אֶרֶץ",
+          "lemmaTranslit": "ʾereṣ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "terra, território, solo",
+          "partOfSpeech": "substantivo (normalmente feminino)"
+        }
+      },
+      "tokens": [
+        {
+          "id": "GEN.1.1.1",
+          "index": 1,
+          "surfaceHe": "בְּרֵאשִׁית",
+          "consonantalHe": "בראשית",
+          "translit": "bərēʾšîṯ",
+          "glossInContext": "No princípio",
+          "strong": "H7225",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "feminino",
+            "number": "singular",
+            "rawCode": "HR/Ncfsa"
+          },
+          "syntax": {
+            "role": "temporal_adjunct",
+            "roleLabel": "Adjunto adverbial temporal",
+            "clauseId": "GEN.1.1.C1",
+            "governedBy": "GEN.1.1.2",
+            "notesPt": "בְּ é prefixo preposicional (HR); o substantivo é Ncfsa no OSHB. A leitura independente ou subordinada de בְּרֵאשִׁית é discutida."
+          },
+          "sensesPt": "Começo ou início (Gn 1:1); Primícias (Êx 23:19); Primogenitura ou posição principal (Gn 49:3)"
+        },
+        {
+          "id": "GEN.1.1.2",
+          "index": 2,
+          "surfaceHe": "בָּרָא",
+          "consonantalHe": "ברא",
+          "translit": "bārāʾ",
+          "glossInContext": "criou",
+          "strong": "H1254",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "perfeito (qatal)",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HVqp3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Predicado verbal",
+            "clauseId": "GEN.1.1.C1",
+            "governedBy": null,
+            "notesPt": "Verbo transitivo; sujeito אֱלֹהִים e dois objetos diretos definidos coordenados."
+          },
+          "sensesPt": "Criar (Gn 1:1); Renovar ou criar uma nova condição (Sl 51:12); Desbravar ou abrir terreno (Js 17:15)"
+        },
+        {
+          "id": "GEN.1.1.3",
+          "index": 3,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural morfológico",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito do verbo",
+            "clauseId": "GEN.1.1.C1",
+            "governedBy": "GEN.1.1.2",
+            "notesPt": "Apesar da forma nominal plural, ocorre com o verbo singular בָּרָא."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.1.4",
+          "index": 4,
+          "surfaceHe": "אֵת",
+          "consonantalHe": "את",
+          "translit": "ʾēṯ",
+          "glossInContext": "[marcador de objeto direto]",
+          "strong": "H853",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HTo"
+          },
+          "syntax": {
+            "role": "object_marker",
+            "roleLabel": "Marcador do objeto direto",
+            "clauseId": "GEN.1.1.C1",
+            "governedBy": "GEN.1.1.2",
+            "notesPt": "Introduz o objeto definido הַשָּׁמַיִם; é partícula sem tradução independente."
+          },
+          "sensesPt": "Marcador de objeto direto definido (Gn 1:1)"
+        },
+        {
+          "id": "GEN.1.1.5",
+          "index": 5,
+          "surfaceHe": "הַשָּׁמַיִם",
+          "consonantalHe": "השמים",
+          "translit": "haššāmayim",
+          "glossInContext": "os céus",
+          "strong": "H8064",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural morfológico",
+            "rawCode": "HTd/Ncmpa"
+          },
+          "syntax": {
+            "role": "direct_object",
+            "roleLabel": "Primeiro objeto direto",
+            "clauseId": "GEN.1.1.C1",
+            "governedBy": "GEN.1.1.2",
+            "notesPt": "Artigo definido הַ (HTd) mais nome plural (Ncmpa)."
+          },
+          "sensesPt": "Céu ou espaço celeste (Gn 1:8); Céus em expressão abrangente (Gn 1:1)"
+        },
+        {
+          "id": "GEN.1.1.6",
+          "index": 6,
+          "surfaceHe": "וְאֵת",
+          "consonantalHe": "ואת",
+          "translit": "wəʾēṯ",
+          "glossInContext": "e [marcador de objeto direto]",
+          "strong": "H853",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HC/To"
+          },
+          "syntax": {
+            "role": "coordinated_object_marker",
+            "roleLabel": "Conjunção e marcador de objeto",
+            "clauseId": "GEN.1.1.C1",
+            "governedBy": "GEN.1.1.2",
+            "notesPt": "Conjunção וְ (HC) mais partícula אֵת (To), coordenando o segundo objeto direto."
+          },
+          "sensesPt": "Marcador de objeto direto definido (Gn 1:1)"
+        },
+        {
+          "id": "GEN.1.1.7",
+          "index": 7,
+          "surfaceHe": "הָאָרֶץ",
+          "consonantalHe": "הארץ",
+          "translit": "hāʾāreṣ",
+          "glossInContext": "a terra",
+          "strong": "H776",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum (OSHB); feminino no uso",
+            "number": "singular",
+            "rawCode": "HTd/Ncbsa"
+          },
+          "syntax": {
+            "role": "coordinated_direct_object",
+            "roleLabel": "Segundo objeto direto coordenado",
+            "clauseId": "GEN.1.1.C1",
+            "governedBy": "GEN.1.1.2",
+            "notesPt": "Artigo definido (HTd) mais Ncbsa. O lema אֶרֶץ é geralmente feminino."
+          },
+          "sensesPt": "Terra (Gn 1:1); País ou território (Gn 12:1); Solo ou chão (Gn 2:5)"
+        }
+      ],
+      "concordances": [
+        {
+          "strong": "H7225",
+          "lemmaHe": "רֵאשִׁית",
+          "lemmaTranslit": "rēʾšîṯ",
+          "tokenCount": 51,
+          "totalCount": 49,
+          "countsBySection": {
+            "pentateuco": 17,
+            "profetas": 16,
+            "escritos": 16
+          }
+        },
+        {
+          "strong": "H1254",
+          "lemmaHe": "בָּרָא",
+          "lemmaTranslit": "bārāʾ",
+          "tokenCount": 54,
+          "totalCount": 46,
+          "countsBySection": {
+            "pentateuco": 11,
+            "profetas": 28,
+            "escritos": 7
+          }
+        },
+        {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "tokenCount": 2600,
+          "totalCount": 2246,
+          "countsBySection": {
+            "pentateuco": 683,
+            "profetas": 784,
+            "escritos": 779
+          }
+        },
+        {
+          "strong": "H853",
+          "lemmaHe": "אֵת",
+          "lemmaTranslit": "ʾēṯ",
+          "tokenCount": 10979,
+          "totalCount": 6782,
+          "countsBySection": {
+            "pentateuco": 2492,
+            "profetas": 3224,
+            "escritos": 1066
+          }
+        },
+        {
+          "strong": "H8064",
+          "lemmaHe": "שָׁמַיִם",
+          "lemmaTranslit": "šāmayim",
+          "tokenCount": 421,
+          "totalCount": 395,
+          "countsBySection": {
+            "pentateuco": 92,
+            "profetas": 145,
+            "escritos": 158
+          }
+        },
+        {
+          "strong": "H776",
+          "lemmaHe": "אֶרֶץ",
+          "lemmaTranslit": "ʾereṣ",
+          "tokenCount": 2505,
+          "totalCount": 2190,
+          "countsBySection": {
+            "pentateuco": 705,
+            "profetas": 1038,
+            "escritos": 447
+          }
+        }
+      ]
+    },
+    "2": {
+      "verseRef": "GEN.1.2",
+      "versePt": "Gn 1:2",
+      "translationPt": "A terra, porém, estava sem forma e vazia; havia trevas sobre a superfície do abismo, e o Espírito de Deus pairava sobre a superfície das águas.",
+      "translationNotePt": "Tradução editorial em ordem natural do português; não é transcrição da ARA. «Vento de Deus» permanece alternativa interpretativa. As entradas excerptPt das concordâncias utilizam a Almeida 1911 (domínio público), exceto títulos massoréticos identificados como traduções editoriais. A numeração MT→português usa STEPBible TVTMS (CC BY 4.0).",
+      "wordCount": 14,
+      "lexemeCount": 12,
+      "totalReferenceRows": 14961,
+      "overviewPt": "A sequência de Gn 1:2 apresenta três unidades sintáticas. Em C1, וְהָאָרֶץ funciona como sujeito e tópico da descrição; הָיְתָה (Qal perfeito 3fs) descreve a condição da terra. A tradução «estava» não exclui todos os usos possíveis de הָיָה, mas evita deduzir, do verbo isoladamente, uma transformação anterior. תֹהוּ וָבֹהוּ são predicativos coordenados de uma condição ainda não ordenada; não se deve extrair da expressão uma história de destruição prévia sem outros argumentos. Em C2, וְחֹשֶׁךְ inicia uma oração nominal de localização: as trevas estão sobre a superfície do abismo, sem cópula expressa. פְּנֵי (forma construta) rege תְהוֹם. Em C3, a relação genitiva רוּחַ אֱלֹהִים admite discussão entre «Espírito de Deus» e «vento de Deus». O particípio Piel feminino singular מְרַחֶפֶת apresenta concordância com רוּחַ e ação em curso. O paralelo metafórico de Dt 32:11 não deve ser convertido em descrição física obrigatória do movimento neste versículo.",
+      "lexemes": {
+        "H776": {
+          "strong": "H776",
+          "lemmaHe": "אֶרֶץ",
+          "lemmaTranslit": "ʾereṣ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "terra; território; solo",
+          "partOfSpeech": "substantivo predominantemente feminino"
+        },
+        "H1961": {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "rootConsonants": "היה",
+          "rootTranslit": "hyh",
+          "glossPt": "ser; estar; acontecer; tornar-se",
+          "partOfSpeech": "verbo"
+        },
+        "H8414": {
+          "strong": "H8414",
+          "lemmaHe": "תֹּהוּ",
+          "lemmaTranslit": "tōhû",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "desolação; sem forma; inutilidade",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H922": {
+          "strong": "H922",
+          "lemmaHe": "בֹּהוּ",
+          "lemmaTranslit": "bōhû",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "vazio; desolação",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H2822": {
+          "strong": "H2822",
+          "lemmaHe": "חֹשֶׁךְ",
+          "lemmaTranslit": "ḥōšeḵ",
+          "rootConsonants": "חשך",
+          "rootTranslit": "ḥšk",
+          "glossPt": "escuridão; trevas",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H5921": {
+          "strong": "H5921",
+          "lemmaHe": "עַל",
+          "lemmaTranslit": "ʿal",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "sobre; acima; em relação a",
+          "partOfSpeech": "preposição"
+        },
+        "H6440": {
+          "strong": "H6440",
+          "lemmaHe": "פָּנִים",
+          "lemmaTranslit": "pānîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "face; superfície; presença",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H8415": {
+          "strong": "H8415",
+          "lemmaHe": "תְּהוֹם",
+          "lemmaTranslit": "təhôm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "abismo; águas profundas",
+          "partOfSpeech": "substantivo"
+        },
+        "H7307": {
+          "strong": "H7307",
+          "lemmaHe": "רוּחַ",
+          "lemmaTranslit": "rûaḥ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "vento; sopro; espírito",
+          "partOfSpeech": "substantivo"
+        },
+        "H430": {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "Deus; deuses",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H7363": {
+          "strong": "H7363",
+          "lemmaHe": "רָחַף",
+          "lemmaTranslit": "rāḥap̄",
+          "rootConsonants": "רחף",
+          "rootTranslit": "rḥp",
+          "glossPt": "pairar; adejar",
+          "partOfSpeech": "verbo"
+        },
+        "H4325": {
+          "strong": "H4325",
+          "lemmaHe": "מַיִם",
+          "lemmaTranslit": "mayim",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "água; águas",
+          "partOfSpeech": "substantivo de forma plural"
+        }
+      },
+      "tokens": [
+        {
+          "id": "GEN.1.2.1",
+          "index": 1,
+          "surfaceHe": "וְהָאָרֶץ",
+          "consonantalHe": "והארץ",
+          "translit": "wəhāʾāreṣ",
+          "glossInContext": "A terra, porém",
+          "strong": "H776",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "singular",
+            "rawCode": "HC/Td/Ncbsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito topicalizado",
+            "clauseId": "GEN.1.2.C1",
+            "governedBy": "GEN.1.2.2",
+            "notesPt": "וְ introduz continuidade discursiva; o artigo determina אֶרֶץ. A tradução 'porém' é contextual, não valor lexical obrigatório."
+          },
+          "sensesPt": "Terra (Gn 1:1); País ou território (Gn 12:1); Solo ou chão (Gn 2:5)"
+        },
+        {
+          "id": "GEN.1.2.2",
+          "index": 2,
+          "surfaceHe": "הָיְתָה",
+          "consonantalHe": "היתה",
+          "translit": "hāyəṯâ",
+          "glossInContext": "estava",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "perfeito (qatal)",
+            "person": "terceira",
+            "gender": "feminino",
+            "number": "singular",
+            "rawCode": "HVqp3fs"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Predicado verbal estativo",
+            "clauseId": "GEN.1.2.C1",
+            "governedBy": null,
+            "notesPt": "Qal qatal feminino singular; descreve o estado da terra, sem pressupor por si só mudança anterior."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.2.3",
+          "index": 3,
+          "surfaceHe": "תֹהוּ",
+          "consonantalHe": "תהו",
+          "translit": "ṯōhû",
+          "glossInContext": "sem forma",
+          "strong": "H8414",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "predicative_complement",
+            "roleLabel": "Primeiro predicativo",
+            "clauseId": "GEN.1.2.C1",
+            "governedBy": "GEN.1.2.2",
+            "notesPt": "תֹהוּ descreve condição de não organização; integra par com בֹּהוּ."
+          },
+          "sensesPt": "Desolação ou ausência de organização (Gn 1:2); Vazio ou inutilidade (Is 40:17)"
+        },
+        {
+          "id": "GEN.1.2.4",
+          "index": 4,
+          "surfaceHe": "וָבֹהוּ",
+          "consonantalHe": "ובהו",
+          "translit": "wāḇōhû",
+          "glossInContext": "e vazia",
+          "strong": "H922",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Ncmsa"
+          },
+          "syntax": {
+            "role": "coordinated_predicative",
+            "roleLabel": "Predicativo coordenado",
+            "clauseId": "GEN.1.2.C1",
+            "governedBy": "GEN.1.2.3",
+            "notesPt": "וָ coordena o segundo substantivo predicativo à expressão תֹהוּ."
+          },
+          "sensesPt": "Vazio ou desolação (Gn 1:2, Jr 4:23)"
+        },
+        {
+          "id": "GEN.1.2.5",
+          "index": 5,
+          "surfaceHe": "וְחֹשֶׁךְ",
+          "consonantalHe": "וחשך",
+          "translit": "wəḥōšeḵ",
+          "glossInContext": "e trevas",
+          "strong": "H2822",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Ncmsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito de oração nominal",
+            "clauseId": "GEN.1.2.C2",
+            "governedBy": null,
+            "notesPt": "וְ introduz nova descrição; a oração hebraica não possui cópula expressa."
+          },
+          "sensesPt": "Escuridão física (Gn 1:2); Trevas como imagem de juízo ou experiência negativa (Is 5:20)"
+        },
+        {
+          "id": "GEN.1.2.6",
+          "index": 6,
+          "surfaceHe": "עַל־",
+          "consonantalHe": "על",
+          "translit": "ʿal",
+          "glossInContext": "sobre",
+          "strong": "H5921",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HR"
+          },
+          "syntax": {
+            "role": "prepositional_predicate",
+            "roleLabel": "Predicado locativo preposicional",
+            "clauseId": "GEN.1.2.C2",
+            "governedBy": null,
+            "notesPt": "עַל־פְּנֵי é expressão espacial; עַל está ligado por maqqef."
+          },
+          "sensesPt": "Sobre ou acima de (Gn 1:2); Domínio ou autoridade sobre (Gn 1:26)"
+        },
+        {
+          "id": "GEN.1.2.7",
+          "index": 7,
+          "surfaceHe": "פְּנֵי",
+          "consonantalHe": "פני",
+          "translit": "pənê",
+          "glossInContext": "a superfície de",
+          "strong": "H6440",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "plural",
+            "rawCode": "HNcbpc"
+          },
+          "syntax": {
+            "role": "construct_head",
+            "roleLabel": "Núcleo nominal construto",
+            "clauseId": "GEN.1.2.C2",
+            "governedBy": "GEN.1.2.6",
+            "notesPt": "פְּנֵי é forma construta de פָּנִים; descreve a superfície."
+          },
+          "sensesPt": "Face ou rosto (Gn 4:6); Superfície (Gn 1:2); Presença ou diante de (Gn 3:8)"
+        },
+        {
+          "id": "GEN.1.2.8",
+          "index": 8,
+          "surfaceHe": "תְהוֹם",
+          "consonantalHe": "תהום",
+          "translit": "təhôm",
+          "glossInContext": "o abismo",
+          "strong": "H8415",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "singular",
+            "rawCode": "HNcbsa"
+          },
+          "syntax": {
+            "role": "genitive_complement",
+            "roleLabel": "Complemento do construto",
+            "clauseId": "GEN.1.2.C2",
+            "governedBy": "GEN.1.2.7",
+            "notesPt": "תְּהוֹם completa a construção 'superfície do abismo'; não é uma divindade personificada por exigência lexical."
+          },
+          "sensesPt": "Abismo ou águas profundas (Gn 1:2); Fontes das profundezas (Gn 7:11)"
+        },
+        {
+          "id": "GEN.1.2.9",
+          "index": 9,
+          "surfaceHe": "וְרוּחַ",
+          "consonantalHe": "ורוח",
+          "translit": "wərûaḥ",
+          "glossInContext": "e o Espírito",
+          "strong": "H7307",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "singular",
+            "rawCode": "HC/Ncbsc"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito de oração participial",
+            "clauseId": "GEN.1.2.C3",
+            "governedBy": "GEN.1.2.11",
+            "notesPt": "רוּחַ designa vento/sopro/espírito; o contexto permite discutir 'Espírito de Deus' e 'vento de Deus'."
+          },
+          "sensesPt": "Vento (Gn 8:1); Fôlego ou sopro de vida (Gn 7:22); Espírito (Gn 41:38)"
+        },
+        {
+          "id": "GEN.1.2.10",
+          "index": 10,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "de Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "genitive_complement",
+            "roleLabel": "Complemento genitivo",
+            "clauseId": "GEN.1.2.C3",
+            "governedBy": "GEN.1.2.9",
+            "notesPt": "אֱלֹהִים qualifica רוּחַ; vínculo genitivo não encerra sozinho a interpretação semântica."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.2.11",
+          "index": 11,
+          "surfaceHe": "מְרַחֶפֶת",
+          "consonantalHe": "מרחפת",
+          "translit": "məraḥep̄eṯ",
+          "glossInContext": "pairava",
+          "strong": "H7363",
+          "morphology": {
+            "stem": "Piel",
+            "conjugation": "particípio ativo",
+            "person": "",
+            "gender": "feminino",
+            "number": "singular",
+            "rawCode": "HVprfsa"
+          },
+          "syntax": {
+            "role": "participle_predicate",
+            "roleLabel": "Predicado participial",
+            "clauseId": "GEN.1.2.C3",
+            "governedBy": null,
+            "notesPt": "Particípio Piel feminino singular concordante com רוּחַ; denota ação em curso."
+          },
+          "sensesPt": "Pairar ou mover-se sobre (Gn 1:2); Adejar ou esvoaçar (Dt 32:11)"
+        },
+        {
+          "id": "GEN.1.2.12",
+          "index": 12,
+          "surfaceHe": "עַל־",
+          "consonantalHe": "על",
+          "translit": "ʿal",
+          "glossInContext": "sobre",
+          "strong": "H5921",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HR"
+          },
+          "syntax": {
+            "role": "prepositional_adjunct",
+            "roleLabel": "Adjunto espacial",
+            "clauseId": "GEN.1.2.C3",
+            "governedBy": "GEN.1.2.11",
+            "notesPt": "עַל־ introduz a locução 'sobre a superfície'; acompanha o movimento descrito pelo particípio."
+          },
+          "sensesPt": "Sobre ou acima de (Gn 1:2); Domínio ou autoridade sobre (Gn 1:26)"
+        },
+        {
+          "id": "GEN.1.2.13",
+          "index": 13,
+          "surfaceHe": "פְּנֵי",
+          "consonantalHe": "פני",
+          "translit": "pənê",
+          "glossInContext": "a superfície de",
+          "strong": "H6440",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "plural",
+            "rawCode": "HNcbpc"
+          },
+          "syntax": {
+            "role": "construct_head",
+            "roleLabel": "Núcleo nominal construto",
+            "clauseId": "GEN.1.2.C3",
+            "governedBy": "GEN.1.2.12",
+            "notesPt": "פְּנֵי, construto de פָּנִים, relaciona-se ao substantivo seguinte."
+          },
+          "sensesPt": "Face ou rosto (Gn 4:6); Superfície (Gn 1:2); Presença ou diante de (Gn 3:8)"
+        },
+        {
+          "id": "GEN.1.2.14",
+          "index": 14,
+          "surfaceHe": "הַמָּיִם",
+          "consonantalHe": "המים",
+          "translit": "hammāyim",
+          "glossInContext": "as águas",
+          "strong": "H4325",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HTd/Ncmpa"
+          },
+          "syntax": {
+            "role": "genitive_complement",
+            "roleLabel": "Complemento do construto",
+            "clauseId": "GEN.1.2.C3",
+            "governedBy": "GEN.1.2.13",
+            "notesPt": "הַמָּיִם é o complemento definido de פְּנֵי."
+          },
+          "sensesPt": "Água ou águas (Gn 1:6, Êx 7:20)"
+        }
+      ],
+      "concordances": [
+        {
+          "strong": "H776",
+          "lemmaHe": "אֶרֶץ",
+          "lemmaTranslit": "ʾereṣ",
+          "tokenCount": 2505,
+          "totalCount": 2190,
+          "countsBySection": {
+            "pentateuco": 705,
+            "profetas": 1038,
+            "escritos": 447
+          }
+        },
+        {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "tokenCount": 3575,
+          "totalCount": 3131,
+          "countsBySection": {
+            "pentateuco": 919,
+            "profetas": 1663,
+            "escritos": 549
+          }
+        },
+        {
+          "strong": "H8414",
+          "lemmaHe": "תֹּהוּ",
+          "lemmaTranslit": "tōhû",
+          "tokenCount": 20,
+          "totalCount": 19,
+          "countsBySection": {
+            "pentateuco": 2,
+            "profetas": 13,
+            "escritos": 4
+          }
+        },
+        {
+          "strong": "H922",
+          "lemmaHe": "בֹּהוּ",
+          "lemmaTranslit": "bōhû",
+          "tokenCount": 3,
+          "totalCount": 3,
+          "countsBySection": {
+            "pentateuco": 1,
+            "profetas": 2,
+            "escritos": 0
+          }
+        },
+        {
+          "strong": "H2822",
+          "lemmaHe": "חֹשֶׁךְ",
+          "lemmaTranslit": "ḥōšeḵ",
+          "tokenCount": 80,
+          "totalCount": 77,
+          "countsBySection": {
+            "pentateuco": 9,
+            "profetas": 26,
+            "escritos": 42
+          }
+        },
+        {
+          "strong": "H5921",
+          "lemmaHe": "עַל",
+          "lemmaTranslit": "ʿal",
+          "tokenCount": 5781,
+          "totalCount": 4493,
+          "countsBySection": {
+            "pentateuco": 1157,
+            "profetas": 2089,
+            "escritos": 1247
+          }
+        },
+        {
+          "strong": "H6440",
+          "lemmaHe": "פָּנִים",
+          "lemmaTranslit": "pānîm",
+          "tokenCount": 2127,
+          "totalCount": 1891,
+          "countsBySection": {
+            "pentateuco": 542,
+            "profetas": 820,
+            "escritos": 529
+          }
+        },
+        {
+          "strong": "H8415",
+          "lemmaHe": "תְּהוֹם",
+          "lemmaTranslit": "təhôm",
+          "tokenCount": 36,
+          "totalCount": 35,
+          "countsBySection": {
+            "pentateuco": 8,
+            "profetas": 8,
+            "escritos": 19
+          }
+        },
+        {
+          "strong": "H7307",
+          "lemmaHe": "רוּחַ",
+          "lemmaTranslit": "rûaḥ",
+          "tokenCount": 378,
+          "totalCount": 348,
+          "countsBySection": {
+            "pentateuco": 35,
+            "profetas": 180,
+            "escritos": 133
+          }
+        },
+        {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "tokenCount": 2600,
+          "totalCount": 2246,
+          "countsBySection": {
+            "pentateuco": 683,
+            "profetas": 784,
+            "escritos": 779
+          }
+        },
+        {
+          "strong": "H7363",
+          "lemmaHe": "רָחַף",
+          "lemmaTranslit": "rāḥap̄",
+          "tokenCount": 3,
+          "totalCount": 3,
+          "countsBySection": {
+            "pentateuco": 2,
+            "profetas": 1,
+            "escritos": 0
+          }
+        },
+        {
+          "strong": "H4325",
+          "lemmaHe": "מַיִם",
+          "lemmaTranslit": "mayim",
+          "tokenCount": 582,
+          "totalCount": 525,
+          "countsBySection": {
+            "pentateuco": 180,
+            "profetas": 226,
+            "escritos": 119
+          }
+        }
+      ]
+    },
+    "3": {
+      "verseRef": "GEN.1.3",
+      "versePt": "Gn 1:3",
+      "translationPt": "Então Deus disse: «Haja luz», e houve luz.",
+      "translationNotePt": "Tradução editorial, não reprodução da ARA. A disposição interlinear acompanha cada palavra hebraica, enquanto a frase portuguesa segue sua sintaxe natural. As entradas excerptPt das concordâncias utilizam a Almeida 1911 (domínio público), exceto títulos massoréticos identificados como traduções editoriais. A numeração MT→português usa STEPBible TVTMS (CC BY 4.0).",
+      "wordCount": 6,
+      "lexemeCount": 4,
+      "totalReferenceRows": 9824,
+      "overviewPt": "As três orações diferenciam enunciação divina, ordem e cumprimento. וַיֹּאמֶר é Qal wayyiqtol na narração. יְהִי é Qal jussivo (HVqj3ms): trata-se de ato volitivo que introduz o surgimento da luz. Ao contrário, וַיְהִי־ é forma de sequência narrativa (HC/Vqw3ms) que apresenta a realização do que fora ordenado. Ambas pertencem ao lema הָיָה, mas não se deve fundir as duas análises morfológicas. A repetição de אוֹר associa expressamente comando e acontecimento, sem transformar a forma jussiva em um pretérito narrativo.",
+      "lexemes": {
+        "H559": {
+          "strong": "H559",
+          "lemmaHe": "אָמַר",
+          "lemmaTranslit": "ʾāmar",
+          "rootConsonants": "אמר",
+          "rootTranslit": "ʾmr",
+          "glossPt": "dizer; declarar; responder",
+          "partOfSpeech": "verbo"
+        },
+        "H430": {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "Deus; deuses",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H1961": {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "rootConsonants": "היה",
+          "rootTranslit": "hyh",
+          "glossPt": "ser; estar; acontecer; tornar-se",
+          "partOfSpeech": "verbo"
+        },
+        "H216": {
+          "strong": "H216",
+          "lemmaHe": "אוֹר",
+          "lemmaTranslit": "ʾôr",
+          "rootConsonants": "אור",
+          "rootTranslit": "ʾwr",
+          "glossPt": "luz",
+          "partOfSpeech": "substantivo masculino"
+        }
+      },
+      "tokens": [
+        {
+          "id": "GEN.1.3.1",
+          "index": 1,
+          "surfaceHe": "וַיֹּאמֶר",
+          "consonantalHe": "ויאמר",
+          "translit": "wayyōʾmer",
+          "glossInContext": "E disse",
+          "strong": "H559",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Verbo narrativo introdutor da fala",
+            "clauseId": "GEN.1.3.C1",
+            "governedBy": null,
+            "notesPt": "וַיֹּאמֶר é forma narrativa do Qal; introduz discurso direto."
+          },
+          "sensesPt": "Dizer ou declarar (Gn 1:3); Responder ou dizer em diálogo (Gn 3:2)"
+        },
+        {
+          "id": "GEN.1.3.2",
+          "index": 2,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito",
+            "clauseId": "GEN.1.3.C1",
+            "governedBy": "GEN.1.3.1",
+            "notesPt": "אֱלֹהִים, de forma plural, concorda aqui com verbo singular."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.3.3",
+          "index": 3,
+          "surfaceHe": "יְהִי",
+          "consonantalHe": "יהי",
+          "translit": "yəhî",
+          "glossInContext": "Haja",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "jussivo",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HVqj3ms"
+          },
+          "syntax": {
+            "role": "volitive_predicate",
+            "roleLabel": "Predicado volitivo",
+            "clauseId": "GEN.1.3.C2",
+            "governedBy": null,
+            "notesPt": "יְהִי exprime ordem/jussivo, não é a forma narrativa וַיְהִי."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.3.4",
+          "index": 4,
+          "surfaceHe": "אוֹר",
+          "consonantalHe": "אור",
+          "translit": "ʾôr",
+          "glossInContext": "luz",
+          "strong": "H216",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "singular",
+            "rawCode": "HNcbsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito do jussivo",
+            "clauseId": "GEN.1.3.C2",
+            "governedBy": "GEN.1.3.3",
+            "notesPt": "אוֹר é o elemento cujo surgimento é ordenado."
+          },
+          "sensesPt": "Luz física (Gn 1:3); Luz em sentido figurado (Sl 27:1)"
+        },
+        {
+          "id": "GEN.1.3.5",
+          "index": 5,
+          "surfaceHe": "וַיְהִי־",
+          "consonantalHe": "ויהי",
+          "translit": "wayhî",
+          "glossInContext": "e houve",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Predicado narrativo de cumprimento",
+            "clauseId": "GEN.1.3.C3",
+            "governedBy": null,
+            "notesPt": "וַיְהִי־ é forma narrativa; maqqef une prosodicamente ao termo seguinte."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.3.6",
+          "index": 6,
+          "surfaceHe": "אוֹר",
+          "consonantalHe": "אור",
+          "translit": "ʾôr",
+          "glossInContext": "luz",
+          "strong": "H216",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "singular",
+            "rawCode": "HNcbsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito da oração de cumprimento",
+            "clauseId": "GEN.1.3.C3",
+            "governedBy": "GEN.1.3.5",
+            "notesPt": "אוֹר designa a luz resultante da ordem divina."
+          },
+          "sensesPt": "Luz física (Gn 1:3); Luz em sentido figurado (Sl 27:1)"
+        }
+      ],
+      "concordances": [
+        {
+          "strong": "H559",
+          "lemmaHe": "אָמַר",
+          "lemmaTranslit": "ʾāmar",
+          "tokenCount": 5318,
+          "totalCount": 4337,
+          "countsBySection": {
+            "pentateuco": 1176,
+            "profetas": 2521,
+            "escritos": 640
+          }
+        },
+        {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "tokenCount": 2600,
+          "totalCount": 2246,
+          "countsBySection": {
+            "pentateuco": 683,
+            "profetas": 784,
+            "escritos": 779
+          }
+        },
+        {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "tokenCount": 3575,
+          "totalCount": 3131,
+          "countsBySection": {
+            "pentateuco": 919,
+            "profetas": 1663,
+            "escritos": 549
+          }
+        },
+        {
+          "strong": "H216",
+          "lemmaHe": "אוֹר",
+          "lemmaTranslit": "ʾôr",
+          "tokenCount": 121,
+          "totalCount": 110,
+          "countsBySection": {
+            "pentateuco": 5,
+            "profetas": 46,
+            "escritos": 59
+          }
+        }
+      ]
+    },
+    "4": {
+      "verseRef": "GEN.1.4",
+      "versePt": "Gn 1:4",
+      "translationPt": "Deus viu que a luz era boa e separou a luz das trevas.",
+      "translationNotePt": "Tradução editorial própria; referência de comparação: ARA. O artigo e partículas hebraicas não correspondem sempre a palavras independentes em português. As entradas excerptPt das concordâncias utilizam a Almeida 1911 (domínio público), exceto títulos massoréticos identificados como traduções editoriais. A numeração MT→português usa STEPBible TVTMS (CC BY 4.0).",
+      "wordCount": 12,
+      "lexemeCount": 9,
+      "totalReferenceRows": 15140,
+      "overviewPt": "O verbo וַיַּרְא introduz a avaliação da luz, cujo conteúdo é expresso por כִּי־טוֹב. A partícula כִּי introduz a oração subordinada de conteúdo; טוֹב é adjetivo predicativo masculino singular. A tradução portuguesa normalmente acrescenta a cópula «era», não expressa no hebraico. A seguir, וַיַּבְדֵּל é Hifil wayyiqtol, descrevendo o ato de distinguir a luz das trevas. A construção בֵּין ... וּבֵין contém dois membros correlativos; a conjunção וּ do segundo membro não é parte lexical da preposição בֵּין. A repetição do sujeito אֱלֹהִים em C3 retoma expressamente o agente da separação.",
+      "lexemes": {
+        "H7200": {
+          "strong": "H7200",
+          "lemmaHe": "רָאָה",
+          "lemmaTranslit": "rāʾâ",
+          "rootConsonants": "ראה",
+          "rootTranslit": "rʾh",
+          "glossPt": "ver; perceber; avaliar",
+          "partOfSpeech": "verbo"
+        },
+        "H430": {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "Deus; deuses",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H853": {
+          "strong": "H853",
+          "lemmaHe": "אֵת",
+          "lemmaTranslit": "ʾēṯ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "marcador do objeto direto definido",
+          "partOfSpeech": "partícula"
+        },
+        "H216": {
+          "strong": "H216",
+          "lemmaHe": "אוֹר",
+          "lemmaTranslit": "ʾôr",
+          "rootConsonants": "אור",
+          "rootTranslit": "ʾwr",
+          "glossPt": "luz",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H3588": {
+          "strong": "H3588",
+          "lemmaHe": "כִּי",
+          "lemmaTranslit": "kî",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "que; porque; quando (conforme a construção)",
+          "partOfSpeech": "conjunção/partícula"
+        },
+        "H2896": {
+          "strong": "H2896",
+          "lemmaHe": "טוֹב",
+          "lemmaTranslit": "ṭôḇ",
+          "rootConsonants": "טוב",
+          "rootTranslit": "ṭwb",
+          "glossPt": "bom; agradável; apropriado",
+          "partOfSpeech": "adjetivo"
+        },
+        "H914": {
+          "strong": "H914",
+          "lemmaHe": "בָּדַל",
+          "lemmaTranslit": "bāḏal",
+          "rootConsonants": "בדל",
+          "rootTranslit": "bdl",
+          "glossPt": "separar; distinguir",
+          "partOfSpeech": "verbo"
+        },
+        "H996": {
+          "strong": "H996",
+          "lemmaHe": "בֵּין",
+          "lemmaTranslit": "bên",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "entre",
+          "partOfSpeech": "preposição relacional"
+        },
+        "H2822": {
+          "strong": "H2822",
+          "lemmaHe": "חֹשֶׁךְ",
+          "lemmaTranslit": "ḥōšeḵ",
+          "rootConsonants": "חשך",
+          "rootTranslit": "ḥšk",
+          "glossPt": "escuridão; trevas",
+          "partOfSpeech": "substantivo masculino"
+        }
+      },
+      "tokens": [
+        {
+          "id": "GEN.1.4.1",
+          "index": 1,
+          "surfaceHe": "וַיַּרְא",
+          "consonantalHe": "וירא",
+          "translit": "wayyarʾ",
+          "glossInContext": "E viu",
+          "strong": "H7200",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Verbo narrativo de percepção",
+            "clauseId": "GEN.1.4.C1",
+            "governedBy": null,
+            "notesPt": "O verbo רָאָה tem valor de avaliação em contexto criacional."
+          },
+          "sensesPt": "Ver ou perceber visualmente (Gn 1:4); Constatar ou reconhecer (Gn 6:5)"
+        },
+        {
+          "id": "GEN.1.4.2",
+          "index": 2,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito",
+            "clauseId": "GEN.1.4.C1",
+            "governedBy": "GEN.1.4.1",
+            "notesPt": "אֱלֹהִים é sujeito singular em concordância verbal."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.4.3",
+          "index": 3,
+          "surfaceHe": "אֶת־",
+          "consonantalHe": "את",
+          "translit": "ʾet",
+          "glossInContext": "[marca do objeto]",
+          "strong": "H853",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HTo"
+          },
+          "syntax": {
+            "role": "object_marker",
+            "roleLabel": "Marcador de objeto definido",
+            "clauseId": "GEN.1.4.C1",
+            "governedBy": "GEN.1.4.1",
+            "notesPt": "אֶת־ introduz o objeto direto; maqqef não altera o lema."
+          },
+          "sensesPt": "Marcador de objeto direto definido (Gn 1:1)"
+        },
+        {
+          "id": "GEN.1.4.4",
+          "index": 4,
+          "surfaceHe": "הָאוֹר",
+          "consonantalHe": "האור",
+          "translit": "hāʾôr",
+          "glossInContext": "a luz",
+          "strong": "H216",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "singular",
+            "rawCode": "HTd/Ncbsa"
+          },
+          "syntax": {
+            "role": "direct_object",
+            "roleLabel": "Objeto direto",
+            "clauseId": "GEN.1.4.C1",
+            "governedBy": "GEN.1.4.1",
+            "notesPt": "הָאוֹר designa a luz avaliada."
+          },
+          "sensesPt": "Luz física (Gn 1:3); Luz em sentido figurado (Sl 27:1)"
+        },
+        {
+          "id": "GEN.1.4.5",
+          "index": 5,
+          "surfaceHe": "כִּי־",
+          "consonantalHe": "כי",
+          "translit": "kî",
+          "glossInContext": "que",
+          "strong": "H3588",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HC"
+          },
+          "syntax": {
+            "role": "subordinate_conjunction",
+            "roleLabel": "Introdução de oração de conteúdo",
+            "clauseId": "GEN.1.4.C2",
+            "governedBy": "GEN.1.4.1",
+            "notesPt": "כִּי introduz o conteúdo do juízo: que a luz era boa. Sem verbo 'era' expresso."
+          },
+          "sensesPt": "Que (introdução de conteúdo) (Gn 1:4); Porque (explicação causal) (Gn 2:3)"
+        },
+        {
+          "id": "GEN.1.4.6",
+          "index": 6,
+          "surfaceHe": "טוֹב",
+          "consonantalHe": "טוב",
+          "translit": "ṭôḇ",
+          "glossInContext": "boa",
+          "strong": "H2896",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HAamsa"
+          },
+          "syntax": {
+            "role": "predicate_adjective",
+            "roleLabel": "Predicativo adjetival",
+            "clauseId": "GEN.1.4.C2",
+            "governedBy": null,
+            "notesPt": "טוֹב qualifica a luz; o predicativo retoma o referente explícito em C1."
+          },
+          "sensesPt": "Bom ou adequado (Gn 1:4); Agradável ou desejável (Gn 3:6); Belo ou formoso (Gn 6:2)"
+        },
+        {
+          "id": "GEN.1.4.7",
+          "index": 7,
+          "surfaceHe": "וַיַּבְדֵּל",
+          "consonantalHe": "ויבדל",
+          "translit": "wayyaḇdēl",
+          "glossInContext": "e separou",
+          "strong": "H914",
+          "morphology": {
+            "stem": "Hifil",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vhw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Predicado narrativo de separação",
+            "clauseId": "GEN.1.4.C3",
+            "governedBy": null,
+            "notesPt": "Hifil wayyiqtol, distinto do particípio Hifil em Gn 1:6."
+          },
+          "sensesPt": "Separar ou distinguir (Gn 1:4); Distinguir categorias ritual ou moralmente (Lv 10:10); Separar para uma função (Dt 10:8)"
+        },
+        {
+          "id": "GEN.1.4.8",
+          "index": 8,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito",
+            "clauseId": "GEN.1.4.C3",
+            "governedBy": "GEN.1.4.7",
+            "notesPt": "Deus é o agente da separação."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.4.9",
+          "index": 9,
+          "surfaceHe": "בֵּין",
+          "consonantalHe": "בין",
+          "translit": "bên",
+          "glossInContext": "entre",
+          "strong": "H996",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HR"
+          },
+          "syntax": {
+            "role": "prepositional_relation",
+            "roleLabel": "Primeiro membro de construção correlativa",
+            "clauseId": "GEN.1.4.C3",
+            "governedBy": "GEN.1.4.7",
+            "notesPt": "בֵּין introduz o primeiro termo contraposto."
+          },
+          "sensesPt": "Entre (Gn 1:4)"
+        },
+        {
+          "id": "GEN.1.4.10",
+          "index": 10,
+          "surfaceHe": "הָאוֹר",
+          "consonantalHe": "האור",
+          "translit": "hāʾôr",
+          "glossInContext": "a luz",
+          "strong": "H216",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "singular",
+            "rawCode": "HTd/Ncbsa"
+          },
+          "syntax": {
+            "role": "prepositional_complement",
+            "roleLabel": "Complemento do primeiro membro",
+            "clauseId": "GEN.1.4.C3",
+            "governedBy": "GEN.1.4.9",
+            "notesPt": "A luz é o primeiro domínio distinguido."
+          },
+          "sensesPt": "Luz física (Gn 1:3); Luz em sentido figurado (Sl 27:1)"
+        },
+        {
+          "id": "GEN.1.4.11",
+          "index": 11,
+          "surfaceHe": "וּבֵין",
+          "consonantalHe": "ובין",
+          "translit": "ûḇên",
+          "glossInContext": "e entre",
+          "strong": "H996",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HC/R"
+          },
+          "syntax": {
+            "role": "coordinated_preposition",
+            "roleLabel": "Segundo membro correlativo",
+            "clauseId": "GEN.1.4.C3",
+            "governedBy": "GEN.1.4.9",
+            "notesPt": "וּבֵין coordena o segundo termo ao primeiro, sem modificar o lema בֵּין."
+          },
+          "sensesPt": "Entre (Gn 1:4)"
+        },
+        {
+          "id": "GEN.1.4.12",
+          "index": 12,
+          "surfaceHe": "הַחֹשֶׁךְ",
+          "consonantalHe": "החשך",
+          "translit": "haḥōšeḵ",
+          "glossInContext": "as trevas",
+          "strong": "H2822",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HTd/Ncmsa"
+          },
+          "syntax": {
+            "role": "prepositional_complement",
+            "roleLabel": "Complemento do segundo membro",
+            "clauseId": "GEN.1.4.C3",
+            "governedBy": "GEN.1.4.11",
+            "notesPt": "As trevas constituem o segundo domínio distinguido."
+          },
+          "sensesPt": "Escuridão física (Gn 1:2); Trevas como imagem de juízo ou experiência negativa (Is 5:20)"
+        }
+      ],
+      "concordances": [
+        {
+          "strong": "H7200",
+          "lemmaHe": "רָאָה",
+          "lemmaTranslit": "rāʾâ",
+          "tokenCount": 1314,
+          "totalCount": 1206,
+          "countsBySection": {
+            "pentateuco": 366,
+            "profetas": 517,
+            "escritos": 323
+          }
+        },
+        {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "tokenCount": 2600,
+          "totalCount": 2246,
+          "countsBySection": {
+            "pentateuco": 683,
+            "profetas": 784,
+            "escritos": 779
+          }
+        },
+        {
+          "strong": "H853",
+          "lemmaHe": "אֵת",
+          "lemmaTranslit": "ʾēṯ",
+          "tokenCount": 10979,
+          "totalCount": 6782,
+          "countsBySection": {
+            "pentateuco": 2492,
+            "profetas": 3224,
+            "escritos": 1066
+          }
+        },
+        {
+          "strong": "H216",
+          "lemmaHe": "אוֹר",
+          "lemmaTranslit": "ʾôr",
+          "tokenCount": 121,
+          "totalCount": 110,
+          "countsBySection": {
+            "pentateuco": 5,
+            "profetas": 46,
+            "escritos": 59
+          }
+        },
+        {
+          "strong": "H3588",
+          "lemmaHe": "כִּי",
+          "lemmaTranslit": "kî",
+          "tokenCount": 4488,
+          "totalCount": 3910,
+          "countsBySection": {
+            "pentateuco": 927,
+            "profetas": 1823,
+            "escritos": 1160
+          }
+        },
+        {
+          "strong": "H2896",
+          "lemmaHe": "טוֹב",
+          "lemmaTranslit": "ṭôḇ",
+          "tokenCount": 565,
+          "totalCount": 521,
+          "countsBySection": {
+            "pentateuco": 80,
+            "profetas": 184,
+            "escritos": 257
+          }
+        },
+        {
+          "strong": "H914",
+          "lemmaHe": "בָּדַל",
+          "lemmaTranslit": "bāḏal",
+          "tokenCount": 42,
+          "totalCount": 40,
+          "countsBySection": {
+            "pentateuco": 21,
+            "profetas": 6,
+            "escritos": 13
+          }
+        },
+        {
+          "strong": "H996",
+          "lemmaHe": "בֵּין",
+          "lemmaTranslit": "bên",
+          "tokenCount": 410,
+          "totalCount": 248,
+          "countsBySection": {
+            "pentateuco": 91,
+            "profetas": 121,
+            "escritos": 36
+          }
+        },
+        {
+          "strong": "H2822",
+          "lemmaHe": "חֹשֶׁךְ",
+          "lemmaTranslit": "ḥōšeḵ",
+          "tokenCount": 80,
+          "totalCount": 77,
+          "countsBySection": {
+            "pentateuco": 9,
+            "profetas": 26,
+            "escritos": 42
+          }
+        }
+      ]
+    },
+    "5": {
+      "verseRef": "GEN.1.5",
+      "versePt": "Gn 1:5",
+      "translationPt": "Deus chamou à luz Dia, e às trevas chamou Noite. Houve tarde e houve manhã: dia um.",
+      "translationNotePt": "Tradução editorial própria; a ARA é referência de comparação, sem reprodução extensa. 'Dia um' preserva o numeral cardinal אֶחָד; a forma לָיְלָה é substantivo, não preposição לְ + 'noite'. As entradas excerptPt das concordâncias utilizam a Almeida 1911 (domínio público), exceto títulos massoréticos identificados como traduções editoriais. A numeração MT→português usa STEPBible TVTMS (CC BY 4.0).",
+      "wordCount": 13,
+      "lexemeCount": 10,
+      "totalReferenceRows": 9459,
+      "overviewPt": "A primeira oração apresenta o ato de nomear: וַיִּקְרָא ... לָאוֹר יוֹם, em que לְ marca a entidade à qual se atribui o nome. A segunda oração desloca a expressão וְלַחֹשֶׁךְ à frente de קָרָא, agora Qal perfeito 3ms; não se deve classificar esta forma como wayyiqtol. לָיְלָה é substantivo («noite»), apesar de começar com ל; não contém aqui preposição prefixada. As duas fórmulas וַיְהִי־עֶרֶב e וַיְהִי־בֹקֶר marcam a conclusão temporal. Em יוֹם אֶחָד, אֶחָד é numeral cardinal «um», diferentemente do ordinal שֵׁנִי de Gn 1:8. O termo יוֹם designa a luz nomeada em C1 e uma unidade temporal enumerada em C5: a distinção depende da posição na frase.",
+      "lexemes": {
+        "H7121": {
+          "strong": "H7121",
+          "lemmaHe": "קָרָא",
+          "lemmaTranslit": "qārāʾ",
+          "rootConsonants": "קרא",
+          "rootTranslit": "qrʾ",
+          "glossPt": "chamar; nomear; invocar",
+          "partOfSpeech": "verbo"
+        },
+        "H430": {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "Deus; deuses",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H216": {
+          "strong": "H216",
+          "lemmaHe": "אוֹר",
+          "lemmaTranslit": "ʾôr",
+          "rootConsonants": "אור",
+          "rootTranslit": "ʾwr",
+          "glossPt": "luz",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H3117": {
+          "strong": "H3117",
+          "lemmaHe": "יוֹם",
+          "lemmaTranslit": "yôm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "dia; período de luz; tempo",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H2822": {
+          "strong": "H2822",
+          "lemmaHe": "חֹשֶׁךְ",
+          "lemmaTranslit": "ḥōšeḵ",
+          "rootConsonants": "חשך",
+          "rootTranslit": "ḥšk",
+          "glossPt": "escuridão; trevas",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H3915": {
+          "strong": "H3915",
+          "lemmaHe": "לַיִל",
+          "lemmaTranslit": "layil",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "noite",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H1961": {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "rootConsonants": "היה",
+          "rootTranslit": "hyh",
+          "glossPt": "ser; estar; acontecer; tornar-se",
+          "partOfSpeech": "verbo"
+        },
+        "H6153": {
+          "strong": "H6153",
+          "lemmaHe": "עֶרֶב",
+          "lemmaTranslit": "ʿereḇ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "tarde; entardecer",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H1242": {
+          "strong": "H1242",
+          "lemmaHe": "בֹּקֶר",
+          "lemmaTranslit": "bōqer",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "manhã; alvorada",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H259": {
+          "strong": "H259",
+          "lemmaHe": "אֶחָד",
+          "lemmaTranslit": "ʾeḥāḏ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "um; unidade",
+          "partOfSpeech": "numeral cardinal"
+        }
+      },
+      "tokens": [
+        {
+          "id": "GEN.1.5.1",
+          "index": 1,
+          "surfaceHe": "וַיִּקְרָא",
+          "consonantalHe": "ויקרא",
+          "translit": "wayyiqrāʾ",
+          "glossInContext": "E chamou",
+          "strong": "H7121",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Verbo de nomeação",
+            "clauseId": "GEN.1.5.C1",
+            "governedBy": null,
+            "notesPt": "קָרָא com לְ e nome atribuído; corresponde à nomeação em Gn 1:8."
+          },
+          "sensesPt": "Chamar ou convocar (Gn 3:9); Dar nome (Gn 1:8); Invocar (Gn 12:8)"
+        },
+        {
+          "id": "GEN.1.5.2",
+          "index": 2,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito",
+            "clauseId": "GEN.1.5.C1",
+            "governedBy": "GEN.1.5.1",
+            "notesPt": "Deus é quem atribui o nome."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.5.3",
+          "index": 3,
+          "surfaceHe": "לָאוֹר",
+          "consonantalHe": "לאור",
+          "translit": "lāʾôr",
+          "glossInContext": "à luz",
+          "strong": "H216",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "comum",
+            "number": "singular",
+            "rawCode": "HRd/Ncbsa"
+          },
+          "syntax": {
+            "role": "naming_recipient",
+            "roleLabel": "Entidade nomeada",
+            "clauseId": "GEN.1.5.C1",
+            "governedBy": "GEN.1.5.1",
+            "notesPt": "לָאוֹר = לְ + artigo assimilado + substantivo 'luz'."
+          },
+          "sensesPt": "Luz física (Gn 1:3); Luz em sentido figurado (Sl 27:1)"
+        },
+        {
+          "id": "GEN.1.5.4",
+          "index": 4,
+          "surfaceHe": "יוֹם",
+          "consonantalHe": "יום",
+          "translit": "yôm",
+          "glossInContext": "dia",
+          "strong": "H3117",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "name_complement",
+            "roleLabel": "Nome atribuído",
+            "clauseId": "GEN.1.5.C1",
+            "governedBy": "GEN.1.5.1",
+            "notesPt": "יוֹם é nome dado ao domínio luminoso; diferenciar de 'dia' como unidade temporal."
+          },
+          "sensesPt": "Período de luz diurna (Gn 1:5); Dia como unidade temporal (Gn 1:8); Tempo ou ocasião em sentido amplo (Gn 2:4)"
+        },
+        {
+          "id": "GEN.1.5.5",
+          "index": 5,
+          "surfaceHe": "וְלַחֹשֶׁךְ",
+          "consonantalHe": "ולחשך",
+          "translit": "wəlaḥōšeḵ",
+          "glossInContext": "e às trevas",
+          "strong": "H2822",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Rd/Ncmsa"
+          },
+          "syntax": {
+            "role": "naming_recipient",
+            "roleLabel": "Entidade nomeada na oração coordenada",
+            "clauseId": "GEN.1.5.C2",
+            "governedBy": "GEN.1.5.6",
+            "notesPt": "וְלַחֹשֶׁךְ coordena a nomeação das trevas à anterior."
+          },
+          "sensesPt": "Escuridão física (Gn 1:2); Trevas como imagem de juízo ou experiência negativa (Is 5:20)"
+        },
+        {
+          "id": "GEN.1.5.6",
+          "index": 6,
+          "surfaceHe": "קָרָא",
+          "consonantalHe": "קרא",
+          "translit": "qārāʾ",
+          "glossInContext": "chamou",
+          "strong": "H7121",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "perfeito (qatal)",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HVqp3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Segundo verbo de nomeação",
+            "clauseId": "GEN.1.5.C2",
+            "governedBy": null,
+            "notesPt": "Qal perfeito, sujeito elíptico: Deus."
+          },
+          "sensesPt": "Chamar ou convocar (Gn 3:9); Dar nome (Gn 1:8); Invocar (Gn 12:8)"
+        },
+        {
+          "id": "GEN.1.5.7",
+          "index": 7,
+          "surfaceHe": "לָיְלָה",
+          "consonantalHe": "לילה",
+          "translit": "lāylāh",
+          "glossInContext": "noite",
+          "strong": "H3915",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "name_complement",
+            "roleLabel": "Nome atribuído",
+            "clauseId": "GEN.1.5.C2",
+            "governedBy": "GEN.1.5.6",
+            "notesPt": "לָיְלָה é substantivo 'noite', não preposição לְ + substantivo."
+          },
+          "sensesPt": "Noite (Gn 1:5, Êx 12:42)"
+        },
+        {
+          "id": "GEN.1.5.8",
+          "index": 8,
+          "surfaceHe": "וַיְהִי־",
+          "consonantalHe": "ויהי",
+          "translit": "wayhî",
+          "glossInContext": "e houve",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Predicado narrativo temporal",
+            "clauseId": "GEN.1.5.C3",
+            "governedBy": null,
+            "notesPt": "Primeira metade da fórmula 'houve tarde'."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.5.9",
+          "index": 9,
+          "surfaceHe": "עֶרֶב",
+          "consonantalHe": "ערב",
+          "translit": "ʿereḇ",
+          "glossInContext": "tarde",
+          "strong": "H6153",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito da fórmula temporal",
+            "clauseId": "GEN.1.5.C3",
+            "governedBy": "GEN.1.5.8",
+            "notesPt": "עֶרֶב é a tarde/entardecer."
+          },
+          "sensesPt": "Entardecer ou tarde (Gn 1:8, Gn 24:63)"
+        },
+        {
+          "id": "GEN.1.5.10",
+          "index": 10,
+          "surfaceHe": "וַיְהִי־",
+          "consonantalHe": "ויהי",
+          "translit": "wayhî",
+          "glossInContext": "e houve",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Predicado narrativo temporal",
+            "clauseId": "GEN.1.5.C4",
+            "governedBy": null,
+            "notesPt": "Segunda metade da fórmula 'houve manhã'."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.5.11",
+          "index": 11,
+          "surfaceHe": "בֹקֶר",
+          "consonantalHe": "בקר",
+          "translit": "ḇōqer",
+          "glossInContext": "manhã",
+          "strong": "H1242",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito da fórmula temporal",
+            "clauseId": "GEN.1.5.C4",
+            "governedBy": "GEN.1.5.10",
+            "notesPt": "בֹּקֶר denota a manhã."
+          },
+          "sensesPt": "Manhã ou alvorada (Gn 1:8, Gn 22:3)"
+        },
+        {
+          "id": "GEN.1.5.12",
+          "index": 12,
+          "surfaceHe": "יוֹם",
+          "consonantalHe": "יום",
+          "translit": "yôm",
+          "glossInContext": "dia",
+          "strong": "H3117",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "nominal_summary",
+            "roleLabel": "Núcleo nominal de conclusão",
+            "clauseId": "GEN.1.5.C5",
+            "governedBy": null,
+            "notesPt": "יוֹם introduz a enumeração da unidade temporal do primeiro dia."
+          },
+          "sensesPt": "Período de luz diurna (Gn 1:5); Dia como unidade temporal (Gn 1:8); Tempo ou ocasião em sentido amplo (Gn 2:4)"
+        },
+        {
+          "id": "GEN.1.5.13",
+          "index": 13,
+          "surfaceHe": "אֶחָד",
+          "consonantalHe": "אחד",
+          "translit": "ʾeḥāḏ",
+          "glossInContext": "um",
+          "strong": "H259",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HAcmsa"
+          },
+          "syntax": {
+            "role": "cardinal_modifier",
+            "roleLabel": "Numeral cardinal modificador",
+            "clauseId": "GEN.1.5.C5",
+            "governedBy": "GEN.1.5.12",
+            "notesPt": "אֶחָד é cardinal 'um', contrastando com ordinal שֵׁנִי em Gn 1:8."
+          },
+          "sensesPt": "Um (Gn 1:9); Unidade ou união (Gn 2:24)"
+        }
+      ],
+      "concordances": [
+        {
+          "strong": "H7121",
+          "lemmaHe": "קָרָא",
+          "lemmaTranslit": "qārāʾ",
+          "tokenCount": 739,
+          "totalCount": 689,
+          "countsBySection": {
+            "pentateuco": 183,
+            "profetas": 359,
+            "escritos": 147
+          }
+        },
+        {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "tokenCount": 2600,
+          "totalCount": 2246,
+          "countsBySection": {
+            "pentateuco": 683,
+            "profetas": 784,
+            "escritos": 779
+          }
+        },
+        {
+          "strong": "H216",
+          "lemmaHe": "אוֹר",
+          "lemmaTranslit": "ʾôr",
+          "tokenCount": 121,
+          "totalCount": 110,
+          "countsBySection": {
+            "pentateuco": 5,
+            "profetas": 46,
+            "escritos": 59
+          }
+        },
+        {
+          "strong": "H3117",
+          "lemmaHe": "יוֹם",
+          "lemmaTranslit": "yôm",
+          "tokenCount": 2304,
+          "totalCount": 1930,
+          "countsBySection": {
+            "pentateuco": 542,
+            "profetas": 937,
+            "escritos": 451
+          }
+        },
+        {
+          "strong": "H2822",
+          "lemmaHe": "חֹשֶׁךְ",
+          "lemmaTranslit": "ḥōšeḵ",
+          "tokenCount": 80,
+          "totalCount": 77,
+          "countsBySection": {
+            "pentateuco": 9,
+            "profetas": 26,
+            "escritos": 42
+          }
+        },
+        {
+          "strong": "H3915",
+          "lemmaHe": "לַיִל",
+          "lemmaTranslit": "layil",
+          "tokenCount": 235,
+          "totalCount": 223,
+          "countsBySection": {
+            "pentateuco": 60,
+            "profetas": 86,
+            "escritos": 77
+          }
+        },
+        {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "tokenCount": 3575,
+          "totalCount": 3131,
+          "countsBySection": {
+            "pentateuco": 919,
+            "profetas": 1663,
+            "escritos": 549
+          }
+        },
+        {
+          "strong": "H6153",
+          "lemmaHe": "עֶרֶב",
+          "lemmaTranslit": "ʿereḇ",
+          "tokenCount": 134,
+          "totalCount": 125,
+          "countsBySection": {
+            "pentateuco": 71,
+            "profetas": 28,
+            "escritos": 26
+          }
+        },
+        {
+          "strong": "H1242",
+          "lemmaHe": "בֹּקֶר",
+          "lemmaTranslit": "bōqer",
+          "tokenCount": 214,
+          "totalCount": 189,
+          "countsBySection": {
+            "pentateuco": 72,
+            "profetas": 74,
+            "escritos": 43
+          }
+        },
+        {
+          "strong": "H259",
+          "lemmaHe": "אֶחָד",
+          "lemmaTranslit": "ʾeḥāḏ",
+          "tokenCount": 976,
+          "totalCount": 739,
+          "countsBySection": {
+            "pentateuco": 295,
+            "profetas": 324,
+            "escritos": 120
+          }
+        }
+      ]
+    },
+    "6": {
+      "verseRef": "GEN.1.6",
+      "versePt": "Gn 1:6",
+      "translationPt": "E Deus disse: «Haja uma expansão no meio das águas, e que ela faça separação entre águas e águas.»",
+      "translationNotePt": "Tradução editorial própria. 'Expansão' representa רָקִיעַ; 'firmamento' é tradução tradicional. A segunda forma de היה (וִיהִי) prossegue a ordem divina. Em בֵּין מַיִם לָמָיִם, a preposição לְ introduz o segundo termo da comparação; não há artigo definido ou conjunção explícita em לָמָיִם. As entradas excerptPt das concordâncias utilizam a Almeida 1911 (domínio público), exceto títulos massoréticos identificados como traduções editoriais. A numeração MT→português usa STEPBible TVTMS (CC BY 4.0).",
+      "wordCount": 11,
+      "lexemeCount": 8,
+      "totalReferenceRows": 10932,
+      "overviewPt": "O discurso criacional começa com יְהִי רָקִיעַ, jussivo Qal 3ms, seguido de complemento espacial בְּתוֹךְ הַמָּיִם. בְּתוֹךְ é preposição בְּ + substantivo תָּוֶךְ em relação construta; não é um novo lema Strong autônomo para o prefixo. O segundo וִיהִי, codificado HVqi3ms com prefixo conjuntivo, deve ser interpretado no discurso como continuidade volitiva, e não como o wayyiqtol וַיְהִי do versículo 7. O particípio Hifil masculino singular מַבְדִּיל descreve a função da expansão: separar. A construção בֵּין מַיִם לָמָיִם contrapõe dois conjuntos de águas. Em לָמָיִם, a OSHB registra HR/Ncmpa (preposição + substantivo), sem artigo definido; uma tradução idiomática pode utilizar «e», mas o hebraico não contém conjunção nessa posição.",
+      "lexemes": {
+        "H559": {
+          "strong": "H559",
+          "lemmaHe": "אָמַר",
+          "lemmaTranslit": "ʾāmar",
+          "rootConsonants": "אמר",
+          "rootTranslit": "ʾmr",
+          "glossPt": "dizer; declarar; responder",
+          "partOfSpeech": "verbo"
+        },
+        "H430": {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "Deus; deuses",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H1961": {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "rootConsonants": "היה",
+          "rootTranslit": "hyh",
+          "glossPt": "ser; estar; acontecer; tornar-se",
+          "partOfSpeech": "verbo"
+        },
+        "H7549": {
+          "strong": "H7549",
+          "lemmaHe": "רָקִיעַ",
+          "lemmaTranslit": "rāqîaʿ",
+          "rootConsonants": "רקע",
+          "rootTranslit": "rqʿ",
+          "glossPt": "expansão; firmamento",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H8432": {
+          "strong": "H8432",
+          "lemmaHe": "תָּוֶךְ",
+          "lemmaTranslit": "tāweḵ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "interior; meio; centro",
+          "partOfSpeech": "substantivo"
+        },
+        "H4325": {
+          "strong": "H4325",
+          "lemmaHe": "מַיִם",
+          "lemmaTranslit": "mayim",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "água; águas",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H914": {
+          "strong": "H914",
+          "lemmaHe": "בָּדַל",
+          "lemmaTranslit": "bāḏal",
+          "rootConsonants": "בדל",
+          "rootTranslit": "bdl",
+          "glossPt": "separar; distinguir",
+          "partOfSpeech": "verbo"
+        },
+        "H996": {
+          "strong": "H996",
+          "lemmaHe": "בֵּין",
+          "lemmaTranslit": "bên",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "entre",
+          "partOfSpeech": "preposição relacional"
+        }
+      },
+      "tokens": [
+        {
+          "id": "GEN.1.6.1",
+          "index": 1,
+          "surfaceHe": "וַיֹּאמֶר",
+          "consonantalHe": "ויאמר",
+          "translit": "wayyōʾmer",
+          "glossInContext": "E disse",
+          "strong": "H559",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Verbo narrativo introdutor da fala",
+            "clauseId": "GEN.1.6.C1",
+            "governedBy": null,
+            "notesPt": "וַיֹּאמֶר introduz a nova ordem divina."
+          },
+          "sensesPt": "Dizer ou declarar (Gn 1:3); Responder ou dizer em diálogo (Gn 3:2)"
+        },
+        {
+          "id": "GEN.1.6.2",
+          "index": 2,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito",
+            "clauseId": "GEN.1.6.C1",
+            "governedBy": "GEN.1.6.1",
+            "notesPt": "Deus é o sujeito da declaração."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.6.3",
+          "index": 3,
+          "surfaceHe": "יְהִי",
+          "consonantalHe": "יהי",
+          "translit": "yəhî",
+          "glossInContext": "haja",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "jussivo",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HVqj3ms"
+          },
+          "syntax": {
+            "role": "volitive_predicate",
+            "roleLabel": "Jussivo existencial",
+            "clauseId": "GEN.1.6.C2",
+            "governedBy": null,
+            "notesPt": "יְהִי introduz a ordem para existir expansão."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.6.4",
+          "index": 4,
+          "surfaceHe": "רָקִיעַ",
+          "consonantalHe": "רקיע",
+          "translit": "rāqîaʿ",
+          "glossInContext": "expansão",
+          "strong": "H7549",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito do jussivo",
+            "clauseId": "GEN.1.6.C2",
+            "governedBy": "GEN.1.6.3",
+            "notesPt": "רָקִיעַ é o elemento cuja existência é ordenada."
+          },
+          "sensesPt": "Expansão ou firmamento (Gn 1:6, Gn 1:8); Superfície estendida na linguagem visionária (Ez 1:22)"
+        },
+        {
+          "id": "GEN.1.6.5",
+          "index": 5,
+          "surfaceHe": "בְּתוֹךְ",
+          "consonantalHe": "בתוך",
+          "translit": "bəṯôḵ",
+          "glossInContext": "no meio de",
+          "strong": "H8432",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HR/Ncmsc"
+          },
+          "syntax": {
+            "role": "locative_adjunct",
+            "roleLabel": "Adjunto locativo",
+            "clauseId": "GEN.1.6.C2",
+            "governedBy": "GEN.1.6.3",
+            "notesPt": "בְּתוֹךְ = preposição בְּ e substantivo תָּוֶךְ em construção relacional."
+          },
+          "sensesPt": "Meio ou interior (Gn 1:6); Entre pessoas ou no seio de um grupo (Gn 18:24)"
+        },
+        {
+          "id": "GEN.1.6.6",
+          "index": 6,
+          "surfaceHe": "הַמָּיִם",
+          "consonantalHe": "המים",
+          "translit": "hammāyim",
+          "glossInContext": "as águas",
+          "strong": "H4325",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HTd/Ncmpa"
+          },
+          "syntax": {
+            "role": "genitive_complement",
+            "roleLabel": "Complemento locativo",
+            "clauseId": "GEN.1.6.C2",
+            "governedBy": "GEN.1.6.5",
+            "notesPt": "As águas delimitam o meio em que a expansão é ordenada."
+          },
+          "sensesPt": "Água ou águas (Gn 1:6, Êx 7:20)"
+        },
+        {
+          "id": "GEN.1.6.7",
+          "index": 7,
+          "surfaceHe": "וִיהִי",
+          "consonantalHe": "ויהי",
+          "translit": "wîhî",
+          "glossInContext": "e que seja",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "imperfeito (yiqtol) (valor jussivo contextual)",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqi3ms"
+          },
+          "syntax": {
+            "role": "coordinated_volitive_predicate",
+            "roleLabel": "Jussivo coordenado",
+            "clauseId": "GEN.1.6.C3",
+            "governedBy": null,
+            "notesPt": "וִיהִי continua a ordem divina; não é wayyiqtol narrativo."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.6.8",
+          "index": 8,
+          "surfaceHe": "מַבְדִּיל",
+          "consonantalHe": "מבדיל",
+          "translit": "maḇdîl",
+          "glossInContext": "separando",
+          "strong": "H914",
+          "morphology": {
+            "stem": "Hifil",
+            "conjugation": "particípio ativo",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HVhrmsa"
+          },
+          "syntax": {
+            "role": "participle_complement",
+            "roleLabel": "Predicativo participial",
+            "clauseId": "GEN.1.6.C3",
+            "governedBy": "GEN.1.6.7",
+            "notesPt": "מַבְדִּיל é particípio Hifil masculino singular que descreve a função separadora."
+          },
+          "sensesPt": "Separar ou distinguir (Gn 1:4); Distinguir categorias ritual ou moralmente (Lv 10:10); Separar para uma função (Dt 10:8)"
+        },
+        {
+          "id": "GEN.1.6.9",
+          "index": 9,
+          "surfaceHe": "בֵּין",
+          "consonantalHe": "בין",
+          "translit": "bên",
+          "glossInContext": "entre",
+          "strong": "H996",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HR"
+          },
+          "syntax": {
+            "role": "prepositional_relation",
+            "roleLabel": "Primeiro membro da correlação",
+            "clauseId": "GEN.1.6.C3",
+            "governedBy": "GEN.1.6.8",
+            "notesPt": "בֵּין introduz o primeiro conjunto de águas."
+          },
+          "sensesPt": "Entre (Gn 1:4)"
+        },
+        {
+          "id": "GEN.1.6.10",
+          "index": 10,
+          "surfaceHe": "מַיִם",
+          "consonantalHe": "מים",
+          "translit": "mayim",
+          "glossInContext": "águas",
+          "strong": "H4325",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "prepositional_complement",
+            "roleLabel": "Primeiro conjunto de águas",
+            "clauseId": "GEN.1.6.C3",
+            "governedBy": "GEN.1.6.9",
+            "notesPt": "מַיִם ocorre sem artigo definido."
+          },
+          "sensesPt": "Água ou águas (Gn 1:6, Êx 7:20)"
+        },
+        {
+          "id": "GEN.1.6.11",
+          "index": 11,
+          "surfaceHe": "לָמָיִם",
+          "consonantalHe": "למים",
+          "translit": "lāmāyim",
+          "glossInContext": "e águas",
+          "strong": "H4325",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HR/Ncmpa"
+          },
+          "syntax": {
+            "role": "correlative_complement",
+            "roleLabel": "Segundo membro da correlação",
+            "clauseId": "GEN.1.6.C3",
+            "governedBy": "GEN.1.6.9",
+            "notesPt": "לָמָיִם é לְ + מַיִם, não há conjunção וְ nem artigo definido explícitos."
+          },
+          "sensesPt": "Água ou águas (Gn 1:6, Êx 7:20)"
+        }
+      ],
+      "concordances": [
+        {
+          "strong": "H559",
+          "lemmaHe": "אָמַר",
+          "lemmaTranslit": "ʾāmar",
+          "tokenCount": 5318,
+          "totalCount": 4337,
+          "countsBySection": {
+            "pentateuco": 1176,
+            "profetas": 2521,
+            "escritos": 640
+          }
+        },
+        {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "tokenCount": 2600,
+          "totalCount": 2246,
+          "countsBySection": {
+            "pentateuco": 683,
+            "profetas": 784,
+            "escritos": 779
+          }
+        },
+        {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "tokenCount": 3575,
+          "totalCount": 3131,
+          "countsBySection": {
+            "pentateuco": 919,
+            "profetas": 1663,
+            "escritos": 549
+          }
+        },
+        {
+          "strong": "H7549",
+          "lemmaHe": "רָקִיעַ",
+          "lemmaTranslit": "rāqîaʿ",
+          "tokenCount": 17,
+          "totalCount": 15,
+          "countsBySection": {
+            "pentateuco": 7,
+            "profetas": 5,
+            "escritos": 3
+          }
+        },
+        {
+          "strong": "H8432",
+          "lemmaHe": "תָּוֶךְ",
+          "lemmaTranslit": "tāweḵ",
+          "tokenCount": 420,
+          "totalCount": 390,
+          "countsBySection": {
+            "pentateuco": 123,
+            "profetas": 221,
+            "escritos": 46
+          }
+        },
+        {
+          "strong": "H4325",
+          "lemmaHe": "מַיִם",
+          "lemmaTranslit": "mayim",
+          "tokenCount": 582,
+          "totalCount": 525,
+          "countsBySection": {
+            "pentateuco": 180,
+            "profetas": 226,
+            "escritos": 119
+          }
+        },
+        {
+          "strong": "H914",
+          "lemmaHe": "בָּדַל",
+          "lemmaTranslit": "bāḏal",
+          "tokenCount": 42,
+          "totalCount": 40,
+          "countsBySection": {
+            "pentateuco": 21,
+            "profetas": 6,
+            "escritos": 13
+          }
+        },
+        {
+          "strong": "H996",
+          "lemmaHe": "בֵּין",
+          "lemmaTranslit": "bên",
+          "tokenCount": 410,
+          "totalCount": 248,
+          "countsBySection": {
+            "pentateuco": 91,
+            "profetas": 121,
+            "escritos": 36
+          }
+        }
+      ]
+    },
+    "7": {
+      "verseRef": "GEN.1.7",
+      "versePt": "Gn 1:7",
+      "translationPt": "Deus fez a expansão e separou as águas que estavam abaixo dela das águas que estavam acima dela. E assim aconteceu.",
+      "translationNotePt": "Tradução editorial própria; 'estavam' explicita em português a relação das orações relativas. 'Expansão' traduz רָקִיעַ, tradicionalmente 'firmamento'. Os prefixos מִן e לְ não devem ser confundidos com os respectivos lemas Strong. As entradas excerptPt das concordâncias utilizam a Almeida 1911 (domínio público), exceto títulos massoréticos identificados como traduções editoriais. A numeração MT→português usa STEPBible TVTMS (CC BY 4.0).",
+      "wordCount": 17,
+      "lexemeCount": 12,
+      "totalReferenceRows": 25393,
+      "overviewPt": "A forma Qal wayyiqtol וַיַּעַשׂ relata o cumprimento da ordem do versículo anterior; sua identidade lexical com עָשָׂה não autoriza confundi-la indiscriminadamente com בָּרָא. וַיַּבְדֵּל é Hifil wayyiqtol, também descritivo da realização da separação. As orações relativas introduzidas por אֲשֶׁר diferenciam os dois grupos de águas mediante posição relativa à expansão. מִתַּחַת e מֵעַל possuem preposições prefixadas e expressam respectivamente posição inferior e superior; seus códigos OSHB são compostos (HR/R). A duplicação de לָרָקִיעַ torna explícito o referente espacial comum. וַיְהִי־כֵן é fórmula narrativa de cumprimento, diferente do jussivo do versículo 6; ela não especifica mecanismos físicos não informados pelo texto.",
+      "lexemes": {
+        "H6213": {
+          "strong": "H6213",
+          "lemmaHe": "עָשָׂה",
+          "lemmaTranslit": "ʿāśâ",
+          "rootConsonants": "עשה",
+          "rootTranslit": "ʿśh",
+          "glossPt": "fazer; realizar; produzir",
+          "partOfSpeech": "verbo"
+        },
+        "H430": {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "Deus; deuses",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H853": {
+          "strong": "H853",
+          "lemmaHe": "אֵת",
+          "lemmaTranslit": "ʾēṯ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "marcador do objeto direto definido",
+          "partOfSpeech": "partícula"
+        },
+        "H7549": {
+          "strong": "H7549",
+          "lemmaHe": "רָקִיעַ",
+          "lemmaTranslit": "rāqîaʿ",
+          "rootConsonants": "רקע",
+          "rootTranslit": "rqʿ",
+          "glossPt": "expansão; firmamento",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H914": {
+          "strong": "H914",
+          "lemmaHe": "בָּדַל",
+          "lemmaTranslit": "bāḏal",
+          "rootConsonants": "בדל",
+          "rootTranslit": "bdl",
+          "glossPt": "separar; distinguir",
+          "partOfSpeech": "verbo"
+        },
+        "H996": {
+          "strong": "H996",
+          "lemmaHe": "בֵּין",
+          "lemmaTranslit": "bên",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "entre",
+          "partOfSpeech": "preposição relacional"
+        },
+        "H4325": {
+          "strong": "H4325",
+          "lemmaHe": "מַיִם",
+          "lemmaTranslit": "mayim",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "água; águas",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H834": {
+          "strong": "H834",
+          "lemmaHe": "אֲשֶׁר",
+          "lemmaTranslit": "ʾăšer",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "que; o qual",
+          "partOfSpeech": "partícula relativa"
+        },
+        "H8478": {
+          "strong": "H8478",
+          "lemmaHe": "תַּחַת",
+          "lemmaTranslit": "taḥaṯ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "debaixo; em lugar de",
+          "partOfSpeech": "termo relacional/preposição"
+        },
+        "H5921": {
+          "strong": "H5921",
+          "lemmaHe": "עַל",
+          "lemmaTranslit": "ʿal",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "sobre; acima; em relação a",
+          "partOfSpeech": "preposição"
+        },
+        "H1961": {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "rootConsonants": "היה",
+          "rootTranslit": "hyh",
+          "glossPt": "ser; estar; acontecer; tornar-se",
+          "partOfSpeech": "verbo"
+        },
+        "H3651": {
+          "strong": "H3651",
+          "lemmaHe": "כֵּן",
+          "lemmaTranslit": "kēn",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "assim; desse modo; portanto",
+          "partOfSpeech": "advérbio"
+        }
+      },
+      "tokens": [
+        {
+          "id": "GEN.1.7.1",
+          "index": 1,
+          "surfaceHe": "וַיַּעַשׂ",
+          "consonantalHe": "ויעש",
+          "translit": "wayyaʿaś",
+          "glossInContext": "E fez",
+          "strong": "H6213",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Verbo narrativo de realização",
+            "clauseId": "GEN.1.7.C1",
+            "governedBy": null,
+            "notesPt": "Qal wayyiqtol de עָשָׂה; realiza a ordem do versículo anterior."
+          },
+          "sensesPt": "Fazer ou produzir (Gn 1:7); Praticar ou agir (Gn 6:22)"
+        },
+        {
+          "id": "GEN.1.7.2",
+          "index": 2,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito",
+            "clauseId": "GEN.1.7.C1",
+            "governedBy": "GEN.1.7.1",
+            "notesPt": "O agente é Deus; o verbo está no singular."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.7.3",
+          "index": 3,
+          "surfaceHe": "אֶת־",
+          "consonantalHe": "את",
+          "translit": "ʾet",
+          "glossInContext": "[objeto direto]",
+          "strong": "H853",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HTo"
+          },
+          "syntax": {
+            "role": "object_marker",
+            "roleLabel": "Marcador de objeto definido",
+            "clauseId": "GEN.1.7.C1",
+            "governedBy": "GEN.1.7.1",
+            "notesPt": "אֶת־ introduz a expansão como objeto direto."
+          },
+          "sensesPt": "Marcador de objeto direto definido (Gn 1:1)"
+        },
+        {
+          "id": "GEN.1.7.4",
+          "index": 4,
+          "surfaceHe": "הָרָקִיעַ",
+          "consonantalHe": "הרקיע",
+          "translit": "hārāqîaʿ",
+          "glossInContext": "a expansão",
+          "strong": "H7549",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HTd/Ncmsa"
+          },
+          "syntax": {
+            "role": "direct_object",
+            "roleLabel": "Objeto direto",
+            "clauseId": "GEN.1.7.C1",
+            "governedBy": "GEN.1.7.1",
+            "notesPt": "A expansão é a entidade feita."
+          },
+          "sensesPt": "Expansão ou firmamento (Gn 1:6, Gn 1:8); Superfície estendida na linguagem visionária (Ez 1:22)"
+        },
+        {
+          "id": "GEN.1.7.5",
+          "index": 5,
+          "surfaceHe": "וַיַּבְדֵּל",
+          "consonantalHe": "ויבדל",
+          "translit": "wayyaḇdēl",
+          "glossInContext": "e separou",
+          "strong": "H914",
+          "morphology": {
+            "stem": "Hifil",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vhw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Verbo narrativo de separação",
+            "clauseId": "GEN.1.7.C2",
+            "governedBy": null,
+            "notesPt": "Hifil wayyiqtol: Deus efetuou a separação."
+          },
+          "sensesPt": "Separar ou distinguir (Gn 1:4); Distinguir categorias ritual ou moralmente (Lv 10:10); Separar para uma função (Dt 10:8)"
+        },
+        {
+          "id": "GEN.1.7.6",
+          "index": 6,
+          "surfaceHe": "בֵּין",
+          "consonantalHe": "בין",
+          "translit": "bên",
+          "glossInContext": "entre",
+          "strong": "H996",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HR"
+          },
+          "syntax": {
+            "role": "prepositional_relation",
+            "roleLabel": "Primeiro membro da separação",
+            "clauseId": "GEN.1.7.C2",
+            "governedBy": "GEN.1.7.5",
+            "notesPt": "בֵּין inicia a correlação preposicional."
+          },
+          "sensesPt": "Entre (Gn 1:4)"
+        },
+        {
+          "id": "GEN.1.7.7",
+          "index": 7,
+          "surfaceHe": "הַמַּיִם",
+          "consonantalHe": "המים",
+          "translit": "hammayim",
+          "glossInContext": "as águas",
+          "strong": "H4325",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HTd/Ncmpa"
+          },
+          "syntax": {
+            "role": "prepositional_complement",
+            "roleLabel": "Primeiras águas",
+            "clauseId": "GEN.1.7.C2",
+            "governedBy": "GEN.1.7.6",
+            "notesPt": "As primeiras águas são especificadas por oração relativa."
+          },
+          "sensesPt": "Água ou águas (Gn 1:6, Êx 7:20)"
+        },
+        {
+          "id": "GEN.1.7.8",
+          "index": 8,
+          "surfaceHe": "אֲשֶׁר",
+          "consonantalHe": "אשר",
+          "translit": "ʾăšer",
+          "glossInContext": "que",
+          "strong": "H834",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HTr"
+          },
+          "syntax": {
+            "role": "relative_marker",
+            "roleLabel": "Partícula relativa",
+            "clauseId": "GEN.1.7.C3",
+            "governedBy": "GEN.1.7.7",
+            "notesPt": "אֲשֶׁר introduz oração restritiva com predicado locativo implícito."
+          },
+          "sensesPt": "Que / o qual (relativo) (Gn 1:7, Gn 2:8)"
+        },
+        {
+          "id": "GEN.1.7.9",
+          "index": 9,
+          "surfaceHe": "מִתַּחַת",
+          "consonantalHe": "מתחת",
+          "translit": "mittaḥat",
+          "glossInContext": "debaixo de",
+          "strong": "H8478",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HR/R"
+          },
+          "syntax": {
+            "role": "relative_locative_predicate",
+            "roleLabel": "Predicado espacial da relativa",
+            "clauseId": "GEN.1.7.C3",
+            "governedBy": "GEN.1.7.8",
+            "notesPt": "מִתַּחַת marca posição inferior relativa à expansão."
+          },
+          "sensesPt": "Debaixo de (Gn 1:7); Em lugar de / em substituição a (Gn 4:25)"
+        },
+        {
+          "id": "GEN.1.7.10",
+          "index": 10,
+          "surfaceHe": "לָרָקִיעַ",
+          "consonantalHe": "לרקיע",
+          "translit": "lārāqîaʿ",
+          "glossInContext": "da expansão",
+          "strong": "H7549",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HRd/Ncmsa"
+          },
+          "syntax": {
+            "role": "prepositional_complement",
+            "roleLabel": "Referência da posição inferior",
+            "clauseId": "GEN.1.7.C3",
+            "governedBy": "GEN.1.7.9",
+            "notesPt": "לָרָקִיעַ refere-se à expansão determinada."
+          },
+          "sensesPt": "Expansão ou firmamento (Gn 1:6, Gn 1:8); Superfície estendida na linguagem visionária (Ez 1:22)"
+        },
+        {
+          "id": "GEN.1.7.11",
+          "index": 11,
+          "surfaceHe": "וּבֵין",
+          "consonantalHe": "ובין",
+          "translit": "ûḇên",
+          "glossInContext": "e entre",
+          "strong": "H996",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HC/R"
+          },
+          "syntax": {
+            "role": "coordinated_preposition",
+            "roleLabel": "Segundo membro da separação",
+            "clauseId": "GEN.1.7.C2",
+            "governedBy": "GEN.1.7.6",
+            "notesPt": "וּבֵין coordena o segundo conjunto às primeiras águas."
+          },
+          "sensesPt": "Entre (Gn 1:4)"
+        },
+        {
+          "id": "GEN.1.7.12",
+          "index": 12,
+          "surfaceHe": "הַמַּיִם",
+          "consonantalHe": "המים",
+          "translit": "hammayim",
+          "glossInContext": "as águas",
+          "strong": "H4325",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HTd/Ncmpa"
+          },
+          "syntax": {
+            "role": "prepositional_complement",
+            "roleLabel": "Segundas águas",
+            "clauseId": "GEN.1.7.C2",
+            "governedBy": "GEN.1.7.11",
+            "notesPt": "O segundo grupo é especificado pela relativa seguinte."
+          },
+          "sensesPt": "Água ou águas (Gn 1:6, Êx 7:20)"
+        },
+        {
+          "id": "GEN.1.7.13",
+          "index": 13,
+          "surfaceHe": "אֲשֶׁר",
+          "consonantalHe": "אשר",
+          "translit": "ʾăšer",
+          "glossInContext": "que",
+          "strong": "H834",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HTr"
+          },
+          "syntax": {
+            "role": "relative_marker",
+            "roleLabel": "Partícula relativa",
+            "clauseId": "GEN.1.7.C4",
+            "governedBy": "GEN.1.7.12",
+            "notesPt": "אֲשֶׁר introduz a segunda relativa simétrica à primeira."
+          },
+          "sensesPt": "Que / o qual (relativo) (Gn 1:7, Gn 2:8)"
+        },
+        {
+          "id": "GEN.1.7.14",
+          "index": 14,
+          "surfaceHe": "מֵעַל",
+          "consonantalHe": "מעל",
+          "translit": "mēʿal",
+          "glossInContext": "acima de",
+          "strong": "H5921",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HR/R"
+          },
+          "syntax": {
+            "role": "relative_locative_predicate",
+            "roleLabel": "Predicado espacial da relativa",
+            "clauseId": "GEN.1.7.C4",
+            "governedBy": "GEN.1.7.13",
+            "notesPt": "מֵעַל exprime posição superior, em contraste com מִתַּחַת."
+          },
+          "sensesPt": "Sobre ou acima de (Gn 1:2); Domínio ou autoridade sobre (Gn 1:26)"
+        },
+        {
+          "id": "GEN.1.7.15",
+          "index": 15,
+          "surfaceHe": "לָרָקִיעַ",
+          "consonantalHe": "לרקיע",
+          "translit": "lārāqîaʿ",
+          "glossInContext": "da expansão",
+          "strong": "H7549",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HRd/Ncmsa"
+          },
+          "syntax": {
+            "role": "prepositional_complement",
+            "roleLabel": "Referência da posição superior",
+            "clauseId": "GEN.1.7.C4",
+            "governedBy": "GEN.1.7.14",
+            "notesPt": "לָרָקִיעַ repete a referência espacial."
+          },
+          "sensesPt": "Expansão ou firmamento (Gn 1:6, Gn 1:8); Superfície estendida na linguagem visionária (Ez 1:22)"
+        },
+        {
+          "id": "GEN.1.7.16",
+          "index": 16,
+          "surfaceHe": "וַיְהִי־",
+          "consonantalHe": "ויהי",
+          "translit": "wayhî",
+          "glossInContext": "e aconteceu",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Verbo narrativo de cumprimento",
+            "clauseId": "GEN.1.7.C5",
+            "governedBy": null,
+            "notesPt": "וַיְהִי־ é wayyiqtol, diferente do jussivo וִיהִי de Gn 1:6."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.7.17",
+          "index": 17,
+          "surfaceHe": "כֵן",
+          "consonantalHe": "כן",
+          "translit": "kēn",
+          "glossInContext": "assim",
+          "strong": "H3651",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "",
+            "number": "",
+            "rawCode": "HD"
+          },
+          "syntax": {
+            "role": "adverbial_complement",
+            "roleLabel": "Advérbio de modo",
+            "clauseId": "GEN.1.7.C5",
+            "governedBy": "GEN.1.7.16",
+            "notesPt": "כֵּן completa 'assim aconteceu'."
+          },
+          "sensesPt": "Assim / desse modo (Gn 1:7); Por isso / portanto (Gn 2:24)"
+        }
+      ],
+      "concordances": [
+        {
+          "strong": "H6213",
+          "lemmaHe": "עָשָׂה",
+          "lemmaTranslit": "ʿāśâ",
+          "tokenCount": 2640,
+          "totalCount": 2286,
+          "countsBySection": {
+            "pentateuco": 744,
+            "profetas": 1012,
+            "escritos": 530
+          }
+        },
+        {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "tokenCount": 2600,
+          "totalCount": 2246,
+          "countsBySection": {
+            "pentateuco": 683,
+            "profetas": 784,
+            "escritos": 779
+          }
+        },
+        {
+          "strong": "H853",
+          "lemmaHe": "אֵת",
+          "lemmaTranslit": "ʾēṯ",
+          "tokenCount": 10979,
+          "totalCount": 6782,
+          "countsBySection": {
+            "pentateuco": 2492,
+            "profetas": 3224,
+            "escritos": 1066
+          }
+        },
+        {
+          "strong": "H7549",
+          "lemmaHe": "רָקִיעַ",
+          "lemmaTranslit": "rāqîaʿ",
+          "tokenCount": 17,
+          "totalCount": 15,
+          "countsBySection": {
+            "pentateuco": 7,
+            "profetas": 5,
+            "escritos": 3
+          }
+        },
+        {
+          "strong": "H914",
+          "lemmaHe": "בָּדַל",
+          "lemmaTranslit": "bāḏal",
+          "tokenCount": 42,
+          "totalCount": 40,
+          "countsBySection": {
+            "pentateuco": 21,
+            "profetas": 6,
+            "escritos": 13
+          }
+        },
+        {
+          "strong": "H996",
+          "lemmaHe": "בֵּין",
+          "lemmaTranslit": "bên",
+          "tokenCount": 410,
+          "totalCount": 248,
+          "countsBySection": {
+            "pentateuco": 91,
+            "profetas": 121,
+            "escritos": 36
+          }
+        },
+        {
+          "strong": "H4325",
+          "lemmaHe": "מַיִם",
+          "lemmaTranslit": "mayim",
+          "tokenCount": 582,
+          "totalCount": 525,
+          "countsBySection": {
+            "pentateuco": 180,
+            "profetas": 226,
+            "escritos": 119
+          }
+        },
+        {
+          "strong": "H834",
+          "lemmaHe": "אֲשֶׁר",
+          "lemmaTranslit": "ʾăšer",
+          "tokenCount": 5503,
+          "totalCount": 4440,
+          "countsBySection": {
+            "pentateuco": 1548,
+            "profetas": 2139,
+            "escritos": 753
+          }
+        },
+        {
+          "strong": "H8478",
+          "lemmaHe": "תַּחַת",
+          "lemmaTranslit": "taḥaṯ",
+          "tokenCount": 511,
+          "totalCount": 450,
+          "countsBySection": {
+            "pentateuco": 113,
+            "profetas": 202,
+            "escritos": 135
+          }
+        },
+        {
+          "strong": "H5921",
+          "lemmaHe": "עַל",
+          "lemmaTranslit": "ʿal",
+          "tokenCount": 5781,
+          "totalCount": 4493,
+          "countsBySection": {
+            "pentateuco": 1157,
+            "profetas": 2089,
+            "escritos": 1247
+          }
+        },
+        {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "tokenCount": 3575,
+          "totalCount": 3131,
+          "countsBySection": {
+            "pentateuco": 919,
+            "profetas": 1663,
+            "escritos": 549
+          }
+        },
+        {
+          "strong": "H3651",
+          "lemmaHe": "כֵּן",
+          "lemmaTranslit": "kēn",
+          "tokenCount": 771,
+          "totalCount": 737,
+          "countsBySection": {
+            "pentateuco": 174,
+            "profetas": 427,
+            "escritos": 136
+          }
+        }
+      ]
+    },
+    "8": {
+      "verseRef": "GEN.1.8",
+      "versePt": "Gn 1:8",
+      "translationPt": "Deus chamou à expansão Céu. Houve tarde e houve manhã: segundo dia.",
+      "translationNotePt": "Tradução editorial própria. 'Céu' verte שָׁמָיִם em função de nome atribuído; a forma hebraica possui morfologia plural. O numeral שֵׁנִי é ordinal, contrastando com o cardinal אֶחָד de Gn 1:5. As entradas excerptPt das concordâncias utilizam a Almeida 1911 (domínio público), exceto títulos massoréticos identificados como traduções editoriais. A numeração MT→português usa STEPBible TVTMS (CC BY 4.0).",
+      "wordCount": 10,
+      "lexemeCount": 9,
+      "totalReferenceRows": 8872,
+      "overviewPt": "A nomeação וַיִּקְרָא ... לָרָקִיעַ שָׁמָיִם retoma o padrão de Gn 1:5: à entidade introduzida por לְ é atribuído um nome. שָׁמָיִם tem forma morfológica plural, mas pode designar o «céu» como domínio contextual; disso não decorre que todos os usos bíblicos de «céu» e «expansão» sejam semanticamente idênticos. A repetição de וַיְהִי־עֶרֶב / וַיְהִי־בֹקֶר encerra o segundo dia. שֵׁנִי é numeral ordinal masculino singular (HAomsa), em contraste com o cardinal אֶחָד de Gn 1:5 (HAcmsa). O Texto Massorético de Gn 1:8 não contém a fórmula «Deus viu que era bom» após a nomeação; a Septuaginta apresenta a cláusula nessa posição. Essa diferença deve ser registrada como observação de crítica textual, sem inseri-la no hebraico WLC.",
+      "lexemes": {
+        "H7121": {
+          "strong": "H7121",
+          "lemmaHe": "קָרָא",
+          "lemmaTranslit": "qārāʾ",
+          "rootConsonants": "קרא",
+          "rootTranslit": "qrʾ",
+          "glossPt": "chamar; nomear; invocar",
+          "partOfSpeech": "verbo"
+        },
+        "H430": {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "Deus; deuses",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H7549": {
+          "strong": "H7549",
+          "lemmaHe": "רָקִיעַ",
+          "lemmaTranslit": "rāqîaʿ",
+          "rootConsonants": "רקע",
+          "rootTranslit": "rqʿ",
+          "glossPt": "expansão; firmamento",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H8064": {
+          "strong": "H8064",
+          "lemmaHe": "שָׁמַיִם",
+          "lemmaTranslit": "šāmayim",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "céu; céus",
+          "partOfSpeech": "substantivo de forma plural"
+        },
+        "H1961": {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "rootConsonants": "היה",
+          "rootTranslit": "hyh",
+          "glossPt": "ser; estar; acontecer; tornar-se",
+          "partOfSpeech": "verbo"
+        },
+        "H6153": {
+          "strong": "H6153",
+          "lemmaHe": "עֶרֶב",
+          "lemmaTranslit": "ʿereḇ",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "tarde; entardecer",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H1242": {
+          "strong": "H1242",
+          "lemmaHe": "בֹּקֶר",
+          "lemmaTranslit": "bōqer",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "manhã; alvorada",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H3117": {
+          "strong": "H3117",
+          "lemmaHe": "יוֹם",
+          "lemmaTranslit": "yôm",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "dia; período de luz; tempo",
+          "partOfSpeech": "substantivo masculino"
+        },
+        "H8145": {
+          "strong": "H8145",
+          "lemmaHe": "שֵׁנִי",
+          "lemmaTranslit": "šēnî",
+          "rootConsonants": "",
+          "rootTranslit": "",
+          "glossPt": "segundo; ordinal segundo",
+          "partOfSpeech": "numeral ordinal"
+        }
+      },
+      "tokens": [
+        {
+          "id": "GEN.1.8.1",
+          "index": 1,
+          "surfaceHe": "וַיִּקְרָא",
+          "consonantalHe": "ויקרא",
+          "translit": "wayyiqrāʾ",
+          "glossInContext": "E chamou",
+          "strong": "H7121",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Verbo narrativo de nomeação",
+            "clauseId": "GEN.1.8.C1",
+            "governedBy": null,
+            "notesPt": "וַיִּקְרָא relata a nomeação da expansão."
+          },
+          "sensesPt": "Chamar ou convocar (Gn 3:9); Dar nome (Gn 1:8); Invocar (Gn 12:8)"
+        },
+        {
+          "id": "GEN.1.8.2",
+          "index": 2,
+          "surfaceHe": "אֱלֹהִים",
+          "consonantalHe": "אלהים",
+          "translit": "ʾĕlōhîm",
+          "glossInContext": "Deus",
+          "strong": "H430",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Sujeito",
+            "clauseId": "GEN.1.8.C1",
+            "governedBy": "GEN.1.8.1",
+            "notesPt": "Deus nomeia a expansão."
+          },
+          "sensesPt": "Deus de Israel (Gn 1:1); Deuses (Êx 20:3)"
+        },
+        {
+          "id": "GEN.1.8.3",
+          "index": 3,
+          "surfaceHe": "לָרָקִיעַ",
+          "consonantalHe": "לרקיע",
+          "translit": "lārāqîaʿ",
+          "glossInContext": "à expansão",
+          "strong": "H7549",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HRd/Ncmsa"
+          },
+          "syntax": {
+            "role": "naming_recipient",
+            "roleLabel": "Entidade nomeada",
+            "clauseId": "GEN.1.8.C1",
+            "governedBy": "GEN.1.8.1",
+            "notesPt": "לָרָקִיעַ contém לְ e artigo assimilado; a expansão é o referente nomeado."
+          },
+          "sensesPt": "Expansão ou firmamento (Gn 1:6, Gn 1:8); Superfície estendida na linguagem visionária (Ez 1:22)"
+        },
+        {
+          "id": "GEN.1.8.4",
+          "index": 4,
+          "surfaceHe": "שָׁמָיִם",
+          "consonantalHe": "שמים",
+          "translit": "šāmayim",
+          "glossInContext": "Céu",
+          "strong": "H8064",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "plural",
+            "rawCode": "HNcmpa"
+          },
+          "syntax": {
+            "role": "name_complement",
+            "roleLabel": "Nome atribuído",
+            "clauseId": "GEN.1.8.C1",
+            "governedBy": "GEN.1.8.1",
+            "notesPt": "שָׁמָיִם é nome atribuído à expansão no contexto; forma nominal plural."
+          },
+          "sensesPt": "Céu ou espaço celeste (Gn 1:8); Céus em expressão abrangente (Gn 1:1)"
+        },
+        {
+          "id": "GEN.1.8.5",
+          "index": 5,
+          "surfaceHe": "וַיְהִי־",
+          "consonantalHe": "ויהי",
+          "translit": "wayhî",
+          "glossInContext": "e houve",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Primeiro verbo da fórmula temporal",
+            "clauseId": "GEN.1.8.C2",
+            "governedBy": null,
+            "notesPt": "וַיְהִי־עֶרֶב, narrativa de encerramento do dia."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.8.6",
+          "index": 6,
+          "surfaceHe": "עֶרֶב",
+          "consonantalHe": "ערב",
+          "translit": "ʿereḇ",
+          "glossInContext": "tarde",
+          "strong": "H6153",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Tarde / entardecer",
+            "clauseId": "GEN.1.8.C2",
+            "governedBy": "GEN.1.8.5",
+            "notesPt": "Primeiro termo da fórmula."
+          },
+          "sensesPt": "Entardecer ou tarde (Gn 1:8, Gn 24:63)"
+        },
+        {
+          "id": "GEN.1.8.7",
+          "index": 7,
+          "surfaceHe": "וַיְהִי־",
+          "consonantalHe": "ויהי",
+          "translit": "wayhî",
+          "glossInContext": "e houve",
+          "strong": "H1961",
+          "morphology": {
+            "stem": "Qal",
+            "conjugation": "wayyiqtol",
+            "person": "terceira",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HC/Vqw3ms"
+          },
+          "syntax": {
+            "role": "predicate",
+            "roleLabel": "Segundo verbo da fórmula temporal",
+            "clauseId": "GEN.1.8.C3",
+            "governedBy": null,
+            "notesPt": "וַיְהִי־בֹקֶר reproduz o paralelismo."
+          },
+          "sensesPt": "Ser ou estar (Gn 1:2); Acontecer ou ocorrer (Gn 1:7); Tornar-se (Gn 2:7)"
+        },
+        {
+          "id": "GEN.1.8.8",
+          "index": 8,
+          "surfaceHe": "בֹקֶר",
+          "consonantalHe": "בקר",
+          "translit": "ḇōqer",
+          "glossInContext": "manhã",
+          "strong": "H1242",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "subject",
+            "roleLabel": "Manhã / alvorada",
+            "clauseId": "GEN.1.8.C3",
+            "governedBy": "GEN.1.8.7",
+            "notesPt": "Segundo termo da fórmula."
+          },
+          "sensesPt": "Manhã ou alvorada (Gn 1:8, Gn 22:3)"
+        },
+        {
+          "id": "GEN.1.8.9",
+          "index": 9,
+          "surfaceHe": "יוֹם",
+          "consonantalHe": "יום",
+          "translit": "yôm",
+          "glossInContext": "dia",
+          "strong": "H3117",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HNcmsa"
+          },
+          "syntax": {
+            "role": "nominal_summary",
+            "roleLabel": "Núcleo da conclusão temporal",
+            "clauseId": "GEN.1.8.C4",
+            "governedBy": null,
+            "notesPt": "יוֹם corresponde à unidade temporal enumerada."
+          },
+          "sensesPt": "Período de luz diurna (Gn 1:5); Dia como unidade temporal (Gn 1:8); Tempo ou ocasião em sentido amplo (Gn 2:4)"
+        },
+        {
+          "id": "GEN.1.8.10",
+          "index": 10,
+          "surfaceHe": "שֵׁנִי",
+          "consonantalHe": "שני",
+          "translit": "šēnî",
+          "glossInContext": "segundo",
+          "strong": "H8145",
+          "morphology": {
+            "stem": "",
+            "conjugation": "",
+            "person": "",
+            "gender": "masculino",
+            "number": "singular",
+            "rawCode": "HAomsa"
+          },
+          "syntax": {
+            "role": "ordinal_modifier",
+            "roleLabel": "Ordinal modificador",
+            "clauseId": "GEN.1.8.C4",
+            "governedBy": "GEN.1.8.9",
+            "notesPt": "שֵׁנִי é ordinal masculino singular, distinto do cardinal אֶחָד em Gn 1:5."
+          },
+          "sensesPt": "Segundo (ordinal) (Gn 1:8)"
+        }
+      ],
+      "concordances": [
+        {
+          "strong": "H7121",
+          "lemmaHe": "קָרָא",
+          "lemmaTranslit": "qārāʾ",
+          "tokenCount": 739,
+          "totalCount": 689,
+          "countsBySection": {
+            "pentateuco": 183,
+            "profetas": 359,
+            "escritos": 147
+          }
+        },
+        {
+          "strong": "H430",
+          "lemmaHe": "אֱלֹהִים",
+          "lemmaTranslit": "ʾĕlōhîm",
+          "tokenCount": 2600,
+          "totalCount": 2246,
+          "countsBySection": {
+            "pentateuco": 683,
+            "profetas": 784,
+            "escritos": 779
+          }
+        },
+        {
+          "strong": "H7549",
+          "lemmaHe": "רָקִיעַ",
+          "lemmaTranslit": "rāqîaʿ",
+          "tokenCount": 17,
+          "totalCount": 15,
+          "countsBySection": {
+            "pentateuco": 7,
+            "profetas": 5,
+            "escritos": 3
+          }
+        },
+        {
+          "strong": "H8064",
+          "lemmaHe": "שָׁמַיִם",
+          "lemmaTranslit": "šāmayim",
+          "tokenCount": 421,
+          "totalCount": 395,
+          "countsBySection": {
+            "pentateuco": 92,
+            "profetas": 145,
+            "escritos": 158
+          }
+        },
+        {
+          "strong": "H1961",
+          "lemmaHe": "הָיָה",
+          "lemmaTranslit": "hāyâ",
+          "tokenCount": 3575,
+          "totalCount": 3131,
+          "countsBySection": {
+            "pentateuco": 919,
+            "profetas": 1663,
+            "escritos": 549
+          }
+        },
+        {
+          "strong": "H6153",
+          "lemmaHe": "עֶרֶב",
+          "lemmaTranslit": "ʿereḇ",
+          "tokenCount": 134,
+          "totalCount": 125,
+          "countsBySection": {
+            "pentateuco": 71,
+            "profetas": 28,
+            "escritos": 26
+          }
+        },
+        {
+          "strong": "H1242",
+          "lemmaHe": "בֹּקֶר",
+          "lemmaTranslit": "bōqer",
+          "tokenCount": 214,
+          "totalCount": 189,
+          "countsBySection": {
+            "pentateuco": 72,
+            "profetas": 74,
+            "escritos": 43
+          }
+        },
+        {
+          "strong": "H3117",
+          "lemmaHe": "יוֹם",
+          "lemmaTranslit": "yôm",
+          "tokenCount": 2304,
+          "totalCount": 1930,
+          "countsBySection": {
+            "pentateuco": 542,
+            "profetas": 937,
+            "escritos": 451
+          }
+        },
+        {
+          "strong": "H8145",
+          "lemmaHe": "שֵׁנִי",
+          "lemmaTranslit": "šēnî",
+          "tokenCount": 157,
+          "totalCount": 152,
+          "countsBySection": {
+            "pentateuco": 60,
+            "profetas": 49,
+            "escritos": 43
+          }
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "tokens": 90,
+    "distinctStrong": 36,
+    "totalReferenceRowsAcrossVerses": 106289,
+    "verseCount": 8
+  }
+}
