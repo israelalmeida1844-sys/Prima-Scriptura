@@ -1,0 +1,64 @@
+---
+import Base from '../../../layouts/Base.astro';
+const verses=Array.from({length:8},(_,i)=>i+1);
+---
+<Base title="Gênesis — Comentário bíblico em avaliação" description="Primeiros oito versículos de Gênesis com texto hebraico, transliteração, exegese lexical e concordâncias completas.">
+  <section class="genesis-site">
+    <div class="wrap">
+      <nav class="genesis-crumbs" aria-label="Caminho de navegação">
+        <a href="/comentarios/">Comentários bíblicos</a><span aria-hidden="true">/</span><span aria-current="page">Gênesis</span>
+      </nav>
+      <div class="genesis-hero">
+        <p class="genesis-overline">ANTIGO TESTAMENTO · TEXTO ORIGINAL E EXEGESE</p>
+        <h1>Gênesis</h1>
+        <p>Um estudo do texto hebraico, palavra por palavra: traduções editoriais, morfologia, explicações lexicais e concordâncias verificadas no corpus bíblico.</p>
+        <span class="genesis-status">Edição de avaliação · Conteúdo parcial</span>
+      </div>
+      <div class="genesis-metadata" aria-label="Estado do projeto">
+        <div><span>Livro bíblico</span><strong>Gênesis</strong></div>
+        <div><span>Capítulos do livro</span><strong>50</strong></div>
+        <div><span>Em avaliação</span><strong>1:1–8</strong></div>
+        <div><span>Fonte textual</span><strong>WLC / OSHB</strong></div>
+      </div>
+      <div class="genesis-section-heading">
+        <div><p class="genesis-overline">ÍNDICE DE LEITURA</p><h2>Capítulos e versículos</h2></div>
+        <p>O primeiro capítulo está em preparação. Você pode avaliar os oito primeiros versículos com todos os recursos interlineares.</p>
+      </div>
+      <a class="genesis-chapter" href="/comentarios/genesis/capitulo-1/">
+        <div><span class="genesis-label">CAPÍTULO 01 · EM DESENVOLVIMENTO</span><h3>A criação — Gênesis 1</h3><p>Versículos 1 a 8 disponíveis para avaliação. Os versículos 9 a 31 ainda não foram preparados.</p></div>
+        <span class="genesis-link">Ver versículos disponíveis <span aria-hidden="true">→</span></span>
+      </a>
+      <div class="genesis-verse-grid" aria-label="Versículos preparados">
+        {verses.map(v=><a href={'/comentarios/genesis/capitulo-1/versiculo-'+v+'/'} aria-label={'Estudar Gênesis 1:'+v}><span>Gn 1:{v}</span><strong>Versículo {v}</strong><small>Texto hebraico e concordâncias <span aria-hidden="true">→</span></small></a>)}
+      </div>
+      <p class="genesis-note">Esta edição destina-se à avaliação do projeto. Os demais capítulos não possuem comentários concluídos e não são apresentados como disponíveis. Os dados dos lemas são provenientes da OSHB v.2.2 (CC BY 4.0).</p>
+    </div>
+  </section>
+</Base>
+<style>
+.genesis-site{font-family:'Times New Roman',Times,serif;padding:42px 0 84px}
+.genesis-site :is(h1,h2,h3,p,a,span,strong,small){font-family:'Times New Roman',Times,serif}
+.genesis-crumbs{display:flex;gap:12px;align-items:center;font-size:14px;margin-bottom:35px;color:#607086}
+.genesis-crumbs a{text-decoration:underline;text-underline-offset:3px}
+.genesis-hero{background:linear-gradient(120deg,#11243d,#2a4867);color:#f3f4f7;padding:clamp(26px,6vw,66px);border-radius:15px;margin-bottom:24px}
+.genesis-overline{color:#bc9654;text-transform:uppercase;font-size:13px;letter-spacing:.11em;font-weight:700}
+.genesis-hero .genesis-overline{color:#f0c786}
+.genesis-hero h1{color:white;font-size:clamp(40px,6vw,68px);margin:6px 0 15px}
+.genesis-hero>p:not(.genesis-overline){font-size:clamp(17px,2vw,21px);max-width:770px;line-height:1.65}
+.genesis-status{display:inline-block;background:#ffffff18;border:1px solid #ffffff55;padding:5px 14px;border-radius:100px;font-size:14px}
+.genesis-metadata{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:22px 0 45px}
+.genesis-metadata>div{display:flex;flex-direction:column;background:#fff;border:1px solid #e0dacc;padding:17px 18px;border-radius:9px}
+.genesis-metadata span{color:#697789;font-size:13px}.genesis-metadata strong{font-size:19px;color:#142b4c}
+.genesis-section-heading{display:flex;justify-content:space-between;gap:22px;align-items:end}
+.genesis-section-heading h2{margin:5px 0 16px}.genesis-section-heading>p{max-width:380px;line-height:1.5;color:#647083}
+.genesis-chapter{display:flex;justify-content:space-between;align-items:center;gap:18px;background:white;border:1px solid #d6c6aa;padding:24px;border-radius:11px}
+.genesis-chapter:hover,.genesis-verse-grid a:hover{border-color:#ab813e;background:#faf6eb}
+.genesis-chapter h3{margin:9px 0;font-size:24px}.genesis-chapter p{color:#66768b;margin:0}
+.genesis-label{color:#936d36;font-size:12px;font-weight:700}.genesis-link{color:#906b34;font-size:15px;font-weight:700;white-space:nowrap}
+.genesis-verse-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px;margin:18px 0 35px}
+.genesis-verse-grid a{background:white;border:1px solid #e4dccf;border-radius:10px;padding:17px;display:flex;flex-direction:column;gap:5px}
+.genesis-verse-grid a>span{font-size:12px;color:#876735}.genesis-verse-grid strong{font-size:19px}.genesis-verse-grid small{color:#69798a;font-size:12px}
+.genesis-note{border-top:1px solid #e4ded2;padding-top:20px;color:#66768b;font-size:14px;line-height:1.6}
+@media(max-width:750px){.genesis-metadata{grid-template-columns:repeat(2,minmax(0,1fr))}.genesis-verse-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.genesis-chapter,.genesis-section-heading{display:block}.genesis-link{display:block;margin-top:15px;white-space:normal}}
+@media(max-width:355px){.genesis-verse-grid{grid-template-columns:1fr}}
+</style>
