@@ -1,0 +1,547 @@
+{
+  "strong": "G4245",
+  "lemma": "πρεσβύτερος",
+  "lemmaTranslit": "presbyteros",
+  "tokenCount": 65,
+  "verseCount": 65,
+  "bookDistribution": {
+    "Mateus": 12,
+    "Marcos": 7,
+    "Lucas": 5,
+    "Atos": 18,
+    "1 Timóteo": 4,
+    "Tito": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "1 Pedro": 2,
+    "2 João": 1,
+    "3 João": 1,
+    "Apocalipse": 12
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Mt 15:2",
+      "text": "τῶν πρεσβυτέρων; οὐ",
+      "highlightedWord": "πρεσβυτέρων;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Mt 16:21",
+      "text": "τῶν πρεσβυτέρων καὶ",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Mt 21:23",
+      "text": "οἱ πρεσβύτεροι τοῦ",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 3,
+      "reference": "Mt 26:3",
+      "text": "οἱ πρεσβύτεροι τοῦ",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 47,
+      "reference": "Mt 26:47",
+      "text": "καὶ πρεσβυτέρων τοῦ",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 57,
+      "reference": "Mt 26:57",
+      "text": "οἱ πρεσβύτεροι συνήχθησαν.",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 1,
+      "reference": "Mt 27:1",
+      "text": "οἱ πρεσβύτεροι τοῦ",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 3,
+      "reference": "Mt 27:3",
+      "text": "καὶ πρεσβυτέροις",
+      "highlightedWord": "πρεσβυτέροις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Mt 27:12",
+      "text": "καὶ πρεσβυτέρων οὐδὲν",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 20,
+      "reference": "Mt 27:20",
+      "text": "οἱ πρεσβύτεροι ἔπεισαν",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 41,
+      "reference": "Mt 27:41",
+      "text": "καὶ πρεσβυτέρων ἔλεγον·",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 12,
+      "reference": "Mt 28:12",
+      "text": "τῶν πρεσβυτέρων συμβούλιόν",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Mk 7:3",
+      "text": "τῶν πρεσβυτέρων,",
+      "highlightedWord": "πρεσβυτέρων,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Mk 7:5",
+      "text": "τῶν πρεσβυτέρων, ἀλλὰ",
+      "highlightedWord": "πρεσβυτέρων,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mk 8:31",
+      "text": "τῶν πρεσβυτέρων καὶ",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Mk 11:27",
+      "text": "οἱ πρεσβύτεροι",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 43,
+      "reference": "Mk 14:43",
+      "text": "τῶν πρεσβυτέρων.",
+      "highlightedWord": "πρεσβυτέρων."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 53,
+      "reference": "Mk 14:53",
+      "text": "οἱ πρεσβύτεροι καὶ",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Mk 15:1",
+      "text": "τῶν πρεσβυτέρων καὶ",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Lk 7:3",
+      "text": "αὐτὸν πρεσβυτέρους τῶν",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Lk 9:22",
+      "text": "τῶν πρεσβυτέρων καὶ",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Lk 15:25",
+      "text": "ὁ πρεσβύτερος ἐν",
+      "highlightedWord": "πρεσβύτερος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Lk 20:1",
+      "text": "τοῖς πρεσβυτέροις,",
+      "highlightedWord": "πρεσβυτέροις,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 52,
+      "reference": "Lk 22:52",
+      "text": "καὶ πρεσβυτέρους· Ὡς",
+      "highlightedWord": "πρεσβυτέρους·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ac 2:17",
+      "text": "οἱ πρεσβύτεροι ὑμῶν",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Ac 4:5",
+      "text": "τοὺς πρεσβυτέρους καὶ",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Ac 4:8",
+      "text": "καὶ πρεσβύτεροι,",
+      "highlightedWord": "πρεσβύτεροι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Ac 4:23",
+      "text": "οἱ πρεσβύτεροι εἶπαν.",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Ac 6:12",
+      "text": "τοὺς πρεσβυτέρους καὶ",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Ac 11:30",
+      "text": "τοὺς πρεσβυτέρους διὰ",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Ac 14:23",
+      "text": "ἐκκλησίαν πρεσβυτέρους προσευξάμενοι",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ac 15:2",
+      "text": "καὶ πρεσβυτέρους εἰς",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Ac 15:4",
+      "text": "τῶν πρεσβυτέρων, ἀνήγγειλάν",
+      "highlightedWord": "πρεσβυτέρων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Ac 15:6",
+      "text": "οἱ πρεσβύτεροι ἰδεῖν",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Ac 15:22",
+      "text": "τοῖς πρεσβυτέροις σὺν",
+      "highlightedWord": "πρεσβυτέροις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Ac 15:23",
+      "text": "οἱ πρεσβύτεροι ἀδελφοὶ",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Ac 16:4",
+      "text": "καὶ πρεσβυτέρων τῶν",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Ac 20:17",
+      "text": "τοὺς πρεσβυτέρους τῆς",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Ac 21:18",
+      "text": "οἱ πρεσβύτεροι.",
+      "highlightedWord": "πρεσβύτεροι."
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Ac 23:14",
+      "text": "τοῖς πρεσβυτέροις εἶπαν·",
+      "highlightedWord": "πρεσβυτέροις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Ac 24:1",
+      "text": "μετὰ πρεσβυτέρων τινῶν",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Ac 25:15",
+      "text": "οἱ πρεσβύτεροι τῶν",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Ti 5:1",
+      "text": "Πρεσβυτέρῳ μὴ",
+      "highlightedWord": "Πρεσβυτέρῳ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Ti 5:2",
+      "text": "πρεσβυτέρας ὡς",
+      "highlightedWord": "πρεσβυτέρας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "1Ti 5:17",
+      "text": "προεστῶτες πρεσβύτεροι διπλῆς",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Ti 5:19",
+      "text": "κατὰ πρεσβυτέρου κατηγορίαν",
+      "highlightedWord": "πρεσβυτέρου"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Tit 1:5",
+      "text": "πόλιν πρεσβυτέρους, ὡς",
+      "highlightedWord": "πρεσβυτέρους,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Heb 11:2",
+      "text": "οἱ πρεσβύτεροι.",
+      "highlightedWord": "πρεσβύτεροι."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Jas 5:14",
+      "text": "τοὺς πρεσβυτέρους τῆς",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Pe 5:1",
+      "text": "Πρεσβυτέρους οὖν",
+      "highlightedWord": "Πρεσβυτέρους"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Pe 5:5",
+      "text": "ὑποτάγητε πρεσβυτέροις. πάντες",
+      "highlightedWord": "πρεσβυτέροις."
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Jn 1:1",
+      "text": "Ὁ πρεσβύτερος ἐκλεκτῇ",
+      "highlightedWord": "πρεσβύτερος"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "3Jn 1:1",
+      "text": "Ὁ πρεσβύτερος Γαΐῳ",
+      "highlightedWord": "πρεσβύτερος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "τέσσαρας πρεσβυτέρους καθημένους",
+      "highlightedWord": "πρεσβυτέρους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Re 4:10",
+      "text": "τέσσαρες πρεσβύτεροι ἐνώπιον",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Re 5:5",
+      "text": "τῶν πρεσβυτέρων λέγει",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Re 5:6",
+      "text": "τῶν πρεσβυτέρων ἀρνίον",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "τέσσαρες πρεσβύτεροι ἔπεσαν",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Re 5:11",
+      "text": "τῶν πρεσβυτέρων, καὶ",
+      "highlightedWord": "πρεσβυτέρων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Re 5:14",
+      "text": "οἱ πρεσβύτεροι ἔπεσαν",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Re 7:11",
+      "text": "τῶν πρεσβυτέρων καὶ",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Re 7:13",
+      "text": "τῶν πρεσβυτέρων λέγων",
+      "highlightedWord": "πρεσβυτέρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Re 11:16",
+      "text": "τέσσαρες πρεσβύτεροι οἱ",
+      "highlightedWord": "πρεσβύτεροι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Re 14:3",
+      "text": "τῶν πρεσβυτέρων· καὶ",
+      "highlightedWord": "πρεσβυτέρων·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Re 19:4",
+      "text": "οἱ πρεσβύτεροι οἱ",
+      "highlightedWord": "πρεσβύτεροι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

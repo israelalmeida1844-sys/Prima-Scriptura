@@ -1,0 +1,75 @@
+{
+  "strong": "G3693",
+  "lemma": "ὄπισθεν",
+  "lemmaTranslit": "opisthen",
+  "tokenCount": 7,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Marcos": 1,
+    "Lucas": 2,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Mt 9:20",
+      "text": "προσελθοῦσα ὄπισθεν ἥψατο",
+      "highlightedWord": "ὄπισθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Mt 15:23",
+      "text": "κράζει ὄπισθεν ἡμῶν.",
+      "highlightedWord": "ὄπισθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Mk 5:27",
+      "text": "ὄχλῳ ὄπισθεν ἥψατο",
+      "highlightedWord": "ὄπισθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Lk 8:44",
+      "text": "προσελθοῦσα ὄπισθεν ἥψατο",
+      "highlightedWord": "ὄπισθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 26,
+      "reference": "Lk 23:26",
+      "text": "φέρειν ὄπισθεν τοῦ",
+      "highlightedWord": "ὄπισθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "καὶ ὄπισθεν·",
+      "highlightedWord": "ὄπισθεν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Re 5:1",
+      "text": "καὶ ὄπισθεν, κατεσφραγισμένον",
+      "highlightedWord": "ὄπισθεν,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

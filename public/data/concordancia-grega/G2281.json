@@ -1,0 +1,683 @@
+{
+  "strong": "G2281",
+  "lemma": "θάλασσα",
+  "lemmaTranslit": "thalassa",
+  "tokenCount": 90,
+  "verseCount": 82,
+  "bookDistribution": {
+    "Mateus": 16,
+    "Marcos": 19,
+    "Lucas": 3,
+    "João": 9,
+    "Atos": 9,
+    "Romanos": 1,
+    "1 Coríntios": 2,
+    "2 Coríntios": 1,
+    "Hebreus": 2,
+    "Tiago": 1,
+    "Judas": 1,
+    "Apocalipse": 26
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Mt 4:15",
+      "text": "ὁδὸν θαλάσσης, πέραν",
+      "highlightedWord": "θαλάσσης,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Mt 4:18",
+      "text": "τὴν θάλασσαν τῆς",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Mt 8:24",
+      "text": "τῇ θαλάσσῃ, ὥστε",
+      "highlightedWord": "θαλάσσῃ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Mt 8:26",
+      "text": "τῇ θαλάσσῃ, καὶ",
+      "highlightedWord": "θαλάσσῃ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Mt 8:27",
+      "text": "ἡ θάλασσα αὐτῷ",
+      "highlightedWord": "θάλασσα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Mt 8:32",
+      "text": "τὴν θάλασσαν, καὶ",
+      "highlightedWord": "θάλασσαν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mt 13:1",
+      "text": "τὴν θάλασσαν·",
+      "highlightedWord": "θάλασσαν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 47,
+      "reference": "Mt 13:47",
+      "text": "τὴν θάλασσαν καὶ",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mt 14:25",
+      "text": "τὴν θάλασσαν.",
+      "highlightedWord": "θάλασσαν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Mt 14:26",
+      "text": "τῆς θαλάσσης περιπατοῦντα",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mt 15:29",
+      "text": "τὴν θάλασσαν τῆς",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "εἰς θάλασσαν βάλε",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Mt 18:6",
+      "text": "τῆς θαλάσσης.",
+      "highlightedWord": "θαλάσσης."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Mt 21:21",
+      "text": "τὴν θάλασσαν, γενήσεται·",
+      "highlightedWord": "θάλασσαν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Mt 23:15",
+      "text": "τὴν θάλασσαν καὶ",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Mk 1:16",
+      "text": "τὴν θάλασσαν τῆς",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mk 2:13",
+      "text": "τὴν θάλασσαν· καὶ",
+      "highlightedWord": "θάλασσαν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Mk 3:7",
+      "text": "τὴν θάλασσαν· καὶ",
+      "highlightedWord": "θάλασσαν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Mk 4:1",
+      "text": "τὴν θάλασσαν. καὶ",
+      "highlightedWord": "θάλασσαν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 39,
+      "reference": "Mk 4:39",
+      "text": "τῇ θαλάσσῃ· Σιώπα,",
+      "highlightedWord": "θαλάσσῃ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Mk 4:41",
+      "text": "ἡ θάλασσα ὑπακούει",
+      "highlightedWord": "θάλασσα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Mk 5:1",
+      "text": "τῆς θαλάσσης εἰς",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mk 5:13",
+      "text": "τὴν θάλασσαν, ὡς",
+      "highlightedWord": "θάλασσαν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Mk 5:21",
+      "text": "τὴν θάλασσαν.",
+      "highlightedWord": "θάλασσαν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 47,
+      "reference": "Mk 6:47",
+      "text": "τῆς θαλάσσης, καὶ",
+      "highlightedWord": "θαλάσσης,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Mk 6:48",
+      "text": "τῆς θαλάσσης· καὶ",
+      "highlightedWord": "θαλάσσης·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Mk 6:49",
+      "text": "τῆς θαλάσσης περιπατοῦντα",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Mk 7:31",
+      "text": "τὴν θάλασσαν τῆς",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Mk 9:42",
+      "text": "τὴν θάλασσαν.",
+      "highlightedWord": "θάλασσαν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mk 11:23",
+      "text": "τὴν θάλασσαν, καὶ",
+      "highlightedWord": "θάλασσαν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Lk 17:2",
+      "text": "τὴν θάλασσαν ἢ",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Lk 17:6",
+      "text": "τῇ θαλάσσῃ· καὶ",
+      "highlightedWord": "θαλάσσῃ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Lk 21:25",
+      "text": "ἤχους θαλάσσης καὶ",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Jn 6:1",
+      "text": "τῆς θαλάσσης τῆς",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Jn 6:16",
+      "text": "τὴν θάλασσαν,",
+      "highlightedWord": "θάλασσαν,"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Jn 6:17",
+      "text": "τῆς θαλάσσης εἰς",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Jn 6:18",
+      "text": "τε θάλασσα ἀνέμου",
+      "highlightedWord": "θάλασσα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Jn 6:19",
+      "text": "τῆς θαλάσσης καὶ",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "τῆς θαλάσσης εἶδον",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Jn 6:25",
+      "text": "τῆς θαλάσσης εἶπον",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Jn 21:1",
+      "text": "τῆς θαλάσσης τῆς",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Jn 21:7",
+      "text": "τὴν θάλασσαν·",
+      "highlightedWord": "θάλασσαν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Ac 4:24",
+      "text": "τὴν θάλασσαν καὶ",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ac 10:6",
+      "text": "παρὰ θάλασσαν.",
+      "highlightedWord": "θάλασσαν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Ac 10:32",
+      "text": "παρὰ θάλασσαν.",
+      "highlightedWord": "θάλασσαν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ac 14:15",
+      "text": "τὴν θάλασσαν καὶ",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Ac 17:14",
+      "text": "τὴν θάλασσαν· ὑπέμεινάν",
+      "highlightedWord": "θάλασσαν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 30,
+      "reference": "Ac 27:30",
+      "text": "τὴν θάλασσαν προφάσει",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 38,
+      "reference": "Ac 27:38",
+      "text": "τὴν θάλασσαν.",
+      "highlightedWord": "θάλασσαν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 40,
+      "reference": "Ac 27:40",
+      "text": "τὴν θάλασσαν, ἅμα",
+      "highlightedWord": "θάλασσαν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 4,
+      "reference": "Ac 28:4",
+      "text": "τῆς θαλάσσης ἡ",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Ro 9:27",
+      "text": "τῆς θαλάσσης, τὸ",
+      "highlightedWord": "θαλάσσης,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "1Co 10:1",
+      "text": "τῆς θαλάσσης διῆλθον,",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "1Co 10:2",
+      "text": "τῇ θαλάσσῃ,",
+      "highlightedWord": "θαλάσσῃ,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "2Co 11:26",
+      "text": "ἐν θαλάσσῃ, κινδύνοις",
+      "highlightedWord": "θαλάσσῃ,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Heb 11:12",
+      "text": "τῆς θαλάσσης ἡ",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Heb 11:29",
+      "text": "Ἐρυθρὰν Θάλασσαν ὡς",
+      "highlightedWord": "Θάλασσαν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jas 1:6",
+      "text": "κλύδωνι θαλάσσης ἀνεμιζομένῳ",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jud 1:13",
+      "text": "ἄγρια θαλάσσης ἐπαφρίζοντα",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "ὡς θάλασσα ὑαλίνη",
+      "highlightedWord": "θάλασσα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Re 5:13",
+      "text": "τῆς θαλάσσης, καὶ",
+      "highlightedWord": "θαλάσσης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Re 7:1",
+      "text": "τῆς θαλάσσης μήτε",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "τὴν θάλασσαν,",
+      "highlightedWord": "θάλασσαν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Re 7:3",
+      "text": "τὴν θάλασσαν μήτε",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Re 8:8",
+      "text": "τὴν θάλασσαν· καὶ",
+      "highlightedWord": "θάλασσαν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Re 8:9",
+      "text": "τῇ θαλάσσῃ, τὰ",
+      "highlightedWord": "θαλάσσῃ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Re 10:2",
+      "text": "τῆς θαλάσσης, τὸν",
+      "highlightedWord": "θαλάσσης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Re 10:5",
+      "text": "τῆς θαλάσσης καὶ",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Re 10:6",
+      "text": "τὴν θάλασσαν καὶ",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Re 10:8",
+      "text": "τῆς θαλάσσης καὶ",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Re 12:12",
+      "text": "τὴν θάλασσαν, ὅτι",
+      "highlightedWord": "θάλασσαν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Re 12:18",
+      "text": "τῆς θαλάσσης.",
+      "highlightedWord": "θαλάσσης."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Re 13:1",
+      "text": "τῆς θαλάσσης θηρίον",
+      "highlightedWord": "θαλάσσης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Re 14:7",
+      "text": "καὶ θάλασσαν καὶ",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Re 15:2",
+      "text": "ὡς θάλασσαν ὑαλίνην",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Re 16:3",
+      "text": "τὴν θάλασσαν· καὶ",
+      "highlightedWord": "θάλασσαν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Re 18:17",
+      "text": "τὴν θάλασσαν ἐργάζονται,",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "τῇ θαλάσσῃ ἐκ",
+      "highlightedWord": "θαλάσσῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "τὴν θάλασσαν λέγων·",
+      "highlightedWord": "θάλασσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Re 20:8",
+      "text": "τῆς θαλάσσης.",
+      "highlightedWord": "θαλάσσης."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Re 20:13",
+      "text": "ἡ θάλασσα τοὺς",
+      "highlightedWord": "θάλασσα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Re 21:1",
+      "text": "ἡ θάλασσα οὐκ",
+      "highlightedWord": "θάλασσα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

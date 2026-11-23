@@ -1,0 +1,91 @@
+{
+  "strong": "G5067",
+  "lemma": "τέταρτος",
+  "lemmaTranslit": "tetartos",
+  "tokenCount": 10,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Atos": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mt 14:25",
+      "text": "τετάρτῃ δὲ",
+      "highlightedWord": "τετάρτῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Mk 6:48",
+      "text": "περὶ τετάρτην φυλακὴν",
+      "highlightedWord": "τετάρτην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Ac 10:30",
+      "text": "Ἀπὸ τετάρτης ἡμέρας",
+      "highlightedWord": "τετάρτης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "τὸ τέταρτον ζῷον",
+      "highlightedWord": "τέταρτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Re 6:7",
+      "text": "τὴν τετάρτην, ἤκουσα",
+      "highlightedWord": "τετάρτην,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Re 6:8",
+      "text": "τὸ τέταρτον τῆς",
+      "highlightedWord": "τέταρτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "ὁ τέταρτος ἄγγελος",
+      "highlightedWord": "τέταρτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Re 16:8",
+      "text": "ὁ τέταρτος ἐξέχεεν",
+      "highlightedWord": "τέταρτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Re 21:19",
+      "text": "ὁ τέταρτος σμάραγδος,",
+      "highlightedWord": "τέταρτος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

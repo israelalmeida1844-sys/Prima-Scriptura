@@ -1,0 +1,598 @@
+{
+  "strong": "G4383",
+  "lemma": "πρόσωπον",
+  "lemmaTranslit": "prosōpon",
+  "tokenCount": 76,
+  "verseCount": 71,
+  "bookDistribution": {
+    "Mateus": 10,
+    "Marcos": 3,
+    "Lucas": 13,
+    "Atos": 12,
+    "1 Coríntios": 3,
+    "2 Coríntios": 12,
+    "Gálatas": 3,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 3,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 1,
+    "Tiago": 2,
+    "1 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 10
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Mt 6:16",
+      "text": "τὰ πρόσωπα αὐτῶν",
+      "highlightedWord": "πρόσωπα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Mt 6:17",
+      "text": "τὸ πρόσωπόν σου",
+      "highlightedWord": "πρόσωπόν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Mt 11:10",
+      "text": "πρὸ προσώπου σου,",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Mt 16:3",
+      "text": "μὲν πρόσωπον τοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Mt 17:2",
+      "text": "τὸ πρόσωπον αὐτοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Mt 17:6",
+      "text": "ἐπὶ πρόσωπον αὐτῶν",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Mt 18:10",
+      "text": "τὸ πρόσωπον τοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Mt 22:16",
+      "text": "εἰς πρόσωπον ἀνθρώπων·",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 39,
+      "reference": "Mt 26:39",
+      "text": "ἐπὶ πρόσωπον αὐτοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 67,
+      "reference": "Mt 26:67",
+      "text": "τὸ πρόσωπον αὐτοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Mk 1:2",
+      "text": "πρὸ προσώπου σου,",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "εἰς πρόσωπον ἀνθρώπων,",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 65,
+      "reference": "Mk 14:65",
+      "text": "τὸ πρόσωπον καὶ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 31,
+      "reference": "Lk 2:31",
+      "text": "κατὰ πρόσωπον πάντων",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Lk 5:12",
+      "text": "ἐπὶ πρόσωπον ἐδεήθη",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Lk 7:27",
+      "text": "πρὸ προσώπου σου,",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Lk 9:29",
+      "text": "τοῦ προσώπου αὐτοῦ",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 51,
+      "reference": "Lk 9:51",
+      "text": "τὸ πρόσωπον ἐστήρισεν",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 52,
+      "reference": "Lk 9:52",
+      "text": "πρὸ προσώπου αὐτοῦ.",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 53,
+      "reference": "Lk 9:53",
+      "text": "τὸ πρόσωπον αὐτοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Lk 10:1",
+      "text": "πρὸ προσώπου αὐτοῦ",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 56,
+      "reference": "Lk 12:56",
+      "text": "τὸ πρόσωπον τῆς",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Lk 17:16",
+      "text": "ἐπὶ πρόσωπον παρὰ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Lk 20:21",
+      "text": "λαμβάνεις πρόσωπον, ἀλλ’",
+      "highlightedWord": "πρόσωπον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 35,
+      "reference": "Lk 21:35",
+      "text": "ἐπὶ πρόσωπον πάσης",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Lk 24:5",
+      "text": "τὰ πρόσωπα εἰς",
+      "highlightedWord": "πρόσωπα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Ac 2:28",
+      "text": "τοῦ προσώπου σου.",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Ac 3:13",
+      "text": "κατὰ πρόσωπον Πιλάτου,",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Ac 3:20",
+      "text": "ἀπὸ προσώπου τοῦ",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Ac 5:41",
+      "text": "ἀπὸ προσώπου τοῦ",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Ac 6:15",
+      "text": "τὸ πρόσωπον αὐτοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Ac 7:45",
+      "text": "ἀπὸ προσώπου τῶν",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Ac 13:24",
+      "text": "πρὸ προσώπου τῆς",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Ac 17:26",
+      "text": "παντὸς προσώπου τῆς",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Ac 20:25",
+      "text": "τὸ πρόσωπόν μου",
+      "highlightedWord": "πρόσωπόν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 38,
+      "reference": "Ac 20:38",
+      "text": "τὸ πρόσωπον αὐτοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Ac 25:16",
+      "text": "κατὰ πρόσωπον ἔχοι",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "1Co 13:12",
+      "text": "δὲ πρόσωπον πρὸς",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "1Co 14:25",
+      "text": "ἐπὶ πρόσωπον προσκυνήσει",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Co 1:11",
+      "text": "πολλῶν προσώπων τὸ",
+      "highlightedWord": "προσώπων"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "2Co 2:10",
+      "text": "ἐν προσώπῳ Χριστοῦ,",
+      "highlightedWord": "προσώπῳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Co 3:7",
+      "text": "τὸ πρόσωπον Μωϋσέως",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Co 3:13",
+      "text": "τὸ πρόσωπον αὐτοῦ,",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "2Co 3:18",
+      "text": "ἀνακεκαλυμμένῳ προσώπῳ τὴν",
+      "highlightedWord": "προσώπῳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "2Co 4:6",
+      "text": "ἐν προσώπῳ Χριστοῦ.",
+      "highlightedWord": "προσώπῳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "2Co 5:12",
+      "text": "ἐν προσώπῳ καυχωμένους",
+      "highlightedWord": "προσώπῳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "2Co 8:24",
+      "text": "εἰς πρόσωπον τῶν",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "2Co 10:1",
+      "text": "κατὰ πρόσωπον μὲν",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "2Co 10:7",
+      "text": "κατὰ πρόσωπον βλέπετε.",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "2Co 11:20",
+      "text": "εἰς πρόσωπον ὑμᾶς",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Ga 1:22",
+      "text": "τῷ προσώπῳ ταῖς",
+      "highlightedWord": "προσώπῳ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ga 2:6",
+      "text": "διαφέρει· πρόσωπον θεὸς",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Ga 2:11",
+      "text": "κατὰ πρόσωπον αὐτῷ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Col 2:1",
+      "text": "τὸ πρόσωπόν μου",
+      "highlightedWord": "πρόσωπόν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "1Th 2:17",
+      "text": "ὥρας, προσώπῳ οὐ",
+      "highlightedWord": "προσώπῳ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Th 3:10",
+      "text": "τὸ πρόσωπον καὶ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Th 1:9",
+      "text": "ἀπὸ προσώπου τοῦ",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Heb 9:24",
+      "text": "τῷ προσώπῳ τοῦ",
+      "highlightedWord": "προσώπῳ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Jas 1:11",
+      "text": "τοῦ προσώπου αὐτοῦ",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Jas 1:23",
+      "text": "τὸ πρόσωπον τῆς",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Pe 3:12",
+      "text": "αὐτῶν, πρόσωπον δὲ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Jud 1:16",
+      "text": "θαυμάζοντες πρόσωπα ὠφελείας",
+      "highlightedWord": "πρόσωπα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "τὸ πρόσωπον ὡς",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Re 6:16",
+      "text": "ἀπὸ προσώπου τοῦ",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Re 7:11",
+      "text": "τὰ πρόσωπα αὐτῶν",
+      "highlightedWord": "πρόσωπα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Re 9:7",
+      "text": "τὰ πρόσωπα αὐτῶν",
+      "highlightedWord": "πρόσωπα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Re 10:1",
+      "text": "τὸ πρόσωπον αὐτοῦ",
+      "highlightedWord": "πρόσωπον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Re 11:16",
+      "text": "τὰ πρόσωπα αὐτῶν",
+      "highlightedWord": "πρόσωπα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "ἀπὸ προσώπου τοῦ",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Re 20:11",
+      "text": "τοῦ προσώπου ἔφυγεν",
+      "highlightedWord": "προσώπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Re 22:4",
+      "text": "τὸ πρόσωπον αὐτοῦ,",
+      "highlightedWord": "πρόσωπον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

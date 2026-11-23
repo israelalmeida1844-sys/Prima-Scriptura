@@ -1,0 +1,106 @@
+{
+  "strong": "G1027",
+  "lemma": "βροντή",
+  "lemmaTranslit": "brontē",
+  "tokenCount": 12,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Marcos": 1,
+    "João": 1,
+    "Apocalipse": 10
+  },
+  "references": [
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Mk 3:17",
+      "text": "Υἱοὶ Βροντῆς),",
+      "highlightedWord": "Βροντῆς),"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Jn 12:29",
+      "text": "ἔλεγεν βροντὴν γεγονέναι·",
+      "highlightedWord": "βροντὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Re 4:5",
+      "text": "καὶ βρονταί· καὶ",
+      "highlightedWord": "βρονταί·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Re 6:1",
+      "text": "φωνῇ βροντῆς· Ἔρχου.",
+      "highlightedWord": "βροντῆς·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Re 8:5",
+      "text": "ἐγένοντο βρονταὶ καὶ",
+      "highlightedWord": "βρονταὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Re 10:3",
+      "text": "ἑπτὰ βρονταὶ τὰς",
+      "highlightedWord": "βρονταὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Re 10:4",
+      "text": "ἑπτὰ βρονταί, ἤμελλον",
+      "highlightedWord": "βρονταί,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Re 11:19",
+      "text": "καὶ βρονταὶ καὶ",
+      "highlightedWord": "βρονταὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Re 14:2",
+      "text": "φωνὴν βροντῆς μεγάλης,",
+      "highlightedWord": "βροντῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Re 16:18",
+      "text": "καὶ βρονταί, καὶ",
+      "highlightedWord": "βρονταί,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Re 19:6",
+      "text": "φωνὴν βροντῶν ἰσχυρῶν,",
+      "highlightedWord": "βροντῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

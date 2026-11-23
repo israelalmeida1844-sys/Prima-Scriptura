@@ -1,0 +1,58 @@
+{
+  "strong": "G372",
+  "lemma": "ἀνάπαυσις",
+  "lemmaTranslit": "anapausis",
+  "tokenCount": 5,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Lucas": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Mt 11:29",
+      "text": "εὑρήσετε ἀνάπαυσιν ταῖς",
+      "highlightedWord": "ἀνάπαυσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mt 12:43",
+      "text": "ζητοῦν ἀνάπαυσιν, καὶ",
+      "highlightedWord": "ἀνάπαυσιν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Lk 11:24",
+      "text": "ζητοῦν ἀνάπαυσιν, καὶ",
+      "highlightedWord": "ἀνάπαυσιν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "καὶ ἀνάπαυσιν οὐκ",
+      "highlightedWord": "ἀνάπαυσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "ἔχουσιν ἀνάπαυσιν ἡμέρας",
+      "highlightedWord": "ἀνάπαυσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

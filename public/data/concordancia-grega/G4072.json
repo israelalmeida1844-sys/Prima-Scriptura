@@ -1,0 +1,56 @@
+{
+  "strong": "G4072",
+  "lemma": "πέτομαι",
+  "lemmaTranslit": "petomai",
+  "tokenCount": 5,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "ἀετῷ πετομένῳ·",
+      "highlightedWord": "πετομένῳ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "ἀετοῦ πετομένου ἐν",
+      "highlightedWord": "πετομένου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "ἵνα πέτηται εἰς",
+      "highlightedWord": "πέτηται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Re 14:6",
+      "text": "ἄγγελον πετόμενον ἐν",
+      "highlightedWord": "πετόμενον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Re 19:17",
+      "text": "τοῖς πετομένοις ἐν",
+      "highlightedWord": "πετομένοις"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

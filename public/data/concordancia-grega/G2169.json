@@ -1,0 +1,144 @@
+{
+  "strong": "G2169",
+  "lemma": "εὐχαριστία",
+  "lemmaTranslit": "eucharistia",
+  "tokenCount": 15,
+  "verseCount": 15,
+  "bookDistribution": {
+    "Atos": 1,
+    "1 Coríntios": 1,
+    "2 Coríntios": 3,
+    "Efésios": 1,
+    "Filipenses": 1,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 3,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 3,
+      "reference": "Ac 24:3",
+      "text": "πάσης εὐχαριστίας.",
+      "highlightedWord": "εὐχαριστίας."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "1Co 14:16",
+      "text": "σῇ εὐχαριστίᾳ; ἐπειδὴ",
+      "highlightedWord": "εὐχαριστίᾳ;"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "2Co 4:15",
+      "text": "τὴν εὐχαριστίαν περισσεύσῃ",
+      "highlightedWord": "εὐχαριστίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "2Co 9:11",
+      "text": "ἡμῶν εὐχαριστίαν τῷ",
+      "highlightedWord": "εὐχαριστίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "2Co 9:12",
+      "text": "πολλῶν εὐχαριστιῶν τῷ",
+      "highlightedWord": "εὐχαριστιῶν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Eph 5:4",
+      "text": "μᾶλλον εὐχαριστία.",
+      "highlightedWord": "εὐχαριστία."
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Php 4:6",
+      "text": "μετ’ εὐχαριστίας τὰ",
+      "highlightedWord": "εὐχαριστίας"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Col 2:7",
+      "text": "ἐν εὐχαριστίᾳ.",
+      "highlightedWord": "εὐχαριστίᾳ."
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Col 4:2",
+      "text": "ἐν εὐχαριστίᾳ,",
+      "highlightedWord": "εὐχαριστίᾳ,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Th 3:9",
+      "text": "γὰρ εὐχαριστίαν δυνάμεθα",
+      "highlightedWord": "εὐχαριστίαν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Ti 2:1",
+      "text": "ἐντεύξεις, εὐχαριστίας, ὑπὲρ",
+      "highlightedWord": "εὐχαριστίας,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Ti 4:3",
+      "text": "μετὰ εὐχαριστίας τοῖς",
+      "highlightedWord": "εὐχαριστίας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Ti 4:4",
+      "text": "μετὰ εὐχαριστίας λαμβανόμενον,",
+      "highlightedWord": "εὐχαριστίας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Re 4:9",
+      "text": "καὶ εὐχαριστίαν τῷ",
+      "highlightedWord": "εὐχαριστίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Re 7:12",
+      "text": "ἡ εὐχαριστία καὶ",
+      "highlightedWord": "εὐχαριστία"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

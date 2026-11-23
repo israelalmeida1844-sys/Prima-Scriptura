@@ -1,0 +1,91 @@
+{
+  "strong": "G3023",
+  "lemma": "λέων",
+  "lemmaTranslit": "leōn",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "2 Timóteo": 1,
+    "Hebreus": 1,
+    "1 Pedro": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "2Ti 4:17",
+      "text": "στόματος λέοντος.",
+      "highlightedWord": "λέοντος."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Heb 11:33",
+      "text": "στόματα λεόντων,",
+      "highlightedWord": "λεόντων,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Pe 5:8",
+      "text": "ὡς λέων ὠρυόμενος",
+      "highlightedWord": "λέων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "ὅμοιον λέοντι, καὶ",
+      "highlightedWord": "λέοντι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Re 5:5",
+      "text": "ὁ λέων ὁ",
+      "highlightedWord": "λέων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Re 9:8",
+      "text": "ὡς λεόντων ἦσαν,",
+      "highlightedWord": "λεόντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "κεφαλαὶ λεόντων, καὶ",
+      "highlightedWord": "λεόντων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Re 10:3",
+      "text": "ὥσπερ λέων μυκᾶται.",
+      "highlightedWord": "λέων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Re 13:2",
+      "text": "στόμα λέοντος. καὶ",
+      "highlightedWord": "λέοντος."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

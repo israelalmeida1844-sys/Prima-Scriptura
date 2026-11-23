@@ -1,0 +1,984 @@
+{
+  "strong": "G3752",
+  "lemma": "ὅταν",
+  "lemmaTranslit": "hotan",
+  "tokenCount": 123,
+  "verseCount": 119,
+  "bookDistribution": {
+    "Mateus": 19,
+    "Marcos": 21,
+    "Lucas": 29,
+    "João": 17,
+    "Atos": 2,
+    "Romanos": 2,
+    "1 Coríntios": 12,
+    "2 Coríntios": 3,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "1 João": 1,
+    "Apocalipse": 9
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Mt 5:11",
+      "text": "ἐστε ὅταν ὀνειδίσωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mt 6:2",
+      "text": "Ὅταν οὖν",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mt 6:5",
+      "text": "Καὶ ὅταν προσεύχησθε,",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Mt 6:6",
+      "text": "δὲ ὅταν προσεύχῃ,",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Mt 6:16",
+      "text": "Ὅταν δὲ",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Mt 9:15",
+      "text": "ἡμέραι ὅταν ἀπαρθῇ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Mt 10:19",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mt 10:23",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mt 12:43",
+      "text": "Ὅταν δὲ",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mt 13:32",
+      "text": "σπερμάτων, ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Mt 15:2",
+      "text": "αὐτῶν ὅταν ἄρτον",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Mt 19:28",
+      "text": "παλιγγενεσίᾳ, ὅταν καθίσῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 40,
+      "reference": "Mt 21:40",
+      "text": "ὅταν οὖν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Mt 23:15",
+      "text": "καὶ ὅταν γένηται",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 15,
+      "reference": "Mt 24:15",
+      "text": "Ὅταν οὖν",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 32,
+      "reference": "Mt 24:32",
+      "text": "παραβολήν· ὅταν ἤδη",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 33,
+      "reference": "Mt 24:33",
+      "text": "ὑμεῖς, ὅταν ἴδητε",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 31,
+      "reference": "Mt 25:31",
+      "text": "Ὅταν δὲ",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 29,
+      "reference": "Mt 26:29",
+      "text": "ἐκείνης ὅταν αὐτὸ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Mk 2:20",
+      "text": "ἡμέραι ὅταν ἀπαρθῇ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Mk 3:11",
+      "text": "ἀκάθαρτα, ὅταν αὐτὸν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Mk 4:15",
+      "text": "καὶ ὅταν ἀκούσωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Mk 4:16",
+      "text": "οἳ ὅταν ἀκούσωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Mk 4:29",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Mk 4:31",
+      "text": "ὃς ὅταν σπαρῇ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Mk 4:32",
+      "text": "καὶ ὅταν σπαρῇ,",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Mk 8:38",
+      "text": "αὐτὸν ὅταν ἔλθῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mk 9:9",
+      "text": "μὴ ὅταν ὁ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Mk 11:19",
+      "text": "Καὶ ὅταν ὀψὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mk 11:25",
+      "text": "καὶ ὅταν στήκετε",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Mk 12:23",
+      "text": "ἀναστάσει ὅταν ἀναστῶσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mk 12:25",
+      "text": "ὅταν γὰρ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Mk 13:4",
+      "text": "σημεῖον ὅταν μέλλῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Mk 13:7",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mk 13:11",
+      "text": "καὶ ὅταν ἄγωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Mk 13:14",
+      "text": "Ὅταν δὲ",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Mk 13:28",
+      "text": "παραβολήν· ὅταν ἤδη",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Mk 13:29",
+      "text": "ὑμεῖς, ὅταν ἴδητε",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Mk 14:7",
+      "text": "καὶ ὅταν θέλητε",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mk 14:25",
+      "text": "ἐκείνης ὅταν αὐτὸ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Lk 5:35",
+      "text": "καὶ ὅταν ἀπαρθῇ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Lk 6:22",
+      "text": "ἐστε ὅταν μισήσωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 26,
+      "reference": "Lk 6:26",
+      "text": "Οὐαὶ ὅταν καλῶς",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Lk 8:13",
+      "text": "οἳ ὅταν ἀκούσωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Lk 9:26",
+      "text": "ἐπαισχυνθήσεται, ὅταν ἔλθῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Lk 11:2",
+      "text": "αὐτοῖς· Ὅταν προσεύχησθε,",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Lk 11:21",
+      "text": "ὅταν ὁ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Lk 11:24",
+      "text": "Ὅταν τὸ",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Lk 11:34",
+      "text": "σου. ὅταν ὁ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Lk 11:36",
+      "text": "ὡς ὅταν ὁ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Lk 12:11",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 54,
+      "reference": "Lk 12:54",
+      "text": "ὄχλοις· Ὅταν ἴδητε",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 55,
+      "reference": "Lk 12:55",
+      "text": "καὶ ὅταν νότον",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Lk 13:28",
+      "text": "ὀδόντων, ὅταν ὄψησθε",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Lk 14:8",
+      "text": "Ὅταν κληθῇς",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Lk 14:10",
+      "text": "ἀλλ’ ὅταν κληθῇς",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Lk 14:12",
+      "text": "αὐτόν· Ὅταν ποιῇς",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Lk 14:13",
+      "text": "ἀλλ’ ὅταν δοχὴν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Lk 16:4",
+      "text": "ἵνα ὅταν μετασταθῶ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Lk 16:9",
+      "text": "ἵνα ὅταν ἐκλίπῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Lk 17:10",
+      "text": "ὑμεῖς, ὅταν ποιήσητε",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Lk 21:7",
+      "text": "σημεῖον ὅταν μέλλῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Lk 21:9",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 20,
+      "reference": "Lk 21:20",
+      "text": "Ὅταν δὲ",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Lk 21:30",
+      "text": "ὅταν προβάλωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Lk 21:31",
+      "text": "ὑμεῖς, ὅταν ἴδητε",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 42,
+      "reference": "Lk 23:42",
+      "text": "μου ὅταν ἔλθῃς",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Jn 2:10",
+      "text": "καὶ ὅταν μεθυσθῶσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Jn 4:25",
+      "text": "χριστός· ὅταν ἔλθῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jn 5:7",
+      "text": "ἵνα ὅταν ταραχθῇ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Jn 7:27",
+      "text": "χριστὸς ὅταν ἔρχηται",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Jn 7:31",
+      "text": "χριστὸς ὅταν ἔλθῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "Ἰησοῦς· Ὅταν ὑψώσητε",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Jn 8:44",
+      "text": "αὐτῷ. ὅταν λαλῇ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Jn 9:5",
+      "text": "ὅταν ἐν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Jn 10:4",
+      "text": "ὅταν τὰ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Jn 13:19",
+      "text": "πιστεύσητε ὅταν γένηται",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Jn 14:29",
+      "text": "ἵνα ὅταν γένηται",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Jn 15:26",
+      "text": "Ὅταν ἔλθῃ",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Jn 16:4",
+      "text": "ἵνα ὅταν ἔλθῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Jn 16:13",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Jn 16:21",
+      "text": "γυνὴ ὅταν τίκτῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Jn 21:18",
+      "text": "ἤθελες· ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 35,
+      "reference": "Ac 23:35",
+      "text": "ἔφη, ὅταν καὶ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Ac 24:22",
+      "text": "εἴπας· Ὅταν Λυσίας",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ro 2:14",
+      "text": "ὅταν γὰρ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Ro 11:27",
+      "text": "διαθήκη, ὅταν ἀφέλωμαι",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Co 3:4",
+      "text": "ὅταν γὰρ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "1Co 13:10",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "1Co 14:26",
+      "text": "ἀδελφοί; ὅταν συνέρχησθε,",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "1Co 15:24",
+      "text": "τέλος, ὅταν παραδιδῷ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "1Co 15:27",
+      "text": "αὐτοῦ. ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "1Co 15:28",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 54,
+      "reference": "1Co 15:54",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "μὴ ὅταν ἔλθω",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "1Co 16:3",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "1Co 16:5",
+      "text": "ὑμᾶς ὅταν Μακεδονίαν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "1Co 16:12",
+      "text": "δὲ ὅταν εὐκαιρήσῃ.",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "2Co 10:6",
+      "text": "παρακοήν, ὅταν πληρωθῇ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "2Co 12:10",
+      "text": "Χριστοῦ· ὅταν γὰρ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "2Co 13:9",
+      "text": "γὰρ ὅταν ἡμεῖς",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Col 3:4",
+      "text": "ὅταν ὁ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Col 4:16",
+      "text": "καὶ ὅταν ἀναγνωσθῇ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "1Th 5:3",
+      "text": "ὅταν λέγωσιν·",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Th 1:10",
+      "text": "ὅταν ἔλθῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "1Ti 5:11",
+      "text": "παραιτοῦ· ὅταν γὰρ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Tit 3:12",
+      "text": "Ὅταν πέμψω",
+      "highlightedWord": "Ὅταν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Heb 1:6",
+      "text": "ὅταν δὲ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Jas 1:2",
+      "text": "μου, ὅταν πειρασμοῖς",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Jn 5:2",
+      "text": "θεοῦ, ὅταν τὸν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Re 4:9",
+      "text": "καὶ ὅταν δώσουσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Re 8:1",
+      "text": "Καὶ ὅταν ἤνοιξεν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "σκορπίου, ὅταν παίσῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Re 10:7",
+      "text": "ἀγγέλου, ὅταν μέλλῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Re 11:7",
+      "text": "Καὶ ὅταν τελέσωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "ἵνα ὅταν τέκῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Re 17:10",
+      "text": "καὶ ὅταν ἔλθῃ",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Re 18:9",
+      "text": "στρηνιάσαντες, ὅταν βλέπωσιν",
+      "highlightedWord": "ὅταν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Re 20:7",
+      "text": "Καὶ ὅταν τελεσθῇ",
+      "highlightedWord": "ὅταν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

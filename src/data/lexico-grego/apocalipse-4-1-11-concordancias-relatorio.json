@@ -1,0 +1,291 @@
+{
+  "scope": "Apocalipse 4:1–11",
+  "sourceCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "corpusBooks": 27,
+  "corpusTokens": 137554,
+  "chapterTokens": 293,
+  "chapterVerses": 11,
+  "totalLexiconEntries": 398,
+  "newStrongEntries": 46,
+  "totalNewStrongTokenOccurrences": 1590,
+  "totalNewStrongVerseReferences": 1469,
+  "complete": true,
+  "entries": [
+    {
+      "id": "G305",
+      "lemma": "ἀναβαίνω",
+      "tokens": 81,
+      "verses": 77
+    },
+    {
+      "id": "G5602",
+      "lemma": "ὧδε",
+      "tokens": 61,
+      "verses": 59
+    },
+    {
+      "id": "G2112",
+      "lemma": "εὐθέως",
+      "tokens": 35,
+      "verses": 35
+    },
+    {
+      "id": "G2749",
+      "lemma": "κεῖμαι",
+      "tokens": 24,
+      "verses": 24
+    },
+    {
+      "id": "G2521",
+      "lemma": "κάθημαι",
+      "tokens": 91,
+      "verses": 89
+    },
+    {
+      "id": "G3706",
+      "lemma": "ὅρασις",
+      "tokens": 4,
+      "verses": 3
+    },
+    {
+      "id": "G3037",
+      "lemma": "λίθος",
+      "tokens": 58,
+      "verses": 53
+    },
+    {
+      "id": "G2393",
+      "lemma": "ἴασπις",
+      "tokens": 4,
+      "verses": 4
+    },
+    {
+      "id": "G4556",
+      "lemma": "σάρδιον",
+      "tokens": 2,
+      "verses": 2
+    },
+    {
+      "id": "G2463",
+      "lemma": "ἶρις",
+      "tokens": 2,
+      "verses": 2
+    },
+    {
+      "id": "G2943",
+      "lemma": "κυκλόθεν",
+      "tokens": 3,
+      "verses": 3
+    },
+    {
+      "id": "G4664",
+      "lemma": "σμαράγδινος",
+      "tokens": 1,
+      "verses": 1
+    },
+    {
+      "id": "G1501",
+      "lemma": "εἴκοσι(ν)",
+      "tokens": 11,
+      "verses": 10
+    },
+    {
+      "id": "G5064",
+      "lemma": "τέσσαρες",
+      "tokens": 40,
+      "verses": 34
+    },
+    {
+      "id": "G4245",
+      "lemma": "πρεσβύτερος",
+      "tokens": 65,
+      "verses": 65
+    },
+    {
+      "id": "G796",
+      "lemma": "ἀστραπή",
+      "tokens": 9,
+      "verses": 9
+    },
+    {
+      "id": "G1027",
+      "lemma": "βροντή",
+      "tokens": 12,
+      "verses": 11
+    },
+    {
+      "id": "G2985",
+      "lemma": "λαμπάς",
+      "tokens": 9,
+      "verses": 9
+    },
+    {
+      "id": "G2545",
+      "lemma": "καίω",
+      "tokens": 13,
+      "verses": 13
+    },
+    {
+      "id": "G2281",
+      "lemma": "θάλασσα",
+      "tokens": 90,
+      "verses": 82
+    },
+    {
+      "id": "G5193",
+      "lemma": "ὑάλινος",
+      "tokens": 3,
+      "verses": 2
+    },
+    {
+      "id": "G2930",
+      "lemma": "κρύσταλλος",
+      "tokens": 2,
+      "verses": 2
+    },
+    {
+      "id": "G2945",
+      "lemma": "κύκλῳ",
+      "tokens": 8,
+      "verses": 8
+    },
+    {
+      "id": "G2226",
+      "lemma": "ζῷον",
+      "tokens": 23,
+      "verses": 20
+    },
+    {
+      "id": "G1073",
+      "lemma": "γέμω",
+      "tokens": 11,
+      "verses": 11
+    },
+    {
+      "id": "G1715",
+      "lemma": "ἔμπροσθεν",
+      "tokens": 48,
+      "verses": 45
+    },
+    {
+      "id": "G3693",
+      "lemma": "ὄπισθεν",
+      "tokens": 7,
+      "verses": 7
+    },
+    {
+      "id": "G3023",
+      "lemma": "λέων",
+      "tokens": 9,
+      "verses": 9
+    },
+    {
+      "id": "G3448",
+      "lemma": "μόσχος",
+      "tokens": 6,
+      "verses": 6
+    },
+    {
+      "id": "G5154",
+      "lemma": "τρίτος",
+      "tokens": 55,
+      "verses": 46
+    },
+    {
+      "id": "G4383",
+      "lemma": "πρόσωπον",
+      "tokens": 76,
+      "verses": 71
+    },
+    {
+      "id": "G5067",
+      "lemma": "τέταρτος",
+      "tokens": 10,
+      "verses": 9
+    },
+    {
+      "id": "G105",
+      "lemma": "ἀετός",
+      "tokens": 5,
+      "verses": 5
+    },
+    {
+      "id": "G4072",
+      "lemma": "πέτομαι",
+      "tokens": 5,
+      "verses": 5
+    },
+    {
+      "id": "G1520",
+      "lemma": "εἷς",
+      "tokens": 342,
+      "verses": 287
+    },
+    {
+      "id": "G303",
+      "lemma": "ἀνά",
+      "tokens": 13,
+      "verses": 13
+    },
+    {
+      "id": "G4420",
+      "lemma": "πτέρυξ",
+      "tokens": 5,
+      "verses": 5
+    },
+    {
+      "id": "G1803",
+      "lemma": "ἕξ",
+      "tokens": 13,
+      "verses": 13
+    },
+    {
+      "id": "G2081",
+      "lemma": "ἔσωθεν",
+      "tokens": 12,
+      "verses": 12
+    },
+    {
+      "id": "G372",
+      "lemma": "ἀνάπαυσις",
+      "tokens": 5,
+      "verses": 5
+    },
+    {
+      "id": "G3571",
+      "lemma": "νύξ",
+      "tokens": 61,
+      "verses": 58
+    },
+    {
+      "id": "G3752",
+      "lemma": "ὅταν",
+      "tokens": 123,
+      "verses": 119
+    },
+    {
+      "id": "G5092",
+      "lemma": "τιμή",
+      "tokens": 41,
+      "verses": 40
+    },
+    {
+      "id": "G2169",
+      "lemma": "εὐχαριστία",
+      "tokens": 15,
+      "verses": 15
+    },
+    {
+      "id": "G2936",
+      "lemma": "κτίζω",
+      "tokens": 15,
+      "verses": 13
+    },
+    {
+      "id": "G2307",
+      "lemma": "θέλημα",
+      "tokens": 62,
+      "verses": 58
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "strong": "G2930",
+  "lemma": "κρύσταλλος",
+  "lemmaTranslit": "krystallos",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "ὁμοία κρυστάλλῳ. Καὶ",
+      "highlightedWord": "κρυστάλλῳ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 1,
+      "reference": "Re 22:1",
+      "text": "ὡς κρύσταλλον, ἐκπορευόμενον",
+      "highlightedWord": "κρύσταλλον,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

@@ -1,0 +1,348 @@
+{
+  "strong": "G5092",
+  "lemma": "τιμή",
+  "lemmaTranslit": "timē",
+  "tokenCount": 41,
+  "verseCount": 40,
+  "bookDistribution": {
+    "Mateus": 2,
+    "João": 1,
+    "Atos": 6,
+    "Romanos": 6,
+    "1 Coríntios": 4,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 4,
+    "2 Timóteo": 2,
+    "Hebreus": 4,
+    "1 Pedro": 3,
+    "2 Pedro": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 6,
+      "reference": "Mt 27:6",
+      "text": "ἐπεὶ τιμὴ αἵματός",
+      "highlightedWord": "τιμὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 9,
+      "reference": "Mt 27:9",
+      "text": "τὴν τιμὴν τοῦ",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 44,
+      "reference": "Jn 4:44",
+      "text": "πατρίδι τιμὴν οὐκ",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Ac 4:34",
+      "text": "τὰς τιμὰς τῶν",
+      "highlightedWord": "τιμὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ac 5:2",
+      "text": "τῆς τιμῆς, συνειδυίης",
+      "highlightedWord": "τιμῆς,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ac 5:3",
+      "text": "τῆς τιμῆς τοῦ",
+      "highlightedWord": "τιμῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Ac 7:16",
+      "text": "Ἀβραὰμ τιμῆς ἀργυρίου",
+      "highlightedWord": "τιμῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Ac 19:19",
+      "text": "τὰς τιμὰς αὐτῶν",
+      "highlightedWord": "τιμὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 10,
+      "reference": "Ac 28:10",
+      "text": "πολλαῖς τιμαῖς ἐτίμησαν",
+      "highlightedWord": "τιμαῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Ro 2:7",
+      "text": "καὶ τιμὴν καὶ",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Ro 2:10",
+      "text": "καὶ τιμὴ καὶ",
+      "highlightedWord": "τιμὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ro 9:21",
+      "text": "εἰς τιμὴν σκεῦος",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ro 12:10",
+      "text": "τῇ τιμῇ ἀλλήλους",
+      "highlightedWord": "τιμῇ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Ro 13:7",
+      "text": "τὴν τιμὴν τὴν",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "1Co 6:20",
+      "text": "γὰρ τιμῆς· δοξάσατε",
+      "highlightedWord": "τιμῆς·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "1Co 7:23",
+      "text": "τιμῆς ἠγοράσθητε·",
+      "highlightedWord": "τιμῆς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "1Co 12:23",
+      "text": "τούτοις τιμὴν περισσοτέραν",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "1Co 12:24",
+      "text": "δοὺς τιμήν,",
+      "highlightedWord": "τιμήν,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Col 2:23",
+      "text": "ἐν τιμῇ τινι",
+      "highlightedWord": "τιμῇ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Th 4:4",
+      "text": "καὶ τιμῇ,",
+      "highlightedWord": "τιμῇ,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Ti 1:17",
+      "text": "θεῷ, τιμὴ καὶ",
+      "highlightedWord": "τιμὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "1Ti 5:17",
+      "text": "διπλῆς τιμῆς ἀξιούσθωσαν,",
+      "highlightedWord": "τιμῆς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Ti 6:1",
+      "text": "πάσης τιμῆς ἀξίους",
+      "highlightedWord": "τιμῆς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Ti 6:16",
+      "text": "ᾧ τιμὴ καὶ",
+      "highlightedWord": "τιμὴ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Ti 2:20",
+      "text": "εἰς τιμὴν ἃ",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "2Ti 2:21",
+      "text": "εἰς τιμήν, ἡγιασμένον,",
+      "highlightedWord": "τιμήν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Heb 2:7",
+      "text": "καὶ τιμῇ ἐστεφάνωσας",
+      "highlightedWord": "τιμῇ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Heb 2:9",
+      "text": "καὶ τιμῇ ἐστεφανωμένον,",
+      "highlightedWord": "τιμῇ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Heb 3:3",
+      "text": "πλείονα τιμὴν ἔχει",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Heb 5:4",
+      "text": "τὴν τιμήν, ἀλλὰ",
+      "highlightedWord": "τιμήν,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Pe 1:7",
+      "text": "καὶ τιμὴν ἐν",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Pe 2:7",
+      "text": "ἡ τιμὴ τοῖς",
+      "highlightedWord": "τιμὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Pe 3:7",
+      "text": "ἀπονέμοντες τιμήν, ὡς",
+      "highlightedWord": "τιμήν,"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Pe 1:17",
+      "text": "πατρὸς τιμὴν καὶ",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Re 4:9",
+      "text": "καὶ τιμὴν καὶ",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Re 4:11",
+      "text": "τὴν τιμὴν καὶ",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Re 5:12",
+      "text": "καὶ τιμὴν καὶ",
+      "highlightedWord": "τιμὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Re 5:13",
+      "text": "ἡ τιμὴ καὶ",
+      "highlightedWord": "τιμὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Re 7:12",
+      "text": "ἡ τιμὴ καὶ",
+      "highlightedWord": "τιμὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Re 21:26",
+      "text": "τὴν τιμὴν τῶν",
+      "highlightedWord": "τιμὴν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

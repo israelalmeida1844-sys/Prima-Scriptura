@@ -1,0 +1,641 @@
+{
+  "strong": "G305",
+  "lemma": "ἀναβαίνω",
+  "lemmaTranslit": "anabainō",
+  "tokenCount": 81,
+  "verseCount": 77,
+  "bookDistribution": {
+    "Mateus": 9,
+    "Marcos": 9,
+    "Lucas": 9,
+    "João": 16,
+    "Atos": 18,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "Gálatas": 2,
+    "Efésios": 3,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Mt 3:16",
+      "text": "εὐθὺς ἀνέβη ἀπὸ",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Mt 5:1",
+      "text": "ὄχλους ἀνέβη εἰς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Mt 13:7",
+      "text": "καὶ ἀνέβησαν αἱ",
+      "highlightedWord": "ἀνέβησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Mt 14:23",
+      "text": "ὄχλους ἀνέβη εἰς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 32,
+      "reference": "Mt 14:32",
+      "text": "καὶ ἀναβάντων αὐτῶν",
+      "highlightedWord": "ἀναβάντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mt 15:29",
+      "text": "καὶ ἀναβὰς εἰς",
+      "highlightedWord": "ἀναβὰς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "τὸν ἀναβάντα πρῶτον",
+      "highlightedWord": "ἀναβάντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Mt 20:17",
+      "text": "Καὶ ἀναβαίνων ὁ",
+      "highlightedWord": "ἀναβαίνων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Mt 20:18",
+      "text": "Ἰδοὺ ἀναβαίνομεν εἰς",
+      "highlightedWord": "ἀναβαίνομεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Mk 1:10",
+      "text": "εὐθὺς ἀναβαίνων ἐκ",
+      "highlightedWord": "ἀναβαίνων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Mk 3:13",
+      "text": "Καὶ ἀναβαίνει εἰς",
+      "highlightedWord": "ἀναβαίνει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Mk 4:7",
+      "text": "καὶ ἀνέβησαν αἱ",
+      "highlightedWord": "ἀνέβησαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Mk 4:8",
+      "text": "καρπὸν ἀναβαίνοντα καὶ",
+      "highlightedWord": "ἀναβαίνοντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Mk 4:32",
+      "text": "σπαρῇ, ἀναβαίνει καὶ",
+      "highlightedWord": "ἀναβαίνει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 51,
+      "reference": "Mk 6:51",
+      "text": "καὶ ἀνέβη πρὸς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Mk 10:32",
+      "text": "ὁδῷ ἀναβαίνοντες εἰς",
+      "highlightedWord": "ἀναβαίνοντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mk 10:33",
+      "text": "Ἰδοὺ ἀναβαίνομεν εἰς",
+      "highlightedWord": "ἀναβαίνομεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Mk 15:8",
+      "text": "καὶ ἀναβὰς ὁ",
+      "highlightedWord": "ἀναβὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Lk 2:4",
+      "text": "Ἀνέβη δὲ",
+      "highlightedWord": "Ἀνέβη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 42,
+      "reference": "Lk 2:42",
+      "text": "δώδεκα, ἀναβαινόντων αὐτῶν",
+      "highlightedWord": "ἀναβαινόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Lk 5:19",
+      "text": "ὄχλον ἀναβάντες ἐπὶ",
+      "highlightedWord": "ἀναβάντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Lk 9:28",
+      "text": "Ἰάκωβον ἀνέβη εἰς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Lk 18:10",
+      "text": "δύο ἀνέβησαν εἰς",
+      "highlightedWord": "ἀνέβησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Lk 18:31",
+      "text": "Ἰδοὺ ἀναβαίνομεν εἰς",
+      "highlightedWord": "ἀναβαίνομεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Lk 19:4",
+      "text": "ἔμπροσθεν ἀνέβη ἐπὶ",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Lk 19:28",
+      "text": "ἔμπροσθεν ἀναβαίνων εἰς",
+      "highlightedWord": "ἀναβαίνων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 38,
+      "reference": "Lk 24:38",
+      "text": "διαλογισμοὶ ἀναβαίνουσιν ἐν",
+      "highlightedWord": "ἀναβαίνουσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 51,
+      "reference": "Jn 1:51",
+      "text": "θεοῦ ἀναβαίνοντας καὶ",
+      "highlightedWord": "ἀναβαίνοντας"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Jn 2:13",
+      "text": "καὶ ἀνέβη εἰς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jn 3:13",
+      "text": "οὐδεὶς ἀναβέβηκεν εἰς",
+      "highlightedWord": "ἀναβέβηκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Jn 5:1",
+      "text": "καὶ ἀνέβη Ἰησοῦς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 62,
+      "reference": "Jn 6:62",
+      "text": "ἀνθρώπου ἀναβαίνοντα ὅπου",
+      "highlightedWord": "ἀναβαίνοντα"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Jn 7:8",
+      "text": "ὑμεῖς ἀνάβητε εἰς",
+      "highlightedWord": "ἀνάβητε"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Jn 7:10",
+      "text": "δὲ ἀνέβησαν οἱ",
+      "highlightedWord": "ἀνέβησαν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Jn 7:14",
+      "text": "μεσούσης ἀνέβη Ἰησοῦς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Jn 10:1",
+      "text": "ἀλλὰ ἀναβαίνων ἀλλαχόθεν",
+      "highlightedWord": "ἀναβαίνων"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 55,
+      "reference": "Jn 11:55",
+      "text": "καὶ ἀνέβησαν πολλοὶ",
+      "highlightedWord": "ἀνέβησαν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Jn 12:20",
+      "text": "τῶν ἀναβαινόντων ἵνα",
+      "highlightedWord": "ἀναβαινόντων"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Jn 20:17",
+      "text": "γὰρ ἀναβέβηκα πρὸς",
+      "highlightedWord": "ἀναβέβηκα"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Jn 21:11",
+      "text": "ἀνέβη οὖν",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ac 1:13",
+      "text": "ὑπερῷον ἀνέβησαν οὗ",
+      "highlightedWord": "ἀνέβησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 34,
+      "reference": "Ac 2:34",
+      "text": "Δαυὶδ ἀνέβη εἰς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Ac 3:1",
+      "text": "Ἰωάννης ἀνέβαινον εἰς",
+      "highlightedWord": "ἀνέβαινον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Ac 7:23",
+      "text": "χρόνος, ἀνέβη ἐπὶ",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ac 8:31",
+      "text": "Φίλιππον ἀναβάντα καθίσαι",
+      "highlightedWord": "ἀναβάντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Ac 8:39",
+      "text": "δὲ ἀνέβησαν ἐκ",
+      "highlightedWord": "ἀνέβησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Ac 10:4",
+      "text": "σου ἀνέβησαν εἰς",
+      "highlightedWord": "ἀνέβησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Ac 10:9",
+      "text": "ἐγγιζόντων ἀνέβη Πέτρος",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Ac 11:2",
+      "text": "δὲ ἀνέβη Πέτρος",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ac 15:2",
+      "text": "ἔταξαν ἀναβαίνειν Παῦλον",
+      "highlightedWord": "ἀναβαίνειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Ac 18:22",
+      "text": "Καισάρειαν, ἀναβὰς καὶ",
+      "highlightedWord": "ἀναβὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Ac 20:11",
+      "text": "ἀναβὰς δὲ",
+      "highlightedWord": "ἀναβὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Ac 21:12",
+      "text": "μὴ ἀναβαίνειν αὐτὸν",
+      "highlightedWord": "ἀναβαίνειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Ac 21:15",
+      "text": "ἐπισκευασάμενοι ἀνεβαίνομεν εἰς",
+      "highlightedWord": "ἀνεβαίνομεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Ac 21:31",
+      "text": "ἀποκτεῖναι ἀνέβη φάσις",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Ac 24:11",
+      "text": "ἧς ἀνέβην προσκυνήσων",
+      "highlightedWord": "ἀνέβην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 1,
+      "reference": "Ac 25:1",
+      "text": "ἡμέρας ἀνέβη εἰς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 9,
+      "reference": "Ac 25:9",
+      "text": "Ἱεροσόλυμα ἀναβὰς ἐκεῖ",
+      "highlightedWord": "ἀναβὰς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ro 10:6",
+      "text": "Τίς ἀναβήσεται εἰς",
+      "highlightedWord": "ἀναβήσεται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Co 2:9",
+      "text": "οὐκ ἀνέβη, ὅσα",
+      "highlightedWord": "ἀνέβη,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Ga 2:1",
+      "text": "πάλιν ἀνέβην εἰς",
+      "highlightedWord": "ἀνέβην"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ga 2:2",
+      "text": "ἀνέβην δὲ",
+      "highlightedWord": "ἀνέβην"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Eph 4:8",
+      "text": "λέγει· Ἀναβὰς εἰς",
+      "highlightedWord": "Ἀναβὰς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Eph 4:9",
+      "text": "δὲ Ἀνέβη τί",
+      "highlightedWord": "Ἀνέβη"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Eph 4:10",
+      "text": "ὁ ἀναβὰς ὑπεράνω",
+      "highlightedWord": "ἀναβὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "λέγων· Ἀνάβα ὧδε,",
+      "highlightedWord": "Ἀνάβα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "ἄγγελον ἀναβαίνοντα ἀπὸ",
+      "highlightedWord": "ἀναβαίνοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Re 8:4",
+      "text": "καὶ ἀνέβη ὁ",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Re 9:2",
+      "text": "καὶ ἀνέβη καπνὸς",
+      "highlightedWord": "ἀνέβη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Re 11:7",
+      "text": "τὸ ἀναβαῖνον ἐκ",
+      "highlightedWord": "ἀναβαῖνον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Re 11:12",
+      "text": "αὐτοῖς· Ἀνάβατε ὧδε,",
+      "highlightedWord": "Ἀνάβατε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Re 13:1",
+      "text": "θηρίον ἀναβαῖνον, ἔχον",
+      "highlightedWord": "ἀναβαῖνον,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Re 13:11",
+      "text": "θηρίον ἀναβαῖνον ἐκ",
+      "highlightedWord": "ἀναβαῖνον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "αἰώνων ἀναβαίνει, καὶ",
+      "highlightedWord": "ἀναβαίνει,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Re 17:8",
+      "text": "μέλλει ἀναβαίνειν ἐκ",
+      "highlightedWord": "ἀναβαίνειν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Re 19:3",
+      "text": "αὐτῆς ἀναβαίνει εἰς",
+      "highlightedWord": "ἀναβαίνει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Re 20:9",
+      "text": "καὶ ἀνέβησαν ἐπὶ",
+      "highlightedWord": "ἀνέβησαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

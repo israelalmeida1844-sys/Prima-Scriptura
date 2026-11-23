@@ -1,0 +1,391 @@
+{
+  "strong": "G5154",
+  "lemma": "τρίτος",
+  "lemmaTranslit": "tritos",
+  "tokenCount": 55,
+  "verseCount": 46,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 3,
+    "Lucas": 9,
+    "João": 4,
+    "Atos": 4,
+    "1 Coríntios": 2,
+    "2 Coríntios": 3,
+    "Apocalipse": 23
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Mt 16:21",
+      "text": "τῇ τρίτῃ ἡμέρᾳ",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Mt 17:23",
+      "text": "τῇ τρίτῃ ἡμέρᾳ",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Mt 20:3",
+      "text": "περὶ τρίτην ὥραν",
+      "highlightedWord": "τρίτην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Mt 20:19",
+      "text": "τῇ τρίτῃ ἡμέρᾳ",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 26,
+      "reference": "Mt 22:26",
+      "text": "ὁ τρίτος, ἕως",
+      "highlightedWord": "τρίτος,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 44,
+      "reference": "Mt 26:44",
+      "text": "ἐκ τρίτου τὸν",
+      "highlightedWord": "τρίτου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 64,
+      "reference": "Mt 27:64",
+      "text": "τῆς τρίτης ἡμέρας,",
+      "highlightedWord": "τρίτης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Mk 12:21",
+      "text": "ὁ τρίτος ὡσαύτως·",
+      "highlightedWord": "τρίτος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 41,
+      "reference": "Mk 14:41",
+      "text": "τὸ τρίτον καὶ",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Mk 15:25",
+      "text": "ὥρα τρίτη καὶ",
+      "highlightedWord": "τρίτη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Lk 9:22",
+      "text": "τῇ τρίτῃ ἡμέρᾳ",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Lk 12:38",
+      "text": "τῇ τρίτῃ φυλακῇ",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Lk 13:32",
+      "text": "τῇ τρίτῃ τελειοῦμαι.",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 33,
+      "reference": "Lk 18:33",
+      "text": "τῇ τρίτῃ ἀναστήσεται.",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Lk 20:31",
+      "text": "ὁ τρίτος ἔλαβεν",
+      "highlightedWord": "τρίτος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Lk 23:22",
+      "text": "δὲ τρίτον εἶπεν",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 7,
+      "reference": "Lk 24:7",
+      "text": "τῇ τρίτῃ ἡμέρᾳ",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Lk 24:21",
+      "text": "τούτοις τρίτην ταύτην",
+      "highlightedWord": "τρίτην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 46,
+      "reference": "Lk 24:46",
+      "text": "τῇ τρίτῃ ἡμέρᾳ,",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Jn 2:1",
+      "text": "τῇ τρίτῃ γάμος",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Jn 21:14",
+      "text": "ἤδη τρίτον ἐφανερώθη",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Jn 21:17",
+      "text": "τὸ τρίτον· Σίμων",
+      "highlightedWord": "τρίτον·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Ac 2:15",
+      "text": "ὥρα τρίτη τῆς",
+      "highlightedWord": "τρίτη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Ac 10:40",
+      "text": "τῇ τρίτῃ ἡμέρᾳ",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Ac 23:23",
+      "text": "ἀπὸ τρίτης ὥρας",
+      "highlightedWord": "τρίτης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Ac 27:19",
+      "text": "τῇ τρίτῃ αὐτόχειρες",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "1Co 12:28",
+      "text": "προφήτας, τρίτον διδασκάλους,",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "1Co 15:4",
+      "text": "τῇ τρίτῃ κατὰ",
+      "highlightedWord": "τρίτῃ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "2Co 12:2",
+      "text": "ἕως τρίτου οὐρανοῦ.",
+      "highlightedWord": "τρίτου"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "2Co 12:14",
+      "text": "Ἰδοὺ τρίτον τοῦτο",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "2Co 13:1",
+      "text": "Τρίτον τοῦτο",
+      "highlightedWord": "Τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "τὸ τρίτον ζῷον",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Re 6:5",
+      "text": "τὴν τρίτην, ἤκουσα",
+      "highlightedWord": "τρίτην,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Re 8:7",
+      "text": "τὸ τρίτον τῆς",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Re 8:8",
+      "text": "τὸ τρίτον τῆς",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Re 8:9",
+      "text": "τὸ τρίτον τῶν",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Re 8:10",
+      "text": "ὁ τρίτος ἄγγελος",
+      "highlightedWord": "τρίτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Re 8:11",
+      "text": "τὸ τρίτον τῶν",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "τὸ τρίτον τοῦ",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Re 9:15",
+      "text": "τὸ τρίτον τῶν",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Re 9:18",
+      "text": "τὸ τρίτον τῶν",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Re 11:14",
+      "text": "ἡ τρίτη ἔρχεται",
+      "highlightedWord": "τρίτη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "τὸ τρίτον τῶν",
+      "highlightedWord": "τρίτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "ἄγγελος τρίτος ἠκολούθησεν",
+      "highlightedWord": "τρίτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Re 16:4",
+      "text": "ὁ τρίτος ἐξέχεεν",
+      "highlightedWord": "τρίτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Re 21:19",
+      "text": "ὁ τρίτος χαλκηδών,",
+      "highlightedWord": "τρίτος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

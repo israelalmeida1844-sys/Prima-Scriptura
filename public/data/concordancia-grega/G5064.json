@@ -1,0 +1,293 @@
+{
+  "strong": "G5064",
+  "lemma": "τέσσαρες",
+  "lemmaTranslit": "tessares",
+  "tokenCount": 40,
+  "verseCount": 34,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 2,
+    "Lucas": 1,
+    "João": 2,
+    "Atos": 6,
+    "Apocalipse": 28
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 31,
+      "reference": "Mt 24:31",
+      "text": "τῶν τεσσάρων ἀνέμων",
+      "highlightedWord": "τεσσάρων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Mk 2:3",
+      "text": "ὑπὸ τεσσάρων.",
+      "highlightedWord": "τεσσάρων."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Mk 13:27",
+      "text": "τῶν τεσσάρων ἀνέμων",
+      "highlightedWord": "τεσσάρων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 37,
+      "reference": "Lk 2:37",
+      "text": "ὀγδοήκοντα τεσσάρων,) ἣ",
+      "highlightedWord": "τεσσάρων,)"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Jn 11:17",
+      "text": "αὐτὸν τέσσαρας ἤδη",
+      "highlightedWord": "τέσσαρας"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Jn 19:23",
+      "text": "ἐποίησαν τέσσαρα μέρη,",
+      "highlightedWord": "τέσσαρα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Ac 10:11",
+      "text": "μεγάλην τέσσαρσιν ἀρχαῖς",
+      "highlightedWord": "τέσσαρσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ac 11:5",
+      "text": "μεγάλην τέσσαρσιν ἀρχαῖς",
+      "highlightedWord": "τέσσαρσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Ac 12:4",
+      "text": "παραδοὺς τέσσαρσιν τετραδίοις",
+      "highlightedWord": "τέσσαρσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Ac 21:9",
+      "text": "θυγατέρες τέσσαρες παρθένοι",
+      "highlightedWord": "τέσσαρες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Ac 21:23",
+      "text": "ἄνδρες τέσσαρες εὐχὴν",
+      "highlightedWord": "τέσσαρες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Ac 27:29",
+      "text": "ἀγκύρας τέσσαρας ηὔχοντο",
+      "highlightedWord": "τέσσαρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "εἴκοσι τέσσαρες, καὶ",
+      "highlightedWord": "τέσσαρες,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "θρόνου τέσσαρα ζῷα",
+      "highlightedWord": "τέσσαρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "τὰ τέσσαρα ζῷα,",
+      "highlightedWord": "τέσσαρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Re 4:10",
+      "text": "εἴκοσι τέσσαρες πρεσβύτεροι",
+      "highlightedWord": "τέσσαρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Re 5:6",
+      "text": "τῶν τεσσάρων ζῴων",
+      "highlightedWord": "τεσσάρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "τὰ τέσσαρα ζῷα",
+      "highlightedWord": "τέσσαρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Re 5:14",
+      "text": "τὰ τέσσαρα ζῷα",
+      "highlightedWord": "τέσσαρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Re 6:1",
+      "text": "τῶν τεσσάρων ζῴων",
+      "highlightedWord": "τεσσάρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Re 6:6",
+      "text": "τῶν τεσσάρων ζῴων",
+      "highlightedWord": "τεσσάρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Re 7:1",
+      "text": "εἶδον τέσσαρας ἀγγέλους",
+      "highlightedWord": "τέσσαρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "τοῖς τέσσαρσιν ἀγγέλοις",
+      "highlightedWord": "τέσσαρσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Re 7:4",
+      "text": "τεσσεράκοντα τέσσαρες χιλιάδες,",
+      "highlightedWord": "τέσσαρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Re 7:11",
+      "text": "τῶν τεσσάρων ζῴων,",
+      "highlightedWord": "τεσσάρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Re 9:14",
+      "text": "τοὺς τέσσαρας ἀγγέλους",
+      "highlightedWord": "τέσσαρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Re 9:15",
+      "text": "οἱ τέσσαρες ἄγγελοι",
+      "highlightedWord": "τέσσαρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Re 11:16",
+      "text": "εἴκοσι τέσσαρες πρεσβύτεροι",
+      "highlightedWord": "τέσσαρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Re 14:1",
+      "text": "τεσσεράκοντα τέσσαρες χιλιάδες",
+      "highlightedWord": "τέσσαρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Re 14:3",
+      "text": "τῶν τεσσάρων ζῴων",
+      "highlightedWord": "τεσσάρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Re 15:7",
+      "text": "τῶν τεσσάρων ζῴων",
+      "highlightedWord": "τεσσάρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Re 19:4",
+      "text": "εἴκοσι τέσσαρες καὶ",
+      "highlightedWord": "τέσσαρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Re 20:8",
+      "text": "ταῖς τέσσαρσι γωνίαις",
+      "highlightedWord": "τέσσαρσι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Re 21:17",
+      "text": "τεσσεράκοντα τεσσάρων πηχῶν,",
+      "highlightedWord": "τεσσάρων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

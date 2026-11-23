@@ -1,0 +1,126 @@
+{
+  "strong": "G1803",
+  "lemma": "ἕξ",
+  "lemmaTranslit": "hex",
+  "tokenCount": 13,
+  "verseCount": 13,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Lucas": 2,
+    "João": 3,
+    "Atos": 3,
+    "Tiago": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Mt 17:1",
+      "text": "ἡμέρας ἓξ παραλαμβάνει",
+      "highlightedWord": "ἓξ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mk 9:2",
+      "text": "ἡμέρας ἓξ παραλαμβάνει",
+      "highlightedWord": "ἓξ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Lk 4:25",
+      "text": "μῆνας ἕξ, ὡς",
+      "highlightedWord": "ἕξ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Lk 13:14",
+      "text": "ὅτι Ἓξ ἡμέραι",
+      "highlightedWord": "Ἓξ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jn 2:6",
+      "text": "ὑδρίαι ἓξ κατὰ",
+      "highlightedWord": "ἓξ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jn 2:20",
+      "text": "καὶ ἓξ ἔτεσιν",
+      "highlightedWord": "ἓξ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Jn 12:1",
+      "text": "πρὸ ἓξ ἡμερῶν",
+      "highlightedWord": "ἓξ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Ac 11:12",
+      "text": "οἱ ἓξ ἀδελφοὶ",
+      "highlightedWord": "ἓξ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Ac 18:11",
+      "text": "μῆνας ἓξ διδάσκων",
+      "highlightedWord": "ἓξ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 37,
+      "reference": "Ac 27:37",
+      "text": "ἑβδομήκοντα ἕξ.",
+      "highlightedWord": "ἕξ."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Jas 5:17",
+      "text": "μῆνας ἕξ·",
+      "highlightedWord": "ἕξ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "πτέρυγας ἕξ, κυκλόθεν",
+      "highlightedWord": "ἕξ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Re 13:18",
+      "text": "ἑξήκοντα ἕξ.",
+      "highlightedWord": "ἕξ."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}
