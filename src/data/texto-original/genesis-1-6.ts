@@ -118,7 +118,7 @@ export const genesis1v6 = {
     {
       "id": "gn1-6-11",
       "hebrew": "לָמָיִם",
-      "transliteration": "lammāyim",
+      "transliteration": "lāmāyim",
       "gloss": "e águas",
       "strong": "H4325",
       "lemma": "מַיִם",
