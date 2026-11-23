@@ -52,6 +52,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          page_count=$(find dist -name index.html -type f | wc -l)
+          echo "Páginas HTML estáticas geradas: $page_count"
+          if [ "$page_count" -lt 87 ]; then
+            echo "O build gerou menos de 87 páginas estáticas" >&2
+            exit 1
+          fi
           for v in {1..20}; do
             test -s "dist/comentarios/apocalipse/capitulo-1/versiculo-$v/index.html"
           done
