@@ -1,0 +1,138 @@
+{
+  "reference": "Apocalipse 1:2",
+  "state": "rascunho, não publicado",
+  "criticalText": "SBL Greek New Testament (SBLGNT)",
+  "morphology": "MorphGNT 6.12",
+  "morphgntCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "tokenCount": 13,
+  "lemmaCount": 11,
+  "newLemmaCount": 5,
+  "uniqueLemmasAp1_1_2": 25,
+  "newConcordanceCount": 5,
+  "allConcordancesInProject": 25,
+  "newIndexes": {
+    "G3140": {
+      "tokenCount": 76,
+      "verseCount": 72,
+      "bookDistribution": {
+        "Mt": 1,
+        "Lc": 1,
+        "Jo": 33,
+        "At": 11,
+        "Rm": 2,
+        "1Co": 1,
+        "2Co": 1,
+        "Gl": 1,
+        "Cl": 1,
+        "1Tm": 2,
+        "Hb": 8,
+        "1Jo": 6,
+        "3Jo": 4,
+        "Ap": 4
+      }
+    },
+    "G3056": {
+      "tokenCount": 330,
+      "verseCount": 318,
+      "bookDistribution": {
+        "Mt": 33,
+        "Mc": 24,
+        "Lc": 33,
+        "Jo": 40,
+        "At": 65,
+        "Rm": 7,
+        "1Co": 16,
+        "2Co": 9,
+        "Gl": 2,
+        "Ef": 4,
+        "Fp": 4,
+        "Cl": 7,
+        "1Ts": 9,
+        "2Ts": 5,
+        "1Tm": 8,
+        "2Tm": 7,
+        "Tt": 5,
+        "Hb": 12,
+        "Tg": 5,
+        "1Pe": 6,
+        "2Pe": 4,
+        "1Jo": 6,
+        "3Jo": 1,
+        "Ap": 18
+      }
+    },
+    "G3141": {
+      "tokenCount": 37,
+      "verseCount": 33,
+      "bookDistribution": {
+        "Mc": 3,
+        "Lc": 1,
+        "Jo": 14,
+        "At": 1,
+        "1Tm": 1,
+        "Tt": 1,
+        "1Jo": 6,
+        "3Jo": 1,
+        "Ap": 9
+      }
+    },
+    "G3745": {
+      "tokenCount": 111,
+      "verseCount": 100,
+      "bookDistribution": {
+        "Mt": 15,
+        "Mc": 14,
+        "Lc": 10,
+        "Jo": 10,
+        "At": 17,
+        "Rm": 8,
+        "1Co": 2,
+        "2Co": 1,
+        "Gl": 5,
+        "Fp": 7,
+        "Cl": 1,
+        "1Tm": 1,
+        "2Tm": 1,
+        "Hb": 9,
+        "2Pe": 1,
+        "Jd": 2,
+        "Ap": 7
+      }
+    },
+    "G3708": {
+      "tokenCount": 476,
+      "verseCount": 453,
+      "bookDistribution": {
+        "Mt": 73,
+        "Mc": 52,
+        "Lc": 84,
+        "Jo": 72,
+        "At": 69,
+        "Rm": 2,
+        "1Co": 8,
+        "Gl": 4,
+        "Fp": 4,
+        "Cl": 2,
+        "1Ts": 4,
+        "1Tm": 4,
+        "2Tm": 3,
+        "Tt": 1,
+        "Fm": 1,
+        "Hb": 10,
+        "Tg": 2,
+        "1Pe": 3,
+        "2Pe": 2,
+        "1Jo": 9,
+        "3Jo": 2,
+        "Jd": 1,
+        "Ap": 64
+      }
+    }
+  },
+  "totalReferenceRowsForVerse": 16779,
+  "riskNotes": [
+    "Validação de formas e códigos contra arquivo de versículo MorphGNT; análise sintática e acepções são editoriais.",
+    "Contagens de concordância são de versículos distintos, não de tokens; um lema pode ocorrer várias vezes no mesmo versículo.",
+    "A leitura SBLGNT ὅσα εἶδεν distingue-se da variante com τε em outras tradições textuais."
+  ]
+}
