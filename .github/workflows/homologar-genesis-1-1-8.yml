@@ -1,5 +1,5 @@
 name: Homologar Gênesis 1:1–8 — candidato sem publicação
-# Reexecutar auditoria após normalizar os campos Strong das fichas.
+# Reexecutar também a inspeção de contraste visual após corrigir o cabeçalho do interlinear.
 on:
   push:
     branches: [rascunho/genesis]
