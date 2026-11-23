@@ -51,7 +51,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome relativo acusativo singular neutro",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo acusativo singular neutro; pronome em estrutura relativa. A equivalência portuguesa «que» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome relativo acusativo singular neutro. Objeto direto da oração relativa dependente de γράψον. Glosa contextual: «o que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente ativa indicativo, 2ª pessoa singular",
       "meanings": "ver; observar",
-      "explanation": "Verbo presente ativa indicativo, 2ª pessoa singular; núcleo verbal. A equivalência portuguesa «vês» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual: «vês». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo aoristo ativa imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular; núcleo verbal imperativo. A equivalência portuguesa «escreve» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular. Imperativo principal, segunda pessoa singular. Glosa contextual: «escreve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "livro; rolo",
-      "explanation": "Substantivo acusativo singular neutro; nome em função acusativa. A equivalência portuguesa «livro» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular neutro. Nome em função acusativa. Glosa contextual: «livro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo aoristo ativa imperativo, 2ª pessoa singular",
       "meanings": "enviar",
-      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular; núcleo verbal imperativo. A equivalência portuguesa «envia» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular. Núcleo verbal imperativo. Glosa contextual: «envia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido dativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «às». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----DPF-",
       "morphology": "Adjetivo dativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo dativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo dativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "igreja; assembleia",
-      "explanation": "Substantivo dativo plural feminino; nome em construção dativa. A equivalência portuguesa «igreja» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo plural feminino. Nome em construção dativa. Glosa contextual: «igreja». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Éfeso",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «Éfeso» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Éfeso». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Esmirna",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «Esmirna» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Esmirna». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -435,7 +435,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -459,7 +459,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Pérgamo",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «Pérgamo» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Pérgamo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -483,7 +483,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -507,7 +507,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -531,7 +531,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "Tiatira",
-      "explanation": "Substantivo acusativo plural neutro; nome em função acusativa. A equivalência portuguesa «Tiatira» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo plural neutro. Nome em função acusativa. Glosa contextual: «Tiatira». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -555,7 +555,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -579,7 +579,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -603,7 +603,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "Sardes",
-      "explanation": "Substantivo acusativo plural feminino; nome em função acusativa. A equivalência portuguesa «Sardes» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo plural feminino. Nome em função acusativa. Glosa contextual: «Sardes». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -627,7 +627,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -651,7 +651,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -675,7 +675,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Filadélfia",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «Filadélfia» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Filadélfia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -699,7 +699,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -723,7 +723,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -747,7 +747,7 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Laodiceia",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «Laodiceia» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Laodiceia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],

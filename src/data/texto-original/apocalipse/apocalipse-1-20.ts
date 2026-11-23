@@ -27,7 +27,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular neutro; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular neutro. Artigo neutro singular, forma idêntica no nominativo e acusativo; MorphGNT: nominativo. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo plural masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo plural masculino. Determinante do sintagma nominal. Glosa contextual: «dos/das». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo genitivo plural masculino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo genitivo plural masculino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo genitivo plural masculino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo genitivo plural masculino; complemento nominal no genitivo. A equivalência portuguesa «estrelas» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo plural masculino. Complemento nominal no genitivo. Glosa contextual: «estrelas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome relativo acusativo plural masculino",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo acusativo plural masculino; pronome em estrutura relativa. A equivalência portuguesa «que» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome relativo acusativo plural masculino. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo aoristo ativa indicativo, 2ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo aoristo ativa indicativo, 2ª pessoa singular; núcleo verbal. A equivalência portuguesa «vi» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual: «viste». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "sobre; em",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «sobre» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «sobre». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo singular feminino. Determinante do sintagma nominal. Glosa contextual: «da». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GSF-",
       "morphology": "Adjetivo genitivo singular feminino",
       "meanings": "direita; direito",
-      "explanation": "Adjetivo genitivo singular feminino; modificador adjetival ou predicativo. A equivalência portuguesa «direita» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo genitivo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «direita». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal genitivo singular; pronome pessoal no sintagma. A equivalência portuguesa «eu» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular. Pronome pessoal no sintagma. Glosa contextual: «eu». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo plural feminino. Artigo acusativo feminino plural de λυχνίας. Glosa contextual: «as». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo acusativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "candelabro; suporte de lâmpada",
-      "explanation": "Substantivo acusativo plural feminino; nome em função acusativa. A equivalência portuguesa «candelabros» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo plural feminino. Nome acusativo plural feminino na construção introdutória. Glosa contextual: «candelabros». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo plural feminino. Artigo acusativo feminino plural de λυχνίας. Glosa contextual: «as». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "de ouro; dourado",
-      "explanation": "Adjetivo acusativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «de ouro» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «de ouro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -435,7 +435,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -459,7 +459,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo nominativo plural masculino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo plural masculino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -483,7 +483,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo nominativo plural masculino; núcleo nominal. A equivalência portuguesa «estrelas» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo plural masculino. Sujeito nominativo de εἰσίν. Glosa contextual: «estrelas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -507,7 +507,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
       "meanings": "mensageiro; anjo",
-      "explanation": "Substantivo nominativo plural masculino; núcleo nominal. A equivalência portuguesa «anjos» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo plural masculino. Predicativo nominativo de εἰσίν. Glosa contextual: «anjos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -531,7 +531,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo plural feminino. Determinante do sintagma nominal. Glosa contextual: «dos/das». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -555,7 +555,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo genitivo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo genitivo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo genitivo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -579,7 +579,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
       "meanings": "igreja; assembleia",
-      "explanation": "Substantivo genitivo plural feminino; complemento nominal no genitivo. A equivalência portuguesa «igreja» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo plural feminino. Complemento nominal no genitivo. Glosa contextual: «igreja». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -603,7 +603,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente ativa indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural; núcleo verbal. A equivalência portuguesa «sou» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -627,7 +627,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -651,7 +651,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -675,7 +675,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "candelabro; suporte de lâmpada",
-      "explanation": "Substantivo nominativo plural feminino; núcleo nominal. A equivalência portuguesa «candelabros» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual: «candelabros». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -699,7 +699,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -723,7 +723,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo nominativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -747,7 +747,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo nominativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -771,7 +771,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "igreja; assembleia",
-      "explanation": "Substantivo nominativo plural feminino; núcleo nominal. A equivalência portuguesa «igreja» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual: «igreja». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -795,7 +795,7 @@ export const apocalipse1v20 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente ativa indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural; núcleo verbal. A equivalência portuguesa «sou» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],

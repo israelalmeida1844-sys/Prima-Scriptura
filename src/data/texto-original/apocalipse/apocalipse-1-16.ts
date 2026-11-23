@@ -27,7 +27,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente ativa particípio, nominativo singular masculino",
       "meanings": "ter; segurar",
-      "explanation": "Verbo presente ativa particípio, nominativo singular masculino; forma participial; relação sintática a examinar. A equivalência portuguesa «tinha» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa particípio, nominativo singular masculino. Particípio presente ativo nominativo singular masculino da figura da visão. Glosa contextual: «tenho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
       "meanings": "direita; direito",
-      "explanation": "Adjetivo dativo singular feminino; modificador adjetival ou predicativo. A equivalência portuguesa «direita» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo dativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «direita». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "mão",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «mão» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «mão». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo acusativo plural masculino; nome em função acusativa. A equivalência portuguesa «estrelas» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo plural masculino. Nome em função acusativa. Glosa contextual: «estrelas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo acusativo plural masculino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo plural masculino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "de; para fora de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «de» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «de». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular neutro; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo singular neutro. Determinante do sintagma nominal. Glosa contextual: «do». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "boca",
-      "explanation": "Substantivo genitivo singular neutro; complemento nominal no genitivo. A equivalência portuguesa «boca» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo singular neutro. Complemento nominal no genitivo. Glosa contextual: «boca». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "espada longa",
-      "explanation": "Substantivo nominativo singular feminino; núcleo nominal. A equivalência portuguesa «espada» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular feminino. Sujeito nominativo singular feminino da descrição elíptica. Glosa contextual: «espada». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
       "meanings": "de dois gumes",
-      "explanation": "Adjetivo nominativo singular feminino; modificador adjetival ou predicativo. A equivalência portuguesa «de dois gumes» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «de dois gumes». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
       "meanings": "afiado; agudo",
-      "explanation": "Adjetivo nominativo singular feminino; modificador adjetival ou predicativo. A equivalência portuguesa «afiada» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «afiada». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -435,7 +435,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "-PMPNSF-",
       "morphology": "Verbo presente média particípio, nominativo singular feminino",
       "meanings": "sair; proceder",
-      "explanation": "Verbo presente média particípio, nominativo singular feminino; forma participial; relação sintática a examinar. A equivalência portuguesa «saía» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente média particípio, nominativo singular feminino. Particípio presente médio/passivo nominativo singular feminino, concordando com ῥομφαία. Glosa contextual: «que saía». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -459,7 +459,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -483,7 +483,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -507,7 +507,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "aparência; aspecto",
-      "explanation": "Substantivo nominativo singular feminino; núcleo nominal. A equivalência portuguesa «rosto» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «rosto». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -531,7 +531,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -555,7 +555,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «como» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -579,7 +579,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -603,7 +603,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "sol",
-      "explanation": "Substantivo nominativo singular masculino; núcleo nominal. A equivalência portuguesa «sol» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual: «sol». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -627,7 +627,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente ativa indicativo, 3ª pessoa singular",
       "meanings": "brilhar; aparecer",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa singular; núcleo verbal. A equivalência portuguesa «brilha» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «brilha». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -651,7 +651,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -675,7 +675,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -699,7 +699,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "força; poder",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «força» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «força». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -723,7 +723,7 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],

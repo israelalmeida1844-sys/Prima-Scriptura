@@ -27,7 +27,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente ativa particípio, nominativo singular masculino",
       "meanings": "viver",
-      "explanation": "Verbo presente ativa particípio, nominativo singular masculino; forma participial; relação sintática a examinar. A equivalência portuguesa «vivo» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa particípio, nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vivo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "1AMI-S--",
       "morphology": "Verbo aoristo média indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «estava» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «estive». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "morto",
-      "explanation": "Adjetivo nominativo singular masculino; modificador adjetival ou predicativo. A equivalência portuguesa «morto» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo singular masculino. Modificador adjetival ou predicativo. Glosa contextual: «morto». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
       "meanings": "eis; veja",
-      "explanation": "Partícula (indeclinável); modificador ou elemento discursivo. A equivalência portuguesa «eis» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Partícula (indeclinável). Modificador ou elemento discursivo. Glosa contextual: «eis». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente ativa particípio, nominativo singular masculino",
       "meanings": "viver",
-      "explanation": "Verbo presente ativa particípio, nominativo singular masculino; forma participial; relação sintática a examinar. A equivalência portuguesa «vivo» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa particípio, nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vivo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente ativa indicativo, 1ª pessoa singular",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «sou» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «sou». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «para» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «os». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "era; eternidade",
-      "explanation": "Substantivo acusativo plural masculino; nome em função acusativa. A equivalência portuguesa «séculos» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo plural masculino. Nome em função acusativa. Glosa contextual: «séculos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo plural masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo plural masculino. Determinante do sintagma nominal. Glosa contextual: «dos/das». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "era; eternidade",
-      "explanation": "Substantivo genitivo plural masculino; complemento nominal no genitivo. A equivalência portuguesa «séculos» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo plural masculino. Complemento nominal no genitivo. Glosa contextual: «séculos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente ativa indicativo, 1ª pessoa singular",
       "meanings": "ter; segurar",
-      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «tinha» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular. Núcleo verbal presente indicativo primeira pessoa singular. Glosa contextual: «tenho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -435,7 +435,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «as». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -459,7 +459,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "chave",
-      "explanation": "Substantivo acusativo plural feminino; nome em função acusativa. A equivalência portuguesa «chaves» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo plural feminino. Objeto direto de ἔχω. Glosa contextual: «chaves». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -483,7 +483,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo singular masculino. Determinante do sintagma nominal. Glosa contextual: «do». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -507,7 +507,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "morte",
-      "explanation": "Substantivo genitivo singular masculino; complemento nominal no genitivo. A equivalência portuguesa «morte» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «morte». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -531,7 +531,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -555,7 +555,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo singular masculino. Determinante do sintagma nominal. Glosa contextual: «do». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -579,7 +579,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Hades; domínio dos mortos",
-      "explanation": "Substantivo genitivo singular masculino; complemento nominal no genitivo. A equivalência portuguesa «Hades» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «Hades». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],

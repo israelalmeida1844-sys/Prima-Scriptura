@@ -27,7 +27,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "quando",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «quando» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «quando». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «vi» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «vi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome pessoal acusativo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal acusativo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal acusativo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «a ele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
       "meanings": "cair",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «caí» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «caí». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "junto a; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «junto a» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «junto a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «os». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "pé",
-      "explanation": "Substantivo acusativo plural masculino; nome em função acusativa. A equivalência portuguesa «pés» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo plural masculino. Nome em função acusativa. Glosa contextual: «pés». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «como» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "morto",
-      "explanation": "Adjetivo nominativo singular masculino; modificador adjetival ou predicativo. A equivalência portuguesa «morto» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo singular masculino. Modificador adjetival ou predicativo. Glosa contextual: «morto». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo aoristo ativa indicativo, 3ª pessoa singular",
       "meanings": "colocar; pôr",
-      "explanation": "Verbo aoristo ativa indicativo, 3ª pessoa singular; núcleo verbal. A equivalência portuguesa «pôs» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «pôs». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "direita; direito",
-      "explanation": "Adjetivo acusativo singular feminino; modificador adjetival ou predicativo. A equivalência portuguesa «direita» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «direita». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "sobre; em",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «sobre» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «sobre». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -435,7 +435,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----AS--",
       "morphology": "Pronome pessoal acusativo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal acusativo singular; pronome pessoal no sintagma. A equivalência portuguesa «eu» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal acusativo singular. Pronome pessoal no sintagma. Glosa contextual: «mim». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -459,7 +459,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente ativa particípio, nominativo singular masculino",
       "meanings": "dizer; falar",
-      "explanation": "Verbo presente ativa particípio, nominativo singular masculino; forma participial; relação sintática a examinar. A equivalência portuguesa «dizendo» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa particípio, nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «dizendo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -483,7 +483,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (indeclinável)",
       "meanings": "não; partícula negativa",
-      "explanation": "Advérbio (indeclinável); modificador ou elemento discursivo. A equivalência portuguesa «não» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Advérbio (indeclinável). Modificador ou elemento discursivo. Glosa contextual: «não». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -507,7 +507,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "2PMD-S--",
       "morphology": "Verbo presente média imperativo, 2ª pessoa singular",
       "meanings": "temer; ter medo",
-      "explanation": "Verbo presente média imperativo, 2ª pessoa singular; núcleo verbal imperativo. A equivalência portuguesa «temas» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente média imperativo, 2ª pessoa singular. Imperativo presente médio/passivo formal, deponente; proibição com μή. Glosa contextual: «temas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -531,7 +531,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal nominativo singular; pronome pessoal no sintagma. A equivalência portuguesa «eu» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal nominativo singular. Pronome pessoal no sintagma. Glosa contextual: «eu». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -555,7 +555,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente ativa indicativo, 1ª pessoa singular",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «sou» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «sou». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -579,7 +579,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -603,7 +603,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "primeiro",
-      "explanation": "Adjetivo nominativo singular masculino; modificador adjetival ou predicativo. A equivalência portuguesa «primeiro» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo singular masculino. Modificador adjetival ou predicativo. Glosa contextual: «primeiro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -627,7 +627,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -651,7 +651,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -675,7 +675,7 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "último",
-      "explanation": "Adjetivo nominativo singular masculino; modificador adjetival ou predicativo. A equivalência portuguesa «último» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo singular masculino. Modificador adjetival ou predicativo. Glosa contextual: «último». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],

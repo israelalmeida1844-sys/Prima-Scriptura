@@ -27,7 +27,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----DSN-",
       "morphology": "Adjetivo dativo singular neutro",
       "meanings": "meio; centro",
-      "explanation": "Adjetivo dativo singular neutro; modificador adjetival ou predicativo. A equivalência portuguesa «meio» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo dativo singular neutro. Modificador adjetival ou predicativo. Glosa contextual: «meio». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo plural feminino. Determinante do sintagma nominal. Glosa contextual: «dos/das». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
       "meanings": "candelabro; suporte de lâmpada",
-      "explanation": "Substantivo genitivo plural feminino; complemento nominal no genitivo. A equivalência portuguesa «candelabros» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo plural feminino. Complemento nominal no genitivo. Glosa contextual: «candelabros». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo acusativo singular masculino",
       "meanings": "semelhante",
-      "explanation": "Adjetivo acusativo singular masculino; modificador adjetival ou predicativo. A equivalência portuguesa «semelhante» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo singular masculino. Predicativo acusativo masculino singular em relação à figura vista. Glosa contextual: «semelhante». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "filho",
-      "explanation": "Substantivo acusativo singular masculino; nome em função acusativa. A equivalência portuguesa «filho» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular masculino. Núcleo do sintagma acusativo dependente de ὅμοιον. Glosa contextual: «filho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "ser humano; homem",
-      "explanation": "Substantivo genitivo singular masculino; complemento nominal no genitivo. A equivalência portuguesa «homem» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «homem». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "-XMPASM-",
       "morphology": "Verbo perfeito média particípio, acusativo singular masculino",
       "meanings": "vestir; revestir",
-      "explanation": "Verbo perfeito média particípio, acusativo singular masculino; forma participial; relação sintática a examinar. A equivalência portuguesa «vestido» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo perfeito média particípio, acusativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vestido». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "-XMPASM-",
       "morphology": "Verbo perfeito média particípio, acusativo singular masculino",
       "meanings": "cingir; envolver com cinto",
-      "explanation": "Verbo perfeito média particípio, acusativo singular masculino; forma participial; relação sintática a examinar. A equivalência portuguesa «cingido» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo perfeito média particípio, acusativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «cingido». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "junto a; em direção a",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «junto a» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «junto a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----DPM-",
       "morphology": "Artigo definido dativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo plural masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido dativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «os». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----DPM-",
       "morphology": "Substantivo dativo plural masculino",
       "meanings": "peito; mama",
-      "explanation": "Substantivo dativo plural masculino; nome em construção dativa. A equivalência portuguesa «peito» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo plural masculino. Nome em construção dativa. Glosa contextual: «peitos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "cinto; faixa",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «faixa» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «faixa». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "de ouro; dourado",
-      "explanation": "Adjetivo acusativo singular feminino; modificador adjetival ou predicativo. A equivalência portuguesa «de ouro» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «de ouro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],

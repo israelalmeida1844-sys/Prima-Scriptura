@@ -27,7 +27,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal nominativo singular; pronome pessoal no sintagma. A equivalência portuguesa «eu» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal nominativo singular. Sujeito nominativo explícito de ἐγενόμην. Glosa contextual: «eu». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "João",
-      "explanation": "Substantivo nominativo singular masculino; núcleo nominal. A equivalência portuguesa «João» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular masculino. Aposto nominativo ao sujeito Ἐγώ. Glosa contextual: «João». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "irmão",
-      "explanation": "Substantivo nominativo singular masculino; núcleo nominal. A equivalência portuguesa «irmão» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual: «irmão». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
       "meanings": "tu; vós",
-      "explanation": "Pronome pessoal genitivo plural; pronome pessoal no sintagma. A equivalência portuguesa «vosso» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo plural. Genitivo de relação/posse dependente de ἀδελφός. Glosa contextual: «de vocês». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "coparticipante; companheiro",
-      "explanation": "Substantivo nominativo singular masculino; núcleo nominal. A equivalência portuguesa «coparticipante» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular masculino. Aposto nominativo que qualifica João. Glosa contextual: «coparticipante». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "tribulação; aflição",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «tribulação» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «tribulação». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "reino; realeza",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «reino» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «reino». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "perseverança; resistência",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «perseverança» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «perseverança». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Jesus",
-      "explanation": "Substantivo dativo singular masculino; nome em construção dativa. A equivalência portuguesa «Jesus» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular masculino. Nome em construção dativa. Glosa contextual: «Jesus». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "1AMI-S--",
       "morphology": "Verbo aoristo média indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «estava» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular. Predicado verbal principal; sujeito ἐγώ. Glosa contextual: «estive». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -435,7 +435,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -459,7 +459,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -483,7 +483,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "ilha",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «ilha» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «ilha». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -507,7 +507,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -531,7 +531,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "-PPPDSF-",
       "morphology": "Verbo presente passiva particípio, dativo singular feminino",
       "meanings": "chamar; denominar",
-      "explanation": "Verbo presente passiva particípio, dativo singular feminino; forma participial; relação sintática a examinar. A equivalência portuguesa «chamada» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente passiva particípio, dativo singular feminino. Forma participial; relação sintática a examinar. Glosa contextual: «chamada». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -555,7 +555,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Patmos",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «Patmos» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «Patmos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -579,7 +579,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "por causa de; através de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «por causa de» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «por causa de». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -603,7 +603,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -627,7 +627,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "palavra; mensagem",
-      "explanation": "Substantivo acusativo singular masculino; nome em função acusativa. A equivalência portuguesa «palavra» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular masculino. Nome em função acusativa. Glosa contextual: «palavra». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -651,7 +651,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido genitivo singular masculino. Determinante do sintagma nominal. Glosa contextual: «do». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -675,7 +675,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Deus",
-      "explanation": "Substantivo genitivo singular masculino; complemento nominal no genitivo. A equivalência portuguesa «Deus» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «Deus». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -699,7 +699,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -723,7 +723,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -747,7 +747,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "testemunho",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «testemunho» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «testemunho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -771,7 +771,7 @@ export const apocalipse1v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Jesus",
-      "explanation": "Substantivo genitivo singular masculino; complemento nominal no genitivo. A equivalência portuguesa «Jesus» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «Jesus». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],

@@ -27,7 +27,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
       "meanings": "voltar-se; retornar",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «voltei-me» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «voltei-me». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "-PAN----",
       "morphology": "Verbo presente ativa infinitivo",
       "meanings": "ver; observar",
-      "explanation": "Verbo presente ativa infinitivo; infinitivo integrante da construção verbal. A equivalência portuguesa «vês» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa infinitivo. Infinitivo final dependente de ἐπέστρεψα. Glosa contextual: «ver». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante acusativo de φωνήν. Glosa contextual: «a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «voz» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «voz». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Pronome relativo nominativo singular feminino",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo nominativo singular feminino; pronome em estrutura relativa. A equivalência portuguesa «que» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome relativo nominativo singular feminino. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo imperfeito ativa indicativo, 3ª pessoa singular",
       "meanings": "falar",
-      "explanation": "Verbo imperfeito ativa indicativo, 3ª pessoa singular; núcleo verbal. A equivalência portuguesa «falava» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo imperfeito ativa indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «falava». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "com; depois de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «com» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «com». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal genitivo singular; pronome pessoal no sintagma. A equivalência portuguesa «eu» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular. Pronome pessoal no sintagma. Glosa contextual: «mim». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "-AAPNSM-",
       "morphology": "Verbo aoristo ativa particípio, nominativo singular masculino",
       "meanings": "voltar-se; retornar",
-      "explanation": "Verbo aoristo ativa particípio, nominativo singular masculino; forma participial; relação sintática a examinar. A equivalência portuguesa «voltei-me» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa particípio, nominativo singular masculino. Particípio aoristo adverbial de anterioridade. Glosa contextual: «tendo-me voltado». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «vi» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Verbo principal da segunda oração. Glosa contextual: «vi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo acusativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "candelabro; suporte de lâmpada",
-      "explanation": "Substantivo acusativo plural feminino; nome em função acusativa. A equivalência portuguesa «candelabros» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo plural feminino. Nome em função acusativa. Glosa contextual: «candelabros». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "de ouro; dourado",
-      "explanation": "Adjetivo acusativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «de ouro» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «de ouro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],

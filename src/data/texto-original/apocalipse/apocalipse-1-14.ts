@@ -27,7 +27,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "mas; e; por sua vez",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "cabeça",
-      "explanation": "Substantivo nominativo singular feminino; núcleo nominal. A equivalência portuguesa «cabeça» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «cabeça». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "cabelo; fio de cabelo",
-      "explanation": "Substantivo nominativo plural feminino; núcleo nominal. A equivalência portuguesa «cabelos» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual: «cabelos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "branco",
-      "explanation": "Adjetivo nominativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «brancos» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo plural feminino. Predicativo nominativo feminino plural de τρίχες. Glosa contextual: «brancos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «como» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "lã",
-      "explanation": "Substantivo nominativo singular neutro; núcleo nominal. A equivalência portuguesa «lã» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular neutro. Núcleo nominal. Glosa contextual: «lã». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "branco",
-      "explanation": "Adjetivo nominativo singular neutro; modificador adjetival ou predicativo. A equivalência portuguesa «brancos» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo singular neutro. Modificador adjetival ou predicativo. Glosa contextual: «branca». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «como» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "neve",
-      "explanation": "Substantivo nominativo singular feminino; núcleo nominal. A equivalência portuguesa «neve» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «neve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
       "meanings": "olho",
-      "explanation": "Substantivo nominativo plural masculino; núcleo nominal. A equivalência portuguesa «olhos» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo plural masculino. Núcleo nominal. Glosa contextual: «olhos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -435,7 +435,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «como» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -459,7 +459,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "chama",
-      "explanation": "Substantivo nominativo singular feminino; núcleo nominal. A equivalência portuguesa «chama» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «chama». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
@@ -483,7 +483,7 @@ export const apocalipse1v14 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "fogo",
-      "explanation": "Substantivo genitivo singular neutro; complemento nominal no genitivo. A equivalência portuguesa «fogo» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo singular neutro. Complemento nominal no genitivo. Glosa contextual: «fogo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],

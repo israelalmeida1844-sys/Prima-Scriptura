@@ -27,7 +27,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "1AMI-S--",
       "morphology": "Verbo aoristo média indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «estava» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular. Predicado verbal principal, primeira pessoa singular. Glosa contextual: «achei-me». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
       "meanings": "espírito; Espírito",
-      "explanation": "Substantivo dativo singular neutro; nome em construção dativa. A equivalência portuguesa «Espírito» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular neutro. Nome em construção dativa. Glosa contextual: «Espírito». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "dia",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «dia» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «dia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
       "meanings": "ouvir",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular; núcleo verbal. A equivalência portuguesa «ouvi» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «ouvi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "atrás",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «atrás» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «atrás». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal genitivo singular; pronome pessoal no sintagma. A equivalência portuguesa «eu» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular. Pronome pessoal no sintagma. Glosa contextual: «de mim». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Substantivo acusativo singular feminino; nome em função acusativa. A equivalência portuguesa «voz» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo acusativo singular feminino. Objeto direto de ἤκουσα. Glosa contextual: «voz». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "grande",
-      "explanation": "Adjetivo acusativo singular feminino; modificador adjetival ou predicativo. A equivalência portuguesa «grande» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo acusativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «grande». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «como» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "trombeta",
-      "explanation": "Substantivo genitivo singular feminino; complemento nominal no genitivo. A equivalência portuguesa «trombeta» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo singular feminino. Complemento nominal no genitivo. Glosa contextual: «trombeta». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],

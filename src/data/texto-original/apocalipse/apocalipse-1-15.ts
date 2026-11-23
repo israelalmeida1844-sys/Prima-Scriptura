@@ -27,7 +27,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural masculino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
       "meanings": "pé",
-      "explanation": "Substantivo nominativo plural masculino; núcleo nominal. A equivalência portuguesa «pés» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo plural masculino. Núcleo nominal. Glosa contextual: «pés». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "semelhante",
-      "explanation": "Adjetivo nominativo plural masculino; modificador adjetival ou predicativo. A equivalência portuguesa «semelhante» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo nominativo plural masculino. Modificador adjetival ou predicativo. Glosa contextual: «semelhantes». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «como» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «em» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "fornalha",
-      "explanation": "Substantivo dativo singular feminino; nome em construção dativa. A equivalência portuguesa «fornalha» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo dativo singular feminino. Complemento dativo de ἐν. Glosa contextual: «fornalha». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular feminino; determinante do sintagma nominal. A equivalência portuguesa «o» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Artigo definido nominativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Substantivo nominativo singular feminino; núcleo nominal. A equivalência portuguesa «voz» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «voz». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -339,7 +339,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino; pronome pessoal no sintagma. A equivalência portuguesa «dele» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -363,7 +363,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «como» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -387,7 +387,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Substantivo nominativo singular feminino; núcleo nominal. A equivalência portuguesa «voz» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «voz». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -411,7 +411,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo genitivo plural neutro",
       "meanings": "água",
-      "explanation": "Substantivo genitivo plural neutro; complemento nominal no genitivo. A equivalência portuguesa «águas» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo genitivo plural neutro. Complemento nominal no genitivo. Glosa contextual: «águas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -435,7 +435,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----GPN-",
       "morphology": "Adjetivo genitivo plural neutro",
       "meanings": "muito; numeroso",
-      "explanation": "Adjetivo genitivo plural neutro; modificador adjetival ou predicativo. A equivalência portuguesa «muitas» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo genitivo plural neutro. Modificador adjetival ou predicativo. Glosa contextual: «muitas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],

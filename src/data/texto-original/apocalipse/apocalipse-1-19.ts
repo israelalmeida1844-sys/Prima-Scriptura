@@ -27,7 +27,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo aoristo ativa imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular; núcleo verbal imperativo. A equivalência portuguesa «escreve» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular. Núcleo verbal imperativo. Glosa contextual: «escreve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -51,7 +51,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "portanto; pois",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «portanto» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «portanto». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -75,7 +75,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome relativo acusativo plural neutro",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo acusativo plural neutro; pronome em estrutura relativa. A equivalência portuguesa «que» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome relativo acusativo plural neutro. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -99,7 +99,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo aoristo ativa indicativo, 2ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo aoristo ativa indicativo, 2ª pessoa singular; núcleo verbal. A equivalência portuguesa «vi» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo aoristo ativa indicativo, 2ª pessoa singular. Núcleo verbal da primeira oração relativa, segunda pessoa singular. Glosa contextual: «viste». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -123,7 +123,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -147,7 +147,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo nominativo plural neutro; pronome em estrutura relativa. A equivalência portuguesa «que» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome relativo nominativo plural neutro. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -171,7 +171,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente ativa indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural; núcleo verbal. A equivalência portuguesa «sou» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural. Núcleo verbal da segunda relativa, terceira pessoa plural. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -195,7 +195,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável); conector de coordenação ou articulação discursiva. A equivalência portuguesa «e» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -219,7 +219,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo nominativo plural neutro; pronome em estrutura relativa. A equivalência portuguesa «que» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome relativo nominativo plural neutro. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -243,7 +243,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente ativa indicativo, 3ª pessoa singular",
       "meanings": "estar para; ser iminente",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa singular; núcleo verbal. A equivalência portuguesa «hão de» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente ativa indicativo, 3ª pessoa singular. Núcleo verbal singular da terceira relativa; rege γίνεσθαι. Glosa contextual: «está para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -267,7 +267,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "-PMN----",
       "morphology": "Verbo presente média infinitivo",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo presente média infinitivo; infinitivo integrante da construção verbal. A equivalência portuguesa «estava» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Verbo presente média infinitivo. Infinitivo presente médio complemento de μέλλει. Glosa contextual: «acontecer». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -291,7 +291,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "com; depois de",
-      "explanation": "Preposição (indeclinável); introduz complemento preposicional. A equivalência portuguesa «com» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «depois de». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -315,7 +315,7 @@ export const apocalipse1v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
       "meanings": "este; essas coisas",
-      "explanation": "Pronome demonstrativo acusativo plural neutro; modificador ou elemento discursivo. A equivalência portuguesa «essas coisas» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Pronome demonstrativo acusativo plural neutro. Modificador ou elemento discursivo. Glosa contextual: «essas coisas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
