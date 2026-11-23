@@ -37,6 +37,8 @@ jobs:
           npm install --no-audit --no-fund
           npm install --no-save --no-audit --no-fund playwright
           npx playwright install --with-deps chromium
+      - name: Proteger os 50 manuscritos incompletos de Gênesis
+        run: node scripts/homologar-genesis-rascunhos.mjs
       - name: Auditar todas as concordâncias de Gn 1:1–8
         run: node scripts/homologar-genesis-indices.mjs
       - name: Compilar Astro sem deploy
