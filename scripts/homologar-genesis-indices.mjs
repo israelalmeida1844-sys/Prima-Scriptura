@@ -13,7 +13,7 @@ const counts=[7,14,6,12,13,11,17,10];
 const uniqueIds=new Set();
 for(let n=1;n<=8;n++){
   const file=await readFile('src/data/texto-original/genesis-1-'+n+'.ts','utf8');
-  const strongs=[...file.matchAll(/\bstrong\s*:\s*['"](H\d+)['"]/g)].map(m=>m[1]);
+  const strongs=[...file.matchAll(/\bstrong["']?\s*:\s*['"](H\d+)['"]/g)].map(m=>m[1]);
   assert.equal(strongs.length,counts[n-1],'Segmentação errada Gn 1:'+n);
   for(const id of strongs)uniqueIds.add(id);
   assert.ok(file.includes('Gênesis 1:'+n),'Referência ausente');
