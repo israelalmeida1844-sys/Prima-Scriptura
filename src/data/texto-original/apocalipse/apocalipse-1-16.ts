@@ -7,8 +7,8 @@ export const apocalipse1v16 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Na mão direita ele segurava sete estrelas; de sua boca saía uma espada afiada de dois gumes, e seu rosto brilhava como o sol em toda a sua força.",
-  "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "A espada de dois gumes que sai da boca é imagem simbólica, não descrição anatômica; relacionar com o poder da palavra e com Apocalipse 19:15,21.",
+  "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
+  "textualNotes": "ἔχων é particípio presente ativo nominativo singular masculino, vinculado ao personagem descrito; ῥομφαία δίστομος ὀξεῖα é sujeito nominativo da oração elíptica com ἐκπορευομένη. A espada saída da boca é símbolo de autoridade verbal, comparável a Ap 19:15,21.",
   "exegeticalNotes": [
     "As sete estrelas adquirem identificação contextual em 1:20.",
     "A espada da boca e o brilho solar expressam autoridade e glória."
@@ -43,7 +43,7 @@ export const apocalipse1v16 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "ἔχων",
       "transliteration": "echōn",
-      "gloss": "tinha",
+      "gloss": "tenho",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -56,7 +56,7 @@ export const apocalipse1v16 = {
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio nominativo masculino singular descritivo do personagem",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -91,7 +91,7 @@ export const apocalipse1v16 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "o",
+      "gloss": "na/à",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -218,7 +218,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
-      "meanings": "sete",
+      "meanings": "sete (numeral cardinal indeclinável; a análise de caso indicada é contextual)",
       "explanation": "Adjetivo acusativo plural masculino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -283,7 +283,7 @@ export const apocalipse1v16 = {
       "shortMorph": "Art-GSN",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -368,7 +368,7 @@ export const apocalipse1v16 = {
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Sujeito nominativo feminino singular de uma oração com particípio",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -427,7 +427,7 @@ export const apocalipse1v16 = {
       "shortMorph": "V-PMP-NSF",
       "greek": "ἐκπορευομένη,",
       "transliteration": "ekporeuomenē",
-      "gloss": "saía",
+      "gloss": "que saía",
       "strong": "G1607",
       "lemma": "ἐκπορεύομαι",
       "lemmaTransliteration": "ekporeuomai",
@@ -440,7 +440,7 @@ export const apocalipse1v16 = {
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio presente médio/passivo nominativo feminino singular, concordando com ῥομφαία",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -667,7 +667,7 @@ export const apocalipse1v16 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "o",
+      "gloss": "na/à",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
