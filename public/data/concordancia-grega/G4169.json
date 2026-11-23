@@ -1,0 +1,281 @@
+{
+  "strong": "G4169",
+  "lemma": "ποῖος",
+  "lemmaTranslit": "poios",
+  "tokenCount": 33,
+  "verseCount": 32,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 4,
+    "Lucas": 8,
+    "João": 4,
+    "Atos": 4,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "Tiago": 1,
+    "1 Pedro": 2,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Mt 19:18",
+      "text": "αὐτῷ· Ποίας; ὁ",
+      "highlightedWord": "Ποίας;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Mt 21:23",
+      "text": "Ἐν ποίᾳ ἐξουσίᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Mt 21:24",
+      "text": "ἐν ποίᾳ ἐξουσίᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Mt 21:27",
+      "text": "ἐν ποίᾳ ἐξουσίᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 36,
+      "reference": "Mt 22:36",
+      "text": "Διδάσκαλε, ποία ἐντολὴ",
+      "highlightedWord": "ποία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 42,
+      "reference": "Mt 24:42",
+      "text": "οἴδατε ποίᾳ ἡμέρᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "οἰκοδεσπότης ποίᾳ φυλακῇ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Mk 11:28",
+      "text": "Ἐν ποίᾳ ἐξουσίᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Mk 11:29",
+      "text": "ἐν ποίᾳ ἐξουσίᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Mk 11:33",
+      "text": "ἐν ποίᾳ ἐξουσίᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Mk 12:28",
+      "text": "αὐτόν· Ποία ἐστὶν",
+      "highlightedWord": "Ποία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Lk 5:19",
+      "text": "εὑρόντες ποίας εἰσενέγκωσιν",
+      "highlightedWord": "ποίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Lk 6:32",
+      "text": "ὑμᾶς, ποία ὑμῖν",
+      "highlightedWord": "ποία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Lk 6:33",
+      "text": "ὑμᾶς, ποία ὑμῖν",
+      "highlightedWord": "ποία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Lk 6:34",
+      "text": "λαβεῖν, ποία ὑμῖν",
+      "highlightedWord": "ποία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Lk 12:39",
+      "text": "οἰκοδεσπότης ποίᾳ ὥρᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Lk 20:2",
+      "text": "ἐν ποίᾳ ἐξουσίᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Lk 20:8",
+      "text": "ἐν ποίᾳ ἐξουσίᾳ",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Lk 24:19",
+      "text": "αὐτοῖς· Ποῖα; οἱ",
+      "highlightedWord": "Ποῖα;"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Jn 10:32",
+      "text": "διὰ ποῖον αὐτῶν",
+      "highlightedWord": "ποῖον"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Jn 12:33",
+      "text": "σημαίνων ποίῳ θανάτῳ",
+      "highlightedWord": "ποίῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Jn 18:32",
+      "text": "σημαίνων ποίῳ θανάτῳ",
+      "highlightedWord": "ποίῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Jn 21:19",
+      "text": "σημαίνων ποίῳ θανάτῳ",
+      "highlightedWord": "ποίῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ac 4:7",
+      "text": "Ἐν ποίᾳ δυνάμει",
+      "highlightedWord": "ποίᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Ac 7:49",
+      "text": "μου· ποῖον οἶκον",
+      "highlightedWord": "ποῖον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 34,
+      "reference": "Ac 23:34",
+      "text": "ἐκ ποίας ἐπαρχείας",
+      "highlightedWord": "ποίας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Ro 3:27",
+      "text": "διὰ ποίου νόμου;",
+      "highlightedWord": "ποίου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 35,
+      "reference": "1Co 15:35",
+      "text": "νεκροί, ποίῳ δὲ",
+      "highlightedWord": "ποίῳ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Jas 4:14",
+      "text": "αὔριον ποία ἡ",
+      "highlightedWord": "ποία"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "1Pe 1:11",
+      "text": "ἢ ποῖον καιρὸν",
+      "highlightedWord": "ποῖον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "1Pe 2:20",
+      "text": "ποῖον γὰρ",
+      "highlightedWord": "ποῖον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "γνῷς ποίαν ὥραν",
+      "highlightedWord": "ποίαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
