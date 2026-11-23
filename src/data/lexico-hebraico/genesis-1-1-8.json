@@ -18,8 +18,8 @@
               "reference": "Gn 1:1",
               "translation": "No princípio, Deus criou.",
               "explanation": "O vocábulo introduz o horizonte inicial da narrativa da criação.",
-              "hebrew": "בְּ/רֵאשִׁית בָּרָא",
-              "wordForm": "בְּ/רֵאשִׁית",
+              "hebrew": "בְּרֵאשִׁית בָּרָא",
+              "wordForm": "בְּרֵאשִׁית",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -48,8 +48,8 @@
               "reference": "Gn 49:3",
               "translation": "Rúben, meu primogênito, princípio da minha força.",
               "explanation": "O termo indica precedência em uma relação familiar.",
-              "hebrew": "כֹּחִ/י וְ/רֵאשִׁית אוֹנִ/י",
-              "wordForm": "וְ/רֵאשִׁית",
+              "hebrew": "כֹּחִי וְרֵאשִׁית אוֹנִי",
+              "wordForm": "וְרֵאשִׁית",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -75,7 +75,7 @@
               "reference": "Gn 1:1",
               "translation": "Deus criou os céus e a terra.",
               "explanation": "No Qal, descreve a ação criadora divina.",
-              "hebrew": "בְּ/רֵאשִׁית בָּרָא אֱלֹהִים",
+              "hebrew": "בְּרֵאשִׁית בָּרָא אֱלֹהִים",
               "wordForm": "בָּרָא",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -90,7 +90,7 @@
               "reference": "Sl 51:12",
               "translation": "Cria em mim um coração puro.",
               "explanation": "O verbo se aplica figuradamente à renovação interior, ainda com Deus como agente.",
-              "hebrew": "טָהוֹר בְּרָא לִ/י",
+              "hebrew": "טָהוֹר בְּרָא לִי",
               "wordForm": "בְּרָא",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -105,8 +105,8 @@
               "reference": "Js 17:15",
               "translation": "Sobe ao bosque e abre ali um espaço.",
               "explanation": "Uso em outro tronco: não se deve transferir automaticamente este sentido ao Qal de Gn 1:1.",
-              "hebrew": "הַ/יַּעְרָ/ה וּ/בֵרֵאתָ לְ/ךָ",
-              "wordForm": "וּ/בֵרֵאתָ",
+              "hebrew": "הַיַּעְרָה וּבֵרֵאתָ לְךָ",
+              "wordForm": "וּבֵרֵאתָ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -147,7 +147,7 @@
               "reference": "Êx 20:3",
               "translation": "Não terás outros deuses diante de mim.",
               "explanation": "O adjetivo 'outros' e a proibição tornam clara a referência plural.",
-              "hebrew": "לְ/ךָ אֱלֹהִים אֲחֵרִים",
+              "hebrew": "לְךָ אֱלֹהִים אֲחֵרִים",
               "wordForm": "אֱלֹהִים",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -174,7 +174,7 @@
               "reference": "Gn 1:1",
               "translation": "Deus criou os céus e a terra.",
               "explanation": "A partícula introduz o objeto direto determinado do verbo 'criar'.",
-              "hebrew": "אֱלֹהִים אֵת הַ/שָּׁמַיִם",
+              "hebrew": "אֱלֹהִים אֵת הַשָּׁמַיִם",
               "wordForm": "אֵת",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -201,7 +201,7 @@
               "reference": "Gn 1:8",
               "translation": "Deus chamou à expansão Céu.",
               "explanation": "A palavra é o nome dado à expansão neste contexto.",
-              "hebrew": "לָ/רָקִיעַ שָׁמָיִם וַ/יְהִי",
+              "hebrew": "לָרָקִיעַ שָׁמָיִם וַיְהִי",
               "wordForm": "שָׁמָיִם",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -216,8 +216,8 @@
               "reference": "Gn 1:1",
               "translation": "Deus criou os céus e a terra.",
               "explanation": "A dupla expressão abrange a realidade criada, além de um local específico do céu.",
-              "hebrew": "אֵת הַ/שָּׁמַיִם וְ/אֵת",
-              "wordForm": "הַ/שָּׁמַיִם",
+              "hebrew": "אֵת הַשָּׁמַיִם וְאֵת",
+              "wordForm": "הַשָּׁמַיִם",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -243,8 +243,8 @@
               "reference": "Gn 1:1",
               "translation": "Deus criou os céus e a terra.",
               "explanation": "A expressão 'céus e terra' indica uma totalidade.",
-              "hebrew": "וְ/אֵת הָ/אָרֶץ",
-              "wordForm": "הָ/אָרֶץ",
+              "hebrew": "וְאֵת הָאָרֶץ",
+              "wordForm": "הָאָרֶץ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -258,8 +258,8 @@
               "reference": "Gn 12:1",
               "translation": "Vai para a terra que eu te mostrarei.",
               "explanation": "A promessa se refere a uma região determinada, não ao planeta inteiro.",
-              "hebrew": "לְ/ךָ מֵ/אַרְצְ/ךָ וּ/מִ/מּוֹלַדְתְּ/ךָ",
-              "wordForm": "מֵ/אַרְצְ/ךָ",
+              "hebrew": "לְךָ מֵאַרְצְךָ וּמִמּוֹלַדְתְּךָ",
+              "wordForm": "מֵאַרְצְךָ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -273,8 +273,8 @@
               "reference": "Gn 2:5",
               "translation": "Ainda não havia brotado a erva do campo na terra.",
               "explanation": "O contexto vegetal favorece a referência ao solo terrestre.",
-              "hebrew": "יִהְיֶה בָ/אָרֶץ וְ/כָל",
-              "wordForm": "בָ/אָרֶץ",
+              "hebrew": "יִהְיֶה בָאָרֶץ וְכָל",
+              "wordForm": "בָאָרֶץ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -300,7 +300,7 @@
               "reference": "Gn 1:2",
               "translation": "A terra estava sem forma e vazia.",
               "explanation": "A forma verbal descreve a condição da terra, não necessariamente mudança anterior.",
-              "hebrew": "וְ/הָ/אָרֶץ הָיְתָה תֹהוּ",
+              "hebrew": "וְהָאָרֶץ הָיְתָה תֹהוּ",
               "wordForm": "הָיְתָה",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -315,8 +315,8 @@
               "reference": "Gn 1:7",
               "translation": "E assim aconteceu.",
               "explanation": "A forma narrativa com כֵן sinaliza o cumprimento.",
-              "hebrew": "לָ/רָקִיעַ וַ/יְהִי כֵן",
-              "wordForm": "וַ/יְהִי",
+              "hebrew": "לָרָקִיעַ וַיְהִי כֵן",
+              "wordForm": "וַיְהִי",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -330,8 +330,8 @@
               "reference": "Gn 2:7",
               "translation": "O homem tornou-se ser vivente.",
               "explanation": "O verbo relaciona o ser humano ao estado resultante.",
-              "hebrew": "חַיִּים וַ/יְהִי הָ/אָדָם",
-              "wordForm": "וַ/יְהִי",
+              "hebrew": "חַיִּים וַיְהִי הָאָדָם",
+              "wordForm": "וַיְהִי",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -357,7 +357,7 @@
               "reference": "Gn 1:2",
               "translation": "A terra estava sem forma e vazia.",
               "explanation": "O termo aparece em par com בֹּהוּ.",
-              "hebrew": "הָיְתָה תֹהוּ וָ/בֹהוּ",
+              "hebrew": "הָיְתָה תֹהוּ וָבֹהוּ",
               "wordForm": "תֹהוּ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -372,8 +372,8 @@
               "reference": "Is 40:17",
               "translation": "As nações são tidas como nada diante dele.",
               "explanation": "O texto utiliza o termo em avaliação figurada, não descrição geográfica.",
-              "hebrew": "מֵ/אֶפֶס וָ/תֹהוּ נֶחְשְׁבוּ",
-              "wordForm": "וָ/תֹהוּ",
+              "hebrew": "מֵאֶפֶס וָתֹהוּ נֶחְשְׁבוּ",
+              "wordForm": "וָתֹהוּ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -399,16 +399,16 @@
               "reference": "Gn 1:2",
               "translation": "A terra estava sem forma e vazia.",
               "explanation": "A combinação descreve a condição inicial, não uma destruição prévia obrigatória.",
-              "hebrew": "תֹהוּ וָ/בֹהוּ וְ/חֹשֶׁךְ",
-              "wordForm": "וָ/בֹהוּ",
+              "hebrew": "תֹהוּ וָבֹהוּ וְחֹשֶׁךְ",
+              "wordForm": "וָבֹהוּ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             },
             {
               "reference": "Jr 4:23",
               "translation": "Olhei para a terra, e estava sem forma e vazia.",
               "explanation": "O profeta reaproveita a dupla lexical na descrição de desolação.",
-              "hebrew": "תֹהוּ וָ/בֹהוּ וְ/אֶל",
-              "wordForm": "וָ/בֹהוּ",
+              "hebrew": "תֹהוּ וָבֹהוּ וְאֶל",
+              "wordForm": "וָבֹהוּ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -434,8 +434,8 @@
               "reference": "Gn 1:2",
               "translation": "Havia trevas sobre a superfície do abismo.",
               "explanation": "Trata-se de uma descrição do estado antes da palavra criadora da luz.",
-              "hebrew": "וָ/בֹהוּ וְ/חֹשֶׁךְ עַל",
-              "wordForm": "וְ/חֹשֶׁךְ",
+              "hebrew": "וָבֹהוּ וְחֹשֶׁךְ עַל",
+              "wordForm": "וְחֹשֶׁךְ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -449,7 +449,7 @@
               "reference": "Is 5:20",
               "translation": "Os que fazem das trevas luz e da luz trevas.",
               "explanation": "O paralelismo moral usa a palavra como imagem, não como estado meteorológico.",
-              "hebrew": "שָׂמִים חֹשֶׁךְ לְ/אוֹר",
+              "hebrew": "שָׂמִים חֹשֶׁךְ לְאוֹר",
               "wordForm": "חֹשֶׁךְ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -476,7 +476,7 @@
               "reference": "Gn 1:2",
               "translation": "Sobre a superfície das águas.",
               "explanation": "A preposição indica relação espacial com o referente.",
-              "hebrew": "וְ/חֹשֶׁךְ עַל פְּנֵי",
+              "hebrew": "וְחֹשֶׁךְ עַל פְּנֵי",
               "wordForm": "עַל",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -491,7 +491,7 @@
               "reference": "Gn 1:26",
               "translation": "Tenham domínio sobre os peixes do mar.",
               "explanation": "A preposição introduz o domínio sobre o qual se exerce autoridade.",
-              "hebrew": "הָ/רֹמֵשׂ עַל הָ/אָרֶץ",
+              "hebrew": "הָרֹמֵשׂ עַל הָאָרֶץ",
               "wordForm": "עַל",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -518,8 +518,8 @@
               "reference": "Gn 4:6",
               "translation": "Por que descaiu o teu semblante?",
               "explanation": "O contexto descreve a expressão do rosto de Caim.",
-              "hebrew": "נָפְלוּ פָנֶי/ךָ",
-              "wordForm": "פָנֶי/ךָ",
+              "hebrew": "נָפְלוּ פָנֶיךָ",
+              "wordForm": "פָנֶיךָ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -548,8 +548,8 @@
               "reference": "Gn 3:8",
               "translation": "Esconderam-se da presença do Senhor Deus.",
               "explanation": "A construção com a preposição comunica o afastamento da presença divina.",
-              "hebrew": "וְ/אִשְׁתּ/וֹ מִ/פְּנֵי יְהוָה",
-              "wordForm": "מִ/פְּנֵי",
+              "hebrew": "וְאִשְׁתּוֹ מִפְּנֵי יְהוָה",
+              "wordForm": "מִפְּנֵי",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -575,7 +575,7 @@
               "reference": "Gn 1:2",
               "translation": "Havia trevas sobre a superfície do abismo.",
               "explanation": "O termo caracteriza o cenário aquático inicial.",
-              "hebrew": "פְּנֵי תְהוֹם וְ/רוּחַ",
+              "hebrew": "פְּנֵי תְהוֹם וְרוּחַ",
               "wordForm": "תְהוֹם",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -689,7 +689,7 @@
               "reference": "Dt 32:11",
               "translation": "Como a águia paira sobre os filhotes.",
               "explanation": "A comparação com a águia esclarece uma possibilidade imagética do verbo.",
-              "hebrew": "גּוֹזָלָי/ו יְרַחֵף יִפְרֹשׂ",
+              "hebrew": "גּוֹזָלָיו יְרַחֵף יִפְרֹשׂ",
               "wordForm": "יְרַחֵף",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -716,16 +716,16 @@
               "reference": "Gn 1:6",
               "translation": "Haja uma expansão no meio das águas.",
               "explanation": "A palavra refere-se ao meio aquático separado pela expansão.",
-              "hebrew": "בְּ/תוֹךְ הַ/מָּיִם וִ/יהִי",
-              "wordForm": "הַ/מָּיִם",
+              "hebrew": "בְּתוֹךְ הַמָּיִם וִיהִי",
+              "wordForm": "הַמָּיִם",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             },
             {
               "reference": "Êx 7:20",
               "translation": "As águas do rio se transformaram.",
               "explanation": "O contexto identifica águas de um curso de água.",
-              "hebrew": "אֶת הַ/מַּיִם אֲשֶׁר",
-              "wordForm": "הַ/מַּיִם",
+              "hebrew": "אֶת הַמַּיִם אֲשֶׁר",
+              "wordForm": "הַמַּיִם",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -751,8 +751,8 @@
               "reference": "Gn 1:3",
               "translation": "E Deus disse: haja luz.",
               "explanation": "A forma introduz fala direta.",
-              "hebrew": "וַ/יֹּאמֶר אֱלֹהִים",
-              "wordForm": "וַ/יֹּאמֶר",
+              "hebrew": "וַיֹּאמֶר אֱלֹהִים",
+              "wordForm": "וַיֹּאמֶר",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -766,8 +766,8 @@
               "reference": "Gn 3:2",
               "translation": "A mulher disse à serpente.",
               "explanation": "A fala é uma intervenção na troca verbal.",
-              "hebrew": "וַ/תֹּאמֶר הָ/אִשָּׁה",
-              "wordForm": "וַ/תֹּאמֶר",
+              "hebrew": "וַתֹּאמֶר הָאִשָּׁה",
+              "wordForm": "וַתֹּאמֶר",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -793,7 +793,7 @@
               "reference": "Gn 1:3",
               "translation": "Haja luz.",
               "explanation": "A palavra designa o elemento criado pela ordem divina.",
-              "hebrew": "יְהִי אוֹר וַ/יְהִי",
+              "hebrew": "יְהִי אוֹר וַיְהִי",
               "wordForm": "אוֹר",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -808,8 +808,8 @@
               "reference": "Sl 27:1",
               "translation": "O Senhor é minha luz e minha salvação.",
               "explanation": "O paralelismo indica valor figurado da palavra.",
-              "hebrew": "יְהוָה אוֹרִ/י וְ/יִשְׁעִ/י",
-              "wordForm": "אוֹרִ/י",
+              "hebrew": "יְהוָה אוֹרִי וְיִשְׁעִי",
+              "wordForm": "אוֹרִי",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -835,8 +835,8 @@
               "reference": "Gn 1:4",
               "translation": "Deus viu que a luz era boa.",
               "explanation": "O verbo introduz a avaliação da luz.",
-              "hebrew": "וַ/יַּרְא אֱלֹהִים",
-              "wordForm": "וַ/יַּרְא",
+              "hebrew": "וַיַּרְא אֱלֹהִים",
+              "wordForm": "וַיַּרְא",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -850,8 +850,8 @@
               "reference": "Gn 6:5",
               "translation": "O Senhor viu que a maldade se multiplicava.",
               "explanation": "O objeto da percepção é uma condição moral, não um objeto isolado.",
-              "hebrew": "וַ/יַּרְא יְהוָה",
-              "wordForm": "וַ/יַּרְא",
+              "hebrew": "וַיַּרְא יְהוָה",
+              "wordForm": "וַיַּרְא",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -877,7 +877,7 @@
               "reference": "Gn 1:4",
               "translation": "Deus viu que a luz era boa.",
               "explanation": "A partícula marca o conteúdo da avaliação.",
-              "hebrew": "הָ/אוֹר כִּי טוֹב",
+              "hebrew": "הָאוֹר כִּי טוֹב",
               "wordForm": "כִּי",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -892,7 +892,7 @@
               "reference": "Gn 2:3",
               "translation": "Deus santificou o dia, porque nele descansou.",
               "explanation": "A oração fornece a justificativa da santificação.",
-              "hebrew": "אֹת/וֹ כִּי ב/וֹ",
+              "hebrew": "אֹתוֹ כִּי בוֹ",
               "wordForm": "כִּי",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -919,7 +919,7 @@
               "reference": "Gn 1:4",
               "translation": "Deus viu que a luz era boa.",
               "explanation": "O adjetivo participa da fórmula avaliativa da criação.",
-              "hebrew": "כִּי טוֹב וַ/יַּבְדֵּל",
+              "hebrew": "כִּי טוֹב וַיַּבְדֵּל",
               "wordForm": "טוֹב",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -934,7 +934,7 @@
               "reference": "Gn 3:6",
               "translation": "A árvore era boa para alimento.",
               "explanation": "O contexto trata de uma percepção de utilidade e desejo.",
-              "hebrew": "כִּי טוֹב הָ/עֵץ",
+              "hebrew": "כִּי טוֹב הָעֵץ",
               "wordForm": "טוֹב",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -976,8 +976,8 @@
               "reference": "Gn 1:4",
               "translation": "Deus separou a luz das trevas.",
               "explanation": "A ação determina domínios diferentes.",
-              "hebrew": "טוֹב וַ/יַּבְדֵּל אֱלֹהִים",
-              "wordForm": "וַ/יַּבְדֵּל",
+              "hebrew": "טוֹב וַיַּבְדֵּל אֱלֹהִים",
+              "wordForm": "וַיַּבְדֵּל",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -991,8 +991,8 @@
               "reference": "Lv 10:10",
               "translation": "Fazer diferença entre o santo e o profano.",
               "explanation": "A separação se aplica ao discernimento cultual.",
-              "hebrew": "וּ/לֲ/הַבְדִּיל בֵּין",
-              "wordForm": "וּ/לֲ/הַבְדִּיל",
+              "hebrew": "וּלֲהַבְדִּיל בֵּין",
+              "wordForm": "וּלֲהַבְדִּיל",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1006,7 +1006,7 @@
               "reference": "Dt 10:8",
               "translation": "O Senhor separou a tribo de Levi.",
               "explanation": "A ação introduz uma destinação específica.",
-              "hebrew": "הַ/הִוא הִבְדִּיל יְהוָה",
+              "hebrew": "הַהִוא הִבְדִּיל יְהוָה",
               "wordForm": "הִבְדִּיל",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -1033,7 +1033,7 @@
               "reference": "Gn 1:4",
               "translation": "Separou entre a luz e as trevas.",
               "explanation": "O contexto explicita a correlação entre os dois domínios.",
-              "hebrew": "אֱלֹהִים בֵּין הָ/אוֹר",
+              "hebrew": "אֱלֹהִים בֵּין הָאוֹר",
               "wordForm": "בֵּין",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -1060,8 +1060,8 @@
               "reference": "Gn 3:9",
               "translation": "O Senhor Deus chamou o homem.",
               "explanation": "O objeto da fala é uma pessoa convocada.",
-              "hebrew": "וַ/יִּקְרָא יְהוָה",
-              "wordForm": "וַ/יִּקְרָא",
+              "hebrew": "וַיִּקְרָא יְהוָה",
+              "wordForm": "וַיִּקְרָא",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1075,8 +1075,8 @@
               "reference": "Gn 1:8",
               "translation": "Deus chamou à expansão Céu.",
               "explanation": "A construção com לְ introduz a entidade nomeada.",
-              "hebrew": "וַ/יִּקְרָא אֱלֹהִים",
-              "wordForm": "וַ/יִּקְרָא",
+              "hebrew": "וַיִּקְרָא אֱלֹהִים",
+              "wordForm": "וַיִּקְרָא",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1090,8 +1090,8 @@
               "reference": "Gn 12:8",
               "translation": "Ali invocou o nome do Senhor.",
               "explanation": "A construção com o nome divino designa invocação.",
-              "hebrew": "לַ/יהוָה וַ/יִּקְרָא בְּ/שֵׁם",
-              "wordForm": "וַ/יִּקְרָא",
+              "hebrew": "לַיהוָה וַיִּקְרָא בְּשֵׁם",
+              "wordForm": "וַיִּקְרָא",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1117,7 +1117,7 @@
               "reference": "Gn 1:5",
               "translation": "Deus chamou à luz Dia.",
               "explanation": "O termo designa o período claro, contrastado com a noite.",
-              "hebrew": "לָ/אוֹר יוֹם וְ/לַ/חֹשֶׁךְ",
+              "hebrew": "לָאוֹר יוֹם וְלַחֹשֶׁךְ",
               "wordForm": "יוֹם",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -1147,8 +1147,8 @@
               "reference": "Gn 2:4",
               "translation": "No dia em que o Senhor Deus fez a terra e os céus.",
               "explanation": "O uso funciona como referência à ocasião da criação no resumo narrativo.",
-              "hebrew": "בְּ/הִבָּרְאָ/ם בְּ/יוֹם עֲשׂוֹת",
-              "wordForm": "בְּ/יוֹם",
+              "hebrew": "בְּהִבָּרְאָם בְּיוֹם עֲשׂוֹת",
+              "wordForm": "בְּיוֹם",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1174,7 +1174,7 @@
               "reference": "Gn 1:5",
               "translation": "Às trevas chamou Noite.",
               "explanation": "A designação ocorre em oposição ao período luminoso.",
-              "hebrew": "קָרָא לָיְלָה וַ/יְהִי",
+              "hebrew": "קָרָא לָיְלָה וַיְהִי",
               "wordForm": "לָיְלָה",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             },
@@ -1209,7 +1209,7 @@
               "reference": "Gn 1:8",
               "translation": "Houve tarde e houve manhã.",
               "explanation": "Integra a fórmula temporal do relato da criação.",
-              "hebrew": "וַ/יְהִי עֶרֶב וַ/יְהִי",
+              "hebrew": "וַיְהִי עֶרֶב וַיְהִי",
               "wordForm": "עֶרֶב",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             },
@@ -1217,7 +1217,7 @@
               "reference": "Gn 24:63",
               "translation": "Isaque saiu ao campo ao cair da tarde.",
               "explanation": "O contexto narrativo é o momento vespertino.",
-              "hebrew": "לִ/פְנוֹת עָרֶב וַ/יִּשָּׂא",
+              "hebrew": "לִפְנוֹת עָרֶב וַיִּשָּׂא",
               "wordForm": "עָרֶב",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -1244,7 +1244,7 @@
               "reference": "Gn 1:8",
               "translation": "Houve tarde e houve manhã.",
               "explanation": "A palavra completa a fórmula temporal.",
-              "hebrew": "וַ/יְהִי בֹקֶר יוֹם",
+              "hebrew": "וַיְהִי בֹקֶר יוֹם",
               "wordForm": "בֹקֶר",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             },
@@ -1252,8 +1252,8 @@
               "reference": "Gn 22:3",
               "translation": "Abraão levantou-se de madrugada.",
               "explanation": "O contexto situa a ação nas primeiras horas da manhã.",
-              "hebrew": "אַבְרָהָם בַּ/בֹּקֶר וַ/יַּחֲבֹשׁ",
-              "wordForm": "בַּ/בֹּקֶר",
+              "hebrew": "אַבְרָהָם בַּבֹּקֶר וַיַּחֲבֹשׁ",
+              "wordForm": "בַּבֹּקֶר",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1279,7 +1279,7 @@
               "reference": "Gn 1:9",
               "translation": "Reúnam-se as águas num só lugar.",
               "explanation": "O adjetivo indica singularidade do lugar.",
-              "hebrew": "מָקוֹם אֶחָד וְ/תֵרָאֶה",
+              "hebrew": "מָקוֹם אֶחָד וְתֵרָאֶה",
               "wordForm": "אֶחָד",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -1294,7 +1294,7 @@
               "reference": "Gn 2:24",
               "translation": "Os dois serão uma só carne.",
               "explanation": "O contexto conjugal ressalta a unidade resultante.",
-              "hebrew": "לְ/בָשָׂר אֶחָד",
+              "hebrew": "לְבָשָׂר אֶחָד",
               "wordForm": "אֶחָד",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -1321,7 +1321,7 @@
               "reference": "Gn 1:6",
               "translation": "Haja uma expansão no meio das águas.",
               "explanation": "A função separadora é expressa pelo contexto.",
-              "hebrew": "יְהִי רָקִיעַ בְּ/תוֹךְ",
+              "hebrew": "יְהִי רָקִיעַ בְּתוֹךְ",
               "wordForm": "רָקִיעַ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             },
@@ -1329,8 +1329,8 @@
               "reference": "Gn 1:8",
               "translation": "Deus chamou à expansão Céu.",
               "explanation": "O nome atribuído esclarece sua função narrativa.",
-              "hebrew": "אֱלֹהִים לָ/רָקִיעַ שָׁמָיִם",
-              "wordForm": "לָ/רָקִיעַ",
+              "hebrew": "אֱלֹהִים לָרָקִיעַ שָׁמָיִם",
+              "wordForm": "לָרָקִיעַ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1344,7 +1344,7 @@
               "reference": "Ez 1:22",
               "translation": "Sobre as cabeças havia algo semelhante a uma expansão.",
               "explanation": "A ocorrência pertence a uma descrição visionária, sem demonstrar composição física literal.",
-              "hebrew": "הַ/חַיָּה רָקִיעַ כְּ/עֵין",
+              "hebrew": "הַחַיָּה רָקִיעַ כְּעֵין",
               "wordForm": "רָקִיעַ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -1371,8 +1371,8 @@
               "reference": "Gn 1:6",
               "translation": "No meio das águas.",
               "explanation": "O substantivo aparece em construção preposicional.",
-              "hebrew": "רָקִיעַ בְּ/תוֹךְ הַ/מָּיִם",
-              "wordForm": "בְּ/תוֹךְ",
+              "hebrew": "רָקִיעַ בְּתוֹךְ הַמָּיִם",
+              "wordForm": "בְּתוֹךְ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1386,8 +1386,8 @@
               "reference": "Gn 18:24",
               "translation": "Cinquenta justos no meio da cidade.",
               "explanation": "O termo localiza pessoas dentro de uma coletividade urbana.",
-              "hebrew": "צַדִּיקִם בְּ/תוֹךְ הָ/עִיר",
-              "wordForm": "בְּ/תוֹךְ",
+              "hebrew": "צַדִּיקִם בְּתוֹךְ הָעִיר",
+              "wordForm": "בְּתוֹךְ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1413,8 +1413,8 @@
               "reference": "Gn 1:7",
               "translation": "Deus fez a expansão.",
               "explanation": "A forma narrativa descreve a execução da ordem divina.",
-              "hebrew": "וַ/יַּעַשׂ אֱלֹהִים",
-              "wordForm": "וַ/יַּעַשׂ",
+              "hebrew": "וַיַּעַשׂ אֱלֹהִים",
+              "wordForm": "וַיַּעַשׂ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1428,8 +1428,8 @@
               "reference": "Gn 6:22",
               "translation": "Noé fez conforme tudo quanto Deus lhe ordenara.",
               "explanation": "O verbo designa cumprir instruções, não criar um objeto específico.",
-              "hebrew": "וַ/יַּעַשׂ נֹחַ",
-              "wordForm": "וַ/יַּעַשׂ",
+              "hebrew": "וַיַּעַשׂ נֹחַ",
+              "wordForm": "וַיַּעַשׂ",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1455,7 +1455,7 @@
               "reference": "Gn 1:7",
               "translation": "As águas que estavam abaixo da expansão.",
               "explanation": "Introduz uma oração que identifica as águas pela posição.",
-              "hebrew": "הַ/מַּיִם אֲשֶׁר מִ/תַּחַת",
+              "hebrew": "הַמַּיִם אֲשֶׁר מִתַּחַת",
               "wordForm": "אֲשֶׁר",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             },
@@ -1463,7 +1463,7 @@
               "reference": "Gn 2:8",
               "translation": "No jardim que havia plantado.",
               "explanation": "A partícula estabelece a relação entre substantivo e oração.",
-              "hebrew": "הָ/אָדָם אֲשֶׁר יָצָר",
+              "hebrew": "הָאָדָם אֲשֶׁר יָצָר",
               "wordForm": "אֲשֶׁר",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
@@ -1490,8 +1490,8 @@
               "reference": "Gn 1:7",
               "translation": "As águas debaixo da expansão.",
               "explanation": "A forma tem prefixo מִן em מִתַּחַת, preservando o lema תַּחַת.",
-              "hebrew": "אֲשֶׁר מִ/תַּחַת לָ/רָקִיעַ",
-              "wordForm": "מִ/תַּחַת",
+              "hebrew": "אֲשֶׁר מִתַּחַת לָרָקִיעַ",
+              "wordForm": "מִתַּחַת",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
           ]
@@ -1532,7 +1532,7 @@
               "reference": "Gn 1:7",
               "translation": "E assim aconteceu.",
               "explanation": "Fórmula narrativa de cumprimento da ordem.",
-              "hebrew": "וַ/יְהִי כֵן",
+              "hebrew": "וַיְהִי כֵן",
               "wordForm": "כֵן",
               "source": "Westminster Leningrad Codex / OSHB v.2.2"
             }
