@@ -3,7 +3,7 @@ export const genesis1v6 = {
   "reference": "Gênesis 1:6",
   "source": "Texto Massorético (WLC/OSHB v.2.2); vocalização preservada, cantilação omitida; divisão didática em 11 unidades.",
   "translation": "E Deus disse: «Haja uma expansão no meio das águas, e que ela faça separação entre águas e águas.»",
-  "translationNote": "Tradução editorial própria. 'Expansão' representa רָקִיעַ; 'firmamento' é tradução tradicional. A segunda forma de היה ('וִיהִי') exprime continuidade volitiva, não o relato de cumprimento do v. 7.",
+  "translationNote": "Tradução editorial própria. 'Expansão' representa רָקִיעַ; 'firmamento' é tradução tradicional. A segunda forma de היה (וִיהִי) prossegue a ordem divina. Em בֵּין מַיִם לָמָיִם, a preposição לְ introduz o segundo termo da comparação; não há artigo definido ou conjunção explícita em לָמָיִם.",
   "words": [
     {
       "id": "gn1-6-1",
@@ -56,9 +56,9 @@ export const genesis1v6 = {
       "gloss": "no meio de",
       "strong": "H8432",
       "lemma": "תָּוֶךְ",
-      "morphology": "Preposição בְּ + substantivo תָּוֶךְ em construção preposicional",
+      "morphology": "Preposição בְּ + substantivo תָּוֶךְ em estado construto (בְּתוֹךְ), ligado a הַמָּיִם",
       "meanings": "Interior, meio, centro.",
-      "explanation": "A preposição בְּ introduz a localização da expansão; o lema H8432 é תָּוֶךְ, não o prefixo בְּ."
+      "explanation": "A preposição בְּ introduz a localização da expansão; o substantivo תָּוֶךְ está em construto com 'as águas'. O lema H8432 é תָּוֶךְ, não o prefixo בְּ."
     },
     {
       "id": "gn1-6-6",
@@ -80,7 +80,7 @@ export const genesis1v6 = {
       "lemma": "הָיָה",
       "morphology": "Conjunção וְ + verbo Qal jussivo, terceira pessoa masculina singular",
       "meanings": "Ser, estar, acontecer, tornar-se.",
-      "explanation": "Continua a fala divina com valor volitivo: que a expansão atue como elemento separador. Não é necessariamente o wayyiqtol narrativo 'e houve'."
+      "explanation": "Continua a fala divina com valor volitivo: que a expansão atue como elemento separador. Neste contexto, não é o wayyiqtol narrativo 'e houve'; prossegue o comando introduzido por יְהִי."
     },
     {
       "id": "gn1-6-8",
@@ -119,12 +119,12 @@ export const genesis1v6 = {
       "id": "gn1-6-11",
       "hebrew": "לָמָיִם",
       "transliteration": "lammāyim",
-      "gloss": "das águas",
+      "gloss": "e águas",
       "strong": "H4325",
       "lemma": "מַיִם",
-      "morphology": "Preposição לְ + artigo definido assimilado + substantivo de forma plural",
+      "morphology": "Preposição לְ + substantivo de forma plural (sem artigo definido); a vogal da preposição aparece como qamets na forma massorética לָמָיִם",
       "meanings": "Água, águas.",
-      "explanation": "A preposição לְ participa da construção idiomática בֵּין ... לְ ('entre ... e ...'). A leitura 'das águas' é tradução contextual da relação, não significado independente do prefixo."
+      "explanation": "A preposição לְ introduz o segundo termo da construção correlativa בֵּין מַיִם לָמָיִם, idiomaticamente 'entre águas e águas'. Não há artigo definido nesta forma. A tradução 'e águas' não corresponde a uma conjunção hebraica explícita; expressa em português a correlação entre os termos."
     }
   ]
 } as const;
