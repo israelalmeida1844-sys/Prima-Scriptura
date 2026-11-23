@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+import TextoOriginalGenesis1v8 from '../../components/TextoOriginalGenesis1v8.astro';
+---
+<Base title="Gênesis 1:8 — texto original (rascunho)" description="Protótipo editorial interativo do texto original de Gênesis 1:8 em revisão.">
+  <main class="draft-page">
+    <div class="draft-wrapper">
+      <p class="draft-label">Pré-visualização editorial · não publicado</p>
+      <h1>Gênesis 1:8 — texto hebraico original</h1>
+      <p>Protótipo editorial submetido à revisão, seguindo o modelo de Gênesis 1:3 e utilizando Times New Roman em todos os elementos.</p>
+      <TextoOriginalGenesis1v8 />
+      <p class="draft-warning">Esta página é um arquivo de pré-visualização na branch de rascunho. Não foi integrada à navegação pública nem implantada no site principal.</p>
+    </div>
+  </main>
+</Base>
+<style>
+  .draft-page{padding:48px 0 70px}
+  .draft-wrapper{max-width:1120px;margin:auto;padding:0 24px}
+  .draft-label{font-size:12px;font-weight:700;color:#96723c;letter-spacing:.08em;text-transform:uppercase}
+  h1{font-size:clamp(28px,4vw,42px);margin:8px 0 10px}
+  .draft-wrapper>p:not(.draft-label):not(.draft-warning){max-width:750px;color:#526074;margin-bottom:23px}
+  .draft-warning{font-size:13px;color:#647083;padding-top:15px}
+</style>
