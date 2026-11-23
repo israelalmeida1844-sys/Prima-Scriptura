@@ -1,0 +1,126 @@
+name: Produzir e validar Apocalipse 1:2 (rascunho, sem publicação)
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths: ['.github/workflows/validar-apocalipse-1-2.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  gerar-e-homologar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Conferir que a edição aprovada de Apocalipse 1:1 permanece intacta
+        run: |
+          test "$(git branch --show-current)" = "rascunho/apocalipse"
+          sha256sum src/data/texto-original/apocalipse/apocalipse-1-1.ts > /tmp/sha-ap1v1
+          sha256sum src/data/lexico-grego/apocalipse-1-1.json >> /tmp/sha-ap1v1
+          sha256sum public/data/concordancia-grega/G*.json > /tmp/sha-indices-ap1v1
+      - name: Gerar cinco concordâncias gregas exaustivas sobre todos os 27 livros
+        run: node --max-old-space-size=4096 scripts/gerar-concordancias-apocalipse-1-2.mjs
+      - name: Validar Apocalipse 1:1 e a nova análise de Apocalipse 1:2
+        run: |
+          node --experimental-strip-types scripts/validar-apocalipse-1-1.mjs
+          node --experimental-strip-types scripts/validar-apocalipse-1-2.mjs
+          sha256sum -c /tmp/sha-ap1v1
+      - name: Compilar Astro 5, incluindo os outros livros
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          for v in 1 2; do
+            test -s "dist/comentarios/apocalipse/capitulo-1/versiculo-$v/index.html"
+            grep -q "data-original-apocalipse-1-$v" "dist/comentarios/apocalipse/capitulo-1/versiculo-$v/index.html"
+          done
+          test -s dist/comentarios/apocalipse/index.html
+          test -s dist/comentarios/apocalipse/capitulo-1/index.html
+          test -s dist/comentarios/genesis/capitulo-1/versiculo-1/index.html
+          test -s dist/comentarios/hebreus/index.html
+          test -s dist/comentarios/1-joao/index.html
+          test -s dist/comentarios/daniel/index.html
+          test -s dist/admin/index.html
+          for id in G3140 G3056 G3141 G3745 G3708; do test -s "dist/data/concordancia-grega/$id.json"; done
+      - name: Instalar Chromium e validar interface e responsividade
+        run: |
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+          npx astro preview --host 127.0.0.1 --port 4321 > /tmp/apocalipse-1-2.log 2>&1 &
+          for n in $(seq 1 45); do
+            if curl -fsS http://127.0.0.1:4321/comentarios/apocalipse/capitulo-1/versiculo-2/ >/dev/null; then break; fi
+            sleep 1
+          done
+          node --input-type=module <<'JS'
+          import {chromium} from 'playwright';
+          import assert from 'node:assert/strict';
+          import fs from 'node:fs';
+          const expected=JSON.parse(fs.readFileSync('public/data/concordancia-grega/G3140.json','utf8'));
+          const browser=await chromium.launch({headless:true});
+          try{
+            for(const width of [1440,390,320]){
+              const ctx=await browser.newContext({viewport:{width,height:820}});
+              const page=await ctx.newPage();
+              const errors=[];
+              page.on('pageerror',e=>errors.push(e.message));
+              const response=await page.goto('http://127.0.0.1:4321/comentarios/apocalipse/capitulo-1/versiculo-2/',{waitUntil:'networkidle'});
+              assert.equal(response?.status(),200);
+              const root=page.locator('[data-original-apocalipse-1-2]');
+              assert.equal(await root.count(),1);
+              assert.equal(await root.locator('[data-word-index]').count(),13);
+              await root.locator('[data-word-index="1"]').click();
+              assert.equal((await root.locator('[data-lexicon-strong]').innerText()).trim(),'G3140');
+              assert.ok((await root.locator('[data-lexicon-meanings]').innerText()).includes('Testemunhar'));
+              assert.ok((await root.locator('[data-lexicon-syntax]').innerText()).includes('Predicado'));
+              const check=root.locator('[data-toggle="translation"]');
+              await check.uncheck();
+              assert.equal(await root.evaluate(el=>el.classList.contains('hide-translation')),true);
+              await check.check();
+              await root.locator('[data-occurrences-toggle]').click();
+              await root.locator('[data-occurrences-total]:visible').waitFor({timeout:30000});
+              const total=await root.locator('[data-occurrences-total]').innerText();
+              assert.ok(total.includes(expected.verseCount+' versículos'),total);
+              assert.equal(await root.locator('.concordance-reference').count(),expected.verseCount);
+              assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth+2),false,'Rolagem horizontal '+width);
+              assert.deepEqual(errors,[],'Erros JS '+width);
+              if(width===390)await page.screenshot({path:'apocalipse-1-2-mobile.png',fullPage:true});
+              if(width===1440)await page.screenshot({path:'apocalipse-1-2-desktop.png',fullPage:true});
+              console.log('HOMOLOGADO: Ap 1:2',width,'px, 13 palavras, G3140 '+expected.verseCount+' versículos.');
+              await ctx.close();
+            }
+            const page=await browser.newPage();
+            await page.goto('http://127.0.0.1:4321/comentarios/apocalipse/capitulo-1/versiculo-1/',{waitUntil:'networkidle'});
+            assert.equal(await page.locator('[data-original-apocalipse-1-1] [data-word-index]').count(),28);
+            await page.goto('http://127.0.0.1:4321/comentarios/apocalipse/capitulo-1/',{waitUntil:'networkidle'});
+            assert.equal(await page.locator('.verse-list a').count(),2);
+            console.log('REGRESSÃO OK: Ap 1:1 intacto; capítulo 1 inclui dois versículos.');
+          }finally{await browser.close()}
+          JS
+      - name: Persistir os cinco índices gerados e a auditoria somente em rascunho/apocalipse
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data/concordancia-grega/G3140.json
+          git add public/data/concordancia-grega/G3056.json
+          git add public/data/concordancia-grega/G3141.json
+          git add public/data/concordancia-grega/G3745.json
+          git add public/data/concordancia-grega/G3708.json
+          git add src/editorial/apocalipse/AP.1.2-auditoria.json
+          git add src/editorial/apocalipse/NOTAS-APOCALIPSE-1-2.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'Concluir 5 concordâncias exaustivas e auditoria filológica de Ap 1:2 (somente rascunho)'
+            git pull --rebase origin rascunho/apocalipse
+            git push origin HEAD:rascunho/apocalipse
+          fi
+      - name: Guardar imagens de prévia para aprovação antes de publicar
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apocalipse-1-2-prévia-rascunho
+          path: |
+            apocalipse-1-2-mobile.png
+            apocalipse-1-2-desktop.png
+          if-no-files-found: warn
