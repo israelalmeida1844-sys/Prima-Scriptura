@@ -1,0 +1,53 @@
+name: Homologacao Apocalipse 1-8
+
+on:
+  push:
+    branches:
+      - rascunho/apocalipse
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependencias
+        run: npm install --no-audit --no-fund
+      - name: Compilar Astro
+        run: npm run build
+      - name: Verificar oito rotas e arquivos de concordancia
+        shell: bash
+        run: |
+          set -euo pipefail
+          for v in {1..8}; do
+            test -s "dist/comentarios/apocalipse/capitulo-1/versiculo-$v/index.html"
+          done
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const verses = [3,4,5,6,7,8];
+          const expected = [20,31,33,22,25,21];
+          for (const [i,v] of verses.entries()) {
+            const file = fs.readFileSync(`src/data/texto-original/apocalipse/apocalipse-1-${v}.ts`, 'utf8');
+            const match = file.match(/=\s*(\{[\s\S]*\})\s*as const;/);
+            if (!match) throw new Error(`Dados TS nao interpretaveis em 1:${v}`);
+            const obj=JSON.parse(match[1]);
+            if(obj.words.length!==expected[i]) throw new Error(`Quantidade incorreta de tokens em 1:${v}`);
+            for (const w of obj.words) {
+              if(w.morphologyCode.length!==8) throw new Error(`Morph invalido: ${w.id}`);
+              const index = `public/data/concordancia-grega/${w.strong}.json`;
+              if(!fs.existsSync(index)) throw new Error(`Concordancia ausente: ${index}`);
+              const data = JSON.parse(fs.readFileSync(index, 'utf8'));
+              if(data.complete !== true || data.references.length!==data.verseCount) throw new Error(`Concordancia invalida: ${w.strong}`);
+            }
+          }
+          console.log('PASSOU: 152 tokens, oito rotas, morfologia e concordancias.');
+          NODE
