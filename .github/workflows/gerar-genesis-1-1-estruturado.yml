@@ -1,4 +1,5 @@
 name: Completar Gênesis 1:1 — JSON integral e seis concordâncias
+# Revisão sintática do gerador verificada; repetir geração e auditoria.
 on:
   push:
     branches: [rascunho/genesis]
