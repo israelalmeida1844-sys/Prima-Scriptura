@@ -10,7 +10,9 @@ export const apocalipse4v2 = {
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "A descrição do trono deve ser relacionada à visão de Ap 1:10 e às cenas de trono de Ez 1 e Is 6, distinguindo observação textual de identificação dos participantes."
+    "A descrição do trono deve ser relacionada à visão de Ap 1:10 e às cenas de trono de Ez 1 e Is 6, distinguindo observação textual de identificação dos participantes.",
+    "ἐγενόμην ἐν πνεύματι admite tradução mais literal «achei-me em espírito»; «fui tomado pelo Espírito» explicita uma interpretação do estado visionário, sem afirmar uma alteração física.",
+    "O imperfeito ἔκειτο descreve um trono já colocado; o nominativo καθήμενος funciona na construção elíptica que introduz seu ocupante."
   ],
   "words": [
     {
@@ -26,12 +28,12 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "Advérbio temporal «imediatamente», marcando o início da nova experiência visionária (4:2).",
-      "explanation": "Forma «εὐθέως» (εὐθέως, G2112); Advérbio. Advérbio temporal «imediatamente», marcando o início da nova experiência visionária (4:2). Elemento da construção; dependência a revisar. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "Forma «εὐθέως» (εὐθέως, G2112); Advérbio. Advérbio temporal «imediatamente», marcando o início da nova experiência visionária (4:2). Advérbio temporal que modifica ἐγενόμην. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Advérbio temporal que modifica ἐγενόμην",
         "clauseId": "AP.4.2.C1",
         "governedBy": null
       },
@@ -146,12 +148,12 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "eis; veja",
-      "explanation": "Forma «ἰδοὺ» (ἰδού, G2400); Partícula. Sentido lexical contextual: eis. Elemento da construção; dependência a revisar. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "Forma «ἰδοὺ» (ἰδού, G2400); Partícula. Sentido lexical contextual: eis. Partícula apresentativa da visão. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Partícula apresentativa da visão",
         "clauseId": "AP.4.2.C1",
         "governedBy": null
       },
