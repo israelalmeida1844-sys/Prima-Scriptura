@@ -10,7 +10,9 @@ export const apocalipse4v9 = {
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "O ato dos viventes provoca a prostração dos anciãos no verso seguinte; a fórmula «pelos séculos dos séculos» enfatiza a eternidade divina."
+    "O ato dos viventes provoca a prostração dos anciãos no verso seguinte; a fórmula «pelos séculos dos séculos» enfatiza a eternidade divina.",
+    "ὅταν com o futuro indicativo δώσουσιν é uma irregularidade sintática conservada pelo SBLGNT; a construção introduz a resposta futura/recorrente explicitada no v. 10.",
+    "διδόναι δόξαν, τιμὴν καὶ εὐχαριστίαν forma um conjunto de atos de adoração; «dar» não implica conferir glória àquele que já a possui."
   ],
   "words": [
     {
