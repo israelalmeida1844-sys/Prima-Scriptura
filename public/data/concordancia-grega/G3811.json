@@ -1,0 +1,128 @@
+{
+  "strong": "G3811",
+  "lemma": "παιδεύω",
+  "lemmaTranslit": "paideuō",
+  "tokenCount": 13,
+  "verseCount": 13,
+  "bookDistribution": {
+    "Lucas": 2,
+    "Atos": 2,
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 3,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 16,
+      "reference": "Lk 23:16",
+      "text": "παιδεύσας οὖν",
+      "highlightedWord": "παιδεύσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Lk 23:22",
+      "text": "αὐτῷ· παιδεύσας οὖν",
+      "highlightedWord": "παιδεύσας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Ac 7:22",
+      "text": "καὶ ἐπαιδεύθη Μωϋσῆς",
+      "highlightedWord": "ἐπαιδεύθη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Ac 22:3",
+      "text": "Γαμαλιήλ, πεπαιδευμένος κατὰ",
+      "highlightedWord": "πεπαιδευμένος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "1Co 11:32",
+      "text": "κυρίου παιδευόμεθα, ἵνα",
+      "highlightedWord": "παιδευόμεθα,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "2Co 6:9",
+      "text": "ὡς παιδευόμενοι καὶ",
+      "highlightedWord": "παιδευόμενοι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "1Ti 1:20",
+      "text": "ἵνα παιδευθῶσι μὴ",
+      "highlightedWord": "παιδευθῶσι"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "2Ti 2:25",
+      "text": "πραΰτητι παιδεύοντα τοὺς",
+      "highlightedWord": "παιδεύοντα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Tit 2:12",
+      "text": "παιδεύουσα ἡμᾶς,",
+      "highlightedWord": "παιδεύουσα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Heb 12:6",
+      "text": "κύριος παιδεύει, μαστιγοῖ",
+      "highlightedWord": "παιδεύει,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Heb 12:7",
+      "text": "οὐ παιδεύει πατήρ;",
+      "highlightedWord": "παιδεύει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Heb 12:10",
+      "text": "αὐτοῖς ἐπαίδευον, ὁ",
+      "highlightedWord": "ἐπαίδευον,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Re 3:19",
+      "text": "καὶ παιδεύω· ζήλευε",
+      "highlightedWord": "παιδεύω·"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
