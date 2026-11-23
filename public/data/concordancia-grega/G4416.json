@@ -1,0 +1,27 @@
+{
+  "strong": "G4416",
+  "lemma": "πρωτότοκος",
+  "lemmaTranslit": "prōtotokos",
+  "tokenCount": 8,
+  "verseCount": 8,
+  "bookDistribution": {
+    "Lc": 1,
+    "Rm": 1,
+    "Cl": 2,
+    "Hb": 3,
+    "Ap": 1
+  },
+  "references": [
+    "Lc 2:7",
+    "Rm 8:29",
+    "Cl 1:15",
+    "Cl 1:18",
+    "Hb 1:6",
+    "Hb 11:28",
+    "Hb 12:23",
+    "Ap 1:5"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}
