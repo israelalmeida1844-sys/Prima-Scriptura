@@ -8,10 +8,10 @@ export const apocalipse1v11 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "que dizia: «O que você vê, escreva em um livro e envie às sete igrejas: a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia».",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "O versículo inicia-se por λεγούσης (particípio presente ativo genitivo feminino singular, retomando a voz de 1:10), seguido por Ὃ βλέπεις γράψον. A expansão «Eu sou o Alfa e o Ômega, o Primeiro e o Último» do Textus Receptus não integra o SBLGNT.",
+  "textualNotes": "λεγούσης é particípio presente ativo genitivo feminino singular e concorda formalmente com σάλπιγγος («trombeta»), genitivo feminino singular que encerra Ap 1:10, não com φωνὴν («voz»), que está no acusativo. Semanticamente, a comparação descreve a voz que transmite a mensagem, mas a concordância gramatical faz parte da construção «como [a de] uma trombeta que dizia». Após λεγούσης, segue Ὃ βλέπεις γράψον. A interpolação do Textus Receptus «Eu sou o Alfa e o Ômega, o Primeiro e o Último» não integra o SBLGNT.",
   "exegeticalNotes": [
-    "A ordem escrever-enviar torna pública e comunitária a revelação.",
-    "A enumeração geográfica estabelece os destinatários reais das mensagens."
+    "O texto vincula formalmente λεγούσης à comparação com a trombeta (σάλπιγγος); o leitor percebe a voz que fala por meio da imagem auditiva.",
+    "O mandato «escreve o que vês» introduz as mensagens destinadas às sete igrejas da Ásia."
   ],
   "words": [
     {
@@ -27,14 +27,14 @@ export const apocalipse1v11 = {
       "morphologyCode": "-PAPGSF-",
       "morphology": "Verbo presente ativa particípio, genitivo singular feminino",
       "meanings": "dizer; falar",
-      "explanation": "Verbo presente ativa particípio, genitivo singular feminino; forma participial; relação sintática a examinar. A equivalência portuguesa «dizendo» deve ser interpretada no encadeamento da frase.",
+      "explanation": "λεγούσης é particípio presente ativo, genitivo feminino singular de λέγω. O antecedente de concordância é σάλπιγγος (1:10), também genitivo feminino singular; φωνὴν é acusativo feminino singular e não pode concordar formalmente com o particípio.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Particípio presente ativo genitivo feminino singular; concorda com a voz de 1:10",
+        "role": "Particípio presente ativo genitivo feminino singular, concordando formalmente com σάλπιγγος (1:10)",
         "clauseId": "AP.1.11.C1",
-        "governedBy": null
+        "governedBy": "σάλπιγγος (Ap 1:10)"
       },
       "morphgntPos": "V-"
     },
