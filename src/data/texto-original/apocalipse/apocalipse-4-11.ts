@@ -10,7 +10,10 @@ export const apocalipse4v11 = {
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "O hino atribui a Deus a criação de todas as coisas e liga existência à vontade divina. A sequência ἦσαν καὶ ἐκτίσθησαν deve ser preservada, sem transformá-la em cronologia filosófica rígida."
+    "O hino atribui a Deus a criação de todas as coisas e liga existência à vontade divina. A sequência ἦσαν καὶ ἐκτίσθησαν deve ser preservada, sem transformá-la em cronologia filosófica rígida.",
+    "O predicativo ἄξιος com o infinitivo λαβεῖν exprime dignidade para receber aclamação; a sequência glória–honra–poder está fundamentada no ato criador de Deus.",
+    "διὰ τὸ θέλημά σου é construção causal (διά + acusativo), «por causa de tua vontade»; não se deve converter ἦσαν καὶ ἐκτίσθησαν em cronologia filosófica da criação.",
+    "O texto SBLGNT apresenta ἦσαν («existiam») antes de ἐκτίσθησαν («foram criadas»), sequência preservada pela tradução; qualquer variante textual específica exigiria citação de aparato e testemunhos."
   ],
   "words": [
     {
@@ -26,12 +29,12 @@ export const apocalipse4v11 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "Digno, adequado ou merecedor; em 3:4 funciona como predicativo da promessa de andar com Cristo.",
-      "explanation": "Forma «Ἄξιος» (ἄξιος, G514); Adjetivo nominativo singular masculino. Sentido lexical contextual: digno. Elemento da construção; dependência a revisar. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
+      "explanation": "Forma «Ἄξιος» (ἄξιος, G514); Adjetivo nominativo singular masculino. Sentido lexical contextual: digno. Predicativo do sujeito de εἶ. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
       "occurrencesExamples": [
         "Ap 4:11"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Predicativo do sujeito de εἶ",
         "clauseId": "AP.4.11.C1",
         "governedBy": null
       },
@@ -194,12 +197,12 @@ export const apocalipse4v11 = {
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
       "meanings": "eu; nós",
-      "explanation": "Forma «ἡμῶν,» (ἐγώ, G1473); Pronome pessoal genitivo plural. Sentido lexical contextual: eu; mim; nosso. Elemento da construção; dependência a revisar. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
+      "explanation": "Forma «ἡμῶν,» (ἐγώ, G1473); Pronome pessoal genitivo plural. Sentido lexical contextual: eu; mim; nosso. Genitivo possessivo do sintagma ὁ θεός. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
       "occurrencesExamples": [
         "Ap 4:11"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Genitivo possessivo do sintagma ὁ θεός",
         "clauseId": "AP.4.11.C1",
         "governedBy": null
       },
@@ -458,12 +461,12 @@ export const apocalipse4v11 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σὺ» (σύ, G4771); Pronome pessoal nominativo singular. Sentido lexical contextual: tu; teu; a ti. Elemento da construção; dependência a revisar. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
+      "explanation": "Forma «σὺ» (σύ, G4771); Pronome pessoal nominativo singular. Sentido lexical contextual: tu; teu; a ti. Pronome pessoal enfático, sujeito de ἔκτισας. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
       "occurrencesExamples": [
         "Ap 4:11"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Pronome pessoal enfático, sujeito de ἔκτισας",
         "clauseId": "AP.4.11.C1",
         "governedBy": null
       },
@@ -530,12 +533,12 @@ export const apocalipse4v11 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "todo; cada",
-      "explanation": "Forma «πάντα,» (πᾶς, G3956); Adjetivo acusativo plural neutro. Sentido lexical contextual: todos; todas. Elemento da construção; dependência a revisar. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
+      "explanation": "Forma «πάντα,» (πᾶς, G3956); Adjetivo acusativo plural neutro. Sentido lexical contextual: todos; todas. Adjetivo substantivado, objeto direto de ἔκτισας. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
       "occurrencesExamples": [
         "Ap 4:11"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo substantivado, objeto direto de ἔκτισας",
         "clauseId": "AP.4.11.C1",
         "governedBy": null
       },
@@ -650,12 +653,12 @@ export const apocalipse4v11 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σου» (σύ, G4771); Pronome pessoal genitivo singular. Sentido lexical contextual: tu; teu; a ti. Elemento da construção; dependência a revisar. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
+      "explanation": "Forma «σου» (σύ, G4771); Pronome pessoal genitivo singular. Sentido lexical contextual: tu; teu; a ti. Genitivo possessivo de θέλημα. Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
       "occurrencesExamples": [
         "Ap 4:11"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Genitivo possessivo de θέλημα",
         "clauseId": "AP.4.11.C1",
         "governedBy": null
       },
