@@ -1,0 +1,456 @@
+{
+  "strong": "G1138",
+  "lemma": "Δαυίδ",
+  "lemmaTranslit": "Dauid",
+  "tokenCount": 59,
+  "verseCount": 54,
+  "bookDistribution": {
+    "Mateus": 17,
+    "Marcos": 7,
+    "Lucas": 13,
+    "João": 2,
+    "Atos": 11,
+    "Romanos": 3,
+    "2 Timóteo": 1,
+    "Hebreus": 2,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Mt 1:1",
+      "text": "υἱοῦ Δαυὶδ υἱοῦ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Mt 1:6",
+      "text": "τὸν Δαυὶδ τὸν",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Mt 1:17",
+      "text": "ἕως Δαυὶδ γενεαὶ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mt 1:20",
+      "text": "υἱὸς Δαυίδ, μὴ",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Mt 9:27",
+      "text": "υἱὲ Δαυίδ.",
+      "highlightedWord": "Δαυίδ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Mt 12:3",
+      "text": "ἐποίησεν Δαυὶδ ὅτε",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Mt 12:23",
+      "text": "υἱὸς Δαυίδ;",
+      "highlightedWord": "Δαυίδ;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Mt 15:22",
+      "text": "υἱὸς Δαυίδ· ἡ",
+      "highlightedWord": "Δαυίδ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Mt 20:30",
+      "text": "υἱὸς Δαυίδ.",
+      "highlightedWord": "Δαυίδ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Mt 20:31",
+      "text": "υἱὸς Δαυίδ.",
+      "highlightedWord": "Δαυίδ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Mt 21:9",
+      "text": "υἱῷ Δαυίδ· Εὐλογημένος",
+      "highlightedWord": "Δαυίδ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Mt 21:15",
+      "text": "υἱῷ Δαυίδ ἠγανάκτησαν",
+      "highlightedWord": "Δαυίδ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 42,
+      "reference": "Mt 22:42",
+      "text": "Τοῦ Δαυίδ.",
+      "highlightedWord": "Δαυίδ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 43,
+      "reference": "Mt 22:43",
+      "text": "οὖν Δαυὶδ ἐν",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 45,
+      "reference": "Mt 22:45",
+      "text": "οὖν Δαυὶδ καλεῖ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Mk 2:25",
+      "text": "ἐποίησεν Δαυὶδ ὅτε",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 47,
+      "reference": "Mk 10:47",
+      "text": "Υἱὲ Δαυὶδ Ἰησοῦ,",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 48,
+      "reference": "Mk 10:48",
+      "text": "Υἱὲ Δαυίδ, ἐλέησόν",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Mk 11:10",
+      "text": "ἡμῶν Δαυίδ· Ὡσαννὰ",
+      "highlightedWord": "Δαυίδ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Mk 12:35",
+      "text": "υἱὸς Δαυίδ ἐστιν;",
+      "highlightedWord": "Δαυίδ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mk 12:36",
+      "text": "αὐτὸς Δαυὶδ εἶπεν",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Mk 12:37",
+      "text": "αὐτὸς Δαυὶδ λέγει",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Lk 1:27",
+      "text": "οἴκου Δαυίδ, καὶ",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Lk 1:32",
+      "text": "θρόνον Δαυὶδ τοῦ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 69,
+      "reference": "Lk 1:69",
+      "text": "οἴκῳ Δαυὶδ παιδὸς",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Lk 2:4",
+      "text": "πόλιν Δαυὶδ ἥτις",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Lk 2:11",
+      "text": "πόλει Δαυίδ·",
+      "highlightedWord": "Δαυίδ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Lk 3:31",
+      "text": "τοῦ Δαυὶδ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Lk 6:3",
+      "text": "ἐποίησεν Δαυὶδ ὁπότε",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 38,
+      "reference": "Lk 18:38",
+      "text": "υἱὲ Δαυίδ, ἐλέησόν",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 39,
+      "reference": "Lk 18:39",
+      "text": "Υἱὲ Δαυίδ, ἐλέησόν",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 41,
+      "reference": "Lk 20:41",
+      "text": "εἶναι Δαυὶδ υἱόν;",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 42,
+      "reference": "Lk 20:42",
+      "text": "γὰρ Δαυὶδ λέγει",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 44,
+      "reference": "Lk 20:44",
+      "text": "Δαυὶδ οὖν",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Jn 7:42",
+      "text": "σπέρματος Δαυίδ, καὶ",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ac 1:16",
+      "text": "στόματος Δαυὶδ περὶ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Ac 2:25",
+      "text": "Δαυὶδ γὰρ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Ac 2:29",
+      "text": "πατριάρχου Δαυίδ, ὅτι",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 34,
+      "reference": "Ac 2:34",
+      "text": "γὰρ Δαυὶδ ἀνέβη",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Ac 4:25",
+      "text": "στόματος Δαυὶδ παιδός",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Ac 7:45",
+      "text": "ἡμερῶν Δαυίδ·",
+      "highlightedWord": "Δαυίδ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Ac 13:22",
+      "text": "τὸν Δαυὶδ αὐτοῖς",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Ac 13:34",
+      "text": "ὅσια Δαυὶδ τὰ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 36,
+      "reference": "Ac 13:36",
+      "text": "Δαυὶδ μὲν",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Ac 15:16",
+      "text": "σκηνὴν Δαυὶδ τὴν",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Ro 1:3",
+      "text": "σπέρματος Δαυὶδ κατὰ",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Ro 4:6",
+      "text": "καὶ Δαυὶδ λέγει",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Ro 11:9",
+      "text": "καὶ Δαυὶδ λέγει·",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "2Ti 2:8",
+      "text": "σπέρματος Δαυίδ, κατὰ",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Heb 4:7",
+      "text": "ἐν Δαυὶδ λέγων",
+      "highlightedWord": "Δαυὶδ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Heb 11:32",
+      "text": "Ἰεφθάε, Δαυίδ τε",
+      "highlightedWord": "Δαυίδ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "κλεῖν Δαυίδ, ὁ",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Re 5:5",
+      "text": "ῥίζα Δαυίδ, ἀνοῖξαι",
+      "highlightedWord": "Δαυίδ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Re 22:16",
+      "text": "γένος Δαυίδ, ὁ",
+      "highlightedWord": "Δαυίδ,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
