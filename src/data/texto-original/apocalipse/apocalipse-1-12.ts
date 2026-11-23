@@ -8,7 +8,7 @@ export const apocalipse1v12 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Voltei-me para ver a voz que falava comigo e, ao voltar-me, vi sete candelabros de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "βλέπειν τὴν φωνήν, literalmente «ver a voz», constitui uma expressão sensorial intencional; o infinitivo presente βλέπειν depende de ἐπέστρεψα, indicando a finalidade do voltar-se. O particípio aoristo ἐπιστρέψας descreve a ação antecedente à percepção εἶδον.",
+  "textualNotes": "βλέπειν τὴν φωνήν, literalmente «ver a voz», é expressão sensorial marcante; o infinitivo presente depende de ἐπέστρεψα. O particípio ἐπιστρέψας indica uma ação antecedente à visão expressa por εἶδον.",
   "exegeticalNotes": [
     "A imagem de «ver a voz» orienta o leitor do som ao personagem glorioso.",
     "Os candelabros serão identificados em 1:20 como igrejas."
@@ -80,7 +80,7 @@ export const apocalipse1v12 = {
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Infinitivo de finalidade dependente de ἐπέστρεψα",
+        "role": "Infinitivo final dependente de ἐπέστρεψα",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse1v12 = {
       "shortMorph": "PPro-GS-",
       "greek": "ἐμοῦ·",
       "transliteration": "emou",
-      "gloss": "de mim",
+      "gloss": "mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -314,7 +314,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
-      "meanings": "sete (numeral cardinal indeclinável; a análise de caso indicada é contextual)",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo acusativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:12"
