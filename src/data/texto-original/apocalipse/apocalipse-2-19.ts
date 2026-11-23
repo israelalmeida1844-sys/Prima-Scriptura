@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:19 */
+/** Prima Scriptura · Ap 2:19 · SBLGNT / MorphGNT 6.12 */
 export const apocalipse2v19 = {
   "reference": "Apocalipse 2:19",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 19,
-  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
-  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
+  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço tuas obras, teu amor, tua fé, teu serviço e tua perseverança, e sei que tuas últimas obras são mais numerosas que as primeiras.",
-  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
+  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
   "textualNotes": "πλείονα é comparativo acusativo neutro plural, relacionado a τὰ ἔργα, e τῶν πρώτων oferece o padrão comparativo genitivo; amor, fé, serviço e perseverança são qualidades elogiadas.",
   "exegeticalNotes": [
     "O elogio destaca progresso nas obras, em contraste com a acusação que segue.",
@@ -27,12 +27,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "conhecer",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «conhecer»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse2v19 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu/de ti",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -51,12 +51,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -75,7 +75,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -91,7 +91,7 @@ export const apocalipse2v19 = {
       "shortMorph": "N-APN",
       "greek": "ἔργα,",
       "transliteration": "erga",
-      "gloss": "obra",
+      "gloss": "obras",
       "strong": "G2041",
       "lemma": "ἔργον",
       "lemmaTransliteration": "ergon",
@@ -99,7 +99,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obras»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -123,12 +123,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -139,7 +139,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -147,7 +147,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "amor",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «amor»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -195,12 +195,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -219,7 +219,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "fé",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «fé»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -267,12 +267,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -283,7 +283,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -291,7 +291,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "serviço",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «serviço»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -339,12 +339,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -355,7 +355,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -363,7 +363,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "perseverança",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «perseverança»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -403,7 +403,7 @@ export const apocalipse2v19 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου,",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu/de ti",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -411,12 +411,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -435,12 +435,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -451,7 +451,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -459,7 +459,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -475,7 +475,7 @@ export const apocalipse2v19 = {
       "shortMorph": "N-APN",
       "greek": "ἔργα",
       "transliteration": "erga",
-      "gloss": "obra",
+      "gloss": "obras",
       "strong": "G2041",
       "lemma": "ἔργον",
       "lemmaTransliteration": "ergon",
@@ -483,7 +483,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obras»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -499,7 +499,7 @@ export const apocalipse2v19 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu/de ti",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -507,12 +507,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -523,7 +523,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -531,7 +531,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -547,7 +547,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Adj-APN",
       "greek": "ἔσχατα",
       "transliteration": "eschata",
-      "gloss": "último",
+      "gloss": "últimas",
       "strong": "G2078",
       "lemma": "ἔσχατος",
       "lemmaTransliteration": "eschatos",
@@ -555,12 +555,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "último",
-      "explanation": "Adjetivo acusativo plural neutro. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Adjetivo acusativo plural neutro. Elemento discursivo. Glosa contextual «últimas»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -571,7 +571,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Adj-APN",
       "greek": "πλείονα",
       "transliteration": "pleiona",
-      "gloss": "muito",
+      "gloss": "mais numerosas",
       "strong": "G4183",
       "lemma": "πολύς",
       "lemmaTransliteration": "polys",
@@ -579,12 +579,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APNC",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "muito",
-      "explanation": "Adjetivo acusativo plural neutro. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Adjetivo acusativo plural neutro. Elemento discursivo. Glosa contextual «mais numerosas»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
@@ -595,7 +595,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-GPN",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "o",
+      "gloss": "dos/das",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -603,7 +603,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido genitivo plural neutro. Determinante nominal. Glosa contextual «dos/das»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -619,7 +619,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Adj-GPN",
       "greek": "πρώτων.",
       "transliteration": "prōtōn",
-      "gloss": "primeiro",
+      "gloss": "primeiras",
       "strong": "G4413",
       "lemma": "πρῶτος",
       "lemmaTransliteration": "prōtos",
@@ -627,12 +627,12 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GPN-",
       "morphology": "Adjetivo genitivo plural neutro",
       "meanings": "primeiro",
-      "explanation": "Adjetivo genitivo plural neutro. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Adjetivo genitivo plural neutro. Elemento discursivo. Glosa contextual «primeiras»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },

@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:14 */
+/** Prima Scriptura · Ap 2:14 · SBLGNT / MorphGNT 6.12 */
 export const apocalipse2v14 = {
   "reference": "Apocalipse 2:14",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 14,
-  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
-  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
+  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, algumas coisas contra ti: tens aí os que seguem o ensino de Balaão, que ensinava Balaque a colocar tropeço diante dos filhos de Israel, para comerem alimentos sacrificados a ídolos e praticarem imoralidade sexual.",
-  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
+  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
   "textualNotes": "διδαχὴν Βαλαάμ retoma Balaão (Nm 25:1–2; 31:16). σκάνδαλον denota armadilha ou ocasião de tropeço; φαγεῖν e πορνεῦσαι são infinitivos aoristos ativos que explicam a transgressão induzida. A forma de Βαλαάμ é indeclinável no uso grego.",
   "exegeticalNotes": [
     "A figura de Balaão funciona como modelo narrativo de indução à idolatria e imoralidade.",
@@ -27,12 +27,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «mas»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse2v14 = {
       "shortMorph": "V-PAI-1S",
       "greek": "ἔχω",
       "transliteration": "echō",
-      "gloss": "ter",
+      "gloss": "tenho",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -51,12 +51,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «tenho»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "contra",
-      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «contra»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Preposição que introduz complemento",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -91,7 +91,7 @@ export const apocalipse2v14 = {
       "shortMorph": "PPro-GS-",
       "greek": "σοῦ",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu/de ti",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -99,12 +99,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "pouco",
-      "explanation": "Adjetivo acusativo plural neutro. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Adjetivo acusativo plural neutro. Elemento discursivo. Glosa contextual «pouco»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "que",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «que»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -163,7 +163,7 @@ export const apocalipse2v14 = {
       "shortMorph": "V-PAI-2S",
       "greek": "ἔχεις",
       "transliteration": "echeis",
-      "gloss": "ter",
+      "gloss": "tens",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -171,12 +171,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «tens»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "ali",
-      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «ali»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse2v14 = {
       "shortMorph": "V-PAP-APM",
       "greek": "κρατοῦντας",
       "transliteration": "kratountas",
-      "gloss": "segurar firmemente",
+      "gloss": "os que seguem",
       "strong": "G2902",
       "lemma": "κρατέω",
       "lemmaTransliteration": "krateō",
@@ -219,12 +219,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "Verbo no presente, voz ativa, particípio acusativo plural masculino",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Particípio em construção sintática. Glosa contextual «os que seguem»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Particípio em construção sintática",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse2v14 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -243,7 +243,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "ensino",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «ensino»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Balaão",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «Balaão»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -315,12 +315,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----NSM-",
       "morphology": "Pronome relativo nominativo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo nominativo singular masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome relativo nominativo singular masculino. Elemento discursivo. Glosa contextual «que»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -331,7 +331,7 @@ export const apocalipse2v14 = {
       "shortMorph": "V-IAI-3S",
       "greek": "ἐδίδασκεν",
       "transliteration": "edidasken",
-      "gloss": "ensinar",
+      "gloss": "ensinava",
       "strong": "G1321",
       "lemma": "διδάσκω",
       "lemmaTransliteration": "didaskō",
@@ -339,12 +339,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "ensinar",
-      "explanation": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «ensinava»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -355,7 +355,7 @@ export const apocalipse2v14 = {
       "shortMorph": "Art-DSM",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "o",
+      "gloss": "ao",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -363,7 +363,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. Glosa contextual «ao»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Balaque",
-      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. Glosa contextual «Balaque»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -403,7 +403,7 @@ export const apocalipse2v14 = {
       "shortMorph": "V-AAN",
       "greek": "βαλεῖν",
       "transliteration": "balein",
-      "gloss": "lançar",
+      "gloss": "colocar",
       "strong": "G906",
       "lemma": "βάλλω",
       "lemmaTransliteration": "ballō",
@@ -411,12 +411,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "lançar",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Infinitivo integrante da construção. Glosa contextual «colocar»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Infinitivo integrante da construção",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -427,7 +427,7 @@ export const apocalipse2v14 = {
       "shortMorph": "N-ASN",
       "greek": "σκάνδαλον",
       "transliteration": "skandalon",
-      "gloss": "armadilha",
+      "gloss": "tropeço",
       "strong": "G4625",
       "lemma": "σκάνδαλον",
       "lemmaTransliteration": "skandalon",
@@ -435,7 +435,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "armadilha",
-      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual «tropeço»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -459,12 +459,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "diante de",
-      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «diante de»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Preposição que introduz complemento",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -475,7 +475,7 @@ export const apocalipse2v14 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "o",
+      "gloss": "dos/das",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -483,7 +483,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido genitivo plural masculino. Determinante nominal. Glosa contextual «dos/das»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -499,7 +499,7 @@ export const apocalipse2v14 = {
       "shortMorph": "N-GPM",
       "greek": "υἱῶν",
       "transliteration": "hyiōn",
-      "gloss": "filho",
+      "gloss": "filhos",
       "strong": "G5207",
       "lemma": "υἱός",
       "lemmaTransliteration": "hyios",
@@ -507,7 +507,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "filho",
-      "explanation": "Substantivo genitivo plural masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo genitivo plural masculino. Núcleo nominal. Glosa contextual «filhos»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -531,7 +531,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Israel",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «Israel»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -555,12 +555,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "comer",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Infinitivo integrante da construção. Glosa contextual «comer»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Infinitivo integrante da construção",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -571,7 +571,7 @@ export const apocalipse2v14 = {
       "shortMorph": "Adj-APN",
       "greek": "εἰδωλόθυτα",
       "transliteration": "eidōlothyta",
-      "gloss": "alimento sacrificado a ídolos",
+      "gloss": "alimentos sacrificados a ídolos",
       "strong": "G1494",
       "lemma": "εἰδωλόθυτον",
       "lemmaTransliteration": "eidōlothyton",
@@ -579,12 +579,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "alimento sacrificado a ídolos",
-      "explanation": "Adjetivo acusativo plural neutro. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Adjetivo acusativo plural neutro. Elemento discursivo. Glosa contextual «alimentos sacrificados a ídolos»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -603,12 +603,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -627,12 +627,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "praticar imoralidade sexual",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Infinitivo integrante da construção. Glosa contextual «praticar imoralidade sexual»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Infinitivo integrante da construção",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },

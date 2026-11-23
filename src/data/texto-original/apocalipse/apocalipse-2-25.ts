@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:25 */
+/** Prima Scriptura · Ap 2:25 · SBLGNT / MorphGNT 6.12 */
 export const apocalipse2v25 = {
   "reference": "Apocalipse 2:25",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 25,
-  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
-  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
+  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Contudo, conservai o que tendes até que eu venha.",
-  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
+  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
   "textualNotes": "κρατήσατε é imperativo aoristo ativo, segunda pessoa plural. A expressão ἄχρι οὗ ἂν ἥξω relaciona a perseverança à chegada de Cristo.",
   "exegeticalNotes": [
     "A fidelidade exigida é manter o que já foi recebido.",
@@ -27,12 +27,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "contudo",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «contudo»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse2v25 = {
       "shortMorph": "Rel-ASN",
       "greek": "ὃ",
       "transliteration": "ho",
-      "gloss": "que",
+      "gloss": "o que",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -51,12 +51,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome relativo acusativo singular neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo acusativo singular neutro. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome relativo acusativo singular neutro. Elemento discursivo. Glosa contextual «o que»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse2v25 = {
       "shortMorph": "V-PAI-2P",
       "greek": "ἔχετε",
       "transliteration": "echete",
-      "gloss": "ter",
+      "gloss": "tendes",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -75,12 +75,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "2PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural. Núcleo verbal. Glosa contextual «tendes»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -91,7 +91,7 @@ export const apocalipse2v25 = {
       "shortMorph": "V-AAD-2P",
       "greek": "κρατήσατε",
       "transliteration": "kratēsate",
-      "gloss": "segurar firmemente",
+      "gloss": "conservai",
       "strong": "G2902",
       "lemma": "κρατέω",
       "lemmaTransliteration": "krateō",
@@ -99,12 +99,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "2AAD-P--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa plural",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa plural. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa plural. Núcleo verbal. Glosa contextual «conservai»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "até",
-      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «até»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Preposição que introduz complemento",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome relativo genitivo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo genitivo singular masculino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome relativo genitivo singular masculino. Elemento discursivo. Glosa contextual «que»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "partícula modal",
-      "explanation": "Partícula. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Partícula. Elemento discursivo. Glosa contextual «partícula modal»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -187,7 +187,7 @@ export const apocalipse2v25 = {
       "shortMorph": "V-AAS-1S",
       "greek": "ἥξω.",
       "transliteration": "hēxō",
-      "gloss": "chegar",
+      "gloss": "venha",
       "strong": "G2240",
       "lemma": "ἥκω",
       "lemmaTransliteration": "hēkō",
@@ -195,12 +195,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "1AAS-S--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 1ª pessoa singular",
       "meanings": "chegar",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «venha»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },

@@ -2,8 +2,8 @@
   "corpusBooks": 27,
   "corpusTokens": 137554,
   "newStrongEntries": 62,
-  "created": 62,
-  "kept": 0,
+  "created": 0,
+  "kept": 62,
   "allFilesExist": true,
   "sampleG4791": null
 }

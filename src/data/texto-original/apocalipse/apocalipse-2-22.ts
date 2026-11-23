@@ -1,13 +1,13 @@
-/** Prima Scriptura · Ap 2:22 */
+/** Prima Scriptura · Ap 2:22 · SBLGNT / MorphGNT 6.12 */
 export const apocalipse2v22 = {
   "reference": "Apocalipse 2:22",
   "book": "Apocalipse",
   "chapter": 2,
   "verse": 22,
-  "source": "SBL Greek New Testament (SBLGNT), via MorphGNT",
-  "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
+  "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eis que a lanço em um leito, e aos que adulteram com ela, em grande tribulação, se não se arrependerem das obras dela.",
-  "translationNote": "Tradução editorial própria; as glosas são auxiliares e não substituem sintaxe e exegese.",
+  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
   "textualNotes": "βάλλω αὐτὴν εἰς κλίνην: 'lanço-a em um leito'. O leito pode funcionar ironicamente como imagem de enfermidade/juízo contraposta ao adultério; o texto não identifica clinicamente qualquer doença. ἐὰν μή introduz condicional de arrependimento.",
   "exegeticalNotes": [
     "O leito funciona como imagem de julgamento e possível ironia retórica.",
@@ -27,12 +27,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "eis",
-      "explanation": "Partícula. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Partícula. Elemento discursivo. Glosa contextual «eis»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse2v22 = {
       "shortMorph": "V-PAI-1S",
       "greek": "βάλλω",
       "transliteration": "ballō",
-      "gloss": "lançar",
+      "gloss": "lanço",
       "strong": "G906",
       "lemma": "βάλλω",
       "lemmaTransliteration": "ballō",
@@ -51,12 +51,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "lançar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «lanço»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse2v22 = {
       "shortMorph": "PPro-ASF",
       "greek": "αὐτὴν",
       "transliteration": "autēn",
-      "gloss": "dele",
+      "gloss": "a ela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -75,12 +75,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Pronome pessoal acusativo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal acusativo singular feminino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome pessoal acusativo singular feminino. Elemento discursivo. Glosa contextual «a ela»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "para",
-      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «para»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Preposição que introduz complemento",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -123,7 +123,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "leito",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «leito»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -147,12 +147,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -163,7 +163,7 @@ export const apocalipse2v22 = {
       "shortMorph": "Art-APM",
       "greek": "τοὺς",
       "transliteration": "tous",
-      "gloss": "o",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -171,7 +171,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural masculino. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido acusativo plural masculino. Determinante nominal. Glosa contextual «os»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -187,7 +187,7 @@ export const apocalipse2v22 = {
       "shortMorph": "V-PAP-APM",
       "greek": "μοιχεύοντας",
       "transliteration": "moicheuontas",
-      "gloss": "adulterar",
+      "gloss": "os que adulteram",
       "strong": "G3431",
       "lemma": "μοιχεύω",
       "lemmaTransliteration": "moicheuō",
@@ -195,12 +195,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "Verbo no presente, voz ativa, particípio acusativo plural masculino",
       "meanings": "adulterar",
-      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Particípio em construção sintática. Glosa contextual «os que adulteram»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Particípio em construção sintática",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "com",
-      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «com»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Preposição que introduz complemento",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse2v22 = {
       "shortMorph": "PPro-GSF",
       "greek": "αὐτῆς",
       "transliteration": "autēs",
-      "gloss": "dele",
+      "gloss": "dele/dela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -243,12 +243,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome pessoal genitivo singular feminino. Elemento discursivo. Glosa contextual «dele/dela»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -267,12 +267,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "para",
-      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «para»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Preposição que introduz complemento",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -291,7 +291,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "tribulação",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «tribulação»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -315,12 +315,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "grande",
-      "explanation": "Adjetivo acusativo singular feminino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Adjetivo acusativo singular feminino. Elemento discursivo. Glosa contextual «grande»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -339,12 +339,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «se»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Conector da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -363,12 +363,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -379,7 +379,7 @@ export const apocalipse2v22 = {
       "shortMorph": "V-AAS-3P",
       "greek": "μετανοήσωσιν",
       "transliteration": "metanoēsōsin",
-      "gloss": "arrepender-se",
+      "gloss": "se arrependam",
       "strong": "G3340",
       "lemma": "μετανοέω",
       "lemmaTransliteration": "metanoeō",
@@ -387,12 +387,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "3AAS-P--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa plural",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa plural. Núcleo verbal ou forma dependente. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa plural. Núcleo verbal. Glosa contextual «se arrependam»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Núcleo verbal ou forma dependente",
+        "role": "Núcleo verbal",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -411,12 +411,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Preposição que introduz complemento. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Preposição que introduz complemento",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -427,7 +427,7 @@ export const apocalipse2v22 = {
       "shortMorph": "Art-GPN",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "o",
+      "gloss": "dos/das",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -435,7 +435,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural neutro. Determinante nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Artigo definido genitivo plural neutro. Determinante nominal. Glosa contextual «dos/das»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo genitivo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo genitivo plural neutro. Núcleo nominal. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Substantivo genitivo plural neutro. Núcleo nominal. Glosa contextual «obra»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -475,7 +475,7 @@ export const apocalipse2v22 = {
       "shortMorph": "PPro-GSF",
       "greek": "αὐτῆς·",
       "transliteration": "autēs",
-      "gloss": "dele",
+      "gloss": "dele/dela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -483,12 +483,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Elemento da construção. Glosa contextual sujeita à leitura da oração.",
+      "explanation": "Pronome pessoal genitivo singular feminino. Elemento discursivo. Glosa contextual «dele/dela»; a tradução integral e as notas documentam a construção.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento da construção",
+        "role": "Elemento discursivo",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
