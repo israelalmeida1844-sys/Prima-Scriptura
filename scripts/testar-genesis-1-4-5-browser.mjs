@@ -54,7 +54,7 @@ try {
         await root.locator('[data-occurrences-toggle]').click();
         const msg=root.locator('[data-occurrences-status]');
         await msg.waitFor({state:'visible'});
-        await assert.equal(await msg.innerText()=== 'Carregando concordância interna…',false,'Estado de erro não substituiu carregamento');
+        await page.waitForFunction(() => document.querySelector('[data-original-genesis-1-4] [data-occurrences-status]')?.textContent?.trim() !== 'Carregando concordância interna…', {timeout:8000});
         assert.ok((await msg.innerText()).includes(expected),'Erro não tratado: '+kind);
         await page.unroute('**/data/concordancia-hebraica/H7200.json');
       }
