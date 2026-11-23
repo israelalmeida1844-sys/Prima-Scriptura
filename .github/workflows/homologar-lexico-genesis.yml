@@ -1,0 +1,51 @@
+name: Homologar léxico hebraico de Gênesis 1:1–8 em navegador
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/homologar-lexico-genesis.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  cromium:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar Astro e Chromium
+        run: |
+          npm install --no-audit --no-fund
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+      - name: Conferir referências hebraicas do OSHB e concordâncias
+        run: |
+          node scripts/homologar-genesis-indices.mjs
+          node scripts/gerar-lexico-exemplos-genesis.mjs
+          git diff --exit-code -- src/data/lexico-hebraico/genesis-1-1-8.json
+      - name: Compilar todas as páginas Astro sem deploy
+        run: |
+          npm run build
+          for v in {1..8}; do
+            test -f dist/comentarios/genesis/capitulo-1/versiculo-$v/index.html
+            grep -q 'data-lexicon-lemma-transliteration' dist/comentarios/genesis/capitulo-1/versiculo-$v/index.html
+            grep -q 'data-lexicon-meanings' dist/comentarios/genesis/capitulo-1/versiculo-$v/index.html
+          done
+      - name: Testar cada palavra no Chromium a 1440, 768, 390 e 320px
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 > /tmp/astro-lexico.log 2>&1 &
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:4321/comentarios/genesis/capitulo-1/versiculo-1/ > /dev/null; then break; fi
+            sleep 1
+          done
+          node scripts/testar-lexico-genesis-1-1-8.mjs
+      - name: Anexar evidência visual móvel para aprovação editorial
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: genesis-lexico-ampliado-rascunho
+          path: lexico-genesis-1-2-mobile.png
+          if-no-files-found: warn
