@@ -8,7 +8,7 @@
 
 Tradução editorial: «E Deus disse: “Haja uma expansão no meio das águas, e que ela faça separação entre águas e águas.”»
 
-A disposição interlinear tem **11 unidades hebraicas**, **8 lemas Strong distintos**, transliteração, glossa, morfologia, explicação lexical e análise contextual. Pontos sensíveis: `רָקִיעַ` pode ser vertido por «expansão» ou «firmamento», sem tomar a etimologia como prova suficiente da constituição material; `בְּתוֹךְ` contém prefixo בְּ e lema תָּוֶךְ; `וִיהִי` funciona como continuação volitiva da fala divina, distinguindo-se da fórmula narrativa de cumprimento; `מַבְדִּיל` é particípio Hifil, não forma narrativa finita.
+A disposição interlinear tem **11 unidades hebraicas**, **8 lemas Strong distintos**, transliteração, glossa, morfologia, explicação lexical e análise contextual. Pontos sensíveis: `רָקִיעַ` pode ser vertido por «expansão» ou «firmamento», sem tomar a etimologia como prova suficiente da constituição material; `בְּתוֹךְ` contém prefixo בְּ e lema תָּוֶךְ em construto com הַמָּיִם; `וִיהִי` funciona como continuação volitiva da fala divina, distinguindo-se da fórmula narrativa de cumprimento; `מַבְדִּיל` é particípio Hifil, não forma narrativa finita; `לָמָיִם` contém preposição לְ e substantivo מַיִם **sem artigo definido**; a glossa contextual «e águas» preserva a construção correlativa בֵּין ... לְ, não uma conjunção explícita.
 
 ## Concordâncias OSHB v.2.2 (39 livros)
 
@@ -37,3 +37,11 @@ Fonte: Open Scriptures Hebrew Bible (OSHB), tag `v.2.2`, 39 livros; morfologia/l
 - `scripts/testar-genesis-1-1-6-browser.mjs` e seu workflow — interação de todos os seis versículos em navegador Chromium, em viewports 1440, 390 e 320 px. **Execução final 45093584498: aprovada**: https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45093584498
 
 **Limite:** a compilação e a automação de navegador não substituem a revisão humana final de decisões exegéticas e de renderização tipográfica noutros dispositivos. Nenhuma alteração foi mesclada em `main`; nenhuma publicação foi autorizada ou realizada.
+
+## Revisão filológica complementar — Gênesis 1:6
+
+**Correção identificada e aplicada ao arquivo de dados:** a análise anterior de `לָמָיִם` afirmava equivocadamente «artigo definido assimilado». A forma massorética traz a preposição לְ com a palavra `מַיִם`, mas **não um artigo definido**. Corrigidos morfologia, glossa e explicação, distinguindo tradução idiomática («entre águas e águas») da segmentação gramatical exata. Também foi explicitado o estado construto de `תָּוֶךְ` em `בְּתוֹךְ הַמָּיִם`, e a continuação volitiva em `וִיהִי`.
+
+**Conferência externa do texto:** comparação da vocalização de Gn 1:6 com o WLC reproduzido em https://www.biblegateway.com/passage/?search=Genesis+1%3A6&version=WLC e com o texto hebraico da Sefaria em https://www.sefaria.org/Genesis.1.6 . A leitura `לָמָיִם` é preservada; não foi substituída por `לַמָּיִם`. A distinção entre análise de um lema e elementos prefixados continua expressa na documentação dos índices.
+
+**Escopo:** texto, glossa e morfologia corrigidos no rascunho, sem alterar a lista de referências Strong; a validação em navegador previamente aprovada documenta a versão anterior à última correção textual, sendo necessário novo build após a correção para atestar a versão atual.
