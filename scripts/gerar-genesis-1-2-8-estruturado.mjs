@@ -565,7 +565,7 @@ console.log('RESUMO COMPLETO:',JSON.stringify(summary));
 if(syntaxErrors.length){
  const refs=[...new Set(syntaxErrors.flatMap(e=>e.missing.map(m=>m.ref)))];
  const sourceRecords=refs.map(ref=>{
-  const m=ref.match(/^(.+?) (\\d+):(\\d+)$/);
+  const m=ref.match(/^(.+?) (\d+):(\d+)$/);
   const book=src.get(m[1]);
   return {ref,hebrew:book.hebrew.verses.get(book.row[1]+'.'+m[2]+'.'+m[3]).map(x=>x.he).join(' ')};
  });
