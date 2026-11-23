@@ -1,0 +1,238 @@
+---
+import catalog from '../data/estrutura-hebraica/genesis-1-1-8-resumo.json';
+interface Props { number:number }
+const {number}=Astro.props;
+const item=(catalog.verses as Record<string, any>)[String(number)];
+const fullUrl='/data/genesis-estruturado/GEN.1.'+number+'-estruturado-completo.json';
+const auditUrl='/data/genesis-estruturado/GEN.1.'+number+'-auditoria-de-fonte.json';
+const notesUrl='/notas/genesis/NOTAS-COMPLETAS-GENESIS-1-'+number+'.md';
+const format=(v:number)=>new Intl.NumberFormat('pt-BR').format(v);
+---
+{item&&(
+<section class="ps-study" id="analise-gramatical" data-genesis-structured={number} aria-labelledby="ps-structured-title">
+  <header class="ps-study-header">
+    <div>
+      <p class="ps-overline">GÊNESIS · FILOLOGIA DO TEXTO MASSORÉTICO</p>
+      <h2 id="ps-structured-title">Análise morfológica e sintática</h2>
+      <p>Aprofunde o estudo de cada palavra, suas relações na oração e sua concordância no corpus hebraico.</p>
+    </div>
+    <span class="ps-badge">Dados auditados · leitura exegética revisável</span>
+  </header>
+  <div class="ps-metrics" aria-label="Abrangência da análise">
+    <div><strong>{item.wordCount}</strong><span>unidades hebraicas</span></div>
+    <div><strong>{item.lexemeCount}</strong><span>lemas Strong</span></div>
+    <div><strong>{format(item.totalReferenceRows)}</strong><span>referências por lema</span></div>
+  </div>
+  <div class="ps-commentary">
+    <h3>Síntese filológica</h3>
+    <p>{item.overviewPt}</p>
+    <p class="ps-disclaimer">A classificação sintática e as interpretações semânticas são propostas editoriais. As formas hebraicas e os códigos morfológicos foram conferidos com a OSHB v.2.2.</p>
+  </div>
+  <details class="ps-disclosure" data-analysis-details>
+    <summary>Analisar todas as {item.wordCount} palavras: morfologia, função e dependências <span aria-hidden="true">▾</span></summary>
+    <div class="ps-words">
+      {item.tokens.map((token:any)=>{
+        const lemma=item.lexemes[token.strong];
+        const m=token.morphology;
+        return (
+        <article class="ps-word" data-structured-token={token.index} aria-label={'Análise de '+token.surfaceHe}>
+          <div class="ps-word-top">
+            <span class="ps-counter">#{token.index}</span>
+            <div class="ps-word-h" lang="he" dir="rtl">{token.surfaceHe}</div>
+            <span class="ps-strong">{token.strong}</span>
+          </div>
+          <p class="ps-tr" dir="ltr"><i>{token.translit}</i> · {token.glossInContext}</p>
+          <dl class="ps-fields">
+            <div><dt>Lema</dt><dd><span class="ps-lemma" lang="he" dir="rtl">{lemma.lemmaHe}</span> <span class="ps-roman">{lemma.lemmaTranslit}</span></dd></div>
+            <div><dt>Código OSHB</dt><dd><code>{m.rawCode}</code></dd></div>
+            {m.stem&&<div><dt>Tronco verbal</dt><dd>{m.stem}</dd></div>}
+            {m.conjugation&&<div><dt>Forma verbal</dt><dd>{m.conjugation}</dd></div>}
+            {m.person&&<div><dt>Pessoa</dt><dd>{m.person}</dd></div>}
+            {m.gender&&<div><dt>Gênero</dt><dd>{m.gender}</dd></div>}
+            {m.number&&<div><dt>Número</dt><dd>{m.number}</dd></div>}
+            <div><dt>Papel sintático</dt><dd>{token.syntax.roleLabel}</dd></div>
+            <div><dt>Oração</dt><dd>{token.syntax.clauseId}</dd></div>
+            <div><dt>Dependência</dt><dd>{token.syntax.governedBy??'Não indicada'}</dd></div>
+          </dl>
+          <p class="ps-note">{token.syntax.notesPt}</p>
+          <p class="ps-senses"><strong>Sentidos do lema:</strong> {token.sensesPt}</p>
+        </article>
+      )})}
+    </div>
+  </details>
+  <details class="ps-disclosure" data-concordance-details>
+    <summary>Explorar concordâncias completas por lema e seção bíblica <span aria-hidden="true">▾</span></summary>
+    <div class="ps-browser" data-corpus-viewer data-verse={number}>
+      <p>Selecione o lema e a seção. O sistema buscará, sob demanda, os excertos hebraicos e portugueses do índice completo. Para lemas frequentes, a consulta pode envolver um arquivo extenso.</p>
+      <div class="ps-browser-controls">
+        <label>Palavra (Strong)
+          <select data-corpus-strong>
+            {item.concordances.map((c:any)=><option value={c.strong}>{c.strong} · {c.lemmaTranslit} · {format(c.totalCount)} versículos</option>)}
+          </select>
+        </label>
+        <label>Seção da Bíblia Hebraica
+          <select data-corpus-section>
+            <option value="todas">Todas as seções</option>
+            <option value="pentateuco">Pentateuco</option>
+            <option value="profetas">Profetas</option>
+            <option value="escritos">Escritos</option>
+          </select>
+        </label>
+        <button type="button" class="ps-action" data-corpus-load>Mostrar contextos bíblicos</button>
+      </div>
+      <p role="status" aria-live="polite" class="ps-corpus-status" data-corpus-status>Os contextos são carregados somente ao solicitar a consulta.</p>
+      <div class="ps-corpus-results" data-corpus-results></div>
+      <nav class="ps-pagination" aria-label="Paginação das concordâncias" data-corpus-pages hidden>
+        <button type="button" data-corpus-prev>← Anterior</button>
+        <span data-corpus-pageinfo></span>
+        <button type="button" data-corpus-next>Próxima →</button>
+      </nav>
+      <p class="ps-note">Fonte hebraica: WLC/OSHB v.2.2. Excertos em português: Almeida de 1911, exceto títulos de Salmos traduzidos editorialmente quando não há versículo numerado correspondente. A tradução portuguesa apresenta o versículo contextual, não um alinhamento palavra a palavra.</p>
+    </div>
+  </details>
+  <div class="ps-files" aria-label="Fontes acadêmicas para consulta">
+    <a href={notesUrl} target="_blank" rel="noopener">Notas filológicas completas (.md) ↗</a>
+    <a href={fullUrl} download>Dados estruturados e concordâncias integrais (.json) ↓</a>
+    <a href={auditUrl} target="_blank" rel="noopener">Auditoria de origem (.json) ↗</a>
+  </div>
+</section>
+)}
+<script>
+  const formatPt=(n:number)=>new Intl.NumberFormat('pt-BR').format(n);
+  document.querySelectorAll<HTMLElement>('[data-corpus-viewer]').forEach((root)=>{
+    if(root.dataset.ready==='true')return;
+    root.dataset.ready='true';
+    const v=root.dataset.verse;
+    const select=root.querySelector<HTMLSelectElement>('[data-corpus-strong]')!;
+    const section=root.querySelector<HTMLSelectElement>('[data-corpus-section]')!;
+    const trigger=root.querySelector<HTMLButtonElement>('[data-corpus-load]')!;
+    const status=root.querySelector<HTMLElement>('[data-corpus-status]')!;
+    const results=root.querySelector<HTMLElement>('[data-corpus-results]')!;
+    const pagination=root.querySelector<HTMLElement>('[data-corpus-pages]')!;
+    const previous=root.querySelector<HTMLButtonElement>('[data-corpus-prev]')!;
+    const next=root.querySelector<HTMLButtonElement>('[data-corpus-next]')!;
+    const info=root.querySelector<HTMLElement>('[data-corpus-pageinfo]')!;
+    type Item={ref:string;refPt:string;section:string;sectionPt:string;excerptHe:string;excerptPt:string;bookPt:string};
+    type Entry={items:Item[],totalCount:number};
+    type Corpus={concordanceByStrong:Record<string,Entry>};
+    let corpus:Corpus|null=null;
+    let filtered:Item[]=[];
+    let page=0;
+    let busy=false;
+    const pageSize=12;
+    const make=<K extends keyof HTMLElementTagNameMap>(tag:K,className:string,text?:string)=>{
+      const el=document.createElement(tag);
+      el.className=className;
+      if(text!==undefined)el.textContent=text;
+      return el;
+    };
+    const render=()=>{
+      const fragment=document.createDocumentFragment();
+      const start=page*pageSize;
+      for(const record of filtered.slice(start,start+pageSize)){
+        const card=make('article','ps-context');
+        const title=make('h4','ps-context-ref',record.refPt+' · '+record.bookPt+' · '+record.sectionPt);
+        const heb=make('p','ps-context-hebrew',record.excerptHe);
+        heb.lang='he';heb.dir='rtl';
+        card.append(title,heb,make('p','ps-context-pt',record.excerptPt));
+        fragment.append(card);
+      }
+      results.replaceChildren(fragment);
+      pagination.hidden=filtered.length<=pageSize;
+      previous.disabled=page===0;
+      next.disabled=(page+1)*pageSize>=filtered.length;
+      info.textContent=filtered.length?'Página '+(page+1)+' de '+Math.ceil(filtered.length/pageSize):'';
+      status.textContent=filtered.length?
+        formatPt(filtered.length)+' referências encontradas. Mostrando '+formatPt(start+1)+'–'+formatPt(Math.min(start+pageSize,filtered.length))+'.':
+        'Não há ocorrências na seção escolhida.';
+    };
+    const refilter=()=>{
+      if(!corpus)return;
+      const entry=corpus.concordanceByStrong[select.value];
+      if(!entry){status.textContent='Lema não encontrado no arquivo estruturado.';return}
+      filtered=section.value==='todas'?entry.items:entry.items.filter(x=>x.section===section.value);
+      page=0;render();
+    };
+    trigger.addEventListener('click',async ()=>{
+      if(busy)return;
+      busy=true;trigger.disabled=true;
+      try{
+        if(!corpus){
+          status.textContent='Carregando o corpus de Gênesis 1:'+v+'…';
+          const url='/data/genesis-estruturado/GEN.1.'+v+'-estruturado-completo.json';
+          const resp=await fetch(url);
+          if(!resp.ok)throw new Error('HTTP '+resp.status);
+          const value=await resp.json() as Corpus;
+          if(!value?.concordanceByStrong||typeof value.concordanceByStrong!=='object')
+            throw new Error('Índice estruturado inválido');
+          corpus=value;
+        }
+        refilter();
+      }catch(error){
+        status.textContent='Não foi possível carregar os contextos ('+(error instanceof Error?error.message:'erro desconhecido')+'). Tente novamente.';
+      }finally{busy=false;trigger.disabled=false}
+    });
+    select.addEventListener('change',()=>{if(corpus)refilter()});
+    section.addEventListener('change',()=>{if(corpus)refilter()});
+    previous.addEventListener('click',()=>{if(page>0){page--;render()}});
+    next.addEventListener('click',()=>{if((page+1)*pageSize<filtered.length){page++;render()}});
+  });
+</script>
+<style>
+.ps-study,.ps-study :is(h2,h3,h4,p,span,div,dl,dt,dd,a,summary,button,label,select,code){font-family:'Times New Roman',Times,serif}
+.ps-study{margin:35px 0 10px;border:1px solid #dcd5c6;border-radius:14px;background:#fff;padding:clamp(17px,3vw,30px);color:#20354c;min-width:0}
+.ps-study-header{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
+.ps-study-header h2{font-size:clamp(26px,3vw,33px);color:#142d47;margin:6px 0 9px}
+.ps-study-header p:not(.ps-overline){margin:0;color:#566a7e;font-size:16px;line-height:1.6;max-width:720px}
+.ps-overline{font-size:12px;letter-spacing:.08em;font-weight:700;color:#966d2e;margin:0}
+.ps-badge{font-size:13px;line-height:1.4;padding:7px 10px;border-radius:7px;background:#f6f1e5;border:1px solid #e2d2b5;color:#725b38;max-width:260px}
+.ps-metrics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:22px 0}
+.ps-metrics div{border:1px solid #e7e2d9;border-radius:8px;padding:12px 16px;background:#fbfaf7;display:flex;flex-direction:column}
+.ps-metrics strong{font-size:24px;color:#203a56}.ps-metrics span{font-size:13px;color:#687687}
+.ps-commentary{background:#f6f8fa;border-left:4px solid #c7a262;padding:14px 18px;border-radius:0 8px 8px 0;line-height:1.7}
+.ps-commentary h3{font-size:19px;margin:0 0 7px;color:#24405d}
+.ps-commentary p{margin:6px 0;color:#3e5166;font-size:16px}
+.ps-commentary .ps-disclaimer{font-size:13px;color:#67798b;margin-top:12px}
+.ps-disclosure{border:1px solid #dfd8cc;border-radius:9px;margin-top:15px;overflow:hidden}
+.ps-disclosure summary{padding:16px 18px;background:#fdfbf6;color:#203b59;cursor:pointer;font-size:17px;font-weight:700;display:flex;align-items:center;justify-content:space-between;gap:10px;list-style:none}
+.ps-disclosure summary::-webkit-details-marker{display:none}
+.ps-disclosure[open] summary{border-bottom:1px solid #e1dbd0}
+.ps-disclosure summary:focus-visible,.ps-action:focus-visible,.ps-browser select:focus-visible,.ps-pagination button:focus-visible,.ps-files a:focus-visible{outline:3px solid #2d6b9a;outline-offset:3px}
+.ps-words{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;padding:15px}
+.ps-word{border:1px solid #e4e9ef;border-radius:9px;background:#fff;min-width:0;padding:16px;line-height:1.5}
+.ps-word-top{display:flex;align-items:center;gap:12px;flex-wrap:wrap;justify-content:space-between}
+.ps-counter{color:#708092;font-size:13px}
+.ps-word-h{font-size:30px;color:#142a48;line-height:1.6;flex:1;min-width:0;text-align:right}
+.ps-strong{color:#865b24;background:#f6efdf;border-radius:6px;padding:5px 8px;font-size:13px}
+.ps-tr{font-size:15px;margin:4px 0 12px;color:#496078}
+.ps-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:0}
+.ps-fields>div{min-width:0}.ps-fields dt{font-size:12px;color:#6c7b89;font-weight:700}
+.ps-fields dd{font-size:15px;margin:2px 0 0;overflow-wrap:anywhere;color:#223c56}
+.ps-fields code{font-size:14px;color:#8a5328;background:#f9f3e9;padding:3px 5px;border-radius:4px}
+.ps-lemma{font-size:25px;line-height:1.55;display:inline-block;color:#172d48;vertical-align:middle}
+.ps-roman{display:inline-block;font-size:14px;color:#566b80;font-style:italic;direction:ltr}
+.ps-note{font-size:14px;color:#576a7e;line-height:1.6;border-top:1px solid #edeae4;padding-top:10px;margin:12px 0 5px}
+.ps-senses{font-size:14px;color:#3e546b;line-height:1.55;margin:7px 0 0}
+.ps-browser{padding:18px}.ps-browser>p{font-size:15px;color:#566a7f;line-height:1.6}
+.ps-browser-controls{display:flex;flex-wrap:wrap;align-items:end;gap:12px}
+.ps-browser label{flex:1;min-width:205px;font-size:14px;color:#324b64;font-weight:700}
+.ps-browser select{display:block;width:100%;padding:12px;min-height:44px;border:1px solid #c9d3df;border-radius:7px;margin-top:5px;background:#fff;font-size:15px;color:#1c3851}
+.ps-action{min-height:44px;padding:12px 15px;border-radius:7px;background:#1c3b59;color:#fff;border:0;cursor:pointer;font-size:15px}
+.ps-action:disabled{opacity:.65;cursor:wait}
+.ps-corpus-status{font-size:14px;color:#516981;margin:16px 0}
+.ps-corpus-results{display:grid;gap:10px}
+.ps-context{border:1px solid #e4e3de;border-radius:7px;background:#fcfbf9;padding:14px}
+.ps-context-ref{font-size:15px;color:#6d4e26;margin:0 0 6px}
+.ps-context-hebrew{font-size:23px;line-height:1.7;margin:4px 0;text-align:right;color:#172a41;overflow-wrap:anywhere}
+.ps-context-pt{font-size:15px;line-height:1.65;color:#42576d;margin:4px 0}
+.ps-pagination{display:flex;gap:14px;align-items:center;justify-content:center;flex-wrap:wrap;margin:18px 0}
+.ps-pagination[hidden]{display:none}
+.ps-pagination button{padding:9px 13px;background:white;border:1px solid #ccd3db;border-radius:6px;color:#1c3b59;cursor:pointer;font-size:15px}
+.ps-pagination button:disabled{opacity:.45;cursor:default}
+.ps-pagination span{font-size:14px}
+.ps-files{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px;padding-top:17px;border-top:1px solid #e8e2d7}
+.ps-files a{display:inline-flex;align-items:center;padding:9px 12px;border:1px solid #d6c5a9;border-radius:6px;color:#244562;font-size:14px;text-decoration:underline;text-underline-offset:3px;background:#faf7f0}
+.ps-files a:hover{background:#f1e8da}
+@media(max-width:760px){.ps-words{grid-template-columns:1fr}.ps-metrics{grid-template-columns:repeat(3,minmax(0,1fr))}.ps-metrics div{padding:10px}.ps-metrics strong{font-size:20px}.ps-metrics span{font-size:12px}}
+@media(max-width:420px){.ps-study{padding:14px}.ps-metrics{gap:6px}.ps-metrics div{padding:8px 5px}.ps-metrics strong{font-size:18px}.ps-fields{grid-template-columns:1fr}.ps-disclosure summary{padding:14px}.ps-browser{padding:13px}.ps-words{padding:10px}}
+</style>
