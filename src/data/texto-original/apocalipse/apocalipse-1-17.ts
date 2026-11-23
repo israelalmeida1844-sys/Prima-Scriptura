@@ -8,7 +8,7 @@ export const apocalipse1v17 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quando o vi, caí a seus pés como morto. Ele pôs sua mão direita sobre mim e disse: «Não tenha medo. Eu sou o Primeiro e o Último,",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "A sequência de temor e consolação apresenta o encontro com a figura gloriosa. πρῶτος e ἔσχατος são títulos em diálogo com a linguagem de Isaías sobre a soberania divina.",
+  "textualNotes": "φοβοῦ é imperativo presente médio/passivo formal de verbo deponente, precedido de μή; significa «não temas». πρῶτος e ἔσχατος fazem eco à linguagem de soberania divina (Is 44:6; 48:12).",
   "exegeticalNotes": [
     "A reação de João combina reverência e incapacidade diante da visão.",
     "A palavra «não temas» altera a dinâmica da cena."
@@ -91,7 +91,7 @@ export const apocalipse1v17 = {
       "shortMorph": "PPro-ASM",
       "greek": "αὐτόν,",
       "transliteration": "auton",
-      "gloss": "dele",
+      "gloss": "a ele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -163,7 +163,7 @@ export const apocalipse1v17 = {
       "shortMorph": "Art-APM",
       "greek": "τοὺς",
       "transliteration": "tous",
-      "gloss": "o",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -331,7 +331,7 @@ export const apocalipse1v17 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -427,7 +427,7 @@ export const apocalipse1v17 = {
       "shortMorph": "PPro-AS-",
       "greek": "ἐμὲ",
       "transliteration": "eme",
-      "gloss": "eu",
+      "gloss": "mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -512,7 +512,7 @@ export const apocalipse1v17 = {
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Núcleo verbal imperativo",
+        "role": "Imperativo presente médio/passivo formal, deponente; proibição com μή",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
