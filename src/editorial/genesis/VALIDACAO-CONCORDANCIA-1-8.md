@@ -89,7 +89,7 @@ Os nove arquivos `public/data/concordancia-hebraica/HNNNN.json` apresentam `stro
 
 **Auditoria de corpus/compilação:** GitHub Actions **45095821346**, **sucesso**, https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45095821346 .
 
-**Teste de navegador Chromium:** GitHub Actions **45095841592**, https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45095841592 (verificar estado final antes da aprovação).
+**Teste de navegador Chromium:** GitHub Actions **45095841592**, **concluído com sucesso**: https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45095841592 . Abrangeu oito protótipos, inclusive as dez unidades de Gn 1:8; seleção de cada unidade, quatro controles de exibição, consulta e recolhimento de concordâncias, conferência da fonte computada, ausência de colisão entre rótulos e valores, ausência de transbordamento horizontal do documento, estados de erro/índice incompleto e verificação de erros JS em larguras 1440, 390 e 320 px.
 
 **Limites metodológicos:** não houve colação diplomática integral de todos os manuscritos hebraicos e das tradições antigas; a revisão de uma variante da LXX não equivale a crítica textual exaustiva. Os testes de navegador automatizados não substituem apreciação editorial do aspecto visual em diferentes máquinas e a revisão das opções exegéticas. A branch de rascunho pode ser visualizada publicamente no GitHub, mas não foi mesclada em `main` nem publicada no site.
 
