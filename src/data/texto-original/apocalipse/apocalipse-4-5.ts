@@ -10,7 +10,9 @@ export const apocalipse4v5 = {
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "Relâmpagos, vozes e trovões evocam teofania (Êx 19:16). A expressão «sete espíritos» reaparece em Ap 1:4; 3:1; 5:6, exigindo leitura intratextual."
+    "Relâmpagos, vozes e trovões evocam teofania (Êx 19:16). A expressão «sete espíritos» reaparece em Ap 1:4; 3:1; 5:6, exigindo leitura intratextual.",
+    "O relativo ἅ está no neutro plural, embora λαμπάδες seja feminino plural; a relação anafórica é semântica e identifica a imagem das sete lâmpadas com «os sete espíritos de Deus».",
+    "A expressão «sete espíritos» pode receber interpretações diferentes; sua identificação com a plenitude do Espírito Santo exige argumentação a partir de Ap 1:4; 3:1; 5:6, sem tratar a glosa como conclusão dogmática."
   ],
   "words": [
     {
@@ -290,12 +292,12 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "sete",
-      "explanation": "Forma «ἑπτὰ» (ἑπτά, G2033); Adjetivo nominativo plural feminino. Sentido lexical contextual: sete. Elemento da construção; dependência a revisar. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "Forma «ἑπτὰ» (ἑπτά, G2033); Adjetivo nominativo plural feminino. Sentido lexical contextual: sete. Numeral quantificador de λαμπάδες. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral quantificador de λαμπάδες",
         "clauseId": "AP.4.5.C1",
         "governedBy": null
       },
@@ -458,12 +460,12 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "Forma «ἅ» (ὅς, G3739); Pronome relativo nominativo plural neutro. Sentido lexical contextual: que; o qual. Elemento da construção; dependência a revisar. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "Forma «ἅ» (ὅς, G3739); Pronome relativo nominativo plural neutro. Sentido lexical contextual: que; o qual. Pronome relativo neutro que relaciona as lâmpadas aos sete espíritos. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Pronome relativo neutro que relaciona as lâmpadas aos sete espíritos",
         "clauseId": "AP.4.5.C1",
         "governedBy": null
       },
@@ -530,12 +532,12 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo nominativo plural neutro",
       "meanings": "sete",
-      "explanation": "Forma «ἑπτὰ» (ἑπτά, G2033); Adjetivo nominativo plural neutro. Sentido lexical contextual: sete. Elemento da construção; dependência a revisar. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "Forma «ἑπτὰ» (ἑπτά, G2033); Adjetivo nominativo plural neutro. Sentido lexical contextual: sete. Numeral quantificador de πνεύματα. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral quantificador de πνεύματα",
         "clauseId": "AP.4.5.C1",
         "governedBy": null
       },
