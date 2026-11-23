@@ -19,7 +19,7 @@ import Base from '../../../layouts/Base.astro';
         <p>
           Um estudo exegético do texto grego koiné, palavra por palavra: traduções editoriais, análise morfológica exaustiva, acepções semânticas e concordâncias canônicas verificadas em todos os 27 livros do Novo Testamento.
         </p>
-        <span class="apocalipse-status">Edição de avaliação · Protótipo acadêmico (Apocalipse 1:1–20)</span>
+        <span class="apocalipse-status">Edição de avaliação · Apocalipse 1:1–20 e 2:1–12</span>
       </div>
 
       <div class="apocalipse-metadata" aria-label="Estado do projeto">
@@ -33,7 +33,7 @@ import Base from '../../../layouts/Base.astro';
         </div>
         <div>
           <span>Em avaliação</span>
-          <strong>1:1–20 (469 palavras)</strong>
+          <strong>Capítulos 1 e 2 (732 palavras)</strong>
         </div>
         <div>
           <span>Fonte textual</span>
@@ -47,10 +47,11 @@ import Base from '../../../layouts/Base.astro';
           <h2>Capítulos e versículos</h2>
         </div>
         <p>
-          O protótipo de avaliação implementa Apocalipse 1:1–20 com 469 palavras gregas interlineares e concordâncias canônicas por lema.
+          A edição de avaliação disponibiliza Apocalipse 1:1–20 e 2:1–12, totalizando 732 palavras gregas interlineares, com léxico e concordâncias canônicas.
         </p>
       </div>
 
+      <div class="apocalipse-chapters-grid">
       <a class="apocalipse-chapter-card" href="/comentarios/apocalipse/capitulo-1/">
         <div>
           <span class="apocalipse-label">CAPÍTULO 01 · PROTÓTIPO EM AVALIAÇÃO</span>
@@ -68,6 +69,8 @@ import Base from '../../../layouts/Base.astro';
         </div>
         <span class="apocalipse-link">Ver capítulo 2 <span aria-hidden="true">→</span></span>
       </a>
+
+      </div>
 
       <div class="apocalipse-verse-grid" aria-label="Versículos preparados">
         <a href="/comentarios/apocalipse/capitulo-1/versiculo-1/" aria-label="Estudar Apocalipse 1:1">
@@ -296,10 +299,12 @@ import Base from '../../../layouts/Base.astro';
     color: #647083;
     margin: 0;
   }
+  .apocalipse-chapters-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr)); gap: 16px; margin: 18px 0 24px; }
   .apocalipse-chapter-card {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     gap: 18px;
     background: white;
     border: 1px solid #d6c6aa;
