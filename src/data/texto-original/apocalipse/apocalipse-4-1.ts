@@ -8,9 +8,11 @@ export const apocalipse4v1 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Depois destas coisas, vi uma porta aberta no céu; e a primeira voz que eu ouvira, falando comigo como trombeta, disse: Sobe aqui, e te mostrarei o que deve acontecer depois destas coisas.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
+  "textualNotes": "ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. O MorphGNT atribui δεῖ ao lema δέω; a forma impessoal é indexada separadamente como Strong G1163 (não G1210). A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "O paralelismo com Ap 1:10,19 associa voz de trombeta, revelação e desenvolvimento futuro; a visão do trono inicia nova seção sem impor isoladamente uma data escatológica."
+    "O paralelismo com Ap 1:10,19 associa voz de trombeta, revelação e desenvolvimento futuro; a visão do trono inicia nova seção sem impor isoladamente uma data escatológica.",
+    "O advérbio ὧδε indica o lugar de destino da ordem Ἀνάβα; δεῖ + infinitivo exprime necessidade, mas não especifica por si só um cronograma histórico.",
+    "A forma δεῖ (Strong G1163) é atribuída no MorphGNT ao lema morfológico δέω; o número Strong G1210 corresponde ao verbo relacionado «atar, prender», não à identificação lexical desta forma impessoal. A distinção entre análise morfológica e indexação Strong foi preservada."
   ],
   "words": [
     {
@@ -50,12 +52,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
       "meanings": "este; essas coisas",
-      "explanation": "Forma «ταῦτα» (οὗτος, G3778); Pronome demonstrativo acusativo plural neutro. Sentido lexical contextual: estas; estas coisas. Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «ταῦτα» (οὗτος, G3778); Pronome demonstrativo acusativo plural neutro. Sentido lexical contextual: estas; estas coisas. Complemento acusativo da preposição μετά. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Complemento acusativo da preposição μετά",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
@@ -122,12 +124,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "eis; veja",
-      "explanation": "Forma «ἰδοὺ» (ἰδού, G2400); Partícula. Sentido lexical contextual: eis. Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «ἰδοὺ» (ἰδού, G2400); Partícula. Sentido lexical contextual: eis. Partícula apresentativa da visão. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Partícula apresentativa da visão",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
@@ -362,12 +364,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
       "meanings": "primeiro",
-      "explanation": "Forma «πρώτη» (πρῶτος, G4413); Adjetivo nominativo singular feminino. Sentido lexical contextual: primeiro. Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «πρώτη» (πρῶτος, G4413); Adjetivo nominativo singular feminino. Sentido lexical contextual: primeiro. Adjetivo atributivo de φωνή. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo atributivo de φωνή",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
@@ -386,12 +388,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Pronome relativo acusativo singular feminino",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "Forma «ἣν» (ὅς, G3739); Pronome relativo acusativo singular feminino. Sentido lexical contextual: que; o qual. Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «ἣν» (ὅς, G3739); Pronome relativo acusativo singular feminino. Sentido lexical contextual: que; o qual. Pronome relativo, objeto de ἤκουσα. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Pronome relativo, objeto de ἤκουσα",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
@@ -530,12 +532,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «ἐμοῦ,» (ἐγώ, G1473); Pronome pessoal genitivo singular. Sentido lexical contextual: eu; mim; nosso. Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «ἐμοῦ,» (ἐγώ, G1473); Pronome pessoal genitivo singular. Sentido lexical contextual: eu; mim; nosso. Complemento genitivo da preposição μετά. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Complemento genitivo da preposição μετά",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
@@ -602,12 +604,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "Advérbio dêitico de lugar «aqui», no convite ἀνάβα ὧδε (4:1).",
-      "explanation": "Forma «ὧδε,» (ὧδε, G5602); Advérbio. Advérbio dêitico de lugar «aqui», no convite ἀνάβα ὧδε (4:1). Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «ὧδε,» (ὧδε, G5602); Advérbio. Advérbio dêitico de lugar «aqui», no convite ἀνάβα ὧδε (4:1). Advérbio de lugar ligado a Ἀνάβα. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Advérbio de lugar ligado a Ἀνάβα",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
@@ -674,12 +676,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σοι» (σύ, G4771); Pronome pessoal dativo singular. Sentido lexical contextual: tu; teu; a ti. Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «σοι» (σύ, G4771); Pronome pessoal dativo singular. Sentido lexical contextual: tu; teu; a ti. Objeto indireto dativo de δείξω. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Objeto indireto dativo de δείξω",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
@@ -698,12 +700,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome relativo acusativo plural neutro",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "Forma «ἃ» (ὅς, G3739); Pronome relativo acusativo plural neutro. Sentido lexical contextual: que; o qual. Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «ἃ» (ὅς, G3739); Pronome relativo acusativo plural neutro. Sentido lexical contextual: que; o qual. Pronome relativo que introduz o conteúdo mostrado. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Pronome relativo que introduz o conteúdo mostrado",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
@@ -715,14 +717,14 @@ export const apocalipse4v1 = {
       "greek": "δεῖ",
       "transliteration": "dei",
       "gloss": "ser necessário",
-      "strong": "G1210",
+      "strong": "G1163",
       "lemma": "δέω",
       "lemmaTransliteration": "deō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "ser necessário",
-      "explanation": "Forma «δεῖ» (δέω, G1210); Verbo presente, voz ativa, indicativo, 3ª pessoa singular. Sentido lexical contextual: ser necessário. Predicado verbal. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "meanings": "ser necessário, dever, ser preciso (uso impessoal)",
+      "explanation": "Forma «δεῖ» (δέω, G1163); Verbo presente, voz ativa, indicativo, 3ª pessoa singular. Sentido lexical contextual: ser necessário. Predicado verbal. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
@@ -794,12 +796,12 @@ export const apocalipse4v1 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
       "meanings": "este; essas coisas",
-      "explanation": "Forma «ταῦτα» (οὗτος, G3778); Pronome demonstrativo acusativo plural neutro. Sentido lexical contextual: estas; estas coisas. Elemento da construção; dependência a revisar. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
+      "explanation": "Forma «ταῦτα» (οὗτος, G3778); Pronome demonstrativo acusativo plural neutro. Sentido lexical contextual: estas; estas coisas. Complemento acusativo da preposição μετά. ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
       "occurrencesExamples": [
         "Ap 4:1"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Complemento acusativo da preposição μετά",
         "clauseId": "AP.4.1.C1",
         "governedBy": null
       },
