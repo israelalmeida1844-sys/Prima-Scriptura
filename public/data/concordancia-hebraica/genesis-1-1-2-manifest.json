@@ -17,7 +17,9 @@
     "H8415",
     "H7307",
     "H7363",
-    "H4325"
+    "H4325",
+    "H559",
+    "H216"
   ],
   "books": 39,
   "verses": 23213,
@@ -65,5 +67,7 @@
   "license": "CC BY 4.0",
   "attribution": "Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb",
   "generatedFrom": "OSHB wlc/*.xml release v.2.2; lemma base Strong with prefixed forms",
-  "validation": "39 books; 23,213 verses; unique references per key; H922/H7363 manually crosschecked"
+  "validation": "39 books; 23,213 verses; unique references per key; H922/H7363 manually crosschecked",
+  "scope": "Gênesis 1:1–3; 18 códigos Strong-base",
+  "provenance": "Fonte OSHB v.2.2; índices H559 e H216 reprocessados em 5 lotes dos mesmos 39 livros."
 }
