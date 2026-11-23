@@ -2,7 +2,7 @@
   "version": "1.0",
   "scope": "Apocalipse 3:1–22",
   "source": "SBLGNT/MorphGNT 6.12",
-  "editorialStatus": "Rascunho filológico; sem aprovação lexical exaustiva.",
+  "editorialStatus": "70 novos verbetes contextualizados; demais verbetes herdados e concordâncias devem manter auditoria independente.",
   "entries": {
     "G602": {
       "strong": "G602",
@@ -6441,13 +6441,13 @@
         {
           "id": "G1127-1",
           "label": "vigiar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Vigiar ou manter-se desperto; em 3:2–3, exige prontidão contínua da comunidade, mais que mera ausência de sono.",
           "examples": [
             {
               "reference": "Apocalipse 3:2",
               "greek": "γίνου γρηγορῶν, καὶ",
               "translation": "vigiar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Vigiar ou manter-se desperto; em 3:2–3, exige prontidão contínua da comunidade, mais que mera ausência de sono."
             }
           ]
         }
@@ -6462,13 +6462,13 @@
         {
           "id": "G4741-1",
           "label": "fortalecer",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Tornar firme ou fortalecer; o imperativo de 3:2 ordena consolidar o que resta antes de perecer.",
           "examples": [
             {
               "reference": "Apocalipse 3:2",
               "greek": "καὶ στήρισον τὰ",
               "translation": "fortalecer",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Tornar firme ou fortalecer; o imperativo de 3:2 ordena consolidar o que resta antes de perecer."
             }
           ]
         }
@@ -6483,13 +6483,13 @@
         {
           "id": "G599-1",
           "label": "morrer",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Morrer; o infinitivo de 3:2 qualifica aquilo que estava prestes a extinguir-se na comunidade.",
           "examples": [
             {
               "reference": "Apocalipse 3:2",
               "greek": "ἔμελλον ἀποθανεῖν, οὐ",
               "translation": "morrer",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Morrer; o infinitivo de 3:2 qualifica aquilo que estava prestes a extinguir-se na comunidade."
             }
           ]
         }
@@ -6504,13 +6504,13 @@
         {
           "id": "G4137-1",
           "label": "completar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Completar, cumprir ou levar à plenitude; o perfeito passivo de 3:2 descreve obras não achadas completas diante de Deus.",
           "examples": [
             {
               "reference": "Apocalipse 3:2",
               "greek": "ἔργα πεπληρωμένα ἐνώπιον",
               "translation": "completar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Completar, cumprir ou levar à plenitude; o perfeito passivo de 3:2 descreve obras não achadas completas diante de Deus."
             }
           ]
         }
@@ -6525,13 +6525,13 @@
         {
           "id": "G4459-1",
           "label": "como",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Advérbio interrogativo de modo; em 3:3, «como» recebeste e ouviste, não simples indicador do conteúdo recebido.",
           "examples": [
             {
               "reference": "Apocalipse 3:3",
               "greek": "οὖν πῶς εἴληφας",
               "translation": "como",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Advérbio interrogativo de modo; em 3:3, «como» recebeste e ouviste, não simples indicador do conteúdo recebido."
             }
           ]
         }
@@ -6546,13 +6546,13 @@
         {
           "id": "G2812-1",
           "label": "ladrão",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Ladrão; em 3:3, comparação da chegada inesperada, sem pressupor identificação histórica do evento.",
           "examples": [
             {
               "reference": "Apocalipse 3:3",
               "greek": "ὡς κλέπτης, καὶ",
               "translation": "ladrão",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Ladrão; em 3:3, comparação da chegada inesperada, sem pressupor identificação histórica do evento."
             }
           ]
         }
@@ -6567,13 +6567,13 @@
         {
           "id": "G4169-1",
           "label": "qual",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Pronome/adjetivo interrogativo «qual»; associado a ὥρα na advertência temporal de 3:3.",
           "examples": [
             {
               "reference": "Apocalipse 3:3",
               "greek": "γνῷς ποίαν ὥραν",
               "translation": "qual",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Pronome/adjetivo interrogativo «qual»; associado a ὥρα na advertência temporal de 3:3."
             }
           ]
         }
@@ -6588,13 +6588,13 @@
         {
           "id": "G5610-1",
           "label": "hora",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Hora, ocasião ou momento; em 3:3 e 3:10, a expressão ganha nuance pela ameaça e pela provação.",
           "examples": [
             {
               "reference": "Apocalipse 3:3",
               "greek": "ποίαν ὥραν ἥξω",
               "translation": "hora",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Hora, ocasião ou momento; em 3:3 e 3:10, a expressão ganha nuance pela ameaça e pela provação."
             }
           ]
         }
@@ -6609,13 +6609,13 @@
         {
           "id": "G3435-1",
           "label": "contaminar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Manchar, contaminar; em 3:4, o objeto é a veste, numa metáfora de integridade e fidelidade.",
           "examples": [
             {
               "reference": "Apocalipse 3:4",
               "greek": "οὐκ ἐμόλυναν τὰ",
               "translation": "contaminar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Manchar, contaminar; em 3:4, o objeto é a veste, numa metáfora de integridade e fidelidade."
             }
           ]
         }
@@ -6630,13 +6630,13 @@
         {
           "id": "G2440-1",
           "label": "veste",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Veste ou roupa; em 3:4–5 e 3:18, simboliza condição espiritual, honra e a vergonha de nudez.",
           "examples": [
             {
               "reference": "Apocalipse 3:4",
               "greek": "τὰ ἱμάτια αὐτῶν,",
               "translation": "veste",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Veste ou roupa; em 3:4–5 e 3:18, simboliza condição espiritual, honra e a vergonha de nudez."
             }
           ]
         }
@@ -6651,13 +6651,13 @@
         {
           "id": "G514-1",
           "label": "digno",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Digno, adequado ou merecedor; em 3:4 funciona como predicativo da promessa de andar com Cristo.",
           "examples": [
             {
               "reference": "Apocalipse 3:4",
               "greek": "ὅτι ἄξιοί εἰσιν.",
               "translation": "digno",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Digno, adequado ou merecedor; em 3:4 funciona como predicativo da promessa de andar com Cristo."
             }
           ]
         }
@@ -6672,13 +6672,13 @@
         {
           "id": "G4016-1",
           "label": "vestir",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Vestir ou envolver com roupa; o contexto 3:5 e 3:18 trata de ser revestido com vestes brancas.",
           "examples": [
             {
               "reference": "Apocalipse 3:5",
               "greek": "οὕτως περιβαλεῖται ἐν",
               "translation": "vestir",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Vestir ou envolver com roupa; o contexto 3:5 e 3:18 trata de ser revestido com vestes brancas."
             }
           ]
         }
@@ -6693,13 +6693,13 @@
         {
           "id": "G1813-1",
           "label": "apagar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Apagar ou eliminar registro; em 3:5, referente ao nome no livro da vida sob negação enfática.",
           "examples": [
             {
               "reference": "Apocalipse 3:5",
               "greek": "μὴ ἐξαλείψω τὸ",
               "translation": "apagar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Apagar ou eliminar registro; em 3:5, referente ao nome no livro da vida sob negação enfática."
             }
           ]
         }
@@ -6714,13 +6714,13 @@
         {
           "id": "G976-1",
           "label": "livro",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Livro ou rolo escrito; no sintagma «livro da vida» (3:5) pertence à imagem do registro divino.",
           "examples": [
             {
               "reference": "Apocalipse 3:5",
               "greek": "τῆς βίβλου τῆς",
               "translation": "livro",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Livro ou rolo escrito; no sintagma «livro da vida» (3:5) pertence à imagem do registro divino."
             }
           ]
         }
@@ -6735,13 +6735,13 @@
         {
           "id": "G3670-1",
           "label": "confessar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Reconhecer, declarar ou confessar; em 3:5, Cristo promete reconhecer o nome diante do Pai e dos anjos.",
           "examples": [
             {
               "reference": "Apocalipse 3:5",
               "greek": "καὶ ὁμολογήσω τὸ",
               "translation": "confessar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Reconhecer, declarar ou confessar; em 3:5, Cristo promete reconhecer o nome diante do Pai e dos anjos."
             }
           ]
         }
@@ -6756,13 +6756,13 @@
         {
           "id": "G40-1",
           "label": "santo",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Santo ou consagrado; em 3:7 é título substantivado do Cristo que fala.",
           "examples": [
             {
               "reference": "Apocalipse 3:7",
               "greek": "ὁ ἅγιος, ὁ",
               "translation": "santo",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Santo ou consagrado; em 3:7 é título substantivado do Cristo que fala."
             }
           ]
         }
@@ -6777,13 +6777,13 @@
         {
           "id": "G228-1",
           "label": "verdadeiro",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Verdadeiro, genuíno; em 3:7 e 3:14 qualifica a identidade e confiabilidade do locutor.",
           "examples": [
             {
               "reference": "Apocalipse 3:7",
               "greek": "ὁ ἀληθινός, ὁ",
               "translation": "verdadeiro",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Verdadeiro, genuíno; em 3:7 e 3:14 qualifica a identidade e confiabilidade do locutor."
             }
           ]
         }
@@ -6798,13 +6798,13 @@
         {
           "id": "G1138-1",
           "label": "Davi",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Nome próprio Davi; «chave de Davi» em 3:7 evoca a imagem de Isaías 22:22, sem identidade literal com a chave antiga.",
           "examples": [
             {
               "reference": "Apocalipse 3:7",
               "greek": "κλεῖν Δαυίδ, ὁ",
               "translation": "Davi",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Nome próprio Davi; «chave de Davi» em 3:7 evoca a imagem de Isaías 22:22, sem identidade literal com a chave antiga."
             }
           ]
         }
@@ -6819,13 +6819,13 @@
         {
           "id": "G455-1",
           "label": "abrir",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Abrir; em 3:7–8, a ação descreve autoridade para abrir o que ninguém fecha.",
           "examples": [
             {
               "reference": "Apocalipse 3:7",
               "greek": "ὁ ἀνοίγων καὶ",
               "translation": "abrir",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Abrir; em 3:7–8, a ação descreve autoridade para abrir o que ninguém fecha."
             }
           ]
         }
@@ -6840,13 +6840,13 @@
         {
           "id": "G2808-1",
           "label": "fechar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Fechar; em 3:7–8 forma paralelo antitético com abrir, exprimindo autoridade exclusiva.",
           "examples": [
             {
               "reference": "Apocalipse 3:7",
               "greek": "οὐδεὶς κλείσει, καὶ",
               "translation": "fechar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Fechar; em 3:7–8 forma paralelo antitético com abrir, exprimindo autoridade exclusiva."
             }
           ]
         }
@@ -6861,13 +6861,13 @@
         {
           "id": "G2374-1",
           "label": "porta",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Porta; em 3:8 simboliza abertura concedida, em 3:20 introduz imagem de encontro e comunhão.",
           "examples": [
             {
               "reference": "Apocalipse 3:8",
               "greek": "σου θύραν ἠνεῳγμένην,",
               "translation": "porta",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Porta; em 3:8 simboliza abertura concedida, em 3:20 introduz imagem de encontro e comunhão."
             }
           ]
         }
@@ -6882,13 +6882,13 @@
         {
           "id": "G3398-1",
           "label": "pequeno",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Pequeno, limitado; em 3:8 modifica δύναμις e expressa pouca força, não necessariamente pouca fé.",
           "examples": [
             {
               "reference": "Apocalipse 3:8",
               "greek": "ὅτι μικρὰν ἔχεις",
               "translation": "pequeno",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Pequeno, limitado; em 3:8 modifica δύναμις e expressa pouca força, não necessariamente pouca fé."
             }
           ]
         }
@@ -6903,13 +6903,13 @@
         {
           "id": "G5574-1",
           "label": "mentir",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Mentir ou falar falsamente; em 3:9 caracteriza uma reivindicação contestada no conflito local.",
           "examples": [
             {
               "reference": "Apocalipse 3:9",
               "greek": "ἀλλὰ ψεύδονται— ἰδοὺ",
               "translation": "mentir",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Mentir ou falar falsamente; em 3:9 caracteriza uma reivindicação contestada no conflito local."
             }
           ]
         }
@@ -6924,13 +6924,13 @@
         {
           "id": "G4352-1",
           "label": "prostrar-se",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Prostrar-se ou prestar homenagem; 3:9 requer leitura contextual para determinar o objeto e a natureza do ato.",
           "examples": [
             {
               "reference": "Apocalipse 3:9",
               "greek": "καὶ προσκυνήσουσιν ἐνώπιον",
               "translation": "prostrar-se",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Prostrar-se ou prestar homenagem; 3:9 requer leitura contextual para determinar o objeto e a natureza do ato."
             }
           ]
         }
@@ -6945,13 +6945,13 @@
         {
           "id": "G3986-1",
           "label": "provação",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Provação ou teste; em 3:10 aparece como evento que virá sobre a οἰκουμένη, com sentido determinado pelo contexto.",
           "examples": [
             {
               "reference": "Apocalipse 3:10",
               "greek": "τοῦ πειρασμοῦ τῆς",
               "translation": "provação",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Provação ou teste; em 3:10 aparece como evento que virá sobre a οἰκουμένη, com sentido determinado pelo contexto."
             }
           ]
         }
@@ -6966,13 +6966,13 @@
         {
           "id": "G3625-1",
           "label": "mundo habitado",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Terra habitada ou mundo habitado; em 3:10 marca a amplitude da provação, sem impor mapa geográfico moderno.",
           "examples": [
             {
               "reference": "Apocalipse 3:10",
               "greek": "τῆς οἰκουμένης ὅλης,",
               "translation": "mundo habitado",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Terra habitada ou mundo habitado; em 3:10 marca a amplitude da provação, sem impor mapa geográfico moderno."
             }
           ]
         }
@@ -6987,13 +6987,13 @@
         {
           "id": "G3650-1",
           "label": "todo",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Todo, inteiro; em 3:10 caracteriza a extensão da região habitada na expressão ὅλης τῆς οἰκουμένης.",
           "examples": [
             {
               "reference": "Apocalipse 3:10",
               "greek": "οἰκουμένης ὅλης, πειράσαι",
               "translation": "todo",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Todo, inteiro; em 3:10 caracteriza a extensão da região habitada na expressão ὅλης τῆς οἰκουμένης."
             }
           ]
         }
@@ -7008,13 +7008,13 @@
         {
           "id": "G4769-1",
           "label": "coluna",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Coluna ou pilar; metáfora de estabilidade e pertença ao santuário em 3:12.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "αὐτὸν στῦλον ἐν",
               "translation": "coluna",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Coluna ou pilar; metáfora de estabilidade e pertença ao santuário em 3:12."
             }
           ]
         }
@@ -7029,13 +7029,13 @@
         {
           "id": "G3485-1",
           "label": "santuário",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Santuário ou templo; em 3:12 designa o âmbito de Deus na promessa, sujeito a interpretação simbólica em Ap 21:22.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "τῷ ναῷ τοῦ",
               "translation": "santuário",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Santuário ou templo; em 3:12 designa o âmbito de Deus na promessa, sujeito a interpretação simbólica em Ap 21:22."
             }
           ]
         }
@@ -7050,13 +7050,13 @@
         {
           "id": "G1854-1",
           "label": "fora",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Fora, para fora; em 3:12 reforça a permanência prometida ao vencedor.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "καὶ ἔξω οὐ",
               "translation": "fora",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Fora, para fora; em 3:12 reforça a permanência prometida ao vencedor."
             }
           ]
         }
@@ -7071,13 +7071,13 @@
         {
           "id": "G1831-1",
           "label": "sair",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Sair, ir para fora; em 3:12 está sob a negação enfática οὐ μή.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "μὴ ἐξέλθῃ ἔτι,",
               "translation": "sair",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Sair, ir para fora; em 3:12 está sob a negação enfática οὐ μή."
             }
           ]
         }
@@ -7092,13 +7092,13 @@
         {
           "id": "G2089-1",
           "label": "ainda",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Ainda, mais; em 3:12 reforça a ideia de nunca mais sair.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "ἐξέλθῃ ἔτι, καὶ",
               "translation": "ainda",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Ainda, mais; em 3:12 reforça a ideia de nunca mais sair."
             }
           ]
         }
@@ -7113,13 +7113,13 @@
         {
           "id": "G4172-1",
           "label": "cidade",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Cidade; em 3:12 está vinculada à Nova Jerusalém e à pertença escatológica.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "τῆς πόλεως τοῦ",
               "translation": "cidade",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Cidade; em 3:12 está vinculada à Nova Jerusalém e à pertença escatológica."
             }
           ]
         }
@@ -7134,13 +7134,13 @@
         {
           "id": "G2419-1",
           "label": "Jerusalém",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Jerusalém, nome próprio; em 3:12 o adjetivo «nova» marca a cidade escatológica que desce do céu.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "καινῆς Ἰερουσαλήμ, ἡ",
               "translation": "Jerusalém",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Jerusalém, nome próprio; em 3:12 o adjetivo «nova» marca a cidade escatológica que desce do céu."
             }
           ]
         }
@@ -7155,13 +7155,13 @@
         {
           "id": "G2597-1",
           "label": "descer",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Descer; em 3:12 particípio que descreve a cidade vinda do céu, retomada em 21:2,10.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "ἡ καταβαίνουσα ἐκ",
               "translation": "descer",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Descer; em 3:12 particípio que descreve a cidade vinda do céu, retomada em 21:2,10."
             }
           ]
         }
@@ -7176,13 +7176,13 @@
         {
           "id": "G3772-1",
           "label": "céu",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Céu; em 3:12 indica a procedência da Nova Jerusalém no relato visionário.",
           "examples": [
             {
               "reference": "Apocalipse 3:12",
               "greek": "τοῦ οὐρανοῦ ἀπὸ",
               "translation": "céu",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Céu; em 3:12 indica a procedência da Nova Jerusalém no relato visionário."
             }
           ]
         }
@@ -7197,13 +7197,13 @@
         {
           "id": "G746-1",
           "label": "princípio; origem",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Princípio, origem ou posição inicial; em 3:14 o genitivo «da criação de Deus» exige análise cristológica, não sentido obrigatório de «primeira criatura».",
           "examples": [
             {
               "reference": "Apocalipse 3:14",
               "greek": "ἡ ἀρχὴ τῆς",
               "translation": "princípio; origem",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Princípio, origem ou posição inicial; em 3:14 o genitivo «da criação de Deus» exige análise cristológica, não sentido obrigatório de «primeira criatura»."
             }
           ]
         }
@@ -7218,13 +7218,13 @@
         {
           "id": "G2937-1",
           "label": "criação",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Criação ou ato de criar; em 3:14 aparece no genitivo dependente de ἀρχή.",
           "examples": [
             {
               "reference": "Apocalipse 3:14",
               "greek": "τῆς κτίσεως τοῦ",
               "translation": "criação",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Criação ou ato de criar; em 3:14 aparece no genitivo dependente de ἀρχή."
             }
           ]
         }
@@ -7239,13 +7239,13 @@
         {
           "id": "G3777-1",
           "label": "nem",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Conjunção negativa coordenativa «nem»; em 3:15–16 combina qualificações térmicas.",
           "examples": [
             {
               "reference": "Apocalipse 3:15",
               "greek": "ὅτι οὔτε ψυχρὸς",
               "translation": "nem",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Conjunção negativa coordenativa «nem»; em 3:15–16 combina qualificações térmicas."
             }
           ]
         }
@@ -7260,13 +7260,13 @@
         {
           "id": "G5593-1",
           "label": "frio",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Frio; em 3:15–16 forma oposição com quente e contraste com morno na crítica à comunidade.",
           "examples": [
             {
               "reference": "Apocalipse 3:15",
               "greek": "οὔτε ψυχρὸς εἶ",
               "translation": "frio",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Frio; em 3:15–16 forma oposição com quente e contraste com morno na crítica à comunidade."
             }
           ]
         }
@@ -7281,13 +7281,13 @@
         {
           "id": "G2200-1",
           "label": "quente",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Quente; em 3:15–16 integra metáfora térmica, sem determinar sozinho interpretação sobre águas locais.",
           "examples": [
             {
               "reference": "Apocalipse 3:15",
               "greek": "οὔτε ζεστός. ὄφελον",
               "translation": "quente",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Quente; em 3:15–16 integra metáfora térmica, sem determinar sozinho interpretação sobre águas locais."
             }
           ]
         }
@@ -7302,13 +7302,13 @@
         {
           "id": "G3785-1",
           "label": "quem dera",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Partícula de desejo «quem dera»; em 3:15 introduz desejo irreal acompanhado de ἦς.",
           "examples": [
             {
               "reference": "Apocalipse 3:15",
               "greek": "ζεστός. ὄφελον ψυχρὸς",
               "translation": "quem dera",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Partícula de desejo «quem dera»; em 3:15 introduz desejo irreal acompanhado de ἦς."
             }
           ]
         }
@@ -7323,13 +7323,13 @@
         {
           "id": "G2228-1",
           "label": "ou",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Conjunção alternativa «ou»; em 3:15–16 coordena os adjetivos opostos.",
           "examples": [
             {
               "reference": "Apocalipse 3:15",
               "greek": "ἦς ἢ ζεστός.",
               "translation": "ou",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Conjunção alternativa «ou»; em 3:15–16 coordena os adjetivos opostos."
             }
           ]
         }
@@ -7344,13 +7344,13 @@
         {
           "id": "G5513-1",
           "label": "morno",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Morno; em 3:16 é condição reprovada na imagem de temperatura.",
           "examples": [
             {
               "reference": "Apocalipse 3:16",
               "greek": "ὅτι χλιαρὸς εἶ",
               "translation": "morno",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Morno; em 3:16 é condição reprovada na imagem de temperatura."
             }
           ]
         }
@@ -7365,13 +7365,13 @@
         {
           "id": "G1692-1",
           "label": "vomitar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Vomitar; em 3:16 o infinitivo apresenta a imagem de rejeição, não ação literal clínica.",
           "examples": [
             {
               "reference": "Apocalipse 3:16",
               "greek": "σε ἐμέσαι ἐκ",
               "translation": "vomitar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Vomitar; em 3:16 o infinitivo apresenta a imagem de rejeição, não ação literal clínica."
             }
           ]
         }
@@ -7386,13 +7386,13 @@
         {
           "id": "G4147-1",
           "label": "enriquecer",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Ser rico ou enriquecer; em 3:17 a autodescrição econômica contrasta com o juízo espiritual do locutor.",
           "examples": [
             {
               "reference": "Apocalipse 3:17",
               "greek": "καὶ πεπλούτηκα καὶ",
               "translation": "enriquecer",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Ser rico ou enriquecer; em 3:17 a autodescrição econômica contrasta com o juízo espiritual do locutor."
             }
           ]
         }
@@ -7407,13 +7407,13 @@
         {
           "id": "G5532-1",
           "label": "necessidade",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Necessidade, carência; em 3:17 a locução de ausência de necessidade expressa autossuficiência.",
           "examples": [
             {
               "reference": "Apocalipse 3:17",
               "greek": "οὐδὲν χρείαν ἔχω,",
               "translation": "necessidade",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Necessidade, carência; em 3:17 a locução de ausência de necessidade expressa autossuficiência."
             }
           ]
         }
@@ -7428,13 +7428,13 @@
         {
           "id": "G5005-1",
           "label": "infeliz",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Infeliz ou desventurado; em 3:17 qualifica a real condição espiritual da comunidade.",
           "examples": [
             {
               "reference": "Apocalipse 3:17",
               "greek": "ὁ ταλαίπωρος καὶ",
               "translation": "infeliz",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Infeliz ou desventurado; em 3:17 qualifica a real condição espiritual da comunidade."
             }
           ]
         }
@@ -7449,13 +7449,13 @@
         {
           "id": "G1652-1",
           "label": "miserável",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Digno de pena, miserável; junto dos demais qualificativos em 3:17 evidencia miséria não reconhecida.",
           "examples": [
             {
               "reference": "Apocalipse 3:17",
               "greek": "καὶ ἐλεεινὸς καὶ",
               "translation": "miserável",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Digno de pena, miserável; junto dos demais qualificativos em 3:17 evidencia miséria não reconhecida."
             }
           ]
         }
@@ -7470,13 +7470,13 @@
         {
           "id": "G4434-1",
           "label": "pobre",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Pobre, necessitado; em 3:17 faz contraste direto com a reivindicação de riqueza.",
           "examples": [
             {
               "reference": "Apocalipse 3:17",
               "greek": "καὶ πτωχὸς καὶ",
               "translation": "pobre",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Pobre, necessitado; em 3:17 faz contraste direto com a reivindicação de riqueza."
             }
           ]
         }
@@ -7491,13 +7491,13 @@
         {
           "id": "G5185-1",
           "label": "cego",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Cego; metáfora espiritual em 3:17–18 ligada à necessidade de colírio.",
           "examples": [
             {
               "reference": "Apocalipse 3:17",
               "greek": "καὶ τυφλὸς καὶ",
               "translation": "cego",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Cego; metáfora espiritual em 3:17–18 ligada à necessidade de colírio."
             }
           ]
         }
@@ -7512,13 +7512,13 @@
         {
           "id": "G1131-1",
           "label": "nu",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Nu, sem roupa; em 3:17–18 simboliza exposição e vergonha.",
           "examples": [
             {
               "reference": "Apocalipse 3:17",
               "greek": "καὶ γυμνός,",
               "translation": "nu",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Nu, sem roupa; em 3:17–18 simboliza exposição e vergonha."
             }
           ]
         }
@@ -7533,13 +7533,13 @@
         {
           "id": "G4823-1",
           "label": "aconselhar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Aconselhar; em 3:18 rege os infinitivos que enunciam as medidas propostas.",
           "examples": [
             {
               "reference": "Apocalipse 3:18",
               "greek": "συμβουλεύω σοι",
               "translation": "aconselhar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Aconselhar; em 3:18 rege os infinitivos que enunciam as medidas propostas."
             }
           ]
         }
@@ -7554,13 +7554,13 @@
         {
           "id": "G59-1",
           "label": "comprar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Comprar ou adquirir; em 3:18 integra a metáfora comercial de obter ouro, roupas e colírio de Cristo.",
           "examples": [
             {
               "reference": "Apocalipse 3:18",
               "greek": "σοι ἀγοράσαι παρ’",
               "translation": "comprar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Comprar ou adquirir; em 3:18 integra a metáfora comercial de obter ouro, roupas e colírio de Cristo."
             }
           ]
         }
@@ -7575,13 +7575,13 @@
         {
           "id": "G5553-1",
           "label": "ouro",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Ouro, metal precioso; em 3:18 é refinado pelo fogo como imagem de riqueza autêntica.",
           "examples": [
             {
               "reference": "Apocalipse 3:18",
               "greek": "ἐμοῦ χρυσίον πεπυρωμένον",
               "translation": "ouro",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Ouro, metal precioso; em 3:18 é refinado pelo fogo como imagem de riqueza autêntica."
             }
           ]
         }
@@ -7596,13 +7596,13 @@
         {
           "id": "G5319-1",
           "label": "manifestar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Tornar manifesto ou revelar; em 3:18 está relacionado à exposição da vergonha da nudez.",
           "examples": [
             {
               "reference": "Apocalipse 3:18",
               "greek": "μὴ φανερωθῇ ἡ",
               "translation": "manifestar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Tornar manifesto ou revelar; em 3:18 está relacionado à exposição da vergonha da nudez."
             }
           ]
         }
@@ -7617,13 +7617,13 @@
         {
           "id": "G152-1",
           "label": "vergonha",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Vergonha, desonra; em 3:18 se associa à nudez que as vestes devem cobrir.",
           "examples": [
             {
               "reference": "Apocalipse 3:18",
               "greek": "ἡ αἰσχύνη τῆς",
               "translation": "vergonha",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Vergonha, desonra; em 3:18 se associa à nudez que as vestes devem cobrir."
             }
           ]
         }
@@ -7638,13 +7638,13 @@
         {
           "id": "G1132-1",
           "label": "nudez",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Nudez; em 3:18 determina a vergonha exposta, em continuidade ao qualificativo γυμνός.",
           "examples": [
             {
               "reference": "Apocalipse 3:18",
               "greek": "τῆς γυμνότητός σου,",
               "translation": "nudez",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Nudez; em 3:18 determina a vergonha exposta, em continuidade ao qualificativo γυμνός."
             }
           ]
         }
@@ -7659,13 +7659,13 @@
         {
           "id": "G2854-1",
           "label": "colírio",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Colírio ou preparação medicinal aplicada aos olhos; em 3:18 é imagem de restauração da visão.",
           "examples": [
             {
               "reference": "Apocalipse 3:18",
               "greek": "καὶ κολλούριον ἐγχρῖσαι",
               "translation": "colírio",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Colírio ou preparação medicinal aplicada aos olhos; em 3:18 é imagem de restauração da visão."
             }
           ]
         }
@@ -7680,13 +7680,13 @@
         {
           "id": "G1472-1",
           "label": "ungir; aplicar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Ungir ou aplicar substância sobre; em 3:18 tem olhos como objeto do colírio.",
           "examples": [
             {
               "reference": "Apocalipse 3:18",
               "greek": "κολλούριον ἐγχρῖσαι τοὺς",
               "translation": "ungir; aplicar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Ungir ou aplicar substância sobre; em 3:18 tem olhos como objeto do colírio."
             }
           ]
         }
@@ -7701,13 +7701,13 @@
         {
           "id": "G5368-1",
           "label": "amar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Amar ou ter afeição; em 3:19 o amor fundamenta a repreensão e a disciplina.",
           "examples": [
             {
               "reference": "Apocalipse 3:19",
               "greek": "ἐὰν φιλῶ ἐλέγχω",
               "translation": "amar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Amar ou ter afeição; em 3:19 o amor fundamenta a repreensão e a disciplina."
             }
           ]
         }
@@ -7722,13 +7722,13 @@
         {
           "id": "G1651-1",
           "label": "repreender",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Repreender, demonstrar erro ou corrigir; em 3:19 descreve uma ação de Cristo para com os amados.",
           "examples": [
             {
               "reference": "Apocalipse 3:19",
               "greek": "φιλῶ ἐλέγχω καὶ",
               "translation": "repreender",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Repreender, demonstrar erro ou corrigir; em 3:19 descreve uma ação de Cristo para com os amados."
             }
           ]
         }
@@ -7743,13 +7743,13 @@
         {
           "id": "G3811-1",
           "label": "disciplinar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Educar, disciplinar ou corrigir; em 3:19 está coordenado com ἐλέγχω, mas não é seu sinônimo exato.",
           "examples": [
             {
               "reference": "Apocalipse 3:19",
               "greek": "καὶ παιδεύω· ζήλευε",
               "translation": "disciplinar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Educar, disciplinar ou corrigir; em 3:19 está coordenado com ἐλέγχω, mas não é seu sinônimo exato."
             }
           ]
         }
@@ -7764,13 +7764,13 @@
         {
           "id": "G2206-1",
           "label": "ser zeloso",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Ser zeloso ou empenhar-se com fervor; o imperativo ζήλευε em 3:19 é presente ativo, correspondente ao índice Strong G2206 associado à variante lexical ζηλόω.",
           "examples": [
             {
               "reference": "Apocalipse 3:19",
               "greek": "παιδεύω· ζήλευε οὖν",
               "translation": "ser zeloso",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Ser zeloso ou empenhar-se com fervor; o imperativo ζήλευε em 3:19 é presente ativo, correspondente ao índice Strong G2206 associado à variante lexical ζηλόω."
             }
           ]
         }
@@ -7785,13 +7785,13 @@
         {
           "id": "G2476-1",
           "label": "estar de pé",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Estar colocado ou permanecer de pé; o perfeito ἕστηκα em 3:20 apresenta estado presente à porta.",
           "examples": [
             {
               "reference": "Apocalipse 3:20",
               "greek": "ἰδοὺ ἕστηκα ἐπὶ",
               "translation": "estar de pé",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Estar colocado ou permanecer de pé; o perfeito ἕστηκα em 3:20 apresenta estado presente à porta."
             }
           ]
         }
@@ -7806,13 +7806,13 @@
         {
           "id": "G2925-1",
           "label": "bater",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Bater à porta; o presente κρούω em 3:20 marca a ação de chamar por abertura.",
           "examples": [
             {
               "reference": "Apocalipse 3:20",
               "greek": "καὶ κρούω· ἐάν",
               "translation": "bater",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Bater à porta; o presente κρούω em 3:20 marca a ação de chamar por abertura."
             }
           ]
         }
@@ -7827,13 +7827,13 @@
         {
           "id": "G5100-1",
           "label": "alguém",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Pronome indefinido alguém/qualquer pessoa; em 3:20 individualiza o convite condicional.",
           "examples": [
             {
               "reference": "Apocalipse 3:20",
               "greek": "ἐάν τις ἀκούσῃ",
               "translation": "alguém",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Pronome indefinido alguém/qualquer pessoa; em 3:20 individualiza o convite condicional."
             }
           ]
         }
@@ -7848,13 +7848,13 @@
         {
           "id": "G1525-1",
           "label": "entrar",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Entrar; em 3:20 integra a promessa de ingresso e convivência do locutor.",
           "examples": [
             {
               "reference": "Apocalipse 3:20",
               "greek": "καὶ εἰσελεύσομαι πρὸς",
               "translation": "entrar",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Entrar; em 3:20 integra a promessa de ingresso e convivência do locutor."
             }
           ]
         }
@@ -7869,13 +7869,13 @@
         {
           "id": "G1172-1",
           "label": "cear",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Cear ou compartilhar refeição; em 3:20 indica comunhão de mesa e acolhimento.",
           "examples": [
             {
               "reference": "Apocalipse 3:20",
               "greek": "καὶ δειπνήσω μετ’",
               "translation": "cear",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Cear ou compartilhar refeição; em 3:20 indica comunhão de mesa e acolhimento."
             }
           ]
         }
@@ -7890,13 +7890,13 @@
         {
           "id": "G2523-1",
           "label": "sentar-se",
-          "definition": "Acepção a cotejar em léxico crítico.",
+          "definition": "Sentar-se, tomar assento; em 3:21 pertence à promessa de participação no trono.",
           "examples": [
             {
               "reference": "Apocalipse 3:21",
               "greek": "αὐτῷ καθίσαι μετ’",
               "translation": "sentar-se",
-              "explanation": "Glosa editorial preliminar."
+              "explanation": "Sentar-se, tomar assento; em 3:21 pertence à promessa de participação no trono."
             }
           ]
         }
