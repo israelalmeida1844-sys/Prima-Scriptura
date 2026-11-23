@@ -1,4 +1,4 @@
-name: Homologacao Apocalipse 1-20 e 2-1-12
+name: Homologacao Apocalipse capitulos 1 e 2 completos
 
 on:
   push:
@@ -56,18 +56,29 @@ jobs:
       - name: Auditar 2:1-12 contra fonte grega e Strong
         id: philology2
         run: node scripts/auditar-filologia-apocalipse-2.mjs
+      - name: Gerar dados e componentes de Apocalipse 2:13-29
+        id: generate229
+        run: node scripts/generate-apocalipse-2-13-29.mjs
+      - name: Revisar glosas de Apocalipse 2:13-29
+        run: node scripts/revisar-glossas-apocalipse-2-13-29.mjs
+      - name: Gerar concordancias de Apocalipse 2:13-29
+        id: concord229
+        run: node scripts/generate-apocalipse-2-13-29-concordancias.mjs
+      - name: Auditoria filologica dos 358 tokens de 2:13-29
+        id: philology229
+        run: node scripts/auditar-filologia-apocalipse-2-13-29.mjs
       - name: Compilar Astro
         id: build
         run: npm run build
-      - name: Verificar 32 rotas e arquivos de concordancia
+      - name: Verificar 49 rotas e arquivos de concordancia
         id: audit
         shell: bash
         run: |
           set -euo pipefail
           page_count=$(find dist -name index.html -type f | wc -l)
           echo "Páginas HTML estáticas geradas: $page_count"
-          if [ "$page_count" -lt 87 ]; then
-            echo "O build gerou menos de 87 páginas estáticas" >&2
+          if [ "$page_count" -lt 100 ]; then
+            echo "O build gerou menos de 100 páginas estáticas" >&2
             exit 1
           fi
           for v in {1..20}; do
@@ -91,7 +102,7 @@ jobs:
               if(data.complete !== true || data.references.length!==data.verseCount) throw new Error(`Concordancia invalida: ${w.strong}`);
             }
           }
-          for (let v=1; v<=12; v++) {
+          for (let v=1; v<=29; v++) {
             const route='dist/comentarios/apocalipse/capitulo-2/versiculo-'+v+'/index.html';
             if(!fs.existsSync(route))throw new Error('Rota ausente: '+route);
             const file=fs.readFileSync('src/data/texto-original/apocalipse/apocalipse-2-'+v+'.ts','utf8');
@@ -105,7 +116,7 @@ jobs:
               if(!idx.complete||!Array.isArray(idx.references))throw new Error('Concordância inválida: '+j);
             }
           }
-          console.log('PASSOU: 32 rotas de Apocalipse, morfologia e concordancias.');
+          console.log('PASSOU: 49 rotas de Apocalipse (20+29), morfologia e concordancias.');
           NODE
 
       - name: Registrar resultado da homologacao no repositorio
@@ -117,12 +128,15 @@ jobs:
           PHILOLOGY2_OUTCOME: ${{ steps.philology2.outcome }}
           GENERATE2_OUTCOME: ${{ steps.generate2.outcome }}
           CONCORD2_OUTCOME: ${{ steps.concord2.outcome }}
+          GENERATE229_OUTCOME: ${{ steps.generate229.outcome }}
+          CONCORD229_OUTCOME: ${{ steps.concord229.outcome }}
+          PHILOLOGY229_OUTCOME: ${{ steps.philology229.outcome }}
           VERIFIED_COMMIT: ${{ github.sha }}
         run: |
           mkdir -p .github/reports
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
-          const { BUILD_OUTCOME, AUDIT_OUTCOME, VERIFIED_COMMIT, PHILOLOGY2_OUTCOME, GENERATE2_OUTCOME, CONCORD2_OUTCOME, PHILOLOGY_OUTCOME } = process.env;
+          const { BUILD_OUTCOME, AUDIT_OUTCOME, VERIFIED_COMMIT, PHILOLOGY2_OUTCOME, GENERATE2_OUTCOME, CONCORD2_OUTCOME, PHILOLOGY_OUTCOME, GENERATE229_OUTCOME, CONCORD229_OUTCOME, PHILOLOGY229_OUTCOME } = process.env;
           fs.writeFileSync('.github/reports/apocalipse-1-3-20.json', JSON.stringify({
             checkedCommit: VERIFIED_COMMIT,
             node: '22',
@@ -132,12 +146,15 @@ jobs:
             chapter2SourceAlignment: PHILOLOGY2_OUTCOME,
             chapter2Generation: GENERATE2_OUTCOME,
             chapter2Concordances: CONCORD2_OUTCOME,
-            approved: BUILD_OUTCOME === 'success' && AUDIT_OUTCOME === 'success' && PHILOLOGY_OUTCOME === 'success' && PHILOLOGY2_OUTCOME === 'success' && GENERATE2_OUTCOME === 'success' && CONCORD2_OUTCOME === 'success',
+            chapter2Verses13to29Generation: GENERATE229_OUTCOME,
+            chapter2Verses13to29Concordances: CONCORD229_OUTCOME,
+            chapter2Verses13to29SourceAlignment: PHILOLOGY229_OUTCOME,
+            approved: BUILD_OUTCOME === 'success' && AUDIT_OUTCOME === 'success' && PHILOLOGY_OUTCOME === 'success' && PHILOLOGY2_OUTCOME === 'success' && GENERATE2_OUTCOME === 'success' && CONCORD2_OUTCOME === 'success' && GENERATE229_OUTCOME === 'success' && CONCORD229_OUTCOME === 'success' && PHILOLOGY229_OUTCOME === 'success',
             source: 'GitHub Actions / homologacao-apocalipse.yml'
           }, null, 2) + '\n');
           NODE
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .github/reports/apocalipse-1-3-20.json .github/reports/apocalipse-2-1-12-filologia.json src/data/texto-original/apocalipse/apocalipse-2-* src/data/lexico-grego/apocalipse-2-1-12*.json src/components/TextoOriginalApocalipse2v*.astro public/data/concordancia-grega/
-          git diff --cached --quiet || git commit -m "feat(apocalipse): implementa e homologa Apocalipse 2:1-12"
+          git add .github/reports/apocalipse-1-3-20.json .github/reports/apocalipse-2-1-12-filologia.json .github/reports/apocalipse-2-13-29-filologia.json src/data/texto-original/apocalipse/apocalipse-2-* src/data/lexico-grego/apocalipse-2-*.json src/components/TextoOriginalApocalipse2v*.astro public/data/concordancia-grega/
+          git diff --cached --quiet || git commit -m "feat(apocalipse): implementa e homologa Apocalipse 2 completo"
           git push origin HEAD:rascunho/apocalipse
