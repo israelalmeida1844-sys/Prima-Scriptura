@@ -332,7 +332,7 @@
     "G1163": {
       "strong": "G1163",
       "lemma": "δέω",
-      "lemmaTransliteration": "dei",
+      "lemmaTransliteration": "deō",
       "partOfSpeech": "Verbo impessoal",
       "senses": [
         {
@@ -902,7 +902,7 @@
     "G191": {
       "strong": "G191",
       "lemma": "ἀκούω",
-      "lemmaTransliteration": "akoyō",
+      "lemmaTransliteration": "akouō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -1040,7 +1040,7 @@
     "G1451": {
       "strong": "G1451",
       "lemma": "ἐγγύς",
-      "lemmaTransliteration": "eggys",
+      "lemmaTransliteration": "engys",
       "partOfSpeech": "Advérbio",
       "senses": [
         {
@@ -1109,7 +1109,7 @@
     "G773": {
       "strong": "G773",
       "lemma": "Ἀσία",
-      "lemmaTransliteration": "asia",
+      "lemmaTransliteration": "Asia",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -1302,7 +1302,7 @@
     "G4151": {
       "strong": "G4151",
       "lemma": "πνεῦμα",
-      "lemmaTransliteration": "pneyma",
+      "lemmaTransliteration": "pneuma",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -1486,7 +1486,7 @@
     "G935": {
       "strong": "G935",
       "lemma": "βασιλεύς",
-      "lemmaTransliteration": "basileys",
+      "lemmaTransliteration": "basileus",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -1671,7 +1671,7 @@
     "G129": {
       "strong": "G129",
       "lemma": "αἷμα",
-      "lemmaTransliteration": "ahima",
+      "lemmaTransliteration": "haima",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -1740,7 +1740,7 @@
     "G2409": {
       "strong": "G2409",
       "lemma": "ἱερεύς",
-      "lemmaTransliteration": "hiereys",
+      "lemmaTransliteration": "hiereus",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -1909,7 +1909,7 @@
     "G2400": {
       "strong": "G2400",
       "lemma": "ἰδού",
-      "lemmaTransliteration": "idoy",
+      "lemmaTransliteration": "idou",
       "partOfSpeech": "Partícula",
       "senses": [
         {
@@ -2162,7 +2162,7 @@
     "G1": {
       "strong": "G1",
       "lemma": "Ἄλφα",
-      "lemmaTransliteration": "alpha",
+      "lemmaTransliteration": "Alpha",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -2185,7 +2185,7 @@
     "G5598": {
       "strong": "G5598",
       "lemma": "Ὦ",
-      "lemmaTransliteration": "ō",
+      "lemmaTransliteration": "Ō",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -6309,7 +6309,7 @@
     "G4464": {
       "strong": "G4464",
       "lemma": "ῥάβδος",
-      "lemmaTransliteration": "hrabdos",
+      "lemmaTransliteration": "rhabdos",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -6582,7 +6582,7 @@
     "G5610": {
       "strong": "G5610",
       "lemma": "ὥρα",
-      "lemmaTransliteration": "ōra",
+      "lemmaTransliteration": "hōra",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -6624,7 +6624,7 @@
     "G2440": {
       "strong": "G2440",
       "lemma": "ἱμάτιον",
-      "lemmaTransliteration": "imation",
+      "lemmaTransliteration": "himation",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -6729,7 +6729,7 @@
     "G3670": {
       "strong": "G3670",
       "lemma": "ὁμολογέω",
-      "lemmaTransliteration": "omologeō",
+      "lemmaTransliteration": "homologeō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -6750,7 +6750,7 @@
     "G40": {
       "strong": "G40",
       "lemma": "ἅγιος",
-      "lemmaTransliteration": "agios",
+      "lemmaTransliteration": "hagios",
       "partOfSpeech": "Adjetivo",
       "senses": [
         {
@@ -6792,7 +6792,7 @@
     "G1138": {
       "strong": "G1138",
       "lemma": "Δαυίδ",
-      "lemmaTransliteration": "Dayid",
+      "lemmaTransliteration": "Dauid",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -6897,7 +6897,7 @@
     "G5574": {
       "strong": "G5574",
       "lemma": "ψεύδομαι",
-      "lemmaTransliteration": "pseydomai",
+      "lemmaTransliteration": "pseudomai",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -6960,7 +6960,7 @@
     "G3625": {
       "strong": "G3625",
       "lemma": "οἰκουμένη",
-      "lemmaTransliteration": "oikoymenē",
+      "lemmaTransliteration": "oikoumenē",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -6981,7 +6981,7 @@
     "G3650": {
       "strong": "G3650",
       "lemma": "ὅλος",
-      "lemmaTransliteration": "olos",
+      "lemmaTransliteration": "holos",
       "partOfSpeech": "Adjetivo",
       "senses": [
         {
@@ -7128,7 +7128,7 @@
     "G2419": {
       "strong": "G2419",
       "lemma": "Ἰερουσαλήμ",
-      "lemmaTransliteration": "Ieroysalēm",
+      "lemmaTransliteration": "Ierousalēm",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -7170,7 +7170,7 @@
     "G3772": {
       "strong": "G3772",
       "lemma": "οὐρανός",
-      "lemmaTransliteration": "oyranos",
+      "lemmaTransliteration": "ouranos",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -7233,7 +7233,7 @@
     "G3777": {
       "strong": "G3777",
       "lemma": "οὔτε",
-      "lemmaTransliteration": "oyte",
+      "lemmaTransliteration": "oute",
       "partOfSpeech": "Conjunção",
       "senses": [
         {
@@ -7380,7 +7380,7 @@
     "G4147": {
       "strong": "G4147",
       "lemma": "πλουτέω",
-      "lemmaTransliteration": "ployteō",
+      "lemmaTransliteration": "plouteō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -7527,7 +7527,7 @@
     "G4823": {
       "strong": "G4823",
       "lemma": "συμβουλεύω",
-      "lemmaTransliteration": "symboyleyō",
+      "lemmaTransliteration": "symbouleuō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -7653,7 +7653,7 @@
     "G2854": {
       "strong": "G2854",
       "lemma": "κολλούριον",
-      "lemmaTransliteration": "kolloyrion",
+      "lemmaTransliteration": "kollourion",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -7674,7 +7674,7 @@
     "G1472": {
       "strong": "G1472",
       "lemma": "ἐγχρίω",
-      "lemmaTransliteration": "egchriō",
+      "lemmaTransliteration": "enchriō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -7716,7 +7716,7 @@
     "G1651": {
       "strong": "G1651",
       "lemma": "ἐλέγχω",
-      "lemmaTransliteration": "elegchō",
+      "lemmaTransliteration": "elenchō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -7737,7 +7737,7 @@
     "G3811": {
       "strong": "G3811",
       "lemma": "παιδεύω",
-      "lemmaTransliteration": "paideyō",
+      "lemmaTransliteration": "paideuō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -7758,7 +7758,7 @@
     "G2206": {
       "strong": "G2206",
       "lemma": "ζηλεύω",
-      "lemmaTransliteration": "zēleyō",
+      "lemmaTransliteration": "zēleuō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -7779,7 +7779,7 @@
     "G2476": {
       "strong": "G2476",
       "lemma": "ἵστημι",
-      "lemmaTransliteration": "istēmi",
+      "lemmaTransliteration": "histēmi",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -7800,7 +7800,7 @@
     "G2925": {
       "strong": "G2925",
       "lemma": "κρούω",
-      "lemmaTransliteration": "kroyō",
+      "lemmaTransliteration": "krouō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
