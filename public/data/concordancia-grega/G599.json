@@ -1,0 +1,830 @@
+{
+  "strong": "G599",
+  "lemma": "ἀποθνῄσκω",
+  "lemmaTranslit": "apothnēskō",
+  "tokenCount": 111,
+  "verseCount": 100,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 8,
+    "Lucas": 10,
+    "João": 28,
+    "Atos": 4,
+    "Romanos": 23,
+    "1 Coríntios": 7,
+    "2 Coríntios": 5,
+    "Gálatas": 2,
+    "Filipenses": 1,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 2,
+    "Hebreus": 7,
+    "Judas": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Mt 8:32",
+      "text": "καὶ ἀπέθανον ἐν",
+      "highlightedWord": "ἀπέθανον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Mt 9:24",
+      "text": "γὰρ ἀπέθανεν τὸ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Mt 22:24",
+      "text": "τις ἀποθάνῃ μὴ",
+      "highlightedWord": "ἀποθάνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 27,
+      "reference": "Mt 22:27",
+      "text": "πάντων ἀπέθανεν ἡ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 35,
+      "reference": "Mt 26:35",
+      "text": "σοὶ ἀποθανεῖν, οὐ",
+      "highlightedWord": "ἀποθανεῖν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Mk 5:35",
+      "text": "σου ἀπέθανεν· τί",
+      "highlightedWord": "ἀπέθανεν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Mk 5:39",
+      "text": "οὐκ ἀπέθανεν ἀλλὰ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Mk 9:26",
+      "text": "ὅτι ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mk 12:19",
+      "text": "ἀδελφὸς ἀποθάνῃ καὶ",
+      "highlightedWord": "ἀποθάνῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Mk 12:20",
+      "text": "καὶ ἀποθνῄσκων οὐκ",
+      "highlightedWord": "ἀποθνῄσκων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Mk 12:21",
+      "text": "καὶ ἀπέθανεν μὴ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Mk 12:22",
+      "text": "γυνὴ ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 44,
+      "reference": "Mk 15:44",
+      "text": "πάλαι ἀπέθανεν·",
+      "highlightedWord": "ἀπέθανεν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 42,
+      "reference": "Lk 8:42",
+      "text": "αὐτὴ ἀπέθνῃσκεν. Ἐν",
+      "highlightedWord": "ἀπέθνῃσκεν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Lk 8:52",
+      "text": "γὰρ ἀπέθανεν ἀλλὰ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 53,
+      "reference": "Lk 8:53",
+      "text": "ὅτι ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Lk 16:22",
+      "text": "δὲ ἀποθανεῖν τὸν",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Lk 20:28",
+      "text": "ἀδελφὸς ἀποθάνῃ ἔχων",
+      "highlightedWord": "ἀποθάνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Lk 20:29",
+      "text": "γυναῖκα ἀπέθανεν ἄτεκνος·",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Lk 20:31",
+      "text": "καὶ ἀπέθανον·",
+      "highlightedWord": "ἀπέθανον·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 32,
+      "reference": "Lk 20:32",
+      "text": "γυνὴ ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 36,
+      "reference": "Lk 20:36",
+      "text": "γὰρ ἀποθανεῖν ἔτι",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 47,
+      "reference": "Jn 4:47",
+      "text": "γὰρ ἀποθνῄσκειν.",
+      "highlightedWord": "ἀποθνῄσκειν."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 49,
+      "reference": "Jn 4:49",
+      "text": "πρὶν ἀποθανεῖν τὸ",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Jn 6:49",
+      "text": "καὶ ἀπέθανον·",
+      "highlightedWord": "ἀπέθανον·"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Jn 6:50",
+      "text": "μὴ ἀποθάνῃ·",
+      "highlightedWord": "ἀποθάνῃ·"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 58,
+      "reference": "Jn 6:58",
+      "text": "καὶ ἀπέθανον· ὁ",
+      "highlightedWord": "ἀπέθανον·"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Jn 8:21",
+      "text": "ὑμῶν ἀποθανεῖσθε· ὅπου",
+      "highlightedWord": "ἀποθανεῖσθε·"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Jn 8:24",
+      "text": "ὅτι ἀποθανεῖσθε ἐν",
+      "highlightedWord": "ἀποθανεῖσθε"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Jn 8:52",
+      "text": "Ἀβραὰμ ἀπέθανεν καὶ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 53,
+      "reference": "Jn 8:53",
+      "text": "ὅστις ἀπέθανεν; καὶ",
+      "highlightedWord": "ἀπέθανεν;"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Jn 11:14",
+      "text": "Λάζαρος ἀπέθανεν,",
+      "highlightedWord": "ἀπέθανεν,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Jn 11:16",
+      "text": "ἵνα ἀποθάνωμεν μετ’",
+      "highlightedWord": "ἀποθάνωμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Jn 11:21",
+      "text": "ἂν ἀπέθανεν ὁ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Jn 11:25",
+      "text": "κἂν ἀποθάνῃ ζήσεται,",
+      "highlightedWord": "ἀποθάνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Jn 11:26",
+      "text": "μὴ ἀποθάνῃ εἰς",
+      "highlightedWord": "ἀποθάνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "μου ἀπέθανεν ὁ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Jn 11:37",
+      "text": "μὴ ἀποθάνῃ;",
+      "highlightedWord": "ἀποθάνῃ;"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 50,
+      "reference": "Jn 11:50",
+      "text": "ἄνθρωπος ἀποθάνῃ ὑπὲρ",
+      "highlightedWord": "ἀποθάνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 51,
+      "reference": "Jn 11:51",
+      "text": "Ἰησοῦς ἀποθνῄσκειν ὑπὲρ",
+      "highlightedWord": "ἀποθνῄσκειν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Jn 12:24",
+      "text": "γῆν ἀποθάνῃ, αὐτὸς",
+      "highlightedWord": "ἀποθάνῃ,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Jn 12:33",
+      "text": "ἤμελλεν ἀποθνῄσκειν.",
+      "highlightedWord": "ἀποθνῄσκειν."
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Jn 18:14",
+      "text": "ἄνθρωπον ἀποθανεῖν ὑπὲρ",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Jn 18:32",
+      "text": "ἤμελλεν ἀποθνῄσκειν.",
+      "highlightedWord": "ἀποθνῄσκειν."
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Jn 19:7",
+      "text": "ὀφείλει ἀποθανεῖν, ὅτι",
+      "highlightedWord": "ἀποθανεῖν,"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Jn 21:23",
+      "text": "οὐκ ἀποθνῄσκει. οὐκ",
+      "highlightedWord": "ἀποθνῄσκει."
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Ac 7:4",
+      "text": "τὸ ἀποθανεῖν τὸν",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Ac 9:37",
+      "text": "αὐτὴν ἀποθανεῖν· λούσαντες",
+      "highlightedWord": "ἀποθανεῖν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Ac 21:13",
+      "text": "καὶ ἀποθανεῖν εἰς",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "τὸ ἀποθανεῖν· εἰ",
+      "highlightedWord": "ἀποθανεῖν·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Ro 5:6",
+      "text": "ἀσεβῶν ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ro 5:7",
+      "text": "τις ἀποθανεῖται· ὑπὲρ",
+      "highlightedWord": "ἀποθανεῖται·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Ro 5:8",
+      "text": "ἡμῶν ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ro 5:15",
+      "text": "πολλοὶ ἀπέθανον, πολλῷ",
+      "highlightedWord": "ἀπέθανον,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Ro 6:2",
+      "text": "οἵτινες ἀπεθάνομεν τῇ",
+      "highlightedWord": "ἀπεθάνομεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Ro 6:7",
+      "text": "γὰρ ἀποθανὼν δεδικαίωται",
+      "highlightedWord": "ἀποθανὼν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Ro 6:8",
+      "text": "δὲ ἀπεθάνομεν σὺν",
+      "highlightedWord": "ἀπεθάνομεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Ro 6:9",
+      "text": "οὐκέτι ἀποθνῄσκει, θάνατος",
+      "highlightedWord": "ἀποθνῄσκει,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Ro 6:10",
+      "text": "γὰρ ἀπέθανεν, τῇ",
+      "highlightedWord": "ἀπέθανεν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Ro 7:2",
+      "text": "δὲ ἀποθάνῃ ὁ",
+      "highlightedWord": "ἀποθάνῃ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Ro 7:3",
+      "text": "δὲ ἀποθάνῃ ὁ",
+      "highlightedWord": "ἀποθάνῃ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Ro 7:6",
+      "text": "νόμου, ἀποθανόντες ἐν",
+      "highlightedWord": "ἀποθανόντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Ro 7:10",
+      "text": "δὲ ἀπέθανον, καὶ",
+      "highlightedWord": "ἀπέθανον,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Ro 8:13",
+      "text": "μέλλετε ἀποθνῄσκειν, εἰ",
+      "highlightedWord": "ἀποθνῄσκειν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Ro 8:34",
+      "text": "ὁ ἀποθανών, μᾶλλον",
+      "highlightedWord": "ἀποθανών,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Ro 14:7",
+      "text": "ἑαυτῷ ἀποθνῄσκει·",
+      "highlightedWord": "ἀποθνῄσκει·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Ro 14:8",
+      "text": "τε ἀποθνῄσκωμεν, τῷ",
+      "highlightedWord": "ἀποθνῄσκωμεν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Ro 14:9",
+      "text": "Χριστὸς ἀπέθανεν καὶ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ro 14:15",
+      "text": "Χριστὸς ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "1Co 8:11",
+      "text": "Χριστὸς ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "1Co 9:15",
+      "text": "μᾶλλον ἀποθανεῖν ἤ—",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "1Co 15:3",
+      "text": "Χριστὸς ἀπέθανεν ὑπὲρ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "1Co 15:22",
+      "text": "πάντες ἀποθνῄσκουσιν, οὕτως",
+      "highlightedWord": "ἀποθνῄσκουσιν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "1Co 15:31",
+      "text": "ἡμέραν ἀποθνῄσκω, νὴ",
+      "highlightedWord": "ἀποθνῄσκω,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "1Co 15:32",
+      "text": "γὰρ ἀποθνῄσκομεν.",
+      "highlightedWord": "ἀποθνῄσκομεν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "1Co 15:36",
+      "text": "μὴ ἀποθάνῃ·",
+      "highlightedWord": "ἀποθάνῃ·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "2Co 5:14",
+      "text": "πάντων ἀπέθανεν· ἄρα",
+      "highlightedWord": "ἀπέθανεν·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "2Co 5:15",
+      "text": "πάντων ἀπέθανεν ἵνα",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "2Co 6:9",
+      "text": "ὡς ἀποθνῄσκοντες καὶ",
+      "highlightedWord": "ἀποθνῄσκοντες"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Ga 2:19",
+      "text": "νόμῳ ἀπέθανον ἵνα",
+      "highlightedWord": "ἀπέθανον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Ga 2:21",
+      "text": "δωρεὰν ἀπέθανεν.",
+      "highlightedWord": "ἀπέθανεν."
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Php 1:21",
+      "text": "τὸ ἀποθανεῖν κέρδος.",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Col 2:20",
+      "text": "Εἰ ἀπεθάνετε σὺν",
+      "highlightedWord": "ἀπεθάνετε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Col 3:3",
+      "text": "ἀπεθάνετε γάρ,",
+      "highlightedWord": "ἀπεθάνετε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Th 4:14",
+      "text": "Ἰησοῦς ἀπέθανεν καὶ",
+      "highlightedWord": "ἀπέθανεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Th 5:10",
+      "text": "τοῦ ἀποθανόντος περὶ",
+      "highlightedWord": "ἀποθανόντος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Heb 7:8",
+      "text": "δεκάτας ἀποθνῄσκοντες ἄνθρωποι",
+      "highlightedWord": "ἀποθνῄσκοντες"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Heb 9:27",
+      "text": "ἅπαξ ἀποθανεῖν, μετὰ",
+      "highlightedWord": "ἀποθανεῖν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Heb 10:28",
+      "text": "μάρτυσιν ἀποθνῄσκει·",
+      "highlightedWord": "ἀποθνῄσκει·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Heb 11:4",
+      "text": "αὐτῆς ἀποθανὼν ἔτι",
+      "highlightedWord": "ἀποθανὼν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Heb 11:13",
+      "text": "πίστιν ἀπέθανον οὗτοι",
+      "highlightedWord": "ἀπέθανον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Heb 11:21",
+      "text": "Ἰακὼβ ἀποθνῄσκων ἕκαστον",
+      "highlightedWord": "ἀποθνῄσκων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Heb 11:37",
+      "text": "μαχαίρης ἀπέθανον, περιῆλθον",
+      "highlightedWord": "ἀπέθανον,"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Jud 1:12",
+      "text": "δὶς ἀποθανόντα ἐκριζωθέντα,",
+      "highlightedWord": "ἀποθανόντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Re 3:2",
+      "text": "ἔμελλον ἀποθανεῖν, οὐ",
+      "highlightedWord": "ἀποθανεῖν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Re 8:9",
+      "text": "καὶ ἀπέθανε τὸ",
+      "highlightedWord": "ἀπέθανε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Re 8:11",
+      "text": "ἀνθρώπων ἀπέθανον ἐκ",
+      "highlightedWord": "ἀπέθανον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "ἐπιθυμήσουσιν ἀποθανεῖν καὶ",
+      "highlightedWord": "ἀποθανεῖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Re 14:13",
+      "text": "κυρίῳ ἀποθνῄσκοντες ἀπ’",
+      "highlightedWord": "ἀποθνῄσκοντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Re 16:3",
+      "text": "ζωῆς ἀπέθανεν τὰ",
+      "highlightedWord": "ἀπέθανεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
