@@ -1,0 +1,35 @@
+---
+import Base from '../../../../layouts/Base.astro';
+const verses=Array.from({length:8},(_,i)=>i+1);
+---
+<Base title="Gênesis 1 — Comentário por versículos em avaliação" description="Selecione um dos oito primeiros versículos de Gênesis para consultar o hebraico e a análise lexical.">
+<section class="genesis-chapter">
+<div class="wrap">
+<nav class="crumbs" aria-label="Caminho de navegação"><a href="/comentarios/">Comentários</a><span aria-hidden="true">/</span><a href="/comentarios/genesis/">Gênesis</a><span aria-hidden="true">/</span><span aria-current="page">Capítulo 1</span></nav>
+<div class="chapter-heading"><p class="eyebrow">O LIVRO DAS ORIGENS · CAPÍTULO 01</p><h1>Gênesis 1 — A criação</h1><p>Leia o texto original hebraico e explore cada palavra com transliteração, glossa, análise morfológica e concordâncias exaustivas. Esta é uma apresentação de avaliação.</p></div>
+<div class="summary" aria-label="Progresso do comentário"><strong>8 de 31</strong><span>versículos preparados para avaliação</span></div>
+<h2>Escolha um versículo</h2>
+<div class="verse-list">
+{verses.map(v=><a href={'/comentarios/genesis/capitulo-1/versiculo-'+v+'/'}><span>GÊNESIS 1:{v}</span><strong>{v<3?'Princípio e estado da criação':v<6?'Luz e distinção': 'Expansão e segundo dia'}</strong><small>Estudar versículo <span aria-hidden="true">→</span></small></a>)}
+</div>
+<div class="pending"><h2>Em preparação</h2><p>Gênesis 1:9–31 e os capítulos 2–50 ainda não fazem parte desta edição. Nenhum comentário foi gerado artificialmente para as passagens em desenvolvimento.</p></div>
+</div>
+</section>
+</Base>
+<style>
+.genesis-chapter,.genesis-chapter :is(a,span,p,h1,h2,strong,small){font-family:'Times New Roman',Times,serif}
+.genesis-chapter{padding:45px 0 90px}.crumbs{display:flex;gap:12px;flex-wrap:wrap;font-size:14px;color:#5e7287;margin-bottom:30px}.genesis-chapter .crumbs a{color:#435b76;text-decoration:underline;text-underline-offset:3px}
+.chapter-heading{padding:40px;background:linear-gradient(120deg,#122944,#294869);color:#f4f4f1;border-radius:14px;margin-bottom:24px}
+.chapter-heading .eyebrow{color:#eac48d}.chapter-heading h1{color:#fff;font-size:clamp(32px,5vw,50px);margin:10px 0}
+.chapter-heading>p:last-child{font-size:19px;max-width:750px;line-height:1.7}
+.summary{background:white;border:1px solid #e0d7c8;border-radius:10px;padding:20px;margin-bottom:35px;display:flex;align-items:center;gap:16px}
+.summary strong{font-size:27px;color:#213b59;white-space:nowrap}.summary span{font-size:16px;color:#607084}
+.verse-list{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px}
+.verse-list a{background:#fff;border:1px solid #e3daca;border-radius:10px;min-height:150px;padding:20px;display:flex;flex-direction:column;gap:8px}
+.verse-list a:hover{background:#faf6ed;border-color:#b59157}.verse-list a>span{font-size:13px;color:#936d36}
+.verse-list strong{font-size:20px;line-height:1.3}.verse-list small{margin-top:auto;color:#59708a;font-size:14px}
+.pending{margin-top:48px;padding:22px;border-left:4px solid #c6a15b;background:#f7f3e9}
+.pending h2{font-size:21px;margin:0}.pending p{margin:8px 0 0;line-height:1.65;color:#617184}
+@media(max-width:850px){.verse-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:440px){.chapter-heading{padding:24px}.verse-list{grid-template-columns:1fr}}
+</style>
