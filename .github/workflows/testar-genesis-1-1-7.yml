@@ -1,0 +1,33 @@
+name: Testar interlinear completo de Gn 1:1–7 (rascunho)
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/testar-genesis-1-1-7.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  chromium:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependências Astro e navegador
+        run: |
+          npm install --no-audit --no-fund
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+      - name: Compilar sem publicar
+        run: npm run build
+      - name: Testar Chromium 1440, 390 e 320 px
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 > /tmp/astro-gn1.log 2>&1 &
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:4321/rascunhos/genesis-1-7/ > /dev/null; then break; fi
+            sleep 1
+          done
+          node scripts/testar-genesis-1-1-7-browser.mjs

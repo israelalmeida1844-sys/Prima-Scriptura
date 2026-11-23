@@ -1,0 +1,37 @@
+name: Teste visual e funcional Gn 1:4-5 (rascunho)
+# Inclui espera pelo resultado assíncrono das falhas de carregamento.
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths:
+      - '.github/workflows/testar-genesis-1-4-5.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependências do Astro e navegador Chromium
+        run: |
+          npm install --no-audit --no-fund
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+      - name: Compilar versão isolada do Astro
+        run: npm run build
+      - name: Testar interações, fichas lexicais, concordâncias e telas pequenas
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 > /tmp/genesis-preview.log 2>&1 &
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:4321/rascunhos/genesis-1-4/ >/dev/null; then break; fi
+            sleep 1
+          done
+          node scripts/testar-genesis-1-4-5-browser.mjs

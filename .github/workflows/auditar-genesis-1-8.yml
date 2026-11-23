@@ -1,0 +1,61 @@
+name: Auditar Gn 1:8 — concordâncias completas em rascunho
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/auditar-genesis-1-8.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Gerar e conferir o corpus OSHB v.2.2 (39 livros)
+        run: node scripts/gerar-concordancia-genesis-1-1.mjs --force
+      - name: Auditar integralidade dos nove índices e dez unidades
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          const ids=['H7121','H430','H7549','H8064','H1961','H6153','H1242','H3117','H8145'];
+          const m=JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/genesis-1-1-2-manifest.json','utf8'));
+          if(!m.complete||m.books!==39||m.sourceVersion!=='v.2.2')throw Error('Corpus OSHB incompleto');
+          for(const id of ids){
+            const x=JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/'+id+'.json','utf8'));
+            const required=['strong','tokenCount','verseCount','references','complete','source','sourceVersion','license','attribution'];
+            if(required.some(k=>!(k in x))||x.strong!==id||x.complete!==true||
+               x.sourceVersion!=='v.2.2'||x.source!=='Open Scriptures Hebrew Bible'||
+               x.license!=='CC BY 4.0'||!x.attribution||
+               !Array.isArray(x.references)||x.references.length!==x.verseCount||
+               x.tokenCount<x.verseCount||new Set(x.references).size!==x.verseCount||
+               !x.references.includes('Gn 1:8')||!m.strongs.includes(id))throw Error(id+' incompleto ou inconsistente');
+            console.log(id, x.tokenCount+' tokens', x.verseCount+' versículos');
+          }
+          const s=fs.readFileSync('src/data/texto-original/genesis-1-8.ts','utf8');
+          if((s.match(/"hebrew":/g)||[]).length!==10)throw Error('Esperadas dez unidades');
+          for(const id of ids)if(!s.includes('"strong": "'+id+'"'))throw Error('Strong não identificado: '+id);
+          for(const x of ['וַיִּקְרָא','לָרָקִיעַ','שָׁמָיִם','שֵׁנִי'])if(!s.includes(x))throw Error('Forma ausente: '+x);
+          JS
+      - name: Compilar Astro e inspecionar prévia
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          test -f dist/rascunhos/genesis-1-8/index.html
+          grep -q 'data-original-genesis-1-8' dist/rascunhos/genesis-1-8/index.html
+          grep -q 'Times New Roman' dist/rascunhos/genesis-1-8/index.html
+          grep -q 'data-occurrences-toggle' dist/rascunhos/genesis-1-8/index.html
+      - name: Registrar índices gerados apenas em rascunho/genesis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/concordancia-hebraica
+          if ! git diff --cached --quiet; then
+            git commit -m "Gerar concordância integral H8145 de Gn 1:8 (rascunho)"
+            git pull --rebase origin rascunho/genesis
+            git push origin HEAD:rascunho/genesis
+          fi

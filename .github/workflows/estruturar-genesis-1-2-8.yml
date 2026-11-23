@@ -1,0 +1,82 @@
+name: Estruturar integralmente Gênesis 1:2–8 (somente rascunho)
+# Gerar dados completos após tradução editorial de todos os trinta títulos identificados no WLC.
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/estruturar-genesis-1-2-8.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  estruturar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Assegurar modelo aprovado de Gn 1:1 e branch correta
+        run: |
+          test "$(git branch --show-current)" = "rascunho/genesis"
+          test -f src/editorial/genesis/GEN.1.1-estruturado-completo.json
+          test -f src/editorial/genesis/GEN.1.1-auditoria-de-fonte.json
+          git rev-parse HEAD > /tmp/sha-base-rascunho
+          sha256sum src/editorial/genesis/GEN.1.1-estruturado-completo.json > /tmp/sha256-gn-1-1
+      - name: Gerar sete conjuntos completos de estruturas e concordâncias em uma passagem do corpus
+        run: node --max-old-space-size=4096 scripts/gerar-genesis-1-2-8-estruturado.mjs
+      - name: Auditar todas as 83 unidades, 7 JSON e concordâncias integrais
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          const expected={2:14,3:6,4:12,5:13,6:11,7:17,8:10};
+          const summary=JSON.parse(fs.readFileSync('src/editorial/genesis/GEN.1.2-8-relatorio-geracao.json','utf8'));
+          if(summary.tokenCount!==83||summary.verses.length!==7||summary.unresolved.length)throw Error('Resumo incompleto');
+          for(const [v,n] of Object.entries(expected)){
+            const base='src/editorial/genesis/GEN.1.'+v;
+            const j=JSON.parse(fs.readFileSync(base+'-estruturado-completo.json','utf8'));
+            const a=JSON.parse(fs.readFileSync(base+'-auditoria-de-fonte.json','utf8'));
+            if(j.verseRef!=='GEN.1.'+v||j.versePt!=='Gn 1:'+v||!j.translationPt||j.tokens.length!==n)throw Error('Gn 1:'+v+' incompleto');
+            if(!a.rawCodesVerified||!a.consonantalMatches||!a.allPortugueseExcerptsPresent||a.alignmentUnavailable.length||a.alignmentWarnings.length)throw Error('Fonte Gn 1:'+v+' não validada');
+            const strongs=new Set(j.tokens.map(t=>t.strong));
+            if(strongs.size!==Object.keys(j.lexemes).length||strongs.size!==Object.keys(j.concordanceByStrong).length)throw Error('Lemas Gn 1:'+v+' incompletos');
+            for(let i=0;i<j.tokens.length;i++){
+              const t=j.tokens[i];
+              if(t.id!=='GEN.1.'+v+'.'+(i+1)||t.index!==i+1||!t.surfaceHe||!t.consonantalHe||!t.translit||!t.glossInContext||!t.morphology.rawCode||!t.syntax.role||!t.syntax.roleLabel||!t.syntax.clauseId||!t.syntax.notesPt||!t.sensesPt)throw Error('Token incompleto Gn 1:'+v+':'+(i+1));
+              if(t.syntax.governedBy!==null&&!j.tokens.some(x=>x.id===t.syntax.governedBy))throw Error('Governo inválido Gn 1:'+v+':'+(i+1));
+              if(!j.lexemes[t.strong]?.lemmaHe||!j.lexemes[t.strong]?.lemmaTranslit)throw Error('Lema incompleto '+t.strong);
+            }
+            for(const [id,c] of Object.entries(j.concordanceByStrong)){
+              const idx=JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/'+id+'.json','utf8'));
+              if(c.totalCount!==idx.verseCount||c.items.length!==idx.verseCount||c.items.some((x,i)=>x.refPt!==idx.references[i]))throw Error('Concordância incompleta Gn 1:'+v+' '+id);
+              if(Object.values(c.countsBySection).reduce((x,y)=>x+y,0)!==idx.verseCount)throw Error('Contagem por seção incorreta '+id);
+            }
+            console.log('OK Gn 1:'+v,n+' unidades, '+strongs.size+' lemas, '+a.totalReferenceItems+' itens.');
+          }
+          console.log('APROVADO: estrutura das 83 unidades e sete concordâncias autocontidas.');
+          JS
+      - name: Comprovar que o Gênesis 1:1 aprovado não foi alterado
+        run: sha256sum -c /tmp/sha256-gn-1-1
+      - name: Salvar arquivos estruturados exclusivamente no rascunho/genesis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/editorial/genesis/GEN.1.[2-8]-estruturado-completo.json
+          git add src/editorial/genesis/GEN.1.[2-8]-auditoria-de-fonte.json
+          git add src/editorial/genesis/GEN.1.2-8-relatorio-geracao.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Concluir dados e concordâncias exaustivas de Gn 1:2–8 (rascunho)"
+            git pull --rebase origin rascunho/genesis
+            git push origin HEAD:rascunho/genesis
+          fi
+      - name: Arquivar evidências de validação (sem deploy)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: genesis-1-2-8-estruturas-exaustivas
+          path: |
+            src/editorial/genesis/GEN.1.[2-8]-estruturado-completo.json
+            src/editorial/genesis/GEN.1.[2-8]-auditoria-de-fonte.json
+            src/editorial/genesis/GEN.1.2-8-relatorio-geracao.json
+          if-no-files-found: warn

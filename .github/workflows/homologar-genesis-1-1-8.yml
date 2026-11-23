@@ -1,0 +1,74 @@
+name: Homologar Gênesis 1:1–8 — candidato sem publicação
+# Reexecutar também a inspeção de contraste visual após corrigir o cabeçalho do interlinear.
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/homologar-genesis-1-1-8.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  candidato:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter exclusivamente a branch de rascunho
+        uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+          fetch-depth: 0
+      - name: Instalar Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Registrar escopo e comparação sem alterar produção
+        run: |
+          git fetch --no-tags origin main
+          {
+            echo "Branch de origem: rascunho/genesis"
+            echo "SHA rascunho: $(git rev-parse HEAD)"
+            echo "SHA produção: $(git rev-parse origin/main)"
+            echo "Arquivos diferentes entre branch principal e rascunho:"
+            git diff --name-status origin/main...HEAD
+          } > escopo-publicacao-genesis.txt
+          cat escopo-publicacao-genesis.txt | head -n 90
+          test "$(git branch --show-current)" = "rascunho/genesis"
+      - name: Instalar dependências e Playwright
+        run: |
+          npm install --no-audit --no-fund
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+      - name: Proteger os 50 manuscritos incompletos de Gênesis
+        run: node scripts/homologar-genesis-rascunhos.mjs
+      - name: Auditar todas as concordâncias de Gn 1:1–8
+        run: node scripts/homologar-genesis-indices.mjs
+      - name: Compilar Astro sem deploy
+        run: npm run build
+      - name: Garantir presença dos oito versículos e outros livros
+        run: |
+          test -f dist/comentarios/genesis/index.html
+          test -f dist/comentarios/genesis/capitulo-1/index.html
+          for verse in {1..8}; do
+            test -f dist/comentarios/genesis/capitulo-1/versiculo-$verse/index.html
+            grep -q "data-original-genesis-1-$verse" dist/comentarios/genesis/capitulo-1/versiculo-$verse/index.html
+          done
+          for book in 1-joao hebreus daniel; do test -f dist/comentarios/$book/index.html; done
+          test -f dist/admin/index.html
+          test -f dist/admin/glosas.html
+          grep -q 'href="/comentarios/genesis/"' dist/comentarios/index.html
+      - name: Testar navegação real, controles, concordâncias e quatro resoluções
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 > /tmp/genesis-preview.log 2>&1 &
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:4321/comentarios/genesis/ > /dev/null; then break; fi
+            sleep 1
+          done
+          node scripts/homologar-genesis-1-1-8.mjs
+      - name: Arquivar evidências visuais e escopo sem publicar
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: homologacao-genesis-1-1-8
+          path: |
+            artifacts/genesis-visual/
+            escopo-publicacao-genesis.txt
+          if-no-files-found: warn

@@ -1,0 +1,51 @@
+name: Auditar Gênesis 1:4 (somente rascunho)
+on:
+  push:
+    branches:
+      - rascunho/genesis
+    paths:
+      - '.github/workflows/auditar-genesis-1-4.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Gerar concordâncias exaustivas do corpus OSHB fixado em v.2.2
+        run: node scripts/gerar-concordancia-genesis-1-1.mjs --force
+      - name: Validar índices de Gênesis 1:4
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          for (const id of ['H7200','H3588','H2896','H914','H996']) {
+            const x = JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/'+id+'.json','utf8'));
+            if (!x.complete || x.references.length !== x.verseCount || x.tokenCount < x.verseCount || !x.references.includes('Gn 1:4') || new Set(x.references).size !== x.verseCount) throw Error(id+' inválido');
+            console.log(id+': '+x.tokenCount+' ocorrências / '+x.verseCount+' versículos');
+          }
+          JS
+      - name: Instalar dependências e testar compilação Astro
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          test -f dist/rascunhos/genesis-1-4/index.html
+          grep -q 'data-original-genesis-1-4' dist/rascunhos/genesis-1-4/index.html
+          grep -q 'Times New Roman' dist/rascunhos/genesis-1-4/index.html
+      - name: Registrar índices validados exclusivamente em rascunho/genesis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/concordancia-hebraica
+          if ! git diff --cached --quiet; then
+            git commit -m "Adicionar concordâncias verificadas de Gênesis 1:4 (rascunho)"
+            git push origin HEAD:rascunho/genesis
+          fi

@@ -1,0 +1,69 @@
+{
+  "scope": "Gênesis 1:2–8",
+  "tokenCount": 83,
+  "totalReferenceRows": 94581,
+  "distinctStrongCount": 34,
+  "verses": [
+    {
+      "verse": 2,
+      "tokens": 14,
+      "strong": 12,
+      "items": 14961,
+      "unmatched": 0,
+      "warnings": 0
+    },
+    {
+      "verse": 3,
+      "tokens": 6,
+      "strong": 4,
+      "items": 9824,
+      "unmatched": 0,
+      "warnings": 0
+    },
+    {
+      "verse": 4,
+      "tokens": 12,
+      "strong": 9,
+      "items": 15140,
+      "unmatched": 0,
+      "warnings": 0
+    },
+    {
+      "verse": 5,
+      "tokens": 13,
+      "strong": 10,
+      "items": 9459,
+      "unmatched": 0,
+      "warnings": 0
+    },
+    {
+      "verse": 6,
+      "tokens": 11,
+      "strong": 8,
+      "items": 10932,
+      "unmatched": 0,
+      "warnings": 0
+    },
+    {
+      "verse": 7,
+      "tokens": 17,
+      "strong": 12,
+      "items": 25393,
+      "unmatched": 0,
+      "warnings": 0
+    },
+    {
+      "verse": 8,
+      "tokens": 10,
+      "strong": 9,
+      "items": 8872,
+      "unmatched": 0,
+      "warnings": 0
+    }
+  ],
+  "processedBooks": 39,
+  "reusedStrongCount": 4,
+  "sourceVersion": "v.2.2",
+  "editorialPending": true,
+  "unresolved": []
+}
