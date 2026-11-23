@@ -8,7 +8,7 @@ export const apocalipse1v13 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E, no meio dos candelabros, vi alguém semelhante a um filho de homem, vestido com uma roupa longa até os pés e cingido à altura do peito com uma faixa de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "A expressão ὅμοιον υἱὸν ἀνθρώπου não possui artigo diante de υἱὸν; a semelhança alude à figura de Daniel 7:13, sem exigir tradução de υἱὸν como nome próprio. ποδήρη é acusativo singular masculino do adjetivo substantivado ποδήρης, referente a veste longa até os pés; o simbolismo sacerdotal/real requer interpretação intertextual.",
+  "textualNotes": "ὅμοιον υἱὸν ἀνθρώπου é uma construção sem artigo, evocando Daniel 7:13. ποδήρη é acusativo singular de ποδήρης, adjetivo substantivado para veste longa até os pés; sua possível função sacerdotal é inferência intertextual.",
   "exegeticalNotes": [
     "A figura «semelhante a um filho de homem» remete à visão de Daniel 7.",
     "A roupa longa e a faixa de ouro comunicam dignidade e autoridade, com possíveis ressonâncias sacerdotais."
@@ -243,12 +243,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo acusativo singular masculino",
       "meanings": "roupa longa até os pés",
-      "explanation": "Adjetivo de dois términos usado substantivamente; acusativo singular masculino de ποδήρης, qualifica uma veste longa até os pés. Não designa por si só exclusivamente vestimenta sacerdotal.",
+      "explanation": "Adjetivo substantivado, acusativo singular masculino, designa veste comprida até os pés; interpretação sacerdotal ou real requer argumento intertextual.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Objeto acusativo complemento do particípio ἐνδεδυμένον",
+        "role": "Acusativo complemento de ἐνδεδυμένον",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
