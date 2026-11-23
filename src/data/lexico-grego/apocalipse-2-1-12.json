@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 2:1–12",
   "source": "SBLGNT / MorphGNT 6.12 aaed91e5 / jtauber Greek lemma mappings",
-  "editorialStatus": "Rascunho; acepções preliminares dependem de revisão lexical independente",
+  "editorialStatus": "Verbetes centrais revisados contextualmente; os demais significados permanecem em rascunho até cotejo lexical especializado.",
   "entries": {
     "G3592": {
       "strong": "G3592",
@@ -33,14 +33,14 @@
       "senses": [
         {
           "id": "G2902-1",
-          "label": "segura",
-          "definition": "segurar firmemente",
+          "label": "segurar firmemente, manter sob controle",
+          "definition": "κρατέω designa agarrar, segurar com firmeza ou manter sob domínio. Em Ap 2:1, o particípio presente κρατῶν descreve aquele que mantém as estrelas em sua mão direita.",
           "examples": [
             {
               "reference": "Apocalipse 2:1",
               "greek": "ὁ κρατῶν τοὺς",
               "translation": "segura",
-              "explanation": "Exemplo da ocorrência de κρατέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Particípio presente ativo; a permanência da ação é relevante à caracterização do locutor."
             }
           ]
         }
@@ -54,14 +54,14 @@
       "senses": [
         {
           "id": "G4043-1",
-          "label": "anda",
-          "definition": "andar",
+          "label": "andar, caminhar continuamente",
+          "definition": "περιπατέω pode denotar caminhada concreta ou conduta. Em Ap 2:1, ὁ περιπατῶν é imagem de presença ativa entre os sete candelabros.",
           "examples": [
             {
               "reference": "Apocalipse 2:1",
               "greek": "ὁ περιπατῶν ἐν",
               "translation": "anda",
-              "explanation": "Exemplo da ocorrência de περιπατέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "A ideia de vigilância decorre da imagem em contexto, não de sentido lexical obrigatório."
             }
           ]
         }
@@ -117,14 +117,14 @@
       "senses": [
         {
           "id": "G2873-1",
-          "label": "trabalho fatigante",
-          "definition": "trabalho fatigante",
+          "label": "trabalho custoso, fadiga",
+          "definition": "κόπος envolve esforço intenso e trabalho fatigante. O elogio a Éfeso não é apenas por atividade, mas por seu custo e perseverança.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "τὸν κόπον καὶ",
               "translation": "trabalho fatigante",
-              "explanation": "Exemplo da ocorrência de κόπος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Não equivale automaticamente a «mérito salvífico»."
             }
           ]
         }
@@ -201,14 +201,14 @@
       "senses": [
         {
           "id": "G941-1",
-          "label": "suportar",
-          "definition": "suportar",
+          "label": "suportar, carregar, tolerar",
+          "definition": "βαστάζω expressa carregar peso ou suportar/tolerar. Em Ap 2:2, o infinitivo aoristo βαστάσαι completa οὐ δύνῃ.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "δύνῃ βαστάσαι κακούς,",
               "translation": "suportar",
-              "explanation": "Exemplo da ocorrência de βαστάζω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Distinguir o infinitivo de sua função após δύναμαι."
             }
           ]
         }
@@ -327,14 +327,14 @@
       "senses": [
         {
           "id": "G5571-1",
-          "label": "falso",
-          "definition": "falso",
+          "label": "falso, enganoso",
+          "definition": "ψευδής caracteriza o que é falso ou mentiroso. Em 2:2 o acusativo plural ψευδεῖς é predicativo dos pretensos apóstolos submetidos à prova.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "αὐτοὺς ψευδεῖς·",
               "translation": "falso",
-              "explanation": "Exemplo da ocorrência de ψευδής no contexto; nuance exegética depende da sintaxe."
+              "explanation": "A falsidade é atribuída aos indivíduos examinados, não a toda reivindicação de apostolado."
             }
           ]
         }
@@ -369,14 +369,14 @@
       "senses": [
         {
           "id": "G2872-1",
-          "label": "cansar-se",
-          "definition": "cansar-se",
+          "label": "trabalhar até cansar, fatigar-se",
+          "definition": "κοπιάω refere-se a esforço exaustivo. Em 2:3 a forma κεκοπίακες é perfeito ativo indicativo (SBLGNT), negado por οὐ.",
           "examples": [
             {
               "reference": "Apocalipse 2:3",
               "greek": "οὐ κεκοπίακες.",
               "translation": "cansar-se",
-              "explanation": "Exemplo da ocorrência de κοπιάω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "O perfeito apresenta relevância do resultado; não confundir com o aoristo alternativo do TR."
             }
           ]
         }
@@ -453,14 +453,14 @@
       "senses": [
         {
           "id": "G863-1",
-          "label": "abandonaste",
-          "definition": "abandonar",
+          "label": "deixar, abandonar, permitir, perdoar",
+          "definition": "ἀφίημι pode expressar deixar ir, liberar, abandonar ou perdoar, dependendo da construção. Em 2:4 o aoristo ἀφῆκες indica abandono do primeiro amor.",
           "examples": [
             {
               "reference": "Apocalipse 2:4",
               "greek": "πρώτην ἀφῆκες.",
               "translation": "abandonaste",
-              "explanation": "Exemplo da ocorrência de ἀφίημι no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Não transportar o sentido «perdoar» para a glosa específica de 2:4."
             }
           ]
         }
@@ -474,14 +474,14 @@
       "senses": [
         {
           "id": "G3421-1",
-          "label": "lembrar-se",
-          "definition": "lembrar-se",
+          "label": "lembrar-se, manter na memória",
+          "definition": "μνημονεύω exige recordar ativamente. Em 2:5 a forma imperativa presente convoca reflexão continuada sobre o ponto de queda.",
           "examples": [
             {
               "reference": "Apocalipse 2:5",
               "greek": "μνημόνευε οὖν",
               "translation": "lembrar-se",
-              "explanation": "Exemplo da ocorrência de μνημονεύω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "A forma verbal é imperativa; não apenas uma constatação de lembrança."
             }
           ]
         }
@@ -516,14 +516,14 @@
       "senses": [
         {
           "id": "G3340-1",
-          "label": "arrepende-te",
-          "definition": "arrepender-se",
+          "label": "arrepender-se, mudar de orientação",
+          "definition": "μετανοέω indica reconsideração/mudança de mente e direção. Em 2:5 articula lembrança e prática das primeiras obras.",
           "examples": [
             {
               "reference": "Apocalipse 2:5",
               "greek": "καὶ μετανόησον καὶ",
               "translation": "arrepende-te",
-              "explanation": "Exemplo da ocorrência de μετανοέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Não reduzir o termo a emoção momentânea ou atribuir-lhe por si uma doutrina completa."
             }
           ]
         }
@@ -642,14 +642,14 @@
       "senses": [
         {
           "id": "G3531-1",
-          "label": "nicolaíta",
-          "definition": "nicolaíta",
+          "label": "nicolaíta, integrante dos nicolaítas",
+          "definition": "Νικολαΐτης designa membro do grupo mencionado em Ap 2:6 e 2:15. A derivação nominal é relacionada a Νικόλαος; a origem e identidade histórica não são seguras.",
           "examples": [
             {
               "reference": "Apocalipse 2:6",
               "greek": "τῶν Νικολαϊτῶν, ἃ",
               "translation": "nicolaíta",
-              "explanation": "Exemplo da ocorrência de Νικολαΐτης no contexto; nuance exegética depende da sintaxe."
+              "explanation": "A associação com Balaão (2:14–15) não equivale a comprovação etimológica."
             }
           ]
         }
@@ -726,14 +726,14 @@
       "senses": [
         {
           "id": "G3528-1",
-          "label": "vence",
-          "definition": "vencer",
+          "label": "vencer, conquistar, prevalecer",
+          "definition": "νικάω descreve vitória ou superação. Nas mensagens às igrejas, o particípio articular substantivado identifica aquele que vence e recebe promessa escatológica.",
           "examples": [
             {
               "reference": "Apocalipse 2:7",
               "greek": "τῷ νικῶντι δώσω",
               "translation": "vence",
-              "explanation": "Exemplo da ocorrência de νικάω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Em 2:7, o dativo τῷ νικῶντι é retomado pelo pronome αὐτῷ."
             }
           ]
         }
@@ -768,14 +768,14 @@
       "senses": [
         {
           "id": "G3586-1",
-          "label": "árvore",
-          "definition": "árvore",
+          "label": "madeira, árvore, lenho",
+          "definition": "ξύλον pode significar madeira, objeto de madeira ou árvore. Em Ap 2:7 a expressão ξύλον τῆς ζωῆς designa a árvore da vida, retomando o Éden.",
           "examples": [
             {
               "reference": "Apocalipse 2:7",
               "greek": "τοῦ ξύλου τῆς",
               "translation": "árvore",
-              "explanation": "Exemplo da ocorrência de ξύλον no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Não pressupor que o lema sempre signifique árvore, como em outros contextos neotestamentários."
             }
           ]
         }
@@ -810,14 +810,14 @@
       "senses": [
         {
           "id": "G3857-1",
-          "label": "paraíso",
-          "definition": "paraíso",
+          "label": "jardim, paraíso",
+          "definition": "παράδεισος denota jardim ou paraíso. Em 2:7 integra a promessa escatológica e dialoga com o jardim primordial.",
           "examples": [
             {
               "reference": "Apocalipse 2:7",
               "greek": "τῷ παραδείσῳ τοῦ",
               "translation": "paraíso",
-              "explanation": "Exemplo da ocorrência de παράδεισος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "A forma παραδείσῳ está no dativo após ἐν; «paraíso» é tradução contextual."
             }
           ]
         }
@@ -831,14 +831,14 @@
       "senses": [
         {
           "id": "G4432-1",
-          "label": "pobreza",
-          "definition": "pobreza",
+          "label": "pobreza, privação material",
+          "definition": "πτωχεία nomeia condição de pobreza e carência. Em 2:9 contrasta com πλούσιος εἶ para estabelecer avaliação espiritual diferente das condições materiais.",
           "examples": [
             {
               "reference": "Apocalipse 2:9",
               "greek": "τὴν πτωχείαν, ἀλλὰ",
               "translation": "pobreza",
-              "explanation": "Exemplo da ocorrência de πτωχεία no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Não inferir automaticamente uma riqueza monetária prometida à comunidade."
             }
           ]
         }
@@ -873,14 +873,14 @@
       "senses": [
         {
           "id": "G988-1",
-          "label": "difamação",
-          "definition": "difamação",
+          "label": "blasfêmia, difamação, fala injuriosa",
+          "definition": "βλασφημία pode significar blasfêmia ou calúnia/difamação, de acordo com o referente. Em 2:9 a acusação hostil feita contra a igreja favorece «difamação».",
           "examples": [
             {
               "reference": "Apocalipse 2:9",
               "greek": "τὴν βλασφημίαν ἐκ",
               "translation": "difamação",
-              "explanation": "Exemplo da ocorrência de βλασφημία no contexto; nuance exegética depende da sintaxe."
+              "explanation": "A expressão polêmica precisa ser situada no conflito local do primeiro século."
             }
           ]
         }
@@ -1125,14 +1125,14 @@
       "senses": [
         {
           "id": "G4735-1",
-          "label": "coroa de honra",
-          "definition": "coroa de honra",
+          "label": "coroa, grinalda de honra",
+          "definition": "στέφανος denota coroa ou grinalda de honra, vitória ou reconhecimento; sua distinção lexical de διάδημα é pertinente, sem absolutizá-la.",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "τὸν στέφανον τῆς",
               "translation": "coroa de honra",
-              "explanation": "Exemplo da ocorrência de στέφανος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Em 2:10 é ligado ao genitivo τῆς ζωῆς: «coroa da vida»."
             }
           ]
         }
@@ -1146,14 +1146,14 @@
       "senses": [
         {
           "id": "G91-1",
-          "label": "sofrerá dano",
-          "definition": "prejudicar",
+          "label": "fazer injustiça, prejudicar, causar dano",
+          "definition": "ἀδικέω é agir injustamente ou causar dano. Em 2:11, a forma ἀδικηθῇ é aoristo passivo subjuntivo após οὐ μή, negação enfática prospectiva.",
           "examples": [
             {
               "reference": "Apocalipse 2:11",
               "greek": "μὴ ἀδικηθῇ ἐκ",
               "translation": "sofrerá dano",
-              "explanation": "Exemplo da ocorrência de ἀδικέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "A glosa contextual é «não sofrerá dano», e não «não cometerá injustiça»."
             }
           ]
         }
@@ -1167,14 +1167,14 @@
       "senses": [
         {
           "id": "G1208-1",
-          "label": "segundo",
-          "definition": "segundo",
+          "label": "segundo, de segunda ordem",
+          "definition": "δεύτερος expressa posição ordinal. Em Ap 2:11 qualifica θανάτου, formando a expressão «segunda morte».",
           "examples": [
             {
               "reference": "Apocalipse 2:11",
               "greek": "τοῦ δευτέρου.",
               "translation": "segundo",
-              "explanation": "Exemplo da ocorrência de δεύτερος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "A escatologia dessa morte depende do conjunto de Apocalipse (20:6,14; 21:8)."
             }
           ]
         }
