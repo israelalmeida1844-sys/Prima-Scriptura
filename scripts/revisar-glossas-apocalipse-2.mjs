@@ -38,7 +38,7 @@ for(let v=1;v<=12;v++){
   if(w.lemma==='λέγω'&&w.greek==='λέγει')w.gloss='diz';
   if(w.lemma==='γράφω'&&w.greek==='γράψον·')w.gloss='escreve';
   if(w.lemma==='ἐκκλησία')w.gloss=w.morphologyCode.includes('P')?'igrejas':'igreja';
-  if(v===7&&w.greek==='τῷ'&&w.id==='ap2-7-23')w.gloss='no';
+  if(v===7&&w.greek==='τῷ'&&w.id==='ap2-7-24')w.gloss='no';
   if(w.lemma==='ἑπτά')w.meanings='numeral cardinal indeclinável; a marcação de caso na anotação é contextual';
   if(w.explanation.includes('A glosa de apoio')||w.explanation.includes('A glosa de apoio')){
     w.explanation=w.morphology+'. '+w.syntax.role+'. Glosa contextual «'+w.gloss+'». Consulte a tradução do período e as notas para as relações sintáticas.';
