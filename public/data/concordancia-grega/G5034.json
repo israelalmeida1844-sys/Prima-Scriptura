@@ -1,0 +1,29 @@
+{
+  "strong": "G5034",
+  "lemma": "τάχος",
+  "lemmaTranslit": "tachos",
+  "tokenCount": 8,
+  "verseCount": 8,
+  "bookDistribution": {
+    "Lc": 1,
+    "At": 3,
+    "Rm": 1,
+    "1Tm": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Lc 18:8",
+    "At 12:7",
+    "At 22:18",
+    "At 25:4",
+    "Rm 16:20",
+    "1Tm 3:14",
+    "Ap 1:1",
+    "Ap 22:6"
+  ],
+  "complete": true,
+  "source": "SBL Greek New Testament / MorphGNT",
+  "sourceVersion": "6.12",
+  "license": "CC BY-SA 3.0 / CC BY 4.0",
+  "attribution": "MorphGNT (James K. Tauber) e SBL Greek New Testament"
+}
