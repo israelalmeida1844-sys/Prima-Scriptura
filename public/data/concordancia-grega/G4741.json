@@ -1,0 +1,128 @@
+{
+  "strong": "G4741",
+  "lemma": "στηρίζω",
+  "lemmaTranslit": "stērizō",
+  "tokenCount": 13,
+  "verseCount": 13,
+  "bookDistribution": {
+    "Lucas": 3,
+    "Atos": 1,
+    "Romanos": 1,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 2,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 51,
+      "reference": "Lk 9:51",
+      "text": "πρόσωπον ἐστήρισεν τοῦ",
+      "highlightedWord": "ἐστήρισεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Lk 16:26",
+      "text": "μέγα ἐστήρικται, ὅπως",
+      "highlightedWord": "ἐστήρικται,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 32,
+      "reference": "Lk 22:32",
+      "text": "ἐπιστρέψας στήρισον τοὺς",
+      "highlightedWord": "στήρισον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Ac 18:23",
+      "text": "Φρυγίαν, στηρίζων πάντας",
+      "highlightedWord": "στηρίζων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ro 1:11",
+      "text": "τὸ στηριχθῆναι ὑμᾶς,",
+      "highlightedWord": "στηριχθῆναι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Th 3:2",
+      "text": "τὸ στηρίξαι ὑμᾶς",
+      "highlightedWord": "στηρίξαι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Th 3:13",
+      "text": "τὸ στηρίξαι ὑμῶν",
+      "highlightedWord": "στηρίξαι"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "2Th 2:17",
+      "text": "καὶ στηρίξαι ἐν",
+      "highlightedWord": "στηρίξαι"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Th 3:3",
+      "text": "ὃς στηρίξει ὑμᾶς",
+      "highlightedWord": "στηρίξει"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Jas 5:8",
+      "text": "ὑμεῖς, στηρίξατε τὰς",
+      "highlightedWord": "στηρίξατε"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Pe 5:10",
+      "text": "καταρτίσει, στηρίξει, σθενώσει,",
+      "highlightedWord": "στηρίξει,"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Pe 1:12",
+      "text": "καὶ ἐστηριγμένους ἐν",
+      "highlightedWord": "ἐστηριγμένους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Re 3:2",
+      "text": "καὶ στήρισον τὰ",
+      "highlightedWord": "στήρισον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
