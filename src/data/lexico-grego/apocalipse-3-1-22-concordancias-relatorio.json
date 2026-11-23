@@ -1,0 +1,19 @@
+{
+  "sourceCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "scope": "Apocalipse 3:1–22",
+  "corpusBooks": 27,
+  "corpusTokens": 137554,
+  "chapterVerseCount": 22,
+  "chapterTokenCount": 525,
+  "totalLexiconEntries": 352,
+  "newStrongEntries": 70,
+  "newConcordanceTokenOccurrences": 4195,
+  "newConcordanceVerseReferences": 3867,
+  "allConsolidatedEntriesComplete": true,
+  "specialStrongMapping": {
+    "lemma": "ζηλεύω",
+    "strong": "G2206",
+    "reference": "Apocalipse 3:19"
+  },
+  "status": "Concordâncias novas geradas do corpus MorphGNT fixado e persistidas em rascunho. Build Astro/validação visual ainda dependem do workflow de homologação do capítulo 3."
+}
