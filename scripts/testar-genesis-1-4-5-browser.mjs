@@ -43,6 +43,23 @@ try {
       assert.equal(overflow,false,'Overflow na página em '+size.width);
       console.log('PASS: Gn 1:'+verse+' viewport '+size.width);
     }
+    if (size.width === 390) {
+      for (const [kind,status,body,expected] of [
+        ['ausente',404,'','Não foi possível carregar'],
+        ['incompleto',200,JSON.stringify({strong:'H7200',tokenCount:1,verseCount:2,references:['Gn 1:4'],complete:false}),'Índice incompleto']
+      ]) {
+        await page.route('**/data/concordancia-hebraica/H7200.json', route=>route.fulfill({status,contentType:'application/json',body}));
+        await page.goto('http://127.0.0.1:4321/rascunhos/genesis-1-4/', {waitUntil:'networkidle'});
+        const root = page.locator('[data-original-genesis-1-4]');
+        await root.locator('[data-occurrences-toggle]').click();
+        const msg=root.locator('[data-occurrences-status]');
+        await msg.waitFor({state:'visible'});
+        await assert.equal(await msg.innerText()=== 'Carregando concordância interna…',false,'Estado de erro não substituiu carregamento');
+        assert.ok((await msg.innerText()).includes(expected),'Erro não tratado: '+kind);
+        await page.unroute('**/data/concordancia-hebraica/H7200.json');
+      }
+      console.log('PASS: 404 e índice incompleto');
+    }
     await context.close();
   }
   assert.deepEqual(errors,[],'Erros de JavaScript no navegador');
