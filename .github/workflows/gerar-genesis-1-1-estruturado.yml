@@ -1,5 +1,5 @@
 name: Completar Gênesis 1:1 — JSON integral e seis concordâncias
-# Alinhar versificação WLC -> Almeida 1911 via tabela STEPBible TVTMS MT→English.
+# Fechar os cinco títulos sem paralelo numerado com tradução editorial verificada no WLC.
 on:
   push:
     branches: [rascunho/genesis]
@@ -41,6 +41,8 @@ jobs:
             total+=c.items.length;
           }
           if(total!==11708||audit.totalItems!==11708)throw Error('Total esperado de registros não atingido');
+          if(audit.alignmentUnavailableCount!==0||audit.alignmentWarningCount!==0||audit.editorialSuperscriptionCount!==5)throw Error('Excerto português faltante ou alinhamento por validar');
+          for(const c of Object.values(j.concordanceByStrong))for(const item of c.items)if(item.excerptPt.startsWith('['))throw Error('Texto português não alinhado: '+item.refPt);
           console.log('VALIDADO:',j.tokens.length,'tokens,',ids.length,'lemas e',total,'referências distintas por lema');
           console.log('AVISOS DE ALINHAMENTO:',audit.alignmentUnavailableCount,audit.alignmentWarningCount);
           JS
