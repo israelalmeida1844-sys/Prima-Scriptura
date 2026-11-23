@@ -1,0 +1,221 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import TextoOriginalApocalipse2v1 from '../../../../components/TextoOriginalApocalipse2v1.astro';
+import TextoOriginalApocalipse2v2 from '../../../../components/TextoOriginalApocalipse2v2.astro';
+import TextoOriginalApocalipse2v3 from '../../../../components/TextoOriginalApocalipse2v3.astro';
+import TextoOriginalApocalipse2v4 from '../../../../components/TextoOriginalApocalipse2v4.astro';
+import TextoOriginalApocalipse2v5 from '../../../../components/TextoOriginalApocalipse2v5.astro';
+import TextoOriginalApocalipse2v6 from '../../../../components/TextoOriginalApocalipse2v6.astro';
+import TextoOriginalApocalipse2v7 from '../../../../components/TextoOriginalApocalipse2v7.astro';
+import TextoOriginalApocalipse2v8 from '../../../../components/TextoOriginalApocalipse2v8.astro';
+import TextoOriginalApocalipse2v9 from '../../../../components/TextoOriginalApocalipse2v9.astro';
+import TextoOriginalApocalipse2v10 from '../../../../components/TextoOriginalApocalipse2v10.astro';
+import TextoOriginalApocalipse2v11 from '../../../../components/TextoOriginalApocalipse2v11.astro';
+import TextoOriginalApocalipse2v12 from '../../../../components/TextoOriginalApocalipse2v12.astro';
+
+
+export function getStaticPaths() {
+  return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].map(number => ({
+    params: { versiculo: 'versiculo-' + number },
+    props: { number }
+  }));
+}
+
+const { number } = Astro.props;
+const components = [TextoOriginalApocalipse2v1, TextoOriginalApocalipse2v2, TextoOriginalApocalipse2v3, TextoOriginalApocalipse2v4, TextoOriginalApocalipse2v5, TextoOriginalApocalipse2v6, TextoOriginalApocalipse2v7, TextoOriginalApocalipse2v8, TextoOriginalApocalipse2v9, TextoOriginalApocalipse2v10, TextoOriginalApocalipse2v11, TextoOriginalApocalipse2v12];
+const WordComponent = components[number - 1];
+const base = '/comentarios/apocalipse/capitulo-2/';
+---
+<Base
+  title={'Apocalipse 2:' + number + ' — Texto grego e análise lexical'}
+  description={'Estudo interlinear de Apocalipse 2:' + number + ' com concordâncias exaustivas do Novo Testamento, morfologia SBLGNT/MorphGNT e tradução editorial.'}
+>
+  <section class="apocalipse-reader">
+    <div class="reader-wrap">
+      <nav class="breadcrumbs" aria-label="Caminho de navegação">
+        <a href="/comentarios/">Comentários</a>
+        <span aria-hidden="true">/</span>
+        <a href="/comentarios/apocalipse/">Apocalipse</a>
+        <span aria-hidden="true">/</span>
+        <a href={base}>Capítulo 2</a>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">{'Versículo ' + number}</span>
+      </nav>
+
+      <div class="reader-intro">
+        <div>
+          <p class="kicker">APOCALIPSE · CAPÍTULO 2 · ANÁLISE GREGA</p>
+          <h1>{'Apocalipse 2:' + number}</h1>
+          <p>
+            Selecione cada unidade do texto grego koiné para examinar sua morfologia, seus sentidos documentados e a concordância exaustiva no Novo Testamento.
+          </p>
+        </div>
+        <span class="edition-tag">Edição de avaliação</span>
+      </div>
+
+      <nav class="verse-picker" aria-label="Selecionar versículo de Apocalipse capítulo 2">
+        {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
+      </nav>
+
+      <WordComponent />
+
+      <nav class="verse-navigation" aria-label="Navegação entre versículos">
+        {number > 1 ? <a data-apocalipse-prev href={base + 'versiculo-' + (number - 1) + '/'}>← Versículo anterior</a> : <span class="disabled" aria-disabled="true">Início do capítulo 2</span>}
+        <a class="chapter-return" href={base}>Índice do capítulo 2</a>
+        {number < 12 ? <a data-apocalipse-next href={base + 'versiculo-' + (number + 1) + '/'}>Próximo versículo →</a> : <span class="disabled" aria-disabled="true">Conclusão do capítulo 2</span>}
+      </nav>
+
+      <p class="reader-note">
+        Edição acadêmica de avaliação (Apocalipse 2:1–20). Texto crítico base: SBL Greek New Testament (SBLGNT); lemas e análise morfológica: MorphGNT 6.12 (CC BY-SA 3.0 / CC BY 4.0).
+      </p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .apocalipse-reader,
+  .apocalipse-reader :is(h1, p, nav, a, span) {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .apocalipse-reader {
+    padding: 38px 0 80px;
+  }
+  .reader-wrap {
+    max-width: 1168px;
+    padding: 0 24px;
+    margin: auto;
+    min-width: 0;
+  }
+  .breadcrumbs {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    color: #657589;
+    font-size: 14px;
+    margin-bottom: 32px;
+  }
+  .apocalipse-reader .breadcrumbs a {
+    color: #435b76;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .reader-intro {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 26px;
+  }
+  .reader-intro h1 {
+    font-size: clamp(35px, 5vw, 49px);
+    margin: 7px 0 12px;
+    color: #101f35;
+  }
+  .reader-intro p:not(.kicker) {
+    font-size: 18px;
+    color: #5e7084;
+    max-width: 760px;
+    line-height: 1.7;
+    margin: 0;
+  }
+  .kicker {
+    color: #986e31;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+  }
+  .edition-tag {
+    flex-shrink: 0;
+    background: #f6edd8;
+    border: 1px solid #e0c89c;
+    border-radius: 50px;
+    padding: 7px 14px;
+    color: #71521f;
+    font-size: 13px;
+    font-weight: 700;
+  }
+  .verse-picker {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 9px;
+    margin: 0 0 22px;
+  }
+  .verse-picker a {
+    display: grid;
+    place-items: center;
+    min-width: 44px;
+    min-height: 44px;
+    border: 1px solid #d4c9b6;
+    border-radius: 7px;
+    background: white;
+    font-size: 18px;
+    color: #1c3554;
+    text-decoration: none;
+  }
+  .verse-picker a.active {
+    background: #1c3554;
+    color: white;
+    border-color: #1c3554;
+  }
+  .verse-picker a:focus-visible,
+  .verse-navigation a:focus-visible {
+    outline: 3px solid #235d99;
+    outline-offset: 3px;
+  }
+  .verse-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    padding: 22px 0;
+    border-top: 1px solid #ddd4c5;
+    border-bottom: 1px solid #ddd4c5;
+  }
+  .verse-navigation a {
+    padding: 10px 14px;
+    border: 1px solid #d5c3a6;
+    border-radius: 7px;
+    color: #1c3554;
+    background: white;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .verse-navigation a:hover {
+    background: #f4f0e8;
+    border-color: #b99558;
+  }
+  .verse-navigation .chapter-return {
+    border: 0;
+    text-decoration: underline;
+  }
+  .disabled {
+    color: #737c87;
+    font-size: 14px;
+  }
+  .reader-note {
+    font-size: 13px;
+    line-height: 1.65;
+    color: #68788a;
+    margin-top: 22px;
+  }
+  @media (max-width: 650px) {
+    .reader-intro {
+      display: block;
+    }
+    .edition-tag {
+      display: inline-block;
+      margin-top: 17px;
+    }
+    .verse-navigation {
+      justify-content: center;
+    }
+    .verse-navigation .disabled {
+      width: 100%;
+      text-align: center;
+    }
+  }
+</style>
