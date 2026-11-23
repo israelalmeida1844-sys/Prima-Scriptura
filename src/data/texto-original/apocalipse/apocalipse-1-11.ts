@@ -7,8 +7,8 @@ export const apocalipse1v11 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "que dizia: «O que você vê, escreva em um livro e envie às sete igrejas: a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia».",
-  "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "A leitura SBLGNT começa com Ὃ βλέπεις γράψον. A fórmula adicional «Eu sou o Alfa e o Ômega, o Primeiro e o Último», encontrada no Textus Receptus e em traduções dele dependentes, não integra este texto-base; não deve ser introduzida no interlinear. A formulação exata da interpolação varia por edição.",
+  "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
+  "textualNotes": "O versículo começa com λεγούσης, particípio presente ativo genitivo feminino singular, concordando com φωνῆς subentendida a partir do v. 10; em seguida surge Ὃ βλέπεις γράψον. O SBLGNT não contém a expansão do Textus Receptus «Eu sou o Alfa e o Ômega, o Primeiro e o Último», acrescida antes do mandato. Não inserir essa fórmula na sequência grega-base.",
   "exegeticalNotes": [
     "A ordem escrever-enviar torna pública e comunitária a revelação.",
     "A enumeração geográfica estabelece os destinatários reais das mensagens."
@@ -19,7 +19,7 @@ export const apocalipse1v11 = {
       "shortMorph": "V-PAP-GSF",
       "greek": "λεγούσης·",
       "transliteration": "legousēs",
-      "gloss": "dizendo",
+      "gloss": "que dizia",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",
@@ -32,7 +32,7 @@ export const apocalipse1v11 = {
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio genitivo feminino singular retomando a voz de 1:10",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse1v11 = {
       "shortMorph": "Rel-ASN",
       "greek": "Ὃ",
       "transliteration": "Ho",
-      "gloss": "que",
+      "gloss": "o que",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -56,7 +56,7 @@ export const apocalipse1v11 = {
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Pronome em estrutura relativa",
+        "role": "Objeto direto da oração relativa dependente de γράψον",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -104,7 +104,7 @@ export const apocalipse1v11 = {
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Núcleo verbal imperativo",
+        "role": "Imperativo principal, segunda pessoa singular",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse1v11 = {
       "shortMorph": "Art-DPF",
       "greek": "ταῖς",
       "transliteration": "tais",
-      "gloss": "o",
+      "gloss": "às",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -242,7 +242,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DPF-",
       "morphology": "Adjetivo dativo plural feminino",
-      "meanings": "sete",
+      "meanings": "sete (numeral cardinal indeclinável; a análise de caso indicada é contextual)",
       "explanation": "Adjetivo dativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:11"
