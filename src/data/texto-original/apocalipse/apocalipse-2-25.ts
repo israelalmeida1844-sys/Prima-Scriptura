@@ -27,7 +27,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "contudo",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «contudo»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «contudo». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome relativo acusativo singular neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo acusativo singular neutro. Elemento discursivo. Glosa contextual «o que»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome relativo acusativo singular neutro. Glosa neste contexto: «o que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "2PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural. Núcleo verbal. Glosa contextual «tendes»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural. Glosa neste contexto: «tendes». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "2AAD-P--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa plural",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa plural. Núcleo verbal. Glosa contextual «conservai»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa plural. Glosa neste contexto: «conservai». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "até",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «até»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «até». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome relativo genitivo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo genitivo singular masculino. Elemento discursivo. Glosa contextual «que»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome relativo genitivo singular masculino. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "partícula modal",
-      "explanation": "Partícula. Elemento discursivo. Glosa contextual «partícula modal»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Partícula. Glosa neste contexto: «partícula modal». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "1AAS-S--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 1ª pessoa singular",
       "meanings": "chegar",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «venha»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 1ª pessoa singular. Glosa neste contexto: «venha». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],

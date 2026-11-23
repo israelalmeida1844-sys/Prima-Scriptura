@@ -27,7 +27,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "3FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "apascentar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «pastoreará»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «pastoreará». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome pessoal acusativo plural masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal acusativo plural masculino. Elemento discursivo. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal acusativo plural masculino. Glosa neste contexto: «as». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "vara",
-      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. Glosa contextual «cetro»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo dativo singular feminino. Glosa neste contexto: «cetro». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
       "meanings": "de ferro",
-      "explanation": "Adjetivo dativo singular feminino. Elemento discursivo. Glosa contextual «de ferro»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo dativo singular feminino. Glosa neste contexto: «de ferro». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "como",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «como»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «como». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo plural neutro. Determinante nominal. Glosa contextual «os»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo plural neutro. Glosa neste contexto: «os». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo nominativo plural neutro",
       "meanings": "vaso",
-      "explanation": "Substantivo nominativo plural neutro. Núcleo nominal. Glosa contextual «vasos»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo plural neutro. Glosa neste contexto: «vasos». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo plural neutro. Determinante nominal. Glosa contextual «os»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo plural neutro. Glosa neste contexto: «os». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo nominativo plural neutro",
       "meanings": "de cerâmica",
-      "explanation": "Adjetivo nominativo plural neutro. Elemento discursivo. Glosa contextual «de cerâmica»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo nominativo plural neutro. Glosa neste contexto: «de cerâmica». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "3PPI-S--",
       "morphology": "Verbo no presente, voz passiva, indicativo, 3ª pessoa singular",
       "meanings": "despedaçar",
-      "explanation": "Verbo no presente, voz passiva, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «são despedaçados»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz passiva, indicativo, 3ª pessoa singular. Glosa neste contexto: «são despedaçados». Presente médio/passivo indicativo, terceira pessoa singular; mantém-se a forma da edição crítica. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],

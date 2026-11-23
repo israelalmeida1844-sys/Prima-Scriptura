@@ -27,7 +27,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «mas». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «mas». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome demonstrativo acusativo singular neutro",
       "meanings": "este",
-      "explanation": "Pronome demonstrativo acusativo singular neutro. Elemento discursivo. Glosa contextual «isto». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome demonstrativo acusativo singular neutro. Glosa neste contexto: «isto». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «tens». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «tens». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "que",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Advérbio. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "odiar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «odeias». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «odeias». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obras». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo acusativo plural neutro. Glosa neste contexto: «obras». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural masculino. Determinante nominal. Glosa contextual «dos/das». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido genitivo plural masculino. Glosa neste contexto: «dos/das». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "nicolaíta",
-      "explanation": "Substantivo genitivo plural masculino. Núcleo nominal. Glosa contextual «nicolaítas». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo genitivo plural masculino. Glosa neste contexto: «nicolaítas». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome relativo acusativo plural neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo acusativo plural neutro. Elemento discursivo. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome relativo acusativo plural neutro. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu também",
-      "explanation": "Pronome pessoal nominativo singular. Elemento discursivo. Glosa contextual «eu também». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome pessoal nominativo singular. Glosa neste contexto: «eu também». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "odiar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «odeio». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «odeio». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],

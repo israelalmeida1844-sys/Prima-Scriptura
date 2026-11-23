@@ -27,7 +27,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "conhecer",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «conhecer»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «conhecer». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obras»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural neutro. Glosa neste contexto: «obras». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "amor",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «amor»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «amor». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "fé",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «fé»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «fé». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "serviço",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «serviço»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «serviço». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "perseverança",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «perseverança»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «perseverança». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obras»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural neutro. Glosa neste contexto: «obras». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -507,7 +507,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -531,7 +531,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "último",
-      "explanation": "Adjetivo acusativo plural neutro. Elemento discursivo. Glosa contextual «últimas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo acusativo plural neutro. Glosa neste contexto: «últimas». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -579,7 +579,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----APNC",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "muito",
-      "explanation": "Adjetivo acusativo plural neutro. Elemento discursivo. Glosa contextual «mais numerosas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo acusativo plural neutro. Glosa neste contexto: «mais numerosas». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -603,7 +603,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural neutro. Determinante nominal. Glosa contextual «dos/das»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido genitivo plural neutro. Glosa neste contexto: «dos/das». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v19 = {
       "morphologyCode": "----GPN-",
       "morphology": "Adjetivo genitivo plural neutro",
       "meanings": "primeiro",
-      "explanation": "Adjetivo genitivo plural neutro. Elemento discursivo. Glosa contextual «primeiras»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo genitivo plural neutro. Glosa neste contexto: «primeiras». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:19"
       ],

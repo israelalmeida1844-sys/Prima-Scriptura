@@ -27,7 +27,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «mas». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «mas». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «tenho». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «tenho». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "contra",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «contra». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Preposição. Glosa neste contexto: «contra». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "que",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «que». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "amor",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «amor». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «amor». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "primeiro",
-      "explanation": "Adjetivo acusativo singular feminino. Elemento discursivo. Glosa contextual «primeiro». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Adjetivo acusativo singular feminino. Glosa neste contexto: «primeiro». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "abandonar",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «abandonaste». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «abandonaste». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],

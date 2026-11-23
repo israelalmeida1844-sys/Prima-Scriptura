@@ -27,7 +27,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. Glosa contextual «ao». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido dativo singular masculino. Glosa neste contexto: «ao». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "mensageiro",
-      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. Glosa contextual «anjo». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo dativo singular masculino. Glosa neste contexto: «anjo». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Determinante nominal. Glosa contextual «da». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido genitivo singular feminino. Glosa neste contexto: «da». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Esmirna",
-      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. Glosa contextual «Esmirna». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo dativo singular feminino. Glosa neste contexto: «Esmirna». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo genitivo singular feminino. Núcleo nominal. Glosa contextual «igreja». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo genitivo singular feminino. Glosa neste contexto: «igreja». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «escreve». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «escreve». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
       "meanings": "isto",
-      "explanation": "Pronome demonstrativo acusativo plural neutro. Elemento discursivo. Glosa contextual «assim». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome demonstrativo acusativo plural neutro. Glosa neste contexto: «assim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «diz». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «diz». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "primeiro",
-      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. Glosa contextual «primeiro». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Adjetivo nominativo singular masculino. Glosa neste contexto: «primeiro». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "último",
-      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. Glosa contextual «último». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Adjetivo nominativo singular masculino. Glosa neste contexto: «último». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Pronome relativo nominativo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo nominativo singular masculino. Elemento discursivo. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome relativo nominativo singular masculino. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "3AMI-S--",
       "morphology": "Verbo no aoristo, voz média, indicativo, 3ª pessoa singular",
       "meanings": "tornar-se",
-      "explanation": "Verbo no aoristo, voz média, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «esteve». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz média, indicativo, 3ª pessoa singular. Glosa neste contexto: «esteve». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "morto",
-      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. Glosa contextual «morto». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Adjetivo nominativo singular masculino. Glosa neste contexto: «morto». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "viver",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «reviveu». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «reviveu». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],

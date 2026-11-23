@@ -27,7 +27,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "filho",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «filhos»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural neutro. Glosa neste contexto: «filhos». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Elemento discursivo. Glosa contextual «dele/dela»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele/dela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "matar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «matarei»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «matarei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "morte",
-      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. Glosa contextual «morte»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo dativo singular masculino. Glosa neste contexto: «morte». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "3FMI-P--",
       "morphology": "Verbo no futuro, voz média, indicativo, 3ª pessoa plural",
       "meanings": "conhecer",
-      "explanation": "Verbo no futuro, voz média, indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual «saberão»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz média, indicativo, 3ª pessoa plural. Glosa neste contexto: «saberão». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "todo",
-      "explanation": "Adjetivo nominativo plural feminino. Elemento discursivo. Glosa contextual «todas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo nominativo plural feminino. Glosa neste contexto: «todas». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo plural feminino. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo plural feminino. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual «assembleia»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo plural feminino. Glosa neste contexto: «assembleia». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "que",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «que»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «que». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal nominativo singular. Elemento discursivo. Glosa contextual «eu»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal nominativo singular. Glosa neste contexto: «eu». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «sou»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «sou». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "investigar",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. Glosa contextual «sonda»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Glosa neste contexto: «sonda». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "rim",
-      "explanation": "Substantivo acusativo plural masculino. Núcleo nominal. Glosa contextual «rins»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural masculino. Glosa neste contexto: «rins». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "coração",
-      "explanation": "Substantivo acusativo plural feminino. Núcleo nominal. Glosa contextual «corações»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural feminino. Glosa neste contexto: «corações». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -507,7 +507,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -531,7 +531,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «darei»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «darei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo plural. Elemento discursivo. Glosa contextual «a vós»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal dativo plural. Glosa neste contexto: «a vós». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -579,7 +579,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----DSM-",
       "morphology": "Adjetivo dativo singular masculino",
       "meanings": "cada um",
-      "explanation": "Adjetivo dativo singular masculino. Elemento discursivo. Glosa contextual «a cada um»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo dativo singular masculino. Glosa neste contexto: «a cada um». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -603,7 +603,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "contra",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «contra»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «contra». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -651,7 +651,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obra»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo plural neutro. Glosa neste contexto: «obra». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],
@@ -675,7 +675,7 @@ export const apocalipse2v23 = {
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo plural. Elemento discursivo. Glosa contextual «de vós»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo plural. Glosa neste contexto: «de vós». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:23"
       ],

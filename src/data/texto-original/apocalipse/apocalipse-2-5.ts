@@ -27,7 +27,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "2PAD-S--",
       "morphology": "Verbo no presente, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "lembrar-se",
-      "explanation": "Verbo no presente, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «lembra-te». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «lembra-te». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "portanto",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «portanto». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «portanto». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "de onde",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «de onde». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Advérbio. Glosa neste contexto: «de onde». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "2XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "cair",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «caíste». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «caíste». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «arrepende-te». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «arrepende-te». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "primeiro",
-      "explanation": "Adjetivo acusativo plural neutro. Elemento discursivo. Glosa contextual «primeiras». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Adjetivo acusativo plural neutro. Glosa neste contexto: «primeiras». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obras». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo acusativo plural neutro. Glosa neste contexto: «obras». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "fazer",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «pratica». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «pratica». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «se». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «se». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "porém",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «porém». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «porém». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "1PMI-S--",
       "morphology": "Verbo no presente, voz média, indicativo, 1ª pessoa singular",
       "meanings": "vir",
-      "explanation": "Verbo no presente, voz média, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «venho». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz média, indicativo, 1ª pessoa singular. Glosa neste contexto: «venho». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo singular. Elemento discursivo. Glosa contextual «a ti». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome pessoal dativo singular. Glosa neste contexto: «a ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "mover",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «removerei». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «removerei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "candelabro",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «candelabro». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «candelabro». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -507,7 +507,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -531,7 +531,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual «do». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -579,7 +579,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "lugar",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «lugar». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «lugar». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -603,7 +603,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Elemento discursivo. Glosa contextual «dele». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «se». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «se». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -651,7 +651,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -675,7 +675,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "2AAS-S--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 2ª pessoa singular",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «te arrependas». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 2ª pessoa singular. Glosa neste contexto: «te arrependas». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],

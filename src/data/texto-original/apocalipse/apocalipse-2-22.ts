@@ -27,7 +27,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "eis",
-      "explanation": "Partícula. Elemento discursivo. Glosa contextual «eis»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Partícula. Glosa neste contexto: «eis». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "lançar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «lanço»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «lanço». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Pronome pessoal acusativo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal acusativo singular feminino. Elemento discursivo. Glosa contextual «a ela»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal acusativo singular feminino. Glosa neste contexto: «a ela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "para",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «para»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «para». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "leito",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «leito»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «leito». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural masculino. Determinante nominal. Glosa contextual «os»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo plural masculino. Glosa neste contexto: «os». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "Verbo no presente, voz ativa, particípio acusativo plural masculino",
       "meanings": "adulterar",
-      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Particípio em construção sintática. Glosa contextual «os que adulteram»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Glosa neste contexto: «os que adulteram». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "com",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «com»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «com». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Elemento discursivo. Glosa contextual «dele/dela»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele/dela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "para",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «para»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «para». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "tribulação",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «tribulação»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «tribulação». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "grande",
-      "explanation": "Adjetivo acusativo singular feminino. Elemento discursivo. Glosa contextual «grande»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo acusativo singular feminino. Glosa neste contexto: «grande». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «se»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «se». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "3AAS-P--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa plural",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa plural. Núcleo verbal. Glosa contextual «se arrependam»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa plural. Glosa neste contexto: «se arrependam». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural neutro. Determinante nominal. Glosa contextual «dos/das»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido genitivo plural neutro. Glosa neste contexto: «dos/das». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo genitivo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo genitivo plural neutro. Núcleo nominal. Glosa contextual «obra»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo plural neutro. Glosa neste contexto: «obra». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Elemento discursivo. Glosa contextual «dele/dela»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele/dela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],

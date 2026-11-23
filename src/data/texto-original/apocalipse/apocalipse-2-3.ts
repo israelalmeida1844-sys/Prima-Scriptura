@@ -27,7 +27,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "perseverança",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «perseverança». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «perseverança». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «tens». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «tens». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "suportar",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «suportaste». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «suportaste». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "por causa de",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «por causa de». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Preposição. Glosa neste contexto: «por causa de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular neutro. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido acusativo singular neutro. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "nome",
-      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual «nome». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo acusativo singular neutro. Glosa neste contexto: «nome». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «meu». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "2XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "cansar-se",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «te cansaste». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «te cansaste». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],

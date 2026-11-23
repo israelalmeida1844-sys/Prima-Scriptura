@@ -27,7 +27,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "conhecer",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «conheço»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «conheço». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "onde",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «onde»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «onde». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "habitar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «habitas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «habitas». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "onde",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «onde»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «onde». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "trono",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual «trono»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo singular masculino. Glosa neste contexto: «trono». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual «do»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Satanás",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «Satanás»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «Satanás». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «conservas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «conservas». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular neutro. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular neutro. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "nome",
-      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual «nome»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular neutro. Glosa neste contexto: «nome». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «meu/de mim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "2AMI-S--",
       "morphology": "Verbo no aoristo, voz média, indicativo, 2ª pessoa singular",
       "meanings": "negar",
-      "explanation": "Verbo no aoristo, voz média, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «negaste»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz média, indicativo, 2ª pessoa singular. Glosa neste contexto: «negaste». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "fé",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «fé»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «fé». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «meu/de mim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "e",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «e». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -507,7 +507,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -531,7 +531,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo plural feminino. Determinante nominal. Glosa contextual «às»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido dativo plural feminino. Glosa neste contexto: «às». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "dia",
-      "explanation": "Substantivo dativo plural feminino. Núcleo nominal. Glosa contextual «dia»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo dativo plural feminino. Glosa neste contexto: «dia». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -579,7 +579,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "Antipas",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual «Antipas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo singular masculino. Glosa neste contexto: «Antipas». Nome próprio nominativo em construção de retomada após expressão temporal; estrutura sintaticamente abrupta. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -603,7 +603,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "testemunha",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual «testemunha»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo singular masculino. Glosa neste contexto: «testemunha». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -651,7 +651,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «meu/de mim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -675,7 +675,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -699,7 +699,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "fiel",
-      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. Glosa contextual «fiel»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Adjetivo nominativo singular masculino. Glosa neste contexto: «fiel». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -723,7 +723,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «meu/de mim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -747,7 +747,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Pronome relativo nominativo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo nominativo singular masculino. Elemento discursivo. Glosa contextual «que»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome relativo nominativo singular masculino. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -771,7 +771,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo no aoristo, voz passiva, indicativo, 3ª pessoa singular",
       "meanings": "matar",
-      "explanation": "Verbo no aoristo, voz passiva, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «foi morto»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz passiva, indicativo, 3ª pessoa singular. Glosa neste contexto: «foi morto». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -795,7 +795,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "junto de",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «junto de»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «junto de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -819,7 +819,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo plural. Elemento discursivo. Glosa contextual «entre vós»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal dativo plural. Glosa neste contexto: «entre vós». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -843,7 +843,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "onde",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «onde»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «onde». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -867,7 +867,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -891,7 +891,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "Satanás",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual «Satanás»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo nominativo singular masculino. Glosa neste contexto: «Satanás». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],
@@ -915,7 +915,7 @@ export const apocalipse2v13 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "habitar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «habita»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «habita». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:13"
       ],

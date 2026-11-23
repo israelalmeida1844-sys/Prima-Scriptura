@@ -27,14 +27,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo nominativo masculino singular substantiva o particípio ἔχων.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
         "role": "Determinante nominal",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-2"
       },
       "morphgntPos": "RA"
     },
@@ -51,14 +51,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. Glosa contextual «tem»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Particípio presente ativo substantivado: «aquele que tem», sujeito do imperativo ἀκουσάτω.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
         "role": "Particípio em construção sintática",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-4"
       },
       "morphgntPos": "V-"
     },
@@ -75,14 +75,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "ouvido",
-      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual «ouvidos»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Acusativo singular neutro de οὖς; objeto direto do particípio ἔχων.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
         "role": "Núcleo nominal",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-2"
       },
       "morphgntPos": "N-"
     },
@@ -99,7 +99,7 @@ export const apocalipse2v29 = {
       "morphologyCode": "3AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular",
       "meanings": "ouvir",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «ouça»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Imperativo aoristo ativo, terceira pessoa singular; núcleo da exortação.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
@@ -123,14 +123,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome interrogativo/indefinido acusativo singular neutro",
       "meanings": "que?",
-      "explanation": "Pronome interrogativo/indefinido acusativo singular neutro. Elemento discursivo. Glosa contextual «o que»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome interrogativo neutro em interrogativa indireta: «o que» o Espírito diz.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto interrogativo de λέγει",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-8"
       },
       "morphgntPos": "RI"
     },
@@ -147,14 +147,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular neutro. Determinante nominal. Glosa contextual «o»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo nominativo neutro singular que determina πνεῦμα.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
         "role": "Determinante nominal",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-7"
       },
       "morphgntPos": "RA"
     },
@@ -171,14 +171,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "Espírito",
-      "explanation": "Substantivo nominativo singular neutro. Núcleo nominal. Glosa contextual «Espírito»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Sujeito nominativo neutro singular do verbo λέγει.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
         "role": "Núcleo nominal",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-8"
       },
       "morphgntPos": "N-"
     },
@@ -195,14 +195,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «diz»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Presente ativo indicativo, terceira pessoa singular; verbo da oração interrogativa indireta.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
         "role": "Núcleo verbal",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-4"
       },
       "morphgntPos": "V-"
     },
@@ -219,14 +219,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo plural feminino. Determinante nominal. Glosa contextual «às»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo dativo feminino plural que determina ἐκκλησίαις.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
         "role": "Determinante nominal",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-10"
       },
       "morphgntPos": "RA"
     },
@@ -243,14 +243,14 @@ export const apocalipse2v29 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo dativo plural feminino. Núcleo nominal. Glosa contextual «igrejas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Dativo feminino plural; destinatárias da comunicação, complemento de λέγει.",
       "occurrencesExamples": [
         "Ap 2:29"
       ],
       "syntax": {
         "role": "Núcleo nominal",
         "clauseId": "AP.2.29.C1",
-        "governedBy": null
+        "governedBy": "ap2-29-8"
       },
       "morphgntPos": "N-"
     }

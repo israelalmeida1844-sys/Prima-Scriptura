@@ -27,7 +27,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. Glosa contextual «tem». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Glosa neste contexto: «tem». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "ouvido",
-      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual «ouvidos». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo acusativo singular neutro. Glosa neste contexto: «ouvidos». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "3AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular",
       "meanings": "ouvir",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «ouça». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular. Glosa neste contexto: «ouça». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome interrogativo/indefinido acusativo singular neutro",
       "meanings": "que?",
-      "explanation": "Pronome interrogativo/indefinido acusativo singular neutro. Elemento discursivo. Glosa contextual «o que». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Pronome interrogativo/indefinido acusativo singular neutro. Glosa neste contexto: «o que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular neutro. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido nominativo singular neutro. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "Espírito",
-      "explanation": "Substantivo nominativo singular neutro. Núcleo nominal. Glosa contextual «Espírito». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo nominativo singular neutro. Glosa neste contexto: «Espírito». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «diz». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «diz». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo plural feminino. Determinante nominal. Glosa contextual «às». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido dativo plural feminino. Glosa neste contexto: «às». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo dativo plural feminino. Núcleo nominal. Glosa contextual «igrejas». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo dativo plural feminino. Glosa neste contexto: «igrejas». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "vencer",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. Glosa contextual «vence». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Glosa neste contexto: «vence». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «de modo algum». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Advérbio. Glosa neste contexto: «de modo algum». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "3APS-S--",
       "morphology": "Verbo no aoristo, voz passiva, subjuntivo, 3ª pessoa singular",
       "meanings": "prejudicar",
-      "explanation": "Verbo no aoristo, voz passiva, subjuntivo, 3ª pessoa singular. Subjuntivo aoristo passivo 3ª pessoa singular após οὐ μή. Glosa contextual «sofrerá dano». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Verbo no aoristo, voz passiva, subjuntivo, 3ª pessoa singular. Glosa neste contexto: «sofrerá dano». Subjuntivo aoristo passivo 3ª pessoa singular após οὐ μή. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual «do». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "morte",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «morte». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «morte». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual «do». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "Adjetivo genitivo singular masculino",
       "meanings": "segundo",
-      "explanation": "Adjetivo genitivo singular masculino. Elemento discursivo. Glosa contextual «segunda». Consulte a tradução do período e as notas para as relações sintáticas.",
+      "explanation": "Adjetivo genitivo singular masculino. Glosa neste contexto: «segunda». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:11"
       ],

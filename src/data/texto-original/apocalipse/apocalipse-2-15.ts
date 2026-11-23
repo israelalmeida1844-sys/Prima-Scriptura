@@ -27,7 +27,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "assim",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «assim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «assim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «tens»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «tens». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "e",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «e». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal nominativo singular. Elemento discursivo. Glosa contextual «tu»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal nominativo singular. Glosa neste contexto: «tu». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "Verbo no presente, voz ativa, particípio acusativo plural masculino",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Particípio em construção sintática. Glosa contextual «os que seguem»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Glosa neste contexto: «os que seguem». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "ensino",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «ensino»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «ensino». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "nicolaíta",
-      "explanation": "Substantivo genitivo plural masculino. Núcleo nominal. Glosa contextual «nicolaítas»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo plural masculino. Glosa neste contexto: «nicolaítas». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v15 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "igualmente",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «da mesma maneira»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «da mesma maneira». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:15"
       ],

@@ -27,7 +27,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «dei»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «dei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "----DSF-",
       "morphology": "Pronome pessoal dativo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal dativo singular feminino. Elemento discursivo. Glosa contextual «a ela»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal dativo singular feminino. Glosa neste contexto: «a ela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "tempo",
-      "explanation": "Substantivo acusativo singular masculino. Núcleo nominal. Glosa contextual «tempo»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo acusativo singular masculino. Glosa neste contexto: «tempo». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "para que",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «para que»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «para que». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa singular",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «se arrependa»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa singular. Glosa neste contexto: «se arrependa». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "querer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «quer»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «quer». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Infinitivo integrante da construção. Glosa contextual «arrepender-se»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Glosa neste contexto: «arrepender-se». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Determinante nominal. Glosa contextual «da»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido genitivo singular feminino. Glosa neste contexto: «da». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "imoralidade sexual",
-      "explanation": "Substantivo genitivo singular feminino. Núcleo nominal. Glosa contextual «imoralidade sexual»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo singular feminino. Glosa neste contexto: «imoralidade sexual». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Elemento discursivo. Glosa contextual «dele/dela»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele/dela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],

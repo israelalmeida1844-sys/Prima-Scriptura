@@ -27,7 +27,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «arrepende-te»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «arrepende-te». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "portanto",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «portanto»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «portanto». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «se»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «se». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "porém",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «porém»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «porém». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "1PMI-S--",
       "morphology": "Verbo no presente, voz média, indicativo, 1ª pessoa singular",
       "meanings": "vir",
-      "explanation": "Verbo no presente, voz média, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «venho»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no presente, voz média, indicativo, 1ª pessoa singular. Glosa neste contexto: «venho». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo singular. Elemento discursivo. Glosa contextual «tu»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal dativo singular. Glosa neste contexto: «tu». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "rapidamente",
-      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «sem demora»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Advérbio. Glosa neste contexto: «sem demora». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. Glosa contextual «e»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "guerrear",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «lutarei»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «lutarei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "com",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «com»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «com». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal genitivo plural masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo plural masculino. Elemento discursivo. Glosa contextual «dele»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo plural masculino. Glosa neste contexto: «dele». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular feminino. Determinante nominal. Glosa contextual «na/à»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido dativo singular feminino. Glosa neste contexto: «na/à». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "espada longa",
-      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. Glosa contextual «espada longa»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo dativo singular feminino. Glosa neste contexto: «espada longa». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular neutro. Determinante nominal. Glosa contextual «do»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Artigo definido genitivo singular neutro. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "boca",
-      "explanation": "Substantivo genitivo singular neutro. Núcleo nominal. Glosa contextual «boca»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Substantivo genitivo singular neutro. Glosa neste contexto: «boca». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v16 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu/de mim»; a tradução integral e as notas documentam a construção.",
+      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «meu/de mim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
       "occurrencesExamples": [
         "Ap 2:16"
       ],
