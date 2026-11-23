@@ -1,4 +1,5 @@
 name: Validar léxico hebraico e exemplos de Gn 1:1–8 no OSHB
+# Extrair a grafia WLC sem separadores de morfemas.
 on:
   push:
     branches: [rascunho/genesis]
