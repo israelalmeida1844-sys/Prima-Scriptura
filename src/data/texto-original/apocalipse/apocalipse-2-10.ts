@@ -27,7 +27,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo acusativo singular neutro",
       "meanings": "nada",
-      "explanation": "Adjetivo acusativo singular neutro. Elemento discursivo. A glosa de apoio «nada» requer interpretação no contexto.",
+      "explanation": "Adjetivo acusativo singular neutro. Elemento discursivo. Glosa contextual «nada». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "2PMD-S--",
       "morphology": "Verbo no presente, voz média, imperativo, 2ª pessoa singular",
       "meanings": "temer",
-      "explanation": "Verbo no presente, voz média, imperativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «temer» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz média, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «temas». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome relativo acusativo plural neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo acusativo plural neutro. Elemento discursivo. A glosa de apoio «que» requer interpretação no contexto.",
+      "explanation": "Pronome relativo acusativo plural neutro. Elemento discursivo. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -91,7 +91,7 @@ export const apocalipse2v10 = {
       "shortMorph": "V-PAI-2S",
       "greek": "μέλλεις",
       "transliteration": "melleis",
-      "gloss": "estar para",
+      "gloss": "estás para",
       "strong": "G3195",
       "lemma": "μέλλω",
       "lemmaTransliteration": "mellō",
@@ -99,7 +99,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "estar para",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «estar para» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «estás para». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "-PAN----",
       "morphology": "Verbo no presente, voz ativa, infinitivo",
       "meanings": "sofrer",
-      "explanation": "Verbo no presente, voz ativa, infinitivo. Infinitivo integrante da construção. A glosa de apoio «sofrer» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, infinitivo. Infinitivo integrante da construção. Glosa contextual «sofrer». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "eis",
-      "explanation": "Partícula. Elemento discursivo. A glosa de apoio «eis» requer interpretação no contexto.",
+      "explanation": "Partícula. Elemento discursivo. Glosa contextual «eis». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -163,7 +163,7 @@ export const apocalipse2v10 = {
       "shortMorph": "V-PAI-3S",
       "greek": "μέλλει",
       "transliteration": "mellei",
-      "gloss": "estar para",
+      "gloss": "está para",
       "strong": "G3195",
       "lemma": "μέλλω",
       "lemmaTransliteration": "mellō",
@@ -171,7 +171,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "estar para",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. A glosa de apoio «estar para» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «está para». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "-PAN----",
       "morphology": "Verbo no presente, voz ativa, infinitivo",
       "meanings": "lançar",
-      "explanation": "Verbo no presente, voz ativa, infinitivo. Infinitivo integrante da construção. A glosa de apoio «lançar» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, infinitivo. Infinitivo integrante da construção. Glosa contextual «lançar». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "diabo",
-      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. A glosa de apoio «diabo» requer interpretação no contexto.",
+      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. Glosa contextual «diabo». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «de» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -283,7 +283,7 @@ export const apocalipse2v10 = {
       "shortMorph": "PPro-GP-",
       "greek": "ὑμῶν",
       "transliteration": "hymōn",
-      "gloss": "tu",
+      "gloss": "de vós",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -291,7 +291,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo plural. Elemento discursivo. A glosa de apoio «tu» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal genitivo plural. Elemento discursivo. Glosa contextual «de vós». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "para",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «para» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «para». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "prisão",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. A glosa de apoio «prisão» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «prisão». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "para que",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «para que» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «para que». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -379,7 +379,7 @@ export const apocalipse2v10 = {
       "shortMorph": "V-APS-2P",
       "greek": "πειρασθῆτε,",
       "transliteration": "peirasthēte",
-      "gloss": "pôr à prova",
+      "gloss": "sejais provados",
       "strong": "G3985",
       "lemma": "πειράζω",
       "lemmaTransliteration": "peirazō",
@@ -387,7 +387,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "2APS-P--",
       "morphology": "Verbo no aoristo, voz passiva, subjuntivo, 2ª pessoa plural",
       "meanings": "pôr à prova",
-      "explanation": "Verbo no aoristo, voz passiva, subjuntivo, 2ª pessoa plural. Núcleo verbal. A glosa de apoio «pôr à prova» requer interpretação no contexto.",
+      "explanation": "Verbo no aoristo, voz passiva, subjuntivo, 2ª pessoa plural. Núcleo verbal. Glosa contextual «sejais provados». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «e» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "2FAI-P--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 2ª pessoa plural",
       "meanings": "ter",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 2ª pessoa plural. Núcleo verbal. A glosa de apoio «ter» requer interpretação no contexto.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 2ª pessoa plural. Núcleo verbal. Glosa contextual «tereis». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "tribulação",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. A glosa de apoio «tribulação» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «tribulação». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -475,7 +475,7 @@ export const apocalipse2v10 = {
       "shortMorph": "N-GPF",
       "greek": "ἡμερῶν",
       "transliteration": "hēmerōn",
-      "gloss": "dia",
+      "gloss": "dias",
       "strong": "G2250",
       "lemma": "ἡμέρα",
       "lemmaTransliteration": "hēmera",
@@ -483,7 +483,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
       "meanings": "dia",
-      "explanation": "Substantivo genitivo plural feminino. Núcleo nominal. A glosa de apoio «dia» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo plural feminino. Núcleo nominal. Glosa contextual «dias». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -507,7 +507,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo genitivo plural feminino",
       "meanings": "dez",
-      "explanation": "Adjetivo genitivo plural feminino. Elemento discursivo. A glosa de apoio «dez» requer interpretação no contexto.",
+      "explanation": "Adjetivo genitivo plural feminino. Elemento discursivo. Glosa contextual «dez». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -531,7 +531,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "2PMD-S--",
       "morphology": "Verbo no presente, voz média, imperativo, 2ª pessoa singular",
       "meanings": "tornar-se",
-      "explanation": "Verbo no presente, voz média, imperativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «tornar-se» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz média, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «sê». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "fiel",
-      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. A glosa de apoio «fiel» requer interpretação no contexto.",
+      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. Glosa contextual «fiel». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -579,7 +579,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "até",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «até» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «até». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -603,7 +603,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "morte",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. A glosa de apoio «morte» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «morte». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «e» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -643,7 +643,7 @@ export const apocalipse2v10 = {
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "dar",
+      "gloss": "darei",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -651,7 +651,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. A glosa de apoio «dar» requer interpretação no contexto.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «darei». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -667,7 +667,7 @@ export const apocalipse2v10 = {
       "shortMorph": "PPro-DS-",
       "greek": "σοι",
       "transliteration": "soi",
-      "gloss": "tu",
+      "gloss": "a ti",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -675,7 +675,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo singular. Elemento discursivo. A glosa de apoio «tu» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal dativo singular. Elemento discursivo. Glosa contextual «a ti». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -699,7 +699,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -715,7 +715,7 @@ export const apocalipse2v10 = {
       "shortMorph": "N-ASM",
       "greek": "στέφανον",
       "transliteration": "stephanon",
-      "gloss": "coroa de honra",
+      "gloss": "coroa",
       "strong": "G4735",
       "lemma": "στέφανος",
       "lemmaTransliteration": "stephanos",
@@ -723,7 +723,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "coroa de honra",
-      "explanation": "Substantivo acusativo singular masculino. Núcleo nominal. A glosa de apoio «coroa de honra» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular masculino. Núcleo nominal. Glosa contextual «coroa». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -747,7 +747,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo singular feminino. Determinante nominal. Glosa contextual «da». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],
@@ -771,7 +771,7 @@ export const apocalipse2v10 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "vida",
-      "explanation": "Substantivo genitivo singular feminino. Núcleo nominal. A glosa de apoio «vida» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo singular feminino. Núcleo nominal. Glosa contextual «vida». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:10"
       ],

@@ -27,7 +27,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. Glosa contextual «Ao». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -43,7 +43,7 @@ export const apocalipse2v1 = {
       "shortMorph": "N-DSM",
       "greek": "ἀγγέλῳ",
       "transliteration": "angelō",
-      "gloss": "mensageiro",
+      "gloss": "anjo",
       "strong": "G32",
       "lemma": "ἄγγελος",
       "lemmaTransliteration": "angelos",
@@ -51,7 +51,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "mensageiro",
-      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. A glosa de apoio «mensageiro» requer interpretação no contexto.",
+      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. Glosa contextual «anjo». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo singular feminino. Determinante nominal. Glosa contextual «da». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «em» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Éfeso",
-      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. A glosa de apoio «Éfeso» requer interpretação no contexto.",
+      "explanation": "Substantivo dativo singular feminino. Núcleo nominal. Glosa contextual «Éfeso». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -139,7 +139,7 @@ export const apocalipse2v1 = {
       "shortMorph": "N-GSF",
       "greek": "ἐκκλησίας",
       "transliteration": "ekklēsias",
-      "gloss": "assembleia",
+      "gloss": "igreja",
       "strong": "G1577",
       "lemma": "ἐκκλησία",
       "lemmaTransliteration": "ekklēsia",
@@ -147,7 +147,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo genitivo singular feminino. Núcleo nominal. A glosa de apoio «assembleia» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo singular feminino. Núcleo nominal. Glosa contextual «igreja». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -163,7 +163,7 @@ export const apocalipse2v1 = {
       "shortMorph": "V-AAD-2S",
       "greek": "γράψον·",
       "transliteration": "grapson",
-      "gloss": "escrever",
+      "gloss": "escreve",
       "strong": "G1125",
       "lemma": "γράφω",
       "lemmaTransliteration": "graphō",
@@ -171,7 +171,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «escrever» requer interpretação no contexto.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «escreve». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -187,7 +187,7 @@ export const apocalipse2v1 = {
       "shortMorph": "Dem-APN",
       "greek": "Τάδε",
       "transliteration": "Tade",
-      "gloss": "isto",
+      "gloss": "assim",
       "strong": "G3592",
       "lemma": "ὅδε",
       "lemmaTransliteration": "hode",
@@ -195,7 +195,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
       "meanings": "isto",
-      "explanation": "Pronome demonstrativo acusativo plural neutro. Elemento discursivo. A glosa de apoio «isto» requer interpretação no contexto.",
+      "explanation": "Pronome demonstrativo acusativo plural neutro. Elemento discursivo. Glosa contextual «assim». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -211,7 +211,7 @@ export const apocalipse2v1 = {
       "shortMorph": "V-PAI-3S",
       "greek": "λέγει",
       "transliteration": "legei",
-      "gloss": "dizer",
+      "gloss": "diz",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",
@@ -219,7 +219,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. A glosa de apoio «dizer» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «diz». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. A glosa de apoio «segurar firmemente» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. Glosa contextual «segura». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo plural masculino. Determinante nominal. Glosa contextual «os». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -314,8 +314,8 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
-      "meanings": "sete: numeral indeclinável; caso anotado conforme o contexto",
-      "explanation": "Adjetivo acusativo plural masculino. Elemento discursivo. A glosa de apoio «sete» requer interpretação no contexto.",
+      "meanings": "numeral cardinal indeclinável; a marcação de caso na anotação é contextual",
+      "explanation": "Adjetivo acusativo plural masculino. Elemento discursivo. Glosa contextual «sete». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -331,7 +331,7 @@ export const apocalipse2v1 = {
       "shortMorph": "N-APM",
       "greek": "ἀστέρας",
       "transliteration": "asteras",
-      "gloss": "estrela",
+      "gloss": "estrelas",
       "strong": "G792",
       "lemma": "ἀστήρ",
       "lemmaTransliteration": "astēr",
@@ -339,7 +339,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo acusativo plural masculino. Núcleo nominal. A glosa de apoio «estrela» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo plural masculino. Núcleo nominal. Glosa contextual «estrelas». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «em» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -379,7 +379,7 @@ export const apocalipse2v1 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "o",
+      "gloss": "na",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -387,7 +387,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido dativo singular feminino. Determinante nominal. Glosa contextual «na». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
       "meanings": "direita",
-      "explanation": "Adjetivo dativo singular feminino. Elemento discursivo. A glosa de apoio «direita» requer interpretação no contexto.",
+      "explanation": "Adjetivo dativo singular feminino. Elemento discursivo. Glosa contextual «direita». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular masculino. Elemento discursivo. A glosa de apoio «dele» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal genitivo singular masculino. Elemento discursivo. Glosa contextual «dele». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "andar",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. A glosa de apoio «andar» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. Glosa contextual «anda». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -507,7 +507,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «em» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -531,7 +531,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----DSN-",
       "morphology": "Adjetivo dativo singular neutro",
       "meanings": "meio",
-      "explanation": "Adjetivo dativo singular neutro. Elemento discursivo. A glosa de apoio «meio» requer interpretação no contexto.",
+      "explanation": "Adjetivo dativo singular neutro. Elemento discursivo. Glosa contextual «meio». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo plural feminino. Determinante nominal. Glosa contextual «dos/das». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -578,8 +578,8 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo genitivo plural feminino",
-      "meanings": "sete: numeral indeclinável; caso anotado conforme o contexto",
-      "explanation": "Adjetivo genitivo plural feminino. Elemento discursivo. A glosa de apoio «sete» requer interpretação no contexto.",
+      "meanings": "numeral cardinal indeclinável; a marcação de caso na anotação é contextual",
+      "explanation": "Adjetivo genitivo plural feminino. Elemento discursivo. Glosa contextual «sete». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -595,7 +595,7 @@ export const apocalipse2v1 = {
       "shortMorph": "N-GPF",
       "greek": "λυχνιῶν",
       "transliteration": "lychniōn",
-      "gloss": "candelabro",
+      "gloss": "candelabros",
       "strong": "G3087",
       "lemma": "λυχνία",
       "lemmaTransliteration": "lychnia",
@@ -603,7 +603,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
       "meanings": "candelabro",
-      "explanation": "Substantivo genitivo plural feminino. Núcleo nominal. A glosa de apoio «candelabro» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo plural feminino. Núcleo nominal. Glosa contextual «candelabros». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo plural feminino. Determinante nominal. Glosa contextual «dos/das». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],
@@ -651,7 +651,7 @@ export const apocalipse2v1 = {
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo genitivo plural feminino",
       "meanings": "de ouro",
-      "explanation": "Adjetivo genitivo plural feminino. Elemento discursivo. A glosa de apoio «de ouro» requer interpretação no contexto.",
+      "explanation": "Adjetivo genitivo plural feminino. Elemento discursivo. Glosa contextual «de ouro». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:1"
       ],

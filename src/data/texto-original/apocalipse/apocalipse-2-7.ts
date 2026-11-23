@@ -7,7 +7,7 @@ export const apocalipse2v7 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei de comer da árvore da vida que está no paraíso de Deus.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translationNote": "A construção de dativo τῷ νικῶντι ... αὐτῷ foi vertida com retomada do beneficiário; a árvore da vida remete à promessa escatológica.",
   "textualNotes": "τῷ νικῶντι δώσω αὐτῷ apresenta dativo topicalizado retomado pelo pronome dativo. A árvore da vida estabelece alusão ao Éden (Gn 2–3 na Septuaginta), sem reivindicar citação verbal idêntica.",
   "exegeticalNotes": [
     "O convite a ouvir dirige a mensagem à totalidade das igrejas.",
@@ -27,7 +27,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido nominativo singular masculino. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -43,7 +43,7 @@ export const apocalipse2v7 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "ἔχων",
       "transliteration": "echōn",
-      "gloss": "ter",
+      "gloss": "tem",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -51,7 +51,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. A glosa de apoio «ter» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio em construção sintática. Glosa contextual «tem». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -67,7 +67,7 @@ export const apocalipse2v7 = {
       "shortMorph": "N-ASN",
       "greek": "οὖς",
       "transliteration": "ous",
-      "gloss": "ouvido",
+      "gloss": "ouvidos",
       "strong": "G3775",
       "lemma": "οὖς",
       "lemmaTransliteration": "ous",
@@ -75,7 +75,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "ouvido",
-      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. A glosa de apoio «ouvido» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual «ouvidos». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -91,7 +91,7 @@ export const apocalipse2v7 = {
       "shortMorph": "V-AAD-3S",
       "greek": "ἀκουσάτω",
       "transliteration": "akousatō",
-      "gloss": "ouvir",
+      "gloss": "ouça",
       "strong": "G191",
       "lemma": "ἀκούω",
       "lemmaTransliteration": "akouō",
@@ -99,7 +99,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "3AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular",
       "meanings": "ouvir",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular. Núcleo verbal. A glosa de apoio «ouvir» requer interpretação no contexto.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «ouça». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -115,7 +115,7 @@ export const apocalipse2v7 = {
       "shortMorph": "Ind-ASN",
       "greek": "τί",
       "transliteration": "ti",
-      "gloss": "que?",
+      "gloss": "o que",
       "strong": "G5101",
       "lemma": "τίς",
       "lemmaTransliteration": "tis",
@@ -123,7 +123,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome interrogativo/indefinido acusativo singular neutro",
       "meanings": "que?",
-      "explanation": "Pronome interrogativo/indefinido acusativo singular neutro. Elemento discursivo. A glosa de apoio «que?» requer interpretação no contexto.",
+      "explanation": "Pronome interrogativo/indefinido acusativo singular neutro. Elemento discursivo. Glosa contextual «o que». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular neutro. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido nominativo singular neutro. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "Espírito",
-      "explanation": "Substantivo nominativo singular neutro. Núcleo nominal. A glosa de apoio «Espírito» requer interpretação no contexto.",
+      "explanation": "Substantivo nominativo singular neutro. Núcleo nominal. Glosa contextual «Espírito». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -187,7 +187,7 @@ export const apocalipse2v7 = {
       "shortMorph": "V-PAI-3S",
       "greek": "λέγει",
       "transliteration": "legei",
-      "gloss": "dizer",
+      "gloss": "diz",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",
@@ -195,7 +195,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. A glosa de apoio «dizer» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «diz». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo plural feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido dativo plural feminino. Determinante nominal. Glosa contextual «às». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -235,7 +235,7 @@ export const apocalipse2v7 = {
       "shortMorph": "N-DPF",
       "greek": "ἐκκλησίαις.",
       "transliteration": "ekklēsiais",
-      "gloss": "assembleia",
+      "gloss": "igrejas",
       "strong": "G1577",
       "lemma": "ἐκκλησία",
       "lemmaTransliteration": "ekklēsia",
@@ -243,7 +243,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo dativo plural feminino. Núcleo nominal. A glosa de apoio «assembleia» requer interpretação no contexto.",
+      "explanation": "Substantivo dativo plural feminino. Núcleo nominal. Glosa contextual «igrejas». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. Glosa contextual «ao». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "-PAPDSM-",
       "morphology": "Verbo no presente, voz ativa, particípio dativo singular masculino",
       "meanings": "vencer",
-      "explanation": "Verbo no presente, voz ativa, particípio dativo singular masculino. Particípio em construção sintática. A glosa de apoio «vencer» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, particípio dativo singular masculino. Particípio articular dativo singular masculino, tópico da promessa. Glosa contextual «vence». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -307,7 +307,7 @@ export const apocalipse2v7 = {
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "dar",
+      "gloss": "darei",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -315,7 +315,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. A glosa de apoio «dar» requer interpretação no contexto.",
+      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «darei». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Pronome pessoal dativo singular masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal dativo singular masculino. Elemento discursivo. A glosa de apoio «dele» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal dativo singular masculino. Retomada pronominal do dativo τῷ νικῶντι. Glosa contextual «a ele». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "comer",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Infinitivo integrante da construção. A glosa de apoio «comer» requer interpretação no contexto.",
+      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Infinitivo integrante da construção. Glosa contextual «comer». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -387,7 +387,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «de» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -411,7 +411,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular neutro. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo singular neutro. Determinante nominal. Glosa contextual «do». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "árvore",
-      "explanation": "Substantivo genitivo singular neutro. Núcleo nominal. A glosa de apoio «árvore» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo singular neutro. Núcleo nominal. Glosa contextual «árvore». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -459,7 +459,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo singular feminino. Determinante nominal. Glosa contextual «da». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "vida",
-      "explanation": "Substantivo genitivo singular feminino. Núcleo nominal. A glosa de apoio «vida» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo singular feminino. Núcleo nominal. Glosa contextual «vida». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -507,7 +507,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Pronome relativo nominativo singular neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo nominativo singular neutro. Elemento discursivo. A glosa de apoio «que» requer interpretação no contexto.",
+      "explanation": "Pronome relativo nominativo singular neutro. Elemento discursivo. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -523,7 +523,7 @@ export const apocalipse2v7 = {
       "shortMorph": "V-PAI-3S",
       "greek": "ἐστιν",
       "transliteration": "estin",
-      "gloss": "ser",
+      "gloss": "está",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -531,7 +531,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. A glosa de apoio «ser» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual «está». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «em» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «em». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -571,7 +571,7 @@ export const apocalipse2v7 = {
       "shortMorph": "Art-DSM",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "ao",
+      "gloss": "no",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -579,7 +579,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido dativo singular masculino. Determinante nominal. Glosa contextual «no». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -603,7 +603,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "paraíso",
-      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. A glosa de apoio «paraíso» requer interpretação no contexto.",
+      "explanation": "Substantivo dativo singular masculino. Núcleo nominal. Glosa contextual «paraíso». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual «do». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -651,7 +651,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Deus",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. A glosa de apoio «Deus» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «Deus». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],

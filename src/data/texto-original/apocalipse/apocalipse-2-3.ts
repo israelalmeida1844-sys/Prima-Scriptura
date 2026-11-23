@@ -27,7 +27,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «e» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -51,7 +51,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "perseverança",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. A glosa de apoio «perseverança» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «perseverança». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -67,7 +67,7 @@ export const apocalipse2v3 = {
       "shortMorph": "V-PAI-2S",
       "greek": "ἔχεις,",
       "transliteration": "echeis",
-      "gloss": "ter",
+      "gloss": "tens",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -75,7 +75,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «ter» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «tens». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «e» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "suportar",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «suportar» requer interpretação no contexto.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «suportaste». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "por causa de",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «por causa de» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «por causa de». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular neutro. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo singular neutro. Determinante nominal. Glosa contextual «o». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "nome",
-      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. A glosa de apoio «nome» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular neutro. Núcleo nominal. Glosa contextual «nome». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -211,7 +211,7 @@ export const apocalipse2v3 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -219,7 +219,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. A glosa de apoio «eu» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «meu». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «e» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. A glosa de apoio «não» requer interpretação no contexto.",
+      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],
@@ -283,7 +283,7 @@ export const apocalipse2v3 = {
       "shortMorph": "V-XAI-2S",
       "greek": "κεκοπίακες.",
       "transliteration": "kekopiakes",
-      "gloss": "cansar-se",
+      "gloss": "te cansaste",
       "strong": "G2872",
       "lemma": "κοπιάω",
       "lemmaTransliteration": "kopiaō",
@@ -291,7 +291,7 @@ export const apocalipse2v3 = {
       "morphologyCode": "2XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "cansar-se",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «cansar-se» requer interpretação no contexto.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «te cansaste». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:3"
       ],

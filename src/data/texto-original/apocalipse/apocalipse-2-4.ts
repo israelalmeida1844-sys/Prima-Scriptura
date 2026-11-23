@@ -27,7 +27,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «mas» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «mas». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -43,7 +43,7 @@ export const apocalipse2v4 = {
       "shortMorph": "V-PAI-1S",
       "greek": "ἔχω",
       "transliteration": "echō",
-      "gloss": "ter",
+      "gloss": "tenho",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -51,7 +51,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. A glosa de apoio «ter» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «tenho». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "contra",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «contra» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «contra». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -91,7 +91,7 @@ export const apocalipse2v4 = {
       "shortMorph": "PPro-GS-",
       "greek": "σοῦ",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu/de ti",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -99,7 +99,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. A glosa de apoio «tu» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "que",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «que» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "amor",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. A glosa de apoio «amor» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «amor». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -187,7 +187,7 @@ export const apocalipse2v4 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu/de ti",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -195,7 +195,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. A glosa de apoio «tu» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «teu/de ti». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "primeiro",
-      "explanation": "Adjetivo acusativo singular feminino. Elemento discursivo. A glosa de apoio «primeiro» requer interpretação no contexto.",
+      "explanation": "Adjetivo acusativo singular feminino. Elemento discursivo. Glosa contextual «primeiro». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "abandonar",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «abandonar» requer interpretação no contexto.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «abandonaste». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],

@@ -27,7 +27,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «mas» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «mas». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -43,7 +43,7 @@ export const apocalipse2v6 = {
       "shortMorph": "Dem-ASN",
       "greek": "τοῦτο",
       "transliteration": "touto",
-      "gloss": "este",
+      "gloss": "isto",
       "strong": "G3778",
       "lemma": "οὗτος",
       "lemmaTransliteration": "houtos",
@@ -51,7 +51,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome demonstrativo acusativo singular neutro",
       "meanings": "este",
-      "explanation": "Pronome demonstrativo acusativo singular neutro. Elemento discursivo. A glosa de apoio «este» requer interpretação no contexto.",
+      "explanation": "Pronome demonstrativo acusativo singular neutro. Elemento discursivo. Glosa contextual «isto». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -67,7 +67,7 @@ export const apocalipse2v6 = {
       "shortMorph": "V-PAI-2S",
       "greek": "ἔχεις",
       "transliteration": "echeis",
-      "gloss": "ter",
+      "gloss": "tens",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -75,7 +75,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «ter» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «tens». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "que",
-      "explanation": "Advérbio. Elemento discursivo. A glosa de apoio «que» requer interpretação no contexto.",
+      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -115,7 +115,7 @@ export const apocalipse2v6 = {
       "shortMorph": "V-PAI-2S",
       "greek": "μισεῖς",
       "transliteration": "miseis",
-      "gloss": "odiar",
+      "gloss": "odeias",
       "strong": "G3404",
       "lemma": "μισέω",
       "lemmaTransliteration": "miseō",
@@ -123,7 +123,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "odiar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «odiar» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «odeias». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -139,7 +139,7 @@ export const apocalipse2v6 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -147,7 +147,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo plural neutro. Determinante nominal. Glosa contextual «as». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -163,7 +163,7 @@ export const apocalipse2v6 = {
       "shortMorph": "N-APN",
       "greek": "ἔργα",
       "transliteration": "erga",
-      "gloss": "obra",
+      "gloss": "obras",
       "strong": "G2041",
       "lemma": "ἔργον",
       "lemmaTransliteration": "ergon",
@@ -171,7 +171,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. A glosa de apoio «obra» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo plural neutro. Núcleo nominal. Glosa contextual «obras». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo plural masculino. Determinante nominal. Glosa contextual «dos/das». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -211,7 +211,7 @@ export const apocalipse2v6 = {
       "shortMorph": "N-GPM",
       "greek": "Νικολαϊτῶν,",
       "transliteration": "Nikolaitōn",
-      "gloss": "nicolaíta",
+      "gloss": "nicolaítas",
       "strong": "G3531",
       "lemma": "Νικολαΐτης",
       "lemmaTransliteration": "Nikolaitēs",
@@ -219,7 +219,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "nicolaíta",
-      "explanation": "Substantivo genitivo plural masculino. Núcleo nominal. A glosa de apoio «nicolaíta» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo plural masculino. Núcleo nominal. Glosa contextual «nicolaítas». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome relativo acusativo plural neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo acusativo plural neutro. Elemento discursivo. A glosa de apoio «que» requer interpretação no contexto.",
+      "explanation": "Pronome relativo acusativo plural neutro. Elemento discursivo. Glosa contextual «que». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu também",
-      "explanation": "Pronome pessoal nominativo singular. Elemento discursivo. A glosa de apoio «eu também» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal nominativo singular. Elemento discursivo. Glosa contextual «eu também». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -283,7 +283,7 @@ export const apocalipse2v6 = {
       "shortMorph": "V-PAI-1S",
       "greek": "μισῶ.",
       "transliteration": "misō",
-      "gloss": "odiar",
+      "gloss": "odeio",
       "strong": "G3404",
       "lemma": "μισέω",
       "lemmaTransliteration": "miseō",
@@ -291,7 +291,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "odiar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. A glosa de apoio «odiar» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «odeio». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],

@@ -19,7 +19,7 @@ export const apocalipse2v9 = {
       "shortMorph": "V-XAI-1S",
       "greek": "Οἶδά",
       "transliteration": "Oida",
-      "gloss": "conhecer",
+      "gloss": "conheço",
       "strong": "G1492",
       "lemma": "οἶδα",
       "lemmaTransliteration": "oida",
@@ -27,7 +27,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "conhecer",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. A glosa de apoio «conhecer» requer interpretação no contexto.",
+      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual «conheço». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -43,7 +43,7 @@ export const apocalipse2v9 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "tua",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -51,7 +51,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. A glosa de apoio «tu» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal genitivo singular. Elemento discursivo. Glosa contextual «tua». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -75,7 +75,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -99,7 +99,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "tribulação",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. A glosa de apoio «tribulação» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «tribulação». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -123,7 +123,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «e» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -171,7 +171,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "pobreza",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. A glosa de apoio «pobreza» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «pobreza». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -195,7 +195,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «mas» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «mas». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -219,7 +219,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "rico",
-      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. A glosa de apoio «rico» requer interpretação no contexto.",
+      "explanation": "Adjetivo nominativo singular masculino. Elemento discursivo. Glosa contextual «rico». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -243,7 +243,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. A glosa de apoio «ser» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual «és». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -267,7 +267,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «e» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -291,7 +291,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido acusativo singular feminino. Determinante nominal. Glosa contextual «a». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -315,7 +315,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "difamação",
-      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. A glosa de apoio «difamação» requer interpretação no contexto.",
+      "explanation": "Substantivo acusativo singular feminino. Núcleo nominal. Glosa contextual «difamação». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -339,7 +339,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Introduz complemento preposicional. A glosa de apoio «de» requer interpretação no contexto.",
+      "explanation": "Preposição. Introduz complemento preposicional. Glosa contextual «de». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -363,7 +363,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo plural masculino. Determinante nominal. Glosa contextual «dos/das». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -379,7 +379,7 @@ export const apocalipse2v9 = {
       "shortMorph": "V-PAP-GPM",
       "greek": "λεγόντων",
       "transliteration": "legontōn",
-      "gloss": "dizer",
+      "gloss": "que dizem",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",
@@ -387,7 +387,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "-PAPGPM-",
       "morphology": "Verbo no presente, voz ativa, particípio genitivo plural masculino",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, particípio genitivo plural masculino. Particípio em construção sintática. A glosa de apoio «dizer» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, particípio genitivo plural masculino. Particípio em construção sintática. Glosa contextual «que dizem». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -403,7 +403,7 @@ export const apocalipse2v9 = {
       "shortMorph": "Adj-APM",
       "greek": "Ἰουδαίους",
       "transliteration": "Ioudaious",
-      "gloss": "judeu",
+      "gloss": "judeus",
       "strong": "G2453",
       "lemma": "Ἰουδαῖος",
       "lemmaTransliteration": "Ioudaios",
@@ -411,7 +411,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "judeu",
-      "explanation": "Adjetivo acusativo plural masculino. Elemento discursivo. A glosa de apoio «judeu» requer interpretação no contexto.",
+      "explanation": "Adjetivo acusativo plural masculino. Elemento discursivo. Glosa contextual «judeus». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -435,7 +435,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "-PAN----",
       "morphology": "Verbo no presente, voz ativa, infinitivo",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, infinitivo. Infinitivo integrante da construção. A glosa de apoio «ser» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, infinitivo. Infinitivo integrante da construção. Glosa contextual «ser». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -451,7 +451,7 @@ export const apocalipse2v9 = {
       "shortMorph": "PPro-APM",
       "greek": "ἑαυτούς,",
       "transliteration": "heautous",
-      "gloss": "si mesmo",
+      "gloss": "a si mesmos",
       "strong": "G1438",
       "lemma": "ἑαυτοῦ",
       "lemmaTransliteration": "heautou",
@@ -459,7 +459,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome pessoal acusativo plural masculino",
       "meanings": "si mesmo",
-      "explanation": "Pronome pessoal acusativo plural masculino. Elemento discursivo. A glosa de apoio «si mesmo» requer interpretação no contexto.",
+      "explanation": "Pronome pessoal acusativo plural masculino. Elemento discursivo. Glosa contextual «a si mesmos». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -483,7 +483,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «e» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «e». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -507,7 +507,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Elemento discursivo. A glosa de apoio «não» requer interpretação no contexto.",
+      "explanation": "Advérbio. Elemento discursivo. Glosa contextual «não». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -523,7 +523,7 @@ export const apocalipse2v9 = {
       "shortMorph": "V-PAI-3P",
       "greek": "εἰσίν,",
       "transliteration": "eisin",
-      "gloss": "ser",
+      "gloss": "são",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -531,7 +531,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Núcleo verbal. A glosa de apoio «ser» requer interpretação no contexto.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual «são». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -555,7 +555,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Conector da oração. A glosa de apoio «mas» requer interpretação no contexto.",
+      "explanation": "Conjunção. Conector da oração. Glosa contextual «mas». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -579,7 +579,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "sinagoga",
-      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. A glosa de apoio «sinagoga» requer interpretação no contexto.",
+      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual «sinagoga». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -603,7 +603,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. A glosa de apoio «o» requer interpretação no contexto.",
+      "explanation": "Artigo definido genitivo singular masculino. Determinante nominal. Glosa contextual «do». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -627,7 +627,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Satanás",
-      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. A glosa de apoio «Satanás» requer interpretação no contexto.",
+      "explanation": "Substantivo genitivo singular masculino. Núcleo nominal. Glosa contextual «Satanás». Consulte a tradução do período e as notas para as relações sintáticas.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
