@@ -34,8 +34,8 @@ const books = [
               <a href={book.url} class="book-card">
                 <span class="book-testament">{book.testament}</span>
                 <h3>{book.name}</h3>
-                <p>{book.partial ? (book.name === 'Apocalipse' ? 'Edição de avaliação: Apocalipse 1:1–8 com texto grego SBLGNT, morfologia e notas lexicais; índices novos em auditoria.' : 'Edição de avaliação: Gênesis 1:1–8 com hebraico interlinear e concordâncias completas. Demais versículos em desenvolvimento.') : 'Comentários organizados por capítulo, com exposição bíblica e referências para aprofundamento.'}</p>
-                <span class="book-progress">{book.partial ? (book.name === 'Apocalipse' ? '8 versículos para avaliação · 22 capítulos no livro' : '8 versículos para avaliação · 50 capítulos no livro') : book.count + ' de ' + book.total + ' capítulos disponíveis'}</span>
+                <p>{book.partial ? (book.name === 'Apocalipse' ? 'Edição de avaliação: Apocalipse 1:1–20 com texto grego SBLGNT, morfologia e notas lexicais; concordâncias canônicas e notas exegéticas em avaliação.' : 'Edição de avaliação: Gênesis 1:1–8 com hebraico interlinear e concordâncias completas. Demais versículos em desenvolvimento.') : 'Comentários organizados por capítulo, com exposição bíblica e referências para aprofundamento.'}</p>
+                <span class="book-progress">{book.partial ? (book.name === 'Apocalipse' ? '20 versículos para avaliação · 22 capítulos no livro' : '8 versículos para avaliação · 50 capítulos no livro') : book.count + ' de ' + book.total + ' capítulos disponíveis'}</span>
                 <strong>{book.partial ? (book.name === 'Apocalipse' ? 'Avaliar Apocalipse' : 'Avaliar Gênesis') : 'Ver capítulos'} <span aria-hidden="true">→</span></strong>
               </a>
             ))}
