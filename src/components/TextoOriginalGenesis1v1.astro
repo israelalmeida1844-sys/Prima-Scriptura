@@ -258,5 +258,14 @@ import { genesis1v1 } from '../data/texto-original/genesis-1-1';
   .translation-panel h3{margin:0 0 7px;font:700 11px Inter,Arial,sans-serif;letter-spacing:.06em;color:#647083;text-transform:uppercase}
   .translation-panel p{font:500 21px/1.5 'Source Serif 4',Georgia,serif;margin:0 0 7px;color:#101f35}
   .translation-panel small{font-size:12px;color:#647083}
+  /* Times New Roman — aprovado para todo o protótipo (inclusive links e botões). */
+  .original-interlinear, .original-interlinear :is(h2,h3,h4,p,label,legend,span,button,dt,dd,small,a) {
+    font-family:'Times New Roman',Times,serif;
+  }
+  .original-interlinear .word-hebrew{font-size:30px;line-height:1.55}
+  .original-interlinear .word-transliteration{font-size:14px}
+  .original-interlinear .word-gloss{font-size:14px}
+  .original-interlinear .lexicon-hebrew{font-size:38px}
+  .original-interlinear .translation-panel p{font-size:22px}
   @media(max-width:650px){.original-interlinear{padding:13px}.lexicon-card{padding:13px}.lexicon-fields div{grid-template-columns:84px minmax(0,1fr)}.original-word{min-width:88px}.word-hebrew{font-size:25px}}
 </style>
