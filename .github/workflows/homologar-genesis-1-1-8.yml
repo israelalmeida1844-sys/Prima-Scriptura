@@ -1,4 +1,5 @@
 name: Homologar Gênesis 1:1–8 — candidato sem publicação
+# Reexecutar auditoria após normalizar os campos Strong das fichas.
 on:
   push:
     branches: [rascunho/genesis]
