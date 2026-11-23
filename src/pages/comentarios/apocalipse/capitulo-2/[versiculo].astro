@@ -14,15 +14,33 @@ import TextoOriginalApocalipse2v11 from '../../../../components/TextoOriginalApo
 import TextoOriginalApocalipse2v12 from '../../../../components/TextoOriginalApocalipse2v12.astro';
 
 
+import TextoOriginalApocalipse2v13 from '../../../../components/TextoOriginalApocalipse2v13.astro';
+import TextoOriginalApocalipse2v14 from '../../../../components/TextoOriginalApocalipse2v14.astro';
+import TextoOriginalApocalipse2v15 from '../../../../components/TextoOriginalApocalipse2v15.astro';
+import TextoOriginalApocalipse2v16 from '../../../../components/TextoOriginalApocalipse2v16.astro';
+import TextoOriginalApocalipse2v17 from '../../../../components/TextoOriginalApocalipse2v17.astro';
+import TextoOriginalApocalipse2v18 from '../../../../components/TextoOriginalApocalipse2v18.astro';
+import TextoOriginalApocalipse2v19 from '../../../../components/TextoOriginalApocalipse2v19.astro';
+import TextoOriginalApocalipse2v20 from '../../../../components/TextoOriginalApocalipse2v20.astro';
+import TextoOriginalApocalipse2v21 from '../../../../components/TextoOriginalApocalipse2v21.astro';
+import TextoOriginalApocalipse2v22 from '../../../../components/TextoOriginalApocalipse2v22.astro';
+import TextoOriginalApocalipse2v23 from '../../../../components/TextoOriginalApocalipse2v23.astro';
+import TextoOriginalApocalipse2v24 from '../../../../components/TextoOriginalApocalipse2v24.astro';
+import TextoOriginalApocalipse2v25 from '../../../../components/TextoOriginalApocalipse2v25.astro';
+import TextoOriginalApocalipse2v26 from '../../../../components/TextoOriginalApocalipse2v26.astro';
+import TextoOriginalApocalipse2v27 from '../../../../components/TextoOriginalApocalipse2v27.astro';
+import TextoOriginalApocalipse2v28 from '../../../../components/TextoOriginalApocalipse2v28.astro';
+import TextoOriginalApocalipse2v29 from '../../../../components/TextoOriginalApocalipse2v29.astro';
+
 export function getStaticPaths() {
-  return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].map(number => ({
+  return Array.from({ length: 29 }, (_, i) => i+1).map(number => ({
     params: { versiculo: 'versiculo-' + number },
     props: { number }
   }));
 }
 
 const { number } = Astro.props;
-const components = [TextoOriginalApocalipse2v1, TextoOriginalApocalipse2v2, TextoOriginalApocalipse2v3, TextoOriginalApocalipse2v4, TextoOriginalApocalipse2v5, TextoOriginalApocalipse2v6, TextoOriginalApocalipse2v7, TextoOriginalApocalipse2v8, TextoOriginalApocalipse2v9, TextoOriginalApocalipse2v10, TextoOriginalApocalipse2v11, TextoOriginalApocalipse2v12];
+const components = [TextoOriginalApocalipse2v1, TextoOriginalApocalipse2v2, TextoOriginalApocalipse2v3, TextoOriginalApocalipse2v4, TextoOriginalApocalipse2v5, TextoOriginalApocalipse2v6, TextoOriginalApocalipse2v7, TextoOriginalApocalipse2v8, TextoOriginalApocalipse2v9, TextoOriginalApocalipse2v10, TextoOriginalApocalipse2v11, TextoOriginalApocalipse2v12, TextoOriginalApocalipse2v13, TextoOriginalApocalipse2v14, TextoOriginalApocalipse2v15, TextoOriginalApocalipse2v16, TextoOriginalApocalipse2v17, TextoOriginalApocalipse2v18, TextoOriginalApocalipse2v19, TextoOriginalApocalipse2v20, TextoOriginalApocalipse2v21, TextoOriginalApocalipse2v22, TextoOriginalApocalipse2v23, TextoOriginalApocalipse2v24, TextoOriginalApocalipse2v25, TextoOriginalApocalipse2v26, TextoOriginalApocalipse2v27, TextoOriginalApocalipse2v28, TextoOriginalApocalipse2v29];
 const WordComponent = components[number - 1];
 const base = '/comentarios/apocalipse/capitulo-2/';
 ---
@@ -54,7 +72,7 @@ const base = '/comentarios/apocalipse/capitulo-2/';
       </div>
 
       <nav class="verse-picker" aria-label="Selecionar versículo de Apocalipse capítulo 2">
-        {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
+        {Array.from({length:29},(_,i)=>i+1).map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
       </nav>
 
       <WordComponent />
@@ -62,7 +80,7 @@ const base = '/comentarios/apocalipse/capitulo-2/';
       <nav class="verse-navigation" aria-label="Navegação entre versículos">
         {number > 1 ? <a data-apocalipse-prev href={base + 'versiculo-' + (number - 1) + '/'}>← Versículo anterior</a> : <span class="disabled" aria-disabled="true">Início do capítulo 2</span>}
         <a class="chapter-return" href={base}>Índice do capítulo 2</a>
-        {number < 12 ? <a data-apocalipse-next href={base + 'versiculo-' + (number + 1) + '/'}>Próximo versículo →</a> : <span class="disabled" aria-disabled="true">Conclusão do capítulo 2</span>}
+        {number < 29 ? <a data-apocalipse-next href={base + 'versiculo-' + (number + 1) + '/'}>Próximo versículo →</a> : <span class="disabled" aria-disabled="true">Conclusão do capítulo 2</span>}
       </nav>
 
       <p class="reader-note">
