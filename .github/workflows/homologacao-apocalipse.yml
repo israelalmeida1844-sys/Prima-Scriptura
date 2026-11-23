@@ -73,6 +73,38 @@ jobs:
         run: node scripts/revisao-editorial-apocalipse-2.mjs
       - name: Aplicar notas acadêmicas específicas de Apocalipse 1 e 2
         run: node scripts/revisao-academica-apocalipse-1-2.mjs
+      - name: Verificar cobertura das notas acadêmicas e integridade dos 49 versículos
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          let verses=0, tokens=0, notes=0;
+          for(let chapter=1;chapter<=2;chapter++){
+            for(let verse=1;verse<=(chapter===1?20:29);verse++){
+              const path='src/data/texto-original/apocalipse/apocalipse-'+chapter+'-'+verse+'.ts';
+              const source=fs.readFileSync(path,'utf8');
+              const parsed=source.match(/=\\s*(\\{[\\s\\S]*\\})\\s*as const;/);
+              if(chapter===1&&verse===1){
+                assert.match(source,/Nota de crítica textual não é substituída/);
+                verses++;
+                continue;
+              }
+              assert.ok(parsed,path);
+              const data=JSON.parse(parsed[1]);
+              assert.equal(data.chapter,chapter); assert.equal(data.verse,verse);
+              assert.ok(data.words.length>0,path);
+              assert.ok(data.textualNotes.includes('[Revisão acadêmica complementar]'),path);
+              for(const w of data.words){
+                assert.ok(w.greek&&w.lemma&&w.strong&&w.morphologyCode&&w.gloss,path);
+                assert.ok(w.morphologyCode.length===8,path+' '+w.id);
+                tokens++;
+              }
+              verses++; notes++;
+            }
+          }
+          assert.equal(verses,49); assert.equal(notes,48);
+          console.log('Validação documental: 49 versículos, '+tokens+' tokens nos 48 arquivos JSON e 48 notas complementares.');
+          NODE
       - name: Salvar fontes geradas do capítulo 2 em rascunho antes do build
         run: |
           git config user.name "github-actions[bot]"
