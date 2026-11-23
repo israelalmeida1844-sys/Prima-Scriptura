@@ -1,6 +1,6 @@
 # Concordância interna de Gênesis 1:1 — implementação aprovada
 
-**Status:** código integrado na branch `rascunho/genesis` e ainda não publicado.
+**Status:** código e 16 índices completos da OSHB v.2.2 gravados e validados na branch `rascunho/genesis`, ainda não publicados. Consulte [relatório de validação](VALIDACAO-CONCORDANCIA-1-1-1-2.md).
 
 ## 1. Especificações editoriais aprovadas
 
@@ -39,16 +39,16 @@ A interface disponibiliza as **referências completas, não uma lista de exemplo
 
 - Comando manual: `npm run concordancia:gerar`.
 - Durante a compilação: `npm run build` executa primeiro `prebuild`, que gera o índice caso os arquivos locais completos ainda não existam.
-- Os arquivos gerados são `public/data/concordancia-hebraica/H7225.json`, `H1254.json`, `H430.json`, `H853.json`, `H8064.json` e `H776.json`, além do manifesto.
+- Os **16 arquivos gerados e verificados** encontram-se em `public/data/concordancia-hebraica/H{Strong}.json`, abrangendo Gênesis 1:1–2, além do manifesto `genesis-1-1-2-manifest.json`.
 - Depois da geração, **a navegação do leitor não consulta a Open Scriptures, o GitHub ou qualquer servidor externo**: recebe o JSON local do próprio Prima Scriptura.
 - Se os arquivos locais estiverem ausentes/incompletos, a interface **não apresenta referências de exemplo como se fossem resultados completos**: exibe aviso de geração pendente.
-- O processo de geração faz downloads externos uma vez por índice, durante a compilação ou por comando explícito. Não foi executado no ambiente desta edição, porque requer acesso de rede a `raw.githubusercontent.com` e não há acesso externo a partir do runtime local.
+- A indexação completa foi executada por leitura direta dos 39 arquivos originais OSHB via conector GitHub, em quatro lotes, com agregação e conferência dos 16 arquivos JSON finais. Como os índices e o manifesto já estão presentes na branch, o `prebuild` está programado para reutilizá-los após conferir sua integridade básica, sem novo download.
 - Ainda não houve `npm run build` nem inspeção da interface no navegador. Essas verificações continuam obrigatórias antes da aprovação de publicação.
 
 ## 4. Limites da etapa atual
 
-**Concluído:** código gerador; integração com `prebuild`; interface horizontal interna expansível; separadores `;`; dados por lema; contagens de tokens/versículos definidas; remoção dos links para Bible Hub no protótipo.
+**Concluído:** código gerador; integração com `prebuild`; interface horizontal interna expansível; separadores `;`; dados por lema; **16 índices gerados e validados diretamente contra o corpus OSHB (39 livros, 23.213 versículos)**; remoção dos links para Bible Hub no protótipo.
 
-**Pendente:** executar o gerador completo com acesso à rede, confrontar as contagens com o corpus-fonte, compilar a branch para verificar Astro, testar a visualização em tela e adicionar o texto completo ao selecionar uma referência. Não anunciar que as concordâncias já estão efetivamente preenchidas até a geração e validação terem ocorrido.
+**Pendente:** executar `npm run build`, testar a visualização em navegador e, caso venha a ser solicitado, adicionar o texto completo ao selecionar uma referência. A geração e a conferência dos índices estão concluídas; a validação de funcionamento do site ainda não.
 
 **Publicação:** proibida sem autorização editorial. A branch `main` não deve ser alterada e não se deve mesclar a PR automaticamente.
