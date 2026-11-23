@@ -30,6 +30,12 @@ const livros = Array.from(new Set(comentarios.map(item => item.data.book))).map(
             <strong>Ver capítulos →</strong>
           </a>
         ))}
+        <a class="card" href="/comentarios/genesis/">
+          <div class="kicker">ANTIGO TESTAMENTO · EDIÇÃO DE AVALIAÇÃO</div>
+          <h3>Gênesis — texto original e comentário</h3>
+          <p>Explore Gênesis 1:1–8 em hebraico, com transliteração, glosas, análise lexical e concordâncias exaustivas. Conteúdo parcial.</p>
+          <strong>Avaliar Gênesis →</strong>
+        </a>
       </div>
       {livros.length === 0 && <p>Comentários em preparação.</p>}
     </div>
