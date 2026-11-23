@@ -1,0 +1,73 @@
+{
+  "strong": "G3691",
+  "lemma": "ὀξύς",
+  "lemmaTranslit": "oxys",
+  "tokenCount": 8,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Romanos": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Ro 3:15",
+      "text": "ὀξεῖς οἱ",
+      "highlightedWord": "ὀξεῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "δίστομος ὀξεῖα ἐκπορευομένη,",
+      "highlightedWord": "ὀξεῖα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Re 2:12",
+      "text": "τὴν ὀξεῖαν·",
+      "highlightedWord": "ὀξεῖαν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "δρέπανον ὀξύ.",
+      "highlightedWord": "ὀξύ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Re 14:17",
+      "text": "δρέπανον ὀξύ.",
+      "highlightedWord": "ὀξύ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Re 14:18",
+      "text": "τὸ ὀξὺ λέγων·",
+      "highlightedWord": "ὀξὺ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "ῥομφαία ὀξεῖα, ἵνα",
+      "highlightedWord": "ὀξεῖα,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

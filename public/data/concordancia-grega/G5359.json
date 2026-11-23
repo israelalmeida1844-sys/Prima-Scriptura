@@ -1,0 +1,32 @@
+{
+  "strong": "G5359",
+  "lemma": "Φιλαδέλφεια",
+  "lemmaTranslit": "philadelpheia",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "εἰς Φιλαδέλφειαν καὶ",
+      "highlightedWord": "Φιλαδέλφειαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "ἐν Φιλαδελφείᾳ ἐκκλησίας",
+      "highlightedWord": "Φιλαδελφείᾳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

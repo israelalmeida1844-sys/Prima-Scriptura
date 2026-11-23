@@ -1,0 +1,255 @@
+{
+  "strong": "G975",
+  "lemma": "βιβλίον",
+  "lemmaTranslit": "biblion",
+  "tokenCount": 34,
+  "verseCount": 29,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Lucas": 3,
+    "João": 2,
+    "Gálatas": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 2,
+    "Apocalipse": 23
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Mt 19:7",
+      "text": "δοῦναι βιβλίον ἀποστασίου",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Mk 10:4",
+      "text": "Μωϋσῆς βιβλίον ἀποστασίου",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Lk 4:17",
+      "text": "αὐτῷ βιβλίον τοῦ",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Lk 4:20",
+      "text": "τὸ βιβλίον ἀποδοὺς",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Jn 20:30",
+      "text": "τῷ βιβλίῳ τούτῳ·",
+      "highlightedWord": "βιβλίῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Jn 21:25",
+      "text": "γραφόμενα βιβλία.",
+      "highlightedWord": "βιβλία."
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Ga 3:10",
+      "text": "τῷ βιβλίῳ τοῦ",
+      "highlightedWord": "βιβλίῳ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "2Ti 4:13",
+      "text": "τὰ βιβλία, μάλιστα",
+      "highlightedWord": "βιβλία,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Heb 9:19",
+      "text": "τὸ βιβλίον καὶ",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Heb 10:7",
+      "text": "κεφαλίδι βιβλίου γέγραπται",
+      "highlightedWord": "βιβλίου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "εἰς βιβλίον καὶ",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Re 5:1",
+      "text": "θρόνου βιβλίον γεγραμμένον",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Re 5:2",
+      "text": "τὸ βιβλίον καὶ",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Re 5:3",
+      "text": "τὸ βιβλίον οὔτε",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Re 5:4",
+      "text": "τὸ βιβλίον οὔτε",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Re 5:5",
+      "text": "τὸ βιβλίον καὶ",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "τὸ βιβλίον, τὰ",
+      "highlightedWord": "βιβλίον,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Re 5:9",
+      "text": "τὸ βιβλίον καὶ",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Re 6:14",
+      "text": "ὡς βιβλίον ἑλισσόμενον,",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Re 10:8",
+      "text": "τὸ βιβλίον τὸ",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Re 13:8",
+      "text": "τῷ βιβλίῳ τῆς",
+      "highlightedWord": "βιβλίῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Re 17:8",
+      "text": "τὸ βιβλίον τῆς",
+      "highlightedWord": "βιβλίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Re 20:12",
+      "text": "καὶ βιβλία ἠνοίχθησαν·",
+      "highlightedWord": "βιβλία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Re 21:27",
+      "text": "τῷ βιβλίῳ τῆς",
+      "highlightedWord": "βιβλίῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Re 22:7",
+      "text": "τοῦ βιβλίου τούτου.",
+      "highlightedWord": "βιβλίου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Re 22:9",
+      "text": "τοῦ βιβλίου τούτου·",
+      "highlightedWord": "βιβλίου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Re 22:10",
+      "text": "τοῦ βιβλίου τούτου,",
+      "highlightedWord": "βιβλίου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Re 22:18",
+      "text": "τοῦ βιβλίου τούτου·",
+      "highlightedWord": "βιβλίου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 19,
+      "reference": "Re 22:19",
+      "text": "τοῦ βιβλίου τῆς",
+      "highlightedWord": "βιβλίου"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

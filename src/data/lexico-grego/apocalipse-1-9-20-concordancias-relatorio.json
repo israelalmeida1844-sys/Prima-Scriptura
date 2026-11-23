@@ -1,0 +1,12 @@
+{
+  "corpusBooks": 27,
+  "corpusTokens": 137554,
+  "newStrongEntries": 80,
+  "created": 80,
+  "kept": 0,
+  "allFilesExist": true,
+  "sampleG4791": {
+    "tokenCount": 4,
+    "verseCount": 4
+  }
+}

@@ -1,0 +1,1203 @@
+{
+  "strong": "G4413",
+  "lemma": "πρῶτος",
+  "lemmaTranslit": "prōtos",
+  "tokenCount": 153,
+  "verseCount": 146,
+  "bookDistribution": {
+    "Mateus": 25,
+    "Marcos": 17,
+    "Lucas": 20,
+    "João": 13,
+    "Atos": 16,
+    "Romanos": 7,
+    "1 Coríntios": 7,
+    "2 Coríntios": 1,
+    "Efésios": 1,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 6,
+    "2 Timóteo": 3,
+    "Hebreus": 10,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "2 Pedro": 3,
+    "1 João": 1,
+    "Apocalipse": 18
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Mt 5:24",
+      "text": "ὕπαγε πρῶτον διαλλάγηθι",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Mt 6:33",
+      "text": "δὲ πρῶτον τὴν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Mt 7:5",
+      "text": "ἔκβαλε πρῶτον ἐκ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Mt 8:21",
+      "text": "μοι πρῶτον ἀπελθεῖν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Mt 10:2",
+      "text": "ταῦτα· πρῶτος Σίμων",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mt 12:29",
+      "text": "μὴ πρῶτον δήσῃ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "τῶν πρώτων. οὕτως",
+      "highlightedWord": "πρώτων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Mt 13:30",
+      "text": "Συλλέξατε πρῶτον τὰ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Mt 17:10",
+      "text": "ἐλθεῖν πρῶτον;",
+      "highlightedWord": "πρῶτον;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "ἀναβάντα πρῶτον ἰχθὺν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Mt 19:30",
+      "text": "ἔσονται πρῶτοι ἔσχατοι",
+      "highlightedWord": "πρῶτοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Mt 20:8",
+      "text": "τῶν πρώτων.",
+      "highlightedWord": "πρώτων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Mt 20:10",
+      "text": "οἱ πρῶτοι ἐνόμισαν",
+      "highlightedWord": "πρῶτοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Mt 20:16",
+      "text": "ἔσχατοι πρῶτοι καὶ",
+      "highlightedWord": "πρῶτοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Mt 20:27",
+      "text": "εἶναι πρῶτος ἔσται",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Mt 21:28",
+      "text": "τῷ πρώτῳ εἶπεν·",
+      "highlightedWord": "πρώτῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Mt 21:31",
+      "text": "Ὁ πρῶτος. λέγει",
+      "highlightedWord": "πρῶτος."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Mt 21:36",
+      "text": "τῶν πρώτων, καὶ",
+      "highlightedWord": "πρώτων,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Mt 22:25",
+      "text": "ὁ πρῶτος γήμας",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 38,
+      "reference": "Mt 22:38",
+      "text": "καὶ πρώτη ἐντολή.",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 26,
+      "reference": "Mt 23:26",
+      "text": "καθάρισον πρῶτον τὸ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 17,
+      "reference": "Mt 26:17",
+      "text": "δὲ πρώτῃ τῶν",
+      "highlightedWord": "πρώτῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 64,
+      "reference": "Mt 27:64",
+      "text": "τῆς πρώτης.",
+      "highlightedWord": "πρώτης."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Mk 3:27",
+      "text": "μὴ πρῶτον τὸν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Mk 4:28",
+      "text": "καρποφορεῖ, πρῶτον χόρτον,",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Mk 6:21",
+      "text": "τοῖς πρώτοις τῆς",
+      "highlightedWord": "πρώτοις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Mk 7:27",
+      "text": "Ἄφες πρῶτον χορτασθῆναι",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Mk 9:11",
+      "text": "ἐλθεῖν πρῶτον;",
+      "highlightedWord": "πρῶτον;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mk 9:12",
+      "text": "ἐλθὼν πρῶτον ἀποκαθιστάνει",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mk 9:35",
+      "text": "θέλει πρῶτος εἶναι",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Mk 10:31",
+      "text": "ἔσονται πρῶτοι ἔσχατοι",
+      "highlightedWord": "πρῶτοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 44,
+      "reference": "Mk 10:44",
+      "text": "εἶναι πρῶτος, ἔσται",
+      "highlightedWord": "πρῶτος,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Mk 12:20",
+      "text": "ὁ πρῶτος ἔλαβεν",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Mk 12:28",
+      "text": "ἐντολὴ πρώτη πάντων;",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mk 12:29",
+      "text": "ὅτι Πρώτη ἐστίν·",
+      "highlightedWord": "Πρώτη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Mk 13:10",
+      "text": "ἔθνη πρῶτον δεῖ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Mk 14:12",
+      "text": "τῇ πρώτῃ ἡμέρᾳ",
+      "highlightedWord": "πρώτῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Mk 16:9",
+      "text": "πρωῒ πρώτῃ σαββάτου",
+      "highlightedWord": "πρώτῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Lk 2:2",
+      "text": "ἀπογραφὴ πρώτη ἐγένετο",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Lk 6:42",
+      "text": "ἔκβαλε πρῶτον τὴν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 59,
+      "reference": "Lk 9:59",
+      "text": "ἀπελθόντι πρῶτον θάψαι",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 61,
+      "reference": "Lk 9:61",
+      "text": "κύριε· πρῶτον δὲ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Lk 10:5",
+      "text": "οἰκίαν πρῶτον λέγετε·",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Lk 11:26",
+      "text": "τῶν πρώτων.",
+      "highlightedWord": "πρώτων."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 38,
+      "reference": "Lk 11:38",
+      "text": "οὐ πρῶτον ἐβαπτίσθη",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Lk 12:1",
+      "text": "αὐτοῦ πρῶτον· Προσέχετε",
+      "highlightedWord": "πρῶτον·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Lk 13:30",
+      "text": "ἔσονται πρῶτοι, καὶ",
+      "highlightedWord": "πρῶτοι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Lk 14:18",
+      "text": "ὁ πρῶτος εἶπεν",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Lk 14:28",
+      "text": "οὐχὶ πρῶτον καθίσας",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Lk 14:31",
+      "text": "καθίσας πρῶτον βουλεύσεται",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Lk 15:22",
+      "text": "τὴν πρώτην καὶ",
+      "highlightedWord": "πρώτην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Lk 16:5",
+      "text": "τῷ πρώτῳ· Πόσον",
+      "highlightedWord": "πρώτῳ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Lk 17:25",
+      "text": "πρῶτον δὲ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Lk 19:16",
+      "text": "ὁ πρῶτος λέγων·",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 47,
+      "reference": "Lk 19:47",
+      "text": "οἱ πρῶτοι τοῦ",
+      "highlightedWord": "πρῶτοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Lk 20:29",
+      "text": "ὁ πρῶτος λαβὼν",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Lk 21:9",
+      "text": "γενέσθαι πρῶτον, ἀλλ’",
+      "highlightedWord": "πρῶτον,"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Jn 1:15",
+      "text": "ὅτι πρῶτός μου",
+      "highlightedWord": "πρῶτός"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Jn 1:30",
+      "text": "ὅτι πρῶτός μου",
+      "highlightedWord": "πρῶτός"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 41,
+      "reference": "Jn 1:41",
+      "text": "οὗτος πρῶτον τὸν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Jn 2:10",
+      "text": "ἄνθρωπος πρῶτον τὸν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 51,
+      "reference": "Jn 7:51",
+      "text": "ἀκούσῃ πρῶτον παρ’",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Jn 10:40",
+      "text": "τὸ πρῶτον βαπτίζων,",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Jn 12:16",
+      "text": "τὸ πρῶτον, ἀλλ’",
+      "highlightedWord": "πρῶτον,"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Jn 15:18",
+      "text": "ἐμὲ πρῶτον ὑμῶν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Jn 18:13",
+      "text": "Ἅνναν πρῶτον· ἦν",
+      "highlightedWord": "πρῶτον·"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Jn 19:32",
+      "text": "μὲν πρώτου κατέαξαν",
+      "highlightedWord": "πρώτου"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 39,
+      "reference": "Jn 19:39",
+      "text": "τὸ πρῶτον, φέρων",
+      "highlightedWord": "πρῶτον,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Jn 20:4",
+      "text": "ἦλθεν πρῶτος εἰς",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Jn 20:8",
+      "text": "ἐλθὼν πρῶτος εἰς",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Ac 1:1",
+      "text": "μὲν πρῶτον λόγον",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Ac 3:26",
+      "text": "ὑμῖν πρῶτον ἀναστήσας",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Ac 7:12",
+      "text": "ἡμῶν πρῶτον·",
+      "highlightedWord": "πρῶτον·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "δὲ πρώτην φυλακὴν",
+      "highlightedWord": "πρώτην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Ac 13:46",
+      "text": "ἀναγκαῖον πρῶτον λαληθῆναι",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 50,
+      "reference": "Ac 13:50",
+      "text": "τοὺς πρώτους τῆς",
+      "highlightedWord": "πρώτους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Ac 15:14",
+      "text": "καθὼς πρῶτον ὁ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Ac 16:12",
+      "text": "ἐστὶν πρώτη τῆς",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Ac 17:4",
+      "text": "τῶν πρώτων οὐκ",
+      "highlightedWord": "πρώτων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Ac 20:18",
+      "text": "ἀπὸ πρώτης ἡμέρας",
+      "highlightedWord": "πρώτης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 2,
+      "reference": "Ac 25:2",
+      "text": "οἱ πρῶτοι τῶν",
+      "highlightedWord": "πρῶτοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 20,
+      "reference": "Ac 26:20",
+      "text": "Δαμασκῷ πρῶτόν τε",
+      "highlightedWord": "πρῶτόν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 23,
+      "reference": "Ac 26:23",
+      "text": "εἰ πρῶτος ἐξ",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 43,
+      "reference": "Ac 27:43",
+      "text": "ἀπορίψαντας πρώτους ἐπὶ",
+      "highlightedWord": "πρώτους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 7,
+      "reference": "Ac 28:7",
+      "text": "τῷ πρώτῳ τῆς",
+      "highlightedWord": "πρώτῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 17,
+      "reference": "Ac 28:17",
+      "text": "Ἰουδαίων πρώτους· συνελθόντων",
+      "highlightedWord": "πρώτους·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ro 1:8",
+      "text": "Πρῶτον μὲν",
+      "highlightedWord": "Πρῶτον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ro 1:16",
+      "text": "τε πρῶτον καὶ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ro 2:9",
+      "text": "τε πρῶτον καὶ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Ro 2:10",
+      "text": "τε πρῶτον καὶ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ro 3:2",
+      "text": "τρόπον. πρῶτον μὲν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Ro 10:19",
+      "text": "ἔγνω; πρῶτος Μωϋσῆς",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Ro 15:24",
+      "text": "ὑμῶν πρῶτον ἀπὸ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "1Co 11:18",
+      "text": "πρῶτον μὲν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "1Co 12:28",
+      "text": "ἐκκλησίᾳ πρῶτον ἀποστόλους,",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "1Co 14:30",
+      "text": "ὁ πρῶτος σιγάτω.",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "1Co 15:3",
+      "text": "ἐν πρώτοις, ὃ",
+      "highlightedWord": "πρώτοις,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 45,
+      "reference": "1Co 15:45",
+      "text": "ὁ πρῶτος ἄνθρωπος",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 46,
+      "reference": "1Co 15:46",
+      "text": "οὐ πρῶτον τὸ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 47,
+      "reference": "1Co 15:47",
+      "text": "ὁ πρῶτος ἄνθρωπος",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "2Co 8:5",
+      "text": "ἔδωκαν πρῶτον τῷ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Eph 6:2",
+      "text": "ἐντολὴ πρώτη ἐν",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Php 1:5",
+      "text": "τῆς πρώτης ἡμέρας",
+      "highlightedWord": "πρώτης"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Th 4:16",
+      "text": "ἀναστήσονται πρῶτον,",
+      "highlightedWord": "πρῶτον,"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Th 2:3",
+      "text": "ἀποστασία πρῶτον καὶ",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Ti 1:15",
+      "text": "ὧν πρῶτός εἰμι",
+      "highlightedWord": "πρῶτός"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Ti 1:16",
+      "text": "ἐμοὶ πρώτῳ ἐνδείξηται",
+      "highlightedWord": "πρώτῳ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Ti 2:1",
+      "text": "οὖν πρῶτον πάντων",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Ti 2:13",
+      "text": "γὰρ πρῶτος ἐπλάσθη,",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Ti 3:10",
+      "text": "δοκιμαζέσθωσαν πρῶτον, εἶτα",
+      "highlightedWord": "πρῶτον,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Ti 5:12",
+      "text": "τὴν πρώτην πίστιν",
+      "highlightedWord": "πρώτην"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Ti 1:5",
+      "text": "ἐνῴκησεν πρῶτον ἐν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "2Ti 2:6",
+      "text": "δεῖ πρῶτον τῶν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Ti 4:16",
+      "text": "τῇ πρώτῃ μου",
+      "highlightedWord": "πρώτῃ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Heb 7:2",
+      "text": "Ἀβραάμ, πρῶτον μὲν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Heb 8:7",
+      "text": "ἡ πρώτη ἐκείνη",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Heb 8:13",
+      "text": "τὴν πρώτην, τὸ",
+      "highlightedWord": "πρώτην,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Heb 9:1",
+      "text": "ἡ πρώτη δικαιώματα",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Heb 9:2",
+      "text": "ἡ πρώτη ἐν",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Heb 9:6",
+      "text": "τὴν πρώτην σκηνὴν",
+      "highlightedWord": "πρώτην"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Heb 9:8",
+      "text": "τῆς πρώτης σκηνῆς",
+      "highlightedWord": "πρώτης"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Heb 9:15",
+      "text": "τῇ πρώτῃ διαθήκῃ",
+      "highlightedWord": "πρώτῃ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Heb 9:18",
+      "text": "ἡ πρώτη χωρὶς",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Heb 10:9",
+      "text": "τὸ πρῶτον ἵνα",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Jas 3:17",
+      "text": "σοφία πρῶτον μὲν",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Pe 4:17",
+      "text": "δὲ πρῶτον ἀφ’",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "2Pe 1:20",
+      "text": "τοῦτο πρῶτον γινώσκοντες",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Pe 2:20",
+      "text": "τῶν πρώτων.",
+      "highlightedWord": "πρώτων."
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Pe 3:3",
+      "text": "τοῦτο πρῶτον γινώσκοντες",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Jn 4:19",
+      "text": "αὐτὸς πρῶτος ἠγάπησεν",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "ὁ πρῶτος καὶ",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Re 2:4",
+      "text": "τὴν πρώτην ἀφῆκες.",
+      "highlightedWord": "πρώτην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "τὰ πρῶτα ἔργα",
+      "highlightedWord": "πρῶτα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Re 2:8",
+      "text": "ὁ πρῶτος καὶ",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "τῶν πρώτων.",
+      "highlightedWord": "πρώτων."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "ἡ πρώτη ἣν",
+      "highlightedWord": "πρώτη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "τὸ πρῶτον ὅμοιον",
+      "highlightedWord": "πρῶτον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Re 8:7",
+      "text": "ὁ πρῶτος ἐσάλπισεν·",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Re 13:12",
+      "text": "τοῦ πρώτου θηρίου",
+      "highlightedWord": "πρώτου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Re 16:2",
+      "text": "ὁ πρῶτος καὶ",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Re 20:5",
+      "text": "ἡ πρώτη.",
+      "highlightedWord": "πρώτη."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Re 20:6",
+      "text": "τῇ πρώτῃ· ἐπὶ",
+      "highlightedWord": "πρώτῃ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Re 21:1",
+      "text": "γὰρ πρῶτος οὐρανὸς",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Re 21:4",
+      "text": "τὰ πρῶτα ἀπῆλθαν.",
+      "highlightedWord": "πρῶτα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Re 21:19",
+      "text": "ὁ πρῶτος ἴασπις,",
+      "highlightedWord": "πρῶτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Re 22:13",
+      "text": "ὁ πρῶτος καὶ",
+      "highlightedWord": "πρῶτος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

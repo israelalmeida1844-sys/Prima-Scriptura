@@ -1,0 +1,89 @@
+{
+  "strong": "G3520",
+  "lemma": "νῆσος",
+  "lemmaTranslit": "nēsos",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Atos": 6,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Ac 13:6",
+      "text": "τὴν νῆσον ἄχρι",
+      "highlightedWord": "νῆσον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 26,
+      "reference": "Ac 27:26",
+      "text": "εἰς νῆσον δέ",
+      "highlightedWord": "νῆσον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 1,
+      "reference": "Ac 28:1",
+      "text": "ἡ νῆσος καλεῖται.",
+      "highlightedWord": "νῆσος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 7,
+      "reference": "Ac 28:7",
+      "text": "τῆς νήσου ὀνόματι",
+      "highlightedWord": "νήσου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 9,
+      "reference": "Ac 28:9",
+      "text": "τῇ νήσῳ ἔχοντες",
+      "highlightedWord": "νήσῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 11,
+      "reference": "Ac 28:11",
+      "text": "τῇ νήσῳ Ἀλεξανδρίνῳ,",
+      "highlightedWord": "νήσῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Re 1:9",
+      "text": "τῇ νήσῳ τῇ",
+      "highlightedWord": "νήσῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Re 6:14",
+      "text": "καὶ νῆσος ἐκ",
+      "highlightedWord": "νῆσος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Re 16:20",
+      "text": "πᾶσα νῆσος ἔφυγεν,",
+      "highlightedWord": "νῆσος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

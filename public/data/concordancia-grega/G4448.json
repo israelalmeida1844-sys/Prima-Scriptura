@@ -1,0 +1,68 @@
+{
+  "strong": "G4448",
+  "lemma": "πυρόομαι",
+  "lemmaTranslit": "pyroomai",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "Efésios": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "1Co 7:9",
+      "text": "ἢ πυροῦσθαι.",
+      "highlightedWord": "πυροῦσθαι."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "2Co 11:29",
+      "text": "ἐγὼ πυροῦμαι;",
+      "highlightedWord": "πυροῦμαι;"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Eph 6:16",
+      "text": "πονηροῦ πεπυρωμένα σβέσαι·",
+      "highlightedWord": "πεπυρωμένα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Pe 3:12",
+      "text": "οὐρανοὶ πυρούμενοι λυθήσονται",
+      "highlightedWord": "πυρούμενοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Re 1:15",
+      "text": "καμίνῳ πεπυρωμένης, καὶ",
+      "highlightedWord": "πεπυρωμένης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "χρυσίον πεπυρωμένον ἐκ",
+      "highlightedWord": "πεπυρωμένον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

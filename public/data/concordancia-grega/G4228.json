@@ -1,0 +1,714 @@
+{
+  "strong": "G4228",
+  "lemma": "πούς",
+  "lemmaTranslit": "poys",
+  "tokenCount": 93,
+  "verseCount": 86,
+  "bookDistribution": {
+    "Mateus": 10,
+    "Marcos": 6,
+    "Lucas": 19,
+    "João": 14,
+    "Atos": 19,
+    "Romanos": 3,
+    "1 Coríntios": 4,
+    "Efésios": 2,
+    "1 Timóteo": 1,
+    "Hebreus": 4,
+    "Apocalipse": 11
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mt 4:6",
+      "text": "τὸν πόδα σου.",
+      "highlightedWord": "πόδα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Mt 5:35",
+      "text": "τῶν ποδῶν αὐτοῦ·",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Mt 7:6",
+      "text": "τοῖς ποσὶν αὐτῶν",
+      "highlightedWord": "ποσὶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mt 10:14",
+      "text": "τῶν ποδῶν ὑμῶν.",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Mt 15:30",
+      "text": "τοὺς πόδας αὐτοῦ,",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Mt 18:8",
+      "text": "ὁ πούς σου",
+      "highlightedWord": "πούς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Mt 22:13",
+      "text": "αὐτοῦ πόδας καὶ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 44,
+      "reference": "Mt 22:44",
+      "text": "τῶν ποδῶν σου;",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 9,
+      "reference": "Mt 28:9",
+      "text": "τοὺς πόδας καὶ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Mk 5:22",
+      "text": "τοὺς πόδας αὐτοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Mk 6:11",
+      "text": "τῶν ποδῶν ὑμῶν",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Mk 7:25",
+      "text": "τοὺς πόδας αὐτοῦ·",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Mk 9:45",
+      "text": "ὁ πούς σου",
+      "highlightedWord": "πούς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mk 12:36",
+      "text": "τῶν ποδῶν σου.",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 79,
+      "reference": "Lk 1:79",
+      "text": "τοὺς πόδας ἡμῶν",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Lk 4:11",
+      "text": "τὸν πόδα σου.",
+      "highlightedWord": "πόδα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Lk 7:38",
+      "text": "τοὺς πόδας αὐτοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Lk 7:44",
+      "text": "ἐπὶ πόδας οὐκ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Lk 7:45",
+      "text": "τοὺς πόδας.",
+      "highlightedWord": "πόδας."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 46,
+      "reference": "Lk 7:46",
+      "text": "τοὺς πόδας μου.",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "τοὺς πόδας τοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Lk 8:41",
+      "text": "τοὺς πόδας τοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Lk 9:5",
+      "text": "τῶν ποδῶν ὑμῶν",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Lk 10:11",
+      "text": "τοὺς πόδας ἀπομασσόμεθα",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Lk 10:39",
+      "text": "τοὺς πόδας τοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Lk 15:22",
+      "text": "τοὺς πόδας,",
+      "highlightedWord": "πόδας,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Lk 17:16",
+      "text": "τοὺς πόδας αὐτοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 43,
+      "reference": "Lk 20:43",
+      "text": "τῶν ποδῶν σου.",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 39,
+      "reference": "Lk 24:39",
+      "text": "τοὺς πόδας μου",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 40,
+      "reference": "Lk 24:40",
+      "text": "τοὺς πόδας.]",
+      "highlightedWord": "πόδας.]"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Jn 11:2",
+      "text": "τοὺς πόδας αὐτοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "τοὺς πόδας, λέγουσα",
+      "highlightedWord": "πόδας,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Jn 11:44",
+      "text": "τοὺς πόδας καὶ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Jn 12:3",
+      "text": "τοὺς πόδας τοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Jn 13:5",
+      "text": "τοὺς πόδας τῶν",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Jn 13:6",
+      "text": "τοὺς πόδας;",
+      "highlightedWord": "πόδας;"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Jn 13:8",
+      "text": "τοὺς πόδας εἰς",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Jn 13:9",
+      "text": "τοὺς πόδας μου",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Jn 13:10",
+      "text": "τοὺς πόδας νίψασθαι,",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Jn 13:12",
+      "text": "τοὺς πόδας αὐτῶν",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Jn 13:14",
+      "text": "τοὺς πόδας ὁ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Jn 20:12",
+      "text": "τοῖς ποσίν, ὅπου",
+      "highlightedWord": "ποσίν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 35,
+      "reference": "Ac 2:35",
+      "text": "τῶν ποδῶν σου.",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "τοὺς πόδας τῶν",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Ac 4:37",
+      "text": "τοὺς πόδας τῶν",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ac 5:2",
+      "text": "τοὺς πόδας τῶν",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Ac 5:9",
+      "text": "οἱ πόδες τῶν",
+      "highlightedWord": "πόδες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ac 5:10",
+      "text": "τοὺς πόδας αὐτοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Ac 7:5",
+      "text": "βῆμα ποδός, καὶ",
+      "highlightedWord": "ποδός,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Ac 7:33",
+      "text": "τῶν ποδῶν σου,",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Ac 7:49",
+      "text": "τῶν ποδῶν μου·",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 58,
+      "reference": "Ac 7:58",
+      "text": "τοὺς πόδας νεανίου",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Ac 10:25",
+      "text": "τοὺς πόδας προσεκύνησεν.",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Ac 13:25",
+      "text": "τῶν ποδῶν λῦσαι.",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 51,
+      "reference": "Ac 13:51",
+      "text": "τῶν ποδῶν ἐπ’",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Ac 14:8",
+      "text": "τοῖς ποσὶν ἐκάθητο,",
+      "highlightedWord": "ποσὶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Ac 14:10",
+      "text": "τοὺς πόδας σου",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Ac 16:24",
+      "text": "τοὺς πόδας ἠσφαλίσατο",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "τοὺς πόδας καὶ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Ac 22:3",
+      "text": "τοὺς πόδας Γαμαλιήλ,",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 16,
+      "reference": "Ac 26:16",
+      "text": "τοὺς πόδας σου·",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Ro 3:15",
+      "text": "οἱ πόδες αὐτῶν",
+      "highlightedWord": "πόδες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Ro 10:15",
+      "text": "οἱ πόδες τῶν",
+      "highlightedWord": "πόδες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Ro 16:20",
+      "text": "τοὺς πόδας ὑμῶν",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "1Co 12:15",
+      "text": "ὁ πούς· Ὅτι",
+      "highlightedWord": "πούς·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "1Co 12:21",
+      "text": "τοῖς ποσίν· Χρείαν",
+      "highlightedWord": "ποσίν·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "1Co 15:25",
+      "text": "τοὺς πόδας αὐτοῦ.",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "1Co 15:27",
+      "text": "τοὺς πόδας αὐτοῦ.",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Eph 1:22",
+      "text": "τοὺς πόδας αὐτοῦ,",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Eph 6:15",
+      "text": "τοὺς πόδας ἐν",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Ti 5:10",
+      "text": "ἁγίων πόδας ἔνιψεν,",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Heb 1:13",
+      "text": "τῶν ποδῶν σου;",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Heb 2:8",
+      "text": "τῶν ποδῶν αὐτοῦ·",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Heb 10:13",
+      "text": "τῶν ποδῶν αὐτοῦ,",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Heb 12:13",
+      "text": "τοῖς ποσὶν ὑμῶν,",
+      "highlightedWord": "ποσὶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Re 1:15",
+      "text": "οἱ πόδες αὐτοῦ",
+      "highlightedWord": "πόδες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "τοὺς πόδας αὐτοῦ",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Re 2:18",
+      "text": "οἱ πόδες αὐτοῦ",
+      "highlightedWord": "πόδες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "τῶν ποδῶν σου,",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Re 10:1",
+      "text": "οἱ πόδες αὐτοῦ",
+      "highlightedWord": "πόδες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Re 10:2",
+      "text": "τὸν πόδα αὐτοῦ",
+      "highlightedWord": "πόδα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Re 11:11",
+      "text": "τοὺς πόδας αὐτῶν,",
+      "highlightedWord": "πόδας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Re 12:1",
+      "text": "τῶν ποδῶν αὐτῆς,",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Re 13:2",
+      "text": "οἱ πόδες αὐτοῦ",
+      "highlightedWord": "πόδες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Re 19:10",
+      "text": "τῶν ποδῶν αὐτοῦ",
+      "highlightedWord": "ποδῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Re 22:8",
+      "text": "τῶν ποδῶν τοῦ",
+      "highlightedWord": "ποδῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

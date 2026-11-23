@@ -1,0 +1,73 @@
+{
+  "strong": "G4501",
+  "lemma": "ῥομφαία",
+  "lemmaTranslit": "romphaia",
+  "tokenCount": 7,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Lucas": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 35,
+      "reference": "Lk 2:35",
+      "text": "διελεύσεται ῥομφαία, ὅπως",
+      "highlightedWord": "ῥομφαία,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "αὐτοῦ ῥομφαία δίστομος",
+      "highlightedWord": "ῥομφαία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Re 2:12",
+      "text": "τὴν ῥομφαίαν τὴν",
+      "highlightedWord": "ῥομφαίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Re 2:16",
+      "text": "τῇ ῥομφαίᾳ τοῦ",
+      "highlightedWord": "ῥομφαίᾳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Re 6:8",
+      "text": "ἐν ῥομφαίᾳ καὶ",
+      "highlightedWord": "ῥομφαίᾳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "ἐκπορεύεται ῥομφαία ὀξεῖα,",
+      "highlightedWord": "ῥομφαία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Re 19:21",
+      "text": "τῇ ῥομφαίᾳ τοῦ",
+      "highlightedWord": "ῥομφαίᾳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

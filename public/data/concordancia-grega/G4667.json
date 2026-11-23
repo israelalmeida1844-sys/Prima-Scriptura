@@ -1,0 +1,32 @@
+{
+  "strong": "G4667",
+  "lemma": "Σμύρνα",
+  "lemmaTranslit": "smyrna",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "εἰς Σμύρναν καὶ",
+      "highlightedWord": "Σμύρναν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Re 2:8",
+      "text": "ἐν Σμύρνῃ ἐκκλησίας",
+      "highlightedWord": "Σμύρνῃ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,4015 @@
+{
+  "strong": "G444",
+  "lemma": "ἄνθρωπος",
+  "lemmaTranslit": "anthrōpos",
+  "tokenCount": 550,
+  "verseCount": 497,
+  "bookDistribution": {
+    "Mateus": 115,
+    "Marcos": 56,
+    "Lucas": 95,
+    "João": 59,
+    "Atos": 46,
+    "Romanos": 27,
+    "1 Coríntios": 31,
+    "2 Coríntios": 8,
+    "Gálatas": 14,
+    "Efésios": 9,
+    "Filipenses": 3,
+    "Colossenses": 7,
+    "1 Tessalonicenses": 5,
+    "2 Tessalonicenses": 2,
+    "1 Timóteo": 10,
+    "2 Timóteo": 5,
+    "Tito": 5,
+    "Hebreus": 10,
+    "Tiago": 7,
+    "1 Pedro": 5,
+    "2 Pedro": 4,
+    "1 João": 1,
+    "Judas": 1,
+    "Apocalipse": 25
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Mt 4:4",
+      "text": "ὁ ἄνθρωπος, ἀλλ’",
+      "highlightedWord": "ἄνθρωπος,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Mt 4:19",
+      "text": "ἁλιεῖς ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mt 5:13",
+      "text": "τῶν ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Mt 5:16",
+      "text": "τῶν ἀνθρώπων, ὅπως",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "τοὺς ἀνθρώπους, ἐλάχιστος",
+      "highlightedWord": "ἀνθρώπους,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mt 6:1",
+      "text": "τῶν ἀνθρώπων πρὸς",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mt 6:2",
+      "text": "τῶν ἀνθρώπων· ἀμὴν",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mt 6:5",
+      "text": "τοῖς ἀνθρώποις· ἀμὴν",
+      "highlightedWord": "ἀνθρώποις·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Mt 6:14",
+      "text": "τοῖς ἀνθρώποις τὰ",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Mt 6:15",
+      "text": "τοῖς ἀνθρώποις, οὐδὲ",
+      "highlightedWord": "ἀνθρώποις,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Mt 6:16",
+      "text": "τοῖς ἀνθρώποις νηστεύοντες·",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Mt 6:18",
+      "text": "τοῖς ἀνθρώποις νηστεύων",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Mt 7:9",
+      "text": "ὑμῶν ἄνθρωπος, ὃν",
+      "highlightedWord": "ἄνθρωπος,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Mt 7:12",
+      "text": "οἱ ἄνθρωποι, οὕτως",
+      "highlightedWord": "ἄνθρωποι,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Mt 8:9",
+      "text": "ἐγὼ ἄνθρωπός εἰμι",
+      "highlightedWord": "ἄνθρωπός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Mt 8:20",
+      "text": "τοῦ ἀνθρώπου οὐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Mt 8:27",
+      "text": "δὲ ἄνθρωποι ἐθαύμασαν",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mt 9:6",
+      "text": "τοῦ ἀνθρώπου ἐπὶ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Mt 9:8",
+      "text": "τοῖς ἀνθρώποις.",
+      "highlightedWord": "ἀνθρώποις."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mt 9:9",
+      "text": "εἶδεν ἄνθρωπον καθήμενον",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Mt 9:32",
+      "text": "αὐτῷ ἄνθρωπον κωφὸν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Mt 10:17",
+      "text": "τῶν ἀνθρώπων· παραδώσουσιν",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mt 10:23",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Mt 10:32",
+      "text": "τῶν ἀνθρώπων, ὁμολογήσω",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mt 10:33",
+      "text": "τῶν ἀνθρώπων, ἀρνήσομαι",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Mt 10:35",
+      "text": "διχάσαι ἄνθρωπον κατὰ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Mt 10:36",
+      "text": "τοῦ ἀνθρώπου οἱ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Mt 11:8",
+      "text": "ἰδεῖν; ἄνθρωπον ἐν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Mt 11:19",
+      "text": "τοῦ ἀνθρώπου ἐσθίων",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Mt 12:8",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Mt 12:10",
+      "text": "ἰδοὺ ἄνθρωπος χεῖρα",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Mt 12:11",
+      "text": "ὑμῶν ἄνθρωπος ὃς",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mt 12:12",
+      "text": "διαφέρει ἄνθρωπος προβάτου.",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Mt 12:13",
+      "text": "τῷ ἀνθρώπῳ· Ἔκτεινόν",
+      "highlightedWord": "ἀνθρώπῳ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Mt 12:31",
+      "text": "τοῖς ἀνθρώποις, ἡ",
+      "highlightedWord": "ἀνθρώποις,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mt 12:32",
+      "text": "τοῦ ἀνθρώπου, ἀφεθήσεται",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Mt 12:35",
+      "text": "ἀγαθὸς ἄνθρωπος ἐκ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mt 12:36",
+      "text": "οἱ ἄνθρωποι, ἀποδώσουσιν",
+      "highlightedWord": "ἄνθρωποι,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Mt 12:40",
+      "text": "τοῦ ἀνθρώπου ἐν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mt 12:43",
+      "text": "τοῦ ἀνθρώπου, διέρχεται",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "τοῦ ἀνθρώπου ἐκείνου",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Mt 13:24",
+      "text": "οὐρανῶν ἀνθρώπῳ σπείραντι",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Mt 13:25",
+      "text": "τοὺς ἀνθρώπους ἦλθεν",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Mt 13:28",
+      "text": "Ἐχθρὸς ἄνθρωπος τοῦτο",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Mt 13:31",
+      "text": "λαβὼν ἄνθρωπος ἔσπειρεν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 37,
+      "reference": "Mt 13:37",
+      "text": "τοῦ ἀνθρώπου·",
+      "highlightedWord": "ἀνθρώπου·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 41,
+      "reference": "Mt 13:41",
+      "text": "τοῦ ἀνθρώπου τοὺς",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Mt 13:44",
+      "text": "εὑρὼν ἄνθρωπος ἔκρυψεν,",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 45,
+      "reference": "Mt 13:45",
+      "text": "οὐρανῶν ἀνθρώπῳ ἐμπόρῳ",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 52,
+      "reference": "Mt 13:52",
+      "text": "ἐστιν ἀνθρώπῳ οἰκοδεσπότῃ",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Mt 15:9",
+      "text": "ἐντάλματα ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Mt 15:11",
+      "text": "τὸν ἄνθρωπον, ἀλλὰ",
+      "highlightedWord": "ἄνθρωπον,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Mt 15:18",
+      "text": "τὸν ἄνθρωπον.",
+      "highlightedWord": "ἄνθρωπον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Mt 15:20",
+      "text": "τὸν ἄνθρωπον, τὸ",
+      "highlightedWord": "ἄνθρωπον,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Mt 16:13",
+      "text": "οἱ ἄνθρωποι εἶναι",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Mt 16:23",
+      "text": "τῶν ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Mt 16:26",
+      "text": "ὠφεληθήσεται ἄνθρωπος ἐὰν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Mt 16:27",
+      "text": "τοῦ ἀνθρώπου ἔρχεσθαι",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Mt 16:28",
+      "text": "τοῦ ἀνθρώπου ἐρχόμενον",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Mt 17:9",
+      "text": "τοῦ ἀνθρώπου ἐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Mt 17:12",
+      "text": "τοῦ ἀνθρώπου μέλλει",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Mt 17:14",
+      "text": "αὐτῷ ἄνθρωπος γονυπετῶν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Mt 17:22",
+      "text": "τοῦ ἀνθρώπου παραδίδοσθαι",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Mt 18:7",
+      "text": "τῷ ἀνθρώπῳ δι’",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Mt 18:12",
+      "text": "τινι ἀνθρώπῳ ἑκατὸν",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Mt 18:23",
+      "text": "οὐρανῶν ἀνθρώπῳ βασιλεῖ",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Mt 19:3",
+      "text": "ἔξεστιν ἀνθρώπῳ ἀπολῦσαι",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Mt 19:5",
+      "text": "καταλείψει ἄνθρωπος τὸν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Mt 19:6",
+      "text": "συνέζευξεν ἄνθρωπος μὴ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Mt 19:10",
+      "text": "τοῦ ἀνθρώπου μετὰ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Mt 19:12",
+      "text": "τῶν ἀνθρώπων, καὶ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Mt 19:26",
+      "text": "Παρὰ ἀνθρώποις τοῦτο",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Mt 19:28",
+      "text": "τοῦ ἀνθρώπου ἐπὶ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Mt 20:1",
+      "text": "οὐρανῶν ἀνθρώπῳ οἰκοδεσπότῃ",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Mt 20:18",
+      "text": "τοῦ ἀνθρώπου παραδοθήσεται",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Mt 20:28",
+      "text": "τοῦ ἀνθρώπου οὐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Mt 21:25",
+      "text": "ἐξ ἀνθρώπων; οἱ",
+      "highlightedWord": "ἀνθρώπων;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Mt 21:26",
+      "text": "Ἐξ ἀνθρώπων, φοβούμεθα",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Mt 21:28",
+      "text": "δοκεῖ; ἄνθρωπος εἶχεν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 33,
+      "reference": "Mt 21:33",
+      "text": "ἀκούσατε. Ἄνθρωπος ἦν",
+      "highlightedWord": "Ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Mt 22:2",
+      "text": "οὐρανῶν ἀνθρώπῳ βασιλεῖ,",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Mt 22:11",
+      "text": "ἐκεῖ ἄνθρωπον οὐκ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Mt 22:16",
+      "text": "πρόσωπον ἀνθρώπων·",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 4,
+      "reference": "Mt 23:4",
+      "text": "τῶν ἀνθρώπων, αὐτοὶ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 5,
+      "reference": "Mt 23:5",
+      "text": "τοῖς ἀνθρώποις· πλατύνουσι",
+      "highlightedWord": "ἀνθρώποις·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 7,
+      "reference": "Mt 23:7",
+      "text": "τῶν ἀνθρώπων· Ῥαββί.",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 13,
+      "reference": "Mt 23:13",
+      "text": "τῶν ἀνθρώπων· ὑμεῖς",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Mt 23:28",
+      "text": "τοῖς ἀνθρώποις δίκαιοι,",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Mt 24:27",
+      "text": "τοῦ ἀνθρώπου·",
+      "highlightedWord": "ἀνθρώπου·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 30,
+      "reference": "Mt 24:30",
+      "text": "τοῦ ἀνθρώπου ἐν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 37,
+      "reference": "Mt 24:37",
+      "text": "τοῦ ἀνθρώπου·",
+      "highlightedWord": "ἀνθρώπου·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 39,
+      "reference": "Mt 24:39",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 44,
+      "reference": "Mt 24:44",
+      "text": "τοῦ ἀνθρώπου ἔρχεται.",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 14,
+      "reference": "Mt 25:14",
+      "text": "γὰρ ἄνθρωπος ἀποδημῶν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 24,
+      "reference": "Mt 25:24",
+      "text": "εἶ ἄνθρωπος, θερίζων",
+      "highlightedWord": "ἄνθρωπος,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 31,
+      "reference": "Mt 25:31",
+      "text": "τοῦ ἀνθρώπου ἐν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 2,
+      "reference": "Mt 26:2",
+      "text": "τοῦ ἀνθρώπου παραδίδοται",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 24,
+      "reference": "Mt 26:24",
+      "text": "τοῦ ἀνθρώπου ὑπάγει",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 45,
+      "reference": "Mt 26:45",
+      "text": "τοῦ ἀνθρώπου παραδίδοται",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 64,
+      "reference": "Mt 26:64",
+      "text": "τοῦ ἀνθρώπου καθήμενον",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 72,
+      "reference": "Mt 26:72",
+      "text": "τὸν ἄνθρωπον.",
+      "highlightedWord": "ἄνθρωπον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 74,
+      "reference": "Mt 26:74",
+      "text": "τὸν ἄνθρωπον. καὶ",
+      "highlightedWord": "ἄνθρωπον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 32,
+      "reference": "Mt 27:32",
+      "text": "εὗρον ἄνθρωπον Κυρηναῖον",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 57,
+      "reference": "Mt 27:57",
+      "text": "ἦλθεν ἄνθρωπος πλούσιος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Mk 1:17",
+      "text": "ἁλιεῖς ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Mk 1:23",
+      "text": "αὐτῶν ἄνθρωπος ἐν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mk 2:10",
+      "text": "τοῦ ἀνθρώπου ἐπὶ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Mk 2:27",
+      "text": "τὸν ἄνθρωπον ἐγένετο",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Mk 2:28",
+      "text": "τοῦ ἀνθρώπου καὶ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Mk 3:1",
+      "text": "ἐκεῖ ἄνθρωπος ἐξηραμμένην",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Mk 3:3",
+      "text": "τῷ ἀνθρώπῳ τῷ",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Mk 3:5",
+      "text": "τῷ ἀνθρώπῳ· Ἔκτεινον",
+      "highlightedWord": "ἀνθρώπῳ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Mk 3:28",
+      "text": "τῶν ἀνθρώπων, τὰ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Mk 4:26",
+      "text": "ὡς ἄνθρωπος βάλῃ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Mk 5:2",
+      "text": "μνημείων ἄνθρωπος ἐν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Mk 5:8",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Mk 7:7",
+      "text": "ἐντάλματα ἀνθρώπων·",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Mk 7:8",
+      "text": "τῶν ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Mk 7:11",
+      "text": "εἴπῃ ἄνθρωπος τῷ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Mk 7:15",
+      "text": "τοῦ ἀνθρώπου εἰσπορευόμενον",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Mk 7:18",
+      "text": "τὸν ἄνθρωπον οὐ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Mk 7:20",
+      "text": "τοῦ ἀνθρώπου ἐκπορευόμενον",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mk 7:21",
+      "text": "τῶν ἀνθρώπων οἱ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Mk 7:23",
+      "text": "τὸν ἄνθρωπον.",
+      "highlightedWord": "ἄνθρωπον."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Mk 8:24",
+      "text": "τοὺς ἀνθρώπους ὅτι",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Mk 8:27",
+      "text": "οἱ ἄνθρωποι εἶναι;",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mk 8:31",
+      "text": "τοῦ ἀνθρώπου πολλὰ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Mk 8:33",
+      "text": "τῶν ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Mk 8:36",
+      "text": "ὠφελεῖ ἄνθρωπον κερδῆσαι",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Mk 8:37",
+      "text": "δοῖ ἄνθρωπος ἀντάλλαγμα",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Mk 8:38",
+      "text": "τοῦ ἀνθρώπου ἐπαισχυνθήσεται",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mk 9:9",
+      "text": "τοῦ ἀνθρώπου ἐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mk 9:12",
+      "text": "τοῦ ἀνθρώπου ἵνα",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mk 9:31",
+      "text": "τοῦ ἀνθρώπου παραδίδοται",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Mk 10:7",
+      "text": "καταλείψει ἄνθρωπος τὸν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Mk 10:9",
+      "text": "συνέζευξεν ἄνθρωπος μὴ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Mk 10:27",
+      "text": "Παρὰ ἀνθρώποις ἀδύνατον",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mk 10:33",
+      "text": "τοῦ ἀνθρώπου παραδοθήσεται",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 45,
+      "reference": "Mk 10:45",
+      "text": "τοῦ ἀνθρώπου οὐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Mk 11:2",
+      "text": "οὔπω ἀνθρώπων ἐκάθισεν·",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Mk 11:30",
+      "text": "ἐξ ἀνθρώπων; ἀποκρίθητέ",
+      "highlightedWord": "ἀνθρώπων;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Mk 11:32",
+      "text": "Ἐξ ἀνθρώπων;— ἐφοβοῦντο",
+      "highlightedWord": "ἀνθρώπων;—"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Mk 12:1",
+      "text": "Ἀμπελῶνα ἄνθρωπος ἐφύτευσεν,",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "πρόσωπον ἀνθρώπων, ἀλλ’",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Mk 13:26",
+      "text": "τοῦ ἀνθρώπου ἐρχόμενον",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mk 13:34",
+      "text": "ὡς ἄνθρωπος ἀπόδημος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Mk 14:13",
+      "text": "ὑμῖν ἄνθρωπος κεράμιον",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Mk 14:21",
+      "text": "τοῦ ἀνθρώπου ὑπάγει",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 41,
+      "reference": "Mk 14:41",
+      "text": "τοῦ ἀνθρώπου εἰς",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 62,
+      "reference": "Mk 14:62",
+      "text": "τοῦ ἀνθρώπου ἐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 71,
+      "reference": "Mk 14:71",
+      "text": "τὸν ἄνθρωπον τοῦτον",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 39,
+      "reference": "Mk 15:39",
+      "text": "ὁ ἄνθρωπος υἱὸς",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Lk 1:25",
+      "text": "ἐν ἀνθρώποις.",
+      "highlightedWord": "ἀνθρώποις."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Lk 2:14",
+      "text": "ἐν ἀνθρώποις εὐδοκίας.",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Lk 2:25",
+      "text": "ἰδοὺ ἄνθρωπος ἦν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 52,
+      "reference": "Lk 2:52",
+      "text": "καὶ ἀνθρώποις.",
+      "highlightedWord": "ἀνθρώποις."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Lk 4:4",
+      "text": "ὁ ἄνθρωπος.",
+      "highlightedWord": "ἄνθρωπος."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Lk 4:33",
+      "text": "ἦν ἄνθρωπος ἔχων",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Lk 5:10",
+      "text": "νῦν ἀνθρώπους ἔσῃ",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Lk 5:18",
+      "text": "κλίνης ἄνθρωπον ὃς",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Lk 5:20",
+      "text": "εἶπεν· Ἄνθρωπε, ἀφέωνταί",
+      "highlightedWord": "Ἄνθρωπε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Lk 5:24",
+      "text": "τοῦ ἀνθρώπου ἐξουσίαν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Lk 6:5",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Lk 6:6",
+      "text": "ἦν ἄνθρωπος ἐκεῖ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Lk 6:22",
+      "text": "οἱ ἄνθρωποι, καὶ",
+      "highlightedWord": "ἄνθρωποι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 26,
+      "reference": "Lk 6:26",
+      "text": "οἱ ἄνθρωποι, κατὰ",
+      "highlightedWord": "ἄνθρωποι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Lk 6:31",
+      "text": "οἱ ἄνθρωποι, ποιεῖτε",
+      "highlightedWord": "ἄνθρωποι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 45,
+      "reference": "Lk 6:45",
+      "text": "ἀγαθὸς ἄνθρωπος ἐκ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Lk 6:48",
+      "text": "ἐστιν ἀνθρώπῳ οἰκοδομοῦντι",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Lk 6:49",
+      "text": "ἐστιν ἀνθρώπῳ οἰκοδομήσαντι",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Lk 7:8",
+      "text": "ἐγὼ ἄνθρωπός εἰμι",
+      "highlightedWord": "ἄνθρωπός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Lk 7:25",
+      "text": "ἰδεῖν; ἄνθρωπον ἐν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Lk 7:31",
+      "text": "τοὺς ἀνθρώπους τῆς",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Lk 7:34",
+      "text": "τοῦ ἀνθρώπου ἐσθίων",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Lk 8:29",
+      "text": "τοῦ ἀνθρώπου. πολλοῖς",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Lk 8:33",
+      "text": "τοῦ ἀνθρώπου εἰσῆλθον",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "τὸν ἄνθρωπον ἀφ’",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Lk 9:22",
+      "text": "τοῦ ἀνθρώπου πολλὰ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Lk 9:25",
+      "text": "ὠφελεῖται ἄνθρωπος κερδήσας",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Lk 9:26",
+      "text": "τοῦ ἀνθρώπου ἐπαισχυνθήσεται,",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 44,
+      "reference": "Lk 9:44",
+      "text": "τοῦ ἀνθρώπου μέλλει",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 58,
+      "reference": "Lk 9:58",
+      "text": "τοῦ ἀνθρώπου οὐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Lk 10:30",
+      "text": "εἶπεν· Ἄνθρωπός τις",
+      "highlightedWord": "Ἄνθρωπός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Lk 11:24",
+      "text": "τοῦ ἀνθρώπου, διέρχεται",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Lk 11:26",
+      "text": "τοῦ ἀνθρώπου ἐκείνου",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Lk 11:30",
+      "text": "τοῦ ἀνθρώπου τῇ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Lk 11:44",
+      "text": "οἱ ἄνθρωποι οἱ",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 46,
+      "reference": "Lk 11:46",
+      "text": "τοὺς ἀνθρώπους φορτία",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Lk 12:8",
+      "text": "τῶν ἀνθρώπων, καὶ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Lk 12:9",
+      "text": "τῶν ἀνθρώπων ἀπαρνηθήσεται",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Lk 12:10",
+      "text": "τοῦ ἀνθρώπου, ἀφεθήσεται",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Lk 12:14",
+      "text": "αὐτῷ· Ἄνθρωπε, τίς",
+      "highlightedWord": "Ἄνθρωπε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Lk 12:16",
+      "text": "λέγων· Ἀνθρώπου τινὸς",
+      "highlightedWord": "Ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Lk 12:36",
+      "text": "ὅμοιοι ἀνθρώποις προσδεχομένοις",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Lk 12:40",
+      "text": "τοῦ ἀνθρώπου ἔρχεται.",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Lk 13:4",
+      "text": "τοὺς ἀνθρώπους τοὺς",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Lk 13:19",
+      "text": "λαβὼν ἄνθρωπος ἔβαλεν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Lk 14:2",
+      "text": "ἰδοὺ ἄνθρωπός τις",
+      "highlightedWord": "ἄνθρωπός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Lk 14:16",
+      "text": "αὐτῷ· Ἄνθρωπός τις",
+      "highlightedWord": "Ἄνθρωπός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Lk 14:30",
+      "text": "ὁ ἄνθρωπος ἤρξατο",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Lk 15:4",
+      "text": "Τίς ἄνθρωπος ἐξ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Lk 15:11",
+      "text": "δέ· Ἄνθρωπός τις",
+      "highlightedWord": "Ἄνθρωπός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Lk 16:1",
+      "text": "μαθητάς· Ἄνθρωπός τις",
+      "highlightedWord": "Ἄνθρωπός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Lk 16:15",
+      "text": "τῶν ἀνθρώπων, ὁ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Lk 16:19",
+      "text": "Ἄνθρωπος δέ",
+      "highlightedWord": "Ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Lk 17:22",
+      "text": "τοῦ ἀνθρώπου ἰδεῖν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Lk 17:24",
+      "text": "τοῦ ἀνθρώπου ἐν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Lk 17:26",
+      "text": "τοῦ ἀνθρώπου·",
+      "highlightedWord": "ἀνθρώπου·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 30,
+      "reference": "Lk 17:30",
+      "text": "τοῦ ἀνθρώπου ἀποκαλύπτεται.",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Lk 18:2",
+      "text": "καὶ ἄνθρωπον μὴ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Lk 18:4",
+      "text": "οὐδὲ ἄνθρωπον ἐντρέπομαι,",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Lk 18:8",
+      "text": "τοῦ ἀνθρώπου ἐλθὼν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Lk 18:10",
+      "text": "Ἄνθρωποι δύο",
+      "highlightedWord": "Ἄνθρωποι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Lk 18:11",
+      "text": "τῶν ἀνθρώπων, ἅρπαγες,",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 27,
+      "reference": "Lk 18:27",
+      "text": "παρὰ ἀνθρώποις δυνατὰ",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Lk 18:31",
+      "text": "τοῦ ἀνθρώπου·",
+      "highlightedWord": "ἀνθρώπου·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Lk 19:10",
+      "text": "τοῦ ἀνθρώπου ζητῆσαι",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Lk 19:12",
+      "text": "οὖν· Ἄνθρωπός τις",
+      "highlightedWord": "Ἄνθρωπός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Lk 19:21",
+      "text": "ὅτι ἄνθρωπος αὐστηρὸς",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Lk 19:22",
+      "text": "ἐγὼ ἄνθρωπος αὐστηρός",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Lk 19:30",
+      "text": "πώποτε ἀνθρώπων ἐκάθισεν,",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Lk 20:4",
+      "text": "ἐξ ἀνθρώπων;",
+      "highlightedWord": "ἀνθρώπων;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Lk 20:6",
+      "text": "Ἐξ ἀνθρώπων, ὁ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Lk 20:9",
+      "text": "ταύτην· Ἄνθρωπος ἐφύτευσεν",
+      "highlightedWord": "Ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Lk 21:26",
+      "text": "ἀποψυχόντων ἀνθρώπων ἀπὸ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Lk 21:27",
+      "text": "τοῦ ἀνθρώπου ἐρχόμενον",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Lk 21:36",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Lk 22:10",
+      "text": "ὑμῖν ἄνθρωπος κεράμιον",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Lk 22:22",
+      "text": "τοῦ ἀνθρώπου κατὰ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 48,
+      "reference": "Lk 22:48",
+      "text": "τοῦ ἀνθρώπου παραδίδως;",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 58,
+      "reference": "Lk 22:58",
+      "text": "ἔφη· Ἄνθρωπε, οὐκ",
+      "highlightedWord": "Ἄνθρωπε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 60,
+      "reference": "Lk 22:60",
+      "text": "Πέτρος· Ἄνθρωπε, οὐκ",
+      "highlightedWord": "Ἄνθρωπε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 69,
+      "reference": "Lk 22:69",
+      "text": "τοῦ ἀνθρώπου καθήμενος",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 4,
+      "reference": "Lk 23:4",
+      "text": "τῷ ἀνθρώπῳ τούτῳ.",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 6,
+      "reference": "Lk 23:6",
+      "text": "ὁ ἄνθρωπος Γαλιλαῖός",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Lk 23:14",
+      "text": "τὸν ἄνθρωπον τοῦτον",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 47,
+      "reference": "Lk 23:47",
+      "text": "ὁ ἄνθρωπος οὗτος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 7,
+      "reference": "Lk 24:7",
+      "text": "τοῦ ἀνθρώπου ὅτι",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jn 1:4",
+      "text": "τῶν ἀνθρώπων·",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jn 1:6",
+      "text": "Ἐγένετο ἄνθρωπος ἀπεσταλμένος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Jn 1:9",
+      "text": "πάντα ἄνθρωπον ἐρχόμενον",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 51,
+      "reference": "Jn 1:51",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Jn 2:10",
+      "text": "Πᾶς ἄνθρωπος πρῶτον",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Jn 2:25",
+      "text": "τοῦ ἀνθρώπου, αὐτὸς",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Jn 3:1",
+      "text": "δὲ ἄνθρωπος ἐκ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Jn 3:4",
+      "text": "δύναται ἄνθρωπος γεννηθῆναι",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jn 3:13",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jn 3:14",
+      "text": "τοῦ ἀνθρώπου,",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Jn 3:19",
+      "text": "οἱ ἄνθρωποι μᾶλλον",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Jn 3:27",
+      "text": "δύναται ἄνθρωπος λαμβάνειν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Jn 4:28",
+      "text": "τοῖς ἀνθρώποις·",
+      "highlightedWord": "ἀνθρώποις·"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Jn 4:29",
+      "text": "ἴδετε ἄνθρωπον ὃς",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 50,
+      "reference": "Jn 4:50",
+      "text": "ὁ ἄνθρωπος τῷ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Jn 5:5",
+      "text": "τις ἄνθρωπος ἐκεῖ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jn 5:7",
+      "text": "Κύριε, ἄνθρωπον οὐκ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jn 5:9",
+      "text": "ὁ ἄνθρωπος καὶ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jn 5:12",
+      "text": "ὁ ἄνθρωπος ὁ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Jn 5:15",
+      "text": "ὁ ἄνθρωπος καὶ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Jn 5:27",
+      "text": "υἱὸς ἀνθρώπου ἐστίν.",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Jn 5:34",
+      "text": "παρὰ ἀνθρώπου τὴν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Jn 5:41",
+      "text": "παρὰ ἀνθρώπων οὐ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Jn 6:10",
+      "text": "τοὺς ἀνθρώπους ἀναπεσεῖν.",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Jn 6:14",
+      "text": "οὖν ἄνθρωποι ἰδόντες",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Jn 6:27",
+      "text": "τοῦ ἀνθρώπου ὑμῖν",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 53,
+      "reference": "Jn 6:53",
+      "text": "τοῦ ἀνθρώπου καὶ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 62,
+      "reference": "Jn 6:62",
+      "text": "τοῦ ἀνθρώπου ἀναβαίνοντα",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Jn 7:22",
+      "text": "περιτέμνετε ἄνθρωπον.",
+      "highlightedWord": "ἄνθρωπον."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Jn 7:23",
+      "text": "λαμβάνει ἄνθρωπος ἐν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 46,
+      "reference": "Jn 7:46",
+      "text": "οὕτως ἄνθρωπος.",
+      "highlightedWord": "ἄνθρωπος."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 51,
+      "reference": "Jn 7:51",
+      "text": "τὸν ἄνθρωπον ἐὰν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Jn 8:17",
+      "text": "δύο ἀνθρώπων ἡ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "τοῦ ἀνθρώπου, τότε",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 40,
+      "reference": "Jn 8:40",
+      "text": "ἀποκτεῖναι, ἄνθρωπον ὃς",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Jn 9:1",
+      "text": "εἶδεν ἄνθρωπον τυφλὸν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Jn 9:11",
+      "text": "Ὁ ἄνθρωπος ὁ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Jn 9:16",
+      "text": "ὁ ἄνθρωπος, ὅτι",
+      "highlightedWord": "ἄνθρωπος,"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Jn 9:24",
+      "text": "τὸν ἄνθρωπον ἐκ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Jn 9:30",
+      "text": "ὁ ἄνθρωπος καὶ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Jn 9:35",
+      "text": "τοῦ ἀνθρώπου;",
+      "highlightedWord": "ἀνθρώπου;"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Jn 10:33",
+      "text": "σὺ ἄνθρωπος ὢν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 47,
+      "reference": "Jn 11:47",
+      "text": "ὁ ἄνθρωπος πολλὰ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 50,
+      "reference": "Jn 11:50",
+      "text": "εἷς ἄνθρωπος ἀποθάνῃ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Jn 12:23",
+      "text": "τοῦ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Jn 12:34",
+      "text": "τοῦ ἀνθρώπου; τίς",
+      "highlightedWord": "ἀνθρώπου;"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Jn 12:43",
+      "text": "τῶν ἀνθρώπων μᾶλλον",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Jn 13:31",
+      "text": "τοῦ ἀνθρώπου, καὶ",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Jn 16:21",
+      "text": "ἐγεννήθη ἄνθρωπος εἰς",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Jn 17:6",
+      "text": "τοῖς ἀνθρώποις οὓς",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Jn 18:14",
+      "text": "ἕνα ἄνθρωπον ἀποθανεῖν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Jn 18:17",
+      "text": "τοῦ ἀνθρώπου τούτου;",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Jn 18:29",
+      "text": "τοῦ ἀνθρώπου τούτου;",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Jn 19:5",
+      "text": "ὁ ἄνθρωπος.",
+      "highlightedWord": "ἄνθρωπος."
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ac 4:9",
+      "text": "εὐεργεσίᾳ ἀνθρώπου ἀσθενοῦς,",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ac 4:12",
+      "text": "ἐν ἀνθρώποις ἐν",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Ac 4:13",
+      "text": "ὅτι ἄνθρωποι ἀγράμματοί",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ac 4:14",
+      "text": "τε ἄνθρωπον βλέποντες",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ac 4:16",
+      "text": "τοῖς ἀνθρώποις τούτοις;",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ac 4:17",
+      "text": "μηδενὶ ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Ac 4:22",
+      "text": "ὁ ἄνθρωπος ἐφ’",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Ac 5:4",
+      "text": "ἐψεύσω ἀνθρώποις ἀλλὰ",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Ac 5:28",
+      "text": "τοῦ ἀνθρώπου τούτου.",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Ac 5:29",
+      "text": "ἢ ἀνθρώποις.",
+      "highlightedWord": "ἀνθρώποις."
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Ac 5:34",
+      "text": "τοὺς ἀνθρώπους ποιῆσαι,",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Ac 5:35",
+      "text": "τοῖς ἀνθρώποις τούτοις",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Ac 5:38",
+      "text": "τῶν ἀνθρώπων τούτων",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ac 6:13",
+      "text": "Ὁ ἄνθρωπος οὗτος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 56,
+      "reference": "Ac 7:56",
+      "text": "τοῦ ἀνθρώπου ἐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Ac 9:33",
+      "text": "ἐκεῖ ἄνθρωπόν τινα",
+      "highlightedWord": "ἄνθρωπόν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Ac 10:26",
+      "text": "αὐτὸς ἄνθρωπός εἰμι.",
+      "highlightedWord": "ἄνθρωπός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Ac 10:28",
+      "text": "λέγειν ἄνθρωπον·",
+      "highlightedWord": "ἄνθρωπον·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Ac 12:22",
+      "text": "οὐκ ἀνθρώπου.",
+      "highlightedWord": "ἀνθρώπου."
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Ac 14:11",
+      "text": "ὁμοιωθέντες ἀνθρώποις κατέβησαν",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ac 14:15",
+      "text": "ὑμῖν ἄνθρωποι, εὐαγγελιζόμενοι",
+      "highlightedWord": "ἄνθρωποι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Ac 15:17",
+      "text": "τῶν ἀνθρώπων τὸν",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Ac 15:26",
+      "text": "ἀνθρώποις παραδεδωκόσι",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Ac 16:17",
+      "text": "οἱ ἄνθρωποι δοῦλοι",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Ac 16:20",
+      "text": "οἱ ἄνθρωποι ἐκταράσσουσιν",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 35,
+      "reference": "Ac 16:35",
+      "text": "τοὺς ἀνθρώπους ἐκείνους.",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 37,
+      "reference": "Ac 16:37",
+      "text": "ἀκατακρίτους, ἀνθρώπους Ῥωμαίους",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Ac 17:26",
+      "text": "ἔθνος ἀνθρώπων κατοικεῖν",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Ac 17:29",
+      "text": "ἐνθυμήσεως ἀνθρώπου, τὸ",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 30,
+      "reference": "Ac 17:30",
+      "text": "τοῖς ἀνθρώποις πάντας",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Ac 18:13",
+      "text": "τοὺς ἀνθρώπους σέβεσθαι",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Ac 19:16",
+      "text": "ὁ ἄνθρωπος ἐπ’",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Ac 19:35",
+      "text": "ἐστιν ἀνθρώπων ὃς",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Ac 21:28",
+      "text": "ὁ ἄνθρωπος ὁ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 39,
+      "reference": "Ac 21:39",
+      "text": "Ἐγὼ ἄνθρωπος μέν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 15,
+      "reference": "Ac 22:15",
+      "text": "πάντας ἀνθρώπους ὧν",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Ac 22:25",
+      "text": "Εἰ ἄνθρωπον Ῥωμαῖον",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 26,
+      "reference": "Ac 22:26",
+      "text": "γὰρ ἄνθρωπος οὗτος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "τῷ ἀνθρώπῳ τούτῳ·",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 16,
+      "reference": "Ac 24:16",
+      "text": "τοὺς ἀνθρώπους διὰ",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Ac 25:16",
+      "text": "τινα ἄνθρωπον πρὶν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 22,
+      "reference": "Ac 25:22",
+      "text": "τοῦ ἀνθρώπου ἀκοῦσαι.",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Ac 26:31",
+      "text": "ὁ ἄνθρωπος οὗτος.",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 32,
+      "reference": "Ac 26:32",
+      "text": "ὁ ἄνθρωπος οὗτος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 4,
+      "reference": "Ac 28:4",
+      "text": "ὁ ἄνθρωπος οὗτος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Ro 1:18",
+      "text": "ἀδικίαν ἀνθρώπων τῶν",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Ro 1:23",
+      "text": "φθαρτοῦ ἀνθρώπου καὶ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Ro 2:1",
+      "text": "ὦ ἄνθρωπε πᾶς",
+      "highlightedWord": "ἄνθρωπε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Ro 2:3",
+      "text": "ὦ ἄνθρωπε ὁ",
+      "highlightedWord": "ἄνθρωπε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ro 2:9",
+      "text": "ψυχὴν ἀνθρώπου τοῦ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ro 2:16",
+      "text": "τῶν ἀνθρώπων κατὰ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Ro 2:29",
+      "text": "ἐξ ἀνθρώπων ἀλλ’",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Ro 3:4",
+      "text": "δὲ ἄνθρωπος ψεύστης,",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ro 3:5",
+      "text": "κατὰ ἄνθρωπον λέγω.",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Ro 3:28",
+      "text": "πίστει ἄνθρωπον χωρὶς",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Ro 4:6",
+      "text": "τοῦ ἀνθρώπου ᾧ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ro 5:12",
+      "text": "ἑνὸς ἀνθρώπου ἡ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ro 5:15",
+      "text": "ἑνὸς ἀνθρώπου Ἰησοῦ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Ro 5:18",
+      "text": "πάντας ἀνθρώπους εἰς",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ro 5:19",
+      "text": "ἑνὸς ἀνθρώπου ἁμαρτωλοὶ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Ro 6:6",
+      "text": "ἡμῶν ἄνθρωπος συνεσταυρώθη,",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ro 7:1",
+      "text": "τοῦ ἀνθρώπου ἐφ’",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Ro 7:22",
+      "text": "ἔσω ἄνθρωπον,",
+      "highlightedWord": "ἄνθρωπον,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Ro 7:24",
+      "text": "ἐγὼ ἄνθρωπος· τίς",
+      "highlightedWord": "ἄνθρωπος·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Ro 9:20",
+      "text": "ὦ ἄνθρωπε, μενοῦνγε",
+      "highlightedWord": "ἄνθρωπε,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Ro 10:5",
+      "text": "ποιήσας ἄνθρωπος ζήσεται",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Ro 12:17",
+      "text": "πάντων ἀνθρώπων·",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Ro 12:18",
+      "text": "πάντων ἀνθρώπων εἰρηνεύοντες·",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Ro 14:18",
+      "text": "τοῖς ἀνθρώποις.",
+      "highlightedWord": "ἀνθρώποις."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ro 14:20",
+      "text": "τῷ ἀνθρώπῳ τῷ",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "1Co 1:25",
+      "text": "τῶν ἀνθρώπων ἐστίν,",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Co 2:5",
+      "text": "σοφίᾳ ἀνθρώπων ἀλλ’",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Co 2:9",
+      "text": "καρδίαν ἀνθρώπου οὐκ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Co 2:11",
+      "text": "οἶδεν ἀνθρώπων τὰ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Co 2:14",
+      "text": "δὲ ἄνθρωπος οὐ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Co 3:3",
+      "text": "κατὰ ἄνθρωπον περιπατεῖτε;",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Co 3:4",
+      "text": "οὐκ ἄνθρωποί ἐστε;",
+      "highlightedWord": "ἄνθρωποί"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "1Co 3:21",
+      "text": "ἐν ἀνθρώποις· πάντα",
+      "highlightedWord": "ἀνθρώποις·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Co 4:1",
+      "text": "λογιζέσθω ἄνθρωπος ὡς",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Co 4:9",
+      "text": "καὶ ἀνθρώποις.",
+      "highlightedWord": "ἀνθρώποις."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "1Co 6:18",
+      "text": "ποιήσῃ ἄνθρωπος ἐκτὸς",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "1Co 7:1",
+      "text": "καλὸν ἀνθρώπῳ γυναικὸς",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "1Co 7:7",
+      "text": "πάντας ἀνθρώπους εἶναι",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "1Co 7:23",
+      "text": "δοῦλοι ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "1Co 7:26",
+      "text": "καλὸν ἀνθρώπῳ τὸ",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "1Co 9:8",
+      "text": "κατὰ ἄνθρωπον ταῦτα",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "1Co 11:28",
+      "text": "δὲ ἄνθρωπος ἑαυτόν,",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "1Co 13:1",
+      "text": "τῶν ἀνθρώπων λαλῶ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "1Co 14:2",
+      "text": "οὐκ ἀνθρώποις λαλεῖ",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "1Co 14:3",
+      "text": "προφητεύων ἀνθρώποις λαλεῖ",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "1Co 15:19",
+      "text": "πάντων ἀνθρώπων ἐσμέν.",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "1Co 15:21",
+      "text": "δι’ ἀνθρώπου θάνατος,",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "1Co 15:32",
+      "text": "κατὰ ἄνθρωπον ἐθηριομάχησα",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 39,
+      "reference": "1Co 15:39",
+      "text": "μὲν ἀνθρώπων, ἄλλη",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 45,
+      "reference": "1Co 15:45",
+      "text": "πρῶτος ἄνθρωπος Ἀδὰμ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 47,
+      "reference": "1Co 15:47",
+      "text": "πρῶτος ἄνθρωπος ἐκ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Co 3:2",
+      "text": "πάντων ἀνθρώπων·",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Co 4:2",
+      "text": "συνείδησιν ἀνθρώπων ἐνώπιον",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Co 4:16",
+      "text": "ἡμῶν ἄνθρωπος διαφθείρεται,",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "2Co 5:11",
+      "text": "κυρίου ἀνθρώπους πείθομεν,",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "2Co 8:21",
+      "text": "ἐνώπιον ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "2Co 12:2",
+      "text": "οἶδα ἄνθρωπον ἐν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "2Co 12:3",
+      "text": "τοιοῦτον ἄνθρωπον— εἴτε",
+      "highlightedWord": "ἄνθρωπον—"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "2Co 12:4",
+      "text": "ἐξὸν ἀνθρώπῳ λαλῆσαι.",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Ga 1:1",
+      "text": "ἀπ’ ἀνθρώπων οὐδὲ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ga 1:10",
+      "text": "γὰρ ἀνθρώπους πείθω",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ga 1:11",
+      "text": "κατὰ ἄνθρωπον·",
+      "highlightedWord": "ἄνθρωπον·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ga 1:12",
+      "text": "παρὰ ἀνθρώπου παρέλαβον",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ga 2:6",
+      "text": "θεὸς ἀνθρώπου οὐ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ga 2:16",
+      "text": "δικαιοῦται ἄνθρωπος ἐξ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Ga 3:15",
+      "text": "κατὰ ἄνθρωπον λέγω·",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ga 5:3",
+      "text": "παντὶ ἀνθρώπῳ περιτεμνομένῳ",
+      "highlightedWord": "ἀνθρώπῳ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ga 6:1",
+      "text": "προλημφθῇ ἄνθρωπος ἔν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Ga 6:7",
+      "text": "σπείρῃ ἄνθρωπος, τοῦτο",
+      "highlightedWord": "ἄνθρωπος,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Eph 2:15",
+      "text": "καινὸν ἄνθρωπον ποιῶν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Eph 3:5",
+      "text": "τῶν ἀνθρώπων ὡς",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Eph 3:16",
+      "text": "ἔσω ἄνθρωπον,",
+      "highlightedWord": "ἄνθρωπον,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Eph 4:8",
+      "text": "τοῖς ἀνθρώποις.",
+      "highlightedWord": "ἀνθρώποις."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Eph 4:14",
+      "text": "τῶν ἀνθρώπων ἐν",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Eph 4:22",
+      "text": "παλαιὸν ἄνθρωπον τὸν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Eph 4:24",
+      "text": "καινὸν ἄνθρωπον τὸν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Eph 5:31",
+      "text": "καταλείψει ἄνθρωπος τὸν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Eph 6:7",
+      "text": "οὐκ ἀνθρώποις,",
+      "highlightedWord": "ἀνθρώποις,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Php 2:7",
+      "text": "ὁμοιώματι ἀνθρώπων γενόμενος·",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Php 4:5",
+      "text": "πᾶσιν ἀνθρώποις. ὁ",
+      "highlightedWord": "ἀνθρώποις."
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Col 1:28",
+      "text": "πάντα ἄνθρωπον καὶ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Col 2:8",
+      "text": "τῶν ἀνθρώπων, κατὰ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Col 2:22",
+      "text": "τῶν ἀνθρώπων;",
+      "highlightedWord": "ἀνθρώπων;"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Col 3:9",
+      "text": "παλαιὸν ἄνθρωπον σὺν",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Col 3:23",
+      "text": "οὐκ ἀνθρώποις,",
+      "highlightedWord": "ἀνθρώποις,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Th 2:4",
+      "text": "ὡς ἀνθρώποις ἀρέσκοντες",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Th 2:6",
+      "text": "ἐξ ἀνθρώπων δόξαν,",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Th 2:13",
+      "text": "λόγον ἀνθρώπων ἀλλὰ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Th 2:15",
+      "text": "πᾶσιν ἀνθρώποις ἐναντίων,",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Th 4:8",
+      "text": "οὐκ ἄνθρωπον ἀθετεῖ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Th 2:3",
+      "text": "ὁ ἄνθρωπος τῆς",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Th 3:2",
+      "text": "πονηρῶν ἀνθρώπων, οὐ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Ti 2:1",
+      "text": "πάντων ἀνθρώπων,",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Ti 2:4",
+      "text": "πάντας ἀνθρώπους θέλει",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Ti 2:5",
+      "text": "καὶ ἀνθρώπων ἄνθρωπος",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Ti 4:10",
+      "text": "πάντων ἀνθρώπων, μάλιστα",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "1Ti 5:24",
+      "text": "Τινῶν ἀνθρώπων αἱ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "1Ti 6:5",
+      "text": "διεφθαρμένων ἀνθρώπων τὸν",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Ti 6:9",
+      "text": "τοὺς ἀνθρώπους εἰς",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "1Ti 6:11",
+      "text": "ὦ ἄνθρωπε θεοῦ,",
+      "highlightedWord": "ἄνθρωπε"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Ti 6:16",
+      "text": "οὐδεὶς ἀνθρώπων οὐδὲ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Ti 2:2",
+      "text": "πιστοῖς ἀνθρώποις, οἵτινες",
+      "highlightedWord": "ἀνθρώποις,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Ti 3:2",
+      "text": "οἱ ἄνθρωποι φίλαυτοι,",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Ti 3:8",
+      "text": "ἀληθείᾳ, ἄνθρωποι κατεφθαρμένοι",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Ti 3:13",
+      "text": "δὲ ἄνθρωποι καὶ",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Ti 3:17",
+      "text": "θεοῦ ἄνθρωπος, πρὸς",
+      "highlightedWord": "ἄνθρωπος,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Tit 1:14",
+      "text": "ἐντολαῖς ἀνθρώπων ἀποστρεφομένων",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Tit 2:11",
+      "text": "πᾶσιν ἀνθρώποις",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Tit 3:2",
+      "text": "πάντας ἀνθρώπους.",
+      "highlightedWord": "ἀνθρώπους."
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Tit 3:8",
+      "text": "τοῖς ἀνθρώποις·",
+      "highlightedWord": "ἀνθρώποις·"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Tit 3:10",
+      "text": "αἱρετικὸν ἄνθρωπον μετὰ",
+      "highlightedWord": "ἄνθρωπον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Heb 2:6",
+      "text": "ἐστιν ἄνθρωπος ὅτι",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Heb 5:1",
+      "text": "ἐξ ἀνθρώπων λαμβανόμενος",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Heb 6:16",
+      "text": "ἄνθρωποι γὰρ",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Heb 7:8",
+      "text": "ἀποθνῄσκοντες ἄνθρωποι λαμβάνουσιν,",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Heb 7:28",
+      "text": "γὰρ ἀνθρώπους καθίστησιν",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Heb 8:2",
+      "text": "οὐκ ἄνθρωπος.",
+      "highlightedWord": "ἄνθρωπος."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Heb 9:27",
+      "text": "τοῖς ἀνθρώποις ἅπαξ",
+      "highlightedWord": "ἀνθρώποις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Heb 13:6",
+      "text": "μοι ἄνθρωπος;",
+      "highlightedWord": "ἄνθρωπος;"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jas 1:7",
+      "text": "ὁ ἄνθρωπος ἐκεῖνος",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Jas 1:19",
+      "text": "πᾶς ἄνθρωπος ταχὺς",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jas 2:20",
+      "text": "ὦ ἄνθρωπε κενέ,",
+      "highlightedWord": "ἄνθρωπε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Jas 2:24",
+      "text": "δικαιοῦται ἄνθρωπος καὶ",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jas 3:8",
+      "text": "δύναται ἀνθρώπων· ἀκατάστατον",
+      "highlightedWord": "ἀνθρώπων·"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Jas 3:9",
+      "text": "τοὺς ἀνθρώπους τοὺς",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Jas 5:17",
+      "text": "Ἠλίας ἄνθρωπος ἦν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Pe 2:4",
+      "text": "ὑπὸ ἀνθρώπων μὲν",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Pe 2:15",
+      "text": "ἀφρόνων ἀνθρώπων ἀγνωσίαν)·",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Pe 3:4",
+      "text": "καρδίας ἄνθρωπος ἐν",
+      "highlightedWord": "ἄνθρωπος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Pe 4:2",
+      "text": "μηκέτι ἀνθρώπων ἐπιθυμίαις",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Pe 4:6",
+      "text": "κατὰ ἀνθρώπους σαρκὶ",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "2Pe 1:21",
+      "text": "θελήματι ἀνθρώπου ἠνέχθη",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "2Pe 2:16",
+      "text": "ἐν ἀνθρώπου φωνῇ",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Pe 3:7",
+      "text": "ἀσεβῶν ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Jn 5:9",
+      "text": "τῶν ἀνθρώπων λαμβάνομεν,",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jud 1:4",
+      "text": "τινες ἄνθρωποι, οἱ",
+      "highlightedWord": "ἄνθρωποι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "υἱὸν ἀνθρώπου, ἐνδεδυμένον",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "ὡς ἀνθρώπου, καὶ",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Re 8:11",
+      "text": "τῶν ἀνθρώπων ἀπέθανον",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Re 9:4",
+      "text": "τοὺς ἀνθρώπους οἵτινες",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "παίσῃ ἄνθρωπον.",
+      "highlightedWord": "ἄνθρωπον."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "οἱ ἄνθρωποι τὸν",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Re 9:7",
+      "text": "πρόσωπα ἀνθρώπων,",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Re 9:10",
+      "text": "τοὺς ἀνθρώπους μῆνας",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Re 9:15",
+      "text": "τῶν ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Re 9:18",
+      "text": "τῶν ἀνθρώπων, ἐκ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "τῶν ἀνθρώπων, οἳ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "ὀνόματα ἀνθρώπων χιλιάδες",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Re 13:13",
+      "text": "τῶν ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Re 13:18",
+      "text": "γὰρ ἀνθρώπου ἐστίν·",
+      "highlightedWord": "ἀνθρώπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Re 14:4",
+      "text": "τῶν ἀνθρώπων ἀπαρχὴ",
+      "highlightedWord": "ἀνθρώπων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "υἱὸν ἀνθρώπου, ἔχων",
+      "highlightedWord": "ἀνθρώπου,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Re 16:2",
+      "text": "τοὺς ἀνθρώπους τοὺς",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Re 16:8",
+      "text": "τοὺς ἀνθρώπους ἐν",
+      "highlightedWord": "ἀνθρώπους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Re 16:9",
+      "text": "οἱ ἄνθρωποι καῦμα",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Re 16:18",
+      "text": "οὗ ἄνθρωποι ἐγένοντο",
+      "highlightedWord": "ἄνθρωποι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Re 16:21",
+      "text": "τοὺς ἀνθρώπους· καὶ",
+      "highlightedWord": "ἀνθρώπους·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Re 18:13",
+      "text": "ψυχὰς ἀνθρώπων.",
+      "highlightedWord": "ἀνθρώπων."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Re 21:3",
+      "text": "τῶν ἀνθρώπων, καὶ",
+      "highlightedWord": "ἀνθρώπων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Re 21:17",
+      "text": "μέτρον ἀνθρώπου, ὅ",
+      "highlightedWord": "ἀνθρώπου,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,233 @@
+{
+  "strong": "G3466",
+  "lemma": "μυστήριον",
+  "lemmaTranslit": "mystērion",
+  "tokenCount": 26,
+  "verseCount": 26,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Lucas": 1,
+    "Romanos": 1,
+    "1 Coríntios": 5,
+    "Efésios": 6,
+    "Colossenses": 4,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 2,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mt 13:11",
+      "text": "τὰ μυστήρια τῆς",
+      "highlightedWord": "μυστήρια"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Mk 4:11",
+      "text": "τὸ μυστήριον δέδοται",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Lk 8:10",
+      "text": "τὰ μυστήρια τῆς",
+      "highlightedWord": "μυστήρια"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "τὸ μυστήριον τοῦτο,",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Co 2:7",
+      "text": "ἐν μυστηρίῳ, τὴν",
+      "highlightedWord": "μυστηρίῳ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Co 4:1",
+      "text": "οἰκονόμους μυστηρίων θεοῦ.",
+      "highlightedWord": "μυστηρίων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "1Co 13:2",
+      "text": "τὰ μυστήρια πάντα",
+      "highlightedWord": "μυστήρια"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "1Co 14:2",
+      "text": "λαλεῖ μυστήρια·",
+      "highlightedWord": "μυστήρια·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 51,
+      "reference": "1Co 15:51",
+      "text": "ἰδοὺ μυστήριον ὑμῖν",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Eph 1:9",
+      "text": "τὸ μυστήριον τοῦ",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Eph 3:3",
+      "text": "τὸ μυστήριον, καθὼς",
+      "highlightedWord": "μυστήριον,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Eph 3:4",
+      "text": "τῷ μυστηρίῳ τοῦ",
+      "highlightedWord": "μυστηρίῳ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Eph 3:9",
+      "text": "τοῦ μυστηρίου τοῦ",
+      "highlightedWord": "μυστηρίου"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "Eph 5:32",
+      "text": "τὸ μυστήριον τοῦτο",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Eph 6:19",
+      "text": "τὸ μυστήριον τοῦ",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Col 1:26",
+      "text": "τὸ μυστήριον τὸ",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Col 1:27",
+      "text": "τοῦ μυστηρίου τούτου",
+      "highlightedWord": "μυστηρίου"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Col 2:2",
+      "text": "τοῦ μυστηρίου τοῦ",
+      "highlightedWord": "μυστηρίου"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Col 4:3",
+      "text": "τὸ μυστήριον τοῦ",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "2Th 2:7",
+      "text": "γὰρ μυστήριον ἤδη",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Ti 3:9",
+      "text": "τὸ μυστήριον τῆς",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Ti 3:16",
+      "text": "εὐσεβείας μυστήριον· Ὃς",
+      "highlightedWord": "μυστήριον·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Re 1:20",
+      "text": "τὸ μυστήριον τῶν",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Re 10:7",
+      "text": "τὸ μυστήριον τοῦ",
+      "highlightedWord": "μυστήριον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Re 17:5",
+      "text": "γεγραμμένον, μυστήριον, Βαβυλὼν",
+      "highlightedWord": "μυστήριον,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Re 17:7",
+      "text": "τὸ μυστήριον τῆς",
+      "highlightedWord": "μυστήριον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

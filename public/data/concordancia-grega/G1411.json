@@ -1,0 +1,953 @@
+{
+  "strong": "G1411",
+  "lemma": "δύναμις",
+  "lemmaTranslit": "dynamis",
+  "tokenCount": 119,
+  "verseCount": 115,
+  "bookDistribution": {
+    "Mateus": 12,
+    "Marcos": 10,
+    "Lucas": 15,
+    "Atos": 10,
+    "Romanos": 8,
+    "1 Coríntios": 15,
+    "2 Coríntios": 10,
+    "Gálatas": 1,
+    "Efésios": 5,
+    "Filipenses": 1,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 3,
+    "2 Timóteo": 3,
+    "Hebreus": 6,
+    "1 Pedro": 2,
+    "2 Pedro": 3,
+    "Apocalipse": 12
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Mt 7:22",
+      "text": "ὀνόματι δυνάμεις πολλὰς",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Mt 11:20",
+      "text": "πλεῖσται δυνάμεις αὐτοῦ,",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Mt 11:21",
+      "text": "αἱ δυνάμεις αἱ",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mt 11:23",
+      "text": "αἱ δυνάμεις αἱ",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 54,
+      "reference": "Mt 13:54",
+      "text": "αἱ δυνάμεις;",
+      "highlightedWord": "δυνάμεις;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 58,
+      "reference": "Mt 13:58",
+      "text": "ἐκεῖ δυνάμεις πολλὰς",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Mt 14:2",
+      "text": "αἱ δυνάμεις ἐνεργοῦσιν",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Mt 22:29",
+      "text": "τὴν δύναμιν τοῦ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Mt 24:29",
+      "text": "αἱ δυνάμεις τῶν",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 30,
+      "reference": "Mt 24:30",
+      "text": "μετὰ δυνάμεως καὶ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Mt 25:15",
+      "text": "ἰδίαν δύναμιν, καὶ",
+      "highlightedWord": "δύναμιν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 64,
+      "reference": "Mt 26:64",
+      "text": "τῆς δυνάμεως καὶ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mk 5:30",
+      "text": "αὐτοῦ δύναμιν ἐξελθοῦσαν",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mk 6:2",
+      "text": "αἱ δυνάμεις τοιαῦται",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mk 6:5",
+      "text": "οὐδεμίαν δύναμιν, εἰ",
+      "highlightedWord": "δύναμιν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Mk 6:14",
+      "text": "αἱ δυνάμεις ἐν",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Mk 9:1",
+      "text": "ἐν δυνάμει.",
+      "highlightedWord": "δυνάμει."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Mk 9:39",
+      "text": "ποιήσει δύναμιν ἐπὶ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Mk 12:24",
+      "text": "τὴν δύναμιν τοῦ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Mk 13:25",
+      "text": "αἱ δυνάμεις αἱ",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Mk 13:26",
+      "text": "μετὰ δυνάμεως πολλῆς",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 62,
+      "reference": "Mk 14:62",
+      "text": "τῆς δυνάμεως καὶ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Lk 1:17",
+      "text": "καὶ δυνάμει Ἠλίου,",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Lk 1:35",
+      "text": "καὶ δύναμις Ὑψίστου",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Lk 4:14",
+      "text": "τῇ δυνάμει τοῦ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Lk 4:36",
+      "text": "καὶ δυνάμει ἐπιτάσσει",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Lk 5:17",
+      "text": "καὶ δύναμις κυρίου",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Lk 6:19",
+      "text": "ὅτι δύναμις παρ’",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 46,
+      "reference": "Lk 8:46",
+      "text": "ἔγνων δύναμιν ἐξεληλυθυῖαν",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Lk 9:1",
+      "text": "αὐτοῖς δύναμιν καὶ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Lk 10:13",
+      "text": "αἱ δυνάμεις αἱ",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Lk 10:19",
+      "text": "τὴν δύναμιν τοῦ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 37,
+      "reference": "Lk 19:37",
+      "text": "εἶδον δυνάμεων,",
+      "highlightedWord": "δυνάμεων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Lk 21:26",
+      "text": "γὰρ δυνάμεις τῶν",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Lk 21:27",
+      "text": "μετὰ δυνάμεως καὶ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 69,
+      "reference": "Lk 22:69",
+      "text": "τῆς δυνάμεως τοῦ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 49,
+      "reference": "Lk 24:49",
+      "text": "ὕψους δύναμιν.",
+      "highlightedWord": "δύναμιν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ac 1:8",
+      "text": "λήμψεσθε δύναμιν ἐπελθόντος",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Ac 2:22",
+      "text": "ὑμᾶς δυνάμεσι καὶ",
+      "highlightedWord": "δυνάμεσι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Ac 3:12",
+      "text": "ἰδίᾳ δυνάμει ἢ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ac 4:7",
+      "text": "ποίᾳ δυνάμει ἢ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Ac 4:33",
+      "text": "καὶ δυνάμει μεγάλῃ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Ac 6:8",
+      "text": "καὶ δυνάμεως ἐποίει",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Ac 8:10",
+      "text": "ἡ Δύναμις τοῦ",
+      "highlightedWord": "Δύναμις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Ac 8:13",
+      "text": "καὶ δυνάμεις μεγάλας",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Ac 10:38",
+      "text": "καὶ δυνάμει, ὃς",
+      "highlightedWord": "δυνάμει,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Ac 19:11",
+      "text": "Δυνάμεις τε",
+      "highlightedWord": "Δυνάμεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Ro 1:4",
+      "text": "ἐν δυνάμει κατὰ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ro 1:16",
+      "text": "εὐαγγέλιον, δύναμις γὰρ",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Ro 1:20",
+      "text": "αὐτοῦ δύναμις καὶ",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ro 8:38",
+      "text": "οὔτε δυνάμεις",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Ro 9:17",
+      "text": "τὴν δύναμίν μου,",
+      "highlightedWord": "δύναμίν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Ro 15:13",
+      "text": "ἐν δυνάμει πνεύματος",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Ro 15:19",
+      "text": "ἐν δυνάμει σημείων",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "1Co 1:18",
+      "text": "ἡμῖν δύναμις θεοῦ",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "1Co 1:24",
+      "text": "θεοῦ δύναμιν καὶ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Co 2:4",
+      "text": "καὶ δυνάμεως,",
+      "highlightedWord": "δυνάμεως,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Co 2:5",
+      "text": "ἐν δυνάμει θεοῦ.",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Co 4:19",
+      "text": "τὴν δύναμιν,",
+      "highlightedWord": "δύναμιν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "1Co 4:20",
+      "text": "ἐν δυνάμει.",
+      "highlightedWord": "δυνάμει."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Co 5:4",
+      "text": "τῇ δυνάμει τοῦ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "1Co 6:14",
+      "text": "τῆς δυνάμεως αὐτοῦ.",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "1Co 12:10",
+      "text": "ἐνεργήματα δυνάμεων, ⸁ἄλλῳ",
+      "highlightedWord": "δυνάμεων,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "1Co 12:28",
+      "text": "ἔπειτα δυνάμεις, ἔπειτα",
+      "highlightedWord": "δυνάμεις,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "1Co 12:29",
+      "text": "πάντες δυνάμεις;",
+      "highlightedWord": "δυνάμεις;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "1Co 14:11",
+      "text": "τὴν δύναμιν τῆς",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "1Co 15:24",
+      "text": "καὶ δύναμιν,",
+      "highlightedWord": "δύναμιν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 43,
+      "reference": "1Co 15:43",
+      "text": "ἐν δυνάμει·",
+      "highlightedWord": "δυνάμει·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 56,
+      "reference": "1Co 15:56",
+      "text": "δὲ δύναμις τῆς",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Co 1:8",
+      "text": "ὑπὲρ δύναμιν ἐβαρήθημεν,",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "2Co 4:7",
+      "text": "τῆς δυνάμεως ᾖ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "2Co 6:7",
+      "text": "ἐν δυνάμει θεοῦ·",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "2Co 8:3",
+      "text": "κατὰ δύναμιν, μαρτυρῶ,",
+      "highlightedWord": "δύναμιν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "2Co 12:9",
+      "text": "γὰρ δύναμις ἐν",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "2Co 12:12",
+      "text": "καὶ δυνάμεσιν.",
+      "highlightedWord": "δυνάμεσιν."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "2Co 13:4",
+      "text": "ἐκ δυνάμεως θεοῦ.",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ga 3:5",
+      "text": "ἐνεργῶν δυνάμεις ἐν",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Eph 1:19",
+      "text": "τῆς δυνάμεως αὐτοῦ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Eph 1:21",
+      "text": "καὶ δυνάμεως καὶ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Eph 3:7",
+      "text": "τῆς δυνάμεως αὐτοῦ—",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Eph 3:16",
+      "text": "αὐτοῦ δυνάμει κραταιωθῆναι",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Eph 3:20",
+      "text": "τὴν δύναμιν τὴν",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Php 3:10",
+      "text": "τὴν δύναμιν τῆς",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Col 1:11",
+      "text": "πάσῃ δυνάμει δυναμούμενοι",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Col 1:29",
+      "text": "ἐν δυνάμει.",
+      "highlightedWord": "δυνάμει."
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Th 1:5",
+      "text": "ἐν δυνάμει καὶ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Th 1:7",
+      "text": "ἀγγέλων δυνάμεως αὐτοῦ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Th 1:11",
+      "text": "ἐν δυνάμει,",
+      "highlightedWord": "δυνάμει,"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Th 2:9",
+      "text": "πάσῃ δυνάμει καὶ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Ti 1:7",
+      "text": "ἀλλὰ δυνάμεως καὶ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Ti 1:8",
+      "text": "κατὰ δύναμιν θεοῦ,",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Ti 3:5",
+      "text": "δὲ δύναμιν αὐτῆς",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Heb 1:3",
+      "text": "τῆς δυνάμεως, δι’",
+      "highlightedWord": "δυνάμεως,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Heb 2:4",
+      "text": "ποικίλαις δυνάμεσιν καὶ",
+      "highlightedWord": "δυνάμεσιν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Heb 6:5",
+      "text": "ῥῆμα δυνάμεις τε",
+      "highlightedWord": "δυνάμεις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Heb 7:16",
+      "text": "κατὰ δύναμιν ζωῆς",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Heb 11:11",
+      "text": "Σάρρᾳ δύναμιν εἰς",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Heb 11:34",
+      "text": "ἔσβεσαν δύναμιν πυρός,",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Pe 1:5",
+      "text": "ἐν δυνάμει θεοῦ",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "1Pe 3:22",
+      "text": "καὶ δυνάμεων.",
+      "highlightedWord": "δυνάμεων."
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Pe 1:3",
+      "text": "θείας δυνάμεως αὐτοῦ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "2Pe 1:16",
+      "text": "Χριστοῦ δύναμιν καὶ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Pe 2:11",
+      "text": "καὶ δυνάμει μείζονες",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "τῇ δυνάμει αὐτοῦ.",
+      "highlightedWord": "δυνάμει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "ἔχεις δύναμιν, καὶ",
+      "highlightedWord": "δύναμιν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Re 4:11",
+      "text": "τὴν δύναμιν, ὅτι",
+      "highlightedWord": "δύναμιν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Re 5:12",
+      "text": "τὴν δύναμιν καὶ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Re 7:12",
+      "text": "ἡ δύναμις καὶ",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Re 11:17",
+      "text": "τὴν δύναμίν σου",
+      "highlightedWord": "δύναμίν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Re 12:10",
+      "text": "ἡ δύναμις καὶ",
+      "highlightedWord": "δύναμις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Re 13:2",
+      "text": "τὴν δύναμιν αὐτοῦ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Re 15:8",
+      "text": "τῆς δυνάμεως αὐτοῦ,",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Re 17:13",
+      "text": "τὴν δύναμιν καὶ",
+      "highlightedWord": "δύναμιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Re 18:3",
+      "text": "τῆς δυνάμεως τοῦ",
+      "highlightedWord": "δυνάμεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Re 19:1",
+      "text": "ἡ δύναμις τοῦ",
+      "highlightedWord": "δύναμις"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

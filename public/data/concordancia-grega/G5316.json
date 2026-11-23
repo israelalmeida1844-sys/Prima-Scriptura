@@ -1,0 +1,276 @@
+{
+  "strong": "G5316",
+  "lemma": "φαίνω",
+  "lemmaTranslit": "phainō",
+  "tokenCount": 31,
+  "verseCount": 31,
+  "bookDistribution": {
+    "Mateus": 13,
+    "Marcos": 2,
+    "Lucas": 2,
+    "João": 2,
+    "Romanos": 1,
+    "2 Coríntios": 1,
+    "Filipenses": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "1 João": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mt 1:20",
+      "text": "ὄναρ ἐφάνη αὐτῷ",
+      "highlightedWord": "ἐφάνη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mt 2:7",
+      "text": "τοῦ φαινομένου ἀστέρος,",
+      "highlightedWord": "φαινομένου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mt 2:13",
+      "text": "κυρίου φαίνεται κατ’",
+      "highlightedWord": "φαίνεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Mt 2:19",
+      "text": "κυρίου φαίνεται κατ’",
+      "highlightedWord": "φαίνεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mt 6:5",
+      "text": "ὅπως φανῶσιν τοῖς",
+      "highlightedWord": "φανῶσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Mt 6:16",
+      "text": "ὅπως φανῶσιν τοῖς",
+      "highlightedWord": "φανῶσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Mt 6:18",
+      "text": "μὴ φανῇς τοῖς",
+      "highlightedWord": "φανῇς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Mt 9:33",
+      "text": "Οὐδέποτε ἐφάνη οὕτως",
+      "highlightedWord": "ἐφάνη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Mt 13:26",
+      "text": "τότε ἐφάνη καὶ",
+      "highlightedWord": "ἐφάνη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 27,
+      "reference": "Mt 23:27",
+      "text": "μὲν φαίνονται ὡραῖοι",
+      "highlightedWord": "φαίνονται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Mt 23:28",
+      "text": "μὲν φαίνεσθε τοῖς",
+      "highlightedWord": "φαίνεσθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Mt 24:27",
+      "text": "καὶ φαίνεται ἕως",
+      "highlightedWord": "φαίνεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 30,
+      "reference": "Mt 24:30",
+      "text": "τότε φανήσεται τὸ",
+      "highlightedWord": "φανήσεται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 64,
+      "reference": "Mk 14:64",
+      "text": "ὑμῖν φαίνεται; οἱ",
+      "highlightedWord": "φαίνεται;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Mk 16:9",
+      "text": "σαββάτου ἐφάνη πρῶτον",
+      "highlightedWord": "ἐφάνη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Lk 9:8",
+      "text": "Ἠλίας ἐφάνη, ἄλλων",
+      "highlightedWord": "ἐφάνη,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Lk 24:11",
+      "text": "καὶ ἐφάνησαν ἐνώπιον",
+      "highlightedWord": "ἐφάνησαν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Jn 1:5",
+      "text": "σκοτίᾳ φαίνει, καὶ",
+      "highlightedWord": "φαίνει,"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Jn 5:35",
+      "text": "καὶ φαίνων, ὑμεῖς",
+      "highlightedWord": "φαίνων,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Ro 7:13",
+      "text": "ἵνα φανῇ ἁμαρτία",
+      "highlightedWord": "φανῇ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "2Co 13:7",
+      "text": "δόκιμοι φανῶμεν, ἀλλ’",
+      "highlightedWord": "φανῶμεν,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Php 2:15",
+      "text": "οἷς φαίνεσθε ὡς",
+      "highlightedWord": "φαίνεσθε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Heb 11:3",
+      "text": "ἐκ φαινομένων τὸ",
+      "highlightedWord": "φαινομένων"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Jas 4:14",
+      "text": "ὀλίγον φαινομένη, ἔπειτα",
+      "highlightedWord": "φαινομένη,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Pe 4:18",
+      "text": "ποῦ φανεῖται;",
+      "highlightedWord": "φανεῖται;"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "2Pe 1:19",
+      "text": "λύχνῳ φαίνοντι ἐν",
+      "highlightedWord": "φαίνοντι"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Jn 2:8",
+      "text": "ἤδη φαίνει.",
+      "highlightedWord": "φαίνει."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "ἥλιος φαίνει ἐν",
+      "highlightedWord": "φαίνει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "μὴ φάνῃ τὸ",
+      "highlightedWord": "φάνῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Re 18:23",
+      "text": "μὴ φάνῃ ἐν",
+      "highlightedWord": "φάνῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Re 21:23",
+      "text": "ἵνα φαίνωσιν αὐτῇ,",
+      "highlightedWord": "φαίνωσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

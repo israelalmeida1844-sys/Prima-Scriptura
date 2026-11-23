@@ -1,0 +1,32 @@
+{
+  "strong": "G4010",
+  "lemma": "Πέργαμος",
+  "lemmaTranslit": "pergamos",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "εἰς Πέργαμον καὶ",
+      "highlightedWord": "Πέργαμον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Re 2:12",
+      "text": "ἐν Περγάμῳ ἐκκλησίας",
+      "highlightedWord": "Περγάμῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

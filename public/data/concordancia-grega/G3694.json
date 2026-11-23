@@ -1,0 +1,305 @@
+{
+  "strong": "G3694",
+  "lemma": "ὀπίσω",
+  "lemmaTranslit": "opisō",
+  "tokenCount": 35,
+  "verseCount": 35,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 6,
+    "Lucas": 7,
+    "João": 7,
+    "Atos": 2,
+    "Filipenses": 1,
+    "1 Timóteo": 1,
+    "2 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Mt 3:11",
+      "text": "δὲ ὀπίσω μου",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Mt 4:19",
+      "text": "Δεῦτε ὀπίσω μου,",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Mt 10:38",
+      "text": "ἀκολουθεῖ ὀπίσω μου,",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Mt 16:23",
+      "text": "Ὕπαγε ὀπίσω μου,",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Mt 16:24",
+      "text": "θέλει ὀπίσω μου",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Mt 24:18",
+      "text": "ἐπιστρεψάτω ὀπίσω ἆραι",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Mk 1:7",
+      "text": "μου ὀπίσω μου,",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Mk 1:17",
+      "text": "Δεῦτε ὀπίσω μου,",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mk 1:20",
+      "text": "ἀπῆλθον ὀπίσω αὐτοῦ.",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Mk 8:33",
+      "text": "Ὕπαγε ὀπίσω μου,",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Mk 8:34",
+      "text": "θέλει ὀπίσω μου",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Mk 13:16",
+      "text": "τὰ ὀπίσω ἆραι",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Lk 7:38",
+      "text": "στᾶσα ὀπίσω παρὰ",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "θέλει ὀπίσω μου",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 62,
+      "reference": "Lk 9:62",
+      "text": "τὰ ὀπίσω εὔθετός",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Lk 14:27",
+      "text": "ἔρχεται ὀπίσω μου,",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Lk 17:31",
+      "text": "τὰ ὀπίσω.",
+      "highlightedWord": "ὀπίσω."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Lk 19:14",
+      "text": "πρεσβείαν ὀπίσω αὐτοῦ",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Lk 21:8",
+      "text": "πορευθῆτε ὀπίσω αὐτῶν.",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Jn 1:15",
+      "text": "Ὁ ὀπίσω μου",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Jn 1:27",
+      "text": "ὁ ὀπίσω μου",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Jn 1:30",
+      "text": "εἶπον· Ὀπίσω μου",
+      "highlightedWord": "Ὀπίσω"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 66,
+      "reference": "Jn 6:66",
+      "text": "τὰ ὀπίσω καὶ",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Jn 12:19",
+      "text": "κόσμος ὀπίσω αὐτοῦ",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Jn 18:6",
+      "text": "τὰ ὀπίσω καὶ",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Jn 20:14",
+      "text": "τὰ ὀπίσω, καὶ",
+      "highlightedWord": "ὀπίσω,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Ac 5:37",
+      "text": "λαὸν ὀπίσω αὐτοῦ·",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Ac 20:30",
+      "text": "μαθητὰς ὀπίσω ἑαυτῶν·",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Php 3:13",
+      "text": "μὲν ὀπίσω ἐπιλανθανόμενος",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Ti 5:15",
+      "text": "ἐξετράπησαν ὀπίσω τοῦ",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "2Pe 2:10",
+      "text": "τοὺς ὀπίσω σαρκὸς",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jud 1:7",
+      "text": "ἀπελθοῦσαι ὀπίσω σαρκὸς",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Re 1:10",
+      "text": "ἤκουσα ὀπίσω μου",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Re 12:15",
+      "text": "αὐτοῦ ὀπίσω τῆς",
+      "highlightedWord": "ὀπίσω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Re 13:3",
+      "text": "γῆ ὀπίσω τοῦ",
+      "highlightedWord": "ὀπίσω"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

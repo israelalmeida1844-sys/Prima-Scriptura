@@ -1,0 +1,7370 @@
+{
+  "strong": "G3361",
+  "lemma": "μή",
+  "lemmaTranslit": "mē",
+  "tokenCount": 1036,
+  "verseCount": 916,
+  "bookDistribution": {
+    "Mateus": 128,
+    "Marcos": 77,
+    "Lucas": 135,
+    "João": 118,
+    "Atos": 64,
+    "Romanos": 79,
+    "1 Coríntios": 96,
+    "2 Coríntios": 50,
+    "Gálatas": 24,
+    "Efésios": 16,
+    "Filipenses": 6,
+    "Colossenses": 10,
+    "1 Tessalonicenses": 15,
+    "2 Tessalonicenses": 11,
+    "1 Timóteo": 24,
+    "2 Timóteo": 4,
+    "Tito": 13,
+    "Filemom": 2,
+    "Hebreus": 40,
+    "Tiago": 24,
+    "1 Pedro": 14,
+    "2 Pedro": 6,
+    "1 João": 20,
+    "2 João": 5,
+    "3 João": 2,
+    "Judas": 3,
+    "Apocalipse": 50
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Mt 1:19",
+      "text": "καὶ μὴ θέλων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mt 1:20",
+      "text": "Δαυίδ, μὴ φοβηθῇς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Mt 2:12",
+      "text": "ὄναρ μὴ ἀνακάμψαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Mt 3:9",
+      "text": "καὶ μὴ δόξητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Mt 3:10",
+      "text": "δένδρον μὴ ποιοῦν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mt 5:13",
+      "text": "εἰ μὴ βληθὲν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Mt 5:17",
+      "text": "Μὴ νομίσητε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Mt 5:18",
+      "text": "οὐ μὴ παρέλθῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Mt 5:20",
+      "text": "ἐὰν μὴ περισσεύσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mt 5:26",
+      "text": "οὐ μὴ ἐξέλθῃς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Mt 5:29",
+      "text": "καὶ μὴ ὅλον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "καὶ μὴ ὅλον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Mt 5:34",
+      "text": "ὑμῖν μὴ ὀμόσαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Mt 5:39",
+      "text": "ὑμῖν μὴ ἀντιστῆναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Mt 5:42",
+      "text": "δανίσασθαι μὴ ἀποστραφῇς.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mt 6:1",
+      "text": "ὑμῶν μὴ ποιεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mt 6:2",
+      "text": "ἐλεημοσύνην, μὴ σαλπίσῃς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Mt 6:3",
+      "text": "ἐλεημοσύνην μὴ γνώτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Mt 6:7",
+      "text": "δὲ μὴ βατταλογήσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mt 6:8",
+      "text": "μὴ οὖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Mt 6:13",
+      "text": "καὶ μὴ εἰσενέγκῃς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Mt 6:15",
+      "text": "δὲ μὴ ἀφῆτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Mt 6:16",
+      "text": "νηστεύητε, μὴ γίνεσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Mt 6:18",
+      "text": "ὅπως μὴ φανῇς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Mt 6:19",
+      "text": "Μὴ θησαυρίζετε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mt 6:25",
+      "text": "ὑμῖν· μὴ μεριμνᾶτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mt 6:31",
+      "text": "μὴ οὖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mt 6:34",
+      "text": "μὴ οὖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Mt 7:1",
+      "text": "Μὴ κρίνετε,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Mt 7:6",
+      "text": "Μὴ δῶτε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Mt 7:9",
+      "text": "ἄρτον— μὴ λίθον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Mt 7:10",
+      "text": "αἰτήσει— μὴ ὄφιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Mt 7:19",
+      "text": "δένδρον μὴ ποιοῦν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Mt 7:26",
+      "text": "καὶ μὴ ποιῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Mt 8:28",
+      "text": "ὥστε μὴ ἰσχύειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Mt 9:15",
+      "text": "Ἰησοῦς· Μὴ δύνανται",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Mt 9:17",
+      "text": "δὲ μή γε,",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Mt 9:36",
+      "text": "πρόβατα μὴ ἔχοντα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Mt 10:5",
+      "text": "ἐθνῶν μὴ ἀπέλθητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Mt 10:9",
+      "text": "μὴ κτήσησθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Mt 10:10",
+      "text": "μὴ πήραν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Mt 10:13",
+      "text": "δὲ μὴ ᾖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mt 10:14",
+      "text": "ἂν μὴ δέξηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Mt 10:19",
+      "text": "ὑμᾶς, μὴ μεριμνήσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mt 10:23",
+      "text": "οὐ μὴ τελέσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Mt 10:26",
+      "text": "Μὴ οὖν",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Mt 10:28",
+      "text": "καὶ μὴ φοβεῖσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Mt 10:31",
+      "text": "μὴ οὖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Mt 10:34",
+      "text": "Μὴ νομίσητε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mt 10:42",
+      "text": "οὐ μὴ ἀπολέσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Mt 11:6",
+      "text": "ἐὰν μὴ σκανδαλισθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mt 11:23",
+      "text": "Καφαρναούμ, μὴ ἕως",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Mt 11:27",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Mt 12:4",
+      "text": "εἰ μὴ τοῖς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Mt 12:16",
+      "text": "ἵνα μὴ φανερὸν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Mt 12:24",
+      "text": "εἰ μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mt 12:29",
+      "text": "ἐὰν μὴ πρῶτον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "Mt 12:30",
+      "text": "ὁ μὴ ὢν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Mt 12:39",
+      "text": "εἰ μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mt 13:5",
+      "text": "τὸ μὴ ἔχειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Mt 13:6",
+      "text": "τὸ μὴ ἔχειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Mt 13:14",
+      "text": "οὐ μὴ συνῆτε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mt 13:19",
+      "text": "καὶ μὴ συνιέντος,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 57,
+      "reference": "Mt 13:57",
+      "text": "εἰ μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Mt 14:17",
+      "text": "εἰ μὴ πέντε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Mt 14:27",
+      "text": "εἰμι· μὴ φοβεῖσθε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Mt 15:6",
+      "text": "οὐ μὴ τιμήσει",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Mt 15:24",
+      "text": "εἰ μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Mt 16:4",
+      "text": "εἰ μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Mt 16:22",
+      "text": "οὐ μὴ ἔσται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Mt 16:28",
+      "text": "οὐ μὴ γεύσωνται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Mt 17:7",
+      "text": "καὶ μὴ φοβεῖσθε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Mt 17:8",
+      "text": "εἰ μὴ αὐτὸν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "δὲ μὴ σκανδαλίσωμεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Mt 18:3",
+      "text": "ἐὰν μὴ στραφῆτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Mt 18:10",
+      "text": "Ὁρᾶτε μὴ καταφρονήσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Mt 18:13",
+      "text": "τοῖς μὴ πεπλανημένοις.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Mt 18:16",
+      "text": "δὲ μὴ ἀκούσῃ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Mt 18:25",
+      "text": "μὴ ἔχοντος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Mt 18:35",
+      "text": "ἐὰν μὴ ἀφῆτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Mt 19:6",
+      "text": "ἄνθρωπος μὴ χωριζέτω.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Mt 19:9",
+      "text": "αὐτοῦ μὴ ἐπὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Mt 19:14",
+      "text": "καὶ μὴ κωλύετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Mt 21:19",
+      "text": "εἰ μὴ φύλλα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Mt 21:21",
+      "text": "καὶ μὴ διακριθῆτε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Mt 22:12",
+      "text": "ὧδε μὴ ἔχων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 23,
+      "reference": "Mt 22:23",
+      "text": "λέγοντες μὴ εἶναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Mt 22:24",
+      "text": "ἀποθάνῃ μὴ ἔχων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Mt 22:25",
+      "text": "καὶ μὴ ἔχων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Mt 22:29",
+      "text": "Πλανᾶσθε μὴ εἰδότες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Mt 23:3",
+      "text": "αὐτῶν μὴ ποιεῖτε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 8,
+      "reference": "Mt 23:8",
+      "text": "δὲ μὴ κληθῆτε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Mt 23:9",
+      "text": "πατέρα μὴ καλέσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Mt 23:23",
+      "text": "κἀκεῖνα μὴ ἀφιέναι.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 39,
+      "reference": "Mt 23:39",
+      "text": "οὐ μή με",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Mt 24:2",
+      "text": "οὐ μὴ ἀφεθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 4,
+      "reference": "Mt 24:4",
+      "text": "Βλέπετε μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Mt 24:6",
+      "text": "ὁρᾶτε, μὴ θροεῖσθε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 17,
+      "reference": "Mt 24:17",
+      "text": "δώματος μὴ καταβάτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Mt 24:18",
+      "text": "ἀγρῷ μὴ ἐπιστρεψάτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 20,
+      "reference": "Mt 24:20",
+      "text": "ἵνα μὴ γένηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Mt 24:21",
+      "text": "οὐ μὴ γένηται.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Mt 24:22",
+      "text": "εἰ μὴ ἐκολοβώθησαν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Mt 24:23",
+      "text": "Ὧδε, μὴ πιστεύσητε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 26,
+      "reference": "Mt 24:26",
+      "text": "ἐστίν, μὴ ἐξέλθητε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 34,
+      "reference": "Mt 24:34",
+      "text": "οὐ μὴ παρέλθῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 35,
+      "reference": "Mt 24:35",
+      "text": "οὐ μὴ παρέλθωσιν.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 9,
+      "reference": "Mt 25:9",
+      "text": "οὐ μὴ ἀρκέσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 29,
+      "reference": "Mt 25:29",
+      "text": "δὲ μὴ ἔχοντος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 5,
+      "reference": "Mt 26:5",
+      "text": "δέ· Μὴ ἐν",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 29,
+      "reference": "Mt 26:29",
+      "text": "οὐ μὴ πίω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 35,
+      "reference": "Mt 26:35",
+      "text": "οὐ μή σε",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 41,
+      "reference": "Mt 26:41",
+      "text": "ἵνα μὴ εἰσέλθητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 42,
+      "reference": "Mt 26:42",
+      "text": "ἐὰν μὴ αὐτὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Mt 28:5",
+      "text": "γυναιξίν· Μὴ φοβεῖσθε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 10,
+      "reference": "Mt 28:10",
+      "text": "Ἰησοῦς· Μὴ φοβεῖσθε·",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Mk 2:4",
+      "text": "καὶ μὴ δυνάμενοι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mk 2:7",
+      "text": "εἰ μὴ εἷς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Mk 2:19",
+      "text": "Ἰησοῦς· Μὴ δύνανται",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Mk 2:21",
+      "text": "δὲ μή, αἴρει",
+      "highlightedWord": "μή,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mk 2:22",
+      "text": "δὲ μή, ῥήξει",
+      "highlightedWord": "μή,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Mk 2:26",
+      "text": "εἰ μὴ τοὺς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Mk 3:9",
+      "text": "ἵνα μὴ θλίβωσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Mk 3:12",
+      "text": "ἵνα μὴ αὐτὸν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Mk 3:20",
+      "text": "ὥστε μὴ δύνασθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Mk 3:27",
+      "text": "ἐὰν μὴ πρῶτον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mk 4:5",
+      "text": "τὸ μὴ ἔχειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mk 4:6",
+      "text": "τὸ μὴ ἔχειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Mk 4:12",
+      "text": "καὶ μὴ ἴδωσιν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Mk 4:22",
+      "text": "ἐὰν μὴ ἵνα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Mk 5:7",
+      "text": "θεόν, μή με",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Mk 5:10",
+      "text": "ἵνα μὴ αὐτὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Mk 5:36",
+      "text": "ἀρχισυναγώγῳ· Μὴ φοβοῦ,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Mk 5:37",
+      "text": "εἰ μὴ τὸν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Mk 6:4",
+      "text": "εἰ μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mk 6:5",
+      "text": "εἰ μὴ ὀλίγοις",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mk 6:8",
+      "text": "εἰ μὴ ῥάβδον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Mk 6:9",
+      "text": "καὶ μὴ ἐνδύσησθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Mk 6:11",
+      "text": "τόπος μὴ δέξηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mk 6:34",
+      "text": "πρόβατα μὴ ἔχοντα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Mk 6:50",
+      "text": "εἰμι, μὴ φοβεῖσθε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Mk 7:3",
+      "text": "ἐὰν μὴ πυγμῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Mk 7:4",
+      "text": "ἐὰν μὴ βαπτίσωνται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Mk 8:1",
+      "text": "καὶ μὴ ἐχόντων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Mk 8:14",
+      "text": "εἰ μὴ ἕνα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Mk 9:1",
+      "text": "οὐ μὴ γεύσωνται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mk 9:9",
+      "text": "εἰ μὴ ὅταν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Mk 9:29",
+      "text": "εἰ μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Mk 9:39",
+      "text": "εἶπεν· Μὴ κωλύετε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Mk 9:41",
+      "text": "οὐ μὴ ἀπολέσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Mk 10:9",
+      "text": "ἄνθρωπος μὴ χωριζέτω.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mk 10:14",
+      "text": "με, μὴ κωλύετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Mk 10:15",
+      "text": "ἂν μὴ δέξηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Mk 10:18",
+      "text": "εἰ μὴ εἷς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Mk 10:19",
+      "text": "οἶδας· Μὴ φονεύσῃς,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Mk 10:30",
+      "text": "ἐὰν μὴ λάβῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Mk 11:13",
+      "text": "εἰ μὴ φύλλα,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mk 11:23",
+      "text": "καὶ μὴ διακριθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "ἢ μὴ δῶμεν;",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Mk 12:18",
+      "text": "ἀνάστασιν μὴ εἶναι,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mk 12:19",
+      "text": "καὶ μὴ ἀφῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Mk 12:21",
+      "text": "ἀπέθανεν μὴ καταλιπὼν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Mk 12:24",
+      "text": "πλανᾶσθε μὴ εἰδότες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mk 13:2",
+      "text": "οὐ μὴ ἀφεθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mk 13:5",
+      "text": "Βλέπετε μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Mk 13:7",
+      "text": "πολέμων, μὴ θροεῖσθε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mk 13:11",
+      "text": "παραδιδόντες, μὴ προμεριμνᾶτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Mk 13:15",
+      "text": "δώματος μὴ καταβάτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Mk 13:16",
+      "text": "ἀγρὸν μὴ ἐπιστρεψάτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Mk 13:18",
+      "text": "ἵνα μὴ γένηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mk 13:19",
+      "text": "οὐ μὴ γένηται.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Mk 13:20",
+      "text": "εἰ μὴ ἐκολόβωσεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mk 13:21",
+      "text": "ἐκεῖ, μὴ πιστεύετε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Mk 13:30",
+      "text": "οὐ μὴ παρέλθῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Mk 13:31",
+      "text": "οὐ μὴ ⸁παρελεύσονται.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 36,
+      "reference": "Mk 13:36",
+      "text": "μὴ ἐλθὼν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Mk 14:2",
+      "text": "γάρ· Μὴ ἐν",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mk 14:25",
+      "text": "οὐ μὴ πίω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Mk 14:31",
+      "text": "οὐ μή σε",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 38,
+      "reference": "Mk 14:38",
+      "text": "ἵνα μὴ ἔλθητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Mk 16:6",
+      "text": "αὐταῖς· Μὴ ἐκθαμβεῖσθε·",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Mk 16:18",
+      "text": "οὐ μὴ αὐτοὺς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Lk 1:13",
+      "text": "ἄγγελος· Μὴ φοβοῦ,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Lk 1:15",
+      "text": "οὐ μὴ πίῃ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Lk 1:20",
+      "text": "καὶ μὴ δυνάμενος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Lk 1:30",
+      "text": "αὐτῇ· Μὴ φοβοῦ,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Lk 2:10",
+      "text": "ἄγγελος· Μὴ φοβεῖσθε,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Lk 2:26",
+      "text": "ἁγίου μὴ ἰδεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 45,
+      "reference": "Lk 2:45",
+      "text": "καὶ μὴ εὑρόντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Lk 3:8",
+      "text": "καὶ μὴ ἄρξησθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Lk 3:9",
+      "text": "δένδρον μὴ ποιοῦν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Lk 3:11",
+      "text": "τῷ μὴ ἔχοντι,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Lk 4:26",
+      "text": "εἰ μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Lk 4:27",
+      "text": "εἰ μὴ Ναιμὰν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 42,
+      "reference": "Lk 4:42",
+      "text": "τοῦ μὴ πορεύεσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Lk 5:10",
+      "text": "Ἰησοῦς· Μὴ φοβοῦ·",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Lk 5:19",
+      "text": "καὶ μὴ εὑρόντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Lk 5:21",
+      "text": "εἰ μὴ μόνος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Lk 5:34",
+      "text": "αὐτούς· Μὴ δύνασθε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Lk 6:4",
+      "text": "εἰ μὴ μόνους",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 29,
+      "reference": "Lk 6:29",
+      "text": "χιτῶνα μὴ κωλύσῃς.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Lk 6:30",
+      "text": "σὰ μὴ ἀπαίτει.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 37,
+      "reference": "Lk 6:37",
+      "text": "Καὶ μὴ κρίνετε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Lk 6:49",
+      "text": "καὶ μὴ ποιήσας",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Lk 7:6",
+      "text": "Κύριε, μὴ σκύλλου,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Lk 7:13",
+      "text": "αὐτῇ· Μὴ κλαῖε.",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Lk 7:23",
+      "text": "ἐὰν μὴ σκανδαλισθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Lk 7:30",
+      "text": "ἑαυτούς, μὴ βαπτισθέντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Lk 7:33",
+      "text": "βαπτιστὴς μὴ ἐσθίων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Lk 7:42",
+      "text": "μὴ ἐχόντων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Lk 8:6",
+      "text": "τὸ μὴ ἔχειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Lk 8:10",
+      "text": "βλέποντες μὴ βλέπωσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Lk 8:12",
+      "text": "ἵνα μὴ πιστεύσαντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Lk 8:17",
+      "text": "οὐ μὴ γνωσθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Lk 8:18",
+      "text": "ἂν μὴ ἔχῃ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Lk 8:28",
+      "text": "σου, μή με",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Lk 8:31",
+      "text": "ἵνα μὴ ἐπιτάξῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 50,
+      "reference": "Lk 8:50",
+      "text": "αὐτῷ· Μὴ φοβοῦ,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Lk 8:51",
+      "text": "εἰ μὴ Πέτρον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Lk 8:52",
+      "text": "εἶπεν· Μὴ κλαίετε,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Lk 9:5",
+      "text": "ἂν μὴ δέχωνται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Lk 9:27",
+      "text": "οὐ μὴ γεύσωνται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Lk 9:33",
+      "text": "Ἠλίᾳ, μὴ εἰδὼς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Lk 9:45",
+      "text": "ἵνα μὴ αἴσθωνται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 50,
+      "reference": "Lk 9:50",
+      "text": "Ἰησοῦς· Μὴ κωλύετε,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Lk 10:4",
+      "text": "μὴ βαστάζετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Lk 10:7",
+      "text": "αὐτοῦ. μὴ μεταβαίνετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Lk 10:10",
+      "text": "καὶ μὴ δέχωνται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Lk 10:15",
+      "text": "Καφαρναούμ, μὴ ἕως",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Lk 10:19",
+      "text": "οὐ μὴ ἀδικήσῃ.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Lk 10:20",
+      "text": "τούτῳ μὴ χαίρετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Lk 10:22",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Lk 11:4",
+      "text": "καὶ μὴ εἰσενέγκῃς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Lk 11:7",
+      "text": "εἴπῃ· Μή μοι",
+      "highlightedWord": "Μή"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Lk 11:23",
+      "text": "ὁ μὴ ὢν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Lk 11:24",
+      "text": "καὶ μὴ εὑρίσκον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Lk 11:29",
+      "text": "εἰ μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 35,
+      "reference": "Lk 11:35",
+      "text": "οὖν μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Lk 11:36",
+      "text": "φωτεινόν, μὴ ἔχον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 42,
+      "reference": "Lk 11:42",
+      "text": "κἀκεῖνα μὴ παρεῖναι.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Lk 12:4",
+      "text": "μου, μὴ φοβηθῆτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Lk 12:7",
+      "text": "ἠρίθμηνται· μὴ φοβεῖσθε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Lk 12:11",
+      "text": "ἐξουσίας, μὴ μεριμνήσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Lk 12:21",
+      "text": "καὶ μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Lk 12:22",
+      "text": "ὑμῖν, μὴ μεριμνᾶτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Lk 12:29",
+      "text": "ὑμεῖς μὴ ζητεῖτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Lk 12:32",
+      "text": "Μὴ φοβοῦ,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Lk 12:33",
+      "text": "βαλλάντια μὴ παλαιούμενα,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Lk 12:47",
+      "text": "καὶ μὴ ἑτοιμάσας",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Lk 12:48",
+      "text": "δὲ μὴ γνοὺς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 59,
+      "reference": "Lk 12:59",
+      "text": "οὐ μὴ ἐξέλθῃς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Lk 13:3",
+      "text": "ἐὰν μὴ μετανοῆτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Lk 13:5",
+      "text": "ἐὰν μὴ μετανοῆτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Lk 13:11",
+      "text": "καὶ μὴ δυναμένη",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Lk 13:14",
+      "text": "καὶ μὴ τῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Lk 13:35",
+      "text": "οὐ μὴ ἴδητέ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Lk 14:8",
+      "text": "γάμους, μὴ κατακλιθῇς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Lk 14:12",
+      "text": "δεῖπνον, μὴ φώνει",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Lk 14:29",
+      "text": "καὶ μὴ ἰσχύοντος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Lk 16:26",
+      "text": "ὑμᾶς μὴ δύνωνται,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Lk 16:28",
+      "text": "ἵνα μὴ καὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Lk 17:1",
+      "text": "σκάνδαλα μὴ ἐλθεῖν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Lk 17:9",
+      "text": "μὴ ἔχει",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Lk 17:18",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Lk 17:23",
+      "text": "ὧδε· μὴ ἀπέλθητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Lk 17:31",
+      "text": "οἰκίᾳ, μὴ καταβάτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Lk 18:1",
+      "text": "καὶ μὴ ἐγκακεῖν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Lk 18:2",
+      "text": "θεὸν μὴ φοβούμενος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Lk 18:5",
+      "text": "ἵνα μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Lk 18:7",
+      "text": "οὐ μὴ ποιήσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Lk 18:16",
+      "text": "καὶ μὴ κωλύετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Lk 18:17",
+      "text": "ἂν μὴ δέξηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Lk 18:19",
+      "text": "εἰ μὴ εἷς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Lk 18:20",
+      "text": "οἶδας· Μὴ μοιχεύσῃς,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Lk 18:30",
+      "text": "οὐχὶ μὴ ἀπολάβῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Lk 19:26",
+      "text": "τοῦ μὴ ἔχοντος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Lk 19:27",
+      "text": "τοὺς μὴ θελήσαντάς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Lk 20:7",
+      "text": "ἀπεκρίθησαν μὴ εἰδέναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Lk 20:16",
+      "text": "εἶπαν· Μὴ γένοιτο.",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Lk 20:27",
+      "text": "ἀνάστασιν μὴ εἶναι,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Lk 21:8",
+      "text": "Βλέπετε μὴ πλανηθῆτε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Lk 21:9",
+      "text": "ἀκαταστασίας, μὴ πτοηθῆτε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Lk 21:14",
+      "text": "ὑμῶν μὴ προμελετᾶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Lk 21:18",
+      "text": "οὐ μὴ ἀπόληται.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Lk 21:21",
+      "text": "χώραις μὴ εἰσερχέσθωσαν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 32,
+      "reference": "Lk 21:32",
+      "text": "οὐ μὴ παρέλθῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 33,
+      "reference": "Lk 21:33",
+      "text": "οὐ μὴ παρελεύσονται.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Lk 22:16",
+      "text": "οὐ μὴ φάγω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Lk 22:18",
+      "text": "οὐ μὴ πίω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 32,
+      "reference": "Lk 22:32",
+      "text": "ἵνα μὴ ἐκλίπῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 35,
+      "reference": "Lk 22:35",
+      "text": "ὑποδημάτων, μή τινος",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 36,
+      "reference": "Lk 22:36",
+      "text": "ὁ μὴ ἔχων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 40,
+      "reference": "Lk 22:40",
+      "text": "Προσεύχεσθε μὴ εἰσελθεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 42,
+      "reference": "Lk 22:42",
+      "text": "πλὴν μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Lk 22:46",
+      "text": "ἵνα μὴ εἰσέλθητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 67,
+      "reference": "Lk 22:67",
+      "text": "οὐ μὴ πιστεύσητε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 68,
+      "reference": "Lk 22:68",
+      "text": "οὐ μὴ ἀποκριθῆτε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Lk 23:28",
+      "text": "Ἰερουσαλήμ, μὴ κλαίετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 16,
+      "reference": "Lk 24:16",
+      "text": "τοῦ μὴ ἐπιγνῶναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Lk 24:23",
+      "text": "καὶ μὴ εὑροῦσαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Jn 2:16",
+      "text": "ἐντεῦθεν, μὴ ποιεῖτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jn 3:2",
+      "text": "ἐὰν μὴ ᾖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Jn 3:3",
+      "text": "ἐὰν μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Jn 3:4",
+      "text": "ὤν; μὴ δύναται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Jn 3:5",
+      "text": "ἐὰν μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Jn 3:7",
+      "text": "μὴ θαυμάσῃς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jn 3:13",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Jn 3:16",
+      "text": "αὐτὸν μὴ ἀπόληται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Jn 3:18",
+      "text": "δὲ μὴ πιστεύων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Jn 3:20",
+      "text": "ἵνα μὴ ἐλεγχθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Jn 3:27",
+      "text": "ἐὰν μὴ ᾖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Jn 4:12",
+      "text": "μὴ σὺ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Jn 4:14",
+      "text": "οὐ μὴ διψήσει",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jn 4:15",
+      "text": "ἵνα μὴ διψῶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Jn 4:33",
+      "text": "ἀλλήλους· Μή τις",
+      "highlightedWord": "Μή"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 48,
+      "reference": "Jn 4:48",
+      "text": "Ἐὰν μὴ σημεῖα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Jn 5:14",
+      "text": "ἵνα μὴ χεῖρόν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "ἐὰν μή τι",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Jn 5:23",
+      "text": "ὁ μὴ τιμῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Jn 5:28",
+      "text": "μὴ θαυμάζετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 45,
+      "reference": "Jn 5:45",
+      "text": "μὴ δοκεῖτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Jn 6:12",
+      "text": "ἵνα μή τι",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Jn 6:20",
+      "text": "εἰμι, μὴ φοβεῖσθε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "εἰ μὴ ἕν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Jn 6:27",
+      "text": "ἐργάζεσθε μὴ τὴν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Jn 6:35",
+      "text": "οὐ μὴ πεινάσῃ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 37,
+      "reference": "Jn 6:37",
+      "text": "οὐ μὴ ἐκβάλω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Jn 6:39",
+      "text": "μοι μὴ ἀπολέσω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 43,
+      "reference": "Jn 6:43",
+      "text": "αὐτοῖς· Μὴ γογγύζετε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Jn 6:44",
+      "text": "ἐὰν μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 46,
+      "reference": "Jn 6:46",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Jn 6:50",
+      "text": "καὶ μὴ ἀποθάνῃ·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 53,
+      "reference": "Jn 6:53",
+      "text": "ἐὰν μὴ φάγητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 64,
+      "reference": "Jn 6:64",
+      "text": "οἱ μὴ πιστεύοντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 65,
+      "reference": "Jn 6:65",
+      "text": "ἐὰν μὴ ᾖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 67,
+      "reference": "Jn 6:67",
+      "text": "δώδεκα· Μὴ καὶ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Jn 7:15",
+      "text": "οἶδεν μὴ μεμαθηκώς;",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Jn 7:23",
+      "text": "ἵνα μὴ λυθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Jn 7:24",
+      "text": "μὴ κρίνετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Jn 7:31",
+      "text": "ἔλθῃ μὴ πλείονα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "αὐτόν; μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Jn 7:41",
+      "text": "ἔλεγον· Μὴ γὰρ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 47,
+      "reference": "Jn 7:47",
+      "text": "Φαρισαῖοι· Μὴ καὶ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 48,
+      "reference": "Jn 7:48",
+      "text": "μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Jn 7:49",
+      "text": "ὁ μὴ γινώσκων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 51,
+      "reference": "Jn 7:51",
+      "text": "Μὴ ὁ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 52,
+      "reference": "Jn 7:52",
+      "text": "αὐτῷ· Μὴ καὶ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Jn 8:12",
+      "text": "οὐ μὴ περιπατήσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Jn 8:24",
+      "text": "γὰρ μὴ πιστεύσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Jn 8:51",
+      "text": "οὐ μὴ θεωρήσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Jn 8:52",
+      "text": "οὐ μὴ γεύσηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 53,
+      "reference": "Jn 8:53",
+      "text": "μὴ σὺ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Jn 9:27",
+      "text": "ἀκούειν; μὴ καὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Jn 9:33",
+      "text": "εἰ μὴ ἦν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Jn 9:39",
+      "text": "οἱ μὴ βλέποντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Jn 9:40",
+      "text": "αὐτῷ· Μὴ καὶ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Jn 10:1",
+      "text": "ὁ μὴ εἰσερχόμενος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Jn 10:5",
+      "text": "οὐ μὴ ἀκολουθήσουσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Jn 10:10",
+      "text": "εἰ μὴ ἵνα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Jn 10:21",
+      "text": "δαιμονιζομένου· μὴ δαιμόνιον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Jn 10:28",
+      "text": "οὐ μὴ ἀπόλωνται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Jn 10:37",
+      "text": "μου, μὴ πιστεύετέ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Jn 10:38",
+      "text": "ἐμοὶ μὴ πιστεύητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Jn 11:26",
+      "text": "οὐ μὴ ἀποθάνῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Jn 11:37",
+      "text": "οὗτος μὴ ἀποθάνῃ;",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 50,
+      "reference": "Jn 11:50",
+      "text": "καὶ μὴ ὅλον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 56,
+      "reference": "Jn 11:56",
+      "text": "οὐ μὴ ἔλθῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Jn 12:15",
+      "text": "Μὴ φοβοῦ,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Jn 12:24",
+      "text": "ἐὰν μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "ἵνα μὴ σκοτία",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Jn 12:40",
+      "text": "ἵνα μὴ ἴδωσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Jn 12:42",
+      "text": "ἵνα μὴ ἀποσυνάγωγοι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Jn 12:46",
+      "text": "σκοτίᾳ μὴ μείνῃ.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Jn 12:47",
+      "text": "καὶ μὴ φυλάξῃ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Jn 12:48",
+      "text": "καὶ μὴ λαμβάνων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Jn 13:8",
+      "text": "Οὐ μὴ νίψῃς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Jn 13:9",
+      "text": "Κύριε, μὴ τοὺς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Jn 13:10",
+      "text": "εἰ μὴ τοὺς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 38,
+      "reference": "Jn 13:38",
+      "text": "οὐ μὴ ἀλέκτωρ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Jn 14:1",
+      "text": "Μὴ ταρασσέσθω",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Jn 14:2",
+      "text": "δὲ μή, εἶπον",
+      "highlightedWord": "μή,"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Jn 14:6",
+      "text": "εἰ μὴ δι’",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Jn 14:11",
+      "text": "δὲ μή, διὰ",
+      "highlightedWord": "μή,"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Jn 14:24",
+      "text": "ὁ μὴ ἀγαπῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Jn 14:27",
+      "text": "ὑμῖν. μὴ ταρασσέσθω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Jn 15:2",
+      "text": "ἐμοὶ μὴ φέρον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Jn 15:4",
+      "text": "ἐὰν μὴ μένῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Jn 15:6",
+      "text": "ἐὰν μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Jn 15:22",
+      "text": "εἰ μὴ ἦλθον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Jn 15:24",
+      "text": "ἔργα μὴ ἐποίησα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Jn 16:1",
+      "text": "ἵνα μὴ σκανδαλισθῆτε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Jn 16:7",
+      "text": "γὰρ μὴ ἀπέλθω,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Jn 17:12",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Jn 18:11",
+      "text": "οὐ μὴ πίω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Jn 18:17",
+      "text": "θυρωρός· Μὴ καὶ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Jn 18:25",
+      "text": "αὐτῷ· Μὴ καὶ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Jn 18:28",
+      "text": "ἵνα μὴ μιανθῶσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Jn 18:30",
+      "text": "Εἰ μὴ ἦν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 36,
+      "reference": "Jn 18:36",
+      "text": "ἵνα μὴ παραδοθῶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 40,
+      "reference": "Jn 18:40",
+      "text": "λέγοντες· Μὴ τοῦτον",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Jn 19:11",
+      "text": "εἰ μὴ ἦν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Jn 19:15",
+      "text": "εἰ μὴ Καίσαρα.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Jn 19:21",
+      "text": "Ἰουδαίων· Μὴ γράφε·",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Jn 19:24",
+      "text": "ἀλλήλους· Μὴ σχίσωμεν",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Jn 19:31",
+      "text": "ἵνα μὴ μείνῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Jn 20:17",
+      "text": "Ἰησοῦς· Μή μου",
+      "highlightedWord": "Μή"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Jn 20:25",
+      "text": "Ἐὰν μὴ ἴδω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Jn 20:27",
+      "text": "καὶ μὴ γίνου",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Jn 20:29",
+      "text": "οἱ μὴ ἰδόντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Jn 21:5",
+      "text": "Παιδία, μή τι",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Ac 1:4",
+      "text": "Ἱεροσολύμων μὴ χωρίζεσθαι,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Ac 1:20",
+      "text": "καὶ μὴ ἔστω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Ac 2:25",
+      "text": "ἵνα μὴ σαλευθῶ.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Ac 3:23",
+      "text": "ἂν μὴ ἀκούσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ac 4:17",
+      "text": "ἵνα μὴ ἐπὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ac 4:18",
+      "text": "καθόλου μὴ φθέγγεσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Ac 4:20",
+      "text": "ἠκούσαμεν μὴ λαλεῖν.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ac 5:7",
+      "text": "αὐτοῦ μὴ εἰδυῖα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Ac 5:26",
+      "text": "λαόν, μὴ λιθασθῶσιν.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Ac 5:28",
+      "text": "ὑμῖν μὴ διδάσκειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Ac 5:40",
+      "text": "παρήγγειλαν μὴ λαλεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Ac 7:19",
+      "text": "τὸ μὴ ζῳογονεῖσθαι.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Ac 7:28",
+      "text": "μὴ ἀνελεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Ac 7:42",
+      "text": "προφητῶν· Μὴ σφάγια",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 60,
+      "reference": "Ac 7:60",
+      "text": "Κύριε, μὴ στήσῃς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ac 8:31",
+      "text": "ἐὰν μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Ac 9:9",
+      "text": "τρεῖς μὴ βλέπων,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ac 9:26",
+      "text": "αὐτόν, μὴ πιστεύοντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Ac 9:38",
+      "text": "παρακαλοῦντες· Μὴ ὀκνήσῃς",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Ac 10:15",
+      "text": "σὺ μὴ κοίνου.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 47,
+      "reference": "Ac 10:47",
+      "text": "τοῦ μὴ βαπτισθῆναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Ac 11:9",
+      "text": "σὺ μὴ κοίνου.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ac 11:19",
+      "text": "εἰ μὴ μόνον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Ac 12:19",
+      "text": "καὶ μὴ εὑρὼν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ac 13:11",
+      "text": "τυφλὸς μὴ βλέπων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 40,
+      "reference": "Ac 13:40",
+      "text": "οὖν μὴ ἐπέλθῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 41,
+      "reference": "Ac 13:41",
+      "text": "οὐ μὴ πιστεύσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Ac 14:18",
+      "text": "τοῦ μὴ θύειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Ac 15:1",
+      "text": "Ἐὰν μὴ περιτμηθῆτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Ac 15:19",
+      "text": "κρίνω μὴ παρενοχλεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 38,
+      "reference": "Ac 15:38",
+      "text": "καὶ μὴ συνελθόντα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Ac 17:6",
+      "text": "μὴ εὑρόντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Ac 18:9",
+      "text": "Παύλῳ· Μὴ φοβοῦ,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Ac 19:31",
+      "text": "παρεκάλουν μὴ δοῦναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Ac 20:10",
+      "text": "εἶπεν· Μὴ θορυβεῖσθε,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Ac 20:16",
+      "text": "ὅπως μὴ γένηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Ac 20:20",
+      "text": "τοῦ μὴ ἀναγγεῖλαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 22,
+      "reference": "Ac 20:22",
+      "text": "μοι μὴ εἰδώς,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Ac 20:27",
+      "text": "τοῦ μὴ ἀναγγεῖλαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Ac 20:29",
+      "text": "ὑμᾶς μὴ φειδόμενοι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Ac 21:4",
+      "text": "πνεύματος μὴ ἐπιβαίνειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Ac 21:12",
+      "text": "τοῦ μὴ ἀναβαίνειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Ac 21:14",
+      "text": "μὴ πειθομένου",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Ac 21:21",
+      "text": "λέγων μὴ περιτέμνειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Ac 21:34",
+      "text": "ὄχλῳ· μὴ δυναμένου",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 8,
+      "reference": "Ac 23:8",
+      "text": "λέγουσιν μὴ εἶναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Ac 23:10",
+      "text": "χιλίαρχος μὴ διασπασθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 21,
+      "reference": "Ac 23:21",
+      "text": "οὖν μὴ πεισθῇς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 4,
+      "reference": "Ac 24:4",
+      "text": "δὲ μὴ ἐπὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 24,
+      "reference": "Ac 25:24",
+      "text": "βοῶντες μὴ δεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 27,
+      "reference": "Ac 25:27",
+      "text": "δέσμιον μὴ καὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 32,
+      "reference": "Ac 26:32",
+      "text": "εἰ μὴ ἐπεκέκλητο",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 7,
+      "reference": "Ac 27:7",
+      "text": "Κνίδον, μὴ προσεῶντος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 15,
+      "reference": "Ac 27:15",
+      "text": "καὶ μὴ δυναμένου",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 17,
+      "reference": "Ac 27:17",
+      "text": "τε μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 21,
+      "reference": "Ac 27:21",
+      "text": "μοι μὴ ἀνάγεσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 24,
+      "reference": "Ac 27:24",
+      "text": "λέγων· Μὴ φοβοῦ,",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Ac 27:29",
+      "text": "τε μή που",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 31,
+      "reference": "Ac 27:31",
+      "text": "Ἐὰν μὴ οὗτοι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 42,
+      "reference": "Ac 27:42",
+      "text": "ἀποκτείνωσιν, μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 26,
+      "reference": "Ac 28:26",
+      "text": "οὐ μὴ συνῆτε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Ro 1:28",
+      "text": "τὰ μὴ καθήκοντα,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ro 2:14",
+      "text": "τὰ μὴ νόμον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Ro 2:21",
+      "text": "κηρύσσων μὴ κλέπτειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Ro 2:22",
+      "text": "λέγων μὴ μοιχεύειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Ro 3:3",
+      "text": "τινες, μὴ ἡ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Ro 3:4",
+      "text": "μὴ γένοιτο·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ro 3:5",
+      "text": "ἐροῦμεν; μὴ ἄδικος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Ro 3:6",
+      "text": "μὴ γένοιτο·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ro 3:8",
+      "text": "καὶ μὴ καθὼς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Ro 3:31",
+      "text": "πίστεως; μὴ γένοιτο,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Ro 4:5",
+      "text": "δὲ μὴ ἐργαζομένῳ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Ro 4:8",
+      "text": "οὐ μὴ λογίσηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ro 4:17",
+      "text": "τὰ μὴ ὄντα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Ro 4:19",
+      "text": "καὶ μὴ ἀσθενήσας",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ro 5:13",
+      "text": "ἐλλογεῖται μὴ ὄντος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Ro 5:14",
+      "text": "τοὺς μὴ ἁμαρτήσαντας",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Ro 6:2",
+      "text": "μὴ γένοιτο·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Ro 6:12",
+      "text": "Μὴ οὖν",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Ro 6:15",
+      "text": "χάριν; μὴ γένοιτο·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Ro 7:3",
+      "text": "τοῦ μὴ εἶναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ro 7:7",
+      "text": "ἁμαρτία; μὴ γένοιτο·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Ro 7:13",
+      "text": "θάνατος; μὴ γένοιτο·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Ro 8:4",
+      "text": "τοῖς μὴ κατὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ro 9:14",
+      "text": "ἐροῦμεν; μὴ ἀδικία",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Ro 9:20",
+      "text": "θεῷ; μὴ ἐρεῖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Ro 9:29",
+      "text": "Εἰ μὴ κύριος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Ro 9:30",
+      "text": "τὰ μὴ διώκοντα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ro 10:6",
+      "text": "λέγει· Μὴ εἴπῃς",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Ro 10:15",
+      "text": "ἐὰν μὴ ἀποσταλῶσιν;",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Ro 10:18",
+      "text": "λέγω, μὴ οὐκ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Ro 10:19",
+      "text": "λέγω, μὴ Ἰσραὴλ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Ro 10:20",
+      "text": "ἐμὲ μὴ ζητοῦσιν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Ro 11:1",
+      "text": "οὖν, μὴ ἀπώσατο",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Ro 11:8",
+      "text": "τοῦ μὴ βλέπειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Ro 11:10",
+      "text": "τοῦ μὴ βλέπειν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Ro 11:11",
+      "text": "οὖν, μὴ ἔπταισαν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Ro 11:15",
+      "text": "εἰ μὴ ζωὴ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Ro 11:18",
+      "text": "μὴ κατακαυχῶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Ro 11:20",
+      "text": "ἕστηκας. μὴ ὑψηλὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Ro 11:23",
+      "text": "ἐὰν μὴ ἐπιμένωσι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "ἵνα μὴ ἦτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Ro 12:2",
+      "text": "καὶ μὴ συσχηματίζεσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Ro 12:3",
+      "text": "ὑμῖν μὴ ὑπερφρονεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Ro 12:11",
+      "text": "σπουδῇ μὴ ὀκνηροί,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Ro 12:14",
+      "text": "καὶ μὴ καταρᾶσθε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Ro 12:16",
+      "text": "φρονοῦντες, μὴ τὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Ro 12:19",
+      "text": "μὴ ἑαυτοὺς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Ro 12:21",
+      "text": "μὴ νικῶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Ro 13:1",
+      "text": "εἰ μὴ ὑπὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ro 13:3",
+      "text": "δὲ μὴ φοβεῖσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Ro 13:8",
+      "text": "εἰ μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Ro 13:13",
+      "text": "περιπατήσωμεν, μὴ κώμοις",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Ro 13:14",
+      "text": "πρόνοιαν μὴ ποιεῖσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ro 14:1",
+      "text": "προσλαμβάνεσθε, μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Ro 14:3",
+      "text": "τὸν μὴ ἐσθίοντα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Ro 14:6",
+      "text": "ὁ μὴ ἐσθίων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Ro 14:13",
+      "text": "τὸ μὴ τιθέναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Ro 14:14",
+      "text": "εἰ μὴ τῷ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ro 14:15",
+      "text": "περιπατεῖς. μὴ τῷ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Ro 14:16",
+      "text": "μὴ βλασφημείσθω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ro 14:20",
+      "text": "μὴ ἕνεκεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Ro 14:21",
+      "text": "τὸ μὴ φαγεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ro 14:22",
+      "text": "ὁ μὴ κρίνων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Ro 15:1",
+      "text": "καὶ μὴ ἑαυτοῖς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Ro 15:20",
+      "text": "ἵνα μὴ ἐπ’",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Co 1:7",
+      "text": "ὑμᾶς μὴ ὑστερεῖσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "1Co 1:10",
+      "text": "καὶ μὴ ᾖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "1Co 1:13",
+      "text": "Χριστός; μὴ Παῦλος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "1Co 1:14",
+      "text": "εἰ μὴ Κρίσπον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Co 1:15",
+      "text": "ἵνα μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Co 1:17",
+      "text": "ἵνα μὴ κενωθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "1Co 1:28",
+      "text": "τὰ μὴ ὄντα,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "1Co 1:29",
+      "text": "ὅπως μὴ καυχήσηται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Co 2:2",
+      "text": "εἰ μὴ Ἰησοῦν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Co 2:5",
+      "text": "ὑμῶν μὴ ᾖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Co 2:11",
+      "text": "εἰ μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Co 4:5",
+      "text": "ὥστε μὴ πρὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Co 4:6",
+      "text": "τό· Μὴ ὑπὲρ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Co 4:7",
+      "text": "ὡς μὴ λαβών;",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Co 4:18",
+      "text": "ὡς μὴ ἐρχομένου",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Co 5:8",
+      "text": "ἑορτάζωμεν, μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Co 5:9",
+      "text": "ἐπιστολῇ μὴ συναναμίγνυσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "1Co 5:11",
+      "text": "ὑμῖν μὴ συναναμίγνυσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Co 6:9",
+      "text": "κληρονομήσουσιν; μὴ πλανᾶσθε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "1Co 6:15",
+      "text": "μέλη; μὴ γένοιτο.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "1Co 7:1",
+      "text": "γυναικὸς μὴ ἅπτεσθαι·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "1Co 7:5",
+      "text": "μὴ ἀποστερεῖτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "1Co 7:10",
+      "text": "ἀνδρὸς μὴ χωρισθῆναι—",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "1Co 7:11",
+      "text": "γυναῖκα μὴ ἀφιέναι.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "1Co 7:12",
+      "text": "αὐτοῦ, μὴ ἀφιέτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "1Co 7:13",
+      "text": "αὐτῆς, μὴ ἀφιέτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "1Co 7:17",
+      "text": "Εἰ μὴ ἑκάστῳ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "1Co 7:18",
+      "text": "ἐκλήθη; μὴ ἐπισπάσθω·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "1Co 7:21",
+      "text": "ἐκλήθης; μή σοι",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "1Co 7:23",
+      "text": "ἠγοράσθητε· μὴ γίνεσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "1Co 7:27",
+      "text": "γυναικί; μὴ ζήτει",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "1Co 7:29",
+      "text": "ὡς μὴ ἔχοντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "1Co 7:30",
+      "text": "ὡς μὴ κλαίοντες,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "1Co 7:31",
+      "text": "ὡς μὴ καταχρώμενοι·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "1Co 7:37",
+      "text": "ἑδραῖος μὴ ἔχων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "1Co 7:38",
+      "text": "ὁ μὴ ⸁γαμίζων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "1Co 8:4",
+      "text": "εἰ μὴ εἷς.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "1Co 8:8",
+      "text": "ἐὰν μὴ φάγωμεν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "1Co 8:9",
+      "text": "δὲ μή πως",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "1Co 8:13",
+      "text": "οὐ μὴ φάγω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "1Co 9:4",
+      "text": "μὴ οὐκ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "1Co 9:5",
+      "text": "μὴ οὐκ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "1Co 9:6",
+      "text": "ἐξουσίαν μὴ ἐργάζεσθαι;",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "1Co 9:8",
+      "text": "Μὴ κατὰ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "1Co 9:9",
+      "text": "ἀλοῶντα. μὴ τῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "1Co 9:12",
+      "text": "ἵνα μή τινα",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "1Co 9:16",
+      "text": "ἐὰν μὴ εὐαγγελίσωμαι.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "1Co 9:18",
+      "text": "τὸ μὴ καταχρήσασθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "1Co 9:20",
+      "text": "νόμον, μὴ ὢν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "1Co 9:21",
+      "text": "ἄνομος, μὴ ὢν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "1Co 9:27",
+      "text": "δουλαγωγῶ, μή πως",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "1Co 10:6",
+      "text": "τὸ μὴ εἶναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "1Co 10:12",
+      "text": "βλεπέτω μὴ πέσῃ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "1Co 10:13",
+      "text": "εἰ μὴ ἀνθρώπινος·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "1Co 10:22",
+      "text": "κύριον; μὴ ἰσχυρότεροι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "1Co 10:28",
+      "text": "ἐστιν, μὴ ἐσθίετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "1Co 10:33",
+      "text": "ἀρέσκω, μὴ ζητῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "1Co 11:22",
+      "text": "μὴ γὰρ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "1Co 11:29",
+      "text": "πίνει μὴ διακρίνων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "1Co 11:32",
+      "text": "ἵνα μὴ σὺν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "1Co 11:34",
+      "text": "ἵνα μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "1Co 12:3",
+      "text": "εἰ μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "1Co 12:25",
+      "text": "ἵνα μὴ ᾖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "1Co 12:29",
+      "text": "μὴ πάντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "1Co 12:30",
+      "text": "μὴ πάντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "1Co 13:1",
+      "text": "δὲ μὴ ἔχω,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "1Co 13:2",
+      "text": "δὲ μὴ ἔχω,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "1Co 13:3",
+      "text": "δὲ μὴ ἔχω,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "1Co 14:5",
+      "text": "εἰ μὴ διερμηνεύῃ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "1Co 14:6",
+      "text": "ἐὰν μὴ ὑμῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "1Co 14:7",
+      "text": "φθόγγοις μὴ δῷ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "1Co 14:9",
+      "text": "ἐὰν μὴ εὔσημον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "1Co 14:11",
+      "text": "οὖν μὴ εἰδῶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "1Co 14:20",
+      "text": "Ἀδελφοί, μὴ παιδία",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "1Co 14:28",
+      "text": "δὲ μὴ ᾖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 39,
+      "reference": "1Co 14:39",
+      "text": "λαλεῖν μὴ κωλύετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "1Co 15:2",
+      "text": "εἰ μὴ εἰκῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 33,
+      "reference": "1Co 15:33",
+      "text": "μὴ πλανᾶσθε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "1Co 15:34",
+      "text": "καὶ μὴ ἁμαρτάνετε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "1Co 15:36",
+      "text": "ἐὰν μὴ ἀποθάνῃ·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "ἵνα μὴ ὅταν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "1Co 16:11",
+      "text": "μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Co 1:9",
+      "text": "ἵνα μὴ πεποιθότες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "2Co 2:1",
+      "text": "τὸ μὴ πάλιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Co 2:2",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Co 2:3",
+      "text": "ἵνα μὴ ἐλθὼν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Co 2:5",
+      "text": "ἵνα μὴ ἐπιβαρῶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "2Co 2:7",
+      "text": "παρακαλέσαι, μή πως",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Co 2:11",
+      "text": "ἵνα μὴ πλεονεκτηθῶμεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Co 2:13",
+      "text": "τῷ μὴ εὑρεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Co 3:1",
+      "text": "ἢ μὴ χρῄζομεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Co 3:7",
+      "text": "ὥστε μὴ δύνασθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Co 3:13",
+      "text": "τὸ μὴ ἀτενίσαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Co 3:14",
+      "text": "μένει μὴ ἀνακαλυπτόμενον,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Co 4:2",
+      "text": "αἰσχύνης, μὴ περιπατοῦντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "2Co 4:4",
+      "text": "τὸ μὴ αὐγάσαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "2Co 4:7",
+      "text": "καὶ μὴ ἐξ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "2Co 4:18",
+      "text": "μὴ σκοπούντων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "2Co 5:12",
+      "text": "καὶ μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "2Co 5:19",
+      "text": "ἑαυτῷ, μὴ λογιζόμενος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "2Co 5:21",
+      "text": "τὸν μὴ γνόντα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "2Co 6:1",
+      "text": "παρακαλοῦμεν μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "2Co 6:3",
+      "text": "ἵνα μὴ μωμηθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "2Co 6:9",
+      "text": "καὶ μὴ θανατούμενοι,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "2Co 6:14",
+      "text": "Μὴ γίνεσθε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "2Co 6:17",
+      "text": "ἀκαθάρτου μὴ ἅπτεσθε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "2Co 8:20",
+      "text": "τοῦτο μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "2Co 9:3",
+      "text": "ἵνα μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "2Co 9:4",
+      "text": "μή πως",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "2Co 9:5",
+      "text": "καὶ μὴ ὡς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "2Co 9:7",
+      "text": "καρδίᾳ, μὴ ἐκ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "2Co 10:2",
+      "text": "τὸ μὴ παρὼν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "2Co 10:9",
+      "text": "ἵνα μὴ δόξω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "2Co 10:14",
+      "text": "ὡς μὴ ἐφικνούμενοι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "2Co 11:3",
+      "text": "δὲ μή πως,",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "2Co 11:16",
+      "text": "λέγω, μή τίς",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "2Co 12:5",
+      "text": "εἰ μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "2Co 12:6",
+      "text": "δέ, μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "2Co 12:7",
+      "text": "ἵνα μὴ ὑπεραίρωμαι,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "2Co 12:13",
+      "text": "εἰ μὴ ὅτι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "2Co 12:17",
+      "text": "μή τινα",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "2Co 12:20",
+      "text": "γὰρ μή πως",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "2Co 12:21",
+      "text": "μὴ πάλιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "2Co 13:7",
+      "text": "θεὸν μὴ ποιῆσαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "2Co 13:10",
+      "text": "παρὼν μὴ ἀποτόμως",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ga 1:7",
+      "text": "εἰ μή τινές",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Ga 1:19",
+      "text": "εἰ μὴ Ἰάκωβον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ga 2:2",
+      "text": "δοκοῦσιν, μή πως",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ga 2:16",
+      "text": "ἐὰν μὴ διὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ga 2:17",
+      "text": "διάκονος; μὴ γένοιτο·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ga 3:21",
+      "text": "θεοῦ; μὴ γένοιτο·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Ga 4:8",
+      "text": "φύσει μὴ οὖσι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Ga 4:11",
+      "text": "ὑμᾶς μή πως",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ga 4:18",
+      "text": "καὶ μὴ μόνον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Ga 4:30",
+      "text": "γὰρ μὴ κληρονομήσει",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ga 5:1",
+      "text": "καὶ μὴ πάλιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ga 5:7",
+      "text": "ἀληθείᾳ μὴ πείθεσθαι;",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ga 5:13",
+      "text": "μόνον μὴ τὴν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ga 5:15",
+      "text": "βλέπετε μὴ ὑπ’",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Ga 5:16",
+      "text": "οὐ μὴ τελέσητε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Ga 5:17",
+      "text": "ἵνα μὴ ἃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Ga 5:26",
+      "text": "μὴ γινώμεθα",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ga 6:1",
+      "text": "σεαυτόν, μὴ καὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Ga 6:7",
+      "text": "μὴ πλανᾶσθε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Ga 6:9",
+      "text": "ποιοῦντες μὴ ἐγκακῶμεν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Ga 6:12",
+      "text": "Χριστοῦ μὴ διώκωνται·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Ga 6:14",
+      "text": "δὲ μὴ γένοιτο",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Eph 2:9",
+      "text": "ἵνα μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Eph 2:12",
+      "text": "ἐλπίδα μὴ ἔχοντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Eph 3:13",
+      "text": "αἰτοῦμαι μὴ ἐγκακεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Eph 4:9",
+      "text": "εἰ μὴ ὅτι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Eph 4:26",
+      "text": "καὶ μὴ ἁμαρτάνετε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "ὑμῶν μὴ ἐκπορευέσθω,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Eph 4:30",
+      "text": "καὶ μὴ λυπεῖτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Eph 5:7",
+      "text": "μὴ οὖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Eph 5:11",
+      "text": "καὶ μὴ συγκοινωνεῖτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Eph 5:15",
+      "text": "περιπατεῖτε, μὴ ὡς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Eph 5:17",
+      "text": "τοῦτο μὴ γίνεσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Eph 5:18",
+      "text": "καὶ μὴ μεθύσκεσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Eph 5:27",
+      "text": "ἐκκλησίαν, μὴ ἔχουσαν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Eph 6:4",
+      "text": "πατέρες, μὴ παροργίζετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Eph 6:6",
+      "text": "μὴ κατ’",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Php 1:28",
+      "text": "καὶ μὴ πτυρόμενοι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Php 2:4",
+      "text": "μὴ τὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Php 2:12",
+      "text": "ὑπηκούσατε, μὴ ὡς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Php 2:27",
+      "text": "ἵνα μὴ λύπην",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Php 3:9",
+      "text": "αὐτῷ, μὴ ἔχων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Php 4:15",
+      "text": "εἰ μὴ ὑμεῖς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Col 1:23",
+      "text": "καὶ μὴ μετακινούμενοι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Col 2:8",
+      "text": "Βλέπετε μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Col 2:16",
+      "text": "Μὴ οὖν",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Col 2:21",
+      "text": "Μὴ ἅψῃ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Col 3:2",
+      "text": "φρονεῖτε, μὴ τὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Col 3:9",
+      "text": "μὴ ψεύδεσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Col 3:19",
+      "text": "καὶ μὴ πικραίνεσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Col 3:21",
+      "text": "πατέρες, μὴ ἐρεθίζετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Col 3:22",
+      "text": "κυρίοις, μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "ὥστε μὴ χρείαν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Th 2:9",
+      "text": "τὸ μὴ ἐπιβαρῆσαί",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Th 2:15",
+      "text": "θεῷ μὴ ἀρεσκόντων,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Th 3:5",
+      "text": "ὑμῶν, μή πως",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Th 4:5",
+      "text": "μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Th 4:6",
+      "text": "τὸ μὴ ὑπερβαίνειν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Th 4:13",
+      "text": "ἵνα μὴ λυπῆσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Th 4:15",
+      "text": "οὐ μὴ φθάσωμεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "1Th 5:3",
+      "text": "οὐ μὴ ἐκφύγωσιν.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Th 5:6",
+      "text": "οὖν μὴ καθεύδωμεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Th 5:15",
+      "text": "ὁρᾶτε μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Th 5:19",
+      "text": "πνεῦμα μὴ σβέννυτε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Th 5:20",
+      "text": "προφητείας μὴ ἐξουθενεῖτε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Th 1:8",
+      "text": "τοῖς μὴ εἰδόσι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Th 2:2",
+      "text": "τὸ μὴ ταχέως",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Th 2:3",
+      "text": "μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Th 2:12",
+      "text": "οἱ μὴ πιστεύσαντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "2Th 3:6",
+      "text": "καὶ μὴ κατὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Th 3:8",
+      "text": "τὸ μὴ ἐπιβαρῆσαί",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Th 3:13",
+      "text": "ἀδελφοί, μὴ ἐγκακήσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Th 3:14",
+      "text": "σημειοῦσθε, μὴ συναναμίγνυσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Th 3:15",
+      "text": "καὶ μὴ ὡς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Ti 1:3",
+      "text": "τισὶν μὴ ἑτεροδιδασκαλεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Ti 1:7",
+      "text": "νομοδιδάσκαλοι, μὴ νοοῦντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "1Ti 1:20",
+      "text": "παιδευθῶσι μὴ βλασφημεῖν.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Ti 2:9",
+      "text": "ἑαυτάς, μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Ti 3:3",
+      "text": "μὴ πάροινον,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Ti 3:6",
+      "text": "μὴ νεόφυτον,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Ti 3:7",
+      "text": "ἵνα μὴ εἰς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Ti 3:8",
+      "text": "σεμνούς, μὴ διλόγους,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Ti 3:11",
+      "text": "σεμνάς, μὴ διαβόλους,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Ti 4:14",
+      "text": "μὴ ἀμέλει",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Ti 5:1",
+      "text": "Πρεσβυτέρῳ μὴ ἐπιπλήξῃς,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Ti 5:9",
+      "text": "καταλεγέσθω μὴ ἔλαττον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Ti 5:13",
+      "text": "τὰ μὴ δέοντα.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Ti 5:16",
+      "text": "καὶ μὴ βαρείσθω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Ti 5:19",
+      "text": "κατηγορίαν μὴ παραδέχου,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Ti 6:1",
+      "text": "ἵνα μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "1Ti 6:2",
+      "text": "δεσπότας μὴ καταφρονείτωσαν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "1Ti 6:3",
+      "text": "καὶ μὴ προσέρχεται",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "1Ti 6:17",
+      "text": "παράγγελλε μὴ ὑψηλοφρονεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Ti 1:8",
+      "text": "Μὴ οὖν",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Ti 2:5",
+      "text": "ἐὰν μὴ νομίμως",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "2Ti 2:14",
+      "text": "κυρίου, μὴ λογομαχεῖν,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Ti 4:16",
+      "text": "ἐγκατέλιπον— μὴ αὐτοῖς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Tit 1:6",
+      "text": "πιστά, μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Tit 1:7",
+      "text": "οἰκονόμον, μὴ αὐθάδη,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Tit 1:11",
+      "text": "ἃ μὴ δεῖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Tit 1:14",
+      "text": "μὴ προσέχοντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Tit 2:3",
+      "text": "ἱεροπρεπεῖς, μὴ διαβόλους",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Tit 2:5",
+      "text": "ἵνα μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Tit 2:9",
+      "text": "εἶναι, μὴ ἀντιλέγοντας,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Tit 2:10",
+      "text": "μὴ νοσφιζομένους,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Tit 3:14",
+      "text": "ἵνα μὴ ὦσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Phm 1:14",
+      "text": "ἵνα μὴ ὡς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Phm 1:19",
+      "text": "ἵνα μὴ λέγω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Heb 3:8",
+      "text": "μὴ σκληρύνητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "ἵνα μὴ σκληρυνθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Heb 3:15",
+      "text": "ἀκούσητε, Μὴ σκληρύνητε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Heb 3:18",
+      "text": "ὤμοσεν μὴ εἰσελεύσεσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Heb 4:2",
+      "text": "ἐκείνους, μὴ συγκεκερασμένους",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Heb 4:7",
+      "text": "ἀκούσητε, μὴ σκληρύνητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Heb 4:11",
+      "text": "ἵνα μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Heb 4:15",
+      "text": "ἀρχιερέα μὴ δυνάμενον",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Heb 6:1",
+      "text": "φερώμεθα, μὴ πάλιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Heb 6:12",
+      "text": "ἵνα μὴ νωθροὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Heb 7:6",
+      "text": "δὲ μὴ γενεαλογούμενος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Heb 8:11",
+      "text": "οὐ μὴ διδάξωσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Heb 8:12",
+      "text": "οὐ μὴ μνησθῶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Heb 9:9",
+      "text": "προσφέρονται μὴ δυνάμεναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Heb 10:17",
+      "text": "οὐ μὴ μνησθήσομαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Heb 10:25",
+      "text": "μὴ ἐγκαταλείποντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Heb 10:35",
+      "text": "μὴ ἀποβάλητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Heb 11:3",
+      "text": "τὸ μὴ ἐκ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Heb 11:5",
+      "text": "τοῦ μὴ ἰδεῖν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Heb 11:8",
+      "text": "ἐξῆλθεν μὴ ἐπιστάμενος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Heb 11:13",
+      "text": "πάντες, μὴ λαβόντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Heb 11:27",
+      "text": "Αἴγυπτον, μὴ φοβηθεὶς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Heb 11:28",
+      "text": "ἵνα μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 40,
+      "reference": "Heb 11:40",
+      "text": "ἵνα μὴ χωρὶς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Heb 12:3",
+      "text": "ἵνα μὴ κάμητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Heb 12:5",
+      "text": "μου, μὴ ὀλιγώρει",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Heb 12:13",
+      "text": "ἵνα μὴ τὸ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Heb 12:15",
+      "text": "ἐπισκοποῦντες μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Heb 12:16",
+      "text": "μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Heb 12:19",
+      "text": "παρῃτήσαντο μὴ προστεθῆναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Heb 12:25",
+      "text": "Βλέπετε μὴ παραιτήσησθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Heb 12:27",
+      "text": "τὰ μὴ σαλευόμενα.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Heb 13:2",
+      "text": "φιλοξενίας μὴ ἐπιλανθάνεσθε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Heb 13:5",
+      "text": "Οὐ μή σε",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Heb 13:9",
+      "text": "ξέναις μὴ παραφέρεσθε·",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Heb 13:16",
+      "text": "κοινωνίας μὴ ἐπιλανθάνεσθε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Heb 13:17",
+      "text": "καὶ μὴ στενάζοντες,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Jas 1:5",
+      "text": "καὶ μὴ ὀνειδίζοντος,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jas 1:7",
+      "text": "μὴ γὰρ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Jas 1:16",
+      "text": "μὴ πλανᾶσθε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Jas 1:22",
+      "text": "καὶ μὴ ἀκροαταὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jas 1:26",
+      "text": "εἶναι μὴ χαλιναγωγῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Jas 2:1",
+      "text": "μου, μὴ ἐν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Jas 2:11",
+      "text": "εἰπών Μὴ μοιχεύσῃς",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Jas 2:13",
+      "text": "τῷ μὴ ποιήσαντι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Jas 2:14",
+      "text": "δὲ μὴ ἔχῃ;",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Jas 2:16",
+      "text": "χορτάζεσθε, μὴ δῶτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Jas 2:17",
+      "text": "ἐὰν μὴ ἔχῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Jas 3:1",
+      "text": "Μὴ πολλοὶ",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Jas 3:12",
+      "text": "μὴ δύναται,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jas 3:14",
+      "text": "ὑμῶν, μὴ κατακαυχᾶσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Jas 4:2",
+      "text": "τὸ μὴ αἰτεῖσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jas 4:11",
+      "text": "Μὴ καταλαλεῖτε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Jas 4:17",
+      "text": "καὶ μὴ ποιοῦντι,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jas 5:9",
+      "text": "μὴ στενάζετε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jas 5:12",
+      "text": "μου, μὴ ὀμνύετε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Jas 5:17",
+      "text": "τοῦ μὴ βρέξαι,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Pe 1:8",
+      "text": "ἄρτι μὴ ὁρῶντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "1Pe 1:14",
+      "text": "ὑπακοῆς, μὴ συσχηματιζόμενοι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Pe 2:6",
+      "text": "οὐ μὴ καταισχυνθῇ.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Pe 2:16",
+      "text": "καὶ μὴ ὡς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Pe 3:6",
+      "text": "καὶ μὴ φοβούμεναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Pe 3:7",
+      "text": "τὸ μὴ ἐγκόπτεσθαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Pe 3:9",
+      "text": "μὴ ἀποδιδόντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Pe 3:10",
+      "text": "τοῦ μὴ λαλῆσαι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Pe 3:14",
+      "text": "αὐτῶν μὴ φοβηθῆτε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Pe 4:4",
+      "text": "ξενίζονται μὴ συντρεχόντων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Pe 4:12",
+      "text": "Ἀγαπητοί, μὴ ξενίζεσθε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Pe 4:15",
+      "text": "μὴ γάρ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Pe 4:16",
+      "text": "Χριστιανός, μὴ αἰσχυνέσθω,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Pe 5:2",
+      "text": "ἐπισκοποῦντες μὴ ἀναγκαστῶς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Pe 1:9",
+      "text": "γὰρ μὴ πάρεστιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Pe 1:10",
+      "text": "οὐ μὴ πταίσητέ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "2Pe 2:21",
+      "text": "αὐτοῖς μὴ ἐπεγνωκέναι",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Pe 3:8",
+      "text": "τοῦτο μὴ λανθανέτω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Pe 3:9",
+      "text": "ὑμᾶς, μὴ βουλόμενός",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Pe 3:17",
+      "text": "ἵνα μὴ τῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Jn 2:1",
+      "text": "ἵνα μὴ ἁμάρτητε.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Jn 2:4",
+      "text": "αὐτοῦ μὴ τηρῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Jn 2:15",
+      "text": "Μὴ ἀγαπᾶτε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "1Jn 2:22",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "1Jn 2:28",
+      "text": "καὶ μὴ αἰσχυνθῶμεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Jn 3:10",
+      "text": "ὁ μὴ ποιῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Jn 3:13",
+      "text": "μὴ θαυμάζετε,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Jn 3:14",
+      "text": "ὁ μὴ ἀγαπῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Jn 3:18",
+      "text": "Τεκνία, μὴ ἀγαπῶμεν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "1Jn 3:21",
+      "text": "καρδία μὴ καταγινώσκῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Jn 4:1",
+      "text": "Ἀγαπητοί, μὴ παντὶ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Jn 4:3",
+      "text": "ὃ μὴ ὁμολογεῖ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Jn 4:8",
+      "text": "ὁ μὴ ἀγαπῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "1Jn 4:20",
+      "text": "γὰρ μὴ ἀγαπῶν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Jn 5:5",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Jn 5:10",
+      "text": "ὁ μὴ πιστεύων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Jn 5:12",
+      "text": "ὁ μὴ ἔχων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Jn 5:16",
+      "text": "ἁμαρτίαν μὴ πρὸς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Jn 1:7",
+      "text": "οἱ μὴ ὁμολογοῦντες",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Jn 1:8",
+      "text": "ἵνα μὴ ἀπολέσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Jn 1:9",
+      "text": "καὶ μὴ μένων",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Jn 1:10",
+      "text": "φέρει, μὴ λαμβάνετε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "3Jn 1:10",
+      "text": "καὶ μὴ ἀρκούμενος",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "3Jn 1:11",
+      "text": "Ἀγαπητέ, μὴ μιμοῦ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Jud 1:5",
+      "text": "τοὺς μὴ πιστεύσαντας",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jud 1:6",
+      "text": "τοὺς μὴ τηρήσαντας",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Jud 1:19",
+      "text": "πνεῦμα μὴ ἔχοντες.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "λέγων· Μὴ φοβοῦ·",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "δὲ μή, ἔρχομαί",
+      "highlightedWord": "μή,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Re 2:11",
+      "text": "οὐ μὴ ἀδικηθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Re 2:16",
+      "text": "δὲ μή, ἔρχομαί",
+      "highlightedWord": "μή,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "εἰ μὴ ὁ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Re 2:22",
+      "text": "ἐὰν μὴ μετανοήσωσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "οὖν μὴ γρηγορήσῃς,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Re 3:5",
+      "text": "οὐ μὴ ἐξαλείψω",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "οὐ μὴ ἐξέλθῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "καὶ μὴ φανερωθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Re 5:5",
+      "text": "μοι· Μὴ κλαῖε·",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Re 6:6",
+      "text": "οἶνον μὴ ἀδικήσῃς.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Re 7:1",
+      "text": "ἵνα μὴ πνέῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Re 7:3",
+      "text": "λέγων· Μὴ ἀδικήσητε",
+      "highlightedWord": "Μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Re 7:16",
+      "text": "οὐδὲ μὴ πέσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "ἡμέρα μὴ φάνῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Re 9:4",
+      "text": "ἵνα μὴ ἀδικήσουσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "ἵνα μὴ ἀποκτείνωσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "οὐ μὴ εὑρήσουσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "ἵνα μὴ προσκυνήσουσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Re 10:4",
+      "text": "καὶ μὴ αὐτὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Re 11:2",
+      "text": "καὶ μὴ αὐτὴν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "ἵνα μὴ ὑετὸς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Re 13:15",
+      "text": "ἐὰν μὴ προσκυνήσωσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "ἵνα μή τις",
+      "highlightedWord": "μή"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Re 14:3",
+      "text": "εἰ μὴ αἱ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Re 15:4",
+      "text": "οὐ μὴ φοβηθῇ,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Re 16:15",
+      "text": "ἵνα μὴ γυμνὸς",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Re 18:4",
+      "text": "ἵνα μὴ συγκοινωνήσητε",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Re 18:7",
+      "text": "οὐ μὴ ἴδω.",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Re 18:14",
+      "text": "οὐ μὴ αὐτὰ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "οὐ μὴ εὑρεθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Re 18:22",
+      "text": "οὐ μὴ ἀκουσθῇ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Re 18:23",
+      "text": "οὐ μὴ φάνῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Re 19:10",
+      "text": "Ὅρα μή· σύνδουλός",
+      "highlightedWord": "μή·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "εἰ μὴ αὐτός,",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "ἵνα μὴ πλανήσῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Re 21:25",
+      "text": "οὐ μὴ κλεισθῶσιν",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Re 21:27",
+      "text": "οὐ μὴ εἰσέλθῃ",
+      "highlightedWord": "μὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Re 22:9",
+      "text": "Ὅρα μή· σύνδουλός",
+      "highlightedWord": "μή·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Re 22:10",
+      "text": "μοι· Μὴ σφραγίσῃς",
+      "highlightedWord": "Μὴ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

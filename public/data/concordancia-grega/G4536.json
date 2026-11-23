@@ -1,0 +1,108 @@
+{
+  "strong": "G4536",
+  "lemma": "σάλπιγξ",
+  "lemmaTranslit": "salpigx",
+  "tokenCount": 11,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Mateus": 1,
+    "1 Coríntios": 2,
+    "1 Tessalonicenses": 1,
+    "Hebreus": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 31,
+      "reference": "Mt 24:31",
+      "text": "μετὰ σάλπιγγος μεγάλης,",
+      "highlightedWord": "σάλπιγγος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "1Co 14:8",
+      "text": "φωνὴν σάλπιγξ δῷ,",
+      "highlightedWord": "σάλπιγξ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 52,
+      "reference": "1Co 15:52",
+      "text": "ἐσχάτῃ σάλπιγγι· σαλπίσει",
+      "highlightedWord": "σάλπιγγι·"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Th 4:16",
+      "text": "ἐν σάλπιγγι θεοῦ,",
+      "highlightedWord": "σάλπιγγι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Heb 12:19",
+      "text": "καὶ σάλπιγγος ἤχῳ",
+      "highlightedWord": "σάλπιγγος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Re 1:10",
+      "text": "ὡς σάλπιγγος",
+      "highlightedWord": "σάλπιγγος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "ὡς σάλπιγγος λαλούσης",
+      "highlightedWord": "σάλπιγγος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Re 8:2",
+      "text": "ἑπτὰ σάλπιγγες.",
+      "highlightedWord": "σάλπιγγες."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Re 8:6",
+      "text": "ἑπτὰ σάλπιγγας ἡτοίμασαν",
+      "highlightedWord": "σάλπιγγας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "τῆς σάλπιγγος τῶν",
+      "highlightedWord": "σάλπιγγος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Re 9:14",
+      "text": "τὴν σάλπιγγα· Λῦσον",
+      "highlightedWord": "σάλπιγγα·"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

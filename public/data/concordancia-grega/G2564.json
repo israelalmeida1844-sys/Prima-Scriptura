@@ -1,0 +1,1155 @@
+{
+  "strong": "G2564",
+  "lemma": "καλέω",
+  "lemmaTranslit": "kaleō",
+  "tokenCount": 148,
+  "verseCount": 140,
+  "bookDistribution": {
+    "Mateus": 26,
+    "Marcos": 4,
+    "Lucas": 43,
+    "João": 2,
+    "Atos": 18,
+    "Romanos": 8,
+    "1 Coríntios": 12,
+    "Gálatas": 4,
+    "Efésios": 2,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 3,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 6,
+    "Tiago": 1,
+    "1 Pedro": 6,
+    "2 Pedro": 1,
+    "1 João": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Mt 1:21",
+      "text": "καὶ καλέσεις τὸ",
+      "highlightedWord": "καλέσεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Mt 1:23",
+      "text": "καὶ καλέσουσιν τὸ",
+      "highlightedWord": "καλέσουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Mt 1:25",
+      "text": "καὶ ἐκάλεσεν τὸ",
+      "highlightedWord": "ἐκάλεσεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mt 2:7",
+      "text": "λάθρᾳ καλέσας τοὺς",
+      "highlightedWord": "καλέσας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Mt 2:15",
+      "text": "Αἰγύπτου ἐκάλεσα τὸν",
+      "highlightedWord": "ἐκάλεσα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Mt 2:23",
+      "text": "Ναζωραῖος κληθήσεται.",
+      "highlightedWord": "κληθήσεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Mt 4:21",
+      "text": "καὶ ἐκάλεσεν αὐτούς.",
+      "highlightedWord": "ἐκάλεσεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Mt 5:9",
+      "text": "θεοῦ κληθήσονται.",
+      "highlightedWord": "κληθήσονται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "ἐλάχιστος κληθήσεται ἐν",
+      "highlightedWord": "κληθήσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Mt 9:13",
+      "text": "ἦλθον καλέσαι δικαίους",
+      "highlightedWord": "καλέσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Mt 20:8",
+      "text": "αὐτοῦ· Κάλεσον τοὺς",
+      "highlightedWord": "Κάλεσον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Mt 21:13",
+      "text": "προσευχῆς κληθήσεται, ὑμεῖς",
+      "highlightedWord": "κληθήσεται,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Mt 22:3",
+      "text": "αὐτοῦ καλέσαι τοὺς",
+      "highlightedWord": "καλέσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Mt 22:4",
+      "text": "τοῖς κεκλημένοις· Ἰδοὺ",
+      "highlightedWord": "κεκλημένοις·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Mt 22:8",
+      "text": "δὲ κεκλημένοι οὐκ",
+      "highlightedWord": "κεκλημένοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Mt 22:9",
+      "text": "εὕρητε καλέσατε εἰς",
+      "highlightedWord": "καλέσατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 43,
+      "reference": "Mt 22:43",
+      "text": "πνεύματι καλεῖ αὐτὸν",
+      "highlightedWord": "καλεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 45,
+      "reference": "Mt 22:45",
+      "text": "Δαυὶδ καλεῖ αὐτὸν",
+      "highlightedWord": "καλεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 7,
+      "reference": "Mt 23:7",
+      "text": "καὶ καλεῖσθαι ὑπὸ",
+      "highlightedWord": "καλεῖσθαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 8,
+      "reference": "Mt 23:8",
+      "text": "μὴ κληθῆτε· Ῥαββί,",
+      "highlightedWord": "κληθῆτε·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Mt 23:9",
+      "text": "μὴ καλέσητε ὑμῶν",
+      "highlightedWord": "καλέσητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Mt 23:10",
+      "text": "μηδὲ κληθῆτε καθηγηταί,",
+      "highlightedWord": "κληθῆτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 14,
+      "reference": "Mt 25:14",
+      "text": "ἀποδημῶν ἐκάλεσεν τοὺς",
+      "highlightedWord": "ἐκάλεσεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 8,
+      "reference": "Mt 27:8",
+      "text": "διὸ ἐκλήθη ὁ",
+      "highlightedWord": "ἐκλήθη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mk 1:20",
+      "text": "εὐθὺς ἐκάλεσεν αὐτούς.",
+      "highlightedWord": "ἐκάλεσεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Mk 2:17",
+      "text": "ἦλθον καλέσαι δικαίους",
+      "highlightedWord": "καλέσαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Mk 3:31",
+      "text": "αὐτὸν καλοῦντες αὐτόν.",
+      "highlightedWord": "καλοῦντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Mk 11:17",
+      "text": "προσευχῆς κληθήσεται πᾶσιν",
+      "highlightedWord": "κληθήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Lk 1:13",
+      "text": "καὶ καλέσεις τὸ",
+      "highlightedWord": "καλέσεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Lk 1:31",
+      "text": "καὶ καλέσεις τὸ",
+      "highlightedWord": "καλέσεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Lk 1:32",
+      "text": "Ὑψίστου κληθήσεται, καὶ",
+      "highlightedWord": "κληθήσεται,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Lk 1:35",
+      "text": "ἅγιον κληθήσεται, υἱὸς",
+      "highlightedWord": "κληθήσεται,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 36,
+      "reference": "Lk 1:36",
+      "text": "τῇ καλουμένῃ στείρᾳ·",
+      "highlightedWord": "καλουμένῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 59,
+      "reference": "Lk 1:59",
+      "text": "καὶ ἐκάλουν αὐτὸ",
+      "highlightedWord": "ἐκάλουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 60,
+      "reference": "Lk 1:60",
+      "text": "ἀλλὰ κληθήσεται Ἰωάννης.",
+      "highlightedWord": "κληθήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 61,
+      "reference": "Lk 1:61",
+      "text": "ὃς καλεῖται τῷ",
+      "highlightedWord": "καλεῖται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 62,
+      "reference": "Lk 1:62",
+      "text": "θέλοι καλεῖσθαι αὐτό.",
+      "highlightedWord": "καλεῖσθαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 76,
+      "reference": "Lk 1:76",
+      "text": "Ὑψίστου κληθήσῃ, προπορεύσῃ",
+      "highlightedWord": "κληθήσῃ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Lk 2:4",
+      "text": "ἥτις καλεῖται Βηθλέεμ,",
+      "highlightedWord": "καλεῖται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Lk 2:21",
+      "text": "καὶ ἐκλήθη τὸ",
+      "highlightedWord": "ἐκλήθη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Lk 2:23",
+      "text": "κυρίῳ κληθήσεται,",
+      "highlightedWord": "κληθήσεται,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "Lk 5:32",
+      "text": "ἐλήλυθα καλέσαι δικαίους",
+      "highlightedWord": "καλέσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Lk 6:15",
+      "text": "τὸν καλούμενον Ζηλωτὴν",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 46,
+      "reference": "Lk 6:46",
+      "text": "με καλεῖτε· Κύριε",
+      "highlightedWord": "καλεῖτε·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Lk 7:11",
+      "text": "πόλιν καλουμένην Ναΐν,",
+      "highlightedWord": "καλουμένην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Lk 7:39",
+      "text": "ὁ καλέσας αὐτὸν",
+      "highlightedWord": "καλέσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Lk 8:2",
+      "text": "ἡ καλουμένη Μαγδαληνή,",
+      "highlightedWord": "καλουμένη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Lk 9:10",
+      "text": "πόλιν καλουμένην Βηθσαϊδά.",
+      "highlightedWord": "καλουμένην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Lk 10:39",
+      "text": "ἀδελφὴ καλουμένη Μαριάμ,",
+      "highlightedWord": "καλουμένη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Lk 14:7",
+      "text": "τοὺς κεκλημένους παραβολήν,",
+      "highlightedWord": "κεκλημένους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Lk 14:8",
+      "text": "Ὅταν κληθῇς ὑπό",
+      "highlightedWord": "κληθῇς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Lk 14:9",
+      "text": "αὐτὸν καλέσας ἐρεῖ",
+      "highlightedWord": "καλέσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Lk 14:10",
+      "text": "ὅταν κληθῇς πορευθεὶς",
+      "highlightedWord": "κληθῇς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Lk 14:12",
+      "text": "τῷ κεκληκότι αὐτόν·",
+      "highlightedWord": "κεκληκότι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Lk 14:13",
+      "text": "ποιῇς, κάλει πτωχούς,",
+      "highlightedWord": "κάλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Lk 14:16",
+      "text": "καὶ ἐκάλεσεν πολλούς,",
+      "highlightedWord": "ἐκάλεσεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Lk 14:17",
+      "text": "τοῖς κεκλημένοις· Ἔρχεσθε,",
+      "highlightedWord": "κεκλημένοις·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Lk 14:24",
+      "text": "τῶν κεκλημένων γεύσεταί",
+      "highlightedWord": "κεκλημένων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Lk 15:19",
+      "text": "ἄξιος κληθῆναι υἱός",
+      "highlightedWord": "κληθῆναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Lk 15:21",
+      "text": "ἄξιος κληθῆναι υἱός",
+      "highlightedWord": "κληθῆναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Lk 19:2",
+      "text": "ὀνόματι καλούμενος Ζακχαῖος,",
+      "highlightedWord": "καλούμενος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Lk 19:13",
+      "text": "καλέσας δὲ",
+      "highlightedWord": "καλέσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Lk 19:29",
+      "text": "τὸ καλούμενον Ἐλαιῶν,",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 44,
+      "reference": "Lk 20:44",
+      "text": "κύριον καλεῖ, καὶ",
+      "highlightedWord": "καλεῖ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Lk 21:37",
+      "text": "τὸ καλούμενον Ἐλαιῶν·",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Lk 22:3",
+      "text": "τὸν καλούμενον Ἰσκαριώτην,",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Lk 22:25",
+      "text": "εὐεργέται καλοῦνται.",
+      "highlightedWord": "καλοῦνται."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 33,
+      "reference": "Lk 23:33",
+      "text": "τὸν καλούμενον Κρανίον,",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 42,
+      "reference": "Jn 1:42",
+      "text": "σὺ κληθήσῃ Κηφᾶς",
+      "highlightedWord": "κληθήσῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Jn 2:2",
+      "text": "ἐκλήθη δὲ",
+      "highlightedWord": "ἐκλήθη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ac 1:12",
+      "text": "τοῦ καλουμένου Ἐλαιῶνος,",
+      "highlightedWord": "καλουμένου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Ac 1:19",
+      "text": "ὥστε κληθῆναι τὸ",
+      "highlightedWord": "κληθῆναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Ac 1:23",
+      "text": "τὸν καλούμενον Βαρσαββᾶν,",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Ac 3:11",
+      "text": "τῇ καλουμένῃ Σολομῶντος",
+      "highlightedWord": "καλουμένῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ac 4:18",
+      "text": "καὶ καλέσαντες αὐτοὺς",
+      "highlightedWord": "καλέσαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 58,
+      "reference": "Ac 7:58",
+      "text": "νεανίου καλουμένου Σαύλου.",
+      "highlightedWord": "καλουμένου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Ac 8:10",
+      "text": "ἡ καλουμένη Μεγάλη.",
+      "highlightedWord": "καλουμένη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Ac 9:11",
+      "text": "τὴν καλουμένην Εὐθεῖαν",
+      "highlightedWord": "καλουμένην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Ac 10:1",
+      "text": "τῆς καλουμένης Ἰταλικῆς,",
+      "highlightedWord": "καλουμένης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Ac 13:1",
+      "text": "ὁ καλούμενος Νίγερ,",
+      "highlightedWord": "καλούμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Ac 14:12",
+      "text": "ἐκάλουν τε",
+      "highlightedWord": "ἐκάλουν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Ac 15:22",
+      "text": "τὸν καλούμενον Βαρσαββᾶν",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "Ac 15:37",
+      "text": "τὸν καλούμενον Μᾶρκον·",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Ac 24:2",
+      "text": "κληθέντος δὲ",
+      "highlightedWord": "κληθέντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 8,
+      "reference": "Ac 27:8",
+      "text": "τινὰ καλούμενον Καλοὺς",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 14,
+      "reference": "Ac 27:14",
+      "text": "ὁ καλούμενος Εὐρακύλων·",
+      "highlightedWord": "καλούμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 16,
+      "reference": "Ac 27:16",
+      "text": "ὑποδραμόντες καλούμενον Καῦδα",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 1,
+      "reference": "Ac 28:1",
+      "text": "νῆσος καλεῖται.",
+      "highlightedWord": "καλεῖται."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ro 4:17",
+      "text": "καὶ καλοῦντος τὰ",
+      "highlightedWord": "καλοῦντος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Ro 8:30",
+      "text": "καὶ ἐκάλεσεν· καὶ",
+      "highlightedWord": "ἐκάλεσεν·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Ro 9:7",
+      "text": "Ἰσαὰκ κληθήσεταί σοι",
+      "highlightedWord": "κληθήσεταί"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Ro 9:12",
+      "text": "τοῦ καλοῦντος, ἐρρέθη",
+      "highlightedWord": "καλοῦντος,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Ro 9:24",
+      "text": "καὶ ἐκάλεσεν ἡμᾶς",
+      "highlightedWord": "ἐκάλεσεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Ro 9:25",
+      "text": "λέγει· Καλέσω τὸν",
+      "highlightedWord": "Καλέσω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ro 9:26",
+      "text": "ἐκεῖ κληθήσονται υἱοὶ",
+      "highlightedWord": "κληθήσονται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Co 1:9",
+      "text": "οὗ ἐκλήθητε εἰς",
+      "highlightedWord": "ἐκλήθητε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "1Co 7:15",
+      "text": "εἰρήνῃ κέκληκεν ἡμᾶς",
+      "highlightedWord": "κέκληκεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "1Co 7:17",
+      "text": "ὡς κέκληκεν ὁ",
+      "highlightedWord": "κέκληκεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "1Co 7:18",
+      "text": "τις ἐκλήθη; μὴ",
+      "highlightedWord": "ἐκλήθη;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "1Co 7:20",
+      "text": "ᾗ ἐκλήθη ἐν",
+      "highlightedWord": "ἐκλήθη"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "1Co 7:21",
+      "text": "Δοῦλος ἐκλήθης; μή",
+      "highlightedWord": "ἐκλήθης;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "1Co 7:22",
+      "text": "κυρίῳ κληθεὶς δοῦλος",
+      "highlightedWord": "κληθεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "1Co 7:24",
+      "text": "ᾧ ἐκλήθη, ἀδελφοί,",
+      "highlightedWord": "ἐκλήθη,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "1Co 10:27",
+      "text": "τις καλεῖ ὑμᾶς",
+      "highlightedWord": "καλεῖ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "1Co 15:9",
+      "text": "ἱκανὸς καλεῖσθαι ἀπόστολος,",
+      "highlightedWord": "καλεῖσθαι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Ga 1:6",
+      "text": "τοῦ καλέσαντος ὑμᾶς",
+      "highlightedWord": "καλέσαντος"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Ga 1:15",
+      "text": "καὶ καλέσας διὰ",
+      "highlightedWord": "καλέσας"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Ga 5:8",
+      "text": "τοῦ καλοῦντος ὑμᾶς.",
+      "highlightedWord": "καλοῦντος"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ga 5:13",
+      "text": "ἐλευθερίᾳ ἐκλήθητε, ἀδελφοί·",
+      "highlightedWord": "ἐκλήθητε,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Eph 4:1",
+      "text": "ἧς ἐκλήθητε,",
+      "highlightedWord": "ἐκλήθητε,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Eph 4:4",
+      "text": "καὶ ἐκλήθητε ἐν",
+      "highlightedWord": "ἐκλήθητε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Col 3:15",
+      "text": "καὶ ἐκλήθητε ἐν",
+      "highlightedWord": "ἐκλήθητε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Th 2:12",
+      "text": "τοῦ καλοῦντος ὑμᾶς",
+      "highlightedWord": "καλοῦντος"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Th 4:7",
+      "text": "γὰρ ἐκάλεσεν ἡμᾶς",
+      "highlightedWord": "ἐκάλεσεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "1Th 5:24",
+      "text": "ὁ καλῶν ὑμᾶς,",
+      "highlightedWord": "καλῶν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "2Th 2:14",
+      "text": "ὃ ἐκάλεσεν ὑμᾶς",
+      "highlightedWord": "ἐκάλεσεν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "1Ti 6:12",
+      "text": "ἣν ἐκλήθης καὶ",
+      "highlightedWord": "ἐκλήθης"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Ti 1:9",
+      "text": "καὶ καλέσαντος κλήσει",
+      "highlightedWord": "καλέσαντος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Heb 2:11",
+      "text": "αὐτοὺς καλεῖν,",
+      "highlightedWord": "καλεῖν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "Σήμερον καλεῖται, ἵνα",
+      "highlightedWord": "καλεῖται,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Heb 5:4",
+      "text": "ἀλλὰ καλούμενος ὑπὸ",
+      "highlightedWord": "καλούμενος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Heb 9:15",
+      "text": "οἱ κεκλημένοι τῆς",
+      "highlightedWord": "κεκλημένοι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Heb 11:8",
+      "text": "Πίστει καλούμενος Ἀβραὰμ",
+      "highlightedWord": "καλούμενος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Heb 11:18",
+      "text": "Ἰσαὰκ κληθήσεταί σοι",
+      "highlightedWord": "κληθήσεταί"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Jas 2:23",
+      "text": "θεοῦ ἐκλήθη.",
+      "highlightedWord": "ἐκλήθη."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Pe 1:15",
+      "text": "τὸν καλέσαντα ὑμᾶς",
+      "highlightedWord": "καλέσαντα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Pe 2:9",
+      "text": "ὑμᾶς καλέσαντος εἰς",
+      "highlightedWord": "καλέσαντος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "1Pe 2:21",
+      "text": "γὰρ ἐκλήθητε, ὅτι",
+      "highlightedWord": "ἐκλήθητε,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Pe 3:6",
+      "text": "αὐτὸν καλοῦσα· ἧς",
+      "highlightedWord": "καλοῦσα·"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Pe 3:9",
+      "text": "τοῦτο ἐκλήθητε ἵνα",
+      "highlightedWord": "ἐκλήθητε"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Pe 5:10",
+      "text": "ὁ καλέσας ὑμᾶς",
+      "highlightedWord": "καλέσας"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Pe 1:3",
+      "text": "τοῦ καλέσαντος ἡμᾶς",
+      "highlightedWord": "καλέσαντος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Jn 3:1",
+      "text": "θεοῦ κληθῶμεν, καὶ",
+      "highlightedWord": "κληθῶμεν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Re 1:9",
+      "text": "τῇ καλουμένῃ Πάτμῳ",
+      "highlightedWord": "καλουμένῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Re 11:8",
+      "text": "ἥτις καλεῖται πνευματικῶς",
+      "highlightedWord": "καλεῖται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "ὁ καλούμενος Διάβολος",
+      "highlightedWord": "καλούμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Re 16:16",
+      "text": "τὸν καλούμενον Ἑβραϊστὶ",
+      "highlightedWord": "καλούμενον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Re 19:9",
+      "text": "ἀρνίου κεκλημένοι. καὶ",
+      "highlightedWord": "κεκλημένοι."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Re 19:11",
+      "text": "πιστὸς καλούμενος καὶ",
+      "highlightedWord": "καλούμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Re 19:13",
+      "text": "καὶ κέκληται τὸ",
+      "highlightedWord": "κέκληται"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

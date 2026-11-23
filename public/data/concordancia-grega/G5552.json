@@ -1,0 +1,146 @@
+{
+  "strong": "G5552",
+  "lemma": "χρυσοῦς",
+  "lemmaTranslit": "chrysoys",
+  "tokenCount": 18,
+  "verseCount": 16,
+  "bookDistribution": {
+    "2 Timóteo": 1,
+    "Hebreus": 2,
+    "Apocalipse": 15
+  },
+  "references": [
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Ti 2:20",
+      "text": "σκεύη χρυσᾶ καὶ",
+      "highlightedWord": "χρυσᾶ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Heb 9:4",
+      "text": "χρυσοῦν ἔχουσα",
+      "highlightedWord": "χρυσοῦν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Re 1:12",
+      "text": "λυχνίας χρυσᾶς,",
+      "highlightedWord": "χρυσᾶς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "ζώνην χρυσᾶν·",
+      "highlightedWord": "χρυσᾶν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Re 1:20",
+      "text": "τὰς χρυσᾶς· οἱ",
+      "highlightedWord": "χρυσᾶς·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "τῶν χρυσῶν·",
+      "highlightedWord": "χρυσῶν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "στεφάνους χρυσοῦς.",
+      "highlightedWord": "χρυσοῦς."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "φιάλας χρυσᾶς γεμούσας",
+      "highlightedWord": "χρυσᾶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Re 8:3",
+      "text": "λιβανωτὸν χρυσοῦν, καὶ",
+      "highlightedWord": "χρυσοῦν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Re 9:13",
+      "text": "τοῦ χρυσοῦ τοῦ",
+      "highlightedWord": "χρυσοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "τὰ χρυσᾶ καὶ",
+      "highlightedWord": "χρυσᾶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "στέφανον χρυσοῦν καὶ",
+      "highlightedWord": "χρυσοῦν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Re 15:6",
+      "text": "ζώνας χρυσᾶς.",
+      "highlightedWord": "χρυσᾶς."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Re 15:7",
+      "text": "φιάλας χρυσᾶς γεμούσας",
+      "highlightedWord": "χρυσᾶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Re 17:4",
+      "text": "ποτήριον χρυσοῦν ἐν",
+      "highlightedWord": "χρυσοῦν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Re 21:15",
+      "text": "κάλαμον χρυσοῦν, ἵνα",
+      "highlightedWord": "χρυσοῦν,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,149 @@
+{
+  "strong": "G2181",
+  "lemma": "Ἔφεσος",
+  "lemmaTranslit": "ephesos",
+  "tokenCount": 16,
+  "verseCount": 16,
+  "bookDistribution": {
+    "Atos": 8,
+    "1 Coríntios": 2,
+    "Efésios": 1,
+    "1 Timóteo": 1,
+    "2 Timóteo": 2,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Ac 18:19",
+      "text": "εἰς Ἔφεσον, κἀκείνους",
+      "highlightedWord": "Ἔφεσον,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Ac 18:21",
+      "text": "τῆς Ἐφέσου,",
+      "highlightedWord": "Ἐφέσου,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Ac 18:24",
+      "text": "εἰς Ἔφεσον, δυνατὸς",
+      "highlightedWord": "Ἔφεσον,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Ac 19:1",
+      "text": "εἰς Ἔφεσον καὶ",
+      "highlightedWord": "Ἔφεσον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Ac 19:17",
+      "text": "τὴν Ἔφεσον, καὶ",
+      "highlightedWord": "Ἔφεσον,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Ac 19:26",
+      "text": "μόνον Ἐφέσου ἀλλὰ",
+      "highlightedWord": "Ἐφέσου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Ac 20:16",
+      "text": "τὴν Ἔφεσον, ὅπως",
+      "highlightedWord": "Ἔφεσον,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Ac 20:17",
+      "text": "εἰς Ἔφεσον μετεκαλέσατο",
+      "highlightedWord": "Ἔφεσον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "1Co 15:32",
+      "text": "ἐν Ἐφέσῳ, τί",
+      "highlightedWord": "Ἐφέσῳ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "1Co 16:8",
+      "text": "ἐν Ἐφέσῳ ἕως",
+      "highlightedWord": "Ἐφέσῳ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Eph 1:1",
+      "text": "[ἐν Ἐφέσῳ] καὶ",
+      "highlightedWord": "Ἐφέσῳ]"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Ti 1:3",
+      "text": "ἐν Ἐφέσῳ, πορευόμενος",
+      "highlightedWord": "Ἐφέσῳ,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Ti 1:18",
+      "text": "ἐν Ἐφέσῳ διηκόνησεν,",
+      "highlightedWord": "Ἐφέσῳ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "2Ti 4:12",
+      "text": "εἰς Ἔφεσον.",
+      "highlightedWord": "Ἔφεσον."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "εἰς Ἔφεσον καὶ",
+      "highlightedWord": "Ἔφεσον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "ἐν Ἐφέσῳ ἐκκλησίας",
+      "highlightedWord": "Ἐφέσῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

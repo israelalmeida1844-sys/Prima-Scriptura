@@ -1,0 +1,562 @@
+{
+  "strong": "G2776",
+  "lemma": "κεφαλή",
+  "lemmaTranslit": "kephalē",
+  "tokenCount": 75,
+  "verseCount": 67,
+  "bookDistribution": {
+    "Mateus": 12,
+    "Marcos": 8,
+    "Lucas": 7,
+    "João": 5,
+    "Atos": 5,
+    "Romanos": 1,
+    "1 Coríntios": 10,
+    "Efésios": 4,
+    "Colossenses": 3,
+    "1 Pedro": 1,
+    "Apocalipse": 19
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Mt 5:36",
+      "text": "τῇ κεφαλῇ σου",
+      "highlightedWord": "κεφαλῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Mt 6:17",
+      "text": "τὴν κεφαλὴν καὶ",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Mt 8:20",
+      "text": "τὴν κεφαλὴν κλίνῃ.",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Mt 10:30",
+      "text": "τῆς κεφαλῆς πᾶσαι",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Mt 14:8",
+      "text": "τὴν κεφαλὴν Ἰωάννου",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Mt 14:11",
+      "text": "ἡ κεφαλὴ αὐτοῦ",
+      "highlightedWord": "κεφαλὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 42,
+      "reference": "Mt 21:42",
+      "text": "εἰς κεφαλὴν γωνίας·",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 7,
+      "reference": "Mt 26:7",
+      "text": "τῆς κεφαλῆς αὐτοῦ",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Mt 27:29",
+      "text": "τῆς κεφαλῆς αὐτοῦ",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 30,
+      "reference": "Mt 27:30",
+      "text": "τὴν κεφαλὴν αὐτοῦ.",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 37,
+      "reference": "Mt 27:37",
+      "text": "τῆς κεφαλῆς αὐτοῦ",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 39,
+      "reference": "Mt 27:39",
+      "text": "τὰς κεφαλὰς αὐτῶν",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Mk 6:24",
+      "text": "Τὴν κεφαλὴν Ἰωάννου",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mk 6:25",
+      "text": "τὴν κεφαλὴν Ἰωάννου",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Mk 6:27",
+      "text": "τὴν κεφαλὴν αὐτοῦ.",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 28,
+      "reference": "Mk 6:28",
+      "text": "τὴν κεφαλὴν αὐτοῦ",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Mk 12:10",
+      "text": "εἰς κεφαλὴν γωνίας·",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Mk 14:3",
+      "text": "τῆς κεφαλῆς.",
+      "highlightedWord": "κεφαλῆς."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Mk 15:19",
+      "text": "τὴν κεφαλὴν καλάμῳ",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mk 15:29",
+      "text": "τὰς κεφαλὰς αὐτῶν",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Lk 7:38",
+      "text": "τῆς κεφαλῆς αὐτῆς",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 46,
+      "reference": "Lk 7:46",
+      "text": "τὴν κεφαλήν μου",
+      "highlightedWord": "κεφαλήν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 58,
+      "reference": "Lk 9:58",
+      "text": "τὴν κεφαλὴν κλίνῃ.",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Lk 12:7",
+      "text": "τῆς κεφαλῆς ὑμῶν",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Lk 20:17",
+      "text": "εἰς κεφαλὴν γωνίας;",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Lk 21:18",
+      "text": "τῆς κεφαλῆς ὑμῶν",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Lk 21:28",
+      "text": "τὰς κεφαλὰς ὑμῶν,",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Jn 13:9",
+      "text": "τὴν κεφαλήν.",
+      "highlightedWord": "κεφαλήν."
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Jn 19:2",
+      "text": "τῇ κεφαλῇ, καὶ",
+      "highlightedWord": "κεφαλῇ,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Jn 19:30",
+      "text": "τὴν κεφαλὴν παρέδωκεν",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Jn 20:7",
+      "text": "τῆς κεφαλῆς αὐτοῦ,",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Jn 20:12",
+      "text": "τῇ κεφαλῇ καὶ",
+      "highlightedWord": "κεφαλῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Ac 4:11",
+      "text": "εἰς κεφαλὴν γωνίας.",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Ac 18:6",
+      "text": "τὴν κεφαλὴν ὑμῶν·",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Ac 18:18",
+      "text": "τὴν κεφαλήν, εἶχεν",
+      "highlightedWord": "κεφαλήν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Ac 21:24",
+      "text": "τὴν κεφαλήν, καὶ",
+      "highlightedWord": "κεφαλήν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 34,
+      "reference": "Ac 27:34",
+      "text": "τῆς κεφαλῆς ἀπολεῖται.",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Ro 12:20",
+      "text": "τὴν κεφαλὴν αὐτοῦ.",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "1Co 11:3",
+      "text": "ἡ κεφαλὴ ὁ",
+      "highlightedWord": "κεφαλὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "1Co 11:4",
+      "text": "κατὰ κεφαλῆς ἔχων",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "1Co 11:5",
+      "text": "τῇ κεφαλῇ καταισχύνει",
+      "highlightedWord": "κεφαλῇ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "1Co 11:7",
+      "text": "τὴν κεφαλήν, εἰκὼν",
+      "highlightedWord": "κεφαλήν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "1Co 11:10",
+      "text": "τῆς κεφαλῆς διὰ",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "1Co 12:21",
+      "text": "ἡ κεφαλὴ τοῖς",
+      "highlightedWord": "κεφαλὴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Eph 1:22",
+      "text": "ἔδωκεν κεφαλὴν ὑπὲρ",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Eph 4:15",
+      "text": "ἡ κεφαλή, Χριστός,",
+      "highlightedWord": "κεφαλή,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Eph 5:23",
+      "text": "ἐστιν κεφαλὴ τῆς",
+      "highlightedWord": "κεφαλὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Col 1:18",
+      "text": "ἡ κεφαλὴ τοῦ",
+      "highlightedWord": "κεφαλὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Col 2:10",
+      "text": "ἡ κεφαλὴ πάσης",
+      "highlightedWord": "κεφαλὴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Col 2:19",
+      "text": "τὴν κεφαλήν, ἐξ",
+      "highlightedWord": "κεφαλήν,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Pe 2:7",
+      "text": "εἰς κεφαλὴν γωνίας",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Re 1:14",
+      "text": "δὲ κεφαλὴ αὐτοῦ",
+      "highlightedWord": "κεφαλὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "τὰς κεφαλὰς αὐτῶν",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Re 9:7",
+      "text": "τὰς κεφαλὰς αὐτῶν",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "αἱ κεφαλαὶ τῶν",
+      "highlightedWord": "κεφαλαὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Re 9:19",
+      "text": "ἔχουσαι κεφαλάς, καὶ",
+      "highlightedWord": "κεφαλάς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Re 10:1",
+      "text": "τὴν κεφαλὴν αὐτοῦ,",
+      "highlightedWord": "κεφαλὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Re 12:1",
+      "text": "τῆς κεφαλῆς αὐτῆς",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Re 12:3",
+      "text": "ἔχων κεφαλὰς ἑπτὰ",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Re 13:1",
+      "text": "καὶ κεφαλὰς ἑπτά,",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Re 13:3",
+      "text": "τῶν κεφαλῶν αὐτοῦ",
+      "highlightedWord": "κεφαλῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "τῆς κεφαλῆς αὐτοῦ",
+      "highlightedWord": "κεφαλῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Re 17:3",
+      "text": "ἔχων κεφαλὰς ἑπτὰ",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Re 17:7",
+      "text": "ἑπτὰ κεφαλὰς καὶ",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Re 17:9",
+      "text": "ἑπτὰ κεφαλαὶ ἑπτὰ",
+      "highlightedWord": "κεφαλαὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "τὰς κεφαλὰς αὐτῶν",
+      "highlightedWord": "κεφαλὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "τὴν κεφαλὴν αὐτοῦ",
+      "highlightedWord": "κεφαλὴν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

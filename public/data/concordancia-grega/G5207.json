@@ -1,0 +1,2771 @@
+{
+  "strong": "G5207",
+  "lemma": "υἱός",
+  "lemmaTranslit": "yios",
+  "tokenCount": 375,
+  "verseCount": 342,
+  "bookDistribution": {
+    "Mateus": 89,
+    "Marcos": 34,
+    "Lucas": 77,
+    "João": 54,
+    "Atos": 21,
+    "Romanos": 12,
+    "1 Coríntios": 2,
+    "2 Coríntios": 4,
+    "Gálatas": 13,
+    "Efésios": 4,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 3,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 24,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "1 João": 22,
+    "2 João": 2,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Mt 1:1",
+      "text": "χριστοῦ υἱοῦ Δαυὶδ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mt 1:20",
+      "text": "Ἰωσὴφ υἱὸς Δαυίδ,",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Mt 1:21",
+      "text": "δὲ υἱὸν καὶ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Mt 1:23",
+      "text": "τέξεται υἱόν, καὶ",
+      "highlightedWord": "υἱόν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Mt 1:25",
+      "text": "ἔτεκεν υἱόν· καὶ",
+      "highlightedWord": "υἱόν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Mt 2:15",
+      "text": "τὸν υἱόν μου.",
+      "highlightedWord": "υἱόν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Mt 3:17",
+      "text": "ὁ υἱός μου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Mt 4:3",
+      "text": "Εἰ υἱὸς εἶ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mt 4:6",
+      "text": "Εἰ υἱὸς εἶ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Mt 5:9",
+      "text": "αὐτοὶ υἱοὶ θεοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 45,
+      "reference": "Mt 5:45",
+      "text": "γένησθε υἱοὶ τοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Mt 7:9",
+      "text": "ὁ υἱὸς αὐτοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Mt 8:12",
+      "text": "δὲ υἱοὶ τῆς",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Mt 8:20",
+      "text": "δὲ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Mt 8:29",
+      "text": "σοί, υἱὲ τοῦ",
+      "highlightedWord": "υἱὲ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mt 9:6",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Mt 9:15",
+      "text": "οἱ υἱοὶ τοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Mt 9:27",
+      "text": "ἡμᾶς, υἱὲ Δαυίδ.",
+      "highlightedWord": "υἱὲ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mt 10:23",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Mt 10:37",
+      "text": "φιλῶν υἱὸν ἢ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Mt 11:19",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Mt 11:27",
+      "text": "τὸν υἱὸν εἰ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Mt 12:8",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Mt 12:23",
+      "text": "ὁ υἱὸς Δαυίδ;",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Mt 12:27",
+      "text": "οἱ υἱοὶ ὑμῶν",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mt 12:32",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Mt 12:40",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 37,
+      "reference": "Mt 13:37",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 38,
+      "reference": "Mt 13:38",
+      "text": "οἱ υἱοὶ τῆς",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 41,
+      "reference": "Mt 13:41",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 55,
+      "reference": "Mt 13:55",
+      "text": "τέκτονος υἱός; οὐχ",
+      "highlightedWord": "υἱός;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 33,
+      "reference": "Mt 14:33",
+      "text": "θεοῦ υἱὸς εἶ.",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Mt 15:22",
+      "text": "κύριε υἱὸς Δαυίδ·",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Mt 16:13",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Mt 16:16",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Mt 16:27",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Mt 16:28",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Mt 17:5",
+      "text": "ὁ υἱός μου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Mt 17:9",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Mt 17:12",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Mt 17:15",
+      "text": "τὸν υἱόν, ὅτι",
+      "highlightedWord": "υἱόν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Mt 17:22",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Mt 17:25",
+      "text": "τῶν υἱῶν αὐτῶν",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Mt 17:26",
+      "text": "οἱ υἱοί.",
+      "highlightedWord": "υἱοί."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Mt 19:28",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Mt 20:18",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Mt 20:20",
+      "text": "τῶν υἱῶν Ζεβεδαίου",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Mt 20:21",
+      "text": "δύο υἱοί μου",
+      "highlightedWord": "υἱοί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Mt 20:28",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Mt 20:30",
+      "text": "ἡμᾶς, υἱὸς Δαυίδ.",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Mt 20:31",
+      "text": "ἡμᾶς, υἱὸς Δαυίδ.",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Mt 21:5",
+      "text": "πῶλον υἱὸν ὑποζυγίου.",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Mt 21:9",
+      "text": "τῷ υἱῷ Δαυίδ·",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Mt 21:15",
+      "text": "τῷ υἱῷ Δαυίδ",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Mt 21:37",
+      "text": "τὸν υἱὸν αὐτοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 38,
+      "reference": "Mt 21:38",
+      "text": "τὸν υἱὸν εἶπον",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Mt 22:2",
+      "text": "τῷ υἱῷ αὐτοῦ.",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 42,
+      "reference": "Mt 22:42",
+      "text": "τίνος υἱός ἐστιν;",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 45,
+      "reference": "Mt 22:45",
+      "text": "πῶς υἱὸς αὐτοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Mt 23:15",
+      "text": "αὐτὸν υἱὸν γεέννης",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 31,
+      "reference": "Mt 23:31",
+      "text": "ὅτι υἱοί ἐστε",
+      "highlightedWord": "υἱοί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 35,
+      "reference": "Mt 23:35",
+      "text": "Ζαχαρίου υἱοῦ Βαραχίου,",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Mt 24:27",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 30,
+      "reference": "Mt 24:30",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "ὁ υἱός, εἰ",
+      "highlightedWord": "υἱός,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 37,
+      "reference": "Mt 24:37",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 39,
+      "reference": "Mt 24:39",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 44,
+      "reference": "Mt 24:44",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 31,
+      "reference": "Mt 25:31",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 2,
+      "reference": "Mt 26:2",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 24,
+      "reference": "Mt 26:24",
+      "text": "μὲν υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 37,
+      "reference": "Mt 26:37",
+      "text": "δύο υἱοὺς Ζεβεδαίου",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 45,
+      "reference": "Mt 26:45",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 63,
+      "reference": "Mt 26:63",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 64,
+      "reference": "Mt 26:64",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 9,
+      "reference": "Mt 27:9",
+      "text": "ἀπὸ υἱῶν Ἰσραήλ,",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 40,
+      "reference": "Mt 27:40",
+      "text": "εἰ υἱὸς εἶ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 43,
+      "reference": "Mt 27:43",
+      "text": "εἰμι υἱός.",
+      "highlightedWord": "υἱός."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 54,
+      "reference": "Mt 27:54",
+      "text": "θεοῦ υἱὸς ἦν",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 56,
+      "reference": "Mt 27:56",
+      "text": "τῶν υἱῶν Ζεβεδαίου.",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Mt 28:19",
+      "text": "τοῦ υἱοῦ καὶ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Mk 1:11",
+      "text": "ὁ υἱός μου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mk 2:10",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Mk 2:19",
+      "text": "οἱ υἱοὶ τοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Mk 2:28",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Mk 3:11",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Mk 3:17",
+      "text": "ἐστιν Υἱοὶ Βροντῆς),",
+      "highlightedWord": "Υἱοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Mk 3:28",
+      "text": "τοῖς υἱοῖς τῶν",
+      "highlightedWord": "υἱοῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Mk 5:7",
+      "text": "Ἰησοῦ υἱὲ τοῦ",
+      "highlightedWord": "υἱὲ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Mk 6:3",
+      "text": "ὁ υἱὸς τῆς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mk 8:31",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Mk 8:38",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Mk 9:7",
+      "text": "ὁ υἱός μου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mk 9:9",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mk 9:12",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Mk 9:17",
+      "text": "τὸν υἱόν μου",
+      "highlightedWord": "υἱόν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mk 9:31",
+      "text": "Ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mk 10:33",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Mk 10:35",
+      "text": "οἱ υἱοὶ Ζεβεδαίου",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 45,
+      "reference": "Mk 10:45",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 46,
+      "reference": "Mk 10:46",
+      "text": "ὁ υἱὸς Τιμαίου",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 47,
+      "reference": "Mk 10:47",
+      "text": "λέγειν· Υἱὲ Δαυὶδ",
+      "highlightedWord": "Υἱὲ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 48,
+      "reference": "Mk 10:48",
+      "text": "ἔκραζεν· Υἱὲ Δαυίδ,",
+      "highlightedWord": "Υἱὲ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Mk 12:6",
+      "text": "εἶχεν, υἱὸν ἀγαπητόν·",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Mk 12:35",
+      "text": "χριστὸς υἱὸς Δαυίδ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Mk 12:37",
+      "text": "ἐστιν υἱός; καὶ",
+      "highlightedWord": "υἱός;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Mk 13:26",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "ὁ υἱός, εἰ",
+      "highlightedWord": "υἱός,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Mk 14:21",
+      "text": "μὲν υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 41,
+      "reference": "Mk 14:41",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 61,
+      "reference": "Mk 14:61",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 62,
+      "reference": "Mk 14:62",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 39,
+      "reference": "Mk 15:39",
+      "text": "ἄνθρωπος υἱὸς θεοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Lk 1:13",
+      "text": "γεννήσει υἱόν σοι,",
+      "highlightedWord": "υἱόν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Lk 1:16",
+      "text": "τῶν υἱῶν Ἰσραὴλ",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Lk 1:31",
+      "text": "τέξῃ υἱόν, καὶ",
+      "highlightedWord": "υἱόν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Lk 1:32",
+      "text": "καὶ υἱὸς Ὑψίστου",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Lk 1:35",
+      "text": "κληθήσεται, υἱὸς θεοῦ·",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 36,
+      "reference": "Lk 1:36",
+      "text": "συνείληφεν υἱὸν ἐν",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 57,
+      "reference": "Lk 1:57",
+      "text": "ἐγέννησεν υἱόν.",
+      "highlightedWord": "υἱόν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Lk 2:7",
+      "text": "τὸν υἱὸν αὐτῆς",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Lk 3:2",
+      "text": "Ζαχαρίου υἱὸν ἐν",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Lk 3:22",
+      "text": "ὁ υἱός μου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Lk 3:23",
+      "text": "ὢν υἱός, ὡς",
+      "highlightedWord": "υἱός,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Lk 4:3",
+      "text": "Εἰ υἱὸς εἶ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Lk 4:9",
+      "text": "Εἰ υἱὸς εἶ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Lk 4:22",
+      "text": "Οὐχὶ υἱός ἐστιν",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Lk 4:41",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Lk 5:10",
+      "text": "Ἰωάννην υἱοὺς Ζεβεδαίου,",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Lk 5:24",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Lk 5:34",
+      "text": "τοὺς υἱοὺς τοῦ",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Lk 6:5",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Lk 6:22",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Lk 6:35",
+      "text": "ἔσεσθε υἱοὶ Ὑψίστου,",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Lk 7:12",
+      "text": "μονογενὴς υἱὸς τῇ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Lk 7:34",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Lk 8:28",
+      "text": "Ἰησοῦ υἱὲ τοῦ",
+      "highlightedWord": "υἱὲ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Lk 9:22",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Lk 9:26",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Lk 9:35",
+      "text": "ὁ υἱός μου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Lk 9:38",
+      "text": "τὸν υἱόν μου,",
+      "highlightedWord": "υἱόν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Lk 9:41",
+      "text": "τὸν υἱόν σου.",
+      "highlightedWord": "υἱόν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 44,
+      "reference": "Lk 9:44",
+      "text": "γὰρ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 58,
+      "reference": "Lk 9:58",
+      "text": "δὲ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Lk 10:6",
+      "text": "ἐκεῖ υἱὸς εἰρήνης,",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Lk 10:22",
+      "text": "ὁ υἱὸς εἰ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Lk 11:11",
+      "text": "ὁ υἱὸς ἰχθύν,",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Lk 11:19",
+      "text": "οἱ υἱοὶ ὑμῶν",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Lk 11:30",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Lk 12:8",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Lk 12:10",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Lk 12:40",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 53,
+      "reference": "Lk 12:53",
+      "text": "ἐπὶ υἱῷ καὶ",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Lk 14:5",
+      "text": "ὑμῶν υἱὸς ἢ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Lk 15:11",
+      "text": "δύο υἱούς.",
+      "highlightedWord": "υἱούς."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Lk 15:13",
+      "text": "νεώτερος υἱὸς ἀπεδήμησεν",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Lk 15:19",
+      "text": "κληθῆναι υἱός σου·",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Lk 15:21",
+      "text": "ὁ υἱὸς αὐτῷ·",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Lk 15:24",
+      "text": "ὁ υἱός μου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Lk 15:25",
+      "text": "ὁ υἱὸς αὐτοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Lk 15:30",
+      "text": "ὁ υἱός σου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Lk 16:8",
+      "text": "οἱ υἱοὶ τοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Lk 17:22",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Lk 17:24",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Lk 17:26",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 30,
+      "reference": "Lk 17:30",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Lk 18:8",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Lk 18:31",
+      "text": "τῷ υἱῷ τοῦ",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 38,
+      "reference": "Lk 18:38",
+      "text": "Ἰησοῦ υἱὲ Δαυίδ,",
+      "highlightedWord": "υἱὲ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 39,
+      "reference": "Lk 18:39",
+      "text": "ἔκραζεν· Υἱὲ Δαυίδ,",
+      "highlightedWord": "Υἱὲ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Lk 19:9",
+      "text": "αὐτὸς υἱὸς Ἀβραάμ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Lk 19:10",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Lk 20:13",
+      "text": "τὸν υἱόν μου",
+      "highlightedWord": "υἱόν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 34,
+      "reference": "Lk 20:34",
+      "text": "Οἱ υἱοὶ τοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 36,
+      "reference": "Lk 20:36",
+      "text": "καὶ υἱοί εἰσιν",
+      "highlightedWord": "υἱοί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 41,
+      "reference": "Lk 20:41",
+      "text": "Δαυὶδ υἱόν;",
+      "highlightedWord": "υἱόν;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 44,
+      "reference": "Lk 20:44",
+      "text": "αὐτοῦ υἱός ἐστιν;",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Lk 21:27",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Lk 21:36",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Lk 22:22",
+      "text": "ὁ υἱὸς μὲν",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 48,
+      "reference": "Lk 22:48",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 69,
+      "reference": "Lk 22:69",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 70,
+      "reference": "Lk 22:70",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 7,
+      "reference": "Lk 24:7",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 42,
+      "reference": "Jn 1:42",
+      "text": "ὁ υἱὸς Ἰωάννου,",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Jn 1:45",
+      "text": "Ἰησοῦν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 49,
+      "reference": "Jn 1:49",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 51,
+      "reference": "Jn 1:51",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jn 3:13",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jn 3:14",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Jn 3:16",
+      "text": "τὸν υἱὸν τὸν",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Jn 3:17",
+      "text": "τὸν υἱὸν εἰς",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Jn 3:18",
+      "text": "μονογενοῦς υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 35,
+      "reference": "Jn 3:35",
+      "text": "τὸν υἱόν, καὶ",
+      "highlightedWord": "υἱόν,"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 36,
+      "reference": "Jn 3:36",
+      "text": "τὸν υἱὸν ἔχει",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Jn 4:5",
+      "text": "τῷ υἱῷ αὐτοῦ·",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Jn 4:12",
+      "text": "οἱ υἱοὶ αὐτοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 46,
+      "reference": "Jn 4:46",
+      "text": "ὁ υἱὸς ἠσθένει",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 47,
+      "reference": "Jn 4:47",
+      "text": "τὸν υἱόν, ἤμελλεν",
+      "highlightedWord": "υἱόν,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 50,
+      "reference": "Jn 4:50",
+      "text": "ὁ υἱός σου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 53,
+      "reference": "Jn 4:53",
+      "text": "Ὁ υἱός σου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "ὁ υἱὸς ποιεῖν",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Jn 5:20",
+      "text": "τὸν υἱὸν καὶ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Jn 5:21",
+      "text": "ὁ υἱὸς οὓς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Jn 5:22",
+      "text": "τῷ υἱῷ,",
+      "highlightedWord": "υἱῷ,"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Jn 5:23",
+      "text": "τὸν υἱὸν καθὼς",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Jn 5:25",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Jn 5:26",
+      "text": "τῷ υἱῷ ἔδωκεν",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Jn 5:27",
+      "text": "ὅτι υἱὸς ἀνθρώπου",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Jn 6:27",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 40,
+      "reference": "Jn 6:40",
+      "text": "τὸν υἱὸν καὶ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Jn 6:42",
+      "text": "ὁ υἱὸς Ἰωσήφ,",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 53,
+      "reference": "Jn 6:53",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 62,
+      "reference": "Jn 6:62",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Jn 8:35",
+      "text": "ὁ υἱὸς μένει",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Jn 8:36",
+      "text": "ὁ υἱὸς ὑμᾶς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Jn 9:19",
+      "text": "ὁ υἱὸς ὑμῶν,",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Jn 9:20",
+      "text": "ὁ υἱὸς ἡμῶν",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Jn 9:35",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Jn 10:36",
+      "text": "εἶπον· Υἱὸς τοῦ",
+      "highlightedWord": "Υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Jn 11:4",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Jn 11:27",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Jn 12:23",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Jn 12:34",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Jn 12:36",
+      "text": "ἵνα υἱοὶ φωτὸς",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Jn 13:31",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Jn 14:13",
+      "text": "τῷ υἱῷ·",
+      "highlightedWord": "υἱῷ·"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Jn 17:1",
+      "text": "τὸν υἱόν, ἵνα",
+      "highlightedWord": "υἱόν,"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Jn 17:12",
+      "text": "ὁ υἱὸς τῆς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Jn 19:7",
+      "text": "ὅτι υἱὸν θεοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Jn 19:26",
+      "text": "ὁ υἱός σου·",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Jn 20:31",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ac 2:17",
+      "text": "οἱ υἱοὶ ὑμῶν",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Ac 3:25",
+      "text": "οἱ υἱοὶ τῶν",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Ac 4:36",
+      "text": "μεθερμηνευόμενον υἱὸς παρακλήσεως,",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Ac 5:21",
+      "text": "τῶν υἱῶν Ἰσραήλ,",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Ac 7:16",
+      "text": "τῶν υἱῶν Ἑμμὼρ",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Ac 7:21",
+      "text": "εἰς υἱόν.",
+      "highlightedWord": "υἱόν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Ac 7:23",
+      "text": "τοὺς υἱοὺς Ἰσραήλ.",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Ac 7:29",
+      "text": "ἐγέννησεν υἱοὺς δύο.",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Ac 7:37",
+      "text": "τοῖς υἱοῖς Ἰσραήλ·",
+      "highlightedWord": "υἱοῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 56,
+      "reference": "Ac 7:56",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Ac 9:15",
+      "text": "βασιλέων υἱῶν τε",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Ac 9:20",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Ac 10:36",
+      "text": "τοῖς υἱοῖς Ἰσραὴλ",
+      "highlightedWord": "υἱοῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Ac 13:10",
+      "text": "ῥᾳδιουργίας, υἱὲ διαβόλου,",
+      "highlightedWord": "υἱὲ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Ac 13:21",
+      "text": "Σαοὺλ υἱὸν Κίς,",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Ac 13:26",
+      "text": "ἀδελφοί, υἱοὶ γένους",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Ac 13:33",
+      "text": "δευτέρῳ· Υἱός μου",
+      "highlightedWord": "Υἱός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Ac 16:1",
+      "text": "Τιμόθεος, υἱὸς γυναικὸς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Ac 19:14",
+      "text": "ἑπτὰ υἱοὶ τοῦτο",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 6,
+      "reference": "Ac 23:6",
+      "text": "εἰμι, υἱὸς Φαρισαίων·",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 16,
+      "reference": "Ac 23:16",
+      "text": "ὁ υἱὸς τῆς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Ro 1:3",
+      "text": "τοῦ υἱοῦ αὐτοῦ,",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Ro 1:4",
+      "text": "ὁρισθέντος υἱοῦ θεοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Ro 1:9",
+      "text": "τοῦ υἱοῦ αὐτοῦ,",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ro 5:10",
+      "text": "τοῦ υἱοῦ αὐτοῦ,",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Ro 8:3",
+      "text": "ἑαυτοῦ υἱὸν πέμψας",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Ro 8:14",
+      "text": "οὗτοι υἱοί εἰσιν",
+      "highlightedWord": "υἱοί"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Ro 8:19",
+      "text": "τῶν υἱῶν τοῦ",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Ro 8:29",
+      "text": "τοῦ υἱοῦ αὐτοῦ,",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Ro 8:32",
+      "text": "ἰδίου υἱοῦ οὐκ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Ro 9:9",
+      "text": "Σάρρᾳ υἱός.",
+      "highlightedWord": "υἱός."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ro 9:26",
+      "text": "κληθήσονται υἱοὶ θεοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Ro 9:27",
+      "text": "τῶν υἱῶν Ἰσραὴλ",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Co 1:9",
+      "text": "τοῦ υἱοῦ αὐτοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "1Co 15:28",
+      "text": "ὁ υἱὸς ὑποταγήσεται",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "2Co 1:19",
+      "text": "γὰρ υἱὸς Ἰησοῦς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Co 3:7",
+      "text": "τοὺς υἱοὺς Ἰσραὴλ",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Co 3:13",
+      "text": "τοὺς υἱοὺς Ἰσραὴλ",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "2Co 6:18",
+      "text": "εἰς υἱοὺς καὶ",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ga 1:16",
+      "text": "τὸν υἱὸν αὐτοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Ga 2:20",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Ga 3:7",
+      "text": "οὗτοι υἱοί εἰσιν",
+      "highlightedWord": "υἱοί"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Ga 3:26",
+      "text": "γὰρ υἱοὶ θεοῦ",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Ga 4:4",
+      "text": "τὸν υἱὸν αὐτοῦ,",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Ga 4:6",
+      "text": "ἐστε υἱοί, ἐξαπέστειλεν",
+      "highlightedWord": "υἱοί,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ga 4:7",
+      "text": "ἀλλὰ υἱός· εἰ",
+      "highlightedWord": "υἱός·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Ga 4:22",
+      "text": "δύο υἱοὺς ἔσχεν,",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Ga 4:30",
+      "text": "τὸν υἱὸν αὐτῆς,",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Eph 2:2",
+      "text": "τοῖς υἱοῖς τῆς",
+      "highlightedWord": "υἱοῖς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Eph 3:5",
+      "text": "τοῖς υἱοῖς τῶν",
+      "highlightedWord": "υἱοῖς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Eph 4:13",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Eph 5:6",
+      "text": "τοὺς υἱοὺς τῆς",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Col 1:13",
+      "text": "τοῦ υἱοῦ τῆς",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Col 3:6",
+      "text": "τοὺς υἱοὺς τῆς",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "1Th 1:10",
+      "text": "τὸν υἱὸν αὐτοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Th 5:5",
+      "text": "ὑμεῖς υἱοὶ φωτός",
+      "highlightedWord": "υἱοὶ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Th 2:3",
+      "text": "ὁ υἱὸς τῆς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Heb 1:2",
+      "text": "ἐν υἱῷ, ὃν",
+      "highlightedWord": "υἱῷ,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Heb 1:5",
+      "text": "ἀγγέλων· Υἱός μου",
+      "highlightedWord": "Υἱός"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Heb 1:8",
+      "text": "τὸν υἱόν· Ὁ",
+      "highlightedWord": "υἱόν·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Heb 2:6",
+      "text": "ἢ υἱὸς ἀνθρώπου",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Heb 2:10",
+      "text": "πολλοὺς υἱοὺς εἰς",
+      "highlightedWord": "υἱοὺς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Heb 3:6",
+      "text": "ὡς υἱὸς ἐπὶ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Heb 4:14",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Heb 5:5",
+      "text": "αὐτόν· Υἱός μου",
+      "highlightedWord": "Υἱός"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Heb 5:8",
+      "text": "ὢν υἱός, ἔμαθεν",
+      "highlightedWord": "υἱός,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Heb 6:6",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Heb 7:3",
+      "text": "τῷ υἱῷ τοῦ",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Heb 7:5",
+      "text": "τῶν υἱῶν Λευὶ",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Heb 7:28",
+      "text": "νόμον υἱόν, εἰς",
+      "highlightedWord": "υἱόν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Heb 10:29",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Heb 11:21",
+      "text": "τῶν υἱῶν Ἰωσὴφ",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Heb 11:22",
+      "text": "τῶν υἱῶν Ἰσραὴλ",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Heb 11:24",
+      "text": "λέγεσθαι υἱὸς θυγατρὸς",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Heb 12:5",
+      "text": "ὡς υἱοῖς διαλέγεται,",
+      "highlightedWord": "υἱοῖς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Heb 12:6",
+      "text": "πάντα υἱὸν ὃν",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Heb 12:7",
+      "text": "ὡς υἱοῖς ὑμῖν",
+      "highlightedWord": "υἱοῖς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Heb 12:8",
+      "text": "οὐχ υἱοί ἐστε.",
+      "highlightedWord": "υἱοί"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Jas 2:21",
+      "text": "τὸν υἱὸν αὐτοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Pe 5:13",
+      "text": "ὁ υἱός μου.",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Pe 1:17",
+      "text": "Ὁ υἱός μου",
+      "highlightedWord": "υἱός"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Jn 1:3",
+      "text": "τοῦ υἱοῦ αὐτοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Jn 1:7",
+      "text": "τοῦ υἱοῦ αὐτοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "1Jn 2:22",
+      "text": "τὸν υἱόν.",
+      "highlightedWord": "υἱόν."
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "1Jn 2:23",
+      "text": "τὸν υἱὸν οὐδὲ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "1Jn 2:24",
+      "text": "τῷ υἱῷ καὶ",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Jn 3:8",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "1Jn 3:23",
+      "text": "τοῦ υἱοῦ αὐτοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Jn 4:9",
+      "text": "τὸν υἱὸν αὐτοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Jn 4:10",
+      "text": "τὸν υἱὸν αὐτοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Jn 4:14",
+      "text": "τὸν υἱὸν σωτῆρα",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Jn 4:15",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Jn 5:5",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Jn 5:9",
+      "text": "τοῦ υἱοῦ αὐτοῦ.",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Jn 5:10",
+      "text": "τὸν υἱὸν τοῦ",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "1Jn 5:11",
+      "text": "τῷ υἱῷ αὐτοῦ",
+      "highlightedWord": "υἱῷ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Jn 5:12",
+      "text": "τὸν υἱὸν ἔχει",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Jn 5:13",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Jn 5:20",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Jn 1:3",
+      "text": "τοῦ υἱοῦ τοῦ",
+      "highlightedWord": "υἱοῦ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Jn 1:9",
+      "text": "τὸν υἱὸν ἔχει.",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "ὅμοιον υἱὸν ἀνθρώπου,",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "τῶν υἱῶν Ἰσραήλ,",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Re 2:18",
+      "text": "ὁ υἱὸς τοῦ",
+      "highlightedWord": "υἱὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Re 7:4",
+      "text": "φυλῆς υἱῶν Ἰσραήλ·",
+      "highlightedWord": "υἱῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Re 12:5",
+      "text": "ἔτεκεν υἱόν, ἄρσεν,",
+      "highlightedWord": "υἱόν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "ὅμοιον υἱὸν ἀνθρώπου,",
+      "highlightedWord": "υἱὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Re 21:7",
+      "text": "μοι υἱός.",
+      "highlightedWord": "υἱός."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Re 21:12",
+      "text": "φυλῶν υἱῶν Ἰσραήλ·",
+      "highlightedWord": "υἱῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

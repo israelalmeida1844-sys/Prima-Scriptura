@@ -1,0 +1,405 @@
+{
+  "strong": "G2078",
+  "lemma": "ἔσχατος",
+  "lemmaTranslit": "eschatos",
+  "tokenCount": 52,
+  "verseCount": 47,
+  "bookDistribution": {
+    "Mateus": 10,
+    "Marcos": 5,
+    "Lucas": 6,
+    "João": 7,
+    "Atos": 3,
+    "1 Coríntios": 5,
+    "2 Timóteo": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "1 Pedro": 2,
+    "2 Pedro": 2,
+    "1 João": 2,
+    "Judas": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mt 5:26",
+      "text": "τὸν ἔσχατον κοδράντην.",
+      "highlightedWord": "ἔσχατον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "τὰ ἔσχατα τοῦ",
+      "highlightedWord": "ἔσχατα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Mt 19:30",
+      "text": "πρῶτοι ἔσχατοι καὶ",
+      "highlightedWord": "ἔσχατοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Mt 20:8",
+      "text": "τῶν ἐσχάτων ἕως",
+      "highlightedWord": "ἐσχάτων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Mt 20:12",
+      "text": "οἱ ἔσχατοι μίαν",
+      "highlightedWord": "ἔσχατοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Mt 20:14",
+      "text": "τῷ ἐσχάτῳ δοῦναι",
+      "highlightedWord": "ἐσχάτῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Mt 20:16",
+      "text": "οἱ ἔσχατοι πρῶτοι",
+      "highlightedWord": "ἔσχατοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 64,
+      "reference": "Mt 27:64",
+      "text": "ἡ ἐσχάτη πλάνη",
+      "highlightedWord": "ἐσχάτη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mk 9:35",
+      "text": "πάντων ἔσχατος καὶ",
+      "highlightedWord": "ἔσχατος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Mk 10:31",
+      "text": "πρῶτοι ἔσχατοι καὶ",
+      "highlightedWord": "ἔσχατοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Mk 12:6",
+      "text": "αὐτὸν ἔσχατον πρὸς",
+      "highlightedWord": "ἔσχατον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Mk 12:22",
+      "text": "σπέρμα· ἔσχατον πάντων",
+      "highlightedWord": "ἔσχατον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Lk 11:26",
+      "text": "τὰ ἔσχατα τοῦ",
+      "highlightedWord": "ἔσχατα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 59,
+      "reference": "Lk 12:59",
+      "text": "τὸ ἔσχατον λεπτὸν",
+      "highlightedWord": "ἔσχατον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Lk 13:30",
+      "text": "εἰσὶν ἔσχατοι οἳ",
+      "highlightedWord": "ἔσχατοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Lk 14:9",
+      "text": "τὸν ἔσχατον τόπον",
+      "highlightedWord": "ἔσχατον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Lk 14:10",
+      "text": "τὸν ἔσχατον τόπον,",
+      "highlightedWord": "ἔσχατον"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Jn 6:39",
+      "text": "τῇ ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἐσχάτῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 40,
+      "reference": "Jn 6:40",
+      "text": "τῇ ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἐσχάτῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Jn 6:44",
+      "text": "τῇ ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἐσχάτῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 54,
+      "reference": "Jn 6:54",
+      "text": "τῇ ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἐσχάτῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Jn 7:37",
+      "text": "τῇ ἐσχάτῃ ἡμέρᾳ",
+      "highlightedWord": "ἐσχάτῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Jn 11:24",
+      "text": "τῇ ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἐσχάτῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Jn 12:48",
+      "text": "τῇ ἐσχάτῃ ἡμέρᾳ·",
+      "highlightedWord": "ἐσχάτῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ac 1:8",
+      "text": "ἕως ἐσχάτου τῆς",
+      "highlightedWord": "ἐσχάτου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ac 2:17",
+      "text": "ταῖς ἐσχάταις ἡμέραις,",
+      "highlightedWord": "ἐσχάταις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 47,
+      "reference": "Ac 13:47",
+      "text": "ἕως ἐσχάτου τῆς",
+      "highlightedWord": "ἐσχάτου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Co 4:9",
+      "text": "ἀποστόλους ἐσχάτους ἀπέδειξεν",
+      "highlightedWord": "ἐσχάτους"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "1Co 15:8",
+      "text": "ἔσχατον δὲ",
+      "highlightedWord": "ἔσχατον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "1Co 15:26",
+      "text": "ἔσχατος ἐχθρὸς",
+      "highlightedWord": "ἔσχατος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 45,
+      "reference": "1Co 15:45",
+      "text": "ὁ ἔσχατος Ἀδὰμ",
+      "highlightedWord": "ἔσχατος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 52,
+      "reference": "1Co 15:52",
+      "text": "τῇ ἐσχάτῃ σάλπιγγι·",
+      "highlightedWord": "ἐσχάτῃ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Ti 3:1",
+      "text": "ἐν ἐσχάταις ἡμέραις",
+      "highlightedWord": "ἐσχάταις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Heb 1:2",
+      "text": "ἐπ’ ἐσχάτου τῶν",
+      "highlightedWord": "ἐσχάτου"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Jas 5:3",
+      "text": "ἐν ἐσχάταις ἡμέραις.",
+      "highlightedWord": "ἐσχάταις"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Pe 1:5",
+      "text": "καιρῷ ἐσχάτῳ.",
+      "highlightedWord": "ἐσχάτῳ."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "1Pe 1:20",
+      "text": "ἐπ’ ἐσχάτου τῶν",
+      "highlightedWord": "ἐσχάτου"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Pe 2:20",
+      "text": "τὰ ἔσχατα χείρονα",
+      "highlightedWord": "ἔσχατα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Pe 3:3",
+      "text": "ἐπ’ ἐσχάτων τῶν",
+      "highlightedWord": "ἐσχάτων"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "1Jn 2:18",
+      "text": "Παιδία, ἐσχάτη ὥρα",
+      "highlightedWord": "ἐσχάτη"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Jud 1:18",
+      "text": "Ἐπ’ ἐσχάτου χρόνου",
+      "highlightedWord": "ἐσχάτου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "ὁ ἔσχατος,",
+      "highlightedWord": "ἔσχατος,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Re 2:8",
+      "text": "ὁ ἔσχατος, ὃς",
+      "highlightedWord": "ἔσχατος,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "τὰ ἔσχατα πλείονα",
+      "highlightedWord": "ἔσχατα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Re 15:1",
+      "text": "τὰς ἐσχάτας, ὅτι",
+      "highlightedWord": "ἐσχάτας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Re 21:9",
+      "text": "τῶν ἐσχάτων, καὶ",
+      "highlightedWord": "ἐσχάτων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Re 22:13",
+      "text": "ὁ ἔσχατος, ἡ",
+      "highlightedWord": "ἔσχατος,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

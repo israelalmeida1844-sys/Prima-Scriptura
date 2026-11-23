@@ -1,0 +1,600 @@
+{
+  "strong": "G4750",
+  "lemma": "στόμα",
+  "lemmaTranslit": "stoma",
+  "tokenCount": 78,
+  "verseCount": 71,
+  "bookDistribution": {
+    "Mateus": 11,
+    "Lucas": 9,
+    "João": 1,
+    "Atos": 12,
+    "Romanos": 6,
+    "2 Coríntios": 2,
+    "Efésios": 2,
+    "Colossenses": 1,
+    "2 Tessalonicenses": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 2,
+    "Tiago": 2,
+    "1 Pedro": 1,
+    "2 João": 2,
+    "3 João": 2,
+    "Judas": 1,
+    "Apocalipse": 22
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Mt 4:4",
+      "text": "διὰ στόματος θεοῦ.",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Mt 5:2",
+      "text": "τὸ στόμα αὐτοῦ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Mt 12:34",
+      "text": "τὸ στόμα λαλεῖ.",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Mt 13:35",
+      "text": "τὸ στόμα μου,",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Mt 15:11",
+      "text": "τὸ στόμα κοινοῖ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Mt 15:17",
+      "text": "τὸ στόμα εἰς",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Mt 15:18",
+      "text": "τοῦ στόματος ἐκ",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "τὸ στόμα αὐτοῦ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Mt 18:16",
+      "text": "ἐπὶ στόματος δύο",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Mt 21:16",
+      "text": "Ἐκ στόματος νηπίων",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 64,
+      "reference": "Lk 1:64",
+      "text": "τὸ στόμα αὐτοῦ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 70,
+      "reference": "Lk 1:70",
+      "text": "διὰ στόματος τῶν",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Lk 4:22",
+      "text": "τοῦ στόματος αὐτοῦ,",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 45,
+      "reference": "Lk 6:45",
+      "text": "τὸ στόμα αὐτοῦ.",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 54,
+      "reference": "Lk 11:54",
+      "text": "τοῦ στόματος αὐτοῦ.",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Lk 19:22",
+      "text": "τοῦ στόματός σου",
+      "highlightedWord": "στόματός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Lk 21:15",
+      "text": "ὑμῖν στόμα καὶ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Lk 21:24",
+      "text": "πεσοῦνται στόματι μαχαίρης",
+      "highlightedWord": "στόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 71,
+      "reference": "Lk 22:71",
+      "text": "τοῦ στόματος αὐτοῦ.",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Jn 19:29",
+      "text": "τῷ στόματι.",
+      "highlightedWord": "στόματι."
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ac 1:16",
+      "text": "διὰ στόματος Δαυὶδ",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Ac 3:18",
+      "text": "διὰ στόματος πάντων",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ac 3:21",
+      "text": "διὰ στόματος τῶν",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Ac 4:25",
+      "text": "ἁγίου στόματος Δαυὶδ",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Ac 8:32",
+      "text": "τὸ στόμα αὐτοῦ.",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Ac 8:35",
+      "text": "τὸ στόμα αὐτοῦ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Ac 10:34",
+      "text": "τὸ στόμα εἶπεν·",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Ac 11:8",
+      "text": "τὸ στόμα μου.",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Ac 15:7",
+      "text": "τοῦ στόματός μου",
+      "highlightedWord": "στόματός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "τὸ στόμα εἶπεν",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Ac 22:14",
+      "text": "τοῦ στόματος αὐτοῦ,",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 2,
+      "reference": "Ac 23:2",
+      "text": "τὸ στόμα.",
+      "highlightedWord": "στόμα."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Ro 3:14",
+      "text": "τὸ στόμα ἀρᾶς",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ro 3:19",
+      "text": "πᾶν στόμα φραγῇ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Ro 10:8",
+      "text": "τῷ στόματί σου",
+      "highlightedWord": "στόματί"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Ro 10:9",
+      "text": "τῷ στόματί σου",
+      "highlightedWord": "στόματί"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Ro 10:10",
+      "text": "δικαιοσύνην, στόματι δὲ",
+      "highlightedWord": "στόματι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Ro 15:6",
+      "text": "ἑνὶ στόματι δοξάζητε",
+      "highlightedWord": "στόματι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "2Co 6:11",
+      "text": "Τὸ στόμα ἡμῶν",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "2Co 13:1",
+      "text": "ἐπὶ στόματος δύο",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "τοῦ στόματος ὑμῶν",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Eph 6:19",
+      "text": "τοῦ στόματός μου,",
+      "highlightedWord": "στόματός"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Col 3:8",
+      "text": "τοῦ στόματος ὑμῶν·",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "2Th 2:8",
+      "text": "τοῦ στόματος αὐτοῦ",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "2Ti 4:17",
+      "text": "ἐκ στόματος λέοντος.",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Heb 11:33",
+      "text": "ἔφραξαν στόματα λεόντων,",
+      "highlightedWord": "στόματα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Heb 11:34",
+      "text": "ἔφυγον στόματα μαχαίρης,",
+      "highlightedWord": "στόματα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Jas 3:3",
+      "text": "τὰ στόματα βάλλομεν",
+      "highlightedWord": "στόματα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Jas 3:10",
+      "text": "αὐτοῦ στόματος ἐξέρχεται",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "1Pe 2:22",
+      "text": "τῷ στόματι αὐτοῦ·",
+      "highlightedWord": "στόματι"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Jn 1:12",
+      "text": "καὶ στόμα πρὸς",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "3Jn 1:14",
+      "text": "καὶ στόμα πρὸς",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Jud 1:16",
+      "text": "τὸ στόμα αὐτῶν",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "τοῦ στόματος αὐτοῦ",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Re 2:16",
+      "text": "τοῦ στόματός μου.",
+      "highlightedWord": "στόματός"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Re 3:16",
+      "text": "τοῦ στόματός μου.",
+      "highlightedWord": "στόματός"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "τῶν στομάτων αὐτῶν",
+      "highlightedWord": "στομάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Re 9:18",
+      "text": "τῶν στομάτων αὐτῶν.",
+      "highlightedWord": "στομάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Re 9:19",
+      "text": "τῷ στόματι αὐτῶν",
+      "highlightedWord": "στόματι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Re 10:9",
+      "text": "τῷ στόματί σου",
+      "highlightedWord": "στόματί"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Re 10:10",
+      "text": "τῷ στόματί μου",
+      "highlightedWord": "στόματί"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Re 11:5",
+      "text": "τοῦ στόματος αὐτῶν",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Re 12:15",
+      "text": "τοῦ στόματος αὐτοῦ",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Re 12:16",
+      "text": "τὸ στόμα αὐτῆς",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Re 13:2",
+      "text": "τὸ στόμα αὐτοῦ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Re 13:5",
+      "text": "αὐτῷ στόμα λαλοῦν",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Re 13:6",
+      "text": "τὸ στόμα αὐτοῦ",
+      "highlightedWord": "στόμα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Re 14:5",
+      "text": "τῷ στόματι αὐτῶν",
+      "highlightedWord": "στόματι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Re 16:13",
+      "text": "τοῦ στόματος τοῦ",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "τοῦ στόματος αὐτοῦ",
+      "highlightedWord": "στόματος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Re 19:21",
+      "text": "τοῦ στόματος αὐτοῦ,",
+      "highlightedWord": "στόματος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,276 @@
+{
+  "strong": "G5281",
+  "lemma": "ὑπομονή",
+  "lemmaTranslit": "ypomonē",
+  "tokenCount": 32,
+  "verseCount": 31,
+  "bookDistribution": {
+    "Lucas": 2,
+    "Romanos": 6,
+    "2 Coríntios": 3,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 2,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 2,
+    "Tiago": 3,
+    "2 Pedro": 2,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Lk 8:15",
+      "text": "ἐν ὑπομονῇ.",
+      "highlightedWord": "ὑπομονῇ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Lk 21:19",
+      "text": "τῇ ὑπομονῇ ὑμῶν",
+      "highlightedWord": "ὑπομονῇ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Ro 2:7",
+      "text": "καθ’ ὑπομονὴν ἔργου",
+      "highlightedWord": "ὑπομονὴν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ro 5:3",
+      "text": "θλῖψις ὑπομονὴν κατεργάζεται,",
+      "highlightedWord": "ὑπομονὴν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Ro 5:4",
+      "text": "δὲ ὑπομονὴ δοκιμήν,",
+      "highlightedWord": "ὑπομονὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Ro 8:25",
+      "text": "δι’ ὑπομονῆς ἀπεκδεχόμεθα.",
+      "highlightedWord": "ὑπομονῆς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Ro 15:4",
+      "text": "τῆς ὑπομονῆς καὶ",
+      "highlightedWord": "ὑπομονῆς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Ro 15:5",
+      "text": "τῆς ὑπομονῆς καὶ",
+      "highlightedWord": "ὑπομονῆς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Co 1:6",
+      "text": "ἐν ὑπομονῇ τῶν",
+      "highlightedWord": "ὑπομονῇ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "2Co 6:4",
+      "text": "ἐν ὑπομονῇ πολλῇ,",
+      "highlightedWord": "ὑπομονῇ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "2Co 12:12",
+      "text": "πάσῃ ὑπομονῇ, σημείοις",
+      "highlightedWord": "ὑπομονῇ,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Col 1:11",
+      "text": "πᾶσαν ὑπομονὴν καὶ",
+      "highlightedWord": "ὑπομονὴν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Th 1:3",
+      "text": "τῆς ὑπομονῆς τῆς",
+      "highlightedWord": "ὑπομονῆς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Th 1:4",
+      "text": "τῆς ὑπομονῆς ὑμῶν",
+      "highlightedWord": "ὑπομονῆς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Th 3:5",
+      "text": "τὴν ὑπομονὴν τοῦ",
+      "highlightedWord": "ὑπομονὴν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "1Ti 6:11",
+      "text": "ἀγάπην, ὑπομονήν, πραϋπαθίαν.",
+      "highlightedWord": "ὑπομονήν,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Ti 3:10",
+      "text": "τῇ ὑπομονῇ,",
+      "highlightedWord": "ὑπομονῇ,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Tit 2:2",
+      "text": "τῇ ὑπομονῇ.",
+      "highlightedWord": "ὑπομονῇ."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Heb 10:36",
+      "text": "ὑπομονῆς γὰρ",
+      "highlightedWord": "ὑπομονῆς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Heb 12:1",
+      "text": "δι’ ὑπομονῆς τρέχωμεν",
+      "highlightedWord": "ὑπομονῆς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Jas 1:3",
+      "text": "κατεργάζεται ὑπομονήν·",
+      "highlightedWord": "ὑπομονήν·"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jas 1:4",
+      "text": "δὲ ὑπομονὴ ἔργον",
+      "highlightedWord": "ὑπομονὴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Jas 5:11",
+      "text": "τὴν ὑπομονὴν Ἰὼβ",
+      "highlightedWord": "ὑπομονὴν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Pe 1:6",
+      "text": "τὴν ὑπομονήν, ἐν",
+      "highlightedWord": "ὑπομονήν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Re 1:9",
+      "text": "καὶ ὑπομονῇ ἐν",
+      "highlightedWord": "ὑπομονῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "τὴν ὑπομονήν σου,",
+      "highlightedWord": "ὑπομονήν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Re 2:3",
+      "text": "καὶ ὑπομονὴν ἔχεις,",
+      "highlightedWord": "ὑπομονὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "τὴν ὑπομονήν σου,",
+      "highlightedWord": "ὑπομονήν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Re 3:10",
+      "text": "τῆς ὑπομονῆς μου,",
+      "highlightedWord": "ὑπομονῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Re 13:10",
+      "text": "ἡ ὑπομονὴ καὶ",
+      "highlightedWord": "ὑπομονὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Re 14:12",
+      "text": "ἡ ὑπομονὴ τῶν",
+      "highlightedWord": "ὑπομονὴ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

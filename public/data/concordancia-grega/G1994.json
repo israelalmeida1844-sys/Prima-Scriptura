@@ -1,0 +1,307 @@
+{
+  "strong": "G1994",
+  "lemma": "ἐπιστρέφω",
+  "lemmaTranslit": "epistrephō",
+  "tokenCount": 36,
+  "verseCount": 35,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 4,
+    "Lucas": 7,
+    "João": 1,
+    "Atos": 11,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "1 Tessalonicenses": 1,
+    "Tiago": 2,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Mt 10:13",
+      "text": "ὑμᾶς ἐπιστραφήτω.",
+      "highlightedWord": "ἐπιστραφήτω."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 44,
+      "reference": "Mt 12:44",
+      "text": "μου ἐπιστρέψω ὅθεν",
+      "highlightedWord": "ἐπιστρέψω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Mt 13:15",
+      "text": "καὶ ἐπιστρέψωσιν, καὶ",
+      "highlightedWord": "ἐπιστρέψωσιν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Mt 24:18",
+      "text": "μὴ ἐπιστρεψάτω ὀπίσω",
+      "highlightedWord": "ἐπιστρεψάτω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Mk 4:12",
+      "text": "μήποτε ἐπιστρέψωσιν καὶ",
+      "highlightedWord": "ἐπιστρέψωσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mk 5:30",
+      "text": "ἐξελθοῦσαν ἐπιστραφεὶς ἐν",
+      "highlightedWord": "ἐπιστραφεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Mk 8:33",
+      "text": "δὲ ἐπιστραφεὶς καὶ",
+      "highlightedWord": "ἐπιστραφεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Mk 13:16",
+      "text": "μὴ ἐπιστρεψάτω εἰς",
+      "highlightedWord": "ἐπιστρεψάτω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Lk 1:16",
+      "text": "Ἰσραὴλ ἐπιστρέψει ἐπὶ",
+      "highlightedWord": "ἐπιστρέψει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Lk 1:17",
+      "text": "Ἠλίου, ἐπιστρέψαι καρδίας",
+      "highlightedWord": "ἐπιστρέψαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 39,
+      "reference": "Lk 2:39",
+      "text": "κυρίου, ἐπέστρεψαν εἰς",
+      "highlightedWord": "ἐπέστρεψαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 55,
+      "reference": "Lk 8:55",
+      "text": "καὶ ἐπέστρεψεν τὸ",
+      "highlightedWord": "ἐπέστρεψεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Lk 17:4",
+      "text": "ἑπτάκις ἐπιστρέψῃ πρὸς",
+      "highlightedWord": "ἐπιστρέψῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Lk 17:31",
+      "text": "μὴ ἐπιστρεψάτω εἰς",
+      "highlightedWord": "ἐπιστρεψάτω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 32,
+      "reference": "Lk 22:32",
+      "text": "ποτε ἐπιστρέψας στήρισον",
+      "highlightedWord": "ἐπιστρέψας"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 20,
+      "reference": "Jn 21:20",
+      "text": "Ἐπιστραφεὶς ὁ",
+      "highlightedWord": "Ἐπιστραφεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ac 3:19",
+      "text": "καὶ ἐπιστρέψατε πρὸς",
+      "highlightedWord": "ἐπιστρέψατε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Ac 9:35",
+      "text": "οἵτινες ἐπέστρεψαν ἐπὶ",
+      "highlightedWord": "ἐπέστρεψαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Ac 9:40",
+      "text": "καὶ ἐπιστρέψας πρὸς",
+      "highlightedWord": "ἐπιστρέψας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Ac 11:21",
+      "text": "πιστεύσας ἐπέστρεψεν ἐπὶ",
+      "highlightedWord": "ἐπέστρεψεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ac 14:15",
+      "text": "ματαίων ἐπιστρέφειν ἐπὶ",
+      "highlightedWord": "ἐπιστρέφειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Ac 15:19",
+      "text": "ἐθνῶν ἐπιστρέφουσιν ἐπὶ",
+      "highlightedWord": "ἐπιστρέφουσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Ac 15:36",
+      "text": "Παῦλος· Ἐπιστρέψαντες δὴ",
+      "highlightedWord": "Ἐπιστρέψαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ac 16:18",
+      "text": "καὶ ἐπιστρέψας τῷ",
+      "highlightedWord": "ἐπιστρέψας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 18,
+      "reference": "Ac 26:18",
+      "text": "τοῦ ἐπιστρέψαι ἀπὸ",
+      "highlightedWord": "ἐπιστρέψαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 20,
+      "reference": "Ac 26:20",
+      "text": "καὶ ἐπιστρέφειν ἐπὶ",
+      "highlightedWord": "ἐπιστρέφειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 27,
+      "reference": "Ac 28:27",
+      "text": "καὶ ἐπιστρέψωσιν, καὶ",
+      "highlightedWord": "ἐπιστρέψωσιν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "2Co 3:16",
+      "text": "ἐὰν ἐπιστρέψῃ πρὸς",
+      "highlightedWord": "ἐπιστρέψῃ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ga 4:9",
+      "text": "πῶς ἐπιστρέφετε πάλιν",
+      "highlightedWord": "ἐπιστρέφετε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Th 1:9",
+      "text": "πῶς ἐπεστρέψατε πρὸς",
+      "highlightedWord": "ἐπεστρέψατε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jas 5:19",
+      "text": "καὶ ἐπιστρέψῃ τις",
+      "highlightedWord": "ἐπιστρέψῃ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Jas 5:20",
+      "text": "ὁ ἐπιστρέψας ἁμαρτωλὸν",
+      "highlightedWord": "ἐπιστρέψας"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "1Pe 2:25",
+      "text": "ἀλλὰ ἐπεστράφητε νῦν",
+      "highlightedWord": "ἐπεστράφητε"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "2Pe 2:22",
+      "text": "Κύων ἐπιστρέψας ἐπὶ",
+      "highlightedWord": "ἐπιστρέψας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Re 1:12",
+      "text": "Καὶ ἐπέστρεψα βλέπειν",
+      "highlightedWord": "ἐπέστρεψα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

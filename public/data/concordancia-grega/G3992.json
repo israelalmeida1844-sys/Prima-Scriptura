@@ -1,0 +1,655 @@
+{
+  "strong": "G3992",
+  "lemma": "πέμπω",
+  "lemmaTranslit": "pempō",
+  "tokenCount": 79,
+  "verseCount": 78,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 1,
+    "Lucas": 10,
+    "João": 32,
+    "Atos": 11,
+    "Romanos": 1,
+    "1 Coríntios": 2,
+    "2 Coríntios": 1,
+    "Efésios": 1,
+    "Filipenses": 5,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 1,
+    "Tito": 1,
+    "1 Pedro": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Mt 2:8",
+      "text": "καὶ πέμψας αὐτοὺς",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Mt 11:2",
+      "text": "χριστοῦ πέμψας διὰ",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Mt 14:10",
+      "text": "καὶ πέμψας ἀπεκεφάλισεν",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Mt 22:7",
+      "text": "καὶ πέμψας τὰ",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Mk 5:12",
+      "text": "λέγοντες· Πέμψον ἡμᾶς",
+      "highlightedWord": "Πέμψον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Lk 4:26",
+      "text": "αὐτῶν ἐπέμφθη Ἠλίας",
+      "highlightedWord": "ἐπέμφθη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Lk 7:6",
+      "text": "οἰκίας ἔπεμψεν φίλους",
+      "highlightedWord": "ἔπεμψεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Lk 7:10",
+      "text": "οἱ πεμφθέντες εὗρον",
+      "highlightedWord": "πεμφθέντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Lk 7:19",
+      "text": "ἔπεμψεν πρὸς",
+      "highlightedWord": "ἔπεμψεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 15,
+      "reference": "Lk 15:15",
+      "text": "καὶ ἔπεμψεν αὐτὸν",
+      "highlightedWord": "ἔπεμψεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Lk 16:24",
+      "text": "καὶ πέμψον Λάζαρον",
+      "highlightedWord": "πέμψον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Lk 16:27",
+      "text": "ἵνα πέμψῃς αὐτὸν",
+      "highlightedWord": "πέμψῃς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Lk 20:11",
+      "text": "ἕτερον πέμψαι δοῦλον·",
+      "highlightedWord": "πέμψαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Lk 20:12",
+      "text": "τρίτον πέμψαι· οἱ",
+      "highlightedWord": "πέμψαι·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Lk 20:13",
+      "text": "ποιήσω; πέμψω τὸν",
+      "highlightedWord": "πέμψω"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Jn 1:22",
+      "text": "τοῖς πέμψασιν ἡμᾶς·",
+      "highlightedWord": "πέμψασιν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Jn 1:33",
+      "text": "ὁ πέμψας με",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Jn 4:34",
+      "text": "τοῦ πέμψαντός με",
+      "highlightedWord": "πέμψαντός"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Jn 5:23",
+      "text": "τὸν πέμψαντα αὐτόν.",
+      "highlightedWord": "πέμψαντα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Jn 5:24",
+      "text": "τῷ πέμψαντί με",
+      "highlightedWord": "πέμψαντί"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Jn 5:30",
+      "text": "τοῦ πέμψαντός με.",
+      "highlightedWord": "πέμψαντός"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Jn 5:37",
+      "text": "ὁ πέμψας με",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Jn 6:38",
+      "text": "τοῦ πέμψαντός με·",
+      "highlightedWord": "πέμψαντός"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Jn 6:39",
+      "text": "τοῦ πέμψαντός με",
+      "highlightedWord": "πέμψαντός"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Jn 6:44",
+      "text": "ὁ πέμψας με",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Jn 7:16",
+      "text": "τοῦ πέμψαντός με·",
+      "highlightedWord": "πέμψαντός"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Jn 7:18",
+      "text": "τοῦ πέμψαντος αὐτὸν",
+      "highlightedWord": "πέμψαντος"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Jn 7:28",
+      "text": "ὁ πέμψας με,",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Jn 7:33",
+      "text": "τὸν πέμψαντά με.",
+      "highlightedWord": "πέμψαντά"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Jn 8:16",
+      "text": "ὁ πέμψας με",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Jn 8:18",
+      "text": "ὁ πέμψας με",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Jn 8:26",
+      "text": "ὁ πέμψας με",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Jn 8:29",
+      "text": "ὁ πέμψας με",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Jn 9:4",
+      "text": "τοῦ πέμψαντός με",
+      "highlightedWord": "πέμψαντός"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 44,
+      "reference": "Jn 12:44",
+      "text": "τὸν πέμψαντά με,",
+      "highlightedWord": "πέμψαντά"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Jn 12:45",
+      "text": "τὸν πέμψαντά με.",
+      "highlightedWord": "πέμψαντά"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 49,
+      "reference": "Jn 12:49",
+      "text": "ὁ πέμψας με",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Jn 13:16",
+      "text": "τοῦ πέμψαντος αὐτόν.",
+      "highlightedWord": "πέμψαντος"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Jn 13:20",
+      "text": "τινα πέμψω ἐμὲ",
+      "highlightedWord": "πέμψω"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Jn 14:24",
+      "text": "τοῦ πέμψαντός με",
+      "highlightedWord": "πέμψαντός"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Jn 14:26",
+      "text": "ὃ πέμψει ὁ",
+      "highlightedWord": "πέμψει"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Jn 15:21",
+      "text": "τὸν πέμψαντά με.",
+      "highlightedWord": "πέμψαντά"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Jn 15:26",
+      "text": "ἐγὼ πέμψω ὑμῖν",
+      "highlightedWord": "πέμψω"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Jn 16:5",
+      "text": "τὸν πέμψαντά με",
+      "highlightedWord": "πέμψαντά"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Jn 16:7",
+      "text": "πορευθῶ, πέμψω αὐτὸν",
+      "highlightedWord": "πέμψω"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Jn 20:21",
+      "text": "κἀγὼ πέμπω ὑμᾶς.",
+      "highlightedWord": "πέμπω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Ac 10:5",
+      "text": "νῦν πέμψον ἄνδρας",
+      "highlightedWord": "πέμψον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Ac 10:32",
+      "text": "πέμψον οὖν",
+      "highlightedWord": "πέμψον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Ac 10:33",
+      "text": "οὖν ἔπεμψα πρὸς",
+      "highlightedWord": "ἔπεμψα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Ac 11:29",
+      "text": "διακονίαν πέμψαι τοῖς",
+      "highlightedWord": "πέμψαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Ac 15:22",
+      "text": "αὐτῶν πέμψαι εἰς",
+      "highlightedWord": "πέμψαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Ac 15:25",
+      "text": "ἄνδρας πέμψαι πρὸς",
+      "highlightedWord": "πέμψαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Ac 19:31",
+      "text": "φίλοι, πέμψαντες πρὸς",
+      "highlightedWord": "πέμψαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Ac 20:17",
+      "text": "Μιλήτου πέμψας εἰς",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 30,
+      "reference": "Ac 23:30",
+      "text": "ἐξαυτῆς ἔπεμψα πρὸς",
+      "highlightedWord": "ἔπεμψα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 25,
+      "reference": "Ac 25:25",
+      "text": "ἔκρινα πέμπειν.",
+      "highlightedWord": "πέμπειν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 27,
+      "reference": "Ac 25:27",
+      "text": "δοκεῖ πέμποντα δέσμιον",
+      "highlightedWord": "πέμποντα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Ro 8:3",
+      "text": "υἱὸν πέμψας ἐν",
+      "highlightedWord": "πέμψας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Co 4:17",
+      "text": "τοῦτο ἔπεμψα ὑμῖν",
+      "highlightedWord": "ἔπεμψα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "1Co 16:3",
+      "text": "τούτους πέμψω ἀπενεγκεῖν",
+      "highlightedWord": "πέμψω"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "2Co 9:3",
+      "text": "ἔπεμψα δὲ",
+      "highlightedWord": "ἔπεμψα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Eph 6:22",
+      "text": "ὃν ἔπεμψα πρὸς",
+      "highlightedWord": "ἔπεμψα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Php 2:19",
+      "text": "ταχέως πέμψαι ὑμῖν,",
+      "highlightedWord": "πέμψαι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Php 2:23",
+      "text": "ἐλπίζω πέμψαι ὡς",
+      "highlightedWord": "πέμψαι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Php 2:25",
+      "text": "μου, πέμψαι πρὸς",
+      "highlightedWord": "πέμψαι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Php 2:28",
+      "text": "οὖν ἔπεμψα αὐτὸν",
+      "highlightedWord": "ἔπεμψα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Php 4:16",
+      "text": "μοι ἐπέμψατε.",
+      "highlightedWord": "ἐπέμψατε."
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Col 4:8",
+      "text": "ὃν ἔπεμψα πρὸς",
+      "highlightedWord": "ἔπεμψα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Th 3:2",
+      "text": "καὶ ἐπέμψαμεν Τιμόθεον,",
+      "highlightedWord": "ἐπέμψαμεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Th 3:5",
+      "text": "στέγων ἔπεμψα εἰς",
+      "highlightedWord": "ἔπεμψα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Th 2:11",
+      "text": "τοῦτο πέμπει αὐτοῖς",
+      "highlightedWord": "πέμπει"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Tit 3:12",
+      "text": "Ὅταν πέμψω Ἀρτεμᾶν",
+      "highlightedWord": "πέμψω"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Pe 2:14",
+      "text": "αὐτοῦ πεμπομένοις εἰς",
+      "highlightedWord": "πεμπομένοις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "καὶ πέμψον ταῖς",
+      "highlightedWord": "πέμψον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Re 11:10",
+      "text": "δῶρα πέμψουσιν ἀλλήλοις,",
+      "highlightedWord": "πέμψουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Re 14:15",
+      "text": "νεφέλης· Πέμψον τὸ",
+      "highlightedWord": "Πέμψον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Re 14:18",
+      "text": "λέγων· Πέμψον σου",
+      "highlightedWord": "Πέμψον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Re 22:16",
+      "text": "Ἰησοῦς ἔπεμψα τὸν",
+      "highlightedWord": "ἔπεμψα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}
