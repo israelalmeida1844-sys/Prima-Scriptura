@@ -68,7 +68,29 @@ const TITULOS_PSALMOS_PT={
  'Psalms 56:1':'Ao mestre de música, conforme “Yonat elem reḥoqim” (designação musical de significado incerto). De Davi, mictão, quando os filisteus o capturaram em Gate.',
  'Psalms 59:1':'Ao mestre de música, conforme “Não destruas”. De Davi, mictão, quando Saul enviou homens para vigiar a casa a fim de matá-lo.',
  'Psalms 60:2':'Quando ele entrou em conflito com Arã-Naharaim e Arã-Zobá, e Joabe voltou e derrotou Edom no vale do Sal: doze mil.'
+,
+ "Psalms 63:1": "Salmo de Davi, quando ele estava no deserto de Judá.",
+ "Psalms 142:1": "Masquil de Davi, quando estava na caverna. Oração.",
+ "Psalms 6:1": "Ao regente musical, com instrumentos de cordas, segundo a oitava. Salmo de Davi.",
+ "Psalms 7:1": "Sigaiom de Davi, que ele cantou ao Senhor acerca das palavras de Cuxe, benjamita.",
+ "Psalms 8:1": "Ao regente musical, segundo a designação 'Gitite'. Salmo de Davi.",
+ "Psalms 12:1": "Ao regente musical, segundo a oitava. Salmo de Davi.",
+ "Psalms 22:1": "Ao regente musical, segundo 'Corça da alvorada'. Salmo de Davi.",
+ "Psalms 45:1": "Ao regente musical, segundo 'Lírios'. Dos filhos de Corá. Masquil. Cântico de amores.",
+ "Psalms 46:1": "Ao regente musical. Dos filhos de Corá. Segundo 'Alamote'. Cântico.",
+ "Psalms 53:1": "Ao regente musical, segundo 'Maalate'. Masquil de Davi.",
+ "Psalms 60:1": "Ao regente musical, segundo 'Lírio do testemunho'. Mictão de Davi, para ensinar.",
+ "Psalms 61:1": "Ao regente musical, com instrumento de cordas. De Davi.",
+ "Psalms 62:1": "Ao regente musical, segundo Jedutum. Salmo de Davi.",
+ "Psalms 69:1": "Ao regente musical, segundo 'Lírios'. De Davi.",
+ "Psalms 77:1": "Ao regente musical, segundo Jedutum. De Asafe. Salmo.",
+ "Psalms 52:2": "Quando Doegue, o edomita, veio e contou a Saul, dizendo-lhe: Davi entrou na casa de Aimeleque.",
+ "Psalms 54:2": "Quando os zifeus vieram e disseram a Saul: Não está Davi escondido entre nós?",
+ "Psalms 102:1": "Oração de um aflito, quando desfalece e derrama sua queixa diante do Senhor.",
+ "Psalms 92:1": "Salmo. Cântico para o dia de sábado.",
+ "Psalms 51:2": "Quando o profeta Natã veio até ele, depois que Davi havia se relacionado com Bate-Seba."
 };
+// Estes vinte e cinco títulos foram traduzidos editorialmente do hebraico; os cinco iniciais foram mantidos do modelo Gn 1:1.
 // Estas cinco traduções são editoriais próprias, conferidas com os títulos
 // massoréticos (Sl 18:1, 34:1, 56:1, 59:1 e 60:2), não com Almeida 1911.
 let mtEnglishMap={};
@@ -468,8 +490,10 @@ function morphInfo(raw,word){
   }
   if(word.morphology.toLowerCase().includes('particípio'))conjugation='particípio'+(verb[2]==='r'?' ativo':'');
   const m=verb.match(/(\d)([mfc])([spd])/);
+  const participle=!m?verb.slice(3).match(/^([mfcb])([spd])([ac])?$/):null;
   return {stem,conjugation,person:m?({1:'primeira',2:'segunda',3:'terceira'}[m[1]]):'',
-   gender:m?(gm[m[2]]||''):'',number:m?(ns[m[3]]||''):'' ,rawCode:raw};
+   gender:m?(gm[m[2]]||''):(participle?gm[participle[1]]||'':''),
+   number:m?(ns[m[3]]||''):(participle?ns[participle[2]]||'':''),rawCode:raw};
  }
  if(nominal){
   const m=nominal.match(/^[NA].([mfcb])([spd])/);
