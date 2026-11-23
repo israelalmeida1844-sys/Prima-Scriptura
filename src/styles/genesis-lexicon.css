@@ -1,0 +1,116 @@
+/**
+ * Padrão lexical permanente de Gênesis — componentes reutilizáveis.
+ * Todos os elementos usam Times New Roman e mantêm direção hebraica explícita.
+ */
+.original-interlinear .lexicon-fields dd.lexicon-lemma {
+  display:flex;
+  flex-direction:column;
+  gap:2px;
+  align-items:flex-start;
+  text-align:left;
+  min-width:0;
+}
+.original-interlinear .lexicon-lemma-hebrew {
+  font-family:'Times New Roman','SBL Hebrew','Noto Serif Hebrew',serif;
+  font-size:clamp(28px,2.9vw,34px);
+  line-height:1.65;
+  color:#102943;
+  display:inline-block;
+  max-width:100%;
+  overflow-wrap:anywhere;
+  font-synthesis:none;
+  text-align:right;
+  unicode-bidi:isolate;
+}
+.original-interlinear .lexicon-lemma-transliteration {
+  font-family:'Times New Roman',Times,serif;
+  font-size:clamp(16px,1.8vw,18px);
+  color:#47627b;
+  line-height:1.5;
+  font-style:italic;
+  text-align:left;
+  unicode-bidi:isolate;
+}
+.original-interlinear .lexicon-fields dd.lexical-senses {
+  font-size:15px;
+  line-height:1.6;
+  display:flex;
+  flex-direction:column;
+  gap:13px;
+  min-width:0;
+}
+.original-interlinear .lexical-sense {
+  border:1px solid #e4e7ea;
+  border-radius:9px;
+  padding:13px 15px;
+  min-width:0;
+  background:#ffffff;
+}
+.original-interlinear .lexical-sense-title {
+  font-family:'Times New Roman',Times,serif;
+  color:#193753;
+  font-size:17px;
+  font-weight:700;
+  line-height:1.45;
+  margin:0 0 5px;
+}
+.original-interlinear .lexical-sense-definition {
+  font-family:'Times New Roman',Times,serif;
+  color:#4c5d6e;
+  font-size:14px;
+  margin:0 0 9px;
+  line-height:1.55;
+}
+.original-interlinear .lexical-examples {
+  display:grid;
+  gap:9px;
+}
+.original-interlinear .lexical-example {
+  border-left:3px solid #c6a15b;
+  padding:8px 12px;
+  background:#f7f8fa;
+  border-radius:0 6px 6px 0;
+  min-width:0;
+}
+.original-interlinear .lexical-example-reference {
+  font-family:'Times New Roman',Times,serif;
+  font-size:14px;
+  font-weight:700;
+  color:#725022;
+  margin:0;
+}
+.original-interlinear .lexical-example-hebrew {
+  font-family:'Times New Roman','SBL Hebrew','Noto Serif Hebrew',serif;
+  font-size:clamp(19px,2.2vw,24px);
+  line-height:1.65;
+  color:#102a45;
+  margin:4px 0;
+  font-synthesis:none;
+  text-align:right;
+  overflow-wrap:anywhere;
+}
+.original-interlinear .lexical-example-translation {
+  font-family:'Times New Roman',Times,serif;
+  color:#142942;
+  font-size:15px;
+  font-style:italic;
+  margin:4px 0;
+}
+.original-interlinear .lexical-example-note {
+  font-family:'Times New Roman',Times,serif;
+  color:#546475;
+  font-size:13px;
+  line-height:1.55;
+  margin:4px 0 0;
+}
+.original-interlinear .lexical-evidence-note {
+  font-size:12px;
+  line-height:1.55;
+  color:#576b7e;
+  margin-top:8px;
+}
+@media(max-width:650px){
+  .original-interlinear .lexicon-fields dd.lexicon-lemma{align-items:flex-start}
+  .original-interlinear .lexical-sense{padding:11px}
+  .original-interlinear .lexical-example{padding:8px 10px}
+}
