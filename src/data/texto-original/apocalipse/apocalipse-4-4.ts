@@ -10,7 +10,9 @@ export const apocalipse4v4 = {
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "A identidade dos vinte e quatro anciãos é tema interpretativo em disputa; sua função cultual e régia é mais evidente no texto que sua origem histórica. στέφανος é coroa de honra, não διάδημα."
+    "A identidade dos vinte e quatro anciãos é tema interpretativo em disputa; sua função cultual e régia é mais evidente no texto que sua origem histórica. στέφανος é coroa de honra, não διάδημα.",
+    "πρεσβυτέρους é analisado como adjetivo no MorphGNT, mas substantivado no contexto: «anciãos»; os particípios καθημένους e περιβεβλημένους qualificam o grupo.",
+    "A menção de στεφάνους (coroas de honra/vitória) não identifica por si a origem dos anciãos; as propostas de representantes redimidos ou corte celestial permanecem hipóteses interpretativas."
   ],
   "words": [
     {
@@ -146,12 +148,12 @@ export const apocalipse4v4 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10.",
-      "explanation": "Forma «εἴκοσι» (εἴκοσι(ν), G1501); Adjetivo acusativo plural masculino. Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10. Elemento da construção; dependência a revisar. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
+      "explanation": "Forma «εἴκοσι» (εἴκοσι(ν), G1501); Adjetivo acusativo plural masculino. Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10. Numeral quantificador de θρόνοι. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 4:4"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral quantificador de θρόνοι",
         "clauseId": "AP.4.4.C1",
         "governedBy": null
       },
@@ -170,12 +172,12 @@ export const apocalipse4v4 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Forma «τέσσαρες,» (τέσσαρες, G5064); Adjetivo nominativo plural masculino. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Elemento da construção; dependência a revisar. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
+      "explanation": "Forma «τέσσαρες,» (τέσσαρες, G5064); Adjetivo nominativo plural masculino. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Numeral que concorda com θρόνοι. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 4:4"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral que concorda com θρόνοι",
         "clauseId": "AP.4.4.C1",
         "governedBy": null
       },
@@ -290,12 +292,12 @@ export const apocalipse4v4 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10.",
-      "explanation": "Forma «εἴκοσι» (εἴκοσι(ν), G1501); Adjetivo acusativo plural masculino. Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10. Elemento da construção; dependência a revisar. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
+      "explanation": "Forma «εἴκοσι» (εἴκοσι(ν), G1501); Adjetivo acusativo plural masculino. Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10. Numeral quantificador de πρεσβυτέρους. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 4:4"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral quantificador de πρεσβυτέρους",
         "clauseId": "AP.4.4.C1",
         "governedBy": null
       },
@@ -314,12 +316,12 @@ export const apocalipse4v4 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Forma «τέσσαρας» (τέσσαρες, G5064); Adjetivo acusativo plural masculino. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Elemento da construção; dependência a revisar. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
+      "explanation": "Forma «τέσσαρας» (τέσσαρες, G5064); Adjetivo acusativo plural masculino. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Numeral que concorda com πρεσβυτέρους. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 4:4"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral que concorda com πρεσβυτέρους",
         "clauseId": "AP.4.4.C1",
         "governedBy": null
       },
@@ -338,12 +340,12 @@ export const apocalipse4v4 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos.",
-      "explanation": "Forma «πρεσβυτέρους» (πρεσβύτερος, G4245); Adjetivo acusativo plural masculino. Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos. Elemento da construção; dependência a revisar. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
+      "explanation": "Forma «πρεσβυτέρους» (πρεσβύτερος, G4245); Adjetivo acusativo plural masculino. Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos. Núcleo acusativo da construção descritiva elíptica. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 4:4"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Núcleo acusativo da construção descritiva elíptica",
         "clauseId": "AP.4.4.C1",
         "governedBy": null
       },
@@ -458,12 +460,12 @@ export const apocalipse4v4 = {
       "morphologyCode": "----DPN-",
       "morphology": "Adjetivo dativo plural neutro",
       "meanings": "branco",
-      "explanation": "Forma «λευκοῖς,» (λευκός, G3022); Adjetivo dativo plural neutro. Sentido lexical contextual: branco. Elemento da construção; dependência a revisar. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
+      "explanation": "Forma «λευκοῖς,» (λευκός, G3022); Adjetivo dativo plural neutro. Sentido lexical contextual: branco. Adjetivo atributivo de ἱματίοις. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 4:4"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo atributivo de ἱματίοις",
         "clauseId": "AP.4.4.C1",
         "governedBy": null
       },
@@ -578,12 +580,12 @@ export const apocalipse4v4 = {
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal genitivo plural masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτῶν» (αὐτός, G846); Pronome pessoal genitivo plural masculino. Sentido lexical contextual: ele; deles. Elemento da construção; dependência a revisar. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
+      "explanation": "Forma «αὐτῶν» (αὐτός, G846); Pronome pessoal genitivo plural masculino. Sentido lexical contextual: ele; deles. Genitivo possessivo de κεφαλάς. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 4:4"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Genitivo possessivo de κεφαλάς",
         "clauseId": "AP.4.4.C1",
         "governedBy": null
       },
@@ -626,12 +628,12 @@ export const apocalipse4v4 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "de ouro; dourado",
-      "explanation": "Forma «χρυσοῦς.» (χρυσοῦς, G5552); Adjetivo acusativo plural masculino. Sentido lexical contextual: de ouro. Elemento da construção; dependência a revisar. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
+      "explanation": "Forma «χρυσοῦς.» (χρυσοῦς, G5552); Adjetivo acusativo plural masculino. Sentido lexical contextual: de ouro. Adjetivo atributivo de στεφάνους. εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 4:4"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo atributivo de στεφάνους",
         "clauseId": "AP.4.4.C1",
         "governedBy": null
       },
