@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 2:13–29",
   "source": "SBLGNT / MorphGNT 6.12 aaed91e5 / jtauber Greek lemma mappings",
-  "editorialStatus": "Rascunho acadêmico: verbetes novos centrais revisados; ainda requer cotejo integral com léxicos críticos e aparato textual.",
+  "editorialStatus": "Revisão contextual complementar de exemplos anteriormente genéricos; definição lexical exaustiva e aparato crítico especializado ainda sujeitos a cotejo acadêmico.",
   "entries": {
     "G4226": {
       "strong": "G4226",
@@ -13,13 +13,13 @@
         {
           "id": "G4226-1",
           "label": "onde",
-          "definition": "onde",
+          "definition": "ποῦ introduz pergunta indireta de lugar dependente de Οἶδα: «sei onde habitas».",
           "examples": [
             {
               "reference": "Apocalipse 2:13",
               "greek": "Οἶδα ποῦ κατοικεῖς,",
               "translation": "onde",
-              "explanation": "Exemplo da ocorrência de ποῦ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ποῦ introduz pergunta indireta de lugar dependente de Οἶδα: «sei onde habitas»."
             }
           ]
         }
@@ -34,13 +34,13 @@
         {
           "id": "G2730-1",
           "label": "habitar",
-          "definition": "habitar",
+          "definition": "κατοικεῖς é presente ativo segunda pessoa singular, verbo de habitar/residir; localiza a comunidade no ambiente descrito.",
           "examples": [
             {
               "reference": "Apocalipse 2:13",
               "greek": "ποῦ κατοικεῖς, ὅπου",
               "translation": "habitar",
-              "explanation": "Exemplo da ocorrência de κατοικέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "κατοικεῖς é presente ativo segunda pessoa singular, verbo de habitar/residir; localiza a comunidade no ambiente descrito."
             }
           ]
         }
@@ -55,13 +55,13 @@
         {
           "id": "G3699-1",
           "label": "onde",
-          "definition": "onde",
+          "definition": "ὅπου introduz oração relativa locativa «onde»; associa a localidade à imagem do trono de Satanás.",
           "examples": [
             {
               "reference": "Apocalipse 2:13",
               "greek": "κατοικεῖς, ὅπου ὁ",
               "translation": "onde",
-              "explanation": "Exemplo da ocorrência de ὅπου no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ὅπου introduz oração relativa locativa «onde»; associa a localidade à imagem do trono de Satanás."
             }
           ]
         }
@@ -76,13 +76,13 @@
         {
           "id": "G720-1",
           "label": "negar",
-          "definition": "negar",
+          "definition": "ἠρνήσω é aoristo médio segunda pessoa singular de ἀρνέομαι; com negação expressa fidelidade sem renúncia à fé.",
           "examples": [
             {
               "reference": "Apocalipse 2:13",
               "greek": "οὐκ ἠρνήσω τὴν",
               "translation": "negar",
-              "explanation": "Exemplo da ocorrência de ἀρνέομαι no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἠρνήσω é aoristo médio segunda pessoa singular de ἀρνέομαι; com negação expressa fidelidade sem renúncia à fé."
             }
           ]
         }
@@ -97,13 +97,13 @@
         {
           "id": "G4102-1",
           "label": "fé",
-          "definition": "fé",
+          "definition": "πίστις pode significar fé ou fidelidade conforme o contexto; τὴν πίστιν μου admite discussão entre confiança em Cristo e lealdade a ele.",
           "examples": [
             {
               "reference": "Apocalipse 2:13",
               "greek": "τὴν πίστιν μου",
               "translation": "fé",
-              "explanation": "Exemplo da ocorrência de πίστις no contexto; nuance exegética depende da sintaxe."
+              "explanation": "πίστις pode significar fé ou fidelidade conforme o contexto; τὴν πίστιν μου admite discussão entre confiança em Cristo e lealdade a ele."
             }
           ]
         }
@@ -139,13 +139,13 @@
         {
           "id": "G615-1",
           "label": "matar",
-          "definition": "matar",
+          "definition": "ἀπεκτάνθη é aoristo passivo: Antipas «foi morto», sem que o verbo identifique os responsáveis históricos.",
           "examples": [
             {
               "reference": "Apocalipse 2:13",
               "greek": "ὃς ἀπεκτάνθη παρ’",
               "translation": "matar",
-              "explanation": "Exemplo da ocorrência de ἀποκτείνω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἀπεκτάνθη é aoristo passivo: Antipas «foi morto», sem que o verbo identifique os responsáveis históricos."
             }
           ]
         }
@@ -160,13 +160,13 @@
         {
           "id": "G3844-1",
           "label": "junto de",
-          "definition": "junto de",
+          "definition": "παρά com dativo ὑμῖν indica proximidade/localidade «entre vós», não movimento de origem.",
           "examples": [
             {
               "reference": "Apocalipse 2:13",
               "greek": "ἀπεκτάνθη παρ’ ὑμῖν,",
               "translation": "junto de",
-              "explanation": "Exemplo da ocorrência de παρά no contexto; nuance exegética depende da sintaxe."
+              "explanation": "παρά com dativo ὑμῖν indica proximidade/localidade «entre vós», não movimento de origem."
             }
           ]
         }
@@ -181,13 +181,13 @@
         {
           "id": "G3641-1",
           "label": "pouco",
-          "definition": "pouco",
+          "definition": "ὀλίγα é adjetivo neutro plural substantivado, objeto de ἔχω: «algumas coisas» contra a comunidade.",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "σοῦ ὀλίγα, ὅτι",
               "translation": "pouco",
-              "explanation": "Exemplo da ocorrência de ὀλίγος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ὀλίγα é adjetivo neutro plural substantivado, objeto de ἔχω: «algumas coisas» contra a comunidade."
             }
           ]
         }
@@ -202,13 +202,13 @@
         {
           "id": "G1563-1",
           "label": "ali",
-          "definition": "ali",
+          "definition": "ἐκεῖ é advérbio de localização e retoma Pérgamo, onde há seguidores da doutrina descrita.",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "ἔχεις ἐκεῖ κρατοῦντας",
               "translation": "ali",
-              "explanation": "Exemplo da ocorrência de ἐκεῖ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἐκεῖ é advérbio de localização e retoma Pérgamo, onde há seguidores da doutrina descrita."
             }
           ]
         }
@@ -223,13 +223,13 @@
         {
           "id": "G1322-1",
           "label": "ensino",
-          "definition": "ensino",
+          "definition": "διδαχήν é acusativo singular, objeto de κρατοῦντας: aderir ao ensino de Balaão. Não confundir ensino com pessoa.",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "τὴν διδαχὴν Βαλαάμ,",
               "translation": "ensino",
-              "explanation": "Exemplo da ocorrência de διδαχή no contexto; nuance exegética depende da sintaxe."
+              "explanation": "διδαχήν é acusativo singular, objeto de κρατοῦντας: aderir ao ensino de Balaão. Não confundir ensino com pessoa."
             }
           ]
         }
@@ -244,13 +244,13 @@
         {
           "id": "G903-1",
           "label": "Balaão",
-          "definition": "Balaão",
+          "definition": "Βαλαάμ é nome próprio indeclinável no texto grego; o genitivo sem marca formal especifica a doutrina vinculada a ele.",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "διδαχὴν Βαλαάμ, ὃς",
               "translation": "Balaão",
-              "explanation": "Exemplo da ocorrência de Βαλαάμ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Βαλαάμ é nome próprio indeclinável no texto grego; o genitivo sem marca formal especifica a doutrina vinculada a ele."
             }
           ]
         }
@@ -265,13 +265,13 @@
         {
           "id": "G1321-1",
           "label": "ensinar",
-          "definition": "ensinar",
+          "definition": "ἐδίδασκεν é imperfeito ativo «ensinava», cuja ação tem como objeto a instrução de Balaque.",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "ὃς ἐδίδασκεν τῷ",
               "translation": "ensinar",
-              "explanation": "Exemplo da ocorrência de διδάσκω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἐδίδασκεν é imperfeito ativo «ensinava», cuja ação tem como objeto a instrução de Balaque."
             }
           ]
         }
@@ -286,13 +286,13 @@
         {
           "id": "G904-1",
           "label": "Balaque",
-          "definition": "Balaque",
+          "definition": "Βαλὰκ é nome próprio indeclinável, dativo por função sintática sob o artigo τῷ; destinatário do ensinamento.",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "τῷ Βαλὰκ βαλεῖν",
               "translation": "Balaque",
-              "explanation": "Exemplo da ocorrência de Βαλάκ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Βαλὰκ é nome próprio indeclinável, dativo por função sintática sob o artigo τῷ; destinatário do ensinamento."
             }
           ]
         }
@@ -328,13 +328,13 @@
         {
           "id": "G2474-1",
           "label": "Israel",
-          "definition": "Israel",
+          "definition": "Ἰσραήλ é nome próprio indeclinável; genitivo por função em τῶν υἱῶν Ἰσραήλ, filhos de Israel.",
           "examples": [
             {
               "reference": "Apocalipse 2:14",
               "greek": "υἱῶν Ἰσραήλ, φαγεῖν",
               "translation": "Israel",
-              "explanation": "Exemplo da ocorrência de Ἰσραήλ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ἰσραήλ é nome próprio indeclinável; genitivo por função em τῶν υἱῶν Ἰσραήλ, filhos de Israel."
             }
           ]
         }
@@ -391,13 +391,13 @@
         {
           "id": "G3779-1",
           "label": "assim",
-          "definition": "assim",
+          "definition": "οὕτως é advérbio de modo; vincula os seguidores dos nicolaítas à comparação anterior.",
           "examples": [
             {
               "reference": "Apocalipse 2:15",
               "greek": "οὕτως ἔχεις",
               "translation": "assim",
-              "explanation": "Exemplo da ocorrência de οὕτω(ς) no contexto; nuance exegética depende da sintaxe."
+              "explanation": "οὕτως é advérbio de modo; vincula os seguidores dos nicolaítas à comparação anterior."
             }
           ]
         }
@@ -412,13 +412,13 @@
         {
           "id": "G3668-1",
           "label": "igualmente",
-          "definition": "igualmente",
+          "definition": "ὁμοίως é advérbio «da mesma maneira», reforçando a comparação e não exigindo palavras adicionais do Textus Receptus.",
           "examples": [
             {
               "reference": "Apocalipse 2:15",
               "greek": "Νικολαϊτῶν ὁμοίως.",
               "translation": "igualmente",
-              "explanation": "Exemplo da ocorrência de ὁμοίως no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ὁμοίως é advérbio «da mesma maneira», reforçando a comparação e não exigindo palavras adicionais do Textus Receptus."
             }
           ]
         }
@@ -433,13 +433,13 @@
         {
           "id": "G5035-1",
           "label": "rapidamente",
-          "definition": "rapidamente",
+          "definition": "ταχύ funciona adverbialmente «sem demora/rapidamente» com a vinda anunciada; a precisão temporal não está fixada.",
           "examples": [
             {
               "reference": "Apocalipse 2:16",
               "greek": "σοι ταχύ, καὶ",
               "translation": "rapidamente",
-              "explanation": "Exemplo da ocorrência de ταχύ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ταχύ funciona adverbialmente «sem demora/rapidamente» com a vinda anunciada; a precisão temporal não está fixada."
             }
           ]
         }
@@ -454,13 +454,13 @@
         {
           "id": "G4170-1",
           "label": "guerrear",
-          "definition": "guerrear",
+          "definition": "πολεμήσω é futuro ativo primeira pessoa singular: o sujeito Cristo combaterá os destinatários plurais αὐτῶν.",
           "examples": [
             {
               "reference": "Apocalipse 2:16",
               "greek": "καὶ πολεμήσω μετ’",
               "translation": "guerrear",
-              "explanation": "Exemplo da ocorrência de πολεμέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "πολεμήσω é futuro ativo primeira pessoa singular: o sujeito Cristo combaterá os destinatários plurais αὐτῶν."
             }
           ]
         }
@@ -496,13 +496,13 @@
         {
           "id": "G2928-1",
           "label": "esconder",
-          "definition": "esconder",
+          "definition": "κεκρυμμένου é particípio perfeito médio/passivo genitivo singular, atributivo de μάννα, alimento «escondido».",
           "examples": [
             {
               "reference": "Apocalipse 2:17",
               "greek": "τοῦ κεκρυμμένου, καὶ",
               "translation": "esconder",
-              "explanation": "Exemplo da ocorrência de κρύπτω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "κεκρυμμένου é particípio perfeito médio/passivo genitivo singular, atributivo de μάννα, alimento «escondido»."
             }
           ]
         }
@@ -559,13 +559,13 @@
         {
           "id": "G3762-1",
           "label": "ninguém",
-          "definition": "ninguém",
+          "definition": "οὐδείς é pronome negativo «ninguém» e sujeito de οἶδεν, salvo a exceção εἰ μή.",
           "examples": [
             {
               "reference": "Apocalipse 2:17",
               "greek": "ὃ οὐδεὶς οἶδεν",
               "translation": "ninguém",
-              "explanation": "Exemplo da ocorrência de οὐδείς no contexto; nuance exegética depende da sintaxe."
+              "explanation": "οὐδείς é pronome negativo «ninguém» e sujeito de οἶδεν, salvo a exceção εἰ μή."
             }
           ]
         }
@@ -580,13 +580,13 @@
         {
           "id": "G2983-1",
           "label": "receber",
-          "definition": "receber",
+          "definition": "λαμβάνων é particípio presente ativo substantivado, sujeito da exceção «aquele que recebe» a pedrinha/nome.",
           "examples": [
             {
               "reference": "Apocalipse 2:17",
               "greek": "ὁ λαμβάνων.",
               "translation": "receber",
-              "explanation": "Exemplo da ocorrência de λαμβάνω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "λαμβάνων é particípio presente ativo substantivado, sujeito da exceção «aquele que recebe» a pedrinha/nome."
             }
           ]
         }
@@ -601,13 +601,13 @@
         {
           "id": "G1248-1",
           "label": "serviço",
-          "definition": "serviço",
+          "definition": "διακονία designa serviço/ministério; no acusativo é item do elogio às qualidades de Tiatira.",
           "examples": [
             {
               "reference": "Apocalipse 2:19",
               "greek": "τὴν διακονίαν καὶ",
               "translation": "serviço",
-              "explanation": "Exemplo da ocorrência de διακονία no contexto; nuance exegética depende da sintaxe."
+              "explanation": "διακονία designa serviço/ministério; no acusativo é item do elogio às qualidades de Tiatira."
             }
           ]
         }
@@ -622,13 +622,13 @@
         {
           "id": "G1135-1",
           "label": "mulher",
-          "definition": "mulher",
+          "definition": "γυνή indica mulher ou esposa; τὴν γυναῖκα introduz a personagem Jezabel como objeto de ἀφεῖς.",
           "examples": [
             {
               "reference": "Apocalipse 2:20",
               "greek": "τὴν γυναῖκα Ἰεζάβελ,",
               "translation": "mulher",
-              "explanation": "Exemplo da ocorrência de γυνή no contexto; nuance exegética depende da sintaxe."
+              "explanation": "γυνή indica mulher ou esposa; τὴν γυναῖκα introduz a personagem Jezabel como objeto de ἀφεῖς."
             }
           ]
         }
@@ -664,13 +664,13 @@
         {
           "id": "G4398-1",
           "label": "profetisa",
-          "definition": "profetisa",
+          "definition": "προφῆτιν é acusativo feminino singular, predicativo de ἑαυτήν após λέγουσα: «dizendo-se profetisa».",
           "examples": [
             {
               "reference": "Apocalipse 2:20",
               "greek": "ἑαυτὴν προφῆτιν, καὶ",
               "translation": "profetisa",
-              "explanation": "Exemplo da ocorrência de προφῆτις no contexto; nuance exegética depende da sintaxe."
+              "explanation": "προφῆτιν é acusativo feminino singular, predicativo de ἑαυτήν após λέγουσα: «dizendo-se profetisa»."
             }
           ]
         }
@@ -685,13 +685,13 @@
         {
           "id": "G4105-1",
           "label": "enganar",
-          "definition": "enganar",
+          "definition": "πλανᾷ é presente ativo terceira pessoa singular: desvia/engana os servos, associado ao ensino condenado.",
           "examples": [
             {
               "reference": "Apocalipse 2:20",
               "greek": "καὶ πλανᾷ τοὺς",
               "translation": "enganar",
-              "explanation": "Exemplo da ocorrência de πλανάω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "πλανᾷ é presente ativo terceira pessoa singular: desvia/engana os servos, associado ao ensino condenado."
             }
           ]
         }
@@ -706,13 +706,13 @@
         {
           "id": "G1699-1",
           "label": "meu",
-          "definition": "meu",
+          "definition": "ἐμούς é possessivo acusativo masculino plural concordando com δούλους: «meus servos», na perspectiva do locutor.",
           "examples": [
             {
               "reference": "Apocalipse 2:20",
               "greek": "τοὺς ἐμοὺς δούλους",
               "translation": "meu",
-              "explanation": "Exemplo da ocorrência de ἐμός no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἐμούς é possessivo acusativo masculino plural concordando com δούλους: «meus servos», na perspectiva do locutor."
             }
           ]
         }
@@ -727,13 +727,13 @@
         {
           "id": "G5550-1",
           "label": "tempo",
-          "definition": "tempo",
+          "definition": "χρόνον é acusativo singular, objeto de ἔδωκα: período concedido para arrependimento, não medida cronológica especificada.",
           "examples": [
             {
               "reference": "Apocalipse 2:21",
               "greek": "αὐτῇ χρόνον ἵνα",
               "translation": "tempo",
-              "explanation": "Exemplo da ocorrência de χρόνος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "χρόνον é acusativo singular, objeto de ἔδωκα: período concedido para arrependimento, não medida cronológica especificada."
             }
           ]
         }
@@ -748,13 +748,13 @@
         {
           "id": "G2309-1",
           "label": "querer",
-          "definition": "querer",
+          "definition": "θέλει é presente ativo terceira pessoa singular: recusa expressa por οὐ θέλει μετανοῆσαι, não incapacidade.",
           "examples": [
             {
               "reference": "Apocalipse 2:21",
               "greek": "οὐ θέλει μετανοῆσαι",
               "translation": "querer",
-              "explanation": "Exemplo da ocorrência de θέλω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "θέλει é presente ativo terceira pessoa singular: recusa expressa por οὐ θέλει μετανοῆσαι, não incapacidade."
             }
           ]
         }
@@ -769,13 +769,13 @@
         {
           "id": "G4202-1",
           "label": "imoralidade sexual",
-          "definition": "imoralidade sexual",
+          "definition": "πορνεία designa imoralidade sexual; contexto de idolatria pode envolver linguagem figurada, mas isso demanda argumento.",
           "examples": [
             {
               "reference": "Apocalipse 2:21",
               "greek": "τῆς πορνείας αὐτῆς.",
               "translation": "imoralidade sexual",
-              "explanation": "Exemplo da ocorrência de πορνεία no contexto; nuance exegética depende da sintaxe."
+              "explanation": "πορνεία designa imoralidade sexual; contexto de idolatria pode envolver linguagem figurada, mas isso demanda argumento."
             }
           ]
         }
@@ -811,13 +811,13 @@
         {
           "id": "G3431-1",
           "label": "adulterar",
-          "definition": "adulterar",
+          "definition": "μοιχεύοντας é particípio presente ativo acusativo plural substantivado, referente aos que adulteram com ela.",
           "examples": [
             {
               "reference": "Apocalipse 2:22",
               "greek": "τοὺς μοιχεύοντας μετ’",
               "translation": "adulterar",
-              "explanation": "Exemplo da ocorrência de μοιχεύω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "μοιχεύοντας é particípio presente ativo acusativo plural substantivado, referente aos que adulteram com ela."
             }
           ]
         }
@@ -832,13 +832,13 @@
         {
           "id": "G5043-1",
           "label": "filho",
-          "definition": "filho",
+          "definition": "τέκνα, neutro plural de τέκνον, pode indicar filhos/descendentes ou seguidores em uso figurado; contexto é necessário.",
           "examples": [
             {
               "reference": "Apocalipse 2:23",
               "greek": "τὰ τέκνα αὐτῆς",
               "translation": "filho",
-              "explanation": "Exemplo da ocorrência de τέκνον no contexto; nuance exegética depende da sintaxe."
+              "explanation": "τέκνα, neutro plural de τέκνον, pode indicar filhos/descendentes ou seguidores em uso figurado; contexto é necessário."
             }
           ]
         }
@@ -853,13 +853,13 @@
         {
           "id": "G1097-1",
           "label": "conhecer",
-          "definition": "conhecer",
+          "definition": "γνώσονται é futuro médio de γινώσκω: «saberão/conhecerão», relacionado ao reconhecimento do juízo divino.",
           "examples": [
             {
               "reference": "Apocalipse 2:23",
               "greek": "καὶ γνώσονται πᾶσαι",
               "translation": "conhecer",
-              "explanation": "Exemplo da ocorrência de γινώσκω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "γνώσονται é futuro médio de γινώσκω: «saberão/conhecerão», relacionado ao reconhecimento do juízo divino."
             }
           ]
         }
@@ -874,13 +874,13 @@
         {
           "id": "G2045-1",
           "label": "investigar",
-          "definition": "investigar",
+          "definition": "ἐραυνῶν é particípio presente ativo substantivado: «aquele que sonda» a interioridade representada por rins e corações.",
           "examples": [
             {
               "reference": "Apocalipse 2:23",
               "greek": "ὁ ἐραυνῶν νεφροὺς",
               "translation": "investigar",
-              "explanation": "Exemplo da ocorrência de ἐραυνάω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἐραυνῶν é particípio presente ativo substantivado: «aquele que sonda» a interioridade representada por rins e corações."
             }
           ]
         }
@@ -937,13 +937,13 @@
         {
           "id": "G1538-1",
           "label": "cada um",
-          "definition": "cada um",
+          "definition": "ἑκάστῳ é dativo singular distributivo «a cada um», combinando-se com ὑμῖν na promessa de retribuição individual.",
           "examples": [
             {
               "reference": "Apocalipse 2:23",
               "greek": "ὑμῖν ἑκάστῳ κατὰ",
               "translation": "cada um",
-              "explanation": "Exemplo da ocorrência de ἕκαστος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἑκάστῳ é dativo singular distributivo «a cada um», combinando-se com ὑμῖν na promessa de retribuição individual."
             }
           ]
         }
@@ -958,13 +958,13 @@
         {
           "id": "G3062-1",
           "label": "restante",
-          "definition": "restante",
+          "definition": "λοιποῖς é adjetivo substantivado dativo plural: «aos restantes», distinto do grupo criticado.",
           "examples": [
             {
               "reference": "Apocalipse 2:24",
               "greek": "τοῖς λοιποῖς τοῖς",
               "translation": "restante",
-              "explanation": "Exemplo da ocorrência de λοιπός no contexto; nuance exegética depende da sintaxe."
+              "explanation": "λοιποῖς é adjetivo substantivado dativo plural: «aos restantes», distinto do grupo criticado."
             }
           ]
         }
@@ -1000,13 +1000,13 @@
         {
           "id": "G243-1",
           "label": "outro",
-          "definition": "outro",
+          "definition": "ἄλλο é adjetivo acusativo neutro singular que modifica βάρος: «outro fardo».",
           "examples": [
             {
               "reference": "Apocalipse 2:24",
               "greek": "ὑμᾶς ἄλλο βάρος·",
               "translation": "outro",
-              "explanation": "Exemplo da ocorrência de ἄλλος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἄλλο é adjetivo acusativo neutro singular que modifica βάρος: «outro fardo»."
             }
           ]
         }
@@ -1042,13 +1042,13 @@
         {
           "id": "G4133-1",
           "label": "contudo",
-          "definition": "contudo",
+          "definition": "πλήν atua como partícula adversativa/restritiva: «contudo/somente», introduzindo a exortação seguinte.",
           "examples": [
             {
               "reference": "Apocalipse 2:25",
               "greek": "πλὴν ὃ",
               "translation": "contudo",
-              "explanation": "Exemplo da ocorrência de πλήν no contexto; nuance exegética depende da sintaxe."
+              "explanation": "πλήν atua como partícula adversativa/restritiva: «contudo/somente», introduzindo a exortação seguinte."
             }
           ]
         }
@@ -1063,13 +1063,13 @@
         {
           "id": "G302-1",
           "label": "partícula modal",
-          "definition": "partícula modal",
+          "definition": "ἄν é partícula modal combinada com ἄχρι οὗ e subjuntivo ἥξω na delimitação futura «até que eu venha».",
           "examples": [
             {
               "reference": "Apocalipse 2:25",
               "greek": "οὗ ἂν ἥξω.",
               "translation": "partícula modal",
-              "explanation": "Exemplo da ocorrência de ἄν no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἄν é partícula modal combinada com ἄχρι οὗ e subjuntivo ἥξω na delimitação futura «até que eu venha»."
             }
           ]
         }
@@ -1084,13 +1084,13 @@
         {
           "id": "G2240-1",
           "label": "chegar",
-          "definition": "chegar",
+          "definition": "ἥξω é aoristo subjuntivo primeira pessoa singular de ἥκω em ἄχρι οὗ ἄν, projetando a chegada de Cristo.",
           "examples": [
             {
               "reference": "Apocalipse 2:25",
               "greek": "ἂν ἥξω.",
               "translation": "chegar",
-              "explanation": "Exemplo da ocorrência de ἥκω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἥξω é aoristo subjuntivo primeira pessoa singular de ἥκω em ἄχρι οὗ ἄν, projetando a chegada de Cristo."
             }
           ]
         }
@@ -1105,13 +1105,13 @@
         {
           "id": "G5056-1",
           "label": "fim",
-          "definition": "fim",
+          "definition": "τέλους é genitivo singular após ἄχρι: «até o fim», limite da perseverança ordenada.",
           "examples": [
             {
               "reference": "Apocalipse 2:26",
               "greek": "ἄχρι τέλους τὰ",
               "translation": "fim",
-              "explanation": "Exemplo da ocorrência de τέλος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "τέλους é genitivo singular após ἄχρι: «até o fim», limite da perseverança ordenada."
             }
           ]
         }
@@ -1126,13 +1126,13 @@
         {
           "id": "G1849-1",
           "label": "autoridade",
-          "definition": "autoridade",
+          "definition": "ἐξουσίαν é acusativo singular, objeto de δώσω; significa autoridade delegada sobre as nações.",
           "examples": [
             {
               "reference": "Apocalipse 2:26",
               "greek": "αὐτῷ ἐξουσίαν ἐπὶ",
               "translation": "autoridade",
-              "explanation": "Exemplo da ocorrência de ἐξουσία no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἐξουσίαν é acusativo singular, objeto de δώσω; significa autoridade delegada sobre as nações."
             }
           ]
         }
@@ -1147,13 +1147,13 @@
         {
           "id": "G1484-1",
           "label": "nação",
-          "definition": "nação",
+          "definition": "ἐθνῶν é genitivo plural de ἔθνος após ἐπί, denotando os povos/nações sob a autoridade prometida.",
           "examples": [
             {
               "reference": "Apocalipse 2:26",
               "greek": "τῶν ἐθνῶν,",
               "translation": "nação",
-              "explanation": "Exemplo da ocorrência de ἔθνος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἐθνῶν é genitivo plural de ἔθνος após ἐπί, denotando os povos/nações sob a autoridade prometida."
             }
           ]
         }
@@ -1231,13 +1231,13 @@
         {
           "id": "G4632-1",
           "label": "vaso",
-          "definition": "vaso",
+          "definition": "σκεύη é neutro plural de σκεῦος, vasos/objetos; é sujeito de συντρίβεται, forma verbal singular permitida com neutro plural.",
           "examples": [
             {
               "reference": "Apocalipse 2:27",
               "greek": "τὰ σκεύη τὰ",
               "translation": "vaso",
-              "explanation": "Exemplo da ocorrência de σκεῦος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "σκεύη é neutro plural de σκεῦος, vasos/objetos; é sujeito de συντρίβεται, forma verbal singular permitida com neutro plural."
             }
           ]
         }

@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 2:1–12",
   "source": "SBLGNT / MorphGNT 6.12 aaed91e5 / jtauber Greek lemma mappings",
-  "editorialStatus": "Verbetes centrais revisados contextualmente; os demais significados permanecem em rascunho até cotejo lexical especializado.",
+  "editorialStatus": "Revisão contextual complementar de exemplos anteriormente genéricos; definição lexical exaustiva e aparato crítico especializado ainda sujeitos a cotejo acadêmico.",
   "entries": {
     "G3592": {
       "strong": "G3592",
@@ -13,13 +13,13 @@
         {
           "id": "G3592-1",
           "label": "isto",
-          "definition": "isto",
+          "definition": "O demonstrativo neutro plural Τάδε introduz solenemente o oráculo: «estas coisas diz». Não é advérbio por classe morfológica.",
           "examples": [
             {
               "reference": "Apocalipse 2:1",
               "greek": "γράψον· Τάδε λέγει",
               "translation": "isto",
-              "explanation": "Exemplo da ocorrência de ὅδε no contexto; nuance exegética depende da sintaxe."
+              "explanation": "O demonstrativo neutro plural Τάδε introduz solenemente o oráculo: «estas coisas diz». Não é advérbio por classe morfológica."
             }
           ]
         }
@@ -76,13 +76,13 @@
         {
           "id": "G1492-1",
           "label": "conheço",
-          "definition": "conhecer",
+          "definition": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "Οἶδα τὰ",
               "translation": "conheço",
-              "explanation": "Exemplo da ocorrência de οἶδα no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação."
             }
           ]
         }
@@ -97,13 +97,13 @@
         {
           "id": "G2041-1",
           "label": "obra",
-          "definition": "obra",
+          "definition": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "τὰ ἔργα σου,",
               "translation": "obra",
-              "explanation": "Exemplo da ocorrência de ἔργον no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo."
             }
           ]
         }
@@ -139,13 +139,13 @@
         {
           "id": "G3754-1",
           "label": "que",
-          "definition": "que",
+          "definition": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "καὶ ὅτι οὐ",
               "translation": "que",
-              "explanation": "Exemplo da ocorrência de ὅτι no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα."
             }
           ]
         }
@@ -160,13 +160,13 @@
         {
           "id": "G3756-1",
           "label": "não",
-          "definition": "não",
+          "definition": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "ὅτι οὐ δύνῃ",
               "translation": "não",
-              "explanation": "Exemplo da ocorrência de οὐ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus."
             }
           ]
         }
@@ -181,13 +181,13 @@
         {
           "id": "G1410-1",
           "label": "podes",
-          "definition": "ser capaz",
+          "definition": "δύνῃ é forma presente médio/passiva de δύναμαι, verbo de sentido modal; βαστάσαι é seu infinitivo complementar.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "οὐ δύνῃ βαστάσαι",
               "translation": "podes",
-              "explanation": "Exemplo da ocorrência de δύναμαι no contexto; nuance exegética depende da sintaxe."
+              "explanation": "δύνῃ é forma presente médio/passiva de δύναμαι, verbo de sentido modal; βαστάσαι é seu infinitivo complementar."
             }
           ]
         }
@@ -223,13 +223,13 @@
         {
           "id": "G2556-1",
           "label": "mau",
-          "definition": "mau",
+          "definition": "κακούς, adjetivo acusativo plural substantivado, designa pessoas qualificadas como más; não qualifica diretamente as obras.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "βαστάσαι κακούς, καὶ",
               "translation": "mau",
-              "explanation": "Exemplo da ocorrência de κακός no contexto; nuance exegética depende da sintaxe."
+              "explanation": "κακούς, adjetivo acusativo plural substantivado, designa pessoas qualificadas como más; não qualifica diretamente as obras."
             }
           ]
         }
@@ -244,13 +244,13 @@
         {
           "id": "G3985-1",
           "label": "puseste à prova",
-          "definition": "pôr à prova",
+          "definition": "ἐπείρασας é aoristo ativo indicativo: submeteste a exame os que reivindicavam ser apóstolos, não tentaste induzi-los ao mal.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "καὶ ἐπείρασας τοὺς",
               "translation": "puseste à prova",
-              "explanation": "Exemplo da ocorrência de πειράζω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἐπείρασας é aoristo ativo indicativo: submeteste a exame os que reivindicavam ser apóstolos, não tentaste induzi-los ao mal."
             }
           ]
         }
@@ -265,13 +265,13 @@
         {
           "id": "G1438-1",
           "label": "si mesmo",
-          "definition": "si mesmo",
+          "definition": "ἑαυτούς é reflexivo acusativo plural correferente ao sujeito de λέγοντας: eles se apresentam a si mesmos como apóstolos.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "λέγοντας ἑαυτοὺς ἀποστόλους,",
               "translation": "si mesmo",
-              "explanation": "Exemplo da ocorrência de ἑαυτοῦ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἑαυτούς é reflexivo acusativo plural correferente ao sujeito de λέγοντας: eles se apresentam a si mesmos como apóstolos."
             }
           ]
         }
@@ -286,13 +286,13 @@
         {
           "id": "G652-1",
           "label": "apóstolo",
-          "definition": "apóstolo",
+          "definition": "ἀποστόλους ocorre como predicativo acusativo de ἑαυτούς; o texto examina uma reivindicação de autoridade apostólica.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "ἑαυτοὺς ἀποστόλους, καὶ",
               "translation": "apóstolo",
-              "explanation": "Exemplo da ocorrência de ἀπόστολος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἀποστόλους ocorre como predicativo acusativo de ἑαυτούς; o texto examina uma reivindicação de autoridade apostólica."
             }
           ]
         }
@@ -307,13 +307,13 @@
         {
           "id": "G2147-1",
           "label": "achaste",
-          "definition": "achar",
+          "definition": "εὗρες está no aoristo ativo indicativo: o resultado da prova é reconhecer aqueles indivíduos como ψευδεῖς.",
           "examples": [
             {
               "reference": "Apocalipse 2:2",
               "greek": "καὶ εὗρες αὐτοὺς",
               "translation": "achaste",
-              "explanation": "Exemplo da ocorrência de εὑρίσκω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "εὗρες está no aoristo ativo indicativo: o resultado da prova é reconhecer aqueles indivíduos como ψευδεῖς."
             }
           ]
         }
@@ -349,13 +349,13 @@
         {
           "id": "G3686-1",
           "label": "nome",
-          "definition": "nome",
+          "definition": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου.",
           "examples": [
             {
               "reference": "Apocalipse 2:3",
               "greek": "τὸ ὄνομά μου,",
               "translation": "nome",
-              "explanation": "Exemplo da ocorrência de ὄνομα no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου."
             }
           ]
         }
@@ -391,13 +391,13 @@
         {
           "id": "G235-1",
           "label": "mas",
-          "definition": "mas",
+          "definition": "ἀλλά introduz contraste com o elogio antecedente; em Ap 2:4 inicia a censura dirigida à igreja.",
           "examples": [
             {
               "reference": "Apocalipse 2:4",
               "greek": "ἀλλὰ ἔχω",
               "translation": "mas",
-              "explanation": "Exemplo da ocorrência de ἀλλά no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἀλλά introduz contraste com o elogio antecedente; em Ap 2:4 inicia a censura dirigida à igreja."
             }
           ]
         }
@@ -412,13 +412,13 @@
         {
           "id": "G2596-1",
           "label": "contra",
-          "definition": "contra",
+          "definition": "κατά com genitivo em ἔχω κατὰ σοῦ expressa oposição ou queixa «tenho contra ti»; não localidade.",
           "examples": [
             {
               "reference": "Apocalipse 2:4",
               "greek": "ἔχω κατὰ σοῦ",
               "translation": "contra",
-              "explanation": "Exemplo da ocorrência de κατά no contexto; nuance exegética depende da sintaxe."
+              "explanation": "κατά com genitivo em ἔχω κατὰ σοῦ expressa oposição ou queixa «tenho contra ti»; não localidade."
             }
           ]
         }
@@ -433,13 +433,13 @@
         {
           "id": "G26-1",
           "label": "amor",
-          "definition": "amor",
+          "definition": "ἀγάπη denota amor; τὴν πρώτην especifica o amor anterior abandonado, sem definir sozinho todos os seus objetos.",
           "examples": [
             {
               "reference": "Apocalipse 2:4",
               "greek": "τὴν ἀγάπην σου",
               "translation": "amor",
-              "explanation": "Exemplo da ocorrência de ἀγάπη no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἀγάπη denota amor; τὴν πρώτην especifica o amor anterior abandonado, sem definir sozinho todos os seus objetos."
             }
           ]
         }
@@ -496,13 +496,13 @@
         {
           "id": "G4159-1",
           "label": "de onde",
-          "definition": "de onde",
+          "definition": "πόθεν é advérbio interrogativo de origem «de onde»; com πέπτωκας caracteriza figuradamente a condição da qual a igreja caiu.",
           "examples": [
             {
               "reference": "Apocalipse 2:5",
               "greek": "οὖν πόθεν πέπτωκας,",
               "translation": "de onde",
-              "explanation": "Exemplo da ocorrência de πόθεν no contexto; nuance exegética depende da sintaxe."
+              "explanation": "πόθεν é advérbio interrogativo de origem «de onde»; com πέπτωκας caracteriza figuradamente a condição da qual a igreja caiu."
             }
           ]
         }
@@ -538,13 +538,13 @@
         {
           "id": "G1487-1",
           "label": "se",
-          "definition": "se",
+          "definition": "εἰ introduz condição; εἰ δὲ μή formula a alternativa negativa «caso contrário». Não equiparar mecanicamente a ἐάν.",
           "examples": [
             {
               "reference": "Apocalipse 2:5",
               "greek": "ποίησον· εἰ δὲ",
               "translation": "se",
-              "explanation": "Exemplo da ocorrência de εἰ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "εἰ introduz condição; εἰ δὲ μή formula a alternativa negativa «caso contrário». Não equiparar mecanicamente a ἐάν."
             }
           ]
         }
@@ -559,13 +559,13 @@
         {
           "id": "G2795-1",
           "label": "removerei",
-          "definition": "mover",
+          "definition": "κινήσω é futuro ativo de κινέω: moverei/removerei o candelabro de seu lugar; a imagem é julgamento da comunidade.",
           "examples": [
             {
               "reference": "Apocalipse 2:5",
               "greek": "καὶ κινήσω τὴν",
               "translation": "removerei",
-              "explanation": "Exemplo da ocorrência de κινέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "κινήσω é futuro ativo de κινέω: moverei/removerei o candelabro de seu lugar; a imagem é julgamento da comunidade."
             }
           ]
         }
@@ -580,13 +580,13 @@
         {
           "id": "G5117-1",
           "label": "lugar",
-          "definition": "lugar",
+          "definition": "τόπος no genitivo τοῦ τόπου refere-se ao lugar ocupado pelo candelabro, complemento de ἐκ.",
           "examples": [
             {
               "reference": "Apocalipse 2:5",
               "greek": "τοῦ τόπου αὐτῆς,",
               "translation": "lugar",
-              "explanation": "Exemplo da ocorrência de τόπος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "τόπος no genitivo τοῦ τόπου refere-se ao lugar ocupado pelo candelabro, complemento de ἐκ."
             }
           ]
         }
@@ -601,13 +601,13 @@
         {
           "id": "G1437-1",
           "label": "se",
-          "definition": "se",
+          "definition": "ἐάν introduz oração condicional prospectiva; com μή e subjuntivo μετανοήσῃς: «se não te arrependeres».",
           "examples": [
             {
               "reference": "Apocalipse 2:5",
               "greek": "αὐτῆς, ἐὰν μὴ",
               "translation": "se",
-              "explanation": "Exemplo da ocorrência de ἐάν no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἐάν introduz oração condicional prospectiva; com μή e subjuntivo μετανοήσῃς: «se não te arrependeres»."
             }
           ]
         }
@@ -622,13 +622,13 @@
         {
           "id": "G3404-1",
           "label": "odiar",
-          "definition": "odiar",
+          "definition": "μισεῖς é presente ativo: a igreja rejeita as práticas dos nicolaítas; objeto expresso é τὰ ἔργα, não as pessoas.",
           "examples": [
             {
               "reference": "Apocalipse 2:6",
               "greek": "ὅτι μισεῖς τὰ",
               "translation": "odiar",
-              "explanation": "Exemplo da ocorrência de μισέω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "μισεῖς é presente ativo: a igreja rejeita as práticas dos nicolaítas; objeto expresso é τὰ ἔργα, não as pessoas."
             }
           ]
         }
@@ -664,13 +664,13 @@
         {
           "id": "G2504-1",
           "label": "eu também",
-          "definition": "eu também",
+          "definition": "κἀγώ contrai καὶ ἐγώ («e eu também»), ligando a posição de Cristo à rejeição das obras mencionadas.",
           "examples": [
             {
               "reference": "Apocalipse 2:6",
               "greek": "ἃ κἀγὼ μισῶ.",
               "translation": "eu também",
-              "explanation": "Exemplo da ocorrência de κἀγώ no contexto; nuance exegética depende da sintaxe."
+              "explanation": "κἀγώ contrai καὶ ἐγώ («e eu também»), ligando a posição de Cristo à rejeição das obras mencionadas."
             }
           ]
         }
@@ -685,13 +685,13 @@
         {
           "id": "G3775-1",
           "label": "ouvido",
-          "definition": "ouvido",
+          "definition": "οὖς é acusativo singular de «ouvido» em fórmula idiomática: quem tem ouvido deve ouvir; evitar pluralização automática da forma grega.",
           "examples": [
             {
               "reference": "Apocalipse 2:7",
               "greek": "ἔχων οὖς ἀκουσάτω",
               "translation": "ouvido",
-              "explanation": "Exemplo da ocorrência de οὖς no contexto; nuance exegética depende da sintaxe."
+              "explanation": "οὖς é acusativo singular de «ouvido» em fórmula idiomática: quem tem ouvido deve ouvir; evitar pluralização automática da forma grega."
             }
           ]
         }
@@ -706,13 +706,13 @@
         {
           "id": "G5101-1",
           "label": "que?",
-          "definition": "que?",
+          "definition": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo.",
           "examples": [
             {
               "reference": "Apocalipse 2:7",
               "greek": "ἀκουσάτω τί τὸ",
               "translation": "que?",
-              "explanation": "Exemplo da ocorrência de τίς no contexto; nuance exegética depende da sintaxe."
+              "explanation": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo."
             }
           ]
         }
@@ -748,13 +748,13 @@
         {
           "id": "G2068-1",
           "label": "comer",
-          "definition": "comer",
+          "definition": "φαγεῖν é infinitivo aoristo ativo de ἐσθίω e complementa δώσω; o alimento prometido provém da árvore da vida.",
           "examples": [
             {
               "reference": "Apocalipse 2:7",
               "greek": "αὐτῷ φαγεῖν ἐκ",
               "translation": "comer",
-              "explanation": "Exemplo da ocorrência de ἐσθίω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "φαγεῖν é infinitivo aoristo ativo de ἐσθίω e complementa δώσω; o alimento prometido provém da árvore da vida."
             }
           ]
         }
@@ -790,13 +790,13 @@
         {
           "id": "G2222-1",
           "label": "vida",
-          "definition": "vida",
+          "definition": "ζωή está em genitivo, τῆς ζωῆς, qualificando a árvore; a expressão ecoa o Éden e a promessa escatológica.",
           "examples": [
             {
               "reference": "Apocalipse 2:7",
               "greek": "τῆς ζωῆς, ὅ",
               "translation": "vida",
-              "explanation": "Exemplo da ocorrência de ζωή no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ζωή está em genitivo, τῆς ζωῆς, qualificando a árvore; a expressão ecoa o Éden e a promessa escatológica."
             }
           ]
         }
@@ -853,13 +853,13 @@
         {
           "id": "G4145-1",
           "label": "rico",
-          "definition": "rico",
+          "definition": "πλούσιος εἶ predica riqueza da comunidade apesar de πτωχεία; riqueza é caracterizada pelo contraste teológico do versículo.",
           "examples": [
             {
               "reference": "Apocalipse 2:9",
               "greek": "ἀλλὰ πλούσιος εἶ,",
               "translation": "rico",
-              "explanation": "Exemplo da ocorrência de πλούσιος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "πλούσιος εἶ predica riqueza da comunidade apesar de πτωχεία; riqueza é caracterizada pelo contraste teológico do versículo."
             }
           ]
         }
@@ -895,13 +895,13 @@
         {
           "id": "G2453-1",
           "label": "judeu",
-          "definition": "judeu",
+          "definition": "Ἰουδαίους é acusativo plural como predicativo de ἑαυτούς; trata-se de controvérsia local, não de definição depreciativa do judaísmo.",
           "examples": [
             {
               "reference": "Apocalipse 2:9",
               "greek": "λεγόντων Ἰουδαίους εἶναι",
               "translation": "judeu",
-              "explanation": "Exemplo da ocorrência de Ἰουδαῖος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Ἰουδαίους é acusativo plural como predicativo de ἑαυτούς; trata-se de controvérsia local, não de definição depreciativa do judaísmo."
             }
           ]
         }
@@ -916,13 +916,13 @@
         {
           "id": "G4864-1",
           "label": "sinagoga",
-          "definition": "sinagoga",
+          "definition": "συναγωγή significa reunião/assembleia e pode denotar comunidade judaica; a expressão polêmica exige leitura histórica localizada.",
           "examples": [
             {
               "reference": "Apocalipse 2:9",
               "greek": "ἀλλὰ συναγωγὴ τοῦ",
               "translation": "sinagoga",
-              "explanation": "Exemplo da ocorrência de συναγωγή no contexto; nuance exegética depende da sintaxe."
+              "explanation": "συναγωγή significa reunião/assembleia e pode denotar comunidade judaica; a expressão polêmica exige leitura histórica localizada."
             }
           ]
         }
@@ -937,13 +937,13 @@
         {
           "id": "G4567-1",
           "label": "Satanás",
-          "definition": "Satanás",
+          "definition": "Σατανᾶς é designação pessoal do adversário; o genitivo τοῦ Σατανᾶ qualifica polemicamente a assembleia mencionada.",
           "examples": [
             {
               "reference": "Apocalipse 2:9",
               "greek": "τοῦ Σατανᾶ.",
               "translation": "Satanás",
-              "explanation": "Exemplo da ocorrência de Σατανᾶς no contexto; nuance exegética depende da sintaxe."
+              "explanation": "Σατανᾶς é designação pessoal do adversário; o genitivo τοῦ Σατανᾶ qualifica polemicamente a assembleia mencionada."
             }
           ]
         }
@@ -958,13 +958,13 @@
         {
           "id": "G3367-1",
           "label": "nada",
-          "definition": "nada",
+          "definition": "μηδέν é acusativo neutro singular de μηδείς com sentido adverbial: «não temas coisa alguma», objeto de φοβοῦ.",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "μηδὲν φοβοῦ",
               "translation": "nada",
-              "explanation": "Exemplo da ocorrência de μηδείς no contexto; nuance exegética depende da sintaxe."
+              "explanation": "μηδέν é acusativo neutro singular de μηδείς com sentido adverbial: «não temas coisa alguma», objeto de φοβοῦ."
             }
           ]
         }
@@ -979,13 +979,13 @@
         {
           "id": "G3958-1",
           "label": "sofrer",
-          "definition": "sofrer",
+          "definition": "πάσχειν é infinitivo presente dependente de μέλλεις, projetando sofrimento futuro sem especificar todas as circunstâncias.",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "μέλλεις πάσχειν. ἰδοὺ",
               "translation": "sofrer",
-              "explanation": "Exemplo da ocorrência de πάσχω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "πάσχειν é infinitivo presente dependente de μέλλεις, projetando sofrimento futuro sem especificar todas as circunstâncias."
             }
           ]
         }
@@ -1000,13 +1000,13 @@
         {
           "id": "G906-1",
           "label": "lançar",
-          "definition": "lançar",
+          "definition": "βάλλειν é infinitivo presente dependente de μέλλει; com εἰς φυλακήν indica lançar na prisão.",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "μέλλει βάλλειν ὁ",
               "translation": "lançar",
-              "explanation": "Exemplo da ocorrência de βάλλω no contexto; nuance exegética depende da sintaxe."
+              "explanation": "βάλλειν é infinitivo presente dependente de μέλλει; com εἰς φυλακήν indica lançar na prisão."
             }
           ]
         }
@@ -1021,13 +1021,13 @@
         {
           "id": "G1228-1",
           "label": "diabo",
-          "definition": "diabo",
+          "definition": "διάβολος ocorre com artigo como sujeito de μέλλει βάλλειν; corresponde ao acusador/adversário na representação do texto.",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "ὁ διάβολος ἐξ",
               "translation": "diabo",
-              "explanation": "Exemplo da ocorrência de διάβολος no contexto; nuance exegética depende da sintaxe."
+              "explanation": "διάβολος ocorre com artigo como sujeito de μέλλει βάλλειν; corresponde ao acusador/adversário na representação do texto."
             }
           ]
         }
@@ -1042,13 +1042,13 @@
         {
           "id": "G5438-1",
           "label": "prisão",
-          "definition": "prisão",
+          "definition": "φυλακή é acusativo de direção após εἰς; neste contexto significa prisão/confinamento, não «vigília».",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "εἰς φυλακὴν ἵνα",
               "translation": "prisão",
-              "explanation": "Exemplo da ocorrência de φυλακή no contexto; nuance exegética depende da sintaxe."
+              "explanation": "φυλακή é acusativo de direção após εἰς; neste contexto significa prisão/confinamento, não «vigília»."
             }
           ]
         }
@@ -1063,13 +1063,13 @@
         {
           "id": "G2443-1",
           "label": "para que",
-          "definition": "para que",
+          "definition": "ἵνα com subjuntivo πειρασθῆτε indica finalidade da provação: «para que sejais postos à prova».",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "φυλακὴν ἵνα πειρασθῆτε,",
               "translation": "para que",
-              "explanation": "Exemplo da ocorrência de ἵνα no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἵνα com subjuntivo πειρασθῆτε indica finalidade da provação: «para que sejais postos à prova»."
             }
           ]
         }
@@ -1084,13 +1084,13 @@
         {
           "id": "G1176-1",
           "label": "dez",
-          "definition": "dez",
+          "definition": "δέκα é numeral indeclinável determinando ἡμερῶν no genitivo plural; a expressão não fixa cronologia histórica por si.",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "ἡμερῶν δέκα. γίνου",
               "translation": "dez",
-              "explanation": "Exemplo da ocorrência de δέκα no contexto; nuance exegética depende da sintaxe."
+              "explanation": "δέκα é numeral indeclinável determinando ἡμερῶν no genitivo plural; a expressão não fixa cronologia histórica por si."
             }
           ]
         }
@@ -1105,13 +1105,13 @@
         {
           "id": "G891-1",
           "label": "até",
-          "definition": "até",
+          "definition": "ἄχρι com genitivo θανάτου marca limite ou extensão «até a morte»; a fidelidade é exigida mesmo diante da morte.",
           "examples": [
             {
               "reference": "Apocalipse 2:10",
               "greek": "πιστὸς ἄχρι θανάτου,",
               "translation": "até",
-              "explanation": "Exemplo da ocorrência de ἄχρι no contexto; nuance exegética depende da sintaxe."
+              "explanation": "ἄχρι com genitivo θανάτου marca limite ou extensão «até a morte»; a fidelidade é exigida mesmo diante da morte."
             }
           ]
         }
