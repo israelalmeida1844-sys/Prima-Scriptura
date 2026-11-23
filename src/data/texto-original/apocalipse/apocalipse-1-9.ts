@@ -7,8 +7,8 @@ export const apocalipse1v9 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eu, João, irmão de vocês e companheiro na tribulação, no reino e na perseverança em Jesus, estava na ilha chamada Patmos por causa da palavra de Deus e do testemunho de Jesus.",
-  "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "A leitura SBLGNT é ἐν τῇ θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ ἐν Ἰησοῦ. Algumas edições da tradição do Textus Receptus ampliam a coordenação com artigos repetidos e acrescentam Χριστῷ depois de Ἰησοῦ. A repetição ou ausência dos artigos não exige postular três experiências desconexas: a série está unida pela preposição inicial e pelo complemento ἐν Ἰησοῦ.",
+  "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
+  "textualNotes": "O SBLGNT lê ἐν τῇ θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ ἐν Ἰησοῦ, sem repetição do artigo antes dos dois últimos dativos. Na tradição do Textus Receptus encontram-se formas ampliadas, com artigos repetidos e Χριστῷ após Ἰησοῦ. ἐν Ἰησοῦ expressa a esfera da comunhão cristã; a relação entre os três dativos deve ser descrita como coordenação sem inferir automaticamente identidade semântica.",
   "exegeticalNotes": [
     "João se apresenta como irmão e coparticipante, não como observador distante da aflição das igrejas.",
     "A associação de tribulação, reino e perseverança situa o testemunho cristão no contexto da fidelidade a Jesus."
@@ -32,7 +32,7 @@ export const apocalipse1v9 = {
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Sujeito nominativo explícito de ἐγενόμην",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -56,7 +56,7 @@ export const apocalipse1v9 = {
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Aposto nominativo ao sujeito Ἐγώ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -115,7 +115,7 @@ export const apocalipse1v9 = {
       "shortMorph": "PPro-GP-",
       "greek": "ὑμῶν",
       "transliteration": "hymōn",
-      "gloss": "vosso",
+      "gloss": "de vocês",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -128,7 +128,7 @@ export const apocalipse1v9 = {
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo de relação/posse dependente de ἀδελφός",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -176,7 +176,7 @@ export const apocalipse1v9 = {
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Aposto nominativo que qualifica João",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse1v9 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "o",
+      "gloss": "na/à",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -403,7 +403,7 @@ export const apocalipse1v9 = {
       "shortMorph": "V-AMI-1S",
       "greek": "ἐγενόμην",
       "transliteration": "egenomēn",
-      "gloss": "estava",
+      "gloss": "estive",
       "strong": "G1096",
       "lemma": "γίνομαι",
       "lemmaTransliteration": "ginomai",
@@ -416,7 +416,7 @@ export const apocalipse1v9 = {
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal principal; sujeito ἐγώ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -451,7 +451,7 @@ export const apocalipse1v9 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "o",
+      "gloss": "na/à",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -499,7 +499,7 @@ export const apocalipse1v9 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "o",
+      "gloss": "na/à",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -643,7 +643,7 @@ export const apocalipse1v9 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -715,7 +715,7 @@ export const apocalipse1v9 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
