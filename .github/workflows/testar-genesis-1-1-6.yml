@@ -1,5 +1,5 @@
 name: Teste integral de Gênesis 1:1–6 (somente rascunho)
-# Verifica também a tradução alternativa do segundo versículo.
+# Verifica a tradução alternativa do segundo versículo e a revisão filológica do sexto.
 on:
   push:
     branches: [rascunho/genesis]
