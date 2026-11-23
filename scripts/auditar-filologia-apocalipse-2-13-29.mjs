@@ -15,6 +15,9 @@ for(const line of fs.readFileSync(path.join(lemmaDir,'lexemes.yaml'),'utf8').spl
  if(/^[^\s#].*:\s*$/.test(line))lemma=line.slice(0,-1);
  else{const m=line.match(/^    strongs:\s*(\d+)/);if(m&&lemma)mapping.set(lemma,'G'+m[1]);}
 }
+// Exceção documentada: ἐραυνάω = G2045, grafia alternante de ἐρευνάω.
+// Fonte externa independente: blueletterbible.org/lexicon/g2045/mgnt/mgnt
+mapping.set('ἐραυνάω','G2045');
 const strip=x=>x.replace(/[⸀⸂⸃⸄⸅]/g,'');
 const errors=[];
 let total=0;
