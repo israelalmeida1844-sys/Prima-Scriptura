@@ -47,5 +47,6 @@ jobs:
           git add public/data/concordancia-hebraica
           if ! git diff --cached --quiet; then
             git commit -m "Completar concordâncias exaustivas de Gn 1:6 (rascunho)"
+            git pull --rebase origin rascunho/genesis
             git push origin HEAD:rascunho/genesis
           fi
