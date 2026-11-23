@@ -10,7 +10,9 @@ export const apocalipse4v10 = {
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "O lançamento das coroas diante do trono representa reconhecimento da soberania do Criador; não demonstra necessariamente renúncia a todo papel delegado dos anciãos."
+    "O lançamento das coroas diante do trono representa reconhecimento da soberania do Criador; não demonstra necessariamente renúncia a todo papel delegado dos anciãos.",
+    "Os três futuros (πεσοῦνται, προσκυνήσουσιν, βαλοῦσιν) dependem do enquadramento temporal iniciado por ὅταν no versículo anterior; a tradução pode recorrer ao presente habitual, mas a morfologia continua futura.",
+    "O gesto de depositar os στεφάνοι diante do trono comunica homenagem e reconhecimento de autoridade; a distinção entre στέφανος e διάδημα não basta, isoladamente, para identificar a origem dos anciãos."
   ],
   "words": [
     {
@@ -74,12 +76,12 @@ export const apocalipse4v10 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10.",
-      "explanation": "Forma «εἴκοσι» (εἴκοσι(ν), G1501); Adjetivo nominativo plural masculino. Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10. Elemento da construção; dependência a revisar. πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
+      "explanation": "Forma «εἴκοσι» (εἴκοσι(ν), G1501); Adjetivo nominativo plural masculino. Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10. Numeral quantificador do sujeito πρεσβύτεροι. πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
       "occurrencesExamples": [
         "Ap 4:10"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral quantificador do sujeito πρεσβύτεροι",
         "clauseId": "AP.4.10.C1",
         "governedBy": null
       },
@@ -98,12 +100,12 @@ export const apocalipse4v10 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Forma «τέσσαρες» (τέσσαρες, G5064); Adjetivo nominativo plural masculino. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Elemento da construção; dependência a revisar. πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
+      "explanation": "Forma «τέσσαρες» (τέσσαρες, G5064); Adjetivo nominativo plural masculino. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Numeral que concorda com πρεσβύτεροι. πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
       "occurrencesExamples": [
         "Ap 4:10"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral que concorda com πρεσβύτεροι",
         "clauseId": "AP.4.10.C1",
         "governedBy": null
       },
@@ -122,12 +124,12 @@ export const apocalipse4v10 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos.",
-      "explanation": "Forma «πρεσβύτεροι» (πρεσβύτερος, G4245); Adjetivo nominativo plural masculino. Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos. Elemento da construção; dependência a revisar. πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
+      "explanation": "Forma «πρεσβύτεροι» (πρεσβύτερος, G4245); Adjetivo nominativo plural masculino. Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos. Núcleo substantivado do sujeito dos futuros verbais. πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
       "occurrencesExamples": [
         "Ap 4:10"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Núcleo substantivado do sujeito dos futuros verbais",
         "clauseId": "AP.4.10.C1",
         "governedBy": null
       },
@@ -602,12 +604,12 @@ export const apocalipse4v10 = {
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal genitivo plural masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτῶν» (αὐτός, G846); Pronome pessoal genitivo plural masculino. Sentido lexical contextual: ele; deles. Elemento da construção; dependência a revisar. πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
+      "explanation": "Forma «αὐτῶν» (αὐτός, G846); Pronome pessoal genitivo plural masculino. Sentido lexical contextual: ele; deles. Genitivo possessivo de στεφάνους. πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
       "occurrencesExamples": [
         "Ap 4:10"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Genitivo possessivo de στεφάνους",
         "clauseId": "AP.4.10.C1",
         "governedBy": null
       },
