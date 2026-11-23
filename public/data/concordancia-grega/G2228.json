@@ -1,0 +1,2239 @@
+{
+  "strong": "G2228",
+  "lemma": "ἤ",
+  "lemmaTranslit": "ē",
+  "tokenCount": 346,
+  "verseCount": 275,
+  "bookDistribution": {
+    "Mateus": 67,
+    "Marcos": 34,
+    "Lucas": 45,
+    "João": 12,
+    "Atos": 36,
+    "Romanos": 29,
+    "1 Coríntios": 48,
+    "2 Coríntios": 14,
+    "Gálatas": 8,
+    "Efésios": 7,
+    "Filipenses": 1,
+    "Colossenses": 5,
+    "1 Tessalonicenses": 3,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 5,
+    "2 Timóteo": 1,
+    "Tito": 2,
+    "Filemom": 1,
+    "Hebreus": 4,
+    "Tiago": 8,
+    "1 Pedro": 8,
+    "2 Pedro": 1,
+    "1 João": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Mt 1:18",
+      "text": "πρὶν ἢ συνελθεῖν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Mt 5:17",
+      "text": "νόμον ἢ τοὺς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Mt 5:18",
+      "text": "ἓν ἢ μία",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Mt 5:36",
+      "text": "ποιῆσαι ἢ μέλαιναν.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Mt 6:24",
+      "text": "δουλεύειν· ἢ γὰρ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mt 6:31",
+      "text": "φάγωμεν; ἤ· Τί",
+      "highlightedWord": "ἤ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Mt 7:4",
+      "text": "ἢ πῶς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Mt 7:9",
+      "text": "ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Mt 7:10",
+      "text": "ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Mt 7:16",
+      "text": "σταφυλὰς ἢ ἀπὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Mt 9:5",
+      "text": "ἁμαρτίαι, ἢ εἰπεῖν·",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mt 10:11",
+      "text": "πόλιν ἢ κώμην",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mt 10:14",
+      "text": "οἰκίας ἢ τῆς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Mt 10:15",
+      "text": "κρίσεως ἢ τῇ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Mt 10:19",
+      "text": "πῶς ἢ τί",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Mt 10:37",
+      "text": "πατέρα ἢ μητέρα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Mt 11:3",
+      "text": "ἐρχόμενος ἢ ἕτερον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Mt 11:22",
+      "text": "κρίσεως ἢ ὑμῖν.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Mt 11:24",
+      "text": "κρίσεως ἢ σοί.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Mt 12:5",
+      "text": "ἢ οὐκ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mt 12:25",
+      "text": "πόλις ἢ οἰκία",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mt 12:29",
+      "text": "ἢ πῶς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Mt 12:33",
+      "text": "Ἢ ποιήσατε",
+      "highlightedWord": "Ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mt 13:21",
+      "text": "θλίψεως ἢ διωγμοῦ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Mt 15:4",
+      "text": "πατέρα ἢ μητέρα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Mt 15:5",
+      "text": "πατρὶ ἢ τῇ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Mt 16:14",
+      "text": "Ἰερεμίαν ἢ ἕνα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Mt 16:26",
+      "text": "ζημιωθῇ; ἢ τί",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Mt 17:25",
+      "text": "τέλη ἢ κῆνσον;",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Mt 18:8",
+      "text": "σου ἢ ὁ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Mt 18:9",
+      "text": "εἰσελθεῖν, ἢ δύο",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Mt 18:13",
+      "text": "μᾶλλον ἢ ἐπὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Mt 18:16",
+      "text": "ἕνα ἢ δύο,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Mt 18:20",
+      "text": "δύο ἢ τρεῖς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Mt 19:24",
+      "text": "εἰσελθεῖν ἢ πλούσιον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Mt 19:29",
+      "text": "οἰκίας ἢ ἀδελφοὺς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Mt 20:15",
+      "text": "ἐμοῖς; ἢ ὁ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Mt 21:25",
+      "text": "οὐρανοῦ ἢ ἐξ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 17,
+      "reference": "Mt 22:17",
+      "text": "Καίσαρι ἢ οὔ;",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 17,
+      "reference": "Mt 23:17",
+      "text": "χρυσὸς ἢ ὁ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Mt 23:19",
+      "text": "δῶρον ἢ τὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Mt 24:23",
+      "text": "χριστός, ἤ· Ὧδε,",
+      "highlightedWord": "ἤ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 37,
+      "reference": "Mt 25:37",
+      "text": "ἐθρέψαμεν, ἢ διψῶντα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 38,
+      "reference": "Mt 25:38",
+      "text": "συνηγάγομεν, ἢ γυμνὸν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 39,
+      "reference": "Mt 25:39",
+      "text": "ἀσθενοῦντα ἢ ἐν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 44,
+      "reference": "Mt 25:44",
+      "text": "πεινῶντα ἢ διψῶντα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 53,
+      "reference": "Mt 26:53",
+      "text": "ἢ δοκεῖς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 17,
+      "reference": "Mt 27:17",
+      "text": "Βαραββᾶν ἢ Ἰησοῦν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Mk 2:9",
+      "text": "ἁμαρτίαι, ἢ εἰπεῖν·",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Mk 3:4",
+      "text": "ἀγαθοποιῆσαι ἢ κακοποιῆσαι,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 33,
+      "reference": "Mk 3:33",
+      "text": "μου ἢ οἱ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Mk 4:17",
+      "text": "θλίψεως ἢ διωγμοῦ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Mk 4:21",
+      "text": "τεθῇ ἢ ὑπὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Mk 4:30",
+      "text": "θεοῦ, ἢ ἐν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 56,
+      "reference": "Mk 6:56",
+      "text": "κώμας ἢ εἰς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Mk 7:10",
+      "text": "πατέρα ἢ μητέρα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Mk 7:11",
+      "text": "πατρὶ ἢ τῇ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Mk 7:12",
+      "text": "πατρὶ ἢ τῇ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Mk 9:43",
+      "text": "ζωὴν ἢ τὰς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Mk 9:45",
+      "text": "χωλὸν ἢ τοὺς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Mk 9:47",
+      "text": "θεοῦ ἢ δύο",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Mk 10:25",
+      "text": "διελθεῖν ἢ πλούσιον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Mk 10:29",
+      "text": "οἰκίαν ἢ ἀδελφοὺς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Mk 10:38",
+      "text": "πίνω, ἢ τὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Mk 10:40",
+      "text": "μου ἢ ἐξ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Mk 11:28",
+      "text": "ποιεῖς; ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Mk 11:30",
+      "text": "ἦν ἢ ἐξ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "Καίσαρι ἢ οὔ;",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "ἐκείνης ἢ τῆς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Mk 13:35",
+      "text": "ἔρχεται, ἢ ὀψὲ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Mk 14:30",
+      "text": "πρὶν ἢ δὶς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Lk 2:24",
+      "text": "τρυγόνων ἢ δύο",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Lk 2:26",
+      "text": "πρὶν ἢ ἂν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Lk 5:23",
+      "text": "σου, ἢ εἰπεῖν·",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Lk 6:9",
+      "text": "ἀγαθοποιῆσαι ἢ κακοποιῆσαι,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Lk 7:19",
+      "text": "ἐρχόμενος ἢ ἄλλον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Lk 7:20",
+      "text": "ἐρχόμενος ἢ ἄλλον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Lk 8:16",
+      "text": "σκεύει ἢ ὑποκάτω",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Lk 9:13",
+      "text": "πλεῖον ἢ ἄρτοι",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Lk 9:25",
+      "text": "ἀπολέσας ἢ ζημιωθείς;",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Lk 10:12",
+      "text": "ἔσται ἢ τῇ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Lk 10:14",
+      "text": "κρίσει ἢ ὑμῖν.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Lk 10:42",
+      "text": "χρεία ἢ ἑνός·",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Lk 11:12",
+      "text": "ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Lk 12:11",
+      "text": "πῶς ἢ τί",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Lk 12:14",
+      "text": "κριτὴν ἢ μεριστὴν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Lk 12:41",
+      "text": "λέγεις ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Lk 12:47",
+      "text": "ἑτοιμάσας ἢ ποιήσας",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 51,
+      "reference": "Lk 12:51",
+      "text": "ἀλλ’ ἢ διαμερισμόν.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Lk 13:4",
+      "text": "ἢ ἐκεῖνοι",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Lk 13:15",
+      "text": "αὐτοῦ ἢ τὸν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Lk 14:3",
+      "text": "θεραπεῦσαι ἢ οὔ;",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Lk 14:5",
+      "text": "υἱὸς ἢ βοῦς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Lk 14:12",
+      "text": "ἄριστον ἢ δεῖπνον,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Lk 14:31",
+      "text": "ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Lk 15:7",
+      "text": "μετανοοῦντι ἢ ἐπὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Lk 15:8",
+      "text": "Ἢ τίς",
+      "highlightedWord": "Ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Lk 16:13",
+      "text": "δουλεύειν· ἢ γὰρ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Lk 16:17",
+      "text": "παρελθεῖν ἢ τοῦ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Lk 17:2",
+      "text": "θάλασσαν ἢ ἵνα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Lk 17:7",
+      "text": "ἀροτριῶντα ἢ ποιμαίνοντα,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 21,
+      "reference": "Lk 17:21",
+      "text": "ὧδε ἤ· Ἐκεῖ·",
+      "highlightedWord": "ἤ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Lk 18:11",
+      "text": "μοιχοί, ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Lk 18:25",
+      "text": "εἰσελθεῖν ἢ πλούσιον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Lk 18:29",
+      "text": "οἰκίαν ἢ γυναῖκα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Lk 20:2",
+      "text": "ποιεῖς, ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Lk 20:4",
+      "text": "ἦν ἢ ἐξ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 22,
+      "reference": "Lk 20:22",
+      "text": "δοῦναι ἢ οὔ;",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Lk 21:15",
+      "text": "ἀντιστῆναι ἢ ἀντειπεῖν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 27,
+      "reference": "Lk 22:27",
+      "text": "ἀνακείμενος ἢ ὁ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jn 2:6",
+      "text": "δύο ἢ τρεῖς.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Jn 3:19",
+      "text": "σκότος ἢ τὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Jn 4:1",
+      "text": "βαπτίζει ἢ Ἰωάννης—",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Jn 4:27",
+      "text": "ζητεῖς; ἢ τί",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Jn 6:19",
+      "text": "πέντε ἢ τριάκοντα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Jn 7:17",
+      "text": "ἐστιν ἢ ἐγὼ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 48,
+      "reference": "Jn 7:48",
+      "text": "αὐτὸν ἢ ἐκ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Jn 8:14",
+      "text": "ἔρχομαι ἢ ποῦ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Jn 9:2",
+      "text": "οὗτος ἢ οἱ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Jn 9:21",
+      "text": "οἴδαμεν, ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Jn 13:29",
+      "text": "ἑορτήν, ἢ τοῖς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 34,
+      "reference": "Jn 18:34",
+      "text": "λέγεις ἢ ἄλλοι",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ac 1:7",
+      "text": "χρόνους ἢ καιροὺς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Ac 2:20",
+      "text": "πρὶν ἢ ἐλθεῖν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Ac 3:12",
+      "text": "τούτῳ, ἢ ἡμῖν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ac 4:7",
+      "text": "δυνάμει ἢ ἐν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Ac 4:19",
+      "text": "μᾶλλον ἢ τοῦ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Ac 4:34",
+      "text": "χωρίων ἢ οἰκιῶν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Ac 5:29",
+      "text": "μᾶλλον ἢ ἀνθρώποις.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Ac 5:38",
+      "text": "αὕτη ἢ τὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Ac 7:2",
+      "text": "πρὶν ἢ κατοικῆσαι",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Ac 7:49",
+      "text": "κύριος, ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Ac 8:34",
+      "text": "ἑαυτοῦ ἢ περὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Ac 10:28",
+      "text": "κολλᾶσθαι ἢ προσέρχεσθαι",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Ac 11:8",
+      "text": "κοινὸν ἢ ἀκάθαρτον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 21,
+      "reference": "Ac 17:21",
+      "text": "ηὐκαίρουν ἢ λέγειν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Ac 17:29",
+      "text": "χρυσῷ ἢ ἀργύρῳ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "τι ἢ ῥᾳδιούργημα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Ac 19:12",
+      "text": "σουδάρια ἢ σιμικίνθια",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 33,
+      "reference": "Ac 20:33",
+      "text": "ἀργυρίου ἢ χρυσίου",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 35,
+      "reference": "Ac 20:35",
+      "text": "διδόναι ἢ λαμβάνειν.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "αὐτῷ ἢ ἄγγελος—",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 29,
+      "reference": "Ac 23:29",
+      "text": "θανάτου ἢ δεσμῶν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Ac 24:12",
+      "text": "διαλεγόμενον ἢ ἐπίστασιν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 20,
+      "reference": "Ac 24:20",
+      "text": "ἢ αὐτοὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Ac 24:21",
+      "text": "ἢ περὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Ac 25:6",
+      "text": "ὀκτὼ ἢ δέκα,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Ac 25:16",
+      "text": "πρὶν ἢ ὁ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Ac 26:31",
+      "text": "θανάτου ἢ δεσμῶν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 11,
+      "reference": "Ac 27:11",
+      "text": "ἐπείθετο ἢ τοῖς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 6,
+      "reference": "Ac 28:6",
+      "text": "πίμπρασθαι ἢ καταπίπτειν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 17,
+      "reference": "Ac 28:17",
+      "text": "λαῷ ἢ τοῖς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 21,
+      "reference": "Ac 28:21",
+      "text": "ἀπήγγειλεν ἢ ἐλάλησέν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Ro 1:21",
+      "text": "ἐδόξασαν ἢ ηὐχαρίστησαν,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Ro 2:4",
+      "text": "ἢ τοῦ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Ro 2:15",
+      "text": "κατηγορούντων ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Ro 3:1",
+      "text": "Ἰουδαίου, ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Ro 3:29",
+      "text": "ἢ Ἰουδαίων",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ro 4:9",
+      "text": "περιτομὴν ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Ro 4:10",
+      "text": "ὄντι ἢ ἐν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Ro 4:13",
+      "text": "Ἀβραὰμ ἢ τῷ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Ro 6:3",
+      "text": "ἢ ἀγνοεῖτε",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Ro 6:16",
+      "text": "θάνατον ἢ ὑπακοῆς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ro 7:1",
+      "text": "Ἢ ἀγνοεῖτε,",
+      "highlightedWord": "Ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Ro 8:35",
+      "text": "θλῖψις ἢ στενοχωρία",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Ro 9:11",
+      "text": "ἀγαθὸν ἢ φαῦλον,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ro 9:21",
+      "text": "ἢ οὐκ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Ro 10:7",
+      "text": "ἤ· Τίς",
+      "highlightedWord": "ἤ·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Ro 11:2",
+      "text": "προέγνω. ἢ οὐκ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Ro 11:34",
+      "text": "κυρίου; ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 35,
+      "reference": "Ro 11:35",
+      "text": "ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ro 13:11",
+      "text": "σωτηρία ἢ ὅτε",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Ro 14:4",
+      "text": "στήκει ἢ πίπτει·",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Ro 14:10",
+      "text": "σου; ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Ro 14:13",
+      "text": "ἀδελφῷ ἢ σκάνδαλον.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Ro 14:21",
+      "text": "προσκόπτει ἢ σκανδαλίζεται",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "1Co 1:13",
+      "text": "ὑμῶν, ἢ εἰς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Co 2:1",
+      "text": "λόγου ἢ σοφίας",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Co 4:3",
+      "text": "ἀνακριθῶ ἢ ὑπὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "1Co 4:21",
+      "text": "ὑμᾶς, ἢ ἐν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Co 5:10",
+      "text": "τούτου ἢ τοῖς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "1Co 5:11",
+      "text": "πόρνος ἢ πλεονέκτης",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "1Co 6:2",
+      "text": "ἢ οὐκ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Co 6:9",
+      "text": "Ἢ οὐκ",
+      "highlightedWord": "Ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Co 6:16",
+      "text": "ἢ οὐκ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Co 6:19",
+      "text": "ἢ οὐκ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "1Co 7:9",
+      "text": "γαμῆσαι ἢ πυροῦσθαι.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "1Co 7:11",
+      "text": "ἄγαμος ἢ τῷ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "1Co 7:15",
+      "text": "ἀδελφὸς ἢ ἡ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "1Co 7:16",
+      "text": "σώσεις; ἢ τί",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "1Co 9:6",
+      "text": "ἢ μόνος",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "1Co 9:8",
+      "text": "λαλῶ ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "1Co 9:10",
+      "text": "ἢ δι’",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "1Co 9:15",
+      "text": "ἀποθανεῖν ἤ— τὸ",
+      "highlightedWord": "ἤ—"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "1Co 10:19",
+      "text": "ἐστιν, ἢ ὅτι",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "1Co 10:22",
+      "text": "ἢ παραζηλοῦμεν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "1Co 11:4",
+      "text": "προσευχόμενος ἢ προφητεύων",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "1Co 11:5",
+      "text": "προσευχομένη ἢ προφητεύουσα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "1Co 11:6",
+      "text": "κείρασθαι ἢ ξυρᾶσθαι,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "1Co 11:22",
+      "text": "πίνειν; ἢ τῆς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "1Co 11:27",
+      "text": "ἄρτον ἢ πίνῃ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "1Co 12:21",
+      "text": "ἔχω, ἢ πάλιν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "1Co 13:1",
+      "text": "ἠχῶν ἢ κύμβαλον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "1Co 14:5",
+      "text": "προφητεύων ἢ ὁ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "1Co 14:6",
+      "text": "λαλήσω ἢ ἐν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "1Co 14:7",
+      "text": "αὐλούμενον ἢ τὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "1Co 14:19",
+      "text": "κατηχήσω, ἢ μυρίους",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "1Co 14:23",
+      "text": "ἰδιῶται ἢ ἄπιστοι,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "1Co 14:24",
+      "text": "ἄπιστος ἢ ἰδιώτης,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "1Co 14:27",
+      "text": "δύο ἢ τὸ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "1Co 14:29",
+      "text": "δύο ἢ τρεῖς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 36,
+      "reference": "1Co 14:36",
+      "text": "ἢ ἀφ’",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 37,
+      "reference": "1Co 14:37",
+      "text": "εἶναι ἢ πνευματικός,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "1Co 15:37",
+      "text": "σίτου ἤ τινος",
+      "highlightedWord": "ἤ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "1Co 16:6",
+      "text": "παραμενῶ ἢ καὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Co 1:13",
+      "text": "ἀλλ’ ἢ ἃ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Co 1:17",
+      "text": "ἐχρησάμην; ἢ ἃ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Co 3:1",
+      "text": "συνιστάνειν; ἢ μὴ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "2Co 6:14",
+      "text": "ἀνομίᾳ, ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "2Co 6:15",
+      "text": "Βελιάρ, ἢ τίς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "2Co 9:7",
+      "text": "λύπης ἢ ἐξ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "2Co 10:12",
+      "text": "ἐγκρῖναι ἢ συγκρῖναι",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "2Co 11:4",
+      "text": "ἐκηρύξαμεν, ἢ πνεῦμα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "2Co 11:7",
+      "text": "Ἢ ἁμαρτίαν",
+      "highlightedWord": "Ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "2Co 12:6",
+      "text": "με ἢ ἀκούει",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "2Co 13:5",
+      "text": "δοκιμάζετε· ἢ οὐκ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ga 1:8",
+      "text": "ἡμεῖς ἢ ἄγγελος",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ga 1:10",
+      "text": "πείθω ἢ τὸν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ga 2:2",
+      "text": "τρέχω ἢ ἔδραμον.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ga 3:2",
+      "text": "ἐλάβετε ἢ ἐξ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ga 3:5",
+      "text": "νόμου ἢ ἐξ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Ga 3:15",
+      "text": "ἀθετεῖ ἢ ἐπιδιατάσσεται.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Ga 4:27",
+      "text": "μᾶλλον ἢ τῆς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Eph 3:20",
+      "text": "αἰτούμεθα ἢ νοοῦμεν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Eph 5:3",
+      "text": "πᾶσα ἢ πλεονεξία",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Eph 5:4",
+      "text": "μωρολογία ἢ εὐτραπελία,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Eph 5:5",
+      "text": "πόρνος ἢ ἀκάθαρτος",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Eph 5:27",
+      "text": "σπίλον ἢ ῥυτίδα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Php 3:12",
+      "text": "ἔλαβον ἢ ἤδη",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Col 2:16",
+      "text": "βρώσει ἢ ἐν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Col 3:17",
+      "text": "λόγῳ ἢ ἐν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Th 2:19",
+      "text": "ἐλπὶς ἢ χαρὰ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Th 2:4",
+      "text": "θεὸν ἢ σέβασμα,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "1Ti 1:4",
+      "text": "μᾶλλον ἢ οἰκονομίαν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Ti 2:9",
+      "text": "χρυσίῳ ἢ μαργαρίταις",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Ti 5:4",
+      "text": "τέκνα ἢ ἔκγονα",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Ti 5:19",
+      "text": "δύο ἢ τριῶν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "2Ti 3:4",
+      "text": "μᾶλλον ἢ φιλόθεοι,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Tit 1:6",
+      "text": "ἀσωτίας ἢ ἀνυπότακτα.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Tit 3:12",
+      "text": "σὲ ἢ Τυχικόν,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Phm 1:18",
+      "text": "σε ἢ ὀφείλει,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Heb 2:6",
+      "text": "αὐτοῦ, ἢ υἱὸς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Heb 10:28",
+      "text": "δυσὶν ἢ τρισὶν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Heb 11:25",
+      "text": "θεοῦ ἢ πρόσκαιρον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Heb 12:16",
+      "text": "πόρνος ἢ βέβηλος",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Jas 1:17",
+      "text": "παραλλαγὴ ἢ τροπῆς",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Jas 2:3",
+      "text": "στῆθι ἢ κάθου",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Jas 2:15",
+      "text": "ἀδελφὸς ἢ ἀδελφὴ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Jas 3:12",
+      "text": "ποιῆσαι ἢ ἄμπελος",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Jas 4:5",
+      "text": "ἢ δοκεῖτε",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jas 4:11",
+      "text": "ἀδελφοῦ ἢ κρίνων",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Jas 4:13",
+      "text": "Σήμερον ἢ αὔριον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jas 4:15",
+      "text": "τοῦτο ἢ ἐκεῖνο.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "1Pe 1:11",
+      "text": "τίνα ἢ ποῖον",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "1Pe 1:18",
+      "text": "ἀργυρίῳ ἢ χρυσίῳ,",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Pe 3:3",
+      "text": "χρυσίων ἢ ἐνδύσεως",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Pe 3:9",
+      "text": "κακοῦ ἢ λοιδορίαν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Pe 3:17",
+      "text": "πάσχειν ἢ κακοποιοῦντας.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Pe 4:15",
+      "text": "φονεὺς ἢ κλέπτης",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "2Pe 2:21",
+      "text": "δικαιοσύνης ἢ ἐπιγνοῦσιν",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Jn 4:4",
+      "text": "ὑμῖν ἢ ὁ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Re 3:15",
+      "text": "ἦς ἢ ζεστός.",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Re 13:16",
+      "text": "δεξιᾶς ἢ ἐπὶ",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "ἀγοράσαι ἢ πωλῆσαι",
+      "highlightedWord": "ἢ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "αὐτοῦ ἢ ἐπὶ",
+      "highlightedWord": "ἢ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
