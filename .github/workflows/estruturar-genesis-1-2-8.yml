@@ -1,5 +1,5 @@
 name: Estruturar integralmente Gênesis 1:2–8 (somente rascunho)
-# Gerar dados completos após tradução editorial de vinte títulos adicionais do WLC.
+# Gerar dados completos após tradução editorial de todos os trinta títulos identificados no WLC.
 on:
   push:
     branches: [rascunho/genesis]
