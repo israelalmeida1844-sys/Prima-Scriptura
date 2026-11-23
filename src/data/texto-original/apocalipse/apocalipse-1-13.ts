@@ -7,8 +7,8 @@ export const apocalipse1v13 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E, no meio dos candelabros, vi alguém semelhante a um filho de homem, vestido com uma roupa longa até os pés e cingido à altura do peito com uma faixa de ouro.",
-  "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "υἱὸν ἀνθρώπου aparece sem artigo, em construção comparativa com ὅμοιον: «semelhante a um filho de homem». A expressão ecoa Daniel 7:13 em sua tradição grega. ποδήρη é acusativo de ποδήρης, veste comprida; a identificação sacerdotal ou régia depende de intertextualidade, não apenas do lema.",
+  "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
+  "textualNotes": "A expressão ὅμοιον υἱὸν ἀνθρώπου não possui artigo diante de υἱὸν; a semelhança alude à figura de Daniel 7:13, sem exigir tradução de υἱὸν como nome próprio. ποδήρη é acusativo singular masculino do adjetivo substantivado ποδήρης, referente a veste longa até os pés; o simbolismo sacerdotal/real requer interpretação intertextual.",
   "exegeticalNotes": [
     "A figura «semelhante a um filho de homem» remete à visão de Daniel 7.",
     "A roupa longa e a faixa de ouro comunicam dignidade e autoridade, com possíveis ressonâncias sacerdotais."
@@ -91,7 +91,7 @@ export const apocalipse1v13 = {
       "shortMorph": "Art-GPF",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "o",
+      "gloss": "dos/das",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -152,7 +152,7 @@ export const apocalipse1v13 = {
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Predicativo acusativo masculino singular em relação à figura vista",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -176,7 +176,7 @@ export const apocalipse1v13 = {
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Núcleo do sintagma acusativo dependente de ὅμοιον",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse1v13 = {
       "shortMorph": "Adj-ASM",
       "greek": "ποδήρη",
       "transliteration": "podērē",
-      "gloss": "veste longa",
+      "gloss": "roupa até os pés",
       "strong": "G4158",
       "lemma": "ποδήρης",
       "lemmaTransliteration": "podērēs",
@@ -243,12 +243,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo acusativo singular masculino",
       "meanings": "roupa longa até os pés",
-      "explanation": "Adjetivo acusativo singular masculino; modificador adjetival ou predicativo. A equivalência portuguesa «veste longa» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Adjetivo de dois términos usado substantivamente; acusativo singular masculino de ποδήρης, qualifica uma veste longa até os pés. Não designa por si só exclusivamente vestimenta sacerdotal.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Objeto acusativo complemento do particípio ἐνδεδυμένον",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -331,7 +331,7 @@ export const apocalipse1v13 = {
       "shortMorph": "Art-DPM",
       "greek": "τοῖς",
       "transliteration": "tois",
-      "gloss": "o",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -355,7 +355,7 @@ export const apocalipse1v13 = {
       "shortMorph": "N-DPM",
       "greek": "μαστοῖς",
       "transliteration": "mastois",
-      "gloss": "peito",
+      "gloss": "peitos",
       "strong": "G3149",
       "lemma": "μαστός",
       "lemmaTransliteration": "mastos",
