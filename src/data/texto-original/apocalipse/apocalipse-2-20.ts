@@ -8,7 +8,7 @@ export const apocalipse2v20 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, contra ti que toleras a mulher Jezabel, que se declara profetisa, ensina e desvia meus servos para que pratiquem imoralidade sexual e comam alimentos sacrificados aos ídolos.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ἀφεῖς é presente ativo indicativo de ἀφίημι, segunda pessoa singular na análise MorphGNT; o sentido contextual é 'toleras/permitas'. O nome Ἰεζάβελ evoca a rainha de 1Rs 16–21 e 2Rs 9, mas não prova que a pessoa citada seja chamada literalmente Jezabel; pode ser pseudônimo tipológico.",
+  "textualNotes": "O SBLGNT preserva ἡ λέγουσα no nominativo feminino singular após τὴν γυναῖκα Ἰεζάβελ, acusativo feminino singular: a discordância de caso deve ser tratada como nominativo pendente/anacoluto, não corrigida silenciosamente. ἀφεῖς é presente ativo indicativo de ἀφίημι, segunda pessoa singular, com sentido contextual «toleras/permitas». O nome Ἰεζάβελ evoca a rainha de 1Rs 16–21 e 2Rs 9, sem demonstrar identidade literal da personagem local.",
   "exegeticalNotes": [
     "Jezabel funciona como figura de ensino enganoso e sedução idólatra.",
     "A conexão com a rainha do Antigo Testamento é literária e teológica; sua historicidade local não é confirmada pelo nome."
