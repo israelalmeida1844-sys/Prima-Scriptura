@@ -1,5 +1,5 @@
 name: Teste visual e funcional Gn 1:4-5 (rascunho)
-# Verifica também falhas de carregamento e índices incompletos.
+# Inclui espera pelo resultado assíncrono das falhas de carregamento.
 on:
   push:
     branches: [rascunho/genesis]
