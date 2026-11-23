@@ -1,0 +1,3922 @@
+{
+  "strong": "G5100",
+  "lemma": "τις",
+  "lemmaTranslit": "tis",
+  "tokenCount": 530,
+  "verseCount": 485,
+  "bookDistribution": {
+    "Mateus": 21,
+    "Marcos": 34,
+    "Lucas": 80,
+    "João": 56,
+    "Atos": 114,
+    "Romanos": 15,
+    "1 Coríntios": 56,
+    "2 Coríntios": 25,
+    "Gálatas": 9,
+    "Efésios": 3,
+    "Filipenses": 10,
+    "Colossenses": 6,
+    "1 Tessalonicenses": 4,
+    "2 Tessalonicenses": 6,
+    "1 Timóteo": 18,
+    "2 Timóteo": 3,
+    "Tito": 2,
+    "Filemom": 1,
+    "Hebreus": 21,
+    "Tiago": 15,
+    "1 Pedro": 6,
+    "2 Pedro": 4,
+    "1 João": 6,
+    "2 João": 1,
+    "3 João": 1,
+    "Judas": 1,
+    "Apocalipse": 12
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mt 5:23",
+      "text": "ἔχει τι κατὰ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Mt 8:28",
+      "text": "ἰσχύειν τινὰ παρελθεῖν",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Mt 9:3",
+      "text": "ἰδού τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Mt 11:27",
+      "text": "πατέρα τις ἐπιγινώσκει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mt 12:19",
+      "text": "ἀκούσει τις ἐν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mt 12:29",
+      "text": "δύναταί τις εἰσελθεῖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Mt 12:38",
+      "text": "αὐτῷ τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Mt 12:47",
+      "text": "δέ τις αὐτῷ·",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Mt 16:24",
+      "text": "Εἴ τις θέλει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Mt 16:28",
+      "text": "εἰσίν τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Mt 18:12",
+      "text": "γένηταί τινι ἀνθρώπῳ",
+      "highlightedWord": "τινι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Mt 18:28",
+      "text": "εἴ τι ὀφείλεις.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Mt 20:20",
+      "text": "αἰτοῦσά τι παρ’",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Mt 21:3",
+      "text": "ἐάν τις ὑμῖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Mt 22:24",
+      "text": "Ἐάν τις ἀποθάνῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Mt 22:46",
+      "text": "ἐτόλμησέν τις ἀπ’",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 4,
+      "reference": "Mt 24:4",
+      "text": "μή τις ὑμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Mt 24:23",
+      "text": "ἐάν τις ὑμῖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 47,
+      "reference": "Mt 27:47",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 11,
+      "reference": "Mt 28:11",
+      "text": "ἰδού τινες τῆς",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Mk 2:6",
+      "text": "δέ τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Mk 4:23",
+      "text": "εἴ τις ἔχει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Mk 6:23",
+      "text": "Ὅ τι ἐάν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Mk 7:1",
+      "text": "καί τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Mk 7:2",
+      "text": "ἰδόντες τινὰς τῶν",
+      "highlightedWord": "τινὰς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Mk 8:3",
+      "text": "καί τινες αὐτῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Mk 8:4",
+      "text": "δυνήσεταί τις ὧδε",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Mk 8:23",
+      "text": "Εἴ τι βλέπεις;",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Mk 8:34",
+      "text": "Εἴ τις θέλει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Mk 9:1",
+      "text": "εἰσίν τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mk 9:22",
+      "text": "εἴ τι δύνῃ,",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Mk 9:30",
+      "text": "ἵνα τις γνοῖ·",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mk 9:35",
+      "text": "Εἴ τις θέλει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Mk 9:38",
+      "text": "εἴδομέν τινα ἐν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Mk 11:3",
+      "text": "ἐάν τις ὑμῖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Mk 11:5",
+      "text": "καί τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Mk 11:13",
+      "text": "ἄρα τι εὑρήσει",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Mk 11:16",
+      "text": "ἵνα τις διενέγκῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mk 11:25",
+      "text": "εἴ τι ἔχετε",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Mk 12:13",
+      "text": "αὐτόν τινας τῶν",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mk 12:19",
+      "text": "ἐάν τινος ἀδελφὸς",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mk 13:5",
+      "text": "μή τις ὑμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Mk 13:15",
+      "text": "εἰσελθάτω τι ἆραι",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mk 13:21",
+      "text": "ἐάν τις ὑμῖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Mk 14:4",
+      "text": "δέ τινες ἀγανακτοῦντες",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 47,
+      "reference": "Mk 14:47",
+      "text": "δέ τις τῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 51,
+      "reference": "Mk 14:51",
+      "text": "νεανίσκος τις συνηκολούθει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 57,
+      "reference": "Mk 14:57",
+      "text": "καί τινες ἀναστάντες",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 65,
+      "reference": "Mk 14:65",
+      "text": "ἤρξαντό τινες ἐμπτύειν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Mk 15:21",
+      "text": "παράγοντά τινα Σίμωνα",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 35,
+      "reference": "Mk 15:35",
+      "text": "καί τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Mk 15:36",
+      "text": "δέ τις καὶ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Mk 16:18",
+      "text": "θανάσιμόν τι πίωσιν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Lk 1:5",
+      "text": "ἱερεύς τις ὀνόματι",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Lk 6:2",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Lk 7:2",
+      "text": "δέ τινος δοῦλος",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Lk 7:18",
+      "text": "δύο τινὰς τῶν",
+      "highlightedWord": "τινὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Lk 7:36",
+      "text": "δέ τις αὐτὸν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "Lk 7:40",
+      "text": "σοί τι εἰπεῖν.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Lk 7:41",
+      "text": "δανιστῇ τινι· ὁ",
+      "highlightedWord": "τινι·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Lk 8:2",
+      "text": "γυναῖκές τινες αἳ",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Lk 8:27",
+      "text": "ἀνήρ τις ἐκ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 46,
+      "reference": "Lk 8:46",
+      "text": "μού τις, ἐγὼ",
+      "highlightedWord": "τις,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 49,
+      "reference": "Lk 8:49",
+      "text": "ἔρχεταί τις παρὰ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Lk 8:51",
+      "text": "εἰσελθεῖν τινα σὺν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Lk 9:7",
+      "text": "ὑπό τινων ὅτι",
+      "highlightedWord": "τινων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Lk 9:8",
+      "text": "ὑπό τινων δὲ",
+      "highlightedWord": "τινων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Lk 9:19",
+      "text": "προφήτης τις τῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "Εἴ τις θέλει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Lk 9:27",
+      "text": "εἰσίν τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 49,
+      "reference": "Lk 9:49",
+      "text": "εἴδομέν τινα ἐν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 57,
+      "reference": "Lk 9:57",
+      "text": "εἶπέν τις πρὸς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Lk 10:25",
+      "text": "νομικός τις ἀνέστη",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Lk 10:30",
+      "text": "Ἄνθρωπός τις κατέβαινεν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Lk 10:31",
+      "text": "ἱερεύς τις κατέβαινεν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Lk 10:33",
+      "text": "δέ τις ὁδεύων",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Lk 10:35",
+      "text": "ὅ τι ἂν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Lk 10:38",
+      "text": "κώμην τινά· γυνὴ",
+      "highlightedWord": "τινά·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Lk 11:1",
+      "text": "τόπῳ τινὶ προσευχόμενον,",
+      "highlightedWord": "τινὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Lk 11:15",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Lk 11:27",
+      "text": "ἐπάρασά τις φωνὴν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Lk 11:36",
+      "text": "μέρος τι σκοτεινόν,",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 45,
+      "reference": "Lk 11:45",
+      "text": "δέ τις τῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 54,
+      "reference": "Lk 11:54",
+      "text": "θηρεῦσαί τι ἐκ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Lk 12:4",
+      "text": "περισσότερόν τι ποιῆσαι.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Lk 12:13",
+      "text": "δέ τις ἐκ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Lk 12:15",
+      "text": "περισσεύειν τινὶ ἡ",
+      "highlightedWord": "τινὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Lk 12:16",
+      "text": "Ἀνθρώπου τινὸς πλουσίου",
+      "highlightedWord": "τινὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Lk 13:1",
+      "text": "δέ τινες ἐν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Lk 13:6",
+      "text": "εἶχέν τις πεφυτευμένην",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 23,
+      "reference": "Lk 13:23",
+      "text": "δέ τις αὐτῷ·",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Lk 13:31",
+      "text": "προσῆλθάν τινες Φαρισαῖοι",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Lk 14:1",
+      "text": "οἶκόν τινος τῶν",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Lk 14:2",
+      "text": "ἄνθρωπός τις ἦν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Lk 14:8",
+      "text": "ὑπό τινος εἰς",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Lk 14:15",
+      "text": "δέ τις τῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Lk 14:16",
+      "text": "Ἄνθρωπός τις ἐποίει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "Εἴ τις ἔρχεται",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Lk 15:11",
+      "text": "Ἄνθρωπός τις εἶχεν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Lk 16:1",
+      "text": "Ἄνθρωπός τις ἦν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Lk 16:19",
+      "text": "δέ τις ἦν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Lk 16:20",
+      "text": "δέ τις ὀνόματι",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Lk 16:30",
+      "text": "ἐάν τις ἀπὸ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 31,
+      "reference": "Lk 16:31",
+      "text": "ἐάν τις ἐκ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Lk 17:12",
+      "text": "εἴς τινα κώμην",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Lk 18:2",
+      "text": "Κριτής τις ἦν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Lk 18:9",
+      "text": "πρός τινας τοὺς",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Lk 18:18",
+      "text": "ἐπηρώτησέν τις αὐτὸν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Lk 18:35",
+      "text": "τυφλός τις ἐκάθητο",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Lk 19:8",
+      "text": "εἴ τινός τι",
+      "highlightedWord": "τινός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Lk 19:12",
+      "text": "Ἄνθρωπός τις εὐγενὴς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Lk 19:31",
+      "text": "ἐάν τις ὑμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 39,
+      "reference": "Lk 19:39",
+      "text": "καί τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Lk 20:27",
+      "text": "δέ τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Lk 20:28",
+      "text": "ἐάν τινος ἀδελφὸς",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 39,
+      "reference": "Lk 20:39",
+      "text": "δέ τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Lk 21:2",
+      "text": "δέ τινα χήραν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Lk 21:5",
+      "text": "Καί τινων λεγόντων",
+      "highlightedWord": "τινων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 35,
+      "reference": "Lk 22:35",
+      "text": "μή τινος ὑστερήσατε;",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 50,
+      "reference": "Lk 22:50",
+      "text": "εἷς τις ἐξ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 56,
+      "reference": "Lk 22:56",
+      "text": "παιδίσκη τις καθήμενον",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 59,
+      "reference": "Lk 22:59",
+      "text": "ἄλλος τις διϊσχυρίζετο",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 8,
+      "reference": "Lk 23:8",
+      "text": "ἤλπιζέν τι σημεῖον",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Lk 23:19",
+      "text": "στάσιν τινὰ γενομένην",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 26,
+      "reference": "Lk 23:26",
+      "text": "Σίμωνά τινα Κυρηναῖον",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Lk 24:22",
+      "text": "γυναῖκές τινες ἐξ",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Lk 24:24",
+      "text": "ἀπῆλθόν τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 41,
+      "reference": "Lk 24:41",
+      "text": "Ἔχετέ τι βρώσιμον",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 46,
+      "reference": "Jn 1:46",
+      "text": "δύναταί τι ἀγαθὸν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Jn 2:5",
+      "text": "Ὅ τι ἂν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Jn 2:25",
+      "text": "ἵνα τις μαρτυρήσῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Jn 3:3",
+      "text": "μή τις γεννηθῇ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Jn 3:5",
+      "text": "μή τις γεννηθῇ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Jn 4:33",
+      "text": "Μή τις ἤνεγκεν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 46,
+      "reference": "Jn 4:46",
+      "text": "ἦν τις βασιλικὸς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Jn 5:5",
+      "text": "δέ τις ἄνθρωπος",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Jn 5:14",
+      "text": "σοί τι γένηται.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "μή τι βλέπῃ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Jn 6:7",
+      "text": "βραχύ τι λάβῃ.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Jn 6:12",
+      "text": "μή τι ἀπόληται.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 46,
+      "reference": "Jn 6:46",
+      "text": "ἑώρακέν τις εἰ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Jn 6:50",
+      "text": "ἵνα τις ἐξ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 51,
+      "reference": "Jn 6:51",
+      "text": "ἐάν τις φάγῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 64,
+      "reference": "Jn 6:64",
+      "text": "ὑμῶν τινες οἳ",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Jn 7:4",
+      "text": "γάρ τι ἐν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Jn 7:17",
+      "text": "ἐάν τις θέλῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Jn 7:25",
+      "text": "οὖν τινες ἐκ",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Jn 7:37",
+      "text": "Ἐάν τις διψᾷ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Jn 7:44",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 48,
+      "reference": "Jn 7:48",
+      "text": "μή τις ἐκ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Jn 8:25",
+      "text": "ὅ τι καὶ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Jn 8:51",
+      "text": "ἐάν τις τὸν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Jn 8:52",
+      "text": "Ἐάν τις τὸν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Jn 9:16",
+      "text": "Φαρισαίων τινές· Οὐκ",
+      "highlightedWord": "τινές·"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Jn 9:22",
+      "text": "ἐάν τις αὐτὸν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Jn 9:31",
+      "text": "ἐάν τις θεοσεβὴς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Jn 9:32",
+      "text": "ἠνέῳξέν τις ὀφθαλμοὺς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Jn 10:9",
+      "text": "ἐάν τις εἰσέλθῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Jn 10:28",
+      "text": "ἁρπάσει τις αὐτὰ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Jn 11:1",
+      "text": "δέ τις ἀσθενῶν,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Jn 11:9",
+      "text": "ἐάν τις περιπατῇ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Jn 11:10",
+      "text": "δέ τις περιπατῇ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Jn 11:37",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 46,
+      "reference": "Jn 11:46",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 49,
+      "reference": "Jn 11:49",
+      "text": "δέ τις ἐξ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 57,
+      "reference": "Jn 11:57",
+      "text": "ἐάν τις γνῷ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Jn 12:20",
+      "text": "Ἕλληνές τινες ἐκ",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Jn 12:26",
+      "text": "ἐμοί τις διακονῇ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Jn 12:47",
+      "text": "ἐάν τίς μου",
+      "highlightedWord": "τίς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Jn 13:20",
+      "text": "ἄν τινα πέμψω",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Jn 13:29",
+      "text": "τινὲς γὰρ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Jn 14:13",
+      "text": "ὅ τι ἂν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Jn 14:14",
+      "text": "ἐάν τι αἰτήσητέ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Jn 14:23",
+      "text": "Ἐάν τις ἀγαπᾷ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Jn 15:6",
+      "text": "μή τις μένῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Jn 15:13",
+      "text": "ἵνα τις τὴν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Jn 15:16",
+      "text": "ὅ τι ἂν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Jn 16:23",
+      "text": "ἄν τι αἰτήσητε",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Jn 16:30",
+      "text": "ἵνα τίς σε",
+      "highlightedWord": "τίς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Jn 20:23",
+      "text": "ἄν τινων ἀφῆτε",
+      "highlightedWord": "τινων"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Jn 21:5",
+      "text": "μή τι προσφάγιον",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 45,
+      "reference": "Ac 2:45",
+      "text": "ἄν τις χρείαν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ac 3:2",
+      "text": "καί τις ἀνὴρ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ac 3:5",
+      "text": "προσδοκῶν τι παρ’",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Ac 4:32",
+      "text": "εἷς τι τῶν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Ac 4:34",
+      "text": "ἐνδεής τις ἦν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "ἄν τις χρείαν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ac 5:1",
+      "text": "δέ τις Ἁνανίας",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ac 5:2",
+      "text": "μέρος τι παρὰ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ac 5:15",
+      "text": "ἐπισκιάσῃ τινὶ αὐτῶν.",
+      "highlightedWord": "τινὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Ac 5:25",
+      "text": "δέ τις ἀπήγγειλεν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Ac 5:34",
+      "text": "δέ τις ἐν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Ac 5:36",
+      "text": "εἶναί τινα ἑαυτόν,",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Ac 6:9",
+      "text": "δέ τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Ac 7:24",
+      "text": "ἰδών τινα ἀδικούμενον",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ac 8:9",
+      "text": "δέ τις ὀνόματι",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ac 8:31",
+      "text": "μή τις ὁδηγήσει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Ac 8:34",
+      "text": "ἑτέρου τινός;",
+      "highlightedWord": "τινός;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Ac 8:36",
+      "text": "ἐπί τι ὕδωρ,",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ac 9:2",
+      "text": "ἐάν τινας εὕρῃ",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Ac 9:10",
+      "text": "δέ τις μαθητὴς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Ac 9:19",
+      "text": "ἡμέρας τινὰς,",
+      "highlightedWord": "τινὰς,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Ac 9:33",
+      "text": "ἄνθρωπόν τινα ὀνόματι",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Ac 9:36",
+      "text": "δέ τις ἦν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Ac 9:43",
+      "text": "παρά τινι Σίμωνι",
+      "highlightedWord": "τινι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Ac 10:1",
+      "text": "δέ τις ἐν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Ac 10:5",
+      "text": "Σίμωνά τινα ὃς",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ac 10:6",
+      "text": "παρά τινι Σίμωνι",
+      "highlightedWord": "τινι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Ac 10:11",
+      "text": "σκεῦός τι ὡς",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Ac 10:23",
+      "text": "καί τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 47,
+      "reference": "Ac 10:47",
+      "text": "κωλῦσαί τις τοῦ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 48,
+      "reference": "Ac 10:48",
+      "text": "ἡμέρας τινάς.",
+      "highlightedWord": "τινάς."
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ac 11:5",
+      "text": "σκεῦός τι ὡς",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Ac 11:20",
+      "text": "δέ τινες ἐξ",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Ac 11:29",
+      "text": "εὐπορεῖτό τις ὥρισαν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Ac 12:1",
+      "text": "κακῶσαί τινας τῶν",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Ac 13:6",
+      "text": "ἄνδρα τινὰ μάγον",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Ac 13:15",
+      "text": "εἴ τίς ἐστιν",
+      "highlightedWord": "τίς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 41,
+      "reference": "Ac 13:41",
+      "text": "ἐάν τις ἐκδιηγῆται",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Ac 14:8",
+      "text": "Καί τις ἀνὴρ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Ac 15:1",
+      "text": "Καί τινες κατελθόντες",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ac 15:2",
+      "text": "καί τινας ἄλλους",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Ac 15:5",
+      "text": "δέ τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Ac 15:24",
+      "text": "ὅτι τινὲς ἐξ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Ac 15:36",
+      "text": "δέ τινας ἡμέρας",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Ac 16:1",
+      "text": "μαθητής τις ἦν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Ac 16:9",
+      "text": "Μακεδών τις ἦν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Ac 16:12",
+      "text": "ἡμέρας τινάς.",
+      "highlightedWord": "τινάς."
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Ac 16:14",
+      "text": "καί τις γυνὴ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Ac 16:16",
+      "text": "παιδίσκην τινὰ ἔχουσαν",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Ac 17:4",
+      "text": "καί τινες ἐξ",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Ac 17:5",
+      "text": "ἄνδρας τινὰς πονηροὺς",
+      "highlightedWord": "τινὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Ac 17:6",
+      "text": "καί τινας ἀδελφοὺς",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Ac 17:18",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Ac 17:20",
+      "text": "γάρ τινα εἰσφέρεις",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 21,
+      "reference": "Ac 17:21",
+      "text": "λέγειν τι ἢ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Ac 17:25",
+      "text": "προσδεόμενός τινος, αὐτὸς",
+      "highlightedWord": "τινος,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 28,
+      "reference": "Ac 17:28",
+      "text": "καί τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 34,
+      "reference": "Ac 17:34",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Ac 18:2",
+      "text": "εὑρών τινα Ἰουδαῖον",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Ac 18:7",
+      "text": "οἰκίαν τινὸς ὀνόματι",
+      "highlightedWord": "τινὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "ἀδίκημά τι ἢ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Ac 18:23",
+      "text": "χρόνον τινὰ ἐξῆλθεν,",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Ac 18:24",
+      "text": "δέ τις Ἀπολλῶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Ac 19:1",
+      "text": "εὑρεῖν τινας μαθητάς,",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Ac 19:9",
+      "text": "δέ τινες ἐσκληρύνοντο",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Ac 19:13",
+      "text": "δέ τινες καὶ",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Ac 19:14",
+      "text": "δέ τινος Σκευᾶ",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Ac 19:24",
+      "text": "γάρ τις ὀνόματι,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Ac 19:31",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Ac 19:32",
+      "text": "ἄλλο τι ἔκραζον,",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Ac 19:38",
+      "text": "πρός τινα λόγον,",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 39,
+      "reference": "Ac 19:39",
+      "text": "δέ τι περαιτέρω",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Ac 20:9",
+      "text": "δέ τις νεανίας",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Ac 21:10",
+      "text": "κατῆλθέν τις ἀπὸ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Ac 21:16",
+      "text": "Μνάσωνί τινι Κυπρίῳ,",
+      "highlightedWord": "τινι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Ac 21:34",
+      "text": "ἄλλο τι ἐπεφώνουν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Ac 21:37",
+      "text": "εἰπεῖν τι πρὸς",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Ac 22:12",
+      "text": "δέ τις ἀνὴρ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "ἀναστάντες τινὲς τῶν",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 17,
+      "reference": "Ac 23:17",
+      "text": "ἀπαγγεῖλαί τι αὐτῷ.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 18,
+      "reference": "Ac 23:18",
+      "text": "ἔχοντά τι λαλῆσαί",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 20,
+      "reference": "Ac 23:20",
+      "text": "μέλλον τι ἀκριβέστερον",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Ac 23:23",
+      "text": "προσκαλεσάμενός τινας δύο",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Ac 24:1",
+      "text": "πρεσβυτέρων τινῶν καὶ",
+      "highlightedWord": "τινῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Ac 24:12",
+      "text": "πρός τινα διαλεγόμενον",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Ac 24:19",
+      "text": "τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Ac 24:24",
+      "text": "ἡμέρας τινὰς παραγενόμενος",
+      "highlightedWord": "τινὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 5,
+      "reference": "Ac 25:5",
+      "text": "εἴ τί ἐστιν",
+      "highlightedWord": "τί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 8,
+      "reference": "Ac 25:8",
+      "text": "Καίσαρά τι ἥμαρτον.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "πέπραχά τι, οὐ",
+      "highlightedWord": "τι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 13,
+      "reference": "Ac 25:13",
+      "text": "διαγενομένων τινῶν Ἀγρίππας",
+      "highlightedWord": "τινῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 14,
+      "reference": "Ac 25:14",
+      "text": "Ἀνήρ τίς ἐστιν",
+      "highlightedWord": "τίς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Ac 25:16",
+      "text": "χαρίζεσθαί τινα ἄνθρωπον",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 19,
+      "reference": "Ac 25:19",
+      "text": "δέ τινα περὶ",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 26,
+      "reference": "Ac 25:26",
+      "text": "ἀσφαλές τι γράψαι",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Ac 26:31",
+      "text": "ἄξιον τι πράσσει",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 1,
+      "reference": "Ac 27:1",
+      "text": "καί τινας ἑτέρους",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 8,
+      "reference": "Ac 27:8",
+      "text": "τόπον τινὰ καλούμενον",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 16,
+      "reference": "Ac 27:16",
+      "text": "δέ τι ὑποδραμόντες",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 26,
+      "reference": "Ac 27:26",
+      "text": "δέ τινα δεῖ",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 27,
+      "reference": "Ac 27:27",
+      "text": "προσάγειν τινὰ αὐτοῖς",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 39,
+      "reference": "Ac 27:39",
+      "text": "δέ τινα κατενόουν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 42,
+      "reference": "Ac 27:42",
+      "text": "μή τις ἐκκολυμβήσας",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 44,
+      "reference": "Ac 27:44",
+      "text": "ἐπί τινων τῶν",
+      "highlightedWord": "τινων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 3,
+      "reference": "Ac 28:3",
+      "text": "φρυγάνων τι πλῆθος",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Ac 28:19",
+      "text": "ἔχων τι κατηγορεῖν.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 21,
+      "reference": "Ac 28:21",
+      "text": "παραγενόμενός τις τῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ro 1:11",
+      "text": "ἵνα τι μεταδῶ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "ἵνα τινὰ καρπὸν",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Ro 3:3",
+      "text": "ἠπίστησάν τινες, μὴ",
+      "highlightedWord": "τινες,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ro 3:8",
+      "text": "φασίν τινες ἡμᾶς",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ro 5:7",
+      "text": "δικαίου τις ἀποθανεῖται·",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ro 8:9",
+      "text": "δέ τις πνεῦμα",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Ro 8:39",
+      "text": "οὔτε τις κτίσις",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Ro 9:11",
+      "text": "πραξάντων τι ἀγαθὸν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Ro 11:14",
+      "text": "σώσω τινὰς ἐξ",
+      "highlightedWord": "τινὰς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Ro 11:17",
+      "text": "δέ τινες τῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Ro 13:9",
+      "text": "εἴ τις ἑτέρα",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Ro 14:14",
+      "text": "λογιζομένῳ τι κοινὸν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Ro 15:18",
+      "text": "τολμήσω τι λαλεῖν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Ro 15:26",
+      "text": "κοινωνίαν τινὰ ποιήσασθαι",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Co 1:15",
+      "text": "μή τις εἴπῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Co 1:16",
+      "text": "εἴ τινα ἄλλον",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Co 2:2",
+      "text": "ἔκρινά τι εἰδέναι",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Co 3:4",
+      "text": "λέγῃ τις· Ἐγὼ",
+      "highlightedWord": "τις·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Co 3:7",
+      "text": "ἐστίν τι οὔτε",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Co 3:12",
+      "text": "δέ τις ἐποικοδομεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Co 3:14",
+      "text": "εἴ τινος τὸ",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Co 3:15",
+      "text": "εἴ τινος τὸ",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Co 3:17",
+      "text": "εἴ τις τὸν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Co 3:18",
+      "text": "εἴ τις δοκεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Co 4:2",
+      "text": "πιστός τις εὑρεθῇ.",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Co 4:5",
+      "text": "καιροῦ τι κρίνετε,",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Co 4:18",
+      "text": "ἐφυσιώθησάν τινες·",
+      "highlightedWord": "τινες·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Co 5:1",
+      "text": "γυναῖκά τινα τοῦ",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "1Co 5:11",
+      "text": "ἐάν τις ἀδελφὸς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Co 6:1",
+      "text": "Τολμᾷ τις ὑμῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "1Co 6:11",
+      "text": "ταῦτά τινες ἦτε·",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "1Co 6:12",
+      "text": "ὑπό τινος.",
+      "highlightedWord": "τινος."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "1Co 7:12",
+      "text": "εἴ τις ἀδελφὸς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "1Co 7:13",
+      "text": "εἴ τις ἔχει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "1Co 7:18",
+      "text": "περιτετμημένος τις ἐκλήθη;",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "1Co 7:36",
+      "text": "δέ τις ἀσχημονεῖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "1Co 8:2",
+      "text": "εἴ τις δοκεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "1Co 8:3",
+      "text": "δέ τις ἀγαπᾷ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "1Co 8:7",
+      "text": "γνῶσις· τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "1Co 8:10",
+      "text": "γάρ τις ἴδῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "1Co 9:12",
+      "text": "μή τινα ἐγκοπὴν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "1Co 9:22",
+      "text": "πάντως τινὰς σώσω.",
+      "highlightedWord": "τινὰς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "1Co 10:7",
+      "text": "καθώς τινες αὐτῶν·",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "1Co 10:8",
+      "text": "καθώς τινες αὐτῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "1Co 10:9",
+      "text": "καθώς τινες αὐτῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "1Co 10:10",
+      "text": "καθάπερ τινὲς αὐτῶν",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "1Co 10:19",
+      "text": "εἰδωλόθυτόν τί ἐστιν,",
+      "highlightedWord": "τί"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "1Co 10:27",
+      "text": "εἴ τις καλεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "1Co 10:28",
+      "text": "δέ τις ὑμῖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "1Co 10:31",
+      "text": "εἴτε τι ποιεῖτε,",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "1Co 11:16",
+      "text": "δέ τις δοκεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "1Co 11:18",
+      "text": "μέρος τι πιστεύω.",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "1Co 11:34",
+      "text": "εἴ τις πεινᾷ,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "1Co 14:24",
+      "text": "δέ τις ἄπιστος",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "1Co 14:27",
+      "text": "γλώσσῃ τις λαλεῖ,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "1Co 14:35",
+      "text": "δέ τι μαθεῖν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 37,
+      "reference": "1Co 14:37",
+      "text": "Εἴ τις δοκεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 38,
+      "reference": "1Co 14:38",
+      "text": "δέ τις ἀγνοεῖ,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "1Co 15:6",
+      "text": "ἄρτι, τινὲς δὲ",
+      "highlightedWord": "τινὲς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "1Co 15:12",
+      "text": "ὑμῖν τινες ὅτι",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "1Co 15:34",
+      "text": "θεοῦ τινες ἔχουσιν·",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 35,
+      "reference": "1Co 15:35",
+      "text": "ἐρεῖ τις· Πῶς",
+      "highlightedWord": "τις·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "1Co 15:37",
+      "text": "ἤ τινος τῶν",
+      "highlightedWord": "τινος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "ὅ τι ἐὰν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "1Co 16:7",
+      "text": "χρόνον τινὰ ἐπιμεῖναι",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "1Co 16:11",
+      "text": "μή τις οὖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "1Co 16:22",
+      "text": "εἴ τις οὐ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Co 2:5",
+      "text": "δέ τις λελύπηκεν,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "2Co 2:10",
+      "text": "δέ τι χαρίζεσθε,",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Co 3:1",
+      "text": "ὥς τινες συστατικῶν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Co 3:5",
+      "text": "λογίσασθαί τι ὡς",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "2Co 5:17",
+      "text": "εἴ τις ἐν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "2Co 7:14",
+      "text": "εἴ τι αὐτῷ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "2Co 8:20",
+      "text": "μή τις ἡμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "2Co 10:2",
+      "text": "ἐπί τινας τοὺς",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "2Co 10:7",
+      "text": "εἴ τις πέποιθεν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "2Co 10:8",
+      "text": "περισσότερόν τι καυχήσωμαι",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "2Co 10:12",
+      "text": "ἑαυτούς τισιν τῶν",
+      "highlightedWord": "τισιν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "2Co 11:1",
+      "text": "μικρόν τι ἀφροσύνης·",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "2Co 11:16",
+      "text": "μή τίς με",
+      "highlightedWord": "τίς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "2Co 11:20",
+      "text": "εἴ τις ὑμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "2Co 11:21",
+      "text": "ἄν τις τολμᾷ,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "2Co 12:6",
+      "text": "μή τις εἰς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "2Co 12:17",
+      "text": "μή τινα ὧν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "2Co 13:8",
+      "text": "δυνάμεθά τι κατὰ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ga 1:7",
+      "text": "μή τινές εἰσιν",
+      "highlightedWord": "τινές"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Ga 1:9",
+      "text": "εἴ τις ὑμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ga 2:6",
+      "text": "εἶναί τι— ὁποῖοί",
+      "highlightedWord": "τι—"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Ga 2:12",
+      "text": "ἐλθεῖν τινας ἀπὸ",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Ga 5:6",
+      "text": "περιτομή τι ἰσχύει",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ga 6:1",
+      "text": "ἔν τινι παραπτώματι,",
+      "highlightedWord": "τινι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Ga 6:3",
+      "text": "δοκεῖ τις εἶναί",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Ga 6:15",
+      "text": "περιτομή τί ἐστιν",
+      "highlightedWord": "τί"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Eph 2:9",
+      "text": "μή τις καυχήσηται.",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "εἴ τις ἀγαθὸς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Eph 5:27",
+      "text": "ἤ τι τῶν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Php 1:15",
+      "text": "Τινὲς μὲν",
+      "highlightedWord": "Τινὲς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Php 2:1",
+      "text": "Εἴ τις οὖν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Php 3:4",
+      "text": "Εἴ τις δοκεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Php 3:15",
+      "text": "εἴ τι ἑτέρως",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Php 4:8",
+      "text": "εἴ τις ἀρετὴ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Col 2:8",
+      "text": "μή τις ὑμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Col 2:16",
+      "text": "οὖν τις ὑμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Col 2:23",
+      "text": "τιμῇ τινι πρὸς",
+      "highlightedWord": "τινι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Col 3:13",
+      "text": "ἐάν τις πρός",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Col 3:17",
+      "text": "ὅ τι ἐὰν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "λαλεῖν τι·",
+      "highlightedWord": "τι·"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Th 2:9",
+      "text": "ἐπιβαρῆσαί τινα ὑμῶν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Th 5:15",
+      "text": "μή τις κακὸν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Th 2:3",
+      "text": "μή τις ὑμᾶς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Th 3:8",
+      "text": "παρά τινος, ἀλλ’",
+      "highlightedWord": "τινος,"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Th 3:10",
+      "text": "εἴ τις οὐ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "2Th 3:11",
+      "text": "γάρ τινας περιπατοῦντας",
+      "highlightedWord": "τινας"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Th 3:14",
+      "text": "δέ τις οὐχ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Ti 1:3",
+      "text": "παραγγείλῃς τισὶν μὴ",
+      "highlightedWord": "τισὶν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Ti 1:6",
+      "text": "ὧν τινες ἀστοχήσαντες",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Ti 1:8",
+      "text": "ἐάν τις αὐτῷ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "1Ti 1:10",
+      "text": "εἴ τι ἕτερον",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "1Ti 1:19",
+      "text": "ἥν τινες ἀπωσάμενοι",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Ti 3:1",
+      "text": "εἴ τις ἐπισκοπῆς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Ti 3:5",
+      "text": "δέ τις τοῦ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Ti 4:1",
+      "text": "ἀποστήσονταί τινες τῆς",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Ti 5:4",
+      "text": "δέ τις χήρα",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Ti 5:8",
+      "text": "δέ τις τῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Ti 5:15",
+      "text": "γάρ τινες ἐξετράπησαν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Ti 5:16",
+      "text": "εἴ τις πιστὴ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "1Ti 5:24",
+      "text": "Τινῶν ἀνθρώπων",
+      "highlightedWord": "Τινῶν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "1Ti 6:3",
+      "text": "εἴ τις ἑτεροδιδασκαλεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "1Ti 6:7",
+      "text": "ἐξενεγκεῖν τι δυνάμεθα·",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "1Ti 6:10",
+      "text": "ἧς τινες ὀρεγόμενοι",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "1Ti 6:21",
+      "text": "ἥν τινες ἐπαγγελλόμενοι",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Ti 2:5",
+      "text": "ἀθλῇ τις, οὐ",
+      "highlightedWord": "τις,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "2Ti 2:18",
+      "text": "τήν τινων πίστιν.",
+      "highlightedWord": "τινων"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "2Ti 2:21",
+      "text": "οὖν τις ἐκκαθάρῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Tit 1:6",
+      "text": "εἴ τίς ἐστιν",
+      "highlightedWord": "τίς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Tit 1:12",
+      "text": "εἶπέν τις ἐξ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Phm 1:18",
+      "text": "δέ τι ἠδίκησέν",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Heb 2:6",
+      "text": "πού τις λέγων·",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Heb 2:7",
+      "text": "βραχύ τι παρ’",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Heb 2:9",
+      "text": "βραχύ τι παρ’",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Heb 3:4",
+      "text": "ὑπό τινος, ὁ",
+      "highlightedWord": "τινος,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Heb 3:12",
+      "text": "ἔν τινι ὑμῶν",
+      "highlightedWord": "τινι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "σκληρυνθῇ τις ἐξ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Heb 4:1",
+      "text": "δοκῇ τις ἐξ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Heb 4:6",
+      "text": "ἀπολείπεται τινὰς εἰσελθεῖν",
+      "highlightedWord": "τινὰς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Heb 4:7",
+      "text": "πάλιν τινὰ ὁρίζει",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Heb 4:11",
+      "text": "αὐτῷ τις ὑποδείγματι",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Heb 5:4",
+      "text": "ἑαυτῷ τις λαμβάνει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Heb 5:12",
+      "text": "ὑμᾶς τινὰ τὰ",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Heb 8:3",
+      "text": "ἔχειν τι καὶ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Heb 10:25",
+      "text": "ἔθος τισίν, ἀλλὰ",
+      "highlightedWord": "τισίν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Heb 10:27",
+      "text": "δέ τις ἐκδοχὴ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Heb 10:28",
+      "text": "ἀθετήσας τις νόμον",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 40,
+      "reference": "Heb 11:40",
+      "text": "κρεῖττόν τι προβλεψαμένου,",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Heb 12:15",
+      "text": "μή τις ὑστερῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Heb 12:16",
+      "text": "μή τις πόρνος",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Heb 13:2",
+      "text": "ἔλαθόν τινες ξενίσαντες",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Jas 1:5",
+      "text": "δέ τις ὑμῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jas 1:7",
+      "text": "λήμψεταί τι παρὰ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Jas 1:18",
+      "text": "ἀπαρχήν τινα τῶν",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Jas 1:23",
+      "text": "εἴ τις ἀκροατὴς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jas 1:26",
+      "text": "Εἴ τις δοκεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Jas 2:14",
+      "text": "λέγῃ τις ἔχειν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Jas 2:16",
+      "text": "δέ τις αὐτοῖς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Jas 2:18",
+      "text": "ἐρεῖ τις· Σὺ",
+      "highlightedWord": "τις·"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jas 3:2",
+      "text": "εἴ τις ἐν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jas 5:12",
+      "text": "ἄλλον τινὰ ὅρκον·",
+      "highlightedWord": "τινὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Jas 5:13",
+      "text": "Κακοπαθεῖ τις ἐν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Jas 5:14",
+      "text": "ἀσθενεῖ τις ἐν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jas 5:19",
+      "text": "ἐάν τις ἐν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Pe 2:19",
+      "text": "ὑποφέρει τις λύπας",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Pe 3:1",
+      "text": "εἴ τινες ἀπειθοῦσιν",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Pe 4:11",
+      "text": "εἴ τις λαλεῖ,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Pe 4:15",
+      "text": "γάρ τις ὑμῶν",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Pe 5:8",
+      "text": "ζητῶν τινα καταπιεῖν·",
+      "highlightedWord": "τινα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "2Pe 2:19",
+      "text": "γάρ τις ἥττηται,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Pe 3:9",
+      "text": "ὥς τινες βραδύτητα",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "2Pe 3:16",
+      "text": "δυσνόητά τινα, ἃ",
+      "highlightedWord": "τινα,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Jn 2:1",
+      "text": "ἐάν τις ἁμάρτῃ,",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Jn 2:15",
+      "text": "ἐάν τις ἀγαπᾷ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "1Jn 2:27",
+      "text": "ἵνα τις διδάσκῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "1Jn 4:20",
+      "text": "ἐάν τις εἴπῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Jn 5:14",
+      "text": "ἐάν τι αἰτώμεθα",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Jn 5:16",
+      "text": "ἐάν τις ἴδῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Jn 1:10",
+      "text": "εἴ τις ἔρχεται",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "3Jn 1:9",
+      "text": "Ἔγραψά τι τῇ",
+      "highlightedWord": "τι"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jud 1:4",
+      "text": "γάρ τινες ἄνθρωποι,",
+      "highlightedWord": "τινες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "ἐάν τις ἀκούσῃ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Re 11:5",
+      "text": "εἴ τις αὐτοὺς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Re 13:9",
+      "text": "Εἴ τις ἔχει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Re 13:10",
+      "text": "εἴ τις εἰς",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "μή τις δύνηται",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "Εἴ τις προσκυνεῖ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "εἴ τις λαμβάνει",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Re 20:15",
+      "text": "εἴ τις οὐχ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Re 22:18",
+      "text": "ἐάν τις ἐπιθῇ",
+      "highlightedWord": "τις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 19,
+      "reference": "Re 22:19",
+      "text": "ἐάν τις ἀφέλῃ",
+      "highlightedWord": "τις"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
