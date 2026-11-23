@@ -29,6 +29,9 @@ for (const line of fs.readFileSync(path.join(mappingsDir, 'lexemes.yaml'), 'utf8
     if (match && currentLemma) greekToStrong.set(currentLemma, 'G' + match[1]);
   }
 }
+// Exceção documentada: ἐραυνάω = G2045, grafia alternante de ἐρευνάω.
+// Fonte externa independente: blueletterbible.org/lexicon/g2045/mgnt/mgnt
+greekToStrong.set('ἐραυνάω','G2045');
 const results = new Map(Object.keys(entries).map(id => [id, {
   tokenCount: 0, bookDistribution: {}, references: [], seen: new Set()
 }]));
