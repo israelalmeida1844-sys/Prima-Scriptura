@@ -7,11 +7,11 @@ export const apocalipse1v20 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quanto ao mistério das sete estrelas que você viu na minha mão direita e dos sete candelabros de ouro: as sete estrelas são os anjos das sete igrejas, e os sete candelabros são as sete igrejas».",
-  "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "τὸ μυστήριον e τὰς ἑπτὰ λυχνίας são acusativos retomados em relação ao conteúdo do mandato γράψον (1:19); a construção é abrupta, mas não se deve classificá-la simplesmente como erro gramatical sem considerar topicalização e anacoluto. O versículo oferece interpretação explícita dos dois símbolos.",
+  "translationNote": "A construção inicial é topicalizada e apresenta assimetria de casos; a tradução portuguesa «Quanto ao mistério...» representa a função discursiva, sem converter o grego em acusativo.",
+  "textualNotes": "τὸ μυστήριον é neutro singular, com nominativo e acusativo formalmente idênticos; MorphGNT o analisa como nominativo. τὰς ἑπτὰ λυχνίας é inequivocamente acusativo feminino plural. A abertura admite tópico pendente ou anacoluto; a relação com γράψον (1:19) é hipótese sintática. οἱ ἑπτὰ ἀστέρες e αἱ λυχνίαι são sujeitos nominativos de εἰσίν.",
   "exegeticalNotes": [
-    "O próprio texto interpreta as estrelas como anjos das igrejas.",
-    "A equivalência dos candelabros com igrejas ancora a visão na comunidade cristã."
+    "τὸ μυστήριον tem análise nominativa no MorphGNT, ao passo que τὰς ἑπτὰ λυχνίας é acusativo; não uniformizar casos sem justificativa.",
+    "O versículo identifica as estrelas com anjos das igrejas e os candelabros com as igrejas."
   ],
   "words": [
     {
@@ -32,7 +32,7 @@ export const apocalipse1v20 = {
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Artigo neutro singular, forma idêntica no nominativo e acusativo; MorphGNT: nominativo",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "mistério; segredo revelado",
-      "explanation": "Substantivo nominativo singular neutro; núcleo nominal. A equivalência portuguesa «mistério» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Neutro singular; nominativo e acusativo são formas idênticas. MorphGNT classifica nominativo; a função sintática admite tópico antecipado.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Nominativo singular neutro na análise MorphGNT; tópico de frase inicial",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "o",
+      "gloss": "dos/das",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -98,7 +98,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo genitivo plural masculino",
-      "meanings": "sete",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo genitivo plural masculino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -163,7 +163,7 @@ export const apocalipse1v20 = {
       "shortMorph": "V-AAI-2S",
       "greek": "εἶδες",
       "transliteration": "eides",
-      "gloss": "vi",
+      "gloss": "viste",
       "strong": "G3708",
       "lemma": "ὁράω",
       "lemmaTransliteration": "horaō",
@@ -211,7 +211,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-GSF",
       "greek": "τῆς",
       "transliteration": "tēs",
-      "gloss": "o",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -307,7 +307,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-APF",
       "greek": "τὰς",
       "transliteration": "tas",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -320,7 +320,7 @@ export const apocalipse1v20 = {
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Artigo acusativo feminino plural de λυχνίας",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -338,7 +338,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
-      "meanings": "sete",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo acusativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -368,7 +368,7 @@ export const apocalipse1v20 = {
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Nome acusativo plural feminino na construção introdutória",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -379,7 +379,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-APF",
       "greek": "τὰς",
       "transliteration": "tas",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -392,7 +392,7 @@ export const apocalipse1v20 = {
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Artigo acusativo feminino plural de λυχνίας",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -458,7 +458,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
-      "meanings": "sete",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo nominativo plural masculino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -488,7 +488,7 @@ export const apocalipse1v20 = {
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Sujeito nominativo de εἰσίν",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -512,7 +512,7 @@ export const apocalipse1v20 = {
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Predicativo nominativo de εἰσίν",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -523,7 +523,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-GPF",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "o",
+      "gloss": "dos/das",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -554,7 +554,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo genitivo plural feminino",
-      "meanings": "sete",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo genitivo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -595,7 +595,7 @@ export const apocalipse1v20 = {
       "shortMorph": "V-PAI-3P",
       "greek": "εἰσίν,",
       "transliteration": "eisin",
-      "gloss": "sou",
+      "gloss": "são",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -722,7 +722,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
-      "meanings": "sete",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo nominativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -746,7 +746,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
-      "meanings": "sete",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo nominativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -787,7 +787,7 @@ export const apocalipse1v20 = {
       "shortMorph": "V-PAI-3P",
       "greek": "εἰσίν.",
       "transliteration": "eisin",
-      "gloss": "sou",
+      "gloss": "são",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
