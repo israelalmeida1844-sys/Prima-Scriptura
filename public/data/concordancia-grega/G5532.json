@@ -1,0 +1,405 @@
+{
+  "strong": "G5532",
+  "lemma": "χρεία",
+  "lemmaTranslit": "chreia",
+  "tokenCount": 49,
+  "verseCount": 47,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 4,
+    "Lucas": 7,
+    "João": 4,
+    "Atos": 5,
+    "Romanos": 1,
+    "1 Coríntios": 3,
+    "Efésios": 2,
+    "Filipenses": 3,
+    "1 Tessalonicenses": 4,
+    "Tito": 1,
+    "Hebreus": 4,
+    "1 João": 2,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Mt 3:14",
+      "text": "Ἐγὼ χρείαν ἔχω",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mt 6:8",
+      "text": "ὧν χρείαν ἔχετε",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mt 9:12",
+      "text": "Οὐ χρείαν ἔχουσιν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Mt 14:16",
+      "text": "Οὐ χρείαν ἔχουσιν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Mt 21:3",
+      "text": "αὐτῶν χρείαν ἔχει·",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 65,
+      "reference": "Mt 26:65",
+      "text": "ἔτι χρείαν ἔχομεν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Mk 2:17",
+      "text": "Οὐ χρείαν ἔχουσιν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Mk 2:25",
+      "text": "ὅτε χρείαν ἔσχεν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Mk 11:3",
+      "text": "αὐτοῦ χρείαν ἔχει·",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 63,
+      "reference": "Mk 14:63",
+      "text": "ἔτι χρείαν ἔχομεν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Lk 5:31",
+      "text": "Οὐ χρείαν ἔχουσιν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Lk 9:11",
+      "text": "τοὺς χρείαν ἔχοντας",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Lk 10:42",
+      "text": "ἐστιν χρεία ἢ",
+      "highlightedWord": "χρεία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Lk 15:7",
+      "text": "οὐ χρείαν ἔχουσιν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Lk 19:31",
+      "text": "αὐτοῦ χρείαν ἔχει.",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Lk 19:34",
+      "text": "αὐτοῦ χρείαν ἔχει.",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 71,
+      "reference": "Lk 22:71",
+      "text": "μαρτυρίας χρείαν; αὐτοὶ",
+      "highlightedWord": "χρείαν;"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Jn 2:25",
+      "text": "οὐ χρείαν εἶχεν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Jn 13:10",
+      "text": "ἔχει χρείαν εἰ",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Jn 13:29",
+      "text": "ὧν χρείαν ἔχομεν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Jn 16:30",
+      "text": "οὐ χρείαν ἔχεις",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 45,
+      "reference": "Ac 2:45",
+      "text": "τις χρείαν εἶχεν·",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "τις χρείαν εἶχεν.",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Ac 6:3",
+      "text": "τῆς χρείας ταύτης·",
+      "highlightedWord": "χρείας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 34,
+      "reference": "Ac 20:34",
+      "text": "ταῖς χρείαις μου",
+      "highlightedWord": "χρείαις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 10,
+      "reference": "Ac 28:10",
+      "text": "τὰς χρείας.",
+      "highlightedWord": "χρείας."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Ro 12:13",
+      "text": "ταῖς χρείαις τῶν",
+      "highlightedWord": "χρείαις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "1Co 12:21",
+      "text": "χειρί· Χρείαν σου",
+      "highlightedWord": "Χρείαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "1Co 12:24",
+      "text": "οὐ χρείαν ἔχει.",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Eph 4:28",
+      "text": "τῷ χρείαν ἔχοντι.",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "τῆς χρείας, ἵνα",
+      "highlightedWord": "χρείας,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Php 2:25",
+      "text": "τῆς χρείας μου,",
+      "highlightedWord": "χρείας"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Php 4:16",
+      "text": "τὴν χρείαν μοι",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Php 4:19",
+      "text": "πᾶσαν χρείαν ὑμῶν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "μὴ χρείαν ἔχειν",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Th 4:9",
+      "text": "οὐ χρείαν ἔχετε",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Th 4:12",
+      "text": "μηδενὸς χρείαν ἔχητε.",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Th 5:1",
+      "text": "οὐ χρείαν ἔχετε",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Tit 3:14",
+      "text": "ἀναγκαίας χρείας, ἵνα",
+      "highlightedWord": "χρείας,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Heb 5:12",
+      "text": "πάλιν χρείαν ἔχετε",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Heb 7:11",
+      "text": "ἔτι χρεία κατὰ",
+      "highlightedWord": "χρεία"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Heb 10:36",
+      "text": "ἔχετε χρείαν ἵνα",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "1Jn 2:27",
+      "text": "οὐ χρείαν ἔχετε",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Jn 3:17",
+      "text": "αὐτοῦ χρείαν ἔχοντα",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "οὐδὲν χρείαν ἔχω,",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Re 21:23",
+      "text": "οὐ χρείαν ἔχει",
+      "highlightedWord": "χρείαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Re 22:5",
+      "text": "ἔχουσιν χρείαν φωτὸς",
+      "highlightedWord": "χρείαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
