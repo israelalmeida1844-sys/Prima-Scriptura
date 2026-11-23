@@ -8,7 +8,7 @@ export const apocalipse1v16 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Na mão direita ele segurava sete estrelas; de sua boca saía uma espada afiada de dois gumes, e seu rosto brilhava como o sol em toda a sua força.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "ἔχων é particípio presente ativo nominativo singular masculino, vinculado ao personagem descrito; ῥομφαία δίστομος ὀξεῖα é sujeito nominativo da oração elíptica com ἐκπορευομένη. A espada saída da boca é símbolo de autoridade verbal, comparável a Ap 19:15,21.",
+  "textualNotes": "ἔχων é particípio presente ativo nominativo masculino singular, ligado à figura da visão. A espada ῥομφαία δίστομος ὀξεῖα no nominativo é descrita saindo da boca, expressão simbólica de autoridade (cf. Ap 19:15,21).",
   "exegeticalNotes": [
     "As sete estrelas adquirem identificação contextual em 1:20.",
     "A espada da boca e o brilho solar expressam autoridade e glória."
@@ -56,7 +56,7 @@ export const apocalipse1v16 = {
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Particípio nominativo masculino singular descritivo do personagem",
+        "role": "Particípio presente ativo nominativo singular masculino da figura da visão",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -218,7 +218,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
-      "meanings": "sete (numeral cardinal indeclinável; a análise de caso indicada é contextual)",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo acusativo plural masculino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -368,7 +368,7 @@ export const apocalipse1v16 = {
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Sujeito nominativo feminino singular de uma oração com particípio",
+        "role": "Sujeito nominativo singular feminino da descrição elíptica",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -440,7 +440,7 @@ export const apocalipse1v16 = {
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Particípio presente médio/passivo nominativo feminino singular, concordando com ῥομφαία",
+        "role": "Particípio presente médio/passivo nominativo singular feminino, concordando com ῥομφαία",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
