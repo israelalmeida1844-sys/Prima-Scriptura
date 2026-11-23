@@ -1,0 +1,171 @@
+{
+  "generatedFrom": "OSHB morphhb v.2.2 / WLC, ALM1911, STEPBible TVTMS",
+  "version": "1.0",
+  "generatedAt": "verificação automatizada, sem publicação",
+  "verseRef": "GEN.1.3",
+  "translationSource": "tradução editorial própria",
+  "wordCount": 6,
+  "distinctStrongCount": 4,
+  "originalMassoreticVerse": "וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי אוֹר",
+  "rawCodesVerified": true,
+  "consonantalMatches": true,
+  "tokenStrongReferences": [
+    {
+      "id": "GEN.1.3.1",
+      "strong": "H559",
+      "rawCode": "HC/Vqw3ms",
+      "role": "predicate",
+      "clauseId": "GEN.1.3.C1"
+    },
+    {
+      "id": "GEN.1.3.2",
+      "strong": "H430",
+      "rawCode": "HNcmpa",
+      "role": "subject",
+      "clauseId": "GEN.1.3.C1"
+    },
+    {
+      "id": "GEN.1.3.3",
+      "strong": "H1961",
+      "rawCode": "HVqj3ms",
+      "role": "volitive_predicate",
+      "clauseId": "GEN.1.3.C2"
+    },
+    {
+      "id": "GEN.1.3.4",
+      "strong": "H216",
+      "rawCode": "HNcbsa",
+      "role": "subject",
+      "clauseId": "GEN.1.3.C2"
+    },
+    {
+      "id": "GEN.1.3.5",
+      "strong": "H1961",
+      "rawCode": "HC/Vqw3ms",
+      "role": "predicate",
+      "clauseId": "GEN.1.3.C3"
+    },
+    {
+      "id": "GEN.1.3.6",
+      "strong": "H216",
+      "rawCode": "HNcbsa",
+      "role": "subject",
+      "clauseId": "GEN.1.3.C3"
+    }
+  ],
+  "counts": {
+    "H559": {
+      "strong": "H559",
+      "originalIndex": 4337,
+      "tokenCount": 5318,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 196,
+      "editorialSuperscriptions": [
+        {
+          "ref": "Sl 52:2",
+          "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+        },
+        {
+          "ref": "Sl 54:2",
+          "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+        }
+      ],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 4337,
+      "countsBySection": {
+        "pentateuco": 1176,
+        "profetas": 2521,
+        "escritos": 640
+      },
+      "items": 4337
+    },
+    "H430": {
+      "strong": "H430",
+      "originalIndex": 2246,
+      "tokenCount": 2600,
+      "origin": "aprovado em Gn 1:1",
+      "mappingsApplied": 0,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 2246,
+      "countsBySection": {
+        "pentateuco": 683,
+        "profetas": 784,
+        "escritos": 779
+      },
+      "items": 2246
+    },
+    "H1961": {
+      "strong": "H1961",
+      "originalIndex": 3131,
+      "tokenCount": 3575,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 177,
+      "editorialSuperscriptions": [
+        {
+          "ref": "Sl 63:1",
+          "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+        },
+        {
+          "ref": "Sl 142:1",
+          "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+        }
+      ],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 3131,
+      "countsBySection": {
+        "pentateuco": 919,
+        "profetas": 1663,
+        "escritos": 549
+      },
+      "items": 3131
+    },
+    "H216": {
+      "strong": "H216",
+      "originalIndex": 110,
+      "tokenCount": 121,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 9,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 110,
+      "countsBySection": {
+        "pentateuco": 5,
+        "profetas": 46,
+        "escritos": 59
+      },
+      "items": 110
+    }
+  },
+  "allPortugueseExcerptsPresent": true,
+  "totalReferenceItems": 9824,
+  "editorialSuperscriptions": [
+    {
+      "ref": "Sl 52:2",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 54:2",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 63:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 142:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    }
+  ],
+  "alignmentUnavailable": [],
+  "alignmentWarnings": [],
+  "caveats": [
+    "A presença de um Strong no versículo foi conferida no WLC/OSHB; a atribuição de sentidos contextuais exige revisão filológica humana.",
+    "O excerto português ALM1911 é um versículo, não um alinhamento lexical palavra a palavra.",
+    "Concordâncias incluem todos os versículos distintos por Strong, não reproduzem tokens duplicados como linhas independentes."
+  ]
+}
