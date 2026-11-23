@@ -8,10 +8,10 @@ export const apocalipse1v15 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Seus pés eram semelhantes a metal brilhante, como que incandescente numa fornalha, e sua voz era como o som de muitas águas.",
   "translationNote": "A tradução do particípio πεπυρωμένης é interpretativa; o grego do SBLGNT conserva genitivo formalmente não concordante com καμίνῳ.",
-  "textualNotes": "O SBLGNT apresenta χαλκολιβάνῳ, dativo singular neutro do termo raro χαλκολίβανον (G5474), cuja composição e referência metalúrgica são discutidas. πεπυρωμένης é particípio perfeito passivo genitivo feminino singular no corpus MorphGNT; não concorda formalmente com καμίνῳ (dativo feminino). A construção é irregular ou elíptica. Evitar emendá-la para πεπυρωμένῳ sem evidência de variante numa edição crítica identificada.",
+  "textualNotes": "χαλκολιβάνῳ (G5474) é dativo neutro singular de termo de referência metalúrgica discutida. O SBLGNT apresenta πεπυρωμένης, particípio perfeito passivo genitivo feminino singular, que não concorda formalmente com καμίνῳ (dativo feminino singular); a construção é irregular ou elíptica. Não substituir silenciosamente por outra forma.",
   "exegeticalNotes": [
-    "χαλκολίβανον é um item lexical raro e exige cautela etimológica; a tradução «metal brilhante» é aproximativa.",
-    "πεπυρωμένης preserva um genitivo singular feminino formalmente discordante de καμίνῳ, sem correção silenciosa do texto crítico."
+    "O substantivo χαλκολίβανον é raro e seu sentido metalúrgico não é estabelecido com precisão.",
+    "O particípio πεπυρωμένης conserva genitivo feminino singular formalmente incongruente com καμίνῳ."
   ],
   "words": [
     {
@@ -147,12 +147,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
       "meanings": "metal brilhante; bronze refinado",
-      "explanation": "Substantivo neutro dativo singular, G5474; termo raro no NT e de interpretação metalúrgica incerta. Glosa «metal brilhante» é aproximativa.",
+      "explanation": "Substantivo raro neutro dativo singular (G5474), referente a metal de brilho intenso; etimologia e composição exata discutidas.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Dativo regido por ὅμοιοι (comparação)",
+        "role": "Complemento comparativo dativo de ὅμοιοι",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -243,12 +243,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "-XPPGSF-",
       "morphology": "Verbo perfeito passiva particípio, genitivo singular feminino",
       "meanings": "ser aquecido ao fogo; incandescer",
-      "explanation": "Particípio perfeito passivo genitivo feminino singular (πεπυρωμένης); a forma é preservada conforme o SBLGNT, embora não concorde regularmente com καμίνῳ (dativo feminino singular).",
+      "explanation": "Particípio perfeito passivo genitivo feminino singular; não concorda formalmente com καμίνῳ, dativo feminino singular, no texto SBLGNT.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Particípio genitivo feminino singular em construção irregular ou elíptica",
+        "role": "Particípio perfeito passivo genitivo feminino singular; construção elíptica ou irregular",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
