@@ -67,6 +67,12 @@ jobs:
       - name: Auditoria filologica dos 358 tokens de 2:13-29
         id: philology229
         run: node scripts/auditar-filologia-apocalipse-2-13-29.mjs
+      - name: Salvar fontes geradas do capítulo 2 em rascunho antes do build
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/texto-original/apocalipse/apocalipse-2-* src/data/lexico-grego/apocalipse-2-*.json src/components/TextoOriginalApocalipse2v*.astro public/data/concordancia-grega/ .github/reports/apocalipse-2-1-12-filologia.json .github/reports/apocalipse-2-13-29-filologia.json
+          git diff --cached --quiet || (git commit -m "feat(apocalipse): gera dados completos do capítulo 2 em rascunho" && git push origin HEAD:rascunho/apocalipse)
       - name: Compilar Astro
         id: build
         run: npm run build
