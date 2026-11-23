@@ -156,31 +156,8 @@ const imports=Array.from({length:22},(_,i)=>"import TextoOriginalApocalipse3v"+(
 route=route.replace(/import TextoOriginalApocalipse2v1[\s\S]*?import TextoOriginalApocalipse2v29 from [^\n]+\n/,imports+'\n').replace(/const components = \[[^\]]+\];/,'const components = ['+Array.from({length:22},(_,i)=>'TextoOriginalApocalipse3v'+(i+1)).join(', ')+'];').replaceAll('capitulo-2','capitulo-3').replaceAll('Apocalipse 2','Apocalipse 3').replace('length: 29','length: 22').replaceAll('length:29','length:22').replaceAll('number < 29','number < 22').replaceAll('capítulo 2','capítulo 3').replaceAll('number < 22','number < 22').replaceAll('Conclusão do capítulo 2 · Capítulo 3 em breve','Conclusão de Apocalipse 3');
 fs.mkdirSync('src/pages/comentarios/apocalipse/capitulo-3',{recursive:true});fs.writeFileSync('src/pages/comentarios/apocalipse/capitulo-3/[versiculo].astro',route);
 let ch=fs.readFileSync('src/pages/comentarios/apocalipse/capitulo-2/index.astro','utf8');
-const items=[
-  "Apocalipse 3:1",
-  "Apocalipse 3:2",
-  "Apocalipse 3:3",
-  "Apocalipse 3:4",
-  "Apocalipse 3:5",
-  "Apocalipse 3:6",
-  "Apocalipse 3:7",
-  "Apocalipse 3:8",
-  "Apocalipse 3:9",
-  "Apocalipse 3:10",
-  "Apocalipse 3:11",
-  "Apocalipse 3:12",
-  "Apocalipse 3:13",
-  "Apocalipse 3:14",
-  "Apocalipse 3:15",
-  "Apocalipse 3:16",
-  "Apocalipse 3:17",
-  "Apocalipse 3:18",
-  "Apocalipse 3:19",
-  "Apocalipse 3:20",
-  "Apocalipse 3:21",
-  "Apocalipse 3:22"
-].map((title,i)=>({number:i+1,title,description:'Texto grego · rascunho em avaliação.'}));
-ch=ch.replace(/const availableVerses = \[[\s\S]*?\];/,'const availableVerses = '+JSON.stringify(items)+';').replaceAll('capitulo-2','capitulo-3').replaceAll('Apocalipse 2','Apocalipse 3').replaceAll('Capítulo 2','Capítulo 3').replaceAll('CAPÍTULO 02','CAPÍTULO 03').replaceAll('22 de 22','22 de 22').replaceAll('Éfeso, Esmirna, Pérgamo e Tiatira','Sardes, Filadélfia e Laodiceia').replaceAll('22 versículos','22 versículos').replaceAll('capítulo 2 completo','Sardes, Filadélfia e Laodiceia em rascunho').replaceAll('APOCALIPSE 1:', 'APOCALIPSE 3:');
+const items=["Sardes: viva de nome, morta na realidade","Desperta e fortalece o restante","Lembra-te e arrepende-te","Vestes não contaminadas","O vencedor e o livro da vida","Ouça o Espírito","A chave de Davi","A porta aberta","A fidelidade reconhecida","A hora da provação","Conserva tua coroa","Coluna e novo nome","Ouça o Espírito","O Amém e o princípio da criação","Nem frio nem quente","A mornidão de Laodiceia","A riqueza ilusória","Ouro, vestes e colírio","Disciplina e arrependimento","À porta e bato","O vencedor e o trono","Ouça o Espírito"].map((title,i)=>({number:i+1,title,description:'SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação.'}));
+ch=ch.replace(/const availableVerses = \[[\s\S]*?\];/,'const availableVerses = '+JSON.stringify(items)+';').replaceAll('capitulo-2','capitulo-3').replaceAll('Apocalipse 2','Apocalipse 3').replaceAll('Capítulo 2','Capítulo 3').replaceAll('CAPÍTULO 02','CAPÍTULO 03').replaceAll('22 de 22','22 de 22').replaceAll('Éfeso, Esmirna, Pérgamo e Tiatira','Sardes, Filadélfia e Laodiceia').replaceAll('22 versículos','22 versículos').replaceAll('capítulo 2 completo','capítulo 3 completo em rascunho').replaceAll('APOCALIPSE 1:', 'APOCALIPSE 3:');
 fs.writeFileSync('src/pages/comentarios/apocalipse/capitulo-3/index.astro',ch);
 fs.writeFileSync('src/data/texto-original/apocalipse/apocalipse-3-1-22-auditoria.json',JSON.stringify({scope:'Apocalipse 3:1–22',source:'MorphGNT 6.12',verses:22,tokens:count,problems,academicApproval:false},null,2)+'\n');
 console.log(JSON.stringify({verses:22,tokens:count,lexiconEntries:Object.keys(lex.entries).length}));
