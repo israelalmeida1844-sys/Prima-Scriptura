@@ -1,0 +1,47 @@
+name: Validar pacote seletivo do léxico de Gênesis (sem deploy)
+on:
+  push:
+    branches: [publicacao/genesis-lexico-1-1-8]
+    paths: ['.github/workflows/testar-candidato-lexico-genesis.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validacao:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publicacao/genesis-lexico-1-1-8
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar Astro, Playwright e Chromium
+        run: |
+          npm install --no-audit --no-fund
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+      - name: Compilar o pacote seletivo sem publicar
+        run: |
+          npm run build
+          for v in {1..8}; do
+            test -f dist/comentarios/genesis/capitulo-1/versiculo-$v/index.html
+            grep -q 'data-lexicon-lemma-transliteration' dist/comentarios/genesis/capitulo-1/versiculo-$v/index.html
+          done
+          for book in hebreus 1-joao daniel; do test -f dist/comentarios/$book/index.html; done
+          test -f dist/admin/index.html
+      - name: Validar 90 palavras, 36 lemas, 80 exemplos em quatro larguras
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 > /tmp/genesis-lexico.log 2>&1 &
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:4321/comentarios/genesis/capitulo-1/versiculo-1/ >/dev/null; then break; fi
+            sleep 1
+          done
+          node scripts/testar-lexico-genesis-1-1-8.mjs
+      - name: Arquivar captura para inspeção do candidato
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: candidato-producao-lexico-genesis
+          path: lexico-genesis-1-2-mobile.png
+          if-no-files-found: warn
