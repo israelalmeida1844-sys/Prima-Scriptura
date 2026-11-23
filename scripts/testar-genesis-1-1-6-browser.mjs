@@ -25,7 +25,7 @@ try {
       if (verse===2) {
         const alternative=root.locator('input[value="alternativa"][name="genesis-1-2-traducao"]');
         await alternative.check();
-        assert.ok((await root.locator('[data-translation-text]').innerText()).includes('Vento de Deus'), 'Tradução alternativa de Gn 1:2 indisponível');
+        assert.ok((await root.locator('[data-translation-text]').innerText()).includes('vento de Deus'), 'Tradução alternativa de Gn 1:2 indisponível');
         await root.locator('input[value="principal"][name="genesis-1-2-traducao"]').check();
       }
       for (let i=0;i<count;i++) {
