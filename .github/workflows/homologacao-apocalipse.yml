@@ -69,6 +69,8 @@ jobs:
       - name: Auditoria filologica dos 358 tokens de 2:13-29
         id: philology229
         run: node scripts/auditar-filologia-apocalipse-2-13-29.mjs
+      - name: Aplicar revisão editorial conservadora das relações sintáticas
+        run: node scripts/revisao-editorial-apocalipse-2.mjs
       - name: Salvar fontes geradas do capítulo 2 em rascunho antes do build
         run: |
           git config user.name "github-actions[bot]"
