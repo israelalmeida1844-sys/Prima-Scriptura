@@ -144,7 +144,7 @@ const rootInfo={
   ],
   "H1961": [
     "היה",
-    "hyw/hyh",
+    "hyh",
     "ser; estar; acontecer; tornar-se",
     "verbo"
   ],
@@ -562,4 +562,13 @@ const summary={
 };
 await writeFile(targetDir+'GEN.1.2-8-relatorio-geracao.json',JSON.stringify(summary,null,2)+'\n');
 console.log('RESUMO COMPLETO:',JSON.stringify(summary));
-if(syntaxErrors.length)die('Alinhamento editorial pendente: '+JSON.stringify(syntaxErrors).slice(0,3000));
+if(syntaxErrors.length){
+ const refs=[...new Set(syntaxErrors.flatMap(e=>e.missing.map(m=>m.ref)))];
+ const sourceRecords=refs.map(ref=>{
+  const m=ref.match(/^(.+?) (\\d+):(\\d+)$/);
+  const book=src.get(m[1]);
+  return {ref,hebrew:book.hebrew.verses.get(book.row[1]+'.'+m[2]+'.'+m[3]).map(x=>x.he).join(' ')};
+ });
+ console.log('TITULOS_HEBRAICOS_EXATOS: '+JSON.stringify(sourceRecords));
+ die('Alinhamento editorial pendente: '+JSON.stringify(syntaxErrors).slice(0,3000));
+}
