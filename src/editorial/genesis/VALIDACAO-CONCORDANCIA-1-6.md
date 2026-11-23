@@ -40,8 +40,10 @@ Fonte: Open Scriptures Hebrew Bible (OSHB), tag `v.2.2`, 39 livros; morfologia/l
 
 ## Revisão filológica complementar — Gênesis 1:6
 
-**Correção identificada e aplicada ao arquivo de dados:** a análise anterior de `לָמָיִם` afirmava equivocadamente «artigo definido assimilado». A forma massorética traz a preposição לְ com a palavra `מַיִם`, mas **não um artigo definido**. Corrigidos morfologia, glossa e explicação, distinguindo tradução idiomática («entre águas e águas») da segmentação gramatical exata. Também foi explicitado o estado construto de `תָּוֶךְ` em `בְּתוֹךְ הַמָּיִם`, e a continuação volitiva em `וִיהִי`.
+**Correção identificada e aplicada ao arquivo de dados:** a análise anterior de `לָמָיִם` afirmava equivocadamente «artigo definido assimilado». A forma massorética traz a preposição לְ com a palavra `מַיִם`, mas **não um artigo definido**. Corrigidos morfologia, glossa, transliteração (`lāmāyim`, sem geminação do mem) e explicação, distinguindo tradução idiomática («entre águas e águas») da segmentação gramatical exata. Também foi explicitado o estado construto de `תָּוֶךְ` em `בְּתוֹךְ הַמָּיִם`, e a continuação volitiva em `וִיהִי`.
 
 **Conferência externa do texto:** comparação da vocalização de Gn 1:6 com o WLC reproduzido em https://www.biblegateway.com/passage/?search=Genesis+1%3A6&version=WLC e com o texto hebraico da Sefaria em https://www.sefaria.org/Genesis.1.6 . A leitura `לָמָיִם` é preservada; não foi substituída por `לַמָּיִם`. A distinção entre análise de um lema e elementos prefixados continua expressa na documentação dos índices.
 
 **Escopo:** texto, glossa e morfologia corrigidos no rascunho, sem alterar a lista de referências Strong; a validação em navegador previamente aprovada documenta a versão anterior à última correção textual, sendo necessário novo build após a correção para atestar a versão atual.
+
+**Revalidação após correção:** workflow Chromium da branch de rascunho reexecutado na execução 45094160196: https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45094160196 . O resultado deve ser conferido antes de classificar a revisão posterior como homologada.
