@@ -1,3900 +1,4179 @@
 {
-  "source": "OSHB v.2.2 (WLC) + ALM1911 (domínio público)",
+  "source": "OSHB v.2.2 (WLC) + ALM1911 (domínio público) + STEPBible TVTMS MT→English CC BY 4.0",
   "createdAt": "gerado pela auditoria automatizada",
   "alignmentUnavailable": [
     {
-      "ref": "Ez 21:35",
-      "reason": "Sem texto correspondente na Almeida 1911 para 21:35"
-    },
-    {
-      "ref": "Dt 13:19",
-      "reason": "Sem texto correspondente na Almeida 1911 para 13:19"
-    },
-    {
-      "ref": "1Rs 5:19",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:19"
-    },
-    {
-      "ref": "1Rs 22:54",
-      "reason": "Sem texto correspondente na Almeida 1911 para 22:54"
-    },
-    {
-      "ref": "Ne 3:36",
-      "reason": "Sem texto correspondente na Almeida 1911 para 3:36"
-    },
-    {
-      "ref": "Ne 10:40",
-      "reason": "Sem texto correspondente na Almeida 1911 para 10:40"
-    },
-    {
-      "ref": "Ec 4:17",
-      "reason": "Sem texto correspondente na Almeida 1911 para 4:17"
-    },
-    {
-      "ref": "Os 2:25",
-      "reason": "Sem texto correspondente na Almeida 1911 para 2:25"
-    },
-    {
-      "ref": "Gn 32:33",
-      "reason": "Sem texto correspondente na Almeida 1911 para 32:33"
-    },
-    {
-      "ref": "Êx 7:26",
-      "reason": "Sem texto correspondente na Almeida 1911 para 7:26"
-    },
-    {
-      "ref": "Êx 7:27",
-      "reason": "Sem texto correspondente na Almeida 1911 para 7:27"
-    },
-    {
-      "ref": "Lv 5:21",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:21"
-    },
-    {
-      "ref": "Lv 5:23",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:23"
-    },
-    {
-      "ref": "Lv 5:24",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:24"
-    },
-    {
-      "ref": "Lv 5:25",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:25"
-    },
-    {
-      "ref": "Nm 17:17",
-      "reason": "Sem texto correspondente na Almeida 1911 para 17:17"
-    },
-    {
-      "ref": "Nm 17:18",
-      "reason": "Sem texto correspondente na Almeida 1911 para 17:18"
-    },
-    {
-      "ref": "Nm 17:20",
-      "reason": "Sem texto correspondente na Almeida 1911 para 17:20"
-    },
-    {
-      "ref": "Nm 17:22",
-      "reason": "Sem texto correspondente na Almeida 1911 para 17:22"
-    },
-    {
-      "ref": "Nm 17:24",
-      "reason": "Sem texto correspondente na Almeida 1911 para 17:24"
-    },
-    {
-      "ref": "Nm 17:25",
-      "reason": "Sem texto correspondente na Almeida 1911 para 17:25"
-    },
-    {
-      "ref": "Nm 17:26",
-      "reason": "Sem texto correspondente na Almeida 1911 para 17:26"
-    },
-    {
-      "ref": "Nm 30:17",
-      "reason": "Sem texto correspondente na Almeida 1911 para 30:17"
-    },
-    {
-      "ref": "Dt 13:19",
-      "reason": "Sem texto correspondente na Almeida 1911 para 13:19"
-    },
-    {
-      "ref": "Dt 28:69",
-      "reason": "Sem texto correspondente na Almeida 1911 para 28:69"
-    },
-    {
-      "ref": "1Sm 21:16",
-      "reason": "Sem texto correspondente na Almeida 1911 para 21:16"
-    },
-    {
-      "ref": "2Sm 19:44",
-      "reason": "Sem texto correspondente na Almeida 1911 para 19:44"
-    },
-    {
-      "ref": "1Rs 5:21",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:21"
-    },
-    {
-      "ref": "1Rs 5:22",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:22"
-    },
-    {
-      "ref": "1Rs 5:23",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:23"
-    },
-    {
-      "ref": "1Rs 22:54",
-      "reason": "Sem texto correspondente na Almeida 1911 para 22:54"
-    },
-    {
-      "ref": "2Rs 12:22",
-      "reason": "Sem texto correspondente na Almeida 1911 para 12:22"
-    },
-    {
-      "ref": "1Cr 5:30",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:30"
-    },
-    {
-      "ref": "1Cr 5:31",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:31"
-    },
-    {
-      "ref": "1Cr 5:32",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:32"
-    },
-    {
-      "ref": "1Cr 5:33",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:33"
-    },
-    {
-      "ref": "1Cr 5:34",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:34"
-    },
-    {
-      "ref": "1Cr 5:35",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:35"
-    },
-    {
-      "ref": "1Cr 5:36",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:36"
-    },
-    {
-      "ref": "1Cr 5:37",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:37"
-    },
-    {
-      "ref": "1Cr 5:38",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:38"
-    },
-    {
-      "ref": "1Cr 5:39",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:39"
-    },
-    {
-      "ref": "1Cr 5:40",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:40"
-    },
-    {
-      "ref": "1Cr 5:41",
-      "reason": "Sem texto correspondente na Almeida 1911 para 5:41"
-    },
-    {
-      "ref": "2Cr 13:23",
-      "reason": "Sem texto correspondente na Almeida 1911 para 13:23"
-    },
-    {
-      "ref": "Ne 3:33",
-      "reason": "Sem texto correspondente na Almeida 1911 para 3:33"
-    },
-    {
-      "ref": "Ne 3:34",
-      "reason": "Sem texto correspondente na Almeida 1911 para 3:34"
-    },
-    {
-      "ref": "Ne 3:38",
-      "reason": "Sem texto correspondente na Almeida 1911 para 3:38"
-    },
-    {
-      "ref": "Ne 10:40",
-      "reason": "Sem texto correspondente na Almeida 1911 para 10:40"
-    },
-    {
       "ref": "Sl 18:1",
-      "reason": "Título hebraico contado como versículo, ausente na edição portuguesa."
+      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
     },
     {
       "ref": "Sl 34:1",
-      "reason": "Título hebraico contado como versículo, ausente na edição portuguesa."
+      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
     },
     {
       "ref": "Sl 56:1",
-      "reason": "Título hebraico contado como versículo, ausente na edição portuguesa."
+      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
     },
     {
       "ref": "Sl 59:1",
-      "reason": "Título hebraico contado como versículo, ausente na edição portuguesa."
+      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
     },
     {
       "ref": "Sl 60:2",
-      "reason": "Título hebraico contado como versículo, ausente na edição portuguesa."
-    },
-    {
-      "ref": "Jr 8:23",
-      "reason": "Sem texto correspondente na Almeida 1911 para 8:23"
-    },
-    {
-      "ref": "Ez 21:34",
-      "reason": "Sem texto correspondente na Almeida 1911 para 21:34"
-    },
-    {
-      "ref": "Ez 21:35",
-      "reason": "Sem texto correspondente na Almeida 1911 para 21:35"
-    },
-    {
-      "ref": "Os 2:24",
-      "reason": "Sem texto correspondente na Almeida 1911 para 2:24"
-    },
-    {
-      "ref": "Os 2:25",
-      "reason": "Sem texto correspondente na Almeida 1911 para 2:25"
-    },
-    {
-      "ref": "Jn 2:11",
-      "reason": "Sem texto correspondente na Almeida 1911 para 2:11"
-    },
-    {
-      "ref": "Mq 4:14",
-      "reason": "Sem texto correspondente na Almeida 1911 para 4:14"
-    },
-    {
-      "ref": "Zc 2:16",
-      "reason": "Sem texto correspondente na Almeida 1911 para 2:16"
-    },
-    {
-      "ref": "Dt 28:69",
-      "reason": "Sem texto correspondente na Almeida 1911 para 28:69"
-    },
-    {
-      "ref": "2Cr 13:23",
-      "reason": "Sem texto correspondente na Almeida 1911 para 13:23"
-    },
-    {
-      "ref": "Ne 3:36",
-      "reason": "Sem texto correspondente na Almeida 1911 para 3:36"
-    },
-    {
-      "ref": "Is 8:23",
-      "reason": "Sem texto correspondente na Almeida 1911 para 8:23"
-    },
-    {
-      "ref": "Ez 21:35",
-      "reason": "Sem texto correspondente na Almeida 1911 para 21:35"
-    },
-    {
-      "ref": "Ez 21:37",
-      "reason": "Sem texto correspondente na Almeida 1911 para 21:37"
-    },
-    {
-      "ref": "Os 2:24",
-      "reason": "Sem texto correspondente na Almeida 1911 para 2:24"
-    },
-    {
-      "ref": "Os 2:25",
-      "reason": "Sem texto correspondente na Almeida 1911 para 2:25"
-    },
-    {
-      "ref": "Na 2:14",
-      "reason": "Sem texto correspondente na Almeida 1911 para 2:14"
+      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
     }
   ],
-  "alignmentWarnings": [
+  "alignmentWarnings": [],
+  "mappingsApplied": [
     {
-      "ref": "Ne 10:38",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Ne 10:38",
+      "almeida1911": "Ne 10:37",
+      "part": null
     },
     {
-      "ref": "Jó 40:19",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 24)."
+      "mt": "Sl 51:12",
+      "almeida1911": "Sl 51:10",
+      "part": null
     },
     {
-      "ref": "Ez 20:40",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 89:13",
+      "almeida1911": "Sl 89:12",
+      "part": null
     },
     {
-      "ref": "Nm 16:30",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Sl 89:48",
+      "almeida1911": "Sl 89:47",
+      "part": null
     },
     {
-      "ref": "Ez 21:24",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 32)."
+      "mt": "Sl 102:19",
+      "almeida1911": "Sl 102:18",
+      "part": null
     },
     {
-      "ref": "Gn 31:5",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Ez 21:24",
+      "almeida1911": "Ez 21:19",
+      "part": null
     },
     {
-      "ref": "Gn 31:7",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Ez 21:35",
+      "almeida1911": "Ez 21:30",
+      "part": null
     },
     {
-      "ref": "Gn 31:9",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Gn 32:2",
+      "almeida1911": "Gn 32:1",
+      "part": null
     },
     {
-      "ref": "Gn 31:11",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Gn 32:3",
+      "almeida1911": "Gn 32:2",
+      "part": null
     },
     {
-      "ref": "Gn 31:16",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Gn 32:10",
+      "almeida1911": "Gn 32:9",
+      "part": null
     },
     {
-      "ref": "Gn 31:24",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Gn 32:29",
+      "almeida1911": "Gn 32:28",
+      "part": null
     },
     {
-      "ref": "Gn 31:29",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Gn 32:31",
+      "almeida1911": "Gn 32:30",
+      "part": null
     },
     {
-      "ref": "Gn 31:30",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Êx 8:6",
+      "almeida1911": "Êx 8:10",
+      "part": null
     },
     {
-      "ref": "Gn 31:32",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Êx 8:15",
+      "almeida1911": "Êx 8:19",
+      "part": null
     },
     {
-      "ref": "Gn 31:42",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Êx 8:21",
+      "almeida1911": "Êx 8:25",
+      "part": null
     },
     {
-      "ref": "Gn 31:50",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Êx 8:22",
+      "almeida1911": "Êx 8:26",
+      "part": null
     },
     {
-      "ref": "Gn 31:53",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Êx 8:23",
+      "almeida1911": "Êx 8:27",
+      "part": null
     },
     {
-      "ref": "Gn 32:2",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Êx 8:24",
+      "almeida1911": "Êx 8:28",
+      "part": null
     },
     {
-      "ref": "Gn 32:3",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Êx 22:7",
+      "almeida1911": "Êx 22:8",
+      "part": null
     },
     {
-      "ref": "Gn 32:10",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Êx 22:8",
+      "almeida1911": "Êx 22:9",
+      "part": null
     },
     {
-      "ref": "Gn 32:29",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Êx 22:19",
+      "almeida1911": "Êx 22:20",
+      "part": null
     },
     {
-      "ref": "Gn 32:31",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Êx 22:27",
+      "almeida1911": "Êx 22:28",
+      "part": null
     },
     {
-      "ref": "Êx 7:1",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Dt 13:3",
+      "almeida1911": "Dt 13:2",
+      "part": null
     },
     {
-      "ref": "Êx 7:16",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Dt 13:4",
+      "almeida1911": "Dt 13:3",
+      "part": null
     },
     {
-      "ref": "Êx 8:6",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Dt 13:5",
+      "almeida1911": "Dt 13:4",
+      "part": null
     },
     {
-      "ref": "Êx 8:15",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Dt 13:6",
+      "almeida1911": "Dt 13:5",
+      "part": null
     },
     {
-      "ref": "Êx 8:21",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Dt 13:7",
+      "almeida1911": "Dt 13:6",
+      "part": null
     },
     {
-      "ref": "Êx 8:22",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Dt 13:8",
+      "almeida1911": "Dt 13:7",
+      "part": null
     },
     {
-      "ref": "Êx 8:23",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Dt 13:11",
+      "almeida1911": "Dt 13:10",
+      "part": null
     },
     {
-      "ref": "Êx 8:24",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Dt 13:13",
+      "almeida1911": "Dt 13:12",
+      "part": null
     },
     {
-      "ref": "Êx 21:6",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Dt 13:14",
+      "almeida1911": "Dt 13:13",
+      "part": null
     },
     {
-      "ref": "Êx 21:13",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Dt 13:17",
+      "almeida1911": "Dt 13:16",
+      "part": null
     },
     {
-      "ref": "Êx 22:7",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Dt 13:19",
+      "almeida1911": "Dt 13:18",
+      "part": null
     },
     {
-      "ref": "Êx 22:8",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Dt 23:6",
+      "almeida1911": "Dt 23:5",
+      "part": null
     },
     {
-      "ref": "Êx 22:19",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Dt 23:15",
+      "almeida1911": "Dt 23:14",
+      "part": null
     },
     {
-      "ref": "Êx 22:27",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Dt 23:19",
+      "almeida1911": "Dt 23:18",
+      "part": null
     },
     {
-      "ref": "Nm 16:9",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Dt 23:21",
+      "almeida1911": "Dt 23:20",
+      "part": null
     },
     {
-      "ref": "Nm 16:22",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Dt 23:22",
+      "almeida1911": "Dt 23:21",
+      "part": null
     },
     {
-      "ref": "Nm 25:2",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Dt 23:24",
+      "almeida1911": "Dt 23:23",
+      "part": null
     },
     {
-      "ref": "Nm 25:13",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Dt 29:5",
+      "almeida1911": "Dt 29:6",
+      "part": null
     },
     {
-      "ref": "Dt 12:1",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Dt 29:9",
+      "almeida1911": "Dt 29:10",
+      "part": null
     },
     {
-      "ref": "Dt 12:2",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Dt 29:11",
+      "almeida1911": "Dt 29:12",
+      "part": null
     },
     {
-      "ref": "Dt 12:3",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Dt 29:12",
+      "almeida1911": "Dt 29:13",
+      "part": null
     },
     {
-      "ref": "Dt 12:4",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Dt 29:14",
+      "almeida1911": "Dt 29:15",
+      "part": null
     },
     {
-      "ref": "Dt 12:5",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Dt 29:17",
+      "almeida1911": "Dt 29:18",
+      "part": null
     },
     {
-      "ref": "Dt 12:7",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Dt 29:24",
+      "almeida1911": "Dt 29:25",
+      "part": null
     },
     {
-      "ref": "Dt 12:9",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Dt 29:25",
+      "almeida1911": "Dt 29:26",
+      "part": null
     },
     {
-      "ref": "Dt 12:10",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Dt 29:28",
+      "almeida1911": "Dt 29:29",
+      "part": null
     },
     {
-      "ref": "Dt 12:11",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "2Sm 19:14",
+      "almeida1911": "2Sm 19:13",
+      "part": null
     },
     {
-      "ref": "Dt 12:12",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "2Sm 19:28",
+      "almeida1911": "2Sm 19:27",
+      "part": null
     },
     {
-      "ref": "Dt 12:15",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Rs 5:9",
+      "almeida1911": "1Rs 4:29",
+      "part": null
     },
     {
-      "ref": "Dt 12:18",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Rs 5:17",
+      "almeida1911": "1Rs 5:3",
+      "part": null
     },
     {
-      "ref": "Dt 12:20",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Rs 5:18",
+      "almeida1911": "1Rs 5:4",
+      "part": null
     },
     {
-      "ref": "Dt 12:21",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Rs 5:19",
+      "almeida1911": "1Rs 5:5",
+      "part": null
     },
     {
-      "ref": "Dt 12:27",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Rs 22:54",
+      "almeida1911": "1Rs 22:53",
+      "part": null
     },
     {
-      "ref": "Dt 12:28",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Cr 6:33",
+      "almeida1911": "1Cr 6:48",
+      "part": null
     },
     {
-      "ref": "Dt 12:29",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Cr 6:34",
+      "almeida1911": "1Cr 6:49",
+      "part": null
     },
     {
-      "ref": "Dt 12:30",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Cr 12:18",
+      "almeida1911": "1Cr 12:17",
+      "part": null
     },
     {
-      "ref": "Dt 12:31",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "1Cr 12:19",
+      "almeida1911": "1Cr 12:18",
+      "part": null
     },
     {
-      "ref": "Dt 13:3",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "1Cr 12:23",
+      "almeida1911": "1Cr 12:22",
+      "part": null
     },
     {
-      "ref": "Dt 13:4",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "2Cr 2:3",
+      "almeida1911": "2Cr 2:4",
+      "part": null
     },
     {
-      "ref": "Dt 13:5",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "2Cr 2:4",
+      "almeida1911": "2Cr 2:5",
+      "part": null
     },
     {
-      "ref": "Dt 13:6",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "2Cr 2:11",
+      "almeida1911": "2Cr 2:12",
+      "part": null
     },
     {
-      "ref": "Dt 13:7",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "2Cr 14:1",
+      "almeida1911": "2Cr 14:2",
+      "part": null
     },
     {
-      "ref": "Dt 13:8",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "2Cr 14:3",
+      "almeida1911": "2Cr 14:4",
+      "part": null
     },
     {
-      "ref": "Dt 13:11",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "2Cr 14:6",
+      "almeida1911": "2Cr 14:7",
+      "part": null
     },
     {
-      "ref": "Dt 13:13",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "2Cr 14:10",
+      "almeida1911": "2Cr 14:11",
+      "part": null
     },
     {
-      "ref": "Dt 13:14",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Ne 3:36",
+      "almeida1911": "Ne 4:4",
+      "part": null
     },
     {
-      "ref": "Dt 13:17",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Ne 4:3",
+      "almeida1911": "Ne 4:9",
+      "part": null
     },
     {
-      "ref": "Dt 22:5",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Ne 4:9",
+      "almeida1911": "Ne 4:15",
+      "part": null
     },
     {
-      "ref": "Dt 23:6",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Ne 4:14",
+      "almeida1911": "Ne 4:20",
+      "part": null
     },
     {
-      "ref": "Dt 23:15",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Ne 10:29",
+      "almeida1911": "Ne 10:28",
+      "part": null
     },
     {
-      "ref": "Dt 23:19",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Ne 10:30",
+      "almeida1911": "Ne 10:29",
+      "part": null
     },
     {
-      "ref": "Dt 23:21",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Ne 10:33",
+      "almeida1911": "Ne 10:32",
+      "part": null
     },
     {
-      "ref": "Dt 23:22",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Ne 10:34",
+      "almeida1911": "Ne 10:33",
+      "part": null
     },
     {
-      "ref": "Dt 23:24",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Ne 10:35",
+      "almeida1911": "Ne 10:34",
+      "part": null
     },
     {
-      "ref": "Dt 28:1",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Ne 10:37",
+      "almeida1911": "Ne 10:36",
+      "part": null
     },
     {
-      "ref": "Dt 28:2",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Ne 10:38",
+      "almeida1911": "Ne 10:37",
+      "part": null
     },
     {
-      "ref": "Dt 28:8",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Ne 10:39",
+      "almeida1911": "Ne 10:38",
+      "part": null
     },
     {
-      "ref": "Dt 28:9",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Ne 10:40",
+      "almeida1911": "Ne 10:39",
+      "part": null
     },
     {
-      "ref": "Dt 28:13",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 3:3",
+      "almeida1911": "Sl 3:2",
+      "part": null
     },
     {
-      "ref": "Dt 28:14",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 3:8",
+      "almeida1911": "Sl 3:7",
+      "part": null
     },
     {
-      "ref": "Dt 28:15",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 4:2",
+      "almeida1911": "Sl 4:1",
+      "part": null
     },
     {
-      "ref": "Dt 28:36",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 5:3",
+      "almeida1911": "Sl 5:2",
+      "part": null
     },
     {
-      "ref": "Dt 28:45",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 5:11",
+      "almeida1911": "Sl 5:10",
+      "part": null
     },
     {
-      "ref": "Dt 28:47",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 7:2",
+      "almeida1911": "Sl 7:1",
+      "part": null
     },
     {
-      "ref": "Dt 28:52",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 7:4",
+      "almeida1911": "Sl 7:3",
+      "part": null
     },
     {
-      "ref": "Dt 28:53",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 7:10",
+      "almeida1911": "Sl 7:9",
+      "part": null
     },
     {
-      "ref": "Dt 28:58",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 7:11",
+      "almeida1911": "Sl 7:10",
+      "part": null
     },
     {
-      "ref": "Dt 28:62",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 7:12",
+      "almeida1911": "Sl 7:11",
+      "part": null
     },
     {
-      "ref": "Dt 28:64",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 8:6",
+      "almeida1911": "Sl 8:5",
+      "part": null
     },
     {
-      "ref": "Dt 29:5",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 9:18",
+      "almeida1911": "Sl 9:17",
+      "part": null
     },
     {
-      "ref": "Dt 29:9",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 13:4",
+      "almeida1911": "Sl 13:3",
+      "part": null
     },
     {
-      "ref": "Dt 29:11",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 18:7",
+      "almeida1911": "Sl 18:6",
+      "part": null
     },
     {
-      "ref": "Dt 29:12",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 18:22",
+      "almeida1911": "Sl 18:21",
+      "part": null
     },
     {
-      "ref": "Dt 29:14",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 18:29",
+      "almeida1911": "Sl 18:28",
+      "part": null
     },
     {
-      "ref": "Dt 29:17",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 18:30",
+      "almeida1911": "Sl 18:29",
+      "part": null
     },
     {
-      "ref": "Dt 29:24",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 18:32",
+      "almeida1911": "Sl 18:31",
+      "part": null
     },
     {
-      "ref": "Dt 29:25",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 20:2",
+      "almeida1911": "Sl 20:1",
+      "part": null
     },
     {
-      "ref": "Dt 29:28",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 20:6",
+      "almeida1911": "Sl 20:5",
+      "part": null
     },
     {
-      "ref": "1Sm 23:7",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 20:8",
+      "almeida1911": "Sl 20:7",
+      "part": null
     },
     {
-      "ref": "1Sm 23:10",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 22:3",
+      "almeida1911": "Sl 22:2",
+      "part": null
     },
     {
-      "ref": "1Sm 23:11",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 30:3",
+      "almeida1911": "Sl 30:2",
+      "part": null
     },
     {
-      "ref": "1Sm 23:14",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 30:13",
+      "almeida1911": "Sl 30:12",
+      "part": null
     },
     {
-      "ref": "1Sm 23:16",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 31:15",
+      "almeida1911": "Sl 31:14",
+      "part": null
     },
     {
-      "ref": "2Sm 18:28",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "Sl 36:2",
+      "almeida1911": "Sl 36:1",
+      "part": null
     },
     {
-      "ref": "2Sm 19:14",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "Sl 36:8",
+      "almeida1911": "Sl 36:7",
+      "part": null
     },
     {
-      "ref": "2Sm 19:28",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "Sl 38:16",
+      "almeida1911": "Sl 38:15",
+      "part": null
     },
     {
-      "ref": "1Rs 5:9",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "Sl 38:22",
+      "almeida1911": "Sl 38:21",
+      "part": null
     },
     {
-      "ref": "1Rs 5:17",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "Sl 40:4",
+      "almeida1911": "Sl 40:3",
+      "part": null
     },
     {
-      "ref": "1Rs 5:18",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "Sl 40:6",
+      "almeida1911": "Sl 40:5",
+      "part": null
     },
     {
-      "ref": "1Cr 5:20",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
+      "mt": "Sl 40:9",
+      "almeida1911": "Sl 40:8",
+      "part": null
     },
     {
-      "ref": "1Cr 5:22",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
+      "mt": "Sl 40:18",
+      "almeida1911": "Sl 40:17",
+      "part": null
     },
     {
-      "ref": "1Cr 5:25",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
+      "mt": "Sl 41:14",
+      "almeida1911": "Sl 41:13",
+      "part": null
     },
     {
-      "ref": "1Cr 5:26",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
+      "mt": "Sl 42:2",
+      "almeida1911": "Sl 42:1",
+      "part": null
     },
     {
-      "ref": "1Cr 6:33",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Sl 42:3",
+      "almeida1911": "Sl 42:2",
+      "part": null
     },
     {
-      "ref": "1Cr 6:34",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Sl 42:4",
+      "almeida1911": "Sl 42:3",
+      "part": null
     },
     {
-      "ref": "1Cr 12:18",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 40)."
+      "mt": "Sl 42:5",
+      "almeida1911": "Sl 42:4",
+      "part": null
     },
     {
-      "ref": "1Cr 12:19",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 40)."
+      "mt": "Sl 42:6",
+      "almeida1911": "Sl 42:5",
+      "part": null
     },
     {
-      "ref": "1Cr 12:23",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 40)."
+      "mt": "Sl 42:7",
+      "almeida1911": "Sl 42:6",
+      "part": null
     },
     {
-      "ref": "2Cr 1:1",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Sl 42:11",
+      "almeida1911": "Sl 42:10",
+      "part": null
     },
     {
-      "ref": "2Cr 1:3",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Sl 42:12",
+      "almeida1911": "Sl 42:11",
+      "part": null
     },
     {
-      "ref": "2Cr 1:4",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Sl 44:2",
+      "almeida1911": "Sl 44:1",
+      "part": null
     },
     {
-      "ref": "2Cr 1:7",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Sl 44:5",
+      "almeida1911": "Sl 44:4",
+      "part": null
     },
     {
-      "ref": "2Cr 1:8",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Sl 44:9",
+      "almeida1911": "Sl 44:8",
+      "part": null
     },
     {
-      "ref": "2Cr 1:9",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Sl 44:21",
+      "almeida1911": "Sl 44:20",
+      "part": null
     },
     {
-      "ref": "2Cr 1:11",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Sl 44:22",
+      "almeida1911": "Sl 44:21",
+      "part": null
     },
     {
-      "ref": "2Cr 2:3",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 45:3",
+      "almeida1911": "Sl 45:2",
+      "part": null
     },
     {
-      "ref": "2Cr 2:4",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 45:7",
+      "almeida1911": "Sl 45:6",
+      "part": null
     },
     {
-      "ref": "2Cr 2:11",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 45:8",
+      "almeida1911": "Sl 45:7",
+      "part": null
     },
     {
-      "ref": "2Cr 13:5",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 46:2",
+      "almeida1911": "Sl 46:1",
+      "part": null
     },
     {
-      "ref": "2Cr 13:8",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 46:5",
+      "almeida1911": "Sl 46:4",
+      "part": null
     },
     {
-      "ref": "2Cr 13:9",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 46:6",
+      "almeida1911": "Sl 46:5",
+      "part": null
     },
     {
-      "ref": "2Cr 13:10",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 46:8",
+      "almeida1911": "Sl 46:7",
+      "part": null
     },
     {
-      "ref": "2Cr 13:11",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 46:11",
+      "almeida1911": "Sl 46:10",
+      "part": null
     },
     {
-      "ref": "2Cr 13:12",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 46:12",
+      "almeida1911": "Sl 46:11",
+      "part": null
     },
     {
-      "ref": "2Cr 13:15",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 47:2",
+      "almeida1911": "Sl 47:1",
+      "part": null
     },
     {
-      "ref": "2Cr 13:16",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 47:6",
+      "almeida1911": "Sl 47:5",
+      "part": null
     },
     {
-      "ref": "2Cr 13:18",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 47:7",
+      "almeida1911": "Sl 47:6",
+      "part": null
     },
     {
-      "ref": "2Cr 14:1",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 47:8",
+      "almeida1911": "Sl 47:7",
+      "part": null
     },
     {
-      "ref": "2Cr 14:3",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 47:9",
+      "almeida1911": "Sl 47:8",
+      "part": null
     },
     {
-      "ref": "2Cr 14:6",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 47:10",
+      "almeida1911": "Sl 47:9",
+      "part": null
     },
     {
-      "ref": "2Cr 14:10",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 48:2",
+      "almeida1911": "Sl 48:1",
+      "part": null
     },
     {
-      "ref": "Ne 4:3",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 23)."
+      "mt": "Sl 48:4",
+      "almeida1911": "Sl 48:3",
+      "part": null
     },
     {
-      "ref": "Ne 4:9",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 23)."
+      "mt": "Sl 48:9",
+      "almeida1911": "Sl 48:8",
+      "part": null
     },
     {
-      "ref": "Ne 4:14",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 23)."
+      "mt": "Sl 48:10",
+      "almeida1911": "Sl 48:9",
+      "part": null
     },
     {
-      "ref": "Ne 7:2",
-      "reason": "Contagens de versículos divergentes (WLC 72, ALM1911 73)."
+      "mt": "Sl 48:11",
+      "almeida1911": "Sl 48:10",
+      "part": null
     },
     {
-      "ref": "Ne 7:5",
-      "reason": "Contagens de versículos divergentes (WLC 72, ALM1911 73)."
+      "mt": "Sl 48:15",
+      "almeida1911": "Sl 48:14",
+      "part": null
     },
     {
-      "ref": "Ne 9:3",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 49:8",
+      "almeida1911": "Sl 49:7",
+      "part": null
     },
     {
-      "ref": "Ne 9:4",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 49:16",
+      "almeida1911": "Sl 49:15",
+      "part": null
     },
     {
-      "ref": "Ne 9:5",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 51:3",
+      "almeida1911": "Sl 51:1",
+      "part": null
     },
     {
-      "ref": "Ne 9:7",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 51:12",
+      "almeida1911": "Sl 51:10",
+      "part": null
     },
     {
-      "ref": "Ne 9:18",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 51:16",
+      "almeida1911": "Sl 51:14",
+      "part": null
     },
     {
-      "ref": "Ne 9:32",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 51:19",
+      "almeida1911": "Sl 51:17",
+      "part": null
     },
     {
-      "ref": "Ne 10:29",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Sl 52:9",
+      "almeida1911": "Sl 52:7",
+      "part": null
     },
     {
-      "ref": "Ne 10:30",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Sl 52:10",
+      "almeida1911": "Sl 52:8",
+      "part": null
     },
     {
-      "ref": "Ne 10:33",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Sl 53:2",
+      "almeida1911": "Sl 53:1",
+      "part": null
     },
     {
-      "ref": "Ne 10:34",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Sl 53:3",
+      "almeida1911": "Sl 53:2",
+      "part": null
     },
     {
-      "ref": "Ne 10:35",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Sl 53:5",
+      "almeida1911": "Sl 53:4",
+      "part": null
     },
     {
-      "ref": "Ne 10:37",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Sl 53:6",
+      "almeida1911": "Sl 53:5",
+      "part": null
     },
     {
-      "ref": "Ne 10:38",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Sl 53:7",
+      "almeida1911": "Sl 53:6",
+      "part": null
     },
     {
-      "ref": "Ne 10:39",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Sl 54:3",
+      "almeida1911": "Sl 54:1",
+      "part": null
     },
     {
-      "ref": "Ec 5:1",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Sl 54:4",
+      "almeida1911": "Sl 54:2",
+      "part": null
     },
     {
-      "ref": "Ec 5:3",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Sl 54:5",
+      "almeida1911": "Sl 54:3",
+      "part": null
     },
     {
-      "ref": "Ec 5:5",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Sl 54:6",
+      "almeida1911": "Sl 54:4",
+      "part": null
     },
     {
-      "ref": "Ec 5:6",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Sl 55:2",
+      "almeida1911": "Sl 55:1",
+      "part": null
     },
     {
-      "ref": "Ec 5:17",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Sl 55:15",
+      "almeida1911": "Sl 55:14",
+      "part": null
     },
     {
-      "ref": "Ec 5:18",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Sl 55:17",
+      "almeida1911": "Sl 55:16",
+      "part": null
     },
     {
-      "ref": "Ec 5:19",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Sl 55:20",
+      "almeida1911": "Sl 55:19",
+      "part": null
     },
     {
-      "ref": "Is 8:19",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 55:24",
+      "almeida1911": "Sl 55:23",
+      "part": null
     },
     {
-      "ref": "Is 8:21",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 56:2",
+      "almeida1911": "Sl 56:1",
+      "part": null
     },
     {
-      "ref": "Is 64:3",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 12)."
+      "mt": "Sl 56:5",
+      "almeida1911": "Sl 56:4",
+      "part": null
     },
     {
-      "ref": "Jr 8:14",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 56:8",
+      "almeida1911": "Sl 56:7",
+      "part": null
     },
     {
-      "ref": "Jr 9:14",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Sl 56:10",
+      "almeida1911": "Sl 56:9",
+      "part": null
     },
     {
-      "ref": "Ez 20:5",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 56:11",
+      "almeida1911": "Sl 56:10",
+      "part": null
     },
     {
-      "ref": "Ez 20:7",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 56:12",
+      "almeida1911": "Sl 56:11",
+      "part": null
     },
     {
-      "ref": "Ez 20:19",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 56:13",
+      "almeida1911": "Sl 56:12",
+      "part": null
     },
     {
-      "ref": "Ez 20:20",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 56:14",
+      "almeida1911": "Sl 56:13",
+      "part": null
     },
     {
-      "ref": "Os 1:7",
-      "reason": "Contagens de versículos divergentes (WLC 9, ALM1911 11)."
+      "mt": "Sl 57:2",
+      "almeida1911": "Sl 57:1",
+      "part": null
     },
     {
-      "ref": "Os 12:4",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 14)."
+      "mt": "Sl 57:3",
+      "almeida1911": "Sl 57:2",
+      "part": null
     },
     {
-      "ref": "Os 12:6",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 14)."
+      "mt": "Sl 57:4",
+      "almeida1911": "Sl 57:3",
+      "part": null
     },
     {
-      "ref": "Os 12:7",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 14)."
+      "mt": "Sl 57:6",
+      "almeida1911": "Sl 57:5",
+      "part": null
     },
     {
-      "ref": "Os 12:10",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 14)."
+      "mt": "Sl 57:8",
+      "almeida1911": "Sl 57:7",
+      "part": null
     },
     {
-      "ref": "Os 13:4",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 16)."
+      "mt": "Sl 57:12",
+      "almeida1911": "Sl 57:11",
+      "part": null
     },
     {
-      "ref": "Os 14:1",
-      "reason": "Contagens de versículos divergentes (WLC 10, ALM1911 9)."
+      "mt": "Sl 58:7",
+      "almeida1911": "Sl 58:6",
+      "part": null
     },
     {
-      "ref": "Os 14:2",
-      "reason": "Contagens de versículos divergentes (WLC 10, ALM1911 9)."
+      "mt": "Sl 58:12",
+      "almeida1911": "Sl 58:11",
+      "part": null
     },
     {
-      "ref": "Os 14:4",
-      "reason": "Contagens de versículos divergentes (WLC 10, ALM1911 9)."
+      "mt": "Sl 59:2",
+      "almeida1911": "Sl 59:1",
+      "part": null
     },
     {
-      "ref": "Jn 1:5",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
+      "mt": "Sl 59:6",
+      "almeida1911": "Sl 59:5",
+      "part": null
     },
     {
-      "ref": "Jn 1:6",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
+      "mt": "Sl 59:10",
+      "almeida1911": "Sl 59:9",
+      "part": null
     },
     {
-      "ref": "Jn 1:9",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
+      "mt": "Sl 59:11",
+      "almeida1911": "Sl 59:10",
+      "part": null
     },
     {
-      "ref": "Jn 2:2",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 10)."
+      "mt": "Sl 59:14",
+      "almeida1911": "Sl 59:13",
+      "part": null
     },
     {
-      "ref": "Jn 2:7",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 10)."
+      "mt": "Sl 59:18",
+      "almeida1911": "Sl 59:17",
+      "part": null
     },
     {
-      "ref": "Mq 4:2",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 13)."
+      "mt": "Sl 60:3",
+      "almeida1911": "Sl 60:1",
+      "part": null
     },
     {
-      "ref": "Mq 4:5",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 13)."
+      "mt": "Sl 60:8",
+      "almeida1911": "Sl 60:6",
+      "part": null
     },
     {
-      "ref": "Mq 5:3",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 60:12",
+      "almeida1911": "Sl 60:10",
+      "part": null
     },
     {
-      "ref": "Na 1:14",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 60:14",
+      "almeida1911": "Sl 60:12",
+      "part": null
     },
     {
-      "ref": "Gn 31:1",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 61:2",
+      "almeida1911": "Sl 61:1",
+      "part": null
     },
     {
-      "ref": "Gn 31:2",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 61:6",
+      "almeida1911": "Sl 61:5",
+      "part": null
     },
     {
-      "ref": "Gn 31:5",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 61:8",
+      "almeida1911": "Sl 61:7",
+      "part": null
     },
     {
-      "ref": "Gn 31:6",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 62:2",
+      "almeida1911": "Sl 62:1",
+      "part": null
     },
     {
-      "ref": "Gn 31:7",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 62:6",
+      "almeida1911": "Sl 62:5",
+      "part": null
     },
     {
-      "ref": "Gn 31:9",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 62:8",
+      "almeida1911": "Sl 62:7",
+      "part": null
     },
     {
-      "ref": "Gn 31:12",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 62:9",
+      "almeida1911": "Sl 62:8",
+      "part": null
     },
     {
-      "ref": "Gn 31:15",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 62:12",
+      "almeida1911": "Sl 62:11",
+      "part": null
     },
     {
-      "ref": "Gn 31:17",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 63:2",
+      "almeida1911": "Sl 63:1",
+      "part": null
     },
     {
-      "ref": "Gn 31:18",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 63:12",
+      "almeida1911": "Sl 63:11",
+      "part": null
     },
     {
-      "ref": "Gn 31:19",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 64:2",
+      "almeida1911": "Sl 64:1",
+      "part": null
     },
     {
-      "ref": "Gn 31:20",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 64:8",
+      "almeida1911": "Sl 64:7",
+      "part": null
     },
     {
-      "ref": "Gn 31:21",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 64:10",
+      "almeida1911": "Sl 64:9",
+      "part": null
     },
     {
-      "ref": "Gn 31:23",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 65:2",
+      "almeida1911": "Sl 65:1",
+      "part": null
     },
     {
-      "ref": "Gn 31:25",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 65:6",
+      "almeida1911": "Sl 65:5",
+      "part": null
     },
     {
-      "ref": "Gn 31:26",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 65:10",
+      "almeida1911": "Sl 65:9",
+      "part": null
     },
     {
-      "ref": "Gn 31:27",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 67:2",
+      "almeida1911": "Sl 67:1",
+      "part": null
     },
     {
-      "ref": "Gn 31:30",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 67:4",
+      "almeida1911": "Sl 67:3",
+      "part": null
     },
     {
-      "ref": "Gn 31:31",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 67:6",
+      "almeida1911": "Sl 67:5",
+      "part": null
     },
     {
-      "ref": "Gn 31:32",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 67:7",
+      "almeida1911": "Sl 67:6",
+      "part": null
     },
     {
-      "ref": "Gn 31:34",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 67:8",
+      "almeida1911": "Sl 67:7",
+      "part": null
     },
     {
-      "ref": "Gn 31:35",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 68:2",
+      "almeida1911": "Sl 68:1",
+      "part": null
     },
     {
-      "ref": "Gn 31:37",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 68:3",
+      "almeida1911": "Sl 68:2",
+      "part": null
     },
     {
-      "ref": "Gn 31:41",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 68:4",
+      "almeida1911": "Sl 68:3",
+      "part": null
     },
     {
-      "ref": "Gn 31:42",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 68:5",
+      "almeida1911": "Sl 68:4",
+      "part": null
     },
     {
-      "ref": "Gn 31:50",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 68:6",
+      "almeida1911": "Sl 68:5",
+      "part": null
     },
     {
-      "ref": "Gn 31:52",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 68:7",
+      "almeida1911": "Sl 68:6",
+      "part": null
     },
     {
-      "ref": "Gn 32:1",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:8",
+      "almeida1911": "Sl 68:7",
+      "part": null
     },
     {
-      "ref": "Gn 32:5",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:9",
+      "almeida1911": "Sl 68:8",
+      "part": null
     },
     {
-      "ref": "Gn 32:8",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:10",
+      "almeida1911": "Sl 68:9",
+      "part": null
     },
     {
-      "ref": "Gn 32:11",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:11",
+      "almeida1911": "Sl 68:10",
+      "part": null
     },
     {
-      "ref": "Gn 32:12",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:16",
+      "almeida1911": "Sl 68:15",
+      "part": null
     },
     {
-      "ref": "Gn 32:13",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:17",
+      "almeida1911": "Sl 68:16",
+      "part": null
     },
     {
-      "ref": "Gn 32:18",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:18",
+      "almeida1911": "Sl 68:17",
+      "part": null
     },
     {
-      "ref": "Gn 32:20",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:19",
+      "almeida1911": "Sl 68:18",
+      "part": null
     },
     {
-      "ref": "Gn 32:23",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:22",
+      "almeida1911": "Sl 68:21",
+      "part": null
     },
     {
-      "ref": "Gn 32:24",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:25",
+      "almeida1911": "Sl 68:24",
+      "part": null
     },
     {
-      "ref": "Gn 32:30",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:27",
+      "almeida1911": "Sl 68:26",
+      "part": null
     },
     {
-      "ref": "Gn 32:32",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 68:29",
+      "almeida1911": "Sl 68:28",
+      "part": null
     },
     {
-      "ref": "Êx 7:2",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 68:32",
+      "almeida1911": "Sl 68:31",
+      "part": null
     },
     {
-      "ref": "Êx 7:3",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 68:33",
+      "almeida1911": "Sl 68:32",
+      "part": null
     },
     {
-      "ref": "Êx 7:4",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 68:35",
+      "almeida1911": "Sl 68:34",
+      "part": null
     },
     {
-      "ref": "Êx 7:5",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 68:36",
+      "almeida1911": "Sl 68:35",
+      "part": null
     },
     {
-      "ref": "Êx 7:6",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 69:2",
+      "almeida1911": "Sl 69:1",
+      "part": null
     },
     {
-      "ref": "Êx 7:9",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 69:4",
+      "almeida1911": "Sl 69:3",
+      "part": null
     },
     {
-      "ref": "Êx 7:10",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 69:6",
+      "almeida1911": "Sl 69:5",
+      "part": null
     },
     {
-      "ref": "Êx 7:12",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 69:7",
+      "almeida1911": "Sl 69:6",
+      "part": null
     },
     {
-      "ref": "Êx 7:16",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 69:14",
+      "almeida1911": "Sl 69:13",
+      "part": null
     },
     {
-      "ref": "Êx 7:20",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 69:30",
+      "almeida1911": "Sl 69:29",
+      "part": null
     },
     {
-      "ref": "Êx 7:25",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 69:31",
+      "almeida1911": "Sl 69:30",
+      "part": null
     },
     {
-      "ref": "Êx 8:1",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 69:33",
+      "almeida1911": "Sl 69:32",
+      "part": null
     },
     {
-      "ref": "Êx 8:2",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 69:36",
+      "almeida1911": "Sl 69:35",
+      "part": null
     },
     {
-      "ref": "Êx 8:3",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 70:2",
+      "almeida1911": "Sl 70:1",
+      "part": null
     },
     {
-      "ref": "Êx 8:4",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 70:5",
+      "almeida1911": "Sl 70:4",
+      "part": null
     },
     {
-      "ref": "Êx 8:10",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 70:6",
+      "almeida1911": "Sl 70:5",
+      "part": null
     },
     {
-      "ref": "Êx 8:11",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 75:2",
+      "almeida1911": "Sl 75:1",
+      "part": null
     },
     {
-      "ref": "Êx 8:12",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 75:8",
+      "almeida1911": "Sl 75:7",
+      "part": null
     },
     {
-      "ref": "Êx 8:13",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 75:10",
+      "almeida1911": "Sl 75:9",
+      "part": null
     },
     {
-      "ref": "Êx 8:14",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 76:2",
+      "almeida1911": "Sl 76:1",
+      "part": null
     },
     {
-      "ref": "Êx 8:17",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 76:7",
+      "almeida1911": "Sl 76:6",
+      "part": null
     },
     {
-      "ref": "Êx 8:18",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 76:10",
+      "almeida1911": "Sl 76:9",
+      "part": null
     },
     {
-      "ref": "Êx 8:22",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 76:12",
+      "almeida1911": "Sl 76:11",
+      "part": null
     },
     {
-      "ref": "Êx 8:24",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 77:2",
+      "almeida1911": "Sl 77:1",
+      "part": null
     },
     {
-      "ref": "Êx 8:25",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 77:4",
+      "almeida1911": "Sl 77:3",
+      "part": null
     },
     {
-      "ref": "Êx 8:28",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 77:14",
+      "almeida1911": "Sl 77:13",
+      "part": null
     },
     {
-      "ref": "Êx 21:5",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Sl 77:17",
+      "almeida1911": "Sl 77:16",
+      "part": null
     },
     {
-      "ref": "Êx 21:6",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Sl 80:4",
+      "almeida1911": "Sl 80:3",
+      "part": null
     },
     {
-      "ref": "Êx 21:7",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Sl 80:5",
+      "almeida1911": "Sl 80:4",
+      "part": null
     },
     {
-      "ref": "Êx 21:18",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Sl 80:8",
+      "almeida1911": "Sl 80:7",
+      "part": null
     },
     {
-      "ref": "Êx 21:20",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Sl 80:15",
+      "almeida1911": "Sl 80:14",
+      "part": null
     },
     {
-      "ref": "Êx 21:26",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Sl 80:20",
+      "almeida1911": "Sl 80:19",
+      "part": null
     },
     {
-      "ref": "Êx 21:28",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Sl 81:2",
+      "almeida1911": "Sl 81:1",
+      "part": null
     },
     {
-      "ref": "Êx 21:35",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 36)."
+      "mt": "Sl 81:5",
+      "almeida1911": "Sl 81:4",
+      "part": null
     },
     {
-      "ref": "Êx 22:4",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Sl 81:11",
+      "almeida1911": "Sl 81:10",
+      "part": null
     },
     {
-      "ref": "Êx 22:5",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Sl 83:2",
+      "almeida1911": "Sl 83:1",
+      "part": null
     },
     {
-      "ref": "Êx 22:22",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Sl 83:13",
+      "almeida1911": "Sl 83:12",
+      "part": null
     },
     {
-      "ref": "Êx 22:23",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Sl 83:14",
+      "almeida1911": "Sl 83:13",
+      "part": null
     },
     {
-      "ref": "Êx 22:24",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Sl 84:4",
+      "almeida1911": "Sl 84:3",
+      "part": null
     },
     {
-      "ref": "Êx 22:30",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Sl 84:8",
+      "almeida1911": "Sl 84:7",
+      "part": null
     },
     {
-      "ref": "Lv 5:6",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 19)."
+      "mt": "Sl 84:9",
+      "almeida1911": "Sl 84:8",
+      "part": null
     },
     {
-      "ref": "Lv 5:7",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 19)."
+      "mt": "Sl 84:10",
+      "almeida1911": "Sl 84:9",
+      "part": null
     },
     {
-      "ref": "Lv 5:8",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 19)."
+      "mt": "Sl 84:11",
+      "almeida1911": "Sl 84:10",
+      "part": null
     },
     {
-      "ref": "Lv 5:10",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 19)."
+      "mt": "Sl 84:12",
+      "almeida1911": "Sl 84:11",
+      "part": null
     },
     {
-      "ref": "Lv 5:11",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 19)."
+      "mt": "Sl 85:5",
+      "almeida1911": "Sl 85:4",
+      "part": null
     },
     {
-      "ref": "Lv 5:12",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 19)."
+      "mt": "Sl 88:2",
+      "almeida1911": "Sl 88:1",
+      "part": null
     },
     {
-      "ref": "Lv 5:15",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 19)."
+      "mt": "Sl 89:9",
+      "almeida1911": "Sl 89:8",
+      "part": null
     },
     {
-      "ref": "Lv 5:16",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 19)."
+      "mt": "Sl 92:14",
+      "almeida1911": "Sl 92:13",
+      "part": null
     },
     {
-      "ref": "Lv 6:2",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Sl 108:2",
+      "almeida1911": "Sl 108:1",
+      "part": null
     },
     {
-      "ref": "Lv 6:3",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Sl 108:6",
+      "almeida1911": "Sl 108:5",
+      "part": null
     },
     {
-      "ref": "Lv 6:4",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Sl 108:8",
+      "almeida1911": "Sl 108:7",
+      "part": null
     },
     {
-      "ref": "Lv 6:7",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Sl 108:12",
+      "almeida1911": "Sl 108:11",
+      "part": null
     },
     {
-      "ref": "Lv 6:8",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Sl 108:14",
+      "almeida1911": "Sl 108:13",
+      "part": null
     },
     {
-      "ref": "Lv 6:10",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Ec 4:17",
+      "almeida1911": "Ec 5:1",
+      "part": null
     },
     {
-      "ref": "Lv 6:13",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Ec 5:1",
+      "almeida1911": "Ec 5:2",
+      "part": null
     },
     {
-      "ref": "Lv 6:15",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Ec 5:3",
+      "almeida1911": "Ec 5:4",
+      "part": null
     },
     {
-      "ref": "Lv 6:19",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Ec 5:5",
+      "almeida1911": "Ec 5:6",
+      "part": null
     },
     {
-      "ref": "Lv 6:22",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 30)."
+      "mt": "Ec 5:6",
+      "almeida1911": "Ec 5:7",
+      "part": null
     },
     {
-      "ref": "Nm 16:5",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Ec 5:17",
+      "almeida1911": "Ec 5:18",
+      "part": null
     },
     {
-      "ref": "Nm 16:9",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Ec 5:18",
+      "almeida1911": "Ec 5:19",
+      "part": null
     },
     {
-      "ref": "Nm 16:10",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Ec 5:19",
+      "almeida1911": "Ec 5:20",
+      "part": null
     },
     {
-      "ref": "Nm 16:15",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Is 64:3",
+      "almeida1911": "Is 64:4",
+      "part": null
     },
     {
-      "ref": "Nm 16:19",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Jr 9:14",
+      "almeida1911": "Jr 9:15",
+      "part": null
     },
     {
-      "ref": "Nm 16:21",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Os 2:25",
+      "almeida1911": "Os 2:23",
+      "part": null
     },
     {
-      "ref": "Nm 16:28",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Os 12:4",
+      "almeida1911": "Os 12:3",
+      "part": null
     },
     {
-      "ref": "Nm 16:30",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Os 12:6",
+      "almeida1911": "Os 12:5",
+      "part": null
     },
     {
-      "ref": "Nm 16:31",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Os 12:7",
+      "almeida1911": "Os 12:6",
+      "part": null
     },
     {
-      "ref": "Nm 16:32",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Os 12:10",
+      "almeida1911": "Os 12:9",
+      "part": null
     },
     {
-      "ref": "Nm 16:35",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Os 14:1",
+      "almeida1911": "Os 13:16",
+      "part": null
     },
     {
-      "ref": "Nm 17:2",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 13)."
+      "mt": "Os 14:2",
+      "almeida1911": "Os 14:1",
+      "part": null
     },
     {
-      "ref": "Nm 17:3",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 13)."
+      "mt": "Os 14:4",
+      "almeida1911": "Os 14:3",
+      "part": null
     },
     {
-      "ref": "Nm 17:4",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 13)."
+      "mt": "Jl 4:17",
+      "almeida1911": "Jl 3:17",
+      "part": null
     },
     {
-      "ref": "Nm 17:6",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 13)."
+      "mt": "Jn 2:2",
+      "almeida1911": "Jn 2:1",
+      "part": null
     },
     {
-      "ref": "Nm 17:10",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 13)."
+      "mt": "Jn 2:7",
+      "almeida1911": "Jn 2:6",
+      "part": null
     },
     {
-      "ref": "Nm 17:11",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 13)."
+      "mt": "Mq 5:3",
+      "almeida1911": "Mq 5:4",
+      "part": null
     },
     {
-      "ref": "Nm 17:12",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 13)."
+      "mt": "Gn 32:1",
+      "almeida1911": "Gn 31:55",
+      "part": null
     },
     {
-      "ref": "Nm 25:4",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Gn 32:5",
+      "almeida1911": "Gn 32:4",
+      "part": null
     },
     {
-      "ref": "Nm 25:6",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Gn 32:8",
+      "almeida1911": "Gn 32:7",
+      "part": null
     },
     {
-      "ref": "Nm 25:8",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Gn 32:11",
+      "almeida1911": "Gn 32:10",
+      "part": null
     },
     {
-      "ref": "Nm 25:11",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Gn 32:12",
+      "almeida1911": "Gn 32:11",
+      "part": null
     },
     {
-      "ref": "Nm 25:12",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Gn 32:13",
+      "almeida1911": "Gn 32:12",
+      "part": null
     },
     {
-      "ref": "Nm 25:17",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Gn 32:18",
+      "almeida1911": "Gn 32:17",
+      "part": null
     },
     {
-      "ref": "Nm 29:7",
-      "reason": "Contagens de versículos divergentes (WLC 39, ALM1911 40)."
+      "mt": "Gn 32:20",
+      "almeida1911": "Gn 32:19",
+      "part": null
     },
     {
-      "ref": "Nm 30:1",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Gn 32:23",
+      "almeida1911": "Gn 32:22",
+      "part": null
     },
     {
-      "ref": "Nm 30:5",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Gn 32:24",
+      "almeida1911": "Gn 32:23",
+      "part": null
     },
     {
-      "ref": "Nm 30:6",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Gn 32:30",
+      "almeida1911": "Gn 32:29",
+      "part": null
     },
     {
-      "ref": "Nm 30:9",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Gn 32:32",
+      "almeida1911": "Gn 32:31",
+      "part": null
     },
     {
-      "ref": "Nm 30:12",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Gn 32:33",
+      "almeida1911": "Gn 32:32",
+      "part": null
     },
     {
-      "ref": "Nm 30:13",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Êx 7:26",
+      "almeida1911": "Êx 8:1",
+      "part": null
     },
     {
-      "ref": "Nm 30:15",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Êx 7:27",
+      "almeida1911": "Êx 8:2",
+      "part": null
     },
     {
-      "ref": "Nm 30:16",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Êx 8:1",
+      "almeida1911": "Êx 8:5",
+      "part": null
     },
     {
-      "ref": "Dt 12:2",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:2",
+      "almeida1911": "Êx 8:6",
+      "part": null
     },
     {
-      "ref": "Dt 12:3",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:3",
+      "almeida1911": "Êx 8:7",
+      "part": null
     },
     {
-      "ref": "Dt 12:5",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:4",
+      "almeida1911": "Êx 8:8",
+      "part": null
     },
     {
-      "ref": "Dt 12:6",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:10",
+      "almeida1911": "Êx 8:14",
+      "part": null
     },
     {
-      "ref": "Dt 12:10",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:11",
+      "almeida1911": "Êx 8:15",
+      "part": null
     },
     {
-      "ref": "Dt 12:11",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:12",
+      "almeida1911": "Êx 8:16",
+      "part": null
     },
     {
-      "ref": "Dt 12:19",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:13",
+      "almeida1911": "Êx 8:17",
+      "part": null
     },
     {
-      "ref": "Dt 12:20",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:14",
+      "almeida1911": "Êx 8:18",
+      "part": null
     },
     {
-      "ref": "Dt 12:22",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:17",
+      "almeida1911": "Êx 8:21",
+      "part": null
     },
     {
-      "ref": "Dt 12:28",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:18",
+      "almeida1911": "Êx 8:22",
+      "part": null
     },
     {
-      "ref": "Dt 12:29",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:22",
+      "almeida1911": "Êx 8:26",
+      "part": null
     },
     {
-      "ref": "Dt 12:30",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:24",
+      "almeida1911": "Êx 8:28",
+      "part": null
     },
     {
-      "ref": "Dt 12:31",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Êx 8:25",
+      "almeida1911": "Êx 8:29",
+      "part": null
     },
     {
-      "ref": "Dt 13:1",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Êx 8:28",
+      "almeida1911": "Êx 8:32",
+      "part": null
     },
     {
-      "ref": "Dt 13:4",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Êx 22:4",
+      "almeida1911": "Êx 22:5",
+      "part": null
     },
     {
-      "ref": "Dt 13:5",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Êx 22:5",
+      "almeida1911": "Êx 22:6",
+      "part": null
     },
     {
-      "ref": "Dt 13:6",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Êx 22:22",
+      "almeida1911": "Êx 22:23",
+      "part": null
     },
     {
-      "ref": "Dt 13:14",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Êx 22:23",
+      "almeida1911": "Êx 22:24",
+      "part": null
     },
     {
-      "ref": "Dt 13:16",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Êx 22:24",
+      "almeida1911": "Êx 22:25",
+      "part": null
     },
     {
-      "ref": "Dt 13:17",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Êx 22:30",
+      "almeida1911": "Êx 22:31",
+      "part": null
     },
     {
-      "ref": "Dt 22:1",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Êx 37:28",
+      "almeida1911": "Êx 37:28",
+      "part": ".1"
     },
     {
-      "ref": "Dt 22:2",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 5:21",
+      "almeida1911": "Lv 6:2",
+      "part": null
     },
     {
-      "ref": "Dt 22:4",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 5:23",
+      "almeida1911": "Lv 6:4",
+      "part": null
     },
     {
-      "ref": "Dt 22:7",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 5:24",
+      "almeida1911": "Lv 6:5",
+      "part": null
     },
     {
-      "ref": "Dt 22:14",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 5:25",
+      "almeida1911": "Lv 6:6",
+      "part": null
     },
     {
-      "ref": "Dt 22:15",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 6:2",
+      "almeida1911": "Lv 6:9",
+      "part": null
     },
     {
-      "ref": "Dt 22:16",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 6:3",
+      "almeida1911": "Lv 6:10",
+      "part": null
     },
     {
-      "ref": "Dt 22:18",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 6:4",
+      "almeida1911": "Lv 6:11",
+      "part": null
     },
     {
-      "ref": "Dt 22:19",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 6:7",
+      "almeida1911": "Lv 6:14",
+      "part": null
     },
     {
-      "ref": "Dt 22:21",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 6:8",
+      "almeida1911": "Lv 6:15",
+      "part": null
     },
     {
-      "ref": "Dt 22:24",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 6:10",
+      "almeida1911": "Lv 6:17",
+      "part": null
     },
     {
-      "ref": "Dt 22:25",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Lv 6:13",
+      "almeida1911": "Lv 6:20",
+      "part": null
     },
     {
-      "ref": "Dt 23:1",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Lv 6:15",
+      "almeida1911": "Lv 6:22",
+      "part": null
     },
     {
-      "ref": "Dt 23:5",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Lv 6:19",
+      "almeida1911": "Lv 6:26",
+      "part": null
     },
     {
-      "ref": "Dt 23:6",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Lv 6:22",
+      "almeida1911": "Lv 6:29",
+      "part": null
     },
     {
-      "ref": "Dt 23:14",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Nm 17:2",
+      "almeida1911": "Nm 16:37",
+      "part": null
     },
     {
-      "ref": "Dt 28:1",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:3",
+      "almeida1911": "Nm 16:38",
+      "part": null
     },
     {
-      "ref": "Dt 28:7",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:4",
+      "almeida1911": "Nm 16:39",
+      "part": null
     },
     {
-      "ref": "Dt 28:8",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:6",
+      "almeida1911": "Nm 16:41",
+      "part": null
     },
     {
-      "ref": "Dt 28:9",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:10",
+      "almeida1911": "Nm 16:45",
+      "part": null
     },
     {
-      "ref": "Dt 28:12",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:11",
+      "almeida1911": "Nm 16:46",
+      "part": null
     },
     {
-      "ref": "Dt 28:14",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:12",
+      "almeida1911": "Nm 16:47",
+      "part": null
     },
     {
-      "ref": "Dt 28:15",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:17",
+      "almeida1911": "Nm 17:2",
+      "part": null
     },
     {
-      "ref": "Dt 28:20",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:18",
+      "almeida1911": "Nm 17:3",
+      "part": null
     },
     {
-      "ref": "Dt 28:21",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:20",
+      "almeida1911": "Nm 17:5",
+      "part": null
     },
     {
-      "ref": "Dt 28:24",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:22",
+      "almeida1911": "Nm 17:7",
+      "part": null
     },
     {
-      "ref": "Dt 28:29",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:24",
+      "almeida1911": "Nm 17:9",
+      "part": null
     },
     {
-      "ref": "Dt 28:36",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:25",
+      "almeida1911": "Nm 17:10",
+      "part": null
     },
     {
-      "ref": "Dt 28:47",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 17:26",
+      "almeida1911": "Nm 17:11",
+      "part": null
     },
     {
-      "ref": "Dt 28:48",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 30:1",
+      "almeida1911": "Nm 29:40",
+      "part": null
     },
     {
-      "ref": "Dt 28:51",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 30:5",
+      "almeida1911": "Nm 30:4",
+      "part": null
     },
     {
-      "ref": "Dt 28:58",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 30:6",
+      "almeida1911": "Nm 30:5",
+      "part": null
     },
     {
-      "ref": "Dt 28:59",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 30:9",
+      "almeida1911": "Nm 30:8",
+      "part": null
     },
     {
-      "ref": "Dt 28:60",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 30:12",
+      "almeida1911": "Nm 30:11",
+      "part": null
     },
     {
-      "ref": "Dt 28:63",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Nm 30:13",
+      "almeida1911": "Nm 30:12",
+      "part": null
     },
     {
-      "ref": "Dt 29:1",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Nm 30:15",
+      "almeida1911": "Nm 30:14",
+      "part": null
     },
     {
-      "ref": "Dt 29:4",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Nm 30:16",
+      "almeida1911": "Nm 30:15",
+      "part": null
     },
     {
-      "ref": "Dt 29:7",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Nm 30:17",
+      "almeida1911": "Nm 30:16",
+      "part": null
     },
     {
-      "ref": "Dt 29:8",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 13:1",
+      "almeida1911": "Dt 12:32",
+      "part": null
     },
     {
-      "ref": "Dt 29:12",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 13:4",
+      "almeida1911": "Dt 13:3",
+      "part": null
     },
     {
-      "ref": "Dt 29:13",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 13:5",
+      "almeida1911": "Dt 13:4",
+      "part": null
     },
     {
-      "ref": "Dt 29:15",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 13:6",
+      "almeida1911": "Dt 13:5",
+      "part": null
     },
     {
-      "ref": "Dt 29:16",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 13:14",
+      "almeida1911": "Dt 13:13",
+      "part": null
     },
     {
-      "ref": "Dt 29:17",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 13:16",
+      "almeida1911": "Dt 13:15",
+      "part": null
     },
     {
-      "ref": "Dt 29:18",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 13:17",
+      "almeida1911": "Dt 13:16",
+      "part": null
     },
     {
-      "ref": "Dt 29:19",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 13:19",
+      "almeida1911": "Dt 13:18",
+      "part": null
     },
     {
-      "ref": "Dt 29:21",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 23:1",
+      "almeida1911": "Dt 22:30",
+      "part": null
     },
     {
-      "ref": "Dt 29:24",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 23:5",
+      "almeida1911": "Dt 23:4",
+      "part": null
     },
     {
-      "ref": "Dt 29:26",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 23:6",
+      "almeida1911": "Dt 23:5",
+      "part": null
     },
     {
-      "ref": "Dt 29:28",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 23:14",
+      "almeida1911": "Dt 23:13",
+      "part": null
     },
     {
-      "ref": "1Sm 21:3",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 15)."
+      "mt": "Dt 28:69",
+      "almeida1911": "Dt 29:1",
+      "part": null
     },
     {
-      "ref": "1Sm 21:5",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 15)."
+      "mt": "Dt 29:1",
+      "almeida1911": "Dt 29:2",
+      "part": null
     },
     {
-      "ref": "1Sm 21:6",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 15)."
+      "mt": "Dt 29:4",
+      "almeida1911": "Dt 29:5",
+      "part": null
     },
     {
-      "ref": "1Sm 21:10",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 15)."
+      "mt": "Dt 29:7",
+      "almeida1911": "Dt 29:8",
+      "part": null
     },
     {
-      "ref": "1Sm 21:13",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 15)."
+      "mt": "Dt 29:8",
+      "almeida1911": "Dt 29:9",
+      "part": null
     },
     {
-      "ref": "1Sm 21:14",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 15)."
+      "mt": "Dt 29:12",
+      "almeida1911": "Dt 29:13",
+      "part": null
     },
     {
-      "ref": "1Sm 21:15",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 15)."
+      "mt": "Dt 29:13",
+      "almeida1911": "Dt 29:14",
+      "part": null
     },
     {
-      "ref": "1Sm 23:1",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:15",
+      "almeida1911": "Dt 29:16",
+      "part": null
     },
     {
-      "ref": "1Sm 23:2",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:16",
+      "almeida1911": "Dt 29:17",
+      "part": null
     },
     {
-      "ref": "1Sm 23:4",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:17",
+      "almeida1911": "Dt 29:18",
+      "part": null
     },
     {
-      "ref": "1Sm 23:5",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:18",
+      "almeida1911": "Dt 29:19",
+      "part": null
     },
     {
-      "ref": "1Sm 23:7",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:19",
+      "almeida1911": "Dt 29:20",
+      "part": null
     },
     {
-      "ref": "1Sm 23:8",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:21",
+      "almeida1911": "Dt 29:22",
+      "part": null
     },
     {
-      "ref": "1Sm 23:12",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:24",
+      "almeida1911": "Dt 29:25",
+      "part": null
     },
     {
-      "ref": "1Sm 23:15",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:26",
+      "almeida1911": "Dt 29:27",
+      "part": null
     },
     {
-      "ref": "1Sm 23:16",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Dt 29:28",
+      "almeida1911": "Dt 29:29",
+      "part": null
     },
     {
-      "ref": "1Sm 23:22",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "1Sm 21:3",
+      "almeida1911": "1Sm 21:2",
+      "part": null
     },
     {
-      "ref": "1Sm 23:23",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "1Sm 21:5",
+      "almeida1911": "1Sm 21:4",
+      "part": null
     },
     {
-      "ref": "1Sm 24:3",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 21:6",
+      "almeida1911": "1Sm 21:5",
+      "part": null
     },
     {
-      "ref": "1Sm 24:4",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 21:10",
+      "almeida1911": "1Sm 21:9",
+      "part": null
     },
     {
-      "ref": "1Sm 24:5",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 21:13",
+      "almeida1911": "1Sm 21:12",
+      "part": null
     },
     {
-      "ref": "1Sm 24:6",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 21:14",
+      "almeida1911": "1Sm 21:13",
+      "part": null
     },
     {
-      "ref": "1Sm 24:7",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 21:15",
+      "almeida1911": "1Sm 21:14",
+      "part": null
     },
     {
-      "ref": "1Sm 24:8",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 21:16",
+      "almeida1911": "1Sm 21:15",
+      "part": null
     },
     {
-      "ref": "1Sm 24:10",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 24:3",
+      "almeida1911": "1Sm 24:2",
+      "part": null
     },
     {
-      "ref": "1Sm 24:11",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 24:4",
+      "almeida1911": "1Sm 24:3",
+      "part": null
     },
     {
-      "ref": "1Sm 24:12",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 24:5",
+      "almeida1911": "1Sm 24:4",
+      "part": null
     },
     {
-      "ref": "1Sm 24:16",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 24:6",
+      "almeida1911": "1Sm 24:5",
+      "part": null
     },
     {
-      "ref": "1Sm 24:17",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 24:7",
+      "almeida1911": "1Sm 24:6",
+      "part": null
     },
     {
-      "ref": "1Sm 24:19",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 24:8",
+      "almeida1911": "1Sm 24:7",
+      "part": null
     },
     {
-      "ref": "1Sm 24:20",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 24:10",
+      "almeida1911": "1Sm 24:9",
+      "part": null
     },
     {
-      "ref": "1Sm 24:22",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "1Sm 24:11",
+      "almeida1911": "1Sm 24:10",
+      "part": null
     },
     {
-      "ref": "2Sm 18:1",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "1Sm 24:12",
+      "almeida1911": "1Sm 24:11",
+      "part": null
     },
     {
-      "ref": "2Sm 18:2",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "1Sm 24:16",
+      "almeida1911": "1Sm 24:15",
+      "part": null
     },
     {
-      "ref": "2Sm 18:5",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "1Sm 24:17",
+      "almeida1911": "1Sm 24:16",
+      "part": null
     },
     {
-      "ref": "2Sm 18:10",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "1Sm 24:19",
+      "almeida1911": "1Sm 24:18",
+      "part": null
     },
     {
-      "ref": "2Sm 18:12",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "1Sm 24:20",
+      "almeida1911": "1Sm 24:19",
+      "part": null
     },
     {
-      "ref": "2Sm 18:15",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "1Sm 24:22",
+      "almeida1911": "1Sm 24:21",
+      "part": null
     },
     {
-      "ref": "2Sm 18:16",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:5",
+      "almeida1911": "2Sm 19:4",
+      "part": null
     },
     {
-      "ref": "2Sm 18:17",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:6",
+      "almeida1911": "2Sm 19:5",
+      "part": null
     },
     {
-      "ref": "2Sm 18:18",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:7",
+      "almeida1911": "2Sm 19:6",
+      "part": null
     },
     {
-      "ref": "2Sm 18:19",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:11",
+      "almeida1911": "2Sm 19:10",
+      "part": null
     },
     {
-      "ref": "2Sm 18:23",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:12",
+      "almeida1911": "2Sm 19:11",
+      "part": null
     },
     {
-      "ref": "2Sm 18:24",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:13",
+      "almeida1911": "2Sm 19:12",
+      "part": null
     },
     {
-      "ref": "2Sm 18:27",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:15",
+      "almeida1911": "2Sm 19:14",
+      "part": null
     },
     {
-      "ref": "2Sm 18:28",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:16",
+      "almeida1911": "2Sm 19:15",
+      "part": null
     },
     {
-      "ref": "2Sm 18:29",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "2Sm 19:19",
+      "almeida1911": "2Sm 19:18",
+      "part": null
     },
     {
-      "ref": "2Sm 19:5",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:20",
+      "almeida1911": "2Sm 19:19",
+      "part": null
     },
     {
-      "ref": "2Sm 19:6",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:22",
+      "almeida1911": "2Sm 19:21",
+      "part": null
     },
     {
-      "ref": "2Sm 19:7",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:25",
+      "almeida1911": "2Sm 19:24",
+      "part": null
     },
     {
-      "ref": "2Sm 19:11",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:29",
+      "almeida1911": "2Sm 19:28",
+      "part": null
     },
     {
-      "ref": "2Sm 19:12",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:30",
+      "almeida1911": "2Sm 19:29",
+      "part": null
     },
     {
-      "ref": "2Sm 19:13",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:31",
+      "almeida1911": "2Sm 19:30",
+      "part": null
     },
     {
-      "ref": "2Sm 19:15",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:32",
+      "almeida1911": "2Sm 19:31",
+      "part": null
     },
     {
-      "ref": "2Sm 19:16",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:33",
+      "almeida1911": "2Sm 19:32",
+      "part": null
     },
     {
-      "ref": "2Sm 19:19",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:34",
+      "almeida1911": "2Sm 19:33",
+      "part": null
     },
     {
-      "ref": "2Sm 19:20",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:36",
+      "almeida1911": "2Sm 19:35",
+      "part": null
     },
     {
-      "ref": "2Sm 19:22",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:37",
+      "almeida1911": "2Sm 19:36",
+      "part": null
     },
     {
-      "ref": "2Sm 19:25",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:38",
+      "almeida1911": "2Sm 19:37",
+      "part": null
     },
     {
-      "ref": "2Sm 19:29",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:39",
+      "almeida1911": "2Sm 19:38",
+      "part": null
     },
     {
-      "ref": "2Sm 19:30",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:40",
+      "almeida1911": "2Sm 19:39",
+      "part": null
     },
     {
-      "ref": "2Sm 19:31",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:41",
+      "almeida1911": "2Sm 19:40",
+      "part": null
     },
     {
-      "ref": "2Sm 19:32",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:42",
+      "almeida1911": "2Sm 19:41",
+      "part": null
     },
     {
-      "ref": "2Sm 19:33",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "2Sm 19:44",
+      "almeida1911": "2Sm 19:43",
+      "part": null
     },
     {
-      "ref": "2Sm 19:34",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "1Rs 5:1",
+      "almeida1911": "1Rs 4:21",
+      "part": null
     },
     {
-      "ref": "2Sm 19:36",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "1Rs 5:7",
+      "almeida1911": "1Rs 4:27",
+      "part": null
     },
     {
-      "ref": "2Sm 19:37",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "1Rs 5:14",
+      "almeida1911": "1Rs 4:34",
+      "part": null
     },
     {
-      "ref": "2Sm 19:38",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "1Rs 5:15",
+      "almeida1911": "1Rs 5:1",
+      "part": null
     },
     {
-      "ref": "2Sm 19:39",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "1Rs 5:17",
+      "almeida1911": "1Rs 5:3",
+      "part": null
     },
     {
-      "ref": "2Sm 19:40",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "1Rs 5:21",
+      "almeida1911": "1Rs 5:7",
+      "part": null
     },
     {
-      "ref": "2Sm 19:41",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "1Rs 5:22",
+      "almeida1911": "1Rs 5:8",
+      "part": null
     },
     {
-      "ref": "2Sm 19:42",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "1Rs 5:23",
+      "almeida1911": "1Rs 5:9",
+      "part": null
     },
     {
-      "ref": "1Rs 4:7",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 34)."
+      "mt": "1Rs 22:53",
+      "almeida1911": "1Rs 22:52",
+      "part": null
     },
     {
-      "ref": "1Rs 4:15",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 34)."
+      "mt": "1Rs 22:54",
+      "almeida1911": "1Rs 22:53",
+      "part": null
     },
     {
-      "ref": "1Rs 5:1",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "2Rs 12:6",
+      "almeida1911": "2Rs 12:5",
+      "part": null
     },
     {
-      "ref": "1Rs 5:7",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "2Rs 12:7",
+      "almeida1911": "2Rs 12:6",
+      "part": null
     },
     {
-      "ref": "1Rs 5:14",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "2Rs 12:8",
+      "almeida1911": "2Rs 12:7",
+      "part": null
     },
     {
-      "ref": "1Rs 5:15",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "2Rs 12:9",
+      "almeida1911": "2Rs 12:8",
+      "part": null
     },
     {
-      "ref": "1Rs 5:17",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "2Rs 12:10",
+      "almeida1911": "2Rs 12:9",
+      "part": null
     },
     {
-      "ref": "1Rs 22:3",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "2Rs 12:11",
+      "almeida1911": "2Rs 12:10",
+      "part": null
     },
     {
-      "ref": "1Rs 22:5",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "2Rs 12:12",
+      "almeida1911": "2Rs 12:11",
+      "part": null
     },
     {
-      "ref": "1Rs 22:6",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "2Rs 12:13",
+      "almeida1911": "2Rs 12:12",
+      "part": null
     },
     {
-      "ref": "1Rs 22:7",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "2Rs 12:15",
+      "almeida1911": "2Rs 12:14",
+      "part": null
     },
     {
-      "ref": "1Rs 22:8",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "2Rs 12:16",
+      "almeida1911": "2Rs 12:15",
+      "part": null
     },
     {
-      "ref": "1Rs 22:11",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "2Rs 12:19",
+      "almeida1911": "2Rs 12:18",
+      "part": null
     },
     {
-      "ref": "1Rs 22:14",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "2Rs 12:21",
+      "almeida1911": "2Rs 12:20",
+      "part": null
     },
     {
-      "ref": "1Rs 22:17",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "2Rs 12:22",
+      "almeida1911": "2Rs 12:21",
+      "part": null
     },
     {
-      "ref": "1Rs 22:19",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:30",
+      "almeida1911": "1Cr 6:4",
+      "part": null
     },
     {
-      "ref": "1Rs 22:20",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:31",
+      "almeida1911": "1Cr 6:5",
+      "part": null
     },
     {
-      "ref": "1Rs 22:24",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:32",
+      "almeida1911": "1Cr 6:6",
+      "part": null
     },
     {
-      "ref": "1Rs 22:26",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:33",
+      "almeida1911": "1Cr 6:7",
+      "part": null
     },
     {
-      "ref": "1Rs 22:27",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:34",
+      "almeida1911": "1Cr 6:8",
+      "part": null
     },
     {
-      "ref": "1Rs 22:31",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:35",
+      "almeida1911": "1Cr 6:9",
+      "part": null
     },
     {
-      "ref": "1Rs 22:32",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:36",
+      "almeida1911": "1Cr 6:10",
+      "part": null
     },
     {
-      "ref": "1Rs 22:34",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:37",
+      "almeida1911": "1Cr 6:11",
+      "part": null
     },
     {
-      "ref": "1Rs 22:37",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:38",
+      "almeida1911": "1Cr 6:12",
+      "part": null
     },
     {
-      "ref": "1Rs 22:38",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:39",
+      "almeida1911": "1Cr 6:13",
+      "part": null
     },
     {
-      "ref": "1Rs 22:53",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "1Cr 5:40",
+      "almeida1911": "1Cr 6:14",
+      "part": null
     },
     {
-      "ref": "2Rs 11:1",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 5:41",
+      "almeida1911": "1Cr 6:15",
+      "part": null
     },
     {
-      "ref": "2Rs 11:2",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:17",
+      "almeida1911": "1Cr 6:32",
+      "part": null
     },
     {
-      "ref": "2Rs 11:4",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:40",
+      "almeida1911": "1Cr 6:55",
+      "part": null
     },
     {
-      "ref": "2Rs 11:6",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:41",
+      "almeida1911": "1Cr 6:56",
+      "part": null
     },
     {
-      "ref": "2Rs 11:7",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:42",
+      "almeida1911": "1Cr 6:57",
+      "part": null
     },
     {
-      "ref": "2Rs 11:9",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:43",
+      "almeida1911": "1Cr 6:58",
+      "part": null
     },
     {
-      "ref": "2Rs 11:10",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:44",
+      "almeida1911": "1Cr 6:59",
+      "part": null
     },
     {
-      "ref": "2Rs 11:12",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:45",
+      "almeida1911": "1Cr 6:60",
+      "part": null
     },
     {
-      "ref": "2Rs 11:13",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:49",
+      "almeida1911": "1Cr 6:64",
+      "part": null
     },
     {
-      "ref": "2Rs 11:14",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:50",
+      "almeida1911": "1Cr 6:65",
+      "part": null
     },
     {
-      "ref": "2Rs 11:15",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:52",
+      "almeida1911": "1Cr 6:67",
+      "part": null
     },
     {
-      "ref": "2Rs 11:17",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:53",
+      "almeida1911": "1Cr 6:68",
+      "part": null
     },
     {
-      "ref": "2Rs 11:18",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:54",
+      "almeida1911": "1Cr 6:69",
+      "part": null
     },
     {
-      "ref": "2Rs 11:19",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:55",
+      "almeida1911": "1Cr 6:70",
+      "part": null
     },
     {
-      "ref": "2Rs 11:20",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "1Cr 6:56",
+      "almeida1911": "1Cr 6:71",
+      "part": null
     },
     {
-      "ref": "2Rs 12:6",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:57",
+      "almeida1911": "1Cr 6:72",
+      "part": null
     },
     {
-      "ref": "2Rs 12:7",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:58",
+      "almeida1911": "1Cr 6:73",
+      "part": null
     },
     {
-      "ref": "2Rs 12:8",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:59",
+      "almeida1911": "1Cr 6:74",
+      "part": null
     },
     {
-      "ref": "2Rs 12:9",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:60",
+      "almeida1911": "1Cr 6:75",
+      "part": null
     },
     {
-      "ref": "2Rs 12:10",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:61",
+      "almeida1911": "1Cr 6:76",
+      "part": null
     },
     {
-      "ref": "2Rs 12:11",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:62",
+      "almeida1911": "1Cr 6:77",
+      "part": null
     },
     {
-      "ref": "2Rs 12:12",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:63",
+      "almeida1911": "1Cr 6:78",
+      "part": null
     },
     {
-      "ref": "2Rs 12:13",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:64",
+      "almeida1911": "1Cr 6:79",
+      "part": null
     },
     {
-      "ref": "2Rs 12:15",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:65",
+      "almeida1911": "1Cr 6:80",
+      "part": null
     },
     {
-      "ref": "2Rs 12:16",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 6:66",
+      "almeida1911": "1Cr 6:81",
+      "part": null
     },
     {
-      "ref": "2Rs 12:19",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 12:16",
+      "almeida1911": "1Cr 12:15",
+      "part": null
     },
     {
-      "ref": "2Rs 12:21",
-      "reason": "Contagens de versículos divergentes (WLC 22, ALM1911 21)."
+      "mt": "1Cr 12:19",
+      "almeida1911": "1Cr 12:18",
+      "part": null
     },
     {
-      "ref": "1Cr 5:26",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
+      "mt": "1Cr 12:32",
+      "almeida1911": "1Cr 12:31",
+      "part": null
     },
     {
-      "ref": "1Cr 6:17",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "1Cr 12:39",
+      "almeida1911": "1Cr 12:38",
+      "part": null
     },
     {
-      "ref": "1Cr 6:40",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 2:10",
+      "almeida1911": "2Cr 2:11",
+      "part": null
     },
     {
-      "ref": "1Cr 6:41",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 2:11",
+      "almeida1911": "2Cr 2:12",
+      "part": null
     },
     {
-      "ref": "1Cr 6:42",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 2:15",
+      "almeida1911": "2Cr 2:16",
+      "part": null
     },
     {
-      "ref": "1Cr 6:43",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 2:17",
+      "almeida1911": "2Cr 2:18",
+      "part": null
     },
     {
-      "ref": "1Cr 6:44",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 13:23",
+      "almeida1911": "2Cr 14:1",
+      "part": null
     },
     {
-      "ref": "1Cr 6:45",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 14:2",
+      "almeida1911": "2Cr 14:3",
+      "part": null
     },
     {
-      "ref": "1Cr 6:49",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 14:3",
+      "almeida1911": "2Cr 14:4",
+      "part": null
     },
     {
-      "ref": "1Cr 6:50",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 14:4",
+      "almeida1911": "2Cr 14:5",
+      "part": null
     },
     {
-      "ref": "1Cr 6:52",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 14:6",
+      "almeida1911": "2Cr 14:7",
+      "part": null
     },
     {
-      "ref": "1Cr 6:53",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 14:11",
+      "almeida1911": "2Cr 14:12",
+      "part": null
     },
     {
-      "ref": "1Cr 6:54",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "2Cr 14:13",
+      "almeida1911": "2Cr 14:14",
+      "part": null
     },
     {
-      "ref": "1Cr 6:55",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 3:33",
+      "almeida1911": "Ne 4:1",
+      "part": null
     },
     {
-      "ref": "1Cr 6:56",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 3:34",
+      "almeida1911": "Ne 4:2",
+      "part": null
     },
     {
-      "ref": "1Cr 6:57",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 3:38",
+      "almeida1911": "Ne 4:6",
+      "part": null
     },
     {
-      "ref": "1Cr 6:58",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 4:5",
+      "almeida1911": "Ne 4:11",
+      "part": null
     },
     {
-      "ref": "1Cr 6:59",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 4:7",
+      "almeida1911": "Ne 4:13",
+      "part": null
     },
     {
-      "ref": "1Cr 6:60",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 4:8",
+      "almeida1911": "Ne 4:14",
+      "part": null
     },
     {
-      "ref": "1Cr 6:61",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 4:9",
+      "almeida1911": "Ne 4:15",
+      "part": null
     },
     {
-      "ref": "1Cr 6:62",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 4:14",
+      "almeida1911": "Ne 4:20",
+      "part": null
     },
     {
-      "ref": "1Cr 6:63",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 10:30",
+      "almeida1911": "Ne 10:29",
+      "part": null
     },
     {
-      "ref": "1Cr 6:64",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 10:31",
+      "almeida1911": "Ne 10:30",
+      "part": null
     },
     {
-      "ref": "1Cr 6:65",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 10:32",
+      "almeida1911": "Ne 10:31",
+      "part": null
     },
     {
-      "ref": "1Cr 6:66",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
+      "mt": "Ne 10:36",
+      "almeida1911": "Ne 10:35",
+      "part": null
     },
     {
-      "ref": "1Cr 12:16",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 40)."
+      "mt": "Ne 10:37",
+      "almeida1911": "Ne 10:36",
+      "part": null
     },
     {
-      "ref": "1Cr 12:19",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 40)."
+      "mt": "Ne 10:38",
+      "almeida1911": "Ne 10:37",
+      "part": null
     },
     {
-      "ref": "1Cr 12:32",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 40)."
+      "mt": "Ne 10:39",
+      "almeida1911": "Ne 10:38",
+      "part": null
     },
     {
-      "ref": "1Cr 12:39",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 40)."
+      "mt": "Ne 10:40",
+      "almeida1911": "Ne 10:39",
+      "part": null
     },
     {
-      "ref": "2Cr 1:10",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Et 3:13",
+      "almeida1911": "Et 3:13",
+      "part": ".0"
     },
     {
-      "ref": "2Cr 1:11",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Et 5:2",
+      "almeida1911": "Et 5:2",
+      "part": ".0"
     },
     {
-      "ref": "2Cr 1:15",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
+      "mt": "Jó 41:26",
+      "almeida1911": "Jó 41:34",
+      "part": null
     },
     {
-      "ref": "2Cr 2:10",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 3:8",
+      "almeida1911": "Sl 3:7",
+      "part": null
     },
     {
-      "ref": "2Cr 2:11",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 9:13",
+      "almeida1911": "Sl 9:12",
+      "part": null
     },
     {
-      "ref": "2Cr 2:15",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 13:2",
+      "almeida1911": "Sl 13:1",
+      "part": null
     },
     {
-      "ref": "2Cr 2:17",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 31:6",
+      "almeida1911": "Sl 31:5",
+      "part": null
     },
     {
-      "ref": "2Cr 13:3",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 31:8",
+      "almeida1911": "Sl 31:7",
+      "part": null
     },
     {
-      "ref": "2Cr 13:9",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 31:24",
+      "almeida1911": "Sl 31:23",
+      "part": null
     },
     {
-      "ref": "2Cr 13:11",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 34:2",
+      "almeida1911": "Sl 34:1",
+      "part": null
     },
     {
-      "ref": "2Cr 13:13",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 34:5",
+      "almeida1911": "Sl 34:4",
+      "part": null
     },
     {
-      "ref": "2Cr 13:15",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 34:10",
+      "almeida1911": "Sl 34:9",
+      "part": null
     },
     {
-      "ref": "2Cr 13:19",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 34:19",
+      "almeida1911": "Sl 34:18",
+      "part": null
     },
     {
-      "ref": "2Cr 14:2",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 47:5",
+      "almeida1911": "Sl 47:4",
+      "part": null
     },
     {
-      "ref": "2Cr 14:3",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 51:20",
+      "almeida1911": "Sl 51:18",
+      "part": null
     },
     {
-      "ref": "2Cr 14:4",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 53:3",
+      "almeida1911": "Sl 53:2",
+      "part": null
     },
     {
-      "ref": "2Cr 14:6",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 67:8",
+      "almeida1911": "Sl 67:7",
+      "part": null
     },
     {
-      "ref": "2Cr 14:11",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 69:34",
+      "almeida1911": "Sl 69:33",
+      "part": null
     },
     {
-      "ref": "2Cr 14:13",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Sl 80:3",
+      "almeida1911": "Sl 80:2",
+      "part": null
     },
     {
-      "ref": "Ne 3:1",
-      "reason": "Contagens de versículos divergentes (WLC 38, ALM1911 32)."
+      "mt": "Sl 83:13",
+      "almeida1911": "Sl 83:12",
+      "part": null
     },
     {
-      "ref": "Ne 3:3",
-      "reason": "Contagens de versículos divergentes (WLC 38, ALM1911 32)."
+      "mt": "Sl 84:4",
+      "almeida1911": "Sl 84:3",
+      "part": null
     },
     {
-      "ref": "Ne 3:6",
-      "reason": "Contagens de versículos divergentes (WLC 38, ALM1911 32)."
+      "mt": "Sl 92:7",
+      "almeida1911": "Sl 92:6",
+      "part": null
     },
     {
-      "ref": "Ne 3:11",
-      "reason": "Contagens de versículos divergentes (WLC 38, ALM1911 32)."
+      "mt": "Sl 102:15",
+      "almeida1911": "Sl 102:14",
+      "part": null
     },
     {
-      "ref": "Ne 3:13",
-      "reason": "Contagens de versículos divergentes (WLC 38, ALM1911 32)."
+      "mt": "Sl 102:16",
+      "almeida1911": "Sl 102:15",
+      "part": null
     },
     {
-      "ref": "Ne 3:14",
-      "reason": "Contagens de versículos divergentes (WLC 38, ALM1911 32)."
+      "mt": "Sl 102:18",
+      "almeida1911": "Sl 102:17",
+      "part": null
     },
     {
-      "ref": "Ne 3:15",
-      "reason": "Contagens de versículos divergentes (WLC 38, ALM1911 32)."
+      "mt": "Sl 102:23",
+      "almeida1911": "Sl 102:22",
+      "part": null
     },
     {
-      "ref": "Ne 4:5",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 23)."
+      "mt": "Sl 142:8",
+      "almeida1911": "Sl 142:7",
+      "part": null
     },
     {
-      "ref": "Ne 4:7",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 23)."
+      "mt": "Ec 5:3",
+      "almeida1911": "Ec 5:4",
+      "part": null
     },
     {
-      "ref": "Ne 4:8",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 23)."
+      "mt": "Ec 5:5",
+      "almeida1911": "Ec 5:6",
+      "part": null
     },
     {
-      "ref": "Ne 4:9",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 23)."
+      "mt": "Ec 5:6",
+      "almeida1911": "Ec 5:7",
+      "part": null
     },
     {
-      "ref": "Ne 4:14",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 23)."
+      "mt": "Ec 5:18",
+      "almeida1911": "Ec 5:19",
+      "part": null
     },
     {
-      "ref": "Ne 7:2",
-      "reason": "Contagens de versículos divergentes (WLC 72, ALM1911 73)."
+      "mt": "Ec 5:19",
+      "almeida1911": "Ec 5:20",
+      "part": null
     },
     {
-      "ref": "Ne 7:5",
-      "reason": "Contagens de versículos divergentes (WLC 72, ALM1911 73)."
+      "mt": "Ct 7:13",
+      "almeida1911": "Ct 7:12",
+      "part": null
     },
     {
-      "ref": "Ne 9:5",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Is 9:3",
+      "almeida1911": "Is 9:4",
+      "part": null
     },
     {
-      "ref": "Ne 9:6",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Is 9:6",
+      "almeida1911": "Is 9:7",
+      "part": null
     },
     {
-      "ref": "Ne 9:8",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Is 9:10",
+      "almeida1911": "Is 9:11",
+      "part": null
     },
     {
-      "ref": "Ne 9:9",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Is 9:11",
+      "almeida1911": "Is 9:12",
+      "part": null
     },
     {
-      "ref": "Ne 9:11",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Is 9:12",
+      "almeida1911": "Is 9:13",
+      "part": null
     },
     {
-      "ref": "Ne 9:12",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Is 9:16",
+      "almeida1911": "Is 9:17",
+      "part": null
     },
     {
-      "ref": "Ne 9:14",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Is 9:20",
+      "almeida1911": "Is 9:21",
+      "part": null
     },
     {
-      "ref": "Ne 9:15",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Is 64:4",
+      "almeida1911": "Is 64:5",
+      "part": null
     },
     {
-      "ref": "Ne 9:16",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 8:23",
+      "almeida1911": "Jr 9:1",
+      "part": null
     },
     {
-      "ref": "Ne 9:17",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 9:1",
+      "almeida1911": "Jr 9:2",
+      "part": null
     },
     {
-      "ref": "Ne 9:19",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 9:2",
+      "almeida1911": "Jr 9:3",
+      "part": null
     },
     {
-      "ref": "Ne 9:22",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 9:5",
+      "almeida1911": "Jr 9:6",
+      "part": null
     },
     {
-      "ref": "Ne 9:24",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 9:10",
+      "almeida1911": "Jr 9:11",
+      "part": null
     },
     {
-      "ref": "Ne 9:26",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 9:11",
+      "almeida1911": "Jr 9:12",
+      "part": null
     },
     {
-      "ref": "Ne 9:32",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 9:12",
+      "almeida1911": "Jr 9:13",
+      "part": null
     },
     {
-      "ref": "Ne 9:34",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 9:14",
+      "almeida1911": "Jr 9:15",
+      "part": null
     },
     {
-      "ref": "Ne 9:36",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Jr 9:15",
+      "almeida1911": "Jr 9:16",
+      "part": null
     },
     {
-      "ref": "Ne 10:30",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Jr 9:23",
+      "almeida1911": "Jr 9:24",
+      "part": null
     },
     {
-      "ref": "Ne 10:31",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Ez 21:16",
+      "almeida1911": "Ez 21:11",
+      "part": null
     },
     {
-      "ref": "Ne 10:32",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Ez 21:25",
+      "almeida1911": "Ez 21:20",
+      "part": null
     },
     {
-      "ref": "Ne 10:36",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Ez 21:34",
+      "almeida1911": "Ez 21:29",
+      "part": null
     },
     {
-      "ref": "Ne 10:37",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Ez 21:35",
+      "almeida1911": "Ez 21:30",
+      "part": null
     },
     {
-      "ref": "Ne 10:38",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Os 2:6",
+      "almeida1911": "Os 2:4",
+      "part": null
     },
     {
-      "ref": "Ne 10:39",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
+      "mt": "Os 2:8",
+      "almeida1911": "Os 2:6",
+      "part": null
     },
     {
-      "ref": "Jó 40:1",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 24)."
+      "mt": "Os 2:9",
+      "almeida1911": "Os 2:7",
+      "part": null
     },
     {
-      "ref": "Jó 40:3",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 24)."
+      "mt": "Os 2:11",
+      "almeida1911": "Os 2:9",
+      "part": null
     },
     {
-      "ref": "Jó 40:6",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 24)."
+      "mt": "Os 2:12",
+      "almeida1911": "Os 2:10",
+      "part": null
     },
     {
-      "ref": "Jó 41:26",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 34)."
+      "mt": "Os 2:15",
+      "almeida1911": "Os 2:13",
+      "part": null
     },
     {
-      "ref": "Ec 4:1",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Os 2:17",
+      "almeida1911": "Os 2:15",
+      "part": null
     },
     {
-      "ref": "Ec 4:2",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Os 2:19",
+      "almeida1911": "Os 2:17",
+      "part": null
     },
     {
-      "ref": "Ec 4:3",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Os 2:22",
+      "almeida1911": "Os 2:20",
+      "part": null
     },
     {
-      "ref": "Ec 4:4",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Os 2:23",
+      "almeida1911": "Os 2:21",
+      "part": null
     },
     {
-      "ref": "Ec 4:5",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Os 2:24",
+      "almeida1911": "Os 2:22",
+      "part": null
     },
     {
-      "ref": "Ec 4:8",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Os 2:25",
+      "almeida1911": "Os 2:23",
+      "part": null
     },
     {
-      "ref": "Ec 4:10",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Os 12:4",
+      "almeida1911": "Os 12:3",
+      "part": null
     },
     {
-      "ref": "Ec 4:15",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 16)."
+      "mt": "Os 12:14",
+      "almeida1911": "Os 12:13",
+      "part": null
     },
     {
-      "ref": "Ec 5:3",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Jl 3:1",
+      "almeida1911": "Jl 2:28",
+      "part": null
     },
     {
-      "ref": "Ec 5:5",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Jl 3:2",
+      "almeida1911": "Jl 2:29",
+      "part": null
     },
     {
-      "ref": "Ec 5:6",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Jl 4:1",
+      "almeida1911": "Jl 3:1",
+      "part": null
     },
     {
-      "ref": "Ec 5:18",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Jl 4:2",
+      "almeida1911": "Jl 3:2",
+      "part": null
     },
     {
-      "ref": "Ec 5:19",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Jl 4:7",
+      "almeida1911": "Jl 3:7",
+      "part": null
     },
     {
-      "ref": "Ct 7:13",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 13)."
+      "mt": "Jl 4:8",
+      "almeida1911": "Jl 3:8",
+      "part": null
     },
     {
-      "ref": "Is 8:2",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Jl 4:12",
+      "almeida1911": "Jl 3:12",
+      "part": null
     },
     {
-      "ref": "Is 8:4",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Jl 4:18",
+      "almeida1911": "Jl 3:18",
+      "part": null
     },
     {
-      "ref": "Is 8:6",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Jn 2:1",
+      "almeida1911": "Jn 1:17",
+      "part": null
     },
     {
-      "ref": "Is 8:7",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Jn 2:8",
+      "almeida1911": "Jn 2:7",
+      "part": null
     },
     {
-      "ref": "Is 8:12",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Jn 2:11",
+      "almeida1911": "Jn 2:10",
+      "part": null
     },
     {
-      "ref": "Is 8:13",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Mq 4:14",
+      "almeida1911": "Mq 5:1",
+      "part": null
     },
     {
-      "ref": "Is 9:3",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Mq 5:5",
+      "almeida1911": "Mq 5:6",
+      "part": null
     },
     {
-      "ref": "Is 9:6",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Mq 5:14",
+      "almeida1911": "Mq 5:15",
+      "part": null
     },
     {
-      "ref": "Is 9:10",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Na 2:3",
+      "almeida1911": "Na 2:2",
+      "part": null
     },
     {
-      "ref": "Is 9:11",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Zc 2:1",
+      "almeida1911": "Zc 1:18",
+      "part": null
     },
     {
-      "ref": "Is 9:12",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Zc 2:2",
+      "almeida1911": "Zc 1:19",
+      "part": null
     },
     {
-      "ref": "Is 9:16",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Zc 2:4",
+      "almeida1911": "Zc 1:21",
+      "part": null
     },
     {
-      "ref": "Is 9:20",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Zc 2:6",
+      "almeida1911": "Zc 2:2",
+      "part": null
     },
     {
-      "ref": "Is 64:4",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 12)."
+      "mt": "Zc 2:10",
+      "almeida1911": "Zc 2:6",
+      "part": null
     },
     {
-      "ref": "Jr 8:1",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Zc 2:12",
+      "almeida1911": "Zc 2:8",
+      "part": null
     },
     {
-      "ref": "Jr 8:7",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Zc 2:13",
+      "almeida1911": "Zc 2:9",
+      "part": null
     },
     {
-      "ref": "Jr 8:10",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Zc 2:16",
+      "almeida1911": "Zc 2:12",
+      "part": null
     },
     {
-      "ref": "Jr 8:11",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Ml 3:19",
+      "almeida1911": "Ml 4:1",
+      "part": null
     },
     {
-      "ref": "Jr 8:17",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Ml 3:22",
+      "almeida1911": "Ml 4:4",
+      "part": null
     },
     {
-      "ref": "Jr 9:1",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Ml 3:23",
+      "almeida1911": "Ml 4:5",
+      "part": null
     },
     {
-      "ref": "Jr 9:2",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Ml 3:24",
+      "almeida1911": "Ml 4:6",
+      "part": null
     },
     {
-      "ref": "Jr 9:5",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Dt 29:19",
+      "almeida1911": "Dt 29:20",
+      "part": null
     },
     {
-      "ref": "Jr 9:10",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "2Cr 2:5",
+      "almeida1911": "2Cr 2:6",
+      "part": null
     },
     {
-      "ref": "Jr 9:11",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "2Cr 2:11",
+      "almeida1911": "2Cr 2:12",
+      "part": null
     },
     {
-      "ref": "Jr 9:12",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Jó 41:3",
+      "almeida1911": "Jó 41:11",
+      "part": null
     },
     {
-      "ref": "Jr 9:14",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Sl 8:2",
+      "almeida1911": "Sl 8:1",
+      "part": null
     },
     {
-      "ref": "Jr 9:15",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Sl 8:4",
+      "almeida1911": "Sl 8:3",
+      "part": null
     },
     {
-      "ref": "Jr 9:23",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Sl 8:9",
+      "almeida1911": "Sl 8:8",
+      "part": null
     },
     {
-      "ref": "Ez 20:1",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 18:10",
+      "almeida1911": "Sl 18:9",
+      "part": null
     },
     {
-      "ref": "Ez 20:3",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 18:14",
+      "almeida1911": "Sl 18:13",
+      "part": null
     },
     {
-      "ref": "Ez 20:4",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 19:2",
+      "almeida1911": "Sl 19:1",
+      "part": null
     },
     {
-      "ref": "Ez 20:8",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 19:7",
+      "almeida1911": "Sl 19:6",
+      "part": null
     },
     {
-      "ref": "Ez 20:11",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 20:7",
+      "almeida1911": "Sl 20:6",
+      "part": null
     },
     {
-      "ref": "Ez 20:12",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 36:6",
+      "almeida1911": "Sl 36:5",
+      "part": null
     },
     {
-      "ref": "Ez 20:13",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 53:3",
+      "almeida1911": "Sl 53:2",
+      "part": null
     },
     {
-      "ref": "Ez 20:15",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 57:4",
+      "almeida1911": "Sl 57:3",
+      "part": null
     },
     {
-      "ref": "Ez 20:16",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 57:6",
+      "almeida1911": "Sl 57:5",
+      "part": null
     },
     {
-      "ref": "Ez 20:17",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 57:11",
+      "almeida1911": "Sl 57:10",
+      "part": null
     },
     {
-      "ref": "Ez 20:18",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 57:12",
+      "almeida1911": "Sl 57:11",
+      "part": null
     },
     {
-      "ref": "Ez 20:19",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 68:9",
+      "almeida1911": "Sl 68:8",
+      "part": null
     },
     {
-      "ref": "Ez 20:20",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 68:34",
+      "almeida1911": "Sl 68:33",
+      "part": null
     },
     {
-      "ref": "Ez 20:21",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 69:35",
+      "almeida1911": "Sl 69:34",
+      "part": null
     },
     {
-      "ref": "Ez 20:22",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 76:9",
+      "almeida1911": "Sl 76:8",
+      "part": null
     },
     {
-      "ref": "Ez 20:23",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 80:15",
+      "almeida1911": "Sl 80:14",
+      "part": null
     },
     {
-      "ref": "Ez 20:24",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 85:12",
+      "almeida1911": "Sl 85:11",
+      "part": null
     },
     {
-      "ref": "Ez 20:26",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 89:3",
+      "almeida1911": "Sl 89:2",
+      "part": null
     },
     {
-      "ref": "Ez 20:27",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 89:6",
+      "almeida1911": "Sl 89:5",
+      "part": null
     },
     {
-      "ref": "Ez 20:28",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 89:12",
+      "almeida1911": "Sl 89:11",
+      "part": null
     },
     {
-      "ref": "Ez 20:34",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 89:30",
+      "almeida1911": "Sl 89:29",
+      "part": null
     },
     {
-      "ref": "Ez 20:35",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 102:20",
+      "almeida1911": "Sl 102:19",
+      "part": null
     },
     {
-      "ref": "Ez 20:37",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 102:26",
+      "almeida1911": "Sl 102:25",
+      "part": null
     },
     {
-      "ref": "Ez 20:38",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 108:5",
+      "almeida1911": "Sl 108:4",
+      "part": null
     },
     {
-      "ref": "Ez 20:39",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Sl 108:6",
+      "almeida1911": "Sl 108:5",
+      "part": null
     },
     {
-      "ref": "Ez 20:40",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Ec 5:1",
+      "almeida1911": "Ec 5:2",
+      "part": null
     },
     {
-      "ref": "Ez 20:41",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Jr 9:9",
+      "almeida1911": "Jr 9:10",
+      "part": null
     },
     {
-      "ref": "Ez 20:42",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Os 2:20",
+      "almeida1911": "Os 2:18",
+      "part": null
     },
     {
-      "ref": "Ez 20:43",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
+      "mt": "Os 2:23",
+      "almeida1911": "Os 2:21",
+      "part": null
     },
     {
-      "ref": "Ez 21:16",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 32)."
+      "mt": "Jl 3:3",
+      "almeida1911": "Jl 2:30",
+      "part": null
     },
     {
-      "ref": "Ez 21:25",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 32)."
+      "mt": "Jl 4:16",
+      "almeida1911": "Jl 3:16",
+      "part": null
     },
     {
-      "ref": "Os 1:3",
-      "reason": "Contagens de versículos divergentes (WLC 9, ALM1911 11)."
+      "mt": "Zc 2:10",
+      "almeida1911": "Zc 2:6",
+      "part": null
     },
     {
-      "ref": "Os 1:4",
-      "reason": "Contagens de versículos divergentes (WLC 9, ALM1911 11)."
+      "mt": "Gn 32:4",
+      "almeida1911": "Gn 32:3",
+      "part": null
     },
     {
-      "ref": "Os 1:5",
-      "reason": "Contagens de versículos divergentes (WLC 9, ALM1911 11)."
+      "mt": "Gn 32:10",
+      "almeida1911": "Gn 32:9",
+      "part": null
     },
     {
-      "ref": "Os 1:6",
-      "reason": "Contagens de versículos divergentes (WLC 9, ALM1911 11)."
+      "mt": "Êx 8:1",
+      "almeida1911": "Êx 8:5",
+      "part": null
     },
     {
-      "ref": "Os 1:7",
-      "reason": "Contagens de versículos divergentes (WLC 9, ALM1911 11)."
+      "mt": "Êx 8:2",
+      "almeida1911": "Êx 8:6",
+      "part": null
     },
     {
-      "ref": "Os 1:8",
-      "reason": "Contagens de versículos divergentes (WLC 9, ALM1911 11)."
+      "mt": "Êx 8:3",
+      "almeida1911": "Êx 8:7",
+      "part": null
     },
     {
-      "ref": "Os 2:6",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Êx 8:10",
+      "almeida1911": "Êx 8:14",
+      "part": null
     },
     {
-      "ref": "Os 2:8",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Êx 8:12",
+      "almeida1911": "Êx 8:16",
+      "part": null
     },
     {
-      "ref": "Os 2:9",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Êx 8:13",
+      "almeida1911": "Êx 8:17",
+      "part": null
     },
     {
-      "ref": "Os 2:11",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Êx 8:18",
+      "almeida1911": "Êx 8:22",
+      "part": null
     },
     {
-      "ref": "Os 2:12",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Êx 8:20",
+      "almeida1911": "Êx 8:24",
+      "part": null
     },
     {
-      "ref": "Os 2:15",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Êx 8:21",
+      "almeida1911": "Êx 8:25",
+      "part": null
     },
     {
-      "ref": "Os 2:17",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Êx 22:20",
+      "almeida1911": "Êx 22:21",
+      "part": null
     },
     {
-      "ref": "Os 2:19",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Dt 13:6",
+      "almeida1911": "Dt 13:5",
+      "part": null
     },
     {
-      "ref": "Os 2:22",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Dt 13:8",
+      "almeida1911": "Dt 13:7",
+      "part": null
     },
     {
-      "ref": "Os 2:23",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Dt 13:11",
+      "almeida1911": "Dt 13:10",
+      "part": null
     },
     {
-      "ref": "Os 12:4",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 14)."
+      "mt": "Dt 23:8",
+      "almeida1911": "Dt 23:7",
+      "part": null
     },
     {
-      "ref": "Os 12:14",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 14)."
+      "mt": "Dt 23:21",
+      "almeida1911": "Dt 23:20",
+      "part": null
     },
     {
-      "ref": "Jn 1:5",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
+      "mt": "Dt 28:69",
+      "almeida1911": "Dt 29:1",
+      "part": null
     },
     {
-      "ref": "Jn 1:9",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
+      "mt": "Dt 29:1",
+      "almeida1911": "Dt 29:2",
+      "part": null
     },
     {
-      "ref": "Jn 1:15",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
+      "mt": "Dt 29:7",
+      "almeida1911": "Dt 29:8",
+      "part": null
     },
     {
-      "ref": "Jn 1:16",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
+      "mt": "Dt 29:15",
+      "almeida1911": "Dt 29:16",
+      "part": null
     },
     {
-      "ref": "Jn 2:1",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 10)."
+      "mt": "Dt 29:21",
+      "almeida1911": "Dt 29:22",
+      "part": null
     },
     {
-      "ref": "Jn 2:8",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 10)."
+      "mt": "Dt 29:22",
+      "almeida1911": "Dt 29:23",
+      "part": null
     },
     {
-      "ref": "Mq 4:7",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 13)."
+      "mt": "Dt 29:23",
+      "almeida1911": "Dt 29:24",
+      "part": null
     },
     {
-      "ref": "Mq 5:5",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Dt 29:24",
+      "almeida1911": "Dt 29:25",
+      "part": null
     },
     {
-      "ref": "Mq 5:14",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
+      "mt": "Dt 29:26",
+      "almeida1911": "Dt 29:27",
+      "part": null
     },
     {
-      "ref": "Na 2:3",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 13)."
+      "mt": "Dt 29:27",
+      "almeida1911": "Dt 29:28",
+      "part": null
     },
     {
-      "ref": "Zc 1:6",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 21)."
+      "mt": "1Sm 21:12",
+      "almeida1911": "1Sm 21:11",
+      "part": null
     },
     {
-      "ref": "Zc 1:11",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 21)."
+      "mt": "1Sm 24:9",
+      "almeida1911": "1Sm 24:8",
+      "part": null
     },
     {
-      "ref": "Zc 1:12",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 21)."
+      "mt": "2Sm 19:10",
+      "almeida1911": "2Sm 19:9",
+      "part": null
     },
     {
-      "ref": "Zc 1:13",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 21)."
+      "mt": "1Rs 5:1",
+      "almeida1911": "1Rs 4:21",
+      "part": null
     },
     {
-      "ref": "Zc 1:17",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 21)."
+      "mt": "1Rs 5:14",
+      "almeida1911": "1Rs 4:34",
+      "part": null
     },
     {
-      "ref": "Zc 2:1",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "1Rs 22:47",
+      "almeida1911": "1Rs 22:46",
+      "part": null
     },
     {
-      "ref": "Zc 2:2",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "1Cr 6:40",
+      "almeida1911": "1Cr 6:55",
+      "part": null
     },
     {
-      "ref": "Zc 2:4",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "2Cr 2:11",
+      "almeida1911": "2Cr 2:12",
+      "part": null
     },
     {
-      "ref": "Zc 2:6",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "2Cr 2:16",
+      "almeida1911": "2Cr 2:17",
+      "part": null
     },
     {
-      "ref": "Zc 2:10",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "2Cr 13:23",
+      "almeida1911": "2Cr 14:1",
+      "part": null
     },
     {
-      "ref": "Zc 2:12",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "2Cr 14:5",
+      "almeida1911": "2Cr 14:6",
+      "part": null
     },
     {
-      "ref": "Zc 2:13",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "2Cr 14:6",
+      "almeida1911": "2Cr 14:7",
+      "part": null
     },
     {
-      "ref": "Dt 28:12",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Ne 3:36",
+      "almeida1911": "Ne 4:4",
+      "part": null
     },
     {
-      "ref": "Dt 28:23",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Ne 10:29",
+      "almeida1911": "Ne 10:28",
+      "part": null
     },
     {
-      "ref": "Dt 28:24",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Ne 10:31",
+      "almeida1911": "Ne 10:30",
+      "part": null
     },
     {
-      "ref": "Dt 28:26",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Ne 10:32",
+      "almeida1911": "Ne 10:31",
+      "part": null
     },
     {
-      "ref": "Dt 28:62",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 7:6",
+      "almeida1911": "Sl 7:5",
+      "part": null
     },
     {
-      "ref": "Dt 29:19",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Sl 8:2",
+      "almeida1911": "Sl 8:1",
+      "part": null
     },
     {
-      "ref": "2Sm 18:9",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "Sl 8:10",
+      "almeida1911": "Sl 8:9",
+      "part": null
     },
     {
-      "ref": "1Rs 22:19",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "Sl 12:7",
+      "almeida1911": "Sl 12:6",
+      "part": null
     },
     {
-      "ref": "2Cr 2:5",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 18:8",
+      "almeida1911": "Sl 18:7",
+      "part": null
     },
     {
-      "ref": "2Cr 2:11",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
+      "mt": "Sl 19:5",
+      "almeida1911": "Sl 19:4",
+      "part": null
     },
     {
-      "ref": "Ne 9:6",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 21:11",
+      "almeida1911": "Sl 21:10",
+      "part": null
     },
     {
-      "ref": "Ne 9:13",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 22:28",
+      "almeida1911": "Sl 22:27",
+      "part": null
     },
     {
-      "ref": "Ne 9:15",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 22:30",
+      "almeida1911": "Sl 22:29",
+      "part": null
     },
     {
-      "ref": "Ne 9:23",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 34:17",
+      "almeida1911": "Sl 34:16",
+      "part": null
     },
     {
-      "ref": "Ne 9:27",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 41:3",
+      "almeida1911": "Sl 41:2",
+      "part": null
     },
     {
-      "ref": "Ne 9:28",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
+      "mt": "Sl 42:7",
+      "almeida1911": "Sl 42:6",
+      "part": null
     },
     {
-      "ref": "Jó 41:3",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 34)."
+      "mt": "Sl 44:4",
+      "almeida1911": "Sl 44:3",
+      "part": null
     },
     {
-      "ref": "Ec 5:1",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
+      "mt": "Sl 44:26",
+      "almeida1911": "Sl 44:25",
+      "part": null
     },
     {
-      "ref": "Jr 8:2",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 45:17",
+      "almeida1911": "Sl 45:16",
+      "part": null
     },
     {
-      "ref": "Jr 8:7",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Sl 46:3",
+      "almeida1911": "Sl 46:2",
+      "part": null
     },
     {
-      "ref": "Jr 9:9",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
+      "mt": "Sl 46:7",
+      "almeida1911": "Sl 46:6",
+      "part": null
     },
     {
-      "ref": "Os 2:20",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Sl 46:9",
+      "almeida1911": "Sl 46:8",
+      "part": null
     },
     {
-      "ref": "Os 2:23",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
+      "mt": "Sl 46:10",
+      "almeida1911": "Sl 46:9",
+      "part": null
     },
     {
-      "ref": "Jn 1:9",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
+      "mt": "Sl 46:11",
+      "almeida1911": "Sl 46:10",
+      "part": null
     },
     {
-      "ref": "Zc 2:10",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "Sl 47:3",
+      "almeida1911": "Sl 47:2",
+      "part": null
     },
     {
-      "ref": "Gn 31:3",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 47:8",
+      "almeida1911": "Sl 47:7",
+      "part": null
     },
     {
-      "ref": "Gn 31:13",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 47:10",
+      "almeida1911": "Sl 47:9",
+      "part": null
     },
     {
-      "ref": "Gn 31:18",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 55)."
+      "mt": "Sl 48:3",
+      "almeida1911": "Sl 48:2",
+      "part": null
     },
     {
-      "ref": "Gn 32:4",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 48:11",
+      "almeida1911": "Sl 48:10",
+      "part": null
     },
     {
-      "ref": "Gn 32:10",
-      "reason": "Contagens de versículos divergentes (WLC 33, ALM1911 32)."
+      "mt": "Sl 52:7",
+      "almeida1911": "Sl 52:5",
+      "part": null
     },
     {
-      "ref": "Êx 7:2",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 57:6",
+      "almeida1911": "Sl 57:5",
+      "part": null
     },
     {
-      "ref": "Êx 7:3",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 57:12",
+      "almeida1911": "Sl 57:11",
+      "part": null
     },
     {
-      "ref": "Êx 7:4",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 58:3",
+      "almeida1911": "Sl 58:2",
+      "part": null
     },
     {
-      "ref": "Êx 7:19",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 58:12",
+      "almeida1911": "Sl 58:11",
+      "part": null
     },
     {
-      "ref": "Êx 7:21",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 25)."
+      "mt": "Sl 59:14",
+      "almeida1911": "Sl 59:13",
+      "part": null
     },
     {
-      "ref": "Êx 8:1",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 60:4",
+      "almeida1911": "Sl 60:2",
+      "part": null
     },
     {
-      "ref": "Êx 8:2",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 61:3",
+      "almeida1911": "Sl 61:2",
+      "part": null
     },
     {
-      "ref": "Êx 8:3",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 63:2",
+      "almeida1911": "Sl 63:1",
+      "part": null
     },
     {
-      "ref": "Êx 8:10",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 63:10",
+      "almeida1911": "Sl 63:9",
+      "part": null
     },
     {
-      "ref": "Êx 8:12",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 65:6",
+      "almeida1911": "Sl 65:5",
+      "part": null
     },
     {
-      "ref": "Êx 8:13",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 65:10",
+      "almeida1911": "Sl 65:9",
+      "part": null
     },
     {
-      "ref": "Êx 8:18",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 67:3",
+      "almeida1911": "Sl 67:2",
+      "part": null
     },
     {
-      "ref": "Êx 8:20",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 67:5",
+      "almeida1911": "Sl 67:4",
+      "part": null
     },
     {
-      "ref": "Êx 8:21",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 32)."
+      "mt": "Sl 67:7",
+      "almeida1911": "Sl 67:6",
+      "part": null
     },
     {
-      "ref": "Êx 22:20",
-      "reason": "Contagens de versículos divergentes (WLC 30, ALM1911 31)."
+      "mt": "Sl 67:8",
+      "almeida1911": "Sl 67:7",
+      "part": null
     },
     {
-      "ref": "Nm 16:13",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Sl 68:9",
+      "almeida1911": "Sl 68:8",
+      "part": null
     },
     {
-      "ref": "Nm 16:14",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Sl 68:33",
+      "almeida1911": "Sl 68:32",
+      "part": null
     },
     {
-      "ref": "Nm 16:32",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Sl 69:35",
+      "almeida1911": "Sl 69:34",
+      "part": null
     },
     {
-      "ref": "Nm 16:33",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Sl 75:4",
+      "almeida1911": "Sl 75:3",
+      "part": null
     },
     {
-      "ref": "Nm 16:34",
-      "reason": "Contagens de versículos divergentes (WLC 35, ALM1911 50)."
+      "mt": "Sl 75:9",
+      "almeida1911": "Sl 75:8",
+      "part": null
     },
     {
-      "ref": "Dt 12:1",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Sl 76:9",
+      "almeida1911": "Sl 76:8",
+      "part": null
     },
     {
-      "ref": "Dt 12:10",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Sl 76:10",
+      "almeida1911": "Sl 76:9",
+      "part": null
     },
     {
-      "ref": "Dt 12:16",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Sl 76:13",
+      "almeida1911": "Sl 76:12",
+      "part": null
     },
     {
-      "ref": "Dt 12:24",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Sl 77:19",
+      "almeida1911": "Sl 77:18",
+      "part": null
     },
     {
-      "ref": "Dt 12:29",
-      "reason": "Contagens de versículos divergentes (WLC 31, ALM1911 32)."
+      "mt": "Sl 80:10",
+      "almeida1911": "Sl 80:9",
+      "part": null
     },
     {
-      "ref": "Dt 13:6",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Sl 81:6",
+      "almeida1911": "Sl 81:5",
+      "part": null
     },
     {
-      "ref": "Dt 13:8",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Sl 81:11",
+      "almeida1911": "Sl 81:10",
+      "part": null
     },
     {
-      "ref": "Dt 13:11",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 18)."
+      "mt": "Sl 83:19",
+      "almeida1911": "Sl 83:18",
+      "part": null
     },
     {
-      "ref": "Dt 22:6",
-      "reason": "Contagens de versículos divergentes (WLC 29, ALM1911 30)."
+      "mt": "Sl 85:2",
+      "almeida1911": "Sl 85:1",
+      "part": null
     },
     {
-      "ref": "Dt 23:8",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Sl 85:10",
+      "almeida1911": "Sl 85:9",
+      "part": null
     },
     {
-      "ref": "Dt 23:21",
-      "reason": "Contagens de versículos divergentes (WLC 26, ALM1911 25)."
+      "mt": "Sl 85:12",
+      "almeida1911": "Sl 85:11",
+      "part": null
     },
     {
-      "ref": "Dt 28:1",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 85:13",
+      "almeida1911": "Sl 85:12",
+      "part": null
     },
     {
-      "ref": "Dt 28:8",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 88:13",
+      "almeida1911": "Sl 88:12",
+      "part": null
     },
     {
-      "ref": "Dt 28:10",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 89:12",
+      "almeida1911": "Sl 89:11",
+      "part": null
     },
     {
-      "ref": "Dt 28:12",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 89:28",
+      "almeida1911": "Sl 89:27",
+      "part": null
     },
     {
-      "ref": "Dt 28:23",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 89:40",
+      "almeida1911": "Sl 89:39",
+      "part": null
     },
     {
-      "ref": "Dt 28:24",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 89:45",
+      "almeida1911": "Sl 89:44",
+      "part": null
     },
     {
-      "ref": "Dt 28:25",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 102:16",
+      "almeida1911": "Sl 102:15",
+      "part": null
     },
     {
-      "ref": "Dt 28:26",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 102:20",
+      "almeida1911": "Sl 102:19",
+      "part": null
     },
     {
-      "ref": "Dt 28:49",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 102:26",
+      "almeida1911": "Sl 102:25",
+      "part": null
     },
     {
-      "ref": "Dt 28:52",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 108:6",
+      "almeida1911": "Sl 108:5",
+      "part": null
     },
     {
-      "ref": "Dt 28:56",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 140:12",
+      "almeida1911": "Sl 140:11",
+      "part": null
     },
     {
-      "ref": "Dt 28:64",
-      "reason": "Contagens de versículos divergentes (WLC 69, ALM1911 68)."
+      "mt": "Sl 142:6",
+      "almeida1911": "Sl 142:5",
+      "part": null
     },
     {
-      "ref": "Dt 29:1",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Ec 5:1",
+      "almeida1911": "Ec 5:2",
+      "part": null
     },
     {
-      "ref": "Dt 29:7",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Ec 5:8",
+      "almeida1911": "Ec 5:9",
+      "part": null
     },
     {
-      "ref": "Dt 29:15",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Is 8:23",
+      "almeida1911": "Is 9:1",
+      "part": null
     },
     {
-      "ref": "Dt 29:21",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Is 9:1",
+      "almeida1911": "Is 9:2",
+      "part": null
     },
     {
-      "ref": "Dt 29:22",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Is 9:18",
+      "almeida1911": "Is 9:19",
+      "part": null
     },
     {
-      "ref": "Dt 29:23",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Jr 9:2",
+      "almeida1911": "Jr 9:3",
+      "part": null
     },
     {
-      "ref": "Dt 29:24",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Jr 9:11",
+      "almeida1911": "Jr 9:12",
+      "part": null
     },
     {
-      "ref": "Dt 29:26",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Jr 9:18",
+      "almeida1911": "Jr 9:19",
+      "part": null
     },
     {
-      "ref": "Dt 29:27",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Jr 9:23",
+      "almeida1911": "Jr 9:24",
+      "part": null
     },
     {
-      "ref": "1Sm 21:12",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 15)."
+      "mt": "Ez 21:24",
+      "almeida1911": "Ez 21:19",
+      "part": null
     },
     {
-      "ref": "1Sm 23:23",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Ez 21:35",
+      "almeida1911": "Ez 21:30",
+      "part": null
     },
     {
-      "ref": "1Sm 23:27",
-      "reason": "Contagens de versículos divergentes (WLC 28, ALM1911 29)."
+      "mt": "Ez 21:37",
+      "almeida1911": "Ez 21:32",
+      "part": null
     },
     {
-      "ref": "1Sm 24:9",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
+      "mt": "Os 2:2",
+      "almeida1911": "Os 1:11",
+      "part": null
     },
     {
-      "ref": "2Sm 18:8",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "Os 2:5",
+      "almeida1911": "Os 2:3",
+      "part": null
     },
     {
-      "ref": "2Sm 18:9",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "Os 2:17",
+      "almeida1911": "Os 2:15",
+      "part": null
     },
     {
-      "ref": "2Sm 18:11",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "Os 2:20",
+      "almeida1911": "Os 2:18",
+      "part": null
     },
     {
-      "ref": "2Sm 18:28",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 33)."
+      "mt": "Os 2:23",
+      "almeida1911": "Os 2:21",
+      "part": null
     },
     {
-      "ref": "2Sm 19:10",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 43)."
+      "mt": "Os 2:24",
+      "almeida1911": "Os 2:22",
+      "part": null
     },
     {
-      "ref": "1Rs 4:10",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 34)."
+      "mt": "Os 2:25",
+      "almeida1911": "Os 2:23",
+      "part": null
     },
     {
-      "ref": "1Rs 4:19",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 34)."
+      "mt": "Os 12:10",
+      "almeida1911": "Os 12:9",
+      "part": null
     },
     {
-      "ref": "1Rs 5:1",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "Jl 3:3",
+      "almeida1911": "Jl 2:30",
+      "part": null
     },
     {
-      "ref": "1Rs 5:14",
-      "reason": "Contagens de versículos divergentes (WLC 32, ALM1911 18)."
+      "mt": "Jl 4:2",
+      "almeida1911": "Jl 3:2",
+      "part": null
     },
     {
-      "ref": "1Rs 22:36",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "Jl 4:16",
+      "almeida1911": "Jl 3:16",
+      "part": null
     },
     {
-      "ref": "1Rs 22:47",
-      "reason": "Contagens de versículos divergentes (WLC 54, ALM1911 53)."
+      "mt": "Jl 4:19",
+      "almeida1911": "Jl 3:19",
+      "part": null
     },
     {
-      "ref": "2Rs 11:3",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Jn 2:7",
+      "almeida1911": "Jn 2:6",
+      "part": null
     },
     {
-      "ref": "2Rs 11:14",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Mq 5:3",
+      "almeida1911": "Mq 5:4",
+      "part": null
     },
     {
-      "ref": "2Rs 11:18",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Mq 5:4",
+      "almeida1911": "Mq 5:5",
+      "part": null
     },
     {
-      "ref": "2Rs 11:19",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Mq 5:5",
+      "almeida1911": "Mq 5:6",
+      "part": null
     },
     {
-      "ref": "2Rs 11:20",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
+      "mt": "Mq 5:10",
+      "almeida1911": "Mq 5:11",
+      "part": null
     },
     {
-      "ref": "1Cr 5:9",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
+      "mt": "Na 2:14",
+      "almeida1911": "Na 2:13",
+      "part": null
     },
     {
-      "ref": "1Cr 5:11",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
+      "mt": "Zc 2:4",
+      "almeida1911": "Zc 1:21",
+      "part": null
     },
     {
-      "ref": "1Cr 5:23",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
+      "mt": "Zc 2:10",
+      "almeida1911": "Zc 2:6",
+      "part": null
     },
     {
-      "ref": "1Cr 5:25",
-      "reason": "Contagens de versículos divergentes (WLC 41, ALM1911 26)."
-    },
-    {
-      "ref": "1Cr 6:40",
-      "reason": "Contagens de versículos divergentes (WLC 66, ALM1911 81)."
-    },
-    {
-      "ref": "2Cr 1:9",
-      "reason": "Contagens de versículos divergentes (WLC 18, ALM1911 17)."
-    },
-    {
-      "ref": "2Cr 2:11",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
-    },
-    {
-      "ref": "2Cr 2:16",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 18)."
-    },
-    {
-      "ref": "2Cr 13:9",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
-    },
-    {
-      "ref": "2Cr 14:5",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
-    },
-    {
-      "ref": "2Cr 14:6",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
-    },
-    {
-      "ref": "Ne 9:6",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:8",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:10",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:15",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:22",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:23",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:24",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:30",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:35",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 9:36",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 38)."
-    },
-    {
-      "ref": "Ne 10:29",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
-    },
-    {
-      "ref": "Ne 10:31",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
-    },
-    {
-      "ref": "Ne 10:32",
-      "reason": "Contagens de versículos divergentes (WLC 40, ALM1911 39)."
-    },
-    {
-      "ref": "Ec 5:1",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
-    },
-    {
-      "ref": "Ec 5:8",
-      "reason": "Contagens de versículos divergentes (WLC 19, ALM1911 20)."
-    },
-    {
-      "ref": "Is 8:8",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
-    },
-    {
-      "ref": "Is 8:9",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
-    },
-    {
-      "ref": "Is 8:22",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
-    },
-    {
-      "ref": "Is 9:1",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
-    },
-    {
-      "ref": "Is 9:18",
-      "reason": "Contagens de versículos divergentes (WLC 20, ALM1911 21)."
-    },
-    {
-      "ref": "Jr 8:16",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
-    },
-    {
-      "ref": "Jr 8:19",
-      "reason": "Contagens de versículos divergentes (WLC 23, ALM1911 22)."
-    },
-    {
-      "ref": "Jr 9:2",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
-    },
-    {
-      "ref": "Jr 9:11",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
-    },
-    {
-      "ref": "Jr 9:18",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
-    },
-    {
-      "ref": "Jr 9:23",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 26)."
-    },
-    {
-      "ref": "Ez 20:5",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:6",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:8",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:9",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:10",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:15",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:23",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:28",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:32",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:34",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:36",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:38",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:40",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:41",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 20:42",
-      "reason": "Contagens de versículos divergentes (WLC 44, ALM1911 49)."
-    },
-    {
-      "ref": "Ez 21:24",
-      "reason": "Contagens de versículos divergentes (WLC 37, ALM1911 32)."
-    },
-    {
-      "ref": "Os 1:2",
-      "reason": "Contagens de versículos divergentes (WLC 9, ALM1911 11)."
-    },
-    {
-      "ref": "Os 2:2",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
-    },
-    {
-      "ref": "Os 2:5",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
-    },
-    {
-      "ref": "Os 2:17",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
-    },
-    {
-      "ref": "Os 2:20",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
-    },
-    {
-      "ref": "Os 2:23",
-      "reason": "Contagens de versículos divergentes (WLC 25, ALM1911 23)."
-    },
-    {
-      "ref": "Os 11:5",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 12)."
-    },
-    {
-      "ref": "Os 11:11",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 12)."
-    },
-    {
-      "ref": "Os 12:10",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 14)."
-    },
-    {
-      "ref": "Os 13:4",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 16)."
-    },
-    {
-      "ref": "Os 13:5",
-      "reason": "Contagens de versículos divergentes (WLC 15, ALM1911 16)."
-    },
-    {
-      "ref": "Jn 1:8",
-      "reason": "Contagens de versículos divergentes (WLC 16, ALM1911 17)."
-    },
-    {
-      "ref": "Jn 2:7",
-      "reason": "Contagens de versículos divergentes (WLC 11, ALM1911 10)."
-    },
-    {
-      "ref": "Mq 4:13",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 13)."
-    },
-    {
-      "ref": "Mq 5:3",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
-    },
-    {
-      "ref": "Mq 5:4",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
-    },
-    {
-      "ref": "Mq 5:5",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
-    },
-    {
-      "ref": "Mq 5:10",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
-    },
-    {
-      "ref": "Na 1:5",
-      "reason": "Contagens de versículos divergentes (WLC 14, ALM1911 15)."
-    },
-    {
-      "ref": "Zc 1:10",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 21)."
-    },
-    {
-      "ref": "Zc 1:11",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 21)."
-    },
-    {
-      "ref": "Zc 2:4",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
-    },
-    {
-      "ref": "Zc 2:10",
-      "reason": "Contagens de versículos divergentes (WLC 17, ALM1911 13)."
+      "mt": "Ml 3:24",
+      "almeida1911": "Ml 4:6",
+      "part": null
     }
   ],
   "counts": {
@@ -4002,6 +4281,7 @@
   ],
   "errors": [],
   "totalItems": 11708,
-  "alignmentUnavailableCount": 71,
-  "alignmentWarningCount": 902
+  "alignmentUnavailableCount": 5,
+  "alignmentWarningCount": 0,
+  "numberOfMappedReferences": 830
 }
