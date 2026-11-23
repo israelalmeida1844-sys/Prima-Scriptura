@@ -1,5 +1,5 @@
 name: Completar Gênesis 1:1 — JSON integral e seis concordâncias
-# Revisão sintática do gerador verificada; repetir geração e auditoria.
+# Alinhar versificação WLC -> Almeida 1911 via tabela STEPBible TVTMS MT→English.
 on:
   push:
     branches: [rascunho/genesis]
