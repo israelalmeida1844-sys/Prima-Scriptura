@@ -6,6 +6,7 @@ import lexicon1 from '../data/lexico-grego/apocalipse-1-1.json';
 import lexicon2 from '../data/lexico-grego/apocalipse-1-2.json';
 import lexicon38 from '../data/lexico-grego/apocalipse-1-3-8.json';
 import lexicon920 from '../data/lexico-grego/apocalipse-1-9-20.json';
+import lexicon2_1_12 from '../data/lexico-grego/apocalipse-2-1-12.json';
 
 type Example = {
   reference: string;
@@ -29,7 +30,7 @@ type Entry = {
   senses: Sense[];
 };
 
-const entries = { ...lexicon920.entries, ...lexicon38.entries, ...lexicon1.entries, ...lexicon2.entries } as Record<string, Entry>;
+const entries = { ...lexicon2_1_12.entries, ...lexicon920.entries, ...lexicon38.entries, ...lexicon1.entries, ...lexicon2.entries } as Record<string, Entry>;
 
 export function lemmaForStrong(strong: string): Entry | undefined {
   return entries[strong];
