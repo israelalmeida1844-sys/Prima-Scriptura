@@ -16,7 +16,7 @@ const htmlDecode=s=>s.replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&apo
 function parseWord(attrs,body){
  const lemma=attrs.match(/\blemma="([^"]+)"/)?.[1]??'';
  const strongs=[...new Set(lemma.split(/[\/\s]+/).filter(n=>/^\d{1,5}$/.test(n)).map(n=>'H'+Number(n)))];
- const hebrew=htmlDecode(body.replace(/<[^>]*>/g,'')).replace(accent,'').trim();
+ const hebrew=htmlDecode(body.replace(/<[^>]*>/g,'')).replace(/\//g,'').replace(accent,'').trim();
  return {strongs,hebrew};
 }
 function extract(xml,ref,requestedStrong) {
