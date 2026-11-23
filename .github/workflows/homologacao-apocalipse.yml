@@ -38,6 +38,8 @@ jobs:
         run: node scripts/normalizar-transliteracao-apocalipse.mjs
       - name: Gerar concordancias gregas exaustivas
         run: node scripts/generate-apocalipse-1-9-20-concordancias.mjs
+      - name: Sincronizar notas com glosas revistas
+        run: node scripts/ajustar-explicacoes-interlinear-apocalipse.mjs
       - name: Auditar filologia dos 276 tokens
         id: philology
         run: node scripts/auditar-filologia-apocalipse.mjs
