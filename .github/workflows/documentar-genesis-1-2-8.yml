@@ -1,0 +1,59 @@
+name: Documentar e conferir Gênesis 1:2–8 (rascunho)
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/documentar-genesis-1-2-8.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  documentar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Gerar sete comentários palavra por palavra e relatório consolidado
+        run: node scripts/gerar-notas-genesis-1-2-8.mjs
+      - name: Auditar integridade das sete notas e preservar Gn 1:1
+        run: |
+          for v in {2..8}; do
+            test -s src/editorial/genesis/NOTAS-COMPLETAS-GENESIS-1-$v.md
+            grep -q "GEN.1.$v" src/editorial/genesis/NOTAS-COMPLETAS-GENESIS-1-$v.md
+            test -s src/editorial/genesis/GEN.1.$v-estruturado-completo.json
+            test -s src/editorial/genesis/GEN.1.$v-auditoria-de-fonte.json
+          done
+          test -s src/editorial/genesis/RELATORIO-ESTRUTURACAO-GENESIS-1-2-8.md
+          test -s src/editorial/genesis/GEN.1.1-estruturado-completo.json
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          for(let v=2;v<=8;v++){
+            const j=JSON.parse(fs.readFileSync('src/editorial/genesis/GEN.1.'+v+'-estruturado-completo.json','utf8'));
+            const note=fs.readFileSync('src/editorial/genesis/NOTAS-COMPLETAS-GENESIS-1-'+v+'.md','utf8');
+            for(const t of j.tokens)if(!note.includes(t.id.split('.').at(-1)+'. '+t.surfaceHe+' — '+t.strong))throw Error('Nota omissa '+t.id);
+          }
+          console.log('Sete notas filológicas incluem todas as 83 palavras em Gn 1:2–8.');
+          JS
+      - name: Salvar somente notas em rascunho/genesis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/editorial/genesis/NOTAS-COMPLETAS-GENESIS-1-{2..8}.md
+          git add src/editorial/genesis/RELATORIO-ESTRUTURACAO-GENESIS-1-2-8.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Adicionar sete notas exegéticas e relatório consolidado para Gn 1:2–8 (rascunho)"
+            git pull --rebase origin rascunho/genesis
+            git push origin HEAD:rascunho/genesis
+          fi
+      - name: Anexar notas e relatório para revisão editorial
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: genesis-1-2-8-notas-e-relatorio
+          path: |
+            src/editorial/genesis/NOTAS-COMPLETAS-GENESIS-1-{2..8}.md
+            src/editorial/genesis/RELATORIO-ESTRUTURACAO-GENESIS-1-2-8.md
+          if-no-files-found: warn
