@@ -1,0 +1,117 @@
+{
+  "strong": "G4147",
+  "lemma": "πλουτέω",
+  "lemmaTranslit": "plouteō",
+  "tokenCount": 12,
+  "verseCount": 12,
+  "bookDistribution": {
+    "Lucas": 2,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "1 Timóteo": 2,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 53,
+      "reference": "Lk 1:53",
+      "text": "καὶ πλουτοῦντας ἐξαπέστειλεν",
+      "highlightedWord": "πλουτοῦντας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Lk 12:21",
+      "text": "θεὸν πλουτῶν.",
+      "highlightedWord": "πλουτῶν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Ro 10:12",
+      "text": "πάντων, πλουτῶν εἰς",
+      "highlightedWord": "πλουτῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Co 4:8",
+      "text": "ἤδη ἐπλουτήσατε, χωρὶς",
+      "highlightedWord": "ἐπλουτήσατε,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "2Co 8:9",
+      "text": "πτωχείᾳ πλουτήσητε.",
+      "highlightedWord": "πλουτήσητε."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Ti 6:9",
+      "text": "βουλόμενοι πλουτεῖν ἐμπίπτουσιν",
+      "highlightedWord": "πλουτεῖν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "1Ti 6:18",
+      "text": "ἀγαθοεργεῖν, πλουτεῖν ἐν",
+      "highlightedWord": "πλουτεῖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "καὶ πεπλούτηκα καὶ",
+      "highlightedWord": "πεπλούτηκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "ἵνα πλουτήσῃς, καὶ",
+      "highlightedWord": "πλουτήσῃς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Re 18:3",
+      "text": "αὐτῆς ἐπλούτησαν.",
+      "highlightedWord": "ἐπλούτησαν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Re 18:15",
+      "text": "οἱ πλουτήσαντες ἀπ’",
+      "highlightedWord": "πλουτήσαντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "ᾗ ἐπλούτησαν πάντες",
+      "highlightedWord": "ἐπλούτησαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
