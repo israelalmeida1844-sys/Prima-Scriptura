@@ -1,0 +1,62 @@
+{
+  "edition": "SBLGNT / MorphGNT 6.12",
+  "chapter": "Apocalipse 3",
+  "scope": "3:1–22",
+  "auditDate": "2026-11-23",
+  "sources": {
+    "morphgntCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+    "morphgntBlob": "bf6fde5561b55eef837ae05067d270cdbc858c25",
+    "lemmaMapBlob": "a5cd101e445e51eb67fe05aceb06a14b991d41f2"
+  },
+  "verseTokenCounts": [
+    33,
+    20,
+    26,
+    21,
+    33,
+    10,
+    29,
+    30,
+    34,
+    28,
+    11,
+    52,
+    10,
+    24,
+    15,
+    16,
+    27,
+    32,
+    11,
+    29,
+    24,
+    10
+  ],
+  "verses": 22,
+  "tokens": 525,
+  "uniqueLemmas": 170,
+  "lemmasWithDirectStrongMapping": 169,
+  "unmappedLemmas": [
+    {
+      "lemma": "ζηλεύω",
+      "reference": "Apocalipse 3:19",
+      "status": "requer decisão editorial em mapeamento de variantes de lema",
+      "candidateStrong": "G2206",
+      "independentLexicalEvidence": [
+        "https://www.blueletterbible.org/lexicon/g2206/nasb20/mgnt/",
+        "https://biblehub.com/thayers/2206.htm"
+      ],
+      "note": "Há também indexação moderna distinta em algumas fontes (G6041); documentar critério e não inventar equivalência sem aprovação."
+    }
+  ],
+  "observedSurfaceRecordsValid": 525,
+  "morphologyCodeFormatValid": 525,
+  "sblgntComparativeApparatusUnits": 22,
+  "limitations": [
+    "Cotejo estrutural dos 525 tokens do corpus realizado em memória, sem geração de interlinear Astro.",
+    "Identidade dos testemunhos manuscritos ainda não foi colacionada; aparato SBLGNT compara edições.",
+    "Decisão editorial de Strong para ζηλεύω pendente.",
+    "Fichas lexicais e glosas contextuais das 525 palavras ainda não homologadas.",
+    "Build Astro e rotas de Apocalipse 3 não confirmados."
+  ]
+}
