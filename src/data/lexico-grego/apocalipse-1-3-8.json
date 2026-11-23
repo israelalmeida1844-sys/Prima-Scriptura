@@ -15,12 +15,12 @@
           "definition": "feliz; bem-aventurado",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "μακάριος ὁ",
               "wordForm": "μακάριος",
-              "translation": "Expressão no contexto: feliz.",
+              "translation": "feliz o",
               "explanation": "O adjetivo inaugura a primeira das sete bem-aventuranças de Apocalipse (cf. 14:13; 16:15; 19:9; 20:6; 22:7,14).",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -38,12 +38,12 @@
           "definition": "ler em voz alta; ler",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "ὁ ἀναγινώσκων καὶ",
               "wordForm": "ἀναγινώσκων",
-              "translation": "Expressão no contexto: que lê.",
+              "translation": "o que lê e",
               "explanation": "O particípio singular sugere quem lê publicamente a mensagem diante da comunidade; distingue-se dos ouvintes no plural.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -61,12 +61,12 @@
           "definition": "ouvir; escutar",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "οἱ ἀκούοντες τοὺς",
               "wordForm": "ἀκούοντες",
-              "translation": "Expressão no contexto: que ouvem.",
+              "translation": "os que ouvem os",
               "explanation": "Os ouvintes são apresentados no plural, sinalizando a recepção comunitária da profecia.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -84,12 +84,12 @@
           "definition": "profecia; mensagem profética",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "τῆς προφητείας καὶ",
               "wordForm": "προφητείας",
-              "translation": "Expressão no contexto: profecia.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "da profecia e",
+              "explanation": "A forma προφητείας é substantivo genitivo singular feminino do lema προφητεία; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -107,12 +107,12 @@
           "definition": "guardar; observar; preservar",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "καὶ τηροῦντες τὰ",
               "wordForm": "τηροῦντες",
-              "translation": "Expressão no contexto: guardam.",
+              "translation": "e guardam as coisas",
               "explanation": "O presente participial associa a escuta da profecia à prática perseverante do conteúdo ouvido.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -130,12 +130,12 @@
           "definition": "escrever; registrar",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "αὐτῇ γεγραμμένα, ὁ",
               "wordForm": "γεγραμμένα,",
-              "translation": "Expressão no contexto: escritas.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "nela escritas o",
+              "explanation": "A forma γεγραμμένα, é verbo perfeito passivo particípio acusativo plural neutro do lema γράφω; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -153,12 +153,12 @@
           "definition": "pois; porque",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "ὁ γὰρ καιρὸς",
               "wordForm": "γὰρ",
-              "translation": "Expressão no contexto: pois.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "o pois tempo oportuno",
+              "explanation": "A forma γὰρ é conjunção (indeclinável) do lema γάρ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -176,12 +176,12 @@
           "definition": "tempo oportuno; ocasião determinada",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "γὰρ καιρὸς ἐγγύς.",
               "wordForm": "καιρὸς",
-              "translation": "Expressão no contexto: tempo oportuno.",
+              "translation": "pois tempo oportuno perto",
               "explanation": "O tempo designado é apresentado como próximo; não se deve deduzir calendário preciso apenas do substantivo.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -199,12 +199,12 @@
           "definition": "perto; próximo",
           "examples": [
             {
-              "reference": "Ap 1:3",
+              "reference": "Apocalipse 1:3",
               "greek": "καιρὸς ἐγγύς.",
               "wordForm": "ἐγγύς.",
-              "translation": "Expressão no contexto: perto.",
+              "translation": "tempo oportuno perto",
               "explanation": "Predicativo adverbial «perto», sem necessidade de verbo explícito na oração grega.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -222,12 +222,12 @@
           "definition": "sete",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "ταῖς ἑπτὰ ἐκκλησίαις",
               "wordForm": "ἑπτὰ",
-              "translation": "Expressão no contexto: sete.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "às sete assembleia",
+              "explanation": "A forma ἑπτὰ é adjetivo dativo plural feminino do lema ἑπτά; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -245,12 +245,12 @@
           "definition": "assembleia; igreja",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "ἑπτὰ ἐκκλησίαις ταῖς",
               "wordForm": "ἐκκλησίαις",
-              "translation": "Expressão no contexto: assembleia.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "sete assembleia às",
+              "explanation": "A forma ἐκκλησίαις é substantivo dativo plural feminino do lema ἐκκλησία; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -268,12 +268,12 @@
           "definition": "Ásia (província romana)",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "τῇ Ἀσίᾳ· χάρις",
               "wordForm": "Ἀσίᾳ·",
-              "translation": "Expressão no contexto: Ásia (província romana).",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "na Ásia (província romana) graça",
+              "explanation": "A forma Ἀσίᾳ· é substantivo dativo singular feminino do lema Ἀσία; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -291,12 +291,12 @@
           "definition": "graça; favor",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "Ἀσίᾳ· χάρις ὑμῖν",
               "wordForm": "χάρις",
-              "translation": "Expressão no contexto: graça.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "Ásia (província romana) graça a vocês",
+              "explanation": "A forma χάρις é substantivo nominativo singular feminino do lema χάρις; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -314,12 +314,12 @@
           "definition": "tu; vós; você(s)",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "χάρις ὑμῖν καὶ",
               "wordForm": "ὑμῖν",
-              "translation": "Expressão no contexto: a vocês.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "graça a vocês e",
+              "explanation": "A forma ὑμῖν é pronome pessoal dativo plural do lema σύ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -337,12 +337,12 @@
           "definition": "paz; bem-estar",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "καὶ εἰρήνη ἀπὸ",
               "wordForm": "εἰρήνη",
-              "translation": "Expressão no contexto: paz.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "e paz de",
+              "explanation": "A forma εἰρήνη é substantivo nominativo singular feminino do lema εἰρήνη; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -360,12 +360,20 @@
           "definition": "de; desde; procedente de",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "εἰρήνη ἀπὸ ὁ",
               "wordForm": "ἀπὸ",
-              "translation": "Expressão no contexto: de.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "paz de o",
+              "explanation": "A forma ἀπὸ é preposição (indeclinável) do lema ἀπό; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+            },
+            {
+              "reference": "Apocalipse 1:5",
+              "greek": "καὶ ἀπὸ Ἰησοῦ",
+              "wordForm": "ἀπὸ",
+              "translation": "e de Jesus",
+              "explanation": "A forma ἀπὸ é preposição (indeclinável) do lema ἀπό; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -383,12 +391,20 @@
           "definition": "ser; estar; existir",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "ὁ ὢν καὶ",
               "wordForm": "ὢν",
-              "translation": "Expressão no contexto: que é.",
+              "translation": "o que é e",
               "explanation": "Em 1:4, ὢν (presente), ἦν (imperfeito) e ἐρχόμενος (presente médio) integram a fórmula divina. O artigo nominativo após ἀπό constitui anomalia sintática provavelmente motivada pela fórmula fixa; intenção teológica é interpretação, não dado morfológico.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+            },
+            {
+              "reference": "Apocalipse 1:8",
+              "greek": "Ἐγώ εἰμι τὸ",
+              "wordForm": "εἰμι",
+              "translation": "Eu sou o",
+              "explanation": "Em 1:4, ὢν (presente), ἦν (imperfeito) e ἐρχόμενος (presente médio) integram a fórmula divina. O artigo nominativo após ἀπό constitui anomalia sintática provavelmente motivada pela fórmula fixa; intenção teológica é interpretação, não dado morfológico.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -406,12 +422,28 @@
           "definition": "vir; chegar",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "ὁ ἐρχόμενος, καὶ",
               "wordForm": "ἐρχόμενος,",
-              "translation": "Expressão no contexto: que vem.",
+              "translation": "o que vem e",
               "explanation": "A forma ἐρχόμενος, na fórmula divina, aponta para aquele que vem; em 1:7, ἔρχεται refere-se à vinda anunciada em linguagem profética.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+            },
+            {
+              "reference": "Apocalipse 1:7",
+              "greek": "Ἰδοὺ ἔρχεται μετὰ",
+              "wordForm": "ἔρχεται",
+              "translation": "Eis vem com",
+              "explanation": "A forma ἐρχόμενος, na fórmula divina, aponta para aquele que vem; em 1:7, ἔρχεται refere-se à vinda anunciada em linguagem profética.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+            },
+            {
+              "reference": "Apocalipse 1:8",
+              "greek": "ὁ ἐρχόμενος, ὁ",
+              "wordForm": "ἐρχόμενος,",
+              "translation": "o que vem o",
+              "explanation": "A forma ἐρχόμενος, na fórmula divina, aponta para aquele que vem; em 1:7, ἔρχεται refere-se à vinda anunciada em linguagem profética.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -429,12 +461,12 @@
           "definition": "espírito; sopro; vento",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "ἑπτὰ πνευμάτων ἃ",
               "wordForm": "πνευμάτων",
-              "translation": "Expressão no contexto: espírito.",
+              "translation": "sete espírito que",
               "explanation": "Os sete espíritos diante do trono constituem expressão simbólica debatida, frequentemente interpretada como a plenitude do Espírito, embora existam alternativas.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -452,12 +484,12 @@
           "definition": "diante de; na presença de",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "ἃ ἐνώπιον τοῦ",
               "wordForm": "ἐνώπιον",
-              "translation": "Expressão no contexto: diante de.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "que diante de do",
+              "explanation": "A forma ἐνώπιον é preposição (indeclinável) do lema ἐνώπιον; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -475,12 +507,12 @@
           "definition": "trono",
           "examples": [
             {
-              "reference": "Ap 1:4",
+              "reference": "Apocalipse 1:4",
               "greek": "τοῦ θρόνου αὐτοῦ,",
               "wordForm": "θρόνου",
-              "translation": "Expressão no contexto: trono.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "do trono dele",
+              "explanation": "A forma θρόνου é substantivo genitivo singular masculino do lema θρόνος; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -498,12 +530,12 @@
           "definition": "testemunha",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "ὁ μάρτυς ὁ",
               "wordForm": "μάρτυς",
-              "translation": "Expressão no contexto: testemunha.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "o testemunha o",
+              "explanation": "A forma μάρτυς é substantivo nominativo singular masculino do lema μάρτυς; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -521,12 +553,12 @@
           "definition": "fiel; digno de confiança",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "ὁ πιστός, ὁ",
               "wordForm": "πιστός,",
-              "translation": "Expressão no contexto: fiel.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "o fiel o",
+              "explanation": "A forma πιστός, é adjetivo nominativo singular masculino do lema πιστός; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -544,12 +576,12 @@
           "definition": "primogênito",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "ὁ πρωτότοκος τῶν",
               "wordForm": "πρωτότοκος",
-              "translation": "Expressão no contexto: primogênito.",
+              "translation": "o primogênito dos",
               "explanation": "«Primogênito dentre os mortos» exprime primazia de Cristo na ressurreição; não prova que foi a primeira pessoa a ressuscitar cronologicamente.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -567,12 +599,12 @@
           "definition": "morto",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "τῶν νεκρῶν καὶ",
               "wordForm": "νεκρῶν",
-              "translation": "Expressão no contexto: morto.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "dos morto e",
+              "explanation": "A forma νεκρῶν é adjetivo genitivo plural masculino do lema νεκρός; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -590,12 +622,12 @@
           "definition": "governante; soberano",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "ὁ ἄρχων τῶν",
               "wordForm": "ἄρχων",
-              "translation": "Expressão no contexto: governante.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "o governante dos",
+              "explanation": "A forma ἄρχων é substantivo nominativo singular masculino do lema ἄρχων; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -613,12 +645,12 @@
           "definition": "rei",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "τῶν βασιλέων τῆς",
               "wordForm": "βασιλέων",
-              "translation": "Expressão no contexto: rei.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "dos rei da",
+              "explanation": "A forma βασιλέων é substantivo genitivo plural masculino do lema βασιλεύς; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -636,12 +668,20 @@
           "definition": "terra; solo",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "τῆς γῆς. Τῷ",
               "wordForm": "γῆς.",
-              "translation": "Expressão no contexto: terra.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "da terra artigo definido",
+              "explanation": "A forma γῆς. é substantivo genitivo singular feminino do lema γῆ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+            },
+            {
+              "reference": "Apocalipse 1:7",
+              "greek": "τῆς γῆς. ναί,",
+              "wordForm": "γῆς.",
+              "translation": "da terra sim",
+              "explanation": "A forma γῆς. é substantivo genitivo singular feminino do lema γῆ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -659,12 +699,12 @@
           "definition": "amar",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "Τῷ ἀγαπῶντι ἡμᾶς",
               "wordForm": "ἀγαπῶντι",
-              "translation": "Expressão no contexto: que ama.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "artigo definido que ama nos",
+              "explanation": "A forma ἀγαπῶντι é verbo presente ativo particípio dativo singular masculino do lema ἀγαπάω; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -682,12 +722,28 @@
           "definition": "eu; nós",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "ἀγαπῶντι ἡμᾶς καὶ",
               "wordForm": "ἡμᾶς",
-              "translation": "Expressão no contexto: nos.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "que ama nos e",
+              "explanation": "A forma ἡμᾶς é pronome pessoal acusativo plural do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+            },
+            {
+              "reference": "Apocalipse 1:6",
+              "greek": "ἐποίησεν ἡμᾶς βασιλείαν,",
+              "wordForm": "ἡμᾶς",
+              "translation": "fez nos reino",
+              "explanation": "A forma ἡμᾶς é pronome pessoal acusativo plural do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+            },
+            {
+              "reference": "Apocalipse 1:8",
+              "greek": "Ἐγώ εἰμι",
+              "wordForm": "Ἐγώ",
+              "translation": "Eu sou",
+              "explanation": "A forma Ἐγώ é pronome pessoal nominativo singular do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -705,12 +761,12 @@
           "definition": "soltar; libertar; desatar",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "καὶ λύσαντι ἡμᾶς",
               "wordForm": "λύσαντι",
-              "translation": "Expressão no contexto: libertou.",
+              "translation": "e libertou nos",
               "explanation": "A leitura λύσαντι (SBLGNT) exprime libertação dos pecados; é distinta da variante λούσαντι («lavou»).",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -728,12 +784,12 @@
           "definition": "de; para fora de",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "ἡμᾶς ἐκ τῶν",
               "wordForm": "ἐκ",
-              "translation": "Expressão no contexto: de.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "nos de dos",
+              "explanation": "A forma ἐκ é preposição (indeclinável) do lema ἐκ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -751,12 +807,12 @@
           "definition": "pecado",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "τῶν ἁμαρτιῶν ἡμῶν",
               "wordForm": "ἁμαρτιῶν",
-              "translation": "Expressão no contexto: pecado.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "dos pecado nossos",
+              "explanation": "A forma ἁμαρτιῶν é substantivo genitivo plural feminino do lema ἁμαρτία; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -774,12 +830,12 @@
           "definition": "sangue",
           "examples": [
             {
-              "reference": "Ap 1:5",
+              "reference": "Apocalipse 1:5",
               "greek": "τῷ αἵματι αὐτοῦ—",
               "wordForm": "αἵματι",
-              "translation": "Expressão no contexto: sangue.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "ao sangue dele",
+              "explanation": "A forma αἵματι é substantivo dativo singular neutro do lema αἷμα; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -797,12 +853,12 @@
           "definition": "fazer; constituir",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "καὶ ἐποίησεν ἡμᾶς",
               "wordForm": "ἐποίησεν",
-              "translation": "Expressão no contexto: fez.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "e fez nos",
+              "explanation": "A forma ἐποίησεν é verbo aoristo ativo indicativo 3ª pessoa singular do lema ποιέω; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -820,12 +876,12 @@
           "definition": "reino; realeza",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "ἡμᾶς βασιλείαν, ἱερεῖς",
               "wordForm": "βασιλείαν,",
-              "translation": "Expressão no contexto: reino.",
+              "translation": "nos reino sacerdote",
               "explanation": "O acusativo βασιλείαν constitui predicativo de resultado relacionado a ἐποίησεν: Cristo nos fez «um reino», não «reis» neste texto-base.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -843,12 +899,12 @@
           "definition": "sacerdote",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "βασιλείαν, ἱερεῖς τῷ",
               "wordForm": "ἱερεῖς",
-              "translation": "Expressão no contexto: sacerdote.",
+              "translation": "reino sacerdote ao",
               "explanation": "O acusativo plural ἱερεῖς acompanha βασιλείαν e atribui ao povo redimido identidade sacerdotal.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -866,12 +922,12 @@
           "definition": "pai",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "καὶ πατρὶ αὐτοῦ—",
               "wordForm": "πατρὶ",
-              "translation": "Expressão no contexto: pai.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "e pai dele",
+              "explanation": "A forma πατρὶ é substantivo dativo singular masculino do lema πατήρ; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -889,12 +945,12 @@
           "definition": "glória",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "ἡ δόξα καὶ",
               "wordForm": "δόξα",
-              "translation": "Expressão no contexto: glória.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "a glória e",
+              "explanation": "A forma δόξα é substantivo nominativo singular feminino do lema δόξα; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -912,12 +968,12 @@
           "definition": "poder; domínio",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "τὸ κράτος εἰς",
               "wordForm": "κράτος",
-              "translation": "Expressão no contexto: poder.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "o poder para",
+              "explanation": "A forma κράτος é substantivo nominativo singular neutro do lema κράτος; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -935,12 +991,12 @@
           "definition": "para; em direção a; por",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "κράτος εἰς τοὺς",
               "wordForm": "εἰς",
-              "translation": "Expressão no contexto: para.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "poder para os",
+              "explanation": "A forma εἰς é preposição (indeclinável) do lema εἰς; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -958,12 +1014,12 @@
           "definition": "era; século; eternidade",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "τοὺς αἰῶνας τῶν",
               "wordForm": "αἰῶνας",
-              "translation": "Expressão no contexto: era.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "os era dos",
+              "explanation": "A forma αἰῶνας é substantivo acusativo plural masculino do lema αἰών; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -981,12 +1037,20 @@
           "definition": "amém; assim seja",
           "examples": [
             {
-              "reference": "Ap 1:6",
+              "reference": "Apocalipse 1:6",
               "greek": "αἰώνων· ἀμήν.",
               "wordForm": "ἀμήν.",
-              "translation": "Expressão no contexto: amém.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "era amém",
+              "explanation": "A forma ἀμήν. é partícula (indeclinável) do lema ἀμήν; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+            },
+            {
+              "reference": "Apocalipse 1:7",
+              "greek": "ναί, ἀμήν.",
+              "wordForm": "ἀμήν.",
+              "translation": "sim amém",
+              "explanation": "A forma ἀμήν. é partícula (indeclinável) do lema ἀμήν; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1004,12 +1068,12 @@
           "definition": "eis; veja",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "Ἰδοὺ ἔρχεται",
               "wordForm": "Ἰδοὺ",
-              "translation": "Expressão no contexto: Eis.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "Eis vem",
+              "explanation": "A forma Ἰδοὺ é partícula (indeclinável) do lema ἰδού; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1027,12 +1091,12 @@
           "definition": "com; depois de",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "ἔρχεται μετὰ τῶν",
               "wordForm": "μετὰ",
-              "translation": "Expressão no contexto: com.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "vem com dos",
+              "explanation": "A forma μετὰ é preposição (indeclinável) do lema μετά; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1050,12 +1114,12 @@
           "definition": "nuvem",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "τῶν νεφελῶν, καὶ",
               "wordForm": "νεφελῶν,",
-              "translation": "Expressão no contexto: nuvem.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "dos nuvem e",
+              "explanation": "A forma νεφελῶν, é substantivo genitivo plural feminino do lema νεφέλη; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1073,12 +1137,12 @@
           "definition": "todo; cada",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "αὐτὸν πᾶς ὀφθαλμὸς",
               "wordForm": "πᾶς",
-              "translation": "Expressão no contexto: todo.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "a ele todo olho",
+              "explanation": "A forma πᾶς é adjetivo nominativo singular masculino do lema πᾶς; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1096,12 +1160,12 @@
           "definition": "olho",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "πᾶς ὀφθαλμὸς καὶ",
               "wordForm": "ὀφθαλμὸς",
-              "translation": "Expressão no contexto: olho.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "todo olho e",
+              "explanation": "A forma ὀφθαλμὸς é substantivo nominativo singular masculino do lema ὀφθαλμός; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1119,12 +1183,12 @@
           "definition": "qualquer que; aquele que",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "καὶ οἵτινες αὐτὸν",
               "wordForm": "οἵτινες",
-              "translation": "Expressão no contexto: qualquer que.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "e qualquer que a ele",
+              "explanation": "A forma οἵτινες é pronome relativo nominativo plural masculino do lema ὅστις; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1142,12 +1206,12 @@
           "definition": "traspassar; perfurar",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "αὐτὸν ἐξεκέντησαν, καὶ",
               "wordForm": "ἐξεκέντησαν,",
-              "translation": "Expressão no contexto: traspassaram.",
+              "translation": "a ele traspassaram e",
               "explanation": "Evoca Zacarias 12:10 e insere a vinda de Cristo no horizonte do reconhecimento daquele que foi traspassado.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1165,12 +1229,12 @@
           "definition": "lamentar; golpear",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "καὶ κόψονται ἐπ’",
               "wordForm": "κόψονται",
-              "translation": "Expressão no contexto: se lamentarão.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "e se lamentarão sobre",
+              "explanation": "A forma κόψονται é verbo futuro médio indicativo 3ª pessoa plural do lema κόπτω; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1188,12 +1252,12 @@
           "definition": "sobre; por causa de",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "κόψονται ἐπ’ αὐτὸν",
               "wordForm": "ἐπ’",
-              "translation": "Expressão no contexto: sobre.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "se lamentarão sobre a ele",
+              "explanation": "A forma ἐπ’ é preposição (indeclinável) do lema ἐπί; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1211,12 +1275,12 @@
           "definition": "tribo; família; povo",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "αἱ φυλαὶ τῆς",
               "wordForm": "φυλαὶ",
-              "translation": "Expressão no contexto: tribo.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "as tribo da",
+              "explanation": "A forma φυλαὶ é substantivo nominativo plural feminino do lema φυλή; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1234,12 +1298,12 @@
           "definition": "sim; certamente",
           "examples": [
             {
-              "reference": "Ap 1:7",
+              "reference": "Apocalipse 1:7",
               "greek": "γῆς. ναί, ἀμήν.",
               "wordForm": "ναί,",
-              "translation": "Expressão no contexto: sim.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "terra sim amém",
+              "explanation": "A forma ναί, é partícula (indeclinável) do lema ναί; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1257,12 +1321,12 @@
           "definition": "alfa; primeira letra grega",
           "examples": [
             {
-              "reference": "Ap 1:8",
+              "reference": "Apocalipse 1:8",
               "greek": "τὸ Ἄλφα καὶ",
               "wordForm": "Ἄλφα",
-              "translation": "Expressão no contexto: alfa.",
+              "translation": "o alfa e",
               "explanation": "Com Ὦ, forma merismo alfabético que simboliza abrangência total.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1280,12 +1344,12 @@
           "definition": "ômega; última letra grega",
           "examples": [
             {
-              "reference": "Ap 1:8",
+              "reference": "Apocalipse 1:8",
               "greek": "τὸ Ὦ, λέγει",
               "wordForm": "Ὦ,",
-              "translation": "Expressão no contexto: ômega.",
+              "translation": "o ômega diz",
               "explanation": "Última letra do alfabeto grego, em par com Ἄλφα.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1303,12 +1367,12 @@
           "definition": "dizer; declarar",
           "examples": [
             {
-              "reference": "Ap 1:8",
+              "reference": "Apocalipse 1:8",
               "greek": "Ὦ, λέγει κύριος,",
               "wordForm": "λέγει",
-              "translation": "Expressão no contexto: diz.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "ômega diz Senhor",
+              "explanation": "A forma λέγει é verbo presente ativo indicativo 3ª pessoa singular do lema λέγω; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1326,12 +1390,12 @@
           "definition": "Senhor",
           "examples": [
             {
-              "reference": "Ap 1:8",
+              "reference": "Apocalipse 1:8",
               "greek": "λέγει κύριος, ὁ",
               "wordForm": "κύριος,",
-              "translation": "Expressão no contexto: Senhor.",
-              "explanation": "Exemplo do próprio versículo; o sentido decorre do contexto e não constitui lista exaustiva de acepções.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "translation": "diz Senhor o",
+              "explanation": "A forma κύριος, é substantivo nominativo singular masculino do lema κύριος; a glosa é contextual e não substitui a análise sintática do período.",
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
@@ -1349,12 +1413,12 @@
           "definition": "Todo-Poderoso; soberano sobre tudo",
           "examples": [
             {
-              "reference": "Ap 1:8",
+              "reference": "Apocalipse 1:8",
               "greek": "ὁ παντοκράτωρ.",
               "wordForm": "παντοκράτωρ.",
-              "translation": "Expressão no contexto: Todo-Poderoso.",
+              "translation": "o Todo-Poderoso",
               "explanation": "Título que acentua a soberania abrangente do Senhor, frequente em Apocalipse.",
-              "source": "SBLGNT/MorphGNT 6.12"
+              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             }
           ]
         }
