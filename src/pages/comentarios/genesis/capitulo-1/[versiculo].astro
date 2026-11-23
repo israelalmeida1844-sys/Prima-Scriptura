@@ -1,0 +1,58 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import TextoOriginalGenesis1v1 from '../../../../components/TextoOriginalGenesis1v1.astro';
+import TextoOriginalGenesis1v2 from '../../../../components/TextoOriginalGenesis1v2.astro';
+import TextoOriginalGenesis1v3 from '../../../../components/TextoOriginalGenesis1v3.astro';
+import TextoOriginalGenesis1v4 from '../../../../components/TextoOriginalGenesis1v4.astro';
+import TextoOriginalGenesis1v5 from '../../../../components/TextoOriginalGenesis1v5.astro';
+import TextoOriginalGenesis1v6 from '../../../../components/TextoOriginalGenesis1v6.astro';
+import TextoOriginalGenesis1v7 from '../../../../components/TextoOriginalGenesis1v7.astro';
+import TextoOriginalGenesis1v8 from '../../../../components/TextoOriginalGenesis1v8.astro';
+
+export function getStaticPaths(){
+  return Array.from({length:8},(_,i)=>({params:{versiculo:'versiculo-'+(i+1)},props:{number:i+1}}));
+}
+const {number}=Astro.props;
+const components=[TextoOriginalGenesis1v1,TextoOriginalGenesis1v2,TextoOriginalGenesis1v3,TextoOriginalGenesis1v4,TextoOriginalGenesis1v5,TextoOriginalGenesis1v6,TextoOriginalGenesis1v7,TextoOriginalGenesis1v8];
+const WordComponent=components[number-1];
+const base='/comentarios/genesis/capitulo-1/';
+---
+<Base title={'Gênesis 1:'+number+' — Texto hebraico e análise lexical'} description={'Estudo interlinear de Gênesis 1:'+number+' com concordâncias hebraicas exaustivas, morfologia e tradução editorial.'}>
+<section class="genesis-reader">
+  <div class="reader-wrap">
+    <nav class="breadcrumbs" aria-label="Caminho de navegação"><a href="/comentarios/">Comentários</a><span aria-hidden="true">/</span><a href="/comentarios/genesis/">Gênesis</a><span aria-hidden="true">/</span><a href={base}>Capítulo 1</a><span aria-hidden="true">/</span><span aria-current="page">{'Versículo '+number}</span></nav>
+    <div class="reader-intro"><div><p class="kicker">GÊNESIS · CAPÍTULO 1 · ANÁLISE HEBRAICA</p><h1>{'Gênesis 1:'+number}</h1><p>Selecione cada unidade do texto hebraico para examinar sua morfologia, seus sentidos e a concordância completa do lema.</p></div><span class="edition-tag">Edição de avaliação</span></div>
+    <nav class="verse-picker" aria-label="Selecionar versículo de Gênesis capítulo 1">
+      {Array.from({length:8},(_,i)=>i+1).map(v=><a href={base+'versiculo-'+v+'/'} aria-current={v===number?'page':undefined} class:list={{active:v===number}}>{v}</a>)}
+    </nav>
+    <WordComponent/>
+    <nav class="verse-navigation" aria-label="Navegação entre versículos">
+      {number>1?<a data-genesis-prev href={base+'versiculo-'+(number-1)+'/'}><span aria-hidden="true">←</span> Versículo anterior</a>:<span class="disabled" aria-disabled="true">Início do conteúdo disponível</span>}
+      <a class="chapter-return" href={base}>Índice do capítulo 1</a>
+      {number<8?<a data-genesis-next href={base+'versiculo-'+(number+1)+'/'}>Próximo versículo <span aria-hidden="true">→</span></a>:<span class="disabled" aria-disabled="true">Último versículo preparado</span>}
+    </nav>
+    <p class="reader-note">Versículos 1–8 em avaliação. As concordâncias abrangem a Bíblia Hebraica, mas os comentários seguintes ainda não estão prontos. Fonte: OSHB v.2.2; lemas e morfologia sob CC BY 4.0.</p>
+  </div>
+</section>
+</Base>
+<style>
+.genesis-reader,.genesis-reader :is(h1,p,nav,a,span){font-family:'Times New Roman',Times,serif}
+.genesis-reader{padding:38px 0 80px}
+.reader-wrap{max-width:1168px;padding:0 24px;margin:auto;min-width:0}
+.breadcrumbs{display:flex;gap:10px;flex-wrap:wrap;align-items:center;color:#657589;font-size:14px;margin-bottom:32px}
+.breadcrumbs a{text-decoration:underline;text-underline-offset:3px}
+.reader-intro{display:flex;gap:16px;align-items:start;justify-content:space-between;margin-bottom:26px}
+.reader-intro h1{font-size:clamp(35px,5vw,49px);margin:7px 0 12px}.reader-intro p:not(.kicker){font-size:18px;color:#5e7084;max-width:760px;line-height:1.7;margin:0}
+.kicker{color:#986e31;font-size:12px;font-weight:700;letter-spacing:.1em}
+.edition-tag{flex-shrink:0;background:#f6edd8;border:1px solid #e0c89c;border-radius:50px;padding:7px 12px;color:#71521f;font-size:13px}
+.verse-picker{display:flex;flex-wrap:wrap;gap:9px;margin:0 0 22px}
+.verse-picker a{display:grid;place-items:center;min-width:44px;min-height:44px;border:1px solid #d4c9b6;border-radius:7px;background:white;font-size:18px;color:#1c3554}
+.verse-picker a.active{background:#1c3554;color:white;border-color:#1c3554}
+.verse-picker a:focus-visible,.verse-navigation a:focus-visible{outline:3px solid #235d99;outline-offset:3px}
+.verse-navigation{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;margin-top:30px;padding:22px 0;border-top:1px solid #ddd4c5;border-bottom:1px solid #ddd4c5}
+.verse-navigation a{padding:10px 14px;border:1px solid #d5c3a6;border-radius:7px;color:#1c3554;background:white;font-size:15px;font-weight:700}
+.verse-navigation a:hover{background:#f4f0e8;border-color:#b99558}.verse-navigation .chapter-return{border:0;text-decoration:underline}
+.disabled{color:#737c87;font-size:14px}
+.reader-note{font-size:13px;line-height:1.65;color:#68788a;margin-top:22px}
+@media(max-width:650px){.reader-intro{display:block}.edition-tag{display:inline-block;margin-top:17px}.verse-navigation{justify-content:center}.verse-navigation .disabled{width:100%;text-align:center}}
+</style>
