@@ -38,11 +38,14 @@ jobs:
         run: node scripts/normalizar-transliteracao-apocalipse.mjs
       - name: Gerar concordancias gregas exaustivas
         run: node scripts/generate-apocalipse-1-9-20-concordancias.mjs
+      - name: Auditar filologia dos 276 tokens
+        id: philology
+        run: node scripts/auditar-filologia-apocalipse.mjs
       - name: Registrar concordancias novas na branch de rascunho
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/concordancia-grega src/data/lexico-grego/apocalipse-1-9-20-concordancias-relatorio.json src/data/lexico-grego/apocalipse-1-9-20.json src/data/texto-original/apocalipse
+          git add public/data/concordancia-grega src/data/lexico-grego/apocalipse-1-9-20-concordancias-relatorio.json src/data/lexico-grego/apocalipse-1-9-20.json src/data/texto-original/apocalipse .github/reports/apocalipse-1-9-20-filologia.json
           git diff --cached --quiet || (git commit -m "feat(apocalipse): concordancias canonicas verificadas para 1:9-20" && git push origin HEAD:rascunho/apocalipse)
       - name: Compilar Astro
         id: build
@@ -87,6 +90,7 @@ jobs:
         env:
           BUILD_OUTCOME: ${{ steps.build.outcome }}
           AUDIT_OUTCOME: ${{ steps.audit.outcome }}
+          PHILOLOGY_OUTCOME: ${{ steps.philology.outcome }}
           VERIFIED_COMMIT: ${{ github.sha }}
         run: |
           mkdir -p .github/reports
@@ -98,7 +102,8 @@ jobs:
             node: '22',
             build: BUILD_OUTCOME,
             staticRoutesAndConcordances: AUDIT_OUTCOME,
-            approved: BUILD_OUTCOME === 'success' && AUDIT_OUTCOME === 'success',
+            philologicalSourceAlignment: PHILOLOGY_OUTCOME,
+            approved: BUILD_OUTCOME === 'success' && AUDIT_OUTCOME === 'success' && PHILOLOGY_OUTCOME === 'success',
             source: 'GitHub Actions / homologacao-apocalipse.yml'
           }, null, 2) + '\n');
           NODE
