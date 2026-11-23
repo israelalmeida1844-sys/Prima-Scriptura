@@ -1,0 +1,62 @@
+name: Auditar Gênesis 1:5 (somente rascunho)
+on:
+  push:
+    branches:
+      - rascunho/genesis
+    paths:
+      - '.github/workflows/auditar-genesis-1-5.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Gerar corpus completo OSHB v.2.2 e índices de Gn 1:5
+        run: node scripts/gerar-concordancia-genesis-1-1.mjs --force
+      - name: Validar todas as concordâncias e dados editoriais de Gn 1:5
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          const expected = ['H7121','H430','H216','H3117','H2822','H3915','H1961','H6153','H1242','H259'];
+          const added = ['H7121','H3117','H3915','H6153','H1242','H259'];
+          const manifest = JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/genesis-1-1-2-manifest.json','utf8'));
+          if (manifest.complete !== true || manifest.sourceVersion !== 'v.2.2' || manifest.books !== 39) throw Error('Corpus incompleto');
+          for (const id of expected) {
+            const x = JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/'+id+'.json','utf8'));
+            if (x.strong !== id || x.sourceVersion !== 'v.2.2' || !x.complete || x.references.length !== x.verseCount || x.tokenCount < x.verseCount ||
+                !x.references.includes('Gn 1:5') || new Set(x.references).size !== x.verseCount ||
+                !manifest.strongs.includes(id)) throw Error(id+' inválido ou ausente');
+            console.log(id+': '+x.tokenCount+' tokens / '+x.verseCount+' versículos '+(added.includes(id)?'(novo)':'(reutilizado)'));
+          }
+          const source = fs.readFileSync('src/data/texto-original/genesis-1-5.ts','utf8');
+          for(const lemma of expected) if(!source.includes('"strong": "'+lemma+'"')) throw Error('Lema não atribuído: '+lemma);
+          if ((source.match(/"hebrew":/g)||[]).length !== 13) throw Error('Esperadas 13 unidades textuais');
+          if(!source.includes('não preposição')) throw Error('Distinguir forma substantiva de noite');
+          JS
+      - name: Instalar dependências e compilar Astro
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          test -f dist/rascunhos/genesis-1-5/index.html
+          grep -q 'data-original-genesis-1-5' dist/rascunhos/genesis-1-5/index.html
+          grep -q 'Times New Roman' dist/rascunhos/genesis-1-5/index.html
+          grep -q 'data-occurrences-toggle' dist/rascunhos/genesis-1-5/index.html
+      - name: Salvar índices exclusivamente em rascunho/genesis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/concordancia-hebraica
+          if ! git diff --cached --quiet; then
+            git commit -m "Salvar índices de Gênesis 1:5 validados (somente rascunho)"
+            git push origin HEAD:rascunho/genesis
+          fi
