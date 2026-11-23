@@ -165,7 +165,7 @@ const tokens=[
  [5,'הַשָּׁמַיִם','השמים','haššāmayim','os céus','H8064','HTd/Ncmpa','','','','masculino','plural morfológico','direct_object','Primeiro objeto direto','GEN.1.1.2','Artigo definido הַ (HTd) mais nome plural (Ncmpa).'],
  [6,'וְאֵת','ואת','wəʾēṯ','e [marcador de objeto direto]','H853','HC/To','','','','','','coordinated_object_marker','Conjunção e marcador de objeto','GEN.1.1.2','Conjunção וְ (HC) mais partícula אֵת (To), coordenando o segundo objeto direto.'],
  [7,'הָאָרֶץ','הארץ','hāʾāreṣ','a terra','H776','HTd/Ncbsa','','','','comum (OSHB); feminino no uso','singular','coordinated_direct_object','Segundo objeto direto coordenado','GEN.1.1.2','Artigo definido (HTd) mais Ncbsa. O lema אֶרֶץ é geralmente feminino.']
-].map(row=>{if(row[14]==='')row[14]=null;return makeToken(row)}));
+].map(row=>{if(row[14]==='')row[14]=null;return makeToken(row)});
 const concordances={};
 const audit={source:'OSHB v.2.2 (WLC) + ALM1911 (domínio público)',createdAt:'gerado pela auditoria automatizada',alignmentUnavailable:[],alignmentWarnings:[],counts:{},downloadedBooks:[],errors:[]};
 const occurrences=new Map();
