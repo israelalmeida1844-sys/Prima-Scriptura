@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   verificar:
@@ -23,8 +23,10 @@ jobs:
       - name: Instalar dependencias
         run: npm install --no-audit --no-fund
       - name: Compilar Astro
+        id: build
         run: npm run build
       - name: Verificar oito rotas e arquivos de concordancia
+        id: audit
         shell: bash
         run: |
           set -euo pipefail
@@ -51,3 +53,29 @@ jobs:
           }
           console.log('PASSOU: 152 tokens, oito rotas, morfologia e concordancias.');
           NODE
+
+      - name: Registrar resultado da homologacao no repositorio
+        if: always()
+        env:
+          BUILD_OUTCOME: ${{ steps.build.outcome }}
+          AUDIT_OUTCOME: ${{ steps.audit.outcome }}
+          VERIFIED_COMMIT: ${{ github.sha }}
+        run: |
+          mkdir -p .github/reports
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const { BUILD_OUTCOME, AUDIT_OUTCOME, VERIFIED_COMMIT } = process.env;
+          fs.writeFileSync('.github/reports/apocalipse-1-3-8.json', JSON.stringify({
+            checkedCommit: VERIFIED_COMMIT,
+            node: '22',
+            build: BUILD_OUTCOME,
+            staticRoutesAndConcordances: AUDIT_OUTCOME,
+            approved: BUILD_OUTCOME === 'success' && AUDIT_OUTCOME === 'success',
+            source: 'GitHub Actions / homologacao-apocalipse.yml'
+          }, null, 2) + '\n');
+          NODE
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/reports/apocalipse-1-3-8.json
+          git commit -m "ci(apocalipse): registra resultado verificavel de homologacao" || true
+          git push origin HEAD:rascunho/apocalipse
