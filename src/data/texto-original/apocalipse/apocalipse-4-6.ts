@@ -10,7 +10,9 @@ export const apocalipse4v6 = {
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "O mar de vidro e os quatro seres viventes integram a cena celestial; «olhos à frente e atrás» sugere percepção abrangente, uma interpretação simbólica, não uma descrição zoológica."
+    "O mar de vidro e os quatro seres viventes integram a cena celestial; «olhos à frente e atrás» sugere percepção abrangente, uma interpretação simbólica, não uma descrição zoológica.",
+    "ὡς e ὁμοία marcam duas comparações: a visão descreve algo «como um mar vítreo, semelhante a cristal», sem determinar se se trata de água material.",
+    "A expressão ἐν μέσῳ ... καὶ κύκλῳ do trono é espacialmente complexa; a tradução conserva a dupla relação ao centro e ao redor, em vez de especificar uma planta arquitetônica."
   ],
   "words": [
     {
@@ -170,12 +172,12 @@ export const apocalipse4v6 = {
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
       "meanings": "Feito ou semelhante a vidro; adjetivo de θάλασσα em 4:6.",
-      "explanation": "Forma «ὑαλίνη» (ὑάλινος, G5193); Adjetivo nominativo singular feminino. Feito ou semelhante a vidro; adjetivo de θάλασσα em 4:6. Elemento da construção; dependência a revisar. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
+      "explanation": "Forma «ὑαλίνη» (ὑάλινος, G5193); Adjetivo nominativo singular feminino. Feito ou semelhante a vidro; adjetivo de θάλασσα em 4:6. Adjetivo atributivo de θάλασσα. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
       "occurrencesExamples": [
         "Ap 4:6"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo atributivo de θάλασσα",
         "clauseId": "AP.4.6.C1",
         "governedBy": null
       },
@@ -194,12 +196,12 @@ export const apocalipse4v6 = {
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
       "meanings": "semelhante",
-      "explanation": "Forma «ὁμοία» (ὅμοιος, G3664); Adjetivo nominativo singular feminino. Sentido lexical contextual: semelhante. Elemento da construção; dependência a revisar. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
+      "explanation": "Forma «ὁμοία» (ὅμοιος, G3664); Adjetivo nominativo singular feminino. Sentido lexical contextual: semelhante. Adjetivo predicativo de θάλασσα. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
       "occurrencesExamples": [
         "Ap 4:6"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo predicativo de θάλασσα",
         "clauseId": "AP.4.6.C1",
         "governedBy": null
       },
@@ -290,12 +292,12 @@ export const apocalipse4v6 = {
       "morphologyCode": "----DSN-",
       "morphology": "Adjetivo dativo singular neutro",
       "meanings": "meio; centro",
-      "explanation": "Forma «μέσῳ» (μέσος, G3319); Adjetivo dativo singular neutro. Sentido lexical contextual: meio. Elemento da construção; dependência a revisar. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
+      "explanation": "Forma «μέσῳ» (μέσος, G3319); Adjetivo dativo singular neutro. Sentido lexical contextual: meio. Substantivação adjetival em dativo após ἐν. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
       "occurrencesExamples": [
         "Ap 4:6"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Substantivação adjetival em dativo após ἐν",
         "clauseId": "AP.4.6.C1",
         "governedBy": null
       },
@@ -458,12 +460,12 @@ export const apocalipse4v6 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo nominativo plural neutro",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Forma «τέσσαρα» (τέσσαρες, G5064); Adjetivo nominativo plural neutro. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Elemento da construção; dependência a revisar. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
+      "explanation": "Forma «τέσσαρα» (τέσσαρες, G5064); Adjetivo nominativo plural neutro. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Numeral quantificador de ζῷα. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
       "occurrencesExamples": [
         "Ap 4:6"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Numeral quantificador de ζῷα",
         "clauseId": "AP.4.6.C1",
         "governedBy": null
       },
@@ -554,12 +556,12 @@ export const apocalipse4v6 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "Na frente ou diante; com ὄπισθεν, caracteriza os olhos dos seres em 4:6.",
-      "explanation": "Forma «ἔμπροσθεν» (ἔμπροσθεν, G1715); Advérbio. Na frente ou diante; com ὄπισθεν, caracteriza os olhos dos seres em 4:6. Elemento da construção; dependência a revisar. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
+      "explanation": "Forma «ἔμπροσθεν» (ἔμπροσθεν, G1715); Advérbio. Na frente ou diante; com ὄπισθεν, caracteriza os olhos dos seres em 4:6. Advérbio espacial relativo a ὀφθαλμῶν. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
       "occurrencesExamples": [
         "Ap 4:6"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Advérbio espacial relativo a ὀφθαλμῶν",
         "clauseId": "AP.4.6.C1",
         "governedBy": null
       },
@@ -602,12 +604,12 @@ export const apocalipse4v6 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "Atrás ou pela parte posterior; contrapõe-se a ἔμπροσθεν em 4:6.",
-      "explanation": "Forma «ὄπισθεν·» (ὄπισθεν, G3693); Advérbio. Atrás ou pela parte posterior; contrapõe-se a ἔμπροσθεν em 4:6. Elemento da construção; dependência a revisar. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
+      "explanation": "Forma «ὄπισθεν·» (ὄπισθεν, G3693); Advérbio. Atrás ou pela parte posterior; contrapõe-se a ἔμπροσθεν em 4:6. Advérbio espacial relativo a ὀφθαλμῶν. ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo.",
       "occurrencesExamples": [
         "Ap 4:6"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Advérbio espacial relativo a ὀφθαλμῶν",
         "clauseId": "AP.4.6.C1",
         "governedBy": null
       },
