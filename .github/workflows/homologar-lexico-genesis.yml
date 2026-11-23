@@ -1,4 +1,5 @@
 name: Homologar léxico hebraico de Gênesis 1:1–8 em navegador
+# Auditoria após alinhar H3915 e restringir estilos CSS das linhas lexicais.
 on:
   push:
     branches: [rascunho/genesis]
