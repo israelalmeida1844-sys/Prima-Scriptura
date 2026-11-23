@@ -61,6 +61,8 @@ jobs:
         run: node scripts/generate-apocalipse-2-13-29.mjs
       - name: Revisar glosas de Apocalipse 2:13-29
         run: node scripts/revisar-glossas-apocalipse-2-13-29.mjs
+      - name: Revisar o léxico crítico de Apocalipse 2:13-29
+        run: node scripts/revisar-lexico-apocalipse-2-13-29.mjs
       - name: Gerar concordancias de Apocalipse 2:13-29
         id: concord229
         run: node scripts/generate-apocalipse-2-13-29-concordancias.mjs
