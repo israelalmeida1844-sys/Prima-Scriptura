@@ -10,7 +10,9 @@ export const apocalipse4v7 = {
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "As imagens remetem a Ez 1 e 10, mas Apocalipse distribui as quatro figuras entre seres distintos. Não impor significados alegóricos individuais sem argumentação textual."
+    "As imagens remetem a Ez 1 e 10, mas Apocalipse distribui as quatro figuras entre seres distintos. Não impor significados alegóricos individuais sem argumentação textual.",
+    "O masculino nominativo ἔχων após o neutro ζῷον é uma irregularidade efetiva do texto SBLGNT e não deve ser corrigida silenciosamente para ἔχον.",
+    "Os quatro símbolos evocam Ez 1:10 e 10:14, mas aqui as figuras são distribuídas entre quatro seres; a associação tipológica não demonstra, isoladamente, uma identidade histórica dos seres."
   ],
   "words": [
     {
@@ -122,12 +124,12 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "primeiro",
-      "explanation": "Forma «πρῶτον» (πρῶτος, G4413); Adjetivo nominativo singular neutro. Sentido lexical contextual: primeiro. Elemento da construção; dependência a revisar. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Forma «πρῶτον» (πρῶτος, G4413); Adjetivo nominativo singular neutro. Sentido lexical contextual: primeiro. Adjetivo ordinal atributivo de ζῷον. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo ordinal atributivo de ζῷον",
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
@@ -146,12 +148,12 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Elemento da construção; dependência a revisar. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Predicativo de ζῷον com dativo λέοντι. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Predicativo de ζῷον com dativo λέοντι",
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
@@ -242,12 +244,12 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "δεύτερος expressa posição ordinal. Em Ap 2:11 qualifica θανάτου, formando a expressão «segunda morte».",
-      "explanation": "Forma «δεύτερον» (δεύτερος, G1208); Adjetivo nominativo singular neutro. Sentido lexical contextual: segundo. Elemento da construção; dependência a revisar. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Forma «δεύτερον» (δεύτερος, G1208); Adjetivo nominativo singular neutro. Sentido lexical contextual: segundo. Adjetivo ordinal atributivo de ζῷον. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo ordinal atributivo de ζῷον",
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
@@ -290,12 +292,12 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Elemento da construção; dependência a revisar. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Predicativo de ζῷον com dativo μόσχῳ. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Predicativo de ζῷον com dativo μόσχῳ",
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
@@ -386,12 +388,12 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "Terceiro; ordinal relativo ao vivente que apresenta rosto humano em 4:7.",
-      "explanation": "Forma «τρίτον» (τρίτος, G5154); Adjetivo nominativo singular neutro. Terceiro; ordinal relativo ao vivente que apresenta rosto humano em 4:7. Elemento da construção; dependência a revisar. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Forma «τρίτον» (τρίτος, G5154); Adjetivo nominativo singular neutro. Terceiro; ordinal relativo ao vivente que apresenta rosto humano em 4:7. Adjetivo ordinal atributivo de ζῷον. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo ordinal atributivo de ζῷον",
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
@@ -602,12 +604,12 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "Quarto; ordinal da criatura comparada a águia em 4:7.",
-      "explanation": "Forma «τέταρτον» (τέταρτος, G5067); Adjetivo nominativo singular neutro. Quarto; ordinal da criatura comparada a águia em 4:7. Elemento da construção; dependência a revisar. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Forma «τέταρτον» (τέταρτος, G5067); Adjetivo nominativo singular neutro. Quarto; ordinal da criatura comparada a águia em 4:7. Adjetivo ordinal atributivo de ζῷον. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Adjetivo ordinal atributivo de ζῷον",
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
@@ -650,12 +652,12 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Elemento da construção; dependência a revisar. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Predicativo de ζῷον com dativo ἀετῷ. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Predicativo de ζῷον com dativo ἀετῷ",
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
