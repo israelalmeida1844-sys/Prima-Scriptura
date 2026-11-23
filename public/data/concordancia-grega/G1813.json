@@ -1,0 +1,58 @@
+{
+  "strong": "G1813",
+  "lemma": "ἐξαλείφω",
+  "lemmaTranslit": "exaleiphō",
+  "tokenCount": 5,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Atos": 1,
+    "Colossenses": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ac 3:19",
+      "text": "τὸ ἐξαλειφθῆναι ὑμῶν",
+      "highlightedWord": "ἐξαλειφθῆναι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Col 2:14",
+      "text": "ἐξαλείψας τὸ",
+      "highlightedWord": "ἐξαλείψας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Re 3:5",
+      "text": "μὴ ἐξαλείψω τὸ",
+      "highlightedWord": "ἐξαλείψω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Re 7:17",
+      "text": "καὶ ἐξαλείψει ὁ",
+      "highlightedWord": "ἐξαλείψει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Re 21:4",
+      "text": "καὶ ἐξαλείψει πᾶν",
+      "highlightedWord": "ἐξαλείψει"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
