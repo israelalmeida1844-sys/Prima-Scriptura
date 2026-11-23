@@ -1,0 +1,23 @@
+---
+import lexicon from '../data/lexico-hebraico/genesis-1-1-8.json';
+interface Props {strong: string}
+const {strong}=Astro.props;
+const entries=lexicon.entries as Record<string, {senses:Array<{id:string;label:string;definition:string;examples:Array<{reference:string;hebrew:string;translation:string;explanation:string}>}>}>;
+const entry=entries[strong];
+---
+{entry ? entry.senses.map((sense) => (
+  <section class="lexical-sense" data-sense-id={sense.id} aria-label={sense.label}>
+    <h5 class="lexical-sense-title">{sense.label}</h5>
+    <p class="lexical-sense-definition">{sense.definition}</p>
+    <div class="lexical-examples">
+      {sense.examples.map((example) => (
+        <div class="lexical-example">
+          <p class="lexical-example-reference">Exemplo: {example.reference}</p>
+          <p class="lexical-example-hebrew" lang="he" dir="rtl">{example.hebrew}</p>
+          <p class="lexical-example-translation">{example.translation}</p>
+          <p class="lexical-example-note">{example.explanation}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+)) : <span>Entrada lexical ainda não revisada.</span>}
