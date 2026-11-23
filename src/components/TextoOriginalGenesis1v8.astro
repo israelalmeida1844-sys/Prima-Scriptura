@@ -1,0 +1,281 @@
+---
+import { genesis1v8 } from '../data/texto-original/genesis-1-8';
+---
+<section class="original-interlinear" data-original-genesis-1-8 aria-label="Texto original de Gênesis 1:8">
+  <header class="interlinear-header">
+    <p class="original-kicker">Texto original · Texto Massorético</p>
+    <h2>{genesis1v8.reference}</h2>
+    <p class="instruction">Clique em uma palavra hebraica para consultar a ficha lexical.</p>
+  </header>
+
+  <fieldset class="interlinear-controls">
+    <legend>Opções de visualização</legend>
+    <label><input type="checkbox" data-toggle="hebrew" checked /> Hebraico</label>
+    <label><input type="checkbox" data-toggle="transliteration" checked /> Transliteração</label>
+    <label><input type="checkbox" data-toggle="gloss" checked /> Glosas</label>
+    <label><input type="checkbox" data-toggle="translation" checked /> Tradução</label>
+  </fieldset>
+
+  <div class="interlinear-scroll" role="region" tabindex="0" aria-label="Palavras hebraicas em ordem da direita para a esquerda">
+    <div class="interlinear-words" dir="rtl">
+      {genesis1v8.words.map((word, index) => (
+        <button
+          type="button"
+          class:list={['original-word', { selected: index === 0 }]}
+          data-word-index={index}
+          aria-pressed={index === 0 ? 'true' : 'false'}
+          aria-label={`Consultar ${word.hebrew}: ${word.gloss}`}
+        >
+          <span class="strong-number" dir="ltr">{word.strong}</span>
+          <span class="word-transliteration" dir="ltr">{word.transliteration}</span>
+          <span class="word-hebrew" lang="he" dir="rtl">{word.hebrew}</span>
+          <span class="word-gloss" dir="ltr">{word.gloss}</span>
+        </button>
+      ))}
+    </div>
+  </div>
+  <p class="hint">Você pode rolar horizontalmente para visualizar todas as palavras em telas pequenas.</p>
+
+  <section class="lexicon-card" aria-label="Significado da palavra selecionada" aria-live="polite">
+    <div class="lexicon-header">
+      <h3>Significado da palavra selecionada</h3>
+      <span class="strong-number active-strong" data-lexicon-strong>{genesis1v8.words[0].strong}</span>
+    </div>
+    <p class="lexicon-hebrew" lang="he" dir="rtl" data-lexicon-hebrew>{genesis1v8.words[0].hebrew}</p>
+    <p class="lexicon-transliteration" data-lexicon-transliteration>{genesis1v8.words[0].transliteration}</p>
+    <dl class="lexicon-fields">
+      <div><dt>Tradução</dt><dd data-lexicon-gloss>{genesis1v8.words[0].gloss}</dd></div>
+      <div><dt>Lema</dt><dd lang="he" dir="rtl" data-lexicon-lemma>{genesis1v8.words[0].lemma}</dd></div>
+      <div><dt>Morfologia</dt><dd data-lexicon-morphology>{genesis1v8.words[0].morphology}</dd></div>
+      <div><dt>Sentidos</dt><dd data-lexicon-meanings>{genesis1v8.words[0].meanings}</dd></div>
+    </dl>
+    <p data-lexicon-explanation>{genesis1v8.words[0].explanation}</p>
+    <h4>Ocorrências na Bíblia Hebraica</h4>
+    <button type="button" class="concordance-toggle" data-occurrences-toggle aria-controls="gn1-8-occurrences" aria-expanded="false">
+      Mostrar todas as ocorrências ↓
+    </button>
+    <div id="gn1-8-occurrences" class="concordance-panel" data-occurrences-panel hidden>
+      <p class="concordance-status" data-occurrences-status role="status">
+        Selecione “Mostrar todas as ocorrências” para consultar as referências.
+      </p>
+      <p class="concordance-total" data-occurrences-total hidden></p>
+      <div class="concordance-references" data-occurrences-refs aria-label="Referências em ordem bíblica"></div>
+      <p class="concordance-selection" data-occurrences-selection hidden></p>
+    </div>
+    <p class="concordance-note">As referências são exibidas horizontalmente, em abreviação bíblica, separadas por ponto e vírgula. O índice é consultado em arquivo local do Prima Scriptura, gerado a partir da Open Scriptures Hebrew Bible (CC BY 4.0).</p>
+  </section>
+
+  <section class="translation-panel" data-panel-translation>
+    <h3>Tradução — ordem natural do português</h3>
+    <p data-translation-text>{genesis1v8.translation}</p>
+    <small>{genesis1v8.translationNote}</small>
+  </section>
+</section>
+
+<script>
+  import { genesis1v8 } from '../data/texto-original/genesis-1-8';
+
+  function activateInterlinear() {
+    document.querySelectorAll<HTMLElement>('[data-original-genesis-1-8]').forEach(root => {
+      if (root.dataset.ready === 'true') return;
+      root.dataset.ready = 'true';
+      const words = genesis1v8.words;
+      const fields: Record<string, string> = {
+        strong: '[data-lexicon-strong]',
+        hebrew: '[data-lexicon-hebrew]',
+        transliteration: '[data-lexicon-transliteration]',
+        gloss: '[data-lexicon-gloss]',
+        lemma: '[data-lexicon-lemma]',
+        morphology: '[data-lexicon-morphology]',
+        meanings: '[data-lexicon-meanings]',
+        explanation: '[data-lexicon-explanation]',
+      };
+      const show = (index: number) => {
+        requestSequence++;
+        const word = words[index];
+        if (!word) return;
+        for (const [name, selector] of Object.entries(fields)) {
+          const el = root.querySelector<HTMLElement>(selector);
+          if (el) el.textContent = word[name as keyof typeof word] as string;
+        }
+        const panel = root.querySelector<HTMLElement>('[data-occurrences-panel]');
+        const toggle = root.querySelector<HTMLButtonElement>('[data-occurrences-toggle]');
+        if (panel && toggle) {
+          panel.hidden = true;
+          toggle.setAttribute('aria-expanded', 'false');
+          toggle.textContent = 'Mostrar todas as ocorrências ↓';
+          root.querySelector<HTMLElement>('[data-occurrences-total]')?.setAttribute('hidden', '');
+          root.querySelector<HTMLElement>('[data-occurrences-selection]')?.setAttribute('hidden', '');
+          root.querySelector<HTMLElement>('[data-occurrences-refs]')?.replaceChildren();
+          const state = root.querySelector<HTMLElement>('[data-occurrences-status]');
+          if (state) { state.hidden = false; state.textContent = 'Selecione “Mostrar todas as ocorrências” para consultar as referências.'; }
+        }
+        root.querySelectorAll<HTMLButtonElement>('[data-word-index]').forEach(button => {
+          const selected = Number(button.dataset.wordIndex) === index;
+          button.classList.toggle('selected', selected);
+          button.setAttribute('aria-pressed', String(selected));
+        });
+      };
+      let selectedIndex = 0;
+      const originalShow = show;
+      const selectWord = (index: number) => { selectedIndex = index; originalShow(index); };
+      root.querySelectorAll<HTMLButtonElement>('[data-word-index]').forEach(button => {
+        button.addEventListener('click', () => selectWord(Number(button.dataset.wordIndex)));
+      });
+
+      const toggleOccurrences = root.querySelector<HTMLButtonElement>('[data-occurrences-toggle]');
+      const occurrencePanel = root.querySelector<HTMLElement>('[data-occurrences-panel]');
+      const occurrenceStatus = root.querySelector<HTMLElement>('[data-occurrences-status]');
+      const occurrenceTotal = root.querySelector<HTMLElement>('[data-occurrences-total]');
+      const occurrenceRefs = root.querySelector<HTMLElement>('[data-occurrences-refs]');
+      const occurrenceSelection = root.querySelector<HTMLElement>('[data-occurrences-selection]');
+      const cache = new Map<string, { complete: boolean; references: string[]; tokenCount: number; verseCount: number }>();
+      let requestSequence = 0;
+      const formatNumber = (value: number) => new Intl.NumberFormat('pt-BR').format(value);
+      toggleOccurrences?.addEventListener('click', async () => {
+        if (!toggleOccurrences || !occurrencePanel || !occurrenceStatus || !occurrenceTotal || !occurrenceRefs) return;
+        if (!occurrencePanel.hidden) {
+          requestSequence++; // Invalida buscas e renderizações anteriores ao fechar o painel.
+          occurrencePanel.hidden = true;
+          toggleOccurrences.setAttribute('aria-expanded', 'false');
+          toggleOccurrences.textContent = 'Mostrar todas as ocorrências ↓';
+          return;
+        }
+        const thisRequest = ++requestSequence;
+        const strong = words[selectedIndex].strong;
+        occurrencePanel.hidden = false;
+        toggleOccurrences.setAttribute('aria-expanded', 'true');
+        toggleOccurrences.textContent = 'Ocultar ocorrências ↑';
+        occurrenceStatus.hidden = false;
+        occurrenceStatus.textContent = 'Carregando concordância interna…';
+        occurrenceRefs.replaceChildren();
+        occurrenceTotal.hidden = true;
+        if (occurrenceSelection) occurrenceSelection.hidden = true;
+        try {
+          let corpus = cache.get(strong);
+          if (!corpus) {
+            const response = await fetch('/data/concordancia-hebraica/' + encodeURIComponent(strong) + '.json');
+            if (!response.ok) throw new Error('Arquivo local ausente (' + response.status + ')');
+            corpus = await response.json();
+            if (!corpus || corpus.complete !== true || !Array.isArray(corpus.references) ||
+                !Number.isInteger(corpus.verseCount) || !Number.isInteger(corpus.tokenCount) ||
+                corpus.references.length !== corpus.verseCount || corpus.tokenCount < corpus.verseCount ||
+                corpus.references.length !== new Set(corpus.references).size || corpus.strong !== strong) {
+              throw new Error('Índice hebraico incompleto ou inválido');
+            }
+            cache.set(strong, corpus);
+          }
+          if (thisRequest !== requestSequence || words[selectedIndex].strong !== strong) return;
+          occurrenceStatus.hidden = true;
+          occurrenceTotal.hidden = false;
+          occurrenceTotal.textContent = formatNumber(corpus.verseCount) + ' versículos · ' +
+            formatNumber(corpus.tokenCount) + ' ocorrências da palavra · ' + strong;
+          // Para H853 pode haver milhares de referências. Renderizar sem bloquear a tela.
+          const references = corpus.references;
+          let offset = 0;
+          const renderChunk = () => {
+            if (thisRequest !== requestSequence || occurrencePanel.hidden || words[selectedIndex].strong !== strong) return;
+            const fragment = document.createDocumentFragment();
+            const limit = Math.min(offset + 300, references.length);
+            for (let j = offset; j < limit; j++) {
+              const item = document.createElement('button');
+              item.type = 'button';
+              item.className = 'concordance-reference';
+              item.textContent = references[j];
+              item.setAttribute('aria-label', 'Referência ' + references[j]);
+              item.addEventListener('click', () => {
+                if (occurrenceSelection) {
+                  occurrenceSelection.hidden = false;
+                  occurrenceSelection.textContent = references[j] + ' — referência selecionada. O texto contextual será incorporado numa etapa editorial posterior.';
+                }
+              });
+              fragment.appendChild(item);
+              if (j < references.length - 1) fragment.appendChild(document.createTextNode('; '));
+            }
+            occurrenceRefs.appendChild(fragment);
+            offset = limit;
+            if (offset < references.length) window.requestAnimationFrame(renderChunk);
+          };
+          renderChunk();
+        } catch (error) {
+          if (thisRequest !== requestSequence) return;
+          occurrenceStatus.hidden = false;
+          occurrenceStatus.textContent = error instanceof Error && error.message.includes('incompleto')
+            ? 'Índice incompleto ou inválido: esta concordância ainda não pode ser apresentada.'
+            : 'Não foi possível carregar a concordância local. Verifique a conexão ou o arquivo e tente novamente.';
+        }
+      });
+      const classes: Record<string, string> = {
+        hebrew: 'hide-hebrew',
+        transliteration: 'hide-transliteration',
+        gloss: 'hide-gloss',
+        translation: 'hide-translation',
+      };
+      root.querySelectorAll<HTMLInputElement>('[data-toggle]').forEach(toggle => {
+        toggle.addEventListener('change', () => {
+          const name = toggle.dataset.toggle || '';
+          if (classes[name]) root.classList.toggle(classes[name], !toggle.checked);
+        });
+      });
+    });
+  }
+
+  activateInterlinear();
+  document.addEventListener('astro:page-load', activateInterlinear);
+</script>
+
+<style>
+  .original-interlinear{font-family:'Times New Roman',serif; border:1px solid #dfd7c9;border-radius:14px;padding:22px;background:white;color:#233149;font:15px/1.6 'Times New Roman',Times,serif;max-width:100%;box-shadow:0 8px 28px #101f350a}
+  .interlinear-header{text-align:center}.interlinear-header h2{font:700 24px/1.35 'Times New Roman',Times,serif;margin:6px 0;color:#101f35;border:0;padding:0}
+  .original-kicker{color:#936d36;font-size:12px;font-weight:700;letter-spacing:.08em;margin:0;text-transform:uppercase}
+  .instruction,.hint,.concordance-note{color:#647083;font-size:12px;margin:5px 0 0}
+  .interlinear-controls{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center;border:0;border-bottom:1px solid #e4e0d8;padding:18px 0 15px;margin:0 0 14px;min-width:0}
+  .interlinear-controls legend{font-size:12px;font-weight:600;color:#526074}.interlinear-controls label{display:flex;align-items:center;gap:6px;font-size:13px;cursor:pointer}
+  .interlinear-controls input{width:16px;height:16px;accent-color:#1c3554;margin:0;padding:0}
+  .interlinear-scroll{overflow-x:auto;max-width:100%;padding:8px 0 15px;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch}
+  .interlinear-words{display:flex;gap:7px;min-width:max-content;width:max-content;margin:auto;align-items:stretch}
+  .original-word{background:white;border:1px solid #dedee1;border-radius:9px;min-width:94px;max-width:140px;padding:10px 8px;display:flex;flex-direction:column;align-items:center;gap:6px;cursor:pointer;transition:background .15s,border-color .15s;font:inherit}
+  .original-word:hover,.original-word:focus-visible{border-color:#1c3554;background:#f4f7fa}
+  .original-word.selected{border:2px solid #1c3554;background:#edf2f8;padding:9px 7px}
+  .strong-number{color:#216091;font:600 11px 'Times New Roman',Times,serif}
+  .word-transliteration{color:#216091;font-size:12px;white-space:nowrap}
+  .word-hebrew,.lexicon-hebrew,.lexicon-fields dd[lang=he]{font-family:'Times New Roman','SBL Hebrew','Noto Serif Hebrew',serif;font-synthesis:none}
+  .word-hebrew{font-size:28px;line-height:1.5;white-space:nowrap;color:#111d34}
+  .word-gloss{font-size:12px;font-weight:600;color:#9c3d39;text-align:center;line-height:1.35}
+  .hide-hebrew .word-hebrew,.hide-transliteration .word-transliteration,.hide-gloss .word-gloss,.hide-translation [data-panel-translation]{display:none}
+  .lexicon-card{border:1px solid #ddd9d2;border-radius:10px;padding:18px;margin-top:21px;background:#fcfcfb;min-width:0;overflow-wrap:anywhere}
+  .lexicon-header{display:flex;justify-content:space-between;align-items:center;gap:12px}.lexicon-header h3{font:700 16px/1.4 'Times New Roman',Times,serif;margin:0;color:#101f35}
+  .active-strong{background:#e9eef4;border-radius:50px;padding:4px 10px}
+  .lexicon-hebrew{text-align:left;font-size:34px;margin:9px 0 0}.lexicon-transliteration{color:#647083;margin:0 0 14px;font-size:13px}
+  .lexicon-fields{margin:8px 0 15px;border-top:1px solid #e2e2e2}
+  .lexicon-fields div{display:grid;grid-template-columns:minmax(125px, 35%) minmax(0,1fr);border-bottom:1px solid #e2e2e2;padding:10px 0;column-gap:18px;row-gap:4px;align-items:start;min-width:0}
+  .lexicon-fields dt{font-weight:700;font-size:13px;overflow-wrap:break-word;min-width:0}.lexicon-fields dd{margin:0;font-size:13px;overflow-wrap:anywhere;min-width:0}
+  .lexicon-card p{font-size:14px;line-height:1.7}.lexicon-card h4{font-size:14px;margin:18px 0 4px}
+  .concordance-toggle{display:block;width:100%;border:1px solid #1c3554;background:transparent;color:#1c3554;border-radius:7px;padding:11px 13px;font-size:13px;font-weight:700;cursor:pointer;text-align:center}
+  .concordance-toggle:hover,.concordance-toggle:focus-visible{background:#edf2f8}
+  .concordance-panel{margin-top:12px;padding:14px;border-radius:9px;background:#f5f7fa}
+  .concordance-panel[hidden],.concordance-total[hidden],.concordance-selection[hidden]{display:none}
+  .concordance-status,.concordance-total,.concordance-selection{font-size:12px;color:#526074}
+  .concordance-references{font-size:13px;line-height:2.15;overflow-wrap:normal;white-space:normal;direction:ltr;text-align:left}
+  .concordance-reference{display:inline;border:0;padding:2px 0;background:transparent;color:#216091;font:inherit;cursor:pointer;text-decoration:none}
+  .concordance-reference:hover,.concordance-reference:focus-visible{text-decoration:underline;color:#101f35}
+  .concordance-selection{border-top:1px solid #d9e0e8;padding-top:9px;margin-top:12px}
+  .translation-panel{border-top:1px solid #e4e0d8;margin-top:22px;padding-top:14px}
+  .translation-panel h3{margin:0 0 7px;font:700 11px 'Times New Roman',Times,serif;letter-spacing:.06em;color:#647083;text-transform:uppercase}
+  .translation-panel p{font:500 21px/1.5 'Times New Roman',Times,serif;margin:0 0 7px;color:#101f35}
+  .translation-panel small{font-size:12px;color:#647083}
+  /* Padrão editorial aprovado: Times New Roman em TODOS os elementos do protótipo. */
+  .original-interlinear, .original-interlinear :is(h2,h3,h4,p,label,legend,span,button,dt,dd,small,a) {
+    font-family:'Times New Roman',serif;
+  }
+  .original-interlinear .word-hebrew{font-size:30px}
+  .original-interlinear .word-transliteration{font-size:14px}
+  .original-interlinear .word-gloss{font-size:14px}
+  .original-interlinear .lexicon-hebrew{font-size:38px}
+  .original-interlinear .translation-panel p{font-size:22px}
+  .original-interlinear :is(input,button){font-family:'Times New Roman',Times,serif}
+  .original-interlinear :is(button,input):focus-visible{outline:3px solid #2262a0;outline-offset:3px}
+  @media(max-width:650px){.original-interlinear{padding:13px}.lexicon-card{padding:13px}.lexicon-fields div{grid-template-columns:minmax(0,1fr);row-gap:3px}.lexicon-fields dt{font-size:13px}.lexicon-fields dd{padding-left:0;font-size:14px}.original-word{min-width:88px}.word-hebrew{font-size:25px}}
+  @media(min-width:651px) and (max-width:840px){.lexicon-fields div{grid-template-columns:minmax(125px,35%) minmax(0,1fr)}}
+</style>
+
