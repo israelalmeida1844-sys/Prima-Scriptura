@@ -90,7 +90,7 @@ for (const [id, entry] of Object.entries(entries)) {
   created++;
 }
 if(invalid.length)throw new Error('Lemas sem ocorrência no corpus: '+invalid.join(', '));
-const audit={date:new Date().toISOString(),corpusBooks,corpusTokens:tokenTotal,newStrongEntries:Object.keys(entries).length,created,kept,
+const audit={corpusBooks,corpusTokens:tokenTotal,newStrongEntries:Object.keys(entries).length,created,kept,
   allFilesExist:Object.keys(entries).every(k=>fs.existsSync(path.join(outputDir,k+'.json'))),
   sampleG4791:results.get('G4791') ? {tokenCount:results.get('G4791').tokenCount,verseCount:results.get('G4791').references.length} : null};
 fs.writeFileSync('src/data/lexico-grego/apocalipse-1-9-20-concordancias-relatorio.json',JSON.stringify(audit,null,2)+'\n');
