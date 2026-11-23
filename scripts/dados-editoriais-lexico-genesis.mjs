@@ -47,7 +47,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -95,7 +95,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -131,7 +131,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -155,7 +155,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -191,7 +191,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -239,7 +239,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -287,7 +287,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -323,7 +323,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -352,7 +352,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -388,7 +388,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -424,7 +424,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -472,7 +472,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -508,7 +508,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -556,7 +556,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -592,7 +592,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -621,7 +621,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -657,7 +657,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -693,7 +693,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -729,7 +729,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -765,7 +765,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -813,7 +813,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -861,7 +861,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -885,7 +885,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -933,7 +933,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -981,7 +981,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1010,7 +1010,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1039,7 +1039,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1068,7 +1068,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1104,7 +1104,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1145,7 +1145,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1181,7 +1181,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1217,7 +1217,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1246,7 +1246,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1282,7 +1282,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1318,7 +1318,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   },
@@ -1342,7 +1342,7 @@ export const lexicalEntries = {
     ],
     "sources": [
       "WLC/OSHB v.2.2",
-      "BDB — referência lexicográfica de consulta (acepções resumidas editorialmente, sem transcrição)"
+      "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
     ],
     "reviewStatus": "reviewed"
   }
