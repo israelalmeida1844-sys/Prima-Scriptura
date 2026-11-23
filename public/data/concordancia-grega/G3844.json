@@ -1,0 +1,1492 @@
+{
+  "strong": "G3844",
+  "lemma": "παρά",
+  "lemmaTranslit": "para",
+  "tokenCount": 193,
+  "verseCount": 182,
+  "bookDistribution": {
+    "Mateus": 19,
+    "Marcos": 17,
+    "Lucas": 29,
+    "João": 34,
+    "Atos": 30,
+    "Romanos": 12,
+    "1 Coríntios": 6,
+    "2 Coríntios": 3,
+    "Gálatas": 4,
+    "Efésios": 2,
+    "Filipenses": 2,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 3,
+    "2 Timóteo": 5,
+    "Hebreus": 10,
+    "Tiago": 4,
+    "1 Pedro": 2,
+    "2 Pedro": 2,
+    "2 João": 3,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Mt 2:4",
+      "text": "ἐπυνθάνετο παρ’ αὐτῶν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mt 2:7",
+      "text": "ἠκρίβωσεν παρ’ αὐτῶν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Mt 2:16",
+      "text": "ἠκρίβωσεν παρὰ τῶν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Mt 4:18",
+      "text": "δὲ παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mt 6:1",
+      "text": "ἔχετε παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Mt 8:10",
+      "text": "ὑμῖν, παρ’ οὐδενὶ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mt 13:1",
+      "text": "ἐκάθητο παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Mt 13:4",
+      "text": "ἔπεσεν παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mt 13:19",
+      "text": "ὁ παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mt 15:29",
+      "text": "ἦλθεν παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Mt 15:30",
+      "text": "αὐτοὺς παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Mt 18:19",
+      "text": "αὐτοῖς παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Mt 19:26",
+      "text": "αὐτοῖς· Παρὰ ἀνθρώποις",
+      "highlightedWord": "Παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Mt 20:20",
+      "text": "τι παρ’ αὐτοῦ.",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Mt 20:30",
+      "text": "καθήμενοι παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 42,
+      "reference": "Mt 21:42",
+      "text": "γωνίας· παρὰ κυρίου",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Mt 22:25",
+      "text": "δὲ παρ’ ἡμῖν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 15,
+      "reference": "Mt 28:15",
+      "text": "οὗτος παρὰ Ἰουδαίοις",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Mk 1:16",
+      "text": "παράγων παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mk 2:13",
+      "text": "πάλιν παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Mk 3:21",
+      "text": "οἱ παρ’ αὐτοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Mk 4:1",
+      "text": "διδάσκειν παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Mk 4:4",
+      "text": "ἔπεσεν παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Mk 4:15",
+      "text": "οἱ παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Mk 5:21",
+      "text": "ἦν παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mk 5:26",
+      "text": "τὰ παρ’ αὐτῆς",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Mk 8:11",
+      "text": "ζητοῦντες παρ’ αὐτοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Mk 10:27",
+      "text": "λέγει· Παρὰ ἀνθρώποις",
+      "highlightedWord": "Παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 46,
+      "reference": "Mk 10:46",
+      "text": "ἐκάθητο παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Mk 12:2",
+      "text": "ἵνα παρὰ τῶν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Mk 12:11",
+      "text": "παρὰ κυρίου",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 43,
+      "reference": "Mk 14:43",
+      "text": "ξύλων παρὰ τῶν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Mk 16:9",
+      "text": "Μαγδαληνῇ, παρ’ ἧς",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Lk 1:30",
+      "text": "χάριν παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 37,
+      "reference": "Lk 1:37",
+      "text": "ἀδυνατήσει παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Lk 1:45",
+      "text": "αὐτῇ παρὰ κυρίου.",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Lk 2:1",
+      "text": "δόγμα παρὰ Καίσαρος",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 52,
+      "reference": "Lk 2:52",
+      "text": "χάριτι παρὰ θεῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Lk 3:13",
+      "text": "πλέον παρὰ τὸ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Lk 5:1",
+      "text": "ἑστὼς παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Lk 5:2",
+      "text": "ἑστῶτα παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Lk 6:19",
+      "text": "δύναμις παρ’ αὐτοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Lk 6:34",
+      "text": "δανίσητε παρ’ ὧν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Lk 7:38",
+      "text": "ὀπίσω παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Lk 8:5",
+      "text": "ἔπεσεν παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Lk 8:12",
+      "text": "δὲ παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "σωφρονοῦντα παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Lk 8:41",
+      "text": "πεσὼν παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 49,
+      "reference": "Lk 8:49",
+      "text": "τις παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Lk 9:47",
+      "text": "αὐτὸ παρ’ ἑαυτῷ,",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Lk 10:7",
+      "text": "τὰ παρ’ αὐτῶν,",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Lk 11:16",
+      "text": "ἐζήτουν παρ’ αὐτοῦ.",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Lk 11:37",
+      "text": "ἀριστήσῃ παρ’ αὐτῷ·",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Lk 12:48",
+      "text": "ζητηθήσεται παρ’ αὐτοῦ,",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Lk 13:2",
+      "text": "ἁμαρτωλοὶ παρὰ πάντας",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Lk 13:4",
+      "text": "ἐγένοντο παρὰ πάντας",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Lk 17:16",
+      "text": "πρόσωπον παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Lk 18:14",
+      "text": "αὐτοῦ παρ’ ἐκεῖνον·",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 27,
+      "reference": "Lk 18:27",
+      "text": "ἀδύνατα παρὰ ἀνθρώποις",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Lk 18:35",
+      "text": "ἐκάθητο παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Lk 19:7",
+      "text": "ὅτι Παρὰ ἁμαρτωλῷ",
+      "highlightedWord": "Παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jn 1:6",
+      "text": "ἀπεσταλμένος παρὰ θεοῦ,",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Jn 1:14",
+      "text": "μονογενοῦς παρὰ πατρός,",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Jn 1:39",
+      "text": "καὶ παρ’ αὐτῷ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 40,
+      "reference": "Jn 1:40",
+      "text": "ἀκουσάντων παρὰ Ἰωάννου",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Jn 4:9",
+      "text": "ὢν παρ’ ἐμοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Jn 4:40",
+      "text": "μεῖναι παρ’ αὐτοῖς·",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 52,
+      "reference": "Jn 4:52",
+      "text": "ὥραν παρ’ αὐτῶν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Jn 5:34",
+      "text": "οὐ παρὰ ἀνθρώπου",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Jn 5:41",
+      "text": "δόξαν παρὰ ἀνθρώπων",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 44,
+      "reference": "Jn 5:44",
+      "text": "δόξαν παρ’ ἀλλήλων",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 45,
+      "reference": "Jn 6:45",
+      "text": "ἀκούσας παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 46,
+      "reference": "Jn 6:46",
+      "text": "ὢν παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Jn 7:29",
+      "text": "ὅτι παρ’ αὐτοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 51,
+      "reference": "Jn 7:51",
+      "text": "πρῶτον παρ’ αὐτοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Jn 8:26",
+      "text": "ἤκουσα παρ’ αὐτοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Jn 8:38",
+      "text": "ἑώρακα παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 40,
+      "reference": "Jn 8:40",
+      "text": "ἤκουσα παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Jn 9:16",
+      "text": "οὗτος παρὰ θεοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Jn 9:33",
+      "text": "οὗτος παρὰ θεοῦ,",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Jn 10:18",
+      "text": "ἔλαβον παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Jn 14:17",
+      "text": "ὅτι παρ’ ὑμῖν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Jn 14:23",
+      "text": "μονὴν παρ’ αὐτῷ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Jn 14:25",
+      "text": "ὑμῖν παρ’ ὑμῖν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 15,
+      "reference": "Jn 15:15",
+      "text": "ἤκουσα παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Jn 15:26",
+      "text": "ὑμῖν παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Jn 16:27",
+      "text": "ἐγὼ παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Jn 17:5",
+      "text": "πάτερ, παρὰ σεαυτῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Jn 17:7",
+      "text": "μοι παρὰ σοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Jn 17:8",
+      "text": "ὅτι παρὰ σοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 25,
+      "reference": "Jn 19:25",
+      "text": "δὲ παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 33,
+      "reference": "Ac 2:33",
+      "text": "λαβὼν παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ac 3:2",
+      "text": "ἐλεημοσύνην παρὰ τῶν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ac 3:5",
+      "text": "τι παρ’ αὐτῶν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "ἐτίθουν παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Ac 4:37",
+      "text": "ἔθηκεν παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ac 5:2",
+      "text": "τι παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Ac 7:16",
+      "text": "ἀργυρίου παρὰ τῶν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 58,
+      "reference": "Ac 7:58",
+      "text": "αὐτῶν παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ac 9:2",
+      "text": "ᾐτήσατο παρ’ αὐτοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ac 9:14",
+      "text": "ἐξουσίαν παρὰ τῶν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Ac 9:43",
+      "text": "Ἰόππῃ παρά τινι",
+      "highlightedWord": "παρά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ac 10:6",
+      "text": "ξενίζεται παρά τινι",
+      "highlightedWord": "παρά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Ac 10:22",
+      "text": "ῥήματα παρὰ σοῦ.",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Ac 10:32",
+      "text": "βυρσέως παρὰ θάλασσαν.",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Ac 16:13",
+      "text": "πύλης παρὰ ποταμὸν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Ac 17:9",
+      "text": "ἱκανὸν παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Ac 18:3",
+      "text": "ἔμενεν παρ’ αὐτοῖς",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Ac 18:13",
+      "text": "ὅτι Παρὰ τὸν",
+      "highlightedWord": "Παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Ac 20:24",
+      "text": "ἔλαβον παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Ac 21:7",
+      "text": "μίαν παρ’ αὐτοῖς.",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Ac 21:8",
+      "text": "ἐμείναμεν παρ’ αὐτῷ.",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Ac 21:16",
+      "text": "ἄγοντες παρ’ ᾧ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Ac 22:3",
+      "text": "ταύτῃ παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Ac 22:5",
+      "text": "πρεσβυτέριον· παρ’ ὧν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 8,
+      "reference": "Ac 24:8",
+      "text": "παρ’ οὗ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 8,
+      "reference": "Ac 26:8",
+      "text": "κρίνεται παρ’ ὑμῖν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Ac 26:10",
+      "text": "τὴν παρὰ τῶν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 14,
+      "reference": "Ac 28:14",
+      "text": "παρεκλήθημεν παρ’ αὐτοῖς",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 22,
+      "reference": "Ac 28:22",
+      "text": "δὲ παρὰ σοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Ro 1:25",
+      "text": "κτίσει παρὰ τὸν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Ro 1:26",
+      "text": "τὴν παρὰ φύσιν,",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Ro 2:11",
+      "text": "προσωπολημψία παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Ro 2:13",
+      "text": "δίκαιοι παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ro 4:18",
+      "text": "ὃς παρ’ ἐλπίδα",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ro 9:14",
+      "text": "ἀδικία παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Ro 11:24",
+      "text": "καὶ παρὰ φύσιν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Ro 11:27",
+      "text": "ἡ παρ’ ἐμοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Ro 12:3",
+      "text": "ὑπερφρονεῖν παρ’ ὃ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Ro 12:16",
+      "text": "φρόνιμοι παρ’ ἑαυτοῖς.",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Ro 14:5",
+      "text": "ἡμέραν παρ’ ἡμέραν,",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Ro 16:17",
+      "text": "σκάνδαλα παρὰ τὴν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Co 3:11",
+      "text": "θεῖναι παρὰ τὸν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "1Co 3:19",
+      "text": "μωρία παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "1Co 7:24",
+      "text": "μενέτω παρὰ θεῷ.",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "1Co 12:15",
+      "text": "οὐ παρὰ τοῦτο",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "1Co 12:16",
+      "text": "οὐ παρὰ τοῦτο",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "ὑμῶν παρ’ ἑαυτῷ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Co 1:17",
+      "text": "ᾖ παρ’ ἐμοὶ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "2Co 8:3",
+      "text": "καὶ παρὰ δύναμιν,",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "2Co 11:24",
+      "text": "τεσσεράκοντα παρὰ μίαν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ga 1:8",
+      "text": "ὑμῖν παρ’ ὃ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Ga 1:9",
+      "text": "εὐαγγελίζεται παρ’ ὃ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ga 1:12",
+      "text": "ἐγὼ παρὰ ἀνθρώπου",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Ga 3:11",
+      "text": "δικαιοῦται παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Eph 6:8",
+      "text": "κομίσεται παρὰ κυρίου,",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Eph 6:9",
+      "text": "ἔστιν παρ’ αὐτῷ.",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Php 4:18",
+      "text": "δεξάμενος παρὰ Ἐπαφροδίτου",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Col 4:16",
+      "text": "ἀναγνωσθῇ παρ’ ὑμῖν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Th 2:13",
+      "text": "ἀκοῆς παρ’ ἡμῶν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Th 4:1",
+      "text": "παρελάβετε παρ’ ἡμῶν",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Th 1:6",
+      "text": "δίκαιον παρὰ θεῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "2Th 3:6",
+      "text": "παρελάβοσαν παρ’ ἡμῶν.",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Th 3:8",
+      "text": "ἐφάγομεν παρά τινος,",
+      "highlightedWord": "παρά"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Ti 1:13",
+      "text": "ὧν παρ’ ἐμοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Ti 1:18",
+      "text": "ἔλεος παρὰ κυρίου",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Ti 2:2",
+      "text": "ἤκουσας παρ’ ἐμοῦ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Ti 3:14",
+      "text": "εἰδὼς παρὰ τίνων",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "2Ti 4:13",
+      "text": "Τρῳάδι παρὰ Κάρπῳ,",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Heb 1:4",
+      "text": "διαφορώτερον παρ’ αὐτοὺς",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Heb 1:9",
+      "text": "ἀγαλλιάσεως παρὰ τοὺς",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Heb 2:7",
+      "text": "τι παρ’ ἀγγέλους,",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Heb 2:9",
+      "text": "τι παρ’ ἀγγέλους",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Heb 3:3",
+      "text": "δόξης παρὰ Μωϋσῆν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Heb 9:23",
+      "text": "θυσίαις παρὰ ταύτας.",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Heb 11:4",
+      "text": "Ἅβελ παρὰ Κάϊν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Heb 11:11",
+      "text": "καὶ παρὰ καιρὸν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Heb 11:12",
+      "text": "ἡ παρὰ τὸ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Heb 12:24",
+      "text": "λαλοῦντι παρὰ τὸν",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Jas 1:5",
+      "text": "αἰτείτω παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jas 1:7",
+      "text": "τι παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Jas 1:17",
+      "text": "φώτων, παρ’ ᾧ",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Jas 1:27",
+      "text": "ἀμίαντος παρὰ τῷ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Pe 2:4",
+      "text": "ἀποδεδοκιμασμένον παρὰ δὲ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "1Pe 2:20",
+      "text": "χάρις παρὰ θεῷ.",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Pe 1:17",
+      "text": "γὰρ παρὰ θεοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Pe 3:8",
+      "text": "ἡμέρα παρὰ κυρίῳ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Jn 1:3",
+      "text": "εἰρήνη παρὰ θεοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Jn 1:4",
+      "text": "ἐλάβομεν παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "ἀπεκτάνθη παρ’ ὑμῖν,",
+      "highlightedWord": "παρ’"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Re 2:28",
+      "text": "εἴληφα παρὰ τοῦ",
+      "highlightedWord": "παρὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "ἀγοράσαι παρ’ ἐμοῦ",
+      "highlightedWord": "παρ’"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

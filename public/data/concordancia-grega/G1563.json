@@ -1,0 +1,777 @@
+{
+  "strong": "G1563",
+  "lemma": "ἐκεῖ",
+  "lemmaTranslit": "ekei",
+  "tokenCount": 95,
+  "verseCount": 94,
+  "bookDistribution": {
+    "Mateus": 28,
+    "Marcos": 11,
+    "Lucas": 16,
+    "João": 22,
+    "Atos": 6,
+    "Romanos": 2,
+    "Tito": 1,
+    "Hebreus": 1,
+    "Tiago": 3,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mt 2:13",
+      "text": "ἴσθι ἐκεῖ ἕως",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Mt 2:15",
+      "text": "ἦν ἐκεῖ ἕως",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mt 2:22",
+      "text": "ἐφοβήθη ἐκεῖ ἀπελθεῖν·",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Mt 5:24",
+      "text": "ἄφες ἐκεῖ τὸ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Mt 6:21",
+      "text": "σου, ἐκεῖ ἔσται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Mt 8:12",
+      "text": "ἐξώτερον· ἐκεῖ ἔσται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "κατοικεῖ ἐκεῖ· καὶ",
+      "highlightedWord": "ἐκεῖ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 42,
+      "reference": "Mt 13:42",
+      "text": "πυρός· ἐκεῖ ἔσται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 50,
+      "reference": "Mt 13:50",
+      "text": "πυρός· ἐκεῖ ἔσται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 58,
+      "reference": "Mt 13:58",
+      "text": "ἐποίησεν ἐκεῖ δυνάμεις",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Mt 14:23",
+      "text": "ἦν ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mt 15:29",
+      "text": "ἐκάθητο ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Mt 17:20",
+      "text": "ἔνθεν ἐκεῖ, καὶ",
+      "highlightedWord": "ἐκεῖ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Mt 18:20",
+      "text": "ὄνομα, ἐκεῖ εἰμι",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Mt 19:2",
+      "text": "αὐτοὺς ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Mt 21:17",
+      "text": "ηὐλίσθη ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Mt 22:11",
+      "text": "εἶδεν ἐκεῖ ἄνθρωπον",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Mt 22:13",
+      "text": "ἐξώτερον· ἐκεῖ ἔσται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 28,
+      "reference": "Mt 24:28",
+      "text": "πτῶμα, ἐκεῖ συναχθήσονται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 51,
+      "reference": "Mt 24:51",
+      "text": "θήσει· ἐκεῖ ἔσται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 30,
+      "reference": "Mt 25:30",
+      "text": "ἐξώτερον· ἐκεῖ ἔσται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 36,
+      "reference": "Mt 26:36",
+      "text": "ἀπελθὼν ἐκεῖ προσεύξωμαι.",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 71,
+      "reference": "Mt 26:71",
+      "text": "τοῖς ἐκεῖ· Οὗτος",
+      "highlightedWord": "ἐκεῖ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 36,
+      "reference": "Mt 27:36",
+      "text": "αὐτὸν ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 47,
+      "reference": "Mt 27:47",
+      "text": "τῶν ἐκεῖ ἑστηκότων",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 55,
+      "reference": "Mt 27:55",
+      "text": "δὲ ἐκεῖ γυναῖκες",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 61,
+      "reference": "Mt 27:61",
+      "text": "δὲ ἐκεῖ Μαριὰμ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 7,
+      "reference": "Mt 28:7",
+      "text": "Γαλιλαίαν, ἐκεῖ αὐτὸν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 38,
+      "reference": "Mk 1:38",
+      "text": "καὶ ἐκεῖ κηρύξω,",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Mk 2:6",
+      "text": "γραμματέων ἐκεῖ καθήμενοι",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Mk 3:1",
+      "text": "ἦν ἐκεῖ ἄνθρωπος",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Mk 5:11",
+      "text": "δὲ ἐκεῖ πρὸς",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mk 6:5",
+      "text": "ἐδύνατο ἐκεῖ ποιῆσαι",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Mk 6:10",
+      "text": "οἰκίαν, ἐκεῖ μένετε",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Mk 6:33",
+      "text": "συνέδραμον ἐκεῖ καὶ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Mk 11:5",
+      "text": "τῶν ἐκεῖ ἑστηκότων",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mk 13:21",
+      "text": "⸁Ἴδε ἐκεῖ, μὴ",
+      "highlightedWord": "ἐκεῖ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Mk 14:15",
+      "text": "καὶ ἐκεῖ ἑτοιμάσατε",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Mk 16:7",
+      "text": "Γαλιλαίαν· ἐκεῖ αὐτὸν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Lk 2:6",
+      "text": "αὐτοὺς ἐκεῖ ἐπλήσθησαν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Lk 6:6",
+      "text": "ἄνθρωπος ἐκεῖ καὶ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Lk 8:32",
+      "text": "δὲ ἐκεῖ ἀγέλη",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Lk 9:4",
+      "text": "εἰσέλθητε, ἐκεῖ μένετε",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Lk 10:6",
+      "text": "ᾖ ἐκεῖ υἱὸς",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Lk 11:26",
+      "text": "κατοικεῖ ἐκεῖ, καὶ",
+      "highlightedWord": "ἐκεῖ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Lk 12:18",
+      "text": "συνάξω ἐκεῖ πάντα",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Lk 12:34",
+      "text": "ὑμῶν, ἐκεῖ καὶ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Lk 13:28",
+      "text": "ἐκεῖ ἔσται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Lk 15:13",
+      "text": "καὶ ἐκεῖ διεσκόρπισεν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 21,
+      "reference": "Lk 17:21",
+      "text": "ἤ· Ἐκεῖ· ἰδοὺ",
+      "highlightedWord": "Ἐκεῖ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Lk 17:23",
+      "text": "Ἰδοὺ ἐκεῖ· Ἰδοὺ",
+      "highlightedWord": "ἐκεῖ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 37,
+      "reference": "Lk 17:37",
+      "text": "σῶμα, ἐκεῖ καὶ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Lk 21:2",
+      "text": "βάλλουσαν ἐκεῖ λεπτὰ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Lk 22:12",
+      "text": "ἐστρωμένον· ἐκεῖ ἑτοιμάσατε.",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 33,
+      "reference": "Lk 23:33",
+      "text": "Κρανίον, ἐκεῖ ἐσταύρωσαν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Jn 2:1",
+      "text": "Ἰησοῦ ἐκεῖ·",
+      "highlightedWord": "ἐκεῖ·"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jn 2:6",
+      "text": "δὲ ἐκεῖ λίθιναι",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Jn 2:12",
+      "text": "καὶ ἐκεῖ ἔμειναν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Jn 3:22",
+      "text": "καὶ ἐκεῖ διέτριβεν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Jn 3:23",
+      "text": "ἦν ἐκεῖ, καὶ",
+      "highlightedWord": "ἐκεῖ,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Jn 4:6",
+      "text": "δὲ ἐκεῖ πηγὴ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Jn 4:40",
+      "text": "ἔμεινεν ἐκεῖ δύο",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Jn 5:5",
+      "text": "ἄνθρωπος ἐκεῖ τριάκοντα",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Jn 6:3",
+      "text": "καὶ ἐκεῖ ἐκάθητο",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "ἦν ἐκεῖ εἰ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Jn 6:24",
+      "text": "ἔστιν ἐκεῖ οὐδὲ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Jn 10:40",
+      "text": "ἔμεινεν ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Jn 10:42",
+      "text": "αὐτὸν ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Jn 11:8",
+      "text": "ὑπάγεις ἐκεῖ;",
+      "highlightedWord": "ἐκεῖ;"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Jn 11:15",
+      "text": "ἤμην ἐκεῖ· ἀλλὰ",
+      "highlightedWord": "ἐκεῖ·"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Jn 11:31",
+      "text": "κλαύσῃ ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Jn 12:2",
+      "text": "δεῖπνον ἐκεῖ, καὶ",
+      "highlightedWord": "ἐκεῖ,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Jn 12:9",
+      "text": "ὅτι ἐκεῖ ἐστιν,",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Jn 12:26",
+      "text": "ἐγὼ ἐκεῖ καὶ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Jn 18:2",
+      "text": "Ἰησοῦς ἐκεῖ μετὰ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Jn 18:3",
+      "text": "ἔρχεται ἐκεῖ μετὰ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Jn 19:42",
+      "text": "ἐκεῖ οὖν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Ac 9:33",
+      "text": "δὲ ἐκεῖ ἄνθρωπόν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Ac 16:1",
+      "text": "ἦν ἐκεῖ ὀνόματι",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Ac 17:14",
+      "text": "Τιμόθεος ἐκεῖ.",
+      "highlightedWord": "ἐκεῖ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Ac 19:21",
+      "text": "με ἐκεῖ δεῖ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 9,
+      "reference": "Ac 25:9",
+      "text": "ἀναβὰς ἐκεῖ περὶ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 14,
+      "reference": "Ac 25:14",
+      "text": "διέτριβον ἐκεῖ, ὁ",
+      "highlightedWord": "ἐκεῖ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ro 9:26",
+      "text": "ὑμεῖς, ἐκεῖ κληθήσονται",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Ro 15:24",
+      "text": "προπεμφθῆναι ἐκεῖ ἐὰν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Tit 3:12",
+      "text": "Νικόπολιν, ἐκεῖ γὰρ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Heb 7:8",
+      "text": "λαμβάνουσιν, ἐκεῖ δὲ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Jas 2:3",
+      "text": "κάθου ἐκεῖ ὑπὸ",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Jas 3:16",
+      "text": "ἐριθεία, ἐκεῖ ἀκαταστασία",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Jas 4:13",
+      "text": "ποιήσομεν ἐκεῖ ἐνιαυτὸν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "ἔχεις ἐκεῖ κρατοῦντας",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Re 12:6",
+      "text": "ἔχει ἐκεῖ τόπον",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "τρέφεται ἐκεῖ καιρὸν",
+      "highlightedWord": "ἐκεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Re 21:25",
+      "text": "ἔσται ἐκεῖ,",
+      "highlightedWord": "ἐκεῖ,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

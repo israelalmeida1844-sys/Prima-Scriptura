@@ -1,0 +1,325 @@
+{
+  "strong": "G4105",
+  "lemma": "πλανάω",
+  "lemmaTranslit": "planaō",
+  "tokenCount": 39,
+  "verseCount": 37,
+  "bookDistribution": {
+    "Mateus": 8,
+    "Marcos": 4,
+    "Lucas": 1,
+    "João": 2,
+    "1 Coríntios": 2,
+    "Gálatas": 1,
+    "2 Timóteo": 2,
+    "Tito": 1,
+    "Hebreus": 3,
+    "Tiago": 2,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "1 João": 3,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Mt 18:12",
+      "text": "καὶ πλανηθῇ ἓν",
+      "highlightedWord": "πλανηθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Mt 18:13",
+      "text": "μὴ πεπλανημένοις.",
+      "highlightedWord": "πεπλανημένοις."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Mt 22:29",
+      "text": "αὐτοῖς· Πλανᾶσθε μὴ",
+      "highlightedWord": "Πλανᾶσθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 4,
+      "reference": "Mt 24:4",
+      "text": "ὑμᾶς πλανήσῃ·",
+      "highlightedWord": "πλανήσῃ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Mt 24:5",
+      "text": "πολλοὺς πλανήσουσιν.",
+      "highlightedWord": "πλανήσουσιν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Mt 24:11",
+      "text": "καὶ πλανήσουσιν πολλούς·",
+      "highlightedWord": "πλανήσουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Mt 24:24",
+      "text": "ὥστε πλανῆσαι εἰ",
+      "highlightedWord": "πλανῆσαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Mk 12:24",
+      "text": "τοῦτο πλανᾶσθε μὴ",
+      "highlightedWord": "πλανᾶσθε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Mk 12:27",
+      "text": "πολὺ πλανᾶσθε.",
+      "highlightedWord": "πλανᾶσθε."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mk 13:5",
+      "text": "ὑμᾶς πλανήσῃ·",
+      "highlightedWord": "πλανήσῃ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Mk 13:6",
+      "text": "πολλοὺς πλανήσουσιν.",
+      "highlightedWord": "πλανήσουσιν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Lk 21:8",
+      "text": "μὴ πλανηθῆτε· πολλοὶ",
+      "highlightedWord": "πλανηθῆτε·"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Jn 7:12",
+      "text": "ἀλλὰ πλανᾷ τὸν",
+      "highlightedWord": "πλανᾷ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 47,
+      "reference": "Jn 7:47",
+      "text": "ὑμεῖς πεπλάνησθε;",
+      "highlightedWord": "πεπλάνησθε;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Co 6:9",
+      "text": "μὴ πλανᾶσθε· οὔτε",
+      "highlightedWord": "πλανᾶσθε·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 33,
+      "reference": "1Co 15:33",
+      "text": "μὴ πλανᾶσθε· φθείρουσιν",
+      "highlightedWord": "πλανᾶσθε·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Ga 6:7",
+      "text": "μὴ πλανᾶσθε, θεὸς",
+      "highlightedWord": "πλανᾶσθε,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Ti 3:13",
+      "text": "χεῖρον, πλανῶντες καὶ",
+      "highlightedWord": "πλανῶντες"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Tit 3:3",
+      "text": "ἀπειθεῖς, πλανώμενοι, δουλεύοντες",
+      "highlightedWord": "πλανώμενοι,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Heb 3:10",
+      "text": "Ἀεὶ πλανῶνται τῇ",
+      "highlightedWord": "πλανῶνται"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Heb 5:2",
+      "text": "καὶ πλανωμένοις ἐπεὶ",
+      "highlightedWord": "πλανωμένοις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 38,
+      "reference": "Heb 11:38",
+      "text": "ἐρημίαις πλανώμενοι καὶ",
+      "highlightedWord": "πλανώμενοι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Jas 1:16",
+      "text": "μὴ πλανᾶσθε, ἀδελφοί",
+      "highlightedWord": "πλανᾶσθε,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jas 5:19",
+      "text": "ὑμῖν πλανηθῇ ἀπὸ",
+      "highlightedWord": "πλανηθῇ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "1Pe 2:25",
+      "text": "πρόβατα πλανώμενοι, ἀλλὰ",
+      "highlightedWord": "πλανώμενοι,"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "2Pe 2:15",
+      "text": "ὁδὸν ἐπλανήθησαν, ἐξακολουθήσαντες",
+      "highlightedWord": "ἐπλανήθησαν,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Jn 1:8",
+      "text": "ἑαυτοὺς πλανῶμεν καὶ",
+      "highlightedWord": "πλανῶμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "1Jn 2:26",
+      "text": "τῶν πλανώντων ὑμᾶς.",
+      "highlightedWord": "πλανώντων"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Jn 3:7",
+      "text": "μηδεὶς πλανάτω ὑμᾶς·",
+      "highlightedWord": "πλανάτω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "καὶ πλανᾷ τοὺς",
+      "highlightedWord": "πλανᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "ὁ πλανῶν τὴν",
+      "highlightedWord": "πλανῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Re 13:14",
+      "text": "καὶ πλανᾷ τοὺς",
+      "highlightedWord": "πλανᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Re 18:23",
+      "text": "σου ἐπλανήθησαν πάντα",
+      "highlightedWord": "ἐπλανήθησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Re 19:20",
+      "text": "οἷς ἐπλάνησεν τοὺς",
+      "highlightedWord": "ἐπλάνησεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "μὴ πλανήσῃ ἔτι",
+      "highlightedWord": "πλανήσῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Re 20:8",
+      "text": "ἐξελεύσεται πλανῆσαι τὰ",
+      "highlightedWord": "πλανῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Re 20:10",
+      "text": "ὁ πλανῶν αὐτοὺς",
+      "highlightedWord": "πλανῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

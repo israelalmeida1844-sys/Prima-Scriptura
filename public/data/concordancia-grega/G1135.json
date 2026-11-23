@@ -1,0 +1,1558 @@
+{
+  "strong": "G1135",
+  "lemma": "γυνή",
+  "lemmaTranslit": "gynē",
+  "tokenCount": 212,
+  "verseCount": 191,
+  "bookDistribution": {
+    "Mateus": 30,
+    "Marcos": 17,
+    "Lucas": 41,
+    "João": 18,
+    "Atos": 19,
+    "Romanos": 1,
+    "1 Coríntios": 41,
+    "Gálatas": 1,
+    "Efésios": 9,
+    "Colossenses": 2,
+    "1 Timóteo": 9,
+    "Tito": 1,
+    "Hebreus": 1,
+    "1 Pedro": 3,
+    "Apocalipse": 19
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mt 1:20",
+      "text": "τὴν γυναῖκά σου,",
+      "highlightedWord": "γυναῖκά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Mt 1:24",
+      "text": "τὴν γυναῖκα αὐτοῦ·",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Mt 5:28",
+      "text": "βλέπων γυναῖκα πρὸς",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Mt 5:31",
+      "text": "τὴν γυναῖκα αὐτοῦ,",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "Mt 5:32",
+      "text": "τὴν γυναῖκα αὐτοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Mt 9:20",
+      "text": "ἰδοὺ γυνὴ αἱμορροοῦσα",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mt 9:22",
+      "text": "ἡ γυνὴ ἀπὸ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Mt 11:11",
+      "text": "γεννητοῖς γυναικῶν μείζων",
+      "highlightedWord": "γυναικῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Mt 13:33",
+      "text": "λαβοῦσα γυνὴ ἐνέκρυψεν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Mt 14:3",
+      "text": "τὴν γυναῖκα Φιλίππου",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Mt 14:21",
+      "text": "χωρὶς γυναικῶν καὶ",
+      "highlightedWord": "γυναικῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Mt 15:22",
+      "text": "ἰδοὺ γυνὴ Χαναναία",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Mt 15:28",
+      "text": "Ὦ γύναι, μεγάλη",
+      "highlightedWord": "γύναι,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 38,
+      "reference": "Mt 15:38",
+      "text": "χωρὶς γυναικῶν καὶ",
+      "highlightedWord": "γυναικῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Mt 18:25",
+      "text": "τὴν γυναῖκα καὶ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Mt 19:3",
+      "text": "τὴν γυναῖκα αὐτοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Mt 19:5",
+      "text": "τῇ γυναικὶ αὐτοῦ,",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Mt 19:8",
+      "text": "τὰς γυναῖκας ὑμῶν,",
+      "highlightedWord": "γυναῖκας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Mt 19:9",
+      "text": "τὴν γυναῖκα αὐτοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Mt 19:10",
+      "text": "τῆς γυναικός, οὐ",
+      "highlightedWord": "γυναικός,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Mt 19:29",
+      "text": "ἢ γυναῖκα ἢ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Mt 22:24",
+      "text": "τὴν γυναῖκα αὐτοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Mt 22:25",
+      "text": "τὴν γυναῖκα αὐτοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 27,
+      "reference": "Mt 22:27",
+      "text": "ἡ γυνή.",
+      "highlightedWord": "γυνή."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 28,
+      "reference": "Mt 22:28",
+      "text": "ἔσται γυνή; πάντες",
+      "highlightedWord": "γυνή;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 7,
+      "reference": "Mt 26:7",
+      "text": "αὐτῷ γυνὴ ἔχουσα",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Mt 26:10",
+      "text": "τῇ γυναικί; ἔργον",
+      "highlightedWord": "γυναικί;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Mt 27:19",
+      "text": "ἡ γυνὴ αὐτοῦ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 55,
+      "reference": "Mt 27:55",
+      "text": "ἐκεῖ γυναῖκες πολλαὶ",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Mt 28:5",
+      "text": "ταῖς γυναιξίν· Μὴ",
+      "highlightedWord": "γυναιξίν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Mk 5:25",
+      "text": "καὶ γυνὴ οὖσα",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Mk 5:33",
+      "text": "δὲ γυνὴ φοβηθεῖσα",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Mk 6:17",
+      "text": "τὴν γυναῖκα Φιλίππου",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Mk 6:18",
+      "text": "τὴν γυναῖκα τοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Mk 7:25",
+      "text": "ἀκούσασα γυνὴ περὶ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Mk 7:26",
+      "text": "δὲ γυνὴ ἦν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Mk 10:2",
+      "text": "ἀνδρὶ γυναῖκα ἀπολῦσαι,",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Mk 10:7",
+      "text": "τὴν γυναῖκα αὐτοῦ,",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mk 10:11",
+      "text": "τὴν γυναῖκα αὐτοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mk 12:19",
+      "text": "καταλίπῃ γυναῖκα καὶ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Mk 12:20",
+      "text": "ἔλαβεν γυναῖκα, καὶ",
+      "highlightedWord": "γυναῖκα,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Mk 12:22",
+      "text": "ἡ γυνὴ ἀπέθανεν.",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Mk 12:23",
+      "text": "ἔσται γυνή; οἱ",
+      "highlightedWord": "γυνή;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Mk 14:3",
+      "text": "ἦλθεν γυνὴ ἔχουσα",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 40,
+      "reference": "Mk 15:40",
+      "text": "καὶ γυναῖκες ἀπὸ",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Lk 1:5",
+      "text": "καὶ γυνὴ αὐτῷ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Lk 1:13",
+      "text": "ἡ γυνή σου",
+      "highlightedWord": "γυνή"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Lk 1:18",
+      "text": "ἡ γυνή μου",
+      "highlightedWord": "γυνή"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Lk 1:24",
+      "text": "ἡ γυνὴ αὐτοῦ·",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 42,
+      "reference": "Lk 1:42",
+      "text": "ἐν γυναιξίν, καὶ",
+      "highlightedWord": "γυναιξίν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Lk 3:19",
+      "text": "τῆς γυναικὸς τοῦ",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Lk 4:26",
+      "text": "πρὸς γυναῖκα χήραν.",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Lk 7:28",
+      "text": "γεννητοῖς γυναικῶν Ἰωάννου",
+      "highlightedWord": "γυναικῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Lk 7:37",
+      "text": "ἰδοὺ γυνὴ ἥτις",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Lk 7:39",
+      "text": "ἡ γυνὴ ἥτις",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Lk 7:44",
+      "text": "τὴν γυναῖκα τῷ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 50,
+      "reference": "Lk 7:50",
+      "text": "τὴν γυναῖκα· Ἡ",
+      "highlightedWord": "γυναῖκα·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Lk 8:2",
+      "text": "καὶ γυναῖκές τινες",
+      "highlightedWord": "γυναῖκές"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Lk 8:3",
+      "text": "Ἰωάννα γυνὴ Χουζᾶ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 43,
+      "reference": "Lk 8:43",
+      "text": "καὶ γυνὴ οὖσα",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 47,
+      "reference": "Lk 8:47",
+      "text": "ἡ γυνὴ ὅτι",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Lk 10:38",
+      "text": "τινά· γυνὴ δέ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Lk 11:27",
+      "text": "φωνὴν γυνὴ ἐκ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Lk 13:11",
+      "text": "ἰδοὺ γυνὴ πνεῦμα",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Lk 13:12",
+      "text": "αὐτῇ· Γύναι, ἀπολέλυσαι",
+      "highlightedWord": "Γύναι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Lk 13:21",
+      "text": "λαβοῦσα γυνὴ ἔκρυψεν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Lk 14:20",
+      "text": "εἶπεν· Γυναῖκα ἔγημα",
+      "highlightedWord": "Γυναῖκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "τὴν γυναῖκα καὶ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Lk 15:8",
+      "text": "τίς γυνὴ δραχμὰς",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Lk 16:18",
+      "text": "τὴν γυναῖκα αὐτοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 32,
+      "reference": "Lk 17:32",
+      "text": "τῆς γυναικὸς Λώτ.",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Lk 18:29",
+      "text": "ἢ γυναῖκα ἢ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Lk 20:28",
+      "text": "ἔχων γυναῖκα, καὶ",
+      "highlightedWord": "γυναῖκα,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Lk 20:29",
+      "text": "λαβὼν γυναῖκα ἀπέθανεν",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 32,
+      "reference": "Lk 20:32",
+      "text": "ἡ γυνὴ ἀπέθανεν.",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 33,
+      "reference": "Lk 20:33",
+      "text": "ἡ γυνὴ οὖν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 57,
+      "reference": "Lk 22:57",
+      "text": "αὐτόν, γύναι.",
+      "highlightedWord": "γύναι."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 27,
+      "reference": "Lk 23:27",
+      "text": "καὶ γυναικῶν αἳ",
+      "highlightedWord": "γυναικῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 49,
+      "reference": "Lk 23:49",
+      "text": "καὶ γυναῖκες αἱ",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 55,
+      "reference": "Lk 23:55",
+      "text": "αἱ γυναῖκες, αἵτινες",
+      "highlightedWord": "γυναῖκες,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Lk 24:22",
+      "text": "καὶ γυναῖκές τινες",
+      "highlightedWord": "γυναῖκές"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Lk 24:24",
+      "text": "αἱ γυναῖκες εἶπον,",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Jn 2:4",
+      "text": "σοί, γύναι; οὔπω",
+      "highlightedWord": "γύναι;"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Jn 4:7",
+      "text": "Ἔρχεται γυνὴ ἐκ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Jn 4:9",
+      "text": "ἡ γυνὴ ἡ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "ἡ γυνή· Κύριε,",
+      "highlightedWord": "γυνή·"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jn 4:15",
+      "text": "ἡ γυνή· Κύριε,",
+      "highlightedWord": "γυνή·"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Jn 4:17",
+      "text": "ἡ γυνὴ καὶ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Jn 4:19",
+      "text": "ἡ γυνή· Κύριε,",
+      "highlightedWord": "γυνή·"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Jn 4:21",
+      "text": "μοι, γύναι, ὅτι",
+      "highlightedWord": "γύναι,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Jn 4:25",
+      "text": "ἡ γυνή· Οἶδα",
+      "highlightedWord": "γυνή·"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Jn 4:27",
+      "text": "μετὰ γυναικὸς ἐλάλει·",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Jn 4:28",
+      "text": "ἡ γυνὴ καὶ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 39,
+      "reference": "Jn 4:39",
+      "text": "τῆς γυναικὸς μαρτυρούσης",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 42,
+      "reference": "Jn 4:42",
+      "text": "τε γυναικὶ ἔλεγον",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Jn 16:21",
+      "text": "ἡ γυνὴ ὅταν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Jn 19:26",
+      "text": "μητρί· Γύναι, ἴδε",
+      "highlightedWord": "Γύναι,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Jn 20:13",
+      "text": "ἐκεῖνοι· Γύναι, τί",
+      "highlightedWord": "Γύναι,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Jn 20:15",
+      "text": "Ἰησοῦς· Γύναι, τί",
+      "highlightedWord": "Γύναι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Ac 1:14",
+      "text": "σὺν γυναιξὶν καὶ",
+      "highlightedWord": "γυναιξὶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ac 5:1",
+      "text": "τῇ γυναικὶ αὐτοῦ",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ac 5:2",
+      "text": "τῆς γυναικός, καὶ",
+      "highlightedWord": "γυναικός,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ac 5:7",
+      "text": "ἡ γυνὴ αὐτοῦ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Ac 5:14",
+      "text": "καὶ γυναικῶν·",
+      "highlightedWord": "γυναικῶν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Ac 8:3",
+      "text": "καὶ γυναῖκας παρεδίδου",
+      "highlightedWord": "γυναῖκας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Ac 8:12",
+      "text": "καὶ γυναῖκες.",
+      "highlightedWord": "γυναῖκες."
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ac 9:2",
+      "text": "καὶ γυναῖκας, δεδεμένους",
+      "highlightedWord": "γυναῖκας,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 50,
+      "reference": "Ac 13:50",
+      "text": "σεβομένας γυναῖκας τὰς",
+      "highlightedWord": "γυναῖκας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Ac 16:1",
+      "text": "υἱὸς γυναικὸς Ἰουδαίας",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Ac 16:13",
+      "text": "συνελθούσαις γυναιξίν.",
+      "highlightedWord": "γυναιξίν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Ac 16:14",
+      "text": "τις γυνὴ ὀνόματι",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Ac 17:4",
+      "text": "πολὺ γυναικῶν τε",
+      "highlightedWord": "γυναικῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Ac 17:12",
+      "text": "Ἑλληνίδων γυναικῶν τῶν",
+      "highlightedWord": "γυναικῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 34,
+      "reference": "Ac 17:34",
+      "text": "καὶ γυνὴ ὀνόματι",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Ac 18:2",
+      "text": "Πρίσκιλλαν γυναῖκα αὐτοῦ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Ac 21:5",
+      "text": "σὺν γυναιξὶ καὶ",
+      "highlightedWord": "γυναιξὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Ac 22:4",
+      "text": "καὶ γυναῖκας,",
+      "highlightedWord": "γυναῖκας,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Ac 24:24",
+      "text": "ἰδίᾳ γυναικὶ οὔσῃ",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Ro 7:2",
+      "text": "ὕπανδρος γυνὴ τῷ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Co 5:1",
+      "text": "ὥστε γυναῖκά τινα",
+      "highlightedWord": "γυναῖκά"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "1Co 7:1",
+      "text": "ἀνθρώπῳ γυναικὸς μὴ",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "1Co 7:2",
+      "text": "ἑαυτοῦ γυναῖκα ἐχέτω,",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "1Co 7:3",
+      "text": "τῇ γυναικὶ ὁ",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "1Co 7:4",
+      "text": "ἡ γυνὴ τοῦ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "1Co 7:10",
+      "text": "κύριος, γυναῖκα ἀπὸ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "1Co 7:11",
+      "text": "ἄνδρα γυναῖκα μὴ",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "1Co 7:12",
+      "text": "ἀδελφὸς γυναῖκα ἔχει",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "1Co 7:13",
+      "text": "καὶ γυνὴ εἴ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "1Co 7:14",
+      "text": "τῇ γυναικί, καὶ",
+      "highlightedWord": "γυναικί,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "1Co 7:16",
+      "text": "οἶδας, γύναι, εἰ",
+      "highlightedWord": "γύναι,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "1Co 7:27",
+      "text": "δέδεσαι γυναικί; μὴ",
+      "highlightedWord": "γυναικί;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "1Co 7:29",
+      "text": "ἔχοντες γυναῖκας ὡς",
+      "highlightedWord": "γυναῖκας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "1Co 7:33",
+      "text": "τῇ γυναικί,",
+      "highlightedWord": "γυναικί,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "1Co 7:34",
+      "text": "ἡ γυνὴ ἡ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "1Co 7:39",
+      "text": "Γυνὴ δέδεται",
+      "highlightedWord": "Γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "1Co 9:5",
+      "text": "ἀδελφὴν γυναῖκα περιάγειν,",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "1Co 11:3",
+      "text": "δὲ γυναικὸς ὁ",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "1Co 11:5",
+      "text": "δὲ γυνὴ προσευχομένη",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "1Co 11:6",
+      "text": "κατακαλύπτεται γυνή, καὶ",
+      "highlightedWord": "γυνή,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "1Co 11:7",
+      "text": "ἡ γυνὴ δὲ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "1Co 11:8",
+      "text": "ἐκ γυναικός, ἀλλὰ",
+      "highlightedWord": "γυναικός,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "1Co 11:9",
+      "text": "τὴν γυναῖκα, ἀλλὰ",
+      "highlightedWord": "γυναῖκα,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "1Co 11:10",
+      "text": "ἡ γυνὴ ἐξουσίαν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "1Co 11:11",
+      "text": "οὔτε γυνὴ χωρὶς",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "1Co 11:12",
+      "text": "ἡ γυνὴ ἐκ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "1Co 11:13",
+      "text": "ἐστὶν γυναῖκα ἀκατακάλυπτον",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "1Co 11:15",
+      "text": "γυνὴ δὲ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 34,
+      "reference": "1Co 14:34",
+      "text": "Αἱ γυναῖκες ἐν",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "1Co 14:35",
+      "text": "ἐστιν γυναικὶ λαλεῖν",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Ga 4:4",
+      "text": "ἐκ γυναικός, γενόμενον",
+      "highlightedWord": "γυναικός,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Eph 5:22",
+      "text": "Αἱ γυναῖκες τοῖς",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Eph 5:23",
+      "text": "τῆς γυναικὸς ὡς",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Eph 5:24",
+      "text": "αἱ γυναῖκες τοῖς",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Eph 5:25",
+      "text": "τὰς γυναῖκας, καθὼς",
+      "highlightedWord": "γυναῖκας,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Eph 5:28",
+      "text": "ἑαυτῶν γυναῖκας ὡς",
+      "highlightedWord": "γυναῖκας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Eph 5:31",
+      "text": "τῇ γυναικὶ αὐτοῦ,",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "ἑαυτοῦ γυναῖκα οὕτως",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Col 3:18",
+      "text": "Αἱ γυναῖκες, ὑποτάσσεσθε",
+      "highlightedWord": "γυναῖκες,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Col 3:19",
+      "text": "τὰς γυναῖκας καὶ",
+      "highlightedWord": "γυναῖκας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Ti 2:9",
+      "text": "καὶ γυναῖκας ἐν",
+      "highlightedWord": "γυναῖκας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "1Ti 2:10",
+      "text": "πρέπει γυναιξὶν ἐπαγγελλομέναις",
+      "highlightedWord": "γυναιξὶν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Ti 2:11",
+      "text": "γυνὴ ἐν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Ti 2:12",
+      "text": "δὲ γυναικὶ οὐκ",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Ti 2:14",
+      "text": "δὲ γυνὴ ἐξαπατηθεῖσα",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Ti 3:2",
+      "text": "μιᾶς γυναικὸς ἄνδρα,",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Ti 3:11",
+      "text": "γυναῖκας ὡσαύτως",
+      "highlightedWord": "γυναῖκας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Ti 3:12",
+      "text": "μιᾶς γυναικὸς ἄνδρες,",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Ti 5:9",
+      "text": "ἀνδρὸς γυνή,",
+      "highlightedWord": "γυνή,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Tit 1:6",
+      "text": "μιᾶς γυναικὸς ἀνήρ,",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 35,
+      "reference": "Heb 11:35",
+      "text": "ἔλαβον γυναῖκες ἐξ",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Pe 3:1",
+      "text": "Ὁμοίως γυναῖκες ὑποτασσόμεναι",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Pe 3:5",
+      "text": "ἅγιαι γυναῖκες αἱ",
+      "highlightedWord": "γυναῖκες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "τὴν γυναῖκα Ἰεζάβελ,",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Re 9:8",
+      "text": "τρίχας γυναικῶν, καὶ",
+      "highlightedWord": "γυναικῶν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Re 12:1",
+      "text": "οὐρανῷ, γυνὴ περιβεβλημένη",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "τῆς γυναικὸς τῆς",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Re 12:6",
+      "text": "ἡ γυνὴ ἔφυγεν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Re 12:13",
+      "text": "τὴν γυναῖκα ἥτις",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "τῇ γυναικὶ αἱ",
+      "highlightedWord": "γυναικὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Re 12:15",
+      "text": "τῆς γυναικὸς ὕδωρ",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Re 12:16",
+      "text": "τῇ γυναικί, καὶ",
+      "highlightedWord": "γυναικί,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Re 12:17",
+      "text": "τῇ γυναικί, καὶ",
+      "highlightedWord": "γυναικί,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Re 14:4",
+      "text": "μετὰ γυναικῶν οὐκ",
+      "highlightedWord": "γυναικῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Re 17:3",
+      "text": "εἶδον γυναῖκα καθημένην",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Re 17:4",
+      "text": "ἡ γυνὴ ἦν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Re 17:6",
+      "text": "τὴν γυναῖκα μεθύουσαν",
+      "highlightedWord": "γυναῖκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Re 17:7",
+      "text": "τῆς γυναικὸς καὶ",
+      "highlightedWord": "γυναικὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Re 17:9",
+      "text": "ἡ γυνὴ κάθηται",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Re 17:18",
+      "text": "ἡ γυνὴ ἣν",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Re 19:7",
+      "text": "ἡ γυνὴ αὐτοῦ",
+      "highlightedWord": "γυνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Re 21:9",
+      "text": "τὴν γυναῖκα τοῦ",
+      "highlightedWord": "γυναῖκα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

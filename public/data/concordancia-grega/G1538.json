@@ -1,0 +1,641 @@
+{
+  "strong": "G1538",
+  "lemma": "ἕκαστος",
+  "lemmaTranslit": "hekastos",
+  "tokenCount": 81,
+  "verseCount": 76,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 1,
+    "Lucas": 5,
+    "João": 3,
+    "Atos": 11,
+    "Romanos": 5,
+    "1 Coríntios": 22,
+    "2 Coríntios": 2,
+    "Gálatas": 2,
+    "Efésios": 5,
+    "Filipenses": 2,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 5,
+    "Tiago": 1,
+    "1 Pedro": 2,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Mt 16:27",
+      "text": "ἀποδώσει ἑκάστῳ κατὰ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Mt 18:35",
+      "text": "ἀφῆτε ἕκαστος τῷ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Mt 25:15",
+      "text": "ἕν, ἑκάστῳ κατὰ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Mt 26:22",
+      "text": "εἷς ἕκαστος· Μήτι",
+      "highlightedWord": "ἕκαστος·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mk 13:34",
+      "text": "ἐξουσίαν, ἑκάστῳ τὸ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Lk 2:3",
+      "text": "ἀπογράφεσθαι, ἕκαστος εἰς",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Lk 4:40",
+      "text": "ἑνὶ ἑκάστῳ αὐτῶν",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Lk 6:44",
+      "text": "ἕκαστον γὰρ",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Lk 13:15",
+      "text": "Ὑποκριταί, ἕκαστος ὑμῶν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Lk 16:5",
+      "text": "ἕνα ἕκαστον τῶν",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Jn 6:7",
+      "text": "ἵνα ἕκαστος βραχύ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 32,
+      "reference": "Jn 16:32",
+      "text": "σκορπισθῆτε ἕκαστος εἰς",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Jn 19:23",
+      "text": "μέρη, ἑκάστῳ στρατιώτῃ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Ac 2:3",
+      "text": "ἕνα ἕκαστον αὐτῶν,",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ac 2:6",
+      "text": "εἷς ἕκαστος τῇ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Ac 2:8",
+      "text": "ἀκούομεν ἕκαστος τῇ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "Ac 2:38",
+      "text": "βαπτισθήτω ἕκαστος ὑμῶν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Ac 3:26",
+      "text": "ἀποστρέφειν ἕκαστον ἀπὸ",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "δὲ ἑκάστῳ καθότι",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Ac 11:29",
+      "text": "ὥρισαν ἕκαστος αὐτῶν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Ac 17:27",
+      "text": "ἑνὸς ἑκάστου ἡμῶν",
+      "highlightedWord": "ἑκάστου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Ac 20:31",
+      "text": "ἕνα ἕκαστον.",
+      "highlightedWord": "ἕκαστον."
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Ac 21:19",
+      "text": "ἓν ἕκαστον ὧν",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Ac 21:26",
+      "text": "ἑνὸς ἑκάστου αὐτῶν",
+      "highlightedWord": "ἑκάστου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ro 2:6",
+      "text": "ἀποδώσει ἑκάστῳ κατὰ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Ro 12:3",
+      "text": "σωφρονεῖν, ἑκάστῳ ὡς",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Ro 14:5",
+      "text": "ἡμέραν· ἕκαστος ἐν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Ro 14:12",
+      "text": "ἄρα ἕκαστος ἡμῶν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ro 15:2",
+      "text": "ἕκαστος ἡμῶν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "1Co 1:12",
+      "text": "ὅτι ἕκαστος ὑμῶν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Co 3:5",
+      "text": "καὶ ἑκάστῳ ὡς",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Co 3:8",
+      "text": "εἰσιν, ἕκαστος δὲ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Co 3:10",
+      "text": "ἐποικοδομεῖ. ἕκαστος δὲ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Co 3:13",
+      "text": "ἑκάστου τὸ",
+      "highlightedWord": "ἑκάστου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Co 4:5",
+      "text": "γενήσεται ἑκάστῳ ἀπὸ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "1Co 7:2",
+      "text": "πορνείας ἕκαστος τὴν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "1Co 7:7",
+      "text": "ἀλλὰ ἕκαστος ἴδιον",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "1Co 7:17",
+      "text": "μὴ ἑκάστῳ ὡς",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "1Co 7:20",
+      "text": "ἕκαστος ἐν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "1Co 7:24",
+      "text": "ἕκαστος ἐν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "1Co 11:21",
+      "text": "ἕκαστος γὰρ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "1Co 12:7",
+      "text": "ἑκάστῳ δὲ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "1Co 12:11",
+      "text": "ἰδίᾳ ἑκάστῳ καθὼς",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "1Co 12:18",
+      "text": "ἓν ἕκαστον αὐτῶν,",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "1Co 14:26",
+      "text": "συνέρχησθε, ἕκαστος ψαλμὸν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "1Co 15:23",
+      "text": "ἕκαστος δὲ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 38,
+      "reference": "1Co 15:38",
+      "text": "καὶ ἑκάστῳ τῶν",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "σαββάτου ἕκαστος ὑμῶν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "2Co 5:10",
+      "text": "κομίσηται ἕκαστος τὰ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "2Co 9:7",
+      "text": "ἕκαστος καθὼς",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ga 6:4",
+      "text": "δοκιμαζέτω ἕκαστος, καὶ",
+      "highlightedWord": "ἕκαστος,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Ga 6:5",
+      "text": "ἕκαστος γὰρ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Eph 4:7",
+      "text": "δὲ ἑκάστῳ ἡμῶν",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Eph 4:16",
+      "text": "ἑνὸς ἑκάστου μέρους",
+      "highlightedWord": "ἑκάστου"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Eph 4:25",
+      "text": "ἀλήθειαν ἕκαστος μετὰ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "ἕνα ἕκαστος τὴν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Eph 6:8",
+      "text": "ὅτι ἕκαστος, ὃ",
+      "highlightedWord": "ἕκαστος,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Php 2:4",
+      "text": "ἑαυτῶν ἕκαστοι σκοποῦντες,",
+      "highlightedWord": "ἕκαστοι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Col 4:6",
+      "text": "ἑνὶ ἑκάστῳ ἀποκρίνεσθαι.",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Th 2:11",
+      "text": "ἕνα ἕκαστον ὑμῶν",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Th 4:4",
+      "text": "εἰδέναι ἕκαστον ὑμῶν",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Th 1:3",
+      "text": "ἑνὸς ἑκάστου πάντων",
+      "highlightedWord": "ἑκάστου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "καθ’ ἑκάστην ἡμέραν,",
+      "highlightedWord": "ἑκάστην"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Heb 6:11",
+      "text": "δὲ ἕκαστον ὑμῶν",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Heb 8:11",
+      "text": "διδάξωσιν ἕκαστος τὸν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Heb 11:21",
+      "text": "ἀποθνῄσκων ἕκαστον τῶν",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Jas 1:14",
+      "text": "ἕκαστος δὲ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Pe 1:17",
+      "text": "τὸ ἑκάστου ἔργον,",
+      "highlightedWord": "ἑκάστου"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Pe 4:10",
+      "text": "ἕκαστος καθὼς",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "ὑμῖν ἑκάστῳ κατὰ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "ἔχοντες ἕκαστος κιθάραν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "αὐτοῖς ἑκάστῳ στολὴ",
+      "highlightedWord": "ἑκάστῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Re 20:13",
+      "text": "ἐκρίθησαν ἕκαστος κατὰ",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Re 21:21",
+      "text": "εἷς ἕκαστος τῶν",
+      "highlightedWord": "ἕκαστος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Re 22:2",
+      "text": "μῆνα ἕκαστον ἀποδιδοῦν",
+      "highlightedWord": "ἕκαστον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Re 22:12",
+      "text": "ἀποδοῦναι ἑκάστῳ ὡς",
+      "highlightedWord": "ἑκάστῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,775 @@
+{
+  "strong": "G1849",
+  "lemma": "ἐξουσία",
+  "lemmaTranslit": "exousia",
+  "tokenCount": 102,
+  "verseCount": 93,
+  "bookDistribution": {
+    "Mateus": 10,
+    "Marcos": 10,
+    "Lucas": 16,
+    "João": 8,
+    "Atos": 7,
+    "Romanos": 5,
+    "1 Coríntios": 10,
+    "2 Coríntios": 2,
+    "Efésios": 4,
+    "Colossenses": 4,
+    "2 Tessalonicenses": 1,
+    "Tito": 1,
+    "Hebreus": 1,
+    "1 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 21
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Mt 7:29",
+      "text": "ὡς ἐξουσίαν ἔχων",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Mt 8:9",
+      "text": "ὑπὸ ἐξουσίαν, ἔχων",
+      "highlightedWord": "ἐξουσίαν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mt 9:6",
+      "text": "ὅτι ἐξουσίαν ἔχει",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Mt 9:8",
+      "text": "δόντα ἐξουσίαν τοιαύτην",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Mt 10:1",
+      "text": "αὐτοῖς ἐξουσίαν πνευμάτων",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Mt 21:23",
+      "text": "ποίᾳ ἐξουσίᾳ ταῦτα",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Mt 21:24",
+      "text": "ποίᾳ ἐξουσίᾳ ταῦτα",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Mt 21:27",
+      "text": "ποίᾳ ἐξουσίᾳ ταῦτα",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 18,
+      "reference": "Mt 28:18",
+      "text": "πᾶσα ἐξουσία ἐν",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Mk 1:22",
+      "text": "ὡς ἐξουσίαν ἔχων",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Mk 1:27",
+      "text": "κατ’ ἐξουσίαν καὶ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mk 2:10",
+      "text": "ὅτι ἐξουσίαν ἔχει",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Mk 3:15",
+      "text": "ἔχειν ἐξουσίαν ἐκβάλλειν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Mk 6:7",
+      "text": "αὐτοῖς ἐξουσίαν τῶν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Mk 11:28",
+      "text": "ποίᾳ ἐξουσίᾳ ταῦτα",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Mk 11:29",
+      "text": "ποίᾳ ἐξουσίᾳ ταῦτα",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Mk 11:33",
+      "text": "ποίᾳ ἐξουσίᾳ ταῦτα",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mk 13:34",
+      "text": "τὴν ἐξουσίαν, ἑκάστῳ",
+      "highlightedWord": "ἐξουσίαν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Lk 4:6",
+      "text": "τὴν ἐξουσίαν ταύτην",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Lk 4:32",
+      "text": "ἐν ἐξουσίᾳ ἦν",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Lk 4:36",
+      "text": "ἐν ἐξουσίᾳ καὶ",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Lk 5:24",
+      "text": "ἀνθρώπου ἐξουσίαν ἔχει",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Lk 7:8",
+      "text": "ὑπὸ ἐξουσίαν τασσόμενος,",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Lk 9:1",
+      "text": "καὶ ἐξουσίαν ἐπὶ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Lk 10:19",
+      "text": "τὴν ἐξουσίαν τοῦ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Lk 12:5",
+      "text": "ἔχοντα ἐξουσίαν ἐμβαλεῖν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Lk 12:11",
+      "text": "τὰς ἐξουσίας, μὴ",
+      "highlightedWord": "ἐξουσίας,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Lk 19:17",
+      "text": "ἴσθι ἐξουσίαν ἔχων",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Lk 20:2",
+      "text": "ποίᾳ ἐξουσίᾳ ταῦτα",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Lk 20:8",
+      "text": "ποίᾳ ἐξουσίᾳ ταῦτα",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Lk 20:20",
+      "text": "τῇ ἐξουσίᾳ τοῦ",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 53,
+      "reference": "Lk 22:53",
+      "text": "ἡ ἐξουσία τοῦ",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 7,
+      "reference": "Lk 23:7",
+      "text": "τῆς ἐξουσίας Ἡρῴδου",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Jn 1:12",
+      "text": "αὐτοῖς ἐξουσίαν τέκνα",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Jn 5:27",
+      "text": "καὶ ἐξουσίαν ἔδωκεν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Jn 10:18",
+      "text": "ἐμαυτοῦ. ἐξουσίαν ἔχω",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Jn 17:2",
+      "text": "αὐτῷ ἐξουσίαν πάσης",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Jn 19:10",
+      "text": "ὅτι ἐξουσίαν ἔχω",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Jn 19:11",
+      "text": "εἶχες ἐξουσίαν κατ’",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ac 1:7",
+      "text": "ἰδίᾳ ἐξουσίᾳ,",
+      "highlightedWord": "ἐξουσίᾳ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Ac 5:4",
+      "text": "σῇ ἐξουσίᾳ ὑπῆρχεν;",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Ac 8:19",
+      "text": "τὴν ἐξουσίαν ταύτην",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ac 9:14",
+      "text": "ἔχει ἐξουσίαν παρὰ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Ac 26:10",
+      "text": "ἀρχιερέων ἐξουσίαν λαβών,",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 12,
+      "reference": "Ac 26:12",
+      "text": "μετ’ ἐξουσίας καὶ",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 18,
+      "reference": "Ac 26:18",
+      "text": "τῆς ἐξουσίας τοῦ",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ro 9:21",
+      "text": "ἔχει ἐξουσίαν ὁ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Ro 13:1",
+      "text": "ψυχὴ ἐξουσίαις ὑπερεχούσαις",
+      "highlightedWord": "ἐξουσίαις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Ro 13:2",
+      "text": "τῇ ἐξουσίᾳ τῇ",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ro 13:3",
+      "text": "τὴν ἐξουσίαν; τὸ",
+      "highlightedWord": "ἐξουσίαν;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "1Co 7:37",
+      "text": "ἀνάγκην, ἐξουσίαν δὲ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "1Co 8:9",
+      "text": "ἡ ἐξουσία ὑμῶν",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "1Co 9:4",
+      "text": "ἔχομεν ἐξουσίαν φαγεῖν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "1Co 9:5",
+      "text": "ἔχομεν ἐξουσίαν ἀδελφὴν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "1Co 9:6",
+      "text": "ἔχομεν ἐξουσίαν μὴ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "1Co 9:12",
+      "text": "ὑμῶν ἐξουσίας μετέχουσιν,",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "1Co 9:18",
+      "text": "τῇ ἐξουσίᾳ μου",
+      "highlightedWord": "ἐξουσίᾳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "1Co 11:10",
+      "text": "γυνὴ ἐξουσίαν ἔχειν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "1Co 15:24",
+      "text": "πᾶσαν ἐξουσίαν καὶ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "2Co 10:8",
+      "text": "τῆς ἐξουσίας ἡμῶν,",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "2Co 13:10",
+      "text": "τὴν ἐξουσίαν ἣν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Eph 1:21",
+      "text": "καὶ ἐξουσίας καὶ",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Eph 2:2",
+      "text": "τῆς ἐξουσίας τοῦ",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Eph 3:10",
+      "text": "ταῖς ἐξουσίαις ἐν",
+      "highlightedWord": "ἐξουσίαις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Eph 6:12",
+      "text": "τὰς ἐξουσίας, πρὸς",
+      "highlightedWord": "ἐξουσίας,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Col 1:13",
+      "text": "τῆς ἐξουσίας τοῦ",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Col 1:16",
+      "text": "εἴτε ἐξουσίαι· τὰ",
+      "highlightedWord": "ἐξουσίαι·"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Col 2:10",
+      "text": "καὶ ἐξουσίας,",
+      "highlightedWord": "ἐξουσίας,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Col 2:15",
+      "text": "τὰς ἐξουσίας ἐδειγμάτισεν",
+      "highlightedWord": "ἐξουσίας"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Th 3:9",
+      "text": "ἔχομεν ἐξουσίαν, ἀλλ’",
+      "highlightedWord": "ἐξουσίαν,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Tit 3:1",
+      "text": "ἀρχαῖς ἐξουσίαις ὑποτάσσεσθαι",
+      "highlightedWord": "ἐξουσίαις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Heb 13:10",
+      "text": "ἔχουσιν ἐξουσίαν οἱ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "1Pe 3:22",
+      "text": "καὶ ἐξουσιῶν καὶ",
+      "highlightedWord": "ἐξουσιῶν"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Jud 1:25",
+      "text": "καὶ ἐξουσία πρὸ",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Re 2:26",
+      "text": "αὐτῷ ἐξουσίαν ἐπὶ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Re 6:8",
+      "text": "αὐτοῖς ἐξουσία ἐπὶ",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Re 9:3",
+      "text": "αὐταῖς ἐξουσία ὡς",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Re 9:10",
+      "text": "ἡ ἐξουσία αὐτῶν",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Re 9:19",
+      "text": "γὰρ ἐξουσία τῶν",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "τὴν ἐξουσίαν κλεῖσαι",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Re 12:10",
+      "text": "ἡ ἐξουσία τοῦ",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Re 13:2",
+      "text": "καὶ ἐξουσίαν μεγάλην.",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Re 13:4",
+      "text": "τὴν ἐξουσίαν τῷ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Re 13:5",
+      "text": "αὐτῷ ἐξουσία ποιῆσαι",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Re 13:7",
+      "text": "αὐτῷ ἐξουσία ἐπὶ",
+      "highlightedWord": "ἐξουσία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Re 13:12",
+      "text": "τὴν ἐξουσίαν τοῦ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Re 14:18",
+      "text": "ἔχων ἐξουσίαν ἐπὶ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Re 16:9",
+      "text": "τὴν ἐξουσίαν ἐπὶ",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Re 17:12",
+      "text": "ἀλλὰ ἐξουσίαν ὡς",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Re 17:13",
+      "text": "καὶ ἐξουσίαν αὐτῶν",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Re 18:1",
+      "text": "ἔχοντα ἐξουσίαν μεγάλην,",
+      "highlightedWord": "ἐξουσίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Re 20:6",
+      "text": "ἔχει ἐξουσίαν, ἀλλ’",
+      "highlightedWord": "ἐξουσίαν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Re 22:14",
+      "text": "ἡ ἐξουσία αὐτῶν",
+      "highlightedWord": "ἐξουσία"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

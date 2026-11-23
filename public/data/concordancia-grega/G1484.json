@@ -1,0 +1,1215 @@
+{
+  "strong": "G1484",
+  "lemma": "ἔθνος",
+  "lemmaTranslit": "ethnos",
+  "tokenCount": 160,
+  "verseCount": 148,
+  "bookDistribution": {
+    "Mateus": 15,
+    "Marcos": 6,
+    "Lucas": 13,
+    "João": 5,
+    "Atos": 43,
+    "Romanos": 28,
+    "1 Coríntios": 3,
+    "2 Coríntios": 1,
+    "Gálatas": 10,
+    "Efésios": 5,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 2,
+    "1 Timóteo": 2,
+    "2 Timóteo": 1,
+    "1 Pedro": 3,
+    "Apocalipse": 22
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Mt 4:15",
+      "text": "τῶν ἐθνῶν,",
+      "highlightedWord": "ἐθνῶν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Mt 6:32",
+      "text": "τὰ ἔθνη ἐπιζητοῦσιν·",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Mt 10:5",
+      "text": "ὁδὸν ἐθνῶν μὴ",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Mt 10:18",
+      "text": "τοῖς ἔθνεσιν.",
+      "highlightedWord": "ἔθνεσιν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Mt 12:18",
+      "text": "τοῖς ἔθνεσιν ἀπαγγελεῖ.",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Mt 12:21",
+      "text": "αὐτοῦ ἔθνη ἐλπιοῦσιν.",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Mt 20:19",
+      "text": "τοῖς ἔθνεσιν εἰς",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Mt 20:25",
+      "text": "τῶν ἐθνῶν κατακυριεύουσιν",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 43,
+      "reference": "Mt 21:43",
+      "text": "δοθήσεται ἔθνει ποιοῦντι",
+      "highlightedWord": "ἔθνει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 7,
+      "reference": "Mt 24:7",
+      "text": "γὰρ ἔθνος ἐπὶ",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Mt 24:9",
+      "text": "τῶν ἐθνῶν διὰ",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 14,
+      "reference": "Mt 24:14",
+      "text": "τοῖς ἔθνεσιν, καὶ",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 32,
+      "reference": "Mt 25:32",
+      "text": "τὰ ἔθνη, καὶ",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Mt 28:19",
+      "text": "τὰ ἔθνη, βαπτίζοντες",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mk 10:33",
+      "text": "τοῖς ἔθνεσιν",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mk 10:42",
+      "text": "τῶν ἐθνῶν κατακυριεύουσιν",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Mk 11:17",
+      "text": "τοῖς ἔθνεσιν; ὑμεῖς",
+      "highlightedWord": "ἔθνεσιν;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Mk 13:8",
+      "text": "γὰρ ἔθνος ἐπ’",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Mk 13:10",
+      "text": "τὰ ἔθνη πρῶτον",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 32,
+      "reference": "Lk 2:32",
+      "text": "ἀποκάλυψιν ἐθνῶν καὶ",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Lk 7:5",
+      "text": "τὸ ἔθνος ἡμῶν",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "Lk 12:30",
+      "text": "τὰ ἔθνη τοῦ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Lk 18:32",
+      "text": "τοῖς ἔθνεσιν καὶ",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Lk 21:10",
+      "text": "Ἐγερθήσεται ἔθνος ἐπ’",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Lk 21:24",
+      "text": "τὰ ἔθνη πάντα,",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Lk 21:25",
+      "text": "συνοχὴ ἐθνῶν ἐν",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Lk 22:25",
+      "text": "τῶν ἐθνῶν κυριεύουσιν",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 2,
+      "reference": "Lk 23:2",
+      "text": "τὸ ἔθνος ἡμῶν",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 47,
+      "reference": "Lk 24:47",
+      "text": "τὰ ἔθνη— ἀρξάμενοι",
+      "highlightedWord": "ἔθνη—"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 48,
+      "reference": "Jn 11:48",
+      "text": "τὸ ἔθνος.",
+      "highlightedWord": "ἔθνος."
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 50,
+      "reference": "Jn 11:50",
+      "text": "τὸ ἔθνος ἀπόληται.",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 51,
+      "reference": "Jn 11:51",
+      "text": "τοῦ ἔθνους,",
+      "highlightedWord": "ἔθνους,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 52,
+      "reference": "Jn 11:52",
+      "text": "τοῦ ἔθνους μόνον,",
+      "highlightedWord": "ἔθνους"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Jn 18:35",
+      "text": "τὸ ἔθνος τὸ",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ac 2:5",
+      "text": "παντὸς ἔθνους τῶν",
+      "highlightedWord": "ἔθνους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Ac 4:25",
+      "text": "ἐφρύαξαν ἔθνη καὶ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Ac 4:27",
+      "text": "σὺν ἔθνεσιν καὶ",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ac 7:7",
+      "text": "τὸ ἔθνος ᾧ",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Ac 7:45",
+      "text": "τῶν ἐθνῶν ὧν",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ac 8:9",
+      "text": "τὸ ἔθνος τῆς",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Ac 9:15",
+      "text": "ἐνώπιον ἐθνῶν τε",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Ac 10:22",
+      "text": "τοῦ ἔθνους τῶν",
+      "highlightedWord": "ἔθνους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Ac 10:35",
+      "text": "παντὶ ἔθνει ὁ",
+      "highlightedWord": "ἔθνει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 45,
+      "reference": "Ac 10:45",
+      "text": "τὰ ἔθνη ἡ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Ac 11:1",
+      "text": "τὰ ἔθνη ἐδέξαντο",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Ac 11:18",
+      "text": "τοῖς ἔθνεσιν ὁ",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Ac 13:19",
+      "text": "καθελὼν ἔθνη ἑπτὰ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Ac 13:46",
+      "text": "τὰ ἔθνη·",
+      "highlightedWord": "ἔθνη·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 47,
+      "reference": "Ac 13:47",
+      "text": "φῶς ἐθνῶν τοῦ",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 48,
+      "reference": "Ac 13:48",
+      "text": "τὰ ἔθνη ἔχαιρον",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Ac 14:2",
+      "text": "τῶν ἐθνῶν κατὰ",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Ac 14:5",
+      "text": "τῶν ἐθνῶν τε",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Ac 14:16",
+      "text": "τὰ ἔθνη πορεύεσθαι",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Ac 14:27",
+      "text": "τοῖς ἔθνεσιν θύραν",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Ac 15:3",
+      "text": "τῶν ἐθνῶν, καὶ",
+      "highlightedWord": "ἐθνῶν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Ac 15:7",
+      "text": "τὰ ἔθνη τὸν",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "Ac 15:12",
+      "text": "τοῖς ἔθνεσιν δι’",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Ac 15:14",
+      "text": "ἐξ ἐθνῶν λαὸν",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Ac 15:17",
+      "text": "τὰ ἔθνη ἐφ’",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Ac 15:19",
+      "text": "τῶν ἐθνῶν ἐπιστρέφουσιν",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Ac 15:23",
+      "text": "ἐξ ἐθνῶν χαίρειν.",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Ac 17:26",
+      "text": "πᾶν ἔθνος ἀνθρώπων",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Ac 18:6",
+      "text": "τὰ ἔθνη πορεύσομαι.",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "χεῖρας ἐθνῶν.",
+      "highlightedWord": "ἐθνῶν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Ac 21:19",
+      "text": "τοῖς ἔθνεσιν διὰ",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Ac 21:21",
+      "text": "τὰ ἔθνη πάντας",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Ac 21:25",
+      "text": "πεπιστευκότων ἐθνῶν ἡμεῖς",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 21,
+      "reference": "Ac 22:21",
+      "text": "εἰς ἔθνη μακρὰν",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Ac 24:2",
+      "text": "τῷ ἔθνει τούτῳ",
+      "highlightedWord": "ἔθνει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 10,
+      "reference": "Ac 24:10",
+      "text": "τῷ ἔθνει τούτῳ",
+      "highlightedWord": "ἔθνει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 17,
+      "reference": "Ac 24:17",
+      "text": "τὸ ἔθνος μου",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Ac 26:4",
+      "text": "τῷ ἔθνει μου",
+      "highlightedWord": "ἔθνει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 17,
+      "reference": "Ac 26:17",
+      "text": "τῶν ἐθνῶν, εἰς",
+      "highlightedWord": "ἐθνῶν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 20,
+      "reference": "Ac 26:20",
+      "text": "τοῖς ἔθνεσιν ἀπήγγελλον",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 23,
+      "reference": "Ac 26:23",
+      "text": "τοῖς ἔθνεσιν.",
+      "highlightedWord": "ἔθνεσιν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Ac 28:19",
+      "text": "τοῦ ἔθνους μου",
+      "highlightedWord": "ἔθνους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 28,
+      "reference": "Ac 28:28",
+      "text": "τοῖς ἔθνεσιν ἀπεστάλη",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Ro 1:5",
+      "text": "τοῖς ἔθνεσιν ὑπὲρ",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "λοιποῖς ἔθνεσιν.",
+      "highlightedWord": "ἔθνεσιν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ro 2:14",
+      "text": "γὰρ ἔθνη τὰ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Ro 2:24",
+      "text": "τοῖς ἔθνεσιν, καθὼς",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Ro 3:29",
+      "text": "καὶ ἐθνῶν; ναὶ",
+      "highlightedWord": "ἐθνῶν;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ro 4:17",
+      "text": "πολλῶν ἐθνῶν τέθεικά",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ro 4:18",
+      "text": "πολλῶν ἐθνῶν κατὰ",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Ro 9:24",
+      "text": "ἐξ ἐθνῶν;—",
+      "highlightedWord": "ἐθνῶν;—"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Ro 9:30",
+      "text": "ὅτι ἔθνη τὰ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Ro 10:19",
+      "text": "οὐκ ἔθνει, ἐπ’",
+      "highlightedWord": "ἔθνει,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Ro 11:11",
+      "text": "τοῖς ἔθνεσιν, εἰς",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Ro 11:12",
+      "text": "πλοῦτος ἐθνῶν, πόσῳ",
+      "highlightedWord": "ἐθνῶν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Ro 11:13",
+      "text": "τοῖς ἔθνεσιν. ἐφ’",
+      "highlightedWord": "ἔθνεσιν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "τῶν ἐθνῶν εἰσέλθῃ,",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Ro 15:9",
+      "text": "δὲ ἔθνη ὑπὲρ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Ro 15:10",
+      "text": "Εὐφράνθητε, ἔθνη, μετὰ",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Ro 15:11",
+      "text": "τὰ ἔθνη, τὸν",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "Ro 15:12",
+      "text": "ἄρχειν ἐθνῶν· ἐπ’",
+      "highlightedWord": "ἐθνῶν·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Ro 15:16",
+      "text": "τὰ ἔθνη, ἱερουργοῦντα",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Ro 15:18",
+      "text": "ὑπακοὴν ἐθνῶν, λόγῳ",
+      "highlightedWord": "ἐθνῶν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Ro 15:27",
+      "text": "τὰ ἔθνη, ὀφείλουσιν",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Ro 16:4",
+      "text": "τῶν ἐθνῶν,",
+      "highlightedWord": "ἐθνῶν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "1Co 1:23",
+      "text": "σκάνδαλον ἔθνεσιν δὲ",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Co 5:1",
+      "text": "τοῖς ἔθνεσιν, ὥστε",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "1Co 12:2",
+      "text": "ὅτε ἔθνη ἦτε",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "2Co 11:26",
+      "text": "ἐξ ἐθνῶν, κινδύνοις",
+      "highlightedWord": "ἐθνῶν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ga 1:16",
+      "text": "τοῖς ἔθνεσιν, εὐθέως",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ga 2:2",
+      "text": "τοῖς ἔθνεσιν, κατ’",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Ga 2:8",
+      "text": "τὰ ἔθνη,",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ga 2:9",
+      "text": "τὰ ἔθνη, αὐτοὶ",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Ga 2:12",
+      "text": "τῶν ἐθνῶν συνήσθιεν·",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ga 2:14",
+      "text": "τὰ ἔθνη ἀναγκάζεις",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Ga 2:15",
+      "text": "ἐξ ἐθνῶν ἁμαρτωλοί,",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ga 3:8",
+      "text": "τὰ ἔθνη ὁ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Ga 3:14",
+      "text": "τὰ ἔθνη ἡ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Eph 2:11",
+      "text": "τὰ ἔθνη ἐν",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Eph 3:1",
+      "text": "τῶν ἐθνῶν—",
+      "highlightedWord": "ἐθνῶν—"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Eph 3:6",
+      "text": "τὰ ἔθνη συγκληρονόμα",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Eph 3:8",
+      "text": "τοῖς ἔθνεσιν εὐαγγελίσασθαι",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Eph 4:17",
+      "text": "τὰ ἔθνη περιπατεῖ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Col 1:27",
+      "text": "τοῖς ἔθνεσιν, ὅ",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Th 2:16",
+      "text": "τοῖς ἔθνεσιν λαλῆσαι",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Th 4:5",
+      "text": "τὰ ἔθνη τὰ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Ti 2:7",
+      "text": "διδάσκαλος ἐθνῶν ἐν",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Ti 3:16",
+      "text": "ἐν ἔθνεσιν, ἐπιστεύθη",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "2Ti 4:17",
+      "text": "τὰ ἔθνη, καὶ",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Pe 2:9",
+      "text": "ἱεράτευμα, ἔθνος ἅγιον,",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Pe 2:12",
+      "text": "τοῖς ἔθνεσιν ἔχοντες",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Pe 4:3",
+      "text": "τῶν ἐθνῶν κατειργάσθαι,",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Re 2:26",
+      "text": "τῶν ἐθνῶν,",
+      "highlightedWord": "ἐθνῶν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Re 5:9",
+      "text": "καὶ ἔθνους,",
+      "highlightedWord": "ἔθνους,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Re 7:9",
+      "text": "παντὸς ἔθνους καὶ",
+      "highlightedWord": "ἔθνους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Re 10:11",
+      "text": "καὶ ἔθνεσιν καὶ",
+      "highlightedWord": "ἔθνεσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Re 11:2",
+      "text": "τοῖς ἔθνεσιν, καὶ",
+      "highlightedWord": "ἔθνεσιν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Re 11:9",
+      "text": "καὶ ἐθνῶν τὸ",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Re 11:18",
+      "text": "τὰ ἔθνη ὠργίσθησαν,",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Re 12:5",
+      "text": "τὰ ἔθνη ἐν",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Re 13:7",
+      "text": "καὶ ἔθνος.",
+      "highlightedWord": "ἔθνος."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Re 14:6",
+      "text": "πᾶν ἔθνος καὶ",
+      "highlightedWord": "ἔθνος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Re 14:8",
+      "text": "τὰ ἔθνη.",
+      "highlightedWord": "ἔθνη."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Re 15:4",
+      "text": "τὰ ἔθνη ἥξουσιν",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Re 16:19",
+      "text": "τῶν ἐθνῶν ἔπεσαν·",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Re 17:15",
+      "text": "καὶ ἔθνη καὶ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Re 18:3",
+      "text": "τὰ ἔθνη, καὶ",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Re 18:23",
+      "text": "τὰ ἔθνη,",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "τὰ ἔθνη, καὶ",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "τὰ ἔθνη, ἄχρι",
+      "highlightedWord": "ἔθνη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Re 20:8",
+      "text": "τὰ ἔθνη τὰ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Re 21:24",
+      "text": "τὰ ἔθνη διὰ",
+      "highlightedWord": "ἔθνη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Re 21:26",
+      "text": "τῶν ἐθνῶν εἰς",
+      "highlightedWord": "ἐθνῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Re 22:2",
+      "text": "τῶν ἐθνῶν.",
+      "highlightedWord": "ἐθνῶν."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,1847 @@
+{
+  "strong": "G4102",
+  "lemma": "πίστις",
+  "lemmaTranslit": "pistis",
+  "tokenCount": 242,
+  "verseCount": 226,
+  "bookDistribution": {
+    "Mateus": 8,
+    "Marcos": 5,
+    "Lucas": 11,
+    "Atos": 15,
+    "Romanos": 39,
+    "1 Coríntios": 7,
+    "2 Coríntios": 7,
+    "Gálatas": 22,
+    "Efésios": 8,
+    "Filipenses": 5,
+    "Colossenses": 5,
+    "1 Tessalonicenses": 8,
+    "2 Tessalonicenses": 5,
+    "1 Timóteo": 19,
+    "2 Timóteo": 8,
+    "Tito": 6,
+    "Filemom": 2,
+    "Hebreus": 32,
+    "Tiago": 16,
+    "1 Pedro": 5,
+    "2 Pedro": 2,
+    "1 João": 1,
+    "Judas": 2,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Mt 8:10",
+      "text": "τοσαύτην πίστιν ἐν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mt 9:2",
+      "text": "τὴν πίστιν αὐτῶν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mt 9:22",
+      "text": "ἡ πίστις σου",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Mt 9:29",
+      "text": "τὴν πίστιν ὑμῶν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Mt 15:28",
+      "text": "ἡ πίστις· γενηθήτω",
+      "highlightedWord": "πίστις·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Mt 17:20",
+      "text": "ἔχητε πίστιν ὡς",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Mt 21:21",
+      "text": "ἔχητε πίστιν καὶ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Mt 23:23",
+      "text": "τὴν πίστιν· ταῦτα",
+      "highlightedWord": "πίστιν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Mk 2:5",
+      "text": "τὴν πίστιν αὐτῶν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Mk 4:40",
+      "text": "ἔχετε πίστιν;",
+      "highlightedWord": "πίστιν;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Mk 5:34",
+      "text": "ἡ πίστις σου",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 52,
+      "reference": "Mk 10:52",
+      "text": "ἡ πίστις σου",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Mk 11:22",
+      "text": "Ἔχετε πίστιν θεοῦ·",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Lk 5:20",
+      "text": "τὴν πίστιν αὐτῶν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Lk 7:9",
+      "text": "τοσαύτην πίστιν εὗρον.",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 50,
+      "reference": "Lk 7:50",
+      "text": "Ἡ πίστις σου",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Lk 8:25",
+      "text": "ἡ πίστις ὑμῶν;",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 48,
+      "reference": "Lk 8:48",
+      "text": "ἡ πίστις σου",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Lk 17:5",
+      "text": "ἡμῖν πίστιν.",
+      "highlightedWord": "πίστιν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Lk 17:6",
+      "text": "ἔχετε πίστιν ὡς",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 19,
+      "reference": "Lk 17:19",
+      "text": "ἡ πίστις σου",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Lk 18:8",
+      "text": "τὴν πίστιν ἐπὶ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 42,
+      "reference": "Lk 18:42",
+      "text": "ἡ πίστις σου",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 32,
+      "reference": "Lk 22:32",
+      "text": "ἡ πίστις σου·",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Ac 3:16",
+      "text": "τῇ πίστει τοῦ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Ac 6:5",
+      "text": "πλήρης πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Ac 6:7",
+      "text": "τῇ πίστει.",
+      "highlightedWord": "πίστει."
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Ac 11:24",
+      "text": "καὶ πίστεως. καὶ",
+      "highlightedWord": "πίστεως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Ac 13:8",
+      "text": "τῆς πίστεως.",
+      "highlightedWord": "πίστεως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Ac 14:9",
+      "text": "ἔχει πίστιν τοῦ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ac 14:22",
+      "text": "τῇ πίστει καὶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Ac 14:27",
+      "text": "θύραν πίστεως.",
+      "highlightedWord": "πίστεως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Ac 15:9",
+      "text": "τῇ πίστει καθαρίσας",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Ac 16:5",
+      "text": "τῇ πίστει καὶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Ac 17:31",
+      "text": "ὥρισεν, πίστιν παρασχὼν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Ac 20:21",
+      "text": "καὶ πίστιν εἰς",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Ac 24:24",
+      "text": "Ἰησοῦν πίστεως.",
+      "highlightedWord": "πίστεως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 18,
+      "reference": "Ac 26:18",
+      "text": "ἡγιασμένοις πίστει τῇ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Ro 1:5",
+      "text": "ὑπακοὴν πίστεως ἐν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ro 1:8",
+      "text": "ἡ πίστις ὑμῶν",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ro 1:12",
+      "text": "ἀλλήλοις πίστεως ὑμῶν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Ro 1:17",
+      "text": "ἐκ πίστεως εἰς",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Ro 3:3",
+      "text": "τὴν πίστιν τοῦ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Ro 3:22",
+      "text": "διὰ πίστεως Ἰησοῦ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Ro 3:25",
+      "text": "διὰ πίστεως ἐν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Ro 3:26",
+      "text": "ἐκ πίστεως Ἰησοῦ.",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Ro 3:27",
+      "text": "νόμου πίστεως.",
+      "highlightedWord": "πίστεως."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Ro 3:28",
+      "text": "δικαιοῦσθαι πίστει ἄνθρωπον",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 30,
+      "reference": "Ro 3:30",
+      "text": "ἐκ πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Ro 3:31",
+      "text": "τῆς πίστεως; μὴ",
+      "highlightedWord": "πίστεως;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Ro 4:5",
+      "text": "ἡ πίστις αὐτοῦ",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ro 4:9",
+      "text": "ἡ πίστις εἰς",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Ro 4:11",
+      "text": "τῆς πίστεως τῆς",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ro 4:12",
+      "text": "ἀκροβυστίᾳ πίστεως τοῦ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Ro 4:13",
+      "text": "δικαιοσύνης πίστεως·",
+      "highlightedWord": "πίστεως·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ro 4:14",
+      "text": "ἡ πίστις καὶ",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ro 4:16",
+      "text": "ἐκ πίστεως, ἵνα",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Ro 4:19",
+      "text": "τῇ πίστει κατενόησεν",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Ro 4:20",
+      "text": "τῇ πίστει, δοὺς",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ro 5:1",
+      "text": "ἐκ πίστεως εἰρήνην",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ro 5:2",
+      "text": "τῇ πίστει εἰς",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Ro 9:30",
+      "text": "ἐκ πίστεως·",
+      "highlightedWord": "πίστεως·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Ro 9:32",
+      "text": "ἐκ πίστεως ἀλλ’",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ro 10:6",
+      "text": "ἐκ πίστεως δικαιοσύνη",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Ro 10:8",
+      "text": "τῆς πίστεως ὃ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Ro 10:17",
+      "text": "ἡ πίστις ἐξ",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Ro 11:20",
+      "text": "τῇ πίστει ἕστηκας.",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Ro 12:3",
+      "text": "μέτρον πίστεως.",
+      "highlightedWord": "πίστεως."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ro 12:6",
+      "text": "τῆς πίστεως,",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ro 14:1",
+      "text": "τῇ πίστει προσλαμβάνεσθε,",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ro 14:22",
+      "text": "σὺ πίστιν ἣν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Ro 14:23",
+      "text": "ἐκ πίστεως· πᾶν",
+      "highlightedWord": "πίστεως·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Co 2:5",
+      "text": "ἡ πίστις ὑμῶν",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "1Co 12:9",
+      "text": "ἑτέρῳ πίστις ἐν",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "1Co 13:2",
+      "text": "τὴν πίστιν ὥστε",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "1Co 13:13",
+      "text": "μένει πίστις, ἐλπίς,",
+      "highlightedWord": "πίστις,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "1Co 15:14",
+      "text": "ἡ πίστις ὑμῶν,",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "1Co 15:17",
+      "text": "ἡ πίστις ὑμῶν,",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "1Co 16:13",
+      "text": "τῇ πίστει, ἀνδρίζεσθε,",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "2Co 1:24",
+      "text": "τῆς πίστεως, ἀλλὰ",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "2Co 4:13",
+      "text": "τῆς πίστεως, κατὰ",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "2Co 5:7",
+      "text": "διὰ πίστεως γὰρ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "2Co 8:7",
+      "text": "περισσεύετε, πίστει καὶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "2Co 10:15",
+      "text": "τῆς πίστεως ὑμῶν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "2Co 13:5",
+      "text": "τῇ πίστει, ἑαυτοὺς",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Ga 1:23",
+      "text": "τὴν πίστιν ἥν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ga 2:16",
+      "text": "διὰ πίστεως Ἰησοῦ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Ga 2:20",
+      "text": "ἐν πίστει ζῶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ga 3:2",
+      "text": "ἀκοῆς πίστεως;",
+      "highlightedWord": "πίστεως;"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ga 3:5",
+      "text": "ἀκοῆς πίστεως;",
+      "highlightedWord": "πίστεως;"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Ga 3:7",
+      "text": "ἐκ πίστεως, οὗτοι",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ga 3:8",
+      "text": "ἐκ πίστεως δικαιοῖ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Ga 3:9",
+      "text": "ἐκ πίστεως εὐλογοῦνται",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Ga 3:11",
+      "text": "ἐκ πίστεως ζήσεται,",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Ga 3:12",
+      "text": "ἐκ πίστεως, ἀλλ’·",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Ga 3:14",
+      "text": "τῆς πίστεως.",
+      "highlightedWord": "πίστεως."
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Ga 3:22",
+      "text": "ἐκ πίστεως Ἰησοῦ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Ga 3:23",
+      "text": "τὴν πίστιν ὑπὸ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Ga 3:24",
+      "text": "ἐκ πίστεως δικαιωθῶμεν·",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Ga 3:25",
+      "text": "τῆς πίστεως οὐκέτι",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Ga 3:26",
+      "text": "τῆς πίστεως ἐν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Ga 5:5",
+      "text": "ἐκ πίστεως ἐλπίδα",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Ga 5:6",
+      "text": "ἀλλὰ πίστις δι’",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Ga 5:22",
+      "text": "ἀγαθωσύνη, πίστις,",
+      "highlightedWord": "πίστις,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Ga 6:10",
+      "text": "τῆς πίστεως.",
+      "highlightedWord": "πίστεως."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Eph 1:15",
+      "text": "ὑμᾶς πίστιν ἐν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Eph 2:8",
+      "text": "διὰ πίστεως· καὶ",
+      "highlightedWord": "πίστεως·"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Eph 3:12",
+      "text": "τῆς πίστεως αὐτοῦ.",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Eph 3:17",
+      "text": "τῆς πίστεως ἐν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Eph 4:5",
+      "text": "μία πίστις, ἓν",
+      "highlightedWord": "πίστις,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Eph 4:13",
+      "text": "τῆς πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Eph 6:16",
+      "text": "τῆς πίστεως, ἐν",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Eph 6:23",
+      "text": "μετὰ πίστεως ἀπὸ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Php 1:25",
+      "text": "τῆς πίστεως,",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Php 1:27",
+      "text": "τῇ πίστει τοῦ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Php 2:17",
+      "text": "τῆς πίστεως ὑμῶν,",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Php 3:9",
+      "text": "διὰ πίστεως Χριστοῦ,",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Col 1:4",
+      "text": "τὴν πίστιν ὑμῶν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Col 1:23",
+      "text": "τῇ πίστει τεθεμελιωμένοι",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Col 2:5",
+      "text": "Χριστὸν πίστεως ὑμῶν.",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Col 2:7",
+      "text": "τῇ πίστει καθὼς",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Col 2:12",
+      "text": "τῆς πίστεως τῆς",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Th 1:3",
+      "text": "τῆς πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "ἡ πίστις ὑμῶν",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Th 3:2",
+      "text": "τῆς πίστεως ὑμῶν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Th 3:5",
+      "text": "τὴν πίστιν ὑμῶν,",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Th 3:6",
+      "text": "τὴν πίστιν καὶ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Th 3:7",
+      "text": "ὑμῶν πίστεως,",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Th 3:10",
+      "text": "τῆς πίστεως ὑμῶν;",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Th 5:8",
+      "text": "θώρακα πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Th 1:3",
+      "text": "ἡ πίστις ὑμῶν",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Th 1:4",
+      "text": "καὶ πίστεως ἐν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Th 1:11",
+      "text": "ἔργον πίστεως ἐν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Th 2:13",
+      "text": "καὶ πίστει ἀληθείας,",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Th 3:2",
+      "text": "ἡ πίστις.",
+      "highlightedWord": "πίστις."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "1Ti 1:2",
+      "text": "ἐν πίστει· χάρις,",
+      "highlightedWord": "πίστει·"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "1Ti 1:4",
+      "text": "ἐν πίστει—",
+      "highlightedWord": "πίστει—"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Ti 1:5",
+      "text": "καὶ πίστεως ἀνυποκρίτου,",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "1Ti 1:14",
+      "text": "μετὰ πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "1Ti 1:19",
+      "text": "ἔχων πίστιν καὶ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Ti 2:7",
+      "text": "ἐν πίστει καὶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Ti 2:15",
+      "text": "ἐν πίστει καὶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Ti 3:9",
+      "text": "τῆς πίστεως ἐν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Ti 3:13",
+      "text": "ἐν πίστει τῇ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Ti 4:1",
+      "text": "τῆς πίστεως, προσέχοντες",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Ti 4:6",
+      "text": "τῆς πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Ti 4:12",
+      "text": "ἐν πίστει, ἐν",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Ti 5:8",
+      "text": "τὴν πίστιν ἤρνηται",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Ti 5:12",
+      "text": "πρώτην πίστιν ἠθέτησαν·",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "1Ti 6:10",
+      "text": "τῆς πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "1Ti 6:11",
+      "text": "εὐσέβειαν, πίστιν, ἀγάπην,",
+      "highlightedWord": "πίστιν,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "1Ti 6:12",
+      "text": "τῆς πίστεως, ἐπιλαβοῦ",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "1Ti 6:21",
+      "text": "τὴν πίστιν ἠστόχησαν.",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Ti 1:5",
+      "text": "ἀνυποκρίτου πίστεως, ἥτις",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Ti 1:13",
+      "text": "ἐν πίστει καὶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "2Ti 2:18",
+      "text": "τινων πίστιν.",
+      "highlightedWord": "πίστιν."
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "2Ti 2:22",
+      "text": "δικαιοσύνην, πίστιν, ἀγάπην,",
+      "highlightedWord": "πίστιν,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Ti 3:8",
+      "text": "τὴν πίστιν.",
+      "highlightedWord": "πίστιν."
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Ti 3:10",
+      "text": "τῇ πίστει, τῇ",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Ti 3:15",
+      "text": "διὰ πίστεως τῆς",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "2Ti 4:7",
+      "text": "τὴν πίστιν τετήρηκα·",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Tit 1:1",
+      "text": "κατὰ πίστιν ἐκλεκτῶν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Tit 1:4",
+      "text": "κοινὴν πίστιν· χάρις",
+      "highlightedWord": "πίστιν·"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Tit 1:13",
+      "text": "τῇ πίστει,",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Tit 2:2",
+      "text": "τῇ πίστει, τῇ",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Tit 2:10",
+      "text": "πᾶσαν πίστιν ἐνδεικνυμένους",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Tit 3:15",
+      "text": "ἐν πίστει. ἡ",
+      "highlightedWord": "πίστει."
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Phm 1:5",
+      "text": "τὴν πίστιν ἣν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Phm 1:6",
+      "text": "τῆς πίστεώς σου",
+      "highlightedWord": "πίστεώς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Heb 4:2",
+      "text": "τῇ πίστει τοῖς",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Heb 6:1",
+      "text": "καὶ πίστεως ἐπὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Heb 6:12",
+      "text": "διὰ πίστεως καὶ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Heb 10:22",
+      "text": "πληροφορίᾳ πίστεως, ῥεραντισμένοι",
+      "highlightedWord": "πίστεως,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Heb 10:38",
+      "text": "ἐκ πίστεως ζήσεται,",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Heb 10:39",
+      "text": "ἀλλὰ πίστεως εἰς",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Heb 11:1",
+      "text": "δὲ πίστις ἐλπιζομένων",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Heb 11:3",
+      "text": "πίστει νοοῦμεν",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Heb 11:4",
+      "text": "Πίστει πλείονα",
+      "highlightedWord": "Πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Heb 11:5",
+      "text": "Πίστει Ἑνὼχ",
+      "highlightedWord": "Πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Heb 11:6",
+      "text": "δὲ πίστεως ἀδύνατον",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Heb 11:7",
+      "text": "πίστει χρηματισθεὶς",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Heb 11:8",
+      "text": "Πίστει καλούμενος",
+      "highlightedWord": "Πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Heb 11:9",
+      "text": "πίστει παρῴκησεν",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Heb 11:11",
+      "text": "πίστει καὶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Heb 11:13",
+      "text": "Κατὰ πίστιν ἀπέθανον",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Heb 11:17",
+      "text": "Πίστει προσενήνοχεν",
+      "highlightedWord": "Πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Heb 11:20",
+      "text": "Πίστει καὶ",
+      "highlightedWord": "Πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Heb 11:21",
+      "text": "πίστει Ἰακὼβ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Heb 11:22",
+      "text": "πίστει Ἰωσὴφ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Heb 11:23",
+      "text": "Πίστει Μωϋσῆς",
+      "highlightedWord": "Πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Heb 11:24",
+      "text": "πίστει Μωϋσῆς",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Heb 11:27",
+      "text": "πίστει κατέλιπεν",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Heb 11:28",
+      "text": "πίστει πεποίηκεν",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Heb 11:29",
+      "text": "Πίστει διέβησαν",
+      "highlightedWord": "Πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Heb 11:30",
+      "text": "πίστει τὰ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Heb 11:31",
+      "text": "πίστει Ῥαὰβ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Heb 11:33",
+      "text": "διὰ πίστεως κατηγωνίσαντο",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 39,
+      "reference": "Heb 11:39",
+      "text": "τῆς πίστεως οὐκ",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Heb 12:2",
+      "text": "τῆς πίστεως ἀρχηγὸν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Heb 13:7",
+      "text": "τὴν πίστιν.",
+      "highlightedWord": "πίστιν."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Jas 1:3",
+      "text": "τῆς πίστεως κατεργάζεται",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jas 1:6",
+      "text": "ἐν πίστει, μηδὲν",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Jas 2:1",
+      "text": "τὴν πίστιν τοῦ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Jas 2:5",
+      "text": "ἐν πίστει καὶ",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Jas 2:14",
+      "text": "ἐὰν πίστιν λέγῃ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Jas 2:17",
+      "text": "ἡ πίστις, ἐὰν",
+      "highlightedWord": "πίστις,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Jas 2:18",
+      "text": "Σὺ πίστιν ἔχεις",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jas 2:20",
+      "text": "ἡ πίστις χωρὶς",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Jas 2:22",
+      "text": "ἡ πίστις συνήργει",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Jas 2:24",
+      "text": "ἐκ πίστεως μόνον.",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Jas 2:26",
+      "text": "ἡ πίστις χωρὶς",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Jas 5:15",
+      "text": "τῆς πίστεως σώσει",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Pe 1:5",
+      "text": "διὰ πίστεως εἰς",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Pe 1:7",
+      "text": "τῆς πίστεως πολυτιμότερον",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Pe 1:9",
+      "text": "τῆς πίστεως ὑμῶν",
+      "highlightedWord": "πίστεως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "1Pe 1:21",
+      "text": "τὴν πίστιν ὑμῶν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Pe 5:9",
+      "text": "τῇ πίστει, εἰδότες",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Pe 1:1",
+      "text": "λαχοῦσιν πίστιν ἐν",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Pe 1:5",
+      "text": "τῇ πίστει ὑμῶν",
+      "highlightedWord": "πίστει"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Jn 5:4",
+      "text": "ἡ πίστις ἡμῶν·",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Jud 1:3",
+      "text": "ἁγίοις πίστει.",
+      "highlightedWord": "πίστει."
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Jud 1:20",
+      "text": "ὑμῶν πίστει, ἐν",
+      "highlightedWord": "πίστει,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "τὴν πίστιν μου",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "τὴν πίστιν καὶ",
+      "highlightedWord": "πίστιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Re 13:10",
+      "text": "ἡ πίστις τῶν",
+      "highlightedWord": "πίστις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Re 14:12",
+      "text": "τὴν πίστιν Ἰησοῦ.",
+      "highlightedWord": "πίστιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

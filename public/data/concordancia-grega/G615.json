@@ -1,0 +1,585 @@
+{
+  "strong": "G615",
+  "lemma": "ἀποκτείνω",
+  "lemmaTranslit": "apokteinō",
+  "tokenCount": 74,
+  "verseCount": 70,
+  "bookDistribution": {
+    "Mateus": 13,
+    "Marcos": 11,
+    "Lucas": 12,
+    "João": 12,
+    "Atos": 6,
+    "Romanos": 2,
+    "2 Coríntios": 1,
+    "Efésios": 1,
+    "1 Tessalonicenses": 1,
+    "Apocalipse": 15
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Mt 10:28",
+      "text": "τῶν ἀποκτεννόντων τὸ",
+      "highlightedWord": "ἀποκτεννόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Mt 14:5",
+      "text": "αὐτὸν ἀποκτεῖναι ἐφοβήθη",
+      "highlightedWord": "ἀποκτεῖναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Mt 16:21",
+      "text": "καὶ ἀποκτανθῆναι καὶ",
+      "highlightedWord": "ἀποκτανθῆναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Mt 17:23",
+      "text": "καὶ ἀποκτενοῦσιν αὐτόν,",
+      "highlightedWord": "ἀποκτενοῦσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 35,
+      "reference": "Mt 21:35",
+      "text": "δὲ ἀπέκτειναν, ὃν",
+      "highlightedWord": "ἀπέκτειναν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 38,
+      "reference": "Mt 21:38",
+      "text": "δεῦτε ἀποκτείνωμεν αὐτὸν",
+      "highlightedWord": "ἀποκτείνωμεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 39,
+      "reference": "Mt 21:39",
+      "text": "καὶ ἀπέκτειναν.",
+      "highlightedWord": "ἀπέκτειναν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 6,
+      "reference": "Mt 22:6",
+      "text": "καὶ ἀπέκτειναν.",
+      "highlightedWord": "ἀπέκτειναν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 34,
+      "reference": "Mt 23:34",
+      "text": "αὐτῶν ἀποκτενεῖτε καὶ",
+      "highlightedWord": "ἀποκτενεῖτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 37,
+      "reference": "Mt 23:37",
+      "text": "ἡ ἀποκτείνουσα τοὺς",
+      "highlightedWord": "ἀποκτείνουσα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Mt 24:9",
+      "text": "καὶ ἀποκτενοῦσιν ὑμᾶς,",
+      "highlightedWord": "ἀποκτενοῦσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Mt 26:4",
+      "text": "καὶ ἀποκτείνωσιν·",
+      "highlightedWord": "ἀποκτείνωσιν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Mk 3:4",
+      "text": "ἢ ἀποκτεῖναι; οἱ",
+      "highlightedWord": "ἀποκτεῖναι;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Mk 6:19",
+      "text": "αὐτὸν ἀποκτεῖναι, καὶ",
+      "highlightedWord": "ἀποκτεῖναι,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mk 8:31",
+      "text": "καὶ ἀποκτανθῆναι καὶ",
+      "highlightedWord": "ἀποκτανθῆναι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mk 9:31",
+      "text": "καὶ ἀποκτενοῦσιν αὐτόν,",
+      "highlightedWord": "ἀποκτενοῦσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Mk 10:34",
+      "text": "καὶ ἀποκτενοῦσιν, καὶ",
+      "highlightedWord": "ἀποκτενοῦσιν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Mk 12:5",
+      "text": "κἀκεῖνον ἀπέκτειναν, καὶ",
+      "highlightedWord": "ἀπέκτειναν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Mk 12:7",
+      "text": "δεῦτε ἀποκτείνωμεν αὐτόν,",
+      "highlightedWord": "ἀποκτείνωμεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Mk 12:8",
+      "text": "λαβόντες ἀπέκτειναν αὐτόν,",
+      "highlightedWord": "ἀπέκτειναν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Mk 14:1",
+      "text": "κρατήσαντες ἀποκτείνωσιν,",
+      "highlightedWord": "ἀποκτείνωσιν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Lk 9:22",
+      "text": "καὶ ἀποκτανθῆναι καὶ",
+      "highlightedWord": "ἀποκτανθῆναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 47,
+      "reference": "Lk 11:47",
+      "text": "ὑμῶν ἀπέκτειναν αὐτούς.",
+      "highlightedWord": "ἀπέκτειναν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 48,
+      "reference": "Lk 11:48",
+      "text": "μὲν ἀπέκτειναν αὐτοὺς",
+      "highlightedWord": "ἀπέκτειναν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 49,
+      "reference": "Lk 11:49",
+      "text": "αὐτῶν ἀποκτενοῦσιν καὶ",
+      "highlightedWord": "ἀποκτενοῦσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Lk 12:4",
+      "text": "τῶν ἀποκτεινόντων τὸ",
+      "highlightedWord": "ἀποκτεινόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Lk 12:5",
+      "text": "τὸ ἀποκτεῖναι ἔχοντα",
+      "highlightedWord": "ἀποκτεῖναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Lk 13:4",
+      "text": "καὶ ἀπέκτεινεν αὐτούς,",
+      "highlightedWord": "ἀπέκτεινεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Lk 13:31",
+      "text": "σε ἀποκτεῖναι.",
+      "highlightedWord": "ἀποκτεῖναι."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Lk 13:34",
+      "text": "ἡ ἀποκτείνουσα τοὺς",
+      "highlightedWord": "ἀποκτείνουσα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 33,
+      "reference": "Lk 18:33",
+      "text": "μαστιγώσαντες ἀποκτενοῦσιν αὐτόν,",
+      "highlightedWord": "ἀποκτενοῦσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Lk 20:14",
+      "text": "κληρονόμος· ἀποκτείνωμεν αὐτόν,",
+      "highlightedWord": "ἀποκτείνωμεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Lk 20:15",
+      "text": "ἀμπελῶνος ἀπέκτειναν. τί",
+      "highlightedWord": "ἀπέκτειναν."
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Jn 5:18",
+      "text": "Ἰουδαῖοι ἀποκτεῖναι ὅτι",
+      "highlightedWord": "ἀποκτεῖναι"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Jn 7:1",
+      "text": "Ἰουδαῖοι ἀποκτεῖναι.",
+      "highlightedWord": "ἀποκτεῖναι."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Jn 7:19",
+      "text": "ζητεῖτε ἀποκτεῖναι;",
+      "highlightedWord": "ἀποκτεῖναι;"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Jn 7:20",
+      "text": "ζητεῖ ἀποκτεῖναι;",
+      "highlightedWord": "ἀποκτεῖναι;"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Jn 7:25",
+      "text": "ζητοῦσιν ἀποκτεῖναι;",
+      "highlightedWord": "ἀποκτεῖναι;"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Jn 8:22",
+      "text": "Μήτι ἀποκτενεῖ ἑαυτὸν",
+      "highlightedWord": "ἀποκτενεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Jn 8:37",
+      "text": "με ἀποκτεῖναι, ὅτι",
+      "highlightedWord": "ἀποκτεῖναι,"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 40,
+      "reference": "Jn 8:40",
+      "text": "με ἀποκτεῖναι, ἄνθρωπον",
+      "highlightedWord": "ἀποκτεῖναι,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 53,
+      "reference": "Jn 11:53",
+      "text": "ἵνα ἀποκτείνωσιν αὐτόν.",
+      "highlightedWord": "ἀποκτείνωσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Jn 12:10",
+      "text": "Λάζαρον ἀποκτείνωσιν,",
+      "highlightedWord": "ἀποκτείνωσιν,"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Jn 16:2",
+      "text": "ὁ ἀποκτείνας ὑμᾶς",
+      "highlightedWord": "ἀποκτείνας"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Jn 18:31",
+      "text": "ἔξεστιν ἀποκτεῖναι οὐδένα·",
+      "highlightedWord": "ἀποκτεῖναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Ac 3:15",
+      "text": "ζωῆς ἀπεκτείνατε, ὃν",
+      "highlightedWord": "ἀπεκτείνατε,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 52,
+      "reference": "Ac 7:52",
+      "text": "καὶ ἀπέκτειναν τοὺς",
+      "highlightedWord": "ἀπέκτειναν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Ac 21:31",
+      "text": "αὐτὸν ἀποκτεῖναι ἀνέβη",
+      "highlightedWord": "ἀποκτεῖναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Ac 23:12",
+      "text": "οὗ ἀποκτείνωσιν τὸν",
+      "highlightedWord": "ἀποκτείνωσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Ac 23:14",
+      "text": "οὗ ἀποκτείνωμεν τὸν",
+      "highlightedWord": "ἀποκτείνωμεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 42,
+      "reference": "Ac 27:42",
+      "text": "δεσμώτας ἀποκτείνωσιν, μή",
+      "highlightedWord": "ἀποκτείνωσιν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Ro 7:11",
+      "text": "αὐτῆς ἀπέκτεινεν.",
+      "highlightedWord": "ἀπέκτεινεν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Ro 11:3",
+      "text": "σου ἀπέκτειναν, τὰ",
+      "highlightedWord": "ἀπέκτειναν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "2Co 3:6",
+      "text": "γράμμα ἀποκτέννει, τὸ",
+      "highlightedWord": "ἀποκτέννει,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Eph 2:16",
+      "text": "σταυροῦ ἀποκτείνας τὴν",
+      "highlightedWord": "ἀποκτείνας"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Th 2:15",
+      "text": "κύριον ἀποκτεινάντων Ἰησοῦν",
+      "highlightedWord": "ἀποκτεινάντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "ὃς ἀπεκτάνθη παρ’",
+      "highlightedWord": "ἀπεκτάνθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "αὐτῆς ἀποκτενῶ ἐν",
+      "highlightedWord": "ἀποκτενῶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Re 6:8",
+      "text": "γῆς, ἀποκτεῖναι ἐν",
+      "highlightedWord": "ἀποκτεῖναι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "μέλλοντες ἀποκτέννεσθαι ὡς",
+      "highlightedWord": "ἀποκτέννεσθαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "μὴ ἀποκτείνωσιν αὐτούς,",
+      "highlightedWord": "ἀποκτείνωσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Re 9:15",
+      "text": "ἵνα ἀποκτείνωσιν τὸ",
+      "highlightedWord": "ἀποκτείνωσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Re 9:18",
+      "text": "τούτων ἀπεκτάνθησαν τὸ",
+      "highlightedWord": "ἀπεκτάνθησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "οὐκ ἀπεκτάνθησαν ἐν",
+      "highlightedWord": "ἀπεκτάνθησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Re 11:5",
+      "text": "αὐτὸν ἀποκτανθῆναι.",
+      "highlightedWord": "ἀποκτανθῆναι."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Re 11:7",
+      "text": "καὶ ἀποκτενεῖ αὐτούς.",
+      "highlightedWord": "ἀποκτενεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "καὶ ἀπεκτάνθησαν ἐν",
+      "highlightedWord": "ἀπεκτάνθησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Re 13:10",
+      "text": "μαχαίρῃ ἀποκτανθῆναι αὐτὸν",
+      "highlightedWord": "ἀποκτανθῆναι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Re 13:15",
+      "text": "θηρίου ἀποκτανθῶσιν.",
+      "highlightedWord": "ἀποκτανθῶσιν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Re 19:21",
+      "text": "λοιποὶ ἀπεκτάνθησαν ἐν",
+      "highlightedWord": "ἀπεκτάνθησαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

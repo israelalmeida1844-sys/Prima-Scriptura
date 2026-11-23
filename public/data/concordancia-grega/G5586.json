@@ -1,0 +1,33 @@
+{
+  "strong": "G5586",
+  "lemma": "ψῆφος",
+  "lemmaTranslit": "psēphos",
+  "tokenCount": 3,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Atos": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Ac 26:10",
+      "text": "κατήνεγκα ψῆφον,",
+      "highlightedWord": "ψῆφον,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "αὐτῷ ψῆφον λευκήν,",
+      "highlightedWord": "ψῆφον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

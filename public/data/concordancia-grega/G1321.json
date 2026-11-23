@@ -1,0 +1,752 @@
+{
+  "strong": "G1321",
+  "lemma": "διδάσκω",
+  "lemmaTranslit": "didaskō",
+  "tokenCount": 96,
+  "verseCount": 90,
+  "bookDistribution": {
+    "Mateus": 14,
+    "Marcos": 17,
+    "Lucas": 17,
+    "João": 9,
+    "Atos": 16,
+    "Romanos": 3,
+    "1 Coríntios": 2,
+    "Gálatas": 1,
+    "Efésios": 1,
+    "Colossenses": 3,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 3,
+    "2 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 2,
+    "1 João": 3,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Mt 4:23",
+      "text": "Γαλιλαίᾳ, διδάσκων ἐν",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Mt 5:2",
+      "text": "αὐτοῦ ἐδίδασκεν αὐτοὺς",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "καὶ διδάξῃ οὕτως",
+      "highlightedWord": "διδάξῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Mt 7:29",
+      "text": "γὰρ διδάσκων αὐτοὺς",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mt 9:35",
+      "text": "κώμας, διδάσκων ἐν",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Mt 11:1",
+      "text": "τοῦ διδάσκειν καὶ",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 54,
+      "reference": "Mt 13:54",
+      "text": "αὐτοῦ ἐδίδασκεν αὐτοὺς",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Mt 15:9",
+      "text": "με, διδάσκοντες διδασκαλίας",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Mt 21:23",
+      "text": "αὐτῷ διδάσκοντι οἱ",
+      "highlightedWord": "διδάσκοντι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Mt 22:16",
+      "text": "ἀληθείᾳ διδάσκεις, καὶ",
+      "highlightedWord": "διδάσκεις,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 55,
+      "reference": "Mt 26:55",
+      "text": "ἐκαθεζόμην διδάσκων καὶ",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 15,
+      "reference": "Mt 28:15",
+      "text": "ὡς ἐδιδάχθησαν. Καὶ",
+      "highlightedWord": "ἐδιδάχθησαν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 20,
+      "reference": "Mt 28:20",
+      "text": "διδάσκοντες αὐτοὺς",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Mk 1:21",
+      "text": "σάββασιν ἐδίδασκεν εἰς",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Mk 1:22",
+      "text": "γὰρ διδάσκων αὐτοὺς",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mk 2:13",
+      "text": "καὶ ἐδίδασκεν αὐτούς.",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Mk 4:1",
+      "text": "ἤρξατο διδάσκειν παρὰ",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Mk 4:2",
+      "text": "καὶ ἐδίδασκεν αὐτοὺς",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mk 6:2",
+      "text": "ἤρξατο διδάσκειν ἐν",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Mk 6:6",
+      "text": "κύκλῳ διδάσκων.",
+      "highlightedWord": "διδάσκων."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Mk 6:30",
+      "text": "ὅσα ἐδίδαξαν.",
+      "highlightedWord": "ἐδίδαξαν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mk 6:34",
+      "text": "ἤρξατο διδάσκειν αὐτοὺς",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Mk 7:7",
+      "text": "με, διδάσκοντες διδασκαλίας",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mk 8:31",
+      "text": "ἤρξατο διδάσκειν αὐτοὺς",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mk 9:31",
+      "text": "ἐδίδασκεν γὰρ",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Mk 10:1",
+      "text": "πάλιν ἐδίδασκεν αὐτούς.",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Mk 11:17",
+      "text": "καὶ ἐδίδασκεν καὶ",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "θεοῦ διδάσκεις· ἔξεστιν",
+      "highlightedWord": "διδάσκεις·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Mk 12:35",
+      "text": "ἔλεγεν διδάσκων ἐν",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 49,
+      "reference": "Mk 14:49",
+      "text": "ἱερῷ διδάσκων καὶ",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Lk 4:15",
+      "text": "αὐτὸς ἐδίδασκεν ἐν",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Lk 4:31",
+      "text": "ἦν διδάσκων αὐτοὺς",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Lk 5:3",
+      "text": "πλοίου ἐδίδασκεν τοὺς",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Lk 5:17",
+      "text": "ἦν διδάσκων, καὶ",
+      "highlightedWord": "διδάσκων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Lk 6:6",
+      "text": "καὶ διδάσκειν· καὶ",
+      "highlightedWord": "διδάσκειν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Lk 11:1",
+      "text": "Κύριε, δίδαξον ἡμᾶς",
+      "highlightedWord": "δίδαξον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Lk 12:12",
+      "text": "πνεῦμα διδάξει ὑμᾶς",
+      "highlightedWord": "διδάξει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Lk 13:10",
+      "text": "δὲ διδάσκων ἐν",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Lk 13:22",
+      "text": "κώμας διδάσκων καὶ",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Lk 13:26",
+      "text": "ἡμῶν ἐδίδαξας·",
+      "highlightedWord": "ἐδίδαξας·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 47,
+      "reference": "Lk 19:47",
+      "text": "ἦν διδάσκων τὸ",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Lk 20:1",
+      "text": "ἡμερῶν διδάσκοντος αὐτοῦ",
+      "highlightedWord": "διδάσκοντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Lk 20:21",
+      "text": "καὶ διδάσκεις καὶ",
+      "highlightedWord": "διδάσκεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Lk 21:37",
+      "text": "ἱερῷ διδάσκων, τὰς",
+      "highlightedWord": "διδάσκων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 5,
+      "reference": "Lk 23:5",
+      "text": "λαὸν διδάσκων καθ’",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 59,
+      "reference": "Jn 6:59",
+      "text": "συναγωγῇ διδάσκων ἐν",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Jn 7:14",
+      "text": "καὶ ἐδίδασκεν.",
+      "highlightedWord": "ἐδίδασκεν."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Jn 7:28",
+      "text": "ἱερῷ διδάσκων ὁ",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "καὶ διδάσκειν τοὺς",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Jn 8:20",
+      "text": "γαζοφυλακίῳ διδάσκων ἐν",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "καθὼς ἐδίδαξέν με",
+      "highlightedWord": "ἐδίδαξέν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Jn 9:34",
+      "text": "σὺ διδάσκεις ἡμᾶς;",
+      "highlightedWord": "διδάσκεις"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Jn 14:26",
+      "text": "ὑμᾶς διδάξει πάντα",
+      "highlightedWord": "διδάξει"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Jn 18:20",
+      "text": "πάντοτε ἐδίδαξα ἐν",
+      "highlightedWord": "ἐδίδαξα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Ac 1:1",
+      "text": "καὶ διδάσκειν",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Ac 4:2",
+      "text": "τὸ διδάσκειν αὐτοὺς",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ac 4:18",
+      "text": "μηδὲ διδάσκειν ἐπὶ",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Ac 5:21",
+      "text": "καὶ ἐδίδασκον. Παραγενόμενος",
+      "highlightedWord": "ἐδίδασκον."
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Ac 5:25",
+      "text": "καὶ διδάσκοντες τὸν",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Ac 5:28",
+      "text": "μὴ διδάσκειν ἐπὶ",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Ac 5:42",
+      "text": "ἐπαύοντο διδάσκοντες καὶ",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Ac 11:26",
+      "text": "καὶ διδάξαι ὄχλον",
+      "highlightedWord": "διδάξαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Ac 15:1",
+      "text": "Ἰουδαίας ἐδίδασκον τοὺς",
+      "highlightedWord": "ἐδίδασκον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 35,
+      "reference": "Ac 15:35",
+      "text": "Ἀντιοχείᾳ διδάσκοντες καὶ",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Ac 18:11",
+      "text": "ἓξ διδάσκων ἐν",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Ac 18:25",
+      "text": "καὶ ἐδίδασκεν ἀκριβῶς",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Ac 20:20",
+      "text": "καὶ διδάξαι ὑμᾶς",
+      "highlightedWord": "διδάξαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Ac 21:21",
+      "text": "ἀποστασίαν διδάσκεις ἀπὸ",
+      "highlightedWord": "διδάσκεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Ac 21:28",
+      "text": "πανταχῇ διδάσκων, ἔτι",
+      "highlightedWord": "διδάσκων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 31,
+      "reference": "Ac 28:31",
+      "text": "καὶ διδάσκων τὰ",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Ro 2:21",
+      "text": "οὖν διδάσκων ἕτερον",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Ro 12:7",
+      "text": "ὁ διδάσκων ἐν",
+      "highlightedWord": "διδάσκων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Co 4:17",
+      "text": "ἐκκλησίᾳ διδάσκω.",
+      "highlightedWord": "διδάσκω."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "1Co 11:14",
+      "text": "αὐτὴ διδάσκει ὑμᾶς",
+      "highlightedWord": "διδάσκει"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ga 1:12",
+      "text": "οὔτε ἐδιδάχθην, ἀλλὰ",
+      "highlightedWord": "ἐδιδάχθην,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Eph 4:21",
+      "text": "αὐτῷ ἐδιδάχθητε, καθώς",
+      "highlightedWord": "ἐδιδάχθητε,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Col 1:28",
+      "text": "καὶ διδάσκοντες πάντα",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Col 2:7",
+      "text": "καθὼς ἐδιδάχθητε, περισσεύοντες",
+      "highlightedWord": "ἐδιδάχθητε,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Col 3:16",
+      "text": "σοφίᾳ· διδάσκοντες καὶ",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "2Th 2:15",
+      "text": "ἃς ἐδιδάχθητε εἴτε",
+      "highlightedWord": "ἐδιδάχθητε"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Ti 2:12",
+      "text": "διδάσκειν δὲ",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Ti 4:11",
+      "text": "καὶ δίδασκε.",
+      "highlightedWord": "δίδασκε."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "1Ti 6:2",
+      "text": "Ταῦτα δίδασκε καὶ",
+      "highlightedWord": "δίδασκε"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Ti 2:2",
+      "text": "ἑτέρους διδάξαι.",
+      "highlightedWord": "διδάξαι."
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Tit 1:11",
+      "text": "ἀνατρέπουσιν διδάσκοντες ἃ",
+      "highlightedWord": "διδάσκοντες"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Heb 5:12",
+      "text": "τοῦ διδάσκειν ὑμᾶς",
+      "highlightedWord": "διδάσκειν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Heb 8:11",
+      "text": "μὴ διδάξωσιν ἕκαστος",
+      "highlightedWord": "διδάξωσιν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "1Jn 2:27",
+      "text": "τις διδάσκῃ ὑμᾶς·",
+      "highlightedWord": "διδάσκῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "ὃς ἐδίδασκεν τῷ",
+      "highlightedWord": "ἐδίδασκεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "καὶ διδάσκει καὶ",
+      "highlightedWord": "διδάσκει"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

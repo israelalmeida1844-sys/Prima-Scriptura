@@ -1,0 +1,1310 @@
+{
+  "version": "1.0.0",
+  "scope": "Apocalipse 2:13–29",
+  "source": "SBLGNT / MorphGNT 6.12 aaed91e5 / jtauber Greek lemma mappings",
+  "editorialStatus": "Rascunho acadêmico: verbetes novos centrais revisados; ainda requer cotejo integral com léxicos críticos e aparato textual.",
+  "entries": {
+    "G4226": {
+      "strong": "G4226",
+      "lemma": "ποῦ",
+      "lemmaTransliteration": "pou",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G4226-1",
+          "label": "onde",
+          "definition": "onde",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:13",
+              "greek": "Οἶδα ποῦ κατοικεῖς,",
+              "translation": "onde",
+              "explanation": "Exemplo da ocorrência de ποῦ no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G2730": {
+      "strong": "G2730",
+      "lemma": "κατοικέω",
+      "lemmaTransliteration": "katoikeō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2730-1",
+          "label": "habitar",
+          "definition": "habitar",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:13",
+              "greek": "ποῦ κατοικεῖς, ὅπου",
+              "translation": "habitar",
+              "explanation": "Exemplo da ocorrência de κατοικέω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G3699": {
+      "strong": "G3699",
+      "lemma": "ὅπου",
+      "lemmaTransliteration": "hopou",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G3699-1",
+          "label": "onde",
+          "definition": "onde",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:13",
+              "greek": "κατοικεῖς, ὅπου ὁ",
+              "translation": "onde",
+              "explanation": "Exemplo da ocorrência de ὅπου no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G720": {
+      "strong": "G720",
+      "lemma": "ἀρνέομαι",
+      "lemmaTransliteration": "arneomai",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G720-1",
+          "label": "negar",
+          "definition": "negar",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:13",
+              "greek": "οὐκ ἠρνήσω τὴν",
+              "translation": "negar",
+              "explanation": "Exemplo da ocorrência de ἀρνέομαι no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G4102": {
+      "strong": "G4102",
+      "lemma": "πίστις",
+      "lemmaTransliteration": "pistis",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4102-1",
+          "label": "fé",
+          "definition": "fé",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:13",
+              "greek": "τὴν πίστιν μου",
+              "translation": "fé",
+              "explanation": "Exemplo da ocorrência de πίστις no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G493": {
+      "strong": "G493",
+      "lemma": "Ἀντιπᾶς",
+      "lemmaTransliteration": "Antipas",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G493-1",
+          "label": "Antipas, nome próprio masculino",
+          "definition": "Ἀντιπᾶς é nome pessoal masculino. Em Ap 2:13 encontra-se no nominativo, seguido dos apostos ὁ μάρτυς μου, ὁ πιστός μου.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:13",
+              "greek": "ἡμέραις Ἀντιπᾶς, ὁ",
+              "translation": "Antipas",
+              "explanation": "A construção mostra nominativo em lugar onde se poderia esperar relação genitiva; não alterar caso para harmonizar."
+            }
+          ]
+        }
+      ]
+    },
+    "G615": {
+      "strong": "G615",
+      "lemma": "ἀποκτείνω",
+      "lemmaTransliteration": "apokteinō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G615-1",
+          "label": "matar",
+          "definition": "matar",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:13",
+              "greek": "ὃς ἀπεκτάνθη παρ’",
+              "translation": "matar",
+              "explanation": "Exemplo da ocorrência de ἀποκτείνω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G3844": {
+      "strong": "G3844",
+      "lemma": "παρά",
+      "lemmaTransliteration": "para",
+      "partOfSpeech": "Preposição",
+      "senses": [
+        {
+          "id": "G3844-1",
+          "label": "junto de",
+          "definition": "junto de",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:13",
+              "greek": "ἀπεκτάνθη παρ’ ὑμῖν,",
+              "translation": "junto de",
+              "explanation": "Exemplo da ocorrência de παρά no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G3641": {
+      "strong": "G3641",
+      "lemma": "ὀλίγος",
+      "lemmaTransliteration": "oligos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3641-1",
+          "label": "pouco",
+          "definition": "pouco",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "σοῦ ὀλίγα, ὅτι",
+              "translation": "pouco",
+              "explanation": "Exemplo da ocorrência de ὀλίγος no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1563": {
+      "strong": "G1563",
+      "lemma": "ἐκεῖ",
+      "lemmaTransliteration": "ekei",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G1563-1",
+          "label": "ali",
+          "definition": "ali",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "ἔχεις ἐκεῖ κρατοῦντας",
+              "translation": "ali",
+              "explanation": "Exemplo da ocorrência de ἐκεῖ no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1322": {
+      "strong": "G1322",
+      "lemma": "διδαχή",
+      "lemmaTransliteration": "didachē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G1322-1",
+          "label": "ensino",
+          "definition": "ensino",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "τὴν διδαχὴν Βαλαάμ,",
+              "translation": "ensino",
+              "explanation": "Exemplo da ocorrência de διδαχή no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G903": {
+      "strong": "G903",
+      "lemma": "Βαλαάμ",
+      "lemmaTransliteration": "Balaam",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G903-1",
+          "label": "Balaão",
+          "definition": "Balaão",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "διδαχὴν Βαλαάμ, ὃς",
+              "translation": "Balaão",
+              "explanation": "Exemplo da ocorrência de Βαλαάμ no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1321": {
+      "strong": "G1321",
+      "lemma": "διδάσκω",
+      "lemmaTransliteration": "didaskō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G1321-1",
+          "label": "ensinar",
+          "definition": "ensinar",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "ὃς ἐδίδασκεν τῷ",
+              "translation": "ensinar",
+              "explanation": "Exemplo da ocorrência de διδάσκω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G904": {
+      "strong": "G904",
+      "lemma": "Βαλάκ",
+      "lemmaTransliteration": "Balak",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G904-1",
+          "label": "Balaque",
+          "definition": "Balaque",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "τῷ Βαλὰκ βαλεῖν",
+              "translation": "Balaque",
+              "explanation": "Exemplo da ocorrência de Βαλάκ no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G4625": {
+      "strong": "G4625",
+      "lemma": "σκάνδαλον",
+      "lemmaTransliteration": "skandalon",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4625-1",
+          "label": "armadilha; objeto de tropeço",
+          "definition": "σκάνδαλον indica armadilha ou obstáculo que leva à queda. Em Ap 2:14 designa a indução de Israel à idolatria e à imoralidade.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "βαλεῖν σκάνδαλον ἐνώπιον",
+              "translation": "armadilha",
+              "explanation": "Não equiparar o termo à simples ofensa subjetiva do português contemporâneo."
+            }
+          ]
+        }
+      ]
+    },
+    "G2474": {
+      "strong": "G2474",
+      "lemma": "Ἰσραήλ",
+      "lemmaTransliteration": "Israēl",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2474-1",
+          "label": "Israel",
+          "definition": "Israel",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "υἱῶν Ἰσραήλ, φαγεῖν",
+              "translation": "Israel",
+              "explanation": "Exemplo da ocorrência de Ἰσραήλ no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1494": {
+      "strong": "G1494",
+      "lemma": "εἰδωλόθυτον",
+      "lemmaTransliteration": "eidōlothyton",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G1494-1",
+          "label": "alimento sacrificado a ídolos",
+          "definition": "εἰδωλόθυτον qualifica alimento associado a sacrifícios pagãos. Em Ap 2:14, descreve prática vinculada ao ensino de Balaão.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "φαγεῖν εἰδωλόθυτα καὶ",
+              "translation": "alimento sacrificado a ídolos",
+              "explanation": "O significado e a avaliação da prática dependem de seu cenário idolátrico, não apenas de dieta."
+            }
+          ]
+        }
+      ]
+    },
+    "G4203": {
+      "strong": "G4203",
+      "lemma": "πορνεύω",
+      "lemmaTransliteration": "porneuō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4203-1",
+          "label": "praticar imoralidade sexual",
+          "definition": "πορνεύω denota relações sexuais ilícitas na ética judaico-cristã antiga; no Apocalipse pode ainda integrar imagens de infidelidade religiosa.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:14",
+              "greek": "καὶ πορνεῦσαι·",
+              "translation": "praticar imoralidade sexual",
+              "explanation": "Distinguir dimensão moral e simbolismo profético sem reduzir o vocábulo a um único valor em todas as passagens."
+            }
+          ]
+        }
+      ]
+    },
+    "G3779": {
+      "strong": "G3779",
+      "lemma": "οὕτω(ς)",
+      "lemmaTransliteration": "houtōs",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G3779-1",
+          "label": "assim",
+          "definition": "assim",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:15",
+              "greek": "οὕτως ἔχεις",
+              "translation": "assim",
+              "explanation": "Exemplo da ocorrência de οὕτω(ς) no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G3668": {
+      "strong": "G3668",
+      "lemma": "ὁμοίως",
+      "lemmaTransliteration": "homoiōs",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G3668-1",
+          "label": "igualmente",
+          "definition": "igualmente",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:15",
+              "greek": "Νικολαϊτῶν ὁμοίως.",
+              "translation": "igualmente",
+              "explanation": "Exemplo da ocorrência de ὁμοίως no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G5035": {
+      "strong": "G5035",
+      "lemma": "ταχύ",
+      "lemmaTransliteration": "tachy",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G5035-1",
+          "label": "rapidamente",
+          "definition": "rapidamente",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:16",
+              "greek": "σοι ταχύ, καὶ",
+              "translation": "rapidamente",
+              "explanation": "Exemplo da ocorrência de ταχύ no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G4170": {
+      "strong": "G4170",
+      "lemma": "πολεμέω",
+      "lemmaTransliteration": "polemeō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4170-1",
+          "label": "guerrear",
+          "definition": "guerrear",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:16",
+              "greek": "καὶ πολεμήσω μετ’",
+              "translation": "guerrear",
+              "explanation": "Exemplo da ocorrência de πολεμέω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G3131": {
+      "strong": "G3131",
+      "lemma": "μάννα",
+      "lemmaTransliteration": "manna",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3131-1",
+          "label": "maná, alimento concedido por Deus",
+          "definition": "μάννα nomeia o alimento provido no deserto. Em Ap 2:17, o maná escondido constitui promessa ao vencedor.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:17",
+              "greek": "τοῦ μάννα τοῦ",
+              "translation": "maná",
+              "explanation": "A conexão com Êxodo é sólida; o referente escatológico preciso exige argumentação interpretativa."
+            }
+          ]
+        }
+      ]
+    },
+    "G2928": {
+      "strong": "G2928",
+      "lemma": "κρύπτω",
+      "lemmaTransliteration": "kryptō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2928-1",
+          "label": "esconder",
+          "definition": "esconder",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:17",
+              "greek": "τοῦ κεκρυμμένου, καὶ",
+              "translation": "esconder",
+              "explanation": "Exemplo da ocorrência de κρύπτω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G5586": {
+      "strong": "G5586",
+      "lemma": "ψῆφος",
+      "lemmaTransliteration": "psēphos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5586-1",
+          "label": "pedrinha, seixo, pedra usada como ficha",
+          "definition": "ψῆφος designa pequena pedra ou ficha utilizada em diferentes práticas antigas. Em Ap 2:17 aparece como pedra branca concedida ao vencedor.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:17",
+              "greek": "αὐτῷ ψῆφον λευκήν,",
+              "translation": "pedrinha",
+              "explanation": "Absolvição jurídica, entrada em banquete e hospitalidade são interpretações possíveis, não uma identificação arqueológica comprovada."
+            }
+          ]
+        }
+      ]
+    },
+    "G2537": {
+      "strong": "G2537",
+      "lemma": "καινός",
+      "lemmaTransliteration": "kainos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G2537-1",
+          "label": "novo, qualitativamente novo",
+          "definition": "καινός pode designar novidade de caráter, estado ou condição. Em Ap 2:17 modifica ὄνομα, o novo nome inscrito na pedra.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:17",
+              "greek": "ὄνομα καινὸν γεγραμμένον",
+              "translation": "novo",
+              "explanation": "Evitar contrastar mecanicamente καινός com νέος sem avaliar contextos de uso."
+            }
+          ]
+        }
+      ]
+    },
+    "G3762": {
+      "strong": "G3762",
+      "lemma": "οὐδείς",
+      "lemmaTransliteration": "oudeis",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3762-1",
+          "label": "ninguém",
+          "definition": "ninguém",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:17",
+              "greek": "ὃ οὐδεὶς οἶδεν",
+              "translation": "ninguém",
+              "explanation": "Exemplo da ocorrência de οὐδείς no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G2983": {
+      "strong": "G2983",
+      "lemma": "λαμβάνω",
+      "lemmaTransliteration": "lambanō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2983-1",
+          "label": "receber",
+          "definition": "receber",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:17",
+              "greek": "ὁ λαμβάνων.",
+              "translation": "receber",
+              "explanation": "Exemplo da ocorrência de λαμβάνω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1248": {
+      "strong": "G1248",
+      "lemma": "διακονία",
+      "lemmaTransliteration": "diakonia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G1248-1",
+          "label": "serviço",
+          "definition": "serviço",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:19",
+              "greek": "τὴν διακονίαν καὶ",
+              "translation": "serviço",
+              "explanation": "Exemplo da ocorrência de διακονία no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1135": {
+      "strong": "G1135",
+      "lemma": "γυνή",
+      "lemmaTransliteration": "gynē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G1135-1",
+          "label": "mulher",
+          "definition": "mulher",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:20",
+              "greek": "τὴν γυναῖκα Ἰεζάβελ,",
+              "translation": "mulher",
+              "explanation": "Exemplo da ocorrência de γυνή no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G2403": {
+      "strong": "G2403",
+      "lemma": "Ἰεζάβελ",
+      "lemmaTransliteration": "Iezabel",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2403-1",
+          "label": "Jezabel, nome próprio feminino",
+          "definition": "Ἰεζάβελ é o nome da rainha do relato dos Reis, usado em Ap 2:20 para caracterizar uma figura associada a falsa profecia e sedução.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:20",
+              "greek": "γυναῖκα Ἰεζάβελ, ἡ",
+              "translation": "Jezabel",
+              "explanation": "A identificação como apelido tipológico é provável, mas não demonstrável de modo definitivo."
+            }
+          ]
+        }
+      ]
+    },
+    "G4398": {
+      "strong": "G4398",
+      "lemma": "προφῆτις",
+      "lemmaTransliteration": "prophētis",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4398-1",
+          "label": "profetisa",
+          "definition": "profetisa",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:20",
+              "greek": "ἑαυτὴν προφῆτιν, καὶ",
+              "translation": "profetisa",
+              "explanation": "Exemplo da ocorrência de προφῆτις no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G4105": {
+      "strong": "G4105",
+      "lemma": "πλανάω",
+      "lemmaTransliteration": "planaō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4105-1",
+          "label": "enganar",
+          "definition": "enganar",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:20",
+              "greek": "καὶ πλανᾷ τοὺς",
+              "translation": "enganar",
+              "explanation": "Exemplo da ocorrência de πλανάω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1699": {
+      "strong": "G1699",
+      "lemma": "ἐμός",
+      "lemmaTransliteration": "emos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G1699-1",
+          "label": "meu",
+          "definition": "meu",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:20",
+              "greek": "τοὺς ἐμοὺς δούλους",
+              "translation": "meu",
+              "explanation": "Exemplo da ocorrência de ἐμός no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G5550": {
+      "strong": "G5550",
+      "lemma": "χρόνος",
+      "lemmaTransliteration": "chronos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5550-1",
+          "label": "tempo",
+          "definition": "tempo",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:21",
+              "greek": "αὐτῇ χρόνον ἵνα",
+              "translation": "tempo",
+              "explanation": "Exemplo da ocorrência de χρόνος no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G2309": {
+      "strong": "G2309",
+      "lemma": "θέλω",
+      "lemmaTransliteration": "thelō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2309-1",
+          "label": "querer",
+          "definition": "querer",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:21",
+              "greek": "οὐ θέλει μετανοῆσαι",
+              "translation": "querer",
+              "explanation": "Exemplo da ocorrência de θέλω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G4202": {
+      "strong": "G4202",
+      "lemma": "πορνεία",
+      "lemmaTransliteration": "porneia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4202-1",
+          "label": "imoralidade sexual",
+          "definition": "imoralidade sexual",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:21",
+              "greek": "τῆς πορνείας αὐτῆς.",
+              "translation": "imoralidade sexual",
+              "explanation": "Exemplo da ocorrência de πορνεία no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G2825": {
+      "strong": "G2825",
+      "lemma": "κλίνη",
+      "lemmaTransliteration": "klinē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2825-1",
+          "label": "leito, cama, lugar de repouso",
+          "definition": "κλίνη significa leito ou cama. Em Ap 2:22, torna-se imagem de julgamento, possivelmente com ironia em relação à infidelidade.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:22",
+              "greek": "εἰς κλίνην, καὶ",
+              "translation": "leito",
+              "explanation": "Não inferir uma doença concreta nem uma punição médica específica somente do substantivo."
+            }
+          ]
+        }
+      ]
+    },
+    "G3431": {
+      "strong": "G3431",
+      "lemma": "μοιχεύω",
+      "lemmaTransliteration": "moicheuō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3431-1",
+          "label": "adulterar",
+          "definition": "adulterar",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:22",
+              "greek": "τοὺς μοιχεύοντας μετ’",
+              "translation": "adulterar",
+              "explanation": "Exemplo da ocorrência de μοιχεύω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G5043": {
+      "strong": "G5043",
+      "lemma": "τέκνον",
+      "lemmaTransliteration": "teknon",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5043-1",
+          "label": "filho",
+          "definition": "filho",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:23",
+              "greek": "τὰ τέκνα αὐτῆς",
+              "translation": "filho",
+              "explanation": "Exemplo da ocorrência de τέκνον no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1097": {
+      "strong": "G1097",
+      "lemma": "γινώσκω",
+      "lemmaTransliteration": "ginōskō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G1097-1",
+          "label": "conhecer",
+          "definition": "conhecer",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:23",
+              "greek": "καὶ γνώσονται πᾶσαι",
+              "translation": "conhecer",
+              "explanation": "Exemplo da ocorrência de γινώσκω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G2045": {
+      "strong": "G2045",
+      "lemma": "ἐραυνάω",
+      "lemmaTransliteration": "eraunaō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2045-1",
+          "label": "investigar",
+          "definition": "investigar",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:23",
+              "greek": "ὁ ἐραυνῶν νεφροὺς",
+              "translation": "investigar",
+              "explanation": "Exemplo da ocorrência de ἐραυνάω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G3510": {
+      "strong": "G3510",
+      "lemma": "νεφρός",
+      "lemmaTransliteration": "nephros",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3510-1",
+          "label": "rim, órgão interno; em imagens, afetos íntimos",
+          "definition": "νεφρός designa os rins; em linguagem hebraica, os órgãos internos podem simbolizar as dimensões profundas da vida humana.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:23",
+              "greek": "ἐραυνῶν νεφροὺς καὶ",
+              "translation": "rim",
+              "explanation": "Em Ap 2:23 a coordenação com καρδίας descreve a capacidade divina de examinar o interior."
+            }
+          ]
+        }
+      ]
+    },
+    "G2588": {
+      "strong": "G2588",
+      "lemma": "καρδία",
+      "lemmaTransliteration": "kardia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2588-1",
+          "label": "coração; centro interior da pessoa",
+          "definition": "καρδία pode denotar coração físico ou o centro de pensamentos, desejos e decisões. Em Ap 2:23 participa da linguagem bíblica de conhecimento divino.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:23",
+              "greek": "καὶ καρδίας, καὶ",
+              "translation": "coração",
+              "explanation": "Não reduzir a expressão a sentimentos em oposição exclusiva à razão."
+            }
+          ]
+        }
+      ]
+    },
+    "G1538": {
+      "strong": "G1538",
+      "lemma": "ἕκαστος",
+      "lemmaTransliteration": "hekastos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G1538-1",
+          "label": "cada um",
+          "definition": "cada um",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:23",
+              "greek": "ὑμῖν ἑκάστῳ κατὰ",
+              "translation": "cada um",
+              "explanation": "Exemplo da ocorrência de ἕκαστος no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G3062": {
+      "strong": "G3062",
+      "lemma": "λοιπός",
+      "lemmaTransliteration": "loipos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3062-1",
+          "label": "restante",
+          "definition": "restante",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:24",
+              "greek": "τοῖς λοιποῖς τοῖς",
+              "translation": "restante",
+              "explanation": "Exemplo da ocorrência de λοιπός no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G901": {
+      "strong": "G901",
+      "lemma": "βαθύς",
+      "lemmaTransliteration": "bathys",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G901-1",
+          "label": "profundo; de grande profundidade",
+          "definition": "βαθύς significa profundo. Em Ap 2:24, τὰ βαθέα substantivado integra o título ou afirmação polêmica «profundezas de Satanás».",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:24",
+              "greek": "τὰ βαθέα τοῦ",
+              "translation": "profundo",
+              "explanation": "Não pressupor automaticamente a existência de movimento gnóstico desenvolvido."
+            }
+          ]
+        }
+      ]
+    },
+    "G243": {
+      "strong": "G243",
+      "lemma": "ἄλλος",
+      "lemmaTransliteration": "allos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G243-1",
+          "label": "outro",
+          "definition": "outro",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:24",
+              "greek": "ὑμᾶς ἄλλο βάρος·",
+              "translation": "outro",
+              "explanation": "Exemplo da ocorrência de ἄλλος no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G922": {
+      "strong": "G922",
+      "lemma": "βάρος",
+      "lemmaTransliteration": "baros",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G922-1",
+          "label": "peso, fardo, carga",
+          "definition": "βάρος designa peso ou carga, inclusive em sentido figurado. Em Ap 2:24 Cristo afirma não impor outro fardo.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:24",
+              "greek": "ἄλλο βάρος·",
+              "translation": "peso",
+              "explanation": "A possível evocação de At 15:28 é intertextual e não comprova dependência literária direta."
+            }
+          ]
+        }
+      ]
+    },
+    "G4133": {
+      "strong": "G4133",
+      "lemma": "πλήν",
+      "lemmaTransliteration": "plēn",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G4133-1",
+          "label": "contudo",
+          "definition": "contudo",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:25",
+              "greek": "πλὴν ὃ",
+              "translation": "contudo",
+              "explanation": "Exemplo da ocorrência de πλήν no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G302": {
+      "strong": "G302",
+      "lemma": "ἄν",
+      "lemmaTransliteration": "an",
+      "partOfSpeech": "Partícula",
+      "senses": [
+        {
+          "id": "G302-1",
+          "label": "partícula modal",
+          "definition": "partícula modal",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:25",
+              "greek": "οὗ ἂν ἥξω.",
+              "translation": "partícula modal",
+              "explanation": "Exemplo da ocorrência de ἄν no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G2240": {
+      "strong": "G2240",
+      "lemma": "ἥκω",
+      "lemmaTransliteration": "hēkō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2240-1",
+          "label": "chegar",
+          "definition": "chegar",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:25",
+              "greek": "ἂν ἥξω.",
+              "translation": "chegar",
+              "explanation": "Exemplo da ocorrência de ἥκω no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G5056": {
+      "strong": "G5056",
+      "lemma": "τέλος",
+      "lemmaTransliteration": "telos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5056-1",
+          "label": "fim",
+          "definition": "fim",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:26",
+              "greek": "ἄχρι τέλους τὰ",
+              "translation": "fim",
+              "explanation": "Exemplo da ocorrência de τέλος no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1849": {
+      "strong": "G1849",
+      "lemma": "ἐξουσία",
+      "lemmaTransliteration": "exousia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G1849-1",
+          "label": "autoridade",
+          "definition": "autoridade",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:26",
+              "greek": "αὐτῷ ἐξουσίαν ἐπὶ",
+              "translation": "autoridade",
+              "explanation": "Exemplo da ocorrência de ἐξουσία no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G1484": {
+      "strong": "G1484",
+      "lemma": "ἔθνος",
+      "lemmaTransliteration": "ethnos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G1484-1",
+          "label": "nação",
+          "definition": "nação",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:26",
+              "greek": "τῶν ἐθνῶν,",
+              "translation": "nação",
+              "explanation": "Exemplo da ocorrência de ἔθνος no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G4165": {
+      "strong": "G4165",
+      "lemma": "ποιμαίνω",
+      "lemmaTransliteration": "poimainō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4165-1",
+          "label": "apascentar; conduzir; governar",
+          "definition": "ποιμαίνω significa pastorear e, figuradamente, reger como pastor. Em Ap 2:27 é linguagem régia messiânica relacionada ao Salmo 2.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:27",
+              "greek": "καὶ ποιμανεῖ αὐτοὺς",
+              "translation": "apascentar",
+              "explanation": "A forma ποιμανεῖ é futuro ativo indicativo de terceira pessoa singular."
+            }
+          ]
+        }
+      ]
+    },
+    "G4464": {
+      "strong": "G4464",
+      "lemma": "ῥάβδος",
+      "lemmaTransliteration": "hrabdos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4464-1",
+          "label": "vara, bastão; cetro",
+          "definition": "ῥάβδος designa vara, cajado ou cetro, conforme contexto. Em Ap 2:27, a vara de ferro é imagem régia derivada do Salmo 2.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:27",
+              "greek": "ἐν ῥάβδῳ σιδηρᾷ",
+              "translation": "vara",
+              "explanation": "A dureza da vara é expressa pelo adjetivo σιδηρᾷ, não pelo substantivo isoladamente."
+            }
+          ]
+        }
+      ]
+    },
+    "G4603": {
+      "strong": "G4603",
+      "lemma": "σιδηροῦς",
+      "lemmaTransliteration": "sidērous",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G4603-1",
+          "label": "de ferro",
+          "definition": "σιδηροῦς é adjetivo referente a ferro; em Ap 2:27 a forma σιδηρᾷ concorda com ῥάβδῳ no dativo singular feminino.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:27",
+              "greek": "ῥάβδῳ σιδηρᾷ ὡς",
+              "translation": "de ferro",
+              "explanation": "A força do símbolo é textual, não descrição literal de tecnologia militar."
+            }
+          ]
+        }
+      ]
+    },
+    "G4632": {
+      "strong": "G4632",
+      "lemma": "σκεῦος",
+      "lemmaTransliteration": "skeuos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4632-1",
+          "label": "vaso",
+          "definition": "vaso",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:27",
+              "greek": "τὰ σκεύη τὰ",
+              "translation": "vaso",
+              "explanation": "Exemplo da ocorrência de σκεῦος no contexto; nuance exegética depende da sintaxe."
+            }
+          ]
+        }
+      ]
+    },
+    "G2764": {
+      "strong": "G2764",
+      "lemma": "κεραμικός",
+      "lemmaTransliteration": "keramikos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G2764-1",
+          "label": "cerâmico, feito de barro cozido",
+          "definition": "κεραμικός descreve objetos de cerâmica. Em Ap 2:27 qualifica os vasos comparados à fragilidade diante do governo messiânico.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:27",
+              "greek": "τὰ κεραμικὰ συντρίβεται,",
+              "translation": "de cerâmica",
+              "explanation": "O contraste com a vara de ferro procede da imagem do Salmo 2."
+            }
+          ]
+        }
+      ]
+    },
+    "G4937": {
+      "strong": "G4937",
+      "lemma": "συντρίβω",
+      "lemmaTransliteration": "syntribō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4937-1",
+          "label": "despedaçar, quebrar completamente",
+          "definition": "συντρίβω expressa romper ou despedaçar. Em Ap 2:27 a forma συντρίβεται é presente médio/passivo indicativo singular no MorphGNT.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:27",
+              "greek": "κεραμικὰ συντρίβεται,",
+              "translation": "despedaçar",
+              "explanation": "Preservar a peculiaridade sintática da comparação em vez de reescrever o grego."
+            }
+          ]
+        }
+      ]
+    },
+    "G4407": {
+      "strong": "G4407",
+      "lemma": "πρωϊνός",
+      "lemmaTransliteration": "prōinos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G4407-1",
+          "label": "matutino, da manhã",
+          "definition": "πρωϊνός é adjetivo relacionado à manhã. Em Ap 2:28 qualifica ἀστέρα, estrela da manhã.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:28",
+              "greek": "τὸν πρωϊνόν.",
+              "translation": "matutino",
+              "explanation": "A identificação de Cristo em Ap 22:16 constitui paralelo interno interpretativo."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

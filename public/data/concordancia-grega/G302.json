@@ -1,0 +1,1269 @@
+{
+  "strong": "G302",
+  "lemma": "ἄν",
+  "lemmaTranslit": "an",
+  "tokenCount": 171,
+  "verseCount": 155,
+  "bookDistribution": {
+    "Mateus": 43,
+    "Marcos": 20,
+    "Lucas": 34,
+    "João": 26,
+    "Atos": 15,
+    "Romanos": 8,
+    "1 Coríntios": 7,
+    "2 Coríntios": 3,
+    "Gálatas": 2,
+    "Efésios": 1,
+    "Filipenses": 1,
+    "Hebreus": 6,
+    "1 João": 3,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mt 2:13",
+      "text": "ἕως ἂν εἴπω",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Mt 5:18",
+      "text": "ἕως ἂν παρέλθῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "δ’ ἂν ποιήσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Mt 5:21",
+      "text": "δ’ ἂν φονεύσῃ,",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Mt 5:22",
+      "text": "δ’ ἂν εἴπῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mt 5:26",
+      "text": "ἕως ἂν ἀποδῷς",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Mt 5:31",
+      "text": "Ὃς ἂν ἀπολύσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mt 10:11",
+      "text": "δ’ ἂν πόλιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mt 10:14",
+      "text": "ὃς ἂν μὴ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mt 10:23",
+      "text": "ἕως ἂν ἔλθῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mt 10:33",
+      "text": "δ’ ἂν ἀρνήσηταί",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mt 10:42",
+      "text": "ὃς ἂν ποτίσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Mt 11:21",
+      "text": "πάλαι ἂν ἐν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mt 11:23",
+      "text": "ἔμεινεν ἂν μέχρι",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Mt 12:7",
+      "text": "οὐκ ἂν κατεδικάσατε",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Mt 12:20",
+      "text": "ἕως ἂν ἐκβάλῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mt 12:32",
+      "text": "δ’ ἂν εἴπῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 50,
+      "reference": "Mt 12:50",
+      "text": "γὰρ ἂν ποιήσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Mt 15:5",
+      "text": "Ὃς ἂν εἴπῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Mt 16:25",
+      "text": "δ’ ἂν ἀπολέσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Mt 16:28",
+      "text": "ἕως ἂν ἴδωσιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Mt 18:6",
+      "text": "δ’ ἂν σκανδαλίσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Mt 19:9",
+      "text": "ὃς ἂν ἀπολύσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Mt 20:26",
+      "text": "ὃς ἂν θέλῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Mt 20:27",
+      "text": "ὃς ἂν θέλῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 22,
+      "reference": "Mt 21:22",
+      "text": "ὅσα ἂν αἰτήσητε",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 44,
+      "reference": "Mt 21:44",
+      "text": "δ’ ἂν πέσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 44,
+      "reference": "Mt 22:44",
+      "text": "ἕως ἂν θῶ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 16,
+      "reference": "Mt 23:16",
+      "text": "Ὃς ἂν ὀμόσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 18,
+      "reference": "Mt 23:18",
+      "text": "Ὃς ἂν ὀμόσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 30,
+      "reference": "Mt 23:30",
+      "text": "οὐκ ἂν ⸁ἤμεθα",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 39,
+      "reference": "Mt 23:39",
+      "text": "ἕως ἂν εἴπητε·",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Mt 24:22",
+      "text": "οὐκ ἂν ἐσώθη",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 34,
+      "reference": "Mt 24:34",
+      "text": "ἕως ἂν πάντα",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "ἐγρηγόρησεν ἂν καὶ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 27,
+      "reference": "Mt 25:27",
+      "text": "ἐκομισάμην ἂν τὸ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 48,
+      "reference": "Mt 26:48",
+      "text": "Ὃν ἂν φιλήσω",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Mk 3:29",
+      "text": "δ’ ἂν βλασφημήσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 35,
+      "reference": "Mk 3:35",
+      "text": "γὰρ ἂν ποιήσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Mk 6:10",
+      "text": "ἕως ἂν ἐξέλθητε",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Mk 6:11",
+      "text": "ὃς ἂν τόπος",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 56,
+      "reference": "Mk 6:56",
+      "text": "ὅπου ἂν εἰσεπορεύετο",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Mk 8:35",
+      "text": "δ’ ἂν ἀπολέσει",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Mk 9:1",
+      "text": "ἕως ἂν ἴδωσιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Mk 9:37",
+      "text": "Ὃς ἂν ἓν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Mk 9:41",
+      "text": "γὰρ ἂν ποτίσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Mk 9:42",
+      "text": "ὃς ἂν σκανδαλίσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mk 10:11",
+      "text": "Ὃς ἂν ἀπολύσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Mk 10:15",
+      "text": "ὃς ἂν μὴ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 43,
+      "reference": "Mk 10:43",
+      "text": "ὃς ἂν θέλῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 44,
+      "reference": "Mk 10:44",
+      "text": "ὃς ἂν θέλῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mk 11:23",
+      "text": "ὃς ἂν εἴπῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mk 12:36",
+      "text": "ἕως ἂν θῶ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Mk 13:20",
+      "text": "οὐκ ἂν ἐσώθη",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 44,
+      "reference": "Mk 14:44",
+      "text": "Ὃν ἂν φιλήσω",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 62,
+      "reference": "Lk 1:62",
+      "text": "τί ἂν θέλοι",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Lk 2:26",
+      "text": "ἢ ἂν ἴδῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 35,
+      "reference": "Lk 2:35",
+      "text": "ὅπως ἂν ἀποκαλυφθῶσιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Lk 4:6",
+      "text": "ᾧ ἂν θέλω",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Lk 6:11",
+      "text": "τί ἂν ποιήσαιεν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Lk 7:39",
+      "text": "ἐγίνωσκεν ἂν τίς",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Lk 8:18",
+      "text": "ὃς ἂν γὰρ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Lk 9:4",
+      "text": "ἣν ἂν οἰκίαν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Lk 9:5",
+      "text": "ὅσοι ἂν μὴ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Lk 9:24",
+      "text": "γὰρ ἂν θέλῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Lk 9:26",
+      "text": "γὰρ ἂν ἐπαισχυνθῇ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Lk 9:27",
+      "text": "ἕως ἂν ἴδωσιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 46,
+      "reference": "Lk 9:46",
+      "text": "τίς ἂν εἴη",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 48,
+      "reference": "Lk 9:48",
+      "text": "Ὃς ἂν δέξηται",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Lk 10:5",
+      "text": "δ’ ἂν εἰσέλθητε",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Lk 10:8",
+      "text": "ἣν ἂν πόλιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Lk 10:10",
+      "text": "δ’ ἂν πόλιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Lk 10:13",
+      "text": "πάλαι ἂν ἐν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Lk 10:35",
+      "text": "τι ἂν προσδαπανήσῃς",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Lk 12:8",
+      "text": "ὃς ἂν ὁμολογήσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Lk 12:39",
+      "text": "οὐκ ἂν ἀφῆκεν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Lk 13:25",
+      "text": "οὗ ἂν ἐγερθῇ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Lk 15:26",
+      "text": "τί ἂν εἴη",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Lk 17:6",
+      "text": "ἐλέγετε ἂν τῇ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 33,
+      "reference": "Lk 17:33",
+      "text": "δ’ ἂν ἀπολέσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Lk 18:17",
+      "text": "ὃς ἂν μὴ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Lk 19:23",
+      "text": "τόκῳ ἂν αὐτὸ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Lk 20:18",
+      "text": "δ’ ἂν πέσῃ,",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 43,
+      "reference": "Lk 20:43",
+      "text": "ἕως ἂν θῶ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 32,
+      "reference": "Lk 21:32",
+      "text": "ἕως ἂν πάντα",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Jn 1:33",
+      "text": "ὃν ἂν ἴδῃς",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Jn 2:5",
+      "text": "τι ἂν λέγῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Jn 4:10",
+      "text": "σὺ ἂν ᾔτησας",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Jn 4:14",
+      "text": "δ’ ἂν πίῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "γὰρ ἂν ἐκεῖνος",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 46,
+      "reference": "Jn 5:46",
+      "text": "ἐπιστεύετε ἂν ἐμοί,",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Jn 8:19",
+      "text": "μου ἂν ᾔδειτε.",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 42,
+      "reference": "Jn 8:42",
+      "text": "ἠγαπᾶτε ἂν ἐμέ,",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Jn 9:41",
+      "text": "οὐκ ἂν εἴχετε",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Jn 11:21",
+      "text": "οὐκ ἂν ἀπέθανεν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Jn 11:22",
+      "text": "ὅσα ἂν αἰτήσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "οὐκ ἄν μου",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Jn 13:20",
+      "text": "λαμβάνων ἄν τινα",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Jn 13:24",
+      "text": "τίς ἂν εἴη",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Jn 14:2",
+      "text": "εἶπον ἂν ὑμῖν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Jn 14:7",
+      "text": "μου ἂν ᾔδειτε·",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Jn 14:13",
+      "text": "τι ἂν αἰτήσητε",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Jn 14:28",
+      "text": "ἐχάρητε ἄν, ὅτι",
+      "highlightedWord": "ἄν,"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Jn 15:16",
+      "text": "τι ἂν αἰτήσητε",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Jn 15:19",
+      "text": "κόσμος ἂν τὸ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Jn 16:23",
+      "text": "ὑμῖν, ἄν τι",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Jn 18:30",
+      "text": "οὐκ ἄν σοι",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 36,
+      "reference": "Jn 18:36",
+      "text": "ἠγωνίζοντο ἄν, ἵνα",
+      "highlightedWord": "ἄν,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Jn 20:23",
+      "text": "ἄν τινων",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 35,
+      "reference": "Ac 2:35",
+      "text": "ἕως ἂν θῶ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 39,
+      "reference": "Ac 2:39",
+      "text": "ὅσους ἂν προσκαλέσηται",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 45,
+      "reference": "Ac 2:45",
+      "text": "καθότι ἄν τις",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Ac 3:20",
+      "text": "ὅπως ἂν ἔλθωσιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Ac 3:22",
+      "text": "ὅσα ἂν λαλήσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Ac 3:23",
+      "text": "ἥτις ἂν μὴ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "καθότι ἄν τις",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Ac 5:24",
+      "text": "τί ἂν γένοιτο",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Ac 7:3",
+      "text": "ἣν ἄν σοι",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ac 8:31",
+      "text": "γὰρ ἂν δυναίμην",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Ac 10:17",
+      "text": "τί ἂν εἴη",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Ac 15:17",
+      "text": "ὅπως ἂν ἐκζητήσωσιν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Ac 17:18",
+      "text": "Τί ἂν θέλοι",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "λόγον ἂν ἀνεσχόμην",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 29,
+      "reference": "Ac 26:29",
+      "text": "Εὐξαίμην ἂν τῷ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Ro 3:4",
+      "text": "Ὅπως ἂν δικαιωθῇς",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Ro 9:15",
+      "text": "ὃν ἂν ἐλεῶ,",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Ro 9:29",
+      "text": "Σόδομα ἂν ἐγενήθημεν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Ro 10:13",
+      "text": "ὃς ἂν ἐπικαλέσηται",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Ro 15:24",
+      "text": "ὡς ἂν πορεύωμαι",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Ro 16:2",
+      "text": "ᾧ ἂν ὑμῶν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Co 2:8",
+      "text": "οὐκ ἂν τὸν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Co 4:5",
+      "text": "ἕως ἂν ἔλθῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "1Co 7:5",
+      "text": "μήτι ἂν ἐκ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "1Co 11:27",
+      "text": "ὃς ἂν ἐσθίῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "1Co 11:31",
+      "text": "οὐκ ἂν ἐκρινόμεθα·",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "1Co 11:34",
+      "text": "ὡς ἂν ἔλθω",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "1Co 12:2",
+      "text": "ὡς ἂν ἤγεσθε",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Co 3:15",
+      "text": "ἡνίκα ἂν ἀναγινώσκηται",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "2Co 10:9",
+      "text": "ὡς ἂν ἐκφοβεῖν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "2Co 11:21",
+      "text": "δ’ ἄν τις",
+      "highlightedWord": "ἄν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ga 1:10",
+      "text": "οὐκ ἂν ἤμην.",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ga 3:21",
+      "text": "νόμου ἂν ἦν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Eph 6:8",
+      "text": "ὃ ἂν ποιήσῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Php 2:23",
+      "text": "ὡς ἂν ἀφίδω",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Heb 1:13",
+      "text": "ἕως ἂν θῶ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Heb 4:8",
+      "text": "οὐκ ἂν περὶ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Heb 8:4",
+      "text": "οὐδ’ ἂν ἦν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Heb 8:7",
+      "text": "οὐκ ἂν δευτέρας",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Heb 10:2",
+      "text": "οὐκ ἂν ἐπαύσαντο",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Heb 11:15",
+      "text": "εἶχον ἂν καιρὸν",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Jn 2:5",
+      "text": "δ’ ἂν τηρῇ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Jn 2:19",
+      "text": "μεμενήκεισαν ἂν μεθ’",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Jn 3:17",
+      "text": "δ’ ἂν ἔχῃ",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Re 2:25",
+      "text": "οὗ ἂν ἥξω.",
+      "highlightedWord": "ἂν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Re 14:4",
+      "text": "ὅπου ἂν ὑπάγῃ·",
+      "highlightedWord": "ἂν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

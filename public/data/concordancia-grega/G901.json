@@ -1,0 +1,51 @@
+{
+  "strong": "G901",
+  "lemma": "βαθύς",
+  "lemmaTranslit": "bathys",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Lucas": 1,
+    "João": 1,
+    "Atos": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Lk 24:1",
+      "text": "ὄρθρου βαθέως ἐπὶ",
+      "highlightedWord": "βαθέως"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "ἐστὶν βαθύ· πόθεν",
+      "highlightedWord": "βαθύ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Ac 20:9",
+      "text": "ὕπνῳ βαθεῖ διαλεγομένου",
+      "highlightedWord": "βαθεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "τὰ βαθέα τοῦ",
+      "highlightedWord": "βαθέα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

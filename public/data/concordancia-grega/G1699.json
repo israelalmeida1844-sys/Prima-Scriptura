@@ -1,0 +1,558 @@
+{
+  "strong": "G1699",
+  "lemma": "ἐμός",
+  "lemmaTranslit": "emos",
+  "tokenCount": 76,
+  "verseCount": 66,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 2,
+    "Lucas": 3,
+    "João": 41,
+    "Romanos": 2,
+    "1 Coríntios": 9,
+    "2 Coríntios": 3,
+    "Gálatas": 2,
+    "Filipenses": 2,
+    "Colossenses": 1,
+    "2 Tessalonicenses": 1,
+    "Filemom": 3,
+    "2 Pedro": 1,
+    "3 João": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Mt 18:20",
+      "text": "τὸ ἐμὸν ὄνομα,",
+      "highlightedWord": "ἐμὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Mt 20:15",
+      "text": "τοῖς ἐμοῖς; ἢ",
+      "highlightedWord": "ἐμοῖς;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Mt 20:23",
+      "text": "ἔστιν ἐμὸν δοῦναι,",
+      "highlightedWord": "ἐμὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 27,
+      "reference": "Mt 25:27",
+      "text": "τὸ ἐμὸν σὺν",
+      "highlightedWord": "ἐμὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Mk 8:38",
+      "text": "τοὺς ἐμοὺς λόγους",
+      "highlightedWord": "ἐμοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Mk 10:40",
+      "text": "ἔστιν ἐμὸν δοῦναι,",
+      "highlightedWord": "ἐμὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Lk 9:26",
+      "text": "τοὺς ἐμοὺς λόγους,",
+      "highlightedWord": "ἐμοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Lk 15:31",
+      "text": "τὰ ἐμὰ σά",
+      "highlightedWord": "ἐμὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 19,
+      "reference": "Lk 22:19",
+      "text": "τὴν ἐμὴν ἀνάμνησιν.",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Jn 3:29",
+      "text": "ἡ ἐμὴ πεπλήρωται.",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Jn 4:34",
+      "text": "Ἰησοῦς· Ἐμὸν βρῶμά",
+      "highlightedWord": "Ἐμὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Jn 5:30",
+      "text": "ἡ ἐμὴ δικαία",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 47,
+      "reference": "Jn 5:47",
+      "text": "τοῖς ἐμοῖς ῥήμασιν",
+      "highlightedWord": "ἐμοῖς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Jn 6:38",
+      "text": "τὸ ἐμὸν ἀλλὰ",
+      "highlightedWord": "ἐμὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Jn 7:6",
+      "text": "ὁ ἐμὸς οὔπω",
+      "highlightedWord": "ἐμὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Jn 7:8",
+      "text": "ὁ ἐμὸς καιρὸς",
+      "highlightedWord": "ἐμὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Jn 7:16",
+      "text": "Ἡ ἐμὴ διδαχὴ",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Jn 8:16",
+      "text": "ἡ ἐμὴ ἀληθινή",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Jn 8:31",
+      "text": "τῷ ἐμῷ, ἀληθῶς",
+      "highlightedWord": "ἐμῷ,"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Jn 8:37",
+      "text": "ὁ ἐμὸς οὐ",
+      "highlightedWord": "ἐμὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 43,
+      "reference": "Jn 8:43",
+      "text": "τὴν ἐμὴν οὐ",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Jn 8:51",
+      "text": "τὸν ἐμὸν λόγον",
+      "highlightedWord": "ἐμὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 56,
+      "reference": "Jn 8:56",
+      "text": "τὴν ἐμήν, καὶ",
+      "highlightedWord": "ἐμήν,"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Jn 10:14",
+      "text": "τὰ ἐμὰ καὶ",
+      "highlightedWord": "ἐμὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Jn 10:26",
+      "text": "τῶν ἐμῶν.",
+      "highlightedWord": "ἐμῶν."
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Jn 10:27",
+      "text": "τὰ ἐμὰ τῆς",
+      "highlightedWord": "ἐμὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Jn 12:26",
+      "text": "ὁ ἐμὸς ἔσται·",
+      "highlightedWord": "ἐμὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Jn 13:35",
+      "text": "ὅτι ἐμοὶ μαθηταί",
+      "highlightedWord": "ἐμοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Jn 14:15",
+      "text": "τὰς ἐμὰς τηρήσετε·",
+      "highlightedWord": "ἐμὰς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Jn 14:24",
+      "text": "ἔστιν ἐμὸς ἀλλὰ",
+      "highlightedWord": "ἐμὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Jn 14:27",
+      "text": "τὴν ἐμὴν δίδωμι",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Jn 15:8",
+      "text": "γένησθε ἐμοὶ μαθηταί.",
+      "highlightedWord": "ἐμοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Jn 15:9",
+      "text": "τῇ ἐμῇ.",
+      "highlightedWord": "ἐμῇ."
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Jn 15:11",
+      "text": "ἡ ἐμὴ ἐν",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "Jn 15:12",
+      "text": "ἡ ἐμὴ ἵνα",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Jn 16:14",
+      "text": "τοῦ ἐμοῦ λήμψεται",
+      "highlightedWord": "ἐμοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Jn 16:15",
+      "text": "πατὴρ ἐμά ἐστιν·",
+      "highlightedWord": "ἐμά"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Jn 17:10",
+      "text": "τὰ ἐμὰ πάντα",
+      "highlightedWord": "ἐμὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Jn 17:13",
+      "text": "τὴν ἐμὴν πεπληρωμένην",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Jn 17:24",
+      "text": "τὴν ἐμὴν ἣν",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 36,
+      "reference": "Jn 18:36",
+      "text": "ἡ ἐμὴ οὐκ",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Ro 3:7",
+      "text": "τῷ ἐμῷ ψεύσματι",
+      "highlightedWord": "ἐμῷ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Ro 10:1",
+      "text": "τῆς ἐμῆς καρδίας",
+      "highlightedWord": "ἐμῆς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Co 1:15",
+      "text": "τὸ ἐμὸν ὄνομα",
+      "highlightedWord": "ἐμὸν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Co 5:4",
+      "text": "τοῦ ἐμοῦ πνεύματος",
+      "highlightedWord": "ἐμοῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "1Co 7:40",
+      "text": "τὴν ἐμὴν γνώμην,",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "1Co 9:3",
+      "text": "Ἡ ἐμὴ ἀπολογία",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "1Co 11:24",
+      "text": "τὴν ἐμὴν ἀνάμνησιν.",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "1Co 11:25",
+      "text": "τῷ ἐμῷ αἵματι·",
+      "highlightedWord": "ἐμῷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "1Co 16:18",
+      "text": "τὸ ἐμὸν πνεῦμα",
+      "highlightedWord": "ἐμὸν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "1Co 16:21",
+      "text": "τῇ ἐμῇ χειρὶ",
+      "highlightedWord": "ἐμῇ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "2Co 1:23",
+      "text": "τὴν ἐμὴν ψυχήν,",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Co 2:3",
+      "text": "ἡ ἐμὴ χαρὰ",
+      "highlightedWord": "ἐμὴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "2Co 8:23",
+      "text": "κοινωνὸς ἐμὸς καὶ",
+      "highlightedWord": "ἐμὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ga 1:13",
+      "text": "τὴν ἐμὴν ἀναστροφήν",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Ga 6:11",
+      "text": "τῇ ἐμῇ χειρί.",
+      "highlightedWord": "ἐμῇ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Php 1:26",
+      "text": "τῆς ἐμῆς παρουσίας",
+      "highlightedWord": "ἐμῆς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Php 3:9",
+      "text": "ἔχων ἐμὴν δικαιοσύνην",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Col 4:18",
+      "text": "τῇ ἐμῇ χειρὶ",
+      "highlightedWord": "ἐμῇ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Th 3:17",
+      "text": "τῇ ἐμῇ χειρὶ",
+      "highlightedWord": "ἐμῇ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Phm 1:10",
+      "text": "τοῦ ἐμοῦ τέκνου,",
+      "highlightedWord": "ἐμοῦ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Phm 1:12",
+      "text": "τὰ ἐμὰ σπλάγχνα·",
+      "highlightedWord": "ἐμὰ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Phm 1:19",
+      "text": "τῇ ἐμῇ χειρί,",
+      "highlightedWord": "ἐμῇ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "2Pe 1:15",
+      "text": "τὴν ἐμὴν ἔξοδον",
+      "highlightedWord": "ἐμὴν"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "3Jn 1:4",
+      "text": "τὰ ἐμὰ τέκνα",
+      "highlightedWord": "ἐμὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "τοὺς ἐμοὺς δούλους",
+      "highlightedWord": "ἐμοὺς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

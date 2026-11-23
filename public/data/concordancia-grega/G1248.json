@@ -1,0 +1,282 @@
+{
+  "strong": "G1248",
+  "lemma": "διακονία",
+  "lemmaTranslit": "diakonia",
+  "tokenCount": 34,
+  "verseCount": 32,
+  "bookDistribution": {
+    "Lucas": 1,
+    "Atos": 8,
+    "Romanos": 4,
+    "1 Coríntios": 2,
+    "2 Coríntios": 12,
+    "Efésios": 1,
+    "Colossenses": 1,
+    "1 Timóteo": 1,
+    "2 Timóteo": 2,
+    "Hebreus": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Lk 10:40",
+      "text": "πολλὴν διακονίαν· ἐπιστᾶσα",
+      "highlightedWord": "διακονίαν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Ac 1:17",
+      "text": "τῆς διακονίας ταύτης.—",
+      "highlightedWord": "διακονίας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Ac 1:25",
+      "text": "τῆς διακονίας ταύτης",
+      "highlightedWord": "διακονίας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ac 6:1",
+      "text": "τῇ διακονίᾳ τῇ",
+      "highlightedWord": "διακονίᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ac 6:4",
+      "text": "τῇ διακονίᾳ τοῦ",
+      "highlightedWord": "διακονίᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Ac 11:29",
+      "text": "εἰς διακονίαν πέμψαι",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Ac 12:25",
+      "text": "τὴν διακονίαν, συμπαραλαβόντες",
+      "highlightedWord": "διακονίαν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Ac 20:24",
+      "text": "τὴν διακονίαν ἣν",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Ac 21:19",
+      "text": "τῆς διακονίας αὐτοῦ.",
+      "highlightedWord": "διακονίας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Ro 11:13",
+      "text": "τὴν διακονίαν μου",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Ro 12:7",
+      "text": "εἴτε διακονίαν ἐν",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Ro 15:31",
+      "text": "ἡ διακονία μου",
+      "highlightedWord": "διακονία"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "1Co 12:5",
+      "text": "διαιρέσεις διακονιῶν εἰσιν,",
+      "highlightedWord": "διακονιῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "1Co 16:15",
+      "text": "εἰς διακονίαν τοῖς",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Co 3:7",
+      "text": "ἡ διακονία τοῦ",
+      "highlightedWord": "διακονία"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Co 3:8",
+      "text": "ἡ διακονία τοῦ",
+      "highlightedWord": "διακονία"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Co 3:9",
+      "text": "τῇ διακονίᾳ τῆς",
+      "highlightedWord": "διακονίᾳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "2Co 4:1",
+      "text": "τὴν διακονίαν ταύτην",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "2Co 5:18",
+      "text": "τὴν διακονίαν τῆς",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "2Co 6:3",
+      "text": "ἡ διακονία,",
+      "highlightedWord": "διακονία,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "2Co 8:4",
+      "text": "τῆς διακονίας τῆς",
+      "highlightedWord": "διακονίας"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "2Co 9:1",
+      "text": "τῆς διακονίας τῆς",
+      "highlightedWord": "διακονίας"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "2Co 9:12",
+      "text": "ἡ διακονία τῆς",
+      "highlightedWord": "διακονία"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "2Co 9:13",
+      "text": "τῆς διακονίας ταύτης",
+      "highlightedWord": "διακονίας"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "2Co 11:8",
+      "text": "ὑμῶν διακονίαν,",
+      "highlightedWord": "διακονίαν,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Eph 4:12",
+      "text": "ἔργον διακονίας, εἰς",
+      "highlightedWord": "διακονίας,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Col 4:17",
+      "text": "τὴν διακονίαν ἣν",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "1Ti 1:12",
+      "text": "εἰς διακονίαν,",
+      "highlightedWord": "διακονίαν,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "2Ti 4:5",
+      "text": "τὴν διακονίαν σου",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "2Ti 4:11",
+      "text": "εἰς διακονίαν,",
+      "highlightedWord": "διακονίαν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Heb 1:14",
+      "text": "εἰς διακονίαν ἀποστελλόμενα",
+      "highlightedWord": "διακονίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "τὴν διακονίαν καὶ",
+      "highlightedWord": "διακονίαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

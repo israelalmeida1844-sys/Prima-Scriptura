@@ -1,0 +1,472 @@
+{
+  "strong": "G3062",
+  "lemma": "λοιπός",
+  "lemmaTranslit": "loipos",
+  "tokenCount": 55,
+  "verseCount": 55,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 3,
+    "Lucas": 6,
+    "Atos": 6,
+    "Romanos": 2,
+    "1 Coríntios": 7,
+    "2 Coríntios": 3,
+    "Gálatas": 2,
+    "Efésios": 2,
+    "Filipenses": 4,
+    "1 Tessalonicenses": 3,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 6,
+      "reference": "Mt 22:6",
+      "text": "δὲ λοιποὶ κρατήσαντες",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Mt 25:11",
+      "text": "αἱ λοιπαὶ παρθένοι",
+      "highlightedWord": "λοιπαὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 45,
+      "reference": "Mt 26:45",
+      "text": "τὸ λοιπὸν καὶ",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 49,
+      "reference": "Mt 27:49",
+      "text": "δὲ λοιποὶ ἔλεγον·",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Mk 4:19",
+      "text": "τὰ λοιπὰ ἐπιθυμίαι",
+      "highlightedWord": "λοιπὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 41,
+      "reference": "Mk 14:41",
+      "text": "τὸ λοιπὸν καὶ",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Mk 16:13",
+      "text": "τοῖς λοιποῖς· οὐδὲ",
+      "highlightedWord": "λοιποῖς·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Lk 8:10",
+      "text": "δὲ λοιποῖς ἐν",
+      "highlightedWord": "λοιποῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Lk 12:26",
+      "text": "τῶν λοιπῶν μεριμνᾶτε;",
+      "highlightedWord": "λοιπῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Lk 18:9",
+      "text": "τοὺς λοιποὺς τὴν",
+      "highlightedWord": "λοιποὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Lk 18:11",
+      "text": "οἱ λοιποὶ τῶν",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Lk 24:9",
+      "text": "τοῖς λοιποῖς.",
+      "highlightedWord": "λοιποῖς."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 10,
+      "reference": "Lk 24:10",
+      "text": "αἱ λοιπαὶ σὺν",
+      "highlightedWord": "λοιπαὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 37,
+      "reference": "Ac 2:37",
+      "text": "τοὺς λοιποὺς ἀποστόλους·",
+      "highlightedWord": "λοιποὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ac 5:13",
+      "text": "δὲ λοιπῶν οὐδεὶς",
+      "highlightedWord": "λοιπῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Ac 17:9",
+      "text": "τῶν λοιπῶν ἀπέλυσαν",
+      "highlightedWord": "λοιπῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 20,
+      "reference": "Ac 27:20",
+      "text": "ἐπικειμένου, λοιπὸν περιῃρεῖτο",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 44,
+      "reference": "Ac 27:44",
+      "text": "τοὺς λοιποὺς οὓς",
+      "highlightedWord": "λοιποὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 9,
+      "reference": "Ac 28:9",
+      "text": "οἱ λοιποὶ οἱ",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "τοῖς λοιποῖς ἔθνεσιν.",
+      "highlightedWord": "λοιποῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Ro 11:7",
+      "text": "δὲ λοιποὶ ἐπωρώθησαν,",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Co 1:16",
+      "text": "οἶκον· λοιπὸν οὐκ",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Co 4:2",
+      "text": "ὧδε λοιπὸν ζητεῖται",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "1Co 7:12",
+      "text": "δὲ λοιποῖς λέγω",
+      "highlightedWord": "λοιποῖς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "1Co 7:29",
+      "text": "τὸ λοιπὸν ἵνα",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "1Co 9:5",
+      "text": "οἱ λοιποὶ ἀπόστολοι",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "1Co 11:34",
+      "text": "δὲ λοιπὰ ὡς",
+      "highlightedWord": "λοιπὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "1Co 15:37",
+      "text": "τῶν λοιπῶν·",
+      "highlightedWord": "λοιπῶν·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "2Co 12:13",
+      "text": "τὰς λοιπὰς ἐκκλησίας,",
+      "highlightedWord": "λοιπὰς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "2Co 13:2",
+      "text": "τοῖς λοιποῖς πᾶσιν,",
+      "highlightedWord": "λοιποῖς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "2Co 13:11",
+      "text": "Λοιπόν, ἀδελφοί,",
+      "highlightedWord": "Λοιπόν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Ga 2:13",
+      "text": "οἱ λοιποὶ Ἰουδαῖοι,",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Ga 6:17",
+      "text": "Τοῦ λοιποῦ κόπους",
+      "highlightedWord": "λοιποῦ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Eph 2:3",
+      "text": "οἱ λοιποί·",
+      "highlightedWord": "λοιποί·"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Eph 6:10",
+      "text": "Τοῦ λοιποῦ ἐνδυναμοῦσθε",
+      "highlightedWord": "λοιποῦ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Php 1:13",
+      "text": "τοῖς λοιποῖς πᾶσιν,",
+      "highlightedWord": "λοιποῖς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Php 3:1",
+      "text": "Τὸ λοιπόν, ἀδελφοί",
+      "highlightedWord": "λοιπόν,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Php 4:3",
+      "text": "τῶν λοιπῶν συνεργῶν",
+      "highlightedWord": "λοιπῶν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Php 4:8",
+      "text": "Τὸ λοιπόν, ἀδελφοί,",
+      "highlightedWord": "λοιπόν,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Th 4:1",
+      "text": "Λοιπὸν οὖν,",
+      "highlightedWord": "Λοιπὸν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Th 4:13",
+      "text": "οἱ λοιποὶ οἱ",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Th 5:6",
+      "text": "οἱ λοιποί, ἀλλὰ",
+      "highlightedWord": "λοιποί,"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Th 3:1",
+      "text": "Τὸ λοιπὸν προσεύχεσθε,",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Ti 5:20",
+      "text": "οἱ λοιποὶ φόβον",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "2Ti 4:8",
+      "text": "λοιπὸν ἀπόκειταί",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Heb 10:13",
+      "text": "τὸ λοιπὸν ἐκδεχόμενος",
+      "highlightedWord": "λοιπὸν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "2Pe 3:16",
+      "text": "τὰς λοιπὰς γραφὰς",
+      "highlightedWord": "λοιπὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "τοῖς λοιποῖς τοῖς",
+      "highlightedWord": "λοιποῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Re 3:2",
+      "text": "τὰ λοιπὰ ἃ",
+      "highlightedWord": "λοιπὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "τῶν λοιπῶν φωνῶν",
+      "highlightedWord": "λοιπῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "οἱ λοιποὶ τῶν",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "οἱ λοιποὶ ἔμφοβοι",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Re 12:17",
+      "text": "τῶν λοιπῶν τοῦ",
+      "highlightedWord": "λοιπῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Re 19:21",
+      "text": "οἱ λοιποὶ ἀπεκτάνθησαν",
+      "highlightedWord": "λοιποὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Re 20:5",
+      "text": "οἱ λοιποὶ τῶν",
+      "highlightedWord": "λοιποὶ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,127 @@
+{
+  "strong": "G4625",
+  "lemma": "σκάνδαλον",
+  "lemmaTranslit": "skandalon",
+  "tokenCount": 15,
+  "verseCount": 13,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Lucas": 1,
+    "Romanos": 4,
+    "1 Coríntios": 1,
+    "Gálatas": 1,
+    "1 Pedro": 1,
+    "1 João": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 41,
+      "reference": "Mt 13:41",
+      "text": "τὰ σκάνδαλα καὶ",
+      "highlightedWord": "σκάνδαλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Mt 16:23",
+      "text": "Σατανᾶ· σκάνδαλον εἶ",
+      "highlightedWord": "σκάνδαλον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Mt 18:7",
+      "text": "τῶν σκανδάλων· ἀνάγκη",
+      "highlightedWord": "σκανδάλων·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Lk 17:1",
+      "text": "τὰ σκάνδαλα μὴ",
+      "highlightedWord": "σκάνδαλα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Ro 9:33",
+      "text": "πέτραν σκανδάλου, καὶ",
+      "highlightedWord": "σκανδάλου,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Ro 11:9",
+      "text": "εἰς σκάνδαλον καὶ",
+      "highlightedWord": "σκάνδαλον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Ro 14:13",
+      "text": "ἢ σκάνδαλον.",
+      "highlightedWord": "σκάνδαλον."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Ro 16:17",
+      "text": "τὰ σκάνδαλα παρὰ",
+      "highlightedWord": "σκάνδαλα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "1Co 1:23",
+      "text": "μὲν σκάνδαλον ἔθνεσιν",
+      "highlightedWord": "σκάνδαλον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Ga 5:11",
+      "text": "τὸ σκάνδαλον τοῦ",
+      "highlightedWord": "σκάνδαλον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Pe 2:8",
+      "text": "πέτρα σκανδάλου· οἳ",
+      "highlightedWord": "σκανδάλου·"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "1Jn 2:10",
+      "text": "καὶ σκάνδαλον ἐν",
+      "highlightedWord": "σκάνδαλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "βαλεῖν σκάνδαλον ἐνώπιον",
+      "highlightedWord": "σκάνδαλον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

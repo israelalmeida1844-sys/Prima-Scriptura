@@ -1,0 +1,90 @@
+{
+  "strong": "G1494",
+  "lemma": "εἰδωλόθυτον",
+  "lemmaTranslit": "eidōlothyton",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Atos": 2,
+    "1 Coríntios": 5,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Ac 15:29",
+      "text": "ἀπέχεσθαι εἰδωλοθύτων καὶ",
+      "highlightedWord": "εἰδωλοθύτων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Ac 21:25",
+      "text": "τε εἰδωλόθυτον καὶ",
+      "highlightedWord": "εἰδωλόθυτον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "1Co 8:1",
+      "text": "τῶν εἰδωλοθύτων, οἴδαμεν",
+      "highlightedWord": "εἰδωλοθύτων,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "1Co 8:4",
+      "text": "τῶν εἰδωλοθύτων οἴδαμεν",
+      "highlightedWord": "εἰδωλοθύτων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "1Co 8:7",
+      "text": "ὡς εἰδωλόθυτον ἐσθίουσιν,",
+      "highlightedWord": "εἰδωλόθυτον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "1Co 8:10",
+      "text": "τὰ εἰδωλόθυτα ἐσθίειν;",
+      "highlightedWord": "εἰδωλόθυτα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "1Co 10:19",
+      "text": "ὅτι εἰδωλόθυτόν τί",
+      "highlightedWord": "εἰδωλόθυτόν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "φαγεῖν εἰδωλόθυτα καὶ",
+      "highlightedWord": "εἰδωλόθυτα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "φαγεῖν εἰδωλόθυτα.",
+      "highlightedWord": "εἰδωλόθυτα."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,1629 @@
+{
+  "strong": "G2309",
+  "lemma": "θέλω",
+  "lemmaTranslit": "thelō",
+  "tokenCount": 208,
+  "verseCount": 199,
+  "bookDistribution": {
+    "Mateus": 42,
+    "Marcos": 25,
+    "Lucas": 28,
+    "João": 23,
+    "Atos": 14,
+    "Romanos": 15,
+    "1 Coríntios": 17,
+    "2 Coríntios": 8,
+    "Gálatas": 9,
+    "Filipenses": 1,
+    "Colossenses": 3,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 3,
+    "2 Timóteo": 1,
+    "Filemom": 1,
+    "Hebreus": 4,
+    "Tiago": 2,
+    "1 Pedro": 2,
+    "2 Pedro": 1,
+    "3 João": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Mt 1:19",
+      "text": "μὴ θέλων αὐτὴν",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Mt 2:18",
+      "text": "οὐκ ἤθελεν παρακληθῆναι",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Mt 5:40",
+      "text": "τῷ θέλοντί σοι",
+      "highlightedWord": "θέλοντί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Mt 5:42",
+      "text": "τὸν θέλοντα ἀπὸ",
+      "highlightedWord": "θέλοντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Mt 7:12",
+      "text": "ἐὰν θέλητε ἵνα",
+      "highlightedWord": "θέλητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Mt 8:2",
+      "text": "ἐὰν θέλῃς δύνασαί",
+      "highlightedWord": "θέλῃς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Mt 8:3",
+      "text": "λέγων· Θέλω, καθαρίσθητι·",
+      "highlightedWord": "Θέλω,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Mt 9:13",
+      "text": "Ἔλεος θέλω καὶ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Mt 11:14",
+      "text": "εἰ θέλετε δέξασθαι,",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Mt 12:7",
+      "text": "Ἔλεος θέλω καὶ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Mt 12:38",
+      "text": "Διδάσκαλε, θέλομεν ἀπὸ",
+      "highlightedWord": "θέλομεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Mt 13:28",
+      "text": "λέγουσιν· Θέλεις οὖν",
+      "highlightedWord": "Θέλεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Mt 14:5",
+      "text": "καὶ θέλων αὐτὸν",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Mt 15:28",
+      "text": "ὡς θέλεις. καὶ",
+      "highlightedWord": "θέλεις."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Mt 15:32",
+      "text": "οὐ θέλω, μήποτε",
+      "highlightedWord": "θέλω,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Mt 16:24",
+      "text": "τις θέλει ὀπίσω",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Mt 16:25",
+      "text": "ἐὰν θέλῃ τὴν",
+      "highlightedWord": "θέλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Mt 17:4",
+      "text": "εἰ θέλεις, ποιήσω",
+      "highlightedWord": "θέλεις,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Mt 17:12",
+      "text": "ὅσα ἠθέλησαν· οὕτως",
+      "highlightedWord": "ἠθέλησαν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Mt 18:23",
+      "text": "ὃς ἠθέλησεν συνᾶραι",
+      "highlightedWord": "ἠθέλησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Mt 18:30",
+      "text": "οὐκ ἤθελεν, ἀλλὰ",
+      "highlightedWord": "ἤθελεν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Mt 19:17",
+      "text": "δὲ θέλεις εἰς",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Mt 19:21",
+      "text": "Εἰ θέλεις τέλειος",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Mt 20:14",
+      "text": "ὕπαγε· θέλω δὲ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Mt 20:15",
+      "text": "ὃ θέλω ποιῆσαι",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Mt 20:21",
+      "text": "Τί θέλεις; λέγει",
+      "highlightedWord": "θέλεις;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Mt 20:26",
+      "text": "ἂν θέλῃ ἐν",
+      "highlightedWord": "θέλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Mt 20:27",
+      "text": "ἂν θέλῃ ἐν",
+      "highlightedWord": "θέλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 32,
+      "reference": "Mt 20:32",
+      "text": "Τί θέλετε ποιήσω",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 29,
+      "reference": "Mt 21:29",
+      "text": "Οὐ θέλω· ὕστερον",
+      "highlightedWord": "θέλω·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Mt 22:3",
+      "text": "οὐκ ἤθελον ἐλθεῖν.",
+      "highlightedWord": "ἤθελον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 4,
+      "reference": "Mt 23:4",
+      "text": "οὐ θέλουσιν κινῆσαι",
+      "highlightedWord": "θέλουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 37,
+      "reference": "Mt 23:37",
+      "text": "ποσάκις ἠθέλησα ἐπισυναγαγεῖν",
+      "highlightedWord": "ἠθέλησα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 15,
+      "reference": "Mt 26:15",
+      "text": "Τί θέλετέ μοι",
+      "highlightedWord": "θέλετέ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 17,
+      "reference": "Mt 26:17",
+      "text": "Ποῦ θέλεις ἑτοιμάσωμέν",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 39,
+      "reference": "Mt 26:39",
+      "text": "ἐγὼ θέλω ἀλλ’",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 15,
+      "reference": "Mt 27:15",
+      "text": "ὃν ἤθελον.",
+      "highlightedWord": "ἤθελον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 17,
+      "reference": "Mt 27:17",
+      "text": "Τίνα θέλετε ἀπολύσω",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 21,
+      "reference": "Mt 27:21",
+      "text": "Τίνα θέλετε ἀπὸ",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 34,
+      "reference": "Mt 27:34",
+      "text": "οὐκ ἠθέλησεν πιεῖν.",
+      "highlightedWord": "ἠθέλησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 43,
+      "reference": "Mt 27:43",
+      "text": "εἰ θέλει αὐτόν·",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 40,
+      "reference": "Mk 1:40",
+      "text": "Ἐὰν θέλῃς δύνασαί",
+      "highlightedWord": "θέλῃς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 41,
+      "reference": "Mk 1:41",
+      "text": "αὐτῷ· Θέλω, καθαρίσθητι·",
+      "highlightedWord": "Θέλω,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Mk 3:13",
+      "text": "οὓς ἤθελεν αὐτός,",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Mk 6:19",
+      "text": "καὶ ἤθελεν αὐτὸν",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Mk 6:22",
+      "text": "ἐὰν θέλῃς, καὶ",
+      "highlightedWord": "θέλῃς,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mk 6:25",
+      "text": "λέγουσα· Θέλω ἵνα",
+      "highlightedWord": "Θέλω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 26,
+      "reference": "Mk 6:26",
+      "text": "οὐκ ἠθέλησεν ἀθετῆσαι",
+      "highlightedWord": "ἠθέλησεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Mk 6:48",
+      "text": "καὶ ἤθελεν παρελθεῖν",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Mk 7:24",
+      "text": "οὐδένα ἤθελεν γνῶναι,",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Mk 8:34",
+      "text": "τις θέλει ὀπίσω",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Mk 8:35",
+      "text": "ἐὰν θέλῃ τὴν",
+      "highlightedWord": "θέλῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Mk 9:13",
+      "text": "ὅσα ἤθελον, καθὼς",
+      "highlightedWord": "ἤθελον,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Mk 9:30",
+      "text": "οὐκ ἤθελεν ἵνα",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mk 9:35",
+      "text": "τις θέλει πρῶτος",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Mk 10:35",
+      "text": "Διδάσκαλε, θέλομεν ἵνα",
+      "highlightedWord": "θέλομεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Mk 10:36",
+      "text": "Τί θέλετε ποιήσω",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 43,
+      "reference": "Mk 10:43",
+      "text": "ἂν θέλῃ μέγας",
+      "highlightedWord": "θέλῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 44,
+      "reference": "Mk 10:44",
+      "text": "ἂν θέλῃ ἐν",
+      "highlightedWord": "θέλῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 51,
+      "reference": "Mk 10:51",
+      "text": "σοι θέλεις ποιήσω;",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Mk 12:38",
+      "text": "τῶν θελόντων ἐν",
+      "highlightedWord": "θελόντων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Mk 14:7",
+      "text": "ὅταν θέλητε δύνασθε",
+      "highlightedWord": "θέλητε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Mk 14:12",
+      "text": "Ποῦ θέλεις ἀπελθόντες",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 36,
+      "reference": "Mk 14:36",
+      "text": "ἐγὼ θέλω ἀλλὰ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Mk 15:9",
+      "text": "λέγων· Θέλετε ἀπολύσω",
+      "highlightedWord": "Θέλετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "Mk 15:12",
+      "text": "οὖν θέλετε ποιήσω",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 62,
+      "reference": "Lk 1:62",
+      "text": "ἂν θέλοι καλεῖσθαι",
+      "highlightedWord": "θέλοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Lk 4:6",
+      "text": "ἂν θέλω δίδωμι",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Lk 5:12",
+      "text": "ἐὰν θέλῃς δύνασαί",
+      "highlightedWord": "θέλῃς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Lk 5:13",
+      "text": "εἰπών· Θέλω, καθαρίσθητι·",
+      "highlightedWord": "Θέλω,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Lk 5:39",
+      "text": "παλαιὸν θέλει νέον·",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Lk 6:31",
+      "text": "καθὼς θέλετε ἵνα",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Lk 8:20",
+      "text": "σε θέλοντες.",
+      "highlightedWord": "θέλοντες."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "τις θέλει ὀπίσω",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Lk 9:24",
+      "text": "ἂν θέλῃ τὴν",
+      "highlightedWord": "θέλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 54,
+      "reference": "Lk 9:54",
+      "text": "Κύριε, θέλεις εἴπωμεν",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Lk 10:24",
+      "text": "βασιλεῖς ἠθέλησαν ἰδεῖν",
+      "highlightedWord": "ἠθέλησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Lk 10:29",
+      "text": "δὲ θέλων δικαιῶσαι",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 49,
+      "reference": "Lk 12:49",
+      "text": "τί θέλω εἰ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Lk 13:31",
+      "text": "Ἡρῴδης θέλει σε",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Lk 13:34",
+      "text": "ποσάκις ἠθέλησα ἐπισυνάξαι",
+      "highlightedWord": "ἠθέλησα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Lk 14:28",
+      "text": "ὑμῶν θέλων πύργον",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Lk 15:28",
+      "text": "οὐκ ἤθελεν εἰσελθεῖν.",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Lk 16:26",
+      "text": "οἱ θέλοντες διαβῆναι",
+      "highlightedWord": "θέλοντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Lk 18:4",
+      "text": "οὐκ ἤθελεν ἐπὶ",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Lk 18:13",
+      "text": "οὐκ ἤθελεν οὐδὲ",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 41,
+      "reference": "Lk 18:41",
+      "text": "σοι θέλεις ποιήσω;",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Lk 19:14",
+      "text": "Οὐ θέλομεν τοῦτον",
+      "highlightedWord": "θέλομεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Lk 19:27",
+      "text": "μὴ θελήσαντάς με",
+      "highlightedWord": "θελήσαντάς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 46,
+      "reference": "Lk 20:46",
+      "text": "τῶν θελόντων περιπατεῖν",
+      "highlightedWord": "θελόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Lk 22:9",
+      "text": "Ποῦ θέλεις ἑτοιμάσωμεν;",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 8,
+      "reference": "Lk 23:8",
+      "text": "χρόνων θέλων ἰδεῖν",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 20,
+      "reference": "Lk 23:20",
+      "text": "προσεφώνησεν, θέλων ἀπολῦσαι",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 43,
+      "reference": "Jn 1:43",
+      "text": "ἐπαύριον ἠθέλησεν ἐξελθεῖν",
+      "highlightedWord": "ἠθέλησεν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jn 3:8",
+      "text": "ὅπου θέλει πνεῖ,",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Jn 5:6",
+      "text": "αὐτῷ· Θέλεις ὑγιὴς",
+      "highlightedWord": "Θέλεις"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Jn 5:21",
+      "text": "οὓς θέλει ζῳοποιεῖ.",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Jn 5:35",
+      "text": "δὲ ἠθελήσατε ἀγαλλιαθῆναι",
+      "highlightedWord": "ἠθελήσατε"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Jn 5:40",
+      "text": "οὐ θέλετε ἐλθεῖν",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Jn 6:11",
+      "text": "ὅσον ἤθελον.",
+      "highlightedWord": "ἤθελον."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Jn 6:21",
+      "text": "ἤθελον οὖν",
+      "highlightedWord": "ἤθελον"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 67,
+      "reference": "Jn 6:67",
+      "text": "ὑμεῖς θέλετε ὑπάγειν;",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Jn 7:1",
+      "text": "γὰρ ἤθελεν ἐν",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Jn 7:17",
+      "text": "τις θέλῃ τὸ",
+      "highlightedWord": "θέλῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Jn 7:44",
+      "text": "δὲ ἤθελον ἐξ",
+      "highlightedWord": "ἤθελον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Jn 8:44",
+      "text": "ὑμῶν θέλετε ποιεῖν.",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Jn 9:27",
+      "text": "πάλιν θέλετε ἀκούειν;",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Jn 12:21",
+      "text": "Κύριε, θέλομεν τὸν",
+      "highlightedWord": "θέλομεν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Jn 15:7",
+      "text": "ἐὰν θέλητε αἰτήσασθε",
+      "highlightedWord": "θέλητε"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Jn 16:19",
+      "text": "ὅτι ἤθελον αὐτὸν",
+      "highlightedWord": "ἤθελον"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Jn 17:24",
+      "text": "μοι, θέλω ἵνα",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Jn 21:18",
+      "text": "ὅπου ἤθελες· ὅταν",
+      "highlightedWord": "ἤθελες·"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 22,
+      "reference": "Jn 21:22",
+      "text": "αὐτὸν θέλω μένειν",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Jn 21:23",
+      "text": "αὐτὸν θέλω μένειν",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Ac 2:12",
+      "text": "Τί θέλει τοῦτο",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Ac 7:28",
+      "text": "σὺ θέλεις ὃν",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Ac 7:39",
+      "text": "οὐκ ἠθέλησαν ὑπήκοοι",
+      "highlightedWord": "ἠθέλησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Ac 10:10",
+      "text": "καὶ ἤθελεν γεύσασθαι·",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Ac 14:13",
+      "text": "ὄχλοις ἤθελεν θύειν.",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Ac 16:3",
+      "text": "τοῦτον ἠθέλησεν ὁ",
+      "highlightedWord": "ἠθέλησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Ac 17:18",
+      "text": "ἂν θέλοι ὁ",
+      "highlightedWord": "θέλοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Ac 17:20",
+      "text": "τίνα θέλει ταῦτα",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Ac 18:21",
+      "text": "θεοῦ θέλοντος ἀνήχθη",
+      "highlightedWord": "θέλοντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 33,
+      "reference": "Ac 19:33",
+      "text": "χεῖρα ἤθελεν ἀπολογεῖσθαι",
+      "highlightedWord": "ἤθελεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Ac 24:27",
+      "text": "Φῆστον· θέλων τε",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 9,
+      "reference": "Ac 25:9",
+      "text": "δὲ θέλων τοῖς",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 5,
+      "reference": "Ac 26:5",
+      "text": "ἐὰν θέλωσι μαρτυρεῖν,",
+      "highlightedWord": "θέλωσι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "οὐ θέλω δὲ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Ro 7:15",
+      "text": "ὃ θέλω τοῦτο",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Ro 7:16",
+      "text": "οὐ θέλω τοῦτο",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Ro 7:18",
+      "text": "γὰρ θέλειν παράκειταί",
+      "highlightedWord": "θέλειν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Ro 7:19",
+      "text": "ὃ θέλω ποιῶ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Ro 7:20",
+      "text": "οὐ θέλω τοῦτο",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Ro 7:21",
+      "text": "τῷ θέλοντι ἐμοὶ",
+      "highlightedWord": "θέλοντι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Ro 9:16",
+      "text": "τοῦ θέλοντος οὐδὲ",
+      "highlightedWord": "θέλοντος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Ro 9:18",
+      "text": "ὃν θέλει ἐλεεῖ,",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Ro 9:22",
+      "text": "δὲ θέλων ὁ",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "γὰρ θέλω ὑμᾶς",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ro 13:3",
+      "text": "κακῷ. θέλεις δὲ",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Ro 16:19",
+      "text": "χαίρω, θέλω δὲ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Co 4:19",
+      "text": "κύριος θελήσῃ, καὶ",
+      "highlightedWord": "θελήσῃ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "1Co 4:21",
+      "text": "τί θέλετε; ἐν",
+      "highlightedWord": "θέλετε;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "1Co 7:7",
+      "text": "θέλω δὲ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 32,
+      "reference": "1Co 7:32",
+      "text": "Θέλω δὲ",
+      "highlightedWord": "Θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "1Co 7:36",
+      "text": "ὃ θέλει ποιείτω·",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "1Co 7:39",
+      "text": "ᾧ θέλει γαμηθῆναι,",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "1Co 10:1",
+      "text": "Οὐ θέλω γὰρ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "1Co 10:20",
+      "text": "οὐ θέλω δὲ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "1Co 10:27",
+      "text": "καὶ θέλετε πορεύεσθαι,",
+      "highlightedWord": "θέλετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "1Co 11:3",
+      "text": "θέλω δὲ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "1Co 12:1",
+      "text": "οὐ θέλω ὑμᾶς",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "1Co 12:18",
+      "text": "καθὼς ἠθέλησεν.",
+      "highlightedWord": "ἠθέλησεν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "1Co 14:5",
+      "text": "θέλω δὲ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "1Co 14:19",
+      "text": "ἐκκλησίᾳ θέλω πέντε",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "1Co 14:35",
+      "text": "μαθεῖν θέλουσιν, ἐν",
+      "highlightedWord": "θέλουσιν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 38,
+      "reference": "1Co 15:38",
+      "text": "καθὼς ἠθέλησεν, καὶ",
+      "highlightedWord": "ἠθέλησεν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "1Co 16:7",
+      "text": "οὐ θέλω γὰρ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Co 1:8",
+      "text": "γὰρ θέλομεν ὑμᾶς",
+      "highlightedWord": "θέλομεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "2Co 5:4",
+      "text": "οὐ θέλομεν ἐκδύσασθαι",
+      "highlightedWord": "θέλομεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "2Co 8:10",
+      "text": "τὸ θέλειν προενήρξασθε",
+      "highlightedWord": "θέλειν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "2Co 8:11",
+      "text": "τοῦ θέλειν οὕτως",
+      "highlightedWord": "θέλειν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "2Co 11:12",
+      "text": "τῶν θελόντων ἀφορμήν,",
+      "highlightedWord": "θελόντων"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "2Co 12:6",
+      "text": "γὰρ θελήσω καυχήσασθαι,",
+      "highlightedWord": "θελήσω"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "2Co 12:20",
+      "text": "οἵους θέλω εὕρω",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ga 1:7",
+      "text": "καὶ θέλοντες μεταστρέψαι",
+      "highlightedWord": "θέλοντες"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ga 3:2",
+      "text": "μόνον θέλω μαθεῖν",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ga 4:9",
+      "text": "δουλεύειν θέλετε;",
+      "highlightedWord": "θέλετε;"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ga 4:17",
+      "text": "ὑμᾶς θέλουσιν, ἵνα",
+      "highlightedWord": "θέλουσιν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Ga 4:20",
+      "text": "ἤθελον δὲ",
+      "highlightedWord": "ἤθελον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Ga 4:21",
+      "text": "νόμον θέλοντες εἶναι,",
+      "highlightedWord": "θέλοντες"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Ga 5:17",
+      "text": "ἐὰν θέλητε ταῦτα",
+      "highlightedWord": "θέλητε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Ga 6:12",
+      "text": "ὅσοι θέλουσιν εὐπροσωπῆσαι",
+      "highlightedWord": "θέλουσιν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ga 6:13",
+      "text": "ἀλλὰ θέλουσιν ὑμᾶς",
+      "highlightedWord": "θέλουσιν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Php 2:13",
+      "text": "τὸ θέλειν καὶ",
+      "highlightedWord": "θέλειν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Col 1:27",
+      "text": "οἷς ἠθέλησεν ὁ",
+      "highlightedWord": "ἠθέλησεν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Col 2:1",
+      "text": "Θέλω γὰρ",
+      "highlightedWord": "Θέλω"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Col 2:18",
+      "text": "καταβραβευέτω θέλων ἐν",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "1Th 2:18",
+      "text": "διότι ἠθελήσαμεν ἐλθεῖν",
+      "highlightedWord": "ἠθελήσαμεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Th 4:13",
+      "text": "Οὐ θέλομεν δὲ",
+      "highlightedWord": "θέλομεν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Th 3:10",
+      "text": "οὐ θέλει ἐργάζεσθαι",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Ti 1:7",
+      "text": "θέλοντες εἶναι",
+      "highlightedWord": "θέλοντες"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Ti 2:4",
+      "text": "ἀνθρώπους θέλει σωθῆναι",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "1Ti 5:11",
+      "text": "γαμεῖν θέλουσιν,",
+      "highlightedWord": "θέλουσιν,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Ti 3:12",
+      "text": "οἱ θέλοντες ζῆν",
+      "highlightedWord": "θέλοντες"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Phm 1:14",
+      "text": "οὐδὲν ἠθέλησα ποιῆσαι,",
+      "highlightedWord": "ἠθέλησα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Heb 10:5",
+      "text": "οὐκ ἠθέλησας, σῶμα",
+      "highlightedWord": "ἠθέλησας,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Heb 10:8",
+      "text": "οὐκ ἠθέλησας οὐδὲ",
+      "highlightedWord": "ἠθέλησας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Heb 12:17",
+      "text": "μετέπειτα θέλων κληρονομῆσαι",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Heb 13:18",
+      "text": "καλῶς θέλοντες ἀναστρέφεσθαι.",
+      "highlightedWord": "θέλοντες"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jas 2:20",
+      "text": "θέλεις δὲ",
+      "highlightedWord": "θέλεις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jas 4:15",
+      "text": "κύριος θελήσῃ, καὶ",
+      "highlightedWord": "θελήσῃ,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Pe 3:10",
+      "text": "γὰρ θέλων ζωὴν",
+      "highlightedWord": "θέλων"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Pe 3:17",
+      "text": "εἰ θέλοι τὸ",
+      "highlightedWord": "θέλοι"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Pe 3:5",
+      "text": "τοῦτο θέλοντας ὅτι",
+      "highlightedWord": "θέλοντας"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "3Jn 1:13",
+      "text": "οὐ θέλω διὰ",
+      "highlightedWord": "θέλω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Re 2:21",
+      "text": "οὐ θέλει μετανοῆσαι",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Re 11:5",
+      "text": "αὐτοὺς θέλει ἀδικῆσαι,",
+      "highlightedWord": "θέλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "ἐὰν θελήσωσιν.",
+      "highlightedWord": "θελήσωσιν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 17,
+      "reference": "Re 22:17",
+      "text": "ὁ θέλων λαβέτω",
+      "highlightedWord": "θέλων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}
