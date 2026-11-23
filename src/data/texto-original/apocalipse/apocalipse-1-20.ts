@@ -169,9 +169,9 @@ export const apocalipse1v20 = {
       "lemmaTransliteration": "horaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAI-S--",
-      "morphology": "Verbo aoristo ativa indicativo, 2ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo aoristo ativa indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual: «viste». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual: «viste». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -601,9 +601,9 @@ export const apocalipse1v20 = {
       "lemmaTransliteration": "eimi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
-      "morphology": "Verbo presente ativa indicativo, 3ª pessoa plural",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
@@ -793,9 +793,9 @@ export const apocalipse1v20 = {
       "lemmaTransliteration": "eimi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
-      "morphology": "Verbo presente ativa indicativo, 3ª pessoa plural",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],

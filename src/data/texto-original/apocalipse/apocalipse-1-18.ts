@@ -73,9 +73,9 @@ export const apocalipse1v18 = {
       "lemmaTransliteration": "zaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
-      "morphology": "Verbo presente ativa particípio, nominativo singular masculino",
+      "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "viver",
-      "explanation": "Verbo presente ativa particípio, nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vivo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vivo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -121,9 +121,9 @@ export const apocalipse1v18 = {
       "lemmaTransliteration": "ginomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AMI-S--",
-      "morphology": "Verbo aoristo média indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «estive». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «estive». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -217,9 +217,9 @@ export const apocalipse1v18 = {
       "lemmaTransliteration": "zaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
-      "morphology": "Verbo presente ativa particípio, nominativo singular masculino",
+      "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "viver",
-      "explanation": "Verbo presente ativa particípio, nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vivo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vivo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -241,9 +241,9 @@ export const apocalipse1v18 = {
       "lemmaTransliteration": "eimi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
-      "morphology": "Verbo presente ativa indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «sou». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «sou». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -409,9 +409,9 @@ export const apocalipse1v18 = {
       "lemmaTransliteration": "echō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
-      "morphology": "Verbo presente ativa indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter; segurar",
-      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular. Núcleo verbal presente indicativo primeira pessoa singular. Glosa contextual: «tenho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal presente indicativo primeira pessoa singular. Glosa contextual: «tenho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],

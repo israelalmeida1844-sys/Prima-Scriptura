@@ -49,9 +49,9 @@ export const apocalipse1v16 = {
       "lemmaTransliteration": "echō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
-      "morphology": "Verbo presente ativa particípio, nominativo singular masculino",
+      "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter; segurar",
-      "explanation": "Verbo presente ativa particípio, nominativo singular masculino. Particípio presente ativo nominativo singular masculino da figura da visão. Glosa contextual: «tenho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio presente ativo nominativo singular masculino da figura da visão. Glosa contextual: «tenho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -433,9 +433,9 @@ export const apocalipse1v16 = {
       "lemmaTransliteration": "ekporeuomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMPNSF-",
-      "morphology": "Verbo presente média particípio, nominativo singular feminino",
+      "morphology": "Verbo no presente, voz média, particípio nominativo singular feminino",
       "meanings": "sair; proceder",
-      "explanation": "Verbo presente média particípio, nominativo singular feminino. Particípio presente médio/passivo nominativo singular feminino, concordando com ῥομφαία. Glosa contextual: «que saía». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz média, particípio nominativo singular feminino. Particípio presente médio/passivo nominativo singular feminino, concordando com ῥομφαία. Glosa contextual: «que saía». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
@@ -625,9 +625,9 @@ export const apocalipse1v16 = {
       "lemmaTransliteration": "phainō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
-      "morphology": "Verbo presente ativa indicativo, 3ª pessoa singular",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "brilhar; aparecer",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «brilha». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «brilha». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],

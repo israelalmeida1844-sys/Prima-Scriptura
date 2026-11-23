@@ -49,9 +49,9 @@ export const apocalipse1v12 = {
       "lemmaTransliteration": "epistrephō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
-      "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "voltar-se; retornar",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «voltei-me». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «voltei-me». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -73,9 +73,9 @@ export const apocalipse1v12 = {
       "lemmaTransliteration": "blepō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAN----",
-      "morphology": "Verbo presente ativa infinitivo",
+      "morphology": "Verbo no presente, voz ativa, infinitivo",
       "meanings": "ver; observar",
-      "explanation": "Verbo presente ativa infinitivo. Infinitivo final dependente de ἐπέστρεψα. Glosa contextual: «ver». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, infinitivo. Infinitivo final dependente de ἐπέστρεψα. Glosa contextual: «ver». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -169,9 +169,9 @@ export const apocalipse1v12 = {
       "lemmaTransliteration": "laleō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-S--",
-      "morphology": "Verbo imperfeito ativa indicativo, 3ª pessoa singular",
+      "morphology": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "falar",
-      "explanation": "Verbo imperfeito ativa indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «falava». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «falava». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -265,9 +265,9 @@ export const apocalipse1v12 = {
       "lemmaTransliteration": "epistrephō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-AAPNSM-",
-      "morphology": "Verbo aoristo ativa particípio, nominativo singular masculino",
+      "morphology": "Verbo no aoristo, voz ativa, particípio nominativo singular masculino",
       "meanings": "voltar-se; retornar",
-      "explanation": "Verbo aoristo ativa particípio, nominativo singular masculino. Particípio aoristo adverbial de anterioridade. Glosa contextual: «tendo-me voltado». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, particípio nominativo singular masculino. Particípio aoristo adverbial de anterioridade. Glosa contextual: «tendo-me voltado». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -289,9 +289,9 @@ export const apocalipse1v12 = {
       "lemmaTransliteration": "horaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
-      "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Verbo principal da segunda oração. Glosa contextual: «vi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Verbo principal da segunda oração. Glosa contextual: «vi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],

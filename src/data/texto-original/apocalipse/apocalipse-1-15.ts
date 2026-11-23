@@ -241,7 +241,7 @@ export const apocalipse1v15 = {
       "lemmaTransliteration": "pyroomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPGSF-",
-      "morphology": "Verbo perfeito passiva particípio, genitivo singular feminino",
+      "morphology": "Verbo no perfeito, voz passiva, particípio genitivo singular feminino",
       "meanings": "ser aquecido ao fogo; incandescer",
       "explanation": "Particípio perfeito passivo genitivo feminino singular; não concorda formalmente com καμίνῳ, dativo feminino singular, no texto SBLGNT.",
       "occurrencesExamples": [

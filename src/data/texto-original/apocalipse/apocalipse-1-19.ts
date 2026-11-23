@@ -25,9 +25,9 @@ export const apocalipse1v19 = {
       "lemmaTransliteration": "graphō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
-      "morphology": "Verbo aoristo ativa imperativo, 2ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular. Núcleo verbal imperativo. Glosa contextual: «escreve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal imperativo. Glosa contextual: «escreve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -97,9 +97,9 @@ export const apocalipse1v19 = {
       "lemmaTransliteration": "horaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAI-S--",
-      "morphology": "Verbo aoristo ativa indicativo, 2ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo aoristo ativa indicativo, 2ª pessoa singular. Núcleo verbal da primeira oração relativa, segunda pessoa singular. Glosa contextual: «viste». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal da primeira oração relativa, segunda pessoa singular. Glosa contextual: «viste». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -169,9 +169,9 @@ export const apocalipse1v19 = {
       "lemmaTransliteration": "eimi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
-      "morphology": "Verbo presente ativa indicativo, 3ª pessoa plural",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa plural. Núcleo verbal da segunda relativa, terceira pessoa plural. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Núcleo verbal da segunda relativa, terceira pessoa plural. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -241,9 +241,9 @@ export const apocalipse1v19 = {
       "lemmaTransliteration": "mellō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
-      "morphology": "Verbo presente ativa indicativo, 3ª pessoa singular",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "estar para; ser iminente",
-      "explanation": "Verbo presente ativa indicativo, 3ª pessoa singular. Núcleo verbal singular da terceira relativa; rege γίνεσθαι. Glosa contextual: «está para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal singular da terceira relativa; rege γίνεσθαι. Glosa contextual: «está para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
@@ -265,9 +265,9 @@ export const apocalipse1v19 = {
       "lemmaTransliteration": "ginomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMN----",
-      "morphology": "Verbo presente média infinitivo",
+      "morphology": "Verbo no presente, voz média, infinitivo",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo presente média infinitivo. Infinitivo presente médio complemento de μέλλει. Glosa contextual: «acontecer». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz média, infinitivo. Infinitivo presente médio complemento de μέλλει. Glosa contextual: «acontecer». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],

@@ -73,9 +73,9 @@ export const apocalipse1v17 = {
       "lemmaTransliteration": "horaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
-      "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «vi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «vi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -121,9 +121,9 @@ export const apocalipse1v17 = {
       "lemmaTransliteration": "piptō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
-      "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "cair",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «caí». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «caí». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -313,9 +313,9 @@ export const apocalipse1v17 = {
       "lemmaTransliteration": "tithēmi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
-      "morphology": "Verbo aoristo ativa indicativo, 3ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "colocar; pôr",
-      "explanation": "Verbo aoristo ativa indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «pôs». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «pôs». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -457,9 +457,9 @@ export const apocalipse1v17 = {
       "lemmaTransliteration": "legō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
-      "morphology": "Verbo presente ativa particípio, nominativo singular masculino",
+      "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "dizer; falar",
-      "explanation": "Verbo presente ativa particípio, nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «dizendo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «dizendo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -505,9 +505,9 @@ export const apocalipse1v17 = {
       "lemmaTransliteration": "phobeomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PMD-S--",
-      "morphology": "Verbo presente média imperativo, 2ª pessoa singular",
+      "morphology": "Verbo no presente, voz média, imperativo, 2ª pessoa singular",
       "meanings": "temer; ter medo",
-      "explanation": "Verbo presente média imperativo, 2ª pessoa singular. Imperativo presente médio/passivo formal, deponente; proibição com μή. Glosa contextual: «temas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz média, imperativo, 2ª pessoa singular. Imperativo presente médio/passivo formal, deponente; proibição com μή. Glosa contextual: «temas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
@@ -553,9 +553,9 @@ export const apocalipse1v17 = {
       "lemmaTransliteration": "eimi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
-      "morphology": "Verbo presente ativa indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ser; estar",
-      "explanation": "Verbo presente ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «sou». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «sou». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],

@@ -25,9 +25,9 @@ export const apocalipse1v10 = {
       "lemmaTransliteration": "ginomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AMI-S--",
-      "morphology": "Verbo aoristo média indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular. Predicado verbal principal, primeira pessoa singular. Glosa contextual: «achei-me». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular. Predicado verbal principal, primeira pessoa singular. Glosa contextual: «achei-me». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -217,9 +217,9 @@ export const apocalipse1v10 = {
       "lemmaTransliteration": "akouō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
-      "morphology": "Verbo aoristo ativa indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ouvir",
-      "explanation": "Verbo aoristo ativa indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «ouvi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «ouvi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],

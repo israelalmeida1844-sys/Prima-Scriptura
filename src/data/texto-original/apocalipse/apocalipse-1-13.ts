@@ -217,9 +217,9 @@ export const apocalipse1v13 = {
       "lemmaTransliteration": "endyō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XMPASM-",
-      "morphology": "Verbo perfeito média particípio, acusativo singular masculino",
+      "morphology": "Verbo no perfeito, voz média, particípio acusativo singular masculino",
       "meanings": "vestir; revestir",
-      "explanation": "Verbo perfeito média particípio, acusativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vestido». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no perfeito, voz média, particípio acusativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vestido». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
@@ -289,9 +289,9 @@ export const apocalipse1v13 = {
       "lemmaTransliteration": "perizōnnymi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XMPASM-",
-      "morphology": "Verbo perfeito média particípio, acusativo singular masculino",
+      "morphology": "Verbo no perfeito, voz média, particípio acusativo singular masculino",
       "meanings": "cingir; envolver com cinto",
-      "explanation": "Verbo perfeito média particípio, acusativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «cingido». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no perfeito, voz média, particípio acusativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «cingido». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],

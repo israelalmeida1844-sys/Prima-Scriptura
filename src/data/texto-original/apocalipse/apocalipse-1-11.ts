@@ -25,7 +25,7 @@ export const apocalipse1v11 = {
       "lemmaTransliteration": "legō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGSF-",
-      "morphology": "Verbo presente ativa particípio, genitivo singular feminino",
+      "morphology": "Verbo no presente, voz ativa, particípio genitivo singular feminino",
       "meanings": "dizer; falar",
       "explanation": "λεγούσης é particípio presente ativo, genitivo feminino singular de λέγω. O antecedente de concordância é σάλπιγγος (1:10), também genitivo feminino singular; φωνὴν é acusativo feminino singular e não pode concordar formalmente com o particípio.",
       "occurrencesExamples": [
@@ -73,9 +73,9 @@ export const apocalipse1v11 = {
       "lemmaTransliteration": "blepō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
-      "morphology": "Verbo presente ativa indicativo, 2ª pessoa singular",
+      "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ver; observar",
-      "explanation": "Verbo presente ativa indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual: «vês». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual: «vês». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -97,9 +97,9 @@ export const apocalipse1v11 = {
       "lemmaTransliteration": "graphō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
-      "morphology": "Verbo aoristo ativa imperativo, 2ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular. Imperativo principal, segunda pessoa singular. Glosa contextual: «escreve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Imperativo principal, segunda pessoa singular. Glosa contextual: «escreve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
@@ -193,9 +193,9 @@ export const apocalipse1v11 = {
       "lemmaTransliteration": "pempō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
-      "morphology": "Verbo aoristo ativa imperativo, 2ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "enviar",
-      "explanation": "Verbo aoristo ativa imperativo, 2ª pessoa singular. Núcleo verbal imperativo. Glosa contextual: «envia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal imperativo. Glosa contextual: «envia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],

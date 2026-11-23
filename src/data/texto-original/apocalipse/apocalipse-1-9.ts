@@ -409,9 +409,9 @@ export const apocalipse1v9 = {
       "lemmaTransliteration": "ginomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AMI-S--",
-      "morphology": "Verbo aoristo média indicativo, 1ª pessoa singular",
+      "morphology": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo aoristo média indicativo, 1ª pessoa singular. Predicado verbal principal; sujeito ἐγώ. Glosa contextual: «estive». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular. Predicado verbal principal; sujeito ἐγώ. Glosa contextual: «estive». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
@@ -529,9 +529,9 @@ export const apocalipse1v9 = {
       "lemmaTransliteration": "kaleō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PPPDSF-",
-      "morphology": "Verbo presente passiva particípio, dativo singular feminino",
+      "morphology": "Verbo no presente, voz passiva, particípio dativo singular feminino",
       "meanings": "chamar; denominar",
-      "explanation": "Verbo presente passiva particípio, dativo singular feminino. Forma participial; relação sintática a examinar. Glosa contextual: «chamada». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo no presente, voz passiva, particípio dativo singular feminino. Forma participial; relação sintática a examinar. Glosa contextual: «chamada». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
