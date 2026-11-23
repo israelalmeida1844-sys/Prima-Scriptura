@@ -10,7 +10,9 @@ const corpusDir = process.env.MORPHGNT_DIR ?? '/tmp/prima-morphgnt';
 const mappingsDir = process.env.LEMMAS_DIR ?? '/tmp/prima-lemma-mappings';
 const lexiconFile = 'src/data/lexico-grego/apocalipse-3-1-22.json';
 const outputDir = 'public/data/concordancia-grega';
-const entries = JSON.parse(fs.readFileSync(lexiconFile, 'utf8')).entries;
+const allEntries = JSON.parse(fs.readFileSync(lexiconFile, 'utf8')).entries;
+// Preservar os índices dos capítulos anteriores, criando só entradas ausentes.
+const entries = Object.fromEntries(Object.entries(allEntries).filter(([strong]) => !fs.existsSync(path.join(outputDir, strong + '.json'))));
 const names = [
   ['Mt','Mateus'],['Mk','Marcos'],['Lk','Lucas'],['Jn','João'],
   ['Ac','Atos'],['Ro','Romanos'],['1Co','1 Coríntios'],['2Co','2 Coríntios'],
