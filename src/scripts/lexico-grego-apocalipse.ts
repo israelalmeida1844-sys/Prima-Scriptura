@@ -2,7 +2,8 @@
  * Renderização dinâmica e acessível de fichas lexicais gregas para Apocalipse.
  * Separação explícita entre ocorrência textual (morfologia/glosa) e lema (semântica).
  */
-import lexicon from '../data/lexico-grego/apocalipse-1-1.json';
+import lexicon1 from '../data/lexico-grego/apocalipse-1-1.json';
+import lexicon2 from '../data/lexico-grego/apocalipse-1-2.json';
 
 type Example = {
   reference: string;
@@ -26,7 +27,7 @@ type Entry = {
   senses: Sense[];
 };
 
-const entries = lexicon.entries as Record<string, Entry>;
+const entries = { ...lexicon1.entries, ...lexicon2.entries } as Record<string, Entry>;
 
 export function lemmaForStrong(strong: string): Entry | undefined {
   return entries[strong];
