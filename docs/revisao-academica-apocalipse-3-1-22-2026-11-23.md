@@ -190,6 +190,54 @@ As definições lexicais descritas aqui são contextuais e **não substituem cot
 
 **Crítica textual.** Não consta variante assinalada no aparato comparativo SBLGNT consultado.
 
+## Tradução editorial de trabalho (português)
+
+Esta tradução é produção editorial própria, ancorada no SBLGNT, e não uma reprodução da ARA. Mantém as diferenças importantes entre sentido contextual e glosas de tokens. Permanece sujeita a ajuste quando houver colação de variantes e validação palavra por palavra.
+
+**3:1.** Ao anjo da igreja em Sardes escreve: Assim diz aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço tuas obras. Tens reputação de viver, mas estás morto.
+
+**3:2.** Sê vigilante e fortalece o que resta e estava prestes a morrer, pois não encontrei tuas obras completas diante de meu Deus.
+
+**3:3.** Lembra-te, portanto, de como recebeste e ouviste; guarda isso e arrepende-te. Se não vigiares, virei como ladrão, e de modo algum saberás em que hora virei sobre ti.
+
+**3:4.** Mas tens uns poucos em Sardes, pessoas que não contaminaram suas vestes; elas andarão comigo de branco, porque são dignas.
+
+**3:5.** Assim, o vencedor será vestido com vestes brancas; de modo algum apagarei seu nome do livro da vida e confessarei seu nome diante de meu Pai e diante de seus anjos.
+
+**3:6.** Quem tem ouvido, ouça o que o Espírito diz às igrejas.
+
+**3:7.** Ao anjo da igreja em Filadélfia escreve: Assim diz o Santo, o Verdadeiro, aquele que tem a chave de Davi, que abre e ninguém fechará, que fecha e ninguém abre:
+
+**3:8.** Conheço tuas obras. Eis que coloquei diante de ti uma porta aberta, que ninguém pode fechar, porque tens pouca força, guardaste minha palavra e não negaste meu nome.
+
+**3:9.** Eis que darei alguns da sinagoga de Satanás — daqueles que dizem ser judeus e não são, mas mentem. Farei que venham e se prostrem diante de teus pés, e reconheçam que eu te amei.
+
+**3:10.** Porque guardaste a palavra de minha perseverança, também eu te guardarei da hora da provação que está para vir sobre todo o mundo habitado, para pôr à prova os que habitam sobre a terra.
+
+**3:11.** Venho sem demora. Conserva o que tens, para que ninguém tome tua coroa.
+
+**3:12.** Ao vencedor farei coluna no templo do meu Deus, e ele jamais sairá de lá. Escreverei sobre ele o nome do meu Deus e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu da parte do meu Deus, e também meu novo nome.
+
+**3:13.** Quem tem ouvido, ouça o que o Espírito diz às igrejas.
+
+**3:14.** Ao anjo da igreja em Laodiceia escreve: Assim diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:
+
+**3:15.** Conheço tuas obras: não és frio nem quente. Quem dera fosses frio ou quente!
+
+**3:16.** Assim, porque és morno e não és quente nem frio, estou para vomitar-te da minha boca.
+
+**3:17.** Porque dizes: Sou rico, enriqueci e não necessito de nada; e não sabes que és o infeliz, miserável, pobre, cego e nu,
+
+**3:18.** aconselho-te a comprar de mim ouro refinado pelo fogo, para te tornares rico, e vestes brancas para te vestires, para que não seja exposta a vergonha de tua nudez, e colírio para ungir teus olhos, a fim de que vejas.
+
+**3:19.** Eu repreendo e disciplino a todos quantos amo. Portanto, sê zeloso e arrepende-te.
+
+**3:20.** Eis que estou à porta e bato. Se alguém ouvir minha voz e abrir a porta, entrarei para estar com ele e cearei com ele, e ele comigo.
+
+**3:21.** Ao vencedor concederei sentar-se comigo em meu trono, assim como eu também venci e me sentei com meu Pai no trono dele.
+
+**3:22.** Quem tem ouvido, ouça o que o Espírito diz às igrejas.
+
 ## Controle de qualidade
 
 1. **Texto de referência:** cotejo manual dos 22 versículos com a transcrição SBLGNT pública e leitura de suas 22 notas comparativas.
