@@ -8,7 +8,7 @@ export const apocalipse1v11 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "que dizia: «O que você vê, escreva em um livro e envie às sete igrejas: a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia».",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "O versículo começa com λεγούσης, particípio presente ativo genitivo feminino singular, concordando com φωνῆς subentendida a partir do v. 10; em seguida surge Ὃ βλέπεις γράψον. O SBLGNT não contém a expansão do Textus Receptus «Eu sou o Alfa e o Ômega, o Primeiro e o Último», acrescida antes do mandato. Não inserir essa fórmula na sequência grega-base.",
+  "textualNotes": "O versículo inicia-se por λεγούσης (particípio presente ativo genitivo feminino singular, retomando a voz de 1:10), seguido por Ὃ βλέπεις γράψον. A expansão «Eu sou o Alfa e o Ômega, o Primeiro e o Último» do Textus Receptus não integra o SBLGNT.",
   "exegeticalNotes": [
     "A ordem escrever-enviar torna pública e comunitária a revelação.",
     "A enumeração geográfica estabelece os destinatários reais das mensagens."
@@ -32,7 +32,7 @@ export const apocalipse1v11 = {
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Particípio genitivo feminino singular retomando a voz de 1:10",
+        "role": "Particípio presente ativo genitivo feminino singular; concorda com a voz de 1:10",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -242,7 +242,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DPF-",
       "morphology": "Adjetivo dativo plural feminino",
-      "meanings": "sete (numeral cardinal indeclinável; a análise de caso indicada é contextual)",
+      "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
       "explanation": "Adjetivo dativo plural feminino; modificador adjetival ou predicativo. A equivalência portuguesa «sete» deve ser interpretada no encadeamento da frase.",
       "occurrencesExamples": [
         "Ap 1:11"
