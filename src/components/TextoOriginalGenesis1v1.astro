@@ -1,5 +1,9 @@
 ---
 import { genesis1v1 } from '../data/texto-original/genesis-1-1';
+import GenesisLexiconSenseList from './GenesisLexiconSenseList.astro';
+import lexicon from '../data/lexico-hebraico/genesis-1-1-8.json';
+import '../styles/genesis-lexicon.css';
+const firstLexicon=(lexicon.entries as Record<string, {lemmaTransliteration:string}>)[genesis1v1.words[0].strong];
 ---
 <section class="original-interlinear" data-original-genesis-1-1 aria-label="Texto original de Gênesis 1:1">
   <header class="interlinear-header">
@@ -45,9 +49,9 @@ import { genesis1v1 } from '../data/texto-original/genesis-1-1';
     <p class="lexicon-transliteration" data-lexicon-transliteration>{genesis1v1.words[0].transliteration}</p>
     <dl class="lexicon-fields">
       <div><dt>Tradução</dt><dd data-lexicon-gloss>{genesis1v1.words[0].gloss}</dd></div>
-      <div><dt>Lema</dt><dd lang="he" dir="rtl" data-lexicon-lemma>{genesis1v1.words[0].lemma}</dd></div>
+      <div><dt>Lema</dt><dd class="lexicon-lemma"><span class="lexicon-lemma-hebrew" lang="he" dir="rtl" data-lexicon-lemma>{genesis1v1.words[0].lemma}</span><span class="lexicon-lemma-transliteration" dir="ltr" data-lexicon-lemma-transliteration>{firstLexicon?.lemmaTransliteration ?? 'Em revisão'}</span></dd></div>
       <div><dt>Morfologia</dt><dd data-lexicon-morphology>{genesis1v1.words[0].morphology}</dd></div>
-      <div><dt>Sentidos</dt><dd data-lexicon-meanings>{genesis1v1.words[0].meanings}</dd></div>
+      <div><dt>Sentidos e exemplos</dt><dd class="lexical-senses" data-lexicon-meanings><GenesisLexiconSenseList strong={genesis1v1.words[0].strong} /></dd></div>
     </dl>
     <p data-lexicon-explanation>{genesis1v1.words[0].explanation}</p>
     <h4>Ocorrências na Bíblia Hebraica</h4>
@@ -74,6 +78,7 @@ import { genesis1v1 } from '../data/texto-original/genesis-1-1';
 
 <script>
   import { genesis1v1 } from '../data/texto-original/genesis-1-1';
+  import {updateLexiconLemmaAndSenses} from '../scripts/lexico-hebraico-genesis';
 
   function activateInterlinear() {
     document.querySelectorAll<HTMLElement>('[data-original-genesis-1-1]').forEach(root => {
@@ -87,8 +92,7 @@ import { genesis1v1 } from '../data/texto-original/genesis-1-1';
         gloss: '[data-lexicon-gloss]',
         lemma: '[data-lexicon-lemma]',
         morphology: '[data-lexicon-morphology]',
-        meanings: '[data-lexicon-meanings]',
-        explanation: '[data-lexicon-explanation]',
+                explanation: '[data-lexicon-explanation]',
       };
       const show = (index: number) => {
         requestSequence++;
@@ -98,6 +102,7 @@ import { genesis1v1 } from '../data/texto-original/genesis-1-1';
           const el = root.querySelector<HTMLElement>(selector);
           if (el) el.textContent = word[name as keyof typeof word] as string;
         }
+        updateLexiconLemmaAndSenses(root,word.strong);
         const panel = root.querySelector<HTMLElement>('[data-occurrences-panel]');
         const toggle = root.querySelector<HTMLButtonElement>('[data-occurrences-toggle]');
         if (panel && toggle) {
