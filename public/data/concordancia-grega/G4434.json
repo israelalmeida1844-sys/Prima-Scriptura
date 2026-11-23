@@ -1,0 +1,296 @@
+{
+  "strong": "G4434",
+  "lemma": "πτωχός",
+  "lemmaTranslit": "ptōchos",
+  "tokenCount": 34,
+  "verseCount": 34,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 5,
+    "Lucas": 10,
+    "João": 4,
+    "Romanos": 1,
+    "2 Coríntios": 1,
+    "Gálatas": 2,
+    "Tiago": 4,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Mt 5:3",
+      "text": "οἱ πτωχοὶ τῷ",
+      "highlightedWord": "πτωχοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Mt 11:5",
+      "text": "καὶ πτωχοὶ εὐαγγελίζονται·",
+      "highlightedWord": "πτωχοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Mt 19:21",
+      "text": "δὸς πτωχοῖς, καὶ",
+      "highlightedWord": "πτωχοῖς,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 9,
+      "reference": "Mt 26:9",
+      "text": "δοθῆναι πτωχοῖς.",
+      "highlightedWord": "πτωχοῖς."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 11,
+      "reference": "Mt 26:11",
+      "text": "τοὺς πτωχοὺς ἔχετε",
+      "highlightedWord": "πτωχοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Mk 10:21",
+      "text": "τοῖς πτωχοῖς, καὶ",
+      "highlightedWord": "πτωχοῖς,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Mk 12:42",
+      "text": "χήρα πτωχὴ ἔβαλεν",
+      "highlightedWord": "πτωχὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mk 12:43",
+      "text": "ἡ πτωχὴ πλεῖον",
+      "highlightedWord": "πτωχὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Mk 14:5",
+      "text": "τοῖς πτωχοῖς· καὶ",
+      "highlightedWord": "πτωχοῖς·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Mk 14:7",
+      "text": "τοὺς πτωχοὺς ἔχετε",
+      "highlightedWord": "πτωχοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Lk 4:18",
+      "text": "εὐαγγελίσασθαι πτωχοῖς, ἀπέσταλκέν",
+      "highlightedWord": "πτωχοῖς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Lk 6:20",
+      "text": "οἱ πτωχοί, ὅτι",
+      "highlightedWord": "πτωχοί,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Lk 7:22",
+      "text": "ἐγείρονται, πτωχοὶ εὐαγγελίζονται·",
+      "highlightedWord": "πτωχοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Lk 14:13",
+      "text": "κάλει πτωχούς, ἀναπείρους,",
+      "highlightedWord": "πτωχούς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Lk 14:21",
+      "text": "τοὺς πτωχοὺς καὶ",
+      "highlightedWord": "πτωχοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Lk 16:20",
+      "text": "πτωχὸς δέ",
+      "highlightedWord": "πτωχὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Lk 16:22",
+      "text": "τὸν πτωχὸν καὶ",
+      "highlightedWord": "πτωχὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Lk 18:22",
+      "text": "διάδος πτωχοῖς, καὶ",
+      "highlightedWord": "πτωχοῖς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Lk 19:8",
+      "text": "τοῖς πτωχοῖς δίδωμι,",
+      "highlightedWord": "πτωχοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Lk 21:3",
+      "text": "ἡ πτωχὴ αὕτη",
+      "highlightedWord": "πτωχὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Jn 12:5",
+      "text": "ἐδόθη πτωχοῖς;",
+      "highlightedWord": "πτωχοῖς;"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Jn 12:6",
+      "text": "τῶν πτωχῶν ἔμελεν",
+      "highlightedWord": "πτωχῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Jn 12:8",
+      "text": "τοὺς πτωχοὺς γὰρ",
+      "highlightedWord": "πτωχοὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Jn 13:29",
+      "text": "τοῖς πτωχοῖς ἵνα",
+      "highlightedWord": "πτωχοῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Ro 15:26",
+      "text": "τοὺς πτωχοὺς τῶν",
+      "highlightedWord": "πτωχοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "2Co 6:10",
+      "text": "ὡς πτωχοὶ πολλοὺς",
+      "highlightedWord": "πτωχοὶ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Ga 2:10",
+      "text": "τῶν πτωχῶν ἵνα",
+      "highlightedWord": "πτωχῶν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ga 4:9",
+      "text": "καὶ πτωχὰ στοιχεῖα,",
+      "highlightedWord": "πτωχὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Jas 2:2",
+      "text": "καὶ πτωχὸς ἐν",
+      "highlightedWord": "πτωχὸς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Jas 2:3",
+      "text": "τῷ πτωχῷ εἴπητε·",
+      "highlightedWord": "πτωχῷ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Jas 2:5",
+      "text": "τοὺς πτωχοὺς τῷ",
+      "highlightedWord": "πτωχοὺς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jas 2:6",
+      "text": "τὸν πτωχόν. οὐχ",
+      "highlightedWord": "πτωχόν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "καὶ πτωχὸς καὶ",
+      "highlightedWord": "πτωχὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Re 13:16",
+      "text": "τοὺς πτωχούς, καὶ",
+      "highlightedWord": "πτωχούς,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
