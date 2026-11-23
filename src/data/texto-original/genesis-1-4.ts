@@ -36,7 +36,7 @@ export const genesis1v4 = {
       "lemma": "אֵת",
       "morphology": "Partícula que marca objeto direto definido, ligada à palavra seguinte por maqqef",
       "meanings": "Indicador de objeto direto.",
-      "explanation": "Não equivale a uma palavra portuguesa independente nesta construção."
+      "explanation": "Em אֶת־הָאוֹר, אֶת marca o objeto direto definido e o maqqef (־) une graficamente a partícula à palavra seguinte. הָאוֹר contém o artigo definido e o substantivo 'luz'; a partícula não exige tradução isolada em português."
     },
     {
       "id": "gn1-4-4",
@@ -58,7 +58,7 @@ export const genesis1v4 = {
       "lemma": "כִּי",
       "morphology": "Conjunção subordinativa seguida de maqqef",
       "meanings": "Que; porque; pois; quando, segundo o contexto.",
-      "explanation": "Aqui introduz o conteúdo da avaliação: Deus viu que a luz era boa."
+      "explanation": "Em כִּי־טוֹב, a conjunção כִּי introduz o conteúdo da avaliação divina. A expressão é nominal, sem cópula hebraica explícita: o português acrescenta 'era' em 'a luz era boa' para produzir uma oração idiomática."
     },
     {
       "id": "gn1-4-6",
@@ -69,7 +69,7 @@ export const genesis1v4 = {
       "lemma": "טוֹב",
       "morphology": "Adjetivo masculino singular, predicativo de אוֹר",
       "meanings": "Bom, adequado, benéfico.",
-      "explanation": "Qualifica a luz criada. O hebraico não explicita o verbo 'ser' nesta oração nominal."
+      "explanation": "É o predicativo que qualifica a luz criada. A cópula 'era' da tradução editorial é suprida pela sintaxe portuguesa e não representa um verbo hebraico presente nesta cláusula."
     },
     {
       "id": "gn1-4-7",
@@ -124,7 +124,7 @@ export const genesis1v4 = {
       "lemma": "בֵּין",
       "morphology": "Conjunção וּ + preposição בֵּין",
       "meanings": "E entre.",
-      "explanation": "Segundo membro da construção correlativa hebraica."
+      "explanation": "A forma וּבֵין combina o prefixo conjuntivo וּ ('e') com a preposição בֵּין ('entre'), cujo lema é H996. A conjunção não integra o lema H996, e ambos os membros formam a correlação 'entre a luz e entre as trevas'."
     },
     {
       "id": "gn1-4-12",
