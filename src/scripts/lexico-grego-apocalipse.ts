@@ -32,7 +32,7 @@ type Entry = {
   senses: Sense[];
 };
 
-const entries = { ...lexicon4.entries, ...lexicon2_13_29.entries, ...lexicon2_1_12.entries, ...lexicon920.entries, ...lexicon38.entries, ...lexicon1.entries, ...lexicon2.entries } as Record<string, Entry>;
+const entries = { ...lexicon4.entries, ...lexicon2_13_29.entries, ...lexicon2_1_12.entries, ...lexicon920.entries, ...lexicon38.entries, ...lexicon1.entries, ...lexicon2.entries, G1163: lexicon4.entries.G1163 } as Record<string, Entry>; // Rev. 4:1: preservar a revisão filológica de δεῖ.
 
 export function lemmaForStrong(strong: string): Entry | undefined {
   return entries[strong];
