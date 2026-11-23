@@ -1,0 +1,51 @@
+{
+  "strong": "G3785",
+  "lemma": "ὄφελον",
+  "lemmaTranslit": "ophelon",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Co 4:8",
+      "text": "καὶ ὄφελόν γε",
+      "highlightedWord": "ὄφελόν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "2Co 11:1",
+      "text": "Ὄφελον ἀνείχεσθέ",
+      "highlightedWord": "Ὄφελον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ga 5:12",
+      "text": "ὄφελον καὶ",
+      "highlightedWord": "ὄφελον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Re 3:15",
+      "text": "ζεστός. ὄφελον ψυχρὸς",
+      "highlightedWord": "ὄφελον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
