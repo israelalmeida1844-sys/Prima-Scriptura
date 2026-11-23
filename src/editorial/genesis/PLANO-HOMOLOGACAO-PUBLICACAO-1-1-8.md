@@ -40,7 +40,7 @@ A fonte Times New Roman é aplicada nos novos elementos do projeto Gênesis; a r
 
 ## Auditoria técnica
 
-Workflow: `.github/workflows/homologar-genesis-1-1-8.yml`; **execução final de verificação visual: 45097516709**. A execução anterior (**45097179410**) teve sucesso em navegação, 36 índices, quatro resoluções, proteção dos 50 rascunhos e testes de rotas anteriores. A nova execução acrescenta verificações explícitas do contraste das trilhas de navegação e da cor de fundo dos cabeçalhos interlineares.
+Workflow: `.github/workflows/homologar-genesis-1-1-8.yml`; **execução final de verificação visual: 45097516709 — APROVADA.** A execução anterior (**45097179410**) teve sucesso em navegação, 36 índices, quatro resoluções, proteção dos 50 rascunhos e testes de rotas anteriores. A nova execução acrescenta verificações explícitas do contraste das trilhas de navegação e da cor de fundo dos cabeçalhos interlineares.
 
 Auditorias incluídas:
 1. Inspeção da branch de origem e registro de SHAs de `main` e do rascunho.
@@ -96,4 +96,8 @@ Verificações do GitHub Actions não devem ser descritas como consumo da cota d
 
 ## Ajustes identificados por inspeção visual das capturas
 
-A primeira captura real da página interlinear mostrou um defeito que o teste funcional inicial não detectara: o estilo global `header` do layout Base aplicava fundo azul-escuro ao cabeçalho da ficha, tornando o título escuro ilegível. Foi corrigido o seletor do cabeçalho em **todos os oito** componentes, mantendo fundo transparente, texto legível e a mesma tipografia. Também foi corrigido o contraste dos links dos breadcrumbs nas três rotas novas: o estilo global `nav a` aplicava cor clara sobre o fundo branco. A suíte visual agora verifica as duas propriedades CSS computadas e gera novas capturas após a correção. **Não dispensar a revisão humana das capturas produzidas pela nova execução.**
+A primeira captura real da página interlinear mostrou um defeito que o teste funcional inicial não detectara: o estilo global `header` do layout Base aplicava fundo azul-escuro ao cabeçalho da ficha, tornando o título escuro ilegível. Foi corrigido o seletor do cabeçalho em **todos os oito** componentes, mantendo fundo transparente, texto legível e a mesma tipografia. Também foi corrigido o contraste dos links dos breadcrumbs nas três rotas novas: o estilo global `nav a` aplicava cor clara sobre o fundo branco. A suíte visual agora verifica as duas propriedades CSS computadas e gera novas capturas após a correção. **As capturas da execução 45097516709 mostram o cabeçalho interlinear com fundo claro e título legível, e os breadcrumbs em contraste suficiente. Um ajuste tipográfico posterior em `src/pages/comentarios/genesis/capitulo-1/index.astro` impede a quebra do indicador `8 de 31` em telas estreitas; a alteração é localizada e não altera a lógica testada. Não dispensar a revisão humana da aparência final.**
+
+## Conclusão da homologação
+
+GitHub Actions **45097516709: sucesso**. Os três passos de verificação central passaram: proteção de 50 manuscritos (`draft: true`), integridade dos 36 índices Strong, e testes de páginas reais/rotas legadas com Chromium. O conjunto de screenshots e o relatório de diferenças foram arquivados sob o artefato **14783757529**: https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45097516709/artifacts/14783757529 . Não foi disparado deploy nesta execução. A aprovação de testes não implica autorização para promoção à branch `main`.
