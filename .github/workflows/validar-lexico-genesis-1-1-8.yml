@@ -1,0 +1,30 @@
+name: Validar léxico hebraico e exemplos de Gn 1:1–8 no OSHB
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/validar-lexico-genesis-1-1-8.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  lexical:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verificar 36 lemas e 80 exemplos no corpus WLC/OSHB v2.2
+        run: node scripts/gerar-lexico-exemplos-genesis.mjs
+      - name: Registrar somente o JSON lexical validado no rascunho
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/lexico-hebraico/genesis-1-1-8.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Validar exemplos lexicais reais na OSHB 2.2 (rascunho)"
+            git pull --rebase origin rascunho/genesis
+            git push origin HEAD:rascunho/genesis
+          fi
