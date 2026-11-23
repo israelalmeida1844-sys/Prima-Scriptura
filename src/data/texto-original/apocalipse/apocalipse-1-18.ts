@@ -8,7 +8,7 @@ export const apocalipse1v18 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "e aquele que vive. Estive morto, mas eis que vivo para todo o sempre e tenho as chaves da morte e do Hades.",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "A sequência crítica é τοῦ θανάτου καὶ τοῦ ᾅδου, «da morte e do Hades», enquanto certas edições do Textus Receptus transmitem outra ordem. ᾅδης designa o domínio dos mortos; não traduzir automaticamente como lugar de tormento eterno.",
+  "textualNotes": "O SBLGNT apresenta τοῦ θανάτου καὶ τοῦ ᾅδου. ἔχω é presente ativo indicativo primeira pessoa singular («tenho»); ἐγενόμην é aoristo médio indicativo («tornei-me/estive»). ᾅδης designa o domínio dos mortos, sem equivaler automaticamente a tormento eterno.",
   "exegeticalNotes": [
     "O Vivente identifica-se pela morte real e pela vida sem fim.",
     "As chaves simbolizam autoridade sobre a morte e o Hades."
@@ -115,7 +115,7 @@ export const apocalipse1v18 = {
       "shortMorph": "V-AMI-1S",
       "greek": "ἐγενόμην",
       "transliteration": "egenomēn",
-      "gloss": "estava",
+      "gloss": "estive",
       "strong": "G1096",
       "lemma": "γίνομαι",
       "lemmaTransliteration": "ginomai",
@@ -283,7 +283,7 @@ export const apocalipse1v18 = {
       "shortMorph": "Art-APM",
       "greek": "τοὺς",
       "transliteration": "tous",
-      "gloss": "o",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -331,7 +331,7 @@ export const apocalipse1v18 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "o",
+      "gloss": "dos/das",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -403,7 +403,7 @@ export const apocalipse1v18 = {
       "shortMorph": "V-PAI-1S",
       "greek": "ἔχω",
       "transliteration": "echō",
-      "gloss": "tinha",
+      "gloss": "tenho",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -416,7 +416,7 @@ export const apocalipse1v18 = {
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal presente indicativo primeira pessoa singular",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -427,7 +427,7 @@ export const apocalipse1v18 = {
       "shortMorph": "Art-APF",
       "greek": "τὰς",
       "transliteration": "tas",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -464,7 +464,7 @@ export const apocalipse1v18 = {
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Objeto direto de ἔχω",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -475,7 +475,7 @@ export const apocalipse1v18 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -547,7 +547,7 @@ export const apocalipse1v18 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
