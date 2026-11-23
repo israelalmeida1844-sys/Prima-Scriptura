@@ -89,8 +89,14 @@ const TITULOS_PSALMOS_PT={
  "Psalms 102:1": "Oração de um aflito, quando desfalece e derrama sua queixa diante do Senhor.",
  "Psalms 92:1": "Salmo. Cântico para o dia de sábado.",
  "Psalms 51:2": "Quando o profeta Natã veio até ele, depois que Davi havia se relacionado com Bate-Seba."
+,
+ "Psalms 81:1": "Ao regente musical, segundo a designação 'Gitite'. De Asafe.",
+ "Psalms 84:1": "Ao regente musical, segundo a designação 'Gitite'. Dos filhos de Corá. Salmo.",
+ "Psalms 88:1": "Cântico. Salmo dos filhos de Corá. Ao regente, segundo 'Maalate Leannot'. Masquil de Hemã, o ezraíta.",
+ "Psalms 3:1": "Salmo de Davi, quando fugiu de seu filho Absalão.",
+ "Psalms 57:1": "Ao regente musical, conforme 'Não destruas'. Mictão de Davi, quando fugiu de Saul, na caverna."
 };
-// Estes vinte e cinco títulos foram traduzidos editorialmente do hebraico; os cinco iniciais foram mantidos do modelo Gn 1:1.
+// Estes trinta títulos foram traduzidos editorialmente do hebraico; os cinco iniciais foram mantidos do modelo Gn 1:1.
 // Estas cinco traduções são editoriais próprias, conferidas com os títulos
 // massoréticos (Sl 18:1, 34:1, 56:1, 59:1 e 60:2), não com Almeida 1911.
 let mtEnglishMap={};
