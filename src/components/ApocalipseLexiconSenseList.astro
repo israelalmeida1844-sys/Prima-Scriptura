@@ -1,12 +1,13 @@
 ---
-import lexicon from '../data/lexico-grego/apocalipse-1-1.json';
+import lexicon1 from '../data/lexico-grego/apocalipse-1-1.json';
+import lexicon2 from '../data/lexico-grego/apocalipse-1-2.json';
 
 interface Props {
   strong: string;
 }
 
 const { strong } = Astro.props;
-const entries = lexicon.entries as Record<string, {
+const entries = { ...lexicon1.entries, ...lexicon2.entries } as Record<string, {
   senses: Array<{
     id: string;
     label: string;
