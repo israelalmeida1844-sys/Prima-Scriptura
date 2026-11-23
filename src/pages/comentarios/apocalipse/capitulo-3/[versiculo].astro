@@ -63,7 +63,7 @@ const base = '/comentarios/apocalipse/capitulo-3/';
       </div>
 
       <nav class="verse-picker" aria-label="Selecionar versículo de Apocalipse capítulo 3">
-        {Array.from({length:29},(_,i)=>i+1).map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
+        {Array.from({length:22},(_,i)=>i+1).map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
       </nav>
 
       <WordComponent />
