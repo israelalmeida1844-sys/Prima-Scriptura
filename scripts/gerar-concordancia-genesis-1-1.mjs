@@ -1,5 +1,5 @@
 /**
- * Gera arquivos locais de concordância para os lemas presentes em Gênesis 1:1–5.
+ * Gera arquivos locais de concordância para os lemas presentes em Gênesis 1:1–6.
  *
  * Fonte: Open Scriptures Hebrew Bible (OSHB), https://github.com/openscriptures/morphhb
  * Texto WLC: domínio público. Lemas/morfologia OSHB: CC BY 4.0.
@@ -24,7 +24,7 @@ const BOOKS = [
   ['Hab','Hc'],['Zeph','Sf'],['Hag','Ag'],['Zech','Zc'],['Mal','Ml']
 ];
 
-const TARGETS = ["H7225","H1254","H430","H853","H8064","H776","H1961","H8414","H922","H2822","H5921","H6440","H8415","H7307","H7363","H4325","H559","H216","H7200","H3588","H2896","H914","H996","H7121","H3117","H3915","H6153","H1242","H259"];
+const TARGETS = ["H7225","H1254","H430","H853","H8064","H776","H1961","H8414","H922","H2822","H5921","H6440","H8415","H7307","H7363","H4325","H559","H216","H7200","H3588","H2896","H914","H996","H7121","H3117","H3915","H6153","H1242","H259","H7549","H8432"];
 const TAG = 'v.2.2'; // Versão fixa, para reprodução das contagens
 const ORIGIN = 'https://raw.githubusercontent.com/openscriptures/morphhb/' + TAG + '/wlc/';
 const OUTPUT_DIR = resolve('public/data/concordancia-hebraica');
@@ -112,7 +112,8 @@ async function main() {
     ['Gn 1:2', ['H776','H1961','H8414','H922','H2822','H5921','H6440','H8415','H7307','H430','H7363','H4325']],
     ['Gn 1:3', ['H559','H430','H1961','H216']],
     ['Gn 1:4', ['H7200','H430','H853','H216','H3588','H2896','H914','H996','H2822']],
-    ['Gn 1:5', ['H7121','H430','H216','H3117','H2822','H3915','H1961','H6153','H1242','H259']]
+    ['Gn 1:5', ['H7121','H430','H216','H3117','H2822','H3915','H1961','H6153','H1242','H259']],
+    ['Gn 1:6', ['H559','H430','H1961','H7549','H8432','H4325','H914','H996']]
   ]);
   for (const [verse, strongs] of expectedByVerse) {
     for (const key of strongs) {
