@@ -1,0 +1,51 @@
+name: Auditar concordâncias de Gênesis 1:6 (rascunho)
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/auditar-genesis-1-6.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  concordancias:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Gerar todos os índices OSHB v.2.2
+        run: node scripts/gerar-concordancia-genesis-1-1.mjs --force
+      - name: Verificar Gn 1:1–6 e os novos lemas
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          const manifest=JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/genesis-1-1-2-manifest.json','utf8'));
+          if(!manifest.complete||manifest.books!==39||manifest.sourceVersion!=='v.2.2') throw Error('Corpus incompleto');
+          const ids=['H559','H430','H1961','H7549','H8432','H4325','H914','H996'];
+          for(const id of ids){
+            const j=JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/'+id+'.json','utf8'));
+            if(j.strong!==id||j.complete!==true||j.sourceVersion!=='v.2.2'||j.references.length!==j.verseCount||j.tokenCount<j.verseCount||new Set(j.references).size!==j.verseCount||!j.references.includes('Gn 1:6')) throw Error(id+' falhou');
+            console.log(id,j.tokenCount,j.verseCount);
+          }
+          const src=fs.readFileSync('src/data/texto-original/genesis-1-6.ts','utf8');
+          if((src.match(/"hebrew":/g)||[]).length!==11) throw Error('Gn 1:6 precisa de 11 unidades');
+          for (const id of ids) if(!src.includes('"strong": "'+id+'"')) throw Error('Sem '+id);
+          JS
+      - name: Compilar Astro
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          test -f dist/rascunhos/genesis-1-6/index.html
+          grep -q 'data-original-genesis-1-6' dist/rascunhos/genesis-1-6/index.html
+      - name: Registrar os JSONs exclusivamente no rascunho
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/concordancia-hebraica
+          if ! git diff --cached --quiet; then
+            git commit -m "Completar concordâncias exaustivas de Gn 1:6 (rascunho)"
+            git push origin HEAD:rascunho/genesis
+          fi
