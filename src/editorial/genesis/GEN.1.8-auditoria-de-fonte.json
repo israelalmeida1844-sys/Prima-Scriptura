@@ -1,0 +1,284 @@
+{
+  "generatedFrom": "OSHB morphhb v.2.2 / WLC, ALM1911, STEPBible TVTMS",
+  "version": "1.0",
+  "generatedAt": "verificação automatizada, sem publicação",
+  "verseRef": "GEN.1.8",
+  "translationSource": "tradução editorial própria",
+  "wordCount": 10,
+  "distinctStrongCount": 9,
+  "originalMassoreticVerse": "וַיִּקְרָא אֱלֹהִים לָרָקִיעַ שָׁמָיִם וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם שֵׁנִי",
+  "rawCodesVerified": true,
+  "consonantalMatches": true,
+  "tokenStrongReferences": [
+    {
+      "id": "GEN.1.8.1",
+      "strong": "H7121",
+      "rawCode": "HC/Vqw3ms",
+      "role": "predicate",
+      "clauseId": "GEN.1.8.C1"
+    },
+    {
+      "id": "GEN.1.8.2",
+      "strong": "H430",
+      "rawCode": "HNcmpa",
+      "role": "subject",
+      "clauseId": "GEN.1.8.C1"
+    },
+    {
+      "id": "GEN.1.8.3",
+      "strong": "H7549",
+      "rawCode": "HRd/Ncmsa",
+      "role": "naming_recipient",
+      "clauseId": "GEN.1.8.C1"
+    },
+    {
+      "id": "GEN.1.8.4",
+      "strong": "H8064",
+      "rawCode": "HNcmpa",
+      "role": "name_complement",
+      "clauseId": "GEN.1.8.C1"
+    },
+    {
+      "id": "GEN.1.8.5",
+      "strong": "H1961",
+      "rawCode": "HC/Vqw3ms",
+      "role": "predicate",
+      "clauseId": "GEN.1.8.C2"
+    },
+    {
+      "id": "GEN.1.8.6",
+      "strong": "H6153",
+      "rawCode": "HNcmsa",
+      "role": "subject",
+      "clauseId": "GEN.1.8.C2"
+    },
+    {
+      "id": "GEN.1.8.7",
+      "strong": "H1961",
+      "rawCode": "HC/Vqw3ms",
+      "role": "predicate",
+      "clauseId": "GEN.1.8.C3"
+    },
+    {
+      "id": "GEN.1.8.8",
+      "strong": "H1242",
+      "rawCode": "HNcmsa",
+      "role": "subject",
+      "clauseId": "GEN.1.8.C3"
+    },
+    {
+      "id": "GEN.1.8.9",
+      "strong": "H3117",
+      "rawCode": "HNcmsa",
+      "role": "nominal_summary",
+      "clauseId": "GEN.1.8.C4"
+    },
+    {
+      "id": "GEN.1.8.10",
+      "strong": "H8145",
+      "rawCode": "HAomsa",
+      "role": "ordinal_modifier",
+      "clauseId": "GEN.1.8.C4"
+    }
+  ],
+  "counts": {
+    "H7121": {
+      "strong": "H7121",
+      "originalIndex": 689,
+      "tokenCount": 739,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 39,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 689,
+      "countsBySection": {
+        "pentateuco": 183,
+        "profetas": 359,
+        "escritos": 147
+      },
+      "items": 689
+    },
+    "H430": {
+      "strong": "H430",
+      "originalIndex": 2246,
+      "tokenCount": 2600,
+      "origin": "aprovado em Gn 1:1",
+      "mappingsApplied": 0,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 2246,
+      "countsBySection": {
+        "pentateuco": 683,
+        "profetas": 784,
+        "escritos": 779
+      },
+      "items": 2246
+    },
+    "H7549": {
+      "strong": "H7549",
+      "originalIndex": 15,
+      "tokenCount": 17,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 1,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 15,
+      "countsBySection": {
+        "pentateuco": 7,
+        "profetas": 5,
+        "escritos": 3
+      },
+      "items": 15
+    },
+    "H8064": {
+      "strong": "H8064",
+      "originalIndex": 395,
+      "tokenCount": 421,
+      "origin": "aprovado em Gn 1:1",
+      "mappingsApplied": 0,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 395,
+      "countsBySection": {
+        "pentateuco": 92,
+        "profetas": 145,
+        "escritos": 158
+      },
+      "items": 395
+    },
+    "H1961": {
+      "strong": "H1961",
+      "originalIndex": 3131,
+      "tokenCount": 3575,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 177,
+      "editorialSuperscriptions": [
+        {
+          "ref": "Sl 63:1",
+          "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+        },
+        {
+          "ref": "Sl 142:1",
+          "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+        }
+      ],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 3131,
+      "countsBySection": {
+        "pentateuco": 919,
+        "profetas": 1663,
+        "escritos": 549
+      },
+      "items": 3131
+    },
+    "H6153": {
+      "strong": "H6153",
+      "originalIndex": 125,
+      "tokenCount": 134,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 8,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 125,
+      "countsBySection": {
+        "pentateuco": 71,
+        "profetas": 28,
+        "escritos": 26
+      },
+      "items": 125
+    },
+    "H1242": {
+      "strong": "H1242",
+      "originalIndex": 189,
+      "tokenCount": 214,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 15,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 189,
+      "countsBySection": {
+        "pentateuco": 72,
+        "profetas": 74,
+        "escritos": 43
+      },
+      "items": 189
+    },
+    "H3117": {
+      "strong": "H3117",
+      "originalIndex": 1930,
+      "tokenCount": 2304,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 139,
+      "editorialSuperscriptions": [
+        {
+          "ref": "Sl 18:1",
+          "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+        },
+        {
+          "ref": "Sl 92:1",
+          "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+        }
+      ],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 1930,
+      "countsBySection": {
+        "pentateuco": 542,
+        "profetas": 937,
+        "escritos": 451
+      },
+      "items": 1930
+    },
+    "H8145": {
+      "strong": "H8145",
+      "originalIndex": 152,
+      "tokenCount": 157,
+      "origin": "novo índice expandido",
+      "mappingsApplied": 2,
+      "editorialSuperscriptions": [],
+      "alignmentUnavailable": [],
+      "alignmentWarnings": [],
+      "totalCount": 152,
+      "countsBySection": {
+        "pentateuco": 60,
+        "profetas": 49,
+        "escritos": 43
+      },
+      "items": 152
+    }
+  },
+  "allPortugueseExcerptsPresent": true,
+  "totalReferenceItems": 8872,
+  "editorialSuperscriptions": [
+    {
+      "ref": "Sl 63:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 142:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 18:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 92:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    }
+  ],
+  "alignmentUnavailable": [],
+  "alignmentWarnings": [],
+  "caveats": [
+    "A presença de um Strong no versículo foi conferida no WLC/OSHB; a atribuição de sentidos contextuais exige revisão filológica humana.",
+    "O excerto português ALM1911 é um versículo, não um alinhamento lexical palavra a palavra.",
+    "Concordâncias incluem todos os versículos distintos por Strong, não reproduzem tokens duplicados como linhas independentes."
+  ]
+}
