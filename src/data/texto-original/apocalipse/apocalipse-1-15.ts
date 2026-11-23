@@ -8,9 +8,9 @@ export const apocalipse1v15 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Seus pés eram semelhantes a metal brilhante, como que incandescente numa fornalha, e sua voz era como o som de muitas águas.",
   "translationNote": "A tradução do particípio πεπυρωμένης é interpretativa; o grego do SBLGNT conserva genitivo formalmente não concordante com καμίνῳ.",
-  "textualNotes": "χαλκολιβάνῳ (G5474) é dativo neutro singular de termo de referência metalúrgica discutida. O SBLGNT apresenta πεπυρωμένης, particípio perfeito passivo genitivo feminino singular, que não concorda formalmente com καμίνῳ (dativo feminino singular); a construção é irregular ou elíptica. Não substituir silenciosamente por outra forma.",
+  "textualNotes": "χαλκολιβάνῳ (G5474) é dativo neutro singular de termo de referência metalúrgica discutida, documentado também em Ap 2:18; portanto, não é hapax legomenon no Novo Testamento. O SBLGNT apresenta πεπυρωμένης, particípio perfeito passivo genitivo feminino singular, que não concorda formalmente com καμίνῳ (dativo feminino singular); a construção é irregular ou elíptica. Não substituir silenciosamente por outra forma.",
   "exegeticalNotes": [
-    "O substantivo χαλκολίβανον é raro e seu sentido metalúrgico não é estabelecido com precisão.",
+    "O substantivo χαλκολίβανον ocorre duas vezes no NT (Ap 1:15; 2:18); é raro, mas não um hapax legomenon, e seu sentido metalúrgico não é estabelecido com precisão.",
     "O particípio πεπυρωμένης conserva genitivo feminino singular formalmente incongruente com καμίνῳ."
   ],
   "words": [
@@ -147,7 +147,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
       "meanings": "metal brilhante; bronze refinado",
-      "explanation": "Substantivo raro neutro dativo singular (G5474), referente a metal de brilho intenso; etimologia e composição exata discutidas.",
+      "explanation": "Substantivo neutro dativo singular (G5474), documentado em Ap 1:15 e 2:18; referente a metal de brilho intenso, com etimologia e composição exata discutidas.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
