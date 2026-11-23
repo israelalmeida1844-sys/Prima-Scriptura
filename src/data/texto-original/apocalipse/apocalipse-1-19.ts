@@ -8,7 +8,7 @@ export const apocalipse1v19 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Escreva, portanto, as coisas que você viu, as que são e as que estão para acontecer depois destas.",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "O imperativo γράψον rege as três relativas: «o que viste», «o que é» e «o que está para acontecer». Trata-se de uma possível chave estrutural do livro, embora a extensão dessa divisão seja interpretativamente debatida.",
+  "textualNotes": "γράψον é imperativo aoristo ativo segunda pessoa singular; εἶδες é aoristo ativo indicativo segunda pessoa singular («viste»); εἰσὶν é presente ativo indicativo terceira pessoa plural («são»); μέλλει (3ª pessoa singular) rege γίνεσθαι, infinitivo presente médio. A tríade de relativas não impõe uma divisão cronológica rígida de todo o livro.",
   "exegeticalNotes": [
     "O imperativo de escrever reitera a responsabilidade profética de João.",
     "A tríade temporal exige cautela antes de impor uma divisão rígida ao livro."
@@ -91,7 +91,7 @@ export const apocalipse1v19 = {
       "shortMorph": "V-AAI-2S",
       "greek": "εἶδες",
       "transliteration": "eides",
-      "gloss": "vi",
+      "gloss": "viste",
       "strong": "G3708",
       "lemma": "ὁράω",
       "lemmaTransliteration": "horaō",
@@ -104,7 +104,7 @@ export const apocalipse1v19 = {
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal da primeira oração relativa, segunda pessoa singular",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -163,7 +163,7 @@ export const apocalipse1v19 = {
       "shortMorph": "V-PAI-3P",
       "greek": "εἰσὶν",
       "transliteration": "eisin",
-      "gloss": "sou",
+      "gloss": "são",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -176,7 +176,7 @@ export const apocalipse1v19 = {
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal da segunda relativa, terceira pessoa plural",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse1v19 = {
       "shortMorph": "V-PAI-3S",
       "greek": "μέλλει",
       "transliteration": "mellei",
-      "gloss": "hão de",
+      "gloss": "está para",
       "strong": "G3195",
       "lemma": "μέλλω",
       "lemmaTransliteration": "mellō",
@@ -248,7 +248,7 @@ export const apocalipse1v19 = {
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Núcleo verbal singular da terceira relativa; rege γίνεσθαι",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -259,7 +259,7 @@ export const apocalipse1v19 = {
       "shortMorph": "V-PMN",
       "greek": "γίνεσθαι",
       "transliteration": "ginesthai",
-      "gloss": "estava",
+      "gloss": "acontecer",
       "strong": "G1096",
       "lemma": "γίνομαι",
       "lemmaTransliteration": "ginomai",
@@ -272,7 +272,7 @@ export const apocalipse1v19 = {
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Infinitivo integrante da construção verbal",
+        "role": "Infinitivo presente médio complemento de μέλλει",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -283,7 +283,7 @@ export const apocalipse1v19 = {
       "shortMorph": "Preposição",
       "greek": "μετὰ",
       "transliteration": "meta",
-      "gloss": "com",
+      "gloss": "depois de",
       "strong": "G3326",
       "lemma": "μετά",
       "lemmaTransliteration": "meta",
