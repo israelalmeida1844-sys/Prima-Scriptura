@@ -1,15 +1,17 @@
 ---
 import Base from '../../../../layouts/Base.astro';
 import TextoOriginalApocalipse1v1 from '../../../../components/TextoOriginalApocalipse1v1.astro';
+import TextoOriginalApocalipse1v2 from '../../../../components/TextoOriginalApocalipse1v2.astro';
 
 export function getStaticPaths() {
-  // Etapa 1: Versículo 1 implementado com rigor acadêmico pleno.
-  return [
-    { params: { versiculo: 'versiculo-1' }, props: { number: 1 } }
-  ];
+  return [1, 2].map(number => ({
+    params: { versiculo: 'versiculo-' + number },
+    props: { number }
+  }));
 }
 
 const { number } = Astro.props;
+const WordComponent = number === 1 ? TextoOriginalApocalipse1v1 : TextoOriginalApocalipse1v2;
 const base = '/comentarios/apocalipse/capitulo-1/';
 ---
 <Base
@@ -40,19 +42,19 @@ const base = '/comentarios/apocalipse/capitulo-1/';
       </div>
 
       <nav class="verse-picker" aria-label="Selecionar versículo de Apocalipse capítulo 1">
-        <a href={base + 'versiculo-1/'} aria-current="page" class="active">1</a>
+        {[1, 2].map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
       </nav>
 
-      <TextoOriginalApocalipse1v1 />
+      <WordComponent />
 
       <nav class="verse-navigation" aria-label="Navegação entre versículos">
-        <span class="disabled" aria-disabled="true">Início do conteúdo disponível</span>
+        {number > 1 ? <a data-apocalipse-prev href={base + 'versiculo-' + (number - 1) + '/'}>← Versículo anterior</a> : <span class="disabled" aria-disabled="true">Início do conteúdo disponível</span>}
         <a class="chapter-return" href={base}>Índice do capítulo 1</a>
-        <span class="disabled" aria-disabled="true">Versículo 2 em desenvolvimento editorial</span>
+        {number < 2 ? <a data-apocalipse-next href={base + 'versiculo-' + (number + 1) + '/'}>Próximo versículo →</a> : <span class="disabled" aria-disabled="true">Versículo 3 em preparação editorial</span>}
       </nav>
 
       <p class="reader-note">
-        Protótipo acadêmico (Etapa 1). Texto crítico base: SBL Greek New Testament (SBLGNT); lemas e análise morfológica: MorphGNT 6.12 (CC BY-SA 3.0 / CC BY 4.0).
+        Edição acadêmica de avaliação (Apocalipse 1:1–2). Texto crítico base: SBL Greek New Testament (SBLGNT); lemas e análise morfológica: MorphGNT 6.12 (CC BY-SA 3.0 / CC BY 4.0).
       </p>
     </div>
   </section>
