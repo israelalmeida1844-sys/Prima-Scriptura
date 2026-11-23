@@ -36,6 +36,24 @@
 - Revisão de glosas, discussão do genitivo τοῦ θεοῦ e natureza da imagem dos sete espíritos.
 - Confirmação das rotas e do funcionamento do interlinear, sem afirmar homologação antes dos testes.
 
+## Validação acadêmica — 23/11/2026
+
+**Cotejo inicial realizado:** comparado o estudo-piloto com a apresentação do SBLGNT de Apocalipse 3:1, publicada em https://www.biblegateway.com/passage/?search=Revelation+3%3A1&version=SBLGNT . A verificação é de leitura textual e das construções salientadas; não equivale a inspeção exaustiva de variantes e testemunhos.
+
+- **Καὶ τῷ ἀγγέλῳ ... γράψον:** a abertura contém conjunção coordenativa Καί; a tradução pode omiti-la por estilo, mas o interlinear precisa manter a palavra.
+- **Τάδε λέγει:** Τάδε é demonstrativo neutro plural acusativo na fórmula de proclamação; traduzir «Estas coisas diz» ou «Assim diz» como construção, sem classificar a forma isolada como advérbio.
+- **ὁ ἔχων:** particípio presente ativo nominativo masculino singular, substantivado pelo artigo, caracterizando quem fala.
+- **τὰ ἑπτὰ πνεύματα τοῦ θεοῦ:** ἑπτά é numeral indeclinável; πνεύματα é acusativo neutro plural; τοῦ θεοῦ é genitivo singular. A identificação teológica dos espíritos não decorre apenas da morfologia.
+- **Οἶδά σου τὰ ἔργα:** Οἶδα tem forma de perfeito ativo indicativo, 1ª pessoa singular, com sentido presente «sei/conheço»; σου é genitivo pronominal relacionado à comunidade; τὰ ἔργα é acusativo neutro plural. A colocação do pronome antes do objeto merece anotação sintática, sem forçar regra categórica de posse.
+- **ὅτι ὄνομα ἔχεις ὅτι ζῇς:** primeira partícula ὅτι introduz conteúdo conhecido; a segunda explica o teor da reputação. Distinguir ambas de um «porque» automático.
+- **νεκρὸς εἶ:** νεκρός é predicativo nominativo masculino singular; εἶ é presente ativo indicativo, 2ª pessoa singular. Contraste entre reputação de vida e condição de morte.
+- **Variante a colacionar:** parte da tradição do Textus Receptus apresenta τὸ ὄνομα; o estudo usa ὄνομα sem artigo conforme SBLGNT. Não atribuir testemunhos manuscritos individuais sem aparato.
+- **Ajuste estilístico proposto:** «Conheço tuas obras: tens reputação de estar vivo, mas estás morto». É tradução contextual, não equivalência interlinear palavra a palavra.
+
+**Verificação de implantação:** não foram encontrados `src/data/texto-original/apocalipse/apocalipse-3-1.ts`, `src/pages/comentarios/apocalipse/capitulo-3/index.astro` ou `scripts/gerar-apocalipse-3.mjs` na branch em 23/11/2026. Assim, testes de tokens, Strong, concordância, Astro, navegador e rotas do capítulo 3 permanecem **bloqueados por ausência da implementação**.
+
+**Decisão editorial:** estudo de 3:1 validado preliminarmente quanto às construções cotejadas, com ressalvas. **Não homologar** o capítulo nem promover o conteúdo à `main`.
+
 ## Rubrica editorial
 Texto crítico: pendente de verificação token a token.  
 Morfologia: pendente de validação automatizada.  
