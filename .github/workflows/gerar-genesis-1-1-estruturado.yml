@@ -1,0 +1,64 @@
+name: Completar Gênesis 1:1 — JSON integral e seis concordâncias
+on:
+  push:
+    branches: [rascunho/genesis]
+    paths: ['.github/workflows/gerar-genesis-1-1-estruturado.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/genesis
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Gerar JSON completo de Gn 1:1 do WLC OSHB v2.2 e Almeida 1911 domínio público
+        run: node scripts/gerar-genesis-1-1-estruturado.mjs
+      - name: Validar estrutura, 11708 referências, contagens e códigos do texto
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          const file='src/editorial/genesis/GEN.1.1-estruturado-completo.json';
+          const j=JSON.parse(fs.readFileSync(file,'utf8'));
+          const ids=['H7225','H1254','H430','H853','H8064','H776'];
+          const raw=['HR/Ncfsa','HVqp3ms','HNcmpa','HTo','HTd/Ncmpa','HC/To','HTd/Ncbsa'];
+          const audit=JSON.parse(fs.readFileSync('src/editorial/genesis/GEN.1.1-auditoria-de-fonte.json','utf8'));
+          if(j.verseRef!=='GEN.1.1'||j.versePt!=='Gn 1:1'||j.tokens.length!==7)throw Error('Gn1:1 incorreto');
+          if(j.tokens.some((t,i)=>t.index!==i+1||t.morphology.rawCode!==raw[i]||!j.lexemes[t.strong]))throw Error('Morfologia ou indexação incorreta');
+          let total=0;
+          for(const id of ids){
+            const c=j.concordanceByStrong[id];
+            const local=JSON.parse(fs.readFileSync('public/data/concordancia-hebraica/'+id+'.json','utf8'));
+            if(!c||c.totalCount!==local.verseCount||c.items.length!==c.totalCount||!c.items.every(x=>x.ref&&x.refPt&&x.bookId&&x.bookPt&&x.section&&x.sectionPt&&x.excerptHe&&x.excerptPt))throw Error('Índice incompleto '+id);
+            const grouped=Object.values(c.countsBySection).reduce((a,b)=>a+b,0);
+            if(grouped!==c.totalCount)throw Error('Seções divergentes '+id);
+            if(c.items.some((x,i)=>x.refPt!==local.references[i]))throw Error('Ordem ou referências divergentes '+id);
+            total+=c.items.length;
+          }
+          if(total!==11708||audit.totalItems!==11708)throw Error('Total esperado de registros não atingido');
+          console.log('VALIDADO:',j.tokens.length,'tokens,',ids.length,'lemas e',total,'referências distintas por lema');
+          console.log('AVISOS DE ALINHAMENTO:',audit.alignmentUnavailableCount,audit.alignmentWarningCount);
+          JS
+      - name: Salvar JSON e auditoria somente em rascunho/genesis
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/editorial/genesis/GEN.1.1-estruturado-completo.json src/editorial/genesis/GEN.1.1-auditoria-de-fonte.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Concluir estrutura Gn 1:1 com 11708 registros WLC e português ALM1911 (somente rascunho)"
+            git pull --rebase origin rascunho/genesis
+            git push origin HEAD:rascunho/genesis
+          fi
+      - name: Entregar arquivos para inspeção independente
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gen-1-1-estrutura-exaustiva
+          path: |
+            src/editorial/genesis/GEN.1.1-estruturado-completo.json
+            src/editorial/genesis/GEN.1.1-auditoria-de-fonte.json
+          if-no-files-found: warn
