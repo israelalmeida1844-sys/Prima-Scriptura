@@ -1,0 +1,1591 @@
+{
+  "scope": "Gênesis 1:1–8",
+  "source": "WLC/OSHB v.2.2",
+  "attribution": "Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb",
+  "lexicalNote": "Acepções e comentários são sínteses editoriais. As formas hebraicas e a ocorrência do lema foram conferidas com o WLC/OSHB; classificações semânticas dependem de revisão exegética humana.",
+  "entries": {
+    "H7225": {
+      "strong": "H7225",
+      "lemma": "רֵאשִׁית",
+      "lemmaTransliteration": "rēʾšîṯ",
+      "senses": [
+        {
+          "id": "H7225-1",
+          "label": "Começo ou início",
+          "definition": "Ponto inicial de uma sequência ou processo.",
+          "examples": [
+            {
+              "reference": "Gn 1:1",
+              "translation": "No princípio, Deus criou.",
+              "explanation": "O vocábulo introduz o horizonte inicial da narrativa da criação.",
+              "hebrew": "בְּ/רֵאשִׁית בָּרָא",
+              "wordForm": "בְּ/רֵאשִׁית",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7225-2",
+          "label": "Primícias",
+          "definition": "Primeira porção de uma colheita dedicada como oferta.",
+          "examples": [
+            {
+              "reference": "Êx 23:19",
+              "translation": "As primícias dos primeiros frutos da terra.",
+              "explanation": "O contexto agrícola e cultual mostra um uso especializado de 'primeira parte'.",
+              "hebrew": "רֵאשִׁית בִּכּוּרֵי",
+              "wordForm": "רֵאשִׁית",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7225-3",
+          "label": "Primogenitura ou posição principal",
+          "definition": "Prioridade na ordem de nascimento.",
+          "examples": [
+            {
+              "reference": "Gn 49:3",
+              "translation": "Rúben, meu primogênito, princípio da minha força.",
+              "explanation": "O termo indica precedência em uma relação familiar.",
+              "hebrew": "כֹּחִ/י וְ/רֵאשִׁית אוֹנִ/י",
+              "wordForm": "וְ/רֵאשִׁית",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H1254": {
+      "strong": "H1254",
+      "lemma": "בָּרָא",
+      "lemmaTransliteration": "bārāʾ",
+      "senses": [
+        {
+          "id": "H1254-1",
+          "label": "Criar",
+          "definition": "Ação criadora atribuída a Deus em Gênesis.",
+          "examples": [
+            {
+              "reference": "Gn 1:1",
+              "translation": "Deus criou os céus e a terra.",
+              "explanation": "No Qal, descreve a ação criadora divina.",
+              "hebrew": "בְּ/רֵאשִׁית בָּרָא אֱלֹהִים",
+              "wordForm": "בָּרָא",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H1254-2",
+          "label": "Renovar ou criar uma nova condição",
+          "definition": "Pedido de transformação interior por iniciativa divina.",
+          "examples": [
+            {
+              "reference": "Sl 51:12",
+              "translation": "Cria em mim um coração puro.",
+              "explanation": "O verbo se aplica figuradamente à renovação interior, ainda com Deus como agente.",
+              "hebrew": "טָהוֹר בְּרָא לִ/י",
+              "wordForm": "בְּרָא",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H1254-3",
+          "label": "Desbravar ou abrir terreno",
+          "definition": "Emprego em outro tronco verbal aplicado à preparação de uma área.",
+          "examples": [
+            {
+              "reference": "Js 17:15",
+              "translation": "Sobe ao bosque e abre ali um espaço.",
+              "explanation": "Uso em outro tronco: não se deve transferir automaticamente este sentido ao Qal de Gn 1:1.",
+              "hebrew": "הַ/יַּעְרָ/ה וּ/בֵרֵאתָ לְ/ךָ",
+              "wordForm": "וּ/בֵרֵאתָ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H430": {
+      "strong": "H430",
+      "lemma": "אֱלֹהִים",
+      "lemmaTransliteration": "ʾĕlōhîm",
+      "senses": [
+        {
+          "id": "H430-1",
+          "label": "Deus de Israel",
+          "definition": "Designação do Deus criador com concordância singular no contexto.",
+          "examples": [
+            {
+              "reference": "Gn 1:1",
+              "translation": "Deus criou os céus e a terra.",
+              "explanation": "O verbo singular define o sujeito neste enunciado.",
+              "hebrew": "בָּרָא אֱלֹהִים אֵת",
+              "wordForm": "אֱלֹהִים",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H430-2",
+          "label": "Deuses",
+          "definition": "Designação de outras divindades em construção plural.",
+          "examples": [
+            {
+              "reference": "Êx 20:3",
+              "translation": "Não terás outros deuses diante de mim.",
+              "explanation": "O adjetivo 'outros' e a proibição tornam clara a referência plural.",
+              "hebrew": "לְ/ךָ אֱלֹהִים אֲחֵרִים",
+              "wordForm": "אֱלֹהִים",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H853": {
+      "strong": "H853",
+      "lemma": "אֵת",
+      "lemmaTransliteration": "ʾēṯ",
+      "senses": [
+        {
+          "id": "H853-1",
+          "label": "Marcador de objeto direto definido",
+          "definition": "Partícula sintática sem tradução lexical independente em português.",
+          "examples": [
+            {
+              "reference": "Gn 1:1",
+              "translation": "Deus criou os céus e a terra.",
+              "explanation": "A partícula introduz o objeto direto determinado do verbo 'criar'.",
+              "hebrew": "אֱלֹהִים אֵת הַ/שָּׁמַיִם",
+              "wordForm": "אֵת",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H8064": {
+      "strong": "H8064",
+      "lemma": "שָׁמַיִם",
+      "lemmaTransliteration": "šāmayim",
+      "senses": [
+        {
+          "id": "H8064-1",
+          "label": "Céu ou espaço celeste",
+          "definition": "Domínio superior nomeado no relato da criação.",
+          "examples": [
+            {
+              "reference": "Gn 1:8",
+              "translation": "Deus chamou à expansão Céu.",
+              "explanation": "A palavra é o nome dado à expansão neste contexto.",
+              "hebrew": "לָ/רָקִיעַ שָׁמָיִם וַ/יְהִי",
+              "wordForm": "שָׁמָיִם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H8064-2",
+          "label": "Céus em expressão abrangente",
+          "definition": "Com a terra, designa o conjunto da criação.",
+          "examples": [
+            {
+              "reference": "Gn 1:1",
+              "translation": "Deus criou os céus e a terra.",
+              "explanation": "A dupla expressão abrange a realidade criada, além de um local específico do céu.",
+              "hebrew": "אֵת הַ/שָּׁמַיִם וְ/אֵת",
+              "wordForm": "הַ/שָּׁמַיִם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H776": {
+      "strong": "H776",
+      "lemma": "אֶרֶץ",
+      "lemmaTransliteration": "ʾereṣ",
+      "senses": [
+        {
+          "id": "H776-1",
+          "label": "Terra",
+          "definition": "Domínio terrestre contraposto aos céus.",
+          "examples": [
+            {
+              "reference": "Gn 1:1",
+              "translation": "Deus criou os céus e a terra.",
+              "explanation": "A expressão 'céus e terra' indica uma totalidade.",
+              "hebrew": "וְ/אֵת הָ/אָרֶץ",
+              "wordForm": "הָ/אָרֶץ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H776-2",
+          "label": "País ou território",
+          "definition": "Extensão geográfica à qual alguém se dirige.",
+          "examples": [
+            {
+              "reference": "Gn 12:1",
+              "translation": "Vai para a terra que eu te mostrarei.",
+              "explanation": "A promessa se refere a uma região determinada, não ao planeta inteiro.",
+              "hebrew": "לְ/ךָ מֵ/אַרְצְ/ךָ וּ/מִ/מּוֹלַדְתְּ/ךָ",
+              "wordForm": "מֵ/אַרְצְ/ךָ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H776-3",
+          "label": "Solo ou chão",
+          "definition": "Superfície terrestre associada ao crescimento das plantas.",
+          "examples": [
+            {
+              "reference": "Gn 2:5",
+              "translation": "Ainda não havia brotado a erva do campo na terra.",
+              "explanation": "O contexto vegetal favorece a referência ao solo terrestre.",
+              "hebrew": "יִהְיֶה בָ/אָרֶץ וְ/כָל",
+              "wordForm": "בָ/אָרֶץ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H1961": {
+      "strong": "H1961",
+      "lemma": "הָיָה",
+      "lemmaTransliteration": "hāyâ",
+      "senses": [
+        {
+          "id": "H1961-1",
+          "label": "Ser ou estar",
+          "definition": "Predicação de um estado ou condição.",
+          "examples": [
+            {
+              "reference": "Gn 1:2",
+              "translation": "A terra estava sem forma e vazia.",
+              "explanation": "A forma verbal descreve a condição da terra, não necessariamente mudança anterior.",
+              "hebrew": "וְ/הָ/אָרֶץ הָיְתָה תֹהוּ",
+              "wordForm": "הָיְתָה",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H1961-2",
+          "label": "Acontecer ou ocorrer",
+          "definition": "Fórmula narrativa de realização.",
+          "examples": [
+            {
+              "reference": "Gn 1:7",
+              "translation": "E assim aconteceu.",
+              "explanation": "A forma narrativa com כֵן sinaliza o cumprimento.",
+              "hebrew": "לָ/רָקִיעַ וַ/יְהִי כֵן",
+              "wordForm": "וַ/יְהִי",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H1961-3",
+          "label": "Tornar-se",
+          "definition": "Passagem a uma condição ou identidade.",
+          "examples": [
+            {
+              "reference": "Gn 2:7",
+              "translation": "O homem tornou-se ser vivente.",
+              "explanation": "O verbo relaciona o ser humano ao estado resultante.",
+              "hebrew": "חַיִּים וַ/יְהִי הָ/אָדָם",
+              "wordForm": "וַ/יְהִי",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H8414": {
+      "strong": "H8414",
+      "lemma": "תֹּהוּ",
+      "lemmaTransliteration": "tōhû",
+      "senses": [
+        {
+          "id": "H8414-1",
+          "label": "Desolação ou ausência de organização",
+          "definition": "Condição não organizada no início do relato.",
+          "examples": [
+            {
+              "reference": "Gn 1:2",
+              "translation": "A terra estava sem forma e vazia.",
+              "explanation": "O termo aparece em par com בֹּהוּ.",
+              "hebrew": "הָיְתָה תֹהוּ וָ/בֹהוּ",
+              "wordForm": "תֹהוּ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H8414-2",
+          "label": "Vazio ou inutilidade",
+          "definition": "Ausência de substância ou valor no contraste poético.",
+          "examples": [
+            {
+              "reference": "Is 40:17",
+              "translation": "As nações são tidas como nada diante dele.",
+              "explanation": "O texto utiliza o termo em avaliação figurada, não descrição geográfica.",
+              "hebrew": "מֵ/אֶפֶס וָ/תֹהוּ נֶחְשְׁבוּ",
+              "wordForm": "וָ/תֹהוּ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H922": {
+      "strong": "H922",
+      "lemma": "בֹּהוּ",
+      "lemmaTransliteration": "bōhû",
+      "senses": [
+        {
+          "id": "H922-1",
+          "label": "Vazio ou desolação",
+          "definition": "Termo raro usado junto de תֹּהוּ para um cenário desolado.",
+          "examples": [
+            {
+              "reference": "Gn 1:2",
+              "translation": "A terra estava sem forma e vazia.",
+              "explanation": "A combinação descreve a condição inicial, não uma destruição prévia obrigatória.",
+              "hebrew": "תֹהוּ וָ/בֹהוּ וְ/חֹשֶׁךְ",
+              "wordForm": "וָ/בֹהוּ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            },
+            {
+              "reference": "Jr 4:23",
+              "translation": "Olhei para a terra, e estava sem forma e vazia.",
+              "explanation": "O profeta reaproveita a dupla lexical na descrição de desolação.",
+              "hebrew": "תֹהוּ וָ/בֹהוּ וְ/אֶל",
+              "wordForm": "וָ/בֹהוּ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H2822": {
+      "strong": "H2822",
+      "lemma": "חֹשֶׁךְ",
+      "lemmaTransliteration": "ḥōšeḵ",
+      "senses": [
+        {
+          "id": "H2822-1",
+          "label": "Escuridão física",
+          "definition": "Ausência de luz no cenário descrito.",
+          "examples": [
+            {
+              "reference": "Gn 1:2",
+              "translation": "Havia trevas sobre a superfície do abismo.",
+              "explanation": "Trata-se de uma descrição do estado antes da palavra criadora da luz.",
+              "hebrew": "וָ/בֹהוּ וְ/חֹשֶׁךְ עַל",
+              "wordForm": "וְ/חֹשֶׁךְ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H2822-2",
+          "label": "Trevas como imagem de juízo ou experiência negativa",
+          "definition": "Emprego figurado de escuridão.",
+          "examples": [
+            {
+              "reference": "Is 5:20",
+              "translation": "Os que fazem das trevas luz e da luz trevas.",
+              "explanation": "O paralelismo moral usa a palavra como imagem, não como estado meteorológico.",
+              "hebrew": "שָׂמִים חֹשֶׁךְ לְ/אוֹר",
+              "wordForm": "חֹשֶׁךְ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H5921": {
+      "strong": "H5921",
+      "lemma": "עַל",
+      "lemmaTransliteration": "ʿal",
+      "senses": [
+        {
+          "id": "H5921-1",
+          "label": "Sobre ou acima de",
+          "definition": "Relação espacial de posição superior.",
+          "examples": [
+            {
+              "reference": "Gn 1:2",
+              "translation": "Sobre a superfície das águas.",
+              "explanation": "A preposição indica relação espacial com o referente.",
+              "hebrew": "וְ/חֹשֶׁךְ עַל פְּנֵי",
+              "wordForm": "עַל",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H5921-2",
+          "label": "Domínio ou autoridade sobre",
+          "definition": "Relação de governo em construção verbal.",
+          "examples": [
+            {
+              "reference": "Gn 1:26",
+              "translation": "Tenham domínio sobre os peixes do mar.",
+              "explanation": "A preposição introduz o domínio sobre o qual se exerce autoridade.",
+              "hebrew": "הָ/רֹמֵשׂ עַל הָ/אָרֶץ",
+              "wordForm": "עַל",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H6440": {
+      "strong": "H6440",
+      "lemma": "פָּנִים",
+      "lemmaTransliteration": "pānîm",
+      "senses": [
+        {
+          "id": "H6440-1",
+          "label": "Face ou rosto",
+          "definition": "Parte frontal do corpo ou expressão do semblante.",
+          "examples": [
+            {
+              "reference": "Gn 4:6",
+              "translation": "Por que descaiu o teu semblante?",
+              "explanation": "O contexto descreve a expressão do rosto de Caim.",
+              "hebrew": "נָפְלוּ פָנֶי/ךָ",
+              "wordForm": "פָנֶי/ךָ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H6440-2",
+          "label": "Superfície",
+          "definition": "Parte externa ou face de uma extensão.",
+          "examples": [
+            {
+              "reference": "Gn 1:2",
+              "translation": "Sobre a superfície do abismo.",
+              "explanation": "A construção עַל־פְּנֵי indica a superfície, sem referência anatômica.",
+              "hebrew": "עַל פְּנֵי תְהוֹם",
+              "wordForm": "פְּנֵי",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H6440-3",
+          "label": "Presença ou diante de",
+          "definition": "Uso relacional associado à presença de alguém.",
+          "examples": [
+            {
+              "reference": "Gn 3:8",
+              "translation": "Esconderam-se da presença do Senhor Deus.",
+              "explanation": "A construção com a preposição comunica o afastamento da presença divina.",
+              "hebrew": "וְ/אִשְׁתּ/וֹ מִ/פְּנֵי יְהוָה",
+              "wordForm": "מִ/פְּנֵי",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H8415": {
+      "strong": "H8415",
+      "lemma": "תְּהוֹם",
+      "lemmaTransliteration": "təhôm",
+      "senses": [
+        {
+          "id": "H8415-1",
+          "label": "Abismo ou águas profundas",
+          "definition": "Profundidade aquática, sem personificação necessária.",
+          "examples": [
+            {
+              "reference": "Gn 1:2",
+              "translation": "Havia trevas sobre a superfície do abismo.",
+              "explanation": "O termo caracteriza o cenário aquático inicial.",
+              "hebrew": "פְּנֵי תְהוֹם וְ/רוּחַ",
+              "wordForm": "תְהוֹם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H8415-2",
+          "label": "Fontes das profundezas",
+          "definition": "Reservatório de águas descrito como abrindo suas fontes.",
+          "examples": [
+            {
+              "reference": "Gn 7:11",
+              "translation": "Romperam-se as fontes do grande abismo.",
+              "explanation": "A imagem descreve a irrupção de águas durante o dilúvio.",
+              "hebrew": "מַעְיְנֹת תְּהוֹם רַבָּה",
+              "wordForm": "תְּהוֹם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H7307": {
+      "strong": "H7307",
+      "lemma": "רוּחַ",
+      "lemmaTransliteration": "rûaḥ",
+      "senses": [
+        {
+          "id": "H7307-1",
+          "label": "Vento",
+          "definition": "Movimento de ar em fenômeno natural.",
+          "examples": [
+            {
+              "reference": "Gn 8:1",
+              "translation": "Deus fez passar um vento sobre a terra.",
+              "explanation": "O contexto da diminuição das águas identifica a corrente de ar.",
+              "hebrew": "אֱלֹהִים רוּחַ עַל",
+              "wordForm": "רוּחַ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7307-2",
+          "label": "Fôlego ou sopro de vida",
+          "definition": "Respiração associada à vida dos seres vivos.",
+          "examples": [
+            {
+              "reference": "Gn 7:22",
+              "translation": "Tudo quanto tinha fôlego de vida morreu.",
+              "explanation": "O contexto trata da vitalidade dos organismos terrestres.",
+              "hebrew": "נִשְׁמַת רוּחַ חַיִּים",
+              "wordForm": "רוּחַ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7307-3",
+          "label": "Espírito",
+          "definition": "Referência à ação ou capacitação espiritual divina.",
+          "examples": [
+            {
+              "reference": "Gn 41:38",
+              "translation": "Um homem em quem há o Espírito de Deus.",
+              "explanation": "A interpretação é marcada pelo qualificativo divino e pelo contexto de sabedoria.",
+              "hebrew": "אֲשֶׁר רוּחַ אֱלֹהִים",
+              "wordForm": "רוּחַ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H7363": {
+      "strong": "H7363",
+      "lemma": "רָחַף",
+      "lemmaTransliteration": "rāḥap̄",
+      "senses": [
+        {
+          "id": "H7363-1",
+          "label": "Pairar ou mover-se sobre",
+          "definition": "Movimento contínuo descrito pelo particípio Piel.",
+          "examples": [
+            {
+              "reference": "Gn 1:2",
+              "translation": "O Espírito de Deus pairava sobre as águas.",
+              "explanation": "O contexto expressa uma ação em curso.",
+              "hebrew": "אֱלֹהִים מְרַחֶפֶת עַל",
+              "wordForm": "מְרַחֶפֶת",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7363-2",
+          "label": "Adejar ou esvoaçar",
+          "definition": "Imagem do movimento de uma ave.",
+          "examples": [
+            {
+              "reference": "Dt 32:11",
+              "translation": "Como a águia paira sobre os filhotes.",
+              "explanation": "A comparação com a águia esclarece uma possibilidade imagética do verbo.",
+              "hebrew": "גּוֹזָלָי/ו יְרַחֵף יִפְרֹשׂ",
+              "wordForm": "יְרַחֵף",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H4325": {
+      "strong": "H4325",
+      "lemma": "מַיִם",
+      "lemmaTransliteration": "mayim",
+      "senses": [
+        {
+          "id": "H4325-1",
+          "label": "Água ou águas",
+          "definition": "Substância ou massa aquática, frequentemente com forma nominal plural.",
+          "examples": [
+            {
+              "reference": "Gn 1:6",
+              "translation": "Haja uma expansão no meio das águas.",
+              "explanation": "A palavra refere-se ao meio aquático separado pela expansão.",
+              "hebrew": "בְּ/תוֹךְ הַ/מָּיִם וִ/יהִי",
+              "wordForm": "הַ/מָּיִם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            },
+            {
+              "reference": "Êx 7:20",
+              "translation": "As águas do rio se transformaram.",
+              "explanation": "O contexto identifica águas de um curso de água.",
+              "hebrew": "אֶת הַ/מַּיִם אֲשֶׁר",
+              "wordForm": "הַ/מַּיִם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H559": {
+      "strong": "H559",
+      "lemma": "אָמַר",
+      "lemmaTransliteration": "ʾāmar",
+      "senses": [
+        {
+          "id": "H559-1",
+          "label": "Dizer ou declarar",
+          "definition": "Comunicação verbal expressa no discurso.",
+          "examples": [
+            {
+              "reference": "Gn 1:3",
+              "translation": "E Deus disse: haja luz.",
+              "explanation": "A forma introduz fala direta.",
+              "hebrew": "וַ/יֹּאמֶר אֱלֹהִים",
+              "wordForm": "וַ/יֹּאמֶר",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H559-2",
+          "label": "Responder ou dizer em diálogo",
+          "definition": "Emprego em resposta dentro de uma conversa.",
+          "examples": [
+            {
+              "reference": "Gn 3:2",
+              "translation": "A mulher disse à serpente.",
+              "explanation": "A fala é uma intervenção na troca verbal.",
+              "hebrew": "וַ/תֹּאמֶר הָ/אִשָּׁה",
+              "wordForm": "וַ/תֹּאמֶר",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H216": {
+      "strong": "H216",
+      "lemma": "אוֹר",
+      "lemmaTransliteration": "ʾôr",
+      "senses": [
+        {
+          "id": "H216-1",
+          "label": "Luz física",
+          "definition": "Fenômeno luminoso em contraste com as trevas.",
+          "examples": [
+            {
+              "reference": "Gn 1:3",
+              "translation": "Haja luz.",
+              "explanation": "A palavra designa o elemento criado pela ordem divina.",
+              "hebrew": "יְהִי אוֹר וַ/יְהִי",
+              "wordForm": "אוֹר",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H216-2",
+          "label": "Luz em sentido figurado",
+          "definition": "Imagem de salvação ou orientação.",
+          "examples": [
+            {
+              "reference": "Sl 27:1",
+              "translation": "O Senhor é minha luz e minha salvação.",
+              "explanation": "O paralelismo indica valor figurado da palavra.",
+              "hebrew": "יְהוָה אוֹרִ/י וְ/יִשְׁעִ/י",
+              "wordForm": "אוֹרִ/י",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H7200": {
+      "strong": "H7200",
+      "lemma": "רָאָה",
+      "lemmaTransliteration": "rāʾâ",
+      "senses": [
+        {
+          "id": "H7200-1",
+          "label": "Ver ou perceber visualmente",
+          "definition": "Ato de observar.",
+          "examples": [
+            {
+              "reference": "Gn 1:4",
+              "translation": "Deus viu que a luz era boa.",
+              "explanation": "O verbo introduz a avaliação da luz.",
+              "hebrew": "וַ/יַּרְא אֱלֹהִים",
+              "wordForm": "וַ/יַּרְא",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7200-2",
+          "label": "Constatar ou reconhecer",
+          "definition": "Percepção de uma situação avaliada.",
+          "examples": [
+            {
+              "reference": "Gn 6:5",
+              "translation": "O Senhor viu que a maldade se multiplicava.",
+              "explanation": "O objeto da percepção é uma condição moral, não um objeto isolado.",
+              "hebrew": "וַ/יַּרְא יְהוָה",
+              "wordForm": "וַ/יַּרְא",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H3588": {
+      "strong": "H3588",
+      "lemma": "כִּי",
+      "lemmaTransliteration": "kî",
+      "senses": [
+        {
+          "id": "H3588-1",
+          "label": "Que (introdução de conteúdo)",
+          "definition": "Partícula que introduz uma oração de conteúdo.",
+          "examples": [
+            {
+              "reference": "Gn 1:4",
+              "translation": "Deus viu que a luz era boa.",
+              "explanation": "A partícula marca o conteúdo da avaliação.",
+              "hebrew": "הָ/אוֹר כִּי טוֹב",
+              "wordForm": "כִּי",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H3588-2",
+          "label": "Porque (explicação causal)",
+          "definition": "Conector que apresenta a razão de uma afirmação.",
+          "examples": [
+            {
+              "reference": "Gn 2:3",
+              "translation": "Deus santificou o dia, porque nele descansou.",
+              "explanation": "A oração fornece a justificativa da santificação.",
+              "hebrew": "אֹת/וֹ כִּי ב/וֹ",
+              "wordForm": "כִּי",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H2896": {
+      "strong": "H2896",
+      "lemma": "טוֹב",
+      "lemmaTransliteration": "ṭôḇ",
+      "senses": [
+        {
+          "id": "H2896-1",
+          "label": "Bom ou adequado",
+          "definition": "Qualificação positiva ou avaliação.",
+          "examples": [
+            {
+              "reference": "Gn 1:4",
+              "translation": "Deus viu que a luz era boa.",
+              "explanation": "O adjetivo participa da fórmula avaliativa da criação.",
+              "hebrew": "כִּי טוֹב וַ/יַּבְדֵּל",
+              "wordForm": "טוֹב",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H2896-2",
+          "label": "Agradável ou desejável",
+          "definition": "Qualidade percebida como atraente.",
+          "examples": [
+            {
+              "reference": "Gn 3:6",
+              "translation": "A árvore era boa para alimento.",
+              "explanation": "O contexto trata de uma percepção de utilidade e desejo.",
+              "hebrew": "כִּי טוֹב הָ/עֵץ",
+              "wordForm": "טוֹב",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H2896-3",
+          "label": "Belo ou formoso",
+          "definition": "Qualificação da aparência.",
+          "examples": [
+            {
+              "reference": "Gn 6:2",
+              "translation": "Viram que as filhas dos homens eram formosas.",
+              "explanation": "O valor estético depende da construção e do objeto descrito.",
+              "hebrew": "כִּי טֹבֹת הֵנָּה",
+              "wordForm": "טֹבֹת",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H914": {
+      "strong": "H914",
+      "lemma": "בָּדַל",
+      "lemmaTransliteration": "bāḏal",
+      "senses": [
+        {
+          "id": "H914-1",
+          "label": "Separar ou distinguir",
+          "definition": "Estabelecer distinção entre entidades.",
+          "examples": [
+            {
+              "reference": "Gn 1:4",
+              "translation": "Deus separou a luz das trevas.",
+              "explanation": "A ação determina domínios diferentes.",
+              "hebrew": "טוֹב וַ/יַּבְדֵּל אֱלֹהִים",
+              "wordForm": "וַ/יַּבְדֵּל",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H914-2",
+          "label": "Distinguir categorias ritual ou moralmente",
+          "definition": "Discriminar o que é santo e comum.",
+          "examples": [
+            {
+              "reference": "Lv 10:10",
+              "translation": "Fazer diferença entre o santo e o profano.",
+              "explanation": "A separação se aplica ao discernimento cultual.",
+              "hebrew": "וּ/לֲ/הַבְדִּיל בֵּין",
+              "wordForm": "וּ/לֲ/הַבְדִּיל",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H914-3",
+          "label": "Separar para uma função",
+          "definition": "Designar alguém para serviço particular.",
+          "examples": [
+            {
+              "reference": "Dt 10:8",
+              "translation": "O Senhor separou a tribo de Levi.",
+              "explanation": "A ação introduz uma destinação específica.",
+              "hebrew": "הַ/הִוא הִבְדִּיל יְהוָה",
+              "wordForm": "הִבְדִּיל",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H996": {
+      "strong": "H996",
+      "lemma": "בֵּין",
+      "lemmaTransliteration": "bên",
+      "senses": [
+        {
+          "id": "H996-1",
+          "label": "Entre",
+          "definition": "Relação espacial ou relacional entre dois termos.",
+          "examples": [
+            {
+              "reference": "Gn 1:4",
+              "translation": "Separou entre a luz e as trevas.",
+              "explanation": "O contexto explicita a correlação entre os dois domínios.",
+              "hebrew": "אֱלֹהִים בֵּין הָ/אוֹר",
+              "wordForm": "בֵּין",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H7121": {
+      "strong": "H7121",
+      "lemma": "קָרָא",
+      "lemmaTransliteration": "qārāʾ",
+      "senses": [
+        {
+          "id": "H7121-1",
+          "label": "Chamar ou convocar",
+          "definition": "Ato de chamar alguém.",
+          "examples": [
+            {
+              "reference": "Gn 3:9",
+              "translation": "O Senhor Deus chamou o homem.",
+              "explanation": "O objeto da fala é uma pessoa convocada.",
+              "hebrew": "וַ/יִּקְרָא יְהוָה",
+              "wordForm": "וַ/יִּקְרָא",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7121-2",
+          "label": "Dar nome",
+          "definition": "Designar uma entidade por um nome.",
+          "examples": [
+            {
+              "reference": "Gn 1:8",
+              "translation": "Deus chamou à expansão Céu.",
+              "explanation": "A construção com לְ introduz a entidade nomeada.",
+              "hebrew": "וַ/יִּקְרָא אֱלֹהִים",
+              "wordForm": "וַ/יִּקְרָא",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7121-3",
+          "label": "Invocar",
+          "definition": "Clamar a um destinatário divino.",
+          "examples": [
+            {
+              "reference": "Gn 12:8",
+              "translation": "Ali invocou o nome do Senhor.",
+              "explanation": "A construção com o nome divino designa invocação.",
+              "hebrew": "לַ/יהוָה וַ/יִּקְרָא בְּ/שֵׁם",
+              "wordForm": "וַ/יִּקְרָא",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H3117": {
+      "strong": "H3117",
+      "lemma": "יוֹם",
+      "lemmaTransliteration": "yôm",
+      "senses": [
+        {
+          "id": "H3117-1",
+          "label": "Período de luz diurna",
+          "definition": "Tempo associado à luz em oposição à noite.",
+          "examples": [
+            {
+              "reference": "Gn 1:5",
+              "translation": "Deus chamou à luz Dia.",
+              "explanation": "O termo designa o período claro, contrastado com a noite.",
+              "hebrew": "לָ/אוֹר יוֹם וְ/לַ/חֹשֶׁךְ",
+              "wordForm": "יוֹם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H3117-2",
+          "label": "Dia como unidade temporal",
+          "definition": "Unidade temporal contada na sequência narrativa.",
+          "examples": [
+            {
+              "reference": "Gn 1:8",
+              "translation": "Houve tarde e manhã: segundo dia.",
+              "explanation": "A expressão integra a enumeração dos dias.",
+              "hebrew": "בֹקֶר יוֹם שֵׁנִי",
+              "wordForm": "יוֹם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H3117-3",
+          "label": "Tempo ou ocasião em sentido amplo",
+          "definition": "Emprego temporal idiomático, não necessariamente um dia de 24 horas.",
+          "examples": [
+            {
+              "reference": "Gn 2:4",
+              "translation": "No dia em que o Senhor Deus fez a terra e os céus.",
+              "explanation": "O uso funciona como referência à ocasião da criação no resumo narrativo.",
+              "hebrew": "בְּ/הִבָּרְאָ/ם בְּ/יוֹם עֲשׂוֹת",
+              "wordForm": "בְּ/יוֹם",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H3915": {
+      "strong": "H3915",
+      "lemma": "לַיְלָה",
+      "lemmaTransliteration": "laylâ",
+      "senses": [
+        {
+          "id": "H3915-1",
+          "label": "Noite",
+          "definition": "Período escuro em contraste com o dia.",
+          "examples": [
+            {
+              "reference": "Gn 1:5",
+              "translation": "Às trevas chamou Noite.",
+              "explanation": "A designação ocorre em oposição ao período luminoso.",
+              "hebrew": "קָרָא לָיְלָה וַ/יְהִי",
+              "wordForm": "לָיְלָה",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            },
+            {
+              "reference": "Êx 12:42",
+              "translation": "Noite de vigília ao Senhor.",
+              "explanation": "O vocábulo delimita o período noturno do acontecimento.",
+              "hebrew": "לֵיל שִׁמֻּרִים",
+              "wordForm": "לֵיל",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H6153": {
+      "strong": "H6153",
+      "lemma": "עֶרֶב",
+      "lemmaTransliteration": "ʿereḇ",
+      "senses": [
+        {
+          "id": "H6153-1",
+          "label": "Entardecer ou tarde",
+          "definition": "Período vespertino, associado ao fim da parte clara.",
+          "examples": [
+            {
+              "reference": "Gn 1:8",
+              "translation": "Houve tarde e houve manhã.",
+              "explanation": "Integra a fórmula temporal do relato da criação.",
+              "hebrew": "וַ/יְהִי עֶרֶב וַ/יְהִי",
+              "wordForm": "עֶרֶב",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            },
+            {
+              "reference": "Gn 24:63",
+              "translation": "Isaque saiu ao campo ao cair da tarde.",
+              "explanation": "O contexto narrativo é o momento vespertino.",
+              "hebrew": "לִ/פְנוֹת עָרֶב וַ/יִּשָּׂא",
+              "wordForm": "עָרֶב",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H1242": {
+      "strong": "H1242",
+      "lemma": "בֹּקֶר",
+      "lemmaTransliteration": "bōqer",
+      "senses": [
+        {
+          "id": "H1242-1",
+          "label": "Manhã ou alvorada",
+          "definition": "Período inicial do dia claro.",
+          "examples": [
+            {
+              "reference": "Gn 1:8",
+              "translation": "Houve tarde e houve manhã.",
+              "explanation": "A palavra completa a fórmula temporal.",
+              "hebrew": "וַ/יְהִי בֹקֶר יוֹם",
+              "wordForm": "בֹקֶר",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            },
+            {
+              "reference": "Gn 22:3",
+              "translation": "Abraão levantou-se de madrugada.",
+              "explanation": "O contexto situa a ação nas primeiras horas da manhã.",
+              "hebrew": "אַבְרָהָם בַּ/בֹּקֶר וַ/יַּחֲבֹשׁ",
+              "wordForm": "בַּ/בֹּקֶר",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H259": {
+      "strong": "H259",
+      "lemma": "אֶחָד",
+      "lemmaTransliteration": "ʾeḥāḏ",
+      "senses": [
+        {
+          "id": "H259-1",
+          "label": "Um",
+          "definition": "Número cardinal de uma unidade.",
+          "examples": [
+            {
+              "reference": "Gn 1:9",
+              "translation": "Reúnam-se as águas num só lugar.",
+              "explanation": "O adjetivo indica singularidade do lugar.",
+              "hebrew": "מָקוֹם אֶחָד וְ/תֵרָאֶה",
+              "wordForm": "אֶחָד",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H259-2",
+          "label": "Unidade ou união",
+          "definition": "Construção que expressa tornar-se uma unidade.",
+          "examples": [
+            {
+              "reference": "Gn 2:24",
+              "translation": "Os dois serão uma só carne.",
+              "explanation": "O contexto conjugal ressalta a unidade resultante.",
+              "hebrew": "לְ/בָשָׂר אֶחָד",
+              "wordForm": "אֶחָד",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H7549": {
+      "strong": "H7549",
+      "lemma": "רָקִיעַ",
+      "lemmaTransliteration": "rāqîaʿ",
+      "senses": [
+        {
+          "id": "H7549-1",
+          "label": "Expansão ou firmamento",
+          "definition": "Região estendida nomeada céu no relato da criação.",
+          "examples": [
+            {
+              "reference": "Gn 1:6",
+              "translation": "Haja uma expansão no meio das águas.",
+              "explanation": "A função separadora é expressa pelo contexto.",
+              "hebrew": "יְהִי רָקִיעַ בְּ/תוֹךְ",
+              "wordForm": "רָקִיעַ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            },
+            {
+              "reference": "Gn 1:8",
+              "translation": "Deus chamou à expansão Céu.",
+              "explanation": "O nome atribuído esclarece sua função narrativa.",
+              "hebrew": "אֱלֹהִים לָ/רָקִיעַ שָׁמָיִם",
+              "wordForm": "לָ/רָקִיעַ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H7549-2",
+          "label": "Superfície estendida na linguagem visionária",
+          "definition": "Imagem de extensão visível em descrição simbólica.",
+          "examples": [
+            {
+              "reference": "Ez 1:22",
+              "translation": "Sobre as cabeças havia algo semelhante a uma expansão.",
+              "explanation": "A ocorrência pertence a uma descrição visionária, sem demonstrar composição física literal.",
+              "hebrew": "הַ/חַיָּה רָקִיעַ כְּ/עֵין",
+              "wordForm": "רָקִיעַ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H8432": {
+      "strong": "H8432",
+      "lemma": "תָּוֶךְ",
+      "lemmaTransliteration": "tāweḵ",
+      "senses": [
+        {
+          "id": "H8432-1",
+          "label": "Meio ou interior",
+          "definition": "Posição no centro de uma extensão.",
+          "examples": [
+            {
+              "reference": "Gn 1:6",
+              "translation": "No meio das águas.",
+              "explanation": "O substantivo aparece em construção preposicional.",
+              "hebrew": "רָקִיעַ בְּ/תוֹךְ הַ/מָּיִם",
+              "wordForm": "בְּ/תוֹךְ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H8432-2",
+          "label": "Entre pessoas ou no seio de um grupo",
+          "definition": "Posição relacional dentro de um conjunto.",
+          "examples": [
+            {
+              "reference": "Gn 18:24",
+              "translation": "Cinquenta justos no meio da cidade.",
+              "explanation": "O termo localiza pessoas dentro de uma coletividade urbana.",
+              "hebrew": "צַדִּיקִם בְּ/תוֹךְ הָ/עִיר",
+              "wordForm": "בְּ/תוֹךְ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H6213": {
+      "strong": "H6213",
+      "lemma": "עָשָׂה",
+      "lemmaTransliteration": "ʿāśâ",
+      "senses": [
+        {
+          "id": "H6213-1",
+          "label": "Fazer ou produzir",
+          "definition": "Realizar ou formar algo.",
+          "examples": [
+            {
+              "reference": "Gn 1:7",
+              "translation": "Deus fez a expansão.",
+              "explanation": "A forma narrativa descreve a execução da ordem divina.",
+              "hebrew": "וַ/יַּעַשׂ אֱלֹהִים",
+              "wordForm": "וַ/יַּעַשׂ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H6213-2",
+          "label": "Praticar ou agir",
+          "definition": "Realizar uma ação, frequentemente em sentido ético.",
+          "examples": [
+            {
+              "reference": "Gn 6:22",
+              "translation": "Noé fez conforme tudo quanto Deus lhe ordenara.",
+              "explanation": "O verbo designa cumprir instruções, não criar um objeto específico.",
+              "hebrew": "וַ/יַּעַשׂ נֹחַ",
+              "wordForm": "וַ/יַּעַשׂ",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H834": {
+      "strong": "H834",
+      "lemma": "אֲשֶׁר",
+      "lemmaTransliteration": "ʾăšer",
+      "senses": [
+        {
+          "id": "H834-1",
+          "label": "Que / o qual (relativo)",
+          "definition": "Partícula indeclinável que introduz oração relativa.",
+          "examples": [
+            {
+              "reference": "Gn 1:7",
+              "translation": "As águas que estavam abaixo da expansão.",
+              "explanation": "Introduz uma oração que identifica as águas pela posição.",
+              "hebrew": "הַ/מַּיִם אֲשֶׁר מִ/תַּחַת",
+              "wordForm": "אֲשֶׁר",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            },
+            {
+              "reference": "Gn 2:8",
+              "translation": "No jardim que havia plantado.",
+              "explanation": "A partícula estabelece a relação entre substantivo e oração.",
+              "hebrew": "הָ/אָדָם אֲשֶׁר יָצָר",
+              "wordForm": "אֲשֶׁר",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H8478": {
+      "strong": "H8478",
+      "lemma": "תַּחַת",
+      "lemmaTransliteration": "taḥaṯ",
+      "senses": [
+        {
+          "id": "H8478-1",
+          "label": "Debaixo de",
+          "definition": "Indicação de posição inferior em relação a outro referente.",
+          "examples": [
+            {
+              "reference": "Gn 1:7",
+              "translation": "As águas debaixo da expansão.",
+              "explanation": "A forma tem prefixo מִן em מִתַּחַת, preservando o lema תַּחַת.",
+              "hebrew": "אֲשֶׁר מִ/תַּחַת לָ/רָקִיעַ",
+              "wordForm": "מִ/תַּחַת",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H8478-2",
+          "label": "Em lugar de / em substituição a",
+          "definition": "Relação de substituição.",
+          "examples": [
+            {
+              "reference": "Gn 4:25",
+              "translation": "Deus me concedeu outro descendente em lugar de Abel.",
+              "explanation": "O termo apresenta substituição, não localização espacial.",
+              "hebrew": "אַחֵר תַּחַת הֶבֶל",
+              "wordForm": "תַּחַת",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H3651": {
+      "strong": "H3651",
+      "lemma": "כֵּן",
+      "lemmaTransliteration": "kēn",
+      "senses": [
+        {
+          "id": "H3651-1",
+          "label": "Assim / desse modo",
+          "definition": "Advérbio que assinala correspondência com o que foi dito.",
+          "examples": [
+            {
+              "reference": "Gn 1:7",
+              "translation": "E assim aconteceu.",
+              "explanation": "Fórmula narrativa de cumprimento da ordem.",
+              "hebrew": "וַ/יְהִי כֵן",
+              "wordForm": "כֵן",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        },
+        {
+          "id": "H3651-2",
+          "label": "Por isso / portanto",
+          "definition": "Conector que introduz uma consequência.",
+          "examples": [
+            {
+              "reference": "Gn 2:24",
+              "translation": "Por isso o homem deixa pai e mãe.",
+              "explanation": "A frase apresenta uma conclusão a partir da cena anterior.",
+              "hebrew": "עַל כֵּן יַעֲזָב",
+              "wordForm": "כֵּן",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    "H8145": {
+      "strong": "H8145",
+      "lemma": "שֵׁנִי",
+      "lemmaTransliteration": "šēnî",
+      "senses": [
+        {
+          "id": "H8145-1",
+          "label": "Segundo (ordinal)",
+          "definition": "Posição número dois numa série.",
+          "examples": [
+            {
+              "reference": "Gn 1:8",
+              "translation": "Segundo dia.",
+              "explanation": "O ordinal marca a sequência dos dias.",
+              "hebrew": "יוֹם שֵׁנִי",
+              "wordForm": "שֵׁנִי",
+              "source": "Westminster Leningrad Codex / OSHB v.2.2"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        "WLC/OSHB v.2.2",
+        "Classificação semântica editorial (sem atribuição de entrada individual ao BDB)"
+      ],
+      "reviewStatus": "reviewed"
+    }
+  }
+}
