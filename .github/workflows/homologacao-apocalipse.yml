@@ -71,6 +71,8 @@ jobs:
         run: node scripts/auditar-filologia-apocalipse-2-13-29.mjs
       - name: Aplicar revisão editorial conservadora das relações sintáticas
         run: node scripts/revisao-editorial-apocalipse-2.mjs
+      - name: Aplicar notas acadêmicas específicas de Apocalipse 1 e 2
+        run: node scripts/revisao-academica-apocalipse-1-2.mjs
       - name: Salvar fontes geradas do capítulo 2 em rascunho antes do build
         run: |
           git config user.name "github-actions[bot]"
