@@ -40,7 +40,7 @@ A fonte Times New Roman é aplicada nos novos elementos do projeto Gênesis; a r
 
 ## Auditoria técnica
 
-Workflow: `.github/workflows/homologar-genesis-1-1-8.yml`; **execução atual: 45097179410**. A execução anterior (**45096925792**) teve sucesso em navegação, 36 índices, quatro resoluções e testes de legados. A execução atual acrescenta a trava automática para os 50 manuscritos.
+Workflow: `.github/workflows/homologar-genesis-1-1-8.yml`; **execução final de verificação visual: 45097516709**. A execução anterior (**45097179410**) teve sucesso em navegação, 36 índices, quatro resoluções, proteção dos 50 rascunhos e testes de rotas anteriores. A nova execução acrescenta verificações explícitas do contraste das trilhas de navegação e da cor de fundo dos cabeçalhos interlineares.
 
 Auditorias incluídas:
 1. Inspeção da branch de origem e registro de SHAs de `main` e do rascunho.
@@ -55,7 +55,7 @@ Auditorias incluídas:
 10. Confirmação de rotas existentes de outros livros, pesquisa e administração.
 11. Capturas de tela desktop e celular da vitrine do livro, índice do capítulo e versículos 1 e 8.
 
-**Evidências e capturas de tela:** https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45097179410 (aba «Artifacts» após concluir). Esta é uma evidência visual do Astro em preview local isolado, não uma URL pública já implantada.
+**Evidências e capturas de tela:** https://github.com/israelalmeida1844-sys/Prima-Scriptura/actions/runs/45097516709 (aba «Artifacts» após concluir). Esta é uma evidência visual do Astro em preview local isolado, não uma URL pública já implantada.
 
 ## Atenção: NÃO efetuar merge da branch inteira
 
@@ -93,3 +93,7 @@ Verificações do GitHub Actions não devem ser descritas como consumo da cota d
 5. Autorizar separadamente o ato de publicação/merge/deploy.
 
 **Até lá: sem commit em `main`, sem pull request de publicação, sem deploy e sem qualquer alegação de que os oito versículos estejam disponíveis no site público.**
+
+## Ajustes identificados por inspeção visual das capturas
+
+A primeira captura real da página interlinear mostrou um defeito que o teste funcional inicial não detectara: o estilo global `header` do layout Base aplicava fundo azul-escuro ao cabeçalho da ficha, tornando o título escuro ilegível. Foi corrigido o seletor do cabeçalho em **todos os oito** componentes, mantendo fundo transparente, texto legível e a mesma tipografia. Também foi corrigido o contraste dos links dos breadcrumbs nas três rotas novas: o estilo global `nav a` aplicava cor clara sobre o fundo branco. A suíte visual agora verifica as duas propriedades CSS computadas e gera novas capturas após a correção. **Não dispensar a revisão humana das capturas produzidas pela nova execução.**
