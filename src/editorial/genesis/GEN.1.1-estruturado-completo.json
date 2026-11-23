@@ -2,7 +2,7 @@
   "verseRef": "GEN.1.1",
   "versePt": "Gn 1:1",
   "translationPt": "No princípio, Deus criou os céus e a terra.",
-  "translationNotePt": "Tradução editorial independente. A construção temporal בְּרֵאשִׁית admite discussão sintática; a opção apresentada trata o versículo como oração principal. Nos itens de concordância, excerptPt reproduz a Almeida 1911 em ortografia histórica (domínio público), não a presente tradução editorial. Onde não há alinhamento seguro de versículos, a ausência é assinalada explicitamente.",
+  "translationNotePt": "Tradução editorial independente. A construção temporal בְּרֵאשִׁית admite discussão sintática; a opção apresentada trata o versículo como oração principal. Nos itens de concordância, excerptPt reproduz a Almeida 1911 em ortografia histórica (domínio público), exceto cinco títulos de salmos sem versículo português numerado, traduzidos editorialmente do Texto Massorético e identificados na auditoria. As correspondências de numeração seguem a tabela STEPBible TVTMS MT→English (CC BY 4.0).",
   "lexemes": {
     "H7225": {
       "strong": "H7225",
@@ -75513,7 +75513,7 @@
           "section": "escritos",
           "sectionPt": "Escritos",
           "excerptHe": "דִּבֶּר לַיהוָה אֶת דִּבְרֵי הַשִּׁירָה",
-          "excerptPt": "[Título de salmo no Texto Massorético; não há versículo correspondente na Almeida 1911.]"
+          "excerptPt": "Ao mestre de música. De Davi, servo do Senhor, que dirigiu ao Senhor as palavras deste cântico quando o Senhor o livrou da mão de todos os seus inimigos e da mão de Saul."
         },
         {
           "ref": "PSA.25.5",
@@ -75653,7 +75653,7 @@
           "section": "escritos",
           "sectionPt": "Escritos",
           "excerptHe": "לְדָוִד בְּשַׁנּוֹתוֹ אֶת טַעְמוֹ לִפְנֵי",
-          "excerptPt": "[Título de salmo no Texto Massorético; não há versículo correspondente na Almeida 1911.]"
+          "excerptPt": "De Davi, quando mudou sua conduta diante de Abimeleque, que o expulsou, e ele partiu."
         },
         {
           "ref": "PSA.34.2",
@@ -75753,7 +75753,7 @@
           "section": "escritos",
           "sectionPt": "Escritos",
           "excerptHe": "מִכְתָּם בֶּאֱחֹז אֹתוֹ פְלִשְׁתִּים בְּגַת",
-          "excerptPt": "[Título de salmo no Texto Massorético; não há versículo correspondente na Almeida 1911.]"
+          "excerptPt": "Ao mestre de música, conforme “Yonat elem reḥoqim” (designação musical de significado incerto). De Davi, mictão, quando os filisteus o capturaram em Gate."
         },
         {
           "ref": "PSA.59.1",
@@ -75763,7 +75763,7 @@
           "section": "escritos",
           "sectionPt": "Escritos",
           "excerptHe": "שָׁאוּל וַיִּשְׁמְרוּ אֶת הַבַּיִת לַהֲמִיתוֹ",
-          "excerptPt": "[Título de salmo no Texto Massorético; não há versículo correspondente na Almeida 1911.]"
+          "excerptPt": "Ao mestre de música, conforme “Não destruas”. De Davi, mictão, quando Saul enviou homens para vigiar a casa a fim de matá-lo."
         },
         {
           "ref": "PSA.60.2",
@@ -75773,7 +75773,7 @@
           "section": "escritos",
           "sectionPt": "Escritos",
           "excerptHe": "בְּהַצּוֹתוֹ אֶת אֲרַם נַהֲרַיִם",
-          "excerptPt": "[Título de salmo no Texto Massorético; não há versículo correspondente na Almeida 1911.]"
+          "excerptPt": "Quando ele entrou em conflito com Arã-Naharaim e Arã-Zobá, e Joabe voltou e derrotou Edom no vale do Sal: doze mil."
         },
         {
           "ref": "PSA.67.8",

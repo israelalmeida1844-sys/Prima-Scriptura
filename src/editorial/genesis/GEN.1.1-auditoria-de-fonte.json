@@ -1,28 +1,7 @@
 {
   "source": "OSHB v.2.2 (WLC) + ALM1911 (domínio público) + STEPBible TVTMS MT→English CC BY 4.0",
   "createdAt": "gerado pela auditoria automatizada",
-  "alignmentUnavailable": [
-    {
-      "ref": "Sl 18:1",
-      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
-    },
-    {
-      "ref": "Sl 34:1",
-      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
-    },
-    {
-      "ref": "Sl 56:1",
-      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
-    },
-    {
-      "ref": "Sl 59:1",
-      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
-    },
-    {
-      "ref": "Sl 60:2",
-      "reason": "Título massorético sem versículo inglês/português correspondente (TVTMS)."
-    }
-  ],
+  "alignmentUnavailable": [],
   "alignmentWarnings": [],
   "mappingsApplied": [
     {
@@ -4176,6 +4155,28 @@
       "part": null
     }
   ],
+  "editorialSuperscriptions": [
+    {
+      "ref": "Sl 18:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 34:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 56:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 59:1",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    },
+    {
+      "ref": "Sl 60:2",
+      "source": "Tradução editorial própria do título hebraico (não Almeida 1911)"
+    }
+  ],
   "counts": {
     "H7225": {
       "tokenCount": 51,
@@ -4281,7 +4282,8 @@
   ],
   "errors": [],
   "totalItems": 11708,
-  "alignmentUnavailableCount": 5,
+  "alignmentUnavailableCount": 0,
   "alignmentWarningCount": 0,
-  "numberOfMappedReferences": 830
+  "numberOfMappedReferences": 830,
+  "editorialSuperscriptionCount": 5
 }
