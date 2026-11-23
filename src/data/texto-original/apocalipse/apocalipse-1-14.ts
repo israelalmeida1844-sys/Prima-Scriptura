@@ -7,8 +7,8 @@ export const apocalipse1v14 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sua cabeça e seus cabelos eram brancos como lã branca, como neve; seus olhos, como chama de fogo.",
-  "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "As comparações com lã e neve caracterizam a brancura; a imagem dialoga com Daniel 7:9. A força da alusão deve ser discutida sem identificar automaticamente cada detalhe da visão.",
+  "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
+  "textualNotes": "κεφαλὴ e τρίχες são sujeitos coordenados no nominativo, enquanto λευκαὶ é predicativo plural feminino concordando com τρίχες. As imagens de lã e neve evocam Daniel 7:9; a semelhança não autoriza afirmar equivalência exata entre os personagens.",
   "exegeticalNotes": [
     "A brancura da cabeça e dos cabelos evoca imagens de pureza e majestade.",
     "Os olhos como fogo antecipam o olhar penetrante do Cristo exaltado."
@@ -200,7 +200,7 @@ export const apocalipse1v14 = {
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Predicativo nominativo feminino plural de τρίχες",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -259,7 +259,7 @@ export const apocalipse1v14 = {
       "shortMorph": "Adj-NSN",
       "greek": "λευκόν,",
       "transliteration": "leukon",
-      "gloss": "brancos",
+      "gloss": "branca",
       "strong": "G3022",
       "lemma": "λευκός",
       "lemmaTransliteration": "leukos",
