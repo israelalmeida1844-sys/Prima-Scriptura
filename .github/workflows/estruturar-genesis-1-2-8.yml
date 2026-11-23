@@ -1,5 +1,5 @@
 name: Estruturar integralmente Gênesis 1:2–8 (somente rascunho)
-# Conferir fontes WLC dos títulos massoréticos: regex de coleta corrigida.
+# Gerar dados completos após tradução editorial de vinte títulos adicionais do WLC.
 on:
   push:
     branches: [rascunho/genesis]
