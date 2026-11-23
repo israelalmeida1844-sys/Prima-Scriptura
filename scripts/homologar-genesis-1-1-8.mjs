@@ -84,7 +84,7 @@ try {
       assert.ok((await root.locator('[data-occurrences-total]').innerText()).includes(strong),'Concordância errada: '+verse);
       await root.locator('[data-occurrences-toggle]').click();
       assert.equal(await root.locator('[data-occurrences-panel]').isVisible(),false);
-      for(const row of await root.locator('.lexicon-fields div').all()){
+      for(const row of await root.locator('.lexicon-fields > div').all()){
         const a=await row.locator('dt').boundingBox(),b=await row.locator('dd').boundingBox();
         assert.ok(a&&b,'Campo lexical não possui geometria em '+verse);
         assert.ok(!(a.x<b.x+b.width && b.x<a.x+a.width && a.y<b.y+b.height && b.y<a.y+a.height),'Rótulo sobreposto ao valor: '+verse+' / '+viewport.width);
