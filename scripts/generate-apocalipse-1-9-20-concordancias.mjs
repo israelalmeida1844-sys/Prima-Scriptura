@@ -76,6 +76,10 @@ for (const [id, entry] of Object.entries(entries)) {
   if (fs.existsSync(outputFile)) {
     const previous = JSON.parse(fs.readFileSync(outputFile, 'utf8'));
     if (!previous.complete || !Array.isArray(previous.references)) throw new Error('Índice anterior incompleto: '+id);
+    if (previous.lemmaTranslit !== entry.lemmaTransliteration && previous.source?.includes('aaed91e')) {
+      previous.lemmaTranslit = entry.lemmaTransliteration;
+      fs.writeFileSync(outputFile, JSON.stringify(previous,null,2)+'\n');
+    }
     kept++;
     continue;
   }
