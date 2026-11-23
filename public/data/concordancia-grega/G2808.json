@@ -1,0 +1,141 @@
+{
+  "strong": "G2808",
+  "lemma": "κλείω",
+  "lemmaTranslit": "kleiō",
+  "tokenCount": 16,
+  "verseCount": 15,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Lucas": 2,
+    "João": 2,
+    "Atos": 2,
+    "1 João": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Mt 6:6",
+      "text": "καὶ κλείσας τὴν",
+      "highlightedWord": "κλείσας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 13,
+      "reference": "Mt 23:13",
+      "text": "ὅτι κλείετε τὴν",
+      "highlightedWord": "κλείετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Mt 25:10",
+      "text": "καὶ ἐκλείσθη ἡ",
+      "highlightedWord": "ἐκλείσθη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Lk 4:25",
+      "text": "ὅτε ἐκλείσθη ὁ",
+      "highlightedWord": "ἐκλείσθη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Lk 11:7",
+      "text": "θύρα κέκλεισται, καὶ",
+      "highlightedWord": "κέκλεισται,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "θυρῶν κεκλεισμένων ὅπου",
+      "highlightedWord": "κεκλεισμένων"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Jn 20:26",
+      "text": "θυρῶν κεκλεισμένων, καὶ",
+      "highlightedWord": "κεκλεισμένων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Ac 5:23",
+      "text": "εὕρομεν κεκλεισμένον ἐν",
+      "highlightedWord": "κεκλεισμένον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Ac 21:30",
+      "text": "εὐθέως ἐκλείσθησαν αἱ",
+      "highlightedWord": "ἐκλείσθησαν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Jn 3:17",
+      "text": "καὶ κλείσῃ τὰ",
+      "highlightedWord": "κλείσῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "οὐδεὶς κλείσει, καὶ",
+      "highlightedWord": "κλείσει,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "δύναται κλεῖσαι αὐτήν—",
+      "highlightedWord": "κλεῖσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "ἐξουσίαν κλεῖσαι τὸν",
+      "highlightedWord": "κλεῖσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "καὶ ἔκλεισεν καὶ",
+      "highlightedWord": "ἔκλεισεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Re 21:25",
+      "text": "μὴ κλεισθῶσιν ἡμέρας,",
+      "highlightedWord": "κλεισθῶσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
