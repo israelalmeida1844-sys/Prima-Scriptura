@@ -62,6 +62,15 @@ const ENGLISH_NAMES={
  Is:'Isaiah',Jr:'Jeremiah',Lm:'Lamentations',Ez:'Ezekiel',Dn:'Daniel',Os:'Hosea',Jl:'Joel',Am:'Amos',Ob:'Obadiah',
  Jn:'Jonah',Mq:'Micah',Na:'Nahum',Hc:'Habakkuk',Sf:'Zephaniah',Ag:'Haggai',Zc:'Zechariah',Ml:'Malachi'
 };
+const TITULOS_PSALMOS_PT={
+ 'Psalms 18:1':'Ao mestre de música. De Davi, servo do Senhor, que dirigiu ao Senhor as palavras deste cântico quando o Senhor o livrou da mão de todos os seus inimigos e da mão de Saul.',
+ 'Psalms 34:1':'De Davi, quando mudou sua conduta diante de Abimeleque, que o expulsou, e ele partiu.',
+ 'Psalms 56:1':'Ao mestre de música, conforme “Yonat elem reḥoqim” (designação musical de significado incerto). De Davi, mictão, quando os filisteus o capturaram em Gate.',
+ 'Psalms 59:1':'Ao mestre de música, conforme “Não destruas”. De Davi, mictão, quando Saul enviou homens para vigiar a casa a fim de matá-lo.',
+ 'Psalms 60:2':'Quando ele entrou em conflito com Arã-Naharaim e Arã-Zobá, e Joabe voltou e derrotou Edom no vale do Sal: doze mil.'
+};
+// Estas cinco traduções são editoriais próprias, conferidas com os títulos
+// massoréticos (Sl 18:1, 34:1, 56:1, 59:1 e 60:2), não com Almeida 1911.
 let mtEnglishMap={};
 const out='src/editorial/genesis/GEN.1.1-estruturado-completo.json';
 const auditOut='src/editorial/genesis/GEN.1.1-auditoria-de-fonte.json';
@@ -107,8 +116,12 @@ function checkAndGetPortuguese({row,chapter,verse,hebrewBook,portugueseBook,audi
  if(!ENGLISH_NAMES[row[0]])die('Sem nome inglês para o livro '+row[0]);
  const mapping=Object.prototype.hasOwnProperty.call(mtEnglishMap,mtKey)?mtEnglishMap[mtKey]:undefined;
  if(mapping===null){
+   if(TITULOS_PSALMOS_PT[mtKey]){
+     audit.editorialSuperscriptions.push({ref:row[0]+' '+chapter+':'+verse,source:'Tradução editorial própria do título hebraico (não Almeida 1911)'});
+     return TITULOS_PSALMOS_PT[mtKey];
+   }
    audit.alignmentUnavailable.push({ref:row[0]+' '+chapter+':'+verse,reason:'Título massorético sem versículo inglês/português correspondente (TVTMS).'});
-   return '[Título de salmo no Texto Massorético; não há versículo correspondente na Almeida 1911.]';
+   return '[Sem tradução portuguesa validada para título de salmo neste corpus.]';
  }
  const ptChapterNumber=mapping?.chapter??chapter;
  const ptVerseNumber=mapping?.verse??verse;
@@ -161,7 +174,7 @@ const tokens=[
 const concordances={};
 const audit={source:'OSHB v.2.2 (WLC) + ALM1911 (domínio público) + STEPBible TVTMS MT→English CC BY 4.0',
  createdAt:'gerado pela auditoria automatizada',
- alignmentUnavailable:[],alignmentWarnings:[],mappingsApplied:[],counts:{},downloadedBooks:[],errors:[]};
+ alignmentUnavailable:[],alignmentWarnings:[],mappingsApplied:[],editorialSuperscriptions:[],counts:{},downloadedBooks:[],errors:[]};
 const occurrences=new Map();
 for(const id of ids){
  const x=JSON.parse(await readFile('public/data/concordancia-hebraica/'+id+'.json','utf8'));
@@ -223,7 +236,7 @@ const output={
  verseRef:'GEN.1.1',
  versePt:'Gn 1:1',
  translationPt:'No princípio, Deus criou os céus e a terra.',
- translationNotePt:'Tradução editorial independente. A construção temporal בְּרֵאשִׁית admite discussão sintática; a opção apresentada trata o versículo como oração principal. Nos itens de concordância, excerptPt reproduz a Almeida 1911 em ortografia histórica (domínio público), não a presente tradução editorial. Onde não há alinhamento seguro de versículos, a ausência é assinalada explicitamente.',
+ translationNotePt:'Tradução editorial independente. A construção temporal בְּרֵאשִׁית admite discussão sintática; a opção apresentada trata o versículo como oração principal. Nos itens de concordância, excerptPt reproduz a Almeida 1911 em ortografia histórica (domínio público), exceto cinco títulos de salmos sem versículo português numerado, traduzidos editorialmente do Texto Massorético e identificados na auditoria. As correspondências de numeração seguem a tabela STEPBible TVTMS MT→English (CC BY 4.0).',
  lexemes,tokens,concordanceByStrong:concordances
 };
 if(Object.keys(output).join('|')!=='verseRef|versePt|translationPt|translationNotePt|lexemes|tokens|concordanceByStrong')die('Formato JSON divergente');
@@ -235,6 +248,7 @@ audit.totalItems=seen;
 audit.alignmentUnavailableCount=audit.alignmentUnavailable.length;
 audit.alignmentWarningCount=audit.alignmentWarnings.length;
 audit.numberOfMappedReferences=audit.mappingsApplied.length;
+audit.editorialSuperscriptionCount=audit.editorialSuperscriptions.length;
 await mkdir(dirname(out),{recursive:true});
 await writeFile(out,JSON.stringify(output,null,2)+'\n');
 await writeFile(auditOut,JSON.stringify(audit,null,2)+'\n');
