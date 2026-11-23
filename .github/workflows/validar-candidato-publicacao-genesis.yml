@@ -1,0 +1,74 @@
+name: Validar publicação seletiva de Gênesis 1:1–8 (sem deploy)
+on:
+  push:
+    branches: [publicacao/genesis-estrutura-1-1-8-20261123]
+    paths: ['.github/workflows/validar-candidato-publicacao-genesis.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  homologar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publicacao/genesis-estrutura-1-1-8-20261123
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verificar arquivos originais e integridade do pacote
+        run: |
+          for n in {1..8}; do
+            test -s public/data/genesis-estruturado/GEN.1.$n-estruturado-completo.json
+            test -s public/data/genesis-estruturado/GEN.1.$n-auditoria-de-fonte.json
+            test -s src/editorial/genesis/NOTAS-COMPLETAS-GENESIS-1-$n.md
+          done
+          test -s src/editorial/genesis/RELATORIO-ESTRUTURACAO-GENESIS-1-2-8.md
+      - name: Gerar fichas enxutas e versões públicas das notas após auditar 8 JSONs integrais
+        run: |
+          node --max-old-space-size=4096 scripts/preparar-publicacao-genesis-1-1-8.mjs
+      - name: Instalar dependências e Chromium para homologação
+        run: |
+          npm install --no-audit --no-fund
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+      - name: Compilar o site Astro com conteúdo publicado, sem executar deploy
+        run: |
+          npm run build
+          for n in {1..8}; do
+            test -s dist/comentarios/genesis/capitulo-1/versiculo-$n/index.html
+            grep -q 'data-genesis-structured' dist/comentarios/genesis/capitulo-1/versiculo-$n/index.html
+            grep -q 'data-corpus-strong' dist/comentarios/genesis/capitulo-1/versiculo-$n/index.html
+            test -s dist/data/genesis-estruturado/GEN.1.$n-estruturado-completo.json
+            test -s dist/data/genesis-estruturado/GEN.1.$n-auditoria-de-fonte.json
+            test -s dist/notas/genesis/NOTAS-COMPLETAS-GENESIS-1-$n.md
+          done
+          test -s dist/notas/genesis/RELATORIO-ESTRUTURACAO-GENESIS-1-2-8.md
+          for book in daniel hebreus 1-joao; do test -s dist/comentarios/$book/index.html; done
+          test -s dist/admin/index.html
+      - name: Testar 8 versículos, responsividade e filtro de concordâncias em Chromium
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 > /tmp/astro-genesis-publicacao.log 2>&1 &
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:4321/comentarios/genesis/capitulo-1/versiculo-1/ >/dev/null; then break; fi
+            sleep 1
+          done
+          node scripts/testar-publicacao-genesis-1-1-8.mjs
+      - name: Persistir apenas resumo e notas públicas no candidato aprovado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/estrutura-hebraica/genesis-1-1-8-resumo.json
+          git add public/notas/genesis/
+          if ! git diff --cached --quiet; then
+            git commit -m "Homologar painel de Gênesis 1:1–8, dados completos e notas públicas"
+            git pull --rebase origin publicacao/genesis-estrutura-1-1-8-20261123
+            git push origin HEAD:publicacao/genesis-estrutura-1-1-8-20261123
+          fi
+      - name: Evidência visual para controle editorial
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: genesis-publicacao-morfossintaxe-preview
+          path: genesis-publicacao-1-2-mobile.png
+          if-no-files-found: warn
