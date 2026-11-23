@@ -987,8 +987,8 @@ export const lexicalEntries = {
   },
   "H3915": {
     "strong": "H3915",
-    "lemma": "לַיְלָה",
-    "lemmaTransliteration": "laylâ",
+    "lemma": "לַיִל",
+    "lemmaTransliteration": "layil",
     "senses": [
       {
         "id": "H3915-1",
