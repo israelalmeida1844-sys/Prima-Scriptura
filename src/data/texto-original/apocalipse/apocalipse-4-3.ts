@@ -6,11 +6,13 @@ export const apocalipse4v3 = {
   "verse": 3,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Aquele que estava sentado tinha aparência semelhante ao brilho de jaspe e sardônio; e um arco-íris circundava o trono, semelhante, em aparência, à esmeralda.",
+  "translation": "Aquele que estava sentado tinha aparência semelhante ao brilho de jaspe e sárdio; e um arco-íris circundava o trono, semelhante, em aparência, à esmeralda.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
   "exegeticalNotes": [
-    "Jaspe, sardônio e esmeralda formam linguagem simbólica de esplendor. Não é possível definir a identidade mineral moderna de cada pedra só pelo texto; comparar Ez 1:26–28 e Ap 21:11,19–20."
+    "Jaspe, sardônio e esmeralda formam linguagem simbólica de esplendor. Não é possível definir a identidade mineral moderna de cada pedra só pelo texto; comparar Ez 1:26–28 e Ap 21:11,19–20.",
+    "O termo σάρδιον designa o sárdio/cornalina; é distinto de σαρδόνυξ, o sardônio. A tradução editorial evita confundir duas pedras referidas de modo distinto em Ap 21:20.",
+    "As comparações de aparência (ὅμοιος ὁράσει) não autorizam fixar com precisão moderna as propriedades mineralógicas do jaspe ou do sárdio."
   ],
   "words": [
     {
@@ -98,12 +100,12 @@ export const apocalipse4v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιος» (ὅμοιος, G3664); Adjetivo nominativo singular masculino. Sentido lexical contextual: semelhante. Elemento da construção; dependência a revisar. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "Forma «ὅμοιος» (ὅμοιος, G3664); Adjetivo nominativo singular masculino. Sentido lexical contextual: semelhante. Predicativo de ὁ καθήμενος em comparação visual. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Predicativo de ὁ καθήμενος em comparação visual",
         "clauseId": "AP.4.3.C1",
         "governedBy": null
       },
@@ -210,14 +212,14 @@ export const apocalipse4v3 = {
       "shortMorph": "N-DSN",
       "greek": "σαρδίῳ,",
       "transliteration": "sardiō",
-      "gloss": "sardônio",
+      "gloss": "sárdio",
       "strong": "G4556",
       "lemma": "σάρδιον",
       "lemmaTransliteration": "sardion",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
-      "meanings": "Sardônio ou pedra de Sárdis, gema preciosa mencionada na descrição do trono em 4:3.",
+      "meanings": "sárdio; pedra preciosa frequentemente associada à cornalina",
       "explanation": "Forma «σαρδίῳ,» (σάρδιον, G4556); Substantivo dativo singular neutro. Sardônio ou pedra de Sárdis, gema preciosa mencionada na descrição do trono em 4:3. Núcleo de sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
       "occurrencesExamples": [
         "Ap 4:3"
@@ -362,12 +364,12 @@ export const apocalipse4v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιος» (ὅμοιος, G3664); Adjetivo nominativo singular masculino. Sentido lexical contextual: semelhante. Elemento da construção; dependência a revisar. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "Forma «ὅμοιος» (ὅμοιος, G3664); Adjetivo nominativo singular masculino. Sentido lexical contextual: semelhante. Predicativo de ἶρις com discordância de gênero. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Predicativo de ἶρις com discordância de gênero",
         "clauseId": "AP.4.3.C1",
         "governedBy": null
       },
@@ -410,12 +412,12 @@ export const apocalipse4v3 = {
       "morphologyCode": "----DSM-",
       "morphology": "Adjetivo dativo singular masculino",
       "meanings": "De esmeralda, esverdeado como esmeralda; adjetivo da aparência do arco-íris em 4:3.",
-      "explanation": "Forma «σμαραγδίνῳ.» (σμαράγδινος, G4664); Adjetivo dativo singular masculino. De esmeralda, esverdeado como esmeralda; adjetivo da aparência do arco-íris em 4:3. Elemento da construção; dependência a revisar. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "Forma «σμαραγδίνῳ.» (σμαράγδινος, G4664); Adjetivo dativo singular masculino. De esmeralda, esverdeado como esmeralda; adjetivo da aparência do arco-íris em 4:3. Termo dativo da comparação introduzida por ὅμοιος. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
       "syntax": {
-        "role": "Elemento da construção; dependência a revisar",
+        "role": "Termo dativo da comparação introduzida por ὅμοιος",
         "clauseId": "AP.4.3.C1",
         "governedBy": null
       },
