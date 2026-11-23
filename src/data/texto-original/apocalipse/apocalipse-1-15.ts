@@ -7,11 +7,11 @@ export const apocalipse1v15 = {
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Seus pés eram semelhantes a metal brilhante, como que incandescente numa fornalha, e sua voz era como o som de muitas águas.",
-  "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "χαλκολιβάνῳ é termo excepcional no Novo Testamento, tradicionalmente entendido como metal brilhante/refinado, de composição etimológica debatida. O SBLGNT apresenta καμίνῳ πεπυρωμένης, em que o particípio genitivo feminino singular não concorda regularmente com o dativo καμίνῳ; outras tradições trazem πεπυρωμένῳ. Registrar a incongruência sem emenda editorial silenciosa.",
+  "translationNote": "A tradução do particípio πεπυρωμένης é interpretativa; o grego do SBLGNT conserva genitivo formalmente não concordante com καμίνῳ.",
+  "textualNotes": "O SBLGNT apresenta χαλκολιβάνῳ, dativo singular neutro do termo raro χαλκολίβανον (G5474), cuja composição e referência metalúrgica são discutidas. πεπυρωμένης é particípio perfeito passivo genitivo feminino singular no corpus MorphGNT; não concorda formalmente com καμίνῳ (dativo feminino). A construção é irregular ou elíptica. Evitar emendá-la para πεπυρωμένῳ sem evidência de variante numa edição crítica identificada.",
   "exegeticalNotes": [
-    "A aparência dos pés exige prudência lexical por causa da raridade de χαλκολίβανον.",
-    "O som de muitas águas amplia a caracterização teofânica da voz."
+    "χαλκολίβανον é um item lexical raro e exige cautela etimológica; a tradução «metal brilhante» é aproximativa.",
+    "πεπυρωμένης preserva um genitivo singular feminino formalmente discordante de καμίνῳ, sem correção silenciosa do texto crítico."
   ],
   "words": [
     {
@@ -115,7 +115,7 @@ export const apocalipse1v15 = {
       "shortMorph": "Adj-NPM",
       "greek": "ὅμοιοι",
       "transliteration": "homoioi",
-      "gloss": "semelhante",
+      "gloss": "semelhantes",
       "strong": "G3664",
       "lemma": "ὅμοιος",
       "lemmaTransliteration": "homoios",
@@ -147,12 +147,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
       "meanings": "metal brilhante; bronze refinado",
-      "explanation": "Substantivo dativo singular neutro; nome em construção dativa. A equivalência portuguesa «bronze brilhante» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Substantivo neutro dativo singular, G5474; termo raro no NT e de interpretação metalúrgica incerta. Glosa «metal brilhante» é aproximativa.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Dativo regido por ὅμοιοι (comparação)",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -224,7 +224,7 @@ export const apocalipse1v15 = {
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Complemento dativo de ἐν",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -235,7 +235,7 @@ export const apocalipse1v15 = {
       "shortMorph": "V-XPP-GSF",
       "greek": "πεπυρωμένης,",
       "transliteration": "pepyrōmenēs",
-      "gloss": "incandescente",
+      "gloss": "aquecida ao fogo",
       "strong": "G4448",
       "lemma": "πυρόομαι",
       "lemmaTransliteration": "pyroomai",
@@ -243,12 +243,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "-XPPGSF-",
       "morphology": "Verbo perfeito passiva particípio, genitivo singular feminino",
       "meanings": "ser aquecido ao fogo; incandescer",
-      "explanation": "Verbo perfeito passiva particípio, genitivo singular feminino; forma participial; relação sintática a examinar. A equivalência portuguesa «incandescente» deve ser interpretada no encadeamento da frase.",
+      "explanation": "Particípio perfeito passivo genitivo feminino singular (πεπυρωμένης); a forma é preservada conforme o SBLGNT, embora não concorde regularmente com καμίνῳ (dativo feminino singular).",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio genitivo feminino singular em construção irregular ou elíptica",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
