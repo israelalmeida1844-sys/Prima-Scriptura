@@ -15,7 +15,7 @@ export const apocalipse1v1 = {
   morphologySource: 'MorphGNT 6.12 (James K. Tauber / SBLGNT)',
   translation: 'Revelação de Jesus Cristo, a qual Deus lhe deu para mostrar aos seus servos as coisas que em breve devem acontecer; e ele as notificou, enviando-as por intermédio do seu anjo ao seu servo João,',
   translationNote: 'Tradução editorial em português fluente, distinta da sequência de glosas interlineares.',
-  textualNotes: 'O texto base adotado é o SBL Greek New Testament (Holmes, 2010), em pleno acordo com os códices unciais primários (Sinaítico [א], Alexandrino [A] e Efraemi Rescriptus [C]). No versículo 1, a leitura é unânime nos principais testemunhos, sem variantes textuais substantivas que afetem o sentido exegético da cadeia de revelação.',
+  textualNotes: 'Texto-base: SBL Greek New Testament (Holmes, 2010), acompanhado por análise morfológica MorphGNT. A redação grega adotada deve ser cotejada com o aparato específico de Ap 1:1 antes de atribuir apoio a manuscritos individuais ou afirmar unanimidade dos testemunhos. A expressão Ἀποκάλυψις Ἰησοῦ Χριστοῦ contém genitivo cuja interpretação exige o contexto de ἣν ἔδωκεν αὐτῷ ὁ θεός: Jesus recebe a revelação de Deus e participa de sua comunicação; a possibilidade de seu conteúdo ser também cristológico requer exame do conjunto do livro. Nota de crítica textual não é substituída por afirmações genéricas sobre códices.',
   words: [
     {
       id: 'ap1-1-1',
