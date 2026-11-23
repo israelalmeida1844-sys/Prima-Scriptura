@@ -8,9 +8,9 @@ const perVerse={
 2:{'τὰ':'as','ἔργα':'obras','σου,':'tuas','τὸν':'o','κόπον':'trabalho','ὑπομονήν':'perseverança','κακούς,':'maus','λέγοντας':'que dizem','ἑαυτοὺς':'a si mesmos','ἀποστόλους,':'apóstolos','εἰσίν,':'são','αὐτοὺς':'a eles','ψευδεῖς·':'falsos'},
 3:{'ἔχεις,':'tens','μου,':'meu','κεκοπίακες.':'te cansaste'},
 4:{'ἔχω':'tenho','σοῦ':'ti','σου':'teu','πρώτην':'primeiro'},
-5:{'μνημόνευε':'lembra-te','τὰ':'as','πρῶτα':'primeiras','ἔργα':'obras','ποίησον·':'pratica','ἔρχομαί':'venho','σοι,':'a ti','λ υχνίαν':'candelabro','σου':'teu','αὐτῆς,':'dele','μετανοήσῃς.':'te arrependas'},
+5:{'μνημόνευε':'lembra-te','τὰ':'as','πρῶτα':'primeiras','ἔργα':'obras','ποίησον·':'pratica','ἔρχομαί':'venho','σοι,':'a ti','λυχνίαν':'candelabro','σου':'teu','αὐτῆς,':'dele','μετανοήσῃς.':'te arrependas'},
 6:{'τοῦτο':'isto','ἔχεις':'tens','μισεῖς':'odeias','τὰ':'as','ἔργα':'obras','Νικολαϊτῶν,':'nicolaítas','μισῶ.':'odeio'},
-7:{'ἔχων':'tem','οὖς':'ouvidos','ἀκουσάτω':'ouça','τί':'o que','λέγει':'diz','ἐκκλησίαις.':'igrejas','δώσω':'darei','ἐστιν':'está','τῷ':'no'},
+7:{'ἔχων':'tem','οὖς':'ouvidos','ἀκουσάτω':'ouça','τί':'o que','λέγει':'diz','ἐκκλησίαις.':'igrejas','δώσω':'darei','ἐστιν':'está'},
 8:{'ἀγγέλῳ':'anjo','ἐκκλησίας':'igreja','γράψον·':'escreve','Τάδε':'assim','λέγει':'diz','ἐγένετο':'esteve'},
 9:{'Οἶδά':'conheço','σου':'tua','λεγόντων':'que dizem','Ἰουδαίους':'judeus','εἶναι':'ser','ἑαυτούς,':'a si mesmos','εἰσίν,':'são'},
 10:{'μηδὲν':'nada','μέλλεις':'estás para','μέλλει':'está para','ὑμῶν':'de vós','πειρασθῆτε,':'sejais provados','ἡμερῶν':'dias','δώσω':'darei','σοι':'a ti','στέφανον':'coroa'},
@@ -38,6 +38,7 @@ for(let v=1;v<=12;v++){
   if(w.lemma==='λέγω'&&w.greek==='λέγει')w.gloss='diz';
   if(w.lemma==='γράφω'&&w.greek==='γράψον·')w.gloss='escreve';
   if(w.lemma==='ἐκκλησία')w.gloss=w.morphologyCode.includes('P')?'igrejas':'igreja';
+  if(v===7&&w.greek==='τῷ'&&w.id==='ap2-7-23')w.gloss='no';
   if(w.lemma==='ἑπτά')w.meanings='numeral cardinal indeclinável; a marcação de caso na anotação é contextual';
   if(w.explanation.includes('A glosa de apoio')||w.explanation.includes('A glosa de apoio')){
     w.explanation=w.morphology+'. '+w.syntax.role+'. Glosa contextual «'+w.gloss+'». Consulte a tradução do período e as notas para as relações sintáticas.';
