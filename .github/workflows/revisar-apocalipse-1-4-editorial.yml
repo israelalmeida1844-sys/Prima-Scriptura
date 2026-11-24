@@ -1,0 +1,97 @@
+name: Revisão editorial e visual de Apocalipse 1–4
+on:
+  push:
+    branches: [revisao/apocalipse-1-4-editorial]
+    paths:
+      - 'scripts/revisar-apocalipse-1-4-editorial.mjs'
+      - 'scripts/revisar-apocalipse-1-4-ui.mjs'
+      - '.github/workflows/revisar-apocalipse-1-4-editorial.yml'
+permissions:
+  contents: write
+jobs:
+  corrigir-e-validar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Separar notas acadêmicas e corrigir glosas
+        run: node scripts/revisar-apocalipse-1-4-editorial.mjs
+      - name: Atualizar componentes, navegação, pontuação e fichas
+        run: node scripts/revisar-apocalipse-1-4-ui.mjs
+      - name: Salvar alterações somente na branch de revisão
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/texto-original/apocalipse/ src/components/TextoOriginalApocalipse*.astro src/components/ApocalipseLexiconSenseList.astro src/scripts/lexico-grego-apocalipse.ts src/styles/apocalipse-lexicon.css src/pages/comentarios/apocalipse/ .github/reports/apocalipse-1-4-revisao-editorial.json
+          if ! git diff --cached --quiet; then
+            git commit -m "fix(apocalipse): remover duplicações e corrigir interlinear dos 82 versículos"
+            git push origin HEAD:revisao/apocalipse-1-4-editorial
+          fi
+      - name: Instalar dependências
+        run: npm install --no-audit --no-fund
+      - name: Testar 82 versículos, identidade dos tokens e glosas
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import vm from 'node:vm';
+          import assert from 'node:assert/strict';
+          const counts={1:20,2:29,3:22,4:11};
+          const lexicon=JSON.parse(fs.readFileSync('src/data/lexico-grego/apocalipse-4-1-11.json','utf8')).entries;
+          let verses=0, tokens=0;
+          for(const [cs,count] of Object.entries(counts)){
+            const c=Number(cs);
+            const route=fs.readFileSync('src/pages/comentarios/apocalipse/capitulo-'+c+'/[versiculo].astro','utf8');
+            assert.match(route,/Versículos do capítulo/);
+            assert.match(route,/aria-current/);
+            for(let v=1;v<=count;v++){
+              const p='src/data/texto-original/apocalipse/apocalipse-'+c+'-'+v+'.ts';
+              const source=fs.readFileSync(p,'utf8');
+              const o=source.slice(source.indexOf('{'),source.lastIndexOf('}')+1);
+              let data;
+              try{data=JSON.parse(o)}catch{data=vm.runInNewContext('('+o+')')}
+              assert.equal(data.reference,'Apocalipse '+c+':'+v);
+              assert.ok(Array.isArray(data.syntacticNotes)&&data.syntacticNotes.length>0,p);
+              assert.ok(Array.isArray(data.exegeticalNotes),p);
+              assert.ok(data.textualNotes&&!/Exegese:|\[Revisão acadêmica complementar\]/.test(data.textualNotes),p);
+              for(const w of data.words){
+                assert.ok(w.gloss&&w.greek&&w.transliteration&&w.morphologyCode&&w.strong,p);
+                assert.ok(lexicon[w.strong],'Lema ausente do léxico compartilhado: '+w.strong);
+                assert.ok(!/Artigo definido identificador e determinador|Pronome pessoal de terceira pessoa \(/.test(w.gloss),'Glosa técnica excessiva: '+w.id);
+                if(/[᾽’ʼ']$/.test(w.greek))assert.match(w.transliteration,/'$/,'Elisão sem apóstrofo: '+w.id);
+                tokens++;
+              }
+              const view=fs.readFileSync('src/components/TextoOriginalApocalipse'+c+'v'+v+'.astro','utf8');
+              assert.match(view,/syntactic-panel/);
+              assert.match(view,/exegetical-panel/);
+              assert.match(view,/greek-punctuation/);
+              assert.ok(view.includes('aria-controls="ap'+c+'-'+v+'-occurrences"'));
+              assert.ok(view.includes('id="ap'+c+'-'+v+'-occurrences"'));
+              verses++;
+            }
+          }
+          assert.equal(verses,82);
+          const review=(()=>{const s=fs.readFileSync('src/data/texto-original/apocalipse/apocalipse-3-21.ts','utf8');return JSON.parse(s.slice(s.indexOf('{'),s.lastIndexOf('}')+1))})();
+          const word=g=>review.words.find(x=>x.greek.replace(/[.,;··:!?]+$/u,'')===g);
+          assert.equal(word('ἐμοῦ').gloss,'de mim');
+          assert.equal(word('αὐτοῦ').gloss,'dele');
+          assert.equal(word('μετ’').transliteration,"met'");
+          assert.match(review.syntacticNotes.join(' '),/dativo locativo/);
+          assert.ok(review.exegeticalNotes.every(x=>!x.includes('Crítica textual:')));
+          console.log('PASSOU: '+verses+' versículos, '+tokens+' tokens, fichas sem duplicação estrutural, revisões de Ap 3:21.');
+          NODE
+      - name: Validar compilação Astro e rotas estáticas
+        run: |
+          npm run build
+          for c in 1 2 3 4; do
+            case "$c" in
+              1) max=20 ;; 2) max=29 ;; 3) max=22 ;; 4) max=11 ;;
+            esac
+            test -s "dist/comentarios/apocalipse/capitulo-$c/index.html"
+            for v in $(seq 1 "$max"); do
+              test -s "dist/comentarios/apocalipse/capitulo-$c/versiculo-$v/index.html"
+            done
+          done
+          echo "BUILD APROVADO: 82 páginas de versículos."
