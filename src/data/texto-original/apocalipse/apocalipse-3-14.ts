@@ -477,7 +477,7 @@ export const apocalipse3v14 = {
       "shortMorph": "N- ----NSF-",
       "greek": "ἀρχὴ",
       "transliteration": "archē",
-      "gloss": "princípio; origem",
+      "gloss": "princípio",
       "strong": "G746",
       "lemma": "ἀρχή",
       "lemmaTransliteration": "archē",
