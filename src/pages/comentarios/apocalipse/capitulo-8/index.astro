@@ -1,0 +1,252 @@
+---
+import Base from '../../../../layouts/Base.astro';
+
+const availableVerses = [
+  {
+    "number": 1,
+    "title": "O silêncio no céu",
+    "description": "O silêncio sucede à abertura do selo; a duração aproximada não estabelece por si só uma cronologia profética."
+  },
+  {
+    "number": 2,
+    "title": "As sete trombetas",
+    "description": "As trombetas introduzem nova sequência visionária; compare Nm 10:9–10."
+  },
+  {
+    "number": 3,
+    "title": "O anjo e o incensário",
+    "description": "O altar e o incenso evocam o culto do santuário (Êx 30:1–10); as orações retomam Ap 5:8."
+  },
+  {
+    "number": 4,
+    "title": "As orações dos santos",
+    "description": "A subida da fumaça associa a cena às orações dos santos; compare Sl 141:2."
+  },
+  {
+    "number": 5,
+    "title": "O fogo lançado à terra",
+    "description": "O fogo lançado à terra introduz juízo; compare Ez 10:2. A identificação de uma etapa específica da mediação é interpretação teológica."
+  },
+  {
+    "number": 6,
+    "title": "Preparação das trombetas",
+    "description": "A preparação liga a cena do altar à série das trombetas."
+  },
+  {
+    "number": 7,
+    "title": "A primeira trombeta",
+    "description": "Granizo e fogo evocam Êx 9:23–25; a identificação historicista de eventos históricos exige argumentação independente."
+  },
+  {
+    "number": 8,
+    "title": "A segunda trombeta",
+    "description": "A imagem da montanha em chamas pode evocar Jr 51:25; não identifica explicitamente um poder histórico."
+  },
+  {
+    "number": 9,
+    "title": "O juízo sobre o mar",
+    "description": "O alcance parcial do juízo é enfatizado pela repetição da fração."
+  },
+  {
+    "number": 10,
+    "title": "A terceira trombeta",
+    "description": "A queda da estrela e a contaminação das águas formam uma imagem de juízo; compare Jr 9:15."
+  },
+  {
+    "number": 11,
+    "title": "A estrela Absinto",
+    "description": "Absinto simboliza amargura; compare Jr 23:15. O texto distingue nome próprio e substância."
+  },
+  {
+    "number": 12,
+    "title": "A quarta trombeta",
+    "description": "O escurecimento evoca imagens proféticas de juízo (Is 13:10); a fração limita a extensão narrada."
+  },
+  {
+    "number": 13,
+    "title": "Os três ais",
+    "description": "Os três ais anunciam as trombetas restantes; compare Ap 9:12 e 11:14."
+  }
+];
+---
+<Base
+  title="Apocalipse 8 — Estudo interlinear em avaliação"
+  description="Consulte o texto original grego e a análise lexical de Apocalipse 8:1–13, com concordâncias exaustivas do Novo Testamento."
+>
+  <section class="apocalipse-chapter">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Caminho de navegação">
+        <a href="/comentarios/">Comentários</a>
+        <span aria-hidden="true">/</span>
+        <a href="/comentarios/apocalipse/">Apocalipse</a>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">Capítulo 8</span>
+      </nav>
+
+      <div class="chapter-heading">
+        <p class="eyebrow">A REVELAÇÃO DE JESUS CRISTO · CAPÍTULO 08</p>
+        <h1>Apocalipse 8 — O Sétimo Selo e as Trombetas</h1>
+        <p>
+          Examine o texto grego koiné no texto crítico SBLGNT com transliteração, glosas, morfologia, acepções semânticas e concordâncias exaustivas do Novo Testamento. Apresentação em rascunho de avaliação editorial.
+        </p>
+      </div>
+
+      <div class="summary" aria-label="Progresso do capítulo 8">
+        <strong>13 de 13</strong>
+        <span>versículos preparados: o sétimo selo e as quatro primeiras trombetas — capítulo 8 completo em rascunho</span>
+      </div>
+
+      <h2>Versículos preparados</h2>
+      <div class="verse-list">
+        {availableVerses.map(v => (
+          <a href={'/comentarios/apocalipse/capitulo-8/versiculo-' + v.number + '/'}>
+            <span>APOCALIPSE 8:{v.number}</span>
+            <strong>{v.title}</strong>
+            <p>{v.description}</p>
+            <small>Estudar versículo <span aria-hidden="true">→</span></small>
+          </a>
+        ))}
+      </div>
+
+      <div class="pending">
+        <h2>Em preparação editorial</h2>
+        <p>
+          Os 13 versículos contêm texto, glosas, tradução e notas em rascunho; os novos índices e a auditoria final estão pendentes.
+        </p>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .apocalipse-chapter,
+  .apocalipse-chapter :is(a, span, p, h1, h2, strong, small) {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .apocalipse-chapter {
+    padding: 45px 0 90px;
+  }
+  .crumbs {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-size: 14px;
+    color: #5e7287;
+    margin-bottom: 30px;
+  }
+  .apocalipse-chapter .crumbs a {
+    color: #435b76;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .chapter-heading {
+    padding: 40px;
+    background: linear-gradient(120deg, #10233b, #244366);
+    color: #f4f4f1;
+    border-radius: 14px;
+    margin-bottom: 24px;
+  }
+  .chapter-heading .eyebrow {
+    color: #eac48d;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+  }
+  .chapter-heading h1 {
+    color: #fff;
+    font-size: clamp(32px, 5vw, 50px);
+    margin: 10px 0;
+  }
+  .chapter-heading > p:last-child {
+    font-size: 19px;
+    max-width: 760px;
+    line-height: 1.7;
+    color: #d6e2ee;
+  }
+  .summary {
+    background: white;
+    border: 1px solid #e0d7c8;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 35px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .summary strong {
+    font-size: 27px;
+    color: #1a334f;
+    white-space: nowrap;
+  }
+  .summary span {
+    font-size: 16px;
+    color: #607084;
+  }
+  .verse-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 18px;
+  }
+  .verse-list a {
+    background: #fff;
+    border: 1px solid #e3daca;
+    border-radius: 10px;
+    min-height: 160px;
+    padding: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.15s ease-in-out;
+  }
+  .verse-list a:hover {
+    background: #faf6ed;
+    border-color: #b59157;
+    transform: translateY(-2px);
+  }
+  .verse-list a > span {
+    font-size: 13px;
+    font-weight: 700;
+    color: #936d36;
+  }
+  .verse-list strong {
+    font-size: 20px;
+    line-height: 1.35;
+    color: #101f35;
+  }
+  .verse-list p {
+    font-size: 14px;
+    color: #5d6f82;
+    line-height: 1.5;
+    margin: 0;
+  }
+  .verse-list small {
+    margin-top: auto;
+    color: #59708a;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .pending {
+    margin-top: 48px;
+    padding: 24px;
+    border-left: 4px solid #c6a15b;
+    background: #f7f3e9;
+    border-radius: 0 8px 8px 0;
+  }
+  .pending h2 {
+    font-size: 21px;
+    margin: 0 0 6px;
+    color: #1c3554;
+  }
+  .pending p {
+    margin: 0;
+    line-height: 1.65;
+    color: #596a7d;
+  }
+  @media (max-width: 440px) {
+    .chapter-heading {
+      padding: 24px;
+    }
+  }
+</style>
