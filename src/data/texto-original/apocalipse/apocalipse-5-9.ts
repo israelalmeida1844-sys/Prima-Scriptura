@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 5:9 · SBLGNT/MorphGNT · Rascunho em revisão */
+/** Prima Scriptura · Ap 5:9 · SBLGNT/MorphGNT · Edição em revisão */
 export const apocalipse5v9 = {
   "reference": "Apocalipse 5:9",
   "book": "Apocalipse",
@@ -10,7 +10,9 @@ export const apocalipse5v9 = {
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
   "textualNotes": "A transmissão apresenta variantes pronominais em torno do objeto do verbo ἠγόρασας, inclusive inserções explícitas de pronomes em algumas tradições. A edição-base aqui preserva a construção sem objeto direto expresso; confrontar o aparato crítico.",
   "syntacticNotes": [
-    "Análise morfológica de cada token baseada nos códigos MorphGNT; funções sintáticas individuais estão pendentes de homologação editorial."
+    "ᾄδουσιν é presente indicativo ativo, terceira pessoa plural; ᾠδὴν καινήν é objeto direto com adjetivo atributivo.",
+    "ἐσφάγης é aoristo indicativo passivo, segunda pessoa singular; ἠγόρασας é aoristo indicativo ativo, segunda pessoa singular.",
+    "A sequência ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους qualifica a origem dos resgatados; o objeto de ἠγόρασας não está expresso na edição-base."
   ],
   "exegeticalNotes": [
     "A forma ἠγόρασας é aoristo indicativo ativo; a compra para Deus é apresentada em conexão explícita com o sangue do Cordeiro e com povos de todas as procedências."
@@ -34,7 +36,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Conector coordenativo ou subordinativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -58,7 +60,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Predicado verbal ou forma dependente",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -82,7 +84,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -106,7 +108,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Modificador nominal ou predicativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -130,7 +132,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Predicado verbal ou forma dependente",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -155,7 +157,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Modificador nominal ou predicativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -179,7 +181,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Predicado verbal ou forma dependente",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -203,7 +205,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Predicado verbal ou forma dependente",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -227,7 +229,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Determinante nominal; verificar acordo com o substantivo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -251,7 +253,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -275,7 +277,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Conector coordenativo ou subordinativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -299,7 +301,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Predicado verbal ou forma dependente",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -323,7 +325,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Determinante nominal; verificar acordo com o substantivo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -347,7 +349,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -371,7 +373,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Elemento pronominal, função segundo o caso",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -396,7 +398,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Conector coordenativo ou subordinativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -420,7 +422,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Forma verbal participial; concordância e relação com o núcleo a verificar",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -444,7 +446,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Conector coordenativo ou subordinativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -468,7 +470,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Predicado verbal ou forma dependente",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -492,7 +494,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Determinante nominal; verificar acordo com o substantivo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -516,7 +518,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -540,7 +542,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -564,7 +566,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Determinante nominal; verificar acordo com o substantivo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -588,7 +590,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -612,7 +614,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Elemento pronominal, função segundo o caso",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -636,7 +638,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Introduz complemento preposicional",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -660,7 +662,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Modificador nominal ou predicativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -684,7 +686,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -708,7 +710,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Conector coordenativo ou subordinativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -732,7 +734,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -756,7 +758,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Conector coordenativo ou subordinativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -780,7 +782,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -804,7 +806,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Conector coordenativo ou subordinativo",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
@@ -828,7 +830,7 @@ export const apocalipse5v9 = {
         "Ap 5:9"
       ],
       "syntax": {
-        "role": "Função sintática individual pendente de homologação",
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
         "clauseId": "AP.5.9",
         "governedBy": null
       },
