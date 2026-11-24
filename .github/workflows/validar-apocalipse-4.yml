@@ -8,6 +8,8 @@ on:
       - 'src/data/texto-original/apocalipse/apocalipse-4-*.ts'
       - 'src/data/lexico-grego/apocalipse-4-*.json'
       - 'public/data/concordancia-grega/G*.json'
+      - 'scripts/auditar-apocalipse-4-completo.mjs'
+      - '.github/reports/apocalipse-4-auditoria-morphgnt.json'
       - '.github/workflows/validar-apocalipse-4.yml'
   workflow_dispatch:
 permissions:
@@ -61,6 +63,11 @@ jobs:
           assert.ok(!route.includes('length:22') && !route.includes('length:29'));
           console.log('Auditoria estrutural do capítulo 4: 11 versículos, 293 tokens, '+strongs.size+' concordâncias identificadas.');
           NODE
+      - name: Conferir os 293 tokens e 46 concordâncias com o MorphGNT fixado
+        run: |
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+          node scripts/auditar-apocalipse-4-completo.mjs /tmp/prima-morphgnt
       - name: Build Astro e rotas estáticas
         run: |
           npm install --no-audit --no-fund
