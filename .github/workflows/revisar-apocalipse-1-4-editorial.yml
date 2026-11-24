@@ -6,6 +6,7 @@ on:
       - 'scripts/revisar-apocalipse-1-4-editorial.mjs'
       - 'scripts/revisar-apocalipse-1-4-ui.mjs'
       - 'scripts/auditar-apocalipse-1-4-corpus.mjs'
+      - 'scripts/revisar-apocalipse-1-4-pontuacao.mjs'
       - '.github/workflows/revisar-apocalipse-1-4-editorial.yml'
 permissions:
   contents: write
@@ -22,6 +23,8 @@ jobs:
         run: node scripts/revisar-apocalipse-1-4-editorial.mjs
       - name: Atualizar componentes, navegação, pontuação e fichas
         run: node scripts/revisar-apocalipse-1-4-ui.mjs
+      - name: Separar pontuação grega e completar notas exegéticas
+        run: node scripts/revisar-apocalipse-1-4-pontuacao.mjs
       - name: Salvar alterações somente na branch de revisão
         run: |
           git config user.name "github-actions[bot]"
