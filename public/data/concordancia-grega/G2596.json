@@ -1,0 +1,3457 @@
+{
+  "strong": "G2596",
+  "lemma": "κατά",
+  "lemmaTranslit": "kata",
+  "tokenCount": 469,
+  "verseCount": 427,
+  "bookDistribution": {
+    "Mateus": 37,
+    "Marcos": 23,
+    "Lucas": 43,
+    "João": 9,
+    "Atos": 90,
+    "Romanos": 47,
+    "1 Coríntios": 24,
+    "2 Coríntios": 26,
+    "Gálatas": 17,
+    "Efésios": 24,
+    "Filipenses": 11,
+    "Colossenses": 14,
+    "2 Tessalonicenses": 4,
+    "1 Timóteo": 6,
+    "2 Timóteo": 7,
+    "Tito": 8,
+    "Filemom": 3,
+    "Hebreus": 41,
+    "Tiago": 5,
+    "1 Pedro": 10,
+    "2 Pedro": 4,
+    "1 João": 1,
+    "2 João": 1,
+    "3 João": 1,
+    "Judas": 4,
+    "Apocalipse": 9
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mt 1:20",
+      "text": "κυρίου κατ’ ὄναρ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Mt 2:12",
+      "text": "χρηματισθέντες κατ’ ὄναρ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mt 2:13",
+      "text": "φαίνεται κατ’ ὄναρ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Mt 2:16",
+      "text": "κατωτέρω, κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Mt 2:19",
+      "text": "φαίνεται κατ’ ὄναρ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mt 2:22",
+      "text": "δὲ κατ’ ὄναρ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Mt 5:11",
+      "text": "πονηρὸν καθ’ ὑμῶν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mt 5:23",
+      "text": "τι κατὰ σοῦ,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Mt 8:32",
+      "text": "ἀγέλη κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Mt 9:29",
+      "text": "λέγων· Κατὰ τὴν",
+      "highlightedWord": "Κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Mt 10:35",
+      "text": "ἄνθρωπον κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mt 12:14",
+      "text": "ἔλαβον κατ’ αὐτοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mt 12:25",
+      "text": "μερισθεῖσα καθ’ ἑαυτῆς",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "Mt 12:30",
+      "text": "ἐμοῦ κατ’ ἐμοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mt 12:32",
+      "text": "λόγον κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Mt 14:13",
+      "text": "τόπον κατ’ ἰδίαν·",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Mt 14:23",
+      "text": "ὄρος κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Mt 16:27",
+      "text": "ἑκάστῳ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Mt 17:1",
+      "text": "ὑψηλὸν κατ’ ἰδίαν.",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 19,
+      "reference": "Mt 17:19",
+      "text": "Ἰησοῦ κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Mt 19:3",
+      "text": "αὐτοῦ κατὰ πᾶσαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Mt 20:11",
+      "text": "ἐγόγγυζον κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Mt 20:17",
+      "text": "μαθητὰς κατ’ ἰδίαν,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Mt 23:3",
+      "text": "τηρεῖτε, κατὰ δὲ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 3,
+      "reference": "Mt 24:3",
+      "text": "μαθηταὶ κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 7,
+      "reference": "Mt 24:7",
+      "text": "σεισμοὶ κατὰ τόπους·",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Mt 25:15",
+      "text": "ἑκάστῳ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 55,
+      "reference": "Mt 26:55",
+      "text": "με; καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 59,
+      "reference": "Mt 26:59",
+      "text": "ψευδομαρτυρίαν κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 63,
+      "reference": "Mt 26:63",
+      "text": "σε κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 1,
+      "reference": "Mt 27:1",
+      "text": "λαοῦ κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 15,
+      "reference": "Mt 27:15",
+      "text": "Κατὰ δὲ",
+      "highlightedWord": "Κατὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Mt 27:19",
+      "text": "σήμερον κατ’ ὄναρ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Mk 1:27",
+      "text": "καινή· κατ’ ἐξουσίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Mk 3:6",
+      "text": "ἐδίδουν κατ’ αὐτοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Mk 4:10",
+      "text": "ἐγένετο κατὰ μόνας,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Mk 4:34",
+      "text": "αὐτοῖς, κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mk 5:13",
+      "text": "ἀγέλη κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mk 6:31",
+      "text": "αὐτοὶ κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Mk 6:32",
+      "text": "τόπον κατ’ ἰδίαν.",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 40,
+      "reference": "Mk 6:40",
+      "text": "πρασιαὶ κατὰ ἑκατὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Mk 7:5",
+      "text": "σου κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Mk 7:33",
+      "text": "ὄχλου κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mk 9:2",
+      "text": "ὑψηλὸν κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Mk 9:28",
+      "text": "αὐτοῦ κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Mk 9:40",
+      "text": "ἔστιν καθ’ ἡμῶν,",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mk 11:25",
+      "text": "ἔχετε κατά τινος,",
+      "highlightedWord": "κατά"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Mk 13:3",
+      "text": "αὐτὸν κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Mk 13:8",
+      "text": "σεισμοὶ κατὰ τόπους,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Mk 14:19",
+      "text": "εἷς κατὰ εἷς·",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 49,
+      "reference": "Mk 14:49",
+      "text": "καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 55,
+      "reference": "Mk 14:55",
+      "text": "ἐζήτουν κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 56,
+      "reference": "Mk 14:56",
+      "text": "ἐψευδομαρτύρουν κατ’ αὐτοῦ,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 57,
+      "reference": "Mk 14:57",
+      "text": "ἐψευδομαρτύρουν κατ’ αὐτοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Mk 15:6",
+      "text": "Κατὰ δὲ",
+      "highlightedWord": "Κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Lk 1:9",
+      "text": "κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Lk 1:18",
+      "text": "ἄγγελον· Κατὰ τί",
+      "highlightedWord": "Κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 38,
+      "reference": "Lk 1:38",
+      "text": "μοι κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Lk 2:22",
+      "text": "αὐτῶν κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Lk 2:24",
+      "text": "θυσίαν κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Lk 2:27",
+      "text": "αὐτοὺς κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Lk 2:29",
+      "text": "δέσποτα, κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 31,
+      "reference": "Lk 2:31",
+      "text": "ἡτοίμασας κατὰ πρόσωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 39,
+      "reference": "Lk 2:39",
+      "text": "τὰ κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 41,
+      "reference": "Lk 2:41",
+      "text": "αὐτοῦ κατ’ ἔτος",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 42,
+      "reference": "Lk 2:42",
+      "text": "αὐτῶν κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Lk 4:14",
+      "text": "ἐξῆλθεν καθ’ ὅλης",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Lk 4:16",
+      "text": "εἰσῆλθεν κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Lk 6:23",
+      "text": "οὐρανῷ· κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 26,
+      "reference": "Lk 6:26",
+      "text": "ἄνθρωποι, κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Lk 8:1",
+      "text": "διώδευεν κατὰ πόλιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Lk 8:4",
+      "text": "τῶν κατὰ πόλιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Lk 8:33",
+      "text": "ἀγέλη κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Lk 8:39",
+      "text": "ἀπῆλθεν καθ’ ὅλην",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Lk 9:6",
+      "text": "διήρχοντο κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Lk 9:10",
+      "text": "ὑπεχώρησεν κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Lk 9:18",
+      "text": "προσευχόμενον κατὰ μόνας",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "αὐτοῦ καθ’ ἡμέραν,",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 50,
+      "reference": "Lk 9:50",
+      "text": "ἔστιν καθ’ ὑμῶν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Lk 10:4",
+      "text": "μηδένα κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Lk 10:23",
+      "text": "μαθητὰς κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Lk 10:31",
+      "text": "κατὰ συγκυρίαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Lk 10:32",
+      "text": "Λευίτης κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Lk 10:33",
+      "text": "ἦλθεν κατ’ αὐτὸν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Lk 11:3",
+      "text": "τὸ καθ’ ἡμέραν·",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Lk 11:23",
+      "text": "ἐμοῦ κατ’ ἐμοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Lk 13:22",
+      "text": "διεπορεύετο κατὰ πόλεις",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Lk 15:14",
+      "text": "ἰσχυρὰ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Lk 16:19",
+      "text": "εὐφραινόμενος καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 30,
+      "reference": "Lk 17:30",
+      "text": "κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 47,
+      "reference": "Lk 19:47",
+      "text": "τὸ καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Lk 21:11",
+      "text": "καὶ κατὰ τόπους",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Lk 22:22",
+      "text": "ἀνθρώπου κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 39,
+      "reference": "Lk 22:39",
+      "text": "ἐπορεύθη κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 53,
+      "reference": "Lk 22:53",
+      "text": "καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 5,
+      "reference": "Lk 23:5",
+      "text": "διδάσκων καθ’ ὅλης",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Lk 23:14",
+      "text": "κατηγορεῖτε κατ’ αὐτοῦ.",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 56,
+      "reference": "Lk 23:56",
+      "text": "ἡσύχασαν κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jn 2:6",
+      "text": "ἓξ κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Jn 7:24",
+      "text": "κρίνετε κατ’ ὄψιν,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Jn 8:15",
+      "text": "ὑμεῖς κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Jn 10:3",
+      "text": "φωνεῖ κατ’ ὄνομα",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Jn 18:29",
+      "text": "φέρετε κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Jn 18:31",
+      "text": "καὶ κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Jn 19:7",
+      "text": "καὶ κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Jn 19:11",
+      "text": "ἐξουσίαν κατ’ ἐμοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Jn 21:25",
+      "text": "γράφηται καθ’ ἕν,",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Ac 2:10",
+      "text": "τῆς κατὰ Κυρήνην,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 46,
+      "reference": "Ac 2:46",
+      "text": "καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 47,
+      "reference": "Ac 2:47",
+      "text": "σῳζομένους καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ac 3:2",
+      "text": "ἐτίθουν καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Ac 3:13",
+      "text": "ἠρνήσασθε κατὰ πρόσωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Ac 3:17",
+      "text": "ὅτι κατὰ ἄγνοιαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Ac 3:22",
+      "text": "ἀκούσεσθε κατὰ πάντα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Ac 4:26",
+      "text": "αὐτὸ κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Ac 5:42",
+      "text": "καὶ κατ’ οἶκον",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ac 6:13",
+      "text": "ῥήματα κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Ac 7:44",
+      "text": "αὐτὴν κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Ac 8:1",
+      "text": "διεσπάρησαν κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Ac 8:3",
+      "text": "ἐκκλησίαν κατὰ τοὺς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Ac 8:26",
+      "text": "πορεύου κατὰ μεσημβρίαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Ac 8:36",
+      "text": "ἐπορεύοντο κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Ac 9:31",
+      "text": "ἐκκλησία καθ’ ὅλης",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Ac 9:42",
+      "text": "ἐγένετο καθ’ ὅλης",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Ac 10:37",
+      "text": "ῥῆμα καθ’ ὅλης",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Ac 11:1",
+      "text": "ὄντες κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Ac 12:1",
+      "text": "Κατ’ ἐκεῖνον",
+      "highlightedWord": "Κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Ac 13:1",
+      "text": "Ἀντιοχείᾳ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Ac 13:22",
+      "text": "ἄνδρα κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 23,
+      "reference": "Ac 13:23",
+      "text": "σπέρματος κατ’ ἐπαγγελίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Ac 13:27",
+      "text": "τὰς κατὰ πᾶν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ac 14:1",
+      "text": "Ἰκονίῳ κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Ac 14:2",
+      "text": "ἐθνῶν κατὰ τῶν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Ac 14:23",
+      "text": "αὐτοῖς κατ’ ἐκκλησίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Ac 15:11",
+      "text": "σωθῆναι καθ’ ὃν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Ac 15:21",
+      "text": "ἀρχαίων κατὰ πόλιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Ac 15:23",
+      "text": "τοῖς κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Ac 15:36",
+      "text": "ἀδελφοὺς κατὰ πόλιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Ac 16:5",
+      "text": "ἀριθμῷ καθ’ ἡμέραν.",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Ac 16:7",
+      "text": "δὲ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Ac 16:22",
+      "text": "ὄχλος κατ’ αὐτῶν,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Ac 16:25",
+      "text": "Κατὰ δὲ",
+      "highlightedWord": "Κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Ac 17:2",
+      "text": "κατὰ δὲ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Ac 17:11",
+      "text": "τὸ καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Ac 17:17",
+      "text": "ἀγορᾷ κατὰ πᾶσαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Ac 17:22",
+      "text": "Ἀθηναῖοι, κατὰ πάντα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 28,
+      "reference": "Ac 17:28",
+      "text": "τῶν καθ’ ὑμᾶς",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Ac 18:4",
+      "text": "συναγωγῇ κατὰ πᾶν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "Ἰουδαῖοι, κατὰ λόγον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Ac 18:15",
+      "text": "τοῦ καθ’ ὑμᾶς,",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Ac 19:9",
+      "text": "μαθητάς, καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Ac 19:16",
+      "text": "ἴσχυσεν κατ’ αὐτῶν,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Ac 19:20",
+      "text": "οὕτως κατὰ κράτος",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Ac 19:23",
+      "text": "δὲ κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Ac 20:20",
+      "text": "καὶ κατ’ οἴκους,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Ac 20:23",
+      "text": "ἅγιον κατὰ πόλιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Ac 21:19",
+      "text": "ἐξηγεῖτο καθ’ ἓν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Ac 21:21",
+      "text": "τοὺς κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Ac 21:28",
+      "text": "ὁ κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Ac 22:3",
+      "text": "πεπαιδευμένος κατὰ ἀκρίβειαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Ac 22:12",
+      "text": "εὐλαβὴς κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 19,
+      "reference": "Ac 22:19",
+      "text": "δέρων κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Ac 23:3",
+      "text": "με κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Ac 23:19",
+      "text": "ἀναχωρήσας κατ’ ἰδίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 31,
+      "reference": "Ac 23:31",
+      "text": "στρατιῶται κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Ac 24:1",
+      "text": "ἡγεμόνι κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Ac 24:5",
+      "text": "τοῖς κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Ac 24:12",
+      "text": "οὔτε κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 14,
+      "reference": "Ac 24:14",
+      "text": "ὅτι κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Ac 24:22",
+      "text": "τὰ καθ’ ὑμᾶς·",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 2,
+      "reference": "Ac 25:2",
+      "text": "Ἰουδαίων κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 3,
+      "reference": "Ac 25:3",
+      "text": "χάριν κατ’ αὐτοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 14,
+      "reference": "Ac 25:14",
+      "text": "τὰ κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Ac 25:15",
+      "text": "αἰτούμενοι κατ’ αὐτοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Ac 25:16",
+      "text": "κατηγορούμενος κατὰ πρόσωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 23,
+      "reference": "Ac 25:23",
+      "text": "τοῖς κατ’ ἐξοχὴν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 27,
+      "reference": "Ac 25:27",
+      "text": "τὰς κατ’ αὐτοῦ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 3,
+      "reference": "Ac 26:3",
+      "text": "τῶν κατὰ Ἰουδαίους",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 5,
+      "reference": "Ac 26:5",
+      "text": "ὅτι κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 11,
+      "reference": "Ac 26:11",
+      "text": "καὶ κατὰ πάσας",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 13,
+      "reference": "Ac 26:13",
+      "text": "μέσης κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 2,
+      "reference": "Ac 27:2",
+      "text": "τοὺς κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 5,
+      "reference": "Ac 27:5",
+      "text": "τὸ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 7,
+      "reference": "Ac 27:7",
+      "text": "γενόμενοι κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Ac 27:12",
+      "text": "βλέποντα κατὰ λίβα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 14,
+      "reference": "Ac 27:14",
+      "text": "ἔβαλεν κατ’ αὐτῆς",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 25,
+      "reference": "Ac 27:25",
+      "text": "ἔσται καθ’ ὃν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 27,
+      "reference": "Ac 27:27",
+      "text": "Ἀδρίᾳ, κατὰ μέσον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Ac 27:29",
+      "text": "που κατὰ τραχεῖς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 16,
+      "reference": "Ac 28:16",
+      "text": "μένειν καθ’ ἑαυτὸν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Ro 1:3",
+      "text": "Δαυὶδ κατὰ σάρκα,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Ro 1:4",
+      "text": "δυνάμει κατὰ πνεῦμα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Ro 1:15",
+      "text": "τὸ κατ’ ἐμὲ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ro 2:2",
+      "text": "ἐστιν κατὰ ἀλήθειαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ro 2:5",
+      "text": "κατὰ δὲ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ro 2:6",
+      "text": "ἑκάστῳ κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Ro 2:7",
+      "text": "μὲν καθ’ ὑπομονὴν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ro 2:16",
+      "text": "ἀνθρώπων κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ro 3:2",
+      "text": "πολὺ κατὰ πάντα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ro 3:5",
+      "text": "ὀργήν; κατὰ ἄνθρωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Ro 4:1",
+      "text": "ἡμῶν κατὰ σάρκα;",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Ro 4:4",
+      "text": "λογίζεται κατὰ χάριν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ro 4:16",
+      "text": "ἵνα κατὰ χάριν,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ro 4:18",
+      "text": "ἐθνῶν κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Ro 5:6",
+      "text": "ἔτι κατὰ καιρὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Ro 7:13",
+      "text": "γένηται καθ’ ὑπερβολὴν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Ro 7:22",
+      "text": "θεοῦ κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Ro 8:4",
+      "text": "μὴ κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Ro 8:5",
+      "text": "γὰρ κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Ro 8:12",
+      "text": "τοῦ κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Ro 8:13",
+      "text": "γὰρ κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Ro 8:27",
+      "text": "ὅτι κατὰ θεὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Ro 8:28",
+      "text": "τοῖς κατὰ πρόθεσιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ro 8:31",
+      "text": "τίς καθ’ ἡμῶν;",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Ro 8:33",
+      "text": "ἐγκαλέσει κατὰ ἐκλεκτῶν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Ro 9:3",
+      "text": "μου κατὰ σάρκα,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Ro 9:5",
+      "text": "τὸ κατὰ σάρκα,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Ro 9:9",
+      "text": "οὗτος· Κατὰ τὸν",
+      "highlightedWord": "Κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Ro 9:11",
+      "text": "ἡ κατ’ ἐκλογὴν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Ro 10:2",
+      "text": "οὐ κατ’ ἐπίγνωσιν,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Ro 11:2",
+      "text": "θεῷ κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ro 11:5",
+      "text": "λεῖμμα κατ’ ἐκλογὴν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Ro 11:21",
+      "text": "τῶν κατὰ φύσιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Ro 11:24",
+      "text": "τῆς κατὰ φύσιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Ro 11:28",
+      "text": "κατὰ μὲν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Ro 12:5",
+      "text": "δὲ καθ’ εἷς",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ro 12:6",
+      "text": "χαρίσματα κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ro 14:15",
+      "text": "οὐκέτι κατὰ ἀγάπην",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ro 14:22",
+      "text": "ἔχεις κατὰ σεαυτὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Ro 15:5",
+      "text": "ἀλλήλοις κατὰ Χριστὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Ro 16:5",
+      "text": "τὴν κατ’ οἶκον",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "1Co 1:26",
+      "text": "σοφοὶ κατὰ σάρκα,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Co 2:1",
+      "text": "οὐ καθ’ ὑπεροχὴν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Co 3:3",
+      "text": "καὶ κατὰ ἄνθρωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Co 3:8",
+      "text": "λήμψεται κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Co 3:10",
+      "text": "Κατὰ τὴν",
+      "highlightedWord": "Κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Co 4:6",
+      "text": "φυσιοῦσθε κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "1Co 7:6",
+      "text": "λέγω κατὰ συγγνώμην,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "1Co 7:40",
+      "text": "μείνῃ, κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "1Co 9:8",
+      "text": "Μὴ κατὰ ἄνθρωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "1Co 10:18",
+      "text": "Ἰσραὴλ κατὰ σάρκα·",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "1Co 11:4",
+      "text": "προφητεύων κατὰ κεφαλῆς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "1Co 12:8",
+      "text": "γνώσεως κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "1Co 12:31",
+      "text": "ἔτι καθ’ ὑπερβολὴν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "1Co 14:27",
+      "text": "λαλεῖ, κατὰ δύο",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "1Co 14:31",
+      "text": "γὰρ καθ’ ἕνα",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 40,
+      "reference": "1Co 14:40",
+      "text": "καὶ κατὰ τάξιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "1Co 15:3",
+      "text": "ἡμῶν κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "1Co 15:4",
+      "text": "τρίτῃ κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 15,
+      "reference": "1Co 15:15",
+      "text": "ἐμαρτυρήσαμεν κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "1Co 15:31",
+      "text": "καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "1Co 15:32",
+      "text": "εἰ κατὰ ἄνθρωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "κατὰ μίαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "1Co 16:19",
+      "text": "τῇ κατ’ οἶκον",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Co 1:8",
+      "text": "ὅτι καθ’ ὑπερβολὴν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Co 1:17",
+      "text": "βουλεύομαι κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "2Co 4:13",
+      "text": "πίστεως, κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "2Co 4:17",
+      "text": "ἡμῶν καθ’ ὑπερβολὴν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "2Co 5:16",
+      "text": "οἴδαμεν κατὰ σάρκα·",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "2Co 7:9",
+      "text": "γὰρ κατὰ θεόν,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "2Co 7:10",
+      "text": "γὰρ κατὰ θεὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "2Co 7:11",
+      "text": "τὸ κατὰ θεὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "2Co 8:2",
+      "text": "ἡ κατὰ βάθους",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "2Co 8:3",
+      "text": "ὅτι κατὰ δύναμιν,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "2Co 8:8",
+      "text": "Οὐ κατ’ ἐπιταγὴν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "2Co 10:1",
+      "text": "ὃς κατὰ πρόσωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "2Co 10:2",
+      "text": "ὡς κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "2Co 10:3",
+      "text": "οὐ κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "2Co 10:5",
+      "text": "ἐπαιρόμενον κατὰ τῆς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "2Co 10:7",
+      "text": "Τὰ κατὰ πρόσωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "2Co 10:13",
+      "text": "ἀλλὰ κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "2Co 10:15",
+      "text": "μεγαλυνθῆναι κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "2Co 11:15",
+      "text": "ἔσται κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "2Co 11:17",
+      "text": "οὐ κατὰ κύριον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "2Co 11:18",
+      "text": "καυχῶνται κατὰ σάρκα,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "2Co 11:21",
+      "text": "κατὰ ἀτιμίαν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "2Co 11:28",
+      "text": "ἡ καθ’ ἡμέραν,",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "2Co 13:8",
+      "text": "τι κατὰ τῆς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "2Co 13:10",
+      "text": "χρήσωμαι κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Ga 1:4",
+      "text": "πονηροῦ κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ga 1:11",
+      "text": "ἔστιν κατὰ ἄνθρωπον·",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ga 1:13",
+      "text": "ὅτι καθ’ ὑπερβολὴν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ga 2:2",
+      "text": "δὲ κατὰ ἀποκάλυψιν·",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Ga 2:11",
+      "text": "Ἀντιόχειαν, κατὰ πρόσωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Ga 3:1",
+      "text": "οἷς κατ’ ὀφθαλμοὺς",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Ga 3:15",
+      "text": "Ἀδελφοί, κατὰ ἄνθρωπον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ga 3:21",
+      "text": "νόμος κατὰ τῶν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Ga 3:29",
+      "text": "ἐστέ, κατ’ ἐπαγγελίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Ga 4:23",
+      "text": "παιδίσκης κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Ga 4:28",
+      "text": "ἀδελφοί, κατὰ Ἰσαὰκ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Ga 4:29",
+      "text": "ὁ κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Ga 5:17",
+      "text": "ἐπιθυμεῖ κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Ga 5:23",
+      "text": "ἐγκράτεια· κατὰ τῶν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Eph 1:5",
+      "text": "αὐτόν, κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Eph 1:7",
+      "text": "παραπτωμάτων, κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Eph 1:9",
+      "text": "αὐτοῦ, κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Eph 1:11",
+      "text": "προορισθέντες κατὰ πρόθεσιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Eph 1:15",
+      "text": "τὴν καθ’ ὑμᾶς",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Eph 1:19",
+      "text": "πιστεύοντας κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Eph 2:2",
+      "text": "περιεπατήσατε κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Eph 3:3",
+      "text": "κατὰ ἀποκάλυψιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Eph 3:7",
+      "text": "διάκονος κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Eph 3:11",
+      "text": "κατὰ πρόθεσιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Eph 3:16",
+      "text": "ὑμῖν κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Eph 3:20",
+      "text": "νοοῦμεν κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Eph 4:7",
+      "text": "χάρις κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Eph 4:16",
+      "text": "ἐπιχορηγίας κατ’ ἐνέργειαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Eph 4:22",
+      "text": "ὑμᾶς κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Eph 4:24",
+      "text": "τὸν κατὰ θεὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "οἱ καθ’ ἕνα",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Eph 6:5",
+      "text": "τοῖς κατὰ σάρκα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Eph 6:6",
+      "text": "μὴ κατ’ ὀφθαλμοδουλίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Eph 6:21",
+      "text": "τὰ κατ’ ἐμέ,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Php 1:12",
+      "text": "τὰ κατ’ ἐμὲ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Php 1:20",
+      "text": "κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Php 2:3",
+      "text": "μηδὲν κατ’ ἐριθείαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Php 3:5",
+      "text": "Ἑβραίων, κατὰ νόμον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Php 3:6",
+      "text": "κατὰ ζῆλος",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Php 3:14",
+      "text": "κατὰ σκοπὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Php 3:21",
+      "text": "αὐτοῦ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Php 4:11",
+      "text": "ὅτι καθ’ ὑστέρησιν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Php 4:19",
+      "text": "ὑμῶν κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Col 1:11",
+      "text": "δυναμούμενοι κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Col 1:25",
+      "text": "διάκονος κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Col 1:29",
+      "text": "ἀγωνιζόμενος κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Col 2:8",
+      "text": "ἀπάτης κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Col 2:14",
+      "text": "τὸ καθ’ ἡμῶν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Col 2:22",
+      "text": "ἀποχρήσει, κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Col 3:10",
+      "text": "ἐπίγνωσιν κατ’ εἰκόνα",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Col 3:20",
+      "text": "γονεῦσιν κατὰ πάντα,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Col 3:22",
+      "text": "ὑπακούετε κατὰ πάντα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Col 4:7",
+      "text": "Τὰ κατ’ ἐμὲ",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Col 4:15",
+      "text": "τὴν κατ’ οἶκον",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Th 1:12",
+      "text": "αὐτῷ, κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Th 2:3",
+      "text": "ἐξαπατήσῃ κατὰ μηδένα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Th 2:9",
+      "text": "παρουσία κατ’ ἐνέργειαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "2Th 3:6",
+      "text": "μὴ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "1Ti 1:1",
+      "text": "Ἰησοῦ κατ’ ἐπιταγὴν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "1Ti 1:11",
+      "text": "κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "1Ti 1:18",
+      "text": "Τιμόθεε, κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Ti 5:19",
+      "text": "κατὰ πρεσβυτέρου",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "1Ti 5:21",
+      "text": "ποιῶν κατὰ πρόσκλισιν.",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "1Ti 6:3",
+      "text": "τῇ κατ’ εὐσέβειαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Ti 1:1",
+      "text": "θεοῦ κατ’ ἐπαγγελίαν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Ti 1:8",
+      "text": "εὐαγγελίῳ κατὰ δύναμιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Ti 1:9",
+      "text": "οὐ κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "2Ti 2:8",
+      "text": "Δαυίδ, κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "2Ti 4:3",
+      "text": "ἀλλὰ κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "2Ti 4:14",
+      "text": "κύριος κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Tit 1:1",
+      "text": "Χριστοῦ κατὰ πίστιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Tit 1:3",
+      "text": "ἐγὼ κατ’ ἐπιταγὴν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Tit 1:4",
+      "text": "τέκνῳ κατὰ κοινὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Tit 1:5",
+      "text": "καταστήσῃς κατὰ πόλιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Tit 1:9",
+      "text": "τοῦ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Tit 3:5",
+      "text": "ἀλλὰ κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Tit 3:7",
+      "text": "γενηθῶμεν κατ’ ἐλπίδα",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Phm 1:2",
+      "text": "τῇ κατ’ οἶκόν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Phm 1:14",
+      "text": "ὡς κατὰ ἀνάγκην",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Heb 1:10",
+      "text": "Σὺ κατ’ ἀρχάς,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Heb 2:4",
+      "text": "μερισμοῖς κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Heb 2:17",
+      "text": "ὤφειλεν κατὰ πάντα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Heb 3:3",
+      "text": "ἠξίωται καθ’ ὅσον",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Heb 3:8",
+      "text": "παραπικρασμῷ, κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "ἑαυτοὺς καθ’ ἑκάστην",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Heb 4:15",
+      "text": "δὲ κατὰ πάντα",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Heb 5:6",
+      "text": "αἰῶνα κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Heb 5:10",
+      "text": "ἀρχιερεὺς κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Heb 6:13",
+      "text": "ἐπεὶ κατ’ οὐδενὸς",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Heb 6:16",
+      "text": "γὰρ κατὰ τοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Heb 6:20",
+      "text": "Ἰησοῦς, κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Heb 7:5",
+      "text": "λαὸν κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Heb 7:11",
+      "text": "χρεία κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Heb 7:15",
+      "text": "εἰ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Heb 7:16",
+      "text": "οὐ κατὰ νόμον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Heb 7:17",
+      "text": "αἰῶνα κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Heb 7:20",
+      "text": "Καὶ καθ’ ὅσον",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Heb 7:22",
+      "text": "κατὰ τοσοῦτο",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Heb 7:27",
+      "text": "ἔχει καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Heb 8:4",
+      "text": "προσφερόντων κατὰ νόμον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Heb 8:5",
+      "text": "πάντα κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Heb 8:9",
+      "text": "οὐ κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Heb 9:5",
+      "text": "λέγειν κατὰ μέρος.",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Heb 9:9",
+      "text": "ἐνεστηκότα, καθ’ ἣν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Heb 9:19",
+      "text": "ἐντολῆς κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Heb 9:22",
+      "text": "καθαρίζεται κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Heb 9:25",
+      "text": "ἅγια κατ’ ἐνιαυτὸν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Heb 9:27",
+      "text": "καὶ καθ’ ὅσον",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Heb 10:1",
+      "text": "πραγμάτων, κατ’ ἐνιαυτὸν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Heb 10:3",
+      "text": "ἁμαρτιῶν κατ’ ἐνιαυτόν,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Heb 10:8",
+      "text": "αἵτινες κατὰ νόμον",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Heb 10:11",
+      "text": "ἕστηκεν καθ’ ἡμέραν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Heb 11:7",
+      "text": "τῆς κατὰ πίστιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Heb 11:13",
+      "text": "Κατὰ πίστιν",
+      "highlightedWord": "Κατὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Heb 12:10",
+      "text": "ἡμέρας κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Jas 2:8",
+      "text": "βασιλικὸν κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Jas 2:17",
+      "text": "ἐστιν καθ’ ἑαυτήν.",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Jas 3:9",
+      "text": "τοὺς καθ’ ὁμοίωσιν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jas 3:14",
+      "text": "ψεύδεσθε κατὰ τῆς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jas 5:9",
+      "text": "ἀδελφοί, κατ’ ἀλλήλων,",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "1Pe 1:2",
+      "text": "κατὰ πρόγνωσιν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Pe 1:3",
+      "text": "ὁ κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Pe 1:15",
+      "text": "ἀλλὰ κατὰ τὸν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Pe 1:17",
+      "text": "κρίνοντα κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Pe 2:11",
+      "text": "στρατεύονται κατὰ τῆς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Pe 3:7",
+      "text": "συνοικοῦντες κατὰ γνῶσιν,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Pe 4:6",
+      "text": "μὲν κατὰ ἀνθρώπους",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Pe 4:19",
+      "text": "πάσχοντες κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Pe 5:2",
+      "text": "ἑκουσίως κατὰ θεόν,",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Pe 2:11",
+      "text": "φέρουσιν κατ’ αὐτῶν",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Pe 3:3",
+      "text": "ἐμπαῖκται κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Pe 3:13",
+      "text": "καινὴν κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Pe 3:15",
+      "text": "Παῦλος κατὰ τὴν",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Jn 5:14",
+      "text": "αἰτώμεθα κατὰ τὸ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Jn 1:6",
+      "text": "περιπατῶμεν κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "3Jn 1:15",
+      "text": "φίλους κατ’ ὄνομα.",
+      "highlightedWord": "κατ’"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Jud 1:15",
+      "text": "κρίσιν κατὰ πάντων",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Jud 1:16",
+      "text": "μεμψίμοιροι, κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Jud 1:18",
+      "text": "ἐμπαῖκται κατὰ τὰς",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Re 2:4",
+      "text": "ἔχω κατὰ σοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "ἔχω κατὰ σοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "ἔχω κατὰ σοῦ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "ἑκάστῳ κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "ἓν καθ’ ἓν",
+      "highlightedWord": "καθ’"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Re 18:6",
+      "text": "διπλᾶ κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Re 20:12",
+      "text": "βιβλίοις κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Re 20:13",
+      "text": "ἕκαστος κατὰ τὰ",
+      "highlightedWord": "κατὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Re 22:2",
+      "text": "δώδεκα, κατὰ μῆνα",
+      "highlightedWord": "κατὰ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

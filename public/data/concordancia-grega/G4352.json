@@ -1,0 +1,455 @@
+{
+  "strong": "G4352",
+  "lemma": "προσκυνέω",
+  "lemmaTranslit": "proskyneō",
+  "tokenCount": 60,
+  "verseCount": 54,
+  "bookDistribution": {
+    "Mateus": 13,
+    "Marcos": 2,
+    "Lucas": 3,
+    "João": 11,
+    "Atos": 4,
+    "1 Coríntios": 1,
+    "Hebreus": 2,
+    "Apocalipse": 24
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Mt 2:2",
+      "text": "ἤλθομεν προσκυνῆσαι αὐτῷ.",
+      "highlightedWord": "προσκυνῆσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Mt 2:8",
+      "text": "ἐλθὼν προσκυνήσω αὐτῷ.",
+      "highlightedWord": "προσκυνήσω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Mt 2:11",
+      "text": "πεσόντες προσεκύνησαν αὐτῷ,",
+      "highlightedWord": "προσεκύνησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Mt 4:9",
+      "text": "πεσὼν προσκυνήσῃς μοι.",
+      "highlightedWord": "προσκυνήσῃς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Mt 4:10",
+      "text": "σου προσκυνήσεις καὶ",
+      "highlightedWord": "προσκυνήσεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Mt 8:2",
+      "text": "προσελθὼν προσεκύνει αὐτῷ",
+      "highlightedWord": "προσεκύνει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mt 9:18",
+      "text": "ἐλθὼν προσεκύνει αὐτῷ",
+      "highlightedWord": "προσεκύνει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 33,
+      "reference": "Mt 14:33",
+      "text": "πλοίῳ προσεκύνησαν αὐτῷ",
+      "highlightedWord": "προσεκύνησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Mt 15:25",
+      "text": "ἐλθοῦσα προσεκύνει αὐτῷ",
+      "highlightedWord": "προσεκύνει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 26,
+      "reference": "Mt 18:26",
+      "text": "δοῦλος προσεκύνει αὐτῷ",
+      "highlightedWord": "προσεκύνει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Mt 20:20",
+      "text": "αὐτῆς προσκυνοῦσα καὶ",
+      "highlightedWord": "προσκυνοῦσα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 9,
+      "reference": "Mt 28:9",
+      "text": "καὶ προσεκύνησαν αὐτῷ.",
+      "highlightedWord": "προσεκύνησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 17,
+      "reference": "Mt 28:17",
+      "text": "αὐτὸν προσεκύνησαν, οἱ",
+      "highlightedWord": "προσεκύνησαν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Mk 5:6",
+      "text": "καὶ προσεκύνησεν αὐτόν,",
+      "highlightedWord": "προσεκύνησεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Mk 15:19",
+      "text": "γόνατα προσεκύνουν αὐτῷ.",
+      "highlightedWord": "προσεκύνουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Lk 4:7",
+      "text": "ἐὰν προσκυνήσῃς ἐνώπιον",
+      "highlightedWord": "προσκυνήσῃς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Lk 4:8",
+      "text": "σου προσκυνήσεις καὶ",
+      "highlightedWord": "προσκυνήσεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 52,
+      "reference": "Lk 24:52",
+      "text": "αὐτοὶ [προσκυνήσαντες αὐτὸν]",
+      "highlightedWord": "[προσκυνήσαντες"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Jn 4:20",
+      "text": "τούτῳ προσεκύνησαν· καὶ",
+      "highlightedWord": "προσεκύνησαν·"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Jn 4:21",
+      "text": "Ἱεροσολύμοις προσκυνήσετε τῷ",
+      "highlightedWord": "προσκυνήσετε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Jn 4:22",
+      "text": "ὑμεῖς προσκυνεῖτε ὃ",
+      "highlightedWord": "προσκυνεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Jn 4:23",
+      "text": "προσκυνηταὶ προσκυνήσουσιν τῷ",
+      "highlightedWord": "προσκυνήσουσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Jn 4:24",
+      "text": "τοὺς προσκυνοῦντας αὐτὸν",
+      "highlightedWord": "προσκυνοῦντας"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Jn 9:38",
+      "text": "καὶ προσεκύνησεν αὐτῷ.",
+      "highlightedWord": "προσεκύνησεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Jn 12:20",
+      "text": "ἵνα προσκυνήσωσιν ἐν",
+      "highlightedWord": "προσκυνήσωσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 43,
+      "reference": "Ac 7:43",
+      "text": "ἐποιήσατε προσκυνεῖν αὐτοῖς.",
+      "highlightedWord": "προσκυνεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Ac 8:27",
+      "text": "ἐληλύθει προσκυνήσων εἰς",
+      "highlightedWord": "προσκυνήσων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Ac 10:25",
+      "text": "πόδας προσεκύνησεν.",
+      "highlightedWord": "προσεκύνησεν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Ac 24:11",
+      "text": "ἀνέβην προσκυνήσων εἰς",
+      "highlightedWord": "προσκυνήσων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "1Co 14:25",
+      "text": "πρόσωπον προσκυνήσει τῷ",
+      "highlightedWord": "προσκυνήσει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Heb 1:6",
+      "text": "Καὶ προσκυνησάτωσαν αὐτῷ",
+      "highlightedWord": "προσκυνησάτωσαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Heb 11:21",
+      "text": "καὶ προσεκύνησεν ἐπὶ",
+      "highlightedWord": "προσεκύνησεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "καὶ προσκυνήσουσιν ἐνώπιον",
+      "highlightedWord": "προσκυνήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Re 4:10",
+      "text": "καὶ προσκυνήσουσιν τῷ",
+      "highlightedWord": "προσκυνήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Re 5:14",
+      "text": "καὶ προσεκύνησαν.",
+      "highlightedWord": "προσεκύνησαν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Re 7:11",
+      "text": "καὶ προσεκύνησαν τῷ",
+      "highlightedWord": "προσεκύνησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "μὴ προσκυνήσουσιν τὰ",
+      "highlightedWord": "προσκυνήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Re 11:1",
+      "text": "τοὺς προσκυνοῦντας ἐν",
+      "highlightedWord": "προσκυνοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Re 11:16",
+      "text": "καὶ προσεκύνησαν τῷ",
+      "highlightedWord": "προσεκύνησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Re 13:4",
+      "text": "καὶ προσεκύνησαν τῷ",
+      "highlightedWord": "προσεκύνησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Re 13:8",
+      "text": "καὶ προσκυνήσουσιν αὐτὸν",
+      "highlightedWord": "προσκυνήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Re 13:12",
+      "text": "ἵνα προσκυνήσουσιν τὸ",
+      "highlightedWord": "προσκυνήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Re 13:15",
+      "text": "μὴ προσκυνήσωσιν τῇ",
+      "highlightedWord": "προσκυνήσωσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Re 14:7",
+      "text": "καὶ προσκυνήσατε τῷ",
+      "highlightedWord": "προσκυνήσατε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "τις προσκυνεῖ τὸ",
+      "highlightedWord": "προσκυνεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "οἱ προσκυνοῦντες τὸ",
+      "highlightedWord": "προσκυνοῦντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Re 15:4",
+      "text": "καὶ προσκυνήσουσιν ἐνώπιόν",
+      "highlightedWord": "προσκυνήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Re 16:2",
+      "text": "τοὺς προσκυνοῦντας τῇ",
+      "highlightedWord": "προσκυνοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Re 19:4",
+      "text": "καὶ προσεκύνησαν τῷ",
+      "highlightedWord": "προσεκύνησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Re 19:10",
+      "text": "αὐτοῦ προσκυνῆσαι αὐτῷ.",
+      "highlightedWord": "προσκυνῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Re 19:20",
+      "text": "τοὺς προσκυνοῦντας τῇ",
+      "highlightedWord": "προσκυνοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Re 20:4",
+      "text": "οὐ προσεκύνησαν τὸ",
+      "highlightedWord": "προσεκύνησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Re 22:8",
+      "text": "ἔπεσα προσκυνῆσαι ἔμπροσθεν",
+      "highlightedWord": "προσκυνῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Re 22:9",
+      "text": "θεῷ προσκύνησον.",
+      "highlightedWord": "προσκύνησον."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

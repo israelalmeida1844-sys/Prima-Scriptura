@@ -1,0 +1,1229 @@
+{
+  "strong": "G2588",
+  "lemma": "καρδία",
+  "lemmaTranslit": "kardia",
+  "tokenCount": 156,
+  "verseCount": 149,
+  "bookDistribution": {
+    "Mateus": 16,
+    "Marcos": 11,
+    "Lucas": 22,
+    "João": 7,
+    "Atos": 20,
+    "Romanos": 15,
+    "1 Coríntios": 5,
+    "2 Coríntios": 11,
+    "Gálatas": 1,
+    "Efésios": 6,
+    "Filipenses": 2,
+    "Colossenses": 5,
+    "1 Tessalonicenses": 3,
+    "2 Tessalonicenses": 2,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 11,
+    "Tiago": 5,
+    "1 Pedro": 3,
+    "2 Pedro": 2,
+    "1 João": 4,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Mt 5:8",
+      "text": "τῇ καρδίᾳ, ὅτι",
+      "highlightedWord": "καρδίᾳ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Mt 5:28",
+      "text": "τῇ καρδίᾳ αὐτοῦ.",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Mt 6:21",
+      "text": "ἡ καρδία ⸁σου.",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Mt 9:4",
+      "text": "ταῖς καρδίαις ὑμῶν;",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Mt 11:29",
+      "text": "τῇ καρδίᾳ, καὶ",
+      "highlightedWord": "καρδίᾳ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Mt 12:34",
+      "text": "τῆς καρδίας τὸ",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Mt 12:40",
+      "text": "τῇ καρδίᾳ τῆς",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Mt 13:15",
+      "text": "ἡ καρδία τοῦ",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mt 13:19",
+      "text": "τῇ καρδίᾳ αὐτοῦ·",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Mt 15:8",
+      "text": "δὲ καρδία αὐτῶν",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Mt 15:18",
+      "text": "τῆς καρδίας ἐξέρχεται,",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Mt 15:19",
+      "text": "τῆς καρδίας ἐξέρχονται",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Mt 18:35",
+      "text": "τῶν καρδιῶν ὑμῶν.",
+      "highlightedWord": "καρδιῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 37,
+      "reference": "Mt 22:37",
+      "text": "τῇ καρδίᾳ σου",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 48,
+      "reference": "Mt 24:48",
+      "text": "τῇ καρδίᾳ αὐτοῦ·",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Mk 2:6",
+      "text": "ταῖς καρδίαις αὐτῶν·",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Mk 2:8",
+      "text": "ταῖς καρδίαις ὑμῶν;",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Mk 3:5",
+      "text": "τῆς καρδίας αὐτῶν,",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 52,
+      "reference": "Mk 6:52",
+      "text": "ἡ καρδία πεπωρωμένη.",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Mk 7:6",
+      "text": "δὲ καρδία αὐτῶν",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Mk 7:19",
+      "text": "τὴν καρδίαν ἀλλ’",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mk 7:21",
+      "text": "τῆς καρδίας τῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Mk 8:17",
+      "text": "τὴν καρδίαν ὑμῶν;",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mk 11:23",
+      "text": "τῇ καρδίᾳ αὐτοῦ",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "Mk 12:30",
+      "text": "τῆς καρδίας σου",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Mk 12:33",
+      "text": "τῆς καρδίας καὶ",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Lk 1:17",
+      "text": "ἐπιστρέψαι καρδίας πατέρων",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 51,
+      "reference": "Lk 1:51",
+      "text": "διανοίᾳ καρδίας αὐτῶν·",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 66,
+      "reference": "Lk 1:66",
+      "text": "τῇ καρδίᾳ αὐτῶν,",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Lk 2:19",
+      "text": "τῇ καρδίᾳ αὐτῆς.",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 35,
+      "reference": "Lk 2:35",
+      "text": "πολλῶν καρδιῶν διαλογισμοί.",
+      "highlightedWord": "καρδιῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 51,
+      "reference": "Lk 2:51",
+      "text": "τῇ καρδίᾳ αὐτῆς.",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Lk 3:15",
+      "text": "ταῖς καρδίαις αὐτῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Lk 5:22",
+      "text": "ταῖς καρδίαις ὑμῶν;",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 45,
+      "reference": "Lk 6:45",
+      "text": "τῆς καρδίας αὐτοῦ",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Lk 8:12",
+      "text": "τῆς καρδίας αὐτῶν,",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Lk 8:15",
+      "text": "ἐν καρδίᾳ καλῇ",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Lk 9:47",
+      "text": "τῆς καρδίας αὐτῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Lk 10:27",
+      "text": "τῆς καρδίας σου",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Lk 12:34",
+      "text": "ἡ καρδία ὑμῶν",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Lk 12:45",
+      "text": "τῇ καρδίᾳ αὐτοῦ·",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Lk 16:15",
+      "text": "τὰς καρδίας ὑμῶν·",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Lk 21:14",
+      "text": "ταῖς καρδίαις ὑμῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Lk 21:34",
+      "text": "αἱ καρδίαι ἐν",
+      "highlightedWord": "καρδίαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 25,
+      "reference": "Lk 24:25",
+      "text": "τῇ καρδίᾳ τοῦ",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 32,
+      "reference": "Lk 24:32",
+      "text": "ἡ καρδία ἡμῶν",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 38,
+      "reference": "Lk 24:38",
+      "text": "τῇ καρδίᾳ ὑμῶν;",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Jn 12:40",
+      "text": "τὴν καρδίαν, ἵνα",
+      "highlightedWord": "καρδίαν,"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Jn 13:2",
+      "text": "τὴν καρδίαν ἵνα",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Jn 14:1",
+      "text": "ἡ καρδία· πιστεύετε",
+      "highlightedWord": "καρδία·"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Jn 14:27",
+      "text": "ἡ καρδία μηδὲ",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Jn 16:6",
+      "text": "τὴν καρδίαν.",
+      "highlightedWord": "καρδίαν."
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Jn 16:22",
+      "text": "ἡ καρδία, καὶ",
+      "highlightedWord": "καρδία,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Ac 2:26",
+      "text": "ἡ καρδία μου",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 37,
+      "reference": "Ac 2:37",
+      "text": "τὴν καρδίαν, εἶπόν",
+      "highlightedWord": "καρδίαν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 46,
+      "reference": "Ac 2:46",
+      "text": "ἀφελότητι καρδίας,",
+      "highlightedWord": "καρδίας,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Ac 4:32",
+      "text": "ἦν καρδία καὶ",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ac 5:3",
+      "text": "τὴν καρδίαν σου,",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Ac 5:4",
+      "text": "τῇ καρδίᾳ σου",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Ac 7:23",
+      "text": "τὴν καρδίαν αὐτοῦ",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Ac 7:39",
+      "text": "ταῖς καρδίαις αὐτῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 51,
+      "reference": "Ac 7:51",
+      "text": "ἀπερίτμητοι καρδίαις καὶ",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 54,
+      "reference": "Ac 7:54",
+      "text": "ταῖς καρδίαις αὐτῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Ac 8:21",
+      "text": "γὰρ καρδία σου",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Ac 8:22",
+      "text": "τῆς καρδίας σου·",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Ac 11:23",
+      "text": "τῆς καρδίας προσμένειν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Ac 13:22",
+      "text": "τὴν καρδίαν μου,",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Ac 14:17",
+      "text": "τὰς καρδίας ὑμῶν.",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Ac 15:9",
+      "text": "τὰς καρδίας αὐτῶν.",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Ac 16:14",
+      "text": "τὴν καρδίαν προσέχειν",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Ac 21:13",
+      "text": "τὴν καρδίαν; ἐγὼ",
+      "highlightedWord": "καρδίαν;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 27,
+      "reference": "Ac 28:27",
+      "text": "ἡ καρδία τοῦ",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Ro 1:21",
+      "text": "αὐτῶν καρδία·",
+      "highlightedWord": "καρδία·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Ro 1:24",
+      "text": "τῶν καρδιῶν αὐτῶν",
+      "highlightedWord": "καρδιῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ro 2:5",
+      "text": "ἀμετανόητον καρδίαν θησαυρίζεις",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Ro 2:15",
+      "text": "ταῖς καρδίαις αὐτῶν,",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Ro 2:29",
+      "text": "περιτομὴ καρδίας ἐν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Ro 5:5",
+      "text": "ταῖς καρδίαις ἡμῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Ro 6:17",
+      "text": "ἐκ καρδίας εἰς",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Ro 8:27",
+      "text": "τὰς καρδίας οἶδεν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ro 9:2",
+      "text": "τῇ καρδίᾳ μου·",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Ro 10:1",
+      "text": "ἐμῆς καρδίας καὶ",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ro 10:6",
+      "text": "τῇ καρδίᾳ σου·",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Ro 10:8",
+      "text": "τῇ καρδίᾳ σου,",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Ro 10:9",
+      "text": "τῇ καρδίᾳ σου",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Ro 10:10",
+      "text": "καρδίᾳ γὰρ",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ro 16:18",
+      "text": "τὰς καρδίας τῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Co 2:9",
+      "text": "ἐπὶ καρδίαν ἀνθρώπου",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Co 4:5",
+      "text": "τῶν καρδιῶν, καὶ",
+      "highlightedWord": "καρδιῶν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "1Co 7:37",
+      "text": "τῇ καρδίᾳ αὐτοῦ",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "1Co 14:25",
+      "text": "τῆς καρδίας αὐτοῦ",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "2Co 1:22",
+      "text": "ταῖς καρδίαις ἡμῶν.",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Co 2:4",
+      "text": "συνοχῆς καρδίας ἔγραψα",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Co 3:2",
+      "text": "ταῖς καρδίαις ἡμῶν,",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Co 3:3",
+      "text": "πλαξὶν καρδίαις σαρκίναις.",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Co 3:15",
+      "text": "τὴν καρδίαν αὐτῶν",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "2Co 4:6",
+      "text": "ταῖς καρδίαις ἡμῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "2Co 5:12",
+      "text": "ἐν καρδίᾳ.",
+      "highlightedWord": "καρδίᾳ."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "2Co 6:11",
+      "text": "ἡ καρδία ἡμῶν",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "2Co 7:3",
+      "text": "ταῖς καρδίαις ἡμῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "2Co 8:16",
+      "text": "τῇ καρδίᾳ Τίτου,",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "2Co 9:7",
+      "text": "τῇ καρδίᾳ, μὴ",
+      "highlightedWord": "καρδίᾳ,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Ga 4:6",
+      "text": "τὰς καρδίας ἡμῶν,",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Eph 1:18",
+      "text": "τῆς καρδίας ὑμῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Eph 3:17",
+      "text": "ταῖς καρδίαις ὑμῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Eph 4:18",
+      "text": "τῆς καρδίας αὐτῶν,",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Eph 5:19",
+      "text": "τῇ καρδίᾳ ὑμῶν",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Eph 6:5",
+      "text": "τῆς καρδίας ὑμῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Eph 6:22",
+      "text": "τὰς καρδίας ὑμῶν.",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Php 1:7",
+      "text": "τῇ καρδίᾳ ὑμᾶς,",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Php 4:7",
+      "text": "τὰς καρδίας ὑμῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Col 2:2",
+      "text": "αἱ καρδίαι αὐτῶν,",
+      "highlightedWord": "καρδίαι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Col 3:15",
+      "text": "ταῖς καρδίαις ὑμῶν,",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Col 3:16",
+      "text": "ταῖς καρδίαις ὑμῶν",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Col 3:22",
+      "text": "ἁπλότητι καρδίας, φοβούμενοι",
+      "highlightedWord": "καρδίας,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Col 4:8",
+      "text": "τὰς καρδίας ὑμῶν,",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Th 2:4",
+      "text": "τὰς καρδίας ἡμῶν.",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "1Th 2:17",
+      "text": "οὐ καρδίᾳ, περισσοτέρως",
+      "highlightedWord": "καρδίᾳ,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Th 3:13",
+      "text": "τὰς καρδίας ἀμέμπτους",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "2Th 2:17",
+      "text": "τὰς καρδίας καὶ",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Th 3:5",
+      "text": "τὰς καρδίας εἰς",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Ti 1:5",
+      "text": "καθαρᾶς καρδίας καὶ",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "2Ti 2:22",
+      "text": "καθαρᾶς καρδίας.",
+      "highlightedWord": "καρδίας."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Heb 3:8",
+      "text": "τὰς καρδίας ὑμῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Heb 3:10",
+      "text": "τῇ καρδίᾳ· αὐτοὶ",
+      "highlightedWord": "καρδίᾳ·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Heb 3:12",
+      "text": "ὑμῶν καρδία πονηρὰ",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Heb 3:15",
+      "text": "τὰς καρδίας ὑμῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Heb 4:7",
+      "text": "τὰς καρδίας ὑμῶν·",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Heb 4:12",
+      "text": "ἐννοιῶν καρδίας·",
+      "highlightedWord": "καρδίας·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Heb 8:10",
+      "text": "ἐπὶ καρδίας αὐτῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Heb 10:16",
+      "text": "ἐπὶ καρδίας αὐτῶν,",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Heb 10:22",
+      "text": "ἀληθινῆς καρδίας ἐν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Heb 13:9",
+      "text": "τὴν καρδίαν, οὐ",
+      "highlightedWord": "καρδίαν,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jas 1:26",
+      "text": "ἀπατῶν καρδίαν αὐτοῦ,",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jas 3:14",
+      "text": "τῇ καρδίᾳ ὑμῶν,",
+      "highlightedWord": "καρδίᾳ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Jas 4:8",
+      "text": "ἁγνίσατε καρδίας, δίψυχοι.",
+      "highlightedWord": "καρδίας,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Jas 5:5",
+      "text": "τὰς καρδίας ὑμῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Jas 5:8",
+      "text": "τὰς καρδίας ὑμῶν,",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "1Pe 1:22",
+      "text": "ἐκ καρδίας ἀλλήλους",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Pe 3:4",
+      "text": "τῆς καρδίας ἄνθρωπος",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Pe 3:15",
+      "text": "ταῖς καρδίαις ὑμῶν,",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "2Pe 1:19",
+      "text": "ταῖς καρδίαις ὑμῶν·",
+      "highlightedWord": "καρδίαις"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "2Pe 2:14",
+      "text": "ἀστηρίκτους, καρδίαν γεγυμνασμένην",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "1Jn 3:19",
+      "text": "τὴν καρδίαν ἡμῶν",
+      "highlightedWord": "καρδίαν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "1Jn 3:20",
+      "text": "ἡ καρδία, ὅτι",
+      "highlightedWord": "καρδία,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "1Jn 3:21",
+      "text": "ἡ καρδία μὴ",
+      "highlightedWord": "καρδία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "καὶ καρδίας, καὶ",
+      "highlightedWord": "καρδίας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Re 17:17",
+      "text": "τὰς καρδίας αὐτῶν",
+      "highlightedWord": "καρδίας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Re 18:7",
+      "text": "τῇ καρδίᾳ αὐτῆς",
+      "highlightedWord": "καρδίᾳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

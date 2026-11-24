@@ -1,0 +1,26 @@
+{
+  "strong": "G3841",
+  "lemma": "παντοκράτωρ",
+  "lemmaTranslit": "pantokratōr",
+  "tokenCount": 10,
+  "verseCount": 10,
+  "bookDistribution": {
+    "2Co": 1,
+    "Ap": 9
+  },
+  "references": [
+    "2Co 6:18",
+    "Ap 1:8",
+    "Ap 4:8",
+    "Ap 11:17",
+    "Ap 15:3",
+    "Ap 16:7",
+    "Ap 16:14",
+    "Ap 19:6",
+    "Ap 19:15",
+    "Ap 21:22"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}

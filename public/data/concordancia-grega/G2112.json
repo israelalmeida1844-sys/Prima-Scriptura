@@ -1,0 +1,303 @@
+{
+  "strong": "G2112",
+  "lemma": "εὐθέως",
+  "lemmaTranslit": "eutheōs",
+  "tokenCount": 35,
+  "verseCount": 35,
+  "bookDistribution": {
+    "Mateus": 13,
+    "Lucas": 6,
+    "João": 3,
+    "Atos": 9,
+    "Gálatas": 1,
+    "Tiago": 1,
+    "3 João": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Mt 4:20",
+      "text": "δὲ εὐθέως ἀφέντες",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Mt 4:22",
+      "text": "δὲ εὐθέως ἀφέντες",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Mt 8:3",
+      "text": "καὶ εὐθέως ἐκαθαρίσθη",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mt 13:5",
+      "text": "καὶ εὐθέως ἐξανέτειλεν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Mt 14:22",
+      "text": "Καὶ εὐθέως ἠνάγκασεν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Mt 14:31",
+      "text": "εὐθέως δὲ",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 34,
+      "reference": "Mt 20:34",
+      "text": "καὶ εὐθέως ἀνέβλεψαν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Mt 21:2",
+      "text": "καὶ εὐθέως εὑρήσετε",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Mt 24:29",
+      "text": "Εὐθέως δὲ",
+      "highlightedWord": "Εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Mt 25:15",
+      "text": "ἀπεδήμησεν. εὐθέως",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 49,
+      "reference": "Mt 26:49",
+      "text": "καὶ εὐθέως προσελθὼν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 74,
+      "reference": "Mt 26:74",
+      "text": "καὶ εὐθέως ἀλέκτωρ",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 48,
+      "reference": "Mt 27:48",
+      "text": "καὶ εὐθέως δραμὼν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Lk 5:13",
+      "text": "καὶ εὐθέως ἡ",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Lk 12:36",
+      "text": "κρούσαντος εὐθέως ἀνοίξωσιν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 54,
+      "reference": "Lk 12:54",
+      "text": "δυσμῶν, εὐθέως λέγετε",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Lk 14:5",
+      "text": "οὐκ εὐθέως ἀνασπάσει",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Lk 17:7",
+      "text": "αὐτῷ· Εὐθέως παρελθὼν",
+      "highlightedWord": "Εὐθέως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Lk 21:9",
+      "text": "οὐκ εὐθέως τὸ",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jn 5:9",
+      "text": "καὶ εὐθέως ἐγένετο",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Jn 6:21",
+      "text": "καὶ εὐθέως ἐγένετο",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 27,
+      "reference": "Jn 18:27",
+      "text": "καὶ εὐθέως ἀλέκτωρ",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Ac 9:18",
+      "text": "καὶ εὐθέως ἀπέπεσαν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Ac 9:20",
+      "text": "καὶ εὐθέως ἐν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Ac 9:34",
+      "text": "καὶ εὐθέως ἀνέστη.",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "καὶ εὐθέως ἀπέστη",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "Ac 16:10",
+      "text": "εἶδεν, εὐθέως ἐζητήσαμεν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Ac 17:10",
+      "text": "ἀδελφοὶ εὐθέως διὰ",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Ac 17:14",
+      "text": "εὐθέως δὲ",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Ac 21:30",
+      "text": "καὶ εὐθέως ἐκλείσθησαν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Ac 22:29",
+      "text": "εὐθέως οὖν",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ga 1:16",
+      "text": "ἔθνεσιν, εὐθέως οὐ",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Jas 1:24",
+      "text": "καὶ εὐθέως ἐπελάθετο",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "3Jn 1:14",
+      "text": "δὲ εὐθέως σε",
+      "highlightedWord": "εὐθέως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Re 4:2",
+      "text": "εὐθέως ἐγενόμην",
+      "highlightedWord": "εὐθέως"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

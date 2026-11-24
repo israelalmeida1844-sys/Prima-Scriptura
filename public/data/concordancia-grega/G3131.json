@@ -1,0 +1,50 @@
+{
+  "strong": "G3131",
+  "lemma": "μάννα",
+  "lemmaTranslit": "manna",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "João": 2,
+    "Hebreus": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Jn 6:31",
+      "text": "τὸ μάννα ἔφαγον",
+      "highlightedWord": "μάννα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Jn 6:49",
+      "text": "τὸ μάννα καὶ",
+      "highlightedWord": "μάννα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Heb 9:4",
+      "text": "τὸ μάννα καὶ",
+      "highlightedWord": "μάννα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "τοῦ μάννα τοῦ",
+      "highlightedWord": "μάννα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,881 @@
+{
+  "strong": "G3195",
+  "lemma": "μέλλω",
+  "lemmaTranslit": "mellō",
+  "tokenCount": 109,
+  "verseCount": 106,
+  "bookDistribution": {
+    "Mateus": 9,
+    "Marcos": 2,
+    "Lucas": 12,
+    "João": 12,
+    "Atos": 34,
+    "Romanos": 5,
+    "1 Coríntios": 1,
+    "Gálatas": 1,
+    "Efésios": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 3,
+    "2 Timóteo": 1,
+    "Hebreus": 9,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "2 Pedro": 2,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mt 2:13",
+      "text": "σοι· μέλλει γὰρ",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Mt 3:7",
+      "text": "τῆς μελλούσης ὀργῆς;",
+      "highlightedWord": "μελλούσης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Mt 11:14",
+      "text": "ὁ μέλλων ἔρχεσθαι.",
+      "highlightedWord": "μέλλων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mt 12:32",
+      "text": "τῷ μέλλοντι.",
+      "highlightedWord": "μέλλοντι."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Mt 16:27",
+      "text": "μέλλει γὰρ",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Mt 17:12",
+      "text": "ἀνθρώπου μέλλει πάσχειν",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Mt 17:22",
+      "text": "Ἰησοῦς· Μέλλει ὁ",
+      "highlightedWord": "Μέλλει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 22,
+      "reference": "Mt 20:22",
+      "text": "ἐγὼ μέλλω πίνειν;",
+      "highlightedWord": "μέλλω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Mt 24:6",
+      "text": "μελλήσετε δὲ",
+      "highlightedWord": "μελλήσετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Mk 10:32",
+      "text": "τὰ μέλλοντα αὐτῷ",
+      "highlightedWord": "μέλλοντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Mk 13:4",
+      "text": "ὅταν μέλλῃ ταῦτα",
+      "highlightedWord": "μέλλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Lk 3:7",
+      "text": "τῆς μελλούσης ὀργῆς;",
+      "highlightedWord": "μελλούσης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Lk 7:2",
+      "text": "ἔχων ἤμελλεν τελευτᾶν,",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Lk 9:31",
+      "text": "ἣν ἤμελλεν πληροῦν",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 44,
+      "reference": "Lk 9:44",
+      "text": "ἀνθρώπου μέλλει παραδίδοσθαι",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Lk 10:1",
+      "text": "οὗ ἤμελλεν αὐτὸς",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Lk 13:9",
+      "text": "τὸ μέλλον— εἰ",
+      "highlightedWord": "μέλλον—"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Lk 19:4",
+      "text": "ἐκείνης ἤμελλεν διέρχεσθαι.",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Lk 19:11",
+      "text": "παραχρῆμα μέλλει ἡ",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Lk 21:7",
+      "text": "ὅταν μέλλῃ ταῦτα",
+      "highlightedWord": "μέλλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Lk 21:36",
+      "text": "τὰ μέλλοντα γίνεσθαι,",
+      "highlightedWord": "μέλλοντα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 23,
+      "reference": "Lk 22:23",
+      "text": "τοῦτο μέλλων πράσσειν.",
+      "highlightedWord": "μέλλων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Lk 24:21",
+      "text": "ὁ μέλλων λυτροῦσθαι",
+      "highlightedWord": "μέλλων"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 47,
+      "reference": "Jn 4:47",
+      "text": "υἱόν, ἤμελλεν γὰρ",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Jn 6:6",
+      "text": "τί ἔμελλεν ποιεῖν.",
+      "highlightedWord": "ἔμελλεν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Jn 6:15",
+      "text": "ὅτι μέλλουσιν ἔρχεσθαι",
+      "highlightedWord": "μέλλουσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 71,
+      "reference": "Jn 6:71",
+      "text": "γὰρ ἔμελλεν παραδιδόναι",
+      "highlightedWord": "ἔμελλεν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "οὗτος μέλλει πορεύεσθαι",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Jn 7:39",
+      "text": "οὗ ἔμελλον λαμβάνειν",
+      "highlightedWord": "ἔμελλον"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 51,
+      "reference": "Jn 11:51",
+      "text": "ὅτι ἔμελλεν Ἰησοῦς",
+      "highlightedWord": "ἔμελλεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Jn 12:4",
+      "text": "ὁ μέλλων αὐτὸν",
+      "highlightedWord": "μέλλων"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Jn 12:33",
+      "text": "θανάτῳ ἤμελλεν ἀποθνῄσκειν.",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Jn 14:22",
+      "text": "ἡμῖν μέλλεις ἐμφανίζειν",
+      "highlightedWord": "μέλλεις"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Jn 18:32",
+      "text": "θανάτῳ ἤμελλεν ἀποθνῄσκειν.",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Ac 3:3",
+      "text": "Ἰωάννην μέλλοντας εἰσιέναι",
+      "highlightedWord": "μέλλοντας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Ac 5:35",
+      "text": "τί μέλλετε πράσσειν.",
+      "highlightedWord": "μέλλετε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Ac 11:28",
+      "text": "μεγάλην μέλλειν ἔσεσθαι",
+      "highlightedWord": "μέλλειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ac 12:6",
+      "text": "δὲ ἤμελλεν προαγαγεῖν",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Ac 13:34",
+      "text": "μηκέτι μέλλοντα ὑποστρέφειν",
+      "highlightedWord": "μέλλοντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Ac 16:27",
+      "text": "μάχαιραν ἤμελλεν ἑαυτὸν",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Ac 17:31",
+      "text": "ᾗ μέλλει κρίνειν",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "μέλλοντος δὲ",
+      "highlightedWord": "μέλλοντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Ac 19:27",
+      "text": "λογισθῆναι, μέλλειν τε",
+      "highlightedWord": "μέλλειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Ac 20:3",
+      "text": "Ἰουδαίων μέλλοντι ἀνάγεσθαι",
+      "highlightedWord": "μέλλοντι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Ac 20:7",
+      "text": "αὐτοῖς, μέλλων ἐξιέναι",
+      "highlightedWord": "μέλλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Ac 20:13",
+      "text": "ἐκεῖθεν μέλλοντες ἀναλαμβάνειν",
+      "highlightedWord": "μέλλοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 38,
+      "reference": "Ac 20:38",
+      "text": "οὐκέτι μέλλουσιν τὸ",
+      "highlightedWord": "μέλλουσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Ac 21:27",
+      "text": "δὲ ἔμελλον αἱ",
+      "highlightedWord": "ἔμελλον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Ac 21:37",
+      "text": "Μέλλων τε",
+      "highlightedWord": "Μέλλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Ac 22:16",
+      "text": "τί μέλλεις; ἀναστὰς",
+      "highlightedWord": "μέλλεις;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 26,
+      "reference": "Ac 22:26",
+      "text": "Τί μέλλεις ποιεῖν;",
+      "highlightedWord": "μέλλεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Ac 22:29",
+      "text": "οἱ μέλλοντες αὐτὸν",
+      "highlightedWord": "μέλλοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Ac 23:3",
+      "text": "σε μέλλει ὁ",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Ac 23:15",
+      "text": "ὡς μέλλοντας διαγινώσκειν",
+      "highlightedWord": "μέλλοντας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 20,
+      "reference": "Ac 23:20",
+      "text": "ὡς μέλλον τι",
+      "highlightedWord": "μέλλον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 27,
+      "reference": "Ac 23:27",
+      "text": "καὶ μέλλοντα ἀναιρεῖσθαι",
+      "highlightedWord": "μέλλοντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 15,
+      "reference": "Ac 24:15",
+      "text": "ἀνάστασιν μέλλειν ἔσεσθαι",
+      "highlightedWord": "μέλλειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 25,
+      "reference": "Ac 24:25",
+      "text": "τοῦ μέλλοντος ἔμφοβος",
+      "highlightedWord": "μέλλοντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 4,
+      "reference": "Ac 25:4",
+      "text": "δὲ μέλλειν ἐν",
+      "highlightedWord": "μέλλειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 2,
+      "reference": "Ac 26:2",
+      "text": "σοῦ μέλλων σήμερον",
+      "highlightedWord": "μέλλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "ἐλάλησαν μελλόντων γίνεσθαι",
+      "highlightedWord": "μελλόντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 23,
+      "reference": "Ac 26:23",
+      "text": "φῶς μέλλει καταγγέλλειν",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 2,
+      "reference": "Ac 27:2",
+      "text": "Ἀδραμυττηνῷ μέλλοντι πλεῖν",
+      "highlightedWord": "μέλλοντι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 10,
+      "reference": "Ac 27:10",
+      "text": "ἡμῶν μέλλειν ἔσεσθαι",
+      "highlightedWord": "μέλλειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 30,
+      "reference": "Ac 27:30",
+      "text": "ἀγκύρας μελλόντων ἐκτείνειν,",
+      "highlightedWord": "μελλόντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 33,
+      "reference": "Ac 27:33",
+      "text": "ἡμέρα ἤμελλεν γίνεσθαι",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 6,
+      "reference": "Ac 28:6",
+      "text": "αὐτὸν μέλλειν πίμπρασθαι",
+      "highlightedWord": "μέλλειν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Ro 4:24",
+      "text": "οἷς μέλλει λογίζεσθαι,",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Ro 5:14",
+      "text": "τοῦ μέλλοντος.",
+      "highlightedWord": "μέλλοντος."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Ro 8:13",
+      "text": "ζῆτε μέλλετε ἀποθνῄσκειν,",
+      "highlightedWord": "μέλλετε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Ro 8:18",
+      "text": "τὴν μέλλουσαν δόξαν",
+      "highlightedWord": "μέλλουσαν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ro 8:38",
+      "text": "οὔτε μέλλοντα οὔτε",
+      "highlightedWord": "μέλλοντα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "1Co 3:22",
+      "text": "εἴτε μέλλοντα, πάντα",
+      "highlightedWord": "μέλλοντα,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Ga 3:23",
+      "text": "τὴν μέλλουσαν πίστιν",
+      "highlightedWord": "μέλλουσαν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Eph 1:21",
+      "text": "τῷ μέλλοντι·",
+      "highlightedWord": "μέλλοντι·"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Col 2:17",
+      "text": "τῶν μελλόντων, τὸ",
+      "highlightedWord": "μελλόντων,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Th 3:4",
+      "text": "ὅτι μέλλομεν θλίβεσθαι,",
+      "highlightedWord": "μέλλομεν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Ti 1:16",
+      "text": "τῶν μελλόντων πιστεύειν",
+      "highlightedWord": "μελλόντων"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Ti 4:8",
+      "text": "τῆς μελλούσης.",
+      "highlightedWord": "μελλούσης."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Ti 6:19",
+      "text": "τὸ μέλλον, ἵνα",
+      "highlightedWord": "μέλλον,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "2Ti 4:1",
+      "text": "τοῦ μέλλοντος κρίνειν",
+      "highlightedWord": "μέλλοντος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Heb 1:14",
+      "text": "τοὺς μέλλοντας κληρονομεῖν",
+      "highlightedWord": "μέλλοντας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Heb 2:5",
+      "text": "τὴν μέλλουσαν, περὶ",
+      "highlightedWord": "μέλλουσαν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Heb 6:5",
+      "text": "τε μέλλοντος αἰῶνος,",
+      "highlightedWord": "μέλλοντος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Heb 8:5",
+      "text": "Μωϋσῆς μέλλων ἐπιτελεῖν",
+      "highlightedWord": "μέλλων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Heb 10:1",
+      "text": "τῶν μελλόντων ἀγαθῶν,",
+      "highlightedWord": "μελλόντων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Heb 10:27",
+      "text": "ἐσθίειν μέλλοντος τοὺς",
+      "highlightedWord": "μέλλοντος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Heb 11:8",
+      "text": "ὃν ἤμελλεν λαμβάνειν",
+      "highlightedWord": "ἤμελλεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Heb 11:20",
+      "text": "περὶ μελλόντων εὐλόγησεν",
+      "highlightedWord": "μελλόντων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Heb 13:14",
+      "text": "τὴν μέλλουσαν ἐπιζητοῦμεν·",
+      "highlightedWord": "μέλλουσαν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Jas 2:12",
+      "text": "ἐλευθερίας μέλλοντες κρίνεσθαι.",
+      "highlightedWord": "μέλλοντες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Pe 5:1",
+      "text": "τῆς μελλούσης ἀποκαλύπτεσθαι",
+      "highlightedWord": "μελλούσης"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Pe 1:12",
+      "text": "Διὸ μελλήσω ἀεὶ",
+      "highlightedWord": "μελλήσω"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "2Pe 2:6",
+      "text": "ὑπόδειγμα μελλόντων ἀσεβέσιν",
+      "highlightedWord": "μελλόντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Re 1:19",
+      "text": "ἃ μέλλει γίνεσθαι",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "ἃ μέλλεις πάσχειν.",
+      "highlightedWord": "μέλλεις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Re 3:2",
+      "text": "ἃ ἔμελλον ἀποθανεῖν,",
+      "highlightedWord": "ἔμελλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Re 3:10",
+      "text": "τῆς μελλούσης ἔρχεσθαι",
+      "highlightedWord": "μελλούσης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Re 3:16",
+      "text": "ψυχρός, μέλλω σε",
+      "highlightedWord": "μέλλω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "οἱ μέλλοντες ἀποκτέννεσθαι",
+      "highlightedWord": "μέλλοντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "τῶν μελλόντων σαλπίζειν.",
+      "highlightedWord": "μελλόντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Re 10:4",
+      "text": "βρονταί, ἤμελλον γράφειν·",
+      "highlightedWord": "ἤμελλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Re 10:7",
+      "text": "ὅταν μέλλῃ σαλπίζειν,",
+      "highlightedWord": "μέλλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "τῆς μελλούσης τεκεῖν,",
+      "highlightedWord": "μελλούσης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Re 12:5",
+      "text": "ὃς μέλλει ποιμαίνειν",
+      "highlightedWord": "μέλλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Re 17:8",
+      "text": "καὶ μέλλει ἀναβαίνειν",
+      "highlightedWord": "μέλλει"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

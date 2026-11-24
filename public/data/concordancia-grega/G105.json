@@ -1,0 +1,58 @@
+{
+  "strong": "G105",
+  "lemma": "ἀετός",
+  "lemmaTranslit": "aetos",
+  "tokenCount": 5,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 28,
+      "reference": "Mt 24:28",
+      "text": "οἱ ἀετοί.",
+      "highlightedWord": "ἀετοί."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 37,
+      "reference": "Lk 17:37",
+      "text": "οἱ ἀετοὶ ἐπισυναχθήσονται.",
+      "highlightedWord": "ἀετοὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "ὅμοιον ἀετῷ πετομένῳ·",
+      "highlightedWord": "ἀετῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "ἑνὸς ἀετοῦ πετομένου",
+      "highlightedWord": "ἀετοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "τοῦ ἀετοῦ τοῦ",
+      "highlightedWord": "ἀετοῦ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

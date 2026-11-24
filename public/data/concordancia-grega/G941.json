@@ -1,0 +1,239 @@
+{
+  "strong": "G941",
+  "lemma": "βαστάζω",
+  "lemmaTranslit": "bastazō",
+  "tokenCount": 27,
+  "verseCount": 27,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 1,
+    "Lucas": 5,
+    "João": 5,
+    "Atos": 4,
+    "Romanos": 2,
+    "Gálatas": 4,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Mt 3:11",
+      "text": "ὑποδήματα βαστάσαι· αὐτὸς",
+      "highlightedWord": "βαστάσαι·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Mt 8:17",
+      "text": "νόσους ἐβάστασεν.",
+      "highlightedWord": "ἐβάστασεν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Mt 20:12",
+      "text": "τοῖς βαστάσασι τὸ",
+      "highlightedWord": "βαστάσασι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Mk 14:13",
+      "text": "ὕδατος βαστάζων· ἀκολουθήσατε",
+      "highlightedWord": "βαστάζων·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Lk 7:14",
+      "text": "δὲ βαστάζοντες ἔστησαν,",
+      "highlightedWord": "βαστάζοντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Lk 10:4",
+      "text": "μὴ βαστάζετε βαλλάντιον,",
+      "highlightedWord": "βαστάζετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Lk 11:27",
+      "text": "ἡ βαστάσασά σε",
+      "highlightedWord": "βαστάσασά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Lk 14:27",
+      "text": "οὐ βαστάζει τὸν",
+      "highlightedWord": "βαστάζει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Lk 22:10",
+      "text": "ὕδατος βαστάζων· ἀκολουθήσατε",
+      "highlightedWord": "βαστάζων·"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Jn 10:31",
+      "text": "Ἐβάστασαν οὖν",
+      "highlightedWord": "Ἐβάστασαν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Jn 12:6",
+      "text": "βαλλόμενα ἐβάσταζεν.",
+      "highlightedWord": "ἐβάσταζεν."
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Jn 16:12",
+      "text": "δύνασθε βαστάζειν ἄρτι·",
+      "highlightedWord": "βαστάζειν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Jn 19:17",
+      "text": "καὶ βαστάζων αὑτῷ",
+      "highlightedWord": "βαστάζων"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Jn 20:15",
+      "text": "σὺ ἐβάστασας αὐτόν,",
+      "highlightedWord": "ἐβάστασας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ac 3:2",
+      "text": "ὑπάρχων ἐβαστάζετο, ὃν",
+      "highlightedWord": "ἐβαστάζετο,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Ac 9:15",
+      "text": "τοῦ βαστάσαι τὸ",
+      "highlightedWord": "βαστάσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Ac 15:10",
+      "text": "ἰσχύσαμεν βαστάσαι;",
+      "highlightedWord": "βαστάσαι;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 35,
+      "reference": "Ac 21:35",
+      "text": "συνέβη βαστάζεσθαι αὐτὸν",
+      "highlightedWord": "βαστάζεσθαι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Ro 11:18",
+      "text": "ῥίζαν βαστάζεις ἀλλὰ",
+      "highlightedWord": "βαστάζεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Ro 15:1",
+      "text": "ἀδυνάτων βαστάζειν, καὶ",
+      "highlightedWord": "βαστάζειν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ga 5:10",
+      "text": "ὑμᾶς βαστάσει τὸ",
+      "highlightedWord": "βαστάσει"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Ga 6:2",
+      "text": "βάρη βαστάζετε, καὶ",
+      "highlightedWord": "βαστάζετε,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Ga 6:5",
+      "text": "φορτίον βαστάσει.",
+      "highlightedWord": "βαστάσει."
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Ga 6:17",
+      "text": "μου βαστάζω.",
+      "highlightedWord": "βαστάζω."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "δύνῃ βαστάσαι κακούς,",
+      "highlightedWord": "βαστάσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Re 2:3",
+      "text": "καὶ ἐβάστασας διὰ",
+      "highlightedWord": "ἐβάστασας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Re 17:7",
+      "text": "τοῦ βαστάζοντος αὐτήν,",
+      "highlightedWord": "βαστάζοντος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

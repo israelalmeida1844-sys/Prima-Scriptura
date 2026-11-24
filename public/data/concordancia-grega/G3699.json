@@ -1,0 +1,627 @@
+{
+  "strong": "G3699",
+  "lemma": "ὅπου",
+  "lemmaTranslit": "hopou",
+  "tokenCount": 81,
+  "verseCount": 75,
+  "bookDistribution": {
+    "Mateus": 13,
+    "Marcos": 15,
+    "Lucas": 5,
+    "João": 30,
+    "Atos": 1,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "Colossenses": 1,
+    "Hebreus": 3,
+    "Tiago": 2,
+    "2 Pedro": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Mt 6:19",
+      "text": "γῆς, ὅπου σὴς",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Mt 6:20",
+      "text": "οὐρανῷ, ὅπου οὔτε",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Mt 6:21",
+      "text": "ὅπου γάρ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Mt 8:19",
+      "text": "σοι ὅπου ἐὰν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mt 13:5",
+      "text": "πετρώδη ὅπου οὐκ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 28,
+      "reference": "Mt 24:28",
+      "text": "ὅπου ἐὰν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 24,
+      "reference": "Mt 25:24",
+      "text": "θερίζων ὅπου οὐκ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 26,
+      "reference": "Mt 25:26",
+      "text": "θερίζω ὅπου οὐκ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 13,
+      "reference": "Mt 26:13",
+      "text": "ὑμῖν, ὅπου ἐὰν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 57,
+      "reference": "Mt 26:57",
+      "text": "ἀρχιερέα, ὅπου οἱ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 6,
+      "reference": "Mt 28:6",
+      "text": "τόπον ὅπου ἔκειτο·",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Mk 2:4",
+      "text": "στέγην ὅπου ἦν,",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mk 4:5",
+      "text": "πετρῶδες ὅπου οὐκ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Mk 4:15",
+      "text": "ὁδὸν ὅπου σπείρεται",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Mk 5:40",
+      "text": "εἰσπορεύεται ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Mk 6:10",
+      "text": "αὐτοῖς· Ὅπου ἐὰν",
+      "highlightedWord": "Ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 55,
+      "reference": "Mk 6:55",
+      "text": "περιφέρειν ὅπου ἤκουον",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 56,
+      "reference": "Mk 6:56",
+      "text": "καὶ ὅπου ἂν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mk 9:18",
+      "text": "καὶ ὅπου ἐὰν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 48,
+      "reference": "Mk 9:48",
+      "text": "ὅπου ὁ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Mk 13:14",
+      "text": "ἑστηκότα ὅπου οὐ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Mk 14:9",
+      "text": "ὑμῖν, ὅπου ἐὰν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Mk 14:14",
+      "text": "καὶ ὅπου ἐὰν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Mk 16:6",
+      "text": "τόπος ὅπου ἔθηκαν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 57,
+      "reference": "Lk 9:57",
+      "text": "σοι ὅπου ἐὰν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Lk 12:33",
+      "text": "οὐρανοῖς, ὅπου κλέπτης",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Lk 12:34",
+      "text": "ὅπου γάρ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 37,
+      "reference": "Lk 17:37",
+      "text": "αὐτοῖς· Ὅπου τὸ",
+      "highlightedWord": "Ὅπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Lk 22:11",
+      "text": "κατάλυμα ὅπου τὸ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Jn 1:28",
+      "text": "Ἰορδάνου, ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jn 3:8",
+      "text": "πνεῦμα ὅπου θέλει",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Jn 4:20",
+      "text": "τόπος ὅπου προσκυνεῖν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 46,
+      "reference": "Jn 4:46",
+      "text": "Γαλιλαίας, ὅπου ἐποίησεν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Jn 6:23",
+      "text": "τόπου ὅπου ἔφαγον",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 62,
+      "reference": "Jn 6:62",
+      "text": "ἀναβαίνοντα ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Jn 7:34",
+      "text": "καὶ ὅπου εἰμὶ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Jn 7:36",
+      "text": "καὶ ὅπου εἰμὶ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Jn 7:42",
+      "text": "κώμης ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Jn 8:21",
+      "text": "ἀποθανεῖσθε· ὅπου ἐγὼ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Jn 8:22",
+      "text": "λέγει· Ὅπου ἐγὼ",
+      "highlightedWord": "Ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Jn 10:40",
+      "text": "τόπον ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Jn 11:30",
+      "text": "τόπῳ ὅπου ὑπήντησεν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "ἦλθεν ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Jn 12:1",
+      "text": "Βηθανίαν, ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Jn 12:26",
+      "text": "καὶ ὅπου εἰμὶ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Jn 13:33",
+      "text": "ὅτι Ὅπου ἐγὼ",
+      "highlightedWord": "Ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 36,
+      "reference": "Jn 13:36",
+      "text": "Ἰησοῦς· Ὅπου ὑπάγω",
+      "highlightedWord": "Ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Jn 14:3",
+      "text": "ἵνα ὅπου εἰμὶ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Jn 14:4",
+      "text": "καὶ ὅπου ἐγὼ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Jn 17:24",
+      "text": "ἵνα ὅπου εἰμὶ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Jn 18:1",
+      "text": "Κεδρὼν ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Jn 18:20",
+      "text": "ἱερῷ, ὅπου πάντες",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Jn 19:18",
+      "text": "ὅπου αὐτὸν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Jn 19:20",
+      "text": "πόλεως ὅπου ἐσταυρώθη",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 41,
+      "reference": "Jn 19:41",
+      "text": "τόπῳ ὅπου ἐσταυρώθη",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Jn 20:12",
+      "text": "ποσίν, ὅπου ἔκειτο",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "κεκλεισμένων ὅπου ἦσαν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Jn 21:18",
+      "text": "περιεπάτεις ὅπου ἤθελες·",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Ac 17:1",
+      "text": "Θεσσαλονίκην, ὅπου ἦν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Ro 15:20",
+      "text": "οὐχ ὅπου ὠνομάσθη",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Co 3:3",
+      "text": "ἐστε. ὅπου γὰρ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Col 3:11",
+      "text": "ὅπου οὐκ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Heb 6:20",
+      "text": "ὅπου πρόδρομος",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Heb 9:16",
+      "text": "ὅπου γὰρ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Heb 10:18",
+      "text": "ὅπου δὲ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Jas 3:4",
+      "text": "πηδαλίου ὅπου ἡ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Jas 3:16",
+      "text": "ὅπου γὰρ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Pe 2:11",
+      "text": "ὅπου ἄγγελοι",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "κατοικεῖς, ὅπου ὁ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Re 11:8",
+      "text": "Αἴγυπτος, ὅπου καὶ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Re 12:6",
+      "text": "ἔρημον, ὅπου ἔχει",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "αὐτῆς, ὅπου τρέφεται",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Re 14:4",
+      "text": "ἀρνίῳ ὅπου ἂν",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Re 17:9",
+      "text": "εἰσίν, ὅπου ἡ",
+      "highlightedWord": "ὅπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Re 20:10",
+      "text": "θείου, ὅπου καὶ",
+      "highlightedWord": "ὅπου"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

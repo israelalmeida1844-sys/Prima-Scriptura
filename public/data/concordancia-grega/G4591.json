@@ -1,0 +1,25 @@
+{
+  "strong": "G4591",
+  "lemma": "σημαίνω",
+  "lemmaTranslit": "sēmainō",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Jo": 3,
+    "At": 2,
+    "Ap": 1
+  },
+  "references": [
+    "Jo 12:33",
+    "Jo 18:32",
+    "Jo 21:19",
+    "At 11:28",
+    "At 25:27",
+    "Ap 1:1"
+  ],
+  "complete": true,
+  "source": "SBL Greek New Testament / MorphGNT",
+  "sourceVersion": "6.12",
+  "license": "CC BY-SA 3.0 / CC BY 4.0",
+  "attribution": "MorphGNT (James K. Tauber) e SBL Greek New Testament"
+}

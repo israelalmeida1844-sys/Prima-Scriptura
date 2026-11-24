@@ -1,0 +1,83 @@
+{
+  "strong": "G2795",
+  "lemma": "κινέω",
+  "lemmaTranslit": "kineō",
+  "tokenCount": 8,
+  "verseCount": 8,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Marcos": 1,
+    "Atos": 3,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 4,
+      "reference": "Mt 23:4",
+      "text": "θέλουσιν κινῆσαι αὐτά.",
+      "highlightedWord": "κινῆσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 39,
+      "reference": "Mt 27:39",
+      "text": "αὐτὸν κινοῦντες τὰς",
+      "highlightedWord": "κινοῦντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mk 15:29",
+      "text": "αὐτὸν κινοῦντες τὰς",
+      "highlightedWord": "κινοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 28,
+      "reference": "Ac 17:28",
+      "text": "καὶ κινούμεθα καὶ",
+      "highlightedWord": "κινούμεθα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Ac 21:30",
+      "text": "ἐκινήθη τε",
+      "highlightedWord": "ἐκινήθη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Ac 24:5",
+      "text": "καὶ κινοῦντα στάσεις",
+      "highlightedWord": "κινοῦντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "καὶ κινήσω τὴν",
+      "highlightedWord": "κινήσω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Re 6:14",
+      "text": "αὐτῶν ἐκινήθησαν.",
+      "highlightedWord": "ἐκινήθησαν."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

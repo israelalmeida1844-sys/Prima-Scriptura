@@ -1,0 +1,41 @@
+{
+  "strong": "G4432",
+  "lemma": "πτωχεία",
+  "lemmaTranslit": "ptōcheia",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "2 Coríntios": 2,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "2Co 8:2",
+      "text": "βάθους πτωχεία αὐτῶν",
+      "highlightedWord": "πτωχεία"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "2Co 8:9",
+      "text": "ἐκείνου πτωχείᾳ πλουτήσητε.",
+      "highlightedWord": "πτωχείᾳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "τὴν πτωχείαν, ἀλλὰ",
+      "highlightedWord": "πτωχείαν,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

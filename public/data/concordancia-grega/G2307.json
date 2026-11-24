@@ -1,0 +1,497 @@
+{
+  "strong": "G2307",
+  "lemma": "θέλημα",
+  "lemmaTranslit": "thelēma",
+  "tokenCount": 62,
+  "verseCount": 58,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 1,
+    "Lucas": 4,
+    "João": 11,
+    "Atos": 3,
+    "Romanos": 4,
+    "1 Coríntios": 3,
+    "2 Coríntios": 2,
+    "Gálatas": 1,
+    "Efésios": 7,
+    "Colossenses": 3,
+    "1 Tessalonicenses": 2,
+    "2 Timóteo": 2,
+    "Hebreus": 5,
+    "1 Pedro": 4,
+    "2 Pedro": 1,
+    "1 João": 2,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Mt 6:10",
+      "text": "τὸ θέλημά σου,",
+      "highlightedWord": "θέλημά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mt 7:21",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 50,
+      "reference": "Mt 12:50",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Mt 18:14",
+      "text": "ἔστιν θέλημα ἔμπροσθεν",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Mt 21:31",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 42,
+      "reference": "Mt 26:42",
+      "text": "τὸ θέλημά σου.",
+      "highlightedWord": "θέλημά"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 35,
+      "reference": "Mk 3:35",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Lk 12:47",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 42,
+      "reference": "Lk 22:42",
+      "text": "τὸ θέλημά μου",
+      "highlightedWord": "θέλημά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 25,
+      "reference": "Lk 23:25",
+      "text": "τῷ θελήματι αὐτῶν.",
+      "highlightedWord": "θελήματι"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jn 1:13",
+      "text": "ἐκ θελήματος σαρκὸς",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Jn 4:34",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Jn 5:30",
+      "text": "τὸ θέλημα τὸ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Jn 6:38",
+      "text": "τὸ θέλημα τὸ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Jn 6:39",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 40,
+      "reference": "Jn 6:40",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Jn 7:17",
+      "text": "τὸ θέλημα αὐτοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Jn 9:31",
+      "text": "τὸ θέλημα αὐτοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Ac 13:22",
+      "text": "τὰ θελήματά μου.",
+      "highlightedWord": "θελήματά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Ac 21:14",
+      "text": "τὸ θέλημα γινέσθω.",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Ac 22:14",
+      "text": "τὸ θέλημα αὐτοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ro 1:10",
+      "text": "τῷ θελήματι τοῦ",
+      "highlightedWord": "θελήματι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Ro 2:18",
+      "text": "τὸ θέλημα καὶ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Ro 12:2",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Ro 15:32",
+      "text": "διὰ θελήματος θεοῦ",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "1Co 1:1",
+      "text": "διὰ θελήματος θεοῦ",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "1Co 7:37",
+      "text": "ἰδίου θελήματος, καὶ",
+      "highlightedWord": "θελήματος,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "1Co 16:12",
+      "text": "ἦν θέλημα ἵνα",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Co 1:1",
+      "text": "διὰ θελήματος θεοῦ",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "2Co 8:5",
+      "text": "διὰ θελήματος θεοῦ,",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Ga 1:4",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Eph 1:1",
+      "text": "διὰ θελήματος θεοῦ",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Eph 1:5",
+      "text": "τοῦ θελήματος αὐτοῦ,",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Eph 1:9",
+      "text": "τοῦ θελήματος αὐτοῦ,",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Eph 1:11",
+      "text": "τοῦ θελήματος αὐτοῦ,",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Eph 2:3",
+      "text": "τὰ θελήματα τῆς",
+      "highlightedWord": "θελήματα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Eph 5:17",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Eph 6:6",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Col 1:1",
+      "text": "διὰ θελήματος θεοῦ",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Col 1:9",
+      "text": "τοῦ θελήματος αὐτοῦ",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Col 4:12",
+      "text": "παντὶ θελήματι τοῦ",
+      "highlightedWord": "θελήματι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Th 4:3",
+      "text": "ἐστιν θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "1Th 5:18",
+      "text": "γὰρ θέλημα θεοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Ti 1:1",
+      "text": "διὰ θελήματος θεοῦ",
+      "highlightedWord": "θελήματος"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "2Ti 2:26",
+      "text": "ἐκείνου θέλημα.",
+      "highlightedWord": "θέλημα."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Heb 10:7",
+      "text": "τὸ θέλημά σου.",
+      "highlightedWord": "θέλημά"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Heb 10:9",
+      "text": "τὸ θέλημά σου·",
+      "highlightedWord": "θέλημά"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Heb 10:10",
+      "text": "ᾧ θελήματι ἡγιασμένοι",
+      "highlightedWord": "θελήματι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Heb 10:36",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Heb 13:21",
+      "text": "τὸ θέλημα αὐτοῦ,",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Pe 2:15",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Pe 3:17",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Pe 4:2",
+      "text": "ἀλλὰ θελήματι θεοῦ",
+      "highlightedWord": "θελήματι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Pe 4:19",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "2Pe 1:21",
+      "text": "γὰρ θελήματι ἀνθρώπου",
+      "highlightedWord": "θελήματι"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "1Jn 2:17",
+      "text": "τὸ θέλημα τοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Jn 5:14",
+      "text": "τὸ θέλημα αὐτοῦ",
+      "highlightedWord": "θέλημα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Re 4:11",
+      "text": "τὸ θέλημά σου",
+      "highlightedWord": "θέλημά"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

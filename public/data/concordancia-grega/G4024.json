@@ -1,0 +1,66 @@
+{
+  "strong": "G4024",
+  "lemma": "περιζώννυμι",
+  "lemmaTranslit": "perizōnnymi",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Lucas": 3,
+    "Efésios": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Lk 12:35",
+      "text": "ὀσφύες περιεζωσμέναι καὶ",
+      "highlightedWord": "περιεζωσμέναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Lk 12:37",
+      "text": "ὅτι περιζώσεται καὶ",
+      "highlightedWord": "περιζώσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Lk 17:8",
+      "text": "καὶ περιζωσάμενος διακόνει",
+      "highlightedWord": "περιζωσάμενος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Eph 6:14",
+      "text": "οὖν περιζωσάμενοι τὴν",
+      "highlightedWord": "περιζωσάμενοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "καὶ περιεζωσμένον πρὸς",
+      "highlightedWord": "περιεζωσμένον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Re 15:6",
+      "text": "καὶ περιεζωσμένοι περὶ",
+      "highlightedWord": "περιεζωσμένοι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

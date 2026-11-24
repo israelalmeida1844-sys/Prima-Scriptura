@@ -1,0 +1,42 @@
+{
+  "strong": "G903",
+  "lemma": "Βαλαάμ",
+  "lemmaTranslit": "Balaam",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "2 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "2Pe 2:15",
+      "text": "τοῦ Βαλαὰμ τοῦ",
+      "highlightedWord": "Βαλαὰμ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Jud 1:11",
+      "text": "τοῦ Βαλαὰμ μισθοῦ",
+      "highlightedWord": "Βαλαὰμ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "διδαχὴν Βαλαάμ, ὃς",
+      "highlightedWord": "Βαλαάμ,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

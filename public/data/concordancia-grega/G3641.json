@@ -1,0 +1,346 @@
+{
+  "strong": "G3641",
+  "lemma": "ὀλίγος",
+  "lemmaTranslit": "oligos",
+  "tokenCount": 41,
+  "verseCount": 40,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 4,
+    "Lucas": 7,
+    "Atos": 10,
+    "2 Coríntios": 1,
+    "Efésios": 1,
+    "1 Timóteo": 2,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "1 Pedro": 4,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Mt 7:14",
+      "text": "καὶ ὀλίγοι εἰσὶν",
+      "highlightedWord": "ὀλίγοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Mt 9:37",
+      "text": "ἐργάται ὀλίγοι·",
+      "highlightedWord": "ὀλίγοι·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "Mt 15:34",
+      "text": "καὶ ὀλίγα ἰχθύδια.",
+      "highlightedWord": "ὀλίγα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Mt 22:14",
+      "text": "κλητοὶ ὀλίγοι δὲ",
+      "highlightedWord": "ὀλίγοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 21,
+      "reference": "Mt 25:21",
+      "text": "ἐπὶ ὀλίγα ἦς",
+      "highlightedWord": "ὀλίγα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 23,
+      "reference": "Mt 25:23",
+      "text": "ἐπὶ ὀλίγα ἦς",
+      "highlightedWord": "ὀλίγα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Mk 1:19",
+      "text": "προβὰς ὀλίγον εἶδεν",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mk 6:5",
+      "text": "μὴ ὀλίγοις ἀρρώστοις",
+      "highlightedWord": "ὀλίγοις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mk 6:31",
+      "text": "ἀναπαύσασθε ὀλίγον. ἦσαν",
+      "highlightedWord": "ὀλίγον."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Mk 8:7",
+      "text": "ἰχθύδια ὀλίγα· καὶ",
+      "highlightedWord": "ὀλίγα·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Lk 5:3",
+      "text": "ἐπαναγαγεῖν ὀλίγον, καθίσας",
+      "highlightedWord": "ὀλίγον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 47,
+      "reference": "Lk 7:47",
+      "text": "δὲ ὀλίγον ἀφίεται,",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Lk 10:2",
+      "text": "ἐργάται ὀλίγοι· δεήθητε",
+      "highlightedWord": "ὀλίγοι·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Lk 10:42",
+      "text": "ὀλίγων δέ",
+      "highlightedWord": "ὀλίγων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Lk 12:48",
+      "text": "δαρήσεται ὀλίγας. παντὶ",
+      "highlightedWord": "ὀλίγας."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 23,
+      "reference": "Lk 13:23",
+      "text": "εἰ ὀλίγοι οἱ",
+      "highlightedWord": "ὀλίγοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Ac 12:18",
+      "text": "οὐκ ὀλίγος ἐν",
+      "highlightedWord": "ὀλίγος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Ac 14:28",
+      "text": "οὐκ ὀλίγον σὺν",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ac 15:2",
+      "text": "οὐκ ὀλίγης τῷ",
+      "highlightedWord": "ὀλίγης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Ac 17:4",
+      "text": "οὐκ ὀλίγαι.",
+      "highlightedWord": "ὀλίγαι."
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Ac 17:12",
+      "text": "οὐκ ὀλίγοι.",
+      "highlightedWord": "ὀλίγοι."
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Ac 19:23",
+      "text": "οὐκ ὀλίγος περὶ",
+      "highlightedWord": "ὀλίγος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Ac 19:24",
+      "text": "οὐκ ὀλίγην ἐργασίαν,",
+      "highlightedWord": "ὀλίγην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 28,
+      "reference": "Ac 26:28",
+      "text": "Ἐν ὀλίγῳ με",
+      "highlightedWord": "ὀλίγῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 29,
+      "reference": "Ac 26:29",
+      "text": "ἐν ὀλίγῳ καὶ",
+      "highlightedWord": "ὀλίγῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 20,
+      "reference": "Ac 27:20",
+      "text": "οὐκ ὀλίγου ἐπικειμένου,",
+      "highlightedWord": "ὀλίγου"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "2Co 8:15",
+      "text": "τὸ ὀλίγον οὐκ",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Eph 3:3",
+      "text": "ἐν ὀλίγῳ,",
+      "highlightedWord": "ὀλίγῳ,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Ti 4:8",
+      "text": "πρὸς ὀλίγον ἐστὶν",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "1Ti 5:23",
+      "text": "οἴνῳ ὀλίγῳ χρῶ",
+      "highlightedWord": "ὀλίγῳ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Heb 12:10",
+      "text": "πρὸς ὀλίγας ἡμέρας",
+      "highlightedWord": "ὀλίγας"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Jas 4:14",
+      "text": "πρὸς ὀλίγον φαινομένη,",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Pe 1:6",
+      "text": "ἀγαλλιᾶσθε, ὀλίγον ἄρτι",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "1Pe 3:20",
+      "text": "ἣν ὀλίγοι, τοῦτ’",
+      "highlightedWord": "ὀλίγοι,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Pe 5:10",
+      "text": "Χριστῷ, ὀλίγον παθόντας",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Pe 5:12",
+      "text": "δι’ ὀλίγων ἔγραψα,",
+      "highlightedWord": "ὀλίγων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "σοῦ ὀλίγα, ὅτι",
+      "highlightedWord": "ὀλίγα,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Re 3:4",
+      "text": "ἔχεις ὀλίγα ὀνόματα",
+      "highlightedWord": "ὀλίγα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Re 12:12",
+      "text": "ὅτι ὀλίγον καιρὸν",
+      "highlightedWord": "ὀλίγον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Re 17:10",
+      "text": "ἔλθῃ ὀλίγον αὐτὸν",
+      "highlightedWord": "ὀλίγον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

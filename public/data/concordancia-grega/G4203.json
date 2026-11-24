@@ -1,0 +1,73 @@
+{
+  "strong": "G4203",
+  "lemma": "πορνεύω",
+  "lemmaTranslit": "porneuō",
+  "tokenCount": 8,
+  "verseCount": 7,
+  "bookDistribution": {
+    "1 Coríntios": 3,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "1Co 6:18",
+      "text": "δὲ πορνεύων εἰς",
+      "highlightedWord": "πορνεύων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "1Co 10:8",
+      "text": "μηδὲ πορνεύωμεν, καθώς",
+      "highlightedWord": "πορνεύωμεν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "καὶ πορνεῦσαι·",
+      "highlightedWord": "πορνεῦσαι·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "δούλους πορνεῦσαι καὶ",
+      "highlightedWord": "πορνεῦσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Re 17:2",
+      "text": "ἧς ἐπόρνευσαν οἱ",
+      "highlightedWord": "ἐπόρνευσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Re 18:3",
+      "text": "αὐτῆς ἐπόρνευσαν, καὶ",
+      "highlightedWord": "ἐπόρνευσαν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Re 18:9",
+      "text": "αὐτῆς πορνεύσαντες καὶ",
+      "highlightedWord": "πορνεύσαντες"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

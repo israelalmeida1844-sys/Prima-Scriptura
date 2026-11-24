@@ -1,0 +1,229 @@
+{
+  "strong": "G228",
+  "lemma": "ἀληθινός",
+  "lemmaTranslit": "alēthinos",
+  "tokenCount": 28,
+  "verseCount": 26,
+  "bookDistribution": {
+    "Lucas": 1,
+    "João": 9,
+    "1 Tessalonicenses": 1,
+    "Hebreus": 3,
+    "1 João": 4,
+    "Apocalipse": 10
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "Lk 16:11",
+      "text": "τὸ ἀληθινὸν τίς",
+      "highlightedWord": "ἀληθινὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Jn 1:9",
+      "text": "τὸ ἀληθινὸν ὃ",
+      "highlightedWord": "ἀληθινὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Jn 4:23",
+      "text": "οἱ ἀληθινοὶ προσκυνηταὶ",
+      "highlightedWord": "ἀληθινοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Jn 4:37",
+      "text": "ἐστὶν ἀληθινὸς ὅτι",
+      "highlightedWord": "ἀληθινὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Jn 6:32",
+      "text": "τὸν ἀληθινόν·",
+      "highlightedWord": "ἀληθινόν·"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Jn 7:28",
+      "text": "ἔστιν ἀληθινὸς ὁ",
+      "highlightedWord": "ἀληθινὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Jn 8:16",
+      "text": "ἐμὴ ἀληθινή ἐστιν,",
+      "highlightedWord": "ἀληθινή"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Jn 15:1",
+      "text": "ἡ ἀληθινή, καὶ",
+      "highlightedWord": "ἀληθινή,"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Jn 17:3",
+      "text": "μόνον ἀληθινὸν θεὸν",
+      "highlightedWord": "ἀληθινὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Jn 19:35",
+      "text": "καὶ ἀληθινὴ αὐτοῦ",
+      "highlightedWord": "ἀληθινὴ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Th 1:9",
+      "text": "καὶ ἀληθινῷ,",
+      "highlightedWord": "ἀληθινῷ,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Heb 8:2",
+      "text": "τῆς ἀληθινῆς, ἣν",
+      "highlightedWord": "ἀληθινῆς,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Heb 9:24",
+      "text": "τῶν ἀληθινῶν, ἀλλ’",
+      "highlightedWord": "ἀληθινῶν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Heb 10:22",
+      "text": "μετὰ ἀληθινῆς καρδίας",
+      "highlightedWord": "ἀληθινῆς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Jn 2:8",
+      "text": "τὸ ἀληθινὸν ἤδη",
+      "highlightedWord": "ἀληθινὸν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Jn 5:20",
+      "text": "τὸν ἀληθινόν· καὶ",
+      "highlightedWord": "ἀληθινόν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "ὁ ἀληθινός, ὁ",
+      "highlightedWord": "ἀληθινός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Re 3:14",
+      "text": "καὶ ἀληθινός, ἡ",
+      "highlightedWord": "ἀληθινός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Re 6:10",
+      "text": "καὶ ἀληθινός, οὐ",
+      "highlightedWord": "ἀληθινός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Re 15:3",
+      "text": "καὶ ἀληθιναὶ αἱ",
+      "highlightedWord": "ἀληθιναὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Re 16:7",
+      "text": "παντοκράτωρ, ἀληθιναὶ καὶ",
+      "highlightedWord": "ἀληθιναὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Re 19:2",
+      "text": "ὅτι ἀληθιναὶ καὶ",
+      "highlightedWord": "ἀληθιναὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Re 19:9",
+      "text": "λόγοι ἀληθινοὶ τοῦ",
+      "highlightedWord": "ἀληθινοὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Re 19:11",
+      "text": "καὶ ἀληθινός, καὶ",
+      "highlightedWord": "ἀληθινός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Re 21:5",
+      "text": "καὶ ἀληθινοί εἰσιν.",
+      "highlightedWord": "ἀληθινοί"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 6,
+      "reference": "Re 22:6",
+      "text": "καὶ ἀληθινοί, καὶ",
+      "highlightedWord": "ἀληθινοί,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

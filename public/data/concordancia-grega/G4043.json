@@ -1,0 +1,739 @@
+{
+  "strong": "G4043",
+  "lemma": "περιπατέω",
+  "lemmaTranslit": "peripateō",
+  "tokenCount": 95,
+  "verseCount": 88,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 9,
+    "Lucas": 5,
+    "João": 17,
+    "Atos": 8,
+    "Romanos": 4,
+    "1 Coríntios": 2,
+    "2 Coríntios": 5,
+    "Gálatas": 1,
+    "Efésios": 8,
+    "Filipenses": 2,
+    "Colossenses": 4,
+    "1 Tessalonicenses": 4,
+    "2 Tessalonicenses": 2,
+    "Hebreus": 1,
+    "1 Pedro": 1,
+    "1 João": 5,
+    "2 João": 3,
+    "3 João": 2,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Mt 4:18",
+      "text": "Περιπατῶν δὲ",
+      "highlightedWord": "Περιπατῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Mt 9:5",
+      "text": "καὶ περιπάτει;",
+      "highlightedWord": "περιπάτει;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Mt 11:5",
+      "text": "χωλοὶ περιπατοῦσιν, λεπροὶ",
+      "highlightedWord": "περιπατοῦσιν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mt 14:25",
+      "text": "αὐτοὺς περιπατῶν ἐπὶ",
+      "highlightedWord": "περιπατῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Mt 14:26",
+      "text": "θαλάσσης περιπατοῦντα ἐταράχθησαν",
+      "highlightedWord": "περιπατοῦντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Mt 14:29",
+      "text": "Πέτρος περιεπάτησεν ἐπὶ",
+      "highlightedWord": "περιεπάτησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mt 15:31",
+      "text": "χωλοὺς περιπατοῦντας καὶ",
+      "highlightedWord": "περιπατοῦντας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Mk 2:9",
+      "text": "καὶ περιπάτει;",
+      "highlightedWord": "περιπάτει;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Mk 5:42",
+      "text": "καὶ περιεπάτει, ἦν",
+      "highlightedWord": "περιεπάτει,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Mk 6:48",
+      "text": "αὐτοὺς περιπατῶν ἐπὶ",
+      "highlightedWord": "περιπατῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Mk 6:49",
+      "text": "θαλάσσης περιπατοῦντα ἔδοξαν",
+      "highlightedWord": "περιπατοῦντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Mk 7:5",
+      "text": "οὐ περιπατοῦσιν οἱ",
+      "highlightedWord": "περιπατοῦσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Mk 8:24",
+      "text": "ὁρῶ περιπατοῦντας.",
+      "highlightedWord": "περιπατοῦντας."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Mk 11:27",
+      "text": "ἱερῷ περιπατοῦντος αὐτοῦ",
+      "highlightedWord": "περιπατοῦντος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Mk 12:38",
+      "text": "στολαῖς περιπατεῖν καὶ",
+      "highlightedWord": "περιπατεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Mk 16:12",
+      "text": "αὐτῶν περιπατοῦσιν ἐφανερώθη",
+      "highlightedWord": "περιπατοῦσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Lk 5:23",
+      "text": "καὶ περιπάτει;",
+      "highlightedWord": "περιπάτει;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Lk 7:22",
+      "text": "χωλοὶ περιπατοῦσιν, λεπροὶ",
+      "highlightedWord": "περιπατοῦσιν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Lk 11:44",
+      "text": "οἱ περιπατοῦντες ἐπάνω",
+      "highlightedWord": "περιπατοῦντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 46,
+      "reference": "Lk 20:46",
+      "text": "θελόντων περιπατεῖν ἐν",
+      "highlightedWord": "περιπατεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 17,
+      "reference": "Lk 24:17",
+      "text": "ἀλλήλους περιπατοῦντες; καὶ",
+      "highlightedWord": "περιπατοῦντες;"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 36,
+      "reference": "Jn 1:36",
+      "text": "Ἰησοῦ περιπατοῦντι λέγει·",
+      "highlightedWord": "περιπατοῦντι"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Jn 5:8",
+      "text": "καὶ περιπάτει.",
+      "highlightedWord": "περιπάτει."
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jn 5:9",
+      "text": "καὶ περιεπάτει. Ἦν",
+      "highlightedWord": "περιεπάτει."
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Jn 5:11",
+      "text": "καὶ περιπάτει.",
+      "highlightedWord": "περιπάτει."
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jn 5:12",
+      "text": "καὶ περιπάτει;",
+      "highlightedWord": "περιπάτει;"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Jn 6:19",
+      "text": "Ἰησοῦν περιπατοῦντα ἐπὶ",
+      "highlightedWord": "περιπατοῦντα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 66,
+      "reference": "Jn 6:66",
+      "text": "αὐτοῦ περιεπάτουν.",
+      "highlightedWord": "περιεπάτουν."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Jn 7:1",
+      "text": "ταῦτα περιεπάτει ὁ",
+      "highlightedWord": "περιεπάτει"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Jn 8:12",
+      "text": "μὴ περιπατήσῃ ἐν",
+      "highlightedWord": "περιπατήσῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Jn 10:23",
+      "text": "καὶ περιεπάτει ὁ",
+      "highlightedWord": "περιεπάτει"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Jn 11:9",
+      "text": "τις περιπατῇ ἐν",
+      "highlightedWord": "περιπατῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Jn 11:10",
+      "text": "τις περιπατῇ ἐν",
+      "highlightedWord": "περιπατῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 54,
+      "reference": "Jn 11:54",
+      "text": "παρρησίᾳ περιεπάτει ἐν",
+      "highlightedWord": "περιεπάτει"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "ἐστιν. περιπατεῖτε ὡς",
+      "highlightedWord": "περιπατεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Jn 21:18",
+      "text": "καὶ περιεπάτεις ὅπου",
+      "highlightedWord": "περιεπάτεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Ac 3:6",
+      "text": "Ναζωραίου περιπάτει.",
+      "highlightedWord": "περιπάτει."
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ac 3:8",
+      "text": "καὶ περιεπάτει, καὶ",
+      "highlightedWord": "περιεπάτει,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Ac 3:9",
+      "text": "αὐτὸν περιπατοῦντα καὶ",
+      "highlightedWord": "περιπατοῦντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Ac 3:12",
+      "text": "τοῦ περιπατεῖν αὐτόν;",
+      "highlightedWord": "περιπατεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Ac 14:8",
+      "text": "οὐδέποτε περιεπάτησεν.",
+      "highlightedWord": "περιεπάτησεν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Ac 14:10",
+      "text": "καὶ περιεπάτει.",
+      "highlightedWord": "περιεπάτει."
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Ac 21:21",
+      "text": "ἔθεσιν περιπατεῖν.",
+      "highlightedWord": "περιπατεῖν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ro 6:4",
+      "text": "ζωῆς περιπατήσωμεν.",
+      "highlightedWord": "περιπατήσωμεν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Ro 8:4",
+      "text": "σάρκα περιπατοῦσιν ἀλλὰ",
+      "highlightedWord": "περιπατοῦσιν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Ro 13:13",
+      "text": "εὐσχημόνως περιπατήσωμεν, μὴ",
+      "highlightedWord": "περιπατήσωμεν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ro 14:15",
+      "text": "ἀγάπην περιπατεῖς. μὴ",
+      "highlightedWord": "περιπατεῖς."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Co 3:3",
+      "text": "ἄνθρωπον περιπατεῖτε;",
+      "highlightedWord": "περιπατεῖτε;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "1Co 7:17",
+      "text": "οὕτως περιπατείτω· καὶ",
+      "highlightedWord": "περιπατείτω·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Co 4:2",
+      "text": "μὴ περιπατοῦντες ἐν",
+      "highlightedWord": "περιπατοῦντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "2Co 5:7",
+      "text": "γὰρ περιπατοῦμεν, οὐ",
+      "highlightedWord": "περιπατοῦμεν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "2Co 10:2",
+      "text": "σάρκα περιπατοῦντας.",
+      "highlightedWord": "περιπατοῦντας."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "2Co 10:3",
+      "text": "γὰρ περιπατοῦντες οὐ",
+      "highlightedWord": "περιπατοῦντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "2Co 12:18",
+      "text": "πνεύματι περιεπατήσαμεν; οὐ",
+      "highlightedWord": "περιεπατήσαμεν;"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Ga 5:16",
+      "text": "πνεύματι περιπατεῖτε καὶ",
+      "highlightedWord": "περιπατεῖτε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Eph 2:2",
+      "text": "ποτε περιεπατήσατε κατὰ",
+      "highlightedWord": "περιεπατήσατε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Eph 2:10",
+      "text": "αὐτοῖς περιπατήσωμεν.",
+      "highlightedWord": "περιπατήσωμεν."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Eph 4:1",
+      "text": "ἀξίως περιπατῆσαι τῆς",
+      "highlightedWord": "περιπατῆσαι"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Eph 4:17",
+      "text": "ὑμᾶς περιπατεῖν καθὼς",
+      "highlightedWord": "περιπατεῖν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Eph 5:2",
+      "text": "καὶ περιπατεῖτε ἐν",
+      "highlightedWord": "περιπατεῖτε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Eph 5:8",
+      "text": "φωτὸς περιπατεῖτε,",
+      "highlightedWord": "περιπατεῖτε,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Eph 5:15",
+      "text": "πῶς περιπατεῖτε, μὴ",
+      "highlightedWord": "περιπατεῖτε,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Php 3:17",
+      "text": "οὕτω περιπατοῦντας καθὼς",
+      "highlightedWord": "περιπατοῦντας"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Php 3:18",
+      "text": "γὰρ περιπατοῦσιν οὓς",
+      "highlightedWord": "περιπατοῦσιν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Col 1:10",
+      "text": "περιπατῆσαι ἀξίως",
+      "highlightedWord": "περιπατῆσαι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Col 2:6",
+      "text": "αὐτῷ περιπατεῖτε,",
+      "highlightedWord": "περιπατεῖτε,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Col 3:7",
+      "text": "ὑμεῖς περιεπατήσατέ ποτε",
+      "highlightedWord": "περιεπατήσατέ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Col 4:5",
+      "text": "σοφίᾳ περιπατεῖτε πρὸς",
+      "highlightedWord": "περιπατεῖτε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Th 2:12",
+      "text": "τὸ περιπατεῖν ὑμᾶς",
+      "highlightedWord": "περιπατεῖν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Th 4:1",
+      "text": "ὑμᾶς περιπατεῖν καὶ",
+      "highlightedWord": "περιπατεῖν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Th 4:12",
+      "text": "ἵνα περιπατῆτε εὐσχημόνως",
+      "highlightedWord": "περιπατῆτε"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "2Th 3:6",
+      "text": "ἀτάκτως περιπατοῦντος καὶ",
+      "highlightedWord": "περιπατοῦντος"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "2Th 3:11",
+      "text": "τινας περιπατοῦντας ἐν",
+      "highlightedWord": "περιπατοῦντας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Heb 13:9",
+      "text": "οἱ περιπατοῦντες.",
+      "highlightedWord": "περιπατοῦντες."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Pe 5:8",
+      "text": "ὠρυόμενος περιπατεῖ ζητῶν",
+      "highlightedWord": "περιπατεῖ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Jn 1:6",
+      "text": "σκότει περιπατῶμεν, ψευδόμεθα",
+      "highlightedWord": "περιπατῶμεν,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Jn 1:7",
+      "text": "φωτὶ περιπατῶμεν ὡς",
+      "highlightedWord": "περιπατῶμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Jn 2:6",
+      "text": "ἐκεῖνος περιεπάτησεν καὶ",
+      "highlightedWord": "περιεπάτησεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Jn 2:11",
+      "text": "σκοτίᾳ περιπατεῖ, καὶ",
+      "highlightedWord": "περιπατεῖ,"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Jn 1:4",
+      "text": "σου περιπατοῦντας ἐν",
+      "highlightedWord": "περιπατοῦντας"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Jn 1:6",
+      "text": "ἵνα περιπατῶμεν κατὰ",
+      "highlightedWord": "περιπατῶμεν"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "3Jn 1:3",
+      "text": "ἀληθείᾳ περιπατεῖς.",
+      "highlightedWord": "περιπατεῖς."
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "3Jn 1:4",
+      "text": "ἀληθείᾳ περιπατοῦντα.",
+      "highlightedWord": "περιπατοῦντα."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "ὁ περιπατῶν ἐν",
+      "highlightedWord": "περιπατῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Re 3:4",
+      "text": "καὶ περιπατήσουσιν μετ’",
+      "highlightedWord": "περιπατήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "οὔτε περιπατεῖν,",
+      "highlightedWord": "περιπατεῖν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Re 16:15",
+      "text": "γυμνὸς περιπατῇ καὶ",
+      "highlightedWord": "περιπατῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Re 21:24",
+      "text": "καὶ περιπατήσουσιν τὰ",
+      "highlightedWord": "περιπατήσουσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

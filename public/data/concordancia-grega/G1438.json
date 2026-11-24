@@ -1,0 +1,2504 @@
+{
+  "strong": "G1438",
+  "lemma": "ἑαυτοῦ",
+  "lemmaTranslit": "heautou",
+  "tokenCount": 333,
+  "verseCount": 308,
+  "bookDistribution": {
+    "Mateus": 32,
+    "Marcos": 25,
+    "Lucas": 60,
+    "João": 30,
+    "Atos": 22,
+    "Romanos": 22,
+    "1 Coríntios": 16,
+    "2 Coríntios": 29,
+    "Gálatas": 7,
+    "Efésios": 15,
+    "Filipenses": 7,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 6,
+    "2 Tessalonicenses": 4,
+    "1 Timóteo": 5,
+    "2 Timóteo": 3,
+    "Tito": 2,
+    "Hebreus": 15,
+    "Tiago": 5,
+    "1 Pedro": 4,
+    "2 Pedro": 1,
+    "1 João": 4,
+    "2 João": 1,
+    "Judas": 6,
+    "Apocalipse": 10
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Mt 3:9",
+      "text": "ἐν ἑαυτοῖς· Πατέρα",
+      "highlightedWord": "ἑαυτοῖς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mt 6:34",
+      "text": "μεριμνήσει αὑτῆς· ἀρκετὸν",
+      "highlightedWord": "αὑτῆς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Mt 8:22",
+      "text": "τοὺς ἑαυτῶν νεκρούς.",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Mt 9:3",
+      "text": "ἐν ἑαυτοῖς· Οὗτος",
+      "highlightedWord": "ἑαυτοῖς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Mt 9:21",
+      "text": "ἐν ἑαυτῇ· Ἐὰν",
+      "highlightedWord": "ἑαυτῇ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mt 12:25",
+      "text": "καθ’ ἑαυτῆς ἐρημοῦται,",
+      "highlightedWord": "ἑαυτῆς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Mt 12:26",
+      "text": "ἐφ’ ἑαυτὸν ἐμερίσθη·",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "μεθ’ ἑαυτοῦ ἑπτὰ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mt 13:21",
+      "text": "ἐν ἑαυτῷ ἀλλὰ",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Mt 14:15",
+      "text": "ἀγοράσωσιν ἑαυτοῖς βρώματα.",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Mt 15:30",
+      "text": "μεθ’ ἑαυτῶν κωφούς,",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Mt 16:7",
+      "text": "ἐν ἑαυτοῖς λέγοντες",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Mt 16:8",
+      "text": "ἐν ἑαυτοῖς, ὀλιγόπιστοι,",
+      "highlightedWord": "ἑαυτοῖς,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Mt 16:24",
+      "text": "ἀπαρνησάσθω ἑαυτὸν καὶ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Mt 18:4",
+      "text": "ταπεινώσει ἑαυτὸν ὡς",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Mt 18:31",
+      "text": "κυρίῳ ἑαυτῶν πάντα",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Mt 19:12",
+      "text": "εὐνούχισαν ἑαυτοὺς διὰ",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Mt 21:8",
+      "text": "ἔστρωσαν ἑαυτῶν τὰ",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Mt 21:25",
+      "text": "ἐν ἑαυτοῖς λέγοντες·",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 38,
+      "reference": "Mt 21:38",
+      "text": "ἐν ἑαυτοῖς· Οὗτός",
+      "highlightedWord": "ἑαυτοῖς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Mt 23:12",
+      "text": "ὑψώσει ἑαυτὸν ταπεινωθήσεται,",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 31,
+      "reference": "Mt 23:31",
+      "text": "μαρτυρεῖτε ἑαυτοῖς ὅτι",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 1,
+      "reference": "Mt 25:1",
+      "text": "λαμπάδας ἑαυτῶν ἐξῆλθον",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 3,
+      "reference": "Mt 25:3",
+      "text": "μεθ’ ἑαυτῶν ἔλαιον·",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 4,
+      "reference": "Mt 25:4",
+      "text": "λαμπάδων ἑαυτῶν.",
+      "highlightedWord": "ἑαυτῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 7,
+      "reference": "Mt 25:7",
+      "text": "λαμπάδας ἑαυτῶν.",
+      "highlightedWord": "ἑαυτῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 9,
+      "reference": "Mt 25:9",
+      "text": "ἀγοράσατε ἑαυταῖς.",
+      "highlightedWord": "ἑαυταῖς."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 11,
+      "reference": "Mt 26:11",
+      "text": "μεθ’ ἑαυτῶν, ἐμὲ",
+      "highlightedWord": "ἑαυτῶν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 42,
+      "reference": "Mt 27:42",
+      "text": "ἔσωσεν, ἑαυτὸν οὐ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Mk 1:27",
+      "text": "πρὸς ἑαυτοὺς λέγοντας·",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Mk 2:8",
+      "text": "ἐν ἑαυτοῖς λέγει",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Mk 3:24",
+      "text": "ἐφ’ ἑαυτὴν μερισθῇ,",
+      "highlightedWord": "ἑαυτὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Mk 3:25",
+      "text": "ἐφ’ ἑαυτὴν μερισθῇ,",
+      "highlightedWord": "ἑαυτὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Mk 3:26",
+      "text": "ἐφ’ ἑαυτὸν καὶ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Mk 4:17",
+      "text": "ἐν ἑαυτοῖς ἀλλὰ",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Mk 5:5",
+      "text": "κατακόπτων ἑαυτὸν λίθοις.",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mk 5:30",
+      "text": "ἐν ἑαυτῷ τὴν",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 36,
+      "reference": "Mk 6:36",
+      "text": "ἀγοράσωσιν ἑαυτοῖς τί",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 51,
+      "reference": "Mk 6:51",
+      "text": "ἐν ἑαυτοῖς ἐξίσταντο,",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Mk 8:14",
+      "text": "μεθ’ ἑαυτῶν ἐν",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Mk 8:34",
+      "text": "ἀπαρνησάσθω ἑαυτὸν καὶ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Mk 9:8",
+      "text": "μεθ’ ἑαυτῶν.",
+      "highlightedWord": "ἑαυτῶν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Mk 9:10",
+      "text": "πρὸς ἑαυτοὺς συζητοῦντες",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Mk 9:16",
+      "text": "πρὸς αὑτούς;",
+      "highlightedWord": "αὑτούς;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 50,
+      "reference": "Mk 9:50",
+      "text": "ἐν ἑαυτοῖς ἅλα,",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Mk 10:26",
+      "text": "πρὸς ἑαυτούς· Καὶ",
+      "highlightedWord": "ἑαυτούς·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Mk 11:31",
+      "text": "πρὸς ἑαυτοὺς λέγοντες·",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Mk 12:7",
+      "text": "πρὸς ἑαυτοὺς εἶπαν",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Mk 12:33",
+      "text": "ὡς ἑαυτὸν περισσότερόν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Mk 13:9",
+      "text": "ὑμεῖς ἑαυτούς· παραδώσουσιν",
+      "highlightedWord": "ἑαυτούς·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Mk 14:4",
+      "text": "πρὸς ἑαυτούς· Εἰς",
+      "highlightedWord": "ἑαυτούς·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Mk 14:7",
+      "text": "μεθ’ ἑαυτῶν, καὶ",
+      "highlightedWord": "ἑαυτῶν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mk 15:31",
+      "text": "ἔσωσεν, ἑαυτὸν οὐ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Mk 16:3",
+      "text": "πρὸς ἑαυτάς· Τίς",
+      "highlightedWord": "ἑαυτάς·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Lk 1:24",
+      "text": "περιέκρυβεν ἑαυτὴν μῆνας",
+      "highlightedWord": "ἑαυτὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Lk 2:3",
+      "text": "τὴν ἑαυτοῦ πόλιν.",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 39,
+      "reference": "Lk 2:39",
+      "text": "πόλιν ἑαυτῶν Ναζαρέθ.",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Lk 3:8",
+      "text": "ἐν ἑαυτοῖς· Πατέρα",
+      "highlightedWord": "ἑαυτοῖς·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Lk 7:30",
+      "text": "εἰς ἑαυτούς, μὴ",
+      "highlightedWord": "ἑαυτούς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Lk 7:39",
+      "text": "ἐν ἑαυτῷ λέγων·",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Lk 7:49",
+      "text": "ἐν ἑαυτοῖς· Τίς",
+      "highlightedWord": "ἑαυτοῖς·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "ἀρνησάσθω ἑαυτὸν καὶ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Lk 9:25",
+      "text": "ὅλον ἑαυτὸν δὲ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Lk 9:47",
+      "text": "παρ’ ἑαυτῷ,",
+      "highlightedWord": "ἑαυτῷ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 60,
+      "reference": "Lk 9:60",
+      "text": "τοὺς ἑαυτῶν νεκρούς,",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Lk 10:29",
+      "text": "δικαιῶσαι ἑαυτὸν εἶπεν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Lk 11:17",
+      "text": "ἐφ’ ἑαυτὴν διαμερισθεῖσα",
+      "highlightedWord": "ἑαυτὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Lk 11:18",
+      "text": "ἐφ’ ἑαυτὸν διεμερίσθη,",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Lk 11:21",
+      "text": "τὴν ἑαυτοῦ αὐλήν,",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Lk 11:26",
+      "text": "πονηρότερα ἑαυτοῦ ἑπτά,",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Lk 12:1",
+      "text": "Προσέχετε ἑαυτοῖς ἀπὸ",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Lk 12:17",
+      "text": "ἐν ἑαυτῷ λέγων·",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Lk 12:21",
+      "text": "θησαυρίζων ἑαυτῷ καὶ",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Lk 12:33",
+      "text": "ποιήσατε ἑαυτοῖς βαλλάντια",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Lk 12:36",
+      "text": "κύριον ἑαυτῶν πότε",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 57,
+      "reference": "Lk 12:57",
+      "text": "ἀφ’ ἑαυτῶν οὐ",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Lk 13:19",
+      "text": "κῆπον ἑαυτοῦ, καὶ",
+      "highlightedWord": "ἑαυτοῦ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Lk 13:34",
+      "text": "τὴν ἑαυτῆς νοσσιὰν",
+      "highlightedWord": "ἑαυτῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Lk 14:11",
+      "text": "ὑψῶν ἑαυτὸν ταπεινωθήσεται",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "πατέρα ἑαυτοῦ καὶ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Lk 14:27",
+      "text": "σταυρὸν ἑαυτοῦ καὶ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 33,
+      "reference": "Lk 14:33",
+      "text": "τοῖς ἑαυτοῦ ὑπάρχουσιν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Lk 15:17",
+      "text": "εἰς ἑαυτὸν δὲ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Lk 15:20",
+      "text": "πατέρα ἑαυτοῦ. ἔτι",
+      "highlightedWord": "ἑαυτοῦ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Lk 16:3",
+      "text": "ἐν ἑαυτῷ ὁ",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Lk 16:4",
+      "text": "οἴκους ἑαυτῶν.",
+      "highlightedWord": "ἑαυτῶν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Lk 16:5",
+      "text": "κυρίου ἑαυτοῦ ἔλεγεν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Lk 16:8",
+      "text": "τὴν ἑαυτῶν εἰσιν.",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Lk 16:9",
+      "text": "λέγω, ἑαυτοῖς ποιήσατε",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Lk 16:15",
+      "text": "δικαιοῦντες ἑαυτοὺς ἐνώπιον",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Lk 17:3",
+      "text": "προσέχετε ἑαυτοῖς. ἐὰν",
+      "highlightedWord": "ἑαυτοῖς."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Lk 17:14",
+      "text": "ἐπιδείξατε ἑαυτοὺς τοῖς",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Lk 18:4",
+      "text": "ἐν ἑαυτῷ· Εἰ",
+      "highlightedWord": "ἑαυτῷ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Lk 18:9",
+      "text": "ἐφ’ ἑαυτοῖς ὅτι",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Lk 18:11",
+      "text": "πρὸς ἑαυτὸν ταῦτα",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Lk 18:14",
+      "text": "ὑψῶν ἑαυτὸν ταπεινωθήσεται,",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Lk 19:12",
+      "text": "λαβεῖν ἑαυτῷ βασιλείαν",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Lk 19:13",
+      "text": "δούλους ἑαυτοῦ ἔδωκεν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 36,
+      "reference": "Lk 19:36",
+      "text": "ἱμάτια ἑαυτῶν ἐν",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Lk 20:5",
+      "text": "πρὸς ἑαυτοὺς λέγοντες",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Lk 20:20",
+      "text": "ὑποκρινομένους ἑαυτοὺς δικαίους",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Lk 21:30",
+      "text": "ἀφ’ ἑαυτῶν γινώσκετε",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Lk 21:34",
+      "text": "δὲ ἑαυτοῖς μήποτε",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 17,
+      "reference": "Lk 22:17",
+      "text": "εἰς ἑαυτούς·",
+      "highlightedWord": "ἑαυτούς·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 23,
+      "reference": "Lk 22:23",
+      "text": "πρὸς ἑαυτοὺς τὸ",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 2,
+      "reference": "Lk 23:2",
+      "text": "λέγοντα αὑτὸν χριστὸν",
+      "highlightedWord": "αὑτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Lk 23:12",
+      "text": "πρὸς αὑτούς.",
+      "highlightedWord": "αὑτούς."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Lk 23:28",
+      "text": "ἐφ’ ἑαυτὰς κλαίετε",
+      "highlightedWord": "ἑαυτὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 35,
+      "reference": "Lk 23:35",
+      "text": "σωσάτω ἑαυτόν, εἰ",
+      "highlightedWord": "ἑαυτόν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Lk 24:12",
+      "text": "πρὸς αὑτὸν θαυμάζων",
+      "highlightedWord": "αὑτὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Lk 24:27",
+      "text": "περὶ ἑαυτοῦ.",
+      "highlightedWord": "ἑαυτοῦ."
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Jn 2:24",
+      "text": "ἐπίστευεν αὑτὸν αὐτοῖς",
+      "highlightedWord": "αὑτὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Jn 5:18",
+      "text": "ἴσον ἑαυτὸν ποιῶν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "ἀφ’ ἑαυτοῦ οὐδὲν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Jn 5:26",
+      "text": "ἐν ἑαυτῷ, οὕτως",
+      "highlightedWord": "ἑαυτῷ,"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Jn 5:42",
+      "text": "ἐν ἑαυτοῖς.",
+      "highlightedWord": "ἑαυτοῖς."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 53,
+      "reference": "Jn 6:53",
+      "text": "ἐν ἑαυτοῖς.",
+      "highlightedWord": "ἑαυτοῖς."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 61,
+      "reference": "Jn 6:61",
+      "text": "ἐν ἑαυτῷ ὅτι",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Jn 7:18",
+      "text": "ἀφ’ ἑαυτοῦ λαλῶν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "πρὸς ἑαυτούς· Ποῦ",
+      "highlightedWord": "ἑαυτούς·"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Jn 8:22",
+      "text": "ἀποκτενεῖ ἑαυτὸν ὅτι",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Jn 9:21",
+      "text": "περὶ ἑαυτοῦ λαλήσει.",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Jn 11:33",
+      "text": "ἐτάραξεν ἑαυτόν,",
+      "highlightedWord": "ἑαυτόν,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 38,
+      "reference": "Jn 11:38",
+      "text": "ἐν ἑαυτῷ ἔρχεται",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 51,
+      "reference": "Jn 11:51",
+      "text": "ἀφ’ ἑαυτοῦ οὐκ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 55,
+      "reference": "Jn 11:55",
+      "text": "ἁγνίσωσιν ἑαυτούς.",
+      "highlightedWord": "ἑαυτούς."
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Jn 12:8",
+      "text": "μεθ’ ἑαυτῶν, ἐμὲ",
+      "highlightedWord": "ἑαυτῶν,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Jn 12:19",
+      "text": "πρὸς ἑαυτούς· Θεωρεῖτε",
+      "highlightedWord": "ἑαυτούς·"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Jn 13:4",
+      "text": "διέζωσεν ἑαυτόν·",
+      "highlightedWord": "ἑαυτόν·"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Jn 13:32",
+      "text": "ἐν αὑτῷ, καὶ",
+      "highlightedWord": "αὑτῷ,"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Jn 15:4",
+      "text": "ἀφ’ ἑαυτοῦ ἐὰν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Jn 16:13",
+      "text": "ἀφ’ ἑαυτοῦ, ἀλλ’",
+      "highlightedWord": "ἑαυτοῦ,"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Jn 17:13",
+      "text": "ἐν ἑαυτοῖς.",
+      "highlightedWord": "ἑαυτοῖς."
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Jn 19:7",
+      "text": "θεοῦ ἑαυτὸν ἐποίησεν.",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Jn 19:12",
+      "text": "βασιλέα ἑαυτὸν ποιῶν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Jn 19:17",
+      "text": "βαστάζων αὑτῷ τὸν",
+      "highlightedWord": "αὑτῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Jn 19:24",
+      "text": "μου ἑαυτοῖς καὶ",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Jn 20:10",
+      "text": "πρὸς αὑτοὺς οἱ",
+      "highlightedWord": "αὑτοὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Jn 21:1",
+      "text": "ἐφανέρωσεν ἑαυτὸν πάλιν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Jn 21:7",
+      "text": "ἔβαλεν ἑαυτὸν εἰς",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Ac 1:3",
+      "text": "παρέστησεν ἑαυτὸν ζῶντα",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Ac 5:35",
+      "text": "προσέχετε ἑαυτοῖς ἐπὶ",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Ac 5:36",
+      "text": "τινα ἑαυτόν, ᾧ",
+      "highlightedWord": "ἑαυτόν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Ac 7:21",
+      "text": "αὐτὸν ἑαυτῇ εἰς",
+      "highlightedWord": "ἑαυτῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ac 8:9",
+      "text": "τινα ἑαυτὸν μέγαν,",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Ac 8:34",
+      "text": "περὶ ἑαυτοῦ ἢ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Ac 10:17",
+      "text": "ἐν ἑαυτῷ διηπόρει",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Ac 12:11",
+      "text": "ἐν ἑαυτῷ γενόμενος",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Ac 13:46",
+      "text": "κρίνετε ἑαυτοὺς τῆς",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Ac 14:17",
+      "text": "ἀμάρτυρον αὑτὸν ἀφῆκεν",
+      "highlightedWord": "αὑτὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Ac 15:29",
+      "text": "διατηροῦντες ἑαυτοὺς εὖ",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Ac 16:27",
+      "text": "ἤμελλεν ἑαυτὸν ἀναιρεῖν,",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Ac 19:31",
+      "text": "δοῦναι ἑαυτὸν εἰς",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Ac 20:28",
+      "text": "προσέχετε ἑαυτοῖς καὶ",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Ac 20:30",
+      "text": "ὀπίσω ἑαυτῶν·",
+      "highlightedWord": "ἑαυτῶν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "δήσας ἑαυτοῦ τοὺς",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Ac 21:23",
+      "text": "ἀφ’ ἑαυτῶν.",
+      "highlightedWord": "ἑαυτῶν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Ac 23:12",
+      "text": "ἀνεθεμάτισαν ἑαυτοὺς λέγοντες",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Ac 23:14",
+      "text": "ἀνεθεματίσαμεν ἑαυτοὺς μηδενὸς",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 21,
+      "reference": "Ac 23:21",
+      "text": "ἀνεθεμάτισαν ἑαυτοὺς μήτε",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 4,
+      "reference": "Ac 25:4",
+      "text": "Καισάρειαν, ἑαυτὸν δὲ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 16,
+      "reference": "Ac 28:16",
+      "text": "καθ’ ἑαυτὸν σὺν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Ro 1:27",
+      "text": "ἐν ἑαυτοῖς ἀπολαμβάνοντες.",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ro 2:14",
+      "text": "ἔχοντες ἑαυτοῖς εἰσιν",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Ro 4:19",
+      "text": "τὸ ἑαυτοῦ σῶμα",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Ro 5:8",
+      "text": "τὴν ἑαυτοῦ ἀγάπην",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Ro 6:11",
+      "text": "λογίζεσθε ἑαυτοὺς εἶναι",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ro 6:13",
+      "text": "παραστήσατε ἑαυτοὺς τῷ",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Ro 6:16",
+      "text": "παριστάνετε ἑαυτοὺς δούλους",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Ro 8:3",
+      "text": "τὸν ἑαυτοῦ υἱὸν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Ro 8:23",
+      "text": "ἐν ἑαυτοῖς στενάζομεν,",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "ἦτε ἑαυτοῖς φρόνιμοι,",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Ro 12:16",
+      "text": "παρ’ ἑαυτοῖς.",
+      "highlightedWord": "ἑαυτοῖς."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Ro 12:19",
+      "text": "μὴ ἑαυτοὺς ἐκδικοῦντες,",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Ro 13:2",
+      "text": "ἀνθεστηκότες ἑαυτοῖς κρίμα",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Ro 14:7",
+      "text": "ἡμῶν ἑαυτῷ ζῇ,",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Ro 14:12",
+      "text": "περὶ ἑαυτοῦ λόγον",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Ro 14:14",
+      "text": "δι’ ἑαυτοῦ· εἰ",
+      "highlightedWord": "ἑαυτοῦ·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ro 14:22",
+      "text": "κρίνων ἑαυτὸν ἐν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Ro 15:1",
+      "text": "μὴ ἑαυτοῖς ἀρέσκειν.",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Ro 15:3",
+      "text": "οὐχ ἑαυτῷ ἤρεσεν·",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Ro 16:4",
+      "text": "τὸν ἑαυτῶν τράχηλον",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ro 16:18",
+      "text": "τῇ ἑαυτῶν κοιλίᾳ,",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Co 3:18",
+      "text": "Μηδεὶς ἑαυτὸν ἐξαπατάτω·",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "1Co 6:7",
+      "text": "μεθ’ ἑαυτῶν· διὰ",
+      "highlightedWord": "ἑαυτῶν·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Co 6:19",
+      "text": "ἐστὲ ἑαυτῶν,",
+      "highlightedWord": "ἑαυτῶν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "1Co 7:2",
+      "text": "τὴν ἑαυτοῦ γυναῖκα",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "1Co 7:37",
+      "text": "τὴν ἑαυτοῦ παρθένον,",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "1Co 7:38",
+      "text": "παρθένον ἑαυτοῦ καλῶς",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "1Co 10:24",
+      "text": "τὸ ἑαυτοῦ ζητείτω",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "1Co 10:29",
+      "text": "τὴν ἑαυτοῦ ἀλλὰ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "1Co 11:28",
+      "text": "ἄνθρωπος ἑαυτόν, καὶ",
+      "highlightedWord": "ἑαυτόν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "1Co 11:29",
+      "text": "κρίμα ἑαυτῷ ἐσθίει",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "1Co 11:31",
+      "text": "δὲ ἑαυτοὺς διεκρίνομεν,",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "1Co 13:5",
+      "text": "τὰ ἑαυτῆς, οὐ",
+      "highlightedWord": "ἑαυτῆς,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "1Co 14:4",
+      "text": "γλώσσῃ ἑαυτὸν οἰκοδομεῖ·",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "1Co 14:28",
+      "text": "ἐκκλησίᾳ, ἑαυτῷ δὲ",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "παρ’ ἑαυτῷ τιθέτω",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "1Co 16:15",
+      "text": "ἔταξαν ἑαυτούς·",
+      "highlightedWord": "ἑαυτούς·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Co 1:9",
+      "text": "ἐν ἑαυτοῖς τὸ",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Co 3:1",
+      "text": "πάλιν ἑαυτοὺς συνιστάνειν;",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Co 3:5",
+      "text": "ἀφ’ ἑαυτῶν ἱκανοί",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Co 4:2",
+      "text": "συνιστάνοντες ἑαυτοὺς πρὸς",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "2Co 4:5",
+      "text": "γὰρ ἑαυτοὺς κηρύσσομεν",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "2Co 5:12",
+      "text": "πάλιν ἑαυτοὺς συνιστάνομεν",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "2Co 5:15",
+      "text": "μηκέτι ἑαυτοῖς ζῶσιν",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "2Co 5:18",
+      "text": "ἡμᾶς ἑαυτῷ διὰ",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "2Co 5:19",
+      "text": "καταλλάσσων ἑαυτῷ, μὴ",
+      "highlightedWord": "ἑαυτῷ,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "2Co 6:4",
+      "text": "συνιστάνοντες ἑαυτοὺς ὡς",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "2Co 7:1",
+      "text": "καθαρίσωμεν ἑαυτοὺς ἀπὸ",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "2Co 7:11",
+      "text": "συνεστήσατε ἑαυτοὺς ἁγνοὺς",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "2Co 8:5",
+      "text": "ἀλλ’ ἑαυτοὺς ἔδωκαν",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "2Co 10:7",
+      "text": "πέποιθεν ἑαυτῷ Χριστοῦ",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "2Co 10:12",
+      "text": "συγκρῖναι ἑαυτούς τισιν",
+      "highlightedWord": "ἑαυτούς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "2Co 10:14",
+      "text": "ὑπερεκτείνομεν ἑαυτούς, ἄχρι",
+      "highlightedWord": "ἑαυτούς,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "2Co 10:18",
+      "text": "ὁ ἑαυτὸν συνιστάνων,",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "2Co 13:5",
+      "text": "Ἑαυτοὺς πειράζετε",
+      "highlightedWord": "Ἑαυτοὺς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Ga 1:4",
+      "text": "δόντος ἑαυτὸν ὑπὲρ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Ga 2:12",
+      "text": "ἀφώριζεν ἑαυτόν, φοβούμενος",
+      "highlightedWord": "ἑαυτόν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Ga 2:20",
+      "text": "παραδόντος ἑαυτὸν ὑπὲρ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Ga 6:3",
+      "text": "φρεναπατᾷ ἑαυτόν·",
+      "highlightedWord": "ἑαυτόν·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ga 6:4",
+      "text": "ἔργον ἑαυτοῦ δοκιμαζέτω",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Ga 6:8",
+      "text": "σάρκα ἑαυτοῦ ἐκ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Eph 2:15",
+      "text": "ἐν αὑτῷ εἰς",
+      "highlightedWord": "αὑτῷ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Eph 4:16",
+      "text": "οἰκοδομὴν ἑαυτοῦ ἐν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Eph 4:19",
+      "text": "ἀπηλγηκότες ἑαυτοὺς παρέδωκαν",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Eph 4:32",
+      "text": "χαριζόμενοι ἑαυτοῖς καθὼς",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Eph 5:2",
+      "text": "παρέδωκεν ἑαυτὸν ὑπὲρ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Eph 5:19",
+      "text": "λαλοῦντες ἑαυτοῖς ψαλμοῖς",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Eph 5:25",
+      "text": "καὶ ἑαυτὸν παρέδωκεν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Eph 5:27",
+      "text": "αὐτὸς ἑαυτῷ ἔνδοξον",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Eph 5:28",
+      "text": "τὰς ἑαυτῶν γυναῖκας",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Eph 5:29",
+      "text": "τὴν ἑαυτοῦ σάρκα",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "τὴν ἑαυτοῦ γυναῖκα",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Php 2:3",
+      "text": "ὑπερέχοντας ἑαυτῶν,",
+      "highlightedWord": "ἑαυτῶν,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Php 2:4",
+      "text": "τὰ ἑαυτῶν ἕκαστοι",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Php 2:7",
+      "text": "ἀλλὰ ἑαυτὸν ἐκένωσεν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Php 2:8",
+      "text": "ἐταπείνωσεν ἑαυτὸν γενόμενος",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Php 2:12",
+      "text": "τὴν ἑαυτῶν σωτηρίαν",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Php 2:21",
+      "text": "τὰ ἑαυτῶν ζητοῦσιν,",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Php 3:21",
+      "text": "ὑποτάξαι αὑτῷ τὰ",
+      "highlightedWord": "αὑτῷ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Col 3:13",
+      "text": "χαριζόμενοι ἑαυτοῖς ἐάν",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Col 3:16",
+      "text": "νουθετοῦντες ἑαυτοὺς ψαλμοῖς,",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Th 2:7",
+      "text": "τὰ ἑαυτῆς τέκνα·",
+      "highlightedWord": "ἑαυτῆς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Th 2:8",
+      "text": "τὰς ἑαυτῶν ψυχάς,",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Th 2:11",
+      "text": "τέκνα ἑαυτοῦ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Th 2:12",
+      "text": "τὴν ἑαυτοῦ βασιλείαν",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Th 4:4",
+      "text": "τὸ ἑαυτοῦ σκεῦος",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Th 5:13",
+      "text": "ἐν ἑαυτοῖς.",
+      "highlightedWord": "ἑαυτοῖς."
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Th 2:4",
+      "text": "ἀποδεικνύντα ἑαυτὸν ὅτι",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "2Th 2:6",
+      "text": "τῷ ἑαυτοῦ καιρῷ·",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Th 3:9",
+      "text": "ἵνα ἑαυτοὺς τύπον",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Th 3:12",
+      "text": "τὸν ἑαυτῶν ἄρτον",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Ti 2:6",
+      "text": "δοὺς ἑαυτὸν ἀντίλυτρον",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Ti 2:9",
+      "text": "κοσμεῖν ἑαυτάς, μὴ",
+      "highlightedWord": "ἑαυτάς,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Ti 3:13",
+      "text": "βαθμὸν ἑαυτοῖς καλὸν",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "1Ti 6:10",
+      "text": "καὶ ἑαυτοὺς περιέπειραν",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Ti 6:19",
+      "text": "ἀποθησαυρίζοντας ἑαυτοῖς θεμέλιον",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Ti 2:13",
+      "text": "ἀρνήσασθαι ἑαυτὸν οὐ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "2Ti 2:21",
+      "text": "ἐκκαθάρῃ ἑαυτὸν ἀπὸ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "2Ti 4:3",
+      "text": "ἐπιθυμίας ἑαυτοῖς ἐπισωρεύσουσιν",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Tit 2:14",
+      "text": "ἔδωκεν ἑαυτὸν ὑπὲρ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Heb 1:3",
+      "text": "δι’ αὑτοῦ καθαρισμὸν",
+      "highlightedWord": "αὑτοῦ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "παρακαλεῖτε ἑαυτοὺς καθ’",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Heb 5:3",
+      "text": "περὶ αὑτοῦ προσφέρειν",
+      "highlightedWord": "αὑτοῦ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Heb 5:4",
+      "text": "οὐχ ἑαυτῷ τις",
+      "highlightedWord": "ἑαυτῷ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Heb 5:5",
+      "text": "οὐχ ἑαυτὸν ἐδόξασεν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Heb 6:6",
+      "text": "ἀνασταυροῦντας ἑαυτοῖς τὸν",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Heb 6:13",
+      "text": "καθ’ ἑαυτοῦ,",
+      "highlightedWord": "ἑαυτοῦ,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Heb 7:27",
+      "text": "ἐφάπαξ ἑαυτὸν ἀνενέγκας)·",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Heb 9:7",
+      "text": "ὑπὲρ ἑαυτοῦ καὶ",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Heb 9:14",
+      "text": "αἰωνίου ἑαυτὸν προσήνεγκεν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Heb 9:25",
+      "text": "προσφέρῃ ἑαυτόν, ὥσπερ",
+      "highlightedWord": "ἑαυτόν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Heb 10:25",
+      "text": "ἐπισυναγωγὴν ἑαυτῶν, καθὼς",
+      "highlightedWord": "ἑαυτῶν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Heb 10:34",
+      "text": "ἔχειν ἑαυτοὺς κρείττονα",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Heb 12:3",
+      "text": "εἰς ἑαυτοὺς ἀντιλογίαν,",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Heb 12:16",
+      "text": "πρωτοτόκια ἑαυτοῦ.",
+      "highlightedWord": "ἑαυτοῦ."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Jas 1:22",
+      "text": "παραλογιζόμενοι ἑαυτούς.",
+      "highlightedWord": "ἑαυτούς."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Jas 1:24",
+      "text": "γὰρ ἑαυτὸν καὶ",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Jas 1:27",
+      "text": "ἄσπιλον ἑαυτὸν τηρεῖν",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Jas 2:4",
+      "text": "ἐν ἑαυτοῖς καὶ",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Jas 2:17",
+      "text": "καθ’ ἑαυτήν.",
+      "highlightedWord": "ἑαυτήν."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "1Pe 1:12",
+      "text": "οὐχ ἑαυτοῖς ὑμῖν",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Pe 3:5",
+      "text": "ἐκόσμουν ἑαυτάς, ὑποτασσόμεναι",
+      "highlightedWord": "ἑαυτάς,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Pe 4:8",
+      "text": "εἰς ἑαυτοὺς ἀγάπην",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Pe 4:10",
+      "text": "εἰς ἑαυτοὺς αὐτὸ",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "2Pe 2:1",
+      "text": "ἐπάγοντες ἑαυτοῖς ταχινὴν",
+      "highlightedWord": "ἑαυτοῖς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Jn 1:8",
+      "text": "ἔχομεν, ἑαυτοὺς πλανῶμεν",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Jn 3:3",
+      "text": "ἁγνίζει ἑαυτὸν καθὼς",
+      "highlightedWord": "ἑαυτὸν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Jn 5:10",
+      "text": "ἐν αὑτῷ· ὁ",
+      "highlightedWord": "αὑτῷ·"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "1Jn 5:21",
+      "text": "φυλάξατε ἑαυτὰ ἀπὸ",
+      "highlightedWord": "ἑαυτὰ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Jn 1:8",
+      "text": "βλέπετε ἑαυτούς, ἵνα",
+      "highlightedWord": "ἑαυτούς,"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jud 1:6",
+      "text": "τὴν ἑαυτῶν ἀρχὴν",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Jud 1:12",
+      "text": "ἀφόβως ἑαυτοὺς ποιμαίνοντες,",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jud 1:13",
+      "text": "τὰς ἑαυτῶν αἰσχύνας,",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Jud 1:18",
+      "text": "τὰς ἑαυτῶν ἐπιθυμίας",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Jud 1:20",
+      "text": "ἐποικοδομοῦντες ἑαυτοὺς τῇ",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Jud 1:21",
+      "text": "ἑαυτοὺς ἐν",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "λέγοντας ἑαυτοὺς ἀποστόλους,",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "εἶναι ἑαυτούς, καὶ",
+      "highlightedWord": "ἑαυτούς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "λέγουσα ἑαυτὴν προφῆτιν,",
+      "highlightedWord": "ἑαυτὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "λεγόντων ἑαυτοὺς Ἰουδαίους",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Re 6:15",
+      "text": "ἔκρυψαν ἑαυτοὺς εἰς",
+      "highlightedWord": "ἑαυτοὺς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Re 8:6",
+      "text": "ἡτοίμασαν αὑτοὺς ἵνα",
+      "highlightedWord": "αὑτοὺς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Re 10:3",
+      "text": "τὰς ἑαυτῶν φωνάς.",
+      "highlightedWord": "ἑαυτῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Re 10:7",
+      "text": "τοὺς ἑαυτοῦ δούλους",
+      "highlightedWord": "ἑαυτοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Re 18:7",
+      "text": "ἐδόξασεν αὑτὴν καὶ",
+      "highlightedWord": "αὑτὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Re 19:7",
+      "text": "ἡτοίμασεν ἑαυτήν,",
+      "highlightedWord": "ἑαυτήν,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

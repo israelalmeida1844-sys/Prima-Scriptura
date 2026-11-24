@@ -1,0 +1,188 @@
+{
+  "strong": "G792",
+  "lemma": "ἀστήρ",
+  "lemmaTranslit": "astēr",
+  "tokenCount": 24,
+  "verseCount": 21,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 1,
+    "1 Coríntios": 3,
+    "Judas": 1,
+    "Apocalipse": 14
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Mt 2:2",
+      "text": "τὸν ἀστέρα ἐν",
+      "highlightedWord": "ἀστέρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mt 2:7",
+      "text": "φαινομένου ἀστέρος,",
+      "highlightedWord": "ἀστέρος,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Mt 2:9",
+      "text": "ὁ ἀστὴρ ὃν",
+      "highlightedWord": "ἀστὴρ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mt 2:10",
+      "text": "τὸν ἀστέρα ἐχάρησαν",
+      "highlightedWord": "ἀστέρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Mt 24:29",
+      "text": "οἱ ἀστέρες πεσοῦνται",
+      "highlightedWord": "ἀστέρες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Mk 13:25",
+      "text": "οἱ ἀστέρες ἔσονται",
+      "highlightedWord": "ἀστέρες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 41,
+      "reference": "1Co 15:41",
+      "text": "δόξα ἀστέρων, ἀστὴρ",
+      "highlightedWord": "ἀστέρων,"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jud 1:13",
+      "text": "αἰσχύνας, ἀστέρες πλανῆται",
+      "highlightedWord": "ἀστέρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "αὐτοῦ ἀστέρας ἑπτά,",
+      "highlightedWord": "ἀστέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Re 1:20",
+      "text": "ἑπτὰ ἀστέρων οὓς",
+      "highlightedWord": "ἀστέρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "ἑπτὰ ἀστέρας ἐν",
+      "highlightedWord": "ἀστέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Re 2:28",
+      "text": "τὸν ἀστέρα τὸν",
+      "highlightedWord": "ἀστέρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Re 3:1",
+      "text": "ἑπτὰ ἀστέρας· Οἶδά",
+      "highlightedWord": "ἀστέρας·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Re 6:13",
+      "text": "οἱ ἀστέρες τοῦ",
+      "highlightedWord": "ἀστέρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Re 8:10",
+      "text": "οὐρανοῦ ἀστὴρ μέγας",
+      "highlightedWord": "ἀστὴρ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Re 8:11",
+      "text": "τοῦ ἀστέρος λέγεται·",
+      "highlightedWord": "ἀστέρος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "τῶν ἀστέρων, ἵνα",
+      "highlightedWord": "ἀστέρων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Re 9:1",
+      "text": "εἶδον ἀστέρα ἐκ",
+      "highlightedWord": "ἀστέρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Re 12:1",
+      "text": "στέφανος ἀστέρων δώδεκα,",
+      "highlightedWord": "ἀστέρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "τῶν ἀστέρων τοῦ",
+      "highlightedWord": "ἀστέρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Re 22:16",
+      "text": "ὁ ἀστὴρ ὁ",
+      "highlightedWord": "ἀστὴρ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

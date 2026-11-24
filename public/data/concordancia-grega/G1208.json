@@ -1,0 +1,371 @@
+{
+  "strong": "G1208",
+  "lemma": "δεύτερος",
+  "lemmaTranslit": "deuteros",
+  "tokenCount": 44,
+  "verseCount": 43,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 3,
+    "Lucas": 3,
+    "João": 4,
+    "Atos": 5,
+    "1 Coríntios": 2,
+    "2 Coríntios": 2,
+    "Tito": 1,
+    "Hebreus": 5,
+    "2 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Mt 21:30",
+      "text": "τῷ δευτέρῳ εἶπεν",
+      "highlightedWord": "δευτέρῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 26,
+      "reference": "Mt 22:26",
+      "text": "ὁ δεύτερος καὶ",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 39,
+      "reference": "Mt 22:39",
+      "text": "Δευτέρα δὲ",
+      "highlightedWord": "Δευτέρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 42,
+      "reference": "Mt 26:42",
+      "text": "ἐκ δευτέρου ἀπελθὼν",
+      "highlightedWord": "δευτέρου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Mk 12:21",
+      "text": "ὁ δεύτερος ἔλαβεν",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Mk 12:31",
+      "text": "δευτέρα αὕτη·",
+      "highlightedWord": "δευτέρα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 72,
+      "reference": "Mk 14:72",
+      "text": "ἐκ δευτέρου ἀλέκτωρ",
+      "highlightedWord": "δευτέρου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Lk 12:38",
+      "text": "τῇ δευτέρᾳ κἂν",
+      "highlightedWord": "δευτέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Lk 19:18",
+      "text": "ὁ δεύτερος λέγων·",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Lk 20:30",
+      "text": "ὁ δεύτερος",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Jn 3:4",
+      "text": "αὐτοῦ δεύτερον εἰσελθεῖν",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 54,
+      "reference": "Jn 4:54",
+      "text": "πάλιν δεύτερον σημεῖον",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Jn 9:24",
+      "text": "ἐκ δευτέρου ὃς",
+      "highlightedWord": "δευτέρου"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Jn 21:16",
+      "text": "πάλιν δεύτερον· Σίμων",
+      "highlightedWord": "δεύτερον·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Ac 7:13",
+      "text": "τῷ δευτέρῳ ἀνεγνωρίσθη",
+      "highlightedWord": "δευτέρῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Ac 10:15",
+      "text": "ἐκ δευτέρου πρὸς",
+      "highlightedWord": "δευτέρου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Ac 11:9",
+      "text": "ἐκ δευτέρου ἐκ",
+      "highlightedWord": "δευτέρου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "καὶ δευτέραν ἦλθαν",
+      "highlightedWord": "δευτέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Ac 13:33",
+      "text": "τῷ δευτέρῳ· Υἱός",
+      "highlightedWord": "δευτέρῳ·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "1Co 12:28",
+      "text": "ἀποστόλους, δεύτερον προφήτας,",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 47,
+      "reference": "1Co 15:47",
+      "text": "ὁ δεύτερος ἄνθρωπος",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "2Co 1:15",
+      "text": "ἵνα δευτέραν χάριν",
+      "highlightedWord": "δευτέραν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "2Co 13:2",
+      "text": "τὸ δεύτερον καὶ",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Tit 3:10",
+      "text": "καὶ δευτέραν νουθεσίαν",
+      "highlightedWord": "δευτέραν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Heb 8:7",
+      "text": "ἂν δευτέρας ἐζητεῖτο",
+      "highlightedWord": "δευτέρας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Heb 9:3",
+      "text": "τὸ δεύτερον καταπέτασμα",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Heb 9:7",
+      "text": "τὴν δευτέραν ἅπαξ",
+      "highlightedWord": "δευτέραν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Heb 9:28",
+      "text": "ἐκ δευτέρου χωρὶς",
+      "highlightedWord": "δευτέρου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Heb 10:9",
+      "text": "τὸ δεύτερον στήσῃ.",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Pe 3:1",
+      "text": "ἀγαπητοί, δευτέραν ὑμῖν",
+      "highlightedWord": "δευτέραν"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Jud 1:5",
+      "text": "τὸ δεύτερον τοὺς",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Re 2:11",
+      "text": "τοῦ δευτέρου.",
+      "highlightedWord": "δευτέρου."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "τὸ δεύτερον ζῷον",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Re 6:3",
+      "text": "τὴν δευτέραν, ἤκουσα",
+      "highlightedWord": "δευτέραν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Re 8:8",
+      "text": "ὁ δεύτερος ἄγγελος",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Re 11:14",
+      "text": "ἡ δευτέρα ἀπῆλθεν·",
+      "highlightedWord": "δευτέρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Re 14:8",
+      "text": "ἄλλος δεύτερος ἄγγελος",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Re 16:3",
+      "text": "ὁ δεύτερος ἐξέχεεν",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Re 19:3",
+      "text": "καὶ δεύτερον εἴρηκαν·",
+      "highlightedWord": "δεύτερον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Re 20:6",
+      "text": "ὁ δεύτερος θάνατος",
+      "highlightedWord": "δεύτερος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Re 20:14",
+      "text": "ὁ δεύτερός ἐστιν,",
+      "highlightedWord": "δεύτερός"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Re 21:8",
+      "text": "ὁ δεύτερος.",
+      "highlightedWord": "δεύτερος."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Re 21:19",
+      "text": "ὁ δεύτερος σάπφιρος,",
+      "highlightedWord": "δεύτερος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

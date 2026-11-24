@@ -1,0 +1,41 @@
+{
+  "strong": "G3799",
+  "lemma": "ὄψις",
+  "lemmaTranslit": "opsis",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "João": 2,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Jn 7:24",
+      "text": "κατ’ ὄψιν, ἀλλὰ",
+      "highlightedWord": "ὄψιν,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Jn 11:44",
+      "text": "ἡ ὄψις αὐτοῦ",
+      "highlightedWord": "ὄψις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "ἡ ὄψις αὐτοῦ",
+      "highlightedWord": "ὄψις"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,1074 @@
+{
+  "strong": "G863",
+  "lemma": "ἀφίημι",
+  "lemmaTranslit": "aphiēmi",
+  "tokenCount": 143,
+  "verseCount": 131,
+  "bookDistribution": {
+    "Mateus": 47,
+    "Marcos": 34,
+    "Lucas": 31,
+    "João": 15,
+    "Atos": 3,
+    "Romanos": 2,
+    "1 Coríntios": 3,
+    "Hebreus": 2,
+    "Tiago": 1,
+    "1 João": 2,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Mt 3:15",
+      "text": "αὐτόν· Ἄφες ἄρτι,",
+      "highlightedWord": "Ἄφες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Mt 4:11",
+      "text": "τότε ἀφίησιν αὐτὸν",
+      "highlightedWord": "ἀφίησιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Mt 4:20",
+      "text": "εὐθέως ἀφέντες τὰ",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Mt 4:22",
+      "text": "εὐθέως ἀφέντες τὸ",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Mt 5:24",
+      "text": "ἄφες ἐκεῖ",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Mt 5:40",
+      "text": "λαβεῖν, ἄφες αὐτῷ",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Mt 6:12",
+      "text": "καὶ ἄφες ἡμῖν",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Mt 6:14",
+      "text": "γὰρ ἀφῆτε τοῖς",
+      "highlightedWord": "ἀφῆτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Mt 6:15",
+      "text": "μὴ ἀφῆτε τοῖς",
+      "highlightedWord": "ἀφῆτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Mt 7:4",
+      "text": "σου· Ἄφες ἐκβάλω",
+      "highlightedWord": "Ἄφες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Mt 8:15",
+      "text": "καὶ ἀφῆκεν αὐτὴν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Mt 8:22",
+      "text": "καὶ ἄφες τοὺς",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mt 9:2",
+      "text": "τέκνον· ἀφίενταί σου",
+      "highlightedWord": "ἀφίενταί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Mt 9:5",
+      "text": "εἰπεῖν· Ἀφίενταί σου",
+      "highlightedWord": "Ἀφίενταί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mt 9:6",
+      "text": "γῆς ἀφιέναι ἁμαρτίας—",
+      "highlightedWord": "ἀφιέναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Mt 12:31",
+      "text": "βλασφημία ἀφεθήσεται τοῖς",
+      "highlightedWord": "ἀφεθήσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mt 12:32",
+      "text": "ἀνθρώπου, ἀφεθήσεται αὐτῷ·",
+      "highlightedWord": "ἀφεθήσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Mt 13:30",
+      "text": "ἄφετε συναυξάνεσθαι",
+      "highlightedWord": "ἄφετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 36,
+      "reference": "Mt 13:36",
+      "text": "Τότε ἀφεὶς τοὺς",
+      "highlightedWord": "ἀφεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Mt 15:14",
+      "text": "ἄφετε αὐτούς·",
+      "highlightedWord": "ἄφετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Mt 18:12",
+      "text": "οὐχὶ ἀφήσει τὰ",
+      "highlightedWord": "ἀφήσει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Mt 18:21",
+      "text": "καὶ ἀφήσω αὐτῷ;",
+      "highlightedWord": "ἀφήσω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 27,
+      "reference": "Mt 18:27",
+      "text": "δάνειον ἀφῆκεν αὐτῷ.",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Mt 18:32",
+      "text": "ἐκείνην ἀφῆκά σοι,",
+      "highlightedWord": "ἀφῆκά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Mt 18:35",
+      "text": "μὴ ἀφῆτε ἕκαστος",
+      "highlightedWord": "ἀφῆτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Mt 19:14",
+      "text": "εἶπεν· Ἄφετε τὰ",
+      "highlightedWord": "Ἄφετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Mt 19:27",
+      "text": "ἡμεῖς ἀφήκαμεν πάντα",
+      "highlightedWord": "ἀφήκαμεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Mt 19:29",
+      "text": "ὅστις ἀφῆκεν οἰκίας",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Mt 22:22",
+      "text": "καὶ ἀφέντες αὐτὸν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Mt 22:25",
+      "text": "σπέρμα ἀφῆκεν τὴν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 13,
+      "reference": "Mt 23:13",
+      "text": "εἰσερχομένους ἀφίετε εἰσελθεῖν.",
+      "highlightedWord": "ἀφίετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Mt 23:23",
+      "text": "καὶ ἀφήκατε τὰ",
+      "highlightedWord": "ἀφήκατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 38,
+      "reference": "Mt 23:38",
+      "text": "ἰδοὺ ἀφίεται ὑμῖν",
+      "highlightedWord": "ἀφίεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Mt 24:2",
+      "text": "μὴ ἀφεθῇ ὧδε",
+      "highlightedWord": "ἀφεθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 40,
+      "reference": "Mt 24:40",
+      "text": "⸁εἷς ἀφίεται·",
+      "highlightedWord": "ἀφίεται·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 41,
+      "reference": "Mt 24:41",
+      "text": "μία ἀφίεται.",
+      "highlightedWord": "ἀφίεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 44,
+      "reference": "Mt 26:44",
+      "text": "καὶ ἀφεὶς αὐτοὺς",
+      "highlightedWord": "ἀφεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 56,
+      "reference": "Mt 26:56",
+      "text": "πάντες ἀφέντες αὐτὸν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 49,
+      "reference": "Mt 27:49",
+      "text": "ἔλεγον· Ἄφες ἴδωμεν",
+      "highlightedWord": "Ἄφες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 50,
+      "reference": "Mt 27:50",
+      "text": "μεγάλῃ ἀφῆκεν τὸ",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Mk 1:18",
+      "text": "εὐθὺς ἀφέντες τὰ",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mk 1:20",
+      "text": "καὶ ἀφέντες τὸν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Mk 1:31",
+      "text": "καὶ ἀφῆκεν αὐτὴν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 34,
+      "reference": "Mk 1:34",
+      "text": "οὐκ ἤφιεν λαλεῖν",
+      "highlightedWord": "ἤφιεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Mk 2:5",
+      "text": "Τέκνον, ἀφίενταί σου",
+      "highlightedWord": "ἀφίενταί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mk 2:7",
+      "text": "δύναται ἀφιέναι ἁμαρτίας",
+      "highlightedWord": "ἀφιέναι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Mk 2:9",
+      "text": "παραλυτικῷ· Ἀφίενταί σου",
+      "highlightedWord": "Ἀφίενταί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mk 2:10",
+      "text": "γῆς ἀφιέναι ἁμαρτίας—",
+      "highlightedWord": "ἀφιέναι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Mk 3:28",
+      "text": "πάντα ἀφεθήσεται τοῖς",
+      "highlightedWord": "ἀφεθήσεται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Mk 4:12",
+      "text": "καὶ ἀφεθῇ αὐτοῖς.",
+      "highlightedWord": "ἀφεθῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Mk 4:36",
+      "text": "καὶ ἀφέντες τὸν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mk 5:19",
+      "text": "οὐκ ἀφῆκεν αὐτόν,",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Mk 5:37",
+      "text": "οὐκ ἀφῆκεν οὐδένα",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Mk 7:8",
+      "text": "ἀφέντες τὴν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Mk 7:12",
+      "text": "οὐκέτι ἀφίετε αὐτὸν",
+      "highlightedWord": "ἀφίετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Mk 7:27",
+      "text": "αὐτῇ· Ἄφες πρῶτον",
+      "highlightedWord": "Ἄφες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Mk 8:13",
+      "text": "καὶ ἀφεὶς αὐτοὺς",
+      "highlightedWord": "ἀφεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mk 10:14",
+      "text": "αὐτοῖς· Ἄφετε τὰ",
+      "highlightedWord": "Ἄφετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Mk 10:28",
+      "text": "ἡμεῖς ἀφήκαμεν πάντα",
+      "highlightedWord": "ἀφήκαμεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Mk 10:29",
+      "text": "ὃς ἀφῆκεν οἰκίαν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Mk 11:6",
+      "text": "καὶ ἀφῆκαν αὐτούς.",
+      "highlightedWord": "ἀφῆκαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Mk 11:16",
+      "text": "οὐκ ἤφιεν ἵνα",
+      "highlightedWord": "ἤφιεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mk 11:25",
+      "text": "προσευχόμενοι, ἀφίετε εἴ",
+      "highlightedWord": "ἀφίετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mk 12:12",
+      "text": "καὶ ἀφέντες αὐτὸν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mk 12:19",
+      "text": "μὴ ἀφῇ τέκνον,",
+      "highlightedWord": "ἀφῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Mk 12:20",
+      "text": "οὐκ ἀφῆκεν σπέρμα·",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Mk 12:22",
+      "text": "οὐκ ἀφῆκαν σπέρμα·",
+      "highlightedWord": "ἀφῆκαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mk 13:2",
+      "text": "μὴ ἀφεθῇ ὧδε",
+      "highlightedWord": "ἀφεθῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mk 13:34",
+      "text": "ἀπόδημος ἀφεὶς τὴν",
+      "highlightedWord": "ἀφεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Mk 14:6",
+      "text": "εἶπεν· Ἄφετε αὐτήν·",
+      "highlightedWord": "Ἄφετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 50,
+      "reference": "Mk 14:50",
+      "text": "καὶ ἀφέντες αὐτὸν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Mk 15:36",
+      "text": "λέγων· Ἄφετε ἴδωμεν",
+      "highlightedWord": "Ἄφετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "Mk 15:37",
+      "text": "Ἰησοῦς ἀφεὶς φωνὴν",
+      "highlightedWord": "ἀφεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 39,
+      "reference": "Lk 4:39",
+      "text": "καὶ ἀφῆκεν αὐτήν·",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Lk 5:11",
+      "text": "γῆν ἀφέντες πάντα",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Lk 5:20",
+      "text": "Ἄνθρωπε, ἀφέωνταί σοι",
+      "highlightedWord": "ἀφέωνταί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Lk 5:21",
+      "text": "ἁμαρτίας ἀφεῖναι εἰ",
+      "highlightedWord": "ἀφεῖναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Lk 5:23",
+      "text": "εἰπεῖν· Ἀφέωνταί σοι",
+      "highlightedWord": "Ἀφέωνταί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Lk 5:24",
+      "text": "γῆς ἀφιέναι ἁμαρτίας—",
+      "highlightedWord": "ἀφιέναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Lk 6:42",
+      "text": "Ἀδελφέ, ἄφες ἐκβάλω",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 47,
+      "reference": "Lk 7:47",
+      "text": "σοι, ἀφέωνται αἱ",
+      "highlightedWord": "ἀφέωνται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 48,
+      "reference": "Lk 7:48",
+      "text": "αὐτῇ· Ἀφέωνταί σου",
+      "highlightedWord": "Ἀφέωνταί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Lk 7:49",
+      "text": "ἁμαρτίας ἀφίησιν;",
+      "highlightedWord": "ἀφίησιν;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Lk 8:51",
+      "text": "οὐκ ἀφῆκεν εἰσελθεῖν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 60,
+      "reference": "Lk 9:60",
+      "text": "αὐτῷ· Ἄφες τοὺς",
+      "highlightedWord": "Ἄφες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Lk 10:30",
+      "text": "ἀπῆλθον ἀφέντες ἡμιθανῆ.",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Lk 11:4",
+      "text": "καὶ ἄφες ἡμῖν",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Lk 12:10",
+      "text": "ἀνθρώπου, ἀφεθήσεται αὐτῷ",
+      "highlightedWord": "ἀφεθήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Lk 12:39",
+      "text": "ἂν ἀφῆκεν διορυχθῆναι",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Lk 13:8",
+      "text": "Κύριε, ἄφες αὐτὴν",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Lk 13:35",
+      "text": "ἰδοὺ ἀφίεται ὑμῖν",
+      "highlightedWord": "ἀφίεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Lk 17:3",
+      "text": "μετανοήσῃ ἄφες αὐτῷ·",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Lk 17:4",
+      "text": "Μετανοῶ, ἀφήσεις αὐτῷ.",
+      "highlightedWord": "ἀφήσεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 34,
+      "reference": "Lk 17:34",
+      "text": "ἕτερος ἀφεθήσεται·",
+      "highlightedWord": "ἀφεθήσεται·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 35,
+      "reference": "Lk 17:35",
+      "text": "ἑτέρα ἀφεθήσεται.",
+      "highlightedWord": "ἀφεθήσεται."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Lk 18:16",
+      "text": "λέγων· Ἄφετε τὰ",
+      "highlightedWord": "Ἄφετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Lk 18:28",
+      "text": "ἡμεῖς ἀφέντες τὰ",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Lk 18:29",
+      "text": "ὃς ἀφῆκεν οἰκίαν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 44,
+      "reference": "Lk 19:44",
+      "text": "οὐκ ἀφήσουσιν λίθον",
+      "highlightedWord": "ἀφήσουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Lk 21:6",
+      "text": "οὐκ ἀφεθήσεται λίθος",
+      "highlightedWord": "ἀφεθήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 34,
+      "reference": "Lk 23:34",
+      "text": "Πάτερ, ἄφες αὐτοῖς,",
+      "highlightedWord": "ἄφες"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Jn 4:3",
+      "text": "ἀφῆκεν τὴν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Jn 4:28",
+      "text": "ἀφῆκεν οὖν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 52,
+      "reference": "Jn 4:52",
+      "text": "ἑβδόμην ἀφῆκεν αὐτὸν",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Jn 8:29",
+      "text": "οὐκ ἀφῆκέν με",
+      "highlightedWord": "ἀφῆκέν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Jn 10:12",
+      "text": "καὶ ἀφίησιν τὰ",
+      "highlightedWord": "ἀφίησιν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Jn 11:44",
+      "text": "καὶ ἄφετε αὐτὸν",
+      "highlightedWord": "ἄφετε"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 48,
+      "reference": "Jn 11:48",
+      "text": "ἐὰν ἀφῶμεν αὐτὸν",
+      "highlightedWord": "ἀφῶμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Jn 12:7",
+      "text": "Ἰησοῦς· Ἄφες αὐτήν,",
+      "highlightedWord": "Ἄφες"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Jn 14:18",
+      "text": "Οὐκ ἀφήσω ὑμᾶς",
+      "highlightedWord": "ἀφήσω"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Jn 14:27",
+      "text": "εἰρήνην ἀφίημι ὑμῖν,",
+      "highlightedWord": "ἀφίημι"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Jn 16:28",
+      "text": "πάλιν ἀφίημι τὸν",
+      "highlightedWord": "ἀφίημι"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 32,
+      "reference": "Jn 16:32",
+      "text": "μόνον ἀφῆτε· καὶ",
+      "highlightedWord": "ἀφῆτε·"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Jn 18:8",
+      "text": "ζητεῖτε, ἄφετε τούτους",
+      "highlightedWord": "ἄφετε"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Jn 20:23",
+      "text": "τινων ἀφῆτε τὰς",
+      "highlightedWord": "ἀφῆτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Ac 5:38",
+      "text": "καὶ ἄφετε αὐτούς·",
+      "highlightedWord": "ἄφετε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Ac 8:22",
+      "text": "ἄρα ἀφεθήσεταί σοι",
+      "highlightedWord": "ἀφεθήσεταί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Ac 14:17",
+      "text": "αὑτὸν ἀφῆκεν ἀγαθουργῶν,",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Ro 1:27",
+      "text": "ἄρσενες ἀφέντες τὴν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ro 4:7",
+      "text": "ὧν ἀφέθησαν αἱ",
+      "highlightedWord": "ἀφέθησαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "1Co 7:11",
+      "text": "μὴ ἀφιέναι.",
+      "highlightedWord": "ἀφιέναι."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "1Co 7:12",
+      "text": "μὴ ἀφιέτω αὐτήν·",
+      "highlightedWord": "ἀφιέτω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "1Co 7:13",
+      "text": "μὴ ἀφιέτω τὸν",
+      "highlightedWord": "ἀφιέτω"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Heb 2:8",
+      "text": "οὐδὲν ἀφῆκεν αὐτῷ",
+      "highlightedWord": "ἀφῆκεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Heb 6:1",
+      "text": "Διὸ ἀφέντες τὸν",
+      "highlightedWord": "ἀφέντες"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Jas 5:15",
+      "text": "πεποιηκώς, ἀφεθήσεται αὐτῷ.",
+      "highlightedWord": "ἀφεθήσεται"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Jn 1:9",
+      "text": "ἵνα ἀφῇ ἡμῖν",
+      "highlightedWord": "ἀφῇ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Jn 2:12",
+      "text": "ὅτι ἀφέωνται ὑμῖν",
+      "highlightedWord": "ἀφέωνται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Re 2:4",
+      "text": "πρώτην ἀφῆκες.",
+      "highlightedWord": "ἀφῆκες."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "ὅτι ἀφεῖς τὴν",
+      "highlightedWord": "ἀφεῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Re 11:9",
+      "text": "οὐκ ἀφίουσιν τεθῆναι",
+      "highlightedWord": "ἀφίουσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

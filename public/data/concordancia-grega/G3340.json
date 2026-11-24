@@ -1,0 +1,277 @@
+{
+  "strong": "G3340",
+  "lemma": "μετανοέω",
+  "lemmaTranslit": "metanoeō",
+  "tokenCount": 34,
+  "verseCount": 32,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 2,
+    "Lucas": 9,
+    "Atos": 5,
+    "2 Coríntios": 1,
+    "Apocalipse": 12
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Mt 3:2",
+      "text": "λέγων· Μετανοεῖτε, ἤγγικεν",
+      "highlightedWord": "Μετανοεῖτε,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Mt 4:17",
+      "text": "λέγειν· Μετανοεῖτε, ἤγγικεν",
+      "highlightedWord": "Μετανοεῖτε,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Mt 11:20",
+      "text": "οὐ μετενόησαν·",
+      "highlightedWord": "μετενόησαν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Mt 11:21",
+      "text": "σποδῷ μετενόησαν.",
+      "highlightedWord": "μετενόησαν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Mt 12:41",
+      "text": "ὅτι μετενόησαν εἰς",
+      "highlightedWord": "μετενόησαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Mk 1:15",
+      "text": "θεοῦ· μετανοεῖτε καὶ",
+      "highlightedWord": "μετανοεῖτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Mk 6:12",
+      "text": "ἵνα μετανοῶσιν,",
+      "highlightedWord": "μετανοῶσιν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Lk 10:13",
+      "text": "καθήμενοι μετενόησαν.",
+      "highlightedWord": "μετενόησαν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Lk 11:32",
+      "text": "ὅτι μετενόησαν εἰς",
+      "highlightedWord": "μετενόησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Lk 13:3",
+      "text": "μὴ μετανοῆτε πάντες",
+      "highlightedWord": "μετανοῆτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Lk 13:5",
+      "text": "μὴ μετανοῆτε πάντες",
+      "highlightedWord": "μετανοῆτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Lk 15:7",
+      "text": "ἁμαρτωλῷ μετανοοῦντι ἢ",
+      "highlightedWord": "μετανοοῦντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Lk 15:10",
+      "text": "ἁμαρτωλῷ μετανοοῦντι.",
+      "highlightedWord": "μετανοοῦντι."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Lk 16:30",
+      "text": "αὐτοὺς μετανοήσουσιν.",
+      "highlightedWord": "μετανοήσουσιν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Lk 17:3",
+      "text": "ἐὰν μετανοήσῃ ἄφες",
+      "highlightedWord": "μετανοήσῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Lk 17:4",
+      "text": "λέγων· Μετανοῶ, ἀφήσεις",
+      "highlightedWord": "Μετανοῶ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "Ac 2:38",
+      "text": "αὐτούς· Μετανοήσατε, καὶ",
+      "highlightedWord": "Μετανοήσατε,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ac 3:19",
+      "text": "μετανοήσατε οὖν",
+      "highlightedWord": "μετανοήσατε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Ac 8:22",
+      "text": "μετανόησον οὖν",
+      "highlightedWord": "μετανόησον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 30,
+      "reference": "Ac 17:30",
+      "text": "πανταχοῦ μετανοεῖν,",
+      "highlightedWord": "μετανοεῖν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 20,
+      "reference": "Ac 26:20",
+      "text": "ἀπήγγελλον μετανοεῖν καὶ",
+      "highlightedWord": "μετανοεῖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "2Co 12:21",
+      "text": "μὴ μετανοησάντων ἐπὶ",
+      "highlightedWord": "μετανοησάντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "καὶ μετανόησον καὶ",
+      "highlightedWord": "μετανόησον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Re 2:16",
+      "text": "μετανόησον οὖν·",
+      "highlightedWord": "μετανόησον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Re 2:21",
+      "text": "ἵνα μετανοήσῃ, καὶ",
+      "highlightedWord": "μετανοήσῃ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Re 2:22",
+      "text": "μὴ μετανοήσωσιν ἐκ",
+      "highlightedWord": "μετανοήσωσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "καὶ μετανόησον· ἐὰν",
+      "highlightedWord": "μετανόησον·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Re 3:19",
+      "text": "καὶ μετανόησον.",
+      "highlightedWord": "μετανόησον."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "οὐδὲ μετενόησαν ἐκ",
+      "highlightedWord": "μετενόησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Re 9:21",
+      "text": "οὐ μετενόησαν ἐκ",
+      "highlightedWord": "μετενόησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Re 16:9",
+      "text": "οὐ μετενόησαν δοῦναι",
+      "highlightedWord": "μετενόησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "Re 16:11",
+      "text": "οὐ μετενόησαν ἐκ",
+      "highlightedWord": "μετενόησαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

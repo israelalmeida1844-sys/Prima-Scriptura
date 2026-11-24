@@ -1,0 +1,101 @@
+{
+  "strong": "G976",
+  "lemma": "βίβλος",
+  "lemmaTranslit": "biblos",
+  "tokenCount": 10,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Lucas": 2,
+    "Atos": 3,
+    "Filipenses": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Mt 1:1",
+      "text": "Βίβλος γενέσεως",
+      "highlightedWord": "Βίβλος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Mk 12:26",
+      "text": "τῇ βίβλῳ Μωϋσέως",
+      "highlightedWord": "βίβλῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Lk 3:4",
+      "text": "ἐν βίβλῳ λόγων",
+      "highlightedWord": "βίβλῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 42,
+      "reference": "Lk 20:42",
+      "text": "ἐν βίβλῳ ψαλμῶν·",
+      "highlightedWord": "βίβλῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Ac 1:20",
+      "text": "ἐν βίβλῳ ψαλμῶν·",
+      "highlightedWord": "βίβλῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Ac 7:42",
+      "text": "ἐν βίβλῳ τῶν",
+      "highlightedWord": "βίβλῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Ac 19:19",
+      "text": "τὰς βίβλους κατέκαιον",
+      "highlightedWord": "βίβλους"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Php 4:3",
+      "text": "ἐν βίβλῳ ζωῆς.",
+      "highlightedWord": "βίβλῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Re 3:5",
+      "text": "τῆς βίβλου τῆς",
+      "highlightedWord": "βίβλου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Re 20:15",
+      "text": "τῇ βίβλῳ τῆς",
+      "highlightedWord": "βίβλῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

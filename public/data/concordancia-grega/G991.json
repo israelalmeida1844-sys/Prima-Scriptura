@@ -1,0 +1,967 @@
+{
+  "strong": "G991",
+  "lemma": "βλέπω",
+  "lemmaTranslit": "blepō",
+  "tokenCount": 133,
+  "verseCount": 117,
+  "bookDistribution": {
+    "Mateus": 20,
+    "Marcos": 15,
+    "Lucas": 16,
+    "João": 17,
+    "Atos": 14,
+    "Romanos": 6,
+    "1 Coríntios": 7,
+    "2 Coríntios": 7,
+    "Gálatas": 1,
+    "Efésios": 1,
+    "Filipenses": 3,
+    "Colossenses": 3,
+    "Hebreus": 8,
+    "Tiago": 1,
+    "2 João": 1,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Mt 5:28",
+      "text": "ὁ βλέπων γυναῖκα",
+      "highlightedWord": "βλέπων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Mt 6:4",
+      "text": "ὁ βλέπων ἐν",
+      "highlightedWord": "βλέπων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Mt 6:6",
+      "text": "ὁ βλέπων ἐν",
+      "highlightedWord": "βλέπων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Mt 6:18",
+      "text": "ὁ βλέπων ἐν",
+      "highlightedWord": "βλέπων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Mt 7:3",
+      "text": "δὲ βλέπεις τὸ",
+      "highlightedWord": "βλέπεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Mt 11:4",
+      "text": "καὶ βλέπετε·",
+      "highlightedWord": "βλέπετε·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Mt 12:22",
+      "text": "καὶ βλέπειν.",
+      "highlightedWord": "βλέπειν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Mt 13:13",
+      "text": "ὅτι βλέποντες οὐ",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Mt 13:14",
+      "text": "καὶ βλέποντες βλέψετε",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Mt 13:16",
+      "text": "ὅτι βλέπουσιν, καὶ",
+      "highlightedWord": "βλέπουσιν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Mt 13:17",
+      "text": "ἃ βλέπετε καὶ",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Mt 14:30",
+      "text": "βλέπων δὲ",
+      "highlightedWord": "βλέπων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mt 15:31",
+      "text": "θαυμάσαι βλέποντας κωφοὺς",
+      "highlightedWord": "βλέποντας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Mt 18:10",
+      "text": "παντὸς βλέπουσι τὸ",
+      "highlightedWord": "βλέπουσι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Mt 22:16",
+      "text": "γὰρ βλέπεις εἰς",
+      "highlightedWord": "βλέπεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Mt 24:2",
+      "text": "Οὐ βλέπετε ταῦτα",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 4,
+      "reference": "Mt 24:4",
+      "text": "αὐτοῖς· Βλέπετε μή",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Mk 4:12",
+      "text": "ἵνα βλέποντες βλέπωσι",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Mk 4:24",
+      "text": "αὐτοῖς· Βλέπετε τί",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Mk 5:31",
+      "text": "αὐτοῦ· Βλέπεις τὸν",
+      "highlightedWord": "Βλέπεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Mk 8:15",
+      "text": "Ὁρᾶτε, βλέπετε ἀπὸ",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Mk 8:18",
+      "text": "οὐ βλέπετε καὶ",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Mk 8:23",
+      "text": "τι βλέπεις;",
+      "highlightedWord": "βλέπεις;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Mk 8:24",
+      "text": "ἔλεγεν· Βλέπω τοὺς",
+      "highlightedWord": "Βλέπω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "γὰρ βλέπεις εἰς",
+      "highlightedWord": "βλέπεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Mk 12:38",
+      "text": "ἔλεγεν· Βλέπετε ἀπὸ",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mk 13:2",
+      "text": "αὐτῷ· Βλέπεις ταύτας",
+      "highlightedWord": "Βλέπεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mk 13:5",
+      "text": "αὐτοῖς· Βλέπετε μή",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Mk 13:9",
+      "text": "βλέπετε δὲ",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 23,
+      "reference": "Mk 13:23",
+      "text": "δὲ βλέπετε· προείρηκα",
+      "highlightedWord": "βλέπετε·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Mk 13:33",
+      "text": "βλέπετε ἀγρυπνεῖτε,",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Lk 6:41",
+      "text": "δὲ βλέπεις τὸ",
+      "highlightedWord": "βλέπεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Lk 6:42",
+      "text": "οὐ βλέπων; ὑποκριτά,",
+      "highlightedWord": "βλέπων;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Lk 7:21",
+      "text": "ἐχαρίσατο βλέπειν.",
+      "highlightedWord": "βλέπειν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Lk 7:44",
+      "text": "ἔφη· Βλέπεις ταύτην",
+      "highlightedWord": "Βλέπεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Lk 8:10",
+      "text": "ἵνα βλέποντες μὴ",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Lk 8:16",
+      "text": "εἰσπορευόμενοι βλέπωσιν τὸ",
+      "highlightedWord": "βλέπωσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Lk 8:18",
+      "text": "βλέπετε οὖν",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 62,
+      "reference": "Lk 9:62",
+      "text": "καὶ βλέπων εἰς",
+      "highlightedWord": "βλέπων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Lk 10:23",
+      "text": "οἱ βλέποντες ἃ",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Lk 10:24",
+      "text": "ὑμεῖς βλέπετε καὶ",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Lk 11:33",
+      "text": "φέγγος βλέπωσιν.",
+      "highlightedWord": "βλέπωσιν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Lk 21:8",
+      "text": "εἶπεν· Βλέπετε μὴ",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Lk 21:30",
+      "text": "ἤδη, βλέποντες ἀφ’",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Lk 24:12",
+      "text": "παρακύψας βλέπει τὰ",
+      "highlightedWord": "βλέπει"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Jn 1:29",
+      "text": "ἐπαύριον βλέπει τὸν",
+      "highlightedWord": "βλέπει"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "τι βλέπῃ τὸν",
+      "highlightedWord": "βλέπῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Jn 9:7",
+      "text": "ἦλθεν βλέπων.",
+      "highlightedWord": "βλέπων."
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Jn 9:15",
+      "text": "καὶ βλέπω.",
+      "highlightedWord": "βλέπω."
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Jn 9:19",
+      "text": "οὖν βλέπει ἄρτι;",
+      "highlightedWord": "βλέπει"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Jn 9:21",
+      "text": "νῦν βλέπει οὐκ",
+      "highlightedWord": "βλέπει"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Jn 9:25",
+      "text": "ἄρτι βλέπω.",
+      "highlightedWord": "βλέπω."
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Jn 9:39",
+      "text": "μὴ βλέποντες βλέπωσιν",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Jn 9:41",
+      "text": "ὅτι Βλέπομεν· ἡ",
+      "highlightedWord": "Βλέπομεν·"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Jn 11:9",
+      "text": "τούτου βλέπει·",
+      "highlightedWord": "βλέπει·"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Jn 13:22",
+      "text": "ἔβλεπον εἰς",
+      "highlightedWord": "ἔβλεπον"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Jn 20:1",
+      "text": "καὶ βλέπει τὸν",
+      "highlightedWord": "βλέπει"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Jn 20:5",
+      "text": "παρακύψας βλέπει κείμενα",
+      "highlightedWord": "βλέπει"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Jn 21:9",
+      "text": "γῆν βλέπουσιν ἀνθρακιὰν",
+      "highlightedWord": "βλέπουσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 20,
+      "reference": "Jn 21:20",
+      "text": "Πέτρος βλέπει τὸν",
+      "highlightedWord": "βλέπει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Ac 1:9",
+      "text": "εἰπὼν βλεπόντων αὐτῶν",
+      "highlightedWord": "βλεπόντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ac 1:11",
+      "text": "ἑστήκατε βλέποντες εἰς",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 33,
+      "reference": "Ac 2:33",
+      "text": "ὑμεῖς βλέπετε καὶ",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Ac 3:4",
+      "text": "εἶπεν· Βλέψον εἰς",
+      "highlightedWord": "Βλέψον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ac 4:14",
+      "text": "ἄνθρωπον βλέποντες σὺν",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Ac 8:6",
+      "text": "καὶ βλέπειν τὰ",
+      "highlightedWord": "βλέπειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Ac 9:8",
+      "text": "οὐδὲν ἔβλεπεν· χειραγωγοῦντες",
+      "highlightedWord": "ἔβλεπεν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Ac 9:9",
+      "text": "μὴ βλέπων, καὶ",
+      "highlightedWord": "βλέπων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Ac 12:9",
+      "text": "ὅραμα βλέπειν.",
+      "highlightedWord": "βλέπειν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ac 13:11",
+      "text": "μὴ βλέπων τὸν",
+      "highlightedWord": "βλέπων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 40,
+      "reference": "Ac 13:40",
+      "text": "βλέπετε οὖν",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Ac 27:12",
+      "text": "Κρήτης βλέποντα κατὰ",
+      "highlightedWord": "βλέποντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 26,
+      "reference": "Ac 28:26",
+      "text": "καὶ βλέποντες βλέψετε",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Ro 7:23",
+      "text": "βλέπω δὲ",
+      "highlightedWord": "βλέπω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Ro 8:24",
+      "text": "δὲ βλεπομένη οὐκ",
+      "highlightedWord": "βλεπομένη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Ro 8:25",
+      "text": "οὐ βλέπομεν ἐλπίζομεν,",
+      "highlightedWord": "βλέπομεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Ro 11:8",
+      "text": "μὴ βλέπειν καὶ",
+      "highlightedWord": "βλέπειν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Ro 11:10",
+      "text": "μὴ βλέπειν, καὶ",
+      "highlightedWord": "βλέπειν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "1Co 1:26",
+      "text": "Βλέπετε γὰρ",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Co 3:10",
+      "text": "δὲ βλεπέτω πῶς",
+      "highlightedWord": "βλεπέτω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "1Co 8:9",
+      "text": "βλέπετε δὲ",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "1Co 10:12",
+      "text": "ἑστάναι βλεπέτω μὴ",
+      "highlightedWord": "βλεπέτω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "1Co 10:18",
+      "text": "βλέπετε τὸν",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "1Co 13:12",
+      "text": "βλέπομεν γὰρ",
+      "highlightedWord": "βλέπομεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "1Co 16:10",
+      "text": "Τιμόθεος, βλέπετε ἵνα",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "2Co 4:18",
+      "text": "τὰ βλεπόμενα ἀλλὰ",
+      "highlightedWord": "βλεπόμενα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "2Co 7:8",
+      "text": "μετεμελόμην (βλέπω ὅτι",
+      "highlightedWord": "(βλέπω"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "2Co 10:7",
+      "text": "πρόσωπον βλέπετε. εἴ",
+      "highlightedWord": "βλέπετε."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "2Co 12:6",
+      "text": "ὃ βλέπει με",
+      "highlightedWord": "βλέπει"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ga 5:15",
+      "text": "κατεσθίετε, βλέπετε μὴ",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Eph 5:15",
+      "text": "Βλέπετε οὖν",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Php 3:2",
+      "text": "Βλέπετε τοὺς",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Col 2:5",
+      "text": "καὶ βλέπων ὑμῶν",
+      "highlightedWord": "βλέπων"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Col 2:8",
+      "text": "Βλέπετε μή",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Col 4:17",
+      "text": "Ἀρχίππῳ· Βλέπε τὴν",
+      "highlightedWord": "Βλέπε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Heb 2:9",
+      "text": "ἠλαττωμένον βλέπομεν Ἰησοῦν",
+      "highlightedWord": "βλέπομεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Heb 3:12",
+      "text": "βλέπετε, ἀδελφοί,",
+      "highlightedWord": "βλέπετε,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Heb 3:19",
+      "text": "καὶ βλέπομεν ὅτι",
+      "highlightedWord": "βλέπομεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Heb 10:25",
+      "text": "ὅσῳ βλέπετε ἐγγίζουσαν",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Heb 11:1",
+      "text": "οὐ βλεπομένων·",
+      "highlightedWord": "βλεπομένων·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Heb 11:3",
+      "text": "τὸ βλεπόμενον γεγονέναι.",
+      "highlightedWord": "βλεπόμενον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Heb 11:7",
+      "text": "μηδέπω βλεπομένων εὐλαβηθεὶς",
+      "highlightedWord": "βλεπομένων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Heb 12:25",
+      "text": "Βλέπετε μὴ",
+      "highlightedWord": "Βλέπετε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Jas 2:22",
+      "text": "βλέπεις ὅτι",
+      "highlightedWord": "βλέπεις"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Jn 1:8",
+      "text": "βλέπετε ἑαυτούς,",
+      "highlightedWord": "βλέπετε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "Ὃ βλέπεις γράψον",
+      "highlightedWord": "βλέπεις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Re 1:12",
+      "text": "ἐπέστρεψα βλέπειν τὴν",
+      "highlightedWord": "βλέπειν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "ἵνα βλέπῃς.",
+      "highlightedWord": "βλέπῃς."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Re 5:3",
+      "text": "οὔτε βλέπειν αὐτό.",
+      "highlightedWord": "βλέπειν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Re 5:4",
+      "text": "οὔτε βλέπειν αὐτό·",
+      "highlightedWord": "βλέπειν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "οὔτε βλέπειν δύνανται",
+      "highlightedWord": "βλέπειν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Re 11:9",
+      "text": "καὶ βλέπουσιν ἐκ",
+      "highlightedWord": "βλέπουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Re 16:15",
+      "text": "καὶ βλέπωσιν τὴν",
+      "highlightedWord": "βλέπωσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Re 17:8",
+      "text": "κόσμου, βλεπόντων τὸ",
+      "highlightedWord": "βλεπόντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Re 18:9",
+      "text": "ὅταν βλέπωσιν τὸν",
+      "highlightedWord": "βλέπωσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Re 18:18",
+      "text": "ἔκραξαν βλέποντες τὸν",
+      "highlightedWord": "βλέποντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Re 22:8",
+      "text": "καὶ βλέπων ταῦτα.",
+      "highlightedWord": "βλέπων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

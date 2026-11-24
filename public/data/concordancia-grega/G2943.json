@@ -1,0 +1,40 @@
+{
+  "strong": "G2943",
+  "lemma": "κυκλόθεν",
+  "lemmaTranslit": "kyklothen",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Re 4:3",
+      "text": "ἶρις κυκλόθεν τοῦ",
+      "highlightedWord": "κυκλόθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "καὶ κυκλόθεν τοῦ",
+      "highlightedWord": "κυκλόθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "ἕξ, κυκλόθεν καὶ",
+      "highlightedWord": "κυκλόθεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

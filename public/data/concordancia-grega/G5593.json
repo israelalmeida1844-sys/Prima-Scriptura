@@ -1,0 +1,41 @@
+{
+  "strong": "G5593",
+  "lemma": "ψυχρός",
+  "lemmaTranslit": "psychros",
+  "tokenCount": 4,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mt 10:42",
+      "text": "ποτήριον ψυχροῦ μόνον",
+      "highlightedWord": "ψυχροῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Re 3:15",
+      "text": "οὔτε ψυχρὸς εἶ",
+      "highlightedWord": "ψυχρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Re 3:16",
+      "text": "οὔτε ψυχρός, μέλλω",
+      "highlightedWord": "ψυχρός,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

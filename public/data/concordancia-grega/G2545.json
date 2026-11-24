@@ -1,0 +1,125 @@
+{
+  "strong": "G2545",
+  "lemma": "καίω",
+  "lemmaTranslit": "kaiō",
+  "tokenCount": 13,
+  "verseCount": 13,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Lucas": 2,
+    "João": 2,
+    "1 Coríntios": 1,
+    "Hebreus": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Mt 5:15",
+      "text": "οὐδὲ καίουσιν λύχνον",
+      "highlightedWord": "καίουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 40,
+      "reference": "Mt 13:40",
+      "text": "πυρὶ καίεται, οὕτως",
+      "highlightedWord": "καίεται,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Lk 12:35",
+      "text": "λύχνοι καιόμενοι,",
+      "highlightedWord": "καιόμενοι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 32,
+      "reference": "Lk 24:32",
+      "text": "ἡμῶν καιομένη ἦν",
+      "highlightedWord": "καιομένη"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Jn 5:35",
+      "text": "ὁ καιόμενος καὶ",
+      "highlightedWord": "καιόμενος"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Jn 15:6",
+      "text": "καὶ καίεται.",
+      "highlightedWord": "καίεται."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "1Co 13:3",
+      "text": "ἵνα καυθήσομαι, ἀγάπην",
+      "highlightedWord": "καυθήσομαι,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Heb 12:18",
+      "text": "καὶ κεκαυμένῳ πυρὶ",
+      "highlightedWord": "κεκαυμένῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Re 4:5",
+      "text": "πυρὸς καιόμεναι ἐνώπιον",
+      "highlightedWord": "καιόμεναι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Re 8:8",
+      "text": "πυρὶ καιόμενον ἐβλήθη",
+      "highlightedWord": "καιόμενον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Re 8:10",
+      "text": "μέγας καιόμενος ὡς",
+      "highlightedWord": "καιόμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Re 19:20",
+      "text": "τῆς καιομένης ἐν",
+      "highlightedWord": "καιομένης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Re 21:8",
+      "text": "τῇ καιομένῃ πυρὶ",
+      "highlightedWord": "καιομένῃ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

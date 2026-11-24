@@ -1,0 +1,116 @@
+{
+  "strong": "G2081",
+  "lemma": "ἔσωθεν",
+  "lemmaTranslit": "esōthen",
+  "tokenCount": 12,
+  "verseCount": 12,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 2,
+    "Lucas": 3,
+    "2 Coríntios": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Mt 7:15",
+      "text": "προβάτων ἔσωθεν δέ",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 25,
+      "reference": "Mt 23:25",
+      "text": "παροψίδος, ἔσωθεν δὲ",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 27,
+      "reference": "Mt 23:27",
+      "text": "ὡραῖοι ἔσωθεν δὲ",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Mt 23:28",
+      "text": "δίκαιοι, ἔσωθεν δέ",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mk 7:21",
+      "text": "ἔσωθεν γὰρ",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Mk 7:23",
+      "text": "πονηρὰ ἔσωθεν ἐκπορεύεται",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Lk 11:7",
+      "text": "κἀκεῖνος ἔσωθεν ἀποκριθεὶς",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 39,
+      "reference": "Lk 11:39",
+      "text": "δὲ ἔσωθεν ὑμῶν",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 40,
+      "reference": "Lk 11:40",
+      "text": "τὸ ἔσωθεν ἐποίησεν;",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "2Co 7:5",
+      "text": "μάχαι, ἔσωθεν φόβοι—",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "καὶ ἔσωθεν γέμουσιν",
+      "highlightedWord": "ἔσωθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Re 5:1",
+      "text": "γεγραμμένον ἔσωθεν καὶ",
+      "highlightedWord": "ἔσωθεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

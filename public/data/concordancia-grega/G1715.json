@@ -1,0 +1,386 @@
+{
+  "strong": "G1715",
+  "lemma": "ἔμπροσθεν",
+  "lemmaTranslit": "emprosthen",
+  "tokenCount": 48,
+  "verseCount": 45,
+  "bookDistribution": {
+    "Mateus": 18,
+    "Marcos": 2,
+    "Lucas": 10,
+    "João": 5,
+    "Atos": 2,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 4,
+    "1 João": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Mt 5:16",
+      "text": "ὑμῶν ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Mt 5:24",
+      "text": "σου ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mt 6:1",
+      "text": "ποιεῖν ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mt 6:2",
+      "text": "σαλπίσῃς ἔμπροσθέν σου,",
+      "highlightedWord": "ἔμπροσθέν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Mt 7:6",
+      "text": "ὑμῶν ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Mt 10:32",
+      "text": "ἐμοὶ ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mt 10:33",
+      "text": "με ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Mt 11:10",
+      "text": "σου ἔμπροσθέν σου.",
+      "highlightedWord": "ἔμπροσθέν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Mt 11:26",
+      "text": "ἐγένετο ἔμπροσθέν σου.",
+      "highlightedWord": "ἔμπροσθέν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Mt 17:2",
+      "text": "μετεμορφώθη ἔμπροσθεν αὐτῶν,",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Mt 18:14",
+      "text": "θέλημα ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 13,
+      "reference": "Mt 23:13",
+      "text": "οὐρανῶν ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 32,
+      "reference": "Mt 25:32",
+      "text": "συναχθήσονται ἔμπροσθεν αὐτοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 70,
+      "reference": "Mt 26:70",
+      "text": "ἠρνήσατο ἔμπροσθεν πάντων",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 11,
+      "reference": "Mt 27:11",
+      "text": "ἐστάθη ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Mt 27:29",
+      "text": "γονυπετήσαντες ἔμπροσθεν αὐτοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Mk 2:12",
+      "text": "ἐξῆλθεν ἔμπροσθεν πάντων,",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mk 9:2",
+      "text": "μετεμορφώθη ἔμπροσθεν αὐτῶν,",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Lk 5:19",
+      "text": "μέσον ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Lk 7:27",
+      "text": "σου ἔμπροσθέν σου.",
+      "highlightedWord": "ἔμπροσθέν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Lk 10:21",
+      "text": "ἐγένετο ἔμπροσθέν σου.",
+      "highlightedWord": "ἔμπροσθέν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Lk 12:8",
+      "text": "ἐμοὶ ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Lk 14:2",
+      "text": "ὑδρωπικὸς ἔμπροσθεν αὐτοῦ.",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Lk 19:4",
+      "text": "τὸ ἔμπροσθεν ἀνέβη",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Lk 19:27",
+      "text": "αὐτοὺς ἔμπροσθέν μου.",
+      "highlightedWord": "ἔμπροσθέν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Lk 19:28",
+      "text": "ἐπορεύετο ἔμπροσθεν ἀναβαίνων",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Lk 21:36",
+      "text": "σταθῆναι ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Jn 1:15",
+      "text": "ἐρχόμενος ἔμπροσθέν μου",
+      "highlightedWord": "ἔμπροσθέν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Jn 1:30",
+      "text": "ὃς ἔμπροσθέν μου",
+      "highlightedWord": "ἔμπροσθέν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Jn 3:28",
+      "text": "εἰμὶ ἔμπροσθεν ἐκείνου.",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Jn 10:4",
+      "text": "ἐκβάλῃ, ἔμπροσθεν αὐτῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Jn 12:37",
+      "text": "πεποιηκότος ἔμπροσθεν αὐτῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Ac 10:4",
+      "text": "μνημόσυνον ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Ac 18:17",
+      "text": "ἔτυπτον ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "2Co 5:10",
+      "text": "δεῖ ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ga 2:14",
+      "text": "Κηφᾷ ἔμπροσθεν πάντων·",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Php 3:13",
+      "text": "δὲ ἔμπροσθεν ἐπεκτεινόμενος,",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Th 1:3",
+      "text": "Χριστοῦ ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Th 2:19",
+      "text": "ὑμεῖς— ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Th 3:9",
+      "text": "ὑμᾶς ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Th 3:13",
+      "text": "ἁγιωσύνῃ ἔμπροσθεν τοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "1Jn 3:19",
+      "text": "καὶ ἔμπροσθεν αὐτοῦ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "ὀφθαλμῶν ἔμπροσθεν καὶ",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Re 19:10",
+      "text": "ἔπεσα ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Re 22:8",
+      "text": "προσκυνῆσαι ἔμπροσθεν τῶν",
+      "highlightedWord": "ἔμπροσθεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

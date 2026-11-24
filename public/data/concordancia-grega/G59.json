@@ -1,0 +1,262 @@
+{
+  "strong": "G59",
+  "lemma": "ἀγοράζω",
+  "lemmaTranslit": "agorazō",
+  "tokenCount": 30,
+  "verseCount": 30,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 5,
+    "Lucas": 5,
+    "João": 3,
+    "1 Coríntios": 3,
+    "2 Pedro": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Mt 13:44",
+      "text": "καὶ ἀγοράζει τὸν",
+      "highlightedWord": "ἀγοράζει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Mt 13:46",
+      "text": "καὶ ἠγόρασεν αὐτόν.",
+      "highlightedWord": "ἠγόρασεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Mt 14:15",
+      "text": "κώμας ἀγοράσωσιν ἑαυτοῖς",
+      "highlightedWord": "ἀγοράσωσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Mt 21:12",
+      "text": "καὶ ἀγοράζοντας ἐν",
+      "highlightedWord": "ἀγοράζοντας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 9,
+      "reference": "Mt 25:9",
+      "text": "καὶ ἀγοράσατε ἑαυταῖς.",
+      "highlightedWord": "ἀγοράσατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Mt 25:10",
+      "text": "αὐτῶν ἀγοράσαι ἦλθεν",
+      "highlightedWord": "ἀγοράσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 7,
+      "reference": "Mt 27:7",
+      "text": "λαβόντες ἠγόρασαν ἐξ",
+      "highlightedWord": "ἠγόρασαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 36,
+      "reference": "Mk 6:36",
+      "text": "κώμας ἀγοράσωσιν ἑαυτοῖς",
+      "highlightedWord": "ἀγοράσωσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 37,
+      "reference": "Mk 6:37",
+      "text": "Ἀπελθόντες ἀγοράσωμεν δηναρίων",
+      "highlightedWord": "ἀγοράσωμεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Mk 11:15",
+      "text": "τοὺς ἀγοράζοντας ἐν",
+      "highlightedWord": "ἀγοράζοντας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 46,
+      "reference": "Mk 15:46",
+      "text": "καὶ ἀγοράσας σινδόνα",
+      "highlightedWord": "ἀγοράσας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Mk 16:1",
+      "text": "Σαλώμη ἠγόρασαν ἀρώματα",
+      "highlightedWord": "ἠγόρασαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Lk 9:13",
+      "text": "ἡμεῖς ἀγοράσωμεν εἰς",
+      "highlightedWord": "ἀγοράσωμεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Lk 14:18",
+      "text": "Ἀγρὸν ἠγόρασα καὶ",
+      "highlightedWord": "ἠγόρασα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Lk 14:19",
+      "text": "βοῶν ἠγόρασα πέντε",
+      "highlightedWord": "ἠγόρασα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 28,
+      "reference": "Lk 17:28",
+      "text": "ἔπινον, ἠγόραζον, ἐπώλουν,",
+      "highlightedWord": "ἠγόραζον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 36,
+      "reference": "Lk 22:36",
+      "text": "καὶ ἀγορασάτω μάχαιραν.",
+      "highlightedWord": "ἀγορασάτω"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Jn 4:8",
+      "text": "τροφὰς ἀγοράσωσιν.",
+      "highlightedWord": "ἀγοράσωσιν."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Jn 6:5",
+      "text": "Πόθεν ἀγοράσωμεν ἄρτους",
+      "highlightedWord": "ἀγοράσωμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Jn 13:29",
+      "text": "Ἰησοῦς· Ἀγόρασον ὧν",
+      "highlightedWord": "Ἀγόρασον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "1Co 6:20",
+      "text": "ἠγοράσθητε γὰρ",
+      "highlightedWord": "ἠγοράσθητε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "1Co 7:23",
+      "text": "τιμῆς ἠγοράσθητε· μὴ",
+      "highlightedWord": "ἠγοράσθητε·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "1Co 7:30",
+      "text": "οἱ ἀγοράζοντες ὡς",
+      "highlightedWord": "ἀγοράζοντες"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "2Pe 2:1",
+      "text": "τὸν ἀγοράσαντα αὐτοὺς",
+      "highlightedWord": "ἀγοράσαντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "σοι ἀγοράσαι παρ’",
+      "highlightedWord": "ἀγοράσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Re 5:9",
+      "text": "καὶ ἠγόρασας τῷ",
+      "highlightedWord": "ἠγόρασας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "δύνηται ἀγοράσαι ἢ",
+      "highlightedWord": "ἀγοράσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Re 14:3",
+      "text": "οἱ ἠγορασμένοι ἀπὸ",
+      "highlightedWord": "ἠγορασμένοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Re 14:4",
+      "text": "⸁οὗτοι ἠγοράσθησαν ἀπὸ",
+      "highlightedWord": "ἠγοράσθησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Re 18:11",
+      "text": "οὐδεὶς ἀγοράζει οὐκέτι,",
+      "highlightedWord": "ἀγοράζει"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

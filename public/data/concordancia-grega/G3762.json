@@ -1,0 +1,1786 @@
+{
+  "strong": "G3762",
+  "lemma": "οὐδείς",
+  "lemmaTranslit": "oudeis",
+  "tokenCount": 232,
+  "verseCount": 219,
+  "bookDistribution": {
+    "Mateus": 19,
+    "Marcos": 26,
+    "Lucas": 35,
+    "João": 51,
+    "Atos": 28,
+    "Romanos": 4,
+    "1 Coríntios": 19,
+    "2 Coríntios": 8,
+    "Gálatas": 8,
+    "Efésios": 1,
+    "Filipenses": 3,
+    "1 Timóteo": 3,
+    "2 Timóteo": 3,
+    "Tito": 1,
+    "Filemom": 1,
+    "Hebreus": 6,
+    "Tiago": 2,
+    "1 João": 2,
+    "Apocalipse": 12
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mt 5:13",
+      "text": "εἰς οὐδὲν ἰσχύει",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Mt 6:24",
+      "text": "Οὐδεὶς δύναται",
+      "highlightedWord": "Οὐδεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Mt 8:10",
+      "text": "παρ’ οὐδενὶ τοσαύτην",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Mt 9:16",
+      "text": "οὐδεὶς δὲ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Mt 10:26",
+      "text": "αὐτούς· οὐδὲν γάρ",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Mt 11:27",
+      "text": "καὶ οὐδεὶς ἐπιγινώσκει",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mt 13:34",
+      "text": "παραβολῆς οὐδὲν ἐλάλει",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Mt 17:8",
+      "text": "αὐτῶν οὐδένα εἶδον",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Mt 17:20",
+      "text": "καὶ οὐδὲν ἀδυνατήσει",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Mt 20:7",
+      "text": "Ὅτι οὐδεὶς ἡμᾶς",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Mt 21:19",
+      "text": "καὶ οὐδὲν εὗρεν",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Mt 22:16",
+      "text": "περὶ οὐδενός, οὐ",
+      "highlightedWord": "οὐδενός,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Mt 22:46",
+      "text": "καὶ οὐδεὶς ἐδύνατο",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 16,
+      "reference": "Mt 23:16",
+      "text": "ναῷ, οὐδέν ἐστιν,",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 18,
+      "reference": "Mt 23:18",
+      "text": "θυσιαστηρίῳ, οὐδέν ἐστιν,",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "ὥρας οὐδεὶς οἶδεν,",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 62,
+      "reference": "Mt 26:62",
+      "text": "αὐτῷ· Οὐδὲν ἀποκρίνῃ;",
+      "highlightedWord": "Οὐδὲν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Mt 27:12",
+      "text": "πρεσβυτέρων οὐδὲν ἀπεκρίνατο.",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 24,
+      "reference": "Mt 27:24",
+      "text": "ὅτι οὐδὲν ὠφελεῖ",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Mk 2:21",
+      "text": "Οὐδεὶς ἐπίβλημα",
+      "highlightedWord": "Οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mk 2:22",
+      "text": "καὶ οὐδεὶς βάλλει",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Mk 3:27",
+      "text": "ἀλλ’ οὐδεὶς δύναται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Mk 5:3",
+      "text": "οὐκέτι οὐδεὶς ἐδύνατο",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Mk 5:4",
+      "text": "καὶ οὐδεὶς ἴσχυεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Mk 5:37",
+      "text": "ἀφῆκεν οὐδένα μετ’",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mk 6:5",
+      "text": "ποιῆσαι οὐδεμίαν δύναμιν,",
+      "highlightedWord": "οὐδεμίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Mk 7:12",
+      "text": "αὐτὸν οὐδὲν ποιῆσαι",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Mk 7:15",
+      "text": "οὐδέν ἐστιν",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Mk 7:24",
+      "text": "οἰκίαν οὐδένα ἤθελεν",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Mk 9:8",
+      "text": "οὐκέτι οὐδένα εἶδον",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Mk 9:29",
+      "text": "ἐν οὐδενὶ δύναται",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Mk 9:39",
+      "text": "αὐτόν, οὐδεὶς γάρ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Mk 10:18",
+      "text": "ἀγαθόν; οὐδεὶς ἀγαθὸς",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Mk 10:29",
+      "text": "ὑμῖν, οὐδείς ἐστιν",
+      "highlightedWord": "οὐδείς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Mk 11:2",
+      "text": "ὃν οὐδεὶς οὔπω",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Mk 11:13",
+      "text": "αὐτὴν οὐδὲν εὗρεν",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "περὶ οὐδενός, οὐ",
+      "highlightedWord": "οὐδενός,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Mk 12:34",
+      "text": "καὶ οὐδεὶς οὐκέτι",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "ὥρας οὐδεὶς οἶδεν,",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 60,
+      "reference": "Mk 14:60",
+      "text": "ἀποκρίνῃ οὐδέν; τί",
+      "highlightedWord": "οὐδέν;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 61,
+      "reference": "Mk 14:61",
+      "text": "ἀπεκρίνατο οὐδέν. πάλιν",
+      "highlightedWord": "οὐδέν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Mk 15:4",
+      "text": "ἀποκρίνῃ οὐδέν; ἴδε",
+      "highlightedWord": "οὐδέν;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Mk 15:5",
+      "text": "οὐκέτι οὐδὲν ἀπεκρίθη,",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Mk 16:8",
+      "text": "καὶ οὐδενὶ οὐδὲν",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 61,
+      "reference": "Lk 1:61",
+      "text": "ὅτι Οὐδείς ἐστιν",
+      "highlightedWord": "Οὐδείς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Lk 4:2",
+      "text": "ἔφαγεν οὐδὲν ἐν",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Lk 4:24",
+      "text": "ὅτι οὐδεὶς προφήτης",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Lk 4:26",
+      "text": "πρὸς οὐδεμίαν αὐτῶν",
+      "highlightedWord": "οὐδεμίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Lk 4:27",
+      "text": "καὶ οὐδεὶς αὐτῶν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Lk 5:5",
+      "text": "κοπιάσαντες οὐδὲν ἐλάβομεν,",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Lk 5:36",
+      "text": "ὅτι Οὐδεὶς ἐπίβλημα",
+      "highlightedWord": "Οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Lk 5:37",
+      "text": "καὶ οὐδεὶς βάλλει",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Lk 5:39",
+      "text": "καὶ οὐδεὶς πιὼν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Lk 7:28",
+      "text": "Ἰωάννου οὐδείς ἐστιν·",
+      "highlightedWord": "οὐδείς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Lk 8:16",
+      "text": "Οὐδεὶς δὲ",
+      "highlightedWord": "Οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 43,
+      "reference": "Lk 8:43",
+      "text": "ἀπ’ οὐδενὸς θεραπευθῆναι,",
+      "highlightedWord": "οὐδενὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Lk 9:36",
+      "text": "καὶ οὐδενὶ ἀπήγγειλαν",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 62,
+      "reference": "Lk 9:62",
+      "text": "Ἰησοῦς· Οὐδεὶς ἐπιβαλὼν",
+      "highlightedWord": "Οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Lk 10:19",
+      "text": "καὶ οὐδὲν ὑμᾶς",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Lk 10:22",
+      "text": "καὶ οὐδεὶς γινώσκει",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Lk 11:33",
+      "text": "Οὐδεὶς λύχνον",
+      "highlightedWord": "Οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Lk 12:2",
+      "text": "οὐδὲν δὲ",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Lk 14:24",
+      "text": "ὅτι οὐδεὶς τῶν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Lk 15:16",
+      "text": "καὶ οὐδεὶς ἐδίδου",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Lk 16:13",
+      "text": "οὐδεὶς οἰκέτης",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Lk 18:19",
+      "text": "ἀγαθόν; οὐδεὶς ἀγαθὸς",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Lk 18:29",
+      "text": "ὅτι οὐδείς ἐστιν",
+      "highlightedWord": "οὐδείς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 34,
+      "reference": "Lk 18:34",
+      "text": "αὐτοὶ οὐδὲν τούτων",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Lk 19:30",
+      "text": "ὃν οὐδεὶς πώποτε",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 40,
+      "reference": "Lk 20:40",
+      "text": "αὐτὸν οὐδέν.",
+      "highlightedWord": "οὐδέν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 35,
+      "reference": "Lk 22:35",
+      "text": "εἶπαν· Οὐθενός.",
+      "highlightedWord": "Οὐθενός."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 4,
+      "reference": "Lk 23:4",
+      "text": "ὄχλους· Οὐδὲν εὑρίσκω",
+      "highlightedWord": "Οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Lk 23:9",
+      "text": "δὲ οὐδὲν ἀπεκρίνατο",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Lk 23:14",
+      "text": "ἀνακρίνας οὐθὲν εὗρον",
+      "highlightedWord": "οὐθὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Lk 23:15",
+      "text": "ἰδοὺ οὐδὲν ἄξιον",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Lk 23:22",
+      "text": "οὗτος; οὐδὲν αἴτιον",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 41,
+      "reference": "Lk 23:41",
+      "text": "δὲ οὐδὲν ἄτοπον",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 53,
+      "reference": "Lk 23:53",
+      "text": "ἦν οὐδεὶς οὔπω",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Jn 1:18",
+      "text": "θεὸν οὐδεὶς ἑώρακεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jn 3:2",
+      "text": "διδάσκαλος· οὐδεὶς γὰρ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jn 3:13",
+      "text": "καὶ οὐδεὶς ἀναβέβηκεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 32,
+      "reference": "Jn 3:32",
+      "text": "αὐτοῦ οὐδεὶς λαμβάνει.",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Jn 4:27",
+      "text": "ἐλάλει· οὐδεὶς μέντοι",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "ἑαυτοῦ οὐδὲν ἐὰν",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Jn 5:22",
+      "text": "κρίνει οὐδένα, ἀλλὰ",
+      "highlightedWord": "οὐδένα,"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Jn 5:30",
+      "text": "ἐμαυτοῦ οὐδέν· καθὼς",
+      "highlightedWord": "οὐδέν·"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Jn 6:44",
+      "text": "οὐδεὶς δύναται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 63,
+      "reference": "Jn 6:63",
+      "text": "ὠφελεῖ οὐδέν· τὰ",
+      "highlightedWord": "οὐδέν·"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 65,
+      "reference": "Jn 6:65",
+      "text": "ὅτι οὐδεὶς δύναται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Jn 7:4",
+      "text": "οὐδεὶς γάρ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Jn 7:13",
+      "text": "οὐδεὶς μέντοι",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Jn 7:19",
+      "text": "καὶ οὐδεὶς ἐξ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Jn 7:26",
+      "text": "καὶ οὐδὲν αὐτῷ",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Jn 7:27",
+      "text": "ἔρχηται οὐδεὶς γινώσκει",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Jn 7:30",
+      "text": "καὶ οὐδεὶς ἐπέβαλεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Jn 7:44",
+      "text": "ἀλλ’ οὐδεὶς ἐπέβαλεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Jn 8:15",
+      "text": "κρίνω οὐδένα.",
+      "highlightedWord": "οὐδένα."
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Jn 8:20",
+      "text": "καὶ οὐδεὶς ἐπίασεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "ποιῶ οὐδέν, ἀλλὰ",
+      "highlightedWord": "οὐδέν,"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Jn 8:33",
+      "text": "καὶ οὐδενὶ δεδουλεύκαμεν",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 54,
+      "reference": "Jn 8:54",
+      "text": "μου οὐδέν ἐστιν·",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Jn 9:4",
+      "text": "ὅτε οὐδεὶς δύναται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Jn 9:33",
+      "text": "ποιεῖν οὐδέν.",
+      "highlightedWord": "οὐδέν."
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Jn 10:18",
+      "text": "οὐδεὶς αἴρει",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Jn 10:29",
+      "text": "καὶ οὐδεὶς δύναται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 41,
+      "reference": "Jn 10:41",
+      "text": "ἐποίησεν οὐδέν, πάντα",
+      "highlightedWord": "οὐδέν,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 49,
+      "reference": "Jn 11:49",
+      "text": "οἴδατε οὐδέν,",
+      "highlightedWord": "οὐδέν,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Jn 12:19",
+      "text": "ὠφελεῖτε οὐδέν· ἴδε",
+      "highlightedWord": "οὐδέν·"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Jn 13:28",
+      "text": "δὲ οὐδεὶς ἔγνω",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Jn 14:6",
+      "text": "ζωή· οὐδεὶς ἔρχεται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Jn 14:30",
+      "text": "ἔχει οὐδέν,",
+      "highlightedWord": "οὐδέν,"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Jn 15:5",
+      "text": "ποιεῖν οὐδέν.",
+      "highlightedWord": "οὐδέν."
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Jn 15:13",
+      "text": "ἀγάπην οὐδεὶς ἔχει,",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Jn 15:24",
+      "text": "ἃ οὐδεὶς ἄλλος",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Jn 16:5",
+      "text": "καὶ οὐδεὶς ἐξ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Jn 16:22",
+      "text": "ὑμῶν οὐδεὶς αἴρει",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Jn 16:23",
+      "text": "ἐρωτήσετε οὐδέν· ἀμὴν",
+      "highlightedWord": "οὐδέν·"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Jn 16:24",
+      "text": "ᾐτήσατε οὐδὲν ἐν",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 29,
+      "reference": "Jn 16:29",
+      "text": "παροιμίαν οὐδεμίαν λέγεις.",
+      "highlightedWord": "οὐδεμίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Jn 17:12",
+      "text": "καὶ οὐδεὶς ἐξ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Jn 18:9",
+      "text": "αὐτῶν οὐδένα.",
+      "highlightedWord": "οὐδένα."
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Jn 18:20",
+      "text": "ἐλάλησα οὐδέν·",
+      "highlightedWord": "οὐδέν·"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Jn 18:31",
+      "text": "ἀποκτεῖναι οὐδένα·",
+      "highlightedWord": "οὐδένα·"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 38,
+      "reference": "Jn 18:38",
+      "text": "Ἐγὼ οὐδεμίαν εὑρίσκω",
+      "highlightedWord": "οὐδεμίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Jn 19:4",
+      "text": "ὅτι οὐδεμίαν αἰτίαν",
+      "highlightedWord": "οὐδεμίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Jn 19:11",
+      "text": "ἐμοῦ οὐδεμίαν εἰ",
+      "highlightedWord": "οὐδεμίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 41,
+      "reference": "Jn 19:41",
+      "text": "οὐδέπω οὐδεὶς ἦν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Jn 21:3",
+      "text": "ἐπίασαν οὐδέν.",
+      "highlightedWord": "οὐδέν."
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Jn 21:12",
+      "text": "ἀριστήσατε. οὐδεὶς δὲ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ac 4:12",
+      "text": "ἄλλῳ οὐδενὶ ἡ",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ac 4:14",
+      "text": "τεθεραπευμένον οὐδὲν εἶχον",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ac 5:13",
+      "text": "λοιπῶν οὐδεὶς ἐτόλμα",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Ac 5:23",
+      "text": "ἔσω οὐδένα εὕρομεν.",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Ac 5:36",
+      "text": "εἰς οὐδέν.",
+      "highlightedWord": "οὐδέν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Ac 8:16",
+      "text": "ἐπ’ οὐδενὶ αὐτῶν",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Ac 9:8",
+      "text": "αὐτοῦ οὐδὲν ἔβλεπεν·",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Ac 15:9",
+      "text": "καὶ οὐθὲν διέκρινεν",
+      "highlightedWord": "οὐθὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 21,
+      "reference": "Ac 17:21",
+      "text": "εἰς οὐδὲν ἕτερον",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Ac 18:10",
+      "text": "καὶ οὐδεὶς ἐπιθήσεταί",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Ac 18:17",
+      "text": "καὶ οὐδὲν τούτων",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Ac 19:27",
+      "text": "εἰς οὐθὲν λογισθῆναι,",
+      "highlightedWord": "οὐθὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Ac 20:20",
+      "text": "ὡς οὐδὲν ὑπεστειλάμην",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Ac 20:24",
+      "text": "ἀλλ’ οὐδενὸς λόγου",
+      "highlightedWord": "οὐδενὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 33,
+      "reference": "Ac 20:33",
+      "text": "ἱματισμοῦ οὐδενὸς ἐπεθύμησα·",
+      "highlightedWord": "οὐδενὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Ac 21:24",
+      "text": "σοῦ οὐδέν ἐστιν,",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "λέγοντες· Οὐδὲν κακὸν",
+      "highlightedWord": "Οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Ac 25:10",
+      "text": "Ἰουδαίους οὐδὲν ἠδίκησα,",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "δὲ οὐδέν ἐστιν",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 18,
+      "reference": "Ac 25:18",
+      "text": "κατήγοροι οὐδεμίαν αἰτίαν",
+      "highlightedWord": "οὐδεμίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "μεγάλῳ, οὐδὲν ἐκτὸς",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 26,
+      "reference": "Ac 26:26",
+      "text": "πείθομαι οὐθέν, οὐ",
+      "highlightedWord": "οὐθέν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Ac 26:31",
+      "text": "ὅτι Οὐδὲν θανάτου",
+      "highlightedWord": "Οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 22,
+      "reference": "Ac 27:22",
+      "text": "ψυχῆς οὐδεμία ἔσται",
+      "highlightedWord": "οὐδεμία"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 34,
+      "reference": "Ac 27:34",
+      "text": "ὑπάρχει· οὐδενὸς γὰρ",
+      "highlightedWord": "οὐδενὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Ac 28:5",
+      "text": "ἔπαθεν οὐδὲν κακόν·",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 17,
+      "reference": "Ac 28:17",
+      "text": "ἀδελφοί, οὐδὲν ἐναντίον",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Ro 8:1",
+      "text": "Οὐδὲν ἄρα",
+      "highlightedWord": "Οὐδὲν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Ro 14:7",
+      "text": "Οὐδεὶς γὰρ",
+      "highlightedWord": "Οὐδεὶς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Ro 14:14",
+      "text": "ὅτι οὐδὲν κοινὸν",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "1Co 1:14",
+      "text": "ὅτι οὐδένα ὑμῶν",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Co 2:8",
+      "text": "ἣν οὐδεὶς τῶν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Co 2:11",
+      "text": "θεοῦ οὐδεὶς ἔγνωκεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Co 2:15",
+      "text": "ὑπ’ οὐδενὸς ἀνακρίνεται.",
+      "highlightedWord": "οὐδενὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Co 3:11",
+      "text": "ἄλλον οὐδεὶς δύναται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Co 4:4",
+      "text": "οὐδὲν γὰρ",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "1Co 6:5",
+      "text": "ὑμῖν οὐδεὶς σοφὸς",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "1Co 7:19",
+      "text": "περιτομὴ οὐδέν ἐστιν,",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "1Co 8:4",
+      "text": "ὅτι οὐδὲν εἴδωλον",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "1Co 9:15",
+      "text": "κέχρημαι οὐδενὶ τούτων.",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "1Co 12:3",
+      "text": "ὅτι οὐδεὶς ἐν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "1Co 13:2",
+      "text": "ἔχω, οὐθέν εἰμι.",
+      "highlightedWord": "οὐθέν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "1Co 13:3",
+      "text": "ἔχω, οὐδὲν ὠφελοῦμαι.",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "1Co 14:2",
+      "text": "θεῷ, οὐδεὶς γὰρ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "1Co 14:10",
+      "text": "καὶ οὐδὲν ἄφωνον·",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "2Co 5:16",
+      "text": "νῦν οὐδένα οἴδαμεν",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "2Co 7:2",
+      "text": "ἡμᾶς· οὐδένα ἠδικήσαμεν,",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "2Co 7:5",
+      "text": "Μακεδονίαν οὐδεμίαν ἔσχηκεν",
+      "highlightedWord": "οὐδεμίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "2Co 11:9",
+      "text": "κατενάρκησα οὐθενός· τὸ",
+      "highlightedWord": "οὐθενός·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "2Co 12:11",
+      "text": "συνίστασθαι. οὐδὲν γὰρ",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ga 2:6",
+      "text": "ἦσαν οὐδέν μοι",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Ga 3:11",
+      "text": "νόμῳ οὐδεὶς δικαιοῦται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Ga 3:15",
+      "text": "διαθήκην οὐδεὶς ἀθετεῖ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Ga 4:1",
+      "text": "ἐστιν, οὐδὲν διαφέρει",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ga 4:12",
+      "text": "ὑμῶν. οὐδέν με",
+      "highlightedWord": "οὐδέν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ga 5:2",
+      "text": "ὑμᾶς οὐδὲν ὠφελήσει.",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ga 5:10",
+      "text": "ὅτι οὐδὲν ἄλλο",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Eph 5:29",
+      "text": "οὐδεὶς γάρ",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Php 1:20",
+      "text": "ἐν οὐδενὶ αἰσχυνθήσομαι,",
+      "highlightedWord": "οὐδενὶ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Php 2:20",
+      "text": "οὐδένα γὰρ",
+      "highlightedWord": "οὐδένα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Php 4:15",
+      "text": "Μακεδονίας, οὐδεμία μοι",
+      "highlightedWord": "οὐδεμία"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Ti 4:4",
+      "text": "καὶ οὐδὲν ἀπόβλητον",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "1Ti 6:7",
+      "text": "οὐδὲν γὰρ",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Ti 6:16",
+      "text": "εἶδεν οὐδεὶς ἀνθρώπων",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Ti 2:4",
+      "text": "οὐδεὶς στρατευόμενος",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "2Ti 2:14",
+      "text": "ἐπ’ οὐδὲν χρήσιμον,",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Ti 4:16",
+      "text": "ἀπολογίᾳ οὐδείς μοι",
+      "highlightedWord": "οὐδείς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Tit 1:15",
+      "text": "ἀπίστοις οὐδὲν καθαρόν,",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Phm 1:14",
+      "text": "γνώμης οὐδὲν ἠθέλησα",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Heb 2:8",
+      "text": "πάντα οὐδὲν ἀφῆκεν",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Heb 6:13",
+      "text": "κατ’ οὐδενὸς εἶχεν",
+      "highlightedWord": "οὐδενὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Heb 7:13",
+      "text": "ἧς οὐδεὶς προσέσχηκεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Heb 7:14",
+      "text": "ἱερέων οὐδὲν Μωϋσῆς",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Heb 7:19",
+      "text": "οὐδὲν γὰρ",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Heb 12:14",
+      "text": "χωρὶς οὐδεὶς ὄψεται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jas 1:13",
+      "text": "αὐτὸς οὐδένα.",
+      "highlightedWord": "οὐδένα."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jas 3:8",
+      "text": "γλῶσσαν οὐδεὶς δαμάσαι",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Jn 1:5",
+      "text": "ἔστιν οὐδεμία.",
+      "highlightedWord": "οὐδεμία."
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Jn 4:12",
+      "text": "θεὸν οὐδεὶς πώποτε",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "ὃ οὐδεὶς οἶδεν",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "καὶ οὐδεὶς κλείσει,",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "ἣν οὐδεὶς δύναται",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "καὶ οὐδὲν χρείαν",
+      "highlightedWord": "οὐδὲν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Re 5:3",
+      "text": "καὶ οὐδεὶς ἐδύνατο",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Re 5:4",
+      "text": "ὅτι οὐδεὶς ἄξιος",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Re 7:9",
+      "text": "αὐτὸν οὐδεὶς ἐδύνατο,",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Re 14:3",
+      "text": "καὶ οὐδεὶς ἐδύνατο",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Re 15:8",
+      "text": "καὶ οὐδεὶς ἐδύνατο",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Re 18:11",
+      "text": "αὐτῶν οὐδεὶς ἀγοράζει",
+      "highlightedWord": "οὐδεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "ὃ οὐδεὶς οἶδεν",
+      "highlightedWord": "οὐδεὶς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

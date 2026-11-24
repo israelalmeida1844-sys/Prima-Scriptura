@@ -1,0 +1,200 @@
+{
+  "strong": "G1127",
+  "lemma": "γρηγορέω",
+  "lemmaTranslit": "grēgoreō",
+  "tokenCount": 22,
+  "verseCount": 22,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 6,
+    "Lucas": 1,
+    "Atos": 1,
+    "1 Coríntios": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 2,
+    "1 Pedro": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 42,
+      "reference": "Mt 24:42",
+      "text": "γρηγορεῖτε οὖν,",
+      "highlightedWord": "γρηγορεῖτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "ἔρχεται, ἐγρηγόρησεν ἂν",
+      "highlightedWord": "ἐγρηγόρησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 13,
+      "reference": "Mt 25:13",
+      "text": "γρηγορεῖτε οὖν,",
+      "highlightedWord": "γρηγορεῖτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 38,
+      "reference": "Mt 26:38",
+      "text": "καὶ γρηγορεῖτε μετ’",
+      "highlightedWord": "γρηγορεῖτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 40,
+      "reference": "Mt 26:40",
+      "text": "ὥραν γρηγορῆσαι μετ’",
+      "highlightedWord": "γρηγορῆσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 41,
+      "reference": "Mt 26:41",
+      "text": "γρηγορεῖτε καὶ",
+      "highlightedWord": "γρηγορεῖτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mk 13:34",
+      "text": "ἵνα γρηγορῇ.",
+      "highlightedWord": "γρηγορῇ."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Mk 13:35",
+      "text": "γρηγορεῖτε οὖν,",
+      "highlightedWord": "γρηγορεῖτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 37,
+      "reference": "Mk 13:37",
+      "text": "λέγω· γρηγορεῖτε.",
+      "highlightedWord": "γρηγορεῖτε."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 34,
+      "reference": "Mk 14:34",
+      "text": "καὶ γρηγορεῖτε.",
+      "highlightedWord": "γρηγορεῖτε."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 37,
+      "reference": "Mk 14:37",
+      "text": "ὥραν γρηγορῆσαι;",
+      "highlightedWord": "γρηγορῆσαι;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 38,
+      "reference": "Mk 14:38",
+      "text": "γρηγορεῖτε καὶ",
+      "highlightedWord": "γρηγορεῖτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Lk 12:37",
+      "text": "εὑρήσει γρηγοροῦντας· ἀμὴν",
+      "highlightedWord": "γρηγοροῦντας·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Ac 20:31",
+      "text": "διὸ γρηγορεῖτε, μνημονεύοντες",
+      "highlightedWord": "γρηγορεῖτε,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "1Co 16:13",
+      "text": "Γρηγορεῖτε, στήκετε",
+      "highlightedWord": "Γρηγορεῖτε,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Col 4:2",
+      "text": "προσκαρτερεῖτε, γρηγοροῦντες ἐν",
+      "highlightedWord": "γρηγοροῦντες"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Th 5:6",
+      "text": "ἀλλὰ γρηγορῶμεν καὶ",
+      "highlightedWord": "γρηγορῶμεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Th 5:10",
+      "text": "εἴτε γρηγορῶμεν εἴτε",
+      "highlightedWord": "γρηγορῶμεν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Pe 5:8",
+      "text": "νήψατε, γρηγορήσατε. ὁ",
+      "highlightedWord": "γρηγορήσατε."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Re 3:2",
+      "text": "γίνου γρηγορῶν, καὶ",
+      "highlightedWord": "γρηγορῶν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "μὴ γρηγορήσῃς, ἥξω",
+      "highlightedWord": "γρηγορήσῃς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Re 16:15",
+      "text": "ὁ γρηγορῶν καὶ",
+      "highlightedWord": "γρηγορῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

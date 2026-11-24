@@ -1,0 +1,205 @@
+{
+  "strong": "G3022",
+  "lemma": "λευκός",
+  "lemmaTranslit": "leukos",
+  "tokenCount": 25,
+  "verseCount": 23,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 2,
+    "Lucas": 1,
+    "João": 2,
+    "Atos": 1,
+    "Apocalipse": 16
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Mt 5:36",
+      "text": "τρίχα λευκὴν ποιῆσαι",
+      "highlightedWord": "λευκὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Mt 17:2",
+      "text": "ἐγένετο λευκὰ ὡς",
+      "highlightedWord": "λευκὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 3,
+      "reference": "Mt 28:3",
+      "text": "αὐτοῦ λευκὸν ὡς",
+      "highlightedWord": "λευκὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Mk 9:3",
+      "text": "στίλβοντα λευκὰ λίαν",
+      "highlightedWord": "λευκὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Mk 16:5",
+      "text": "στολὴν λευκήν, καὶ",
+      "highlightedWord": "λευκήν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Lk 9:29",
+      "text": "αὐτοῦ λευκὸς ἐξαστράπτων.",
+      "highlightedWord": "λευκὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Jn 4:35",
+      "text": "ὅτι λευκαί εἰσιν",
+      "highlightedWord": "λευκαί"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Jn 20:12",
+      "text": "ἐν λευκοῖς καθεζομένους,",
+      "highlightedWord": "λευκοῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ac 1:10",
+      "text": "ἐσθήσεσι λευκαῖς,",
+      "highlightedWord": "λευκαῖς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Re 1:14",
+      "text": "τρίχες λευκαὶ ὡς",
+      "highlightedWord": "λευκαὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "ψῆφον λευκήν, καὶ",
+      "highlightedWord": "λευκήν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Re 3:4",
+      "text": "ἐν λευκοῖς, ὅτι",
+      "highlightedWord": "λευκοῖς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Re 3:5",
+      "text": "ἱματίοις λευκοῖς, καὶ",
+      "highlightedWord": "λευκοῖς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "ἱμάτια λευκὰ ἵνα",
+      "highlightedWord": "λευκὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "ἱματίοις λευκοῖς, καὶ",
+      "highlightedWord": "λευκοῖς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Re 6:2",
+      "text": "ἵππος λευκός, καὶ",
+      "highlightedWord": "λευκός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "στολὴ λευκή, καὶ",
+      "highlightedWord": "λευκή,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Re 7:9",
+      "text": "στολὰς λευκάς, καὶ",
+      "highlightedWord": "λευκάς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Re 7:13",
+      "text": "τὰς λευκὰς τίνες",
+      "highlightedWord": "λευκὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "νεφέλη λευκή, καὶ",
+      "highlightedWord": "λευκή,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Re 19:11",
+      "text": "ἵππος λευκός, καὶ",
+      "highlightedWord": "λευκός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Re 19:14",
+      "text": "ἵπποις λευκοῖς, ἐνδεδυμένοι",
+      "highlightedWord": "λευκοῖς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Re 20:11",
+      "text": "μέγαν λευκὸν καὶ",
+      "highlightedWord": "λευκὸν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

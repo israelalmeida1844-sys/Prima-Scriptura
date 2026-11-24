@@ -1,0 +1,32 @@
+{
+  "strong": "G4407",
+  "lemma": "πρωϊνός",
+  "lemmaTranslit": "prōinos",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Re 2:28",
+      "text": "τὸν πρωϊνόν.",
+      "highlightedWord": "πρωϊνόν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Re 22:16",
+      "text": "ὁ πρωϊνός.",
+      "highlightedWord": "πρωϊνός."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,18 @@
+{
+  "strong": "G5598",
+  "lemma": "Ὦ",
+  "lemmaTranslit": "ō",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Ap": 3
+  },
+  "references": [
+    "Ap 1:8",
+    "Ap 21:6",
+    "Ap 22:13"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}

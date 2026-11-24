@@ -1,0 +1,33 @@
+{
+  "strong": "G2053",
+  "lemma": "ἔριον",
+  "lemmaTranslit": "erion",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Hebreus": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Heb 9:19",
+      "text": "καὶ ἐρίου κοκκίνου",
+      "highlightedWord": "ἐρίου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Re 1:14",
+      "text": "ὡς ἔριον λευκόν,",
+      "highlightedWord": "ἔριον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

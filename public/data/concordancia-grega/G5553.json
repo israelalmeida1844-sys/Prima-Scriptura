@@ -1,0 +1,116 @@
+{
+  "strong": "G5553",
+  "lemma": "χρυσίον",
+  "lemmaTranslit": "chrysion",
+  "tokenCount": 12,
+  "verseCount": 12,
+  "bookDistribution": {
+    "Atos": 2,
+    "1 Timóteo": 1,
+    "Hebreus": 1,
+    "1 Pedro": 3,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Ac 3:6",
+      "text": "καὶ χρυσίον οὐχ",
+      "highlightedWord": "χρυσίον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 33,
+      "reference": "Ac 20:33",
+      "text": "ἢ χρυσίου ἢ",
+      "highlightedWord": "χρυσίου"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Ti 2:9",
+      "text": "καὶ χρυσίῳ ἢ",
+      "highlightedWord": "χρυσίῳ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Heb 9:4",
+      "text": "πάντοθεν χρυσίῳ, ἐν",
+      "highlightedWord": "χρυσίῳ,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Pe 1:7",
+      "text": "πολυτιμότερον χρυσίου τοῦ",
+      "highlightedWord": "χρυσίου"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "1Pe 1:18",
+      "text": "ἢ χρυσίῳ, ἐλυτρώθητε",
+      "highlightedWord": "χρυσίῳ,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Pe 3:3",
+      "text": "περιθέσεως χρυσίων ἢ",
+      "highlightedWord": "χρυσίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "ἐμοῦ χρυσίον πεπυρωμένον",
+      "highlightedWord": "χρυσίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Re 17:4",
+      "text": "κεχρυσωμένη χρυσίῳ καὶ",
+      "highlightedWord": "χρυσίῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Re 18:16",
+      "text": "κεχρυσωμένη χρυσίῳ καὶ",
+      "highlightedWord": "χρυσίῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Re 21:18",
+      "text": "πόλις χρυσίον καθαρὸν",
+      "highlightedWord": "χρυσίον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Re 21:21",
+      "text": "πόλεως χρυσίον καθαρὸν",
+      "highlightedWord": "χρυσίον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

@@ -1,0 +1,91 @@
+{
+  "strong": "G2985",
+  "lemma": "λαμπάς",
+  "lemmaTranslit": "lampas",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mateus": 5,
+    "João": 1,
+    "Atos": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 1,
+      "reference": "Mt 25:1",
+      "text": "τὰς λαμπάδας ἑαυτῶν",
+      "highlightedWord": "λαμπάδας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 3,
+      "reference": "Mt 25:3",
+      "text": "τὰς λαμπάδας αὐτῶν",
+      "highlightedWord": "λαμπάδας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 4,
+      "reference": "Mt 25:4",
+      "text": "τῶν λαμπάδων ἑαυτῶν.",
+      "highlightedWord": "λαμπάδων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 7,
+      "reference": "Mt 25:7",
+      "text": "τὰς λαμπάδας ἑαυτῶν.",
+      "highlightedWord": "λαμπάδας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 8,
+      "reference": "Mt 25:8",
+      "text": "αἱ λαμπάδες ἡμῶν",
+      "highlightedWord": "λαμπάδες"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Jn 18:3",
+      "text": "καὶ λαμπάδων καὶ",
+      "highlightedWord": "λαμπάδων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Ac 20:8",
+      "text": "δὲ λαμπάδες ἱκαναὶ",
+      "highlightedWord": "λαμπάδες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Re 4:5",
+      "text": "ἑπτὰ λαμπάδες πυρὸς",
+      "highlightedWord": "λαμπάδες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Re 8:10",
+      "text": "ὡς λαμπάς, καὶ",
+      "highlightedWord": "λαμπάς,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

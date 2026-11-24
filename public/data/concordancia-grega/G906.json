@@ -1,0 +1,863 @@
+{
+  "strong": "G906",
+  "lemma": "βάλλω",
+  "lemmaTranslit": "ballō",
+  "tokenCount": 121,
+  "verseCount": 105,
+  "bookDistribution": {
+    "Mateus": 34,
+    "Marcos": 18,
+    "Lucas": 18,
+    "João": 16,
+    "Atos": 5,
+    "Tiago": 1,
+    "1 João": 1,
+    "Apocalipse": 28
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Mt 3:10",
+      "text": "πῦρ βάλλεται.",
+      "highlightedWord": "βάλλεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mt 4:6",
+      "text": "θεοῦ, βάλε σεαυτὸν",
+      "highlightedWord": "βάλε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Mt 4:18",
+      "text": "αὐτοῦ, βάλλοντας ἀμφίβληστρον",
+      "highlightedWord": "βάλλοντας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mt 5:13",
+      "text": "μὴ βληθὲν ἔξω",
+      "highlightedWord": "βληθὲν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Mt 5:25",
+      "text": "φυλακὴν βληθήσῃ·",
+      "highlightedWord": "βληθήσῃ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Mt 5:29",
+      "text": "καὶ βάλε ἀπὸ",
+      "highlightedWord": "βάλε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "καὶ βάλε ἀπὸ",
+      "highlightedWord": "βάλε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Mt 6:30",
+      "text": "κλίβανον βαλλόμενον ὁ",
+      "highlightedWord": "βαλλόμενον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Mt 7:6",
+      "text": "μηδὲ βάλητε τοὺς",
+      "highlightedWord": "βάλητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Mt 7:19",
+      "text": "πῦρ βάλλεται.",
+      "highlightedWord": "βάλλεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Mt 8:6",
+      "text": "μου βέβληται ἐν",
+      "highlightedWord": "βέβληται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Mt 8:14",
+      "text": "αὐτοῦ βεβλημένην καὶ",
+      "highlightedWord": "βεβλημένην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mt 9:2",
+      "text": "κλίνης βεβλημένον. καὶ",
+      "highlightedWord": "βεβλημένον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Mt 9:17",
+      "text": "οὐδὲ βάλλουσιν οἶνον",
+      "highlightedWord": "βάλλουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Mt 10:34",
+      "text": "ἦλθον βαλεῖν εἰρήνην",
+      "highlightedWord": "βαλεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 42,
+      "reference": "Mt 13:42",
+      "text": "καὶ βαλοῦσιν αὐτοὺς",
+      "highlightedWord": "βαλοῦσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 47,
+      "reference": "Mt 13:47",
+      "text": "σαγήνῃ βληθείσῃ εἰς",
+      "highlightedWord": "βληθείσῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 48,
+      "reference": "Mt 13:48",
+      "text": "ἔξω ἔβαλον.",
+      "highlightedWord": "ἔβαλον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 50,
+      "reference": "Mt 13:50",
+      "text": "καὶ βαλοῦσιν αὐτοὺς",
+      "highlightedWord": "βαλοῦσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Mt 15:26",
+      "text": "καὶ βαλεῖν τοῖς",
+      "highlightedWord": "βαλεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "θάλασσαν βάλε ἄγκιστρον",
+      "highlightedWord": "βάλε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Mt 18:8",
+      "text": "καὶ βάλε ἀπὸ",
+      "highlightedWord": "βάλε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Mt 18:9",
+      "text": "καὶ βάλε ἀπὸ",
+      "highlightedWord": "βάλε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Mt 18:30",
+      "text": "ἀπελθὼν ἔβαλεν αὐτὸν",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Mt 21:21",
+      "text": "καὶ βλήθητι εἰς",
+      "highlightedWord": "βλήθητι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 27,
+      "reference": "Mt 25:27",
+      "text": "οὖν βαλεῖν τὰ",
+      "highlightedWord": "βαλεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 12,
+      "reference": "Mt 26:12",
+      "text": "βαλοῦσα γὰρ",
+      "highlightedWord": "βαλοῦσα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 6,
+      "reference": "Mt 27:6",
+      "text": "ἔξεστιν βαλεῖν αὐτὰ",
+      "highlightedWord": "βαλεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 35,
+      "reference": "Mt 27:35",
+      "text": "αὐτοῦ βάλλοντες κλῆρον,",
+      "highlightedWord": "βάλλοντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mk 2:22",
+      "text": "οὐδεὶς βάλλει οἶνον",
+      "highlightedWord": "βάλλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Mk 4:26",
+      "text": "ἄνθρωπος βάλῃ τὸν",
+      "highlightedWord": "βάλῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Mk 7:27",
+      "text": "κυναρίοις βαλεῖν.",
+      "highlightedWord": "βαλεῖν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Mk 7:30",
+      "text": "παιδίον βεβλημένον ἐπὶ",
+      "highlightedWord": "βεβλημένον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Mk 7:33",
+      "text": "ἰδίαν ἔβαλεν τοὺς",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mk 9:22",
+      "text": "αὐτὸν ἔβαλεν καὶ",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Mk 9:42",
+      "text": "καὶ βέβληται εἰς",
+      "highlightedWord": "βέβληται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Mk 9:45",
+      "text": "ἔχοντα βληθῆναι εἰς",
+      "highlightedWord": "βληθῆναι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Mk 9:47",
+      "text": "ἔχοντα βληθῆναι εἰς",
+      "highlightedWord": "βληθῆναι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mk 11:23",
+      "text": "καὶ βλήθητι εἰς",
+      "highlightedWord": "βλήθητι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Mk 12:41",
+      "text": "ὄχλος βάλλει χαλκὸν",
+      "highlightedWord": "βάλλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Mk 12:42",
+      "text": "πτωχὴ ἔβαλεν λεπτὰ",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mk 12:43",
+      "text": "πάντων ἔβαλεν τῶν",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 44,
+      "reference": "Mk 12:44",
+      "text": "αὐτοῖς ἔβαλον, αὕτη",
+      "highlightedWord": "ἔβαλον,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Mk 15:24",
+      "text": "αὐτοῦ, βάλλοντες κλῆρον",
+      "highlightedWord": "βάλλοντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Lk 3:9",
+      "text": "πῦρ βάλλεται.",
+      "highlightedWord": "βάλλεται."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Lk 4:9",
+      "text": "θεοῦ, βάλε σεαυτὸν",
+      "highlightedWord": "βάλε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Lk 5:37",
+      "text": "οὐδεὶς βάλλει οἶνον",
+      "highlightedWord": "βάλλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Lk 12:28",
+      "text": "κλίβανον βαλλόμενον ὁ",
+      "highlightedWord": "βαλλόμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 49,
+      "reference": "Lk 12:49",
+      "text": "ἦλθον βαλεῖν ἐπὶ",
+      "highlightedWord": "βαλεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 58,
+      "reference": "Lk 12:58",
+      "text": "σε βαλεῖ εἰς",
+      "highlightedWord": "βαλεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Lk 13:8",
+      "text": "καὶ βάλω κόπρια·",
+      "highlightedWord": "βάλω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Lk 13:19",
+      "text": "ἄνθρωπος ἔβαλεν εἰς",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Lk 14:35",
+      "text": "ἔξω βάλλουσιν αὐτό.",
+      "highlightedWord": "βάλλουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Lk 16:20",
+      "text": "Λάζαρος ἐβέβλητο πρὸς",
+      "highlightedWord": "ἐβέβλητο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Lk 21:1",
+      "text": "τοὺς βάλλοντας εἰς",
+      "highlightedWord": "βάλλοντας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Lk 21:2",
+      "text": "πενιχρὰν βάλλουσαν ἐκεῖ",
+      "highlightedWord": "βάλλουσαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Lk 21:3",
+      "text": "πάντων ἔβαλεν·",
+      "highlightedWord": "ἔβαλεν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Lk 21:4",
+      "text": "αὐτοῖς ἔβαλον εἰς",
+      "highlightedWord": "ἔβαλον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Lk 23:19",
+      "text": "φόνον βληθεὶς ἐν",
+      "highlightedWord": "βληθεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 25,
+      "reference": "Lk 23:25",
+      "text": "φόνον βεβλημένον εἰς",
+      "highlightedWord": "βεβλημένον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 34,
+      "reference": "Lk 23:34",
+      "text": "αὐτοῦ ἔβαλον κλήρους.",
+      "highlightedWord": "ἔβαλον"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Jn 3:24",
+      "text": "ἦν βεβλημένος εἰς",
+      "highlightedWord": "βεβλημένος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jn 5:7",
+      "text": "ὕδωρ βάλῃ με",
+      "highlightedWord": "βάλῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 59,
+      "reference": "Jn 8:59",
+      "text": "ἵνα βάλωσιν ἐπ’",
+      "highlightedWord": "βάλωσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Jn 12:6",
+      "text": "τὰ βαλλόμενα ἐβάσταζεν.",
+      "highlightedWord": "βαλλόμενα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Jn 13:2",
+      "text": "ἤδη βεβληκότος εἰς",
+      "highlightedWord": "βεβληκότος"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Jn 13:5",
+      "text": "εἶτα βάλλει ὕδωρ",
+      "highlightedWord": "βάλλει"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Jn 15:6",
+      "text": "ἐμοί, ἐβλήθη ἔξω",
+      "highlightedWord": "ἐβλήθη"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Jn 18:11",
+      "text": "Πέτρῳ· Βάλε τὴν",
+      "highlightedWord": "Βάλε"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Jn 19:24",
+      "text": "μου ἔβαλον κλῆρον.",
+      "highlightedWord": "ἔβαλον"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Jn 20:25",
+      "text": "καὶ βάλω τὸν",
+      "highlightedWord": "βάλω"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Jn 20:27",
+      "text": "καὶ βάλε εἰς",
+      "highlightedWord": "βάλε"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Jn 21:6",
+      "text": "αὐτοῖς· Βάλετε εἰς",
+      "highlightedWord": "Βάλετε"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Jn 21:7",
+      "text": "καὶ ἔβαλεν ἑαυτὸν",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Ac 16:23",
+      "text": "πληγὰς ἔβαλον εἰς",
+      "highlightedWord": "ἔβαλον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Ac 16:24",
+      "text": "λαβὼν ἔβαλεν αὐτοὺς",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 37,
+      "reference": "Ac 16:37",
+      "text": "ὑπάρχοντας, ἔβαλαν εἰς",
+      "highlightedWord": "ἔβαλαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 23,
+      "reference": "Ac 22:23",
+      "text": "κονιορτὸν βαλλόντων εἰς",
+      "highlightedWord": "βαλλόντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 14,
+      "reference": "Ac 27:14",
+      "text": "δὲ ἔβαλεν κατ’",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Jas 3:3",
+      "text": "στόματα βάλλομεν εἰς",
+      "highlightedWord": "βάλλομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Jn 4:18",
+      "text": "ἔξω βάλλει τὸν",
+      "highlightedWord": "βάλλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "μέλλει βάλλειν ὁ",
+      "highlightedWord": "βάλλειν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "Βαλὰκ βαλεῖν σκάνδαλον",
+      "highlightedWord": "βαλεῖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Re 2:22",
+      "text": "ἰδοὺ βάλλω αὐτὴν",
+      "highlightedWord": "βάλλω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "οὐ βάλλω ἐφ’",
+      "highlightedWord": "βάλλω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Re 4:10",
+      "text": "καὶ βαλοῦσιν τοὺς",
+      "highlightedWord": "βαλοῦσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Re 6:13",
+      "text": "συκῆ βάλλει τοὺς",
+      "highlightedWord": "βάλλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Re 8:5",
+      "text": "καὶ ἔβαλεν εἰς",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Re 8:7",
+      "text": "καὶ ἐβλήθη εἰς",
+      "highlightedWord": "ἐβλήθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Re 8:8",
+      "text": "καιόμενον ἐβλήθη εἰς",
+      "highlightedWord": "ἐβλήθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "καὶ ἔβαλεν αὐτοὺς",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "καὶ ἐβλήθη ὁ",
+      "highlightedWord": "ἐβλήθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Re 12:10",
+      "text": "ὅτι ἐβλήθη ὁ",
+      "highlightedWord": "ἐβλήθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Re 12:13",
+      "text": "ὅτι ἐβλήθη εἰς",
+      "highlightedWord": "ἐβλήθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Re 12:15",
+      "text": "καὶ ἔβαλεν ὁ",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Re 12:16",
+      "text": "ὃν ἔβαλεν ὁ",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Re 14:16",
+      "text": "καὶ ἔβαλεν ὁ",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Re 14:19",
+      "text": "καὶ ἔβαλεν ὁ",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "καὶ ἔβαλον χοῦν",
+      "highlightedWord": "ἔβαλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "καὶ ἔβαλεν εἰς",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Re 19:20",
+      "text": "ζῶντες ἐβλήθησαν οἱ",
+      "highlightedWord": "ἐβλήθησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "καὶ ἔβαλεν αὐτὸν",
+      "highlightedWord": "ἔβαλεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Re 20:10",
+      "text": "αὐτοὺς ἐβλήθη εἰς",
+      "highlightedWord": "ἐβλήθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Re 20:14",
+      "text": "ᾅδης ἐβλήθησαν εἰς",
+      "highlightedWord": "ἐβλήθησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Re 20:15",
+      "text": "γεγραμμένος, ἐβλήθη εἰς",
+      "highlightedWord": "ἐβλήθη"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

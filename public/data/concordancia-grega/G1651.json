@@ -1,0 +1,163 @@
+{
+  "strong": "G1651",
+  "lemma": "ἐλέγχω",
+  "lemmaTranslit": "elenchō",
+  "tokenCount": 17,
+  "verseCount": 17,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 1,
+    "João": 3,
+    "1 Coríntios": 1,
+    "Efésios": 2,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Tito": 3,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "Judas": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Mt 18:15",
+      "text": "ὕπαγε ἔλεγξον αὐτὸν",
+      "highlightedWord": "ἔλεγξον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Lk 3:19",
+      "text": "τετραάρχης, ἐλεγχόμενος ὑπ’",
+      "highlightedWord": "ἐλεγχόμενος"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Jn 3:20",
+      "text": "μὴ ἐλεγχθῇ τὰ",
+      "highlightedWord": "ἐλεγχθῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 46,
+      "reference": "Jn 8:46",
+      "text": "ὑμῶν ἐλέγχει με",
+      "highlightedWord": "ἐλέγχει"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Jn 16:8",
+      "text": "ἐκεῖνος ἐλέγξει τὸν",
+      "highlightedWord": "ἐλέγξει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "1Co 14:24",
+      "text": "ἰδιώτης, ἐλέγχεται ὑπὸ",
+      "highlightedWord": "ἐλέγχεται"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Eph 5:11",
+      "text": "καὶ ἐλέγχετε,",
+      "highlightedWord": "ἐλέγχετε,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Eph 5:13",
+      "text": "πάντα ἐλεγχόμενα ὑπὸ",
+      "highlightedWord": "ἐλεγχόμενα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Ti 5:20",
+      "text": "πάντων ἔλεγχε, ἵνα",
+      "highlightedWord": "ἔλεγχε,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Ti 4:2",
+      "text": "ἀκαίρως, ἔλεγξον, ἐπιτίμησον,",
+      "highlightedWord": "ἔλεγξον,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Tit 1:9",
+      "text": "ἀντιλέγοντας ἐλέγχειν.",
+      "highlightedWord": "ἐλέγχειν."
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Tit 1:13",
+      "text": "αἰτίαν ἔλεγχε αὐτοὺς",
+      "highlightedWord": "ἔλεγχε"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Tit 2:15",
+      "text": "καὶ ἔλεγχε μετὰ",
+      "highlightedWord": "ἔλεγχε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Heb 12:5",
+      "text": "αὐτοῦ ἐλεγχόμενος·",
+      "highlightedWord": "ἐλεγχόμενος·"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Jas 2:9",
+      "text": "ἐργάζεσθε, ἐλεγχόμενοι ὑπὸ",
+      "highlightedWord": "ἐλεγχόμενοι"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Jud 1:15",
+      "text": "καὶ ἐλέγξαι πάντας",
+      "highlightedWord": "ἐλέγξαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Re 3:19",
+      "text": "φιλῶ ἐλέγχω καὶ",
+      "highlightedWord": "ἐλέγχω"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

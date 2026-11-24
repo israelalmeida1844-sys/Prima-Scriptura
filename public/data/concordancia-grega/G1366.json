@@ -1,0 +1,41 @@
+{
+  "strong": "G1366",
+  "lemma": "δίστομος",
+  "lemmaTranslit": "distomos",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Hebreus": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Heb 4:12",
+      "text": "μάχαιραν δίστομον καὶ",
+      "highlightedWord": "δίστομον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "ῥομφαία δίστομος ὀξεῖα",
+      "highlightedWord": "δίστομος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Re 2:12",
+      "text": "τὴν δίστομον τὴν",
+      "highlightedWord": "δίστομον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

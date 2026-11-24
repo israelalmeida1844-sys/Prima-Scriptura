@@ -1,0 +1,91 @@
+{
+  "strong": "G5035",
+  "lemma": "ταχύ",
+  "lemmaTranslit": "tachy",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Marcos": 1,
+    "João": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 7,
+      "reference": "Mt 28:7",
+      "text": "καὶ ταχὺ πορευθεῖσαι",
+      "highlightedWord": "ταχὺ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 8,
+      "reference": "Mt 28:8",
+      "text": "ἀπελθοῦσαι ταχὺ ἀπὸ",
+      "highlightedWord": "ταχὺ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Mk 9:39",
+      "text": "δυνήσεται ταχὺ κακολογῆσαί",
+      "highlightedWord": "ταχὺ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Jn 11:29",
+      "text": "ἠγέρθη ταχὺ καὶ",
+      "highlightedWord": "ταχὺ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Re 2:16",
+      "text": "σοι ταχύ, καὶ",
+      "highlightedWord": "ταχύ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Re 3:11",
+      "text": "ἔρχομαι ταχύ· κράτει",
+      "highlightedWord": "ταχύ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Re 11:14",
+      "text": "ἔρχεται ταχύ.",
+      "highlightedWord": "ταχύ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Re 22:7",
+      "text": "ἔρχομαι ταχύ· μακάριος",
+      "highlightedWord": "ταχύ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 20,
+      "reference": "Re 22:20",
+      "text": "ἔρχομαι ταχύ. Ἀμήν·",
+      "highlightedWord": "ταχύ."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,247 @@
+{
+  "strong": "G4145",
+  "lemma": "πλούσιος",
+  "lemmaTranslit": "plousios",
+  "tokenCount": 28,
+  "verseCount": 28,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 2,
+    "Lucas": 11,
+    "2 Coríntios": 1,
+    "Efésios": 1,
+    "1 Timóteo": 1,
+    "Tiago": 5,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Mt 19:23",
+      "text": "ὅτι πλούσιος δυσκόλως",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Mt 19:24",
+      "text": "ἢ πλούσιον εἰς",
+      "highlightedWord": "πλούσιον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 57,
+      "reference": "Mt 27:57",
+      "text": "ἄνθρωπος πλούσιος ἀπὸ",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Mk 10:25",
+      "text": "ἢ πλούσιον εἰς",
+      "highlightedWord": "πλούσιον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Mk 12:41",
+      "text": "πολλοὶ πλούσιοι ἔβαλλον",
+      "highlightedWord": "πλούσιοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Lk 6:24",
+      "text": "τοῖς πλουσίοις, ὅτι",
+      "highlightedWord": "πλουσίοις,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Lk 12:16",
+      "text": "τινὸς πλουσίου εὐφόρησεν",
+      "highlightedWord": "πλουσίου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Lk 14:12",
+      "text": "γείτονας πλουσίους, μήποτε",
+      "highlightedWord": "πλουσίους,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Lk 16:1",
+      "text": "ἦν πλούσιος ὃς",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Lk 16:19",
+      "text": "ἦν πλούσιος, καὶ",
+      "highlightedWord": "πλούσιος,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Lk 16:21",
+      "text": "τοῦ πλουσίου· ἀλλὰ",
+      "highlightedWord": "πλουσίου·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Lk 16:22",
+      "text": "ὁ πλούσιος καὶ",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Lk 18:23",
+      "text": "γὰρ πλούσιος σφόδρα.",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Lk 18:25",
+      "text": "ἢ πλούσιον εἰς",
+      "highlightedWord": "πλούσιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Lk 19:2",
+      "text": "αὐτὸς πλούσιος·",
+      "highlightedWord": "πλούσιος·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Lk 21:1",
+      "text": "αὐτῶν πλουσίους.",
+      "highlightedWord": "πλουσίους."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "2Co 8:9",
+      "text": "ἐπτώχευσεν πλούσιος ὤν,",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Eph 2:4",
+      "text": "θεὸς πλούσιος ὢν",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "1Ti 6:17",
+      "text": "Τοῖς πλουσίοις ἐν",
+      "highlightedWord": "πλουσίοις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Jas 1:10",
+      "text": "δὲ πλούσιος ἐν",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Jas 1:11",
+      "text": "ὁ πλούσιος ἐν",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Jas 2:5",
+      "text": "κόσμῳ πλουσίους ἐν",
+      "highlightedWord": "πλουσίους"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jas 2:6",
+      "text": "οἱ πλούσιοι καταδυναστεύουσιν",
+      "highlightedWord": "πλούσιοι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Jas 5:1",
+      "text": "οἱ πλούσιοι, κλαύσατε",
+      "highlightedWord": "πλούσιοι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "ἀλλὰ πλούσιος εἶ,",
+      "highlightedWord": "πλούσιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "ὅτι Πλούσιός εἰμι",
+      "highlightedWord": "Πλούσιός"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Re 6:15",
+      "text": "οἱ πλούσιοι καὶ",
+      "highlightedWord": "πλούσιοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Re 13:16",
+      "text": "τοὺς πλουσίους καὶ",
+      "highlightedWord": "πλουσίους"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

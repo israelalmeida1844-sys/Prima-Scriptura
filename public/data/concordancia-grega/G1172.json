@@ -1,0 +1,50 @@
+{
+  "strong": "G1172",
+  "lemma": "δειπνέω",
+  "lemmaTranslit": "deipneō",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Lucas": 2,
+    "1 Coríntios": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Lk 17:8",
+      "text": "τί δειπνήσω καὶ",
+      "highlightedWord": "δειπνήσω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 20,
+      "reference": "Lk 22:20",
+      "text": "τὸ δειπνῆσαι, λέγων·",
+      "highlightedWord": "δειπνῆσαι,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "1Co 11:25",
+      "text": "τὸ δειπνῆσαι, λέγων·",
+      "highlightedWord": "δειπνῆσαι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "καὶ δειπνήσω μετ’",
+      "highlightedWord": "δειπνήσω"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

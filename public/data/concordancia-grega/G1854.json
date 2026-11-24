@@ -1,0 +1,515 @@
+{
+  "strong": "G1854",
+  "lemma": "ἔξω",
+  "lemmaTranslit": "exō",
+  "tokenCount": 62,
+  "verseCount": 61,
+  "bookDistribution": {
+    "Mateus": 9,
+    "Marcos": 10,
+    "Lucas": 9,
+    "João": 13,
+    "Atos": 10,
+    "1 Coríntios": 2,
+    "2 Coríntios": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "Hebreus": 3,
+    "1 João": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mt 5:13",
+      "text": "βληθὲν ἔξω καταπατεῖσθαι",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mt 10:14",
+      "text": "ἐξερχόμενοι ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Mt 12:46",
+      "text": "εἱστήκεισαν ἔξω ζητοῦντες",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Mt 12:47",
+      "text": "σου ἔξω ἑστήκασιν,",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 48,
+      "reference": "Mt 13:48",
+      "text": "σαπρὰ ἔξω ἔβαλον.",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Mt 21:17",
+      "text": "ἐξῆλθεν ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 39,
+      "reference": "Mt 21:39",
+      "text": "ἐξέβαλον ἔξω τοῦ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 69,
+      "reference": "Mt 26:69",
+      "text": "ἐκάθητο ἔξω ἐν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 75,
+      "reference": "Mt 26:75",
+      "text": "ἐξελθὼν ἔξω ἔκλαυσεν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "ἀλλὰ ἔξω ἐπ’",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Mk 3:31",
+      "text": "καὶ ἔξω στήκοντες",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 32,
+      "reference": "Mk 3:32",
+      "text": "σου ἔξω ζητοῦσίν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Mk 4:11",
+      "text": "τοῖς ἔξω ἐν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Mk 5:10",
+      "text": "ἀποστείλῃ ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Mk 8:23",
+      "text": "αὐτὸν ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Mk 11:4",
+      "text": "θύραν ἔξω ἐπὶ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Mk 11:19",
+      "text": "ἐξεπορεύοντο ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Mk 12:8",
+      "text": "αὐτὸν ἔξω τοῦ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 68,
+      "reference": "Mk 14:68",
+      "text": "ἐξῆλθεν ἔξω εἰς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Lk 1:10",
+      "text": "προσευχόμενον ἔξω τῇ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Lk 4:29",
+      "text": "αὐτὸν ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Lk 8:20",
+      "text": "ἑστήκασιν ἔξω ἰδεῖν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Lk 13:25",
+      "text": "ἄρξησθε ἔξω ἑστάναι",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Lk 13:28",
+      "text": "ἐκβαλλομένους ἔξω.",
+      "highlightedWord": "ἔξω."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Lk 13:33",
+      "text": "ἀπολέσθαι ἔξω Ἰερουσαλήμ.",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Lk 14:35",
+      "text": "ἐστιν· ἔξω βάλλουσιν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Lk 20:15",
+      "text": "αὐτὸν ἔξω τοῦ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 62,
+      "reference": "Lk 22:62",
+      "text": "ἐξελθὼν ἔξω ἔκλαυσεν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 37,
+      "reference": "Jn 6:37",
+      "text": "ἐκβάλω ἔξω,",
+      "highlightedWord": "ἔξω,"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Jn 9:34",
+      "text": "αὐτὸν ἔξω.",
+      "highlightedWord": "ἔξω."
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Jn 9:35",
+      "text": "αὐτὸν ἔξω, καὶ",
+      "highlightedWord": "ἔξω,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 43,
+      "reference": "Jn 11:43",
+      "text": "δεῦρο ἔξω.",
+      "highlightedWord": "ἔξω."
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Jn 12:31",
+      "text": "ἐκβληθήσεται ἔξω·",
+      "highlightedWord": "ἔξω·"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Jn 15:6",
+      "text": "ἐβλήθη ἔξω ὡς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Jn 18:16",
+      "text": "θύρᾳ ἔξω. ἐξῆλθεν",
+      "highlightedWord": "ἔξω."
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Jn 18:29",
+      "text": "Πιλᾶτος ἔξω πρὸς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Jn 19:4",
+      "text": "πάλιν ἔξω ὁ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Jn 19:5",
+      "text": "Ἰησοῦς ἔξω, φορῶν",
+      "highlightedWord": "ἔξω,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Jn 19:13",
+      "text": "ἤγαγεν ἔξω τὸν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Jn 20:11",
+      "text": "μνημείῳ ἔξω κλαίουσα.",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Ac 4:15",
+      "text": "αὐτοὺς ἔξω τοῦ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Ac 5:34",
+      "text": "ἐκέλευσεν ἔξω βραχὺ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 58,
+      "reference": "Ac 7:58",
+      "text": "ἐκβαλόντες ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Ac 9:40",
+      "text": "δὲ ἔξω πάντας",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Ac 14:19",
+      "text": "ἔσυρον ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Ac 16:13",
+      "text": "ἐξήλθομεν ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Ac 16:30",
+      "text": "αὐτοὺς ἔξω ἔφη·",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Ac 21:5",
+      "text": "ἕως ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Ac 21:30",
+      "text": "αὐτὸν ἔξω τοῦ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 11,
+      "reference": "Ac 26:11",
+      "text": "τὰς ἔξω πόλεις.",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Co 5:12",
+      "text": "τοὺς ἔξω κρίνειν;",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Co 5:13",
+      "text": "δὲ ἔξω ὁ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Co 4:16",
+      "text": "ὁ ἔξω ἡμῶν",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Col 4:5",
+      "text": "τοὺς ἔξω, τὸν",
+      "highlightedWord": "ἔξω,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Th 4:12",
+      "text": "τοὺς ἔξω καὶ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Heb 13:11",
+      "text": "κατακαίεται ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Heb 13:12",
+      "text": "λαόν, ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Heb 13:13",
+      "text": "αὐτὸν ἔξω τῆς",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Jn 4:18",
+      "text": "ἀγάπη ἔξω βάλλει",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "καὶ ἔξω οὐ",
+      "highlightedWord": "ἔξω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 15,
+      "reference": "Re 22:15",
+      "text": "ἔξω οἱ",
+      "highlightedWord": "ἔξω"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

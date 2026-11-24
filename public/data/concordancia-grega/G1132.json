@@ -1,0 +1,42 @@
+{
+  "strong": "G1132",
+  "lemma": "γυμνότης",
+  "lemmaTranslit": "gymnotēs",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Romanos": 1,
+    "2 Coríntios": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Ro 8:35",
+      "text": "ἢ γυμνότης ἢ",
+      "highlightedWord": "γυμνότης"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "2Co 11:27",
+      "text": "καὶ γυμνότητι·",
+      "highlightedWord": "γυμνότητι·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "τῆς γυμνότητός σου,",
+      "highlightedWord": "γυμνότητός"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

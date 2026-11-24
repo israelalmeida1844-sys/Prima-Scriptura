@@ -1,0 +1,127 @@
+{
+  "strong": "G2936",
+  "lemma": "κτίζω",
+  "lemmaTranslit": "ktizō",
+  "tokenCount": 15,
+  "verseCount": 13,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "Efésios": 4,
+    "Colossenses": 3,
+    "1 Timóteo": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Mt 19:4",
+      "text": "ὁ κτίσας ἀπ’",
+      "highlightedWord": "κτίσας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mk 13:19",
+      "text": "ἣν ἔκτισεν ὁ",
+      "highlightedWord": "ἔκτισεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Ro 1:25",
+      "text": "τὸν κτίσαντα, ὅς",
+      "highlightedWord": "κτίσαντα,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "1Co 11:9",
+      "text": "οὐκ ἐκτίσθη ἀνὴρ",
+      "highlightedWord": "ἐκτίσθη"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Eph 2:10",
+      "text": "ποίημα, κτισθέντες ἐν",
+      "highlightedWord": "κτισθέντες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Eph 2:15",
+      "text": "δύο κτίσῃ ἐν",
+      "highlightedWord": "κτίσῃ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Eph 3:9",
+      "text": "πάντα κτίσαντι,",
+      "highlightedWord": "κτίσαντι,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Eph 4:24",
+      "text": "θεὸν κτισθέντα ἐν",
+      "highlightedWord": "κτισθέντα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Col 1:16",
+      "text": "αὐτῷ ἐκτίσθη τὰ",
+      "highlightedWord": "ἐκτίσθη"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Col 3:10",
+      "text": "τοῦ κτίσαντος αὐτόν,",
+      "highlightedWord": "κτίσαντος"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Ti 4:3",
+      "text": "θεὸς ἔκτισεν εἰς",
+      "highlightedWord": "ἔκτισεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Re 4:11",
+      "text": "σὺ ἔκτισας τὰ",
+      "highlightedWord": "ἔκτισας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Re 10:6",
+      "text": "ὃς ἔκτισεν τὸν",
+      "highlightedWord": "ἔκτισεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

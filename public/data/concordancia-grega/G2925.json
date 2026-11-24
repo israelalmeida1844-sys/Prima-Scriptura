@@ -1,0 +1,91 @@
+{
+  "strong": "G2925",
+  "lemma": "κρούω",
+  "lemmaTranslit": "krouō",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Lucas": 4,
+    "Atos": 2,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Mt 7:7",
+      "text": "εὑρήσετε· κρούετε, καὶ",
+      "highlightedWord": "κρούετε,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Mt 7:8",
+      "text": "τῷ κρούοντι ἀνοιγήσεται.",
+      "highlightedWord": "κρούοντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Lk 11:9",
+      "text": "εὑρήσετε· κρούετε, καὶ",
+      "highlightedWord": "κρούετε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Lk 11:10",
+      "text": "τῷ κρούοντι ἀνοιγήσεται.",
+      "highlightedWord": "κρούοντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Lk 12:36",
+      "text": "καὶ κρούσαντος εὐθέως",
+      "highlightedWord": "κρούσαντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Lk 13:25",
+      "text": "καὶ κρούειν τὴν",
+      "highlightedWord": "κρούειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Ac 12:13",
+      "text": "κρούσαντος δὲ",
+      "highlightedWord": "κρούσαντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Ac 12:16",
+      "text": "ἐπέμενεν κρούων· ἀνοίξαντες",
+      "highlightedWord": "κρούων·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "καὶ κρούω· ἐάν",
+      "highlightedWord": "κρούω·"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

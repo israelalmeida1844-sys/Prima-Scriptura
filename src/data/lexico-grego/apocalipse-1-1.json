@@ -1,0 +1,619 @@
+{
+  "scope": "Apocalipse 1:1",
+  "source": "SBL Greek New Testament / MorphGNT 6.12",
+  "attribution": "SBLGNT (Society of Biblical Literature) e MorphGNT (James K. Tauber). Definições e sínteses lexicais formuladas pela equipe editorial do Prima Scriptura com base em vocabulários e léxicos gregos do domínio acadêmico.",
+  "lexicalNote": "Acepções e sentidos semânticos são sínteses editoriais verificáveis. As formas gregas foram conferidas diretamente no SBLGNT e MorphGNT; as ocorrências abrangem o Novo Testamento grego.",
+  "entries": {
+    "G602": {
+      "strong": "G602",
+      "lemma": "ἀποκάλυψις",
+      "lemmaTransliteration": "apokalypsis",
+      "partOfSpeech": "Substantivo feminino da 3ª declinação",
+      "senses": [
+        {
+          "id": "G602-1",
+          "label": "Desvelamento ou comunicação de mistérios divinos",
+          "definition": "Ato divino de revelar ou manifestar verdades anteriormente ocultas ao entendimento humano.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "Ἀποκάλυψις Ἰησοῦ Χριστοῦ",
+              "wordForm": "Ἀποκάλυψις",
+              "translation": "Revelação de Jesus Cristo.",
+              "explanation": "Uso inaugural no nominativo absoluto, definindo todo o conteúdo do livro como o desvelamento do plano divino da redenção e do triunfo de Cristo.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Gl 1:12",
+              "greek": "δι’ ἀποκαλύψεως Ἰησοῦ Χριστοῦ",
+              "wordForm": "ἀποκαλύψεως",
+              "translation": "Por revelação de Jesus Cristo.",
+              "explanation": "Paulo afirma que seu evangelho não procedeu de homens, mas de manifestação direta e soberana de Cristo.",
+              "source": "SBLGNT"
+            }
+          ]
+        },
+        {
+          "id": "G602-2",
+          "label": "Manifestação visível e gloriosa no final dos tempos",
+          "definition": "A aparição pública e definitiva de Jesus Cristo em glória na parousia.",
+          "examples": [
+            {
+              "reference": "1Pe 1:7",
+              "greek": "ἐν ἀποκαλύψει Ἰησοῦ Χριστοῦ",
+              "wordForm": "ἀποκαλύψει",
+              "translation": "Na revelação de Jesus Cristo.",
+              "explanation": "Refere-se ao momento solene da segunda vinda de Cristo, quando a fé provada resultará em louvor e glória.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G2424": {
+      "strong": "G2424",
+      "lemma": "Ἰησοῦς",
+      "lemmaTransliteration": "Iēsous",
+      "partOfSpeech": "Substantivo próprio masculino",
+      "senses": [
+        {
+          "id": "G2424-1",
+          "label": "Jesus de Nazaré, o Filho de Deus e Salvador",
+          "definition": "Nome histórico e divino do Messias encarnado, correspondente ao hebraico Yeshua ('Yahweh é salvação').",
+          "examples": [
+            {
+              "reference": "Mt 1:21",
+              "greek": "καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν, αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ",
+              "wordForm": "Ἰησοῦν",
+              "translation": "Chamarás o seu nome Jesus, porque ele salvará o seu povo.",
+              "explanation": "A etiologia do nome divino dada pelo anjo fundamenta sua missão salvífica.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Ap 1:1",
+              "greek": "Ἀποκάλυψις Ἰησοῦ Χριστοῦ",
+              "wordForm": "Ἰησοῦ",
+              "translation": "Revelação de Jesus Cristo.",
+              "explanation": "Identifica Jesus como a fonte e o centro teológico de toda a visão profética.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G5547": {
+      "strong": "G5547",
+      "lemma": "Χριστός",
+      "lemmaTransliteration": "Christos",
+      "partOfSpeech": "Substantivo próprio / Adjetivo verbal substantivado",
+      "senses": [
+        {
+          "id": "G5547-1",
+          "label": "O Ungido, o Messias escatológico prometido",
+          "definition": "Título messiânico régio e sacerdotal supremo, correspondente ao hebraico Mashiach ('Ungido').",
+          "examples": [
+            {
+              "reference": "Mt 16:16",
+              "greek": "Σὺ εἶ ὁ Χριστὸς ὁ υἱὸς τοῦ θεοῦ τοῦ ζῶντος",
+              "wordForm": "Χριστὸς",
+              "translation": "Tu és o Cristo, o Filho do Deus vivo.",
+              "explanation": "Confissão de Pedro reconhecendo a realeza messiânica e divina de Jesus.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Ap 1:1",
+              "greek": "Ἰησοῦ Χριστοῦ",
+              "wordForm": "Χριστοῦ",
+              "translation": "de Jesus Cristo.",
+              "explanation": "Afirma a investidura messiânica régia do Cordeiro que venceu.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G3739": {
+      "strong": "G3739",
+      "lemma": "ὅς",
+      "lemmaTransliteration": "hos",
+      "partOfSpeech": "Pronome relativo",
+      "senses": [
+        {
+          "id": "G3739-1",
+          "label": "Pronome relativo anafórico (o qual, a qual, que)",
+          "definition": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ἣν ἔδωκεν αὐτῷ ὁ θεὸς",
+              "wordForm": "ἣν",
+              "translation": "a qual Deus lhe deu.",
+              "explanation": "Retoma no acusativo singular feminino o antecedente Ἀποκάλυψις como objeto direto da entrega divina.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Ap 1:1",
+              "greek": "ἃ δεῖ γενέσθαι ἐν τάχει",
+              "wordForm": "ἃ",
+              "translation": "as coisas que em breve devem acontecer.",
+              "explanation": "No neutro plural acusativo/nominativo, refere-se coletivamente aos fatos proféticos preditos.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G1325": {
+      "strong": "G1325",
+      "lemma": "δίδωμι",
+      "lemmaTransliteration": "didōmi",
+      "partOfSpeech": "Verbo mi-radical",
+      "senses": [
+        {
+          "id": "G1325-1",
+          "label": "Dar, conceder por graça ou outorgar autoridade",
+          "definition": "Ato voluntário de conferir algo a outrem, outorga de prerrogativa ou revelação divina.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ἣν ἔδωκεν αὐτῷ ὁ θεὸς",
+              "wordForm": "ἔδωκεν",
+              "translation": "a qual Deus lhe deu.",
+              "explanation": "O Pai confere soberanamente ao Filho a revelação que deve ser transmitida à igreja.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Jo 3:16",
+              "greek": "τὸν υἱὸν τὸν μονογενῆ ἔδωκεν",
+              "wordForm": "ἔδωκεν",
+              "translation": "deu o seu Filho unigênito.",
+              "explanation": "O dom supremo da graça do Pai para a salvação do mundo.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G846": {
+      "strong": "G846",
+      "lemma": "αὐτός",
+      "lemmaTransliteration": "autos",
+      "partOfSpeech": "Pronome pessoal / intensivo",
+      "senses": [
+        {
+          "id": "G846-1",
+          "label": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+          "definition": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ἔδωκεν αὐτῷ",
+              "wordForm": "αὐτῷ",
+              "translation": "lhe deu (a ele).",
+              "explanation": "Dativo singular referindo-se a Cristo como recipiente da revelação.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Ap 1:1",
+              "greek": "τοῖς δούλοις αὐτοῦ",
+              "wordForm": "αὐτοῦ",
+              "translation": "aos seus servos (dele).",
+              "explanation": "Genitivo de posse marcando a pertença dos servos a Deus.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G3588": {
+      "strong": "G3588",
+      "lemma": "ὁ",
+      "lemmaTransliteration": "ho",
+      "partOfSpeech": "Artigo definido",
+      "senses": [
+        {
+          "id": "G3588-1",
+          "label": "Artigo definido identificador e determinador",
+          "definition": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ὁ θεὸς",
+              "wordForm": "ὁ",
+              "translation": "o Deus.",
+              "explanation": "Determina θεός como o Deus pessoal e verdadeiro de Israel e dos cristãos.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Ap 1:1",
+              "greek": "τοῖς δούλοις",
+              "wordForm": "τοῖς",
+              "translation": "aos servos.",
+              "explanation": "Determina o conjunto dos fiéis constituídos como corpo comunitário dos servos do Senhor.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G2316": {
+      "strong": "G2316",
+      "lemma": "θεός",
+      "lemmaTransliteration": "theos",
+      "partOfSpeech": "Substantivo masculino da 2ª declinação",
+      "senses": [
+        {
+          "id": "G2316-1",
+          "label": "O Deus Supremo, o Criador e Pai de nosso Senhor",
+          "definition": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ὁ θεὸς",
+              "wordForm": "θεὸς",
+              "translation": "Deus.",
+              "explanation": "Fonte e autor primordial de toda a profecia e do desfecho vitorioso da história cósmica.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "1Co 8:6",
+              "greek": "εἷς θεὸς ὁ πατήρ, ἐξ οὗ τὰ πάντα",
+              "wordForm": "θεὸς",
+              "translation": "um só Deus, o Pai, de quem são todas as coisas.",
+              "explanation": "Formulação paulina do monoteísmo cristocêntrico.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G1166": {
+      "strong": "G1166",
+      "lemma": "δείκνυμι",
+      "lemmaTransliteration": "deiknymi",
+      "partOfSpeech": "Verbo mi-radical",
+      "senses": [
+        {
+          "id": "G1166-1",
+          "label": "Mostrar, manifestar visualmente em visão",
+          "definition": "Fazer ver com os olhos ou apresentar cenas e símbolos à percepção espiritual e profética.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "δεῖξαι τοῖς δούλοις αὐτοῦ",
+              "wordForm": "δεῖξαι",
+              "translation": "para mostrar aos seus servos.",
+              "explanation": "Termo técnico apocalíptico para a comunicação visionária das realidades celestes e futuras (cf. Ap 4:1; 22:6).",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Ap 22:6",
+              "greek": "ἀπέστειλεν τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ",
+              "wordForm": "δεῖξαι",
+              "translation": "enviou o seu anjo para mostrar aos seus servos.",
+              "explanation": "Inclusão literária que encerra o livro retomando exatamente o vocabulário de Apocalipse 1:1.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G1401": {
+      "strong": "G1401",
+      "lemma": "δοῦλος",
+      "lemmaTransliteration": "doulos",
+      "partOfSpeech": "Substantivo masculino da 2ª declinação",
+      "senses": [
+        {
+          "id": "G1401-1",
+          "label": "Servo voluntário e fiel de Deus",
+          "definition": "Aquele que pertence inteiramente ao Senhor por redenção e obediência fiel, correspondente ao hebraico 'ebed Yahweh.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "τοῖς δούλοις αὐτοῦ",
+              "wordForm": "δούλοις",
+              "translation": "aos seus servos.",
+              "explanation": "Designa a comunidade profética dos crentes que recebem, leem e guardam as palavras da profecia.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Ap 1:1",
+              "greek": "τῷ δούλῳ αὐτοῦ Ἰωάννῃ",
+              "wordForm": "δούλῳ",
+              "translation": "ao seu servo João.",
+              "explanation": "Título honorífico conferido aos profetas das Escrituras (cf. Amós 3:7; Ap 10:7; 11:18).",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G1163": {
+      "strong": "G1163",
+      "lemma": "δέω",
+      "lemmaTransliteration": "dei",
+      "partOfSpeech": "Verbo impessoal",
+      "senses": [
+        {
+          "id": "G1163-1",
+          "label": "Necessidade divina, decreto soberano inescapável",
+          "definition": "Expressa a compulsão teológica decorrente da vontade inalterável de Deus e das profecias inspiradas.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ἃ δεῖ γενέσθαι ἐν τάχει",
+              "wordForm": "δεῖ",
+              "translation": "as coisas que é necessário acontecerem em breve.",
+              "explanation": "Alusão direta à versão grega de Daniel 2:28-29, enfatizando que os impérios mundiais e a história estão subordinados ao plano de Deus.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Mt 16:21",
+              "greek": "ὅτι δεῖ αὐτὸν εἰς Ἱεροσόλυμα ἀπελθεῖν καὶ πολλὰ παθεῖν",
+              "wordForm": "δεῖ",
+              "translation": "que era necessário ir a Jerusalém e sofrer muitas coisas.",
+              "explanation": "O sofrimento vicário de Cristo era uma necessidade estipulada pelo plano redentor da aliança.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G1096": {
+      "strong": "G1096",
+      "lemma": "γίνομαι",
+      "lemmaTransliteration": "ginomai",
+      "partOfSpeech": "Verbo depoente",
+      "senses": [
+        {
+          "id": "G1096-1",
+          "label": "Vir a ser, acontecer, cumprir-se na história",
+          "definition": "Passar a existir, realizar-se factualmente no tempo e no espaço.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "γενέσθαι ἐν τάχει",
+              "wordForm": "γενέσθαι",
+              "translation": "acontecerem em breve.",
+              "explanation": "O aoristo marca a realização objetiva e segura dos eventos históricos revelados.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Mt 6:10",
+              "greek": "γενηθήτω τὸ θέλημά σου",
+              "wordForm": "γενηθήτω",
+              "translation": "seja feita a tua vontade.",
+              "explanation": "Súplica pelo cumprimento factual do querer divino na terra.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G1722": {
+      "strong": "G1722",
+      "lemma": "ἐν",
+      "lemmaTransliteration": "en",
+      "partOfSpeech": "Preposição de caso dativo",
+      "senses": [
+        {
+          "id": "G1722-1",
+          "label": "Em, dentro de, em meio a (uso adverbial ou temporal)",
+          "definition": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ἐν τάχει",
+              "wordForm": "ἐν",
+              "translation": "em breve / com rapidez.",
+              "explanation": "Forma uma locução modal e temporal indicando a celeridade dos atos da providência divina.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G5034": {
+      "strong": "G5034",
+      "lemma": "τάχος",
+      "lemmaTransliteration": "tachos",
+      "partOfSpeech": "Substantivo neutro da 3ª declinação",
+      "senses": [
+        {
+          "id": "G5034-1",
+          "label": "Rapidez, presteza, brevidade temporal",
+          "definition": "Velocidade de execução ou proximidade do desfecho de uma sucessão de eventos.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ἐν τάχει",
+              "wordForm": "τάχει",
+              "translation": "em breve / com rapidez.",
+              "explanation": "Expressa a iminência moral e a certeza veloz do desenrolar do julgamento e da consumação.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Lc 18:8",
+              "greek": "ποιήσει τὴν ἐκδίκησιν αὐτῶν ἐν τάχει",
+              "wordForm": "τάχει",
+              "translation": "fará a justiça deles sem demora.",
+              "explanation": "A resposta de Deus ao clamor dos seus eleitos virá de maneira pronta e decisiva.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G2532": {
+      "strong": "G2532",
+      "lemma": "καί",
+      "lemmaTransliteration": "kai",
+      "partOfSpeech": "Conjunção coordenativa",
+      "senses": [
+        {
+          "id": "G2532-1",
+          "label": "Conjunção aditiva e coordenativa",
+          "definition": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "καὶ ἐσήμανεν",
+              "wordForm": "καὶ",
+              "translation": "e notificou.",
+              "explanation": "Avança a narrativa da cadeia de transmissão da mensagem celestial até João.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G4591": {
+      "strong": "G4591",
+      "lemma": "σημαίνω",
+      "lemmaTransliteration": "sēmainō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4591-1",
+          "label": "Notificar ou comunicar por sinais e símbolos",
+          "definition": "Dar a entender mediante figuras simbólicas, representações visuais ou declarações oraculares.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "καὶ ἐσήμανεν ἀποστείλας",
+              "wordForm": "ἐσήμανεν",
+              "translation": "e as notificou por sinais, tendo enviado.",
+              "explanation": "Define a chave hermenêutica do Apocalipse: o livro foi escrito sob a linguagem figurada e tipológica de símbolos proféticos.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Jo 12:33",
+              "greek": "τοῦτο δὲ ἔλεγεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν",
+              "wordForm": "σημαίνων",
+              "translation": "dizia isto significando de que morte havia de morrer.",
+              "explanation": "Uso joanino característico para alusões ricas em significado figurado.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G649": {
+      "strong": "G649",
+      "lemma": "ἀποστέλλω",
+      "lemmaTransliteration": "apostellō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G649-1",
+          "label": "Enviar em missão comissionada e autorizada",
+          "definition": "Despachar um representante munido de plena autoridade do remetente para cumprir missão oficial.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ",
+              "wordForm": "ἀποστείλας",
+              "translation": "tendo enviado por intermédio do seu anjo.",
+              "explanation": "Cristo comissiona o anjo como seu embaixador celestial munido da mensagem para João.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Jo 20:21",
+              "greek": "καθὼς ἀπέσταλκέν με ὁ πατήρ, κἀγὼ πέμπω ὑμᾶς",
+              "wordForm": "ἀπέσταλκέν",
+              "translation": "assim como o Pai me enviou, eu também vos envio.",
+              "explanation": "Princípio da delegação de autoridade divina na história da salvação.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G1223": {
+      "strong": "G1223",
+      "lemma": "διά",
+      "lemmaTransliteration": "dia",
+      "partOfSpeech": "Preposição",
+      "senses": [
+        {
+          "id": "G1223-1",
+          "label": "Agência intermediária (com caso genitivo)",
+          "definition": "Indica o meio, o instrumento ou a pessoa pela qual uma ação é realizada.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "διὰ τοῦ ἀγγέλου αὐτοῦ",
+              "wordForm": "διὰ",
+              "translation": "por meio do seu anjo.",
+              "explanation": "O anjo não é a fonte da profecia, mas o canal intermediário pelo qual Cristo a faz chegar a João.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G32": {
+      "strong": "G32",
+      "lemma": "ἄγγελος",
+      "lemmaTransliteration": "angelos",
+      "partOfSpeech": "Substantivo masculino da 2ª declinação",
+      "senses": [
+        {
+          "id": "G32-1",
+          "label": "Anjo, mensageiro celestial de Deus",
+          "definition": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "διὰ τοῦ ἀγγέλου αὐτοῦ",
+              "wordForm": "ἀγγέλου",
+              "translation": "do seu anjo.",
+              "explanation": "O anjo intérprete que guia João através dos cenários apocalípticos e decifra suas visões celestiais.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Hb 1:14",
+              "greek": "οὐχὶ πάντες εἰσὶν λειτουργικὰ πνεύματα εἰς διακονίαν ἀποστελλόμενα",
+              "wordForm": "λειτουργικὰ πνεύματα",
+              "translation": "não são todos eles espíritos ministradores enviados para serviço?",
+              "explanation": "A função dos anjos como servos comissionados em favor dos herdeiros da salvação.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    },
+    "G2491": {
+      "strong": "G2491",
+      "lemma": "Ἰωάννης",
+      "lemmaTransliteration": "Iōannēs",
+      "partOfSpeech": "Substantivo próprio masculino",
+      "senses": [
+        {
+          "id": "G2491-1",
+          "label": "O apóstolo e profeta João, autor do Apocalipse",
+          "definition": "O discípulo amado de Jesus, exilado na ilha de Patmos por causa da palavra de Deus e do testemunho de Jesus.",
+          "examples": [
+            {
+              "reference": "Ap 1:1",
+              "greek": "τῷ δούλῳ αὐτοῦ Ἰωάννῃ",
+              "wordForm": "Ἰωάννῃ",
+              "translation": "ao seu servo João.",
+              "explanation": "O elo humano final na cadeia de comunicação da revelação divina: Deus -> Jesus -> Anjo -> João -> Servos de Deus.",
+              "source": "SBLGNT"
+            },
+            {
+              "reference": "Ap 1:9",
+              "greek": "Ἐγὼ Ἰωάννης, ὁ ἀδελφὸς ὑμῶν",
+              "wordForm": "Ἰωάννης",
+              "translation": "Eu, João, vosso irmão.",
+              "explanation": "João se apresenta como participante na tribulação e no reino de Jesus.",
+              "source": "SBLGNT"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

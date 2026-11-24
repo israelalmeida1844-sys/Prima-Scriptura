@@ -1,0 +1,111 @@
+{
+  "strong": "G4165",
+  "lemma": "ποιμαίνω",
+  "lemmaTranslit": "poimainō",
+  "tokenCount": 11,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 1,
+    "João": 1,
+    "Atos": 1,
+    "1 Coríntios": 1,
+    "1 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Mt 2:6",
+      "text": "ὅστις ποιμανεῖ τὸν",
+      "highlightedWord": "ποιμανεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Lk 17:7",
+      "text": "ἢ ποιμαίνοντα, ὃς",
+      "highlightedWord": "ποιμαίνοντα,"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Jn 21:16",
+      "text": "αὐτῷ· Ποίμαινε τὰ",
+      "highlightedWord": "Ποίμαινε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Ac 20:28",
+      "text": "ἐπισκόπους, ποιμαίνειν τὴν",
+      "highlightedWord": "ποιμαίνειν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "1Co 9:7",
+      "text": "τίς ποιμαίνει ποίμνην",
+      "highlightedWord": "ποιμαίνει"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Pe 5:2",
+      "text": "ποιμάνατε τὸ",
+      "highlightedWord": "ποιμάνατε"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Jud 1:12",
+      "text": "ἑαυτοὺς ποιμαίνοντες, νεφέλαι",
+      "highlightedWord": "ποιμαίνοντες,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Re 2:27",
+      "text": "καὶ ποιμανεῖ αὐτοὺς",
+      "highlightedWord": "ποιμανεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Re 7:17",
+      "text": "θρόνου ποιμανεῖ αὐτούς,",
+      "highlightedWord": "ποιμανεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Re 12:5",
+      "text": "μέλλει ποιμαίνειν πάντα",
+      "highlightedWord": "ποιμαίνειν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "αὐτὸς ποιμανεῖ αὐτοὺς",
+      "highlightedWord": "ποιμανεῖ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

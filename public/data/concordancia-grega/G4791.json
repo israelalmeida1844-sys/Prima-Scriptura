@@ -1,0 +1,51 @@
+{
+  "strong": "G4791",
+  "lemma": "συγκοινωνός",
+  "lemmaTranslit": "synkoinōnos",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "Filipenses": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Ro 11:17",
+      "text": "καὶ συγκοινωνὸς τῆς",
+      "highlightedWord": "συγκοινωνὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "1Co 9:23",
+      "text": "ἵνα συγκοινωνὸς αὐτοῦ",
+      "highlightedWord": "συγκοινωνὸς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Php 1:7",
+      "text": "εὐαγγελίου συγκοινωνούς μου",
+      "highlightedWord": "συγκοινωνούς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Re 1:9",
+      "text": "καὶ συγκοινωνὸς ἐν",
+      "highlightedWord": "συγκοινωνὸς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

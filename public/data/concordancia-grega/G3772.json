@@ -1,0 +1,2074 @@
+{
+  "strong": "G3772",
+  "lemma": "οὐρανός",
+  "lemmaTranslit": "ouranos",
+  "tokenCount": 273,
+  "verseCount": 255,
+  "bookDistribution": {
+    "Mateus": 82,
+    "Marcos": 18,
+    "Lucas": 35,
+    "João": 18,
+    "Atos": 26,
+    "Romanos": 2,
+    "1 Coríntios": 2,
+    "2 Coríntios": 3,
+    "Gálatas": 1,
+    "Efésios": 4,
+    "Filipenses": 1,
+    "Colossenses": 5,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 10,
+    "Tiago": 2,
+    "1 Pedro": 3,
+    "2 Pedro": 6,
+    "Apocalipse": 52
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Mt 3:2",
+      "text": "τῶν οὐρανῶν.",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Mt 3:16",
+      "text": "οἱ οὐρανοί, καὶ",
+      "highlightedWord": "οὐρανοί,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Mt 3:17",
+      "text": "τῶν οὐρανῶν λέγουσα·",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Mt 4:17",
+      "text": "τῶν οὐρανῶν.",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Mt 5:3",
+      "text": "τῶν οὐρανῶν.",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Mt 5:10",
+      "text": "τῶν οὐρανῶν.",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Mt 5:12",
+      "text": "τοῖς οὐρανοῖς· οὕτως",
+      "highlightedWord": "οὐρανοῖς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Mt 5:16",
+      "text": "τοῖς οὐρανοῖς.",
+      "highlightedWord": "οὐρανοῖς."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Mt 5:18",
+      "text": "ὁ οὐρανὸς καὶ",
+      "highlightedWord": "οὐρανὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "τῶν οὐρανῶν· ὃς",
+      "highlightedWord": "οὐρανῶν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Mt 5:20",
+      "text": "τῶν οὐρανῶν.",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Mt 5:34",
+      "text": "τῷ οὐρανῷ, ὅτι",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 45,
+      "reference": "Mt 5:45",
+      "text": "ἐν οὐρανοῖς, ὅτι",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mt 6:1",
+      "text": "τοῖς οὐρανοῖς.",
+      "highlightedWord": "οὐρανοῖς."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Mt 6:9",
+      "text": "τοῖς οὐρανοῖς· ἁγιασθήτω",
+      "highlightedWord": "οὐρανοῖς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Mt 6:10",
+      "text": "ἐν οὐρανῷ καὶ",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Mt 6:20",
+      "text": "ἐν οὐρανῷ, ὅπου",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 26,
+      "reference": "Mt 6:26",
+      "text": "τοῦ οὐρανοῦ ὅτι",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Mt 7:11",
+      "text": "τοῖς οὐρανοῖς δώσει",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mt 7:21",
+      "text": "τῶν οὐρανῶν, ἀλλ’",
+      "highlightedWord": "οὐρανῶν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Mt 8:11",
+      "text": "τῶν οὐρανῶν·",
+      "highlightedWord": "οὐρανῶν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Mt 8:20",
+      "text": "τοῦ οὐρανοῦ κατασκηνώσεις,",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Mt 10:7",
+      "text": "τῶν οὐρανῶν.",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Mt 10:32",
+      "text": "ἐν οὐρανοῖς·",
+      "highlightedWord": "οὐρανοῖς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mt 10:33",
+      "text": "ἐν οὐρανοῖς.",
+      "highlightedWord": "οὐρανοῖς."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Mt 11:11",
+      "text": "τῶν οὐρανῶν μείζων",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Mt 11:12",
+      "text": "τῶν οὐρανῶν βιάζεται,",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mt 11:23",
+      "text": "ἕως οὐρανοῦ ὑψωθήσῃ;",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mt 11:25",
+      "text": "τοῦ οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 50,
+      "reference": "Mt 12:50",
+      "text": "ἐν οὐρανοῖς, αὐτός",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mt 13:11",
+      "text": "τῶν οὐρανῶν, ἐκείνοις",
+      "highlightedWord": "οὐρανῶν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Mt 13:24",
+      "text": "τῶν οὐρανῶν ἀνθρώπῳ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Mt 13:31",
+      "text": "τῶν οὐρανῶν κόκκῳ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mt 13:32",
+      "text": "τοῦ οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Mt 13:33",
+      "text": "τῶν οὐρανῶν ζύμῃ,",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Mt 13:44",
+      "text": "τῶν οὐρανῶν θησαυρῷ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 45,
+      "reference": "Mt 13:45",
+      "text": "τῶν οὐρανῶν ἀνθρώπῳ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 47,
+      "reference": "Mt 13:47",
+      "text": "τῶν οὐρανῶν σαγήνῃ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 52,
+      "reference": "Mt 13:52",
+      "text": "τῶν οὐρανῶν ὅμοιός",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Mt 14:19",
+      "text": "τὸν οὐρανὸν εὐλόγησεν",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Mt 16:1",
+      "text": "τοῦ οὐρανοῦ ἐπιδεῖξαι",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Mt 16:2",
+      "text": "ὁ οὐρανός·",
+      "highlightedWord": "οὐρανός·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Mt 16:3",
+      "text": "ὁ οὐρανός. τὸ",
+      "highlightedWord": "οὐρανός."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Mt 16:17",
+      "text": "τοῖς οὐρανοῖς·",
+      "highlightedWord": "οὐρανοῖς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Mt 16:19",
+      "text": "τῶν οὐρανῶν, καὶ",
+      "highlightedWord": "οὐρανῶν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Mt 18:1",
+      "text": "τῶν οὐρανῶν;",
+      "highlightedWord": "οὐρανῶν;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Mt 18:3",
+      "text": "τῶν οὐρανῶν.",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Mt 18:4",
+      "text": "τῶν οὐρανῶν·",
+      "highlightedWord": "οὐρανῶν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Mt 18:10",
+      "text": "ἐν οὐρανοῖς διὰ",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Mt 18:14",
+      "text": "ἐν οὐρανοῖς ἵνα",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Mt 18:18",
+      "text": "ἐν οὐρανῷ καὶ",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Mt 18:19",
+      "text": "ἐν οὐρανοῖς.",
+      "highlightedWord": "οὐρανοῖς."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Mt 18:23",
+      "text": "τῶν οὐρανῶν ἀνθρώπῳ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Mt 19:12",
+      "text": "τῶν οὐρανῶν. ὁ",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Mt 19:14",
+      "text": "τῶν οὐρανῶν.",
+      "highlightedWord": "οὐρανῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Mt 19:21",
+      "text": "ἐν οὐρανοῖς, καὶ",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Mt 19:23",
+      "text": "τῶν οὐρανῶν·",
+      "highlightedWord": "οὐρανῶν·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Mt 20:1",
+      "text": "τῶν οὐρανῶν ἀνθρώπῳ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Mt 21:25",
+      "text": "ἐξ οὐρανοῦ ἢ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Mt 22:2",
+      "text": "τῶν οὐρανῶν ἀνθρώπῳ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Mt 22:30",
+      "text": "τῷ οὐρανῷ εἰσιν·",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 13,
+      "reference": "Mt 23:13",
+      "text": "τῶν οὐρανῶν ἔμπροσθεν",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Mt 23:22",
+      "text": "τῷ οὐρανῷ ὀμνύει",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Mt 24:29",
+      "text": "τοῦ οὐρανοῦ, καὶ",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 30,
+      "reference": "Mt 24:30",
+      "text": "τῷ οὐρανῷ, καὶ",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 31,
+      "reference": "Mt 24:31",
+      "text": "ἄκρων οὐρανῶν ἕως",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 35,
+      "reference": "Mt 24:35",
+      "text": "ὁ οὐρανὸς καὶ",
+      "highlightedWord": "οὐρανὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "τῶν οὐρανῶν οὐδὲ",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 1,
+      "reference": "Mt 25:1",
+      "text": "τῶν οὐρανῶν δέκα",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 64,
+      "reference": "Mt 26:64",
+      "text": "τοῦ οὐρανοῦ.",
+      "highlightedWord": "οὐρανοῦ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 2,
+      "reference": "Mt 28:2",
+      "text": "ἐξ οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 18,
+      "reference": "Mt 28:18",
+      "text": "ἐν οὐρανῷ καὶ",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Mk 1:10",
+      "text": "τοὺς οὐρανοὺς καὶ",
+      "highlightedWord": "οὐρανοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Mk 1:11",
+      "text": "τῶν οὐρανῶν· Σὺ",
+      "highlightedWord": "οὐρανῶν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Mk 4:32",
+      "text": "τοῦ οὐρανοῦ κατασκηνοῦν.",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Mk 6:41",
+      "text": "τὸν οὐρανὸν εὐλόγησεν",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Mk 7:34",
+      "text": "τὸν οὐρανὸν ἐστέναξεν,",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Mk 8:11",
+      "text": "τοῦ οὐρανοῦ, πειράζοντες",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Mk 10:21",
+      "text": "ἐν οὐρανῷ, καὶ",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mk 11:25",
+      "text": "τοῖς οὐρανοῖς ἀφῇ",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Mk 11:30",
+      "text": "ἐξ οὐρανοῦ ἦν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Mk 11:31",
+      "text": "Ἐξ οὐρανοῦ, ἐρεῖ·",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mk 12:25",
+      "text": "τοῖς οὐρανοῖς·",
+      "highlightedWord": "οὐρανοῖς·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Mk 13:25",
+      "text": "τοῦ οὐρανοῦ πίπτοντες,",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Mk 13:27",
+      "text": "ἄκρου οὐρανοῦ.",
+      "highlightedWord": "οὐρανοῦ."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Mk 13:31",
+      "text": "ὁ οὐρανὸς καὶ",
+      "highlightedWord": "οὐρανὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "ἐν οὐρανῷ οὐδὲ",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 62,
+      "reference": "Mk 14:62",
+      "text": "τοῦ οὐρανοῦ.",
+      "highlightedWord": "οὐρανοῦ."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Mk 16:19",
+      "text": "τὸν οὐρανὸν καὶ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Lk 2:15",
+      "text": "τὸν οὐρανὸν οἱ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Lk 3:21",
+      "text": "τὸν οὐρανὸν",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Lk 3:22",
+      "text": "ἐξ οὐρανοῦ γενέσθαι·",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Lk 4:25",
+      "text": "ὁ οὐρανὸς ἐπὶ",
+      "highlightedWord": "οὐρανὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Lk 6:23",
+      "text": "τῷ οὐρανῷ· κατὰ",
+      "highlightedWord": "οὐρανῷ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Lk 8:5",
+      "text": "τοῦ οὐρανοῦ κατέφαγεν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Lk 9:16",
+      "text": "τὸν οὐρανὸν εὐλόγησεν",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 54,
+      "reference": "Lk 9:54",
+      "text": "τοῦ οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 58,
+      "reference": "Lk 9:58",
+      "text": "τοῦ οὐρανοῦ κατασκηνώσεις,",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Lk 10:15",
+      "text": "ἕως οὐρανοῦ ὑψωθήσῃ;",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Lk 10:18",
+      "text": "τοῦ οὐρανοῦ πεσόντα.",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Lk 10:20",
+      "text": "τοῖς οὐρανοῖς.",
+      "highlightedWord": "οὐρανοῖς."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Lk 10:21",
+      "text": "τοῦ οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Lk 11:13",
+      "text": "ἐξ οὐρανοῦ δώσει",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Lk 11:16",
+      "text": "ἐξ οὐρανοῦ ἐζήτουν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Lk 12:33",
+      "text": "τοῖς οὐρανοῖς, ὅπου",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 56,
+      "reference": "Lk 12:56",
+      "text": "τοῦ οὐρανοῦ οἴδατε",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Lk 13:19",
+      "text": "τοῦ οὐρανοῦ κατεσκήνωσεν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Lk 15:7",
+      "text": "τῷ οὐρανῷ ἔσται",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Lk 15:18",
+      "text": "τὸν οὐρανὸν καὶ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Lk 15:21",
+      "text": "τὸν οὐρανὸν καὶ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Lk 16:17",
+      "text": "τὸν οὐρανὸν καὶ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Lk 17:24",
+      "text": "τὸν οὐρανὸν εἰς",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Lk 17:29",
+      "text": "ἀπ’ οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Lk 18:13",
+      "text": "τὸν οὐρανόν, ἀλλ’",
+      "highlightedWord": "οὐρανόν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Lk 18:22",
+      "text": "ἐν οὐρανοῖς, καὶ",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Lk 19:38",
+      "text": "ἐν οὐρανῷ εἰρήνη",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Lk 20:4",
+      "text": "ἐξ οὐρανοῦ ἦν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Lk 20:5",
+      "text": "Ἐξ οὐρανοῦ, ἐρεῖ·",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Lk 21:11",
+      "text": "ἀπ’ οὐρανοῦ μεγάλα",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Lk 21:26",
+      "text": "τῶν οὐρανῶν σαλευθήσονται.",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 33,
+      "reference": "Lk 21:33",
+      "text": "ὁ οὐρανὸς καὶ",
+      "highlightedWord": "οὐρανὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 43,
+      "reference": "Lk 22:43",
+      "text": "ἀπ’ οὐρανοῦ ἐνισχύων",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 51,
+      "reference": "Lk 24:51",
+      "text": "τὸν οὐρανόν].",
+      "highlightedWord": "οὐρανόν]."
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Jn 1:32",
+      "text": "ἐξ οὐρανοῦ, καὶ",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 51,
+      "reference": "Jn 1:51",
+      "text": "τὸν οὐρανὸν ἀνεῳγότα",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jn 3:13",
+      "text": "τὸν οὐρανὸν εἰ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Jn 3:27",
+      "text": "τοῦ οὐρανοῦ.",
+      "highlightedWord": "οὐρανοῦ."
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Jn 3:31",
+      "text": "τοῦ οὐρανοῦ ἐρχόμενος",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Jn 6:31",
+      "text": "τοῦ οὐρανοῦ ἔδωκεν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Jn 6:32",
+      "text": "τοῦ οὐρανοῦ, ἀλλ’",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Jn 6:33",
+      "text": "τοῦ οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Jn 6:38",
+      "text": "τοῦ οὐρανοῦ οὐχ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Jn 6:41",
+      "text": "τοῦ οὐρανοῦ,",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Jn 6:42",
+      "text": "τοῦ οὐρανοῦ καταβέβηκα;",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Jn 6:50",
+      "text": "τοῦ οὐρανοῦ καταβαίνων",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 51,
+      "reference": "Jn 6:51",
+      "text": "τοῦ οὐρανοῦ καταβάς·",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 58,
+      "reference": "Jn 6:58",
+      "text": "ἐξ οὐρανοῦ καταβάς,",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Jn 12:28",
+      "text": "τοῦ οὐρανοῦ· Καὶ",
+      "highlightedWord": "οὐρανοῦ·"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Jn 17:1",
+      "text": "τὸν οὐρανὸν εἶπεν·",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ac 1:10",
+      "text": "τὸν οὐρανὸν πορευομένου",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ac 1:11",
+      "text": "τὸν οὐρανόν; οὗτος",
+      "highlightedWord": "οὐρανόν;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ac 2:2",
+      "text": "τοῦ οὐρανοῦ ἦχος",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ac 2:5",
+      "text": "τὸν οὐρανόν·",
+      "highlightedWord": "οὐρανόν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Ac 2:19",
+      "text": "τῷ οὐρανῷ ἄνω",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 34,
+      "reference": "Ac 2:34",
+      "text": "τοὺς οὐρανούς, λέγει",
+      "highlightedWord": "οὐρανούς,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ac 3:21",
+      "text": "δεῖ οὐρανὸν μὲν",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ac 4:12",
+      "text": "τὸν οὐρανὸν τὸ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Ac 4:24",
+      "text": "τὸν οὐρανὸν καὶ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Ac 7:42",
+      "text": "τοῦ οὐρανοῦ, καθὼς",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Ac 7:49",
+      "text": "Ὁ οὐρανός μοι",
+      "highlightedWord": "οὐρανός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 55,
+      "reference": "Ac 7:55",
+      "text": "τὸν οὐρανὸν εἶδεν",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 56,
+      "reference": "Ac 7:56",
+      "text": "τοὺς οὐρανοὺς διηνοιγμένους",
+      "highlightedWord": "οὐρανοὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Ac 9:3",
+      "text": "τοῦ οὐρανοῦ,",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Ac 10:11",
+      "text": "τὸν οὐρανὸν ἀνεῳγμένον",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Ac 10:12",
+      "text": "τοῦ οὐρανοῦ.",
+      "highlightedWord": "οὐρανοῦ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Ac 10:16",
+      "text": "τὸν οὐρανόν.",
+      "highlightedWord": "οὐρανόν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ac 11:5",
+      "text": "τοῦ οὐρανοῦ, καὶ",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Ac 11:6",
+      "text": "τοῦ οὐρανοῦ·",
+      "highlightedWord": "οὐρανοῦ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Ac 11:9",
+      "text": "τοῦ οὐρανοῦ· Ἃ",
+      "highlightedWord": "οὐρανοῦ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Ac 11:10",
+      "text": "τὸν οὐρανόν.",
+      "highlightedWord": "οὐρανόν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ac 14:15",
+      "text": "τὸν οὐρανὸν καὶ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Ac 17:24",
+      "text": "οὗτος οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 6,
+      "reference": "Ac 22:6",
+      "text": "τοῦ οὐρανοῦ περιαστράψαι",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Ro 1:18",
+      "text": "ἀπ’ οὐρανοῦ ἐπὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ro 10:6",
+      "text": "τὸν οὐρανόν; τοῦτ’",
+      "highlightedWord": "οὐρανόν;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "1Co 8:5",
+      "text": "ἐν οὐρανῷ εἴτε",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 47,
+      "reference": "1Co 15:47",
+      "text": "ἐξ οὐρανοῦ.",
+      "highlightedWord": "οὐρανοῦ."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "2Co 5:1",
+      "text": "τοῖς οὐρανοῖς.",
+      "highlightedWord": "οὐρανοῖς."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "2Co 5:2",
+      "text": "ἐξ οὐρανοῦ ἐπενδύσασθαι",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "2Co 12:2",
+      "text": "τρίτου οὐρανοῦ.",
+      "highlightedWord": "οὐρανοῦ."
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ga 1:8",
+      "text": "ἐξ οὐρανοῦ εὐαγγελίζηται",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Eph 1:10",
+      "text": "τοῖς οὐρανοῖς καὶ",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Eph 3:15",
+      "text": "ἐν οὐρανοῖς καὶ",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Eph 4:10",
+      "text": "τῶν οὐρανῶν, ἵνα",
+      "highlightedWord": "οὐρανῶν,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Eph 6:9",
+      "text": "ἐν οὐρανοῖς, καὶ",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Php 3:20",
+      "text": "ἐν οὐρανοῖς ὑπάρχει,",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Col 1:5",
+      "text": "τοῖς οὐρανοῖς, ἣν",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Col 1:16",
+      "text": "τοῖς οὐρανοῖς καὶ",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Col 1:20",
+      "text": "τοῖς οὐρανοῖς·",
+      "highlightedWord": "οὐρανοῖς·"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Col 1:23",
+      "text": "τὸν οὐρανόν, οὗ",
+      "highlightedWord": "οὐρανόν,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Col 4:1",
+      "text": "ἐν οὐρανῷ.",
+      "highlightedWord": "οὐρανῷ."
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "1Th 1:10",
+      "text": "τῶν οὐρανῶν, ὃν",
+      "highlightedWord": "οὐρανῶν,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Th 4:16",
+      "text": "ἀπ’ οὐρανοῦ, καὶ",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Th 1:7",
+      "text": "ἀπ’ οὐρανοῦ μετ’",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Heb 1:10",
+      "text": "οἱ οὐρανοί·",
+      "highlightedWord": "οὐρανοί·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Heb 4:14",
+      "text": "τοὺς οὐρανούς, Ἰησοῦν",
+      "highlightedWord": "οὐρανούς,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Heb 7:26",
+      "text": "τῶν οὐρανῶν γενόμενος·",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Heb 8:1",
+      "text": "τοῖς οὐρανοῖς,",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Heb 9:23",
+      "text": "τοῖς οὐρανοῖς τούτοις",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Heb 9:24",
+      "text": "τὸν οὐρανόν, νῦν",
+      "highlightedWord": "οὐρανόν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Heb 11:12",
+      "text": "τοῦ οὐρανοῦ τῷ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Heb 12:23",
+      "text": "ἐν οὐρανοῖς, καὶ",
+      "highlightedWord": "οὐρανοῖς,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Heb 12:25",
+      "text": "ἀπ’ οὐρανῶν ἀποστρεφόμενοι·",
+      "highlightedWord": "οὐρανῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Heb 12:26",
+      "text": "τὸν οὐρανόν.",
+      "highlightedWord": "οὐρανόν."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jas 5:12",
+      "text": "τὸν οὐρανὸν μήτε",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Jas 5:18",
+      "text": "ὁ οὐρανὸς ὑετὸν",
+      "highlightedWord": "οὐρανὸς"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "1Pe 1:4",
+      "text": "ἐν οὐρανοῖς εἰς",
+      "highlightedWord": "οὐρανοῖς"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "1Pe 1:12",
+      "text": "ἀπ’ οὐρανοῦ, εἰς",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "1Pe 3:22",
+      "text": "εἰς οὐρανὸν ὑποταγέντων",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Pe 1:18",
+      "text": "ἐξ οὐρανοῦ ἐνεχθεῖσαν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Pe 3:5",
+      "text": "ὅτι οὐρανοὶ ἦσαν",
+      "highlightedWord": "οὐρανοὶ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Pe 3:7",
+      "text": "νῦν οὐρανοὶ καὶ",
+      "highlightedWord": "οὐρανοὶ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Pe 3:10",
+      "text": "οἱ οὐρανοὶ ῥοιζηδὸν",
+      "highlightedWord": "οὐρανοὶ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Pe 3:12",
+      "text": "ἣν οὐρανοὶ πυρούμενοι",
+      "highlightedWord": "οὐρανοὶ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Pe 3:13",
+      "text": "δὲ οὐρανοὺς καὶ",
+      "highlightedWord": "οὐρανοὺς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "τοῦ οὐρανοῦ ἀπὸ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "τῷ οὐρανῷ, καὶ",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Re 4:2",
+      "text": "τῷ οὐρανῷ, καὶ",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Re 5:3",
+      "text": "τῷ οὐρανῷ οὐδὲ",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Re 5:13",
+      "text": "τῷ οὐρανῷ καὶ",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Re 6:13",
+      "text": "τοῦ οὐρανοῦ ἔπεσαν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Re 6:14",
+      "text": "ὁ οὐρανὸς ἀπεχωρίσθη",
+      "highlightedWord": "οὐρανὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Re 8:1",
+      "text": "τῷ οὐρανῷ ὡς",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Re 8:10",
+      "text": "τοῦ οὐρανοῦ ἀστὴρ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Re 9:1",
+      "text": "τοῦ οὐρανοῦ πεπτωκότα",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Re 10:1",
+      "text": "τοῦ οὐρανοῦ, περιβεβλημένον",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Re 10:4",
+      "text": "τοῦ οὐρανοῦ λέγουσαν·",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Re 10:5",
+      "text": "τὸν οὐρανόν,",
+      "highlightedWord": "οὐρανόν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Re 10:6",
+      "text": "τὸν οὐρανὸν καὶ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Re 10:8",
+      "text": "τοῦ οὐρανοῦ, πάλιν",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "τὸν οὐρανόν, ἵνα",
+      "highlightedWord": "οὐρανόν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Re 11:12",
+      "text": "τοῦ οὐρανοῦ λεγούσης",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "τοῦ οὐρανοῦ.",
+      "highlightedWord": "οὐρανοῦ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Re 11:15",
+      "text": "τῷ οὐρανῷ λέγοντες·",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Re 11:19",
+      "text": "τῷ οὐρανῷ, καὶ",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Re 12:1",
+      "text": "τῷ οὐρανῷ, γυνὴ",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Re 12:3",
+      "text": "τῷ οὐρανῷ, καὶ",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "τοῦ οὐρανοῦ, καὶ",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Re 12:7",
+      "text": "τῷ οὐρανῷ, ὁ",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Re 12:8",
+      "text": "τῷ οὐρανῷ.",
+      "highlightedWord": "οὐρανῷ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Re 12:10",
+      "text": "τῷ οὐρανῷ λέγουσαν·",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Re 12:12",
+      "text": "οἱ οὐρανοὶ καὶ",
+      "highlightedWord": "οὐρανοὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Re 13:6",
+      "text": "τῷ οὐρανῷ σκηνοῦντας.",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Re 13:13",
+      "text": "τοῦ οὐρανοῦ καταβαίνειν",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Re 14:2",
+      "text": "τοῦ οὐρανοῦ ὡς",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Re 14:7",
+      "text": "τὸν οὐρανὸν καὶ",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Re 14:13",
+      "text": "τοῦ οὐρανοῦ λεγούσης·",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Re 14:17",
+      "text": "τῷ οὐρανῷ, ἔχων",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Re 15:1",
+      "text": "τῷ οὐρανῷ μέγα",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Re 15:5",
+      "text": "τῷ οὐρανῷ,",
+      "highlightedWord": "οὐρανῷ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "Re 16:11",
+      "text": "τοῦ οὐρανοῦ ἐκ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Re 16:21",
+      "text": "τοῦ οὐρανοῦ ἐπὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Re 18:1",
+      "text": "τοῦ οὐρανοῦ, ἔχοντα",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Re 18:4",
+      "text": "τοῦ οὐρανοῦ λέγουσαν·",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Re 18:5",
+      "text": "τοῦ οὐρανοῦ, καὶ",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Re 18:20",
+      "text": "αὐτῇ, οὐρανέ, καὶ",
+      "highlightedWord": "οὐρανέ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Re 19:1",
+      "text": "τῷ οὐρανῷ λεγόντων·",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Re 19:11",
+      "text": "τὸν οὐρανὸν ἠνεῳγμένον,",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Re 19:14",
+      "text": "τῷ οὐρανῷ ἠκολούθει",
+      "highlightedWord": "οὐρανῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Re 20:1",
+      "text": "τοῦ οὐρανοῦ, ἔχοντα",
+      "highlightedWord": "οὐρανοῦ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Re 20:9",
+      "text": "τοῦ οὐρανοῦ καὶ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Re 20:11",
+      "text": "ὁ οὐρανός, καὶ",
+      "highlightedWord": "οὐρανός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Re 21:1",
+      "text": "εἶδον οὐρανὸν καινὸν",
+      "highlightedWord": "οὐρανὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Re 21:2",
+      "text": "τοῦ οὐρανοῦ ἀπὸ",
+      "highlightedWord": "οὐρανοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Re 21:10",
+      "text": "τοῦ οὐρανοῦ ἀπὸ",
+      "highlightedWord": "οὐρανοῦ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

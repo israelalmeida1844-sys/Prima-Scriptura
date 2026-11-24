@@ -1,0 +1,1252 @@
+{
+  "strong": "G4172",
+  "lemma": "πόλις",
+  "lemmaTranslit": "polis",
+  "tokenCount": 162,
+  "verseCount": 153,
+  "bookDistribution": {
+    "Mateus": 27,
+    "Marcos": 8,
+    "Lucas": 39,
+    "João": 8,
+    "Atos": 42,
+    "Romanos": 1,
+    "2 Coríntios": 2,
+    "Tito": 1,
+    "Hebreus": 4,
+    "Tiago": 1,
+    "2 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 27
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Mt 2:23",
+      "text": "εἰς πόλιν λεγομένην",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mt 4:5",
+      "text": "ἁγίαν πόλιν, καὶ",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Mt 5:14",
+      "text": "δύναται πόλις κρυβῆναι",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Mt 5:35",
+      "text": "ὅτι πόλις ἐστὶν",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Mt 8:33",
+      "text": "τὴν πόλιν ἀπήγγειλαν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Mt 8:34",
+      "text": "ἡ πόλις ἐξῆλθεν",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Mt 9:1",
+      "text": "ἰδίαν πόλιν.",
+      "highlightedWord": "πόλιν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mt 9:35",
+      "text": "τὰς πόλεις πάσας",
+      "highlightedWord": "πόλεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Mt 10:5",
+      "text": "εἰς πόλιν Σαμαριτῶν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mt 10:11",
+      "text": "ἂν πόλιν ἢ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mt 10:14",
+      "text": "τῆς πόλεως ἐκείνης",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Mt 10:15",
+      "text": "τῇ πόλει ἐκείνῃ.",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mt 10:23",
+      "text": "τῇ πόλει ταύτῃ,",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Mt 11:1",
+      "text": "ταῖς πόλεσιν αὐτῶν.",
+      "highlightedWord": "πόλεσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Mt 11:20",
+      "text": "τὰς πόλεις ἐν",
+      "highlightedWord": "πόλεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mt 12:25",
+      "text": "πᾶσα πόλις ἢ",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Mt 14:13",
+      "text": "τῶν πόλεων.",
+      "highlightedWord": "πόλεων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Mt 21:10",
+      "text": "ἡ πόλις λέγουσα·",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Mt 21:17",
+      "text": "τῆς πόλεως εἰς",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Mt 21:18",
+      "text": "τὴν πόλιν ἐπείνασεν.",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Mt 22:7",
+      "text": "τὴν πόλιν αὐτῶν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 34,
+      "reference": "Mt 23:34",
+      "text": "ἀπὸ πόλεως εἰς",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 18,
+      "reference": "Mt 26:18",
+      "text": "τὴν πόλιν πρὸς",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 53,
+      "reference": "Mt 27:53",
+      "text": "ἁγίαν πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 11,
+      "reference": "Mt 28:11",
+      "text": "τὴν πόλιν ἀπήγγειλαν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Mk 1:33",
+      "text": "ἡ πόλις ἐπισυνηγμένη",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "εἰς πόλιν εἰσελθεῖν,",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Mk 5:14",
+      "text": "τὴν πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Mk 6:33",
+      "text": "τῶν πόλεων συνέδραμον",
+      "highlightedWord": "πόλεων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 56,
+      "reference": "Mk 6:56",
+      "text": "εἰς πόλεις ἢ",
+      "highlightedWord": "πόλεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Mk 11:19",
+      "text": "τῆς πόλεως.",
+      "highlightedWord": "πόλεως."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Mk 14:13",
+      "text": "τὴν πόλιν, καὶ",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Mk 14:16",
+      "text": "τὴν πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Lk 1:26",
+      "text": "εἰς πόλιν τῆς",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Lk 1:39",
+      "text": "εἰς πόλιν Ἰούδα,",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Lk 2:3",
+      "text": "ἑαυτοῦ πόλιν.",
+      "highlightedWord": "πόλιν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Lk 2:4",
+      "text": "ἐκ πόλεως Ναζαρὲθ",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Lk 2:11",
+      "text": "ἐν πόλει Δαυίδ·",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 39,
+      "reference": "Lk 2:39",
+      "text": "εἰς πόλιν ἑαυτῶν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Lk 4:29",
+      "text": "τῆς πόλεως, καὶ",
+      "highlightedWord": "πόλεως,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Lk 4:31",
+      "text": "Καφαρναοὺμ πόλιν τῆς",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 43,
+      "reference": "Lk 4:43",
+      "text": "ἑτέραις πόλεσιν εὐαγγελίσασθαί",
+      "highlightedWord": "πόλεσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Lk 5:12",
+      "text": "τῶν πόλεων καὶ",
+      "highlightedWord": "πόλεων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Lk 7:11",
+      "text": "εἰς πόλιν καλουμένην",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Lk 7:12",
+      "text": "τῆς πόλεως, καὶ",
+      "highlightedWord": "πόλεως,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Lk 7:37",
+      "text": "τῇ πόλει ἁμαρτωλός,",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Lk 8:1",
+      "text": "κατὰ πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Lk 8:4",
+      "text": "κατὰ πόλιν ἐπιπορευομένων",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Lk 8:27",
+      "text": "τῆς πόλεως ἔχων",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Lk 8:34",
+      "text": "τὴν πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Lk 8:39",
+      "text": "τὴν πόλιν κηρύσσων",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Lk 9:5",
+      "text": "τῆς πόλεως ἐκείνης",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Lk 9:10",
+      "text": "εἰς πόλιν καλουμένην",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Lk 10:1",
+      "text": "πᾶσαν πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Lk 10:8",
+      "text": "ἂν πόλιν εἰσέρχησθε",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Lk 10:10",
+      "text": "ἂν πόλιν εἰσέλθητε",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Lk 10:11",
+      "text": "τῆς πόλεως ὑμῶν",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Lk 10:12",
+      "text": "τῇ πόλει ἐκείνῃ.",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Lk 13:22",
+      "text": "κατὰ πόλεις καὶ",
+      "highlightedWord": "πόλεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Lk 14:21",
+      "text": "τῆς πόλεως, καὶ",
+      "highlightedWord": "πόλεως,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Lk 18:2",
+      "text": "τινι πόλει τὸν",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Lk 18:3",
+      "text": "τῇ πόλει ἐκείνῃ",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Lk 19:17",
+      "text": "δέκα πόλεων.",
+      "highlightedWord": "πόλεων."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Lk 19:19",
+      "text": "πέντε πόλεων.",
+      "highlightedWord": "πόλεων."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 41,
+      "reference": "Lk 19:41",
+      "text": "τὴν πόλιν ἔκλαυσεν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Lk 22:10",
+      "text": "τὴν πόλιν συναντήσει",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Lk 23:19",
+      "text": "τῇ πόλει καὶ",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 51,
+      "reference": "Lk 23:51",
+      "text": "Ἁριμαθαίας πόλεως τῶν",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 49,
+      "reference": "Lk 24:49",
+      "text": "τῇ πόλει ἕως",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 44,
+      "reference": "Jn 1:44",
+      "text": "τῆς πόλεως Ἀνδρέου",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Jn 4:5",
+      "text": "εἰς πόλιν τῆς",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Jn 4:8",
+      "text": "τὴν πόλιν, ἵνα",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Jn 4:28",
+      "text": "τὴν πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Jn 4:30",
+      "text": "τῆς πόλεως καὶ",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 39,
+      "reference": "Jn 4:39",
+      "text": "τῆς πόλεως ἐκείνης",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 54,
+      "reference": "Jn 11:54",
+      "text": "λεγομένην πόλιν, κἀκεῖ",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Jn 19:20",
+      "text": "τῆς πόλεως ὅπου",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Ac 4:27",
+      "text": "τῇ πόλει ταύτῃ",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Ac 5:16",
+      "text": "πέριξ πόλεων Ἰερουσαλήμ,",
+      "highlightedWord": "πόλεων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 58,
+      "reference": "Ac 7:58",
+      "text": "τῆς πόλεως ἐλιθοβόλουν.",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Ac 8:5",
+      "text": "τὴν πόλιν τῆς",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Ac 8:8",
+      "text": "τῇ πόλει ἐκείνῃ.",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ac 8:9",
+      "text": "τῇ πόλει μαγεύων",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 40,
+      "reference": "Ac 8:40",
+      "text": "τὰς πόλεις πάσας",
+      "highlightedWord": "πόλεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Ac 9:6",
+      "text": "τὴν πόλιν, καὶ",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Ac 10:9",
+      "text": "τῇ πόλει ἐγγιζόντων",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ac 11:5",
+      "text": "ἐν πόλει Ἰόππῃ",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "τὴν πόλιν, ἥτις",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Ac 13:44",
+      "text": "ἡ πόλις συνήχθη",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 50,
+      "reference": "Ac 13:50",
+      "text": "τῆς πόλεως καὶ",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Ac 14:4",
+      "text": "τῆς πόλεως, καὶ",
+      "highlightedWord": "πόλεως,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Ac 14:6",
+      "text": "τὰς πόλεις τῆς",
+      "highlightedWord": "πόλεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Ac 14:13",
+      "text": "τῆς πόλεως ταύρους",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Ac 14:19",
+      "text": "τῆς πόλεως, νομίζοντες",
+      "highlightedWord": "πόλεως,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ac 14:20",
+      "text": "τὴν πόλιν. καὶ",
+      "highlightedWord": "πόλιν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Ac 14:21",
+      "text": "τὴν πόλιν ἐκείνην",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Ac 15:21",
+      "text": "κατὰ πόλιν τοὺς",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Ac 15:36",
+      "text": "κατὰ πόλιν πᾶσαν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Ac 16:4",
+      "text": "τὰς πόλεις, παρεδίδοσαν",
+      "highlightedWord": "πόλεις,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Ac 16:12",
+      "text": "Μακεδονίας πόλις, κολωνία.",
+      "highlightedWord": "πόλις,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Ac 16:14",
+      "text": "πορφυρόπωλις πόλεως Θυατείρων",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Ac 16:20",
+      "text": "τὴν πόλιν Ἰουδαῖοι",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 39,
+      "reference": "Ac 16:39",
+      "text": "τῆς πόλεως.",
+      "highlightedWord": "πόλεως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Ac 17:5",
+      "text": "τὴν πόλιν, καὶ",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Ac 17:16",
+      "text": "τὴν πόλιν.",
+      "highlightedWord": "πόλιν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Ac 18:10",
+      "text": "τῇ πόλει ταύτῃ.",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Ac 19:29",
+      "text": "ἡ πόλις τῆς",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Ac 19:35",
+      "text": "Ἐφεσίων πόλιν νεωκόρον",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Ac 20:23",
+      "text": "κατὰ πόλιν διαμαρτύρεταί",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Ac 21:5",
+      "text": "τῆς πόλεως, καὶ",
+      "highlightedWord": "πόλεως,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 29,
+      "reference": "Ac 21:29",
+      "text": "τῇ πόλει σὺν",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Ac 21:30",
+      "text": "ἡ πόλις ὅλη",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 39,
+      "reference": "Ac 21:39",
+      "text": "ἀσήμου πόλεως πολίτης·",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Ac 22:3",
+      "text": "τῇ πόλει ταύτῃ",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Ac 24:12",
+      "text": "τὴν πόλιν,",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 23,
+      "reference": "Ac 25:23",
+      "text": "τῆς πόλεως καὶ",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 11,
+      "reference": "Ac 26:11",
+      "text": "ἔξω πόλεις.",
+      "highlightedWord": "πόλεις."
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 8,
+      "reference": "Ac 27:8",
+      "text": "ἦν πόλις Λασαία.",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Ro 16:23",
+      "text": "τῆς πόλεως καὶ",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "2Co 11:26",
+      "text": "ἐν πόλει, κινδύνοις",
+      "highlightedWord": "πόλει,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "2Co 11:32",
+      "text": "τὴν πόλιν Δαμασκηνῶν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Tit 1:5",
+      "text": "κατὰ πόλιν πρεσβυτέρους,",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Heb 11:10",
+      "text": "ἔχουσαν πόλιν, ἧς",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Heb 11:16",
+      "text": "αὐτοῖς πόλιν.",
+      "highlightedWord": "πόλιν."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Heb 12:22",
+      "text": "καὶ πόλει θεοῦ",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Heb 13:14",
+      "text": "μένουσαν πόλιν, ἀλλὰ",
+      "highlightedWord": "πόλιν,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Jas 4:13",
+      "text": "τὴν πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "2Pe 2:6",
+      "text": "καὶ πόλεις Σοδόμων",
+      "highlightedWord": "πόλεις"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jud 1:7",
+      "text": "αὐτὰς πόλεις, τὸν",
+      "highlightedWord": "πόλεις,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "τῆς πόλεως τοῦ",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Re 11:2",
+      "text": "τὴν πόλιν τὴν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Re 11:8",
+      "text": "τῆς πόλεως τῆς",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "τῆς πόλεως ἔπεσεν,",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Re 14:20",
+      "text": "τῆς πόλεως, καὶ",
+      "highlightedWord": "πόλεως,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Re 16:19",
+      "text": "ἡ πόλις ἡ",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Re 17:18",
+      "text": "ἡ πόλις ἡ",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Re 18:10",
+      "text": "ἡ πόλις ἡ",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Re 18:16",
+      "text": "ἡ πόλις ἡ",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Re 18:18",
+      "text": "τῇ πόλει τῇ",
+      "highlightedWord": "πόλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "ἡ πόλις ἡ",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "μεγάλη πόλις, καὶ",
+      "highlightedWord": "πόλις,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Re 20:9",
+      "text": "τὴν πόλιν τὴν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Re 21:2",
+      "text": "τὴν πόλιν τὴν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Re 21:10",
+      "text": "τὴν πόλιν τὴν",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Re 21:14",
+      "text": "τῆς πόλεως ἔχων",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Re 21:15",
+      "text": "τὴν πόλιν καὶ",
+      "highlightedWord": "πόλιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Re 21:16",
+      "text": "ἡ πόλις τετράγωνος",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Re 21:18",
+      "text": "ἡ πόλις χρυσίον",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Re 21:19",
+      "text": "τῆς πόλεως παντὶ",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Re 21:21",
+      "text": "τῆς πόλεως χρυσίον",
+      "highlightedWord": "πόλεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Re 21:23",
+      "text": "ἡ πόλις οὐ",
+      "highlightedWord": "πόλις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Re 22:14",
+      "text": "τὴν πόλιν.",
+      "highlightedWord": "πόλιν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 19,
+      "reference": "Re 22:19",
+      "text": "τῆς πόλεως τῆς",
+      "highlightedWord": "πόλεως"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

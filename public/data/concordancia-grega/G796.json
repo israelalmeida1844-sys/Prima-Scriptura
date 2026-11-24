@@ -1,0 +1,90 @@
+{
+  "strong": "G796",
+  "lemma": "ἀστραπή",
+  "lemmaTranslit": "astrapē",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Lucas": 3,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Mt 24:27",
+      "text": "ἡ ἀστραπὴ ἐξέρχεται",
+      "highlightedWord": "ἀστραπὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 3,
+      "reference": "Mt 28:3",
+      "text": "ὡς ἀστραπὴ καὶ",
+      "highlightedWord": "ἀστραπὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Lk 10:18",
+      "text": "ὡς ἀστραπὴν ἐκ",
+      "highlightedWord": "ἀστραπὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Lk 11:36",
+      "text": "τῇ ἀστραπῇ φωτίζῃ",
+      "highlightedWord": "ἀστραπῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Lk 17:24",
+      "text": "ἡ ἀστραπὴ ἀστράπτουσα",
+      "highlightedWord": "ἀστραπὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Re 4:5",
+      "text": "ἐκπορεύονται ἀστραπαὶ καὶ",
+      "highlightedWord": "ἀστραπαὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Re 8:5",
+      "text": "καὶ ἀστραπαὶ καὶ",
+      "highlightedWord": "ἀστραπαὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Re 11:19",
+      "text": "ἐγένοντο ἀστραπαὶ καὶ",
+      "highlightedWord": "ἀστραπαὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Re 16:18",
+      "text": "ἐγένοντο ἀστραπαὶ καὶ",
+      "highlightedWord": "ἀστραπαὶ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

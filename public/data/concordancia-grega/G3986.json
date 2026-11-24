@@ -1,0 +1,187 @@
+{
+  "strong": "G3986",
+  "lemma": "πειρασμός",
+  "lemmaTranslit": "peirasmos",
+  "tokenCount": 21,
+  "verseCount": 20,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Marcos": 1,
+    "Lucas": 6,
+    "Atos": 1,
+    "1 Coríntios": 2,
+    "Gálatas": 1,
+    "1 Timóteo": 1,
+    "Hebreus": 1,
+    "Tiago": 2,
+    "1 Pedro": 2,
+    "2 Pedro": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Mt 6:13",
+      "text": "εἰς πειρασμόν, ἀλλὰ",
+      "highlightedWord": "πειρασμόν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 41,
+      "reference": "Mt 26:41",
+      "text": "εἰς πειρασμόν· τὸ",
+      "highlightedWord": "πειρασμόν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 38,
+      "reference": "Mk 14:38",
+      "text": "εἰς πειρασμόν· τὸ",
+      "highlightedWord": "πειρασμόν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Lk 4:13",
+      "text": "πάντα πειρασμὸν ὁ",
+      "highlightedWord": "πειρασμὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Lk 8:13",
+      "text": "καιρῷ πειρασμοῦ ἀφίστανται.",
+      "highlightedWord": "πειρασμοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Lk 11:4",
+      "text": "εἰς πειρασμόν.",
+      "highlightedWord": "πειρασμόν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 28,
+      "reference": "Lk 22:28",
+      "text": "τοῖς πειρασμοῖς μου·",
+      "highlightedWord": "πειρασμοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 40,
+      "reference": "Lk 22:40",
+      "text": "εἰς πειρασμόν.",
+      "highlightedWord": "πειρασμόν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Lk 22:46",
+      "text": "εἰς πειρασμόν.",
+      "highlightedWord": "πειρασμόν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Ac 20:19",
+      "text": "καὶ πειρασμῶν τῶν",
+      "highlightedWord": "πειρασμῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "1Co 10:13",
+      "text": "πειρασμὸς ὑμᾶς",
+      "highlightedWord": "πειρασμὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ga 4:14",
+      "text": "τὸν πειρασμὸν ὑμῶν",
+      "highlightedWord": "πειρασμὸν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Ti 6:9",
+      "text": "εἰς πειρασμὸν καὶ",
+      "highlightedWord": "πειρασμὸν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Heb 3:8",
+      "text": "τοῦ πειρασμοῦ ἐν",
+      "highlightedWord": "πειρασμοῦ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Jas 1:2",
+      "text": "ὅταν πειρασμοῖς περιπέσητε",
+      "highlightedWord": "πειρασμοῖς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Jas 1:12",
+      "text": "ὑπομένει πειρασμόν, ὅτι",
+      "highlightedWord": "πειρασμόν,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Pe 1:6",
+      "text": "ποικίλοις πειρασμοῖς,",
+      "highlightedWord": "πειρασμοῖς,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Pe 4:12",
+      "text": "πρὸς πειρασμὸν ὑμῖν",
+      "highlightedWord": "πειρασμὸν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Pe 2:9",
+      "text": "ἐκ πειρασμοῦ ῥύεσθαι,",
+      "highlightedWord": "πειρασμοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Re 3:10",
+      "text": "τοῦ πειρασμοῦ τῆς",
+      "highlightedWord": "πειρασμοῦ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

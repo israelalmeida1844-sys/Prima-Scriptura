@@ -1,0 +1,246 @@
+{
+  "scope": "Apocalipse 1:2 — cinco lemas adicionais, além das entradas já aprovadas de 1:1",
+  "source": "SBLGNT / MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "attribution": "SBL Greek New Testament (Holmes, 2010); MorphGNT 6.12 (Tauber). Traduções, acepções e notas: edição editorial Prima Scriptura.",
+  "lexicalNote": "As categorias semânticas são interpretações editoriais documentadas; as referências exemplificam usos e não substituem análise lexicográfica de corpus integral. O banco desta etapa complementa o banco de Apocalipse 1:1, sem modificá-lo.",
+  "entries": {
+    "G3140": {
+      "strong": "G3140",
+      "lemma": "μαρτυρέω",
+      "lemmaTransliteration": "martyreō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3140-1",
+          "label": "Testemunhar ou atestar uma realidade",
+          "definition": "Declarar como verdadeira uma realidade conhecida, presenciada ou recebida, como testemunho que pode ser examinado por outros.",
+          "examples": [
+            {
+              "reference": "Ap 1:2",
+              "greek": "ὃς ἐμαρτύρησεν τὸν λόγον τοῦ θεοῦ",
+              "wordForm": "ἐμαρτύρησεν",
+              "translation": "o qual testemunhou a palavra de Deus.",
+              "explanation": "João é descrito como testemunha da revelação, não como fonte primária dela.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            },
+            {
+              "reference": "Jo 19:35",
+              "greek": "καὶ ὁ ἑωρακὼς μεμαρτύρηκεν",
+              "wordForm": "μεμαρτύρηκεν",
+              "translation": "e aquele que viu deu testemunho.",
+              "explanation": "A relação entre ter visto e testemunhar aparece explicitamente na narrativa da crucificação.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        },
+        {
+          "id": "G3140-2",
+          "label": "Dar testemunho em favor da identidade de Jesus",
+          "definition": "Enunciar publicamente aquilo que se reconheceu acerca da pessoa de Jesus, inclusive em contextos de revelação e missão.",
+          "examples": [
+            {
+              "reference": "Jo 1:34",
+              "greek": "κἀγὼ ἑώρακα, καὶ μεμαρτύρηκα",
+              "wordForm": "μεμαρτύρηκα",
+              "translation": "eu vi e dei testemunho.",
+              "explanation": "A fala de João Batista exemplifica a conexão entre experiência e testemunho cristológico.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        }
+      ]
+    },
+    "G3056": {
+      "strong": "G3056",
+      "lemma": "λόγος",
+      "lemmaTransliteration": "logos",
+      "partOfSpeech": "Substantivo masculino",
+      "senses": [
+        {
+          "id": "G3056-1",
+          "label": "Palavra, mensagem ou declaração",
+          "definition": "Conteúdo comunicado oralmente ou por escrito, incluindo discurso, anúncio e mensagem divina.",
+          "examples": [
+            {
+              "reference": "Ap 1:2",
+              "greek": "τὸν λόγον τοῦ θεοῦ",
+              "wordForm": "λόγον",
+              "translation": "a palavra de Deus.",
+              "explanation": "A expressão designa a mensagem divina objeto do testemunho de João.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            },
+            {
+              "reference": "Ap 1:9",
+              "greek": "διὰ τὸν λόγον τοῦ θεοῦ",
+              "wordForm": "λόγον",
+              "translation": "por causa da palavra de Deus.",
+              "explanation": "A mesma fórmula relaciona a palavra de Deus ao testemunho de João.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        },
+        {
+          "id": "G3056-2",
+          "label": "O Logos pessoal na abertura do Evangelho de João",
+          "definition": "Uso cristológico específico de λόγος para a Palavra pessoal, distinto do significado contextual de 'mensagem' em Apocalipse 1:2.",
+          "examples": [
+            {
+              "reference": "Jo 1:1",
+              "greek": "Ἐν ἀρχῇ ἦν ὁ λόγος",
+              "wordForm": "λόγος",
+              "translation": "No princípio era a Palavra.",
+              "explanation": "Neste contexto do Evangelho, o termo refere-se ao Logos preexistente; esta acepção não deve ser imposta automaticamente a toda ocorrência de λόγος.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        }
+      ]
+    },
+    "G3141": {
+      "strong": "G3141",
+      "lemma": "μαρτυρία",
+      "lemmaTransliteration": "martyria",
+      "partOfSpeech": "Substantivo feminino",
+      "senses": [
+        {
+          "id": "G3141-1",
+          "label": "Testemunho, declaração ou evidência",
+          "definition": "Aquilo que uma testemunha declara, confirma ou apresenta como testemunho a respeito de uma realidade.",
+          "examples": [
+            {
+              "reference": "Ap 1:2",
+              "greek": "τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ",
+              "wordForm": "μαρτυρίαν",
+              "translation": "o testemunho de Jesus Cristo.",
+              "explanation": "A expressão complementa 'a palavra de Deus' como conteúdo do testemunho de João.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            },
+            {
+              "reference": "Jo 19:35",
+              "greek": "καὶ ἀληθινὴ αὐτοῦ ἐστιν ἡ μαρτυρία",
+              "wordForm": "μαρτυρία",
+              "translation": "e verdadeiro é o seu testemunho.",
+              "explanation": "O termo designa o testemunho declarado por quem viu.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        },
+        {
+          "id": "G3141-2",
+          "label": "Testemunho vinculado a Jesus e à profecia",
+          "definition": "Emprego característico de Apocalipse para o testemunho associado a Jesus, relevante para a identidade dos fiéis e a comunicação profética.",
+          "examples": [
+            {
+              "reference": "Ap 12:17",
+              "greek": "τὴν μαρτυρίαν Ἰησοῦ",
+              "wordForm": "μαρτυρίαν",
+              "translation": "o testemunho de Jesus.",
+              "explanation": "O termo caracteriza aqueles que permanecem fiéis; o genitivo demanda análise contextual.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            },
+            {
+              "reference": "Ap 19:10",
+              "greek": "ἡ γὰρ μαρτυρία Ἰησοῦ ἐστιν τὸ πνεῦμα τῆς προφητείας",
+              "wordForm": "μαρτυρία",
+              "translation": "pois o testemunho de Jesus é o espírito da profecia.",
+              "explanation": "Associação explícita do testemunho de Jesus ao espírito da profecia; diferentes interpretações do genitivo devem ser discutidas no comentário.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        }
+      ]
+    },
+    "G3745": {
+      "strong": "G3745",
+      "lemma": "ὅσος",
+      "lemmaTransliteration": "hosos",
+      "partOfSpeech": "Pronome/adjetivo relativo de quantidade",
+      "senses": [
+        {
+          "id": "G3745-1",
+          "label": "Tudo quanto, todas as coisas que",
+          "definition": "Relativo que expressa abrangência ou extensão integral dos elementos referidos por um verbo ou situação.",
+          "examples": [
+            {
+              "reference": "Ap 1:2",
+              "greek": "ὅσα εἶδεν",
+              "wordForm": "ὅσα",
+              "translation": "tudo quanto viu.",
+              "explanation": "O acusativo neutro plural funciona como objeto de εἶδεν e delimita abrangentemente o conteúdo testemunhado.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            },
+            {
+              "reference": "Ap 18:7",
+              "greek": "ὅσα ἐδόξασεν αὑτὴν καὶ ἐστρηνίασεν",
+              "wordForm": "ὅσα",
+              "translation": "quanto se glorificou e viveu em luxo.",
+              "explanation": "A expressão indica medida ou proporção, mostrando que o lema também opera em estruturas correlativas.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        },
+        {
+          "id": "G3745-2",
+          "label": "Todos aqueles que; todos quantos",
+          "definition": "Relativo de quantidade aplicado a pessoas, introduzindo uma classe cuja extensão é definida pela oração subsequente.",
+          "examples": [
+            {
+              "reference": "Ap 2:24",
+              "greek": "ὅσοι οὐκ ἔχουσιν τὴν διδαχὴν ταύτην",
+              "wordForm": "ὅσοι",
+              "translation": "todos quantos não têm este ensino.",
+              "explanation": "A forma nominativa plural masculina introduz um grupo de pessoas especificado pelo predicado.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        }
+      ]
+    },
+    "G3708": {
+      "strong": "G3708",
+      "lemma": "ὁράω",
+      "lemmaTransliteration": "horaō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3708-1",
+          "label": "Ver ou perceber visualmente",
+          "definition": "Experimentar percepção visual, observar algo ou reconhecer por meio da visão, em contextos comuns ou narrativos.",
+          "examples": [
+            {
+              "reference": "Ap 1:2",
+              "greek": "ὅσα εἶδεν",
+              "wordForm": "εἶδεν",
+              "translation": "tudo quanto viu.",
+              "explanation": "O aoristo remete àquilo que João experimentou e comunicou.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            },
+            {
+              "reference": "Jo 1:34",
+              "greek": "κἀγὼ ἑώρακα, καὶ μεμαρτύρηκα",
+              "wordForm": "ἑώρακα",
+              "translation": "eu vi e dei testemunho.",
+              "explanation": "O perfeito destaca a experiência do observador que sustenta seu testemunho.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        },
+        {
+          "id": "G3708-2",
+          "label": "Contemplar realidades em uma visão revelatória",
+          "definition": "Perceber acontecimentos ou símbolos no âmbito de uma visão profética, sem que a forma verbal, sozinha, indique o modo da experiência.",
+          "examples": [
+            {
+              "reference": "Ap 6:9",
+              "greek": "εἶδον ὑποκάτω τοῦ θυσιαστηρίου τὰς ψυχὰς",
+              "wordForm": "εἶδον",
+              "translation": "vi debaixo do altar as almas.",
+              "explanation": "João descreve simbolicamente uma cena contemplada no ciclo de visões apocalípticas.",
+              "source": "SBLGNT/MorphGNT 6.12"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

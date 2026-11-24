@@ -1,0 +1,33 @@
+{
+  "strong": "G4398",
+  "lemma": "προφῆτις",
+  "lemmaTranslit": "prophētis",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Lucas": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 36,
+      "reference": "Lk 2:36",
+      "text": "Ἅννα προφῆτις, θυγάτηρ",
+      "highlightedWord": "προφῆτις,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "ἑαυτὴν προφῆτιν, καὶ",
+      "highlightedWord": "προφῆτιν,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

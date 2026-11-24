@@ -1,0 +1,665 @@
+{
+  "strong": "G2597",
+  "lemma": "καταβαίνω",
+  "lemmaTranslit": "katabainō",
+  "tokenCount": 80,
+  "verseCount": 80,
+  "bookDistribution": {
+    "Mateus": 11,
+    "Marcos": 6,
+    "Lucas": 12,
+    "João": 17,
+    "Atos": 19,
+    "Romanos": 1,
+    "Efésios": 2,
+    "1 Tessalonicenses": 1,
+    "Tiago": 1,
+    "Apocalipse": 10
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Mt 3:16",
+      "text": "θεοῦ καταβαῖνον ὡσεὶ",
+      "highlightedWord": "καταβαῖνον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Mt 7:25",
+      "text": "καὶ κατέβη ἡ",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Mt 7:27",
+      "text": "καὶ κατέβη ἡ",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Mt 8:1",
+      "text": "Καταβάντος δὲ",
+      "highlightedWord": "Καταβάντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mt 11:23",
+      "text": "ᾅδου καταβήσῃ· ὅτι",
+      "highlightedWord": "καταβήσῃ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Mt 14:29",
+      "text": "καὶ καταβὰς ἀπὸ",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Mt 17:9",
+      "text": "Καὶ καταβαινόντων αὐτῶν",
+      "highlightedWord": "καταβαινόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 17,
+      "reference": "Mt 24:17",
+      "text": "μὴ καταβάτω ἆραι",
+      "highlightedWord": "καταβάτω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 40,
+      "reference": "Mt 27:40",
+      "text": "θεοῦ, κατάβηθι ἀπὸ",
+      "highlightedWord": "κατάβηθι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 42,
+      "reference": "Mt 27:42",
+      "text": "ἐστιν, καταβάτω νῦν",
+      "highlightedWord": "καταβάτω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 2,
+      "reference": "Mt 28:2",
+      "text": "κυρίου καταβὰς ἐξ",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Mk 1:10",
+      "text": "περιστερὰν καταβαῖνον εἰς",
+      "highlightedWord": "καταβαῖνον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Mk 3:22",
+      "text": "Ἱεροσολύμων καταβάντες ἔλεγον",
+      "highlightedWord": "καταβάντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mk 9:9",
+      "text": "Καὶ καταβαινόντων αὐτῶν",
+      "highlightedWord": "καταβαινόντων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Mk 13:15",
+      "text": "μὴ καταβάτω μηδὲ",
+      "highlightedWord": "καταβάτω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Mk 15:30",
+      "text": "σεαυτὸν καταβὰς ἀπὸ",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Mk 15:32",
+      "text": "Ἰσραὴλ καταβάτω νῦν",
+      "highlightedWord": "καταβάτω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 51,
+      "reference": "Lk 2:51",
+      "text": "καὶ κατέβη μετ’",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Lk 3:22",
+      "text": "καὶ καταβῆναι τὸ",
+      "highlightedWord": "καταβῆναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Lk 6:17",
+      "text": "Καὶ καταβὰς μετ’",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Lk 8:23",
+      "text": "καὶ κατέβη λαῖλαψ",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 54,
+      "reference": "Lk 9:54",
+      "text": "πῦρ καταβῆναι ἀπὸ",
+      "highlightedWord": "καταβῆναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Lk 10:30",
+      "text": "τις κατέβαινεν ἀπὸ",
+      "highlightedWord": "κατέβαινεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Lk 10:31",
+      "text": "τις κατέβαινεν ἐν",
+      "highlightedWord": "κατέβαινεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Lk 17:31",
+      "text": "μὴ καταβάτω ἆραι",
+      "highlightedWord": "καταβάτω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Lk 18:14",
+      "text": "ὑμῖν, κατέβη οὗτος",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Lk 19:5",
+      "text": "σπεύσας κατάβηθι, σήμερον",
+      "highlightedWord": "κατάβηθι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Lk 19:6",
+      "text": "σπεύσας κατέβη, καὶ",
+      "highlightedWord": "κατέβη,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 44,
+      "reference": "Lk 22:44",
+      "text": "αἵματος καταβαίνοντες ἐπὶ",
+      "highlightedWord": "καταβαίνοντες"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Jn 1:32",
+      "text": "πνεῦμα καταβαῖνον ὡς",
+      "highlightedWord": "καταβαῖνον"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Jn 1:33",
+      "text": "πνεῦμα καταβαῖνον καὶ",
+      "highlightedWord": "καταβαῖνον"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 51,
+      "reference": "Jn 1:51",
+      "text": "καὶ καταβαίνοντας ἐπὶ",
+      "highlightedWord": "καταβαίνοντας"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Jn 2:12",
+      "text": "τοῦτο κατέβη εἰς",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jn 3:13",
+      "text": "οὐρανοῦ καταβάς, ὁ",
+      "highlightedWord": "καταβάς,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 47,
+      "reference": "Jn 4:47",
+      "text": "ἵνα καταβῇ καὶ",
+      "highlightedWord": "καταβῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 49,
+      "reference": "Jn 4:49",
+      "text": "Κύριε, κατάβηθι πρὶν",
+      "highlightedWord": "κατάβηθι"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 51,
+      "reference": "Jn 4:51",
+      "text": "αὐτοῦ καταβαίνοντος οἱ",
+      "highlightedWord": "καταβαίνοντος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jn 5:7",
+      "text": "ἐμοῦ καταβαίνει.",
+      "highlightedWord": "καταβαίνει."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Jn 6:16",
+      "text": "ἐγένετο κατέβησαν οἱ",
+      "highlightedWord": "κατέβησαν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Jn 6:33",
+      "text": "ὁ καταβαίνων ἐκ",
+      "highlightedWord": "καταβαίνων"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Jn 6:38",
+      "text": "ὅτι καταβέβηκα ἀπὸ",
+      "highlightedWord": "καταβέβηκα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Jn 6:41",
+      "text": "ὁ καταβὰς ἐκ",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Jn 6:42",
+      "text": "οὐρανοῦ καταβέβηκα;",
+      "highlightedWord": "καταβέβηκα;"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Jn 6:50",
+      "text": "οὐρανοῦ καταβαίνων ἵνα",
+      "highlightedWord": "καταβαίνων"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 51,
+      "reference": "Jn 6:51",
+      "text": "οὐρανοῦ καταβάς· ἐάν",
+      "highlightedWord": "καταβάς·"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 58,
+      "reference": "Jn 6:58",
+      "text": "οὐρανοῦ καταβάς, οὐ",
+      "highlightedWord": "καταβάς,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Ac 7:15",
+      "text": "καὶ κατέβη Ἰακὼβ",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Ac 7:34",
+      "text": "καὶ κατέβην ἐξελέσθαι",
+      "highlightedWord": "κατέβην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Ac 8:15",
+      "text": "οἵτινες καταβάντες προσηύξαντο",
+      "highlightedWord": "καταβάντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Ac 8:26",
+      "text": "τὴν καταβαίνουσαν ἀπὸ",
+      "highlightedWord": "καταβαίνουσαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ac 8:38",
+      "text": "καὶ κατέβησαν ἀμφότεροι",
+      "highlightedWord": "κατέβησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Ac 10:11",
+      "text": "καὶ καταβαῖνον σκεῦός",
+      "highlightedWord": "καταβαῖνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Ac 10:20",
+      "text": "ἀναστὰς κατάβηθι καὶ",
+      "highlightedWord": "κατάβηθι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Ac 10:21",
+      "text": "καταβὰς δὲ",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ac 11:5",
+      "text": "ὅραμα, καταβαῖνον σκεῦός",
+      "highlightedWord": "καταβαῖνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Ac 14:11",
+      "text": "ἀνθρώποις κατέβησαν πρὸς",
+      "highlightedWord": "κατέβησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Ac 14:25",
+      "text": "λόγον κατέβησαν εἰς",
+      "highlightedWord": "κατέβησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Ac 16:8",
+      "text": "Μυσίαν κατέβησαν εἰς",
+      "highlightedWord": "κατέβησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Ac 18:22",
+      "text": "ἐκκλησίαν, κατέβη εἰς",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Ac 20:10",
+      "text": "καταβὰς δὲ",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Ac 23:10",
+      "text": "στράτευμα καταβὰν ἁρπάσαι",
+      "highlightedWord": "καταβὰν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Ac 24:1",
+      "text": "ἡμέρας κατέβη ὁ",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Ac 24:22",
+      "text": "χιλίαρχος καταβῇ διαγνώσομαι",
+      "highlightedWord": "καταβῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Ac 25:6",
+      "text": "δέκα, καταβὰς εἰς",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 7,
+      "reference": "Ac 25:7",
+      "text": "Ἱεροσολύμων καταβεβηκότες Ἰουδαῖοι,",
+      "highlightedWord": "καταβεβηκότες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Ro 10:7",
+      "text": "Τίς καταβήσεται εἰς",
+      "highlightedWord": "καταβήσεται"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Eph 4:9",
+      "text": "καὶ κατέβη εἰς",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Eph 4:10",
+      "text": "ὁ καταβὰς αὐτός",
+      "highlightedWord": "καταβὰς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Th 4:16",
+      "text": "θεοῦ, καταβήσεται ἀπ’",
+      "highlightedWord": "καταβήσεται"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Jas 1:17",
+      "text": "ἐστιν, καταβαῖνον ἀπὸ",
+      "highlightedWord": "καταβαῖνον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "ἡ καταβαίνουσα ἐκ",
+      "highlightedWord": "καταβαίνουσα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Re 10:1",
+      "text": "ἰσχυρὸν καταβαίνοντα ἐκ",
+      "highlightedWord": "καταβαίνοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Re 12:12",
+      "text": "ὅτι κατέβη ὁ",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Re 13:13",
+      "text": "οὐρανοῦ καταβαίνειν εἰς",
+      "highlightedWord": "καταβαίνειν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Re 16:21",
+      "text": "ταλαντιαία καταβαίνει ἐκ",
+      "highlightedWord": "καταβαίνει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Re 18:1",
+      "text": "ἄγγελον καταβαίνοντα ἐκ",
+      "highlightedWord": "καταβαίνοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Re 20:1",
+      "text": "ἄγγελον καταβαίνοντα ἐκ",
+      "highlightedWord": "καταβαίνοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Re 20:9",
+      "text": "καὶ κατέβη πῦρ",
+      "highlightedWord": "κατέβη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Re 21:2",
+      "text": "εἶδον καταβαίνουσαν ἐκ",
+      "highlightedWord": "καταβαίνουσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Re 21:10",
+      "text": "Ἰερουσαλὴμ καταβαίνουσαν ἐκ",
+      "highlightedWord": "καταβαίνουσαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

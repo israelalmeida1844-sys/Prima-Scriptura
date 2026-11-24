@@ -1,0 +1,4866 @@
+{
+  "strong": "G235",
+  "lemma": "ἀλλά",
+  "lemmaTranslit": "alla",
+  "tokenCount": 638,
+  "verseCount": 603,
+  "bookDistribution": {
+    "Mateus": 37,
+    "Marcos": 45,
+    "Lucas": 35,
+    "João": 102,
+    "Atos": 30,
+    "Romanos": 69,
+    "1 Coríntios": 72,
+    "2 Coríntios": 68,
+    "Gálatas": 23,
+    "Efésios": 13,
+    "Filipenses": 15,
+    "Colossenses": 3,
+    "1 Tessalonicenses": 13,
+    "2 Tessalonicenses": 5,
+    "1 Timóteo": 12,
+    "2 Timóteo": 12,
+    "Tito": 4,
+    "Filemom": 2,
+    "Hebreus": 16,
+    "Tiago": 5,
+    "1 Pedro": 16,
+    "2 Pedro": 6,
+    "1 João": 13,
+    "2 João": 4,
+    "3 João": 3,
+    "Judas": 2,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Mt 4:4",
+      "text": "ἄνθρωπος, ἀλλ’ ἐπὶ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Mt 5:15",
+      "text": "μόδιον ἀλλ’ ἐπὶ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Mt 5:17",
+      "text": "καταλῦσαι ἀλλὰ πληρῶσαι·",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Mt 5:39",
+      "text": "πονηρῷ· ἀλλ’ ὅστις",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Mt 6:13",
+      "text": "πειρασμόν, ἀλλὰ ῥῦσαι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Mt 6:18",
+      "text": "νηστεύων ἀλλὰ τῷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mt 7:21",
+      "text": "οὐρανῶν, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Mt 8:4",
+      "text": "εἴπῃς, ἀλλὰ ὕπαγε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Mt 8:8",
+      "text": "εἰσέλθῃς· ἀλλὰ μόνον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mt 9:12",
+      "text": "ἰατροῦ ἀλλὰ οἱ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Mt 9:13",
+      "text": "δικαίους ἀλλὰ ἁμαρτωλούς.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Mt 9:17",
+      "text": "ἀπόλλυνται· ἀλλὰ βάλλουσιν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mt 9:18",
+      "text": "ἐτελεύτησεν· ἀλλὰ ἐλθὼν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Mt 9:24",
+      "text": "κοράσιον ἀλλὰ καθεύδει·",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Mt 10:20",
+      "text": "λαλοῦντες ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Mt 10:34",
+      "text": "εἰρήνην ἀλλὰ μάχαιραν.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Mt 11:8",
+      "text": "ἀλλὰ τί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Mt 11:9",
+      "text": "ἀλλὰ τί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mt 13:21",
+      "text": "ἑαυτῷ ἀλλὰ πρόσκαιρός",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Mt 15:11",
+      "text": "ἄνθρωπον, ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Mt 16:12",
+      "text": "ἄρτων ἀλλὰ ἀπὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Mt 16:17",
+      "text": "σοι ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Mt 16:23",
+      "text": "θεοῦ ἀλλὰ τὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Mt 17:12",
+      "text": "αὐτὸν ἀλλὰ ἐποίησαν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Mt 18:22",
+      "text": "ἑπτάκις ἀλλὰ ἕως",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Mt 18:30",
+      "text": "ἤθελεν, ἀλλὰ ἀπελθὼν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Mt 19:6",
+      "text": "δύο ἀλλὰ σὰρξ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Mt 19:11",
+      "text": "τοῦτον ἀλλ’ οἷς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Mt 20:23",
+      "text": "δοῦναι, ἀλλ’ οἷς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Mt 20:26",
+      "text": "ὑμῖν· ἀλλ’ ὃς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Mt 20:28",
+      "text": "διακονηθῆναι ἀλλὰ διακονῆσαι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Mt 21:21",
+      "text": "ποιήσετε, ἀλλὰ κἂν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Mt 22:30",
+      "text": "γαμίζονται, ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 32,
+      "reference": "Mt 22:32",
+      "text": "νεκρῶν ἀλλὰ ζώντων.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Mt 24:6",
+      "text": "γενέσθαι, ἀλλ’ οὔπω",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 39,
+      "reference": "Mt 26:39",
+      "text": "θέλω ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 24,
+      "reference": "Mt 27:24",
+      "text": "ὠφελεῖ ἀλλὰ μᾶλλον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 44,
+      "reference": "Mk 1:44",
+      "text": "εἴπῃς, ἀλλὰ ὕπαγε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "εἰσελθεῖν, ἀλλὰ ἔξω",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Mk 2:17",
+      "text": "ἰατροῦ ἀλλ’ οἱ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mk 2:22",
+      "text": "ἀσκοί. ἀλλὰ οἶνον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Mk 3:26",
+      "text": "στῆναι ἀλλὰ τέλος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Mk 3:27",
+      "text": "ἀλλ’ οὐδεὶς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Mk 3:29",
+      "text": "αἰῶνα, ἀλλὰ ἔνοχός",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Mk 4:17",
+      "text": "ἑαυτοῖς ἀλλὰ πρόσκαιροί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Mk 4:22",
+      "text": "ἀπόκρυφον ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mk 5:19",
+      "text": "αὐτόν, ἀλλὰ λέγει",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mk 5:26",
+      "text": "ὠφεληθεῖσα ἀλλὰ μᾶλλον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Mk 5:39",
+      "text": "ἀπέθανεν ἀλλὰ καθεύδει.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Mk 6:9",
+      "text": "ἀλλὰ ὑποδεδεμένους",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 52,
+      "reference": "Mk 6:52",
+      "text": "ἄρτοις, ἀλλ’ ἦν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Mk 7:5",
+      "text": "πρεσβυτέρων, ἀλλὰ κοιναῖς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Mk 7:15",
+      "text": "αὐτόν· ἀλλὰ τὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Mk 7:19",
+      "text": "καρδίαν ἀλλ’ εἰς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Mk 7:25",
+      "text": "ἀλλ’ εὐθὺς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Mk 8:33",
+      "text": "θεοῦ ἀλλὰ τὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Mk 9:8",
+      "text": "εἶδον ἀλλὰ τὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Mk 9:13",
+      "text": "ἀλλὰ λέγω",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mk 9:22",
+      "text": "αὐτόν· ἀλλ’ εἴ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Mk 9:37",
+      "text": "δέχεται ἀλλὰ τὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Mk 10:8",
+      "text": "δύο ἀλλὰ μία",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Mk 10:27",
+      "text": "ἀδύνατον ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Mk 10:40",
+      "text": "δοῦναι, ἀλλ’ οἷς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 43,
+      "reference": "Mk 10:43",
+      "text": "ὑμῖν· ἀλλ’ ὃς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 45,
+      "reference": "Mk 10:45",
+      "text": "διακονηθῆναι ἀλλὰ διακονῆσαι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mk 11:23",
+      "text": "αὐτοῦ ἀλλὰ πιστεύῃ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Mk 11:32",
+      "text": "ἀλλὰ εἴπωμεν·",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "ἀνθρώπων, ἀλλ’ ἐπ’",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mk 12:25",
+      "text": "γαμίζονται, ἀλλ’ εἰσὶν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Mk 12:27",
+      "text": "νεκρῶν ἀλλὰ ζώντων·",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Mk 13:7",
+      "text": "γενέσθαι, ἀλλ’ οὔπω",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mk 13:11",
+      "text": "λαλήσητε, ἀλλ’ ὃ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Mk 13:20",
+      "text": "σάρξ. ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Mk 13:24",
+      "text": "Ἀλλὰ ἐν",
+      "highlightedWord": "Ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Mk 14:28",
+      "text": "ἀλλὰ μετὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Mk 14:29",
+      "text": "σκανδαλισθήσονται, ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 36,
+      "reference": "Mk 14:36",
+      "text": "ἐμοῦ· ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 49,
+      "reference": "Mk 14:49",
+      "text": "με· ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Mk 16:7",
+      "text": "ἀλλὰ ὑπάγετε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 60,
+      "reference": "Lk 1:60",
+      "text": "Οὐχί, ἀλλὰ κληθήσεται",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Lk 5:14",
+      "text": "εἰπεῖν, ἀλλὰ ἀπελθὼν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Lk 5:31",
+      "text": "ἰατροῦ ἀλλὰ οἱ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "Lk 5:32",
+      "text": "δικαίους ἀλλὰ ἁμαρτωλοὺς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Lk 5:38",
+      "text": "ἀλλὰ οἶνον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Lk 6:27",
+      "text": "Ἀλλὰ ὑμῖν",
+      "highlightedWord": "Ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Lk 7:7",
+      "text": "ἐλθεῖν· ἀλλὰ εἰπὲ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Lk 7:25",
+      "text": "ἀλλὰ τί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Lk 7:26",
+      "text": "ἀλλὰ τί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Lk 8:16",
+      "text": "τίθησιν, ἀλλ’ ἐπὶ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Lk 8:27",
+      "text": "ἔμενεν ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Lk 8:52",
+      "text": "ἀπέθανεν ἀλλὰ καθεύδει.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Lk 11:33",
+      "text": "μόδιον ἀλλ’ ἐπὶ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 42,
+      "reference": "Lk 11:42",
+      "text": "Ἀλλὰ οὐαὶ",
+      "highlightedWord": "Ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Lk 12:7",
+      "text": "ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 51,
+      "reference": "Lk 12:51",
+      "text": "ὑμῖν, ἀλλ’ ἢ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Lk 13:3",
+      "text": "ὑμῖν, ἀλλ’ ἐὰν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Lk 13:5",
+      "text": "ὑμῖν, ἀλλ’ ἐὰν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Lk 14:10",
+      "text": "ἀλλ’ ὅταν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Lk 14:13",
+      "text": "ἀλλ’ ὅταν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Lk 16:21",
+      "text": "πλουσίου· ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Lk 16:30",
+      "text": "Ἀβραάμ, ἀλλ’ ἐάν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Lk 17:8",
+      "text": "ἀλλ’ οὐχὶ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Lk 18:13",
+      "text": "οὐρανόν, ἀλλ’ ἔτυπτε",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Lk 20:21",
+      "text": "πρόσωπον, ἀλλ’ ἐπ’",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 38,
+      "reference": "Lk 20:38",
+      "text": "νεκρῶν ἀλλὰ ζώντων,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Lk 21:9",
+      "text": "πρῶτον, ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 26,
+      "reference": "Lk 22:26",
+      "text": "οὕτως, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 36,
+      "reference": "Lk 22:36",
+      "text": "αὐτοῖς· Ἀλλὰ νῦν",
+      "highlightedWord": "Ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 42,
+      "reference": "Lk 22:42",
+      "text": "μου ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 53,
+      "reference": "Lk 22:53",
+      "text": "ἐμέ· ἀλλ’ αὕτη",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Lk 23:15",
+      "text": "ἀλλ’ οὐδὲ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Lk 24:6",
+      "text": "ὧδε, ἀλλὰ ἠγέρθη.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Lk 24:21",
+      "text": "Ἰσραήλ· ἀλλά γε",
+      "highlightedWord": "ἀλλά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Lk 24:22",
+      "text": "ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Jn 1:8",
+      "text": "φῶς, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jn 1:13",
+      "text": "ἀνδρὸς ἀλλ’ ἐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Jn 1:31",
+      "text": "αὐτόν, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Jn 1:33",
+      "text": "αὐτόν, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jn 3:8",
+      "text": "ἀκούεις, ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Jn 3:16",
+      "text": "ἀπόληται ἀλλὰ ἔχῃ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Jn 3:17",
+      "text": "κόσμον, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Jn 3:28",
+      "text": "χριστός, ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 36,
+      "reference": "Jn 3:36",
+      "text": "ζωήν, ἀλλ’ ἡ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Jn 4:2",
+      "text": "ἐβάπτιζεν ἀλλ’ οἱ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Jn 4:14",
+      "text": "αἰῶνα, ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Jn 4:23",
+      "text": "ἀλλὰ ἔρχεται",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Jn 5:18",
+      "text": "σάββατον, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Jn 5:22",
+      "text": "οὐδένα, ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Jn 5:24",
+      "text": "ἔρχεται ἀλλὰ μεταβέβηκεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Jn 5:30",
+      "text": "ἐμὸν ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Jn 5:34",
+      "text": "λαμβάνω, ἀλλὰ ταῦτα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Jn 5:42",
+      "text": "ἀλλὰ ἔγνωκα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Jn 6:9",
+      "text": "ὀψάρια· ἀλλὰ ταῦτα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "πλοῖον ἀλλὰ μόνοι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Jn 6:23",
+      "text": "ἀλλὰ ἦλθεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 26,
+      "reference": "Jn 6:26",
+      "text": "σημεῖα ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Jn 6:27",
+      "text": "ἀπολλυμένην ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Jn 6:32",
+      "text": "οὐρανοῦ, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 36,
+      "reference": "Jn 6:36",
+      "text": "ἀλλ’ εἶπον",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Jn 6:38",
+      "text": "ἐμὸν ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Jn 6:39",
+      "text": "αὐτοῦ ἀλλὰ ἀναστήσω",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 64,
+      "reference": "Jn 6:64",
+      "text": "ἀλλὰ εἰσὶν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Jn 7:10",
+      "text": "φανερῶς ἀλλὰ ὡς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Jn 7:12",
+      "text": "Οὔ, ἀλλὰ πλανᾷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Jn 7:16",
+      "text": "ἐμὴ ἀλλὰ τοῦ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Jn 7:22",
+      "text": "ἐστὶν ἀλλ’ ἐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Jn 7:24",
+      "text": "ὄψιν, ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Jn 7:27",
+      "text": "ἀλλὰ τοῦτον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Jn 7:28",
+      "text": "ἐλήλυθα, ἀλλ’ ἔστιν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Jn 7:44",
+      "text": "αὐτόν, ἀλλ’ οὐδεὶς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Jn 7:49",
+      "text": "ἀλλὰ ὁ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Jn 8:12",
+      "text": "σκοτίᾳ, ἀλλ’ ἕξει",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Jn 8:16",
+      "text": "εἰμί, ἀλλ’ ἐγὼ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Jn 8:26",
+      "text": "κρίνειν· ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "οὐδέν, ἀλλὰ καθὼς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Jn 8:37",
+      "text": "ἐστε· ἀλλὰ ζητεῖτέ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 42,
+      "reference": "Jn 8:42",
+      "text": "ἐλήλυθα, ἀλλ’ ἐκεῖνός",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 49,
+      "reference": "Jn 8:49",
+      "text": "ἔχω, ἀλλὰ τιμῶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 55,
+      "reference": "Jn 8:55",
+      "text": "ψεύστης· ἀλλὰ οἶδα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Jn 9:3",
+      "text": "αὐτοῦ, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Jn 9:9",
+      "text": "Οὐχί, ἀλλὰ ὅμοιος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Jn 9:31",
+      "text": "ἀκούει, ἀλλ’ ἐάν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Jn 10:1",
+      "text": "προβάτων ἀλλὰ ἀναβαίνων",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Jn 10:5",
+      "text": "ἀκολουθήσουσιν ἀλλὰ φεύξονται",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Jn 10:8",
+      "text": "λῃσταί· ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Jn 10:18",
+      "text": "ἐμοῦ, ἀλλ’ ἐγὼ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Jn 10:26",
+      "text": "ἀλλὰ ὑμεῖς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Jn 10:33",
+      "text": "σε ἀλλὰ περὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Jn 11:4",
+      "text": "θάνατον ἀλλ’ ὑπὲρ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Jn 11:11",
+      "text": "κεκοίμηται, ἀλλὰ πορεύομαι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Jn 11:15",
+      "text": "ἐκεῖ· ἀλλὰ ἄγωμεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Jn 11:30",
+      "text": "κώμην, ἀλλ’ ἦν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 42,
+      "reference": "Jn 11:42",
+      "text": "ἀκούεις· ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 51,
+      "reference": "Jn 11:51",
+      "text": "εἶπεν, ἀλλὰ ἀρχιερεὺς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 52,
+      "reference": "Jn 11:52",
+      "text": "μόνον, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 54,
+      "reference": "Jn 11:54",
+      "text": "Ἰουδαίοις, ἀλλὰ ἀπῆλθεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Jn 12:6",
+      "text": "αὐτῷ, ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Jn 12:9",
+      "text": "μόνον, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Jn 12:16",
+      "text": "πρῶτον, ἀλλ’ ὅτε",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Jn 12:27",
+      "text": "ταύτης. ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "Jn 12:30",
+      "text": "γέγονεν ἀλλὰ δι’",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Jn 12:42",
+      "text": "αὐτόν, ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 44,
+      "reference": "Jn 12:44",
+      "text": "ἐμὲ ἀλλὰ εἰς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Jn 12:47",
+      "text": "κόσμον ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 49,
+      "reference": "Jn 12:49",
+      "text": "ἐλάλησα, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Jn 13:9",
+      "text": "μόνον ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Jn 13:10",
+      "text": "νίψασθαι, ἀλλ’ ἔστιν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Jn 13:18",
+      "text": "ἐξελεξάμην· ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Jn 14:24",
+      "text": "ἐμὸς ἀλλὰ τοῦ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Jn 14:31",
+      "text": "ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Jn 15:16",
+      "text": "ἐξελέξασθε, ἀλλ’ ἐγὼ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Jn 15:19",
+      "text": "ἐστέ, ἀλλ’ ἐγὼ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Jn 15:21",
+      "text": "ἀλλὰ ταῦτα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Jn 15:25",
+      "text": "ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Jn 16:2",
+      "text": "ὑμᾶς· ἀλλ’ ἔρχεται",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Jn 16:4",
+      "text": "ἀλλὰ ταῦτα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Jn 16:6",
+      "text": "ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Jn 16:7",
+      "text": "ἀλλ’ ἐγὼ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Jn 16:12",
+      "text": "λέγειν, ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Jn 16:13",
+      "text": "ἑαυτοῦ, ἀλλ’ ὅσα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Jn 16:20",
+      "text": "λυπηθήσεσθε, ἀλλ’ ἡ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Jn 16:25",
+      "text": "ὑμῖν ἀλλὰ παρρησίᾳ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Jn 16:33",
+      "text": "ἔχετε, ἀλλὰ θαρσεῖτε,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Jn 17:9",
+      "text": "ἐρωτῶ ἀλλὰ περὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Jn 17:15",
+      "text": "κόσμου ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Jn 17:20",
+      "text": "μόνον, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Jn 18:28",
+      "text": "μιανθῶσιν ἀλλὰ φάγωσιν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 40,
+      "reference": "Jn 18:40",
+      "text": "τοῦτον ἀλλὰ τὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Jn 19:21",
+      "text": "Ἰουδαίων, ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Jn 19:24",
+      "text": "αὐτόν, ἀλλὰ λάχωμεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Jn 19:34",
+      "text": "ἀλλ’ εἷς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Jn 20:7",
+      "text": "κείμενον ἀλλὰ χωρὶς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Jn 20:27",
+      "text": "ἄπιστος ἀλλὰ πιστός.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Jn 21:8",
+      "text": "γῆς ἀλλὰ ὡς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Jn 21:23",
+      "text": "ἀποθνῄσκει ἀλλ’· Ἐὰν",
+      "highlightedWord": "ἀλλ’·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Ac 1:4",
+      "text": "χωρίζεσθαι, ἀλλὰ περιμένειν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ac 1:8",
+      "text": "ἀλλὰ λήμψεσθε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ac 2:16",
+      "text": "ἀλλὰ τοῦτό",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ac 4:17",
+      "text": "ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Ac 4:32",
+      "text": "εἶναι, ἀλλ’ ἦν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Ac 5:4",
+      "text": "ἀνθρώποις ἀλλὰ τῷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ac 5:13",
+      "text": "αὐτοῖς, ἀλλ’ ἐμεγάλυνεν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Ac 7:39",
+      "text": "ἡμῶν, ἀλλὰ ἀπώσαντο",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 48,
+      "reference": "Ac 7:48",
+      "text": "ἀλλ’ οὐχ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Ac 9:6",
+      "text": "ἀλλὰ ἀνάστηθι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Ac 10:20",
+      "text": "ἀλλὰ ἀναστὰς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Ac 10:35",
+      "text": "ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 41,
+      "reference": "Ac 10:41",
+      "text": "λαῷ ἀλλὰ μάρτυσι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Ac 13:25",
+      "text": "ἐγώ· ἀλλ’ ἰδοὺ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Ac 15:11",
+      "text": "ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Ac 15:20",
+      "text": "ἀλλὰ ἐπιστεῖλαι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 37,
+      "reference": "Ac 16:37",
+      "text": "γάρ, ἀλλὰ ἐλθόντες",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Ac 18:9",
+      "text": "φοβοῦ, ἀλλὰ λάλει",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Ac 18:21",
+      "text": "ἀλλὰ ἀποταξάμενος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Ac 19:2",
+      "text": "αὐτόν· Ἀλλ’ οὐδ’",
+      "highlightedWord": "Ἀλλ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Ac 19:26",
+      "text": "Ἐφέσου ἀλλὰ σχεδὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Ac 19:27",
+      "text": "ἐλθεῖν, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Ac 20:24",
+      "text": "ἀλλ’ οὐδενὸς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Ac 21:13",
+      "text": "δεθῆναι ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Ac 21:24",
+      "text": "ἐστιν, ἀλλὰ στοιχεῖς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 16,
+      "reference": "Ac 26:16",
+      "text": "ἀλλὰ ἀνάστηθι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 20,
+      "reference": "Ac 26:20",
+      "text": "ἀλλὰ τοῖς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 25,
+      "reference": "Ac 26:25",
+      "text": "Φῆστε, ἀλλὰ ἀληθείας",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 29,
+      "reference": "Ac 26:29",
+      "text": "σὲ ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 10,
+      "reference": "Ac 27:10",
+      "text": "πλοίου ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Ro 1:21",
+      "text": "ηὐχαρίστησαν, ἀλλὰ ἐματαιώθησαν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Ro 1:32",
+      "text": "ποιοῦσιν ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Ro 2:13",
+      "text": "θεῷ, ἀλλ’ οἱ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Ro 2:29",
+      "text": "ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Ro 3:27",
+      "text": "οὐχί, ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Ro 3:31",
+      "text": "γένοιτο, ἀλλὰ νόμον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Ro 4:2",
+      "text": "καύχημα· ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Ro 4:4",
+      "text": "χάριν ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Ro 4:10",
+      "text": "περιτομῇ ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ro 4:12",
+      "text": "μόνον ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Ro 4:13",
+      "text": "κόσμου, ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ro 4:16",
+      "text": "μόνον ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Ro 4:20",
+      "text": "ἀπιστίᾳ ἀλλὰ ἐνεδυναμώθη",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Ro 4:24",
+      "text": "ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ro 5:3",
+      "text": "δέ, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Ro 5:11",
+      "text": "δέ, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Ro 5:14",
+      "text": "ἀλλὰ ἐβασίλευσεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ro 5:15",
+      "text": "Ἀλλ’ οὐχ",
+      "highlightedWord": "Ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Ro 6:5",
+      "text": "αὐτοῦ, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ro 6:13",
+      "text": "ἁμαρτίᾳ, ἀλλὰ παραστήσατε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Ro 6:14",
+      "text": "νόμον ἀλλὰ ὑπὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Ro 6:15",
+      "text": "νόμον ἀλλὰ ὑπὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ro 7:7",
+      "text": "γένοιτο· ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Ro 7:13",
+      "text": "γένοιτο· ἀλλὰ ἡ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Ro 7:15",
+      "text": "πράσσω, ἀλλ’ ὃ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Ro 7:17",
+      "text": "αὐτὸ ἀλλὰ ἡ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Ro 7:19",
+      "text": "ἀγαθόν, ἀλλὰ ὃ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Ro 7:20",
+      "text": "αὐτὸ ἀλλὰ ἡ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Ro 8:4",
+      "text": "περιπατοῦσιν ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ro 8:9",
+      "text": "σαρκὶ ἀλλὰ ἐν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Ro 8:15",
+      "text": "φόβον, ἀλλὰ ἐλάβετε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Ro 8:20",
+      "text": "ἑκοῦσα ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Ro 8:23",
+      "text": "δέ, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Ro 8:26",
+      "text": "οἴδαμεν, ἀλλὰ αὐτὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Ro 8:32",
+      "text": "ἐφείσατο, ἀλλὰ ὑπὲρ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Ro 8:37",
+      "text": "ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Ro 9:7",
+      "text": "τέκνα, ἀλλ’· Ἐν",
+      "highlightedWord": "ἀλλ’·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Ro 9:8",
+      "text": "θεοῦ, ἀλλὰ τὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Ro 9:10",
+      "text": "δέ, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Ro 9:12",
+      "text": "ἔργων ἀλλ’ ἐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Ro 9:16",
+      "text": "τρέχοντος ἀλλὰ τοῦ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Ro 9:24",
+      "text": "Ἰουδαίων ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Ro 9:32",
+      "text": "πίστεως ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Ro 10:2",
+      "text": "ἔχουσιν· ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Ro 10:8",
+      "text": "ἀλλὰ τί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Ro 10:16",
+      "text": "ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Ro 10:18",
+      "text": "Ἀλλὰ λέγω,",
+      "highlightedWord": "Ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Ro 10:19",
+      "text": "ἀλλὰ λέγω,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Ro 11:4",
+      "text": "ἀλλὰ τί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Ro 11:11",
+      "text": "γένοιτο· ἀλλὰ τῷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Ro 11:18",
+      "text": "βαστάζεις ἀλλὰ ἡ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Ro 11:20",
+      "text": "φρόνει, ἀλλὰ φοβοῦ·",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Ro 12:2",
+      "text": "τούτῳ, ἀλλὰ μεταμορφοῦσθε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Ro 12:3",
+      "text": "φρονεῖν, ἀλλὰ φρονεῖν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Ro 12:16",
+      "text": "φρονοῦντες ἀλλὰ τοῖς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Ro 12:19",
+      "text": "ἀγαπητοί, ἀλλὰ δότε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Ro 12:20",
+      "text": "ἀλλὰ ἐὰν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Ro 12:21",
+      "text": "κακοῦ, ἀλλὰ νίκα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ro 13:3",
+      "text": "ἔργῳ ἀλλὰ τῷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Ro 13:5",
+      "text": "ὀργὴν ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Ro 13:14",
+      "text": "ἀλλὰ ἐνδύσασθε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Ro 14:13",
+      "text": "κρίνωμεν· ἀλλὰ τοῦτο",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Ro 14:17",
+      "text": "πόσις, ἀλλὰ δικαιοσύνη",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ro 14:20",
+      "text": "καθαρά, ἀλλὰ κακὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Ro 15:3",
+      "text": "ἤρεσεν· ἀλλὰ καθὼς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Ro 15:21",
+      "text": "ἀλλὰ καθὼς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Ro 16:4",
+      "text": "εὐχαριστῶ ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ro 16:18",
+      "text": "δουλεύουσιν ἀλλὰ τῇ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Co 1:17",
+      "text": "βαπτίζειν ἀλλὰ εὐαγγελίζεσθαι,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "1Co 1:27",
+      "text": "ἀλλὰ τὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Co 2:4",
+      "text": "σοφίας ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Co 2:5",
+      "text": "ἀνθρώπων ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Co 2:7",
+      "text": "ἀλλὰ λαλοῦμεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Co 2:9",
+      "text": "ἀλλὰ καθὼς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Co 2:12",
+      "text": "ἐλάβομεν ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Co 2:13",
+      "text": "λόγοις, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Co 3:1",
+      "text": "πνευματικοῖς ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Co 3:2",
+      "text": "ἐδύνασθε. ἀλλ’ οὐδὲ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Co 3:6",
+      "text": "ἐπότισεν, ἀλλὰ ὁ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Co 3:7",
+      "text": "ποτίζων, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Co 4:3",
+      "text": "ἡμέρας· ἀλλ’ οὐδὲ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Co 4:4",
+      "text": "σύνοιδα, ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Co 4:14",
+      "text": "ταῦτα, ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Co 4:15",
+      "text": "Χριστῷ, ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Co 4:19",
+      "text": "πεφυσιωμένων ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "1Co 4:20",
+      "text": "θεοῦ ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Co 5:8",
+      "text": "πονηρίας, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "1Co 6:6",
+      "text": "ἀλλὰ ἀδελφὸς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "1Co 6:8",
+      "text": "ἀλλὰ ὑμεῖς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "1Co 6:11",
+      "text": "ἦτε· ἀλλὰ ἀπελούσασθε,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "1Co 6:12",
+      "text": "ἔξεστιν· ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "1Co 6:13",
+      "text": "πορνείᾳ ἀλλὰ τῷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "1Co 7:4",
+      "text": "ἐξουσιάζει ἀλλὰ ὁ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "1Co 7:7",
+      "text": "ἐμαυτόν· ἀλλὰ ἕκαστος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "1Co 7:10",
+      "text": "ἐγὼ ἀλλὰ ὁ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "1Co 7:19",
+      "text": "ἐστιν, ἀλλὰ τήρησις",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "1Co 7:21",
+      "text": "μελέτω· ἀλλ’ εἰ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "1Co 7:35",
+      "text": "ἐπιβάλω, ἀλλὰ πρὸς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "1Co 8:6",
+      "text": "ἀλλ’ ἡμῖν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "1Co 8:7",
+      "text": "Ἀλλ’ οὐκ",
+      "highlightedWord": "Ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "1Co 9:2",
+      "text": "ἀπόστολος, ἀλλά γε",
+      "highlightedWord": "ἀλλά"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "1Co 9:12",
+      "text": "ἡμεῖς; Ἀλλ’ οὐκ",
+      "highlightedWord": "Ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "1Co 9:21",
+      "text": "θεοῦ ἀλλ’ ἔννομος",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "1Co 9:27",
+      "text": "ἀλλὰ ὑπωπιάζω",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "1Co 10:5",
+      "text": "ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "1Co 10:13",
+      "text": "δύνασθε, ἀλλὰ ποιήσει",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "1Co 10:20",
+      "text": "ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "1Co 10:23",
+      "text": "ἔξεστιν· ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "1Co 10:24",
+      "text": "ζητείτω ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "1Co 10:29",
+      "text": "ἑαυτοῦ ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "1Co 10:33",
+      "text": "σύμφορον ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "1Co 11:8",
+      "text": "γυναικός, ἀλλὰ γυνὴ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "1Co 11:9",
+      "text": "γυναῖκα, ἀλλὰ γυνὴ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "1Co 11:17",
+      "text": "κρεῖσσον ἀλλὰ εἰς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "1Co 12:14",
+      "text": "μέλος ἀλλὰ πολλά.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "1Co 12:22",
+      "text": "ἀλλὰ πολλῷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "1Co 12:24",
+      "text": "ἔχει. ἀλλὰ ὁ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "1Co 12:25",
+      "text": "σώματι, ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "1Co 14:2",
+      "text": "λαλεῖ ἀλλὰ θεῷ,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "1Co 14:17",
+      "text": "εὐχαριστεῖς, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "1Co 14:19",
+      "text": "ἀλλὰ ἐν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "1Co 14:20",
+      "text": "φρεσίν, ἀλλὰ τῇ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "1Co 14:22",
+      "text": "πιστεύουσιν ἀλλὰ τοῖς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 33,
+      "reference": "1Co 14:33",
+      "text": "θεὸς ἀλλὰ εἰρήνης),",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 34,
+      "reference": "1Co 14:34",
+      "text": "λαλεῖν· ἀλλὰ ὑποτασσέσθωσαν,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "1Co 15:10",
+      "text": "ἐγενήθη, ἀλλὰ περισσότερον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 35,
+      "reference": "1Co 15:35",
+      "text": "Ἀλλὰ ἐρεῖ",
+      "highlightedWord": "Ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "1Co 15:37",
+      "text": "σπείρεις ἀλλὰ γυμνὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 39,
+      "reference": "1Co 15:39",
+      "text": "σάρξ, ἀλλὰ ἄλλη",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 40,
+      "reference": "1Co 15:40",
+      "text": "ἐπίγεια· ἀλλὰ ἑτέρα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 46,
+      "reference": "1Co 15:46",
+      "text": "ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Co 1:9",
+      "text": "ἀλλὰ αὐτοὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Co 1:12",
+      "text": "σαρκικῇ ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Co 1:13",
+      "text": "ὑμῖν ἀλλ’ ἢ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "2Co 1:19",
+      "text": "Οὒ, ἀλλὰ Ναὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "2Co 1:24",
+      "text": "πίστεως, ἀλλὰ συνεργοί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Co 2:4",
+      "text": "λυπηθῆτε, ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Co 2:5",
+      "text": "λελύπηκεν, ἀλλὰ ἀπὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Co 2:13",
+      "text": "μου, ἀλλὰ ἀποταξάμενος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "2Co 2:17",
+      "text": "θεοῦ, ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Co 3:3",
+      "text": "μέλανι ἀλλὰ πνεύματι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Co 3:5",
+      "text": "αὑτῶν, ἀλλ’ ἡ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "2Co 3:6",
+      "text": "γράμματος ἀλλὰ πνεύματος,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Co 3:14",
+      "text": "ἀλλὰ ἐπωρώθη",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Co 3:15",
+      "text": "ἀλλ’ ἕως",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Co 4:2",
+      "text": "ἀλλὰ ἀπειπάμεθα",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "2Co 4:5",
+      "text": "κηρύσσομεν ἀλλὰ Χριστὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "2Co 4:8",
+      "text": "θλιβόμενοι ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "2Co 4:9",
+      "text": "διωκόμενοι ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Co 4:16",
+      "text": "ἐγκακοῦμεν, ἀλλ’ εἰ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "2Co 4:18",
+      "text": "βλεπόμενα ἀλλὰ τὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "2Co 5:4",
+      "text": "ἐκδύσασθαι ἀλλ’ ἐπενδύσασθαι,",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "2Co 5:12",
+      "text": "ὑμῖν, ἀλλὰ ἀφορμὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "2Co 5:15",
+      "text": "ζῶσιν ἀλλὰ τῷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "2Co 5:16",
+      "text": "Χριστόν, ἀλλὰ νῦν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "2Co 6:4",
+      "text": "ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "2Co 7:5",
+      "text": "ἡμῶν, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "2Co 7:6",
+      "text": "ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "2Co 7:7",
+      "text": "αὐτοῦ, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "2Co 7:9",
+      "text": "ἐλυπήθητε, ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "2Co 7:11",
+      "text": "σπουδήν, ἀλλὰ ἀπολογίαν,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "2Co 7:12",
+      "text": "ἀδικηθέντος, ἀλλ’ 1ἕνεκεν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "2Co 7:14",
+      "text": "κατῃσχύνθην, ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "2Co 8:5",
+      "text": "ἠλπίσαμεν ἀλλ’ ἑαυτοὺς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "2Co 8:7",
+      "text": "ἀλλ’ ὥσπερ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "2Co 8:8",
+      "text": "λέγω ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "2Co 8:10",
+      "text": "ποιῆσαι ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "2Co 8:13",
+      "text": "θλῖψις· ἀλλ’ ἐξ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "2Co 8:19",
+      "text": "δὲ ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "2Co 8:21",
+      "text": "κυρίου ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "2Co 9:12",
+      "text": "ἁγίων, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "2Co 10:4",
+      "text": "σαρκικὰ ἀλλὰ δυνατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "2Co 10:12",
+      "text": "συνιστανόντων· ἀλλὰ αὐτοὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "2Co 10:13",
+      "text": "καυχησόμεθα, ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "2Co 10:18",
+      "text": "δόκιμος, ἀλλὰ ὃν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "2Co 11:1",
+      "text": "ἀφροσύνης· ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "2Co 11:6",
+      "text": "λόγῳ, ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "2Co 11:17",
+      "text": "λαλῶ, ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "2Co 12:14",
+      "text": "ὑμῶν ἀλλὰ ὑμᾶς,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "2Co 12:16",
+      "text": "ὑμᾶς· ἀλλὰ ὑπάρχων",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "2Co 13:3",
+      "text": "ἀσθενεῖ ἀλλὰ δυνατεῖ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "2Co 13:4",
+      "text": "ἀσθενείας, ἀλλὰ ζῇ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "2Co 13:7",
+      "text": "φανῶμεν, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "2Co 13:8",
+      "text": "ἀληθείας, ἀλλὰ ὑπὲρ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Ga 1:1",
+      "text": "ἀνθρώπου ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ga 1:8",
+      "text": "ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ga 1:12",
+      "text": "ἐδιδάχθην, ἀλλὰ δι’",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Ga 1:17",
+      "text": "ἀποστόλους, ἀλλὰ ἀπῆλθον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Ga 2:3",
+      "text": "ἀλλ’ οὐδὲ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Ga 2:7",
+      "text": "ἀλλὰ τοὐναντίον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ga 2:14",
+      "text": "ἀλλ’ ὅτε",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Ga 3:12",
+      "text": "πίστεως, ἀλλ’· Ὁ",
+      "highlightedWord": "ἀλλ’·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Ga 3:16",
+      "text": "πολλῶν, ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Ga 3:22",
+      "text": "ἀλλὰ συνέκλεισεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Ga 4:2",
+      "text": "ἀλλὰ ὑπὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ga 4:7",
+      "text": "δοῦλος ἀλλὰ υἱός·",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Ga 4:8",
+      "text": "Ἀλλὰ τότε",
+      "highlightedWord": "Ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ga 4:14",
+      "text": "ἐξεπτύσατε, ἀλλὰ ὡς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ga 4:17",
+      "text": "καλῶς, ἀλλὰ ἐκκλεῖσαι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Ga 4:23",
+      "text": "ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Ga 4:29",
+      "text": "ἀλλ’ ὥσπερ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Ga 4:30",
+      "text": "ἀλλὰ τί",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Ga 4:31",
+      "text": "τέκνα ἀλλὰ τῆς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Ga 5:6",
+      "text": "ἀκροβυστία, ἀλλὰ πίστις",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ga 5:13",
+      "text": "σαρκί, ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ga 6:13",
+      "text": "φυλάσσουσιν, ἀλλὰ θέλουσιν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Ga 6:15",
+      "text": "ἀκροβυστία, ἀλλὰ καινὴ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Eph 1:21",
+      "text": "τούτῳ ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Eph 2:19",
+      "text": "πάροικοι, ἀλλὰ ἐστὲ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "ἐκπορευέσθω, ἀλλὰ εἴ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Eph 5:4",
+      "text": "ἀνῆκεν, ἀλλὰ μᾶλλον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Eph 5:15",
+      "text": "ἄσοφοι ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Eph 5:17",
+      "text": "ἄφρονες, ἀλλὰ συνίετε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Eph 5:18",
+      "text": "ἀσωτία, ἀλλὰ πληροῦσθε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Eph 5:24",
+      "text": "ἀλλὰ ὡς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Eph 5:27",
+      "text": "τοιούτων, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Eph 5:29",
+      "text": "ἐμίσησεν, ἀλλὰ ἐκτρέφει",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Eph 6:4",
+      "text": "ὑμῶν, ἀλλὰ ἐκτρέφετε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Eph 6:6",
+      "text": "ἀνθρωπάρεσκοι ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Eph 6:12",
+      "text": "σάρκα, ἀλλὰ πρὸς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Php 1:18",
+      "text": "χαίρω· ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Php 1:20",
+      "text": "αἰσχυνθήσομαι, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Php 1:29",
+      "text": "πιστεύειν ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Php 2:3",
+      "text": "κενοδοξίαν, ἀλλὰ τῇ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Php 2:4",
+      "text": "σκοποῦντες, ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Php 2:7",
+      "text": "ἀλλὰ ἑαυτὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Php 2:12",
+      "text": "μόνον ἀλλὰ νῦν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Php 2:17",
+      "text": "ἀλλὰ εἰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Php 2:27",
+      "text": "θανάτῳ· ἀλλὰ ὁ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Php 3:7",
+      "text": "Ἀλλὰ ἅτινα",
+      "highlightedWord": "Ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Php 3:8",
+      "text": "ἀλλὰ μενοῦνγε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Php 3:9",
+      "text": "νόμου ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Php 4:6",
+      "text": "μεριμνᾶτε, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Php 4:17",
+      "text": "δόμα, ἀλλὰ ἐπιζητῶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Col 2:5",
+      "text": "ἄπειμι, ἀλλὰ τῷ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Col 3:11",
+      "text": "ἐλεύθερος, ἀλλὰ τὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Col 3:22",
+      "text": "ἀνθρωπάρεσκοι, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Th 1:5",
+      "text": "μόνον ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "Ἀχαΐᾳ, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Th 2:2",
+      "text": "ἀλλὰ προπαθόντες",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Th 2:4",
+      "text": "ἀλλὰ καθὼς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Th 2:7",
+      "text": "ἀπόστολοι· ἀλλὰ ἐγενήθημεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Th 2:8",
+      "text": "θεοῦ ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Th 2:13",
+      "text": "ἀνθρώπων ἀλλὰ καθὼς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Th 4:7",
+      "text": "ἀκαθαρσίᾳ ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Th 4:8",
+      "text": "ἀθετεῖ ἀλλὰ τὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Th 5:6",
+      "text": "λοιποί, ἀλλὰ γρηγορῶμεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Th 5:9",
+      "text": "ὀργὴν ἀλλὰ εἰς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Th 5:15",
+      "text": "ἀποδῷ, ἀλλὰ πάντοτε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Th 2:12",
+      "text": "ἀληθείᾳ ἀλλὰ εὐδοκήσαντες",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Th 3:8",
+      "text": "τινος, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Th 3:9",
+      "text": "ἐξουσίαν, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "2Th 3:11",
+      "text": "ἐργαζομένους ἀλλὰ περιεργαζομένους·",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Th 3:15",
+      "text": "ἡγεῖσθε, ἀλλὰ νουθετεῖτε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "1Ti 1:13",
+      "text": "ὑβριστήν· ἀλλὰ ἠλεήθην,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Ti 1:16",
+      "text": "ἀλλὰ διὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "1Ti 2:10",
+      "text": "ἀλλ’ ὃ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Ti 2:12",
+      "text": "ἀνδρός, ἀλλ’ εἶναι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Ti 3:3",
+      "text": "πλήκτην, ἀλλὰ ἐπιεικῆ,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Ti 4:12",
+      "text": "καταφρονείτω, ἀλλὰ τύπος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Ti 5:1",
+      "text": "ἐπιπλήξῃς, ἀλλὰ παρακάλει",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Ti 5:13",
+      "text": "ἀργαὶ ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "1Ti 5:23",
+      "text": "ὑδροπότει, ἀλλὰ οἴνῳ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "1Ti 6:2",
+      "text": "εἰσιν· ἀλλὰ μᾶλλον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "1Ti 6:4",
+      "text": "ἐπιστάμενος, ἀλλὰ νοσῶν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "1Ti 6:17",
+      "text": "ἀδηλότητι, ἀλλ’ ἐπὶ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Ti 1:7",
+      "text": "δειλίας, ἀλλὰ δυνάμεως",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Ti 1:8",
+      "text": "αὐτοῦ, ἀλλὰ συγκακοπάθησον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Ti 1:9",
+      "text": "ἡμῶν ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Ti 1:12",
+      "text": "πάσχω, ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Ti 1:17",
+      "text": "ἀλλὰ γενόμενος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Ti 2:9",
+      "text": "κακοῦργος. ἀλλὰ ὁ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Ti 2:20",
+      "text": "ἀργυρᾶ ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "2Ti 2:24",
+      "text": "μάχεσθαι, ἀλλὰ ἤπιον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Ti 3:9",
+      "text": "ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "2Ti 4:3",
+      "text": "ἀνέξονται, ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "2Ti 4:8",
+      "text": "ἐμοὶ ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Ti 4:16",
+      "text": "παρεγένετο, ἀλλὰ πάντες",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Tit 1:8",
+      "text": "ἀλλὰ φιλόξενον,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Tit 1:15",
+      "text": "καθαρόν, ἀλλὰ μεμίανται",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Tit 2:10",
+      "text": "νοσφιζομένους, ἀλλὰ πᾶσαν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Tit 3:5",
+      "text": "ἡμεῖς ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Phm 1:14",
+      "text": "ᾖ ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Phm 1:16",
+      "text": "δοῦλον ἀλλὰ ὑπὲρ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Heb 2:16",
+      "text": "ἐπιλαμβάνεται, ἀλλὰ σπέρματος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "ἀλλὰ παρακαλεῖτε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Heb 3:16",
+      "text": "παρεπίκραναν; ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Heb 4:2",
+      "text": "κἀκεῖνοι, ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Heb 5:4",
+      "text": "τιμήν, ἀλλὰ καλούμενος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Heb 5:5",
+      "text": "ἀρχιερέα, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Heb 7:16",
+      "text": "γέγονεν ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Heb 9:24",
+      "text": "ἀληθινῶν, ἀλλ’ εἰς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Heb 10:3",
+      "text": "ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Heb 10:25",
+      "text": "τισίν, ἀλλὰ παρακαλοῦντες,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Heb 10:39",
+      "text": "ἀπώλειαν, ἀλλὰ πίστεως",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Heb 11:13",
+      "text": "ἐπαγγελίας, ἀλλὰ πόρρωθεν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Heb 12:11",
+      "text": "εἶναι ἀλλὰ λύπης,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Heb 12:22",
+      "text": "ἀλλὰ προσεληλύθατε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Heb 12:26",
+      "text": "γῆν ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Heb 13:14",
+      "text": "πόλιν, ἀλλὰ τὴν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Jas 1:25",
+      "text": "γενόμενος ἀλλὰ ποιητὴς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jas 1:26",
+      "text": "αὐτοῦ ἀλλὰ ἀπατῶν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Jas 2:18",
+      "text": "Ἀλλ’ ἐρεῖ",
+      "highlightedWord": "Ἀλλ’"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Jas 3:15",
+      "text": "κατερχομένη, ἀλλὰ ἐπίγειος,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jas 4:11",
+      "text": "νόμου ἀλλὰ κριτής.",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Pe 1:15",
+      "text": "ἀλλὰ κατὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "1Pe 1:19",
+      "text": "ἀλλὰ τιμίῳ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "1Pe 1:23",
+      "text": "φθαρτῆς ἀλλὰ ἀφθάρτου,",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Pe 2:16",
+      "text": "ἐλευθερίαν, ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "1Pe 2:18",
+      "text": "ἐπιεικέσιν ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "1Pe 2:20",
+      "text": "ὑπομενεῖτε; ἀλλ’ εἰ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "1Pe 2:25",
+      "text": "πλανώμενοι, ἀλλὰ ἐπεστράφητε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Pe 3:4",
+      "text": "ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Pe 3:14",
+      "text": "ἀλλ’ εἰ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Pe 3:16",
+      "text": "ἀλλὰ μετὰ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "1Pe 3:21",
+      "text": "ῥύπου ἀλλὰ συνειδήσεως",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Pe 4:2",
+      "text": "ἐπιθυμίαις ἀλλὰ θελήματι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Pe 4:13",
+      "text": "ἀλλὰ καθὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Pe 5:2",
+      "text": "ἀναγκαστῶς ἀλλὰ ἑκουσίως",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "1Pe 5:3",
+      "text": "κλήρων ἀλλὰ τύποι",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "2Pe 1:16",
+      "text": "παρουσίαν, ἀλλ’ ἐπόπται",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "2Pe 1:21",
+      "text": "ποτέ, ἀλλὰ ὑπὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Pe 2:4",
+      "text": "ἐφείσατο, ἀλλὰ σειραῖς",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Pe 2:5",
+      "text": "ἐφείσατο, ἀλλὰ ὄγδοον",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Pe 3:9",
+      "text": "ἡγοῦνται, ἀλλὰ μακροθυμεῖ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Jn 2:2",
+      "text": "μόνον ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Jn 2:7",
+      "text": "ὑμῖν, ἀλλ’ ἐντολὴν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Jn 2:16",
+      "text": "πατρός, ἀλλὰ ἐκ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Jn 2:19",
+      "text": "ἐξῆλθαν, ἀλλ’ οὐκ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "1Jn 2:21",
+      "text": "ἀλήθειαν, ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "1Jn 2:27",
+      "text": "ὑμᾶς· ἀλλ’ ὡς",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Jn 3:18",
+      "text": "γλώσσῃ ἀλλὰ ἐν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Jn 4:1",
+      "text": "πιστεύετε, ἀλλὰ δοκιμάζετε",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Jn 4:10",
+      "text": "θεόν, ἀλλ’ ὅτι",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Jn 4:18",
+      "text": "ἀγάπῃ, ἀλλ’ ἡ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Jn 5:6",
+      "text": "μόνον ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "1Jn 5:18",
+      "text": "ἁμαρτάνει, ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Jn 1:1",
+      "text": "μόνος ἀλλὰ καὶ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Jn 1:5",
+      "text": "σοι ἀλλὰ ἣν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Jn 1:8",
+      "text": "εἰργασάμεθα, ἀλλὰ μισθὸν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Jn 1:12",
+      "text": "μέλανος, ἀλλὰ ἐλπίζω",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "3Jn 1:9",
+      "text": "ἐκκλησίᾳ· ἀλλ’ ὁ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "3Jn 1:11",
+      "text": "κακὸν ἀλλὰ τὸ",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "3Jn 1:13",
+      "text": "σοι, ἀλλ’ οὐ",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jud 1:6",
+      "text": "ἀρχὴν ἀλλὰ ἀπολιπόντας",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Jud 1:9",
+      "text": "βλασφημίας, ἀλλὰ εἶπεν·",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Re 2:4",
+      "text": "ἀλλὰ ἔχω",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Re 2:6",
+      "text": "ἀλλὰ τοῦτο",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "πτωχείαν, ἀλλὰ πλούσιος",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "ἀλλὰ ἔχω",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "ἀλλὰ ἔχω",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Re 3:4",
+      "text": "ἀλλὰ ἔχεις",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "εἰσὶν ἀλλὰ ψεύδονται—",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "αὐτούς, ἀλλ’ ἵνα",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Re 10:7",
+      "text": "ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Re 10:9",
+      "text": "κοιλίαν, ἀλλ’ ἐν",
+      "highlightedWord": "ἀλλ’"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Re 17:12",
+      "text": "ἔλαβον, ἀλλὰ ἐξουσίαν",
+      "highlightedWord": "ἀλλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Re 20:6",
+      "text": "ἐξουσίαν, ἀλλ’ ἔσονται",
+      "highlightedWord": "ἀλλ’"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

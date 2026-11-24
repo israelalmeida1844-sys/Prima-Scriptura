@@ -1,0 +1,1116 @@
+{
+  "strong": "G243",
+  "lemma": "ἄλλος",
+  "lemmaTranslit": "allos",
+  "tokenCount": 154,
+  "verseCount": 136,
+  "bookDistribution": {
+    "Mateus": 29,
+    "Marcos": 22,
+    "Lucas": 11,
+    "João": 32,
+    "Atos": 8,
+    "1 Coríntios": 23,
+    "2 Coríntios": 4,
+    "Gálatas": 2,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 1,
+    "Hebreus": 2,
+    "Tiago": 1,
+    "Apocalipse": 18
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Mt 2:12",
+      "text": "δι’ ἄλλης ὁδοῦ",
+      "highlightedWord": "ἄλλης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Mt 4:21",
+      "text": "εἶδεν ἄλλους δύο",
+      "highlightedWord": "ἄλλους"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Mt 5:39",
+      "text": "τὴν ἄλλην·",
+      "highlightedWord": "ἄλλην·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Mt 8:9",
+      "text": "καὶ ἄλλῳ· Ἔρχου,",
+      "highlightedWord": "ἄλλῳ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Mt 12:13",
+      "text": "ἡ ἄλλη.",
+      "highlightedWord": "ἄλλη."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mt 13:5",
+      "text": "ἄλλα δὲ",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Mt 13:7",
+      "text": "ἄλλα δὲ",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Mt 13:8",
+      "text": "ἄλλα δὲ",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Mt 13:24",
+      "text": "Ἄλλην παραβολὴν",
+      "highlightedWord": "Ἄλλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Mt 13:31",
+      "text": "Ἄλλην παραβολὴν",
+      "highlightedWord": "Ἄλλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Mt 13:33",
+      "text": "Ἄλλην παραβολὴν",
+      "highlightedWord": "Ἄλλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Mt 16:14",
+      "text": "βαπτιστήν, ἄλλοι δὲ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Mt 19:9",
+      "text": "γαμήσῃ ἄλλην μοιχᾶται",
+      "highlightedWord": "ἄλλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Mt 20:3",
+      "text": "εἶδεν ἄλλους ἑστῶτας",
+      "highlightedWord": "ἄλλους"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Mt 20:6",
+      "text": "εὗρεν ἄλλους ἑστῶτας,",
+      "highlightedWord": "ἄλλους"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Mt 21:8",
+      "text": "ὁδῷ, ἄλλοι δὲ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 33,
+      "reference": "Mt 21:33",
+      "text": "Ἄλλην παραβολὴν",
+      "highlightedWord": "Ἄλλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Mt 21:36",
+      "text": "ἀπέστειλεν ἄλλους δούλους",
+      "highlightedWord": "ἄλλους"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 41,
+      "reference": "Mt 21:41",
+      "text": "ἐκδώσεται ἄλλοις γεωργοῖς,",
+      "highlightedWord": "ἄλλοις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Mt 22:4",
+      "text": "ἀπέστειλεν ἄλλους δούλους",
+      "highlightedWord": "ἄλλους"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Mt 25:16",
+      "text": "ἐκέρδησεν ἄλλα πέντε·",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 17,
+      "reference": "Mt 25:17",
+      "text": "ἐκέρδησεν ἄλλα δύο·",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 20,
+      "reference": "Mt 25:20",
+      "text": "προσήνεγκεν ἄλλα πέντε",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 22,
+      "reference": "Mt 25:22",
+      "text": "ἴδε ἄλλα δύο",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 71,
+      "reference": "Mt 26:71",
+      "text": "αὐτὸν ἄλλη καὶ",
+      "highlightedWord": "ἄλλη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 42,
+      "reference": "Mt 27:42",
+      "text": "Ἄλλους ἔσωσεν,",
+      "highlightedWord": "Ἄλλους"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 61,
+      "reference": "Mt 27:61",
+      "text": "ἡ ἄλλη Μαρία",
+      "highlightedWord": "ἄλλη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 1,
+      "reference": "Mt 28:1",
+      "text": "ἡ ἄλλη Μαρία",
+      "highlightedWord": "ἄλλη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mk 4:5",
+      "text": "καὶ ἄλλο ἔπεσεν",
+      "highlightedWord": "ἄλλο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Mk 4:7",
+      "text": "καὶ ἄλλο ἔπεσεν",
+      "highlightedWord": "ἄλλο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Mk 4:8",
+      "text": "καὶ ἄλλα ἔπεσεν",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Mk 4:18",
+      "text": "καὶ ἄλλοι εἰσὶν",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Mk 4:36",
+      "text": "καὶ ἄλλα πλοῖα",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Mk 6:15",
+      "text": "ἄλλοι δὲ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Mk 7:4",
+      "text": "καὶ ἄλλα πολλά",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Mk 8:28",
+      "text": "καὶ ἄλλοι Ἠλίαν,",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mk 10:11",
+      "text": "γαμήσῃ ἄλλην μοιχᾶται",
+      "highlightedWord": "ἄλλην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Mk 10:12",
+      "text": "γαμήσῃ ἄλλον μοιχᾶται.",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Mk 11:8",
+      "text": "ὁδόν, ἄλλοι δὲ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Mk 12:4",
+      "text": "αὐτοὺς ἄλλον δοῦλον·",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Mk 12:5",
+      "text": "καὶ ἄλλον ἀπέστειλεν·",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Mk 12:9",
+      "text": "ἀμπελῶνα ἄλλοις.",
+      "highlightedWord": "ἄλλοις."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Mk 12:31",
+      "text": "τούτων ἄλλη ἐντολὴ",
+      "highlightedWord": "ἄλλη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mk 12:32",
+      "text": "ἔστιν ἄλλος πλὴν",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 58,
+      "reference": "Mk 14:58",
+      "text": "ἡμερῶν ἄλλον ἀχειροποίητον",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mk 15:31",
+      "text": "ἔλεγον· Ἄλλους ἔσωσεν,",
+      "highlightedWord": "Ἄλλους"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 41,
+      "reference": "Mk 15:41",
+      "text": "καὶ ἄλλαι πολλαὶ",
+      "highlightedWord": "ἄλλαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Lk 5:29",
+      "text": "καὶ ἄλλων οἳ",
+      "highlightedWord": "ἄλλων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 29,
+      "reference": "Lk 6:29",
+      "text": "τὴν ἄλλην, καὶ",
+      "highlightedWord": "ἄλλην,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Lk 7:8",
+      "text": "καὶ ἄλλῳ· Ἔρχου,",
+      "highlightedWord": "ἄλλῳ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Lk 7:19",
+      "text": "ἢ ἄλλον προσδοκῶμεν;",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Lk 7:20",
+      "text": "ἢ ἄλλον προσδοκῶμεν;",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Lk 9:8",
+      "text": "ἐφάνη, ἄλλων δὲ",
+      "highlightedWord": "ἄλλων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Lk 9:19",
+      "text": "βαπτιστήν, ἄλλοι δὲ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Lk 20:16",
+      "text": "ἀμπελῶνα ἄλλοις. ἀκούσαντες",
+      "highlightedWord": "ἄλλοις."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 59,
+      "reference": "Lk 22:59",
+      "text": "μιᾶς ἄλλος τις",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 35,
+      "reference": "Lk 23:35",
+      "text": "λέγοντες· Ἄλλους ἔσωσεν,",
+      "highlightedWord": "Ἄλλους"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Jn 4:37",
+      "text": "ὅτι Ἄλλος ἐστὶν",
+      "highlightedWord": "Ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 38,
+      "reference": "Jn 4:38",
+      "text": "κεκοπιάκατε· ἄλλοι κεκοπιάκασιν,",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jn 5:7",
+      "text": "ἐγὼ ἄλλος πρὸ",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "Jn 5:32",
+      "text": "ἄλλος ἐστὶν",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Jn 5:43",
+      "text": "ἐὰν ἄλλος ἔλθῃ",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "πλοιάριον ἄλλο οὐκ",
+      "highlightedWord": "ἄλλο"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Jn 7:12",
+      "text": "ἐστιν, ἄλλοι δὲ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Jn 7:41",
+      "text": "ἄλλοι ἔλεγον·",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Jn 9:9",
+      "text": "ἄλλοι ἔλεγον",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Jn 9:16",
+      "text": "τηρεῖ. ἄλλοι ἔλεγον·",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Jn 10:16",
+      "text": "καὶ ἄλλα πρόβατα",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Jn 10:21",
+      "text": "ἄλλοι ἔλεγον·",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Jn 12:29",
+      "text": "γεγονέναι· ἄλλοι ἔλεγον·",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Jn 14:16",
+      "text": "καὶ ἄλλον παράκλητον",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Jn 15:24",
+      "text": "οὐδεὶς ἄλλος ἐποίησεν,",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Jn 18:15",
+      "text": "καὶ ἄλλος μαθητής.",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Jn 18:16",
+      "text": "ὁ ἄλλος ὁ",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 34,
+      "reference": "Jn 18:34",
+      "text": "ἢ ἄλλοι εἶπόν",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Jn 19:18",
+      "text": "αὐτοῦ ἄλλους δύο",
+      "highlightedWord": "ἄλλους"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Jn 19:32",
+      "text": "τοῦ ἄλλου τοῦ",
+      "highlightedWord": "ἄλλου"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Jn 20:2",
+      "text": "τὸν ἄλλον μαθητὴν",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Jn 20:3",
+      "text": "ὁ ἄλλος μαθητής,",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Jn 20:4",
+      "text": "ὁ ἄλλος μαθητὴς",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Jn 20:8",
+      "text": "ὁ ἄλλος μαθητὴς",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Jn 20:25",
+      "text": "οἱ ἄλλοι μαθηταί·",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Jn 20:30",
+      "text": "καὶ ἄλλα σημεῖα",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Jn 21:2",
+      "text": "καὶ ἄλλοι ἐκ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Jn 21:8",
+      "text": "δὲ ἄλλοι μαθηταὶ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Jn 21:18",
+      "text": "καὶ ἄλλος σε",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Jn 21:25",
+      "text": "καὶ ἄλλα πολλὰ",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Ac 2:12",
+      "text": "διηπόρουν, ἄλλος πρὸς",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ac 4:12",
+      "text": "ἐν ἄλλῳ οὐδενὶ",
+      "highlightedWord": "ἄλλῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ac 15:2",
+      "text": "τινας ἄλλους ἐξ",
+      "highlightedWord": "ἄλλους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Ac 19:32",
+      "text": "ἄλλοι μὲν",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Ac 21:34",
+      "text": "ἄλλοι δὲ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Co 1:16",
+      "text": "τινα ἄλλον ἐβάπτισα.",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Co 3:10",
+      "text": "ἔθηκα, ἄλλος δὲ",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Co 3:11",
+      "text": "γὰρ ἄλλον οὐδεὶς",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "1Co 9:2",
+      "text": "εἰ ἄλλοις οὐκ",
+      "highlightedWord": "ἄλλοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "1Co 9:12",
+      "text": "εἰ ἄλλοι τῆς",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "1Co 9:27",
+      "text": "πως ἄλλοις κηρύξας",
+      "highlightedWord": "ἄλλοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "1Co 10:29",
+      "text": "ὑπὸ ἄλλης συνειδήσεως;",
+      "highlightedWord": "ἄλλης"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "1Co 12:8",
+      "text": "σοφίας, ἄλλῳ δὲ",
+      "highlightedWord": "ἄλλῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "1Co 12:9",
+      "text": "πνεύματι, ἄλλῳ χαρίσματα",
+      "highlightedWord": "ἄλλῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "1Co 12:10",
+      "text": "ἄλλῳ ἐνεργήματα",
+      "highlightedWord": "ἄλλῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "1Co 14:19",
+      "text": "καὶ ἄλλους κατηχήσω,",
+      "highlightedWord": "ἄλλους"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "1Co 14:29",
+      "text": "οἱ ἄλλοι διακρινέτωσαν·",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "1Co 14:30",
+      "text": "δὲ ἄλλῳ ἀποκαλυφθῇ",
+      "highlightedWord": "ἄλλῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 39,
+      "reference": "1Co 15:39",
+      "text": "ἀλλὰ ἄλλη μὲν",
+      "highlightedWord": "ἄλλη"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 41,
+      "reference": "1Co 15:41",
+      "text": "ἄλλη δόξα",
+      "highlightedWord": "ἄλλη"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Co 1:13",
+      "text": "γὰρ ἄλλα γράφομεν",
+      "highlightedWord": "ἄλλα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "2Co 8:13",
+      "text": "ἵνα ἄλλοις ἄνεσις,",
+      "highlightedWord": "ἄλλοις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "2Co 11:4",
+      "text": "ἐρχόμενος ἄλλον Ἰησοῦν",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "2Co 11:8",
+      "text": "ἄλλας ἐκκλησίας",
+      "highlightedWord": "ἄλλας"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ga 1:7",
+      "text": "ἔστιν ἄλλο· εἰ",
+      "highlightedWord": "ἄλλο·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ga 5:10",
+      "text": "οὐδὲν ἄλλο φρονήσετε·",
+      "highlightedWord": "ἄλλο"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Php 3:4",
+      "text": "δοκεῖ ἄλλος πεποιθέναι",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Th 2:6",
+      "text": "ἀπ’ ἄλλων,",
+      "highlightedWord": "ἄλλων,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Heb 4:8",
+      "text": "περὶ ἄλλης ἐλάλει",
+      "highlightedWord": "ἄλλης"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 35,
+      "reference": "Heb 11:35",
+      "text": "αὐτῶν· ἄλλοι δὲ",
+      "highlightedWord": "ἄλλοι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jas 5:12",
+      "text": "μήτε ἄλλον τινὰ",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "ὑμᾶς ἄλλο βάρος·",
+      "highlightedWord": "ἄλλο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Re 6:4",
+      "text": "ἐξῆλθεν ἄλλος ἵππος",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "εἶδον ἄλλον ἄγγελον",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Re 8:3",
+      "text": "Καὶ ἄλλος ἄγγελος",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Re 10:1",
+      "text": "εἶδον ἄλλον ἄγγελον",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Re 12:3",
+      "text": "ὤφθη ἄλλο σημεῖον",
+      "highlightedWord": "ἄλλο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Re 13:11",
+      "text": "εἶδον ἄλλο θηρίον",
+      "highlightedWord": "ἄλλο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Re 14:6",
+      "text": "εἶδον ἄλλον ἄγγελον",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Re 14:8",
+      "text": "Καὶ ἄλλος δεύτερος",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "Καὶ ἄλλος ἄγγελος",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Re 14:15",
+      "text": "καὶ ἄλλος ἄγγελος",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Re 14:17",
+      "text": "Καὶ ἄλλος ἄγγελος",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Re 14:18",
+      "text": "καὶ ἄλλος ἄγγελος",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Re 15:1",
+      "text": "εἶδον ἄλλο σημεῖον",
+      "highlightedWord": "ἄλλο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Re 17:10",
+      "text": "ὁ ἄλλος οὔπω",
+      "highlightedWord": "ἄλλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Re 18:1",
+      "text": "εἶδον ἄλλον ἄγγελον",
+      "highlightedWord": "ἄλλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Re 18:4",
+      "text": "ἤκουσα ἄλλην φωνὴν",
+      "highlightedWord": "ἄλλην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Re 20:12",
+      "text": "καὶ ἄλλο βιβλίον",
+      "highlightedWord": "ἄλλο"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

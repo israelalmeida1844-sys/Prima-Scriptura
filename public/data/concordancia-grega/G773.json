@@ -1,0 +1,39 @@
+{
+  "strong": "G773",
+  "lemma": "Ἀσία",
+  "lemmaTranslit": "asia",
+  "tokenCount": 18,
+  "verseCount": 18,
+  "bookDistribution": {
+    "At": 12,
+    "Rm": 1,
+    "1Co": 1,
+    "2Co": 1,
+    "2Tm": 1,
+    "1Pe": 1,
+    "Ap": 1
+  },
+  "references": [
+    "At 2:9",
+    "At 6:9",
+    "At 16:6",
+    "At 19:10",
+    "At 19:22",
+    "At 19:26",
+    "At 19:27",
+    "At 20:16",
+    "At 20:18",
+    "At 21:27",
+    "At 24:19",
+    "At 27:2",
+    "Rm 16:5",
+    "1Co 16:19",
+    "2Co 1:8",
+    "2Tm 1:15",
+    "1Pe 1:1",
+    "Ap 1:4"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}

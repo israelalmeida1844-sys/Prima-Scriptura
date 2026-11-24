@@ -1,0 +1,799 @@
+{
+  "strong": "G5087",
+  "lemma": "τίθημι",
+  "lemmaTranslit": "tithēmi",
+  "tokenCount": 100,
+  "verseCount": 96,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 11,
+    "Lucas": 16,
+    "João": 18,
+    "Atos": 23,
+    "Romanos": 3,
+    "1 Coríntios": 7,
+    "2 Coríntios": 2,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 2,
+    "2 Timóteo": 1,
+    "Hebreus": 3,
+    "1 Pedro": 2,
+    "2 Pedro": 1,
+    "1 João": 2,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Mt 5:15",
+      "text": "καὶ τιθέασιν αὐτὸν",
+      "highlightedWord": "τιθέασιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Mt 12:18",
+      "text": "μου· θήσω τὸ",
+      "highlightedWord": "θήσω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 44,
+      "reference": "Mt 22:44",
+      "text": "ἂν θῶ τοὺς",
+      "highlightedWord": "θῶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 51,
+      "reference": "Mt 24:51",
+      "text": "ὑποκριτῶν θήσει· ἐκεῖ",
+      "highlightedWord": "θήσει·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 60,
+      "reference": "Mt 27:60",
+      "text": "καὶ ἔθηκεν αὐτὸ",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Mk 4:21",
+      "text": "μόδιον τεθῇ ἢ",
+      "highlightedWord": "τεθῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Mk 4:30",
+      "text": "παραβολῇ θῶμεν;",
+      "highlightedWord": "θῶμεν;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 29,
+      "reference": "Mk 6:29",
+      "text": "καὶ ἔθηκαν αὐτὸ",
+      "highlightedWord": "ἔθηκαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 56,
+      "reference": "Mk 6:56",
+      "text": "ἀγοραῖς ἐτίθεσαν τοὺς",
+      "highlightedWord": "ἐτίθεσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Mk 10:16",
+      "text": "κατευλόγει τιθεὶς τὰς",
+      "highlightedWord": "τιθεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mk 12:36",
+      "text": "ἂν θῶ τοὺς",
+      "highlightedWord": "θῶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Mk 15:19",
+      "text": "καὶ τιθέντες τὰ",
+      "highlightedWord": "τιθέντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 46,
+      "reference": "Mk 15:46",
+      "text": "καὶ ἔθηκεν αὐτὸν",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 47,
+      "reference": "Mk 15:47",
+      "text": "ποῦ τέθειται.",
+      "highlightedWord": "τέθειται."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Mk 16:6",
+      "text": "ὅπου ἔθηκαν αὐτόν·",
+      "highlightedWord": "ἔθηκαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 66,
+      "reference": "Lk 1:66",
+      "text": "καὶ ἔθεντο πάντες",
+      "highlightedWord": "ἔθεντο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Lk 5:18",
+      "text": "καὶ θεῖναι ἐνώπιον",
+      "highlightedWord": "θεῖναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Lk 6:48",
+      "text": "καὶ ἔθηκεν θεμέλιον",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Lk 8:16",
+      "text": "κλίνης τίθησιν, ἀλλ’",
+      "highlightedWord": "τίθησιν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 44,
+      "reference": "Lk 9:44",
+      "text": "Θέσθε ὑμεῖς",
+      "highlightedWord": "Θέσθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Lk 11:33",
+      "text": "κρύπτην τίθησιν οὐδὲ",
+      "highlightedWord": "τίθησιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Lk 12:46",
+      "text": "ἀπίστων θήσει.",
+      "highlightedWord": "θήσει."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Lk 14:29",
+      "text": "μήποτε θέντος αὐτοῦ",
+      "highlightedWord": "θέντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Lk 19:21",
+      "text": "οὐκ ἔθηκας καὶ",
+      "highlightedWord": "ἔθηκας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Lk 19:22",
+      "text": "οὐκ ἔθηκα καὶ",
+      "highlightedWord": "ἔθηκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 43,
+      "reference": "Lk 20:43",
+      "text": "ἂν θῶ τοὺς",
+      "highlightedWord": "θῶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Lk 21:14",
+      "text": "θέτε οὖν",
+      "highlightedWord": "θέτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 41,
+      "reference": "Lk 22:41",
+      "text": "καὶ θεὶς τὰ",
+      "highlightedWord": "θεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 53,
+      "reference": "Lk 23:53",
+      "text": "καὶ ἔθηκεν αὐτὸν",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 55,
+      "reference": "Lk 23:55",
+      "text": "ὡς ἐτέθη τὸ",
+      "highlightedWord": "ἐτέθη"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Jn 2:10",
+      "text": "οἶνον τίθησιν, καὶ",
+      "highlightedWord": "τίθησιν,"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Jn 10:11",
+      "text": "αὐτοῦ τίθησιν ὑπὲρ",
+      "highlightedWord": "τίθησιν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Jn 10:15",
+      "text": "μου τίθημι ὑπὲρ",
+      "highlightedWord": "τίθημι"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Jn 10:17",
+      "text": "ἐγὼ τίθημι τὴν",
+      "highlightedWord": "τίθημι"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Jn 10:18",
+      "text": "ἐγὼ τίθημι αὐτὴν",
+      "highlightedWord": "τίθημι"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Jn 11:34",
+      "text": "Ποῦ τεθείκατε αὐτόν;",
+      "highlightedWord": "τεθείκατε"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Jn 13:4",
+      "text": "καὶ τίθησιν τὰ",
+      "highlightedWord": "τίθησιν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 37,
+      "reference": "Jn 13:37",
+      "text": "σοῦ θήσω.",
+      "highlightedWord": "θήσω."
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 38,
+      "reference": "Jn 13:38",
+      "text": "ἐμοῦ θήσεις; ἀμὴν",
+      "highlightedWord": "θήσεις;"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Jn 15:13",
+      "text": "αὐτοῦ θῇ ὑπὲρ",
+      "highlightedWord": "θῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Jn 15:16",
+      "text": "καὶ ἔθηκα ὑμᾶς",
+      "highlightedWord": "ἔθηκα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Jn 19:19",
+      "text": "καὶ ἔθηκεν ἐπὶ",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 41,
+      "reference": "Jn 19:41",
+      "text": "ἦν τεθειμένος·",
+      "highlightedWord": "τεθειμένος·"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Jn 19:42",
+      "text": "μνημεῖον, ἔθηκαν τὸν",
+      "highlightedWord": "ἔθηκαν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Jn 20:2",
+      "text": "ποῦ ἔθηκαν αὐτόν.",
+      "highlightedWord": "ἔθηκαν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Jn 20:13",
+      "text": "ποῦ ἔθηκαν αὐτόν.",
+      "highlightedWord": "ἔθηκαν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Jn 20:15",
+      "text": "ποῦ ἔθηκας αὐτόν,",
+      "highlightedWord": "ἔθηκας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ac 1:7",
+      "text": "πατὴρ ἔθετο ἐν",
+      "highlightedWord": "ἔθετο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 35,
+      "reference": "Ac 2:35",
+      "text": "ἂν θῶ τοὺς",
+      "highlightedWord": "θῶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ac 3:2",
+      "text": "ὃν ἐτίθουν καθ’",
+      "highlightedWord": "ἐτίθουν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Ac 4:3",
+      "text": "καὶ ἔθεντο εἰς",
+      "highlightedWord": "ἔθεντο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "καὶ ἐτίθουν παρὰ",
+      "highlightedWord": "ἐτίθουν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Ac 4:37",
+      "text": "καὶ ἔθηκεν παρὰ",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ac 5:2",
+      "text": "ἀποστόλων ἔθηκεν.",
+      "highlightedWord": "ἔθηκεν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Ac 5:4",
+      "text": "ὅτι ἔθου ἐν",
+      "highlightedWord": "ἔθου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ac 5:15",
+      "text": "καὶ τιθέναι ἐπὶ",
+      "highlightedWord": "τιθέναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Ac 5:18",
+      "text": "καὶ ἔθεντο αὐτοὺς",
+      "highlightedWord": "ἔθεντο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Ac 5:25",
+      "text": "οὓς ἔθεσθε ἐν",
+      "highlightedWord": "ἔθεσθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Ac 7:16",
+      "text": "καὶ ἐτέθησαν ἐν",
+      "highlightedWord": "ἐτέθησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 60,
+      "reference": "Ac 7:60",
+      "text": "θεὶς δὲ",
+      "highlightedWord": "θεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Ac 9:37",
+      "text": "δὲ ἔθηκαν αὐτὴν",
+      "highlightedWord": "ἔθηκαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Ac 9:40",
+      "text": "καὶ θεὶς τὰ",
+      "highlightedWord": "θεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Ac 12:4",
+      "text": "πιάσας ἔθετο εἰς",
+      "highlightedWord": "ἔθετο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Ac 13:29",
+      "text": "ξύλου ἔθηκαν εἰς",
+      "highlightedWord": "ἔθηκαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 47,
+      "reference": "Ac 13:47",
+      "text": "κύριος· Τέθεικά σε",
+      "highlightedWord": "Τέθεικά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Ac 19:21",
+      "text": "ταῦτα, ἔθετο ὁ",
+      "highlightedWord": "ἔθετο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Ac 20:28",
+      "text": "ἅγιον ἔθετο ἐπισκόπους,",
+      "highlightedWord": "ἔθετο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 36,
+      "reference": "Ac 20:36",
+      "text": "εἰπὼν θεὶς τὰ",
+      "highlightedWord": "θεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Ac 21:5",
+      "text": "καὶ θέντες τὰ",
+      "highlightedWord": "θέντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Ac 27:12",
+      "text": "πλείονες ἔθεντο βουλὴν",
+      "highlightedWord": "ἔθεντο"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ro 4:17",
+      "text": "ἐθνῶν τέθεικά σε),",
+      "highlightedWord": "τέθεικά"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Ro 9:33",
+      "text": "Ἰδοὺ τίθημι ἐν",
+      "highlightedWord": "τίθημι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Ro 14:13",
+      "text": "μὴ τιθέναι πρόσκομμα",
+      "highlightedWord": "τιθέναι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Co 3:10",
+      "text": "θεμέλιον ἔθηκα, ἄλλος",
+      "highlightedWord": "ἔθηκα,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Co 3:11",
+      "text": "δύναται θεῖναι παρὰ",
+      "highlightedWord": "θεῖναι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "1Co 9:18",
+      "text": "ἀδάπανον θήσω τὸ",
+      "highlightedWord": "θήσω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "1Co 12:18",
+      "text": "θεὸς ἔθετο τὰ",
+      "highlightedWord": "ἔθετο"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "1Co 12:28",
+      "text": "μὲν ἔθετο ὁ",
+      "highlightedWord": "ἔθετο"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "1Co 15:25",
+      "text": "οὗ θῇ πάντας",
+      "highlightedWord": "θῇ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "ἑαυτῷ τιθέτω θησαυρίζων",
+      "highlightedWord": "τιθέτω"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Co 3:13",
+      "text": "Μωϋσῆς ἐτίθει κάλυμμα",
+      "highlightedWord": "ἐτίθει"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "2Co 5:19",
+      "text": "καὶ θέμενος ἐν",
+      "highlightedWord": "θέμενος"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Th 5:9",
+      "text": "οὐκ ἔθετο ἡμᾶς",
+      "highlightedWord": "ἔθετο"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "1Ti 1:12",
+      "text": "ἡγήσατο θέμενος εἰς",
+      "highlightedWord": "θέμενος"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Ti 2:7",
+      "text": "ὃ ἐτέθην ἐγὼ",
+      "highlightedWord": "ἐτέθην"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Ti 1:11",
+      "text": "ὃ ἐτέθην ἐγὼ",
+      "highlightedWord": "ἐτέθην"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Heb 1:2",
+      "text": "ὃν ἔθηκεν κληρονόμον",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Heb 1:13",
+      "text": "ἂν θῶ τοὺς",
+      "highlightedWord": "θῶ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Heb 10:13",
+      "text": "ἕως τεθῶσιν οἱ",
+      "highlightedWord": "τεθῶσιν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Pe 2:6",
+      "text": "Ἰδοὺ τίθημι ἐν",
+      "highlightedWord": "τίθημι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Pe 2:8",
+      "text": "καὶ ἐτέθησαν.",
+      "highlightedWord": "ἐτέθησαν."
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "2Pe 2:6",
+      "text": "ἀσεβέσιν τεθεικώς,",
+      "highlightedWord": "τεθεικώς,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Jn 3:16",
+      "text": "αὐτοῦ ἔθηκεν· καὶ",
+      "highlightedWord": "ἔθηκεν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "καὶ ἔθηκεν τὴν",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Re 10:2",
+      "text": "καὶ ἔθηκεν τὸν",
+      "highlightedWord": "ἔθηκεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Re 11:9",
+      "text": "ἀφίουσιν τεθῆναι εἰς",
+      "highlightedWord": "τεθῆναι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

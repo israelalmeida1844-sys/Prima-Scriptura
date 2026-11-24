@@ -1,0 +1,100 @@
+{
+  "strong": "G1501",
+  "lemma": "εἴκοσι(ν)",
+  "lemmaTranslit": "eikosin",
+  "tokenCount": 11,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Lucas": 1,
+    "João": 1,
+    "Atos": 2,
+    "1 Coríntios": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Lk 14:31",
+      "text": "μετὰ εἴκοσι χιλιάδων",
+      "highlightedWord": "εἴκοσι"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Jn 6:19",
+      "text": "σταδίους εἴκοσι πέντε",
+      "highlightedWord": "εἴκοσι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Ac 1:15",
+      "text": "ἑκατὸν εἴκοσι)·",
+      "highlightedWord": "εἴκοσι)·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 28,
+      "reference": "Ac 27:28",
+      "text": "ὀργυιὰς εἴκοσι, βραχὺ",
+      "highlightedWord": "εἴκοσι,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "1Co 10:8",
+      "text": "ἡμέρᾳ εἴκοσι τρεῖς",
+      "highlightedWord": "εἴκοσι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "θρόνοι εἴκοσι τέσσαρες,",
+      "highlightedWord": "εἴκοσι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Re 4:10",
+      "text": "οἱ εἴκοσι τέσσαρες",
+      "highlightedWord": "εἴκοσι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "οἱ εἴκοσι τέσσαρες",
+      "highlightedWord": "εἴκοσι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Re 11:16",
+      "text": "οἱ εἴκοσι τέσσαρες",
+      "highlightedWord": "εἴκοσι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Re 19:4",
+      "text": "οἱ εἴκοσι τέσσαρες",
+      "highlightedWord": "εἴκοσι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

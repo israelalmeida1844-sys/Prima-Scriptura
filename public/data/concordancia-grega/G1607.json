@@ -1,0 +1,286 @@
+{
+  "strong": "G1607",
+  "lemma": "ἐκπορεύομαι",
+  "lemmaTranslit": "ekporeuomai",
+  "tokenCount": 33,
+  "verseCount": 33,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 11,
+    "Lucas": 3,
+    "João": 2,
+    "Atos": 3,
+    "Efésios": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Mt 3:5",
+      "text": "τότε ἐξεπορεύετο πρὸς",
+      "highlightedWord": "ἐξεπορεύετο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Mt 4:4",
+      "text": "ῥήματι ἐκπορευομένῳ διὰ",
+      "highlightedWord": "ἐκπορευομένῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Mt 15:11",
+      "text": "τὸ ἐκπορευόμενον ἐκ",
+      "highlightedWord": "ἐκπορευόμενον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Mt 15:18",
+      "text": "δὲ ἐκπορευόμενα ἐκ",
+      "highlightedWord": "ἐκπορευόμενα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Mt 20:29",
+      "text": "Καὶ ἐκπορευομένων αὐτῶν",
+      "highlightedWord": "ἐκπορευομένων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Mk 1:5",
+      "text": "καὶ ἐξεπορεύετο πρὸς",
+      "highlightedWord": "ἐξεπορεύετο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Mk 6:11",
+      "text": "ὑμῶν, ἐκπορευόμενοι ἐκεῖθεν",
+      "highlightedWord": "ἐκπορευόμενοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Mk 7:15",
+      "text": "ἀνθρώπου ἐκπορευόμενά ἐστιν",
+      "highlightedWord": "ἐκπορευόμενά"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Mk 7:19",
+      "text": "ἀφεδρῶνα ἐκπορεύεται; —καθαρίζων",
+      "highlightedWord": "ἐκπορεύεται;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Mk 7:20",
+      "text": "ἀνθρώπου ἐκπορευόμενον ἐκεῖνο",
+      "highlightedWord": "ἐκπορευόμενον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mk 7:21",
+      "text": "κακοὶ ἐκπορεύονται, πορνεῖαι,",
+      "highlightedWord": "ἐκπορεύονται,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Mk 7:23",
+      "text": "ἔσωθεν ἐκπορεύεται καὶ",
+      "highlightedWord": "ἐκπορεύεται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Mk 10:17",
+      "text": "Καὶ ἐκπορευομένου αὐτοῦ",
+      "highlightedWord": "ἐκπορευομένου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 46,
+      "reference": "Mk 10:46",
+      "text": "καὶ ἐκπορευομένου αὐτοῦ",
+      "highlightedWord": "ἐκπορευομένου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Mk 11:19",
+      "text": "ἐγένετο, ἐξεπορεύοντο ἔξω",
+      "highlightedWord": "ἐξεπορεύοντο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mk 13:1",
+      "text": "Καὶ ἐκπορευομένου αὐτοῦ",
+      "highlightedWord": "ἐκπορευομένου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Lk 3:7",
+      "text": "τοῖς ἐκπορευομένοις ὄχλοις",
+      "highlightedWord": "ἐκπορευομένοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Lk 4:22",
+      "text": "τοῖς ἐκπορευομένοις ἐκ",
+      "highlightedWord": "ἐκπορευομένοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Lk 4:37",
+      "text": "καὶ ἐξεπορεύετο ἦχος",
+      "highlightedWord": "ἐξεπορεύετο"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Jn 5:29",
+      "text": "καὶ ἐκπορεύσονται οἱ",
+      "highlightedWord": "ἐκπορεύσονται"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Jn 15:26",
+      "text": "πατρὸς ἐκπορεύεται, ἐκεῖνος",
+      "highlightedWord": "ἐκπορεύεται,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Ac 9:28",
+      "text": "καὶ ἐκπορευόμενος εἰς",
+      "highlightedWord": "ἐκπορευόμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Ac 19:12",
+      "text": "πονηρὰ ἐκπορεύεσθαι.",
+      "highlightedWord": "ἐκπορεύεσθαι."
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 4,
+      "reference": "Ac 25:4",
+      "text": "τάχει ἐκπορεύεσθαι·",
+      "highlightedWord": "ἐκπορεύεσθαι·"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "μὴ ἐκπορευέσθω, ἀλλὰ",
+      "highlightedWord": "ἐκπορευέσθω,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "ὀξεῖα ἐκπορευομένη, καὶ",
+      "highlightedWord": "ἐκπορευομένη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Re 4:5",
+      "text": "θρόνου ἐκπορεύονται ἀστραπαὶ",
+      "highlightedWord": "ἐκπορεύονται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "αὐτῶν ἐκπορεύεται πῦρ",
+      "highlightedWord": "ἐκπορεύεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Re 9:18",
+      "text": "τοῦ ἐκπορευομένου ἐκ",
+      "highlightedWord": "ἐκπορευομένου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Re 11:5",
+      "text": "πῦρ ἐκπορεύεται ἐκ",
+      "highlightedWord": "ἐκπορεύεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Re 16:14",
+      "text": "ἃ ἐκπορεύεται ἐπὶ",
+      "highlightedWord": "ἐκπορεύεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "αὐτοῦ ἐκπορεύεται ῥομφαία",
+      "highlightedWord": "ἐκπορεύεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 1,
+      "reference": "Re 22:1",
+      "text": "κρύσταλλον, ἐκπορευόμενον ἐκ",
+      "highlightedWord": "ἐκπορευόμενον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,454 @@
+{
+  "strong": "G5550",
+  "lemma": "χρόνος",
+  "lemmaTranslit": "chronos",
+  "tokenCount": 53,
+  "verseCount": 53,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 2,
+    "Lucas": 7,
+    "João": 4,
+    "Atos": 17,
+    "Romanos": 1,
+    "1 Coríntios": 2,
+    "Gálatas": 2,
+    "1 Tessalonicenses": 1,
+    "2 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 3,
+    "1 Pedro": 4,
+    "Judas": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mt 2:7",
+      "text": "τὸν χρόνον τοῦ",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Mt 2:16",
+      "text": "τὸν χρόνον ὃν",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 19,
+      "reference": "Mt 25:19",
+      "text": "πολὺν χρόνον ἔρχεται",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Mk 2:19",
+      "text": "ὅσον χρόνον ἔχουσιν",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Mk 9:21",
+      "text": "Πόσος χρόνος ἐστὶν",
+      "highlightedWord": "χρόνος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 57,
+      "reference": "Lk 1:57",
+      "text": "ὁ χρόνος τοῦ",
+      "highlightedWord": "χρόνος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Lk 4:5",
+      "text": "στιγμῇ χρόνου·",
+      "highlightedWord": "χρόνου·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Lk 8:27",
+      "text": "καὶ χρόνῳ ἱκανῷ",
+      "highlightedWord": "χρόνῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Lk 8:29",
+      "text": "γὰρ χρόνοις συνηρπάκει",
+      "highlightedWord": "χρόνοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Lk 18:4",
+      "text": "ἐπὶ χρόνον, μετὰ",
+      "highlightedWord": "χρόνον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Lk 20:9",
+      "text": "ἀπεδήμησεν χρόνους ἱκανούς.",
+      "highlightedWord": "χρόνους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 8,
+      "reference": "Lk 23:8",
+      "text": "ἱκανῶν χρόνων θέλων",
+      "highlightedWord": "χρόνων"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Jn 5:6",
+      "text": "ἤδη χρόνον ἔχει,",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Jn 7:33",
+      "text": "Ἔτι χρόνον μικρὸν",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "μικρὸν χρόνον τὸ",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Jn 14:9",
+      "text": "Τοσούτῳ χρόνῳ μεθ’",
+      "highlightedWord": "χρόνῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Ac 1:6",
+      "text": "τῷ χρόνῳ τούτῳ",
+      "highlightedWord": "χρόνῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ac 1:7",
+      "text": "γνῶναι χρόνους ἢ",
+      "highlightedWord": "χρόνους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Ac 1:21",
+      "text": "παντὶ χρόνῳ ᾧ",
+      "highlightedWord": "χρόνῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ac 3:21",
+      "text": "ἄχρι χρόνων ἀποκαταστάσεως",
+      "highlightedWord": "χρόνων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Ac 7:17",
+      "text": "ὁ χρόνος τῆς",
+      "highlightedWord": "χρόνος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Ac 7:23",
+      "text": "τεσσερακονταετὴς χρόνος, ἀνέβη",
+      "highlightedWord": "χρόνος,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Ac 8:11",
+      "text": "ἱκανῷ χρόνῳ ταῖς",
+      "highlightedWord": "χρόνῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Ac 13:18",
+      "text": "τεσσερακονταετῆ χρόνον ἐτροποφόρησεν",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Ac 14:3",
+      "text": "οὖν χρόνον διέτριψαν",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Ac 14:28",
+      "text": "δὲ χρόνον οὐκ",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 33,
+      "reference": "Ac 15:33",
+      "text": "δὲ χρόνον ἀπελύθησαν",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 30,
+      "reference": "Ac 17:30",
+      "text": "οὖν χρόνους τῆς",
+      "highlightedWord": "χρόνους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Ac 18:20",
+      "text": "πλείονα χρόνον μεῖναι",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Ac 18:23",
+      "text": "ποιήσας χρόνον τινὰ",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Ac 19:22",
+      "text": "ἐπέσχεν χρόνον εἰς",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Ac 20:18",
+      "text": "πάντα χρόνον ἐγενόμην,",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 9,
+      "reference": "Ac 27:9",
+      "text": "δὲ χρόνου διαγενομένου",
+      "highlightedWord": "χρόνου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ro 7:1",
+      "text": "ὅσον χρόνον ζῇ;",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "1Co 7:39",
+      "text": "ὅσον χρόνον ζῇ",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "1Co 16:7",
+      "text": "γὰρ χρόνον τινὰ",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Ga 4:1",
+      "text": "ὅσον χρόνον ὁ",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Ga 4:4",
+      "text": "τοῦ χρόνου, ἐξαπέστειλεν",
+      "highlightedWord": "χρόνου,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Th 5:1",
+      "text": "τῶν χρόνων καὶ",
+      "highlightedWord": "χρόνων"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Ti 1:9",
+      "text": "πρὸ χρόνων αἰωνίων,",
+      "highlightedWord": "χρόνων"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Tit 1:2",
+      "text": "πρὸ χρόνων αἰωνίων",
+      "highlightedWord": "χρόνων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Heb 4:7",
+      "text": "τοσοῦτον χρόνον, καθὼς",
+      "highlightedWord": "χρόνον,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Heb 5:12",
+      "text": "τὸν χρόνον, πάλιν",
+      "highlightedWord": "χρόνον,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Heb 11:32",
+      "text": "ὁ χρόνος περὶ",
+      "highlightedWord": "χρόνος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Pe 1:17",
+      "text": "ὑμῶν χρόνον ἀναστράφητε·",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "1Pe 1:20",
+      "text": "τῶν χρόνων δι’",
+      "highlightedWord": "χρόνων"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Pe 4:2",
+      "text": "βιῶσαι χρόνον.",
+      "highlightedWord": "χρόνον."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Pe 4:3",
+      "text": "παρεληλυθὼς χρόνος τὸ",
+      "highlightedWord": "χρόνος"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Jud 1:18",
+      "text": "ἐσχάτου χρόνου ἔσονται",
+      "highlightedWord": "χρόνου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Re 2:21",
+      "text": "αὐτῇ χρόνον ἵνα",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "ἔτι χρόνον μικρόν,",
+      "highlightedWord": "χρόνον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Re 10:6",
+      "text": "ὅτι χρόνος οὐκέτι",
+      "highlightedWord": "χρόνος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "μικρὸν χρόνον.",
+      "highlightedWord": "χρόνον."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

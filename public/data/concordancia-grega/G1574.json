@@ -1,0 +1,18 @@
+{
+  "strong": "G1574",
+  "lemma": "ἐκκεντέω",
+  "lemmaTranslit": "ekkenteō",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Jo": 1,
+    "Ap": 1
+  },
+  "references": [
+    "Jo 19:37",
+    "Ap 1:7"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}

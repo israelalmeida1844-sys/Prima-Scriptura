@@ -1,0 +1,765 @@
+{
+  "strong": "G5399",
+  "lemma": "φοβέομαι",
+  "lemmaTranslit": "phobeomai",
+  "tokenCount": 95,
+  "verseCount": 92,
+  "bookDistribution": {
+    "Mateus": 18,
+    "Marcos": 12,
+    "Lucas": 23,
+    "João": 5,
+    "Atos": 14,
+    "Romanos": 3,
+    "2 Coríntios": 2,
+    "Gálatas": 2,
+    "Efésios": 1,
+    "Colossenses": 1,
+    "Hebreus": 4,
+    "1 Pedro": 3,
+    "1 João": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mt 1:20",
+      "text": "μὴ φοβηθῇς παραλαβεῖν",
+      "highlightedWord": "φοβηθῇς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mt 2:22",
+      "text": "Ἡρῴδου ἐφοβήθη ἐκεῖ",
+      "highlightedWord": "ἐφοβήθη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Mt 9:8",
+      "text": "ὄχλοι ἐφοβήθησαν καὶ",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Mt 10:26",
+      "text": "οὖν φοβηθῆτε αὐτούς·",
+      "highlightedWord": "φοβηθῆτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Mt 10:28",
+      "text": "μὴ φοβεῖσθε ἀπὸ",
+      "highlightedWord": "φοβεῖσθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Mt 10:31",
+      "text": "οὖν φοβεῖσθε· πολλῶν",
+      "highlightedWord": "φοβεῖσθε·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Mt 14:5",
+      "text": "ἀποκτεῖναι ἐφοβήθη τὸν",
+      "highlightedWord": "ἐφοβήθη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Mt 14:27",
+      "text": "μὴ φοβεῖσθε.",
+      "highlightedWord": "φοβεῖσθε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Mt 14:30",
+      "text": "ἰσχυρὸν ἐφοβήθη, καὶ",
+      "highlightedWord": "ἐφοβήθη,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Mt 17:6",
+      "text": "καὶ ἐφοβήθησαν σφόδρα.",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Mt 17:7",
+      "text": "μὴ φοβεῖσθε.",
+      "highlightedWord": "φοβεῖσθε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Mt 21:26",
+      "text": "ἀνθρώπων, φοβούμεθα τὸν",
+      "highlightedWord": "φοβούμεθα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 46,
+      "reference": "Mt 21:46",
+      "text": "κρατῆσαι ἐφοβήθησαν τοὺς",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 25,
+      "reference": "Mt 25:25",
+      "text": "καὶ φοβηθεὶς ἀπελθὼν",
+      "highlightedWord": "φοβηθεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 54,
+      "reference": "Mt 27:54",
+      "text": "γενόμενα ἐφοβήθησαν σφόδρα",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Mt 28:5",
+      "text": "Μὴ φοβεῖσθε ὑμεῖς,",
+      "highlightedWord": "φοβεῖσθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 10,
+      "reference": "Mt 28:10",
+      "text": "Μὴ φοβεῖσθε· ὑπάγετε",
+      "highlightedWord": "φοβεῖσθε·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Mk 4:41",
+      "text": "καὶ ἐφοβήθησαν φόβον",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Mk 5:15",
+      "text": "καὶ ἐφοβήθησαν.",
+      "highlightedWord": "ἐφοβήθησαν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Mk 5:33",
+      "text": "γυνὴ φοβηθεῖσα καὶ",
+      "highlightedWord": "φοβηθεῖσα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Mk 5:36",
+      "text": "Μὴ φοβοῦ, μόνον",
+      "highlightedWord": "φοβοῦ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Mk 6:20",
+      "text": "Ἡρῴδης ἐφοβεῖτο τὸν",
+      "highlightedWord": "ἐφοβεῖτο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Mk 6:50",
+      "text": "μὴ φοβεῖσθε.",
+      "highlightedWord": "φοβεῖσθε."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Mk 9:32",
+      "text": "καὶ ἐφοβοῦντο αὐτὸν",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Mk 10:32",
+      "text": "ἀκολουθοῦντες ἐφοβοῦντο. καὶ",
+      "highlightedWord": "ἐφοβοῦντο."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Mk 11:18",
+      "text": "ἀπολέσωσιν· ἐφοβοῦντο γὰρ",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Mk 11:32",
+      "text": "ἀνθρώπων;— ἐφοβοῦντο τὸν",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mk 12:12",
+      "text": "καὶ ἐφοβήθησαν τὸν",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Mk 16:8",
+      "text": "εἶπαν, ἐφοβοῦντο ⸁γάρ.",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Lk 1:13",
+      "text": "Μὴ φοβοῦ, Ζαχαρία,",
+      "highlightedWord": "φοβοῦ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Lk 1:30",
+      "text": "Μὴ φοβοῦ, Μαριάμ,",
+      "highlightedWord": "φοβοῦ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 50,
+      "reference": "Lk 1:50",
+      "text": "τοῖς φοβουμένοις αὐτόν.",
+      "highlightedWord": "φοβουμένοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Lk 2:9",
+      "text": "καὶ ἐφοβήθησαν φόβον",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Lk 2:10",
+      "text": "Μὴ φοβεῖσθε, ἰδοὺ",
+      "highlightedWord": "φοβεῖσθε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Lk 5:10",
+      "text": "Μὴ φοβοῦ· ἀπὸ",
+      "highlightedWord": "φοβοῦ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Lk 8:25",
+      "text": "ὑμῶν; φοβηθέντες δὲ",
+      "highlightedWord": "φοβηθέντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "καὶ ἐφοβήθησαν.",
+      "highlightedWord": "ἐφοβήθησαν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 50,
+      "reference": "Lk 8:50",
+      "text": "Μὴ φοβοῦ, μόνον",
+      "highlightedWord": "φοβοῦ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Lk 9:34",
+      "text": "αὐτούς· ἐφοβήθησαν δὲ",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Lk 9:45",
+      "text": "καὶ ἐφοβοῦντο ἐρωτῆσαι",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Lk 12:4",
+      "text": "μὴ φοβηθῆτε ἀπὸ",
+      "highlightedWord": "φοβηθῆτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Lk 12:5",
+      "text": "τίνα φοβηθῆτε· φοβήθητε",
+      "highlightedWord": "φοβηθῆτε·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Lk 12:7",
+      "text": "μὴ φοβεῖσθε· πολλῶν",
+      "highlightedWord": "φοβεῖσθε·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Lk 12:32",
+      "text": "Μὴ φοβοῦ, τὸ",
+      "highlightedWord": "φοβοῦ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Lk 18:2",
+      "text": "μὴ φοβούμενος καὶ",
+      "highlightedWord": "φοβούμενος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Lk 18:4",
+      "text": "οὐ φοβοῦμαι οὐδὲ",
+      "highlightedWord": "φοβοῦμαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Lk 19:21",
+      "text": "ἐφοβούμην γάρ",
+      "highlightedWord": "ἐφοβούμην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Lk 20:19",
+      "text": "καὶ ἐφοβήθησαν τὸν",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Lk 22:2",
+      "text": "αὐτόν, ἐφοβοῦντο γὰρ",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 40,
+      "reference": "Lk 23:40",
+      "text": "Οὐδὲ φοβῇ σὺ",
+      "highlightedWord": "φοβῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Jn 6:19",
+      "text": "καὶ ἐφοβήθησαν.",
+      "highlightedWord": "ἐφοβήθησαν."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Jn 6:20",
+      "text": "μὴ φοβεῖσθε.",
+      "highlightedWord": "φοβεῖσθε."
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Jn 9:22",
+      "text": "ὅτι ἐφοβοῦντο τοὺς",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Jn 12:15",
+      "text": "Μὴ φοβοῦ, θυγάτηρ",
+      "highlightedWord": "φοβοῦ,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Jn 19:8",
+      "text": "μᾶλλον ἐφοβήθη,",
+      "highlightedWord": "ἐφοβήθη,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Ac 5:26",
+      "text": "βίας, ἐφοβοῦντο γὰρ",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ac 9:26",
+      "text": "πάντες ἐφοβοῦντο αὐτόν,",
+      "highlightedWord": "ἐφοβοῦντο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Ac 10:2",
+      "text": "καὶ φοβούμενος τὸν",
+      "highlightedWord": "φοβούμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Ac 10:22",
+      "text": "καὶ φοβούμενος τὸν",
+      "highlightedWord": "φοβούμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Ac 10:35",
+      "text": "ὁ φοβούμενος αὐτὸν",
+      "highlightedWord": "φοβούμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Ac 13:16",
+      "text": "οἱ φοβούμενοι τὸν",
+      "highlightedWord": "φοβούμενοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Ac 13:26",
+      "text": "ὑμῖν φοβούμενοι τὸν",
+      "highlightedWord": "φοβούμενοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 38,
+      "reference": "Ac 16:38",
+      "text": "ταῦτα· ἐφοβήθησαν δὲ",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Ac 18:9",
+      "text": "Μὴ φοβοῦ, ἀλλὰ",
+      "highlightedWord": "φοβοῦ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Ac 22:29",
+      "text": "δὲ ἐφοβήθη ἐπιγνοὺς",
+      "highlightedWord": "ἐφοβήθη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Ac 23:10",
+      "text": "στάσεως φοβηθεὶς ὁ",
+      "highlightedWord": "φοβηθεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 17,
+      "reference": "Ac 27:17",
+      "text": "πλοῖον· φοβούμενοί τε",
+      "highlightedWord": "φοβούμενοί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 24,
+      "reference": "Ac 27:24",
+      "text": "Μὴ φοβοῦ, Παῦλε·",
+      "highlightedWord": "φοβοῦ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Ac 27:29",
+      "text": "φοβούμενοί τε",
+      "highlightedWord": "φοβούμενοί"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Ro 11:20",
+      "text": "ἀλλὰ φοβοῦ·",
+      "highlightedWord": "φοβοῦ·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ro 13:3",
+      "text": "μὴ φοβεῖσθαι τὴν",
+      "highlightedWord": "φοβεῖσθαι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Ro 13:4",
+      "text": "ποιῇς, φοβοῦ· οὐ",
+      "highlightedWord": "φοβοῦ·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "2Co 11:3",
+      "text": "φοβοῦμαι δὲ",
+      "highlightedWord": "φοβοῦμαι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "2Co 12:20",
+      "text": "φοβοῦμαι γὰρ",
+      "highlightedWord": "φοβοῦμαι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Ga 2:12",
+      "text": "ἑαυτόν, φοβούμενος τοὺς",
+      "highlightedWord": "φοβούμενος"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Ga 4:11",
+      "text": "φοβοῦμαι ὑμᾶς",
+      "highlightedWord": "φοβοῦμαι"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "ἵνα φοβῆται τὸν",
+      "highlightedWord": "φοβῆται"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Col 3:22",
+      "text": "καρδίας, φοβούμενοι τὸν",
+      "highlightedWord": "φοβούμενοι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Heb 4:1",
+      "text": "Φοβηθῶμεν οὖν",
+      "highlightedWord": "Φοβηθῶμεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Heb 11:23",
+      "text": "οὐκ ἐφοβήθησαν τὸ",
+      "highlightedWord": "ἐφοβήθησαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Heb 11:27",
+      "text": "μὴ φοβηθεὶς τὸν",
+      "highlightedWord": "φοβηθεὶς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Heb 13:6",
+      "text": "οὐ φοβηθήσομαι· τί",
+      "highlightedWord": "φοβηθήσομαι·"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "1Pe 2:17",
+      "text": "θεὸν φοβεῖσθε, τὸν",
+      "highlightedWord": "φοβεῖσθε,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Pe 3:6",
+      "text": "μὴ φοβούμεναι μηδεμίαν",
+      "highlightedWord": "φοβούμεναι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Pe 3:14",
+      "text": "μὴ φοβηθῆτε μηδὲ",
+      "highlightedWord": "φοβηθῆτε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Jn 4:18",
+      "text": "δὲ φοβούμενος οὐ",
+      "highlightedWord": "φοβούμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "Μὴ φοβοῦ· ἐγώ",
+      "highlightedWord": "φοβοῦ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "μηδὲν φοβοῦ ἃ",
+      "highlightedWord": "φοβοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Re 11:18",
+      "text": "τοῖς φοβουμένοις τὸ",
+      "highlightedWord": "φοβουμένοις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Re 14:7",
+      "text": "μεγάλῃ· Φοβήθητε τὸν",
+      "highlightedWord": "Φοβήθητε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Re 15:4",
+      "text": "μὴ φοβηθῇ, κύριε,",
+      "highlightedWord": "φοβηθῇ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Re 19:5",
+      "text": "οἱ φοβούμενοι αὐτόν,",
+      "highlightedWord": "φοβούμενοι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

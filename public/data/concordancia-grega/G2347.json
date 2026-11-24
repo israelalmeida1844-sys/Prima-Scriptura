@@ -1,0 +1,374 @@
+{
+  "strong": "G2347",
+  "lemma": "θλῖψις",
+  "lemmaTranslit": "thlipsis",
+  "tokenCount": 45,
+  "verseCount": 43,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 3,
+    "João": 2,
+    "Atos": 5,
+    "Romanos": 5,
+    "1 Coríntios": 1,
+    "2 Coríntios": 9,
+    "Efésios": 1,
+    "Filipenses": 2,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 3,
+    "2 Tessalonicenses": 2,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mt 13:21",
+      "text": "δὲ θλίψεως ἢ",
+      "highlightedWord": "θλίψεως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Mt 24:9",
+      "text": "εἰς θλῖψιν καὶ",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Mt 24:21",
+      "text": "τότε θλῖψις μεγάλη",
+      "highlightedWord": "θλῖψις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Mt 24:29",
+      "text": "τὴν θλῖψιν τῶν",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Mk 4:17",
+      "text": "γενομένης θλίψεως ἢ",
+      "highlightedWord": "θλίψεως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mk 13:19",
+      "text": "ἐκεῖναι θλῖψις οἵα",
+      "highlightedWord": "θλῖψις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Mk 13:24",
+      "text": "τὴν θλῖψιν ἐκείνην",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Jn 16:21",
+      "text": "τῆς θλίψεως διὰ",
+      "highlightedWord": "θλίψεως"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Jn 16:33",
+      "text": "κόσμῳ θλῖψιν ἔχετε,",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Ac 7:10",
+      "text": "τῶν θλίψεων αὐτοῦ,",
+      "highlightedWord": "θλίψεων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Ac 7:11",
+      "text": "καὶ θλῖψις μεγάλη,",
+      "highlightedWord": "θλῖψις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ac 11:19",
+      "text": "τῆς θλίψεως τῆς",
+      "highlightedWord": "θλίψεως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ac 14:22",
+      "text": "πολλῶν θλίψεων δεῖ",
+      "highlightedWord": "θλίψεων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Ac 20:23",
+      "text": "καὶ θλίψεις με",
+      "highlightedWord": "θλίψεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ro 2:9",
+      "text": "θλῖψις καὶ",
+      "highlightedWord": "θλῖψις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ro 5:3",
+      "text": "ταῖς θλίψεσιν, εἰδότες",
+      "highlightedWord": "θλίψεσιν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Ro 8:35",
+      "text": "Χριστοῦ; θλῖψις ἢ",
+      "highlightedWord": "θλῖψις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Ro 12:12",
+      "text": "τῇ θλίψει ὑπομένοντες,",
+      "highlightedWord": "θλίψει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "1Co 7:28",
+      "text": "ἥμαρτεν. θλῖψιν δὲ",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Co 1:4",
+      "text": "τῇ θλίψει ἡμῶν,",
+      "highlightedWord": "θλίψει"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Co 1:8",
+      "text": "τῆς θλίψεως ἡμῶν",
+      "highlightedWord": "θλίψεως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Co 2:4",
+      "text": "πολλῆς θλίψεως καὶ",
+      "highlightedWord": "θλίψεως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "2Co 4:17",
+      "text": "τῆς θλίψεως ἡμῶν",
+      "highlightedWord": "θλίψεως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "2Co 6:4",
+      "text": "ἐν θλίψεσιν, ἐν",
+      "highlightedWord": "θλίψεσιν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "2Co 7:4",
+      "text": "τῇ θλίψει ἡμῶν.",
+      "highlightedWord": "θλίψει"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "2Co 8:2",
+      "text": "δοκιμῇ θλίψεως ἡ",
+      "highlightedWord": "θλίψεως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "2Co 8:13",
+      "text": "ὑμῖν θλῖψις· ἀλλ’",
+      "highlightedWord": "θλῖψις·"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Eph 3:13",
+      "text": "ταῖς θλίψεσίν μου",
+      "highlightedWord": "θλίψεσίν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Php 1:17",
+      "text": "οἰόμενοι θλῖψιν ἐγείρειν",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Php 4:14",
+      "text": "τῇ θλίψει.",
+      "highlightedWord": "θλίψει."
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Col 1:24",
+      "text": "τῶν θλίψεων τοῦ",
+      "highlightedWord": "θλίψεων"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Th 1:6",
+      "text": "ἐν θλίψει πολλῇ",
+      "highlightedWord": "θλίψει"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Th 3:3",
+      "text": "ταῖς θλίψεσιν ταύταις.",
+      "highlightedWord": "θλίψεσιν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Th 3:7",
+      "text": "καὶ θλίψει ἡμῶν",
+      "highlightedWord": "θλίψει"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Th 1:4",
+      "text": "ταῖς θλίψεσιν αἷς",
+      "highlightedWord": "θλίψεσιν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Th 1:6",
+      "text": "ὑμᾶς θλῖψιν",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Heb 10:33",
+      "text": "καὶ θλίψεσιν θεατριζόμενοι,",
+      "highlightedWord": "θλίψεσιν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Jas 1:27",
+      "text": "τῇ θλίψει αὐτῶν,",
+      "highlightedWord": "θλίψει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Re 1:9",
+      "text": "τῇ θλίψει καὶ",
+      "highlightedWord": "θλίψει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "τὴν θλῖψιν καὶ",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "ἕξετε θλῖψιν ἡμερῶν",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Re 2:22",
+      "text": "εἰς θλῖψιν μεγάλην,",
+      "highlightedWord": "θλῖψιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Re 7:14",
+      "text": "τῆς θλίψεως τῆς",
+      "highlightedWord": "θλίψεως"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,2982 @@
+{
+  "strong": "G2250",
+  "lemma": "ἡμέρα",
+  "lemmaTranslit": "hēmera",
+  "tokenCount": 389,
+  "verseCount": 368,
+  "bookDistribution": {
+    "Mateus": 45,
+    "Marcos": 27,
+    "Lucas": 83,
+    "João": 31,
+    "Atos": 94,
+    "Romanos": 11,
+    "1 Coríntios": 7,
+    "2 Coríntios": 7,
+    "Gálatas": 2,
+    "Efésios": 3,
+    "Filipenses": 4,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 6,
+    "2 Tessalonicenses": 3,
+    "1 Timóteo": 1,
+    "2 Timóteo": 5,
+    "Hebreus": 18,
+    "Tiago": 2,
+    "1 Pedro": 3,
+    "2 Pedro": 12,
+    "1 João": 1,
+    "Judas": 1,
+    "Apocalipse": 21
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Mt 2:1",
+      "text": "ἐν ἡμέραις Ἡρῴδου",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Mt 3:1",
+      "text": "ταῖς ἡμέραις ἐκείναις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Mt 4:2",
+      "text": "νηστεύσας ἡμέρας τεσσεράκοντα",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mt 6:34",
+      "text": "τῇ ἡμέρᾳ ἡ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Mt 7:22",
+      "text": "τῇ ἡμέρᾳ· Κύριε",
+      "highlightedWord": "ἡμέρᾳ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Mt 9:15",
+      "text": "δὲ ἡμέραι ὅταν",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Mt 10:15",
+      "text": "ἐν ἡμέρᾳ κρίσεως",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Mt 11:12",
+      "text": "τῶν ἡμερῶν Ἰωάννου",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Mt 11:22",
+      "text": "ἐν ἡμέρᾳ κρίσεως",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Mt 11:24",
+      "text": "ἐν ἡμέρᾳ κρίσεως",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mt 12:36",
+      "text": "ἐν ἡμέρᾳ κρίσεως·",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Mt 12:40",
+      "text": "τρεῖς ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mt 13:1",
+      "text": "τῇ ἡμέρᾳ ἐκείνῃ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Mt 15:32",
+      "text": "ἤδη ἡμέραι τρεῖς",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Mt 16:21",
+      "text": "τρίτῃ ἡμέρᾳ ἐγερθῆναι.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Mt 17:1",
+      "text": "μεθ’ ἡμέρας ἓξ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Mt 17:23",
+      "text": "τρίτῃ ἡμέρᾳ ἐγερθήσεται.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Mt 20:2",
+      "text": "τὴν ἡμέραν ἀπέστειλεν",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Mt 20:6",
+      "text": "τὴν ἡμέραν ἀργοί;",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Mt 20:12",
+      "text": "τῆς ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Mt 20:19",
+      "text": "τρίτῃ ἡμέρᾳ ἐγερθήσεται.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 23,
+      "reference": "Mt 22:23",
+      "text": "τῇ ἡμέρᾳ προσῆλθον",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Mt 22:46",
+      "text": "τῆς ἡμέρας ἐπερωτῆσαι",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 30,
+      "reference": "Mt 23:30",
+      "text": "ταῖς ἡμέραις τῶν",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Mt 24:19",
+      "text": "ταῖς ἡμέραις.",
+      "highlightedWord": "ἡμέραις."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Mt 24:22",
+      "text": "αἱ ἡμέραι ἐκεῖναι,",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Mt 24:29",
+      "text": "τῶν ἡμερῶν ἐκείνων",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "τῆς ἡμέρας ἐκείνης",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 37,
+      "reference": "Mt 24:37",
+      "text": "αἱ ἡμέραι τοῦ",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 38,
+      "reference": "Mt 24:38",
+      "text": "ταῖς ἡμέραις ταῖς",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 42,
+      "reference": "Mt 24:42",
+      "text": "ποίᾳ ἡμέρᾳ ὁ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 50,
+      "reference": "Mt 24:50",
+      "text": "ἐν ἡμέρᾳ ᾗ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 13,
+      "reference": "Mt 25:13",
+      "text": "τὴν ἡμέραν οὐδὲ",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 2,
+      "reference": "Mt 26:2",
+      "text": "δύο ἡμέρας τὸ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 29,
+      "reference": "Mt 26:29",
+      "text": "τῆς ἡμέρας ἐκείνης",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 55,
+      "reference": "Mt 26:55",
+      "text": "καθ’ ἡμέραν ἐν",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 61,
+      "reference": "Mt 26:61",
+      "text": "τριῶν ἡμερῶν οἰκοδομῆσαι.",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 40,
+      "reference": "Mt 27:40",
+      "text": "τρισὶν ἡμέραις οἰκοδομῶν,",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 63,
+      "reference": "Mt 27:63",
+      "text": "τρεῖς ἡμέρας ἐγείρομαι·",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 64,
+      "reference": "Mt 27:64",
+      "text": "τρίτης ἡμέρας, μήποτε",
+      "highlightedWord": "ἡμέρας,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 15,
+      "reference": "Mt 28:15",
+      "text": "σήμερον ἡμέρας.",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 20,
+      "reference": "Mt 28:20",
+      "text": "τὰς ἡμέρας ἕως",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Mk 1:9",
+      "text": "ταῖς ἡμέραις ἦλθεν",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Mk 1:13",
+      "text": "τεσσεράκοντα ἡμέρας πειραζόμενος",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Mk 2:1",
+      "text": "δι’ ἡμερῶν ἠκούσθη",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Mk 2:20",
+      "text": "δὲ ἡμέραι ὅταν",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Mk 4:27",
+      "text": "καὶ ἡμέραν, καὶ",
+      "highlightedWord": "ἡμέραν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Mk 4:35",
+      "text": "τῇ ἡμέρᾳ ὀψίας",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Mk 5:5",
+      "text": "καὶ ἡμέρας ἐν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Mk 6:21",
+      "text": "γενομένης ἡμέρας εὐκαίρου",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Mk 8:1",
+      "text": "ταῖς ἡμέραις πάλιν",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Mk 8:2",
+      "text": "ἤδη ἡμέραι τρεῖς",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mk 8:31",
+      "text": "τρεῖς ἡμέρας ἀναστῆναι·",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mk 9:2",
+      "text": "μετὰ ἡμέρας ἓξ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mk 9:31",
+      "text": "τρεῖς ἡμέρας ἀναστήσεται.",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Mk 10:34",
+      "text": "τρεῖς ἡμέρας ἀναστήσεται.",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Mk 13:17",
+      "text": "ταῖς ἡμέραις.",
+      "highlightedWord": "ἡμέραις."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mk 13:19",
+      "text": "αἱ ἡμέραι ἐκεῖναι",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Mk 13:20",
+      "text": "τὰς ἡμέρας, οὐκ",
+      "highlightedWord": "ἡμέρας,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Mk 13:24",
+      "text": "ταῖς ἡμέραις μετὰ",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "τῆς ἡμέρας ἐκείνης",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Mk 14:1",
+      "text": "δύο ἡμέρας. καὶ",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Mk 14:12",
+      "text": "πρώτῃ ἡμέρᾳ τῶν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mk 14:25",
+      "text": "τῆς ἡμέρας ἐκείνης",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 49,
+      "reference": "Mk 14:49",
+      "text": "καθ’ ἡμέραν ἤμην",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 58,
+      "reference": "Mk 14:58",
+      "text": "τριῶν ἡμερῶν ἄλλον",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mk 15:29",
+      "text": "τρισὶν ἡμέραις,",
+      "highlightedWord": "ἡμέραις,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Lk 1:5",
+      "text": "ταῖς ἡμέραις Ἡρῴδου",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Lk 1:7",
+      "text": "ταῖς ἡμέραις αὐτῶν",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Lk 1:18",
+      "text": "ταῖς ἡμέραις αὐτῆς.",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Lk 1:20",
+      "text": "ἧς ἡμέρας γένηται",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Lk 1:23",
+      "text": "αἱ ἡμέραι τῆς",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Lk 1:24",
+      "text": "τὰς ἡμέρας συνέλαβεν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Lk 1:25",
+      "text": "ἐν ἡμέραις αἷς",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Lk 1:39",
+      "text": "ταῖς ἡμέραις ταύταις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 59,
+      "reference": "Lk 1:59",
+      "text": "τῇ ἡμέρᾳ τῇ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 75,
+      "reference": "Lk 1:75",
+      "text": "ταῖς ἡμέραις ἡμῶν.",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 80,
+      "reference": "Lk 1:80",
+      "text": "ἕως ἡμέρας ἀναδείξεως",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Lk 2:1",
+      "text": "ταῖς ἡμέραις ἐκείναις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Lk 2:6",
+      "text": "αἱ ἡμέραι τοῦ",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Lk 2:21",
+      "text": "ἐπλήσθησαν ἡμέραι ὀκτὼ",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Lk 2:22",
+      "text": "αἱ ἡμέραι τοῦ",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 36,
+      "reference": "Lk 2:36",
+      "text": "ἐν ἡμέραις πολλαῖς,",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 37,
+      "reference": "Lk 2:37",
+      "text": "καὶ ἡμέραν.",
+      "highlightedWord": "ἡμέραν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 43,
+      "reference": "Lk 2:43",
+      "text": "τὰς ἡμέρας, ἐν",
+      "highlightedWord": "ἡμέρας,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 44,
+      "reference": "Lk 2:44",
+      "text": "ἦλθον ἡμέρας ὁδὸν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 46,
+      "reference": "Lk 2:46",
+      "text": "μετὰ ἡμέρας τρεῖς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Lk 4:2",
+      "text": "ἡμέρας τεσσεράκοντα",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Lk 4:16",
+      "text": "τῇ ἡμέρᾳ τῶν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Lk 4:25",
+      "text": "ταῖς ἡμέραις Ἠλίου",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 42,
+      "reference": "Lk 4:42",
+      "text": "δὲ ἡμέρας ἐξελθὼν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Lk 5:17",
+      "text": "τῶν ἡμερῶν καὶ",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Lk 5:35",
+      "text": "δὲ ἡμέραι, καὶ",
+      "highlightedWord": "ἡμέραι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Lk 6:12",
+      "text": "ταῖς ἡμέραις ταύταις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Lk 6:13",
+      "text": "ἐγένετο ἡμέρα, προσεφώνησεν",
+      "highlightedWord": "ἡμέρα,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Lk 6:23",
+      "text": "τῇ ἡμέρᾳ καὶ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Lk 8:22",
+      "text": "τῶν ἡμερῶν καὶ",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Lk 9:12",
+      "text": "δὲ ἡμέρα ἤρξατο",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Lk 9:22",
+      "text": "τρίτῃ ἡμέρᾳ ἐγερθῆναι.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "καθ’ ἡμέραν, καὶ",
+      "highlightedWord": "ἡμέραν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Lk 9:28",
+      "text": "ὡσεὶ ἡμέραι ὀκτὼ",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Lk 9:36",
+      "text": "ταῖς ἡμέραις οὐδὲν",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Lk 9:37",
+      "text": "ἑξῆς ἡμέρᾳ κατελθόντων",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 51,
+      "reference": "Lk 9:51",
+      "text": "τὰς ἡμέρας τῆς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Lk 10:12",
+      "text": "τῇ ἡμέρᾳ ἐκείνῃ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Lk 11:3",
+      "text": "καθ’ ἡμέραν·",
+      "highlightedWord": "ἡμέραν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Lk 12:46",
+      "text": "ἐν ἡμέρᾳ ᾗ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Lk 13:14",
+      "text": "Ἓξ ἡμέραι εἰσὶν",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Lk 13:16",
+      "text": "τῇ ἡμέρᾳ τοῦ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Lk 14:5",
+      "text": "ἐν ἡμέρᾳ τοῦ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Lk 15:13",
+      "text": "πολλὰς ἡμέρας συναγαγὼν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Lk 16:19",
+      "text": "καθ’ ἡμέραν λαμπρῶς.",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Lk 17:4",
+      "text": "τῆς ἡμέρας ἁμαρτήσῃ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Lk 17:22",
+      "text": "Ἐλεύσονται ἡμέραι ὅτε",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Lk 17:24",
+      "text": "τῇ ἡμέρᾳ αὐτοῦ.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Lk 17:26",
+      "text": "ταῖς ἡμέραις Νῶε,",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Lk 17:27",
+      "text": "ἧς ἡμέρας εἰσῆλθεν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 28,
+      "reference": "Lk 17:28",
+      "text": "ταῖς ἡμέραις Λώτ·",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Lk 17:29",
+      "text": "δὲ ἡμέρᾳ ἐξῆλθεν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 30,
+      "reference": "Lk 17:30",
+      "text": "ᾗ ἡμέρᾳ ὁ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Lk 17:31",
+      "text": "τῇ ἡμέρᾳ ὃς",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Lk 18:7",
+      "text": "αὐτῷ ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 33,
+      "reference": "Lk 18:33",
+      "text": "τῇ ἡμέρᾳ τῇ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Lk 19:42",
+      "text": "τῇ ἡμέρᾳ ταύτῃ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 43,
+      "reference": "Lk 19:43",
+      "text": "ἥξουσιν ἡμέραι ἐπὶ",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 47,
+      "reference": "Lk 19:47",
+      "text": "καθ’ ἡμέραν ἐν",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Lk 20:1",
+      "text": "τῶν ἡμερῶν διδάσκοντος",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Lk 21:6",
+      "text": "ἐλεύσονται ἡμέραι ἐν",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 22,
+      "reference": "Lk 21:22",
+      "text": "ὅτι ἡμέραι ἐκδικήσεως",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Lk 21:23",
+      "text": "ταῖς ἡμέραις· ἔσται",
+      "highlightedWord": "ἡμέραις·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Lk 21:34",
+      "text": "ἡ ἡμέρα ἐκείνη",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Lk 21:37",
+      "text": "τὰς ἡμέρας ἐν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Lk 22:7",
+      "text": "ἡ ἡμέρα τῶν",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 53,
+      "reference": "Lk 22:53",
+      "text": "καθ’ ἡμέραν ὄντος",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 66,
+      "reference": "Lk 22:66",
+      "text": "ἐγένετο ἡμέρα, συνήχθη",
+      "highlightedWord": "ἡμέρα,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 7,
+      "reference": "Lk 23:7",
+      "text": "ταῖς ἡμέραις.",
+      "highlightedWord": "ἡμέραις."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Lk 23:12",
+      "text": "τῇ ἡμέρᾳ μετ’",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 29,
+      "reference": "Lk 23:29",
+      "text": "ἔρχονται ἡμέραι ἐν",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 54,
+      "reference": "Lk 23:54",
+      "text": "καὶ ἡμέρα ἦν",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 7,
+      "reference": "Lk 24:7",
+      "text": "τρίτῃ ἡμέρᾳ ἀναστῆναι.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 13,
+      "reference": "Lk 24:13",
+      "text": "τῇ ἡμέρᾳ ἦσαν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Lk 24:18",
+      "text": "ταῖς ἡμέραις ταύταις;",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Lk 24:21",
+      "text": "ταύτην ἡμέραν ἄγει",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Lk 24:29",
+      "text": "ἡ ἡμέρα. καὶ",
+      "highlightedWord": "ἡμέρα."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 46,
+      "reference": "Lk 24:46",
+      "text": "τρίτῃ ἡμέρᾳ,",
+      "highlightedWord": "ἡμέρᾳ,"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Jn 1:39",
+      "text": "τὴν ἡμέραν ἐκείνην·",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Jn 2:1",
+      "text": "τῇ ἡμέρᾳ τῇ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Jn 2:12",
+      "text": "πολλὰς ἡμέρας.",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Jn 2:19",
+      "text": "τρισὶν ἡμέραις ἐγερῶ",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jn 2:20",
+      "text": "τρισὶν ἡμέραις ἐγερεῖς",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Jn 4:40",
+      "text": "δύο ἡμέρας.",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 43,
+      "reference": "Jn 4:43",
+      "text": "δύο ἡμέρας ἐξῆλθεν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jn 5:9",
+      "text": "τῇ ἡμέρᾳ.",
+      "highlightedWord": "ἡμέρᾳ."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Jn 6:39",
+      "text": "ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἡμέρᾳ."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 40,
+      "reference": "Jn 6:40",
+      "text": "ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἡμέρᾳ."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Jn 6:44",
+      "text": "ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἡμέρᾳ."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 54,
+      "reference": "Jn 6:54",
+      "text": "ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἡμέρᾳ."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Jn 7:37",
+      "text": "ἐσχάτῃ ἡμέρᾳ τῇ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 56,
+      "reference": "Jn 8:56",
+      "text": "τὴν ἡμέραν τὴν",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Jn 9:4",
+      "text": "ἕως ἡμέρα ἐστίν·",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Jn 9:14",
+      "text": "ᾗ ἡμέρᾳ τὸν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Jn 11:6",
+      "text": "δύο ἡμέρας·",
+      "highlightedWord": "ἡμέρας·"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Jn 11:9",
+      "text": "τῆς ἡμέρας; ἐάν",
+      "highlightedWord": "ἡμέρας;"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Jn 11:17",
+      "text": "ἤδη ἡμέρας ἔχοντα",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Jn 11:24",
+      "text": "ἐσχάτῃ ἡμέρᾳ.",
+      "highlightedWord": "ἡμέρᾳ."
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 53,
+      "reference": "Jn 11:53",
+      "text": "τῆς ἡμέρας ἐβουλεύσαντο",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Jn 12:1",
+      "text": "ἓξ ἡμερῶν τοῦ",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Jn 12:7",
+      "text": "τὴν ἡμέραν τοῦ",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Jn 12:48",
+      "text": "ἐσχάτῃ ἡμέρᾳ·",
+      "highlightedWord": "ἡμέρᾳ·"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Jn 14:20",
+      "text": "τῇ ἡμέρᾳ γνώσεσθε",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Jn 16:23",
+      "text": "τῇ ἡμέρᾳ ἐμὲ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Jn 16:26",
+      "text": "τῇ ἡμέρᾳ ἐν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Jn 19:31",
+      "text": "ἡ ἡμέρα ἐκείνου",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "τῇ ἡμέρᾳ ἐκείνῃ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Jn 20:26",
+      "text": "μεθ’ ἡμέρας ὀκτὼ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Ac 1:2",
+      "text": "ἧς ἡμέρας ἐντειλάμενος",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Ac 1:3",
+      "text": "δι’ ἡμερῶν τεσσεράκοντα",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Ac 1:5",
+      "text": "ταύτας ἡμέρας.",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Ac 1:15",
+      "text": "ταῖς ἡμέραις ταύταις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Ac 1:22",
+      "text": "τῆς ἡμέρας ἧς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Ac 2:1",
+      "text": "τὴν ἡμέραν τῆς",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Ac 2:15",
+      "text": "τῆς ἡμέρας,",
+      "highlightedWord": "ἡμέρας,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ac 2:17",
+      "text": "ἐσχάταις ἡμέραις, λέγει",
+      "highlightedWord": "ἡμέραις,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Ac 2:18",
+      "text": "ταῖς ἡμέραις ἐκείναις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Ac 2:20",
+      "text": "ἐλθεῖν ἡμέραν κυρίου",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Ac 2:29",
+      "text": "τῆς ἡμέρας ταύτης·",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 41,
+      "reference": "Ac 2:41",
+      "text": "τῇ ἡμέρᾳ ἐκείνῃ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 46,
+      "reference": "Ac 2:46",
+      "text": "καθ’ ἡμέραν τε",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 47,
+      "reference": "Ac 2:47",
+      "text": "καθ’ ἡμέραν ἐπὶ",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ac 3:2",
+      "text": "καθ’ ἡμέραν πρὸς",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Ac 3:24",
+      "text": "τὰς ἡμέρας ταύτας.",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Ac 5:36",
+      "text": "τῶν ἡμερῶν ἀνέστη",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Ac 5:37",
+      "text": "ταῖς ἡμέραις τῆς",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Ac 5:42",
+      "text": "τε ἡμέραν ἐν",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ac 6:1",
+      "text": "ταῖς ἡμέραις ταύταις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Ac 7:8",
+      "text": "τῇ ἡμέρᾳ τῇ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Ac 7:26",
+      "text": "ἐπιούσῃ ἡμέρᾳ ὤφθη",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Ac 7:41",
+      "text": "ταῖς ἡμέραις ἐκείναις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Ac 7:45",
+      "text": "τῶν ἡμερῶν Δαυίδ·",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Ac 8:1",
+      "text": "τῇ ἡμέρᾳ διωγμὸς",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Ac 9:9",
+      "text": "ἦν ἡμέρας τρεῖς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Ac 9:19",
+      "text": "μαθητῶν ἡμέρας τινὰς,",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Ac 9:23",
+      "text": "ἐπληροῦντο ἡμέραι ἱκαναί,",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Ac 9:24",
+      "text": "πύλας ἡμέρας τε",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Ac 9:37",
+      "text": "ταῖς ἡμέραις ἐκείναις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Ac 9:43",
+      "text": "δὲ ἡμέρας ἱκανὰς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Ac 10:3",
+      "text": "τῆς ἡμέρας ἄγγελον",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Ac 10:30",
+      "text": "τετάρτης ἡμέρας μέχρι",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Ac 10:40",
+      "text": "τρίτῃ ἡμέρᾳ καὶ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 48,
+      "reference": "Ac 10:48",
+      "text": "ἐπιμεῖναι ἡμέρας τινάς.",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Ac 11:27",
+      "text": "ταῖς ἡμέραις κατῆλθον",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Ac 12:3",
+      "text": "δὲ ἡμέραι τῶν",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Ac 12:18",
+      "text": "δὲ ἡμέρας ἦν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Ac 12:21",
+      "text": "δὲ ἡμέρᾳ ὁ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Ac 13:14",
+      "text": "τῇ ἡμέρᾳ τῶν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Ac 13:31",
+      "text": "ἐπὶ ἡμέρας πλείους",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 41,
+      "reference": "Ac 13:41",
+      "text": "ταῖς ἡμέραις ὑμῶν,",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Ac 15:7",
+      "text": "ἀφ’ ἡμερῶν ἀρχαίων",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Ac 15:36",
+      "text": "τινας ἡμέρας εἶπεν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Ac 16:5",
+      "text": "καθ’ ἡμέραν.",
+      "highlightedWord": "ἡμέραν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Ac 16:12",
+      "text": "διατρίβοντες ἡμέρας τινάς.",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Ac 16:13",
+      "text": "τε ἡμέρᾳ τῶν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ac 16:18",
+      "text": "πολλὰς ἡμέρας. διαπονηθεὶς",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 35,
+      "reference": "Ac 16:35",
+      "text": "Ἡμέρας δὲ",
+      "highlightedWord": "Ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Ac 17:11",
+      "text": "καθ’ ἡμέραν ἀνακρίνοντες",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Ac 17:17",
+      "text": "πᾶσαν ἡμέραν πρὸς",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Ac 17:31",
+      "text": "ἔστησεν ἡμέραν ἐν",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Ac 18:18",
+      "text": "προσμείνας ἡμέρας ἱκανὰς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Ac 19:9",
+      "text": "καθ’ ἡμέραν διαλεγόμενος",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Ac 20:6",
+      "text": "τὰς ἡμέρας τῶν",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Ac 20:16",
+      "text": "τὴν ἡμέραν τῆς",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Ac 20:18",
+      "text": "πρώτης ἡμέρας ἀφ’",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Ac 20:26",
+      "text": "σήμερον ἡμέρᾳ ὅτι",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Ac 20:31",
+      "text": "καὶ ἡμέραν οὐκ",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Ac 21:4",
+      "text": "αὐτοῦ ἡμέρας ἑπτά,",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Ac 21:5",
+      "text": "τὰς ἡμέρας, ἐξελθόντες",
+      "highlightedWord": "ἡμέρας,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Ac 21:7",
+      "text": "ἐμείναμεν ἡμέραν μίαν",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Ac 21:10",
+      "text": "δὲ ἡμέρας πλείους",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Ac 21:15",
+      "text": "τὰς ἡμέρας ταύτας",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Ac 21:26",
+      "text": "ἐχομένῃ ἡμέρᾳ σὺν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Ac 21:27",
+      "text": "ἑπτὰ ἡμέραι συντελεῖσθαι,",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 38,
+      "reference": "Ac 21:38",
+      "text": "τῶν ἡμερῶν ἀναστατώσας",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 1,
+      "reference": "Ac 23:1",
+      "text": "τῆς ἡμέρας.",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Ac 23:12",
+      "text": "δὲ ἡμέρας ποιήσαντες",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Ac 24:1",
+      "text": "πέντε ἡμέρας κατέβη",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Ac 24:11",
+      "text": "μοι ἡμέραι δώδεκα",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Ac 24:24",
+      "text": "δὲ ἡμέρας τινὰς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 1,
+      "reference": "Ac 25:1",
+      "text": "τρεῖς ἡμέρας ἀνέβη",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Ac 25:6",
+      "text": "αὐτοῖς ἡμέρας οὐ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 13,
+      "reference": "Ac 25:13",
+      "text": "Ἡμερῶν δὲ",
+      "highlightedWord": "Ἡμερῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 14,
+      "reference": "Ac 25:14",
+      "text": "πλείους ἡμέρας διέτριβον",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 7,
+      "reference": "Ac 26:7",
+      "text": "καὶ ἡμέραν λατρεῦον",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 13,
+      "reference": "Ac 26:13",
+      "text": "ἡμέρας μέσης",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "τῆς ἡμέρας ταύτης",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 7,
+      "reference": "Ac 27:7",
+      "text": "δὲ ἡμέραις βραδυπλοοῦντες",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 20,
+      "reference": "Ac 27:20",
+      "text": "πλείονας ἡμέρας, χειμῶνός",
+      "highlightedWord": "ἡμέρας,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Ac 27:29",
+      "text": "ηὔχοντο ἡμέραν γενέσθαι.",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 33,
+      "reference": "Ac 27:33",
+      "text": "οὗ ἡμέρα ἤμελλεν",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 39,
+      "reference": "Ac 27:39",
+      "text": "δὲ ἡμέρα ἐγένετο,",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 7,
+      "reference": "Ac 28:7",
+      "text": "τρεῖς ἡμέρας φιλοφρόνως",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 12,
+      "reference": "Ac 28:12",
+      "text": "ἐπεμείναμεν ἡμέρας τρεῖς,",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 13,
+      "reference": "Ac 28:13",
+      "text": "μίαν ἡμέραν ἐπιγενομένου",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 14,
+      "reference": "Ac 28:14",
+      "text": "ἐπιμεῖναι ἡμέρας ἑπτά·",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 17,
+      "reference": "Ac 28:17",
+      "text": "μετὰ ἡμέρας τρεῖς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 23,
+      "reference": "Ac 28:23",
+      "text": "αὐτῷ ἡμέραν ἧκον",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ro 2:5",
+      "text": "ἐν ἡμέρᾳ ὀργῆς",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ro 2:16",
+      "text": "ἐν ἡμέρᾳ ὅτε",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Ro 8:36",
+      "text": "τὴν ἡμέραν, ἐλογίσθημεν",
+      "highlightedWord": "ἡμέραν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Ro 10:21",
+      "text": "τὴν ἡμέραν ἐξεπέτασα",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Ro 11:8",
+      "text": "σήμερον ἡμέρας.",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Ro 13:12",
+      "text": "δὲ ἡμέρα ἤγγικεν.",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Ro 13:13",
+      "text": "ἐν ἡμέρᾳ εὐσχημόνως",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Ro 14:5",
+      "text": "κρίνει ἡμέραν παρ’",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Ro 14:6",
+      "text": "τὴν ἡμέραν κυρίῳ",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Co 1:8",
+      "text": "τῇ ἡμέρᾳ τοῦ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Co 3:13",
+      "text": "γὰρ ἡμέρα δηλώσει·",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "1Co 4:3",
+      "text": "ἀνθρωπίνης ἡμέρας· ἀλλ’",
+      "highlightedWord": "ἡμέρας·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Co 5:5",
+      "text": "τῇ ἡμέρᾳ τοῦ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "1Co 10:8",
+      "text": "μιᾷ ἡμέρᾳ εἴκοσι",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "1Co 15:4",
+      "text": "τῇ ἡμέρᾳ τῇ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "1Co 15:31",
+      "text": "καθ’ ἡμέραν ἀποθνῄσκω,",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "2Co 1:14",
+      "text": "τῇ ἡμέρᾳ τοῦ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Co 3:14",
+      "text": "σήμερον ἡμέρας τὸ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Co 4:16",
+      "text": "ἀνακαινοῦται ἡμέρᾳ καὶ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "2Co 6:2",
+      "text": "ἐν ἡμέρᾳ σωτηρίας",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "2Co 11:28",
+      "text": "καθ’ ἡμέραν, ἡ",
+      "highlightedWord": "ἡμέραν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Ga 1:18",
+      "text": "αὐτὸν ἡμέρας δεκαπέντε·",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Ga 4:10",
+      "text": "ἡμέρας παρατηρεῖσθε",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Eph 4:30",
+      "text": "εἰς ἡμέραν ἀπολυτρώσεως.",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Eph 5:16",
+      "text": "αἱ ἡμέραι πονηραί",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Eph 6:13",
+      "text": "τῇ ἡμέρᾳ τῇ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Php 1:5",
+      "text": "πρώτης ἡμέρας ἄχρι",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Php 1:6",
+      "text": "ἄχρι ἡμέρας Χριστοῦ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Php 1:10",
+      "text": "εἰς ἡμέραν Χριστοῦ,",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Php 2:16",
+      "text": "εἰς ἡμέραν Χριστοῦ,",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Col 1:6",
+      "text": "ἧς ἡμέρας ἠκούσατε",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Col 1:9",
+      "text": "ἧς ἡμέρας ἠκούσαμεν,",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Th 2:9",
+      "text": "καὶ ἡμέρας ἐργαζόμενοι",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Th 3:10",
+      "text": "καὶ ἡμέρας ὑπερεκπερισσοῦ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Th 5:2",
+      "text": "ὅτι ἡμέρα κυρίου",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Th 5:4",
+      "text": "ἡ ἡμέρα ὑμᾶς",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Th 5:5",
+      "text": "υἱοὶ ἡμέρας. οὐκ",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Th 5:8",
+      "text": "δὲ ἡμέρας ὄντες",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Th 1:10",
+      "text": "τῇ ἡμέρᾳ ἐκείνῃ.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Th 2:2",
+      "text": "ἡ ἡμέρα τοῦ",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Th 3:8",
+      "text": "καὶ ἡμέρας ἐργαζόμενοι",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Ti 5:5",
+      "text": "καὶ ἡμέρας·",
+      "highlightedWord": "ἡμέρας·"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Ti 1:3",
+      "text": "καὶ ἡμέρας",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Ti 1:12",
+      "text": "τὴν ἡμέραν.",
+      "highlightedWord": "ἡμέραν."
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Ti 1:18",
+      "text": "τῇ ἡμέρᾳ— καὶ",
+      "highlightedWord": "ἡμέρᾳ—"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Ti 3:1",
+      "text": "ἐσχάταις ἡμέραις ἐνστήσονται",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "2Ti 4:8",
+      "text": "τῇ ἡμέρᾳ, ὁ",
+      "highlightedWord": "ἡμέρᾳ,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Heb 1:2",
+      "text": "τῶν ἡμερῶν τούτων",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Heb 3:8",
+      "text": "τὴν ἡμέραν τοῦ",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Heb 3:13",
+      "text": "ἑκάστην ἡμέραν, ἄχρις",
+      "highlightedWord": "ἡμέραν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Heb 4:4",
+      "text": "τῇ ἡμέρᾳ τῇ",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Heb 4:7",
+      "text": "ὁρίζει ἡμέραν, Σήμερον,",
+      "highlightedWord": "ἡμέραν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Heb 4:8",
+      "text": "ταῦτα ἡμέρας.",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Heb 5:7",
+      "text": "ταῖς ἡμέραις τῆς",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Heb 7:3",
+      "text": "ἀρχὴν ἡμερῶν μήτε",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Heb 7:27",
+      "text": "καθ’ ἡμέραν ἀνάγκην,",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Heb 8:8",
+      "text": "Ἰδοὺ ἡμέραι ἔρχονται,",
+      "highlightedWord": "ἡμέραι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Heb 8:9",
+      "text": "ἐν ἡμέρᾳ ἐπιλαβομένου",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Heb 8:10",
+      "text": "τὰς ἡμέρας ἐκείνας,",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Heb 10:11",
+      "text": "καθ’ ἡμέραν λειτουργῶν",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Heb 10:16",
+      "text": "τὰς ἡμέρας ἐκείνας,",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Heb 10:25",
+      "text": "τὴν ἡμέραν.",
+      "highlightedWord": "ἡμέραν."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Heb 10:32",
+      "text": "πρότερον ἡμέρας, ἐν",
+      "highlightedWord": "ἡμέρας,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Heb 11:30",
+      "text": "ἑπτὰ ἡμέρας.",
+      "highlightedWord": "ἡμέρας."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Heb 12:10",
+      "text": "ὀλίγας ἡμέρας κατὰ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Jas 5:3",
+      "text": "ἐσχάταις ἡμέραις.",
+      "highlightedWord": "ἡμέραις."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Jas 5:5",
+      "text": "ἐν ἡμέρᾳ σφαγῆς.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Pe 2:12",
+      "text": "ἐν ἡμέρᾳ ἐπισκοπῆς.",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Pe 3:10",
+      "text": "ἰδεῖν ἡμέρας ἀγαθὰς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "1Pe 3:20",
+      "text": "ἐν ἡμέραις Νῶε",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "2Pe 1:19",
+      "text": "οὗ ἡμέρα διαυγάσῃ",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "2Pe 2:8",
+      "text": "αὐτοῖς ἡμέραν ἐξ",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Pe 2:9",
+      "text": "εἰς ἡμέραν κρίσεως",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Pe 2:13",
+      "text": "ἐν ἡμέρᾳ τρυφήν,",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Pe 3:3",
+      "text": "τῶν ἡμερῶν ἐν",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Pe 3:7",
+      "text": "εἰς ἡμέραν κρίσεως",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Pe 3:8",
+      "text": "μία ἡμέρα παρὰ",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Pe 3:10",
+      "text": "δὲ ἡμέρα κυρίου",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Pe 3:12",
+      "text": "θεοῦ ἡμέρας, δι’",
+      "highlightedWord": "ἡμέρας,"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "2Pe 3:18",
+      "text": "εἰς ἡμέραν αἰῶνος.",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Jn 4:17",
+      "text": "τῇ ἡμέρᾳ τῆς",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jud 1:6",
+      "text": "μεγάλης ἡμέρας δεσμοῖς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Re 1:10",
+      "text": "κυριακῇ ἡμέρᾳ, καὶ",
+      "highlightedWord": "ἡμέρᾳ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "θλῖψιν ἡμερῶν δέκα.",
+      "highlightedWord": "ἡμερῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "ταῖς ἡμέραις Ἀντιπᾶς,",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "ἔχουσιν ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Re 6:17",
+      "text": "ἡ ἡμέρα ἡ",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Re 7:15",
+      "text": "αὐτῷ ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "ἡ ἡμέρα μὴ",
+      "highlightedWord": "ἡμέρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "ταῖς ἡμέραις ἐκείναις",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Re 9:15",
+      "text": "καὶ ἡμέραν καὶ",
+      "highlightedWord": "ἡμέραν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Re 10:7",
+      "text": "ταῖς ἡμέραις τῆς",
+      "highlightedWord": "ἡμέραις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Re 11:3",
+      "text": "προφητεύσουσιν ἡμέρας χιλίας",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "τὰς ἡμέρας τῆς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Re 11:9",
+      "text": "αὐτῶν ἡμέρας τρεῖς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Re 11:11",
+      "text": "τρεῖς ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Re 12:6",
+      "text": "αὐτὴν ἡμέρας χιλίας",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Re 12:10",
+      "text": "ἡμῶν ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "ἀνάπαυσιν ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Re 16:14",
+      "text": "τῆς ἡμέρας τῆς",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Re 18:8",
+      "text": "μιᾷ ἡμέρᾳ ἥξουσιν",
+      "highlightedWord": "ἡμέρᾳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Re 20:10",
+      "text": "βασανισθήσονται ἡμέρας καὶ",
+      "highlightedWord": "ἡμέρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Re 21:25",
+      "text": "κλεισθῶσιν ἡμέρας, νὺξ",
+      "highlightedWord": "ἡμέρας,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

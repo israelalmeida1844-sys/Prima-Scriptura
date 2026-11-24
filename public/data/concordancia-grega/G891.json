@@ -1,0 +1,402 @@
+{
+  "strong": "G891",
+  "lemma": "ἄχρι",
+  "lemmaTranslit": "achri",
+  "tokenCount": 47,
+  "verseCount": 47,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Lucas": 4,
+    "Atos": 15,
+    "Romanos": 4,
+    "1 Coríntios": 3,
+    "2 Coríntios": 3,
+    "Gálatas": 1,
+    "Filipenses": 2,
+    "Hebreus": 2,
+    "Apocalipse": 11
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 38,
+      "reference": "Mt 24:38",
+      "text": "γαμίζοντες, ἄχρι ἧς",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Mk 16:8",
+      "text": "καὶ ἄχρι δύσεως",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Lk 1:20",
+      "text": "λαλῆσαι ἄχρι ἧς",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Lk 4:13",
+      "text": "αὐτοῦ ἄχρι καιροῦ.",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Lk 17:27",
+      "text": "ἐγαμίζοντο, ἄχρι ἧς",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Lk 21:24",
+      "text": "ἐθνῶν, ἄχρι οὗ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Ac 1:2",
+      "text": "ἄχρι ἧς",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Ac 2:29",
+      "text": "ἡμῖν ἄχρι τῆς",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ac 3:21",
+      "text": "δέξασθαι ἄχρι χρόνων",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Ac 7:18",
+      "text": "ἄχρι οὗ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ac 11:5",
+      "text": "ἦλθεν ἄχρι ἐμοῦ·",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Ac 13:6",
+      "text": "νῆσον ἄχρι Πάφου",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ac 13:11",
+      "text": "ἥλιον ἄχρι καιροῦ.",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Ac 20:6",
+      "text": "Τρῳάδα ἄχρι ἡμερῶν",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Ac 20:11",
+      "text": "ὁμιλήσας ἄχρι αὐγῆς,",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Ac 22:4",
+      "text": "ἐδίωξα ἄχρι θανάτου,",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Ac 22:22",
+      "text": "αὐτοῦ ἄχρι τούτου",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 1,
+      "reference": "Ac 23:1",
+      "text": "θεῷ ἄχρι ταύτης",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "θεοῦ ἄχρι τῆς",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 33,
+      "reference": "Ac 27:33",
+      "text": "Ἄχρι δὲ",
+      "highlightedWord": "Ἄχρι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 15,
+      "reference": "Ac 28:15",
+      "text": "ἡμῖν ἄχρι Ἀππίου",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "ἐκωλύθην ἄχρι τοῦ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ro 5:13",
+      "text": "ἄχρι γὰρ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Ro 8:22",
+      "text": "συνωδίνει ἄχρι τοῦ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "γέγονεν ἄχρι οὗ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Co 4:11",
+      "text": "ἄχρι τῆς",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "1Co 11:26",
+      "text": "καταγγέλλετε, ἄχρι οὗ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "1Co 15:25",
+      "text": "βασιλεύειν ἄχρι οὗ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Co 3:14",
+      "text": "αὐτῶν. ἄχρι γὰρ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "2Co 10:13",
+      "text": "ἐφικέσθαι ἄχρι καὶ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "2Co 10:14",
+      "text": "ἑαυτούς, ἄχρι γὰρ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Ga 4:2",
+      "text": "οἰκονόμους ἄχρι τῆς",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Php 1:5",
+      "text": "ἡμέρας ἄχρι τοῦ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Php 1:6",
+      "text": "ἐπιτελέσει ἄχρι ἡμέρας",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Heb 4:12",
+      "text": "διϊκνούμενος ἄχρι μερισμοῦ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Heb 6:11",
+      "text": "ἐλπίδος ἄχρι τέλους,",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "πιστὸς ἄχρι θανάτου,",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Re 2:25",
+      "text": "κρατήσατε ἄχρι οὗ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Re 2:26",
+      "text": "τηρῶν ἄχρι τέλους",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Re 7:3",
+      "text": "δένδρα, ἄχρι σφραγίσωμεν",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Re 12:11",
+      "text": "αὐτῶν ἄχρι θανάτου·",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Re 14:20",
+      "text": "ληνοῦ ἄχρι τῶν",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Re 15:8",
+      "text": "ναὸν ἄχρι τελεσθῶσιν",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Re 17:17",
+      "text": "θηρίῳ, ἄχρι τελεσθήσονται",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Re 18:5",
+      "text": "ἁμαρτίαι ἄχρι τοῦ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "ἔθνη, ἄχρι τελεσθῇ",
+      "highlightedWord": "ἄχρι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Re 20:5",
+      "text": "ἔζησαν ἄχρι τελεσθῇ",
+      "highlightedWord": "ἄχρι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

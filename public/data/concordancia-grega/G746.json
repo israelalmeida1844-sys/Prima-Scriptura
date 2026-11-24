@@ -1,0 +1,464 @@
+{
+  "strong": "G746",
+  "lemma": "ἀρχή",
+  "lemmaTranslit": "archē",
+  "tokenCount": 55,
+  "verseCount": 54,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 4,
+    "Lucas": 3,
+    "João": 8,
+    "Atos": 4,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "Efésios": 3,
+    "Filipenses": 1,
+    "Colossenses": 4,
+    "Tito": 1,
+    "Hebreus": 6,
+    "2 Pedro": 1,
+    "1 João": 8,
+    "2 João": 2,
+    "Judas": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Mt 19:4",
+      "text": "ἀπ’ ἀρχῆς ἄρσεν",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Mt 19:8",
+      "text": "ἀπ’ ἀρχῆς δὲ",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 8,
+      "reference": "Mt 24:8",
+      "text": "ταῦτα ἀρχὴ ὠδίνων.",
+      "highlightedWord": "ἀρχὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Mt 24:21",
+      "text": "ἀπ’ ἀρχῆς κόσμου",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Mk 1:1",
+      "text": "Ἀρχὴ τοῦ",
+      "highlightedWord": "Ἀρχὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Mk 10:6",
+      "text": "δὲ ἀρχῆς κτίσεως",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Mk 13:8",
+      "text": "λιμοί· ἀρχὴ ὠδίνων",
+      "highlightedWord": "ἀρχὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mk 13:19",
+      "text": "ἀπ’ ἀρχῆς κτίσεως",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Lk 1:2",
+      "text": "ἀπ’ ἀρχῆς αὐτόπται",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Lk 12:11",
+      "text": "τὰς ἀρχὰς καὶ",
+      "highlightedWord": "ἀρχὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Lk 20:20",
+      "text": "τῇ ἀρχῇ καὶ",
+      "highlightedWord": "ἀρχῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Jn 1:1",
+      "text": "Ἐν ἀρχῇ ἦν",
+      "highlightedWord": "ἀρχῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Jn 1:2",
+      "text": "ἐν ἀρχῇ πρὸς",
+      "highlightedWord": "ἀρχῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Jn 2:11",
+      "text": "ἐποίησεν ἀρχὴν τῶν",
+      "highlightedWord": "ἀρχὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 64,
+      "reference": "Jn 6:64",
+      "text": "ἐξ ἀρχῆς ὁ",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Jn 8:25",
+      "text": "Τὴν ἀρχὴν ὅ",
+      "highlightedWord": "ἀρχὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Jn 8:44",
+      "text": "ἀπ’ ἀρχῆς, καὶ",
+      "highlightedWord": "ἀρχῆς,"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Jn 15:27",
+      "text": "ἀπ’ ἀρχῆς μετ’",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Jn 16:4",
+      "text": "ἐξ ἀρχῆς οὐκ",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Ac 10:11",
+      "text": "τέσσαρσιν ἀρχαῖς καθιέμενον",
+      "highlightedWord": "ἀρχαῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ac 11:5",
+      "text": "τέσσαρσιν ἀρχαῖς καθιεμένην",
+      "highlightedWord": "ἀρχαῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Ac 11:15",
+      "text": "ἐν ἀρχῇ.",
+      "highlightedWord": "ἀρχῇ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Ac 26:4",
+      "text": "ἀπ’ ἀρχῆς γενομένην",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ro 8:38",
+      "text": "οὔτε ἀρχαὶ οὔτε",
+      "highlightedWord": "ἀρχαὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "1Co 15:24",
+      "text": "πᾶσαν ἀρχὴν καὶ",
+      "highlightedWord": "ἀρχὴν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Eph 1:21",
+      "text": "πάσης ἀρχῆς καὶ",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Eph 3:10",
+      "text": "ταῖς ἀρχαῖς καὶ",
+      "highlightedWord": "ἀρχαῖς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Eph 6:12",
+      "text": "τὰς ἀρχάς, πρὸς",
+      "highlightedWord": "ἀρχάς,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Php 4:15",
+      "text": "ἐν ἀρχῇ τοῦ",
+      "highlightedWord": "ἀρχῇ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Col 1:16",
+      "text": "εἴτε ἀρχαὶ εἴτε",
+      "highlightedWord": "ἀρχαὶ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Col 1:18",
+      "text": "ἐστιν ἀρχή, πρωτότοκος",
+      "highlightedWord": "ἀρχή,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Col 2:10",
+      "text": "πάσης ἀρχῆς καὶ",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Col 2:15",
+      "text": "τὰς ἀρχὰς καὶ",
+      "highlightedWord": "ἀρχὰς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Tit 3:1",
+      "text": "αὐτοὺς ἀρχαῖς ἐξουσίαις",
+      "highlightedWord": "ἀρχαῖς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Heb 1:10",
+      "text": "κατ’ ἀρχάς, κύριε,",
+      "highlightedWord": "ἀρχάς,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Heb 2:3",
+      "text": "ἥτις, ἀρχὴν λαβοῦσα",
+      "highlightedWord": "ἀρχὴν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Heb 3:14",
+      "text": "τὴν ἀρχὴν τῆς",
+      "highlightedWord": "ἀρχὴν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Heb 5:12",
+      "text": "τῆς ἀρχῆς τῶν",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Heb 6:1",
+      "text": "τῆς ἀρχῆς τοῦ",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Heb 7:3",
+      "text": "μήτε ἀρχὴν ἡμερῶν",
+      "highlightedWord": "ἀρχὴν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "2Pe 3:4",
+      "text": "ἀπ’ ἀρχῆς κτίσεως.",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "1Jn 1:1",
+      "text": "ἀπ’ ἀρχῆς, ὃ",
+      "highlightedWord": "ἀρχῆς,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Jn 2:7",
+      "text": "ἀπ’ ἀρχῆς· ἡ",
+      "highlightedWord": "ἀρχῆς·"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Jn 2:13",
+      "text": "ἀπ’ ἀρχῆς· γράφω",
+      "highlightedWord": "ἀρχῆς·"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Jn 2:14",
+      "text": "ἀπ’ ἀρχῆς· ἔγραψα",
+      "highlightedWord": "ἀρχῆς·"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "1Jn 2:24",
+      "text": "ἀπ’ ἀρχῆς, ἐν",
+      "highlightedWord": "ἀρχῆς,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Jn 3:8",
+      "text": "ἀπ’ ἀρχῆς ὁ",
+      "highlightedWord": "ἀρχῆς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Jn 3:11",
+      "text": "ἀπ’ ἀρχῆς, ἵνα",
+      "highlightedWord": "ἀρχῆς,"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Jn 1:5",
+      "text": "ἀπ’ ἀρχῆς, ἵνα",
+      "highlightedWord": "ἀρχῆς,"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Jn 1:6",
+      "text": "ἀπ’ ἀρχῆς, ἵνα",
+      "highlightedWord": "ἀρχῆς,"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jud 1:6",
+      "text": "ἑαυτῶν ἀρχὴν ἀλλὰ",
+      "highlightedWord": "ἀρχὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Re 3:14",
+      "text": "ἡ ἀρχὴ τῆς",
+      "highlightedWord": "ἀρχὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Re 21:6",
+      "text": "ἡ ἀρχὴ καὶ",
+      "highlightedWord": "ἀρχὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Re 22:13",
+      "text": "ἡ ἀρχὴ καὶ",
+      "highlightedWord": "ἀρχὴ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

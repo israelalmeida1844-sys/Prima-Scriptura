@@ -1,0 +1,69 @@
+{
+  "strong": "G152",
+  "lemma": "αἰσχύνη",
+  "lemmaTranslit": "aischynē",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Lucas": 1,
+    "2 Coríntios": 1,
+    "Filipenses": 1,
+    "Hebreus": 1,
+    "Judas": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Lk 14:9",
+      "text": "μετὰ αἰσχύνης τὸν",
+      "highlightedWord": "αἰσχύνης"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Co 4:2",
+      "text": "τῆς αἰσχύνης, μὴ",
+      "highlightedWord": "αἰσχύνης,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Php 3:19",
+      "text": "τῇ αἰσχύνῃ αὐτῶν,",
+      "highlightedWord": "αἰσχύνῃ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Heb 12:2",
+      "text": "σταυρὸν αἰσχύνης καταφρονήσας,",
+      "highlightedWord": "αἰσχύνης"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jud 1:13",
+      "text": "ἑαυτῶν αἰσχύνας, ἀστέρες",
+      "highlightedWord": "αἰσχύνας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "ἡ αἰσχύνη τῆς",
+      "highlightedWord": "αἰσχύνη"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

@@ -1,0 +1,343 @@
+{
+  "strong": "G2730",
+  "lemma": "κατοικέω",
+  "lemmaTranslit": "katoikeō",
+  "tokenCount": 44,
+  "verseCount": 40,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Lucas": 2,
+    "Atos": 20,
+    "Efésios": 1,
+    "Colossenses": 2,
+    "Hebreus": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Mt 2:23",
+      "text": "ἐλθὼν κατῴκησεν εἰς",
+      "highlightedWord": "κατῴκησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Mt 4:13",
+      "text": "ἐλθὼν κατῴκησεν εἰς",
+      "highlightedWord": "κατῴκησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "εἰσελθόντα κατοικεῖ ἐκεῖ·",
+      "highlightedWord": "κατοικεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 21,
+      "reference": "Mt 23:21",
+      "text": "τῷ κατοικοῦντι αὐτόν·",
+      "highlightedWord": "κατοικοῦντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Lk 11:26",
+      "text": "εἰσελθόντα κατοικεῖ ἐκεῖ,",
+      "highlightedWord": "κατοικεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Lk 13:4",
+      "text": "τοὺς κατοικοῦντας Ἰερουσαλήμ;",
+      "highlightedWord": "κατοικοῦντας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Ac 1:19",
+      "text": "τοῖς κατοικοῦσιν Ἰερουσαλήμ,",
+      "highlightedWord": "κατοικοῦσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Ac 1:20",
+      "text": "ὁ κατοικῶν ἐν",
+      "highlightedWord": "κατοικῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ac 2:5",
+      "text": "Ἰερουσαλὴμ κατοικοῦντες Ἰουδαῖοι,",
+      "highlightedWord": "κατοικοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ac 2:9",
+      "text": "οἱ κατοικοῦντες τὴν",
+      "highlightedWord": "κατοικοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ac 2:14",
+      "text": "οἱ κατοικοῦντες Ἰερουσαλὴμ",
+      "highlightedWord": "κατοικοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ac 4:16",
+      "text": "τοῖς κατοικοῦσιν Ἰερουσαλὴμ",
+      "highlightedWord": "κατοικοῦσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Ac 7:2",
+      "text": "ἢ κατοικῆσαι αὐτὸν",
+      "highlightedWord": "κατοικῆσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Ac 7:4",
+      "text": "Χαλδαίων κατῴκησεν ἐν",
+      "highlightedWord": "κατῴκησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 48,
+      "reference": "Ac 7:48",
+      "text": "χειροποιήτοις κατοικεῖ· καθὼς",
+      "highlightedWord": "κατοικεῖ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Ac 9:22",
+      "text": "τοὺς κατοικοῦντας ἐν",
+      "highlightedWord": "κατοικοῦντας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Ac 9:32",
+      "text": "τοὺς κατοικοῦντας Λύδδα.",
+      "highlightedWord": "κατοικοῦντας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Ac 9:35",
+      "text": "οἱ κατοικοῦντες Λύδδα",
+      "highlightedWord": "κατοικοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Ac 11:29",
+      "text": "τοῖς κατοικοῦσιν ἐν",
+      "highlightedWord": "κατοικοῦσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Ac 13:27",
+      "text": "γὰρ κατοικοῦντες ἐν",
+      "highlightedWord": "κατοικοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Ac 17:24",
+      "text": "ναοῖς κατοικεῖ",
+      "highlightedWord": "κατοικεῖ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Ac 17:26",
+      "text": "ἀνθρώπων κατοικεῖν ἐπὶ",
+      "highlightedWord": "κατοικεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Ac 19:10",
+      "text": "τοὺς κατοικοῦντας τὴν",
+      "highlightedWord": "κατοικοῦντας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Ac 19:17",
+      "text": "τοῖς κατοικοῦσιν τὴν",
+      "highlightedWord": "κατοικοῦσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Ac 22:12",
+      "text": "τῶν κατοικούντων Ἰουδαίων,",
+      "highlightedWord": "κατοικούντων"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Eph 3:17",
+      "text": "κατοικῆσαι τὸν",
+      "highlightedWord": "κατοικῆσαι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Col 1:19",
+      "text": "πλήρωμα κατοικῆσαι",
+      "highlightedWord": "κατοικῆσαι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Col 2:9",
+      "text": "αὐτῷ κατοικεῖ πᾶν",
+      "highlightedWord": "κατοικεῖ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Heb 11:9",
+      "text": "σκηναῖς κατοικήσας μετὰ",
+      "highlightedWord": "κατοικήσας"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Pe 3:13",
+      "text": "δικαιοσύνη κατοικεῖ.",
+      "highlightedWord": "κατοικεῖ."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "ποῦ κατοικεῖς, ὅπου",
+      "highlightedWord": "κατοικεῖς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Re 3:10",
+      "text": "τοὺς κατοικοῦντας ἐπὶ",
+      "highlightedWord": "κατοικοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Re 6:10",
+      "text": "τῶν κατοικούντων ἐπὶ",
+      "highlightedWord": "κατοικούντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "τοὺς κατοικοῦντας ἐπὶ",
+      "highlightedWord": "κατοικοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Re 11:10",
+      "text": "οἱ κατοικοῦντες ἐπὶ",
+      "highlightedWord": "κατοικοῦντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Re 13:8",
+      "text": "οἱ κατοικοῦντες ἐπὶ",
+      "highlightedWord": "κατοικοῦντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Re 13:12",
+      "text": "αὐτῇ κατοικοῦντας ἵνα",
+      "highlightedWord": "κατοικοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Re 13:14",
+      "text": "τοὺς κατοικοῦντας ἐπὶ",
+      "highlightedWord": "κατοικοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Re 17:2",
+      "text": "οἱ κατοικοῦντες τὴν",
+      "highlightedWord": "κατοικοῦντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Re 17:8",
+      "text": "οἱ κατοικοῦντες ἐπὶ",
+      "highlightedWord": "κατοικοῦντες"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

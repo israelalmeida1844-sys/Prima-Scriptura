@@ -1,0 +1,24 @@
+{
+  "strong": "G4158",
+  "lemma": "ποδήρης",
+  "lemmaTranslit": "podērēs",
+  "tokenCount": 1,
+  "verseCount": 1,
+  "bookDistribution": {
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "ἐνδεδυμένον ποδήρη καὶ",
+      "highlightedWord": "ποδήρη"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

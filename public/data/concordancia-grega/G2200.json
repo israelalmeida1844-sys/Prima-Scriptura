@@ -1,0 +1,32 @@
+{
+  "strong": "G2200",
+  "lemma": "ζεστός",
+  "lemmaTranslit": "zestos",
+  "tokenCount": 3,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Re 3:15",
+      "text": "οὔτε ζεστός. ὄφελον",
+      "highlightedWord": "ζεστός."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Re 3:16",
+      "text": "οὔτε ζεστὸς οὔτε",
+      "highlightedWord": "ζεστὸς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

@@ -1,0 +1,35 @@
+{
+  "strong": "G2904",
+  "lemma": "κράτος",
+  "lemmaTranslit": "kratos",
+  "tokenCount": 12,
+  "verseCount": 12,
+  "bookDistribution": {
+    "Lc": 1,
+    "At": 1,
+    "Ef": 2,
+    "Cl": 1,
+    "1Tm": 1,
+    "Hb": 1,
+    "1Pe": 2,
+    "Jd": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Lc 1:51",
+    "At 19:20",
+    "Ef 1:19",
+    "Ef 6:10",
+    "Cl 1:11",
+    "1Tm 6:16",
+    "Hb 2:14",
+    "1Pe 4:11",
+    "1Pe 5:11",
+    "Jd 1:25",
+    "Ap 1:6",
+    "Ap 5:13"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}

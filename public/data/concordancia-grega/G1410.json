@@ -1,0 +1,1634 @@
+{
+  "strong": "G1410",
+  "lemma": "δύναμαι",
+  "lemmaTranslit": "dynamai",
+  "tokenCount": 209,
+  "verseCount": 200,
+  "bookDistribution": {
+    "Mateus": 27,
+    "Marcos": 33,
+    "Lucas": 26,
+    "João": 37,
+    "Atos": 21,
+    "Romanos": 4,
+    "1 Coríntios": 15,
+    "2 Coríntios": 3,
+    "Gálatas": 1,
+    "Efésios": 5,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 2,
+    "1 Timóteo": 3,
+    "2 Timóteo": 3,
+    "Hebreus": 9,
+    "Tiago": 6,
+    "1 João": 2,
+    "Judas": 1,
+    "Apocalipse": 10
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Mt 3:9",
+      "text": "ὅτι δύναται ὁ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Mt 5:14",
+      "text": "οὐ δύναται πόλις",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Mt 5:36",
+      "text": "οὐ δύνασαι μίαν",
+      "highlightedWord": "δύνασαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Mt 6:24",
+      "text": "Οὐδεὶς δύναται δυσὶ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Mt 6:27",
+      "text": "μεριμνῶν δύναται προσθεῖναι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Mt 7:18",
+      "text": "οὐ δύναται δένδρον",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Mt 8:2",
+      "text": "θέλῃς δύνασαί με",
+      "highlightedWord": "δύνασαί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Mt 9:15",
+      "text": "Μὴ δύνανται οἱ",
+      "highlightedWord": "δύνανται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Mt 9:28",
+      "text": "ὅτι δύναμαι τοῦτο",
+      "highlightedWord": "δύναμαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Mt 10:28",
+      "text": "μὴ δυναμένων ἀποκτεῖναι·",
+      "highlightedWord": "δυναμένων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mt 12:29",
+      "text": "πῶς δύναταί τις",
+      "highlightedWord": "δύναταί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Mt 12:34",
+      "text": "πῶς δύνασθε ἀγαθὰ",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Mt 16:3",
+      "text": "οὐ δύνασθε.",
+      "highlightedWord": "δύνασθε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Mt 17:16",
+      "text": "οὐκ ἠδυνήθησαν αὐτὸν",
+      "highlightedWord": "ἠδυνήθησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 19,
+      "reference": "Mt 17:19",
+      "text": "οὐκ ἠδυνήθημεν ἐκβαλεῖν",
+      "highlightedWord": "ἠδυνήθημεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Mt 19:12",
+      "text": "ὁ δυνάμενος χωρεῖν",
+      "highlightedWord": "δυνάμενος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 25,
+      "reference": "Mt 19:25",
+      "text": "ἄρα δύναται σωθῆναι;",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 22,
+      "reference": "Mt 20:22",
+      "text": "αἰτεῖσθε· δύνασθε πιεῖν",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Mt 22:46",
+      "text": "οὐδεὶς ἐδύνατο ἀποκριθῆναι",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 9,
+      "reference": "Mt 26:9",
+      "text": "ἐδύνατο γὰρ",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 42,
+      "reference": "Mt 26:42",
+      "text": "οὐ δύναται τοῦτο",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 53,
+      "reference": "Mt 26:53",
+      "text": "οὐ δύναμαι παρακαλέσαι",
+      "highlightedWord": "δύναμαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 61,
+      "reference": "Mt 26:61",
+      "text": "ἔφη· Δύναμαι καταλῦσαι",
+      "highlightedWord": "Δύναμαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 42,
+      "reference": "Mt 27:42",
+      "text": "οὐ δύναται σῶσαι·",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 40,
+      "reference": "Mk 1:40",
+      "text": "θέλῃς δύνασαί με",
+      "highlightedWord": "δύνασαί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "αὐτὸν δύνασθαι φανερῶς",
+      "highlightedWord": "δύνασθαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Mk 2:4",
+      "text": "μὴ δυνάμενοι προσενέγκαι",
+      "highlightedWord": "δυνάμενοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mk 2:7",
+      "text": "τίς δύναται ἀφιέναι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Mk 2:19",
+      "text": "Μὴ δύνανται οἱ",
+      "highlightedWord": "δύνανται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Mk 3:20",
+      "text": "μὴ δύνασθαι αὐτοὺς",
+      "highlightedWord": "δύνασθαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Mk 3:23",
+      "text": "Πῶς δύναται Σατανᾶς",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Mk 3:24",
+      "text": "οὐ δύναται σταθῆναι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Mk 3:25",
+      "text": "οὐ δυνήσεται ἡ",
+      "highlightedWord": "δυνήσεται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Mk 3:26",
+      "text": "οὐ δύναται στῆναι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Mk 3:27",
+      "text": "οὐδεὶς δύναται εἰς",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Mk 4:32",
+      "text": "ὥστε δύνασθαι ὑπὸ",
+      "highlightedWord": "δύνασθαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Mk 4:33",
+      "text": "καθὼς ἠδύναντο ἀκούειν·",
+      "highlightedWord": "ἠδύναντο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Mk 5:3",
+      "text": "οὐδεὶς ἐδύνατο αὐτὸν",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mk 6:5",
+      "text": "οὐκ ἐδύνατο ἐκεῖ",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Mk 6:19",
+      "text": "οὐκ ἠδύνατο·",
+      "highlightedWord": "ἠδύνατο·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Mk 7:15",
+      "text": "ὃ δύναται κοινῶσαι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Mk 7:18",
+      "text": "οὐ δύναται αὐτὸν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Mk 7:24",
+      "text": "οὐκ ἠδυνήθη λαθεῖν·",
+      "highlightedWord": "ἠδυνήθη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Mk 8:4",
+      "text": "τούτους δυνήσεταί τις",
+      "highlightedWord": "δυνήσεταί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Mk 9:3",
+      "text": "οὐ δύναται οὕτως",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mk 9:22",
+      "text": "τι δύνῃ, βοήθησον",
+      "highlightedWord": "δύνῃ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Mk 9:23",
+      "text": "Εἰ δύνῃ, πάντα",
+      "highlightedWord": "δύνῃ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Mk 9:28",
+      "text": "οὐκ ἠδυνήθημεν ἐκβαλεῖν",
+      "highlightedWord": "ἠδυνήθημεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Mk 9:29",
+      "text": "οὐδενὶ δύναται ἐξελθεῖν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Mk 9:39",
+      "text": "καὶ δυνήσεται ταχὺ",
+      "highlightedWord": "δυνήσεται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Mk 10:26",
+      "text": "τίς δύναται σωθῆναι;",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Mk 10:38",
+      "text": "αἰτεῖσθε· δύνασθε πιεῖν",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Mk 10:39",
+      "text": "αὐτῷ· Δυνάμεθα. ὁ",
+      "highlightedWord": "Δυνάμεθα."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Mk 14:5",
+      "text": "ἠδύνατο γὰρ",
+      "highlightedWord": "ἠδύνατο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Mk 14:7",
+      "text": "θέλητε δύνασθε αὐτοῖς",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mk 15:31",
+      "text": "οὐ δύναται σῶσαι·",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Lk 1:20",
+      "text": "μὴ δυνάμενος λαλῆσαι",
+      "highlightedWord": "δυνάμενος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Lk 1:22",
+      "text": "οὐκ ἐδύνατο λαλῆσαι",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Lk 3:8",
+      "text": "ὅτι δύναται ὁ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Lk 5:12",
+      "text": "θέλῃς δύνασαί με",
+      "highlightedWord": "δύνασαί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Lk 5:21",
+      "text": "τίς δύναται ἁμαρτίας",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Lk 5:34",
+      "text": "Μὴ δύνασθε τοὺς",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 39,
+      "reference": "Lk 6:39",
+      "text": "Μήτι δύναται τυφλὸς",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Lk 6:42",
+      "text": "πῶς δύνασαι λέγειν",
+      "highlightedWord": "δύνασαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Lk 8:19",
+      "text": "οὐκ ἠδύναντο συντυχεῖν",
+      "highlightedWord": "ἠδύναντο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Lk 9:40",
+      "text": "οὐκ ἠδυνήθησαν.",
+      "highlightedWord": "ἠδυνήθησαν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Lk 11:7",
+      "text": "οὐ δύναμαι ἀναστὰς",
+      "highlightedWord": "δύναμαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Lk 12:25",
+      "text": "μεριμνῶν δύναται ἐπὶ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Lk 12:26",
+      "text": "ἐλάχιστον δύνασθε, τί",
+      "highlightedWord": "δύνασθε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Lk 13:11",
+      "text": "μὴ δυναμένη ἀνακύψαι",
+      "highlightedWord": "δυναμένη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Lk 14:20",
+      "text": "οὐ δύναμαι ἐλθεῖν.",
+      "highlightedWord": "δύναμαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "οὐ δύναται εἶναί",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Lk 14:27",
+      "text": "οὐ δύναται εἶναί",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 33,
+      "reference": "Lk 14:33",
+      "text": "οὐ δύναται εἶναί",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Lk 16:2",
+      "text": "γὰρ δύνῃ ἔτι",
+      "highlightedWord": "δύνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Lk 16:13",
+      "text": "οἰκέτης δύναται δυσὶ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Lk 16:26",
+      "text": "μὴ δύνωνται, μηδὲ",
+      "highlightedWord": "δύνωνται,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 26,
+      "reference": "Lk 18:26",
+      "text": "τίς δύναται σωθῆναι;",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Lk 19:3",
+      "text": "οὐκ ἠδύνατο ἀπὸ",
+      "highlightedWord": "ἠδύνατο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 36,
+      "reference": "Lk 20:36",
+      "text": "ἔτι δύνανται, ἰσάγγελοι",
+      "highlightedWord": "δύνανται,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Lk 21:15",
+      "text": "οὐ δυνήσονται ἀντιστῆναι",
+      "highlightedWord": "δυνήσονται"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 46,
+      "reference": "Jn 1:46",
+      "text": "Ναζαρὲτ δύναταί τι",
+      "highlightedWord": "δύναταί"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jn 3:2",
+      "text": "γὰρ δύναται ταῦτα",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Jn 3:3",
+      "text": "οὐ δύναται ἰδεῖν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Jn 3:4",
+      "text": "Πῶς δύναται ἄνθρωπος",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Jn 3:5",
+      "text": "οὐ δύναται εἰσελθεῖν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Jn 3:9",
+      "text": "Πῶς δύναται ταῦτα",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Jn 3:27",
+      "text": "Οὐ δύναται ἄνθρωπος",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "οὐ δύναται ὁ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Jn 5:30",
+      "text": "Οὐ δύναμαι ἐγὼ",
+      "highlightedWord": "δύναμαι"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 44,
+      "reference": "Jn 5:44",
+      "text": "πῶς δύνασθε ὑμεῖς",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Jn 6:44",
+      "text": "οὐδεὶς δύναται ἐλθεῖν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 52,
+      "reference": "Jn 6:52",
+      "text": "Πῶς δύναται οὗτος",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 60,
+      "reference": "Jn 6:60",
+      "text": "τίς δύναται αὐτοῦ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 65,
+      "reference": "Jn 6:65",
+      "text": "οὐδεὶς δύναται ἐλθεῖν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Jn 7:7",
+      "text": "οὐ δύναται ὁ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Jn 7:34",
+      "text": "οὐ δύνασθε ἐλθεῖν.",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Jn 7:36",
+      "text": "οὐ δύνασθε ἐλθεῖν;",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Jn 8:21",
+      "text": "οὐ δύνασθε ἐλθεῖν.",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Jn 8:22",
+      "text": "οὐ δύνασθε ἐλθεῖν;",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 43,
+      "reference": "Jn 8:43",
+      "text": "οὐ δύνασθε ἀκούειν",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Jn 9:4",
+      "text": "οὐδεὶς δύναται ἐργάζεσθαι.",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Jn 9:16",
+      "text": "Πῶς δύναται ἄνθρωπος",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Jn 9:33",
+      "text": "οὐκ ἠδύνατο ποιεῖν",
+      "highlightedWord": "ἠδύνατο"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Jn 10:21",
+      "text": "δαιμόνιον δύναται τυφλῶν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Jn 10:29",
+      "text": "οὐδεὶς δύναται ἁρπάζειν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Jn 10:35",
+      "text": "οὐ δύναται λυθῆναι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Jn 11:37",
+      "text": "Οὐκ ἐδύνατο οὗτος",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Jn 12:39",
+      "text": "οὐκ ἠδύναντο πιστεύειν",
+      "highlightedWord": "ἠδύναντο"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Jn 13:33",
+      "text": "οὐ δύνασθε ἐλθεῖν,",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 36,
+      "reference": "Jn 13:36",
+      "text": "οὐ δύνασαί μοι",
+      "highlightedWord": "δύνασαί"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 37,
+      "reference": "Jn 13:37",
+      "text": "οὐ δύναμαί σοι",
+      "highlightedWord": "δύναμαί"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Jn 14:5",
+      "text": "πῶς δυνάμεθα τὴν",
+      "highlightedWord": "δυνάμεθα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Jn 14:17",
+      "text": "οὐ δύναται λαβεῖν,",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Jn 15:4",
+      "text": "οὐ δύναται καρπὸν",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Jn 15:5",
+      "text": "οὐ δύνασθε ποιεῖν",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Jn 16:12",
+      "text": "οὐ δύνασθε βαστάζειν",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ac 4:16",
+      "text": "οὐ δυνάμεθα ἀρνεῖσθαι·",
+      "highlightedWord": "δυνάμεθα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Ac 4:20",
+      "text": "οὐ δυνάμεθα γὰρ",
+      "highlightedWord": "δυνάμεθα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Ac 5:39",
+      "text": "οὐ δυνήσεσθε καταλῦσαι",
+      "highlightedWord": "δυνήσεσθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ac 8:31",
+      "text": "ἂν δυναίμην ἐὰν",
+      "highlightedWord": "δυναίμην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 47,
+      "reference": "Ac 10:47",
+      "text": "ὕδωρ δύναται κωλῦσαί",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 38,
+      "reference": "Ac 13:38",
+      "text": "οὐκ ἠδυνήθητε ἐν",
+      "highlightedWord": "ἠδυνήθητε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Ac 15:1",
+      "text": "οὐ δύνασθε σωθῆναι.",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 19,
+      "reference": "Ac 17:19",
+      "text": "λέγοντες· Δυνάμεθα γνῶναι",
+      "highlightedWord": "Δυνάμεθα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 40,
+      "reference": "Ac 19:40",
+      "text": "οὐ δυνησόμεθα ἀποδοῦναι",
+      "highlightedWord": "δυνησόμεθα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 32,
+      "reference": "Ac 20:32",
+      "text": "τῷ δυναμένῳ οἰκοδομῆσαι",
+      "highlightedWord": "δυναμένῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Ac 21:34",
+      "text": "μὴ δυναμένου δὲ",
+      "highlightedWord": "δυναμένου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 8,
+      "reference": "Ac 24:8",
+      "text": "οὗ δυνήσῃ αὐτὸς",
+      "highlightedWord": "δυνήσῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Ac 24:11",
+      "text": "δυναμένου σου",
+      "highlightedWord": "δυναμένου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 13,
+      "reference": "Ac 24:13",
+      "text": "παραστῆσαι δύνανταί σοι",
+      "highlightedWord": "δύνανταί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "με δύναται αὐτοῖς",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 32,
+      "reference": "Ac 26:32",
+      "text": "Ἀπολελύσθαι ἐδύνατο ὁ",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Ac 27:12",
+      "text": "πως δύναιντο καταντήσαντες",
+      "highlightedWord": "δύναιντο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 15,
+      "reference": "Ac 27:15",
+      "text": "μὴ δυναμένου ἀντοφθαλμεῖν",
+      "highlightedWord": "δυναμένου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 31,
+      "reference": "Ac 27:31",
+      "text": "οὐ δύνασθε.",
+      "highlightedWord": "δύνασθε."
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 39,
+      "reference": "Ac 27:39",
+      "text": "εἰ δύναιντο ἐξῶσαι",
+      "highlightedWord": "δύναιντο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 43,
+      "reference": "Ac 27:43",
+      "text": "τοὺς δυναμένους κολυμβᾶν",
+      "highlightedWord": "δυναμένους"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Ro 8:7",
+      "text": "γὰρ δύναται·",
+      "highlightedWord": "δύναται·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Ro 8:8",
+      "text": "οὐ δύνανται.",
+      "highlightedWord": "δύνανται."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Ro 8:39",
+      "text": "ἑτέρα δυνήσεται ἡμᾶς",
+      "highlightedWord": "δυνήσεται"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Ro 15:14",
+      "text": "γνώσεως, δυνάμενοι καὶ",
+      "highlightedWord": "δυνάμενοι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Co 2:14",
+      "text": "οὐ δύναται γνῶναι,",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Co 3:1",
+      "text": "οὐκ ἠδυνήθην λαλῆσαι",
+      "highlightedWord": "ἠδυνήθην"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Co 3:2",
+      "text": "γὰρ ἐδύνασθε. ἀλλ’",
+      "highlightedWord": "ἐδύνασθε."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Co 3:11",
+      "text": "οὐδεὶς δύναται θεῖναι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "1Co 6:5",
+      "text": "ὃς δυνήσεται διακρῖναι",
+      "highlightedWord": "δυνήσεται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "1Co 7:21",
+      "text": "καὶ δύνασαι ἐλεύθερος",
+      "highlightedWord": "δύνασαι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "1Co 10:13",
+      "text": "ὃ δύνασθε, ἀλλὰ",
+      "highlightedWord": "δύνασθε,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "1Co 10:21",
+      "text": "οὐ δύνασθε ποτήριον",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "1Co 12:3",
+      "text": "οὐδεὶς δύναται εἰπεῖν·",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "1Co 12:21",
+      "text": "οὐ δύναται δὲ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "1Co 14:31",
+      "text": "δύνασθε γὰρ",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 50,
+      "reference": "1Co 15:50",
+      "text": "οὐ δύναται, οὐδὲ",
+      "highlightedWord": "δύναται,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Co 1:4",
+      "text": "τὸ δύνασθαι ἡμᾶς",
+      "highlightedWord": "δύνασθαι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Co 3:7",
+      "text": "μὴ δύνασθαι ἀτενίσαι",
+      "highlightedWord": "δύνασθαι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "2Co 13:8",
+      "text": "γὰρ δυνάμεθά τι",
+      "highlightedWord": "δυνάμεθά"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ga 3:21",
+      "text": "ὁ δυνάμενος ζῳοποιῆσαι,",
+      "highlightedWord": "δυνάμενος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Eph 3:4",
+      "text": "ὃ δύνασθε ἀναγινώσκοντες",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Eph 3:20",
+      "text": "δὲ δυναμένῳ ὑπὲρ",
+      "highlightedWord": "δυναμένῳ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Eph 6:11",
+      "text": "τὸ δύνασθαι ὑμᾶς",
+      "highlightedWord": "δύνασθαι"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Eph 6:13",
+      "text": "ἵνα δυνηθῆτε ἀντιστῆναι",
+      "highlightedWord": "δυνηθῆτε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Eph 6:16",
+      "text": "ᾧ δυνήσεσθε πάντα",
+      "highlightedWord": "δυνήσεσθε"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Php 3:21",
+      "text": "τοῦ δύνασθαι αὐτὸν",
+      "highlightedWord": "δύνασθαι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Th 2:7",
+      "text": "δυνάμενοι ἐν",
+      "highlightedWord": "δυνάμενοι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Th 3:9",
+      "text": "εὐχαριστίαν δυνάμεθα τῷ",
+      "highlightedWord": "δυνάμεθα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "1Ti 5:25",
+      "text": "οὐ δύνανται.",
+      "highlightedWord": "δύνανται."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "1Ti 6:7",
+      "text": "τι δυνάμεθα·",
+      "highlightedWord": "δυνάμεθα·"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Ti 6:16",
+      "text": "ἰδεῖν δύναται· ᾧ",
+      "highlightedWord": "δύναται·"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Ti 2:13",
+      "text": "οὐ δύναται.",
+      "highlightedWord": "δύναται."
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Ti 3:7",
+      "text": "ἐλθεῖν δυνάμενα.",
+      "highlightedWord": "δυνάμενα."
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Ti 3:15",
+      "text": "τὰ δυνάμενά σε",
+      "highlightedWord": "δυνάμενά"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Heb 2:18",
+      "text": "πειρασθείς, δύναται τοῖς",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Heb 3:19",
+      "text": "οὐκ ἠδυνήθησαν εἰσελθεῖν",
+      "highlightedWord": "ἠδυνήθησαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Heb 4:15",
+      "text": "μὴ δυνάμενον συμπαθῆσαι",
+      "highlightedWord": "δυνάμενον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Heb 5:2",
+      "text": "μετριοπαθεῖν δυνάμενος τοῖς",
+      "highlightedWord": "δυνάμενος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Heb 5:7",
+      "text": "τὸν δυνάμενον σῴζειν",
+      "highlightedWord": "δυνάμενον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Heb 7:25",
+      "text": "παντελὲς δύναται τοὺς",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Heb 9:9",
+      "text": "μὴ δυνάμεναι κατὰ",
+      "highlightedWord": "δυνάμεναι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Heb 10:1",
+      "text": "οὐδέποτε δύναται τοὺς",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Heb 10:11",
+      "text": "οὐδέποτε δύνανται περιελεῖν",
+      "highlightedWord": "δύνανται"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Jas 1:21",
+      "text": "τὸν δυνάμενον σῶσαι",
+      "highlightedWord": "δυνάμενον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Jas 2:14",
+      "text": "μὴ δύναται ἡ",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jas 3:8",
+      "text": "δαμάσαι δύναται ἀνθρώπων·",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Jas 3:12",
+      "text": "μὴ δύναται, ἀδελφοί",
+      "highlightedWord": "δύναται,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Jas 4:2",
+      "text": "οὐ δύνασθε ἐπιτυχεῖν·",
+      "highlightedWord": "δύνασθε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Jas 4:12",
+      "text": "ὁ δυνάμενος σῶσαι",
+      "highlightedWord": "δυνάμενος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Jn 3:9",
+      "text": "οὐ δύναται ἁμαρτάνειν,",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "1Jn 4:20",
+      "text": "οὐ δύναται ἀγαπᾶν.",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Jud 1:24",
+      "text": "δὲ δυναμένῳ φυλάξαι",
+      "highlightedWord": "δυναμένῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "οὐ δύνῃ βαστάσαι",
+      "highlightedWord": "δύνῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "οὐδεὶς δύναται κλεῖσαι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Re 5:3",
+      "text": "οὐδεὶς ἐδύνατο ἐν",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Re 6:17",
+      "text": "τίς δύναται σταθῆναι;",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Re 7:9",
+      "text": "οὐδεὶς ἐδύνατο, ἐκ",
+      "highlightedWord": "ἐδύνατο,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "βλέπειν δύνανται οὔτε",
+      "highlightedWord": "δύνανται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Re 13:4",
+      "text": "τίς δύναται πολεμῆσαι",
+      "highlightedWord": "δύναται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "τις δύνηται ἀγοράσαι",
+      "highlightedWord": "δύνηται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Re 14:3",
+      "text": "οὐδεὶς ἐδύνατο μαθεῖν",
+      "highlightedWord": "ἐδύνατο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Re 15:8",
+      "text": "οὐδεὶς ἐδύνατο εἰσελθεῖν",
+      "highlightedWord": "ἐδύνατο"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

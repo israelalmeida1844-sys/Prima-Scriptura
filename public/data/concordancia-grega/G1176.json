@@ -1,0 +1,196 @@
+{
+  "strong": "G1176",
+  "lemma": "δέκα",
+  "lemmaTranslit": "deka",
+  "tokenCount": 25,
+  "verseCount": 22,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 1,
+    "Lucas": 11,
+    "Atos": 1,
+    "Apocalipse": 9
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Mt 20:24",
+      "text": "οἱ δέκα ἠγανάκτησαν",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 1,
+      "reference": "Mt 25:1",
+      "text": "οὐρανῶν δέκα παρθένοις,",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 28,
+      "reference": "Mt 25:28",
+      "text": "τὰ δέκα τάλαντα·",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 41,
+      "reference": "Mk 10:41",
+      "text": "οἱ δέκα ἤρξαντο",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Lk 13:16",
+      "text": "ἰδοὺ δέκα καὶ",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Lk 14:31",
+      "text": "ἐν δέκα χιλιάσιν",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Lk 15:8",
+      "text": "ἔχουσα δέκα, ἐὰν",
+      "highlightedWord": "δέκα,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Lk 17:12",
+      "text": "ἀπήντησαν δέκα λεπροὶ",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Lk 17:17",
+      "text": "οἱ δέκα ἐκαθαρίσθησαν;",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Lk 19:13",
+      "text": "δὲ δέκα δούλους",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Lk 19:16",
+      "text": "σου δέκα προσηργάσατο",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Lk 19:17",
+      "text": "ἐπάνω δέκα πόλεων.",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Lk 19:24",
+      "text": "τὰς δέκα μνᾶς",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 25,
+      "reference": "Lk 19:25",
+      "text": "ἔχει δέκα μνᾶς—",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Ac 25:6",
+      "text": "ἢ δέκα, καταβὰς",
+      "highlightedWord": "δέκα,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "ἡμερῶν δέκα. γίνου",
+      "highlightedWord": "δέκα."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Re 12:3",
+      "text": "κέρατα δέκα καὶ",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Re 13:1",
+      "text": "κέρατα δέκα καὶ",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Re 17:3",
+      "text": "κέρατα δέκα.",
+      "highlightedWord": "δέκα."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Re 17:7",
+      "text": "τὰ δέκα κέρατα·",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Re 17:12",
+      "text": "τὰ δέκα κέρατα",
+      "highlightedWord": "δέκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Re 17:16",
+      "text": "τὰ δέκα κέρατα",
+      "highlightedWord": "δέκα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

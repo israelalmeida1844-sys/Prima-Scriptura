@@ -1,0 +1,40 @@
+{
+  "strong": "G4394",
+  "lemma": "προφητεία",
+  "lemmaTranslit": "prophēteia",
+  "tokenCount": 19,
+  "verseCount": 19,
+  "bookDistribution": {
+    "Mt": 1,
+    "Rm": 1,
+    "1Co": 5,
+    "1Ts": 1,
+    "1Tm": 2,
+    "2Pe": 2,
+    "Ap": 7
+  },
+  "references": [
+    "Mt 13:14",
+    "Rm 12:6",
+    "1Co 12:10",
+    "1Co 13:2",
+    "1Co 13:8",
+    "1Co 14:6",
+    "1Co 14:22",
+    "1Ts 5:20",
+    "1Tm 1:18",
+    "1Tm 4:14",
+    "2Pe 1:20",
+    "2Pe 1:21",
+    "Ap 1:3",
+    "Ap 11:6",
+    "Ap 19:10",
+    "Ap 22:7",
+    "Ap 22:10",
+    "Ap 22:18",
+    "Ap 22:19"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}

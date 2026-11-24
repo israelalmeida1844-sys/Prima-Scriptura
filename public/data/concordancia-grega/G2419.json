@@ -1,0 +1,607 @@
+{
+  "strong": "G2419",
+  "lemma": "Ἰερουσαλήμ",
+  "lemmaTranslit": "Ierousalēm",
+  "tokenCount": 76,
+  "verseCount": 73,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Lucas": 27,
+    "Atos": 36,
+    "Romanos": 4,
+    "1 Coríntios": 1,
+    "Gálatas": 2,
+    "Hebreus": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 37,
+      "reference": "Mt 23:37",
+      "text": "Ἰερουσαλὴμ Ἰερουσαλήμ,",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Lk 2:25",
+      "text": "ἐν Ἰερουσαλὴμ ᾧ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "Lk 2:38",
+      "text": "λύτρωσιν Ἰερουσαλήμ.",
+      "highlightedWord": "Ἰερουσαλήμ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 41,
+      "reference": "Lk 2:41",
+      "text": "εἰς Ἰερουσαλὴμ τῇ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 43,
+      "reference": "Lk 2:43",
+      "text": "ἐν Ἰερουσαλήμ, καὶ",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 45,
+      "reference": "Lk 2:45",
+      "text": "εἰς Ἰερουσαλὴμ ἀναζητοῦντες",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Lk 4:9",
+      "text": "εἰς Ἰερουσαλὴμ καὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Lk 5:17",
+      "text": "καὶ Ἰερουσαλήμ· καὶ",
+      "highlightedWord": "Ἰερουσαλήμ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Lk 6:17",
+      "text": "καὶ Ἰερουσαλὴμ καὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Lk 9:31",
+      "text": "ἐν Ἰερουσαλήμ.",
+      "highlightedWord": "Ἰερουσαλήμ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 51,
+      "reference": "Lk 9:51",
+      "text": "εἰς Ἰερουσαλήμ,",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 53,
+      "reference": "Lk 9:53",
+      "text": "εἰς Ἰερουσαλήμ.",
+      "highlightedWord": "Ἰερουσαλήμ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Lk 10:30",
+      "text": "ἀπὸ Ἰερουσαλὴμ εἰς",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Lk 13:4",
+      "text": "κατοικοῦντας Ἰερουσαλήμ;",
+      "highlightedWord": "Ἰερουσαλήμ;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Lk 13:33",
+      "text": "ἔξω Ἰερουσαλήμ.",
+      "highlightedWord": "Ἰερουσαλήμ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Lk 13:34",
+      "text": "Ἰερουσαλὴμ Ἰερουσαλήμ,",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Lk 17:11",
+      "text": "εἰς Ἰερουσαλὴμ καὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Lk 18:31",
+      "text": "εἰς Ἰερουσαλήμ, καὶ",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Lk 19:11",
+      "text": "εἶναι Ἰερουσαλὴμ αὐτὸν",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 20,
+      "reference": "Lk 21:20",
+      "text": "στρατοπέδων Ἰερουσαλήμ, τότε",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Lk 21:24",
+      "text": "καὶ Ἰερουσαλὴμ ἔσται",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Lk 23:28",
+      "text": "Θυγατέρες Ἰερουσαλήμ, μὴ",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 13,
+      "reference": "Lk 24:13",
+      "text": "ἀπὸ Ἰερουσαλήμ, ᾗ",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Lk 24:18",
+      "text": "παροικεῖς Ἰερουσαλὴμ καὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 33,
+      "reference": "Lk 24:33",
+      "text": "εἰς Ἰερουσαλήμ, καὶ",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 47,
+      "reference": "Lk 24:47",
+      "text": "ἀπὸ Ἰερουσαλήμ·",
+      "highlightedWord": "Ἰερουσαλήμ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 52,
+      "reference": "Lk 24:52",
+      "text": "εἰς Ἰερουσαλὴμ μετὰ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ac 1:8",
+      "text": "τε Ἰερουσαλὴμ καὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ac 1:12",
+      "text": "εἰς Ἰερουσαλὴμ ἀπὸ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Ac 1:19",
+      "text": "κατοικοῦσιν Ἰερουσαλήμ, ὥστε",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ac 2:5",
+      "text": "ἐν Ἰερουσαλὴμ κατοικοῦντες",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ac 2:14",
+      "text": "κατοικοῦντες Ἰερουσαλὴμ πάντες,",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Ac 4:5",
+      "text": "ἐν Ἰερουσαλήμ",
+      "highlightedWord": "Ἰερουσαλήμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ac 4:16",
+      "text": "κατοικοῦσιν Ἰερουσαλὴμ φανερόν,",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Ac 5:16",
+      "text": "πόλεων Ἰερουσαλήμ, φέροντες",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Ac 5:28",
+      "text": "τὴν Ἰερουσαλὴμ τῆς",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Ac 6:7",
+      "text": "ἐν Ἰερουσαλὴμ σφόδρα,",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Ac 8:26",
+      "text": "ἀπὸ Ἰερουσαλὴμ εἰς",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Ac 8:27",
+      "text": "εἰς Ἰερουσαλήμ,",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ac 9:2",
+      "text": "εἰς Ἰερουσαλήμ.",
+      "highlightedWord": "Ἰερουσαλήμ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Ac 9:13",
+      "text": "ἐν Ἰερουσαλήμ·",
+      "highlightedWord": "Ἰερουσαλήμ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ac 9:21",
+      "text": "ἐν Ἰερουσαλὴμ τοὺς",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ac 9:26",
+      "text": "εἰς Ἰερουσαλὴμ ἐπείραζεν",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Ac 9:28",
+      "text": "εἰς Ἰερουσαλήμ, παρρησιαζόμενος",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Ac 10:39",
+      "text": "καὶ Ἰερουσαλήμ· ὃν",
+      "highlightedWord": "Ἰερουσαλήμ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Ac 11:2",
+      "text": "εἰς Ἰερουσαλήμ, διεκρίνοντο",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Ac 11:22",
+      "text": "ἐν Ἰερουσαλὴμ περὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Ac 12:25",
+      "text": "εἰς Ἰερουσαλὴμ πληρώσαντες",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Ac 13:27",
+      "text": "ἐν Ἰερουσαλὴμ καὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Ac 13:31",
+      "text": "εἰς Ἰερουσαλήμ, οἵτινες",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ac 15:2",
+      "text": "εἰς Ἰερουσαλὴμ περὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 22,
+      "reference": "Ac 20:22",
+      "text": "εἰς Ἰερουσαλήμ, τὰ",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "ἐν Ἰερουσαλὴμ οἱ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Ac 21:12",
+      "text": "εἰς Ἰερουσαλήμ.",
+      "highlightedWord": "Ἰερουσαλήμ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Ac 21:13",
+      "text": "εἰς Ἰερουσαλὴμ ἑτοίμως",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Ac 21:31",
+      "text": "συγχύννεται Ἰερουσαλήμ,",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Ac 22:5",
+      "text": "εἰς Ἰερουσαλὴμ ἵνα",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 17,
+      "reference": "Ac 22:17",
+      "text": "εἰς Ἰερουσαλὴμ καὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Ac 22:18",
+      "text": "ἐξ Ἰερουσαλήμ, διότι",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 11,
+      "reference": "Ac 23:11",
+      "text": "εἰς Ἰερουσαλὴμ οὕτω",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Ac 24:11",
+      "text": "εἰς Ἰερουσαλήμ,",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 3,
+      "reference": "Ac 25:3",
+      "text": "εἰς Ἰερουσαλήμ, ἐνέδραν",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Ro 15:19",
+      "text": "ἀπὸ Ἰερουσαλὴμ καὶ",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Ro 15:25",
+      "text": "εἰς Ἰερουσαλὴμ διακονῶν",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Ro 15:26",
+      "text": "ἐν Ἰερουσαλήμ.",
+      "highlightedWord": "Ἰερουσαλήμ."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Ro 15:31",
+      "text": "εἰς Ἰερουσαλὴμ εὐπρόσδεκτος",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "1Co 16:3",
+      "text": "εἰς Ἰερουσαλήμ·",
+      "highlightedWord": "Ἰερουσαλήμ·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Ga 4:25",
+      "text": "νῦν Ἰερουσαλήμ, δουλεύει",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Ga 4:26",
+      "text": "ἄνω Ἰερουσαλὴμ ἐλευθέρα",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Heb 12:22",
+      "text": "ζῶντος, Ἰερουσαλὴμ ἐπουρανίῳ,",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "καινῆς Ἰερουσαλήμ, ἡ",
+      "highlightedWord": "Ἰερουσαλήμ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Re 21:2",
+      "text": "ἁγίαν Ἰερουσαλὴμ καινὴν",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Re 21:10",
+      "text": "ἁγίαν Ἰερουσαλὴμ καταβαίνουσαν",
+      "highlightedWord": "Ἰερουσαλὴμ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

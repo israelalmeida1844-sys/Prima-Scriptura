@@ -1,0 +1,516 @@
+/**
+ * Padrão visual e editorial acadêmico para o Apocalipse Grego — Prima Scriptura.
+ * Padronização estrita em Times New Roman, direção LTR e paleta institucional:
+ * Azul-escuro (#1c3554), dourado discreto (#c6a15b) e fundo neutro claro.
+ */
+
+.apocalipse-interlinear,
+.apocalipse-interlinear :is(h2, h3, h4, h5, p, label, legend, span, button, dt, dd, small, a, table, th, td) {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.apocalipse-interlinear {
+  border: 1px solid #dfd7c9;
+  border-radius: 14px;
+  padding: 24px;
+  background: #ffffff;
+  color: #233149;
+  font-size: 15px;
+  line-height: 1.6;
+  max-width: 100%;
+  box-shadow: 0 8px 28px rgba(16, 31, 53, 0.05);
+}
+
+.apocalipse-interlinear .interlinear-header {
+  text-align: center;
+  background: transparent;
+  color: #233149;
+  border: 0;
+  padding: 0;
+  margin: 0 0 12px;
+  box-shadow: none;
+}
+
+.apocalipse-kicker {
+  color: #936d36;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin: 0 0 6px;
+  text-transform: uppercase;
+}
+
+.apocalipse-interlinear .interlinear-header h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #101f35;
+  margin: 0 0 6px;
+}
+
+.apocalipse-interlinear .instruction,
+.apocalipse-interlinear .hint,
+.apocalipse-interlinear .concordance-note {
+  color: #647083;
+  font-size: 13px;
+  margin: 4px 0 0;
+}
+
+/* 5. Controles de visualização */
+.interlinear-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  align-items: center;
+  border: 0;
+  border-bottom: 1px solid #e4e0d8;
+  padding: 16px 0 14px;
+  margin: 0 0 16px;
+  min-width: 0;
+}
+
+.interlinear-controls legend {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1c3554;
+}
+
+.interlinear-controls label {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.interlinear-controls input[type="checkbox"] {
+  width: 17px;
+  height: 17px;
+  accent-color: #1c3554;
+  cursor: pointer;
+}
+
+/* 4. Apresentação do texto em fluxo contínuo (wrapping, sem necessidade de rolagem) */
+.interlinear-flow-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  width: 100%;
+  padding: 10px 0 22px;
+}
+
+.verse-num-badge {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 26px;
+  font-weight: 700;
+  color: #101f35;
+  line-height: 1.2;
+  padding-top: 40px;
+  user-select: none;
+  flex-shrink: 0;
+}
+
+.interlinear-words {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 14px;
+  width: 100%;
+  margin: 0;
+  align-items: flex-start;
+  direction: ltr;
+}
+
+.original-word {
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 6px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+  font: inherit;
+  text-align: center;
+}
+
+.original-word:hover,
+.original-word:focus-visible {
+  border-color: #c6a15b;
+  background: #fbf8f2;
+}
+
+.original-word.selected {
+  border: 1.5px solid #1c3554;
+  background: #edf2f8;
+  box-shadow: 0 3px 10px rgba(28, 53, 84, 0.1);
+}
+
+.strong-number {
+  color: #216091;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.word-transliteration {
+  color: #4b6279;
+  font-size: 13px;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.word-greek {
+  font-size: 26px;
+  line-height: 1.35;
+  white-space: nowrap;
+  color: #101f35;
+  font-weight: 600;
+}
+
+.word-gloss {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #9c3d39;
+  text-align: center;
+  line-height: 1.25;
+}
+
+.word-morph {
+  font-size: 11px;
+  font-weight: 600;
+  color: #216091;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* Ocultação dinâmica através dos botões de controle */
+.hide-greek .word-greek,
+.hide-transliteration .word-transliteration,
+.hide-gloss .word-gloss,
+.hide-morph .word-morph,
+.hide-translation [data-panel-translation] {
+  display: none !important;
+}
+
+/* 6. Ficha lexical interativa */
+.lexicon-card {
+  border: 1px solid #dcd7ce;
+  border-radius: 10px;
+  padding: 22px;
+  margin-top: 22px;
+  background: #fafaf9;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.lexicon-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.lexicon-header h3 {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+  color: #101f35;
+}
+
+.active-strong {
+  background: #e2ebf4;
+  color: #1c3554;
+  border-radius: 50px;
+  padding: 4px 12px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.lexicon-greek {
+  font-size: 36px;
+  line-height: 1.35;
+  color: #101f35;
+  margin: 6px 0 2px;
+  text-align: left;
+}
+
+.lexicon-transliteration {
+  color: #576b80;
+  margin: 0 0 16px;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.lexicon-fields {
+  margin: 10px 0 18px;
+  border-top: 1px solid #e2ddd5;
+}
+
+.lexicon-fields > div {
+  display: grid;
+  grid-template-columns: minmax(130px, 32%) minmax(0, 1fr);
+  border-bottom: 1px solid #e2ddd5;
+  padding: 11px 0;
+  column-gap: 18px;
+  row-gap: 4px;
+  align-items: start;
+}
+
+.lexicon-fields dt {
+  font-weight: 700;
+  font-size: 14px;
+  color: #1c3554;
+}
+
+.lexicon-fields dd {
+  margin: 0;
+  font-size: 14px;
+  color: #2b394e;
+}
+
+.lexicon-lemma {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.lexicon-lemma-greek {
+  font-size: 28px;
+  line-height: 1.3;
+  color: #101f35;
+}
+
+.lexicon-lemma-transliteration {
+  font-size: 14px;
+  color: #4b647d;
+  font-style: italic;
+}
+
+/* 8. Acepções e Sentidos Semânticos */
+.lexical-senses {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-width: 0;
+}
+
+.lexical-sense {
+  border: 1px solid #e2ddd5;
+  border-radius: 8px;
+  padding: 14px 16px;
+  background: #ffffff;
+}
+
+.lexical-sense-title {
+  color: #193753;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+
+.lexical-sense-definition {
+  color: #47586a;
+  font-size: 14px;
+  margin: 0 0 10px;
+  line-height: 1.55;
+}
+
+.lexical-examples {
+  display: grid;
+  gap: 10px;
+}
+
+.lexical-example {
+  border-left: 3px solid #c6a15b;
+  padding: 8px 12px;
+  background: #f7f8fa;
+  border-radius: 0 6px 6px 0;
+}
+
+.lexical-example-reference {
+  font-size: 13px;
+  font-weight: 700;
+  color: #725022;
+  margin: 0 0 3px;
+}
+
+.lexical-example-greek {
+  font-size: 18px;
+  color: #101f35;
+  margin: 0 0 3px;
+}
+
+.lexical-example-translation {
+  font-size: 14px;
+  font-style: italic;
+  color: #2a374a;
+  margin: 0 0 3px;
+}
+
+.lexical-example-note {
+  font-size: 13px;
+  color: #617182;
+  margin: 0;
+}
+
+/* 9. Painel de Concordância Exaustiva */
+.concordance-toggle {
+  display: block;
+  width: 100%;
+  border: 1px solid #1c3554;
+  background: transparent;
+  color: #1c3554;
+  border-radius: 7px;
+  padding: 12px 14px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  text-align: center;
+  transition: background 0.15s ease-in-out;
+}
+
+.concordance-toggle:hover,
+.concordance-toggle:focus-visible {
+  background: #edf2f8;
+}
+
+.concordance-panel {
+  margin-top: 14px;
+  padding: 16px;
+  border-radius: 9px;
+  background: #f3f6fa;
+  border: 1px solid #dae2ed;
+}
+
+.concordance-panel[hidden],
+.concordance-total[hidden],
+.concordance-selection[hidden] {
+  display: none !important;
+}
+
+.concordance-status {
+  font-size: 13px;
+  color: #526074;
+}
+
+.concordance-total {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1c3554;
+  margin: 0 0 8px;
+}
+
+.concordance-distribution {
+  font-size: 13px;
+  color: #435b76;
+  margin: 0 0 12px;
+  line-height: 1.5;
+}
+
+.concordance-references {
+  font-size: 14px;
+  line-height: 2.2;
+  text-align: left;
+}
+
+.concordance-reference {
+  display: inline;
+  border: 0;
+  padding: 2px 4px;
+  background: transparent;
+  color: #216091;
+  font: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.concordance-reference:hover,
+.concordance-reference:focus-visible {
+  color: #101f35;
+  background: #e2eaf4;
+  border-radius: 4px;
+}
+
+.concordance-selection {
+  border-top: 1px solid #cfd9e6;
+  padding-top: 10px;
+  margin-top: 12px;
+  font-size: 13px;
+  color: #1c3554;
+}
+
+/* 10. Nota de Crítica Textual */
+.textual-criticism-panel {
+  border-top: 1px solid #e4e0d8;
+  margin-top: 20px;
+  padding-top: 14px;
+}
+
+.textual-criticism-panel h4 {
+  margin: 0 0 6px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #936d36;
+  text-transform: uppercase;
+}
+
+.textual-criticism-panel p {
+  margin: 0;
+  font-size: 14px;
+  color: #4b5d72;
+  line-height: 1.65;
+}
+
+/* 11. Painel de Tradução Editorial */
+.translation-panel {
+  border-top: 1px solid #e4e0d8;
+  margin-top: 22px;
+  padding-top: 16px;
+}
+
+.translation-panel h3 {
+  margin: 0 0 8px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #647083;
+  text-transform: uppercase;
+}
+
+.translation-panel p {
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 1.55;
+  margin: 0 0 8px;
+  color: #101f35;
+}
+
+.translation-panel small {
+  font-size: 13px;
+  color: #647083;
+}
+
+/* Responsividade */
+@media (max-width: 650px) {
+  .apocalipse-interlinear {
+    padding: 14px;
+  }
+  .lexicon-card {
+    padding: 14px;
+  }
+  .lexicon-fields > div {
+    grid-template-columns: minmax(0, 1fr);
+    row-gap: 3px;
+  }
+  .original-word {
+    min-width: 86px;
+  }
+  .word-greek {
+    font-size: 22px;
+  }
+}

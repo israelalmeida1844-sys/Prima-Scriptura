@@ -1,0 +1,274 @@
+{
+  "strong": "G3668",
+  "lemma": "ὁμοίως",
+  "lemmaTranslit": "homoiōs",
+  "tokenCount": 31,
+  "verseCount": 31,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 2,
+    "Lucas": 11,
+    "João": 3,
+    "Romanos": 1,
+    "1 Coríntios": 3,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "1 Pedro": 3,
+    "Judas": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 26,
+      "reference": "Mt 22:26",
+      "text": "ὁμοίως καὶ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 35,
+      "reference": "Mt 26:35",
+      "text": "ἀπαρνήσομαι. ὁμοίως καὶ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 41,
+      "reference": "Mt 27:41",
+      "text": "ὁμοίως καὶ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Mk 4:16",
+      "text": "εἰσιν ὁμοίως οἱ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mk 15:31",
+      "text": "ὁμοίως καὶ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Lk 3:11",
+      "text": "βρώματα ὁμοίως ποιείτω.",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Lk 5:10",
+      "text": "ὁμοίως δὲ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Lk 5:33",
+      "text": "ποιοῦνται, ὁμοίως καὶ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Lk 6:31",
+      "text": "αὐτοῖς ὁμοίως.",
+      "highlightedWord": "ὁμοίως."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Lk 10:32",
+      "text": "ὁμοίως δὲ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Lk 10:37",
+      "text": "ποίει ὁμοίως.",
+      "highlightedWord": "ὁμοίως."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Lk 13:3",
+      "text": "πάντες ὁμοίως ἀπολεῖσθε.",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Lk 16:25",
+      "text": "Λάζαρος ὁμοίως τὰ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 28,
+      "reference": "Lk 17:28",
+      "text": "ὁμοίως καθὼς",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Lk 17:31",
+      "text": "ἀγρῷ ὁμοίως μὴ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 36,
+      "reference": "Lk 22:36",
+      "text": "ἀράτω, ὁμοίως καὶ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "υἱὸς ὁμοίως ποιεῖ.",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Jn 6:11",
+      "text": "ἀνακειμένοις, ὁμοίως καὶ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Jn 21:13",
+      "text": "ὀψάριον ὁμοίως.",
+      "highlightedWord": "ὁμοίως."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Ro 1:27",
+      "text": "ὁμοίως τε",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "1Co 7:3",
+      "text": "ἀποδιδότω, ὁμοίως δὲ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "1Co 7:4",
+      "text": "ἀνήρ· ὁμοίως δὲ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "1Co 7:22",
+      "text": "ἐστίν· ὁμοίως ὁ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Heb 9:21",
+      "text": "αἵματι ὁμοίως ἐράντισεν.",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Jas 2:25",
+      "text": "ὁμοίως δὲ",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Pe 3:1",
+      "text": "Ὁμοίως γυναῖκες",
+      "highlightedWord": "Ὁμοίως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Pe 3:7",
+      "text": "ἄνδρες ὁμοίως συνοικοῦντες",
+      "highlightedWord": "ὁμοίως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Pe 5:5",
+      "text": "ὁμοίως, νεώτεροι,",
+      "highlightedWord": "ὁμοίως,"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Jud 1:8",
+      "text": "Ὁμοίως μέντοι",
+      "highlightedWord": "Ὁμοίως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Re 2:15",
+      "text": "Νικολαϊτῶν ὁμοίως.",
+      "highlightedWord": "ὁμοίως."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "νὺξ ὁμοίως.",
+      "highlightedWord": "ὁμοίως."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

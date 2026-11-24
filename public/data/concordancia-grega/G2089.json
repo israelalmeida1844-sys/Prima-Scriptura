@@ -1,0 +1,684 @@
+{
+  "strong": "G2089",
+  "lemma": "ἔτι",
+  "lemmaTranslit": "eti",
+  "tokenCount": 93,
+  "verseCount": 82,
+  "bookDistribution": {
+    "Mateus": 8,
+    "Marcos": 5,
+    "Lucas": 16,
+    "João": 8,
+    "Atos": 5,
+    "Romanos": 6,
+    "1 Coríntios": 4,
+    "2 Coríntios": 1,
+    "Gálatas": 3,
+    "Filipenses": 1,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 13,
+    "Apocalipse": 22
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mt 5:13",
+      "text": "ἰσχύει ἔτι εἰ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Mt 12:46",
+      "text": "Ἔτι δὲ",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Mt 17:5",
+      "text": "ἔτι αὐτοῦ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Mt 18:16",
+      "text": "σοῦ ἔτι ἕνα",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Mt 19:20",
+      "text": "τί ἔτι ὑστερῶ;",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 47,
+      "reference": "Mt 26:47",
+      "text": "Καὶ ἔτι αὐτοῦ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 65,
+      "reference": "Mt 26:65",
+      "text": "τί ἔτι χρείαν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 63,
+      "reference": "Mt 27:63",
+      "text": "εἶπεν ἔτι ζῶν·",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Mk 5:35",
+      "text": "Ἔτι αὐτοῦ",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Mk 12:6",
+      "text": "ἔτι ἕνα",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 43,
+      "reference": "Mk 14:43",
+      "text": "εὐθὺς ἔτι αὐτοῦ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 63,
+      "reference": "Mk 14:63",
+      "text": "Τί ἔτι χρείαν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Lk 1:15",
+      "text": "πλησθήσεται ἔτι ἐκ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 49,
+      "reference": "Lk 8:49",
+      "text": "Ἔτι αὐτοῦ",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Lk 9:42",
+      "text": "ἔτι δὲ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Lk 14:22",
+      "text": "καὶ ἔτι τόπος",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "ἀδελφάς, ἔτι τε",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 32,
+      "reference": "Lk 14:32",
+      "text": "μήγε, ἔτι αὐτοῦ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Lk 15:20",
+      "text": "ἑαυτοῦ. ἔτι δὲ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Lk 16:2",
+      "text": "δύνῃ ἔτι οἰκονομεῖν.",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Lk 18:22",
+      "text": "αὐτῷ· Ἔτι ἕν",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 36,
+      "reference": "Lk 20:36",
+      "text": "ἀποθανεῖν ἔτι δύνανται,",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 47,
+      "reference": "Lk 22:47",
+      "text": "Ἔτι αὐτοῦ",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 60,
+      "reference": "Lk 22:60",
+      "text": "παραχρῆμα ἔτι λαλοῦντος",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 71,
+      "reference": "Lk 22:71",
+      "text": "Τί ἔτι ἔχομεν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Lk 24:6",
+      "text": "ὑμῖν ἔτι ὢν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 41,
+      "reference": "Lk 24:41",
+      "text": "ἔτι δὲ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 44,
+      "reference": "Lk 24:44",
+      "text": "ὑμᾶς ἔτι ὢν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Jn 4:35",
+      "text": "ὅτι Ἔτι τετράμηνός",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Jn 7:33",
+      "text": "Ἰησοῦς· Ἔτι χρόνον",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Jn 11:30",
+      "text": "ἦν ἔτι ἐν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "Ἰησοῦς· Ἔτι μικρὸν",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Jn 13:33",
+      "text": "τεκνία, ἔτι μικρὸν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Jn 14:19",
+      "text": "ἔτι μικρὸν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Jn 16:12",
+      "text": "Ἔτι πολλὰ",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Jn 20:1",
+      "text": "σκοτίας ἔτι οὔσης",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Ac 2:26",
+      "text": "μου, ἔτι δὲ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Ac 9:1",
+      "text": "Σαῦλος ἔτι ἐμπνέων",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 44,
+      "reference": "Ac 10:44",
+      "text": "Ἔτι λαλοῦντος",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Ac 18:18",
+      "text": "Παῦλος ἔτι προσμείνας",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Ac 21:28",
+      "text": "διδάσκων, ἔτι τε",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Ro 3:7",
+      "text": "τί ἔτι κἀγὼ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Ro 5:6",
+      "text": "Ἔτι γὰρ",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Ro 5:8",
+      "text": "ὅτι ἔτι ἁμαρτωλῶν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Ro 6:2",
+      "text": "πῶς ἔτι ζήσομεν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Ro 9:19",
+      "text": "οὖν ἔτι μέμφεται;",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Co 3:2",
+      "text": "οὐδὲ ἔτι νῦν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Co 3:3",
+      "text": "ἔτι γὰρ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "1Co 12:31",
+      "text": "καὶ ἔτι καθ’",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "1Co 15:17",
+      "text": "ὑμῶν, ἔτι ἐστὲ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Co 1:10",
+      "text": "καὶ ἔτι ῥύσεται,",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ga 1:10",
+      "text": "εἰ ἔτι ἀνθρώποις",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Ga 5:11",
+      "text": "περιτομὴν ἔτι κηρύσσω,",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Php 1:9",
+      "text": "ὑμῶν ἔτι μᾶλλον",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Th 2:5",
+      "text": "ὅτι ἔτι ὢν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Heb 7:10",
+      "text": "ἔτι γὰρ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Heb 7:11",
+      "text": "τίς ἔτι χρεία",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Heb 7:15",
+      "text": "περισσότερον ἔτι κατάδηλόν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Heb 8:12",
+      "text": "μνησθῶ ἔτι.",
+      "highlightedWord": "ἔτι."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Heb 9:8",
+      "text": "ὁδὸν ἔτι τῆς",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Heb 10:2",
+      "text": "ἔχειν ἔτι συνείδησιν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Heb 10:17",
+      "text": "μνησθήσομαι ἔτι·",
+      "highlightedWord": "ἔτι·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Heb 10:37",
+      "text": "ἔτι γὰρ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Heb 11:4",
+      "text": "ἀποθανὼν ἔτι λαλεῖ.",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Heb 11:32",
+      "text": "τί ἔτι λέγω;",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Heb 11:36",
+      "text": "ἔλαβον, ἔτι δὲ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Heb 12:26",
+      "text": "λέγων· Ἔτι ἅπαξ",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Heb 12:27",
+      "text": "δὲ Ἔτι ἅπαξ",
+      "highlightedWord": "Ἔτι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "ἐξέλθῃ ἔτι, καὶ",
+      "highlightedWord": "ἔτι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "ἀναπαύσονται ἔτι χρόνον",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Re 7:16",
+      "text": "πεινάσουσιν ἔτι οὐδὲ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Re 9:12",
+      "text": "ἔρχεται ἔτι δύο",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Re 12:8",
+      "text": "αὐτῶν ἔτι ἐν",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "εὑρεθῇ ἔτι.",
+      "highlightedWord": "ἔτι."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Re 18:22",
+      "text": "σοὶ ἔτι, καὶ",
+      "highlightedWord": "ἔτι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Re 18:23",
+      "text": "σοὶ ἔτι, καὶ",
+      "highlightedWord": "ἔτι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "πλανήσῃ ἔτι τὰ",
+      "highlightedWord": "ἔτι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Re 21:1",
+      "text": "ἔστιν ἔτι.",
+      "highlightedWord": "ἔτι."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Re 21:4",
+      "text": "ἔσται ἔτι· οὔτε",
+      "highlightedWord": "ἔτι·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Re 22:3",
+      "text": "ἔσται ἔτι. καὶ",
+      "highlightedWord": "ἔτι."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Re 22:5",
+      "text": "ἔσται ἔτι, καὶ",
+      "highlightedWord": "ἔτι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Re 22:11",
+      "text": "ἀδικησάτω ἔτι, καὶ",
+      "highlightedWord": "ἔτι,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}
