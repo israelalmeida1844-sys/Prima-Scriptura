@@ -113,7 +113,7 @@ export const apocalipse2v14 = {
     {
       "id": "ap2-14-5",
       "shortMorph": "Adj-APN",
-      "greek": "ὀλίγα,",
+      "greek": "ὀλίγα",
       "transliteration": "oliga",
       "gloss": "pouco",
       "strong": "G3641",
@@ -132,7 +132,8 @@ export const apocalipse2v14 = {
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-14-6",
@@ -281,7 +282,7 @@ export const apocalipse2v14 = {
     {
       "id": "ap2-14-12",
       "shortMorph": "N-GSM",
-      "greek": "Βαλαάμ,",
+      "greek": "Βαλαάμ",
       "transliteration": "Balaam",
       "gloss": "Balaão",
       "strong": "G903",
@@ -300,7 +301,8 @@ export const apocalipse2v14 = {
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-14-13",
@@ -521,7 +523,7 @@ export const apocalipse2v14 = {
     {
       "id": "ap2-14-22",
       "shortMorph": "N-GSM",
-      "greek": "Ἰσραήλ,",
+      "greek": "Ἰσραήλ",
       "transliteration": "Israēl",
       "gloss": "Israel",
       "strong": "G2474",
@@ -540,7 +542,8 @@ export const apocalipse2v14 = {
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-14-23",
@@ -617,7 +620,7 @@ export const apocalipse2v14 = {
     {
       "id": "ap2-14-26",
       "shortMorph": "V-AAN",
-      "greek": "πορνεῦσαι·",
+      "greek": "πορνεῦσαι",
       "transliteration": "porneusai",
       "gloss": "praticar imoralidade sexual",
       "strong": "G4203",
@@ -636,7 +639,8 @@ export const apocalipse2v14 = {
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     }
   ],
   "syntacticNotes": [

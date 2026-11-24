@@ -305,7 +305,7 @@ export const apocalipse1v19 = {
     {
       "id": "ap1-19-13",
       "shortMorph": "Dem-APN",
-      "greek": "ταῦτα.",
+      "greek": "ταῦτα",
       "transliteration": "tauta",
       "gloss": "essas coisas",
       "strong": "G3778",
@@ -324,7 +324,8 @@ export const apocalipse1v19 = {
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
-      "morphgntPos": "RD"
+      "morphgntPos": "RD",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

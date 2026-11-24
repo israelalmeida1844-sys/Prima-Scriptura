@@ -373,7 +373,7 @@ export const apocalipse1v3 = {
     {
       "id": "ap1-3-16",
       "shortMorph": "V-XPP-APN",
-      "greek": "γεγραμμένα,",
+      "greek": "γεγραμμένα",
       "transliteration": "gegrammena",
       "gloss": "escritas",
       "strong": "G1125",
@@ -392,7 +392,8 @@ export const apocalipse1v3 = {
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-3-17",
@@ -469,7 +470,7 @@ export const apocalipse1v3 = {
     {
       "id": "ap1-3-20",
       "shortMorph": "Adv",
-      "greek": "ἐγγύς.",
+      "greek": "ἐγγύς",
       "transliteration": "eggys",
       "gloss": "perto",
       "strong": "G1451",
@@ -488,12 +489,15 @@ export const apocalipse1v3 = {
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "D-"
+      "morphgntPos": "D-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [
     "Texto-base SBLGNT 2010. Os particípios ἀναγινώσκων, ἀκούοντες e τηροῦντες são formas presentes ativas; γεγραμμένα é perfeito passivo. Não confundir marca de aparato ou pontuação editorial com variante lexical.",
     "μακάριος inicia uma bem-aventurança; ὁ ἀναγινώσκων singular distingue o leitor público dos ouvintes plurais. τηροῦντες acrescenta resposta obediente, não mera audição."
   ],
-  "exegeticalNotes": []
+  "exegeticalNotes": [
+    "A primeira bem-aventurança associa leitura pública, audição comunitária e observância. O texto não equipara mera informação à fidelidade prática: os ouvintes também são chamados a guardar o que está escrito (Ap 1:3; 22:7)."
+  ]
 } as const;

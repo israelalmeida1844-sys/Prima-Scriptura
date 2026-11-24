@@ -209,7 +209,7 @@ export const apocalipse2v15 = {
     {
       "id": "ap2-15-9",
       "shortMorph": "D-",
-      "greek": "ὁμοίως.",
+      "greek": "ὁμοίως",
       "transliteration": "homoiōs",
       "gloss": "da mesma maneira",
       "strong": "G3668",
@@ -228,7 +228,8 @@ export const apocalipse2v15 = {
         "clauseId": "AP.2.15.C1",
         "governedBy": null
       },
-      "morphgntPos": "D-"
+      "morphgntPos": "D-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

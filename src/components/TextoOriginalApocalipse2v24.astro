@@ -38,7 +38,7 @@ const firstLexicon = (lexicon.entries as Record<string, { lemmaTransliteration: 
         >
           <span class="strong-number" dir="ltr">{word.strong}</span>
           <span class="word-transliteration" dir="ltr">{word.transliteration}</span>
-          <span class="word-greek" lang="grc" dir="ltr"><span class="greek-form">{word.greek.replace(/[,.;··:!?]+$/u, '')}</span><span class="greek-punctuation" aria-hidden="true">{word.greek.match(/[,.;··:!?]+$/u)?.[0] ?? ''}</span></span>
+          <span class="word-greek" lang="grc" dir="ltr"><span class="greek-form">{word.greek}</span><span class="greek-punctuation" aria-hidden="true">{'trailingPunctuation' in word ? word.trailingPunctuation : ''}</span></span>
           <span class="word-gloss" dir="ltr">{word.gloss}</span>
           <span class="word-morph" dir="ltr">{word.shortMorph}</span>
         </button>

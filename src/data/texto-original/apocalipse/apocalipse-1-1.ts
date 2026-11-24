@@ -65,7 +65,7 @@ export const apocalipse1v1 = {
     {
       "id": "ap1-1-3",
       "shortMorph": "N-GSM",
-      "greek": "Χριστοῦ,",
+      "greek": "Χριστοῦ",
       "transliteration": "Christou",
       "gloss": "Cristo",
       "strong": "G5547",
@@ -82,7 +82,8 @@ export const apocalipse1v1 = {
         "Mc 1:1",
         "Rm 1:1",
         "1Co 1:1"
-      ]
+      ],
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-1-4",
@@ -263,7 +264,7 @@ export const apocalipse1v1 = {
     {
       "id": "ap1-1-12",
       "shortMorph": "PPro-GSM",
-      "greek": "αὐτοῦ,",
+      "greek": "αὐτοῦ",
       "transliteration": "autou",
       "gloss": "dele",
       "strong": "G846",
@@ -280,7 +281,8 @@ export const apocalipse1v1 = {
         "Jo 3:16",
         "Rm 1:3",
         "Hb 1:3"
-      ]
+      ],
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-1-13",
@@ -376,7 +378,7 @@ export const apocalipse1v1 = {
     {
       "id": "ap1-1-17",
       "shortMorph": "N-DSN",
-      "greek": "τάχει,",
+      "greek": "τάχει",
       "transliteration": "tachei",
       "gloss": "breve",
       "strong": "G5034",
@@ -396,7 +398,8 @@ export const apocalipse1v1 = {
         "At 25:4",
         "Rm 16:20",
         "1Tm 3:14"
-      ]
+      ],
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-1-18",
@@ -626,7 +629,7 @@ export const apocalipse1v1 = {
     {
       "id": "ap1-1-28",
       "shortMorph": "N-DSM",
-      "greek": "Ἰωάννῃ,",
+      "greek": "Ἰωάννῃ",
       "transliteration": "Iōannē",
       "gloss": "João",
       "strong": "G2491",
@@ -644,7 +647,8 @@ export const apocalipse1v1 = {
         "Ap 22:8",
         "Mt 3:1",
         "Jo 1:6"
-      ]
+      ],
+      "trailingPunctuation": ","
     }
   ],
   "syntacticNotes": [

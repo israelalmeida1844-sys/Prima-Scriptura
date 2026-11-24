@@ -209,7 +209,7 @@ export const apocalipse2v6 = {
     {
       "id": "ap2-6-9",
       "shortMorph": "N-GPM",
-      "greek": "Νικολαϊτῶν,",
+      "greek": "Νικολαϊτῶν",
       "transliteration": "Nikolaitōn",
       "gloss": "nicolaítas",
       "strong": "G3531",
@@ -228,7 +228,8 @@ export const apocalipse2v6 = {
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-6-10",
@@ -281,7 +282,7 @@ export const apocalipse2v6 = {
     {
       "id": "ap2-6-12",
       "shortMorph": "V-PAI-1S",
-      "greek": "μισῶ.",
+      "greek": "μισῶ",
       "transliteration": "misō",
       "gloss": "odeio",
       "strong": "G3404",
@@ -300,7 +301,8 @@ export const apocalipse2v6 = {
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

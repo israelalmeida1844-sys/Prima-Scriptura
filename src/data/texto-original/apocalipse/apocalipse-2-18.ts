@@ -185,7 +185,7 @@ export const apocalipse2v18 = {
     {
       "id": "ap2-18-8",
       "shortMorph": "V-AAD-2S",
-      "greek": "γράψον·",
+      "greek": "γράψον",
       "transliteration": "grapson",
       "gloss": "escreve",
       "strong": "G1125",
@@ -204,7 +204,8 @@ export const apocalipse2v18 = {
         "clauseId": "AP.2.18.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap2-18-9",
@@ -329,7 +330,7 @@ export const apocalipse2v18 = {
     {
       "id": "ap2-18-14",
       "shortMorph": "N-GSM",
-      "greek": "θεοῦ,",
+      "greek": "θεοῦ",
       "transliteration": "theou",
       "gloss": "Deus",
       "strong": "G2316",
@@ -348,7 +349,8 @@ export const apocalipse2v18 = {
         "clauseId": "AP.2.18.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-18-15",
@@ -521,7 +523,7 @@ export const apocalipse2v18 = {
     {
       "id": "ap2-18-22",
       "shortMorph": "N-GSN",
-      "greek": "πυρός,",
+      "greek": "πυρός",
       "transliteration": "pyros",
       "gloss": "fogo",
       "strong": "G4442",
@@ -540,7 +542,8 @@ export const apocalipse2v18 = {
         "clauseId": "AP.2.18.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-18-23",
@@ -665,7 +668,7 @@ export const apocalipse2v18 = {
     {
       "id": "ap2-18-28",
       "shortMorph": "N-DSN",
-      "greek": "χαλκολιβάνῳ·",
+      "greek": "χαλκολιβάνῳ",
       "transliteration": "chalkolibanō",
       "gloss": "metal brilhante",
       "strong": "G5474",
@@ -684,7 +687,8 @@ export const apocalipse2v18 = {
         "clauseId": "AP.2.18.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "·"
     }
   ],
   "syntacticNotes": [

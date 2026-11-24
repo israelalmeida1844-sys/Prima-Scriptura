@@ -88,7 +88,7 @@ export const apocalipse3v15 = {
     {
       "id": "ap3-15-4",
       "shortMorph": "N- ----APN-",
-      "greek": "ἔργα,",
+      "greek": "ἔργα",
       "transliteration": "erga",
       "gloss": "obras",
       "strong": "G2041",
@@ -107,7 +107,8 @@ export const apocalipse3v15 = {
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-15-5",
@@ -232,7 +233,7 @@ export const apocalipse3v15 = {
     {
       "id": "ap3-15-10",
       "shortMorph": "A- ----NSM-",
-      "greek": "ζεστός.",
+      "greek": "ζεστός",
       "transliteration": "zestos",
       "gloss": "quente",
       "strong": "G2200",
@@ -251,7 +252,8 @@ export const apocalipse3v15 = {
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "."
     },
     {
       "id": "ap3-15-11",
@@ -352,7 +354,7 @@ export const apocalipse3v15 = {
     {
       "id": "ap3-15-15",
       "shortMorph": "A- ----NSM-",
-      "greek": "ζεστός.",
+      "greek": "ζεστός",
       "transliteration": "zestos",
       "gloss": "quente",
       "strong": "G2200",
@@ -371,7 +373,8 @@ export const apocalipse3v15 = {
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

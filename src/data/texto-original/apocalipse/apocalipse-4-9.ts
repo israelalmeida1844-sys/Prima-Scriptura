@@ -353,7 +353,7 @@ export const apocalipse4v9 = {
     {
       "id": "ap4-9-15",
       "shortMorph": "N-DSM",
-      "greek": "θρόνῳ,",
+      "greek": "θρόνῳ",
       "transliteration": "thronō",
       "gloss": "trono",
       "strong": "G2362",
@@ -372,7 +372,8 @@ export const apocalipse4v9 = {
         "clauseId": "AP.4.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-9-16",
@@ -521,7 +522,7 @@ export const apocalipse4v9 = {
     {
       "id": "ap4-9-22",
       "shortMorph": "N-GPM",
-      "greek": "αἰώνων,",
+      "greek": "αἰώνων",
       "transliteration": "aiōnōn",
       "gloss": "era; século",
       "strong": "G165",
@@ -540,7 +541,8 @@ export const apocalipse4v9 = {
         "clauseId": "AP.4.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     }
   ],
   "syntacticNotes": [

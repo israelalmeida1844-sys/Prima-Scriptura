@@ -161,7 +161,7 @@ export const apocalipse2v1 = {
     {
       "id": "ap2-1-7",
       "shortMorph": "V-AAD-2S",
-      "greek": "γράψον·",
+      "greek": "γράψον",
       "transliteration": "grapson",
       "gloss": "escreve",
       "strong": "G1125",
@@ -180,7 +180,8 @@ export const apocalipse2v1 = {
         "clauseId": "AP.2.1.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap2-1-8",
@@ -425,7 +426,7 @@ export const apocalipse2v1 = {
     {
       "id": "ap2-1-18",
       "shortMorph": "PPro-GSM",
-      "greek": "αὐτοῦ,",
+      "greek": "αὐτοῦ",
       "transliteration": "autou",
       "gloss": "dele",
       "strong": "G846",
@@ -444,7 +445,8 @@ export const apocalipse2v1 = {
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-17"
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-1-19",
@@ -641,7 +643,7 @@ export const apocalipse2v1 = {
     {
       "id": "ap2-1-27",
       "shortMorph": "Adj-GPF",
-      "greek": "χρυσῶν·",
+      "greek": "χρυσῶν",
       "transliteration": "chrysōn",
       "gloss": "de ouro",
       "strong": "G5552",
@@ -660,7 +662,8 @@ export const apocalipse2v1 = {
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-25"
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "·"
     }
   ],
   "syntacticNotes": [

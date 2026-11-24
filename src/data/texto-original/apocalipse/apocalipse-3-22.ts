@@ -232,7 +232,7 @@ export const apocalipse3v22 = {
     {
       "id": "ap3-22-10",
       "shortMorph": "N- ----DPF-",
-      "greek": "ἐκκλησίαις.",
+      "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
       "gloss": "igreja",
       "strong": "G1577",
@@ -251,7 +251,8 @@ export const apocalipse3v22 = {
         "clauseId": "AP.3.22.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

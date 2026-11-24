@@ -185,7 +185,7 @@ export const apocalipse2v24 = {
     {
       "id": "ap2-24-8",
       "shortMorph": "N-DPN",
-      "greek": "Θυατείροις,",
+      "greek": "Θυατείροις",
       "transliteration": "Thyateirois",
       "gloss": "Tiatira",
       "strong": "G2363",
@@ -204,7 +204,8 @@ export const apocalipse2v24 = {
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-24-9",
@@ -329,7 +330,7 @@ export const apocalipse2v24 = {
     {
       "id": "ap2-24-14",
       "shortMorph": "Dem-ASF",
-      "greek": "ταύτην,",
+      "greek": "ταύτην",
       "transliteration": "tautēn",
       "gloss": "este",
       "strong": "G3778",
@@ -348,7 +349,8 @@ export const apocalipse2v24 = {
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
-      "morphgntPos": "RD"
+      "morphgntPos": "RD",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-24-15",
@@ -497,7 +499,7 @@ export const apocalipse2v24 = {
     {
       "id": "ap2-24-21",
       "shortMorph": "N-GSM",
-      "greek": "Σατανᾶ,",
+      "greek": "Σατανᾶ",
       "transliteration": "Satana",
       "gloss": "Satanás",
       "strong": "G4567",
@@ -516,7 +518,8 @@ export const apocalipse2v24 = {
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-24-22",
@@ -545,7 +548,7 @@ export const apocalipse2v24 = {
     {
       "id": "ap2-24-23",
       "shortMorph": "V-PAI-3P",
-      "greek": "λέγουσιν,",
+      "greek": "λέγουσιν",
       "transliteration": "legousin",
       "gloss": "dizem",
       "strong": "G3004",
@@ -564,7 +567,8 @@ export const apocalipse2v24 = {
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-24-24",
@@ -689,7 +693,7 @@ export const apocalipse2v24 = {
     {
       "id": "ap2-24-29",
       "shortMorph": "N-ASN",
-      "greek": "βάρος·",
+      "greek": "βάρος",
       "transliteration": "baros",
       "gloss": "fardo",
       "strong": "G922",
@@ -708,7 +712,8 @@ export const apocalipse2v24 = {
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "·"
     }
   ],
   "syntacticNotes": [

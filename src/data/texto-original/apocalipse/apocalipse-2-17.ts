@@ -233,7 +233,7 @@ export const apocalipse2v17 = {
     {
       "id": "ap2-17-10",
       "shortMorph": "N-DPF",
-      "greek": "ἐκκλησίαις.",
+      "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
       "gloss": "assembleia",
       "strong": "G1577",
@@ -252,7 +252,8 @@ export const apocalipse2v17 = {
         "clauseId": "AP.2.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     },
     {
       "id": "ap2-17-11",
@@ -425,7 +426,7 @@ export const apocalipse2v17 = {
     {
       "id": "ap2-17-18",
       "shortMorph": "V-XPP-GSN",
-      "greek": "κεκρυμμένου,",
+      "greek": "κεκρυμμένου",
       "transliteration": "kekrymmenou",
       "gloss": "escondido",
       "strong": "G2928",
@@ -444,7 +445,8 @@ export const apocalipse2v17 = {
         "clauseId": "AP.2.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-17-19",
@@ -545,7 +547,7 @@ export const apocalipse2v17 = {
     {
       "id": "ap2-17-23",
       "shortMorph": "Adj-ASF",
-      "greek": "λευκήν,",
+      "greek": "λευκήν",
       "transliteration": "leukēn",
       "gloss": "branca",
       "strong": "G3022",
@@ -564,7 +566,8 @@ export const apocalipse2v17 = {
         "clauseId": "AP.2.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-17-24",
@@ -881,7 +884,7 @@ export const apocalipse2v17 = {
     {
       "id": "ap2-17-37",
       "shortMorph": "V-PAP-NSM",
-      "greek": "λαμβάνων.",
+      "greek": "λαμβάνων",
       "transliteration": "lambanōn",
       "gloss": "recebe",
       "strong": "G2983",
@@ -900,7 +903,8 @@ export const apocalipse2v17 = {
         "clauseId": "AP.2.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

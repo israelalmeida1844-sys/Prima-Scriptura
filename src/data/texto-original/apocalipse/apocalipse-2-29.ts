@@ -233,7 +233,7 @@ export const apocalipse2v29 = {
     {
       "id": "ap2-29-10",
       "shortMorph": "N-DPF",
-      "greek": "ἐκκλησίαις.",
+      "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
       "gloss": "igrejas",
       "strong": "G1577",
@@ -252,7 +252,8 @@ export const apocalipse2v29 = {
         "clauseId": "AP.2.29.C1",
         "governedBy": "ap2-29-8"
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

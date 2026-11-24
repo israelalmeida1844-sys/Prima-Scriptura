@@ -256,7 +256,7 @@ export const apocalipse3v17 = {
     {
       "id": "ap3-17-11",
       "shortMorph": "V- 1PAI-S--",
-      "greek": "ἔχω,",
+      "greek": "ἔχω",
       "transliteration": "echō",
       "gloss": "tinha",
       "strong": "G2192",
@@ -275,7 +275,8 @@ export const apocalipse3v17 = {
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-17-12",
@@ -640,7 +641,7 @@ export const apocalipse3v17 = {
     {
       "id": "ap3-17-27",
       "shortMorph": "A- ----NSM-",
-      "greek": "γυμνός,",
+      "greek": "γυμνός",
       "transliteration": "gymnos",
       "gloss": "nu",
       "strong": "G1131",
@@ -659,7 +660,8 @@ export const apocalipse3v17 = {
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     }
   ],
   "syntacticNotes": [

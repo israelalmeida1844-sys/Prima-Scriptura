@@ -85,7 +85,7 @@ export const apocalipse1v6 = {
     {
       "id": "ap1-6-4",
       "shortMorph": "N-ASF",
-      "greek": "βασιλείαν,",
+      "greek": "βασιλείαν",
       "transliteration": "basileian",
       "gloss": "reino",
       "strong": "G932",
@@ -104,7 +104,8 @@ export const apocalipse1v6 = {
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-6-5",
@@ -229,7 +230,7 @@ export const apocalipse1v6 = {
     {
       "id": "ap1-6-10",
       "shortMorph": "PPro-GSM",
-      "greek": "αὐτοῦ—",
+      "greek": "αὐτοῦ",
       "transliteration": "aytoy",
       "gloss": "dele",
       "strong": "G846",
@@ -248,7 +249,8 @@ export const apocalipse1v6 = {
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "—"
     },
     {
       "id": "ap1-6-11",
@@ -493,7 +495,7 @@ export const apocalipse1v6 = {
     {
       "id": "ap1-6-21",
       "shortMorph": "N-GPM",
-      "greek": "αἰώνων·",
+      "greek": "αἰώνων",
       "transliteration": "aiōnōn",
       "gloss": "era",
       "strong": "G165",
@@ -512,12 +514,13 @@ export const apocalipse1v6 = {
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-6-22",
       "shortMorph": "Part",
-      "greek": "ἀμήν.",
+      "greek": "ἀμήν",
       "transliteration": "amēn",
       "gloss": "amém",
       "strong": "G281",
@@ -536,11 +539,14 @@ export const apocalipse1v6 = {
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
-      "morphgntPos": "X-"
+      "morphgntPos": "X-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [
     "βασιλείαν (acusativo singular) e ἱερεῖς (acusativo plural) são predicativos do objeto ἡμᾶς sob ἐποίησεν; não converter o primeiro em βασιλεῖς, leitura distinta."
   ],
-  "exegeticalNotes": []
+  "exegeticalNotes": [
+    "A imagem de «reino» e «sacerdotes» retoma a linguagem de Êxodo 19:6. O plural ἱερεῖς descreve a função sacerdotal dos destinatários, enquanto βασιλείαν apresenta sua condição coletiva; a redação não deve ser harmonizada com a variante «reis e sacerdotes»."
+  ]
 } as const;

@@ -257,7 +257,7 @@ export const apocalipse4v10 = {
     {
       "id": "ap4-10-11",
       "shortMorph": "N-GSM",
-      "greek": "θρόνου,",
+      "greek": "θρόνου",
       "transliteration": "thronou",
       "gloss": "trono",
       "strong": "G2362",
@@ -276,7 +276,8 @@ export const apocalipse4v10 = {
         "clauseId": "AP.4.10.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-10-12",
@@ -473,7 +474,7 @@ export const apocalipse4v10 = {
     {
       "id": "ap4-10-20",
       "shortMorph": "N-GPM",
-      "greek": "αἰώνων,",
+      "greek": "αἰώνων",
       "transliteration": "aiōnōn",
       "gloss": "era; século",
       "strong": "G165",
@@ -492,7 +493,8 @@ export const apocalipse4v10 = {
         "clauseId": "AP.4.10.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-10-21",
@@ -665,7 +667,7 @@ export const apocalipse4v10 = {
     {
       "id": "ap4-10-28",
       "shortMorph": "N-GSM",
-      "greek": "θρόνου,",
+      "greek": "θρόνου",
       "transliteration": "thronou",
       "gloss": "trono",
       "strong": "G2362",
@@ -684,12 +686,13 @@ export const apocalipse4v10 = {
         "clauseId": "AP.4.10.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-10-29",
       "shortMorph": "V-PAP-NPM",
-      "greek": "λέγοντες·",
+      "greek": "λέγοντες",
       "transliteration": "legontes",
       "gloss": "dizer",
       "strong": "G3004",
@@ -708,7 +711,8 @@ export const apocalipse4v10 = {
         "clauseId": "AP.4.10.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     }
   ],
   "syntacticNotes": [

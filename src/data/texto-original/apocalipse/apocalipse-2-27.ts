@@ -281,7 +281,7 @@ export const apocalipse2v27 = {
     {
       "id": "ap2-27-12",
       "shortMorph": "V-PPI-3S",
-      "greek": "συντρίβεται,",
+      "greek": "συντρίβεται",
       "transliteration": "syntribetai",
       "gloss": "são despedaçados",
       "strong": "G4937",
@@ -300,7 +300,8 @@ export const apocalipse2v27 = {
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     }
   ],
   "syntacticNotes": [

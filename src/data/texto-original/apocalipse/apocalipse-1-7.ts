@@ -109,7 +109,7 @@ export const apocalipse1v7 = {
     {
       "id": "ap1-7-5",
       "shortMorph": "N-GPF",
-      "greek": "νεφελῶν,",
+      "greek": "νεφελῶν",
       "transliteration": "nephelōn",
       "gloss": "nuvem",
       "strong": "G3507",
@@ -128,7 +128,8 @@ export const apocalipse1v7 = {
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-7-6",
@@ -325,7 +326,7 @@ export const apocalipse1v7 = {
     {
       "id": "ap1-7-14",
       "shortMorph": "V-AAI-3P",
-      "greek": "ἐξεκέντησαν,",
+      "greek": "ἐξεκέντησαν",
       "transliteration": "exekentēsan",
       "gloss": "traspassaram",
       "strong": "G1574",
@@ -344,7 +345,8 @@ export const apocalipse1v7 = {
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-7-15",
@@ -541,7 +543,7 @@ export const apocalipse1v7 = {
     {
       "id": "ap1-7-23",
       "shortMorph": "N-GSF",
-      "greek": "γῆς.",
+      "greek": "γῆς",
       "transliteration": "gēs",
       "gloss": "terra",
       "strong": "G1093",
@@ -560,12 +562,13 @@ export const apocalipse1v7 = {
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     },
     {
       "id": "ap1-7-24",
       "shortMorph": "Part",
-      "greek": "ναί,",
+      "greek": "ναί",
       "transliteration": "nai",
       "gloss": "sim",
       "strong": "G3483",
@@ -584,12 +587,13 @@ export const apocalipse1v7 = {
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "X-"
+      "morphgntPos": "X-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-7-25",
       "shortMorph": "Part",
-      "greek": "ἀμήν.",
+      "greek": "ἀμήν",
       "transliteration": "amēn",
       "gloss": "amém",
       "strong": "G281",
@@ -608,12 +612,15 @@ export const apocalipse1v7 = {
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "X-"
+      "morphgntPos": "X-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [
     "A passagem combina imagens de Daniel 7:13 e Zacarias 12:10–14. As decisões textuais do SBLGNT são mantidas no corpo principal, sem harmonização automática com as formas das respectivas passagens na Septuaginta.",
     "O futuro ὄψεται refere-se à visibilidade da vinda; οἵτινες ... ἐξεκέντησαν traz alusão a Zc 12:10. A relação de πᾶσαι αἱ φυλαὶ τῆς γῆς com Zacarias e o alcance de γῆ requerem avaliação contextual."
   ],
-  "exegeticalNotes": []
+  "exegeticalNotes": [
+    "O anúncio reúne elementos de Daniel 7:13 e Zacarias 12:10–14: a vinda nas nuvens, sua visibilidade e a reação das tribos. A extensão de «tribos da terra» e o sentido de «lamentar» exigem leitura da rede de alusões, não somente glosas isoladas."
+  ]
 } as const;

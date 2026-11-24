@@ -185,7 +185,7 @@ export const apocalipse2v25 = {
     {
       "id": "ap2-25-8",
       "shortMorph": "V-AAS-1S",
-      "greek": "ἥξω.",
+      "greek": "ἥξω",
       "transliteration": "hēxō",
       "gloss": "venha",
       "strong": "G2240",
@@ -204,7 +204,8 @@ export const apocalipse2v25 = {
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

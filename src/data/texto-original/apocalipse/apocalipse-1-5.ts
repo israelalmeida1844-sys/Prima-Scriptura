@@ -85,7 +85,7 @@ export const apocalipse1v5 = {
     {
       "id": "ap1-5-4",
       "shortMorph": "N-GSM",
-      "greek": "Χριστοῦ,",
+      "greek": "Χριστοῦ",
       "transliteration": "christoy",
       "gloss": "Cristo",
       "strong": "G5547",
@@ -104,7 +104,8 @@ export const apocalipse1v5 = {
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-5-5",
@@ -181,7 +182,7 @@ export const apocalipse1v5 = {
     {
       "id": "ap1-5-8",
       "shortMorph": "Adj-NSM",
-      "greek": "πιστός,",
+      "greek": "πιστός",
       "transliteration": "pistos",
       "gloss": "fiel",
       "strong": "G4103",
@@ -200,7 +201,8 @@ export const apocalipse1v5 = {
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-5-9",
@@ -445,7 +447,7 @@ export const apocalipse1v5 = {
     {
       "id": "ap1-5-19",
       "shortMorph": "N-GSF",
-      "greek": "γῆς.",
+      "greek": "γῆς",
       "transliteration": "gēs",
       "gloss": "terra",
       "strong": "G1093",
@@ -464,7 +466,8 @@ export const apocalipse1v5 = {
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     },
     {
       "id": "ap1-5-20",
@@ -781,7 +784,7 @@ export const apocalipse1v5 = {
     {
       "id": "ap1-5-33",
       "shortMorph": "PPro-GSM",
-      "greek": "αὐτοῦ—",
+      "greek": "αὐτοῦ",
       "transliteration": "aytoy",
       "gloss": "dele",
       "strong": "G846",
@@ -800,11 +803,14 @@ export const apocalipse1v5 = {
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "—"
     }
   ],
   "syntacticNotes": [
     "ὁ μάρτυς ... nominativo após ἀπὸ Ἰησοῦ Χριστοῦ apresenta aposições formalmente dissonantes. λύσαντι significa libertar; λούσαντι, lavar, pertence a outra tradição textual e não pode substituir o lema do texto crítico."
   ],
-  "exegeticalNotes": []
+  "exegeticalNotes": [
+    "Os títulos «testemunha fiel», «primogênito dentre os mortos» e «soberano dos reis da terra» formam a apresentação cristológica. A leitura λύσαντι («libertou») orienta a imagem de libertação pelo sangue sem eliminar o debate textual com λούσαντι («lavou»)."
+  ]
 } as const;

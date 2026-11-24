@@ -585,5 +585,8 @@
       "grammaticalNotes": 2,
       "exegeticalNotes": 3
     }
-  ]
+  ],
+  "punctuationMoved": 269,
+  "punctuationModel": "Os sinais finais são armazenados em trailingPunctuation; a forma grega clicável contém apenas o token lexical.",
+  "additionalExegeticalNotes": "Apocalipse 1:3–8 revistos editorialmente"
 }

@@ -17,7 +17,7 @@ export const apocalipse1v11 = {
     {
       "id": "ap1-11-1",
       "shortMorph": "V-PAP-GSF",
-      "greek": "λεγούσης·",
+      "greek": "λεγούσης",
       "transliteration": "legousēs",
       "gloss": "que dizia",
       "strong": "G3004",
@@ -36,7 +36,8 @@ export const apocalipse1v11 = {
         "clauseId": "AP.1.11.C1",
         "governedBy": "σάλπιγγος (Ap 1:10)"
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-11-2",
@@ -257,7 +258,7 @@ export const apocalipse1v11 = {
     {
       "id": "ap1-11-11",
       "shortMorph": "N-DPF",
-      "greek": "ἐκκλησίαις,",
+      "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
       "gloss": "igreja",
       "strong": "G1577",
@@ -276,7 +277,8 @@ export const apocalipse1v11 = {
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-11-12",
@@ -737,7 +739,7 @@ export const apocalipse1v11 = {
     {
       "id": "ap1-11-31",
       "shortMorph": "N-ASF",
-      "greek": "Λαοδίκειαν.",
+      "greek": "Λαοδίκειαν",
       "transliteration": "Laodikeian",
       "gloss": "Laodiceia",
       "strong": "G2993",
@@ -756,7 +758,8 @@ export const apocalipse1v11 = {
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

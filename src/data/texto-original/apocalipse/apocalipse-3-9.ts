@@ -160,7 +160,7 @@ export const apocalipse3v9 = {
     {
       "id": "ap3-9-7",
       "shortMorph": "N- ----GSM-",
-      "greek": "Σατανᾶ,",
+      "greek": "Σατανᾶ",
       "transliteration": "Satana",
       "gloss": "Satanás",
       "strong": "G4567",
@@ -179,7 +179,8 @@ export const apocalipse3v9 = {
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-9-8",
@@ -280,7 +281,7 @@ export const apocalipse3v9 = {
     {
       "id": "ap3-9-12",
       "shortMorph": "V- -PAN----",
-      "greek": "εἶναι,",
+      "greek": "εἶναι",
       "transliteration": "einai",
       "gloss": "ser",
       "strong": "G1510",
@@ -299,7 +300,8 @@ export const apocalipse3v9 = {
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-9-13",
@@ -400,7 +402,7 @@ export const apocalipse3v9 = {
     {
       "id": "ap3-9-17",
       "shortMorph": "V- 3PMI-P--",
-      "greek": "ψεύδονται—",
+      "greek": "ψεύδονται",
       "transliteration": "pseudontai",
       "gloss": "mentir",
       "strong": "G5574",
@@ -419,7 +421,8 @@ export const apocalipse3v9 = {
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "—"
     },
     {
       "id": "ap3-9-18",
@@ -664,7 +667,7 @@ export const apocalipse3v9 = {
     {
       "id": "ap3-9-28",
       "shortMorph": "RP ----GS--",
-      "greek": "σου,",
+      "greek": "σου",
       "transliteration": "sou",
       "gloss": "teu",
       "strong": "G4771",
@@ -683,7 +686,8 @@ export const apocalipse3v9 = {
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-9-29",
@@ -808,7 +812,7 @@ export const apocalipse3v9 = {
     {
       "id": "ap3-9-34",
       "shortMorph": "RP ----AS--",
-      "greek": "σε.",
+      "greek": "σε",
       "transliteration": "se",
       "gloss": "tu",
       "strong": "G4771",
@@ -827,7 +831,8 @@ export const apocalipse3v9 = {
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

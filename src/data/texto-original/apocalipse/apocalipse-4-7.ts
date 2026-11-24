@@ -161,7 +161,7 @@ export const apocalipse4v7 = {
     {
       "id": "ap4-7-7",
       "shortMorph": "N-DSM",
-      "greek": "λέοντι,",
+      "greek": "λέοντι",
       "transliteration": "leonti",
       "gloss": "leão",
       "strong": "G3023",
@@ -180,7 +180,8 @@ export const apocalipse4v7 = {
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-7-8",
@@ -305,7 +306,7 @@ export const apocalipse4v7 = {
     {
       "id": "ap4-7-13",
       "shortMorph": "N-DSM",
-      "greek": "μόσχῳ,",
+      "greek": "μόσχῳ",
       "transliteration": "moschō",
       "gloss": "novilho",
       "strong": "G3448",
@@ -324,7 +325,8 @@ export const apocalipse4v7 = {
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-7-14",
@@ -521,7 +523,7 @@ export const apocalipse4v7 = {
     {
       "id": "ap4-7-22",
       "shortMorph": "N-GSM",
-      "greek": "ἀνθρώπου,",
+      "greek": "ἀνθρώπου",
       "transliteration": "anthrōpou",
       "gloss": "homem; ser humano",
       "strong": "G444",
@@ -540,7 +542,8 @@ export const apocalipse4v7 = {
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-7-23",
@@ -689,7 +692,7 @@ export const apocalipse4v7 = {
     {
       "id": "ap4-7-29",
       "shortMorph": "V-PMP-DSM",
-      "greek": "πετομένῳ·",
+      "greek": "πετομένῳ",
       "transliteration": "petomenō",
       "gloss": "voar",
       "strong": "G4072",
@@ -708,7 +711,8 @@ export const apocalipse4v7 = {
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     }
   ],
   "syntacticNotes": [

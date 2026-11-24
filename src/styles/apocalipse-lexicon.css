@@ -532,3 +532,5 @@
 .lexical-example-translation { margin: 0 0 10px; font-size:15px; color:#1c3554; font-style:normal; }
 .example-field-label { display:block; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:#7b8493; margin:0 0 3px; }
 .lexical-example-note:empty, .lexical-sense-definition:empty { display:none; }
+
+.greek-punctuation { pointer-events: none; }

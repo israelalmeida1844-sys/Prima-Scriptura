@@ -181,7 +181,7 @@ export const apocalipse1v4 = {
     {
       "id": "ap1-4-8",
       "shortMorph": "N-DSF",
-      "greek": "Ἀσίᾳ·",
+      "greek": "Ἀσίᾳ",
       "transliteration": "asia",
       "gloss": "Ásia (província romana)",
       "strong": "G773",
@@ -200,7 +200,8 @@ export const apocalipse1v4 = {
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-4-9",
@@ -493,7 +494,7 @@ export const apocalipse1v4 = {
     {
       "id": "ap1-4-21",
       "shortMorph": "V-PMP-NSM",
-      "greek": "ἐρχόμενος,",
+      "greek": "ἐρχόμενος",
       "transliteration": "erchomenos",
       "gloss": "que vem",
       "strong": "G2064",
@@ -512,7 +513,8 @@ export const apocalipse1v4 = {
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-4-22",
@@ -733,7 +735,7 @@ export const apocalipse1v4 = {
     {
       "id": "ap1-4-31",
       "shortMorph": "PPro-GSM",
-      "greek": "αὐτοῦ,",
+      "greek": "αὐτοῦ",
       "transliteration": "aytoy",
       "gloss": "dele",
       "strong": "G846",
@@ -752,12 +754,15 @@ export const apocalipse1v4 = {
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     }
   ],
   "syntacticNotes": [
     "Em ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, ἀπό normalmente exige genitivo, mas os artigos e particípios permanecem no nominativo. O efeito pode indicar uma designação divina fixa, associável a Êxodo 3:14; a intenção deliberada é hipótese interpretativa, não inferência obrigatória da forma. O imperfeito ἦν é verbo finito nominalizado pelo artigo.",
     "A sequência ἀπὸ ὁ ὢν ... mantém formas nominativas após ἀπό; isso deve ser apresentado como irregularidade sintática ou fórmula nominal fixa, não corrigido por declinação editorial. A identidade dos sete espíritos demanda exegese de Ap 3:1; 4:5; 5:6."
   ],
-  "exegeticalNotes": []
+  "exegeticalNotes": [
+    "A saudação apresenta graça e paz e uma fórmula solene acerca daquele que é, era e vem. A identidade dos «sete espíritos» deve ser examinada pela conexão intratextual com Ap 3:1; 4:5 e 5:6; não se deve reduzir antecipadamente a expressão a uma só hipótese sem argumentação."
+  ]
 } as const;

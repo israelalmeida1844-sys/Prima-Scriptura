@@ -161,7 +161,7 @@ export const apocalipse1v10 = {
     {
       "id": "ap1-10-7",
       "shortMorph": "N-DSF",
-      "greek": "ἡμέρᾳ,",
+      "greek": "ἡμέρᾳ",
       "transliteration": "hēmera",
       "gloss": "dia",
       "strong": "G2250",
@@ -180,7 +180,8 @@ export const apocalipse1v10 = {
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-10-8",

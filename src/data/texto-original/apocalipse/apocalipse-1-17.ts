@@ -89,7 +89,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-4",
       "shortMorph": "PPro-ASM",
-      "greek": "αὐτόν,",
+      "greek": "αὐτόν",
       "transliteration": "auton",
       "gloss": "ele",
       "strong": "G846",
@@ -108,7 +108,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-17-5",
@@ -257,7 +258,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-11",
       "shortMorph": "Adj-NSM",
-      "greek": "νεκρός·",
+      "greek": "νεκρός",
       "transliteration": "nekros",
       "gloss": "morto",
       "strong": "G3498",
@@ -276,7 +277,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-17-12",
@@ -449,7 +451,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-19",
       "shortMorph": "V-PAP-NSM",
-      "greek": "λέγων·",
+      "greek": "λέγων",
       "transliteration": "legōn",
       "gloss": "dizendo",
       "strong": "G3004",
@@ -468,7 +470,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-17-20",
@@ -497,7 +500,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-21",
       "shortMorph": "V-PMD-2S",
-      "greek": "φοβοῦ·",
+      "greek": "φοβοῦ",
       "transliteration": "phobou",
       "gloss": "temas",
       "strong": "G5399",
@@ -516,7 +519,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-17-22",
@@ -665,7 +669,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-28",
       "shortMorph": "Adj-NSM",
-      "greek": "ἔσχατος,",
+      "greek": "ἔσχατος",
       "transliteration": "eschatos",
       "gloss": "último",
       "strong": "G2078",
@@ -684,7 +688,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     }
   ],
   "syntacticNotes": [

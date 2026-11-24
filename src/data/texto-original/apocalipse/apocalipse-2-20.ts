@@ -209,7 +209,7 @@ export const apocalipse2v20 = {
     {
       "id": "ap2-20-9",
       "shortMorph": "N-ASF",
-      "greek": "Ἰεζάβελ,",
+      "greek": "Ἰεζάβελ",
       "transliteration": "Iezabel",
       "gloss": "Jezabel",
       "strong": "G2403",
@@ -228,7 +228,8 @@ export const apocalipse2v20 = {
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-20-10",
@@ -305,7 +306,7 @@ export const apocalipse2v20 = {
     {
       "id": "ap2-20-13",
       "shortMorph": "N-ASF",
-      "greek": "προφῆτιν,",
+      "greek": "προφῆτιν",
       "transliteration": "prophētin",
       "gloss": "profetisa",
       "strong": "G4398",
@@ -324,7 +325,8 @@ export const apocalipse2v20 = {
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-20-14",
@@ -569,7 +571,7 @@ export const apocalipse2v20 = {
     {
       "id": "ap2-20-24",
       "shortMorph": "Adj-APN",
-      "greek": "εἰδωλόθυτα.",
+      "greek": "εἰδωλόθυτα",
       "transliteration": "eidōlothyta",
       "gloss": "comida sacrificada a ídolos",
       "strong": "G1494",
@@ -588,7 +590,8 @@ export const apocalipse2v20 = {
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "."
     }
   ],
   "syntacticNotes": [

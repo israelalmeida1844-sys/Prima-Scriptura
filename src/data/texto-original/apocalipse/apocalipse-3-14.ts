@@ -184,7 +184,7 @@ export const apocalipse3v14 = {
     {
       "id": "ap3-14-8",
       "shortMorph": "V- 2AAD-S--",
-      "greek": "γράψον·",
+      "greek": "γράψον",
       "transliteration": "grapson",
       "gloss": "escrever",
       "strong": "G1125",
@@ -203,7 +203,8 @@ export const apocalipse3v14 = {
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap3-14-9",
@@ -280,7 +281,7 @@ export const apocalipse3v14 = {
     {
       "id": "ap3-14-12",
       "shortMorph": "X- --------",
-      "greek": "Ἀμήν,",
+      "greek": "Ἀμήν",
       "transliteration": "Amēn",
       "gloss": "amém",
       "strong": "G281",
@@ -299,7 +300,8 @@ export const apocalipse3v14 = {
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "X-"
+      "morphgntPos": "X-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-14-13",
@@ -424,7 +426,7 @@ export const apocalipse3v14 = {
     {
       "id": "ap3-14-18",
       "shortMorph": "A- ----NSM-",
-      "greek": "ἀληθινός,",
+      "greek": "ἀληθινός",
       "transliteration": "alēthinos",
       "gloss": "verdadeiro",
       "strong": "G228",
@@ -443,7 +445,8 @@ export const apocalipse3v14 = {
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-14-19",
@@ -568,7 +571,7 @@ export const apocalipse3v14 = {
     {
       "id": "ap3-14-24",
       "shortMorph": "N- ----GSM-",
-      "greek": "θεοῦ·",
+      "greek": "θεοῦ",
       "transliteration": "theou",
       "gloss": "o deus supremo",
       "strong": "G2316",
@@ -587,7 +590,8 @@ export const apocalipse3v14 = {
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "·"
     }
   ],
   "syntacticNotes": [

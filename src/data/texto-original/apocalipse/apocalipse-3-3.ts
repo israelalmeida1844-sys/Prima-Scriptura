@@ -184,7 +184,7 @@ export const apocalipse3v3 = {
     {
       "id": "ap3-3-8",
       "shortMorph": "V- 2PAD-S--",
-      "greek": "τήρει,",
+      "greek": "τήρει",
       "transliteration": "tērei",
       "gloss": "guardar",
       "strong": "G5083",
@@ -203,7 +203,8 @@ export const apocalipse3v3 = {
         "clauseId": "AP.3.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-3-9",
@@ -232,7 +233,7 @@ export const apocalipse3v3 = {
     {
       "id": "ap3-3-10",
       "shortMorph": "V- 2AAD-S--",
-      "greek": "μετανόησον·",
+      "greek": "μετανόησον",
       "transliteration": "metanoēson",
       "gloss": "arrepender-se",
       "strong": "G3340",
@@ -251,7 +252,8 @@ export const apocalipse3v3 = {
         "clauseId": "AP.3.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap3-3-11",
@@ -328,7 +330,7 @@ export const apocalipse3v3 = {
     {
       "id": "ap3-3-14",
       "shortMorph": "V- 2AAS-S--",
-      "greek": "γρηγορήσῃς,",
+      "greek": "γρηγορήσῃς",
       "transliteration": "grēgorēsēs",
       "gloss": "vigiar",
       "strong": "G1127",
@@ -347,7 +349,8 @@ export const apocalipse3v3 = {
         "clauseId": "AP.3.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-3-15",
@@ -400,7 +403,7 @@ export const apocalipse3v3 = {
     {
       "id": "ap3-3-17",
       "shortMorph": "N- ----NSM-",
-      "greek": "κλέπτης,",
+      "greek": "κλέπτης",
       "transliteration": "kleptēs",
       "gloss": "ladrão",
       "strong": "G2812",
@@ -419,7 +422,8 @@ export const apocalipse3v3 = {
         "clauseId": "AP.3.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-3-18",
@@ -616,7 +620,7 @@ export const apocalipse3v3 = {
     {
       "id": "ap3-3-26",
       "shortMorph": "RP ----AS--",
-      "greek": "σέ·",
+      "greek": "σέ",
       "transliteration": "se",
       "gloss": "tu",
       "strong": "G4771",
@@ -635,7 +639,8 @@ export const apocalipse3v3 = {
         "clauseId": "AP.3.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "·"
     }
   ],
   "syntacticNotes": [
