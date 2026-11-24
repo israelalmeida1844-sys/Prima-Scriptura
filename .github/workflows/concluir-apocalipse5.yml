@@ -1,0 +1,67 @@
+name: Concluir concordancias de Apocalipse 5 (rascunho)
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths:
+      - '.github/workflows/concluir-apocalipse5.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: concluir-apocalipse5-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  gerar-validar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout exclusivo do rascunho
+        uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+          persist-credentials: true
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Obter corpus grego verificavel
+        run: |
+          set -euo pipefail
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+          test "$(find /tmp/prima-morphgnt -maxdepth 1 -name '*-morphgnt.txt' | wc -l)" -eq 27
+      - name: Gerar somente concordancias ausentes
+        run: node scripts/gerar-concordancias-apocalipse5.mjs --corpus /tmp/prima-morphgnt --write
+      - name: Auditar conteudos e concordancias
+        run: node scripts/auditar-apocalipse5.mjs
+      - name: Instalar dependencias
+        run: npm install --no-audit --no-fund
+      - name: Compilar Astro (sem publicar)
+        run: npm run build
+      - name: Validar as 15 rotas do capitulo
+        run: |
+          set -euo pipefail
+          test -s dist/comentarios/apocalipse/capitulo-5/index.html
+          for v in $(seq 1 14); do
+            test -s "dist/comentarios/apocalipse/capitulo-5/versiculo-$v/index.html"
+          done
+          echo "Capitulo 5: 14 rotas de versiculos e indice gerados"
+      - name: Salvar concordancias apenas no rascunho
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/concordancia-grega/G*.json
+          if ! git diff --cached --quiet; then
+            git commit -m "feat(apocalipse5): adicionar concordancias verificadas nos 27 livros"
+            git pull --rebase origin rascunho/apocalipse
+            git push origin HEAD:rascunho/apocalipse
+          fi
+      - name: Anexar relatorio
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apocalipse5-concordancias-auditoria
+          path: |
+            src/data/texto-original/apocalipse/apocalipse-5-1-14-auditoria.json
+          if-no-files-found: warn
