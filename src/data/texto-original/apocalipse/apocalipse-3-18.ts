@@ -644,7 +644,7 @@ export const apocalipse3v18 = {
       "shortMorph": "V- -AAN----",
       "greek": "ἐγχρῖσαι",
       "transliteration": "enchrisai",
-      "gloss": "ungir; aplicar",
+      "gloss": "ungir",
       "strong": "G1472",
       "lemma": "ἐγχρίω",
       "lemmaTransliteration": "enchriō",
