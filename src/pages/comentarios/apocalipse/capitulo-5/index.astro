@@ -1,0 +1,257 @@
+---
+import Base from '../../../../layouts/Base.astro';
+
+const availableVerses = [
+  {
+    "number": 1,
+    "title": "O livro escrito por dentro e por trás",
+    "description": "O livro escrito em ambas as faces recorda Ez 2:9–10; a visão se relaciona com a cena do trono de Apocalipse 5."
+  },
+  {
+    "number": 2,
+    "title": "O anjo forte e a pergunta decisiva",
+    "description": "O adjetivo ἄξιος expressa dignidade para a ação de abrir os selos; o texto ressalta que essa dignidade não se encontra em qualquer ser criado."
+  },
+  {
+    "number": 3,
+    "title": "Ninguém pode abrir o livro",
+    "description": "A tríplice enumeração espacial dramatiza a incapacidade universal de criaturas de abrir o livro."
+  },
+  {
+    "number": 4,
+    "title": "As lágrimas de João",
+    "description": "ἔκλαιον é imperfeito do indicativo; descreve o pranto de João no desenrolar da visão, não apenas um ato pontual."
+  },
+  {
+    "number": 5,
+    "title": "O Leão de Judá e a Raiz de Davi",
+    "description": "A referência ao leão evoca Gn 49:9–10; a Raiz de Davi evoca Is 11:1,10; ἐνίκησεν é aoristo indicativo ativo, retratando a vitória como acontecimento."
+  },
+  {
+    "number": 6,
+    "title": "O Cordeiro em pé, como imolado",
+    "description": "O contraste narrativo é significativo: João ouve a identificação como Leão, mas vê um Cordeiro com marcas de imolação. As imagens dos olhos e espíritos se relacionam com Zc 4:10."
+  },
+  {
+    "number": 7,
+    "title": "O Cordeiro toma o livro",
+    "description": "O ato de receber o livro estrutura a transição da busca por alguém digno para a apresentação do Cordeiro como agente da ação."
+  },
+  {
+    "number": 8,
+    "title": "As taças e as orações dos santos",
+    "description": "As taças de incenso são explicitamente interpretadas no texto como orações dos santos; a cena participa da imagética sacerdotal."
+  },
+  {
+    "number": 9,
+    "title": "O cântico novo e a redenção",
+    "description": "A forma ἠγόρασας é aoristo indicativo ativo; a compra para Deus é apresentada em conexão explícita com o sangue do Cordeiro e com povos de todas as procedências."
+  },
+  {
+    "number": 10,
+    "title": "Reino, sacerdotes e reinado",
+    "description": "A designação reino e sacerdotes recupera Ex 19:6 e Ap 1:6; atenção às variantes pronominais e ao tempo verbal da declaração sobre reinar."
+  },
+  {
+    "number": 11,
+    "title": "A multidão incontável dos anjos",
+    "description": "A expressão miríades de miríades alude à linguagem da corte celestial em Dn 7:10 e comunica uma assembleia vasta."
+  },
+  {
+    "number": 12,
+    "title": "A sétupla aclamação ao Cordeiro",
+    "description": "A aclamação contém sete substantivos de louvor; a enumeração enfatiza a dignidade do Cordeiro imolado."
+  },
+  {
+    "number": 13,
+    "title": "A doxologia de toda criação",
+    "description": "O louvor alcança as esferas da criação enumeradas no texto e une, como destinatários, aquele que está no trono e o Cordeiro."
+  },
+  {
+    "number": 14,
+    "title": "O Amém e a adoração final",
+    "description": "O Amém dos quatro seres viventes e a prostração dos anciãos concluem a cena litúrgica iniciada no capítulo 5."
+  }
+];
+---
+<Base
+  title="Apocalipse 5 — Estudo interlinear em avaliação"
+  description="Consulte o texto original grego e a análise lexical de Apocalipse 5:1–11, com concordâncias exaustivas do Novo Testamento."
+>
+  <section class="apocalipse-chapter">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Caminho de navegação">
+        <a href="/comentarios/">Comentários</a>
+        <span aria-hidden="true">/</span>
+        <a href="/comentarios/apocalipse/">Apocalipse</a>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">Capítulo 5</span>
+      </nav>
+
+      <div class="chapter-heading">
+        <p class="eyebrow">A REVELAÇÃO DE JESUS CRISTO · CAPÍTULO 05</p>
+        <h1>Apocalipse 5 — O Livro Selado e a Doxologia Cósmica ao Cordeiro</h1>
+        <p>
+          Examine o texto grego koiné no texto crítico SBLGNT com transliteração, glosas, morfologia, acepções semânticas e concordâncias exaustivas do Novo Testamento. Apresentação em rascunho de avaliação editorial.
+        </p>
+      </div>
+
+      <div class="summary" aria-label="Progresso do capítulo 5">
+        <strong>14 de 14</strong>
+        <span>versículos preparados: a visão do trono, os quatro seres viventes e os vinte e quatro anciãos — capítulo 5 completo em rascunho</span>
+      </div>
+
+      <h2>Versículos preparados</h2>
+      <div class="verse-list">
+        {availableVerses.map(v => (
+          <a href={'/comentarios/apocalipse/capitulo-5/versiculo-' + v.number + '/'}>
+            <span>APOCALIPSE 5:{v.number}</span>
+            <strong>{v.title}</strong>
+            <p>{v.description}</p>
+            <small>Estudar versículo <span aria-hidden="true">→</span></small>
+          </a>
+        ))}
+      </div>
+
+      <div class="pending">
+        <h2>Em preparação editorial</h2>
+        <p>
+          Os 14 versículos estão estruturados com texto SBLGNT, morfologia MorphGNT, léxico e concordâncias. A etapa seguinte é a homologação filológica individual de glosas e construções sintáticas, juntamente com a verificação do build Astro.
+        </p>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .apocalipse-chapter,
+  .apocalipse-chapter :is(a, span, p, h1, h2, strong, small) {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .apocalipse-chapter {
+    padding: 45px 0 90px;
+  }
+  .crumbs {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-size: 14px;
+    color: #5e7287;
+    margin-bottom: 30px;
+  }
+  .apocalipse-chapter .crumbs a {
+    color: #435b76;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .chapter-heading {
+    padding: 40px;
+    background: linear-gradient(120deg, #10233b, #244366);
+    color: #f4f4f1;
+    border-radius: 14px;
+    margin-bottom: 24px;
+  }
+  .chapter-heading .eyebrow {
+    color: #eac48d;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+  }
+  .chapter-heading h1 {
+    color: #fff;
+    font-size: clamp(32px, 5vw, 50px);
+    margin: 10px 0;
+  }
+  .chapter-heading > p:last-child {
+    font-size: 19px;
+    max-width: 760px;
+    line-height: 1.7;
+    color: #d6e2ee;
+  }
+  .summary {
+    background: white;
+    border: 1px solid #e0d7c8;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 35px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .summary strong {
+    font-size: 27px;
+    color: #1a334f;
+    white-space: nowrap;
+  }
+  .summary span {
+    font-size: 16px;
+    color: #607084;
+  }
+  .verse-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 18px;
+  }
+  .verse-list a {
+    background: #fff;
+    border: 1px solid #e3daca;
+    border-radius: 10px;
+    min-height: 160px;
+    padding: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.15s ease-in-out;
+  }
+  .verse-list a:hover {
+    background: #faf6ed;
+    border-color: #b59157;
+    transform: translateY(-2px);
+  }
+  .verse-list a > span {
+    font-size: 13px;
+    font-weight: 700;
+    color: #936d36;
+  }
+  .verse-list strong {
+    font-size: 20px;
+    line-height: 1.35;
+    color: #101f35;
+  }
+  .verse-list p {
+    font-size: 14px;
+    color: #5d6f82;
+    line-height: 1.5;
+    margin: 0;
+  }
+  .verse-list small {
+    margin-top: auto;
+    color: #59708a;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .pending {
+    margin-top: 48px;
+    padding: 24px;
+    border-left: 4px solid #c6a15b;
+    background: #f7f3e9;
+    border-radius: 0 8px 8px 0;
+  }
+  .pending h2 {
+    font-size: 21px;
+    margin: 0 0 6px;
+    color: #1c3554;
+  }
+  .pending p {
+    margin: 0;
+    line-height: 1.65;
+    color: #596a7d;
+  }
+  @media (max-width: 440px) {
+    .chapter-heading {
+      padding: 24px;
+    }
+  }
+</style>
