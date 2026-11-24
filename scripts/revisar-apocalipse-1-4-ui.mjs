@@ -11,10 +11,10 @@ for(const [cs,count] of Object.entries(counts)){
   const data='apocalipse'+chapter+'v'+verse;
   const original='<span class="word-greek" lang="grc" dir="ltr">{word.greek}</span>';
   const replacement='<span class="word-greek" lang="grc" dir="ltr"><span class="greek-form">{word.greek.replace(/[,.;··:!?]+$/u, \'\')}</span><span class="greek-punctuation" aria-hidden="true">{word.greek.match(/[,.;··:!?]+$/u)?.[0] ?? \'\'}</span></span>';
-  assert.ok(c.includes(original),'Greek token markup not found: '+path);
-  c=c.replace(original,replacement);
+  if(c.includes(original))c=c.replace(original,replacement);
+  else assert.ok(c.includes('greek-punctuation'),'Greek token markup not found: '+path);
   const notePattern=/  <section class="textual-criticism-panel">[\s\S]*?  <\/section>/;
-  assert.match(c,notePattern,'Note section missing: '+path);
+  if(!notePattern.test(c))assert.ok(c.includes('syntactic-panel'),'Note sections missing: '+path);
   const notes=[
    '  <!-- Seções editoriais separadas: gramática, crítica textual e exegese. -->',
    '  <section class="syntactic-panel" aria-label="Observações gramaticais do versículo">',
@@ -32,7 +32,7 @@ for(const [cs,count] of Object.entries(counts)){
    '    {'+data+'.exegeticalNotes.length ? <ul>{'+data+'.exegeticalNotes.map(note => <li>{note}</li>)}</ul> : <p>Sem nota exegética adicional neste versículo.</p>}',
    '  </section>'
   ].join('\n');
-  c=c.replace(notePattern,notes);
+  if(notePattern.test(c))c=c.replace(notePattern,notes);
   const pid='ap'+chapter+'-'+verse+'-occurrences';
   const old=/(aria-controls|id)="ap\d+-\d+-occurrences"/g;
   const matches=[...c.matchAll(old)];
@@ -45,13 +45,13 @@ for(const [cs,count] of Object.entries(counts)){
  let c=read(path);
  const marker='<nav class="verse-picker"';
  assert.ok(c.includes(marker),'Verse navigation missing: '+path);
- c=c.replace(marker,'<p class="verse-picker-heading">Versículos do capítulo</p>\n      <nav class="verse-picker"');
- c=c.replace('</style>','  .verse-picker-heading { font-family: "Times New Roman", Times, serif; font-size: 15px; font-weight: 700; color: #1c3554; margin: 17px 0 10px; }\n  .verse-picker a[aria-current="page"] { outline: 3px solid #c6a15b; outline-offset: 2px; font-weight: 800; box-shadow: 0 2px 7px #1c355433; }\n</style>');
+ if(!c.includes('class="verse-picker-heading"'))c=c.replace(marker,'<p class="verse-picker-heading">Versículos do capítulo</p>\n      <nav class="verse-picker"');
+ if(!c.includes('.verse-picker-heading {'))c=c.replace('</style>','  .verse-picker-heading { font-family: "Times New Roman", Times, serif; font-size: 15px; font-weight: 700; color: #1c3554; margin: 17px 0 10px; }\n  .verse-picker a[aria-current="page"] { outline: 3px solid #c6a15b; outline-offset: 2px; font-weight: 800; box-shadow: 0 2px 7px #1c355433; }\n</style>');
  assert.ok(c.includes('Versículos do capítulo'));write(path,c);navigation++;
 }
 const css='src/styles/apocalipse-lexicon.css';
 let style=read(css);
-style+='\n/* Revisão editorial: capítulos 1–4 */\n'+
+if(!style.includes('/* Revisão editorial: capítulos 1–4 */'))style+='\n/* Revisão editorial: capítulos 1–4 */\n'+
 '.word-greek .greek-form { display: inline; }\n'+
 '.word-greek .greek-punctuation { display: inline; margin-left: 1px; color: #5e6979; font-weight: 400; }\n'+
 '.syntactic-panel, .exegetical-panel { margin-top: 18px; padding-top: 16px; border-top: 1px solid #e4e0d8; }\n'+

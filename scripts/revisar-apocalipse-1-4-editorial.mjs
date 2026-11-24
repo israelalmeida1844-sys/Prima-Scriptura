@@ -133,6 +133,7 @@ const role=(w,words,i,chapter,verse)=>{
 };
 const cleanNote=s=>clean(s).replace(/^\[(?:Revisão acadêmica complementar|Nota acadêmica)\]\s*/iu,'').replace(/^Exegese:\s*/iu,'').replace(/^Crítica textual:\s*/iu,'').trim();
 function processNotes(d,chapter,verse){
+ if(Array.isArray(d.syntacticNotes)&&d.syntacticNotes.length)return;
  const raw=clean(d.textualNotes);
  const oldExe=Array.isArray(d.exegeticalNotes)?d.exegeticalNotes:[];
  const hasVerifiedEditionContrast=/(Textus Receptus|Scrivener|texto bizantino|texto majoritário)/i.test(raw)&&!/(necessita cotejo|alega[cç][ãa]o anterior|sem unidade)/i.test(raw);
@@ -200,7 +201,7 @@ function fixWords(d,c,v){
  d.words.forEach((w,i)=>{
   const current=clean(w.gloss),s=specialGloss(w,d.words,i,c,v)||broadGloss(w);
   if(s!==current&&s){w.gloss=s;edits.glosses++;}
-  if(/[᾽’ʼ']$/u.test(bare(w.greek))&&!/['’]$/u.test(w.transliteration)){w.transliteration+="'";edits.apostrophes++;}
+  if(/[᾽’ʼ']$/u.test(bare(w.greek))){const previous=w.transliteration;w.transliteration=w.transliteration.replace(/[᾽’ʼ']$/u,"'");if(!/'$/u.test(w.transliteration))w.transliteration+="'";if(w.transliteration!==previous)edits.apostrophes++;}
   if(w.syntax){
    const newRole=role(w,d.words,i,c,v);
    if(newRole!==w.syntax.role){w.syntax.role=newRole;edits.syntacticRoles++;}
@@ -225,5 +226,8 @@ for(const [key,count] of Object.entries(numbers)){
  }
 }
 fs.mkdirSync('.github/reports',{recursive:true});
-fs.writeFileSync('.github/reports/apocalipse-1-4-revisao-editorial.json',JSON.stringify({source:'SBLGNT/MorphGNT 6.12; análise editorial conservadora sem colação integral de aparato crítico',chapters:4,verses:reports.length,tokens:reports.reduce((a,b)=>a+b.tokens,0),changes:edits,detail:reports},null,2)+'\n');
+const reportFile='.github/reports/apocalipse-1-4-revisao-editorial.json';
+const prior=fs.existsSync(reportFile)?JSON.parse(fs.readFileSync(reportFile,'utf8')):null;
+const totals={...edits};if(prior?.changes)for(const key of Object.keys(totals))totals[key]+=prior.changes[key]||0;
+fs.writeFileSync(reportFile,JSON.stringify({source:'SBLGNT/MorphGNT 6.12; análise editorial conservadora sem colação integral de aparato crítico',chapters:4,verses:reports.length,tokens:reports.reduce((a,b)=>a+b.tokens,0),changes:totals,detail:reports},null,2)+'\n');
 console.log(JSON.stringify({verses:reports.length,tokens:reports.reduce((a,b)=>a+b.tokens,0),changes:edits}));
