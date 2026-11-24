@@ -12,7 +12,8 @@ export const apocalipse4v4 = {
   "exegeticalNotes": [
     "A identidade dos vinte e quatro anciãos é tema interpretativo em disputa; sua função cultual e régia é mais evidente no texto que sua origem histórica. στέφανος é coroa de honra, não διάδημα.",
     "πρεσβυτέρους é analisado como adjetivo no MorphGNT, mas substantivado no contexto: «anciãos»; os particípios καθημένους e περιβεβλημένους qualificam o grupo.",
-    "A menção de στεφάνους (coroas de honra/vitória) não identifica por si a origem dos anciãos; as propostas de representantes redimidos ou corte celestial permanecem hipóteses interpretativas."
+    "A menção de στεφάνους (coroas de honra/vitória) não identifica por si a origem dos anciãos; as propostas de representantes redimidos ou corte celestial permanecem hipóteses interpretativas.",
+    "O numeral εἴκοσι é indeclinável. No primeiro grupo («vinte e quatro tronos»), o MorphGNT registra o código acusativo plural masculino para εἴκοσι, embora θρόνοι e τέσσαρες estejam no nominativo; o código deve ser preservado como dado do corpus, mas não interpretado como flexão própria de εἴκοσι."
   ],
   "words": [
     {

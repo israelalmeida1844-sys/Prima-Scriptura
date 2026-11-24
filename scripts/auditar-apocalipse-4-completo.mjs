@@ -87,7 +87,7 @@ assert.equal(seenStrongs.size, 113, 'Número de lemas Strong do capítulo 4');
 assert.equal(json('public/data/concordancia-grega/G1163.json').tokenCount, 101);
 assert.equal(json('public/data/concordancia-grega/G1163.json').verseCount, 100);
 for (const ref of ['Mt 26:35', 'Mk 14:31', 'Lk 18:1', 'Ac 25:24', 'Ac 26:9']) {
-  assert.ok(getIndex('G1163').references.includes(ref), 'Referência G1163 anteriormente omitida: ' + ref);
+  assert.ok(getIndex('G1163').references.some(r => normalizeRef(typeof r === 'string' ? r : r.reference) === ref), 'Referência G1163 anteriormente omitida: ' + ref);
 }
 
 // Auditoria independente dos 46 lemas introduzidos: ler cada linha dos 27 livros.
