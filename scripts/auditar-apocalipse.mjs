@@ -77,10 +77,10 @@ for (const [ch,limit] of Object.entries(chapters)) {
   for(const note of [...syn,...exe])if(/^\s*[-—•]\s*$/.test(note))add('alerta',ref,'MARCADOR_VAZIO','Marcador sem texto');
  }
 }
-const result={date:new Date().toISOString(),scope:'Apocalipse 1:1–4:11',versesExpected:72,versesChecked:totalVerses,tokensChecked:totalTokens,errors:issues.filter(x=>x.severity==='erro').length,warnings:issues.filter(x=>x.severity==='alerta').length,issues};
+const result={date:new Date().toISOString(),scope:'Apocalipse 1:1–4:11',versesExpected:82,versesChecked:totalVerses,tokensChecked:totalTokens,errors:issues.filter(x=>x.severity==='erro').length,warnings:issues.filter(x=>x.severity==='alerta').length,issues};
 fs.mkdirSync(path.join(base,'audit-results'),{recursive:true});
 fs.writeFileSync(path.join(base,'audit-results/apocalipse-1-4.json'),JSON.stringify(result,null,2)+'\n');
-console.log(`Auditoria: ${result.versesChecked}/72 versículos; ${totalTokens} tokens; ${result.errors} erros; ${result.warnings} alertas.`);
+console.log(`Auditoria: ${result.versesChecked}/82 versículos; ${totalTokens} tokens; ${result.errors} erros; ${result.warnings} alertas.`);
 for(const issue of issues.slice(0,50))console.log(`${issue.severity.toUpperCase()} ${issue.ref} [${issue.code}]: ${issue.detail}`);
 if(issues.length>50)console.log(`... ${issues.length-50} ocorrências restantes no JSON`);
 if(result.errors)process.exitCode=1;
