@@ -1,0 +1,324 @@
+{
+  "scope": "Lote 3, sublote A: Hebreus, Tiago, 1–2 Pedro",
+  "complete": false,
+  "batchComplete": false,
+  "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7",
+  "sources": [
+    {
+      "book": "Hb",
+      "blob": "b6f41c7341e6b40dddf36eb7230f6ea2541cd879",
+      "rows": 4935,
+      "first": "190101",
+      "last": "191325"
+    },
+    {
+      "book": "Tg",
+      "blob": "462cf055ed12eb98f050da2d2ddcf040212304af",
+      "rows": 1739,
+      "first": "200101",
+      "last": "200520"
+    },
+    {
+      "book": "1Pe",
+      "blob": "5ac72702c9fba9872973d9ae477933ffd261caf7",
+      "rows": 1678,
+      "first": "210101",
+      "last": "210514"
+    },
+    {
+      "book": "2Pe",
+      "blob": "e00185e04d19766df22734e7bce8342916f1d695",
+      "rows": 1098,
+      "first": "220101",
+      "last": "220318"
+    }
+  ],
+  "entries": {
+    "γωνία": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "1Pe": 1
+      },
+      "references": [
+        "1Pe 2:7"
+      ]
+    },
+    "πνέω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "μήτε": {
+      "tokenCount": 5,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Hb": 2,
+        "Tg": 3
+      },
+      "references": [
+        "Hb 7:3",
+        "Tg 5:12"
+      ]
+    },
+    "δένδρον": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἀνατολή": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "σφραγίζω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "μέτωπον": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἑκατόν": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "τεσσεράκοντα": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Hb": 2
+      },
+      "references": [
+        "Hb 3:10",
+        "Hb 3:17"
+      ]
+    },
+    "δώδεκα": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Tg": 1
+      },
+      "references": [
+        "Tg 1:1"
+      ]
+    },
+    "Ῥουβήν": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Γάδ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἀσήρ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Νεφθαλίμ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Μανασσῆς": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Συμεών": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "2Pe": 1
+      },
+      "references": [
+        "2Pe 1:1"
+      ]
+    },
+    "Λευί": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Hb": 2
+      },
+      "references": [
+        "Hb 7:5",
+        "Hb 7:9"
+      ]
+    },
+    "Ἰσσαχάρ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ζαβουλών": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἰωσήφ": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Hb": 2
+      },
+      "references": [
+        "Hb 11:21",
+        "Hb 11:22"
+      ]
+    },
+    "Βενιαμίν": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ὄχλος": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἀριθμέω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "φοῖνιξ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "σωτηρία": {
+      "tokenCount": 12,
+      "verseCount": 12,
+      "bookDistribution": {
+        "Hb": 7,
+        "1Pe": 4,
+        "2Pe": 1
+      },
+      "references": [
+        "Hb 1:14",
+        "Hb 2:3",
+        "Hb 2:10",
+        "Hb 5:9",
+        "Hb 6:9",
+        "Hb 9:28",
+        "Hb 11:7",
+        "1Pe 1:5",
+        "1Pe 1:9",
+        "1Pe 1:10",
+        "1Pe 2:2",
+        "2Pe 3:15"
+      ]
+    },
+    "ἀποκρίνομαι": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πλύνω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "λευκαίνω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "λατρεύω": {
+      "tokenCount": 6,
+      "verseCount": 6,
+      "bookDistribution": {
+        "Hb": 6
+      },
+      "references": [
+        "Hb 8:5",
+        "Hb 9:9",
+        "Hb 9:14",
+        "Hb 10:2",
+        "Hb 12:28",
+        "Hb 13:10"
+      ]
+    },
+    "σκηνόω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πεινάω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "διψάω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "καῦμα": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ὁδηγέω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πηγή": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Tg": 1,
+        "2Pe": 1
+      },
+      "references": [
+        "Tg 3:11",
+        "2Pe 2:17"
+      ]
+    },
+    "δάκρυον": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Hb": 2
+      },
+      "references": [
+        "Hb 5:7",
+        "Hb 12:17"
+      ]
+    }
+  }
+}
