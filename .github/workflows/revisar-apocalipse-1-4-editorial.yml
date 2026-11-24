@@ -5,6 +5,7 @@ on:
     paths:
       - 'scripts/revisar-apocalipse-1-4-editorial.mjs'
       - 'scripts/revisar-apocalipse-1-4-ui.mjs'
+      - 'scripts/auditar-apocalipse-1-4-corpus.mjs'
       - '.github/workflows/revisar-apocalipse-1-4-editorial.yml'
 permissions:
   contents: write
@@ -82,6 +83,11 @@ jobs:
           assert.ok(review.exegeticalNotes.every(x=>!x.includes('Crítica textual:')));
           console.log('PASSOU: '+verses+' versículos, '+tokens+' tokens, fichas sem duplicação estrutural, revisões de Ap 3:21.');
           NODE
+      - name: Comparar todos os 1.908 tokens com o MorphGNT 6.12
+        run: |
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+          node scripts/auditar-apocalipse-1-4-corpus.mjs /tmp/prima-morphgnt
       - name: Validar compilação Astro e rotas estáticas
         run: |
           npm run build
