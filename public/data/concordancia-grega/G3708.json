@@ -489,5 +489,6 @@
   "sourceVersion": "6.12",
   "sourceCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "license": "CC BY-SA 3.0 / SBLGNT EULA",
-  "attribution": "MorphGNT (James K. Tauber); SBL Greek New Testament (Michael W. Holmes, 2010)"
+  "attribution": "MorphGNT (James K. Tauber); SBL Greek New Testament (Michael W. Holmes, 2010)",
+  "corpusBooks": 27
 }
