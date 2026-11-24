@@ -1,0 +1,25 @@
+{
+  "strong": "G2368",
+  "lemma": "θυμίαμα",
+  "lemmaTranslit": "thymiama",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Lc": 2,
+    "Ap": 4
+  },
+  "references": [
+    "Lc 1:10",
+    "Lc 1:11",
+    "Ap 5:8",
+    "Ap 8:3",
+    "Ap 8:4",
+    "Ap 18:13"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

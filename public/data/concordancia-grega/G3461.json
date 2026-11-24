@@ -1,0 +1,29 @@
+{
+  "strong": "G3461",
+  "lemma": "μυριάς",
+  "lemmaTranslit": "myrias",
+  "tokenCount": 8,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Lc": 1,
+    "At": 2,
+    "Hb": 1,
+    "Jd": 1,
+    "Ap": 3
+  },
+  "references": [
+    "Lc 12:1",
+    "At 19:19",
+    "At 21:20",
+    "Hb 12:22",
+    "Jd 1:14",
+    "Ap 5:11",
+    "Ap 9:16"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

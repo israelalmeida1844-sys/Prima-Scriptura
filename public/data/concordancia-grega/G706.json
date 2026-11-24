@@ -1,0 +1,37 @@
+{
+  "strong": "G706",
+  "lemma": "ἀριθμός",
+  "lemmaTranslit": "arithmos",
+  "tokenCount": 18,
+  "verseCount": 15,
+  "bookDistribution": {
+    "Lc": 1,
+    "Jo": 1,
+    "At": 5,
+    "Rm": 1,
+    "Ap": 10
+  },
+  "references": [
+    "Lc 22:3",
+    "Jo 6:10",
+    "At 4:4",
+    "At 5:36",
+    "At 6:7",
+    "At 11:21",
+    "At 16:5",
+    "Rm 9:27",
+    "Ap 5:11",
+    "Ap 7:4",
+    "Ap 9:16",
+    "Ap 13:17",
+    "Ap 13:18",
+    "Ap 15:2",
+    "Ap 20:8"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

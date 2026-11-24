@@ -1,0 +1,29 @@
+{
+  "strong": "G2768",
+  "lemma": "κέρας",
+  "lemmaTranslit": "keras",
+  "tokenCount": 11,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Lc": 1,
+    "Ap": 10
+  },
+  "references": [
+    "Lc 1:69",
+    "Ap 5:6",
+    "Ap 9:13",
+    "Ap 12:3",
+    "Ap 13:1",
+    "Ap 13:11",
+    "Ap 17:3",
+    "Ap 17:7",
+    "Ap 17:12",
+    "Ap 17:16"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

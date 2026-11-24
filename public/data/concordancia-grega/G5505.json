@@ -1,0 +1,34 @@
+{
+  "strong": "G5505",
+  "lemma": "χιλιάς",
+  "lemmaTranslit": "chilias",
+  "tokenCount": 23,
+  "verseCount": 13,
+  "bookDistribution": {
+    "Lc": 2,
+    "At": 1,
+    "1Co": 1,
+    "Ap": 19
+  },
+  "references": [
+    "Lc 14:31",
+    "At 4:4",
+    "1Co 10:8",
+    "Ap 5:11",
+    "Ap 7:4",
+    "Ap 7:5",
+    "Ap 7:6",
+    "Ap 7:7",
+    "Ap 7:8",
+    "Ap 11:13",
+    "Ap 14:1",
+    "Ap 14:3",
+    "Ap 21:16"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

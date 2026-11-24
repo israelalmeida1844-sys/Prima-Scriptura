@@ -1,0 +1,23 @@
+{
+  "strong": "G2788",
+  "lemma": "κιθάρα",
+  "lemmaTranslit": "kithara",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "1Co": 1,
+    "Ap": 3
+  },
+  "references": [
+    "1Co 14:7",
+    "Ap 5:8",
+    "Ap 14:2",
+    "Ap 15:2"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}
