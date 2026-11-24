@@ -42,7 +42,7 @@ export const apocalipse5v9 = {
     },
     {
       "id": "ap5-9-2",
-      "shortMorph": "V-PAI-3-P",
+      "shortMorph": "V-PAI-3P",
       "greek": "ᾄδουσιν",
       "transliteration": "adoysin",
       "gloss": "cantar",
@@ -90,7 +90,7 @@ export const apocalipse5v9 = {
     },
     {
       "id": "ap5-9-4",
-      "shortMorph": "A-ASF",
+      "shortMorph": "ADJ-ASF",
       "greek": "καινὴν",
       "transliteration": "kainēn",
       "gloss": "novo, qualitativamente novo",
@@ -139,7 +139,7 @@ export const apocalipse5v9 = {
     },
     {
       "id": "ap5-9-6",
-      "shortMorph": "A-NSM",
+      "shortMorph": "ADJ-NSM",
       "greek": "Ἄξιος",
       "transliteration": "axios",
       "gloss": "digno",
@@ -163,7 +163,7 @@ export const apocalipse5v9 = {
     },
     {
       "id": "ap5-9-7",
-      "shortMorph": "V-PAI-2-S",
+      "shortMorph": "V-PAI-2S",
       "greek": "εἶ",
       "transliteration": "ei",
       "gloss": "ser / estar",
@@ -404,7 +404,7 @@ export const apocalipse5v9 = {
     },
     {
       "id": "ap5-9-17",
-      "shortMorph": "V-API-2-S",
+      "shortMorph": "V-API-2S",
       "greek": "ἐσφάγης",
       "transliteration": "esphagēs",
       "gloss": "imolar",
@@ -452,7 +452,7 @@ export const apocalipse5v9 = {
     },
     {
       "id": "ap5-9-19",
-      "shortMorph": "V-AAI-2-S",
+      "shortMorph": "V-AAI-2S",
       "greek": "ἠγόρασας",
       "transliteration": "ēgorasas",
       "gloss": "comprar",
@@ -596,7 +596,7 @@ export const apocalipse5v9 = {
     },
     {
       "id": "ap5-9-25",
-      "shortMorph": "PRO-GS-",
+      "shortMorph": "PRO-GS",
       "greek": "σου",
       "transliteration": "soy",
       "gloss": "tu / teu",
@@ -644,7 +644,7 @@ export const apocalipse5v9 = {
     },
     {
       "id": "ap5-9-27",
-      "shortMorph": "A-GSF",
+      "shortMorph": "ADJ-GSF",
       "greek": "πάσης",
       "transliteration": "pasēs",
       "gloss": "todo",

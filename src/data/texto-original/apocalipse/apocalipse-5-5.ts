@@ -42,7 +42,7 @@ export const apocalipse5v5 = {
     },
     {
       "id": "ap5-5-2",
-      "shortMorph": "A-NSM",
+      "shortMorph": "ADJ-NSM",
       "greek": "εἷς",
       "transliteration": "eis",
       "gloss": "um",
@@ -114,7 +114,7 @@ export const apocalipse5v5 = {
     },
     {
       "id": "ap5-5-5",
-      "shortMorph": "A-GPM",
+      "shortMorph": "ADJ-GPM",
       "greek": "πρεσβυτέρων",
       "transliteration": "presbyterōn",
       "gloss": "anciãos",
@@ -138,7 +138,7 @@ export const apocalipse5v5 = {
     },
     {
       "id": "ap5-5-6",
-      "shortMorph": "V-PAI-3-S",
+      "shortMorph": "V-PAI-3S",
       "greek": "λέγει",
       "transliteration": "legei",
       "gloss": "dizer",
@@ -162,7 +162,7 @@ export const apocalipse5v5 = {
     },
     {
       "id": "ap5-5-7",
-      "shortMorph": "PRO-DS-",
+      "shortMorph": "PRO-DS",
       "greek": "μοι",
       "transliteration": "moi",
       "gloss": "eu / me",
@@ -211,7 +211,7 @@ export const apocalipse5v5 = {
     },
     {
       "id": "ap5-5-9",
-      "shortMorph": "V-PAD-2-S",
+      "shortMorph": "V-PAD-2S",
       "greek": "κλαῖε",
       "transliteration": "klaie",
       "gloss": "chorar",
@@ -260,7 +260,7 @@ export const apocalipse5v5 = {
     },
     {
       "id": "ap5-5-11",
-      "shortMorph": "V-AAI-3-S",
+      "shortMorph": "V-AAI-3S",
       "greek": "ἐνίκησεν",
       "transliteration": "enikēsen",
       "gloss": "vencer, conquistar, prevalecer",
@@ -646,7 +646,7 @@ export const apocalipse5v5 = {
     },
     {
       "id": "ap5-5-27",
-      "shortMorph": "A-APF",
+      "shortMorph": "ADJ-APF",
       "greek": "ἑπτὰ",
       "transliteration": "epta",
       "gloss": "sete",

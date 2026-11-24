@@ -42,7 +42,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-2",
-      "shortMorph": "V-AAI-1-S",
+      "shortMorph": "V-AAI-1S",
       "greek": "εἶδον",
       "transliteration": "eidon",
       "gloss": "vi",
@@ -90,7 +90,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-4",
-      "shortMorph": "A-DSN",
+      "shortMorph": "ADJ-DSN",
       "greek": "μέσῳ",
       "transliteration": "mesō",
       "gloss": "meio",
@@ -210,7 +210,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-9",
-      "shortMorph": "A-GPN",
+      "shortMorph": "ADJ-GPN",
       "greek": "τεσσάρων",
       "transliteration": "tessarōn",
       "gloss": "quatro",
@@ -306,7 +306,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-13",
-      "shortMorph": "A-DSN",
+      "shortMorph": "ADJ-DSN",
       "greek": "μέσῳ",
       "transliteration": "mesō",
       "gloss": "meio",
@@ -354,7 +354,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-15",
-      "shortMorph": "A-GPM",
+      "shortMorph": "ADJ-GPM",
       "greek": "πρεσβυτέρων",
       "transliteration": "presbyterōn",
       "gloss": "anciãos",
@@ -523,7 +523,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-22",
-      "shortMorph": "A-APN",
+      "shortMorph": "ADJ-APN",
       "greek": "ἑπτὰ",
       "transliteration": "epta",
       "gloss": "sete",
@@ -595,7 +595,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-25",
-      "shortMorph": "A-APM",
+      "shortMorph": "ADJ-APM",
       "greek": "ἑπτά",
       "transliteration": "epta",
       "gloss": "sete",
@@ -644,7 +644,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-27",
-      "shortMorph": "V-PAI-3-P",
+      "shortMorph": "V-PAI-3P",
       "greek": "εἰσιν",
       "transliteration": "eisin",
       "gloss": "ser / estar",
@@ -692,7 +692,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-29",
-      "shortMorph": "A-NPN",
+      "shortMorph": "ADJ-NPN",
       "greek": "ἑπτὰ",
       "transliteration": "epta",
       "gloss": "sete",
@@ -837,7 +837,7 @@ export const apocalipse5v6 = {
     },
     {
       "id": "ap5-6-35",
-      "shortMorph": "A-ASF",
+      "shortMorph": "ADJ-ASF",
       "greek": "πᾶσαν",
       "transliteration": "pasan",
       "gloss": "todo",

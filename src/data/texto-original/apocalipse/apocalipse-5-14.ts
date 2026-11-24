@@ -66,7 +66,7 @@ export const apocalipse5v14 = {
     },
     {
       "id": "ap5-14-3",
-      "shortMorph": "A-NPN",
+      "shortMorph": "ADJ-NPN",
       "greek": "τέσσαρα",
       "transliteration": "tessara",
       "gloss": "quatro",
@@ -114,7 +114,7 @@ export const apocalipse5v14 = {
     },
     {
       "id": "ap5-14-5",
-      "shortMorph": "V-IAI-3-P",
+      "shortMorph": "V-IAI-3P",
       "greek": "ἔλεγον",
       "transliteration": "elegon",
       "gloss": "dizer",
@@ -212,7 +212,7 @@ export const apocalipse5v14 = {
     },
     {
       "id": "ap5-14-9",
-      "shortMorph": "A-NPM",
+      "shortMorph": "ADJ-NPM",
       "greek": "πρεσβύτεροι",
       "transliteration": "presbyteroi",
       "gloss": "anciãos",
@@ -236,7 +236,7 @@ export const apocalipse5v14 = {
     },
     {
       "id": "ap5-14-10",
-      "shortMorph": "V-AAI-3-P",
+      "shortMorph": "V-AAI-3P",
       "greek": "ἔπεσαν",
       "transliteration": "epesan",
       "gloss": "cair",
@@ -284,7 +284,7 @@ export const apocalipse5v14 = {
     },
     {
       "id": "ap5-14-12",
-      "shortMorph": "V-AAI-3-P",
+      "shortMorph": "V-AAI-3P",
       "greek": "προσεκύνησαν",
       "transliteration": "prosekynēsan",
       "gloss": "adorar",

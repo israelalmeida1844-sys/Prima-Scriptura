@@ -42,7 +42,7 @@ export const apocalipse5v4 = {
     },
     {
       "id": "ap5-4-2",
-      "shortMorph": "PRO-NS-",
+      "shortMorph": "PRO-NS",
       "greek": "ἐγὼ",
       "transliteration": "egō",
       "gloss": "eu / me",
@@ -66,7 +66,7 @@ export const apocalipse5v4 = {
     },
     {
       "id": "ap5-4-3",
-      "shortMorph": "V-IAI-1-S",
+      "shortMorph": "V-IAI-1S",
       "greek": "ἔκλαιον",
       "transliteration": "eklaion",
       "gloss": "chorar",
@@ -90,7 +90,7 @@ export const apocalipse5v4 = {
     },
     {
       "id": "ap5-4-4",
-      "shortMorph": "A-ASN",
+      "shortMorph": "ADJ-ASN",
       "greek": "πολὺ",
       "transliteration": "poly",
       "gloss": "muitas",
@@ -138,7 +138,7 @@ export const apocalipse5v4 = {
     },
     {
       "id": "ap5-4-6",
-      "shortMorph": "A-NSM",
+      "shortMorph": "ADJ-NSM",
       "greek": "οὐδεὶς",
       "transliteration": "oydeis",
       "gloss": "ninguém",
@@ -162,7 +162,7 @@ export const apocalipse5v4 = {
     },
     {
       "id": "ap5-4-7",
-      "shortMorph": "A-NSM",
+      "shortMorph": "ADJ-NSM",
       "greek": "ἄξιος",
       "transliteration": "axios",
       "gloss": "digno",
@@ -186,7 +186,7 @@ export const apocalipse5v4 = {
     },
     {
       "id": "ap5-4-8",
-      "shortMorph": "V-API-3-S",
+      "shortMorph": "V-API-3S",
       "greek": "εὑρέθη",
       "transliteration": "eyrethē",
       "gloss": "achaste",
