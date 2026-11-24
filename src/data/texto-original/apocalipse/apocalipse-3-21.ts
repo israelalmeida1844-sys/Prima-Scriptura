@@ -144,7 +144,7 @@ export const apocalipse3v21 = {
       "lemmaTransliteration": "meta",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "Preposição ",
+      "morphology": "Preposição",
       "meanings": "com; depois de",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
@@ -169,7 +169,7 @@ export const apocalipse3v21 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "eu; nós",
+      "meanings": "de mim; meu (conforme a construção genitiva)",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
@@ -192,7 +192,7 @@ export const apocalipse3v21 = {
       "lemmaTransliteration": "en",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "Preposição ",
+      "morphology": "Preposição",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
       "explanation": "Nesta construção, ἐν rege o dativo com valor locativo.",
       "occurrencesExamples": [
@@ -265,7 +265,7 @@ export const apocalipse3v21 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "eu; nós",
+      "meanings": "de mim; meu (conforme a construção genitiva)",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
@@ -314,7 +314,7 @@ export const apocalipse3v21 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----NS--",
       "morphology": "Pronome nominativo singular",
-      "meanings": "κἀγώ contrai καὶ ἐγώ («e eu também»), ligando a posição de Cristo à rejeição das obras mencionadas.",
+      "meanings": "Contração de καὶ ἐγώ: «e eu», «eu também».",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
@@ -379,7 +379,7 @@ export const apocalipse3v21 = {
       "shortMorph": "V- 1AAI-S--",
       "greek": "ἐκάθισα",
       "transliteration": "ekathisa",
-      "gloss": "sentar-se",
+      "gloss": "sentei-me",
       "strong": "G2523",
       "lemma": "καθίζω",
       "lemmaTransliteration": "kathizō",
@@ -409,7 +409,7 @@ export const apocalipse3v21 = {
       "lemmaTransliteration": "meta",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "Preposição ",
+      "morphology": "Preposição",
       "meanings": "com; depois de",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
@@ -482,7 +482,7 @@ export const apocalipse3v21 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "eu; nós",
+      "meanings": "de mim; meu (conforme a construção genitiva)",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
@@ -505,7 +505,7 @@ export const apocalipse3v21 = {
       "lemmaTransliteration": "en",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "Preposição ",
+      "morphology": "Preposição",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
       "explanation": "Nesta construção, ἐν rege o dativo com valor locativo.",
       "occurrencesExamples": [
