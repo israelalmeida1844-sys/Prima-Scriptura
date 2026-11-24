@@ -73,7 +73,7 @@ for (const [ch,limit] of Object.entries(chapters)) {
     if(empty(w[field]))add('erro',key,'CAMPO_VAZIO',field);
    }
    if(!lexicalEntries[w.strong])add('alerta',key,'STRONG_SEM_VERBETE',w.strong);
-   if(!/^G\\d+$/.test(w.strong||''))add('alerta',key,'STRONG_FORMATO',w.strong);
+   if(!/^G\d+$/.test(w.strong||''))add('alerta',key,'STRONG_FORMATO',w.strong);
    if(seen.has(w.id))add('erro',key,'ID_DUPLICADO',w.id);
    seen.add(w.id);
    if(/[.,;··:!?]$/.test(w.greek||''))add('alerta',key,'PONTUACAO_TOKEN','Pontuação incorporada à palavra');
