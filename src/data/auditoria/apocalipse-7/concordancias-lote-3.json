@@ -1,7 +1,7 @@
 {
-  "scope": "Lote 3, sublote A: Hebreus, Tiago, 1–2 Pedro",
+  "scope": "Lote 3: Hebreus e sete cartas gerais integralmente processados; concordância do NT ainda parcial",
   "complete": false,
-  "batchComplete": false,
+  "batchComplete": true,
   "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7",
   "sources": [
     {
@@ -31,6 +31,34 @@
       "rows": 1098,
       "first": "220101",
       "last": "220318"
+    },
+    {
+      "book": "1Jo",
+      "blob": "256ce436ae5bb07f405b8971b8355336dfe39e76",
+      "rows": 2137,
+      "first": "230101",
+      "last": "230521"
+    },
+    {
+      "book": "2Jo",
+      "blob": "1dd4b1fd9bd6095ddbb6d9e178c193666fd43860",
+      "rows": 245,
+      "first": "240101",
+      "last": "240113"
+    },
+    {
+      "book": "3Jo",
+      "blob": "27a36b65129ba367a8ea92dc3507ef1a0cfee730",
+      "rows": 219,
+      "first": "250101",
+      "last": "250115"
+    },
+    {
+      "book": "Jd",
+      "blob": "c401f296d69d02a78d0266a976bdd72db95fb318",
+      "rows": 459,
+      "first": "260101",
+      "last": "260125"
     }
   ],
   "entries": {
@@ -63,10 +91,14 @@
       ]
     },
     "δένδρον": {
-      "tokenCount": 0,
-      "verseCount": 0,
-      "bookDistribution": {},
-      "references": []
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Jd": 1
+      },
+      "references": [
+        "Jd 1:12"
+      ]
     },
     "ἀνατολή": {
       "tokenCount": 0,
@@ -212,12 +244,13 @@
       "references": []
     },
     "σωτηρία": {
-      "tokenCount": 12,
-      "verseCount": 12,
+      "tokenCount": 13,
+      "verseCount": 13,
       "bookDistribution": {
         "Hb": 7,
         "1Pe": 4,
-        "2Pe": 1
+        "2Pe": 1,
+        "Jd": 1
       },
       "references": [
         "Hb 1:14",
@@ -231,7 +264,8 @@
         "1Pe 1:9",
         "1Pe 1:10",
         "1Pe 2:2",
-        "2Pe 3:15"
+        "2Pe 3:15",
+        "Jd 1:3"
       ]
     },
     "ἀποκρίνομαι": {
