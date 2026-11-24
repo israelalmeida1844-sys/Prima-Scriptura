@@ -16,6 +16,24 @@ const exists = name => fs.existsSync(path.join(base,name));
 const empty = value => !String(value ?? '').trim() || ['-','—','•'].includes(String(value).trim());
 const normalize = value => String(value ?? '').normalize('NFC').trim().replace(/\s+/g,' ').toLowerCase();
 let totalTokens=0, totalVerses=0;
+const lexiconPath='src/data/lexico-grego/apocalipse-4-1-11.json';
+let lexicalEntries={};
+if(!exists(lexiconPath))add('erro','Léxico','LEXICO_AUSENTE',lexiconPath);
+else{
+ try{
+  lexicalEntries=JSON.parse(read(lexiconPath)).entries||{};
+  for(const [strong,entry] of Object.entries(lexicalEntries)){
+   if(!entry.lemma||!Array.isArray(entry.senses))add('erro',strong,'VERBETE_INCOMPLETO','Faltam lema ou acepções');
+   for(const sense of entry.senses||[]){
+    if(empty(sense.label)&&empty(sense.definition))add('alerta',strong,'SENTIDO_VAZIO','Acepção sem título ou definição');
+    for(const ex of sense.examples||[]){
+     if(empty(ex.greek)||empty(ex.translation))add('alerta',strong,'EXEMPLO_VAZIO','Exemplo sem grego ou tradução');
+    }
+   }
+  }
+ }catch(err){add('erro','Léxico','LEXICO_INVALIDO',err.message);}
+}
+
 
 for (const [ch,limit] of Object.entries(chapters)) {
  const route=`src/pages/comentarios/apocalipse/capitulo-${ch}/[versiculo].astro`;
@@ -54,6 +72,8 @@ for (const [ch,limit] of Object.entries(chapters)) {
    for(const field of ['id','greek','lemma','strong','transliteration','gloss','morphology']){
     if(empty(w[field]))add('erro',key,'CAMPO_VAZIO',field);
    }
+   if(!lexicalEntries[w.strong])add('alerta',key,'STRONG_SEM_VERBETE',w.strong);
+   if(!/^G\\d+$/.test(w.strong||''))add('alerta',key,'STRONG_FORMATO',w.strong);
    if(seen.has(w.id))add('erro',key,'ID_DUPLICADO',w.id);
    seen.add(w.id);
    if(/[.,;··:!?]$/.test(w.greek||''))add('alerta',key,'PONTUACAO_TOKEN','Pontuação incorporada à palavra');
