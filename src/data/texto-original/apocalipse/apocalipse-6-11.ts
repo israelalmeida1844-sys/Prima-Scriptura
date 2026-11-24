@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:11 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:11 · revisão lexical */
 export const apocalipse6v11 = {
   "reference": "Apocalipse 6:11",
   "book": "Apocalipse",
@@ -121,10 +121,10 @@ export const apocalipse6v11 = {
       "strong": "G4749",
       "lemma": "στολή",
       "lemmaTransliteration": "stolē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: veste longa. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Vestimenta longa, manto ou traje distintivo; em 6:11 é apresentada com a qualificação branca.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:11"
@@ -266,10 +266,10 @@ export const apocalipse6v11 = {
       "strong": "G373",
       "lemma": "ἀναπαύω",
       "lemmaTransliteration": "anapayō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "3FMI-P--",
       "morphology": "MorphGNT 6.12: V- 3FMI-P--",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: descansar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Fazer repousar, descansar ou proporcionar alívio; em 6:11 integra a instrução de esperar.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:11"
@@ -363,10 +363,10 @@ export const apocalipse6v11 = {
       "strong": "G2193",
       "lemma": "ἕως",
       "lemmaTransliteration": "eōs",
-      "partOfSpeech": "P-",
+      "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: até. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Partícula ou preposição que estabelece limite, especialmente temporal, e em perguntas a duração até um evento.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:11"
@@ -459,10 +459,10 @@ export const apocalipse6v11 = {
       "strong": "G4889",
       "lemma": "σύνδουλος",
       "lemmaTransliteration": "syndoylos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: conservo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Companheiro de servidão ou conservo, alguém que serve ao mesmo senhor que outro.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:11"

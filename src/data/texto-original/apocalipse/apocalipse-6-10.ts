@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:10 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:10 · revisão lexical */
 export const apocalipse6v10 = {
   "reference": "Apocalipse 6:10",
   "book": "Apocalipse",
@@ -49,10 +49,10 @@ export const apocalipse6v10 = {
       "strong": "G2896",
       "lemma": "κράζω",
       "lemmaTransliteration": "krazō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: clamar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Clamar ou gritar em voz forte; frequentemente usado em súplicas e proclamações intensas.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -146,10 +146,10 @@ export const apocalipse6v10 = {
       "strong": "G2193",
       "lemma": "ἕως",
       "lemmaTransliteration": "eōs",
-      "partOfSpeech": "P-",
+      "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: até. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Partícula ou preposição que estabelece limite, especialmente temporal, e em perguntas a duração até um evento.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -170,10 +170,10 @@ export const apocalipse6v10 = {
       "strong": "G4219",
       "lemma": "πότε",
       "lemmaTransliteration": "pote",
-      "partOfSpeech": "D-",
+      "partOfSpeech": "Advérbio/partícula",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: D- --------",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: quando?. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Advérbio interrogativo temporal, com sentido de quando; associado a ἕως forma até quando.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -219,10 +219,10 @@ export const apocalipse6v10 = {
       "strong": "G1203",
       "lemma": "δεσπότης",
       "lemmaTransliteration": "despotēs",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: soberano. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Senhor, mestre ou soberano que exerce autoridade; em 6:10 é vocativo dirigido ao juiz divino.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -364,10 +364,10 @@ export const apocalipse6v10 = {
       "strong": "G2919",
       "lemma": "κρίνω",
       "lemmaTransliteration": "krinō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "MorphGNT 6.12: V- 2PAI-S--",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: julgar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Julgar ou decidir, inclusive em sentido jurídico de avaliação e emissão de sentença.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -412,10 +412,10 @@ export const apocalipse6v10 = {
       "strong": "G1556",
       "lemma": "ἐκδικέω",
       "lemmaTransliteration": "ekdikeō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "MorphGNT 6.12: V- 2PAI-S--",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: fazer justiça. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Fazer justiça, reivindicar direito ou vingar judicialmente uma injustiça; o contexto de 6:10 é um clamor por julgamento.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:10"

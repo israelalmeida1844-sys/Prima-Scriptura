@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:17 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:17 · revisão lexical */
 export const apocalipse6v17 = {
   "reference": "Apocalipse 6:17",
   "book": "Apocalipse",
@@ -193,10 +193,10 @@ export const apocalipse6v17 = {
       "strong": "G3709",
       "lemma": "ὀργή",
       "lemmaTransliteration": "orgē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: ira. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Ira ou indignação, especialmente manifestação de juízo; em 6:16–17 qualifica o julgamento divino.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:17"

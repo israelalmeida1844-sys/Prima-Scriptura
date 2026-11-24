@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:12 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:12 · revisão lexical */
 export const apocalipse6v12 = {
   "reference": "Apocalipse 6:12",
   "book": "Apocalipse",
@@ -193,10 +193,10 @@ export const apocalipse6v12 = {
       "strong": "G1623",
       "lemma": "ἕκτος",
       "lemmaTransliteration": "ektos",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: A- ----ASF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: sexto. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Numeral ordinal que indica a sexta posição na sequência.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:12"
@@ -242,10 +242,10 @@ export const apocalipse6v12 = {
       "strong": "G4578",
       "lemma": "σεισμός",
       "lemmaTransliteration": "seismos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: terremoto. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Abalo, tremor ou terremoto; empregado em narrativas de manifestações naturais e juízo.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:12"
@@ -411,10 +411,10 @@ export const apocalipse6v12 = {
       "strong": "G3189",
       "lemma": "μέλας",
       "lemmaTransliteration": "melas",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: negro. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Adjetivo que indica coloração negra ou muito escura; modifica ἵππος em 6:5.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:12"
@@ -459,10 +459,10 @@ export const apocalipse6v12 = {
       "strong": "G4526",
       "lemma": "σάκκος",
       "lemmaTransliteration": "sakkos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: pano de saco. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Tecido áspero feito de material grosseiro, frequentemente usado como sinal de luto e penitência.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:12"
@@ -483,10 +483,10 @@ export const apocalipse6v12 = {
       "strong": "G5155",
       "lemma": "τρίχινος",
       "lemmaTransliteration": "trichinos",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: de crina. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Adjetivo de material feito de pelos ou crina, usado para caracterizar o pano de saco.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:12"
@@ -556,10 +556,10 @@ export const apocalipse6v12 = {
       "strong": "G4582",
       "lemma": "σελήνη",
       "lemmaTransliteration": "selēnē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: lua. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "A Lua, corpo celeste visível a partir da Terra; em 6:12 aparece em comparação com sangue.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:12"

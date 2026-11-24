@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:15 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:15 · revisão lexical */
 export const apocalipse6v15 = {
   "reference": "Apocalipse 6:15",
   "book": "Apocalipse",
@@ -193,10 +193,10 @@ export const apocalipse6v15 = {
       "strong": "G3175",
       "lemma": "μεγιστάν",
       "lemmaTransliteration": "megistan",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: dignitário. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Pessoa de alta posição social ou política, dignitário ou poderoso influente.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:15"
@@ -265,10 +265,10 @@ export const apocalipse6v15 = {
       "strong": "G5506",
       "lemma": "χιλίαρχος",
       "lemmaTransliteration": "chiliarchos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: comandante militar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Título de comandante militar; originalmente associado ao comando de mil, podendo variar conforme organização histórica.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:15"
@@ -529,10 +529,10 @@ export const apocalipse6v15 = {
       "strong": "G1658",
       "lemma": "ἐλεύθερος",
       "lemmaTransliteration": "eleytheros",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: livre. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Livre, não sujeito à condição jurídica de escravidão; forma oposição social a δοῦλος.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:15"
@@ -649,10 +649,10 @@ export const apocalipse6v15 = {
       "strong": "G4693",
       "lemma": "σπήλαιον",
       "lemmaTransliteration": "spēlaion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----APN-",
       "morphology": "MorphGNT 6.12: N- ----APN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: caverna. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Caverna, gruta ou cavidade natural usada como abrigo.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:15"
@@ -745,10 +745,10 @@ export const apocalipse6v15 = {
       "strong": "G4073",
       "lemma": "πέτρα",
       "lemmaTransliteration": "petra",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: N- ----APF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: rocha. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Rocha, massa de pedra ou formação rochosa; em 6:16 recebe uma invocação metafórica.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:15"
@@ -793,10 +793,10 @@ export const apocalipse6v15 = {
       "strong": "G3735",
       "lemma": "ὄρος",
       "lemmaTransliteration": "oros",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: N- ----GPN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: monte. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Monte ou montanha, elevação de terreno, frequentemente elemento da paisagem apocalíptica.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:15"

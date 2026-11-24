@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:13 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:13 · revisão lexical */
 export const apocalipse6v13 = {
   "reference": "Apocalipse 6:13",
   "book": "Apocalipse",
@@ -266,10 +266,10 @@ export const apocalipse6v13 = {
       "strong": "G4808",
       "lemma": "συκῆ",
       "lemmaTransliteration": "sykē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: figueira. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Figueira, árvore frutífera, usada em 6:13 como elemento de comparação.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:13"
@@ -338,10 +338,10 @@ export const apocalipse6v13 = {
       "strong": "G3653",
       "lemma": "ὄλυνθος",
       "lemmaTransliteration": "olynthos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: N- ----APM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: figo temporão. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Figo precoce ou imaturo que pode cair da figueira antes da maturação.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:13"
@@ -386,10 +386,10 @@ export const apocalipse6v13 = {
       "strong": "G5259",
       "lemma": "ὑπό",
       "lemmaTransliteration": "ypo",
-      "partOfSpeech": "P-",
+      "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: sob; por. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Preposição que pode indicar posição inferior ou agente; a interpretação depende do caso gramatical regido.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:13"
@@ -410,10 +410,10 @@ export const apocalipse6v13 = {
       "strong": "G417",
       "lemma": "ἄνεμος",
       "lemmaTransliteration": "anemos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: vento. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Vento, movimento de ar que, em 6:13, sacode a figueira.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:13"
@@ -458,10 +458,10 @@ export const apocalipse6v13 = {
       "strong": "G4579",
       "lemma": "σείω",
       "lemmaTransliteration": "seiō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "-PPPNSF-",
       "morphology": "MorphGNT 6.12: V- -PPPNSF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: sacudir. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Sacudir, abalar ou agitar; descreve a ação do vento sobre a figueira.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:13"

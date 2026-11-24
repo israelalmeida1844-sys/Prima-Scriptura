@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:16 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:16 · revisão lexical */
 export const apocalipse6v16 = {
   "reference": "Apocalipse 6:16",
   "book": "Apocalipse",
@@ -97,10 +97,10 @@ export const apocalipse6v16 = {
       "strong": "G3735",
       "lemma": "ὄρος",
       "lemmaTransliteration": "oros",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPN-",
       "morphology": "MorphGNT 6.12: N- ----DPN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: monte. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Monte ou montanha, elevação de terreno, frequentemente elemento da paisagem apocalíptica.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:16"
@@ -169,10 +169,10 @@ export const apocalipse6v16 = {
       "strong": "G4073",
       "lemma": "πέτρα",
       "lemmaTransliteration": "petra",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "MorphGNT 6.12: N- ----DPF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: rocha. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Rocha, massa de pedra ou formação rochosa; em 6:16 recebe uma invocação metafórica.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:16"
@@ -578,10 +578,10 @@ export const apocalipse6v16 = {
       "strong": "G3709",
       "lemma": "ὀργή",
       "lemmaTransliteration": "orgē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: ira. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Ira ou indignação, especialmente manifestação de juízo; em 6:16–17 qualifica o julgamento divino.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:16"

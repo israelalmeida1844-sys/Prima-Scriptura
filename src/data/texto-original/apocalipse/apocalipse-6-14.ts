@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:14 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:14 · revisão lexical */
 export const apocalipse6v14 = {
   "reference": "Apocalipse 6:14",
   "book": "Apocalipse",
@@ -97,10 +97,10 @@ export const apocalipse6v14 = {
       "strong": "G673",
       "lemma": "ἀποχωρίζομαι",
       "lemmaTransliteration": "apochōrizomai",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
       "morphology": "MorphGNT 6.12: V- 3API-S--",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: separar-se. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Afastar-se, separar-se ou ser removido; em 6:14 descreve figuradamente o céu.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:14"
@@ -169,10 +169,10 @@ export const apocalipse6v14 = {
       "strong": "G1667",
       "lemma": "ἑλίσσω",
       "lemmaTransliteration": "elissō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "-PPPNSN-",
       "morphology": "MorphGNT 6.12: V- -PPPNSN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: enrolar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Enrolar, dobrar ou torcer; o particípio de 6:14 compara o céu a um rolo de livro.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:14"
@@ -242,10 +242,10 @@ export const apocalipse6v14 = {
       "strong": "G3735",
       "lemma": "ὄρος",
       "lemmaTransliteration": "oros",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: N- ----NSN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: monte. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Monte ou montanha, elevação de terreno, frequentemente elemento da paisagem apocalíptica.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:14"
