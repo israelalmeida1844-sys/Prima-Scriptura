@@ -1,0 +1,425 @@
+{
+  "scope": "Lote 2, sublote A: Atos, Romanos, 1–2 Coríntios",
+  "complete": false,
+  "batchComplete": false,
+  "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7",
+  "sources": [
+    {
+      "book": "At",
+      "blob": "3aed8e1a1dd9d77b4c448a0893bd4ddee6eb6842",
+      "rows": 18412,
+      "first": "050101",
+      "last": "052831"
+    },
+    {
+      "book": "Rm",
+      "blob": "874480223c7f71bbc71f18d77ed3a6ad734561e1",
+      "rows": 7055,
+      "first": "060101",
+      "last": "061624"
+    },
+    {
+      "book": "1Co",
+      "blob": "28dec6618da3a378f454b6c72776286855857920",
+      "rows": 6812,
+      "first": "070101",
+      "last": "071624"
+    },
+    {
+      "book": "2Co",
+      "blob": "9beb35c77da5ffbcf56a8d7c0e9d6054452a0b43",
+      "rows": 4473,
+      "first": "080101",
+      "last": "081313"
+    }
+  ],
+  "entries": {
+    "γωνία": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "At": 2
+      },
+      "references": [
+        "At 4:11",
+        "At 26:26"
+      ]
+    },
+    "πνέω": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "At": 1
+      },
+      "references": [
+        "At 27:40"
+      ]
+    },
+    "μήτε": {
+      "tokenCount": 8,
+      "verseCount": 4,
+      "bookDistribution": {
+        "At": 8
+      },
+      "references": [
+        "At 23:8",
+        "At 23:12",
+        "At 23:21",
+        "At 27:20"
+      ]
+    },
+    "δένδρον": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἀνατολή": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "σφραγίζω": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Rm": 1,
+        "2Co": 1
+      },
+      "references": [
+        "Rm 15:28",
+        "2Co 1:22"
+      ]
+    },
+    "μέτωπον": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἑκατόν": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "At": 1
+      },
+      "references": [
+        "At 1:15"
+      ]
+    },
+    "τεσσεράκοντα": {
+      "tokenCount": 9,
+      "verseCount": 9,
+      "bookDistribution": {
+        "At": 8,
+        "2Co": 1
+      },
+      "references": [
+        "At 1:3",
+        "At 4:22",
+        "At 7:30",
+        "At 7:36",
+        "At 7:42",
+        "At 13:21",
+        "At 23:13",
+        "At 23:21",
+        "2Co 11:24"
+      ]
+    },
+    "δώδεκα": {
+      "tokenCount": 5,
+      "verseCount": 5,
+      "bookDistribution": {
+        "At": 4,
+        "1Co": 1
+      },
+      "references": [
+        "At 6:2",
+        "At 7:8",
+        "At 19:7",
+        "At 24:11",
+        "1Co 15:5"
+      ]
+    },
+    "Ῥουβήν": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Γάδ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἀσήρ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Νεφθαλίμ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Μανασσῆς": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Συμεών": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "At": 2
+      },
+      "references": [
+        "At 13:1",
+        "At 15:14"
+      ]
+    },
+    "Λευί": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἰσσαχάρ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ζαβουλών": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἰωσήφ": {
+      "tokenCount": 7,
+      "verseCount": 6,
+      "bookDistribution": {
+        "At": 7
+      },
+      "references": [
+        "At 1:23",
+        "At 4:36",
+        "At 7:9",
+        "At 7:13",
+        "At 7:14",
+        "At 7:18"
+      ]
+    },
+    "Βενιαμίν": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "At": 1,
+        "Rm": 1
+      },
+      "references": [
+        "At 13:21",
+        "Rm 11:1"
+      ]
+    },
+    "ὄχλος": {
+      "tokenCount": 22,
+      "verseCount": 22,
+      "bookDistribution": {
+        "At": 22
+      },
+      "references": [
+        "At 1:15",
+        "At 6:7",
+        "At 8:6",
+        "At 11:24",
+        "At 11:26",
+        "At 13:45",
+        "At 14:11",
+        "At 14:13",
+        "At 14:14",
+        "At 14:18",
+        "At 14:19",
+        "At 16:22",
+        "At 17:8",
+        "At 17:13",
+        "At 19:26",
+        "At 19:33",
+        "At 19:35",
+        "At 21:27",
+        "At 21:34",
+        "At 21:35",
+        "At 24:12",
+        "At 24:18"
+      ]
+    },
+    "ἀριθμέω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "φοῖνιξ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "σωτηρία": {
+      "tokenCount": 15,
+      "verseCount": 14,
+      "bookDistribution": {
+        "At": 6,
+        "Rm": 5,
+        "2Co": 4
+      },
+      "references": [
+        "At 4:12",
+        "At 7:25",
+        "At 13:26",
+        "At 13:47",
+        "At 16:17",
+        "At 27:34",
+        "Rm 1:16",
+        "Rm 10:1",
+        "Rm 10:10",
+        "Rm 11:11",
+        "Rm 13:11",
+        "2Co 1:6",
+        "2Co 6:2",
+        "2Co 7:10"
+      ]
+    },
+    "ἀποκρίνομαι": {
+      "tokenCount": 20,
+      "verseCount": 20,
+      "bookDistribution": {
+        "At": 20
+      },
+      "references": [
+        "At 3:12",
+        "At 4:19",
+        "At 5:8",
+        "At 5:29",
+        "At 8:24",
+        "At 8:34",
+        "At 9:13",
+        "At 10:46",
+        "At 11:9",
+        "At 15:13",
+        "At 19:15",
+        "At 21:13",
+        "At 22:8",
+        "At 22:28",
+        "At 24:10",
+        "At 24:25",
+        "At 25:4",
+        "At 25:9",
+        "At 25:12",
+        "At 25:16"
+      ]
+    },
+    "πλύνω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "λευκαίνω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "λατρεύω": {
+      "tokenCount": 7,
+      "verseCount": 7,
+      "bookDistribution": {
+        "At": 5,
+        "Rm": 2
+      },
+      "references": [
+        "At 7:7",
+        "At 7:42",
+        "At 24:14",
+        "At 26:7",
+        "At 27:23",
+        "Rm 1:9",
+        "Rm 1:25"
+      ]
+    },
+    "σκηνόω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πεινάω": {
+      "tokenCount": 4,
+      "verseCount": 4,
+      "bookDistribution": {
+        "Rm": 1,
+        "1Co": 3
+      },
+      "references": [
+        "Rm 12:20",
+        "1Co 4:11",
+        "1Co 11:21",
+        "1Co 11:34"
+      ]
+    },
+    "διψάω": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Rm": 1,
+        "1Co": 1
+      },
+      "references": [
+        "Rm 12:20",
+        "1Co 4:11"
+      ]
+    },
+    "καῦμα": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ὁδηγέω": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "At": 1
+      },
+      "references": [
+        "At 8:31"
+      ]
+    },
+    "πηγή": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "δάκρυον": {
+      "tokenCount": 3,
+      "verseCount": 3,
+      "bookDistribution": {
+        "At": 2,
+        "2Co": 1
+      },
+      "references": [
+        "At 20:19",
+        "At 20:31",
+        "2Co 2:4"
+      ]
+    }
+  }
+}
