@@ -356,7 +356,7 @@ export const apocalipse3v8 = {
       "shortMorph": "RP ----ASF-",
       "greek": "αὐτήν",
       "transliteration": "autēn",
-      "gloss": "dele",
+      "gloss": "ela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
