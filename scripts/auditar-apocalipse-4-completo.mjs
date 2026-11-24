@@ -125,8 +125,17 @@ for (const [id, stat] of stats) {
   assert.equal(index.verseCount, stat.refs.size, 'Total de versículos incorreto: ' + id);
   const refs = index.references.map(r => normalizeRef(typeof r === 'string' ? r : r.reference));
   assert.deepEqual([...refs].sort(), [...stat.refs].sort(), 'Concordância diverge dos 27 livros: ' + id);
-  for (const [book, count] of Object.entries(stat.distribution)) {
-    assert.equal(index.bookDistribution[book], count, 'Distribuição por livro incorreta: ' + id + ' / ' + book);
+  const displayDistribution = {};
+  for (const [displayName, number] of Object.entries(index.bookDistribution)) {
+    const sample = index.references.find(r => typeof r !== 'string' && r.book === displayName);
+    assert.ok(sample, 'Livro sem referência correspondente: ' + id + ' / ' + displayName);
+    const shortName = normalizeRef(sample.reference).split(' ')[0];
+    displayDistribution[shortName] = (displayDistribution[shortName] || 0) + number;
   }
+  assert.deepEqual(
+    Object.entries(displayDistribution).sort(),
+    Object.entries(stat.distribution).sort(),
+    'Distribuição por livro incorreta: ' + id
+  );
 }
 console.log('APROVADO: 11 versículos, 293 tokens, 113 fichas Strong, 46 concordâncias confrontadas com os 27 livros MorphGNT 6.12.');
