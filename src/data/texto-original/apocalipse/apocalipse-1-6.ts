@@ -7,7 +7,7 @@ export const apocalipse1v6 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "e nos fez um reino, sacerdotes para Deus, seu Pai; a ele sejam a glória e o domínio pelos séculos dos séculos. Amém.",
-  "textualNotes": "Comparação editorial de edições gregas (não substitui colação de manuscritos): O SBLGNT registra βασιλείαν, ἱερεῖς («um reino, sacerdotes»), enquanto a tradição do Textus Receptus apresenta βασιλεῖς καὶ ἱερεῖς («reis e sacerdotes»). A primeira leitura tem afinidade com Êxodo 19:6 (LXX); a segunda aproxima a construção de Apocalipse 5:10 em determinadas tradições. A interpretação deve acompanhar a edição efetivamente adotada.",
+  "textualNotes": "Comparação de edições: o SBLGNT apresenta βασιλείαν, ἱερεῖς («um reino, sacerdotes»); o Textus Receptus de Scrivener (1894) apresenta βασιλεῖς καὶ ἱερεῖς («reis e sacerdotes»). A oposição entre substantivo singular coletivo e plural régio pertence à crítica textual; os paralelos de Êxodo 19:6 e Apocalipse 5:10 são discutidos nas notas exegéticas.",
   "translationNote": "O acusativo βασιλείαν é resultado da ação de ἐποίησεν e não deve ser substituído por «reis» na tradução do SBLGNT.",
   "words": [
     {

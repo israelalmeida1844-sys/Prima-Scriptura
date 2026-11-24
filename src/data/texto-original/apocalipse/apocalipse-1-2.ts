@@ -14,7 +14,7 @@ export const apocalipse1v2 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "O qual testemunhou a palavra de Deus e o testemunho de Jesus Cristo, tudo quanto viu.",
   "translationNote": "Tradução editorial própria; o relativo «o qual» retoma João, referido no versículo 1. A sequência grega conserva dois objetos coordenados e uma oração relativa final que descreve a extensão do testemunho.",
-  "textualNotes": "Comparação editorial de edições gregas (não substitui colação de manuscritos): O SBLGNT apresenta ὅσα εἶδεν («tudo quanto viu»). Certas tradições textuais, como a edição de Scrivener do Textus Receptus, apresentam ὅσα τε εἶδεν (com a partícula τε). A variante deve ser documentada sem confundir o texto principal com o Textus Receptus. A leitura",
+  "textualNotes": "Comparação de edições: o SBLGNT apresenta ὅσα εἶδεν («tudo quanto viu»), enquanto o Textus Receptus de Scrivener (1894) inclui a partícula τε: ὅσα τε εἶδε/εἶδεν, conforme a edição. A leitura interlinear segue o SBLGNT. Trata-se de comparação de textos editados, não de colação exaustiva de manuscritos.",
   "exegeticalNotes": [
     "As expressões τὸν λόγον τοῦ θεοῦ e τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ são objetos acusativos coordenados e caracterizam o conteúdo da mensagem testemunhada.",
     "O relativo neutro plural acusativo ὅσα é objeto de εἶδεν e amplia o conteúdo da declaração: «tudo quanto viu». O testemunho de João está associado à experiência visionária, confirmada pelo gênero do livro e por Ap 22:8."

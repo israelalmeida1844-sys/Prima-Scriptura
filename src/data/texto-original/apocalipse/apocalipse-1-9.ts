@@ -8,7 +8,7 @@ export const apocalipse1v9 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eu, João, irmão de vocês e companheiro na tribulação, no reino e na perseverança em Jesus, estava na ilha chamada Patmos por causa da palavra de Deus e do testemunho de Jesus.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Comparação editorial de edições gregas (não substitui colação de manuscritos): A leitura SBLGNT é ἐν τῇ θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ ἐν Ἰησοῦ, sem repetição de artigo nos dois últimos dativos; certas edições do Textus Receptus repetem artigos e acrescentam Χριστῷ. A coordenação une tribulação, reino e perseverança, sem eliminar sua distinção semântica.",
+  "textualNotes": "Comparação de edições: o SBLGNT lê συγκοινωνὸς ἐν τῇ θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ ἐν Ἰησοῦ; o Textus Receptus de Scrivener (1894) traz ὁ καὶ ἀδελφὸς, repete ἐν antes de βασιλείᾳ e lê ὑπομονῇ Ἰησοῦ Χριστοῦ, sem a preposição ἐν nesse último sintagma. A redação interlinear segue o SBLGNT. Não se atribui aqui apoio a testemunho manuscrito sem exame do aparato.",
   "exegeticalNotes": [
     "João se apresenta como irmão e coparticipante, não como observador distante da aflição das igrejas.",
     "A associação de tribulação, reino e perseverança situa o testemunho cristão no contexto da fidelidade a Jesus."
@@ -787,6 +787,7 @@ export const apocalipse1v9 = {
     }
   ],
   "syntacticNotes": [
-    "συγκοινωνός liga João a tribulação, reino e perseverança; o genitivo de Ἰησοῦ em μαρτυρίαν Ἰησοῦ admite discussão contextual, não solução automática."
+    "συγκοινωνός liga João a tribulação, reino e perseverança; o genitivo de Ἰησοῦ em μαρτυρίαν Ἰησοῦ admite discussão contextual, não solução automática.",
+    "A coordenação τῇ θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ associa três dativos sob a mesma regência sem repetição do artigo. O sentido da locução ἐν Ἰησοῦ deve ser analisado sintaticamente, independentemente da variante textual."
   ]
 } as const;
