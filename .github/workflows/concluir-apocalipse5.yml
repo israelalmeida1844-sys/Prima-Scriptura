@@ -4,6 +4,7 @@ on:
     branches: [rascunho/apocalipse]
     paths:
       - '.github/workflows/concluir-apocalipse5.yml'
+      - 'scripts/gerar-concordancias-apocalipse5.mjs'
   workflow_dispatch:
 permissions:
   contents: write
