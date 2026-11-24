@@ -398,7 +398,7 @@ export const apocalipse1v7 = {
       "id": "ap1-7-17",
       "shortMorph": "Prep",
       "greek": "ἐπ’",
-      "transliteration": "ep’",
+      "transliteration": "ep'",
       "gloss": "sobre",
       "strong": "G1909",
       "lemma": "ἐπί",
