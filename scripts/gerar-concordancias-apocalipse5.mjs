@@ -76,8 +76,16 @@ for(const value of targets.values()){
   if(!value.tokenCount)throw Error('Lema sem ocorrências no corpus '+value.lemma);
   value.complete=true;
   const dest=join(output,value.strong+'.json');
-  try{await access(dest);existing++;continue}catch{}
+  let prior=null;
+  try{prior=JSON.parse(await readFile(dest,'utf8'))}catch{}
+  if(prior &&
+    prior.complete===true && prior.corpusBooks===27 &&
+    prior.tokenCount===value.tokenCount && prior.verseCount===value.verseCount &&
+    Array.isArray(prior.references) && prior.references.length===value.verseCount){
+      existing++;
+      continue;
+  }
   if(flag('--write')){await writeFile(dest,JSON.stringify(value,null,2)+'\n');created++}
-  console.log((flag('--write')?'GRAVAR':'SIMULAR')+' '+value.strong+' '+value.lemma+' tokens='+value.tokenCount+' versos='+value.verseCount);
+  console.log((flag('--write')?'GRAVAR':'SIMULAR')+' '+value.strong+' '+value.lemma+' tokens='+value.tokenCount+' versos='+value.verseCount+(prior?' (atualizar índice anterior)':''));
 }
 console.log(JSON.stringify({sourceCommit,books:countFiles,targets:targets.size,newFiles:created,alreadyPresent:existing,write:flag('--write')}));
