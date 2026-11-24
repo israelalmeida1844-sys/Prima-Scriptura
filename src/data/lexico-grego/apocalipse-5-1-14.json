@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 1:1–5:14 (inclui verbetes do capítulo 5)",
   "source": "SBLGNT/MorphGNT 6.12",
-  "editorialStatus": "Capítulo 5 integrado em rascunho: 29 novos lemas, verbetes básicos aguardando homologação lexicográfica.",
+  "editorialStatus": "Capítulo 5: 29 novos verbetes com definições lexicais e exemplos contextuais; revisão exegética e textual permanece sujeita à homologação acadêmica.",
   "entries": {
     "G602": {
       "strong": "G602",
@@ -8872,9 +8872,17 @@
       "senses": [
         {
           "id": "G2696-1",
-          "label": "selar completamente",
-          "definition": "Sentido lexical de referência: selar completamente. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Selar inteiramente",
+          "definition": "Aplicar selos para fechar ou assegurar um objeto; o prefixo κατα- intensifica a ação de selar.",
+          "examples": [
+            {
+              "reference": "Ap 5:1",
+              "greek": "κατεσφραγισμένον σφραγῖσιν ἑπτά",
+              "translation": "selado com sete selos",
+              "wordForm": "κατεσφραγισμένον",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -8886,9 +8894,17 @@
       "senses": [
         {
           "id": "G4973-1",
-          "label": "selo",
-          "definition": "Sentido lexical de referência: selo. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Selo, marca de fechamento",
+          "definition": "Objeto ou marca com função de autenticar, fechar ou assegurar; o contexto decide a nuance.",
+          "examples": [
+            {
+              "reference": "Ap 5:2",
+              "greek": "τὰς σφραγῖδας αὐτοῦ",
+              "translation": "os seus selos",
+              "wordForm": "τὰς",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -8900,9 +8916,17 @@
       "senses": [
         {
           "id": "G2478-1",
-          "label": "forte",
-          "definition": "Sentido lexical de referência: forte. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Forte, poderoso",
+          "definition": "Que possui força ou capacidade expressiva, física ou figurada.",
+          "examples": [
+            {
+              "reference": "Ap 5:2",
+              "greek": "ἄγγελον ἰσχυρὸν",
+              "translation": "um anjo forte",
+              "wordForm": "ἄγγελον",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -8914,9 +8938,17 @@
       "senses": [
         {
           "id": "G2784-1",
-          "label": "proclamar",
-          "definition": "Sentido lexical de referência: proclamar. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Proclamar publicamente",
+          "definition": "Anunciar uma mensagem em voz pública, com caráter de proclamação.",
+          "examples": [
+            {
+              "reference": "Ap 5:2",
+              "greek": "κηρύσσοντα ἐν φωνῇ μεγάλῃ",
+              "translation": "proclamando em alta voz",
+              "wordForm": "κηρύσσοντα",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -8928,23 +8960,39 @@
       "senses": [
         {
           "id": "G3761-1",
-          "label": "nem",
-          "definition": "Sentido lexical de referência: nem. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Nem; e não",
+          "definition": "Partícula/conjunção negativa que adiciona elemento negado à sequência.",
+          "examples": [
+            {
+              "reference": "Ap 5:3",
+              "greek": "οὐδὲ ἐπὶ τῆς γῆς",
+              "translation": "nem sobre a terra",
+              "wordForm": "οὐδὲ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G5270": {
       "strong": "G5270",
       "lemma": "ὑποκάτω",
-      "lemmaTransliteration": "ypokatō",
+      "lemmaTransliteration": "hypokatō",
       "partOfSpeech": "Conforme MorphGNT 6.12",
       "senses": [
         {
           "id": "G5270-1",
-          "label": "debaixo de",
-          "definition": "Sentido lexical de referência: debaixo de. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Abaixo, debaixo de",
+          "definition": "Localização inferior relativamente a um ponto de referência, frequentemente com genitivo.",
+          "examples": [
+            {
+              "reference": "Ap 5:3",
+              "greek": "ὑποκάτω τῆς γῆς",
+              "translation": "debaixo da terra",
+              "wordForm": "ὑποκάτω",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -8956,37 +9004,61 @@
       "senses": [
         {
           "id": "G2799-1",
-          "label": "chorar",
-          "definition": "Sentido lexical de referência: chorar. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Chorar, lamentar",
+          "definition": "Expressar dor ou tristeza por meio de choro; a intensidade depende do contexto.",
+          "examples": [
+            {
+              "reference": "Ap 5:4",
+              "greek": "ἐγὼ ἔκλαιον πολὺ",
+              "translation": "eu chorava muito",
+              "wordForm": "ἐγὼ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G2455": {
       "strong": "G2455",
       "lemma": "Ἰούδας",
-      "lemmaTransliteration": "ioydas",
+      "lemmaTransliteration": "Ioydas",
       "partOfSpeech": "Conforme MorphGNT 6.12",
       "senses": [
         {
           "id": "G2455-1",
-          "label": "Judá",
-          "definition": "Sentido lexical de referência: Judá. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Judá, nome próprio",
+          "definition": "Nome próprio empregado para uma pessoa ou tribo; a referência precisa depende da construção.",
+          "examples": [
+            {
+              "reference": "Ap 5:5",
+              "greek": "τῆς φυλῆς Ἰούδα",
+              "translation": "da tribo de Judá",
+              "wordForm": "τῆς",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G4491": {
       "strong": "G4491",
       "lemma": "ῥίζα",
-      "lemmaTransliteration": "riza",
+      "lemmaTransliteration": "rhiza",
       "partOfSpeech": "Conforme MorphGNT 6.12",
       "senses": [
         {
           "id": "G4491-1",
-          "label": "raiz",
-          "definition": "Sentido lexical de referência: raiz. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Raiz, origem vegetal",
+          "definition": "Parte da planta que a fixa e alimenta; figuradamente pode designar origem ou linhagem.",
+          "examples": [
+            {
+              "reference": "Ap 5:5",
+              "greek": "ἡ ῥίζα Δαυίδ",
+              "translation": "a Raiz de Davi",
+              "wordForm": "ἡ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -8998,9 +9070,17 @@
       "senses": [
         {
           "id": "G721-1",
-          "label": "cordeiro",
-          "definition": "Sentido lexical de referência: cordeiro. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Cordeiro",
+          "definition": "Denominação de um cordeiro, com emprego simbólico predominante no Apocalipse.",
+          "examples": [
+            {
+              "reference": "Ap 5:6",
+              "greek": "ἀρνίον ἑστηκὸς",
+              "translation": "um Cordeiro em pé",
+              "wordForm": "ἀρνίον",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9012,9 +9092,17 @@
       "senses": [
         {
           "id": "G4969-1",
-          "label": "imolar",
-          "definition": "Sentido lexical de referência: imolar. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Matar por degola, imolar",
+          "definition": "Abater ou matar mediante corte; pode ocorrer em contexto sacrificial ou violento.",
+          "examples": [
+            {
+              "reference": "Ap 5:6",
+              "greek": "ὡς ἐσφαγμένον",
+              "translation": "como tendo sido imolado",
+              "wordForm": "ὡς",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9026,9 +9114,17 @@
       "senses": [
         {
           "id": "G2768-1",
-          "label": "chifre",
-          "definition": "Sentido lexical de referência: chifre. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Chifre",
+          "definition": "Projeção óssea em animais; em linguagem figurada pode simbolizar força ou poder.",
+          "examples": [
+            {
+              "reference": "Ap 5:6",
+              "greek": "κέρατα ἑπτὰ",
+              "translation": "sete chifres",
+              "wordForm": "κέρατα",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9040,9 +9136,17 @@
       "senses": [
         {
           "id": "G2788-1",
-          "label": "harpa",
-          "definition": "Sentido lexical de referência: harpa. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Lira, instrumento de cordas",
+          "definition": "Instrumento musical de cordas dedilhadas; a equivalência com harpa é aproximativa em traduções bíblicas.",
+          "examples": [
+            {
+              "reference": "Ap 5:8",
+              "greek": "ἕκαστος κιθάραν",
+              "translation": "cada um, uma harpa",
+              "wordForm": "ἕκαστος",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9054,9 +9158,17 @@
       "senses": [
         {
           "id": "G5357-1",
-          "label": "taça",
-          "definition": "Sentido lexical de referência: taça. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Taça, recipiente raso",
+          "definition": "Recipiente aberto, por vezes utilizado em contexto ritual ou litúrgico.",
+          "examples": [
+            {
+              "reference": "Ap 5:8",
+              "greek": "φιάλας χρυσᾶς",
+              "translation": "taças de ouro",
+              "wordForm": "φιάλας",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9068,9 +9180,17 @@
       "senses": [
         {
           "id": "G2368-1",
-          "label": "incenso",
-          "definition": "Sentido lexical de referência: incenso. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Incenso, oferta aromática",
+          "definition": "Substância aromática queimada, frequentemente associada ao culto.",
+          "examples": [
+            {
+              "reference": "Ap 5:8",
+              "greek": "γεμούσας θυμιαμάτων",
+              "translation": "cheias de incenso",
+              "wordForm": "γεμούσας",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9082,37 +9202,61 @@
       "senses": [
         {
           "id": "G4335-1",
-          "label": "oração",
-          "definition": "Sentido lexical de referência: oração. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Oração",
+          "definition": "Ato de dirigir súplica, petição ou expressão devocional a Deus.",
+          "examples": [
+            {
+              "reference": "Ap 5:8",
+              "greek": "αἱ προσευχαὶ τῶν ἁγίων",
+              "translation": "as orações dos santos",
+              "wordForm": "αἱ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G103": {
       "strong": "G103",
       "lemma": "ᾄδω",
-      "lemmaTransliteration": "adō",
+      "lemmaTransliteration": "aidō",
       "partOfSpeech": "Conforme MorphGNT 6.12",
       "senses": [
         {
           "id": "G103-1",
-          "label": "cantar",
-          "definition": "Sentido lexical de referência: cantar. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Cantar",
+          "definition": "Produzir canto ou entoar composição vocal.",
+          "examples": [
+            {
+              "reference": "Ap 5:9",
+              "greek": "καὶ ᾄδουσιν ᾠδὴν",
+              "translation": "e cantam um cântico",
+              "wordForm": "καὶ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G5603": {
       "strong": "G5603",
       "lemma": "ᾠδή",
-      "lemmaTransliteration": "ōdē",
+      "lemmaTransliteration": "ōidē",
       "partOfSpeech": "Conforme MorphGNT 6.12",
       "senses": [
         {
           "id": "G5603-1",
-          "label": "cântico",
-          "definition": "Sentido lexical de referência: cântico. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Cântico, canção",
+          "definition": "Composição destinada a ser cantada; em contexto religioso, pode ser hino de louvor.",
+          "examples": [
+            {
+              "reference": "Ap 5:9",
+              "greek": "ᾠδὴν καινήν",
+              "translation": "um cântico novo",
+              "wordForm": "ᾠδὴν",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9124,9 +9268,17 @@
       "senses": [
         {
           "id": "G1100-1",
-          "label": "língua",
-          "definition": "Sentido lexical de referência: língua. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Língua, linguagem",
+          "definition": "Órgão físico da fala ou idioma usado por um grupo de pessoas.",
+          "examples": [
+            {
+              "reference": "Ap 5:9",
+              "greek": "καὶ γλώσσης",
+              "translation": "e língua",
+              "wordForm": "καὶ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9138,9 +9290,17 @@
       "senses": [
         {
           "id": "G2992-1",
-          "label": "povo",
-          "definition": "Sentido lexical de referência: povo. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Povo, coletividade",
+          "definition": "Grupo humano, frequentemente com identidade coletiva ou comunitária.",
+          "examples": [
+            {
+              "reference": "Ap 5:9",
+              "greek": "καὶ λαοῦ",
+              "translation": "e povo",
+              "wordForm": "καὶ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9152,9 +9312,17 @@
       "senses": [
         {
           "id": "G936-1",
-          "label": "reinar",
-          "definition": "Sentido lexical de referência: reinar. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Reinar, exercer governo",
+          "definition": "Exercer função régia, governar como rei ou participar de domínio.",
+          "examples": [
+            {
+              "reference": "Ap 5:10",
+              "greek": "καὶ βασιλεύουσιν ἐπὶ τῆς γῆς",
+              "translation": "e eles reinam sobre a terra",
+              "wordForm": "καὶ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9166,9 +9334,17 @@
       "senses": [
         {
           "id": "G706-1",
-          "label": "número",
-          "definition": "Sentido lexical de referência: número. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Número, quantidade",
+          "definition": "Expressão quantitativa de um conjunto ou grupo.",
+          "examples": [
+            {
+              "reference": "Ap 5:11",
+              "greek": "ὁ ἀριθμὸς αὐτῶν",
+              "translation": "o número deles",
+              "wordForm": "ὁ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9180,9 +9356,17 @@
       "senses": [
         {
           "id": "G3461-1",
-          "label": "miríade",
-          "definition": "Sentido lexical de referência: miríade. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Miríade, dez mil",
+          "definition": "Unidade de dez mil; no plural, também pode indicar quantidade extremamente elevada.",
+          "examples": [
+            {
+              "reference": "Ap 5:11",
+              "greek": "μυριάδες μυριάδων",
+              "translation": "miríades de miríades",
+              "wordForm": "μυριάδες",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9194,9 +9378,17 @@
       "senses": [
         {
           "id": "G5505-1",
-          "label": "milhar",
-          "definition": "Sentido lexical de referência: milhar. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Milhar",
+          "definition": "Conjunto de mil unidades; em combinações repetidas exprime grandes quantidades.",
+          "examples": [
+            {
+              "reference": "Ap 5:11",
+              "greek": "χιλιάδες χιλιάδων",
+              "translation": "milhares de milhares",
+              "wordForm": "χιλιάδες",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9208,9 +9400,17 @@
       "senses": [
         {
           "id": "G4149-1",
-          "label": "riqueza",
-          "definition": "Sentido lexical de referência: riqueza. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Riqueza, abundância",
+          "definition": "Conjunto de bens ou recursos; pode designar abundância em sentido figurado.",
+          "examples": [
+            {
+              "reference": "Ap 5:12",
+              "greek": "πλοῦτον καὶ σοφίαν",
+              "translation": "riqueza e sabedoria",
+              "wordForm": "πλοῦτον",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9222,9 +9422,17 @@
       "senses": [
         {
           "id": "G4678-1",
-          "label": "sabedoria",
-          "definition": "Sentido lexical de referência: sabedoria. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Sabedoria",
+          "definition": "Capacidade de compreender e agir com discernimento; a natureza dessa qualidade é definida pelo contexto.",
+          "examples": [
+            {
+              "reference": "Ap 5:12",
+              "greek": "σοφίαν καὶ ἰσχὺν",
+              "translation": "sabedoria e força",
+              "wordForm": "σοφίαν",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9236,9 +9444,17 @@
       "senses": [
         {
           "id": "G2479-1",
-          "label": "força",
-          "definition": "Sentido lexical de referência: força. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Força, vigor",
+          "definition": "Capacidade ou potência para agir; pode indicar vigor físico ou poder figurado.",
+          "examples": [
+            {
+              "reference": "Ap 5:12",
+              "greek": "ἰσχὺν καὶ τιμὴν",
+              "translation": "força e honra",
+              "wordForm": "ἰσχὺν",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9250,9 +9466,17 @@
       "senses": [
         {
           "id": "G2129-1",
-          "label": "louvor / bênção",
-          "definition": "Sentido lexical de referência: louvor / bênção. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Bênção, louvor",
+          "definition": "Expressão de bem-dizer, elogio ou bênção; em doxologias, louvor dirigido ao destinatário.",
+          "examples": [
+            {
+              "reference": "Ap 5:12",
+              "greek": "καὶ εὐλογίαν",
+              "translation": "e louvor",
+              "wordForm": "καὶ",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -9264,9 +9488,17 @@
       "senses": [
         {
           "id": "G2938-1",
-          "label": "criatura",
-          "definition": "Sentido lexical de referência: criatura. Acepções e exemplos adicionais sujeitos a revisão editorial.",
-          "examples": []
+          "label": "Criatura, ser criado",
+          "definition": "Entidade ou realidade que resulta do ato de criar.",
+          "examples": [
+            {
+              "reference": "Ap 5:13",
+              "greek": "πᾶν κτίσμα",
+              "translation": "toda criatura",
+              "wordForm": "πᾶν",
+              "source": "SBLGNT / MorphGNT 6.12"
+            }
+          ]
         }
       ]
     }
