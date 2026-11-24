@@ -17,7 +17,7 @@ export const apocalipse7v12 = {
   "words": [
     {
       "id": "ap7-12-1",
-      "shortMorph": "V--PAPNPM-",
+      "shortMorph": "V-PAP-NPM",
       "greek": "λέγοντες",
       "transliteration": "legontes",
       "gloss": "dizendo",
@@ -26,9 +26,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "legō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
-      "morphology": "MorphGNT: V- -PAPNPM-",
+      "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · masculino (MorphGNT: V- -PAPNPM-)",
       "meanings": "dizer; declarar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dizendo.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -51,9 +51,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "amēn",
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: X- --------",
+      "morphology": "Partícula (MorphGNT: X- --------)",
       "meanings": "amém; assim seja",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: amém.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -76,9 +76,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: RA ----NSF-",
+      "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -100,9 +100,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "eylogia",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: N- ----NSF-",
+      "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "Expressão de bem-dizer, elogio ou bênção; em doxologias, louvor dirigido ao destinatário.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: louvor.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -124,9 +124,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -148,9 +148,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: RA ----NSF-",
+      "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -172,9 +172,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "doxa",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: N- ----NSF-",
+      "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "glória",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: glória.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -196,9 +196,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -220,9 +220,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: RA ----NSF-",
+      "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -244,9 +244,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "sophia",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: N- ----NSF-",
+      "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "Capacidade de compreender e agir com discernimento; a natureza dessa qualidade é definida pelo contexto.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sabedoria.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -268,9 +268,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -292,9 +292,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: RA ----NSF-",
+      "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -313,12 +313,12 @@ export const apocalipse7v12 = {
       "gloss": "ação de graças",
       "strong": "G2169",
       "lemma": "εὐχαριστία",
-      "lemmaTransliteration": "eucharistia",
+      "lemmaTransliteration": "eycharistia",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: N- ----NSF-",
+      "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "Gratidão ou ação de graças; ato litúrgico de 4:9.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: ação de graças.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -340,9 +340,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -364,9 +364,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: RA ----NSF-",
+      "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -388,9 +388,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "timē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: N- ----NSF-",
+      "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "Honra; qualidade oferecida ao ocupante do trono em 4:9 e 4:11.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: honra.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -412,9 +412,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -436,9 +436,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: RA ----NSF-",
+      "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -460,9 +460,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "dynamis",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: N- ----NSF-",
+      "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "força; poder",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: poder.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -484,9 +484,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -508,9 +508,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: RA ----NSF-",
+      "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -532,9 +532,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ischys",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
-      "morphology": "MorphGNT: N- ----NSF-",
+      "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "Capacidade ou potência para agir; pode indicar vigor físico ou poder figurado.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: força.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -556,9 +556,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSM-",
-      "morphology": "MorphGNT: RA ----DSM-",
+      "morphology": "Artigo definido · dativo · singular · masculino (MorphGNT: RA ----DSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: ao.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -580,9 +580,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "theos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
-      "morphology": "MorphGNT: N- ----DSM-",
+      "morphology": "Substantivo · dativo · singular · masculino (MorphGNT: N- ----DSM-)",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: Deus.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -604,9 +604,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "egō",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
-      "morphology": "MorphGNT: RP ----GP--",
+      "morphology": "Pronome pessoal · genitivo · plural (MorphGNT: RP ----GP--)",
       "meanings": "eu; nós",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: nosso.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -628,9 +628,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "eis",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "para; em direção a; por",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: para.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -645,16 +645,16 @@ export const apocalipse7v12 = {
       "id": "ap7-12-27",
       "shortMorph": "ART-APM",
       "greek": "τοὺς",
-      "transliteration": "toys",
+      "transliteration": "tous",
       "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: RA ----APM-",
+      "morphology": "Artigo definido · acusativo · plural · masculino (MorphGNT: RA ----APM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -676,9 +676,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "aiōn",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: N- ----APM-",
+      "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
       "meanings": "era; século; eternidade",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: séculos.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -700,9 +700,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: RA ----GPM-",
+      "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dos.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -724,9 +724,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "aiōn",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: N- ----GPM-",
+      "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "era; século; eternidade",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: séculos.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],
@@ -749,9 +749,9 @@ export const apocalipse7v12 = {
       "lemmaTransliteration": "amēn",
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: X- --------",
+      "morphology": "Partícula (MorphGNT: X- --------)",
       "meanings": "amém; assim seja",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: amém.",
       "occurrencesExamples": [
         "Ap 7:12"
       ],

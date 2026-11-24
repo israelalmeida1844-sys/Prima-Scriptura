@@ -17,7 +17,7 @@ export const apocalipse7v3 = {
   "words": [
     {
       "id": "ap7-3-1",
-      "shortMorph": "V--PAPNSM-",
+      "shortMorph": "V-PAP-NSM",
       "greek": "λέγων",
       "transliteration": "legōn",
       "gloss": "dizendo",
@@ -26,9 +26,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "legō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
-      "morphology": "MorphGNT: V- -PAPNSM-",
+      "morphology": "Verbo · presente · voz ativa · particípio · nominativo · singular · masculino (MorphGNT: V- -PAPNSM-)",
       "meanings": "dizer; declarar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dizendo.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -51,9 +51,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "mē",
       "partOfSpeech": "Advérbio / partícula",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: D- --------",
+      "morphology": "Advérbio / partícula (MorphGNT: D- --------)",
       "meanings": "não; partícula negativa",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: não.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -66,7 +66,7 @@ export const apocalipse7v3 = {
     },
     {
       "id": "ap7-3-3",
-      "shortMorph": "V-2AAS-P--",
+      "shortMorph": "V-AAS-2-P",
       "greek": "ἀδικήσητε",
       "transliteration": "adikēsēte",
       "gloss": "causeis dano",
@@ -75,9 +75,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "adikeō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAS-P--",
-      "morphology": "MorphGNT: V- 2AAS-P--",
+      "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 2ª pessoa · plural (MorphGNT: V- 2AAS-P--)",
       "meanings": "ἀδικέω é agir injustamente ou causar dano. Em 2:11, a forma ἀδικηθῇ é aoristo passivo subjuntivo após οὐ μή, negação enfática prospectiva.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: causeis dano.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -99,9 +99,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: RA ----ASF-",
+      "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -123,9 +123,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "gē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: N- ----ASF-",
+      "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "terra; solo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -147,9 +147,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "mēte",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "nem",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: nem.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -171,9 +171,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: RA ----ASF-",
+      "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -195,9 +195,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "thalassa",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: N- ----ASF-",
+      "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "Mar; em 4:6 aparece sob comparação visionária com vidro e cristal.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mar.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -219,9 +219,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "mēte",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "nem",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: nem.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -243,9 +243,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
-      "morphology": "MorphGNT: RA ----APN-",
+      "morphology": "Artigo definido · acusativo · plural · neutro (MorphGNT: RA ----APN-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: as.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -267,9 +267,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "dendron",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APN-",
-      "morphology": "MorphGNT: N- ----APN-",
+      "morphology": "Substantivo · acusativo · plural · neutro (MorphGNT: N- ----APN-)",
       "meanings": "árvore",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: árvores.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -292,9 +292,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "achri",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "ἄχρι com genitivo θανάτου marca limite ou extensão «até a morte»; a fidelidade é exigida mesmo diante da morte.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: até.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -307,7 +307,7 @@ export const apocalipse7v3 = {
     },
     {
       "id": "ap7-3-13",
-      "shortMorph": "V-1AAS-P--",
+      "shortMorph": "V-AAS-1-P",
       "greek": "σφραγίσωμεν",
       "transliteration": "sphragisōmen",
       "gloss": "selemos",
@@ -316,9 +316,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "sphragizō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAS-P--",
-      "morphology": "MorphGNT: V- 1AAS-P--",
+      "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 1ª pessoa · plural (MorphGNT: V- 1AAS-P--)",
       "meanings": "selar; marcar com selo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -333,16 +333,16 @@ export const apocalipse7v3 = {
       "id": "ap7-3-14",
       "shortMorph": "ART-APM",
       "greek": "τοὺς",
-      "transliteration": "toys",
+      "transliteration": "tous",
       "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: RA ----APM-",
+      "morphology": "Artigo definido · acusativo · plural · masculino (MorphGNT: RA ----APM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -357,16 +357,16 @@ export const apocalipse7v3 = {
       "id": "ap7-3-15",
       "shortMorph": "N-APM",
       "greek": "δούλους",
-      "transliteration": "doyloys",
+      "transliteration": "doulous",
       "gloss": "servos",
       "strong": "G1401",
       "lemma": "δοῦλος",
       "lemmaTransliteration": "doulos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: N- ----APM-",
+      "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
       "meanings": "Aquele que pertence inteiramente ao Senhor por redenção e obediência fiel, correspondente ao hebraico 'ebed Yahweh.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: servos.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -381,16 +381,16 @@ export const apocalipse7v3 = {
       "id": "ap7-3-16",
       "shortMorph": "ART-GSM",
       "greek": "τοῦ",
-      "transliteration": "toy",
+      "transliteration": "tou",
       "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: RA ----GSM-",
+      "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: do.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -405,16 +405,16 @@ export const apocalipse7v3 = {
       "id": "ap7-3-17",
       "shortMorph": "N-GSM",
       "greek": "θεοῦ",
-      "transliteration": "theoy",
+      "transliteration": "theou",
       "gloss": "Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: Deus.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -436,9 +436,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "egō",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
-      "morphology": "MorphGNT: RP ----GP--",
+      "morphology": "Pronome pessoal · genitivo · plural (MorphGNT: RP ----GP--)",
       "meanings": "eu; nós",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: nosso.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -460,9 +460,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "epi",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre; por causa de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -484,9 +484,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
-      "morphology": "MorphGNT: RA ----GPN-",
+      "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: as.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -508,9 +508,9 @@ export const apocalipse7v3 = {
       "lemmaTransliteration": "metōpon",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
-      "morphology": "MorphGNT: N- ----GPN-",
+      "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "testa; fronte",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: testas.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],
@@ -529,12 +529,12 @@ export const apocalipse7v3 = {
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: RP ----GPM-",
+      "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: deles.",
       "occurrencesExamples": [
         "Ap 7:3"
       ],

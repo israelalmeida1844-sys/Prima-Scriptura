@@ -26,9 +26,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "ek",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de; para fora de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -50,9 +50,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "phylē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "tribo; família; povo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: tribo.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -67,16 +67,16 @@ export const apocalipse7v5 = {
       "id": "ap7-5-3",
       "shortMorph": "N-GSM",
       "greek": "Ἰούδα",
-      "transliteration": "ioyda",
+      "transliteration": "iouda",
       "gloss": "de Judá",
       "strong": "G2455",
       "lemma": "Ἰούδας",
-      "lemmaTransliteration": "Ioydas",
+      "lemmaTransliteration": "ioudas",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "Nome próprio empregado para uma pessoa ou tribo; a referência precisa depende da construção.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de Judá.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -98,9 +98,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "dōdeka",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: A- ----NPF-",
+      "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
       "meanings": "doze",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -116,15 +116,15 @@ export const apocalipse7v5 = {
       "shortMorph": "N-NPF",
       "greek": "χιλιάδες",
       "transliteration": "chiliades",
-      "gloss": "milhares",
+      "gloss": "mil",
       "strong": "G5505",
       "lemma": "χιλιάς",
       "lemmaTransliteration": "chilias",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: N- ----NPF-",
+      "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "Conjunto de mil unidades; em combinações repetidas exprime grandes quantidades.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mil.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -137,7 +137,7 @@ export const apocalipse7v5 = {
     },
     {
       "id": "ap7-5-6",
-      "shortMorph": "V--XPPNPM-",
+      "shortMorph": "V-XPP-NPM",
       "greek": "ἐσφραγισμένοι",
       "transliteration": "esphragismenoi",
       "gloss": "selados",
@@ -146,9 +146,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "sphragizō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPNPM-",
-      "morphology": "MorphGNT: V- -XPPNPM-",
+      "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · masculino (MorphGNT: V- -XPPNPM-)",
       "meanings": "selar; marcar com selo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -171,9 +171,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "ek",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de; para fora de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -195,9 +195,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "phylē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "tribo; família; povo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: tribo.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -212,16 +212,16 @@ export const apocalipse7v5 = {
       "id": "ap7-5-9",
       "shortMorph": "N-GSM",
       "greek": "Ῥουβὴν",
-      "transliteration": "rhoybēn",
+      "transliteration": "rhoubēn",
       "gloss": "de Rúben",
       "strong": "G4502",
       "lemma": "Ῥουβήν",
-      "lemmaTransliteration": "rhoybēn",
+      "lemmaTransliteration": "rhoubēn",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "Rúben",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de Rúben.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -243,9 +243,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "dōdeka",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: A- ----NPF-",
+      "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
       "meanings": "doze",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -261,15 +261,15 @@ export const apocalipse7v5 = {
       "shortMorph": "N-NPF",
       "greek": "χιλιάδες",
       "transliteration": "chiliades",
-      "gloss": "milhares",
+      "gloss": "mil",
       "strong": "G5505",
       "lemma": "χιλιάς",
       "lemmaTransliteration": "chilias",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: N- ----NPF-",
+      "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "Conjunto de mil unidades; em combinações repetidas exprime grandes quantidades.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mil.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -292,9 +292,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "ek",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de; para fora de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -316,9 +316,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "phylē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "tribo; família; povo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: tribo.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -340,9 +340,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "gad",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "Gade",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de Gade.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -364,9 +364,9 @@ export const apocalipse7v5 = {
       "lemmaTransliteration": "dōdeka",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: A- ----NPF-",
+      "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
       "meanings": "doze",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],
@@ -382,15 +382,15 @@ export const apocalipse7v5 = {
       "shortMorph": "N-NPF",
       "greek": "χιλιάδες",
       "transliteration": "chiliades",
-      "gloss": "milhares",
+      "gloss": "mil",
       "strong": "G5505",
       "lemma": "χιλιάς",
       "lemmaTransliteration": "chilias",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: N- ----NPF-",
+      "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "Conjunto de mil unidades; em combinações repetidas exprime grandes quantidades.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mil.",
       "occurrencesExamples": [
         "Ap 7:5"
       ],

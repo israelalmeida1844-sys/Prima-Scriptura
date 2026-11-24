@@ -26,9 +26,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -41,7 +41,7 @@ export const apocalipse7v14 = {
     },
     {
       "id": "ap7-14-2",
-      "shortMorph": "V-1XAI-S--",
+      "shortMorph": "V-XAI-1-S",
       "greek": "εἴρηκα",
       "transliteration": "eirēka",
       "gloss": "disse",
@@ -50,9 +50,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "legō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1XAI-S--",
-      "morphology": "MorphGNT: V- 1XAI-S--",
+      "morphology": "Verbo · perfeito · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1XAI-S--)",
       "meanings": "dizer; declarar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: disse.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -71,12 +71,12 @@ export const apocalipse7v14 = {
       "gloss": "a ele",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DSM-",
-      "morphology": "MorphGNT: RP ----DSM-",
+      "morphology": "Pronome pessoal · dativo · singular · masculino (MorphGNT: RP ----DSM-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a ele.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -99,9 +99,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "kyrios",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----VSM-",
-      "morphology": "MorphGNT: N- ----VSM-",
+      "morphology": "Substantivo · vocativo · singular · masculino (MorphGNT: N- ----VSM-)",
       "meanings": "Senhor",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: senhor.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -116,16 +116,16 @@ export const apocalipse7v14 = {
       "id": "ap7-14-5",
       "shortMorph": "RP",
       "greek": "μου",
-      "transliteration": "moy",
+      "transliteration": "mou",
       "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
-      "morphology": "MorphGNT: RP ----GS--",
+      "morphology": "Pronome pessoal · genitivo · singular (MorphGNT: RP ----GS--)",
       "meanings": "eu; nós",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: meu.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -148,9 +148,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "sy",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----NS--",
-      "morphology": "MorphGNT: RP ----NS--",
+      "morphology": "Pronome pessoal · nominativo · singular (MorphGNT: RP ----NS--)",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: tu.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -163,7 +163,7 @@ export const apocalipse7v14 = {
     },
     {
       "id": "ap7-14-7",
-      "shortMorph": "V-2XAI-S--",
+      "shortMorph": "V-XAI-2-S",
       "greek": "οἶδας",
       "transliteration": "oidas",
       "gloss": "sabes",
@@ -172,9 +172,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "oida",
       "partOfSpeech": "Verbo",
       "morphologyCode": "2XAI-S--",
-      "morphology": "MorphGNT: V- 2XAI-S--",
+      "morphology": "Verbo · perfeito · voz ativa · indicativo · 2ª pessoa · singular (MorphGNT: V- 2XAI-S--)",
       "meanings": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sabes.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -197,9 +197,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -212,7 +212,7 @@ export const apocalipse7v14 = {
     },
     {
       "id": "ap7-14-9",
-      "shortMorph": "V-3AAI-S--",
+      "shortMorph": "V-AAI-3-S",
       "greek": "εἶπέν",
       "transliteration": "eipen",
       "gloss": "disse",
@@ -221,9 +221,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "legō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
-      "morphology": "MorphGNT: V- 3AAI-S--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "dizer; declarar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: disse.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -245,9 +245,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "egō",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DS--",
-      "morphology": "MorphGNT: RP ----DS--",
+      "morphology": "Pronome pessoal · dativo · singular (MorphGNT: RP ----DS--)",
       "meanings": "eu; nós",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a mim.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -263,16 +263,16 @@ export const apocalipse7v14 = {
       "id": "ap7-14-11",
       "shortMorph": "RD",
       "greek": "Οὗτοί",
-      "transliteration": "hoytoi",
+      "transliteration": "houtoi",
       "gloss": "estes",
       "strong": "G3778",
       "lemma": "οὗτος",
       "lemmaTransliteration": "houtos",
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----NPM-",
-      "morphology": "MorphGNT: RD ----NPM-",
+      "morphology": "Pronome demonstrativo · nominativo · plural · masculino (MorphGNT: RD ----NPM-)",
       "meanings": "este; essas coisas",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: estes.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -285,7 +285,7 @@ export const apocalipse7v14 = {
     },
     {
       "id": "ap7-14-12",
-      "shortMorph": "V-3PAI-P--",
+      "shortMorph": "V-PAI-3-P",
       "greek": "εἰσιν",
       "transliteration": "eisin",
       "gloss": "são",
@@ -294,9 +294,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "eimi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
-      "morphology": "MorphGNT: V- 3PAI-P--",
+      "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
       "meanings": "ser; estar; existir",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: são.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -318,9 +318,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
-      "morphology": "MorphGNT: RA ----NPM-",
+      "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -333,7 +333,7 @@ export const apocalipse7v14 = {
     },
     {
       "id": "ap7-14-14",
-      "shortMorph": "V--PMPNPM-",
+      "shortMorph": "V-PMP-NPM",
       "greek": "ἐρχόμενοι",
       "transliteration": "erchomenoi",
       "gloss": "que vêm",
@@ -342,9 +342,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "erchomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMPNPM-",
-      "morphology": "MorphGNT: V- -PMPNPM-",
+      "morphology": "Verbo · presente · voz média · particípio · nominativo · plural · masculino (MorphGNT: V- -PMPNPM-)",
       "meanings": "vir; chegar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: que vêm.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -366,9 +366,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "ek",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de; para fora de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -390,9 +390,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: RA ----GSF-",
+      "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -414,9 +414,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "thlipsis",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "tribulação; aflição",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: tribulação.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -438,9 +438,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: RA ----GSF-",
+      "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -462,9 +462,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "megas",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: A- ----GSF-",
+      "morphology": "Adjetivo / numeral · genitivo · singular · feminino (MorphGNT: A- ----GSF-)",
       "meanings": "grande",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: grande.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -487,9 +487,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -502,7 +502,7 @@ export const apocalipse7v14 = {
     },
     {
       "id": "ap7-14-21",
-      "shortMorph": "V-3AAI-P--",
+      "shortMorph": "V-AAI-3-P",
       "greek": "ἔπλυναν",
       "transliteration": "eplynan",
       "gloss": "lavaram",
@@ -511,9 +511,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "plynō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
-      "morphology": "MorphGNT: V- 3AAI-P--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "lavar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: lavaram.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -535,9 +535,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: RA ----APF-",
+      "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -559,9 +559,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "stolē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: N- ----APF-",
+      "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "Vestimenta longa, manto ou traje distintivo; em 6:11 é apresentada com a qualificação branca.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mantos.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -580,12 +580,12 @@ export const apocalipse7v14 = {
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: RP ----GPM-",
+      "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: deles.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -607,9 +607,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -622,7 +622,7 @@ export const apocalipse7v14 = {
     },
     {
       "id": "ap7-14-26",
-      "shortMorph": "V-3AAI-P--",
+      "shortMorph": "V-AAI-3-P",
       "greek": "ἐλεύκαναν",
       "transliteration": "eleykanan",
       "gloss": "branquearam",
@@ -631,9 +631,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "leykainō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
-      "morphology": "MorphGNT: V- 3AAI-P--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "tornar branco",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: branquearam.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -649,15 +649,15 @@ export const apocalipse7v14 = {
       "shortMorph": "RP",
       "greek": "αὐτὰς",
       "transliteration": "aytas",
-      "gloss": "os",
+      "gloss": "os (as vestes)",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: RP ----APF-",
+      "morphology": "Pronome pessoal · acusativo · plural · feminino (MorphGNT: RP ----APF-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os (as vestes).",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -679,9 +679,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "en",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: em.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -703,9 +703,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSN-",
-      "morphology": "MorphGNT: RA ----DSN-",
+      "morphology": "Artigo definido · dativo · singular · neutro (MorphGNT: RA ----DSN-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -727,9 +727,9 @@ export const apocalipse7v14 = {
       "lemmaTransliteration": "haima",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSN-",
-      "morphology": "MorphGNT: N- ----DSN-",
+      "morphology": "Substantivo · dativo · singular · neutro (MorphGNT: N- ----DSN-)",
       "meanings": "sangue",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sangue.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -744,16 +744,16 @@ export const apocalipse7v14 = {
       "id": "ap7-14-31",
       "shortMorph": "ART-GSN",
       "greek": "τοῦ",
-      "transliteration": "toy",
+      "transliteration": "tou",
       "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
-      "morphology": "MorphGNT: RA ----GSN-",
+      "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: do.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],
@@ -768,16 +768,16 @@ export const apocalipse7v14 = {
       "id": "ap7-14-32",
       "shortMorph": "N-GSN",
       "greek": "ἀρνίου",
-      "transliteration": "arnioy",
+      "transliteration": "arniou",
       "gloss": "Cordeiro",
       "strong": "G721",
       "lemma": "ἀρνίον",
       "lemmaTransliteration": "arnion",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
-      "morphology": "MorphGNT: N- ----GSN-",
+      "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "Denominação de um cordeiro, com emprego simbólico predominante no Apocalipse.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: Cordeiro.",
       "occurrencesExamples": [
         "Ap 7:14"
       ],

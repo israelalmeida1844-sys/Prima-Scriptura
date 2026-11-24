@@ -26,9 +26,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -41,7 +41,7 @@ export const apocalipse7v2 = {
     },
     {
       "id": "ap7-2-2",
-      "shortMorph": "V-1AAI-S--",
+      "shortMorph": "V-AAI-1-S",
       "greek": "εἶδον",
       "transliteration": "eidon",
       "gloss": "vi",
@@ -50,9 +50,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "horaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
-      "morphology": "MorphGNT: V- 1AAI-S--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
       "meanings": "Experimentar percepção visual, observar algo ou reconhecer por meio da visão, em contextos comuns ou narrativos.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: vi.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -74,9 +74,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "allos",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASM-",
-      "morphology": "MorphGNT: A- ----ASM-",
+      "morphology": "Adjetivo / numeral · acusativo · singular · masculino (MorphGNT: A- ----ASM-)",
       "meanings": "ἄλλο é adjetivo acusativo neutro singular que modifica βάρος: «outro fardo».",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: outro.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -91,16 +91,16 @@ export const apocalipse7v2 = {
       "id": "ap7-2-4",
       "shortMorph": "N-ASM",
       "greek": "ἄγγελον",
-      "transliteration": "aggelon",
+      "transliteration": "angelon",
       "gloss": "anjo",
       "strong": "G32",
       "lemma": "ἄγγελος",
       "lemmaTransliteration": "angelos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
-      "morphology": "MorphGNT: N- ----ASM-",
+      "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: anjo.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -113,7 +113,7 @@ export const apocalipse7v2 = {
     },
     {
       "id": "ap7-2-5",
-      "shortMorph": "V--PAPASM-",
+      "shortMorph": "V-PAP-ASM",
       "greek": "ἀναβαίνοντα",
       "transliteration": "anabainonta",
       "gloss": "subindo",
@@ -122,9 +122,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "anabainō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPASM-",
-      "morphology": "MorphGNT: V- -PAPASM-",
+      "morphology": "Verbo · presente · voz ativa · particípio · acusativo · singular · masculino (MorphGNT: V- -PAPASM-)",
       "meanings": "Subir ou ascender; em 4:1, imperativo aoristo ἀνάβα, dirigido a João, introduz a visão celestial.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: subindo.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -140,15 +140,15 @@ export const apocalipse7v2 = {
       "shortMorph": "P-",
       "greek": "ἀπὸ",
       "transliteration": "apo",
-      "gloss": "do",
+      "gloss": "de",
       "strong": "G575",
       "lemma": "ἀπό",
       "lemmaTransliteration": "apo",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de; desde; procedente de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -170,9 +170,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "anatolē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "nascente; oriente",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: nascente.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -187,16 +187,16 @@ export const apocalipse7v2 = {
       "id": "ap7-2-8",
       "shortMorph": "N-GSM",
       "greek": "ἡλίου",
-      "transliteration": "hēlioy",
+      "transliteration": "hēliou",
       "gloss": "do sol",
       "strong": "G2246",
       "lemma": "ἥλιος",
       "lemmaTransliteration": "hēlios",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "sol",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: do sol.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -210,7 +210,7 @@ export const apocalipse7v2 = {
     },
     {
       "id": "ap7-2-9",
-      "shortMorph": "V--PAPASM-",
+      "shortMorph": "V-PAP-ASM",
       "greek": "ἔχοντα",
       "transliteration": "echonta",
       "gloss": "tendo",
@@ -219,9 +219,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "echō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPASM-",
-      "morphology": "MorphGNT: V- -PAPASM-",
+      "morphology": "Verbo · presente · voz ativa · particípio · acusativo · singular · masculino (MorphGNT: V- -PAPASM-)",
       "meanings": "ter; segurar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: tendo.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -243,9 +243,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "sphragis",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: N- ----ASF-",
+      "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "Objeto ou marca com função de autenticar, fechar ou assegurar; o contexto decide a nuance.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: selo.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -260,16 +260,16 @@ export const apocalipse7v2 = {
       "id": "ap7-2-11",
       "shortMorph": "N-GSM",
       "greek": "θεοῦ",
-      "transliteration": "theoy",
+      "transliteration": "theou",
       "gloss": "de Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de Deus.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -282,18 +282,18 @@ export const apocalipse7v2 = {
     },
     {
       "id": "ap7-2-12",
-      "shortMorph": "V--PAPGSM-",
+      "shortMorph": "V-PAP-GSM",
       "greek": "ζῶντος",
       "transliteration": "zōntos",
-      "gloss": "vivo",
+      "gloss": "vivente",
       "strong": "G2198",
       "lemma": "ζάω",
       "lemmaTransliteration": "zaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGSM-",
-      "morphology": "MorphGNT: V- -PAPGSM-",
+      "morphology": "Verbo · presente · voz ativa · particípio · genitivo · singular · masculino (MorphGNT: V- -PAPGSM-)",
       "meanings": "viver",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: vivente.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -316,9 +316,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -331,7 +331,7 @@ export const apocalipse7v2 = {
     },
     {
       "id": "ap7-2-14",
-      "shortMorph": "V-3AAI-S--",
+      "shortMorph": "V-AAI-3-S",
       "greek": "ἔκραξεν",
       "transliteration": "ekraxen",
       "gloss": "clamou",
@@ -340,9 +340,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "krazō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
-      "morphology": "MorphGNT: V- 3AAI-S--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "Clamar ou gritar em voz forte; frequentemente usado em súplicas e proclamações intensas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: clamou.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -364,9 +364,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "phōnē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
-      "morphology": "MorphGNT: N- ----DSF-",
+      "morphology": "Substantivo · dativo · singular · feminino (MorphGNT: N- ----DSF-)",
       "meanings": "voz; som",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: voz.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -388,9 +388,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "megas",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----DSF-",
-      "morphology": "MorphGNT: A- ----DSF-",
+      "morphology": "Adjetivo / numeral · dativo · singular · feminino (MorphGNT: A- ----DSF-)",
       "meanings": "grande",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: alta.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -412,9 +412,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPM-",
-      "morphology": "MorphGNT: RA ----DPM-",
+      "morphology": "Artigo definido · dativo · plural · masculino (MorphGNT: RA ----DPM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: aos.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -436,9 +436,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "tessares",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----DPM-",
-      "morphology": "MorphGNT: A- ----DPM-",
+      "morphology": "Adjetivo / numeral · dativo · plural · masculino (MorphGNT: A- ----DPM-)",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: quatro.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -453,16 +453,16 @@ export const apocalipse7v2 = {
       "id": "ap7-2-19",
       "shortMorph": "N-DPM",
       "greek": "ἀγγέλοις",
-      "transliteration": "aggelois",
+      "transliteration": "angelois",
       "gloss": "anjos",
       "strong": "G32",
       "lemma": "ἄγγελος",
       "lemmaTransliteration": "angelos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPM-",
-      "morphology": "MorphGNT: N- ----DPM-",
+      "morphology": "Substantivo · dativo · plural · masculino (MorphGNT: N- ----DPM-)",
       "meanings": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: anjos.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -484,9 +484,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "hos",
       "partOfSpeech": "Pronome relativo",
       "morphologyCode": "----DPM-",
-      "morphology": "MorphGNT: RR ----DPM-",
+      "morphology": "Pronome relativo · dativo · plural · masculino (MorphGNT: RR ----DPM-)",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: aos quais.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -499,7 +499,7 @@ export const apocalipse7v2 = {
     },
     {
       "id": "ap7-2-21",
-      "shortMorph": "V-3API-S--",
+      "shortMorph": "V-API-3-S",
       "greek": "ἐδόθη",
       "transliteration": "edothē",
       "gloss": "foi concedido",
@@ -508,9 +508,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "didōmi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
-      "morphology": "MorphGNT: V- 3API-S--",
+      "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "Ato voluntário de conferir algo a outrem, outorga de prerrogativa ou revelação divina.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: foi concedido.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -529,12 +529,12 @@ export const apocalipse7v2 = {
       "gloss": "a eles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DPM-",
-      "morphology": "MorphGNT: RP ----DPM-",
+      "morphology": "Pronome pessoal · dativo · plural · masculino (MorphGNT: RP ----DPM-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a eles.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -547,7 +547,7 @@ export const apocalipse7v2 = {
     },
     {
       "id": "ap7-2-23",
-      "shortMorph": "V--AAN----",
+      "shortMorph": "V-AAN",
       "greek": "ἀδικῆσαι",
       "transliteration": "adikēsai",
       "gloss": "causar dano",
@@ -556,9 +556,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "adikeō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-AAN----",
-      "morphology": "MorphGNT: V- -AAN----",
+      "morphology": "Verbo · aoristo · voz ativa · infinitivo (MorphGNT: V- -AAN----)",
       "meanings": "ἀδικέω é agir injustamente ou causar dano. Em 2:11, a forma ἀδικηθῇ é aoristo passivo subjuntivo após οὐ μή, negação enfática prospectiva.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: causar dano.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -580,9 +580,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: RA ----ASF-",
+      "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -604,9 +604,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "gē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: N- ----ASF-",
+      "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "terra; solo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -628,9 +628,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -652,9 +652,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: RA ----ASF-",
+      "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],
@@ -676,9 +676,9 @@ export const apocalipse7v2 = {
       "lemmaTransliteration": "thalassa",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
-      "morphology": "MorphGNT: N- ----ASF-",
+      "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "Mar; em 4:6 aparece sob comparação visionária com vidro e cristal.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mar.",
       "occurrencesExamples": [
         "Ap 7:2"
       ],

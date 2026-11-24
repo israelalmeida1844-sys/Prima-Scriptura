@@ -26,9 +26,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -50,9 +50,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "pas",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPM-",
-      "morphology": "MorphGNT: A- ----NPM-",
+      "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
       "meanings": "todo; cada",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: todos.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -74,9 +74,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
-      "morphology": "MorphGNT: RA ----NPM-",
+      "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -91,16 +91,16 @@ export const apocalipse7v11 = {
       "id": "ap7-11-4",
       "shortMorph": "N-NPM",
       "greek": "ἄγγελοι",
-      "transliteration": "aggeloi",
+      "transliteration": "angeloi",
       "gloss": "anjos",
       "strong": "G32",
       "lemma": "ἄγγελος",
       "lemmaTransliteration": "angelos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
-      "morphology": "MorphGNT: N- ----NPM-",
+      "morphology": "Substantivo · nominativo · plural · masculino (MorphGNT: N- ----NPM-)",
       "meanings": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: anjos.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -113,7 +113,7 @@ export const apocalipse7v11 = {
     },
     {
       "id": "ap7-11-5",
-      "shortMorph": "V-3YAI-P--",
+      "shortMorph": "V-YAI-3-P",
       "greek": "εἱστήκεισαν",
       "transliteration": "heistēkeisan",
       "gloss": "estavam de pé",
@@ -122,9 +122,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "histēmi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3YAI-P--",
-      "morphology": "MorphGNT: V- 3YAI-P--",
+      "morphology": "Verbo · mais-que-perfeito · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3YAI-P--)",
       "meanings": "Estar colocado ou permanecer de pé; o perfeito ἕστηκα em 3:20 apresenta estado presente à porta.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: estavam de pé.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -146,9 +146,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "kyklō",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Ao redor ou em círculo; uso adverbial em 4:6, com Strong G2945 verificado externamente.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: ao redor de.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -163,16 +163,16 @@ export const apocalipse7v11 = {
       "id": "ap7-11-7",
       "shortMorph": "ART-GSM",
       "greek": "τοῦ",
-      "transliteration": "toy",
+      "transliteration": "tou",
       "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: RA ----GSM-",
+      "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -187,16 +187,16 @@ export const apocalipse7v11 = {
       "id": "ap7-11-8",
       "shortMorph": "N-GSM",
       "greek": "θρόνου",
-      "transliteration": "thronoy",
+      "transliteration": "thronou",
       "gloss": "trono",
       "strong": "G2362",
       "lemma": "θρόνος",
       "lemmaTransliteration": "thronos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "trono",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -218,9 +218,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -242,9 +242,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: RA ----GPM-",
+      "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dos.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -266,9 +266,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "presbyteros",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: A- ----GPM-",
+      "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: anciãos.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -290,9 +290,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -314,9 +314,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
-      "morphology": "MorphGNT: RA ----GPN-",
+      "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dos.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -338,9 +338,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "tessares",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GPN-",
-      "morphology": "MorphGNT: A- ----GPN-",
+      "morphology": "Adjetivo / numeral · genitivo · plural · neutro (MorphGNT: A- ----GPN-)",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: quatro.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -362,9 +362,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "zōon",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
-      "morphology": "MorphGNT: N- ----GPN-",
+      "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: seres viventes.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -387,9 +387,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -402,7 +402,7 @@ export const apocalipse7v11 = {
     },
     {
       "id": "ap7-11-17",
-      "shortMorph": "V-3AAI-P--",
+      "shortMorph": "V-AAI-3-P",
       "greek": "ἔπεσαν",
       "transliteration": "epesan",
       "gloss": "caíram",
@@ -411,9 +411,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "piptō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
-      "morphology": "MorphGNT: V- 3AAI-P--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "cair",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: caíram.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -435,9 +435,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "enōpion",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "diante de; na presença de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: diante de.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -452,16 +452,16 @@ export const apocalipse7v11 = {
       "id": "ap7-11-19",
       "shortMorph": "ART-GSM",
       "greek": "τοῦ",
-      "transliteration": "toy",
+      "transliteration": "tou",
       "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: RA ----GSM-",
+      "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -476,16 +476,16 @@ export const apocalipse7v11 = {
       "id": "ap7-11-20",
       "shortMorph": "N-GSM",
       "greek": "θρόνου",
-      "transliteration": "thronoy",
+      "transliteration": "thronou",
       "gloss": "trono",
       "strong": "G2362",
       "lemma": "θρόνος",
       "lemmaTransliteration": "thronos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "trono",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -507,9 +507,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "epi",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre; por causa de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -531,9 +531,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
-      "morphology": "MorphGNT: RA ----APN-",
+      "morphology": "Artigo definido · acusativo · plural · neutro (MorphGNT: RA ----APN-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -555,9 +555,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "prosōpon",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APN-",
-      "morphology": "MorphGNT: N- ----APN-",
+      "morphology": "Substantivo · acusativo · plural · neutro (MorphGNT: N- ----APN-)",
       "meanings": "Rosto, face; em 4:7 qualifica o terceiro vivente.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: rostos.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -576,12 +576,12 @@ export const apocalipse7v11 = {
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: RP ----GPM-",
+      "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: deles.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -603,9 +603,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -618,7 +618,7 @@ export const apocalipse7v11 = {
     },
     {
       "id": "ap7-11-26",
-      "shortMorph": "V-3AAI-P--",
+      "shortMorph": "V-AAI-3-P",
       "greek": "προσεκύνησαν",
       "transliteration": "prosekynēsan",
       "gloss": "adoraram",
@@ -627,9 +627,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "proskyneō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
-      "morphology": "MorphGNT: V- 3AAI-P--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "Prostrar-se ou prestar homenagem; 3:9 requer leitura contextual para determinar o objeto e a natureza do ato.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: adoraram.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -651,9 +651,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSM-",
-      "morphology": "MorphGNT: RA ----DSM-",
+      "morphology": "Artigo definido · dativo · singular · masculino (MorphGNT: RA ----DSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],
@@ -675,9 +675,9 @@ export const apocalipse7v11 = {
       "lemmaTransliteration": "theos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
-      "morphology": "MorphGNT: N- ----DSM-",
+      "morphology": "Substantivo · dativo · singular · masculino (MorphGNT: N- ----DSM-)",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: Deus.",
       "occurrencesExamples": [
         "Ap 7:11"
       ],

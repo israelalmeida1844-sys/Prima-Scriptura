@@ -26,9 +26,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "dia",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Indica o meio, o instrumento ou a pessoa pela qual uma ação é realizada.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: por.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -43,16 +43,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-2",
       "shortMorph": "RD",
       "greek": "τοῦτό",
-      "transliteration": "toyto",
+      "transliteration": "touto",
       "gloss": "isso",
       "strong": "G3778",
       "lemma": "οὗτος",
       "lemmaTransliteration": "houtos",
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----ASN-",
-      "morphology": "MorphGNT: RD ----ASN-",
+      "morphology": "Pronome demonstrativo · acusativo · singular · neutro (MorphGNT: RD ----ASN-)",
       "meanings": "este; essas coisas",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: isso.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -65,7 +65,7 @@ export const apocalipse7v15 = {
     },
     {
       "id": "ap7-15-3",
-      "shortMorph": "V-3PAI-P--",
+      "shortMorph": "V-PAI-3-P",
       "greek": "εἰσιν",
       "transliteration": "eisin",
       "gloss": "estão",
@@ -74,9 +74,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "eimi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
-      "morphology": "MorphGNT: V- 3PAI-P--",
+      "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
       "meanings": "ser; estar; existir",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: estão.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -98,9 +98,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "enōpion",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "diante de; na presença de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: diante de.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -115,16 +115,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-5",
       "shortMorph": "ART-GSM",
       "greek": "τοῦ",
-      "transliteration": "toy",
+      "transliteration": "tou",
       "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: RA ----GSM-",
+      "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -139,16 +139,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-6",
       "shortMorph": "N-GSM",
       "greek": "θρόνου",
-      "transliteration": "thronoy",
+      "transliteration": "thronou",
       "gloss": "trono",
       "strong": "G2362",
       "lemma": "θρόνος",
       "lemmaTransliteration": "thronos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "trono",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -163,16 +163,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-7",
       "shortMorph": "ART-GSM",
       "greek": "τοῦ",
-      "transliteration": "toy",
+      "transliteration": "tou",
       "gloss": "de",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: RA ----GSM-",
+      "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -187,16 +187,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-8",
       "shortMorph": "N-GSM",
       "greek": "θεοῦ",
-      "transliteration": "theoy",
+      "transliteration": "theou",
       "gloss": "Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: Deus.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -219,9 +219,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -234,18 +234,18 @@ export const apocalipse7v15 = {
     },
     {
       "id": "ap7-15-10",
-      "shortMorph": "V-3PAI-P--",
+      "shortMorph": "V-PAI-3-P",
       "greek": "λατρεύουσιν",
-      "transliteration": "latreyoysin",
+      "transliteration": "latreyousin",
       "gloss": "servem",
       "strong": "G3000",
       "lemma": "λατρεύω",
       "lemmaTransliteration": "latreyō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
-      "morphology": "MorphGNT: V- 3PAI-P--",
+      "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
       "meanings": "servir; prestar culto",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: servem.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -264,12 +264,12 @@ export const apocalipse7v15 = {
       "gloss": "a ele",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DSM-",
-      "morphology": "MorphGNT: RP ----DSM-",
+      "morphology": "Pronome pessoal · dativo · singular · masculino (MorphGNT: RP ----DSM-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a ele.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -291,9 +291,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "hēmera",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "dia",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de dia.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -315,9 +315,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -339,9 +339,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "nyx",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "Noite; genitivo coordenado ao dia em 4:8, expressando continuidade temporal.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de noite.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -363,9 +363,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "en",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: em.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -387,9 +387,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSM-",
-      "morphology": "MorphGNT: RA ----DSM-",
+      "morphology": "Artigo definido · dativo · singular · masculino (MorphGNT: RA ----DSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -411,9 +411,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "naos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
-      "morphology": "MorphGNT: N- ----DSM-",
+      "morphology": "Substantivo · dativo · singular · masculino (MorphGNT: N- ----DSM-)",
       "meanings": "Santuário ou templo; em 3:12 designa o âmbito de Deus na promessa, sujeito a interpretação simbólica em Ap 21:22.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: santuário.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -428,16 +428,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-18",
       "shortMorph": "RP",
       "greek": "αὐτοῦ",
-      "transliteration": "aytoy",
+      "transliteration": "aytou",
       "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: RP ----GSM-",
+      "morphology": "Pronome pessoal · genitivo · singular · masculino (MorphGNT: RP ----GSM-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dele.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -460,9 +460,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -484,9 +484,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
-      "morphology": "MorphGNT: RA ----NSM-",
+      "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -499,7 +499,7 @@ export const apocalipse7v15 = {
     },
     {
       "id": "ap7-15-21",
-      "shortMorph": "V--PMPNSM-",
+      "shortMorph": "V-PMP-NSM",
       "greek": "καθήμενος",
       "transliteration": "kathēmenos",
       "gloss": "sentado",
@@ -508,9 +508,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "kathēmai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMPNSM-",
-      "morphology": "MorphGNT: V- -PMPNSM-",
+      "morphology": "Verbo · presente · voz média · particípio · nominativo · singular · masculino (MorphGNT: V- -PMPNSM-)",
       "meanings": "Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sentado.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -532,9 +532,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "epi",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre; por causa de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -549,16 +549,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-23",
       "shortMorph": "ART-GSM",
       "greek": "τοῦ",
-      "transliteration": "toy",
+      "transliteration": "tou",
       "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: RA ----GSM-",
+      "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -573,16 +573,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-24",
       "shortMorph": "N-GSM",
       "greek": "θρόνου",
-      "transliteration": "thronoy",
+      "transliteration": "thronou",
       "gloss": "trono",
       "strong": "G2362",
       "lemma": "θρόνος",
       "lemmaTransliteration": "thronos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "trono",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -595,7 +595,7 @@ export const apocalipse7v15 = {
     },
     {
       "id": "ap7-15-25",
-      "shortMorph": "V-3FAI-S--",
+      "shortMorph": "V-FAI-3-S",
       "greek": "σκηνώσει",
       "transliteration": "skēnōsei",
       "gloss": "estenderá sua tenda",
@@ -604,9 +604,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "skēnoō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FAI-S--",
-      "morphology": "MorphGNT: V- 3FAI-S--",
+      "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3FAI-S--)",
       "meanings": "habitar; armar tenda",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: estenderá sua tenda.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -628,9 +628,9 @@ export const apocalipse7v15 = {
       "lemmaTransliteration": "epi",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre; por causa de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],
@@ -645,16 +645,16 @@ export const apocalipse7v15 = {
       "id": "ap7-15-27",
       "shortMorph": "RP",
       "greek": "αὐτούς",
-      "transliteration": "aytoys",
+      "transliteration": "aytous",
       "gloss": "eles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "autos",
+      "lemmaTransliteration": "aytos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: RP ----APM-",
+      "morphology": "Pronome pessoal · acusativo · plural · masculino (MorphGNT: RP ----APM-)",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: eles.",
       "occurrencesExamples": [
         "Ap 7:15"
       ],

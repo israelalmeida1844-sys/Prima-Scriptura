@@ -26,9 +26,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -41,18 +41,18 @@ export const apocalipse7v4 = {
     },
     {
       "id": "ap7-4-2",
-      "shortMorph": "V-1AAI-S--",
+      "shortMorph": "V-AAI-1-S",
       "greek": "ἤκουσα",
-      "transliteration": "ēkoysa",
+      "transliteration": "ēkousa",
       "gloss": "ouvi",
       "strong": "G191",
       "lemma": "ἀκούω",
       "lemmaTransliteration": "akouō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
-      "morphology": "MorphGNT: V- 1AAI-S--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
       "meanings": "ouvir; escutar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: ouvi.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -74,9 +74,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASM-",
-      "morphology": "MorphGNT: RA ----ASM-",
+      "morphology": "Artigo definido · acusativo · singular · masculino (MorphGNT: RA ----ASM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -98,9 +98,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "arithmos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
-      "morphology": "MorphGNT: N- ----ASM-",
+      "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "Expressão quantitativa de um conjunto ou grupo.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: número.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -122,9 +122,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: RA ----GPM-",
+      "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dos.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -137,7 +137,7 @@ export const apocalipse7v4 = {
     },
     {
       "id": "ap7-4-6",
-      "shortMorph": "V--XPPGPM-",
+      "shortMorph": "V-XPP-GPM",
       "greek": "ἐσφραγισμένων",
       "transliteration": "esphragismenōn",
       "gloss": "selados",
@@ -146,9 +146,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "sphragizō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPGPM-",
-      "morphology": "MorphGNT: V- -XPPGPM-",
+      "morphology": "Verbo · perfeito · voz passiva · particípio · genitivo · plural · masculino (MorphGNT: V- -XPPGPM-)",
       "meanings": "selar; marcar com selo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -171,9 +171,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "hekaton",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: A- ----NPF-",
+      "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
       "meanings": "cem",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: cem.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -195,9 +195,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "tesserakonta",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: A- ----NPF-",
+      "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
       "meanings": "quarenta",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: quarenta.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -219,9 +219,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "tessares",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: A- ----NPF-",
+      "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: quatro.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -237,15 +237,15 @@ export const apocalipse7v4 = {
       "shortMorph": "N-NPF",
       "greek": "χιλιάδες",
       "transliteration": "chiliades",
-      "gloss": "milhares",
+      "gloss": "mil",
       "strong": "G5505",
       "lemma": "χιλιάς",
       "lemmaTransliteration": "chilias",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
-      "morphology": "MorphGNT: N- ----NPF-",
+      "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "Conjunto de mil unidades; em combinações repetidas exprime grandes quantidades.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mil.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -259,7 +259,7 @@ export const apocalipse7v4 = {
     },
     {
       "id": "ap7-4-11",
-      "shortMorph": "V--XPPNPM-",
+      "shortMorph": "V-XPP-NPM",
       "greek": "ἐσφραγισμένοι",
       "transliteration": "esphragismenoi",
       "gloss": "selados",
@@ -268,9 +268,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "sphragizō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPNPM-",
-      "morphology": "MorphGNT: V- -XPPNPM-",
+      "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · masculino (MorphGNT: V- -XPPNPM-)",
       "meanings": "selar; marcar com selo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -292,9 +292,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "ek",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de; para fora de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -316,9 +316,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "pas",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: A- ----GSF-",
+      "morphology": "Adjetivo / numeral · genitivo · singular · feminino (MorphGNT: A- ----GSF-)",
       "meanings": "todo; cada",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: toda.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -340,9 +340,9 @@ export const apocalipse7v4 = {
       "lemmaTransliteration": "phylē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "tribo; família; povo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: tribo.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -361,12 +361,12 @@ export const apocalipse7v4 = {
       "gloss": "dos filhos",
       "strong": "G5207",
       "lemma": "υἱός",
-      "lemmaTransliteration": "huios",
+      "lemmaTransliteration": "hyios",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: N- ----GPM-",
+      "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "filho",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dos filhos.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],
@@ -385,12 +385,12 @@ export const apocalipse7v4 = {
       "gloss": "de Israel",
       "strong": "G2474",
       "lemma": "Ἰσραήλ",
-      "lemmaTransliteration": "Israēl",
+      "lemmaTransliteration": "israēl",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
-      "morphology": "MorphGNT: N- ----GSM-",
+      "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "Ἰσραήλ é nome próprio indeclinável; genitivo por função em τῶν υἱῶν Ἰσραήλ, filhos de Israel.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de Israel.",
       "occurrencesExamples": [
         "Ap 7:4"
       ],

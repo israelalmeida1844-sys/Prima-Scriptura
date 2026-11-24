@@ -26,9 +26,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -41,7 +41,7 @@ export const apocalipse7v13 = {
     },
     {
       "id": "ap7-13-2",
-      "shortMorph": "V-3API-S--",
+      "shortMorph": "V-API-3-S",
       "greek": "ἀπεκρίθη",
       "transliteration": "apekrithē",
       "gloss": "respondeu",
@@ -50,9 +50,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "apokrinomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
-      "morphology": "MorphGNT: V- 3API-S--",
+      "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "responder; tomar a palavra",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: respondeu.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -74,9 +74,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "heis",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NSM-",
-      "morphology": "MorphGNT: A- ----NSM-",
+      "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "Um; em 4:8, a repetição ἓν καθ’ ἓν distribui as seis asas a cada vivente.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: um.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -98,9 +98,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "ek",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de; para fora de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -122,9 +122,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: RA ----GPM-",
+      "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -146,9 +146,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "presbyteros",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GPM-",
-      "morphology": "MorphGNT: A- ----GPM-",
+      "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: anciãos.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -161,7 +161,7 @@ export const apocalipse7v13 = {
     },
     {
       "id": "ap7-13-7",
-      "shortMorph": "V--PAPNSM-",
+      "shortMorph": "V-PAP-NSM",
       "greek": "λέγων",
       "transliteration": "legōn",
       "gloss": "dizendo",
@@ -170,9 +170,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "legō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
-      "morphology": "MorphGNT: V- -PAPNSM-",
+      "morphology": "Verbo · presente · voz ativa · particípio · nominativo · singular · masculino (MorphGNT: V- -PAPNSM-)",
       "meanings": "dizer; declarar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: dizendo.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -194,9 +194,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "egō",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DS--",
-      "morphology": "MorphGNT: RP ----DS--",
+      "morphology": "Pronome pessoal · dativo · singular (MorphGNT: RP ----DS--)",
       "meanings": "eu; nós",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a mim.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -212,16 +212,16 @@ export const apocalipse7v13 = {
       "id": "ap7-13-9",
       "shortMorph": "RD",
       "greek": "Οὗτοι",
-      "transliteration": "hoytoi",
+      "transliteration": "houtoi",
       "gloss": "estes",
       "strong": "G3778",
       "lemma": "οὗτος",
       "lemmaTransliteration": "houtos",
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----NPM-",
-      "morphology": "MorphGNT: RD ----NPM-",
+      "morphology": "Pronome demonstrativo · nominativo · plural · masculino (MorphGNT: RD ----NPM-)",
       "meanings": "este; essas coisas",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: estes.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -243,9 +243,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
-      "morphology": "MorphGNT: RA ----NPM-",
+      "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -258,7 +258,7 @@ export const apocalipse7v13 = {
     },
     {
       "id": "ap7-13-11",
-      "shortMorph": "V--XMPNPM-",
+      "shortMorph": "V-XMP-NPM",
       "greek": "περιβεβλημένοι",
       "transliteration": "peribeblēmenoi",
       "gloss": "vestidos",
@@ -267,9 +267,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "periballō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XMPNPM-",
-      "morphology": "MorphGNT: V- -XMPNPM-",
+      "morphology": "Verbo · perfeito · voz média · particípio · nominativo · plural · masculino (MorphGNT: V- -XMPNPM-)",
       "meanings": "Vestir ou envolver com roupa; o contexto 3:5 e 3:18 trata de ser revestido com vestes brancas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: vestidos.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -291,9 +291,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: RA ----APF-",
+      "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -315,9 +315,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "stolē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: N- ----APF-",
+      "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "Vestimenta longa, manto ou traje distintivo; em 6:11 é apresentada com a qualificação branca.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mantos.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -339,9 +339,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: RA ----APF-",
+      "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -360,12 +360,12 @@ export const apocalipse7v13 = {
       "gloss": "brancos",
       "strong": "G3022",
       "lemma": "λευκός",
-      "lemmaTransliteration": "leukos",
+      "lemmaTransliteration": "leykos",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: A- ----APF-",
+      "morphology": "Adjetivo / numeral · acusativo · plural · feminino (MorphGNT: A- ----APF-)",
       "meanings": "branco",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: brancos.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -387,9 +387,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "tis",
       "partOfSpeech": "Pronome interrogativo",
       "morphologyCode": "----NPM-",
-      "morphology": "MorphGNT: RI ----NPM-",
+      "morphology": "Pronome interrogativo · nominativo · plural · masculino (MorphGNT: RI ----NPM-)",
       "meanings": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: quem.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -402,7 +402,7 @@ export const apocalipse7v13 = {
     },
     {
       "id": "ap7-13-17",
-      "shortMorph": "V-3PAI-P--",
+      "shortMorph": "V-PAI-3-P",
       "greek": "εἰσὶν",
       "transliteration": "eisin",
       "gloss": "são",
@@ -411,9 +411,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "eimi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
-      "morphology": "MorphGNT: V- 3PAI-P--",
+      "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
       "meanings": "ser; estar; existir",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: são.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -435,9 +435,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "kai",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: e.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -459,9 +459,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "pothen",
       "partOfSpeech": "Advérbio / partícula",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: D- --------",
+      "morphology": "Advérbio / partícula (MorphGNT: D- --------)",
       "meanings": "πόθεν é advérbio interrogativo de origem «de onde»; com πέπτωκας caracteriza figuradamente a condição da qual a igreja caiu.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de onde.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],
@@ -474,7 +474,7 @@ export const apocalipse7v13 = {
     },
     {
       "id": "ap7-13-20",
-      "shortMorph": "V-3AAI-P--",
+      "shortMorph": "V-AAI-3-P",
       "greek": "ἦλθον",
       "transliteration": "ēlthon",
       "gloss": "vieram",
@@ -483,9 +483,9 @@ export const apocalipse7v13 = {
       "lemmaTransliteration": "erchomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
-      "morphology": "MorphGNT: V- 3AAI-P--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "vir; chegar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: vieram.",
       "occurrencesExamples": [
         "Ap 7:13"
       ],

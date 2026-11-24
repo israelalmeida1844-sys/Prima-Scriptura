@@ -26,9 +26,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "meta",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "com; depois de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: depois.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -43,16 +43,16 @@ export const apocalipse7v1 = {
       "id": "ap7-1-2",
       "shortMorph": "RD",
       "greek": "τοῦτο",
-      "transliteration": "toyto",
+      "transliteration": "touto",
       "gloss": "disso",
       "strong": "G3778",
       "lemma": "οὗτος",
       "lemmaTransliteration": "houtos",
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----ASN-",
-      "morphology": "MorphGNT: RD ----ASN-",
+      "morphology": "Pronome demonstrativo · acusativo · singular · neutro (MorphGNT: RD ----ASN-)",
       "meanings": "este; essas coisas",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: disso.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -65,7 +65,7 @@ export const apocalipse7v1 = {
     },
     {
       "id": "ap7-1-3",
-      "shortMorph": "V-1AAI-S--",
+      "shortMorph": "V-AAI-1-S",
       "greek": "εἶδον",
       "transliteration": "eidon",
       "gloss": "vi",
@@ -74,9 +74,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "horaō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
-      "morphology": "MorphGNT: V- 1AAI-S--",
+      "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
       "meanings": "Experimentar percepção visual, observar algo ou reconhecer por meio da visão, em contextos comuns ou narrativos.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: vi.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -98,9 +98,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "tessares",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: A- ----APM-",
+      "morphology": "Adjetivo / numeral · acusativo · plural · masculino (MorphGNT: A- ----APM-)",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: quatro.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -115,16 +115,16 @@ export const apocalipse7v1 = {
       "id": "ap7-1-5",
       "shortMorph": "N-APM",
       "greek": "ἀγγέλους",
-      "transliteration": "aggeloys",
+      "transliteration": "angelous",
       "gloss": "anjos",
       "strong": "G32",
       "lemma": "ἄγγελος",
       "lemmaTransliteration": "angelos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: N- ----APM-",
+      "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
       "meanings": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: anjos.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -137,7 +137,7 @@ export const apocalipse7v1 = {
     },
     {
       "id": "ap7-1-6",
-      "shortMorph": "V--XAPAPM-",
+      "shortMorph": "V-XAP-APM",
       "greek": "ἑστῶτας",
       "transliteration": "hestōtas",
       "gloss": "de pé",
@@ -146,9 +146,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "histēmi",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XAPAPM-",
-      "morphology": "MorphGNT: V- -XAPAPM-",
+      "morphology": "Verbo · perfeito · voz ativa · particípio · acusativo · plural · masculino (MorphGNT: V- -XAPAPM-)",
       "meanings": "Estar colocado ou permanecer de pé; o perfeito ἕστηκα em 3:20 apresenta estado presente à porta.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: de pé.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -170,9 +170,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "epi",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre; por causa de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -194,9 +194,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: RA ----APF-",
+      "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -218,9 +218,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "tessares",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: A- ----APF-",
+      "morphology": "Adjetivo / numeral · acusativo · plural · feminino (MorphGNT: A- ----APF-)",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: quatro.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -242,9 +242,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "gōnia",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
-      "morphology": "MorphGNT: N- ----APF-",
+      "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "canto; extremidade",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Extremidade ou canto; aqui, parte da expressão espacial «quatro cantos da terra».",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -266,9 +266,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: RA ----GSF-",
+      "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: da.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -290,9 +290,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "gē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "terra; solo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -306,18 +306,18 @@ export const apocalipse7v1 = {
     },
     {
       "id": "ap7-1-13",
-      "shortMorph": "V--PAPAPM-",
+      "shortMorph": "V-PAP-APM",
       "greek": "κρατοῦντας",
-      "transliteration": "kratoyntas",
+      "transliteration": "kratountas",
       "gloss": "retendo",
       "strong": "G2902",
       "lemma": "κρατέω",
       "lemmaTransliteration": "krateō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPAPM-",
-      "morphology": "MorphGNT: V- -PAPAPM-",
+      "morphology": "Verbo · presente · voz ativa · particípio · acusativo · plural · masculino (MorphGNT: V- -PAPAPM-)",
       "meanings": "κρατέω designa agarrar, segurar com firmeza ou manter sob domínio. Em Ap 2:1, o particípio presente κρατῶν descreve aquele que mantém as estrelas em sua mão direita.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: retendo.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -332,16 +332,16 @@ export const apocalipse7v1 = {
       "id": "ap7-1-14",
       "shortMorph": "ART-APM",
       "greek": "τοὺς",
-      "transliteration": "toys",
+      "transliteration": "tous",
       "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: RA ----APM-",
+      "morphology": "Artigo definido · acusativo · plural · masculino (MorphGNT: RA ----APM-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: os.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -363,9 +363,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "tessares",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: A- ----APM-",
+      "morphology": "Adjetivo / numeral · acusativo · plural · masculino (MorphGNT: A- ----APM-)",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: quatro.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -380,16 +380,16 @@ export const apocalipse7v1 = {
       "id": "ap7-1-16",
       "shortMorph": "N-APM",
       "greek": "ἀνέμους",
-      "transliteration": "anemoys",
+      "transliteration": "anemous",
       "gloss": "ventos",
       "strong": "G417",
       "lemma": "ἄνεμος",
       "lemmaTransliteration": "anemos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
-      "morphology": "MorphGNT: N- ----APM-",
+      "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
       "meanings": "Vento, movimento de ar que, em 6:13, sacode a figueira.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: ventos.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -411,9 +411,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: RA ----GSF-",
+      "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: da.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -435,9 +435,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "gē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "terra; solo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -460,9 +460,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "hina",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "ἵνα com subjuntivo πειρασθῆτε indica finalidade da provação: «para que sejais postos à prova».",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: para que.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -484,9 +484,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "mē",
       "partOfSpeech": "Advérbio / partícula",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: D- --------",
+      "morphology": "Advérbio / partícula (MorphGNT: D- --------)",
       "meanings": "não; partícula negativa",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: não.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -499,7 +499,7 @@ export const apocalipse7v1 = {
     },
     {
       "id": "ap7-1-21",
-      "shortMorph": "V-3PAS-S--",
+      "shortMorph": "V-PAS-3-S",
       "greek": "πνέῃ",
       "transliteration": "pneē",
       "gloss": "sopre",
@@ -508,9 +508,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "pneō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAS-S--",
-      "morphology": "MorphGNT: V- 3PAS-S--",
+      "morphology": "Verbo · presente · voz ativa · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3PAS-S--)",
       "meanings": "soprar",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sopre.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -532,9 +532,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "anemos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
-      "morphology": "MorphGNT: N- ----NSM-",
+      "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Vento, movimento de ar que, em 6:13, sacode a figueira.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: vento.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -556,9 +556,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "epi",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre; por causa de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -580,9 +580,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: RA ----GSF-",
+      "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -604,9 +604,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "gē",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "terra; solo",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -628,9 +628,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "mēte",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "nem",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: nem.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -652,9 +652,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "epi",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre; por causa de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -676,9 +676,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "ho",
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: RA ----GSF-",
+      "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: o.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -700,9 +700,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "thalassa",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
-      "morphology": "MorphGNT: N- ----GSF-",
+      "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "Mar; em 4:6 aparece sob comparação visionária com vidro e cristal.",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: mar.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -724,9 +724,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "mēte",
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: C- --------",
+      "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "nem",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: nem.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -748,9 +748,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "epi",
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
-      "morphology": "MorphGNT: P- --------",
+      "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre; por causa de",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -772,9 +772,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "pas",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
-      "morphology": "MorphGNT: A- ----ASN-",
+      "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
       "meanings": "todo; cada",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: qualquer.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
@@ -796,9 +796,9 @@ export const apocalipse7v1 = {
       "lemmaTransliteration": "dendron",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
-      "morphology": "MorphGNT: N- ----ASN-",
+      "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
       "meanings": "árvore",
-      "explanation": "Glosa contextual; consulte as observações sintáticas do versículo.",
+      "explanation": "Sentido contextual: árvore.",
       "occurrencesExamples": [
         "Ap 7:1"
       ],
