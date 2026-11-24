@@ -1,0 +1,24 @@
+{
+  "strong": "G3128",
+  "lemma": "Μανασσῆς",
+  "lemmaTranslit": "manassēs",
+  "tokenCount": 3,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Mt": 2,
+    "Ap": 1
+  },
+  "references": [
+    "Mt 1:10",
+    "Ap 7:6"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-7/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata do lema MorphGNT, não contagem de todas as grafias ou homônimos de um número Strong.",
+  "strongDictionaryLemma": "Μανασσῆς",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml, blob 81b698b7141d8b17951a99086ecc4c67fec29884"
+}

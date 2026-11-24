@@ -1,0 +1,24 @@
+{
+  "strong": "G3021",
+  "lemma": "λευκαίνω",
+  "lemmaTranslit": "leykainō",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Mc": 1,
+    "Ap": 1
+  },
+  "references": [
+    "Mc 9:3",
+    "Ap 7:14"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-7/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata do lema MorphGNT, não contagem de todas as grafias ou homônimos de um número Strong.",
+  "strongDictionaryLemma": "λευκαίνω",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml, blob 81b698b7141d8b17951a99086ecc4c67fec29884"
+}

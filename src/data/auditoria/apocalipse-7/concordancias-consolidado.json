@@ -1,0 +1,488 @@
+{
+  "complete": true,
+  "scope": "36 lemas do capítulo 7; contagem exata no MorphGNT",
+  "sources": [
+    {
+      "book": "Mt",
+      "blob": "4745674bd63bf0bbec37b8b08f2c8f32b73266b4",
+      "rows": 18329,
+      "first": "010101",
+      "last": "012820"
+    },
+    {
+      "book": "Mc",
+      "blob": "d68222360b161cd6acba11746acfcb092b6af0c3",
+      "rows": 11286,
+      "first": "020101",
+      "last": "021620"
+    },
+    {
+      "book": "Lc",
+      "blob": "474e65703c49ef3890fca4b24403434ab6df6457",
+      "rows": 19446,
+      "first": "030101",
+      "last": "032453"
+    },
+    {
+      "book": "Jo",
+      "blob": "c3dab42934edab531f7dc08b630be8181638bd61",
+      "rows": 15438,
+      "first": "040101",
+      "last": "042125"
+    },
+    {
+      "book": "At",
+      "blob": "3aed8e1a1dd9d77b4c448a0893bd4ddee6eb6842",
+      "rows": 18412,
+      "first": "050101",
+      "last": "052831"
+    },
+    {
+      "book": "Rm",
+      "blob": "874480223c7f71bbc71f18d77ed3a6ad734561e1",
+      "rows": 7055,
+      "first": "060101",
+      "last": "061624"
+    },
+    {
+      "book": "1Co",
+      "blob": "28dec6618da3a378f454b6c72776286855857920",
+      "rows": 6812,
+      "first": "070101",
+      "last": "071624"
+    },
+    {
+      "book": "2Co",
+      "blob": "9beb35c77da5ffbcf56a8d7c0e9d6054452a0b43",
+      "rows": 4473,
+      "first": "080101",
+      "last": "081313"
+    },
+    {
+      "book": "Gl",
+      "blob": "b6ba67c907b35700e32a8fa00c0b30328472a992",
+      "rows": 2226,
+      "first": "090101",
+      "last": "090618"
+    },
+    {
+      "book": "Ef",
+      "blob": "c506f4c4933b0c202f07742ca54aad26ff5495bc",
+      "rows": 2416,
+      "first": "100101",
+      "last": "100624"
+    },
+    {
+      "book": "Fp",
+      "blob": "0dde9e397d8e0c8384eab85ca1f61b38b37a6272",
+      "rows": 1626,
+      "first": "110101",
+      "last": "110423"
+    },
+    {
+      "book": "Cl",
+      "blob": "8cdbc8e44370e7ffa2aa92419e2dd2ccaf40cdd2",
+      "rows": 1580,
+      "first": "120101",
+      "last": "120418"
+    },
+    {
+      "book": "1Ts",
+      "blob": "ced6898c215029bc8460c23d1b1600d3fd6f5243",
+      "rows": 1473,
+      "first": "130101",
+      "last": "130528"
+    },
+    {
+      "book": "2Ts",
+      "blob": "123860bf9b3a59ffe1dd7ae0fdeb7a0eddd5d080",
+      "rows": 820,
+      "first": "140101",
+      "last": "140318"
+    },
+    {
+      "book": "1Tm",
+      "blob": "b3a48cf39e72a1d5ab12e22dbfccf50d5273c450",
+      "rows": 1591,
+      "first": "150101",
+      "last": "150621"
+    },
+    {
+      "book": "2Tm",
+      "blob": "9e8982318844d411c26cb29f88fbe2e44f733f6a",
+      "rows": 1235,
+      "first": "160101",
+      "last": "160422"
+    },
+    {
+      "book": "Tt",
+      "blob": "20181fbb5729cc9fbd200b58241ac5e5612c2ec3",
+      "rows": 659,
+      "first": "170101",
+      "last": "170315"
+    },
+    {
+      "book": "Fm",
+      "blob": "a4a64fb468e0110aec98d94d707af8a5188419fd",
+      "rows": 334,
+      "first": "180101",
+      "last": "180125"
+    },
+    {
+      "book": "Hb",
+      "blob": "b6f41c7341e6b40dddf36eb7230f6ea2541cd879",
+      "rows": 4935,
+      "first": "190101",
+      "last": "191325"
+    },
+    {
+      "book": "Tg",
+      "blob": "462cf055ed12eb98f050da2d2ddcf040212304af",
+      "rows": 1739,
+      "first": "200101",
+      "last": "200520"
+    },
+    {
+      "book": "1Pe",
+      "blob": "5ac72702c9fba9872973d9ae477933ffd261caf7",
+      "rows": 1678,
+      "first": "210101",
+      "last": "210514"
+    },
+    {
+      "book": "2Pe",
+      "blob": "e00185e04d19766df22734e7bce8342916f1d695",
+      "rows": 1098,
+      "first": "220101",
+      "last": "220318"
+    },
+    {
+      "book": "1Jo",
+      "blob": "256ce436ae5bb07f405b8971b8355336dfe39e76",
+      "rows": 2137,
+      "first": "230101",
+      "last": "230521"
+    },
+    {
+      "book": "2Jo",
+      "blob": "1dd4b1fd9bd6095ddbb6d9e178c193666fd43860",
+      "rows": 245,
+      "first": "240101",
+      "last": "240113"
+    },
+    {
+      "book": "3Jo",
+      "blob": "27a36b65129ba367a8ea92dc3507ef1a0cfee730",
+      "rows": 219,
+      "first": "250101",
+      "last": "250115"
+    },
+    {
+      "book": "Jd",
+      "blob": "c401f296d69d02a78d0266a976bdd72db95fb318",
+      "rows": 459,
+      "first": "260101",
+      "last": "260125"
+    },
+    {
+      "book": "Ap",
+      "blob": "bf6fde5561b55eef837ae05067d270cdbc858c25",
+      "rows": 9833,
+      "first": "270101",
+      "last": "272221"
+    }
+  ],
+  "totalCorpusTokens": 137554,
+  "totalMatches": 845,
+  "strongDictionaryBlob": "81b698b7141d8b17951a99086ecc4c67fec29884",
+  "entries": [
+    {
+      "strong": "G1137",
+      "lemma": "γωνία",
+      "strongDictionaryLemma": "γωνία",
+      "tokenCount": 9,
+      "verseCount": 9,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G4154",
+      "lemma": "πνέω",
+      "strongDictionaryLemma": "πνέω",
+      "tokenCount": 7,
+      "verseCount": 7,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3383",
+      "lemma": "μήτε",
+      "strongDictionaryLemma": "μήτε",
+      "tokenCount": 34,
+      "verseCount": 16,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G1186",
+      "lemma": "δένδρον",
+      "strongDictionaryLemma": "δένδρον",
+      "tokenCount": 25,
+      "verseCount": 18,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G395",
+      "lemma": "ἀνατολή",
+      "strongDictionaryLemma": "ἀνατολή",
+      "tokenCount": 11,
+      "verseCount": 11,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G4972",
+      "lemma": "σφραγίζω",
+      "strongDictionaryLemma": "σφραγίζω",
+      "tokenCount": 15,
+      "verseCount": 14,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3359",
+      "lemma": "μέτωπον",
+      "strongDictionaryLemma": "μέτωπον",
+      "tokenCount": 8,
+      "verseCount": 8,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G1540",
+      "lemma": "ἑκατόν",
+      "strongDictionaryLemma": "ἑκατόν",
+      "tokenCount": 17,
+      "verseCount": 17,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G5062",
+      "lemma": "τεσσεράκοντα",
+      "strongDictionaryLemma": "τεσσαράκοντα",
+      "tokenCount": 22,
+      "verseCount": 21,
+      "orthographicOrLexicalVariant": true
+    },
+    {
+      "strong": "G1427",
+      "lemma": "δώδεκα",
+      "strongDictionaryLemma": "δώδεκα",
+      "tokenCount": 75,
+      "verseCount": 61,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G4502",
+      "lemma": "Ῥουβήν",
+      "strongDictionaryLemma": "Ῥουβήν",
+      "tokenCount": 1,
+      "verseCount": 1,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G1045",
+      "lemma": "Γάδ",
+      "strongDictionaryLemma": "Γάδ",
+      "tokenCount": 1,
+      "verseCount": 1,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G768",
+      "lemma": "Ἀσήρ",
+      "strongDictionaryLemma": "Ἀσήρ",
+      "tokenCount": 2,
+      "verseCount": 2,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3508",
+      "lemma": "Νεφθαλίμ",
+      "strongDictionaryLemma": "Νεφθαλείμ",
+      "tokenCount": 3,
+      "verseCount": 3,
+      "orthographicOrLexicalVariant": true
+    },
+    {
+      "strong": "G3128",
+      "lemma": "Μανασσῆς",
+      "strongDictionaryLemma": "Μανασσῆς",
+      "tokenCount": 3,
+      "verseCount": 2,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G4826",
+      "lemma": "Συμεών",
+      "strongDictionaryLemma": "Συμεών",
+      "tokenCount": 7,
+      "verseCount": 7,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3017",
+      "lemma": "Λευί",
+      "strongDictionaryLemma": "Λευΐ",
+      "tokenCount": 7,
+      "verseCount": 7,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G2466",
+      "lemma": "Ἰσσαχάρ",
+      "strongDictionaryLemma": "Ἰσαχάρ",
+      "tokenCount": 1,
+      "verseCount": 1,
+      "orthographicOrLexicalVariant": true
+    },
+    {
+      "strong": "G2194",
+      "lemma": "Ζαβουλών",
+      "strongDictionaryLemma": "Ζαβουλών",
+      "tokenCount": 3,
+      "verseCount": 3,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G2501",
+      "lemma": "Ἰωσήφ",
+      "strongDictionaryLemma": "Ἰωσήφ",
+      "tokenCount": 35,
+      "verseCount": 34,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G958",
+      "lemma": "Βενιαμίν",
+      "strongDictionaryLemma": "Βενιαμίν",
+      "tokenCount": 4,
+      "verseCount": 4,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3793",
+      "lemma": "ὄχλος",
+      "strongDictionaryLemma": "ὄχλος",
+      "tokenCount": 174,
+      "verseCount": 169,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G705",
+      "lemma": "ἀριθμέω",
+      "strongDictionaryLemma": "ἀριθμέω",
+      "tokenCount": 3,
+      "verseCount": 3,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G5404",
+      "lemma": "φοῖνιξ",
+      "strongDictionaryLemma": "φοῖνιξ",
+      "tokenCount": 2,
+      "verseCount": 2,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G4991",
+      "lemma": "σωτηρία",
+      "strongDictionaryLemma": "σωτηρία",
+      "tokenCount": 46,
+      "verseCount": 45,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G611",
+      "lemma": "ἀποκρίνομαι",
+      "strongDictionaryLemma": "ἀποκρίνομαι",
+      "tokenCount": 232,
+      "verseCount": 232,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G4150",
+      "lemma": "πλύνω",
+      "strongDictionaryLemma": "πλύνω",
+      "tokenCount": 3,
+      "verseCount": 3,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3021",
+      "lemma": "λευκαίνω",
+      "strongDictionaryLemma": "λευκαίνω",
+      "tokenCount": 2,
+      "verseCount": 2,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3000",
+      "lemma": "λατρεύω",
+      "strongDictionaryLemma": "λατρεύω",
+      "tokenCount": 21,
+      "verseCount": 21,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G4637",
+      "lemma": "σκηνόω",
+      "strongDictionaryLemma": "σκηνόω",
+      "tokenCount": 5,
+      "verseCount": 5,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3983",
+      "lemma": "πεινάω",
+      "strongDictionaryLemma": "πεινάω",
+      "tokenCount": 23,
+      "verseCount": 23,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G1372",
+      "lemma": "διψάω",
+      "strongDictionaryLemma": "διψάω",
+      "tokenCount": 16,
+      "verseCount": 16,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G2738",
+      "lemma": "καῦμα",
+      "strongDictionaryLemma": "καῦμα",
+      "tokenCount": 2,
+      "verseCount": 2,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G3594",
+      "lemma": "ὁδηγέω",
+      "strongDictionaryLemma": "ὁδηγέω",
+      "tokenCount": 5,
+      "verseCount": 5,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G4077",
+      "lemma": "πηγή",
+      "strongDictionaryLemma": "πηγή",
+      "tokenCount": 11,
+      "verseCount": 10,
+      "orthographicOrLexicalVariant": false
+    },
+    {
+      "strong": "G1144",
+      "lemma": "δάκρυον",
+      "strongDictionaryLemma": "δάκρυ",
+      "tokenCount": 10,
+      "verseCount": 10,
+      "orthographicOrLexicalVariant": true
+    }
+  ]
+}

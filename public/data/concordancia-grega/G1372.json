@@ -1,0 +1,41 @@
+{
+  "strong": "G1372",
+  "lemma": "διψάω",
+  "lemmaTranslit": "dipsaō",
+  "tokenCount": 16,
+  "verseCount": 16,
+  "bookDistribution": {
+    "Mt": 5,
+    "Jo": 6,
+    "Rm": 1,
+    "1Co": 1,
+    "Ap": 3
+  },
+  "references": [
+    "Mt 5:6",
+    "Mt 25:35",
+    "Mt 25:37",
+    "Mt 25:42",
+    "Mt 25:44",
+    "Jo 4:13",
+    "Jo 4:14",
+    "Jo 4:15",
+    "Jo 6:35",
+    "Jo 7:37",
+    "Jo 19:28",
+    "Rm 12:20",
+    "1Co 4:11",
+    "Ap 7:16",
+    "Ap 21:6",
+    "Ap 22:17"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-7/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata do lema MorphGNT, não contagem de todas as grafias ou homônimos de um número Strong.",
+  "strongDictionaryLemma": "διψάω",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml, blob 81b698b7141d8b17951a99086ecc4c67fec29884"
+}
