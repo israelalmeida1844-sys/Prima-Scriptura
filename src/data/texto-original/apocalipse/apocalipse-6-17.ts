@@ -1,4 +1,4 @@
-/** Prima Scriptura · Apocalipse 6:17 · Edição de avaliação */
+/** Prima Scriptura · Ap 6:17 · glosas contextuais revistas */
 export const apocalipse6v17 = {
   "reference": "Apocalipse 6:17",
   "book": "Apocalipse",
@@ -213,7 +213,7 @@ export const apocalipse6v17 = {
       "shortMorph": "PRO-GPM",
       "greek": "αὐτῶν",
       "transliteration": "aytōn",
-      "gloss": "dele",
+      "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -262,7 +262,7 @@ export const apocalipse6v17 = {
       "shortMorph": "RI-NSM",
       "greek": "τίς",
       "transliteration": "tis",
-      "gloss": "que?",
+      "gloss": "quem?",
       "strong": "G5101",
       "lemma": "τίς",
       "lemmaTransliteration": "tis",
@@ -286,7 +286,7 @@ export const apocalipse6v17 = {
       "shortMorph": "V-PMI-3-S",
       "greek": "δύναται",
       "transliteration": "dynatai",
-      "gloss": "poder",
+      "gloss": "pode",
       "strong": "G1410",
       "lemma": "δύναμαι",
       "lemmaTransliteration": "dynamai",

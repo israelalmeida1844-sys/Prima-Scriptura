@@ -1,4 +1,4 @@
-/** Prima Scriptura · Apocalipse 6:14 · Edição de avaliação */
+/** Prima Scriptura · Ap 6:14 · glosas contextuais revistas */
 export const apocalipse6v14 = {
   "reference": "Apocalipse 6:14",
   "book": "Apocalipse",
@@ -358,7 +358,7 @@ export const apocalipse6v14 = {
       "shortMorph": "N-GPM",
       "greek": "τόπων",
       "transliteration": "topōn",
-      "gloss": "lugar",
+      "gloss": "lugares",
       "strong": "G5117",
       "lemma": "τόπος",
       "lemmaTransliteration": "topos",
@@ -382,7 +382,7 @@ export const apocalipse6v14 = {
       "shortMorph": "PRO-GPN",
       "greek": "αὐτῶν",
       "transliteration": "aytōn",
-      "gloss": "dele",
+      "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -406,7 +406,7 @@ export const apocalipse6v14 = {
       "shortMorph": "V-API-3-P",
       "greek": "ἐκινήθησαν",
       "transliteration": "ekinēthēsan",
-      "gloss": "removerei",
+      "gloss": "foram removidos",
       "strong": "G2795",
       "lemma": "κινέω",
       "lemmaTransliteration": "kineō",
