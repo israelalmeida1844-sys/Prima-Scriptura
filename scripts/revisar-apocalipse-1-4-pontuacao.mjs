@@ -43,6 +43,6 @@ let style=fs.readFileSync(stylePath,'utf8');
 if(!style.includes('.greek-punctuation { pointer-events: none; }'))style+='\n.greek-punctuation { pointer-events: none; }\n';
 fs.writeFileSync(stylePath,style);
 const report='.github/reports/apocalipse-1-4-revisao-editorial.json';
-const obj=JSON.parse(fs.readFileSync(report,'utf8'));obj.punctuationMoved=punct;obj.punctuationModel='Os sinais finais são armazenados em trailingPunctuation; a forma grega clicável contém apenas o token lexical.';obj.additionalExegeticalNotes='Apocalipse 1:3–8 revistos editorialmente';
+const obj=JSON.parse(fs.readFileSync(report,'utf8'));obj.punctuationMoved=(obj.punctuationMoved||0)+punct;obj.punctuationModel='Os sinais finais são armazenados em trailingPunctuation; a forma grega clicável contém apenas o token lexical.';obj.additionalExegeticalNotes='Apocalipse 1:3–8 revistos editorialmente';
 fs.writeFileSync(report,JSON.stringify(obj,null,2)+'\n');
 console.log(JSON.stringify({punctuationMoved:punct,componentsUpdated:changedViews}));
