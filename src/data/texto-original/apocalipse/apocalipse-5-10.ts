@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 5:10 · SBLGNT/MorphGNT · Rascunho em revisão */
+/** Prima Scriptura · Ap 5:10 · SBLGNT/MorphGNT · Correção editorial documentada */
 export const apocalipse5v10 = {
   "reference": "Apocalipse 5:10",
   "book": "Apocalipse",
@@ -10,7 +10,8 @@ export const apocalipse5v10 = {
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
   "textualNotes": "A edição SBLGNT/MorphGNT fixada lê αὐτούς ('eles'), βασιλείαν ('reino') e βασιλεύουσιν ('reinam', presente). Outras tradições registram ἡμᾶς ('nós'), βασιλεῖς ('reis') e/ou βασιλεύσουσιν ('reinarão', futuro). A combinação exata de leituras e o suporte manuscrito exigem conferência em aparato crítico; não fundir edições.",
   "syntacticNotes": [
-    "Análise morfológica de cada token baseada nos códigos MorphGNT; funções sintáticas individuais estão pendentes de homologação editorial."
+    "Análise morfológica de cada token baseada nos códigos MorphGNT; funções sintáticas individuais estão pendentes de homologação editorial.",
+    "A forma βασιλεύουσιν é presente do indicativo ativo (3ª plural), embora o arquivo MorphGNT 6.12 consultado a marque como futuro, 3FAI-P--; a etiqueta original foi preservada no campo morphgntOriginalMorphologyCode para auditoria."
   ],
   "exegeticalNotes": [
     "A designação reino e sacerdotes recupera Ex 19:6 e Ap 1:6; atenção às variantes pronominais e ao tempo verbal da declaração sobre reinar."
@@ -259,7 +260,7 @@ export const apocalipse5v10 = {
     },
     {
       "id": "ap5-10-11",
-      "shortMorph": "V-FAI-3P",
+      "shortMorph": "V-PAI-3P",
       "greek": "βασιλεύουσιν",
       "transliteration": "basileyoysin",
       "gloss": "reinar",
@@ -267,8 +268,8 @@ export const apocalipse5v10 = {
       "lemma": "βασιλεύω",
       "lemmaTransliteration": "basileyō",
       "partOfSpeech": "Conforme MorphGNT 6.12",
-      "morphologyCode": "3FAI-P--",
-      "morphology": "MorphGNT 6.12: V- 3FAI-P--",
+      "morphologyCode": "3PAI-P--",
+      "morphology": "Presente do indicativo ativo, 3ª pessoa plural (correção editorial da marcação 3FAI-P-- do MorphGNT para a forma escrita βασιλεύουσιν).",
       "meanings": "Sentido lexical de referência: reinar. Acepções e exemplos adicionais sujeitos a revisão editorial.",
       "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
       "occurrencesExamples": [
@@ -279,7 +280,8 @@ export const apocalipse5v10 = {
         "clauseId": "AP.5.10",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "morphgntOriginalMorphologyCode": "3FAI-P--"
     },
     {
       "id": "ap5-10-12",
