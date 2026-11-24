@@ -24,10 +24,22 @@ jobs:
         id: auditoria
         continue-on-error: true
         run: node scripts/auditar-apocalipse.mjs
+      - name: Auditar Apocalipse 5 e concordancias canonicas
+        id: auditoria5
+        continue-on-error: true
+        run: node scripts/auditar-apocalipse5.mjs
       - name: Compilar Astro
         id: build
         continue-on-error: true
         run: npm run build
+      - name: Verificar as 15 rotas de Apocalipse 5
+        id: rotas5
+        continue-on-error: true
+        run: |
+          test -s dist/comentarios/apocalipse/capitulo-5/index.html
+          for v in $(seq 1 14); do
+            test -s "dist/comentarios/apocalipse/capitulo-5/versiculo-$v/index.html"
+          done
       - name: Anexar relatorio
         if: always()
         uses: actions/upload-artifact@v4
@@ -36,5 +48,5 @@ jobs:
           path: audit-results/apocalipse-1-4.json
           if-no-files-found: warn
       - name: Falhar quando auditoria ou build falhar
-        if: steps.auditoria.outcome == 'failure' || steps.build.outcome == 'failure'
+        if: steps.auditoria.outcome == 'failure' || steps.auditoria5.outcome == 'failure' || steps.build.outcome == 'failure' || steps.rotas5.outcome == 'failure'
         run: exit 1

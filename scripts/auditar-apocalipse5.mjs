@@ -7,6 +7,7 @@ const root=resolve(fileURLToPath(new URL('..',import.meta.url)));
 const read=async(path)=>readFile(join(root,path),'utf8');
 const failures=[],warnings=[],ids=new Set(),strongs=new Set();
 const lex=JSON.parse(await read('src/data/lexico-grego/apocalipse-5-1-14.json'));
+const expectedCounts=[18,18,20,14,29,37,12,31,34,14,26,24,50,12];
 let tokens=0;
 for(let n=1;n<=14;n++){
   const source=await read('src/data/texto-original/apocalipse/apocalipse-5-'+n+'.ts');
@@ -15,8 +16,13 @@ for(let n=1;n<=14;n++){
   const d=JSON.parse(match[1]);
   if(d.chapter!==5||d.verse!==n||d.reference!=='Apocalipse 5:'+n)failures.push('Identificação errada em 5:'+n);
   if(!d.words?.length)failures.push('Sem palavras em 5:'+n);
+  if(d.words?.length!==expectedCounts[n-1])failures.push('Contagem de tokens incorreta em 5:'+n);
   if(!d.syntacticNotes?.length)failures.push('Sem sintaxe em 5:'+n);
   if(!d.translation||!d.exegeticalNotes?.length)failures.push('Conteúdo editorial incompleto em 5:'+n);
+  if(n===10){
+    const form=d.words.find(w=>w.greek==='βασιλεύουσιν');
+    if(!form || form.morphologyCode!=='3PAI-P--' || form.morphgntOriginalMorphologyCode!=='3FAI-P--')failures.push('Ap 5:10: forma verbal não documentada corretamente');
+  }
   for(const w of d.words||[]){
     tokens++;
     if(ids.has(w.id))failures.push('ID duplicado '+w.id);ids.add(w.id);
