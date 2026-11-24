@@ -8,7 +8,7 @@ export const apocalipse6v6 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E ouvi como uma voz no meio dos quatro seres viventes: Uma medida de trigo por um denário e três medidas de cevada por um denário! Não prejudiques o azeite nem o vinho.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "A nota não afirma ausência de variantes; nenhuma variante específica recebeu aqui identificação manuscrita independentemente colacionada.",
+  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
   "syntacticNotes": [
     "χοῖνιξ designa medida de cereal e o genitivo δηναρίου o preço; μὴ ἀδικήσῃς é proibição com aoristo subjuntivo."
   ],
@@ -68,7 +68,7 @@ export const apocalipse6v6 = {
       "id": "ap6-6-3",
       "shortMorph": "CONJ",
       "greek": "ὡς",
-      "transliteration": "ōs",
+      "transliteration": "hōs",
       "gloss": "como",
       "strong": "G5613",
       "lemma": "ὡς",
@@ -213,7 +213,7 @@ export const apocalipse6v6 = {
       "shortMorph": "N-GPN",
       "greek": "ζῴων",
       "transliteration": "zōōn",
-      "gloss": "ser vivente",
+      "gloss": "seres viventes",
       "strong": "G2226",
       "lemma": "ζῷον",
       "lemmaTransliteration": "zōon",
