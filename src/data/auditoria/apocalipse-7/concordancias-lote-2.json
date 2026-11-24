@@ -1,5 +1,5 @@
 {
-  "scope": "Lote 2, sublote A: Atos, Romanos, 1–2 Coríntios",
+  "scope": "Lote 2, sublotes A e B: Atos até 1 Tessalonicenses",
   "complete": false,
   "batchComplete": false,
   "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7",
@@ -31,6 +31,41 @@
       "rows": 4473,
       "first": "080101",
       "last": "081313"
+    },
+    {
+      "book": "Gl",
+      "blob": "b6ba67c907b35700e32a8fa00c0b30328472a992",
+      "rows": 2226,
+      "first": "090101",
+      "last": "090618"
+    },
+    {
+      "book": "Ef",
+      "blob": "c506f4c4933b0c202f07742ca54aad26ff5495bc",
+      "rows": 2416,
+      "first": "100101",
+      "last": "100624"
+    },
+    {
+      "book": "Fp",
+      "blob": "0dde9e397d8e0c8384eab85ca1f61b38b37a6272",
+      "rows": 1626,
+      "first": "110101",
+      "last": "110423"
+    },
+    {
+      "book": "Cl",
+      "blob": "8cdbc8e44370e7ffa2aa92419e2dd2ccaf40cdd2",
+      "rows": 1580,
+      "first": "120101",
+      "last": "120418"
+    },
+    {
+      "book": "1Ts",
+      "blob": "ced6898c215029bc8460c23d1b1600d3fd6f5243",
+      "rows": 1473,
+      "first": "130101",
+      "last": "130528"
     }
   ],
   "entries": {
@@ -81,15 +116,18 @@
       "references": []
     },
     "σφραγίζω": {
-      "tokenCount": 2,
-      "verseCount": 2,
+      "tokenCount": 4,
+      "verseCount": 4,
       "bookDistribution": {
         "Rm": 1,
-        "2Co": 1
+        "2Co": 1,
+        "Ef": 2
       },
       "references": [
         "Rm 15:28",
-        "2Co 1:22"
+        "2Co 1:22",
+        "Ef 1:13",
+        "Ef 4:30"
       ]
     },
     "μέτωπον": {
@@ -217,15 +255,17 @@
       ]
     },
     "Βενιαμίν": {
-      "tokenCount": 2,
-      "verseCount": 2,
+      "tokenCount": 3,
+      "verseCount": 3,
       "bookDistribution": {
         "At": 1,
-        "Rm": 1
+        "Rm": 1,
+        "Fp": 1
       },
       "references": [
         "At 13:21",
-        "Rm 11:1"
+        "Rm 11:1",
+        "Fp 3:5"
       ]
     },
     "ὄχλος": {
@@ -272,12 +312,15 @@
       "references": []
     },
     "σωτηρία": {
-      "tokenCount": 15,
-      "verseCount": 14,
+      "tokenCount": 21,
+      "verseCount": 20,
       "bookDistribution": {
         "At": 6,
         "Rm": 5,
-        "2Co": 4
+        "2Co": 4,
+        "Ef": 1,
+        "Fp": 3,
+        "1Ts": 2
       },
       "references": [
         "At 4:12",
@@ -293,14 +336,21 @@
         "Rm 13:11",
         "2Co 1:6",
         "2Co 6:2",
-        "2Co 7:10"
+        "2Co 7:10",
+        "Ef 1:13",
+        "Fp 1:19",
+        "Fp 1:28",
+        "Fp 2:12",
+        "1Ts 5:8",
+        "1Ts 5:9"
       ]
     },
     "ἀποκρίνομαι": {
-      "tokenCount": 20,
-      "verseCount": 20,
+      "tokenCount": 21,
+      "verseCount": 21,
       "bookDistribution": {
-        "At": 20
+        "At": 20,
+        "Cl": 1
       },
       "references": [
         "At 3:12",
@@ -322,7 +372,8 @@
         "At 25:4",
         "At 25:9",
         "At 25:12",
-        "At 25:16"
+        "At 25:16",
+        "Cl 4:6"
       ]
     },
     "πλύνω": {
@@ -338,11 +389,12 @@
       "references": []
     },
     "λατρεύω": {
-      "tokenCount": 7,
-      "verseCount": 7,
+      "tokenCount": 8,
+      "verseCount": 8,
       "bookDistribution": {
         "At": 5,
-        "Rm": 2
+        "Rm": 2,
+        "Fp": 1
       },
       "references": [
         "At 7:7",
@@ -351,7 +403,8 @@
         "At 26:7",
         "At 27:23",
         "Rm 1:9",
-        "Rm 1:25"
+        "Rm 1:25",
+        "Fp 3:3"
       ]
     },
     "σκηνόω": {
@@ -361,17 +414,19 @@
       "references": []
     },
     "πεινάω": {
-      "tokenCount": 4,
-      "verseCount": 4,
+      "tokenCount": 5,
+      "verseCount": 5,
       "bookDistribution": {
         "Rm": 1,
-        "1Co": 3
+        "1Co": 3,
+        "Fp": 1
       },
       "references": [
         "Rm 12:20",
         "1Co 4:11",
         "1Co 11:21",
-        "1Co 11:34"
+        "1Co 11:34",
+        "Fp 4:12"
       ]
     },
     "διψάω": {
