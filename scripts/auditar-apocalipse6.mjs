@@ -12,6 +12,12 @@ for(let n=1;n<=17;n++){
  if(d.chapter!==6||d.verse!==n||d.reference!=='Apocalipse 6:'+n)failures.push('Referência incorreta '+n);
  if(d.words.length!==expected[n-1])failures.push('Quantidade incorreta '+n+' '+d.words.length);
  if(!d.translation||!d.syntacticNotes?.length||!d.exegeticalNotes?.length||!d.textualNotes)failures.push('Notas ausentes '+n);
+ if(!lex[d.words[0]?.strong])failures.push('firstLexicon ausente em 6:'+n);
+ const component=fs.readFileSync('src/components/TextoOriginalApocalipse6v'+n+'.astro','utf8');
+ if(!component.includes('data-original-apocalipse-6-'+n)||!component.includes('apocalipse-6-1-17.json'))failures.push('Componente desatualizado '+n);
+ for(const cl of ['original-word','strong-number','word-transliteration','word-greek','word-gloss','word-morph','lexicon-card','concordance-panel']){
+  if(!component.includes(cl))failures.push('Camada interlinear ausente '+n+': '+cl);
+ }
  for(const w of d.words){
   count++;
   if(tokens.has(w.id))failures.push('ID duplicado '+w.id);tokens.add(w.id);
@@ -28,6 +34,10 @@ if((chapter.match(/"number":\s*\d+/g)||[]).length!==17)failures.push('Cards não
 if(!chapter.includes('APOCALIPSE 6:'))failures.push('Rótulo incorreto');
 if(!route.includes('length: 17')||!route.includes('length:17')||!route.includes('number < 17'))failures.push('Seletor ou getStaticPaths inválido');
 if(!route.includes('TextoOriginalApocalipse6v17'))failures.push('Import 17 ausente');
+const css=fs.readFileSync('src/styles/apocalipse-lexicon.css','utf8');
+const wrap=css.match(/\.interlinear-words\s*\{[^}]*\}/)?.[0]||'';
+if(!wrap.includes('flex-wrap: wrap')||!wrap.includes('display: flex')||!wrap.includes('width: 100%'))failures.push('CSS interlinear sem wrap');
+if(/overflow-x:\s*(auto|scroll)|min-width:\s*max-content/.test(wrap))failures.push('Rolagem horizontal indevida no interlinear');
 for(const s of strong){
  const p='public/data/concordancia-grega/'+s+'.json';
  if(!fs.existsSync(p)){failures.push('Concordância ausente '+s);continue}
