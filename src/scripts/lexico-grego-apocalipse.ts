@@ -19,7 +19,7 @@ export function transliterateGreekSnippet(greek:string):string{
    const first=chunk[0],base=first.toLowerCase(),roman=m[base];
    if(!roman)return first==='᾽'||first==='’'?"'":first;
    const rough=chunk.includes('\u0314');
-   const result=(rough?(base==='ρ'?'r':'h'):'')+roman;
+   const result=rough&&base==='ρ'?'rh':(rough?'h':'')+roman;
    return first===first.toUpperCase()?result[0].toUpperCase()+result.slice(1):result;
  }).join('').replace(/[᾽’ʼ]/gu,"'");
 }
