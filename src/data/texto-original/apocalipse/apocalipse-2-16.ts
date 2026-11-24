@@ -8,7 +8,7 @@ export const apocalipse2v16 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Arrepende-te, portanto! Do contrário, venho a ti sem demora e lutarei contra eles com a espada da minha boca.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "μετανόησον é imperativo aoristo ativo, segunda pessoa singular. πολεμήσω está no futuro ativo indicativo, primeira pessoa singular; a guerra é contra os grupos indicados no contexto, representada pela espada que procede da boca de Cristo (1:16; 2:12).\n\n[Revisão acadêmica complementar] μετανόησον é dirigido à comunidade singular; πολεμήσω μετ’ αὐτῶν desloca o alvo do juízo ao grupo plural; esse contraste pronominal exige explicação.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O chamado ao arrependimento antecede a ameaça de julgamento.",
     "A espada da boca é linguagem de conflito e autoridade, não incentivo a violência humana."
@@ -41,7 +41,7 @@ export const apocalipse2v16 = {
     {
       "id": "ap2-16-2",
       "shortMorph": "C-",
-      "greek": "οὖν·",
+      "greek": "οὖν",
       "transliteration": "oun",
       "gloss": "portanto",
       "strong": "G3767",
@@ -60,7 +60,8 @@ export const apocalipse2v16 = {
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "C-"
+      "morphgntPos": "C-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap2-16-3",
@@ -113,7 +114,7 @@ export const apocalipse2v16 = {
     {
       "id": "ap2-16-5",
       "shortMorph": "D-",
-      "greek": "μή,",
+      "greek": "μή",
       "transliteration": "mē",
       "gloss": "não",
       "strong": "G3361",
@@ -132,7 +133,8 @@ export const apocalipse2v16 = {
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "D-"
+      "morphgntPos": "D-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-16-6",
@@ -185,7 +187,7 @@ export const apocalipse2v16 = {
     {
       "id": "ap2-16-8",
       "shortMorph": "D-",
-      "greek": "ταχύ,",
+      "greek": "ταχύ",
       "transliteration": "tachy",
       "gloss": "sem demora",
       "strong": "G5035",
@@ -204,7 +206,8 @@ export const apocalipse2v16 = {
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "D-"
+      "morphgntPos": "D-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-16-9",
@@ -258,7 +261,7 @@ export const apocalipse2v16 = {
       "id": "ap2-16-11",
       "shortMorph": "P-",
       "greek": "μετ’",
-      "transliteration": "met",
+      "transliteration": "met'",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",
@@ -283,7 +286,7 @@ export const apocalipse2v16 = {
       "shortMorph": "PPro-GPM",
       "greek": "αὐτῶν",
       "transliteration": "autōn",
-      "gloss": "dele",
+      "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -331,7 +334,7 @@ export const apocalipse2v16 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "na/à",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -425,9 +428,9 @@ export const apocalipse2v16 = {
     {
       "id": "ap2-16-18",
       "shortMorph": "PPro-GS-",
-      "greek": "μου.",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -444,7 +447,12 @@ export const apocalipse2v16 = {
         "clauseId": "AP.2.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "μετανόησον é imperativo aoristo ativo, segunda pessoa singular. πολεμήσω está no futuro ativo indicativo, primeira pessoa singular; a guerra é contra os grupos indicados no contexto, representada pela espada que procede da boca de Cristo (1:16; 2:12).",
+    "μετανόησον é dirigido à comunidade singular; πολεμήσω μετ’ αὐτῶν desloca o alvo do juízo ao grupo plural; esse contraste pronominal exige explicação."
   ]
 } as const;

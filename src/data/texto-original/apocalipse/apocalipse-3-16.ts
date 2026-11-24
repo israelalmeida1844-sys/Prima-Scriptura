@@ -8,15 +8,15 @@ export const apocalipse3v16 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Assim, porque és morno e não és quente nem frio, estou para vomitar-te da minha boca.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa."
+    "A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual."
   ],
   "words": [
     {
       "id": "ap3-16-1",
       "shortMorph": "D- --------",
-      "greek": "οὕτως,",
+      "greek": "οὕτως",
       "transliteration": "houtōs",
       "gloss": "assim",
       "strong": "G3779",
@@ -26,16 +26,17 @@ export const apocalipse3v16 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "οὕτως é advérbio de modo; vincula os seguidores dos nicolaítas à comparação anterior.",
-      "explanation": "Forma «οὕτως,» do lema «οὕτω(ς)» (Strong G3779): Advérbio . Glosa contextual de apoio: «assim». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "D-"
+      "morphgntPos": "D-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-16-2",
@@ -50,12 +51,12 @@ export const apocalipse3v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "Forma «ὅτι» do lema «ὅτι» (Strong G3754): Conjunção . Glosa contextual de apoio: «que». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -74,12 +75,12 @@ export const apocalipse3v16 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "morno",
-      "explanation": "Forma «χλιαρὸς» do lema «χλιαρός» (Strong G5513): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «morno». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -90,7 +91,7 @@ export const apocalipse3v16 = {
       "shortMorph": "V- 2PAI-S--",
       "greek": "εἶ",
       "transliteration": "ei",
-      "gloss": "ser",
+      "gloss": "és",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -98,7 +99,7 @@ export const apocalipse3v16 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «εἶ» do lema «εἰμί» (Strong G1510): Verbo presente, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «ser». Predicado verbal. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
@@ -114,7 +115,7 @@ export const apocalipse3v16 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -122,12 +123,12 @@ export const apocalipse3v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -146,12 +147,12 @@ export const apocalipse3v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "nem",
-      "explanation": "Forma «οὔτε» do lema «οὔτε» (Strong G3777): Conjunção . Glosa contextual de apoio: «nem». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -170,12 +171,12 @@ export const apocalipse3v16 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "quente",
-      "explanation": "Forma «ζεστὸς» do lema «ζεστός» (Strong G2200): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «quente». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -194,12 +195,12 @@ export const apocalipse3v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "nem",
-      "explanation": "Forma «οὔτε» do lema «οὔτε» (Strong G3777): Conjunção . Glosa contextual de apoio: «nem». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -208,7 +209,7 @@ export const apocalipse3v16 = {
     {
       "id": "ap3-16-9",
       "shortMorph": "A- ----NSM-",
-      "greek": "ψυχρός,",
+      "greek": "ψυχρός",
       "transliteration": "psychros",
       "gloss": "frio",
       "strong": "G5593",
@@ -218,16 +219,17 @@ export const apocalipse3v16 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "frio",
-      "explanation": "Forma «ψυχρός,» do lema «ψυχρός» (Strong G5593): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «frio». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-16-10",
@@ -242,7 +244,7 @@ export const apocalipse3v16 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "estar para; ser iminente",
-      "explanation": "Forma «μέλλω» do lema «μέλλω» (Strong G3195): Verbo presente, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «hão de». Predicado verbal. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
@@ -266,12 +268,12 @@ export const apocalipse3v16 = {
       "morphologyCode": "----AS--",
       "morphology": "Pronome acusativo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σε» do lema «σύ» (Strong G4771): Pronome acusativo singular. Glosa contextual de apoio: «tu». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -290,7 +292,7 @@ export const apocalipse3v16 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo aoristo, voz ativa, infinitivo",
       "meanings": "vomitar",
-      "explanation": "Forma «ἐμέσαι» do lema «ἐμέω» (Strong G1692): Verbo aoristo, voz ativa, infinitivo. Glosa contextual de apoio: «vomitar». Predicado verbal. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
@@ -314,12 +316,12 @@ export const apocalipse3v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "de; para fora de",
-      "explanation": "Forma «ἐκ» do lema «ἐκ» (Strong G1537): Preposição . Glosa contextual de apoio: «de». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -330,7 +332,7 @@ export const apocalipse3v16 = {
       "shortMorph": "RA ----GSN-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -338,7 +340,7 @@ export const apocalipse3v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
@@ -362,7 +364,7 @@ export const apocalipse3v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "boca",
-      "explanation": "Forma «στόματός» do lema «στόμα» (Strong G4750): Substantivo genitivo singular neutro. Glosa contextual de apoio: «boca». Núcleo nominal. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
@@ -376,9 +378,9 @@ export const apocalipse3v16 = {
     {
       "id": "ap3-16-16",
       "shortMorph": "RP ----GS--",
-      "greek": "μου.",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -386,16 +388,20 @@ export const apocalipse3v16 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου.» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário.\n\nExegese: A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual.\n\nCrítica textual: SBLGNT οὔτε ζεστός contra RP οὐ ζεστός, diferença na coordenação negativa.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário."
   ]
 } as const;

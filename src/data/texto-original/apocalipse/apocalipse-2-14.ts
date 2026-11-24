@@ -8,7 +8,7 @@ export const apocalipse2v14 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, algumas coisas contra ti: tens aí os que seguem o ensino de Balaão, que ensinava Balaque a colocar tropeço diante dos filhos de Israel, para comerem alimentos sacrificados a ídolos e praticarem imoralidade sexual.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "διδαχὴν Βαλαάμ retoma Balaão (Nm 25:1–2; 31:16). σκάνδαλον denota armadilha ou ocasião de tropeço; φαγεῖν e πορνεῦσαι são infinitivos aoristos ativos que explicam a transgressão induzida. A forma de Βαλαάμ é indeclinável no uso grego.\n\n[Revisão acadêmica complementar] Βαλαάμ é forma indeclinável, mas sua função depende de διδαχήν. Os infinitivos φαγεῖν e πορνεῦσαι especificam condutas induzidas pela armadilha.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A figura de Balaão funciona como modelo narrativo de indução à idolatria e imoralidade.",
     "O escândalo representa tropeço espiritual diante de Israel, com ecos do Pentateuco."
@@ -113,7 +113,7 @@ export const apocalipse2v14 = {
     {
       "id": "ap2-14-5",
       "shortMorph": "Adj-APN",
-      "greek": "ὀλίγα,",
+      "greek": "ὀλίγα",
       "transliteration": "oliga",
       "gloss": "pouco",
       "strong": "G3641",
@@ -132,7 +132,8 @@ export const apocalipse2v14 = {
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-14-6",
@@ -281,7 +282,7 @@ export const apocalipse2v14 = {
     {
       "id": "ap2-14-12",
       "shortMorph": "N-GSM",
-      "greek": "Βαλαάμ,",
+      "greek": "Βαλαάμ",
       "transliteration": "Balaam",
       "gloss": "Balaão",
       "strong": "G903",
@@ -300,7 +301,8 @@ export const apocalipse2v14 = {
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-14-13",
@@ -475,7 +477,7 @@ export const apocalipse2v14 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -521,7 +523,7 @@ export const apocalipse2v14 = {
     {
       "id": "ap2-14-22",
       "shortMorph": "N-GSM",
-      "greek": "Ἰσραήλ,",
+      "greek": "Ἰσραήλ",
       "transliteration": "Israēl",
       "gloss": "Israel",
       "strong": "G2474",
@@ -540,7 +542,8 @@ export const apocalipse2v14 = {
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-14-23",
@@ -617,7 +620,7 @@ export const apocalipse2v14 = {
     {
       "id": "ap2-14-26",
       "shortMorph": "V-AAN",
-      "greek": "πορνεῦσαι·",
+      "greek": "πορνεῦσαι",
       "transliteration": "porneusai",
       "gloss": "praticar imoralidade sexual",
       "strong": "G4203",
@@ -636,7 +639,12 @@ export const apocalipse2v14 = {
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     }
+  ],
+  "syntacticNotes": [
+    "διδαχὴν Βαλαάμ retoma Balaão (Nm 25:1–2; 31:16). σκάνδαλον denota armadilha ou ocasião de tropeço; φαγεῖν e πορνεῦσαι são infinitivos aoristos ativos que explicam a transgressão induzida. A forma de Βαλαάμ é indeclinável no uso grego.",
+    "Βαλαάμ é forma indeclinável, mas sua função depende de διδαχήν. Os infinitivos φαγεῖν e πορνεῦσαι especificam condutas induzidas pela armadilha."
   ]
 } as const;

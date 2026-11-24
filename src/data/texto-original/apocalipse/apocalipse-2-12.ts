@@ -8,7 +8,7 @@ export const apocalipse2v12 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Pérgamo escreve: Assim diz aquele que tem a espada longa de dois gumes, afiada:",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὁ ἔχων é particípio presente ativo nominativo masculino singular; os adjetivos τὴν δίστομον e τὴν ὀξεῖαν, ambos acusativos femininos singulares, qualificam ῥομφαίαν e retomam Ap 1:16.\n\n[Revisão acadêmica complementar] ὁ ἔχων está substantivado; τὴν δίστομον e τὴν ὀξεῖαν são modificadores adjetivais de ῥομφαίαν, não objetos independentes.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A abertura da carta a Pérgamo destaca a espada de Cristo.",
     "O símbolo já aparece na visão de Ap 1:16."
@@ -185,7 +185,7 @@ export const apocalipse2v12 = {
     {
       "id": "ap2-12-8",
       "shortMorph": "V-AAD-2S",
-      "greek": "γράψον·",
+      "greek": "γράψον",
       "transliteration": "grapson",
       "gloss": "escreve",
       "strong": "G1125",
@@ -204,7 +204,8 @@ export const apocalipse2v12 = {
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap2-12-9",
@@ -425,7 +426,7 @@ export const apocalipse2v12 = {
     {
       "id": "ap2-12-18",
       "shortMorph": "Adj-ASF",
-      "greek": "ὀξεῖαν·",
+      "greek": "ὀξεῖαν",
       "transliteration": "oxeian",
       "gloss": "afiada",
       "strong": "G3691",
@@ -444,7 +445,12 @@ export const apocalipse2v12 = {
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "·"
     }
+  ],
+  "syntacticNotes": [
+    "ὁ ἔχων é particípio presente ativo nominativo masculino singular; os adjetivos τὴν δίστομον e τὴν ὀξεῖαν, ambos acusativos femininos singulares, qualificam ῥομφαίαν e retomam Ap 1:16.",
+    "ὁ ἔχων está substantivado; τὴν δίστομον e τὴν ὀξεῖαν são modificadores adjetivais de ῥομφαίαν, não objetos independentes."
   ]
 } as const;

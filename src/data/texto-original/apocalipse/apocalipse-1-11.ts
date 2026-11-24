@@ -8,7 +8,7 @@ export const apocalipse1v11 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "que dizia: «O que você vê, escreva em um livro e envie às sete igrejas: a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia».",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "λεγούσης é particípio presente ativo genitivo feminino singular e concorda formalmente com σάλπιγγος («trombeta»), genitivo feminino singular que encerra Ap 1:10, não com φωνὴν («voz»), que está no acusativo. Semanticamente, a comparação descreve a voz que transmite a mensagem, mas a concordância gramatical faz parte da construção «como [a de] uma trombeta que dizia». Após λεγούσης, segue Ὃ βλέπεις γράψον. A interpolação do Textus Receptus «Eu sou o Alfa e o Ômega, o Primeiro e o Último» não integra o SBLGNT.\n\n[Revisão acadêmica complementar] λεγούσης concorda formalmente com σάλπιγγος em 1:10; o limite de versículo não interrompe a sintaxe. A lista dos sete destinatários requer preservação dos topônimos gregos e respectivos casos.",
+  "textualNotes": "Comparação de edições: o SBLGNT apresenta λεγούσης· Ὃ βλέπεις γράψον; o Textus Receptus de Scrivener (1894) intercala Ἐγώ εἰμι τὸ Α καὶ τὸ Ω, ὁ πρῶτος καὶ ὁ ἔσχατος antes da ordem de escrever e acrescenta ταῖς ἐν Ἀσίᾳ na identificação das igrejas. O texto interlinear preserva o SBLGNT. Esta comparação de edições não substitui a colação do aparato manuscrito.",
   "exegeticalNotes": [
     "O texto vincula formalmente λεγούσης à comparação com a trombeta (σάλπιγγος); o leitor percebe a voz que fala por meio da imagem auditiva.",
     "O mandato «escreve o que vês» introduz as mensagens destinadas às sete igrejas da Ásia."
@@ -17,7 +17,7 @@ export const apocalipse1v11 = {
     {
       "id": "ap1-11-1",
       "shortMorph": "V-PAP-GSF",
-      "greek": "λεγούσης·",
+      "greek": "λεγούσης",
       "transliteration": "legousēs",
       "gloss": "que dizia",
       "strong": "G3004",
@@ -36,7 +36,8 @@ export const apocalipse1v11 = {
         "clauseId": "AP.1.11.C1",
         "governedBy": "σάλπιγγος (Ap 1:10)"
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-11-2",
@@ -257,7 +258,7 @@ export const apocalipse1v11 = {
     {
       "id": "ap1-11-11",
       "shortMorph": "N-DPF",
-      "greek": "ἐκκλησίαις,",
+      "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
       "gloss": "igreja",
       "strong": "G1577",
@@ -276,7 +277,8 @@ export const apocalipse1v11 = {
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-11-12",
@@ -737,7 +739,7 @@ export const apocalipse1v11 = {
     {
       "id": "ap1-11-31",
       "shortMorph": "N-ASF",
-      "greek": "Λαοδίκειαν.",
+      "greek": "Λαοδίκειαν",
       "transliteration": "Laodikeian",
       "gloss": "Laodiceia",
       "strong": "G2993",
@@ -756,7 +758,12 @@ export const apocalipse1v11 = {
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "λεγούσης concorda formalmente com σάλπιγγος em 1:10; o limite de versículo não interrompe a sintaxe. A lista dos sete destinatários requer preservação dos topônimos gregos e respectivos casos.",
+    "λεγούσης é particípio presente ativo genitivo feminino singular, formalmente concordante com σάλπιγγος (Ap 1:10); a expressão descreve a voz comparada ao som de uma trombeta. A posição de λεγούσης no início de 1:11 reflete a divisão moderna dos versículos, não uma nova frase sintática independente."
   ]
 } as const;

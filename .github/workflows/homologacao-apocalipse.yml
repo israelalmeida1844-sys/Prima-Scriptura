@@ -1,11 +1,6 @@
 name: Homologacao Apocalipse capitulos 1 e 2 completos
 
 on:
-  push:
-    branches:
-      - rascunho/apocalipse
-    paths-ignore:
-      - '.github/reports/**'
   workflow_dispatch:
 
 concurrency:

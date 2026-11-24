@@ -8,9 +8,9 @@ export const apocalipse3v4 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Mas tens uns poucos em Sardes, pessoas que não contaminaram suas vestes; elas andarão comigo de branco, porque são dignas.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP)."
+    "A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora."
   ],
   "words": [
     {
@@ -26,12 +26,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ἀλλά introduz contraste com o elogio antecedente; em Ap 2:4 inicia a censura dirigida à igreja.",
-      "explanation": "Forma «ἀλλὰ» do lema «ἀλλά» (Strong G235): Conjunção . Glosa contextual de apoio: «mas». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -50,7 +50,7 @@ export const apocalipse3v4 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter; segurar",
-      "explanation": "Forma «ἔχεις» do lema «ἔχω» (Strong G2192): Verbo presente, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «tinha». Predicado verbal. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
@@ -74,12 +74,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "ὀλίγα é adjetivo neutro plural substantivado, objeto de ἔχω: «algumas coisas» contra a comunidade.",
-      "explanation": "Forma «ὀλίγα» do lema «ὀλίγος» (Strong G3641): Adjetivo acusativo plural neutro. Glosa contextual de apoio: «pouco». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -98,7 +98,7 @@ export const apocalipse3v4 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου.",
-      "explanation": "Forma «ὀνόματα» do lema «ὄνομα» (Strong G3686): Substantivo acusativo plural neutro. Glosa contextual de apoio: «nome». Núcleo nominal. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
@@ -114,7 +114,7 @@ export const apocalipse3v4 = {
       "shortMorph": "P- --------",
       "greek": "ἐν",
       "transliteration": "en",
-      "gloss": "Em, dentro de, em meio a (uso adverbial ou temporal)",
+      "gloss": "em",
       "strong": "G1722",
       "lemma": "ἐν",
       "lemmaTransliteration": "en",
@@ -122,12 +122,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Forma «ἐν» do lema «ἐν» (Strong G1722): Preposição . Glosa contextual de apoio: «Em, dentro de, em meio a (uso adverbial ou temporal)». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "O valor da preposição ἐν é determinado pelo dativo e pelo contexto da construção.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -146,7 +146,7 @@ export const apocalipse3v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "Sardes",
-      "explanation": "Forma «Σάρδεσιν» do lema «Σάρδεις» (Strong G4554): Substantivo dativo plural feminino. Glosa contextual de apoio: «Sardes». Núcleo nominal. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
@@ -162,7 +162,7 @@ export const apocalipse3v4 = {
       "shortMorph": "RR ----NPN-",
       "greek": "ἃ",
       "transliteration": "ha",
-      "gloss": "Pronome relativo anafórico (o qual, a qual, que)",
+      "gloss": "pronome relativo anafórico (o qual",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -170,12 +170,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "Forma «ἃ» do lema «ὅς» (Strong G3739): Pronome relativo nominativo plural neutro. Glosa contextual de apoio: «Pronome relativo anafórico (o qual, a qual, que)». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -194,12 +194,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
-      "explanation": "Forma «οὐκ» do lema «οὐ» (Strong G3756): Advérbio . Glosa contextual de apoio: «não». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -218,7 +218,7 @@ export const apocalipse3v4 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo aoristo, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "contaminar",
-      "explanation": "Forma «ἐμόλυναν» do lema «μολύνω» (Strong G3435): Verbo aoristo, voz ativa, indicativo, 3ª pessoa plural. Glosa contextual de apoio: «contaminar». Predicado verbal. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
@@ -234,7 +234,7 @@ export const apocalipse3v4 = {
       "shortMorph": "RA ----APN-",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -242,7 +242,7 @@ export const apocalipse3v4 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὰ» do lema «ὁ» (Strong G3588): Artigo definido acusativo plural neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
@@ -266,7 +266,7 @@ export const apocalipse3v4 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "veste",
-      "explanation": "Forma «ἱμάτια» do lema «ἱμάτιον» (Strong G2440): Substantivo acusativo plural neutro. Glosa contextual de apoio: «veste». Núcleo nominal. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
@@ -280,9 +280,9 @@ export const apocalipse3v4 = {
     {
       "id": "ap3-4-12",
       "shortMorph": "RP ----GPM-",
-      "greek": "αὐτῶν,",
+      "greek": "αὐτῶν",
       "transliteration": "autōn",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -290,23 +290,24 @@ export const apocalipse3v4 = {
       "morphologyCode": "----GPM-",
       "morphology": "Pronome genitivo plural masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτῶν,» do lema «αὐτός» (Strong G846): Pronome genitivo plural masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-4-13",
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -314,12 +315,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -338,7 +339,7 @@ export const apocalipse3v4 = {
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "περιπατέω pode denotar caminhada concreta ou conduta. Em Ap 2:1, ὁ περιπατῶν é imagem de presença ativa entre os sete candelabros.",
-      "explanation": "Forma «περιπατήσουσιν» do lema «περιπατέω» (Strong G4043): Verbo futuro, voz ativa, indicativo, 3ª pessoa plural. Glosa contextual de apoio: «andar, caminhar continuamente». Predicado verbal. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
@@ -353,7 +354,7 @@ export const apocalipse3v4 = {
       "id": "ap3-4-15",
       "shortMorph": "P- --------",
       "greek": "μετ’",
-      "transliteration": "met",
+      "transliteration": "met'",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",
@@ -362,12 +363,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "com; depois de",
-      "explanation": "Forma «μετ’» do lema «μετά» (Strong G3326): Preposição . Glosa contextual de apoio: «com». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -378,7 +379,7 @@ export const apocalipse3v4 = {
       "shortMorph": "RP ----GS--",
       "greek": "ἐμοῦ",
       "transliteration": "emou",
-      "gloss": "eu",
+      "gloss": "de mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -386,12 +387,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «ἐμοῦ» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -402,7 +403,7 @@ export const apocalipse3v4 = {
       "shortMorph": "P- --------",
       "greek": "ἐν",
       "transliteration": "en",
-      "gloss": "Em, dentro de, em meio a (uso adverbial ou temporal)",
+      "gloss": "em",
       "strong": "G1722",
       "lemma": "ἐν",
       "lemmaTransliteration": "en",
@@ -410,12 +411,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Forma «ἐν» do lema «ἐν» (Strong G1722): Preposição . Glosa contextual de apoio: «Em, dentro de, em meio a (uso adverbial ou temporal)». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "O valor da preposição ἐν é determinado pelo dativo e pelo contexto da construção.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -424,7 +425,7 @@ export const apocalipse3v4 = {
     {
       "id": "ap3-4-18",
       "shortMorph": "A- ----DPN-",
-      "greek": "λευκοῖς,",
+      "greek": "λευκοῖς",
       "transliteration": "leukois",
       "gloss": "branco",
       "strong": "G3022",
@@ -434,16 +435,17 @@ export const apocalipse3v4 = {
       "morphologyCode": "----DPN-",
       "morphology": "Adjetivo dativo plural neutro",
       "meanings": "branco",
-      "explanation": "Forma «λευκοῖς,» do lema «λευκός» (Strong G3022): Adjetivo dativo plural neutro. Glosa contextual de apoio: «branco». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-4-19",
@@ -458,12 +460,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "Forma «ὅτι» do lema «ὅτι» (Strong G3754): Conjunção . Glosa contextual de apoio: «que». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -482,12 +484,12 @@ export const apocalipse3v4 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "digno",
-      "explanation": "Forma «ἄξιοί» do lema «ἄξιος» (Strong G514): Adjetivo nominativo plural masculino. Glosa contextual de apoio: «digno». Função a revisar. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -496,9 +498,9 @@ export const apocalipse3v4 = {
     {
       "id": "ap3-4-21",
       "shortMorph": "V- 3PAI-P--",
-      "greek": "εἰσιν.",
+      "greek": "εἰσιν",
       "transliteration": "eisin",
-      "gloss": "ser",
+      "gloss": "são",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -506,7 +508,7 @@ export const apocalipse3v4 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «εἰσιν.» do lema «εἰμί» (Strong G1510): Verbo presente, voz ativa, indicativo, 3ª pessoa plural. Glosa contextual de apoio: «ser». Predicado verbal. ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo.\n\nExegese: A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora.\n\nCrítica textual: SBLGNT ἔχεις ὀλίγα (WH/Treg/NIV), contra ordem ὀλίγα ἔχεις (RP).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:4"
       ],
@@ -515,7 +517,11 @@ export const apocalipse3v4 = {
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo."
   ]
 } as const;

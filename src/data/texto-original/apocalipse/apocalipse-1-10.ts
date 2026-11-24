@@ -8,7 +8,7 @@ export const apocalipse1v10 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Achei-me no Espírito no dia do Senhor e ouvi atrás de mim uma voz forte, semelhante ao som de uma trombeta,",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "κυριακῇ ἡμέρᾳ é expressão dativa («dia pertencente ao Senhor»). O adjetivo κυριακός, isoladamente, não identifica o dia semanal; isso requer análise histórica e intertextual.\n\n[Revisão acadêmica complementar] ἐν πνεύματι pode indicar condição de experiência visionária; κυριακῇ modifica ἡμέρᾳ, mas não resolve por si só qual dia era referido historicamente.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A experiência «no Espírito» introduz a percepção profética sem especificar seu mecanismo.",
     "A expressão «dia do Senhor» requer uma discussão histórica separada de sua interpretação denominacional."
@@ -115,7 +115,7 @@ export const apocalipse1v10 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "na/à",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -161,7 +161,7 @@ export const apocalipse1v10 = {
     {
       "id": "ap1-10-7",
       "shortMorph": "N-DSF",
-      "greek": "ἡμέρᾳ,",
+      "greek": "ἡμέρᾳ",
       "transliteration": "hēmera",
       "gloss": "dia",
       "strong": "G2250",
@@ -180,7 +180,8 @@ export const apocalipse1v10 = {
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-10-8",
@@ -259,7 +260,7 @@ export const apocalipse1v10 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -374,5 +375,9 @@ export const apocalipse1v10 = {
       },
       "morphgntPos": "N-"
     }
+  ],
+  "syntacticNotes": [
+    "κυριακῇ ἡμέρᾳ é expressão dativa («dia pertencente ao Senhor»). O adjetivo κυριακός, isoladamente, não identifica o dia semanal; isso requer análise histórica e intertextual.",
+    "ἐν πνεύματι pode indicar condição de experiência visionária; κυριακῇ modifica ἡμέρᾳ, mas não resolve por si só qual dia era referido historicamente."
   ]
 } as const;

@@ -8,7 +8,7 @@ export const apocalipse2v17 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei do maná escondido; também lhe darei uma pedrinha branca e, sobre a pedrinha, um nome novo escrito, que ninguém conhece, exceto quem o recebe.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Três elementos articulam a promessa ao vencedor: τοῦ μάννα τοῦ κεκρυμμένου (genitivo partitivo do maná escondido); ψῆφον λευκήν (pedrinha branca, possivelmente sinal de absolvição, admissão ou identificação; interpretação incerta); ὄνομα καινὸν γεγραμμένον (novo nome escrito). Não apresentar um único simbolismo histórico como certeza textual.\n\n[Revisão acadêmica complementar] τοῦ μάννα τοῦ κεκρυμμένου é genitivo partitivo; ψῆφος λευκή oferece simbolismo interpretativamente aberto. ὄνομα καινὸν γεγραμμένον associa qualidade e particípio perfeito ao nome.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O maná escondido, a pedra branca e o nome novo formam uma promessa composta.",
     "As interpretações judiciais e sociais para a pedra são propostas, não fatos demonstrados."
@@ -233,7 +233,7 @@ export const apocalipse2v17 = {
     {
       "id": "ap2-17-10",
       "shortMorph": "N-DPF",
-      "greek": "ἐκκλησίαις.",
+      "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
       "gloss": "assembleia",
       "strong": "G1577",
@@ -252,7 +252,8 @@ export const apocalipse2v17 = {
         "clauseId": "AP.2.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     },
     {
       "id": "ap2-17-11",
@@ -307,7 +308,7 @@ export const apocalipse2v17 = {
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "darei",
+      "gloss": "concederei",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -425,7 +426,7 @@ export const apocalipse2v17 = {
     {
       "id": "ap2-17-18",
       "shortMorph": "V-XPP-GSN",
-      "greek": "κεκρυμμένου,",
+      "greek": "κεκρυμμένου",
       "transliteration": "kekrymmenou",
       "gloss": "escondido",
       "strong": "G2928",
@@ -444,7 +445,8 @@ export const apocalipse2v17 = {
         "clauseId": "AP.2.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-17-19",
@@ -475,7 +477,7 @@ export const apocalipse2v17 = {
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "darei",
+      "gloss": "concederei",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -545,7 +547,7 @@ export const apocalipse2v17 = {
     {
       "id": "ap2-17-23",
       "shortMorph": "Adj-ASF",
-      "greek": "λευκήν,",
+      "greek": "λευκήν",
       "transliteration": "leukēn",
       "gloss": "branca",
       "strong": "G3022",
@@ -564,7 +566,8 @@ export const apocalipse2v17 = {
         "clauseId": "AP.2.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-17-24",
@@ -881,7 +884,7 @@ export const apocalipse2v17 = {
     {
       "id": "ap2-17-37",
       "shortMorph": "V-PAP-NSM",
-      "greek": "λαμβάνων.",
+      "greek": "λαμβάνων",
       "transliteration": "lambanōn",
       "gloss": "recebe",
       "strong": "G2983",
@@ -900,7 +903,12 @@ export const apocalipse2v17 = {
         "clauseId": "AP.2.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "Três elementos articulam a promessa ao vencedor: τοῦ μάννα τοῦ κεκρυμμένου (genitivo partitivo do maná escondido); ψῆφον λευκήν (pedrinha branca, possivelmente sinal de absolvição, admissão ou identificação; interpretação incerta); ὄνομα καινὸν γεγραμμένον (novo nome escrito). Não apresentar um único simbolismo histórico como certeza textual.",
+    "τοῦ μάννα τοῦ κεκρυμμένου é genitivo partitivo; ψῆφος λευκή oferece simbolismo interpretativamente aberto. ὄνομα καινὸν γεγραμμένον associa qualidade e particípio perfeito ao nome."
   ]
 } as const;

@@ -1,0 +1,592 @@
+{
+  "source": "SBLGNT/MorphGNT 6.12; análise editorial conservadora sem colação integral de aparato crítico",
+  "chapters": 4,
+  "verses": 82,
+  "tokens": 1908,
+  "changes": {
+    "glosses": 366,
+    "apostrophes": 15,
+    "syntacticRoles": 238,
+    "notes": 82,
+    "explanations": 818
+  },
+  "detail": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "tokens": 28,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "tokens": 13,
+      "grammaticalNotes": 4,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "tokens": 20,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "tokens": 31,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "tokens": 33,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "tokens": 22,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "tokens": 25,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "tokens": 21,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "tokens": 32,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "tokens": 15,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "tokens": 31,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "tokens": 15,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "tokens": 17,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "tokens": 20,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "tokens": 18,
+      "grammaticalNotes": 3,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "tokens": 30,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "tokens": 28,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "tokens": 24,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "tokens": 13,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "tokens": 33,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "tokens": 27,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "tokens": 30,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "tokens": 12,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "tokens": 11,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "tokens": 28,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "tokens": 12,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "tokens": 27,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "tokens": 20,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "tokens": 26,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "tokens": 32,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "tokens": 20,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "tokens": 18,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "tokens": 38,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "tokens": 26,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "tokens": 9,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "tokens": 18,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "tokens": 37,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "tokens": 28,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "tokens": 26,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "tokens": 24,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "tokens": 14,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "tokens": 20,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "tokens": 28,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "tokens": 29,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "tokens": 8,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "tokens": 17,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "tokens": 12,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "tokens": 14,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "tokens": 10,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "tokens": 33,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "tokens": 20,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "tokens": 26,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "tokens": 21,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "tokens": 33,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "tokens": 10,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "tokens": 29,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "tokens": 30,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "tokens": 34,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "tokens": 28,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "tokens": 11,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "tokens": 52,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "tokens": 10,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "tokens": 24,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "tokens": 15,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "tokens": 16,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "tokens": 27,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "tokens": 32,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "tokens": 11,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "tokens": 29,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "tokens": 24,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "tokens": 10,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 1
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "tokens": 33,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "tokens": 16,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "tokens": 17,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 3
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "tokens": 26,
+      "grammaticalNotes": 3,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "tokens": 25,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 3
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "tokens": 25,
+      "grammaticalNotes": 1,
+      "exegeticalNotes": 3
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "tokens": 29,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "tokens": 41,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 3
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "tokens": 22,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "tokens": 29,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 2
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "tokens": 30,
+      "grammaticalNotes": 2,
+      "exegeticalNotes": 3
+    }
+  ],
+  "punctuationMoved": 0,
+  "punctuationModel": "Os sinais finais são armazenados em trailingPunctuation; a forma grega clicável contém apenas o token lexical.",
+  "additionalExegeticalNotes": "Apocalipse 1:3–8 revistos editorialmente"
+}

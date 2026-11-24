@@ -514,3 +514,23 @@
     font-size: 22px;
   }
 }
+
+/* Revisão editorial: capítulos 1–4 */
+.word-greek .greek-form { display: inline; }
+.word-greek .greek-punctuation { display: inline; margin-left: 1px; color: #5e6979; font-weight: 400; }
+.syntactic-panel, .exegetical-panel { margin-top: 18px; padding-top: 16px; border-top: 1px solid #e4e0d8; }
+.syntactic-panel h4, .exegetical-panel h4 { font-family: "Times New Roman",Times,serif; color:#193753; font-size:15px; margin: 0 0 10px; }
+.syntactic-panel ul, .exegetical-panel ul { padding-left: 21px; margin: 0; display:grid; gap: 12px; }
+.syntactic-panel li, .exegetical-panel li { color:#374a60; font-size:14.5px; line-height:1.7; overflow-wrap:anywhere; }
+.syntactic-panel li:empty, .exegetical-panel li:empty { display:none; }
+.textual-criticism-panel { padding:15px 0; background:#fcfbf9; border-radius:8px; }
+.textual-criticism-panel h4 { color:#6b5e4b; }
+.lexical-usage-note { margin: 8px 0 14px; padding: 10px 12px; border-left: 3px solid #b3a28d; color:#43536a; font-size:14px; }
+.lexical-example-reference { margin-bottom: 7px; }
+.lexical-example-greek { margin: 2px 0 8px; font-size:20px; }
+.lexical-example-transliteration { margin: 0 0 10px; font-size:14px; color:#4f6378; font-style:italic; }
+.lexical-example-translation { margin: 0 0 10px; font-size:15px; color:#1c3554; font-style:normal; }
+.example-field-label { display:block; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:#7b8493; margin:0 0 3px; }
+.lexical-example-note:empty, .lexical-sense-definition:empty { display:none; }
+
+.greek-punctuation { pointer-events: none; }

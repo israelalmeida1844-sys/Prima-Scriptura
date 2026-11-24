@@ -8,7 +8,7 @@ export const apocalipse2v5 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Lembra-te, portanto, de onde caíste; arrepende-te e pratica as primeiras obras. Caso contrário, venho a ti e removerei o teu candelabro de seu lugar, se não te arrependeres.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "πέπτωκας é perfeito ativo indicativo de πίπτω (queda com resultado presente). μετανοήσῃς é subjuntivo aoristo ativo em condição com ἐὰν μή.\n\n[Revisão acadêmica complementar] μνημόνευε é imperativo presente; μετανόησον e ποίησον são imperativos aoristos. A consequência da remoção da λυχνία depende da condição ἐὰν μὴ μετανοήσῃς.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "Arrependimento e obras retomadas constituem a resposta exigida.",
     "A remoção do candelabro é imagem de juízo comunitário."
@@ -89,7 +89,7 @@ export const apocalipse2v5 = {
     {
       "id": "ap2-5-4",
       "shortMorph": "V-XAI-2S",
-      "greek": "πέπτωκας,",
+      "greek": "πέπτωκας",
       "transliteration": "peptōkas",
       "gloss": "caíste",
       "strong": "G4098",
@@ -108,7 +108,8 @@ export const apocalipse2v5 = {
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-5-5",
@@ -187,7 +188,7 @@ export const apocalipse2v5 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -257,7 +258,7 @@ export const apocalipse2v5 = {
     {
       "id": "ap2-5-11",
       "shortMorph": "V-AAD-2S",
-      "greek": "ποίησον·",
+      "greek": "ποίησον",
       "transliteration": "poiēson",
       "gloss": "pratica",
       "strong": "G4160",
@@ -276,7 +277,8 @@ export const apocalipse2v5 = {
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap2-5-12",
@@ -329,7 +331,7 @@ export const apocalipse2v5 = {
     {
       "id": "ap2-5-14",
       "shortMorph": "D-",
-      "greek": "μή,",
+      "greek": "μή",
       "transliteration": "mē",
       "gloss": "não",
       "strong": "G3361",
@@ -348,7 +350,8 @@ export const apocalipse2v5 = {
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "D-"
+      "morphgntPos": "D-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-5-15",
@@ -377,7 +380,7 @@ export const apocalipse2v5 = {
     {
       "id": "ap2-5-16",
       "shortMorph": "PPro-DS-",
-      "greek": "σοι,",
+      "greek": "σοι",
       "transliteration": "soi",
       "gloss": "a ti",
       "strong": "G4771",
@@ -396,7 +399,8 @@ export const apocalipse2v5 = {
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-5-17",
@@ -499,7 +503,7 @@ export const apocalipse2v5 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "teu/de ti",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -593,9 +597,9 @@ export const apocalipse2v5 = {
     {
       "id": "ap2-5-25",
       "shortMorph": "PPro-GSF",
-      "greek": "αὐτῆς,",
+      "greek": "αὐτῆς",
       "transliteration": "autēs",
-      "gloss": "dele",
+      "gloss": "dela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -612,7 +616,8 @@ export const apocalipse2v5 = {
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-5-26",
@@ -665,7 +670,7 @@ export const apocalipse2v5 = {
     {
       "id": "ap2-5-28",
       "shortMorph": "V-AAS-2S",
-      "greek": "μετανοήσῃς.",
+      "greek": "μετανοήσῃς",
       "transliteration": "metanoēsēs",
       "gloss": "te arrependas",
       "strong": "G3340",
@@ -684,7 +689,12 @@ export const apocalipse2v5 = {
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "πέπτωκας é perfeito ativo indicativo de πίπτω (queda com resultado presente). μετανοήσῃς é subjuntivo aoristo ativo em condição com ἐὰν μή.",
+    "μνημόνευε é imperativo presente; μετανόησον e ποίησον são imperativos aoristos. A consequência da remoção da λυχνία depende da condição ἐὰν μὴ μετανοήσῃς."
   ]
 } as const;

@@ -8,7 +8,7 @@ export const apocalipse2v21 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Dei-lhe tempo para arrepender-se, mas ela não quer arrepender-se de sua imoralidade sexual.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ἔδωκα é aoristo ativo indicativo, primeira pessoa singular. A sequência ἵνα μετανοήσῃ e οὐ θέλει μετανοῆσαι distingue oportunidade concedida e recusa persistente.\n\n[Revisão acadêmica complementar] ἵνα μετανοήσῃ apresenta a finalidade do tempo concedido; οὐ θέλει μετανοῆσαι indica recusa. A referência à πορνεία deve permanecer contextual, sem reconstrução histórica inventada.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A oferta de tempo para arrependimento antecede a sentença.",
     "O texto distingue a oportunidade oferecida da resistência da personagem."
@@ -137,7 +137,7 @@ export const apocalipse2v21 = {
     {
       "id": "ap2-21-6",
       "shortMorph": "V-AAS-3S",
-      "greek": "μετανοήσῃ,",
+      "greek": "μετανοήσῃ",
       "transliteration": "metanoēsē",
       "gloss": "se arrependa",
       "strong": "G3340",
@@ -156,7 +156,8 @@ export const apocalipse2v21 = {
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-21-7",
@@ -329,9 +330,9 @@ export const apocalipse2v21 = {
     {
       "id": "ap2-21-14",
       "shortMorph": "PPro-GSF",
-      "greek": "αὐτῆς.",
+      "greek": "αὐτῆς",
       "transliteration": "autēs",
-      "gloss": "dele/dela",
+      "gloss": "dela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -348,7 +349,12 @@ export const apocalipse2v21 = {
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "ἔδωκα é aoristo ativo indicativo, primeira pessoa singular. A sequência ἵνα μετανοήσῃ e οὐ θέλει μετανοῆσαι distingue oportunidade concedida e recusa persistente.",
+    "ἵνα μετανοήσῃ apresenta a finalidade do tempo concedido; οὐ θέλει μετανοῆσαι indica recusa. A referência à πορνεία deve permanecer contextual, sem reconstrução histórica inventada."
   ]
 } as const;

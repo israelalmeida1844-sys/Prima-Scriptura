@@ -71,6 +71,7 @@ const base = '/comentarios/apocalipse/capitulo-2/';
         <span class="edition-tag">Edição de avaliação</span>
       </div>
 
+      <p class="verse-picker-heading">Versículos do capítulo</p>
       <nav class="verse-picker" aria-label="Selecionar versículo de Apocalipse capítulo 2">
         {Array.from({length:29},(_,i)=>i+1).map(verse => <a href={base + 'versiculo-' + verse + '/'} aria-current={verse===number ? 'page' : undefined} class:list={{ active: verse===number }}>{verse}</a>)}
       </nav>
@@ -236,4 +237,6 @@ const base = '/comentarios/apocalipse/capitulo-2/';
       text-align: center;
     }
   }
+  .verse-picker-heading { font-family: "Times New Roman", Times, serif; font-size: 15px; font-weight: 700; color: #1c3554; margin: 17px 0 10px; }
+  .verse-picker a[aria-current="page"] { outline: 3px solid #c6a15b; outline-offset: 2px; font-weight: 800; box-shadow: 0 2px 7px #1c355433; }
 </style>

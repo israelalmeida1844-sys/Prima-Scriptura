@@ -8,9 +8,9 @@ export const apocalipse3v14 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Laodiceia escreve: Assim diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica."
+    "Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual."
   ],
   "words": [
     {
@@ -18,7 +18,7 @@ export const apocalipse3v14 = {
       "shortMorph": "C- --------",
       "greek": "Καὶ",
       "transliteration": "Kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -26,12 +26,12 @@ export const apocalipse3v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «Καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -42,7 +42,7 @@ export const apocalipse3v14 = {
       "shortMorph": "RA ----DSM-",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "ao",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -50,7 +50,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῷ» do lema «ὁ» (Strong G3588): Artigo definido dativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -74,7 +74,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
-      "explanation": "Forma «ἀγγέλῳ» do lema «ἄγγελος» (Strong G32): Substantivo dativo singular masculino. Glosa contextual de apoio: «anjo». Núcleo nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -90,7 +90,7 @@ export const apocalipse3v14 = {
       "shortMorph": "RA ----GSF-",
       "greek": "τῆς",
       "transliteration": "tēs",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -98,7 +98,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῆς» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -114,7 +114,7 @@ export const apocalipse3v14 = {
       "shortMorph": "P- --------",
       "greek": "ἐν",
       "transliteration": "en",
-      "gloss": "Em, dentro de, em meio a (uso adverbial ou temporal)",
+      "gloss": "em",
       "strong": "G1722",
       "lemma": "ἐν",
       "lemmaTransliteration": "en",
@@ -122,12 +122,12 @@ export const apocalipse3v14 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Forma «ἐν» do lema «ἐν» (Strong G1722): Preposição . Glosa contextual de apoio: «Em, dentro de, em meio a (uso adverbial ou temporal)». Função a revisar. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O valor da preposição ἐν é determinado pelo dativo e pelo contexto da construção.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -146,7 +146,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Laodiceia",
-      "explanation": "Forma «Λαοδικείᾳ» do lema «Λαοδίκεια» (Strong G2993): Substantivo dativo singular feminino. Glosa contextual de apoio: «Laodiceia». Núcleo nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -170,7 +170,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "assembleia; igreja",
-      "explanation": "Forma «ἐκκλησίας» do lema «ἐκκλησία» (Strong G1577): Substantivo genitivo singular feminino. Glosa contextual de apoio: «igreja». Núcleo nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -184,7 +184,7 @@ export const apocalipse3v14 = {
     {
       "id": "ap3-14-8",
       "shortMorph": "V- 2AAD-S--",
-      "greek": "γράψον·",
+      "greek": "γράψον",
       "transliteration": "grapson",
       "gloss": "escrever",
       "strong": "G1125",
@@ -194,7 +194,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever; registrar",
-      "explanation": "Forma «γράψον·» do lema «γράφω» (Strong G1125): Verbo aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa contextual de apoio: «escrever». Predicado verbal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -203,7 +203,8 @@ export const apocalipse3v14 = {
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap3-14-9",
@@ -218,12 +219,12 @@ export const apocalipse3v14 = {
       "morphologyCode": "----APN-",
       "morphology": "Demonstrativo acusativo plural neutro",
       "meanings": "O demonstrativo neutro plural Τάδε introduz solenemente o oráculo: «estas coisas diz». Não é advérbio por classe morfológica.",
-      "explanation": "Forma «Τάδε» do lema «ὅδε» (Strong G3592): Demonstrativo acusativo plural neutro. Glosa contextual de apoio: «estas coisas». Função a revisar. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -242,7 +243,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer; declarar",
-      "explanation": "Forma «λέγει» do lema «λέγω» (Strong G3004): Verbo presente, voz ativa, indicativo, 3ª pessoa singular. Glosa contextual de apoio: «dizer». Predicado verbal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -258,7 +259,7 @@ export const apocalipse3v14 = {
       "shortMorph": "RA ----NSM-",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -266,7 +267,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -280,7 +281,7 @@ export const apocalipse3v14 = {
     {
       "id": "ap3-14-12",
       "shortMorph": "X- --------",
-      "greek": "Ἀμήν,",
+      "greek": "Ἀμήν",
       "transliteration": "Amēn",
       "gloss": "amém",
       "strong": "G281",
@@ -290,23 +291,24 @@ export const apocalipse3v14 = {
       "morphologyCode": "--------",
       "morphology": "Partícula ",
       "meanings": "amém; assim seja",
-      "explanation": "Forma «Ἀμήν,» do lema «ἀμήν» (Strong G281): Partícula . Glosa contextual de apoio: «amém». Função a revisar. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "X-"
+      "morphgntPos": "X-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-14-13",
       "shortMorph": "RA ----NSM-",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -314,7 +316,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -338,7 +340,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "testemunha",
-      "explanation": "Forma «μάρτυς» do lema «μάρτυς» (Strong G3144): Substantivo nominativo singular masculino. Glosa contextual de apoio: «testemunha». Núcleo nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -354,7 +356,7 @@ export const apocalipse3v14 = {
       "shortMorph": "RA ----NSM-",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -362,7 +364,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -386,12 +388,12 @@ export const apocalipse3v14 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "fiel; digno de confiança",
-      "explanation": "Forma «πιστὸς» do lema «πιστός» (Strong G4103): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «fiel». Função a revisar. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -402,7 +404,7 @@ export const apocalipse3v14 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -410,12 +412,12 @@ export const apocalipse3v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -424,7 +426,7 @@ export const apocalipse3v14 = {
     {
       "id": "ap3-14-18",
       "shortMorph": "A- ----NSM-",
-      "greek": "ἀληθινός,",
+      "greek": "ἀληθινός",
       "transliteration": "alēthinos",
       "gloss": "verdadeiro",
       "strong": "G228",
@@ -434,23 +436,24 @@ export const apocalipse3v14 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "verdadeiro",
-      "explanation": "Forma «ἀληθινός,» do lema «ἀληθινός» (Strong G228): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «verdadeiro». Função a revisar. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-14-19",
       "shortMorph": "RA ----NSF-",
       "greek": "ἡ",
       "transliteration": "hē",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -458,7 +461,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ἡ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -482,7 +485,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "princípio; origem",
-      "explanation": "Forma «ἀρχὴ» do lema «ἀρχή» (Strong G746): Substantivo nominativo singular feminino. Glosa contextual de apoio: «princípio; origem». Núcleo nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -498,7 +501,7 @@ export const apocalipse3v14 = {
       "shortMorph": "RA ----GSF-",
       "greek": "τῆς",
       "transliteration": "tēs",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -506,7 +509,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῆς» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -530,7 +533,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "criação",
-      "explanation": "Forma «κτίσεως» do lema «κτίσις» (Strong G2937): Substantivo genitivo singular feminino. Glosa contextual de apoio: «criação». Núcleo nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -546,7 +549,7 @@ export const apocalipse3v14 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -554,7 +557,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -568,9 +571,9 @@ export const apocalipse3v14 = {
     {
       "id": "ap3-14-24",
       "shortMorph": "N- ----GSM-",
-      "greek": "θεοῦ·",
+      "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "O Deus Supremo, o Criador e Pai de nosso Senhor",
+      "gloss": "o deus supremo",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -578,7 +581,7 @@ export const apocalipse3v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Forma «θεοῦ·» do lema «θεός» (Strong G2316): Substantivo genitivo singular masculino. Glosa contextual de apoio: «O Deus Supremo, o Criador e Pai de nosso Senhor». Núcleo nominal. ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto.\n\nExegese: Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual.\n\nCrítica textual: SBLGNT καὶ ἀληθινός (Treg/NIV/RP) sem segundo artigo, WH acrescenta ὁ; aparatos mais amplos exigem colação específica.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
       ],
@@ -587,7 +590,11 @@ export const apocalipse3v14 = {
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "·"
     }
+  ],
+  "syntacticNotes": [
+    "ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto."
   ]
 } as const;

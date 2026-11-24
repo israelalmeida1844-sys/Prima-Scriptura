@@ -8,7 +8,7 @@ export const apocalipse1v16 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Na mão direita ele segurava sete estrelas; de sua boca saía uma espada afiada de dois gumes, e seu rosto brilhava como o sol em toda a sua força.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "ἔχων é particípio presente ativo nominativo masculino singular, ligado à figura da visão. A espada ῥομφαία δίστομος ὀξεῖα no nominativo é descrita saindo da boca, expressão simbólica de autoridade (cf. Ap 19:15,21).\n\n[Revisão acadêmica complementar] ἔχων, particípio nominativo, apresenta uma construção descritiva; ῥομφαία ... ἐκπορευομένη é núcleo nominal e particípio nominativos. A espada que sai da boca é imagem visionária, não descrição de arma literal.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "As sete estrelas adquirem identificação contextual em 1:20.",
     "A espada da boca e o brilho solar expressam autoridade e glória."
@@ -91,7 +91,7 @@ export const apocalipse1v16 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "na/à",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -209,7 +209,7 @@ export const apocalipse1v16 = {
     {
       "id": "ap1-16-9",
       "shortMorph": "Adj-APM",
-      "greek": "ἑπτά,",
+      "greek": "ἑπτά",
       "transliteration": "hepta",
       "gloss": "sete",
       "strong": "G2033",
@@ -228,7 +228,8 @@ export const apocalipse1v16 = {
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-16-10",
@@ -425,7 +426,7 @@ export const apocalipse1v16 = {
     {
       "id": "ap1-16-18",
       "shortMorph": "V-PMP-NSF",
-      "greek": "ἐκπορευομένη,",
+      "greek": "ἐκπορευομένη",
       "transliteration": "ekporeuomenē",
       "gloss": "que saía",
       "strong": "G1607",
@@ -444,7 +445,8 @@ export const apocalipse1v16 = {
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-16-19",
@@ -475,7 +477,7 @@ export const apocalipse1v16 = {
       "shortMorph": "Art-NSF",
       "greek": "ἡ",
       "transliteration": "hē",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -667,7 +669,7 @@ export const apocalipse1v16 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "na/à",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -713,7 +715,7 @@ export const apocalipse1v16 = {
     {
       "id": "ap1-16-30",
       "shortMorph": "PPro-GSM",
-      "greek": "αὐτοῦ.",
+      "greek": "αὐτοῦ",
       "transliteration": "autou",
       "gloss": "dele",
       "strong": "G846",
@@ -732,7 +734,12 @@ export const apocalipse1v16 = {
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "ἔχων é particípio presente ativo nominativo masculino singular, ligado à figura da visão. A espada ῥομφαία δίστομος ὀξεῖα no nominativo é descrita saindo da boca, expressão simbólica de autoridade (cf. Ap 19:15,21).",
+    "ἔχων, particípio nominativo, apresenta uma construção descritiva; ῥομφαία ... ἐκπορευομένη é núcleo nominal e particípio nominativos. A espada que sai da boca é imagem visionária, não descrição de arma literal."
   ]
 } as const;

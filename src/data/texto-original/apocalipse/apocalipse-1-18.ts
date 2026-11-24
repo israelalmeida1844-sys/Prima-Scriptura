@@ -8,7 +8,7 @@ export const apocalipse1v18 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "e aquele que vive. Estive morto, mas eis que vivo para todo o sempre e tenho as chaves da morte e do Hades.",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "O SBLGNT apresenta τοῦ θανάτου καὶ τοῦ ᾅδου. ἔχω é presente ativo indicativo primeira pessoa singular («tenho»); ἐγενόμην é aoristo médio indicativo («tornei-me/estive»). ᾅδης designa o domínio dos mortos, sem equivaler automaticamente a tormento eterno.\n\n[Revisão acadêmica complementar] ᾅδης refere-se à esfera dos mortos; a leitura dos termos não autoriza por si a identificação com tormento eterno. A imagem das chaves comunica autoridade.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O Vivente identifica-se pela morte real e pela vida sem fim.",
     "As chaves simbolizam autoridade sobre a morte e o Hades."
@@ -65,7 +65,7 @@ export const apocalipse1v18 = {
     {
       "id": "ap1-18-3",
       "shortMorph": "V-PAP-NSM",
-      "greek": "ζῶν—",
+      "greek": "ζῶν",
       "transliteration": "zōn",
       "gloss": "vivo",
       "strong": "G2198",
@@ -84,7 +84,8 @@ export const apocalipse1v18 = {
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "—"
     },
     {
       "id": "ap1-18-4",
@@ -331,7 +332,7 @@ export const apocalipse1v18 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -353,7 +354,7 @@ export const apocalipse1v18 = {
     {
       "id": "ap1-18-15",
       "shortMorph": "N-GPM",
-      "greek": "αἰώνων—",
+      "greek": "αἰώνων",
       "transliteration": "aiōnōn",
       "gloss": "séculos",
       "strong": "G165",
@@ -372,7 +373,8 @@ export const apocalipse1v18 = {
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "—"
     },
     {
       "id": "ap1-18-16",
@@ -569,7 +571,7 @@ export const apocalipse1v18 = {
     {
       "id": "ap1-18-24",
       "shortMorph": "N-GSM",
-      "greek": "ᾅδου.",
+      "greek": "ᾅδου",
       "transliteration": "hadou",
       "gloss": "Hades",
       "strong": "G86",
@@ -588,7 +590,12 @@ export const apocalipse1v18 = {
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "O SBLGNT apresenta τοῦ θανάτου καὶ τοῦ ᾅδου. ἔχω é presente ativo indicativo primeira pessoa singular («tenho»); ἐγενόμην é aoristo médio indicativo («tornei-me/estive»). ᾅδης designa o domínio dos mortos, sem equivaler automaticamente a tormento eterno.",
+    "ᾅδης refere-se à esfera dos mortos; a leitura dos termos não autoriza por si a identificação com tormento eterno. A imagem das chaves comunica autoridade."
   ]
 } as const;

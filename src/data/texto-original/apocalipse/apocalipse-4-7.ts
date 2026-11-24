@@ -8,10 +8,9 @@ export const apocalipse4v7 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "O primeiro ser vivente era semelhante a leão; o segundo, a novilho; o terceiro tinha rosto como de homem; e o quarto era semelhante a águia em voo.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "As imagens remetem a Ez 1 e 10, mas Apocalipse distribui as quatro figuras entre seres distintos. Não impor significados alegóricos individuais sem argumentação textual.",
-    "O masculino nominativo ἔχων após o neutro ζῷον é uma irregularidade efetiva do texto SBLGNT e não deve ser corrigida silenciosamente para ἔχον.",
     "Os quatro símbolos evocam Ez 1:10 e 10:14, mas aqui as figuras são distribuídas entre quatro seres; a associação tipológica não demonstra, isoladamente, uma identidade histórica dos seres."
   ],
   "words": [
@@ -28,7 +27,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -44,7 +43,7 @@ export const apocalipse4v7 = {
       "shortMorph": "Art-NSN",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -52,7 +51,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» (ὁ, G3588); Artigo definido nominativo singular neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -76,7 +75,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "Forma «ζῷον» (ζῷον, G2226); Substantivo nominativo singular neutro. Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -92,7 +91,7 @@ export const apocalipse4v7 = {
       "shortMorph": "Art-NSN",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -100,7 +99,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» (ὁ, G3588); Artigo definido nominativo singular neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -124,7 +123,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "primeiro",
-      "explanation": "Forma «πρῶτον» (πρῶτος, G4413); Adjetivo nominativo singular neutro. Sentido lexical contextual: primeiro. Adjetivo ordinal atributivo de ζῷον. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -148,7 +147,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Predicativo de ζῷον com dativo λέοντι. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -162,7 +161,7 @@ export const apocalipse4v7 = {
     {
       "id": "ap4-7-7",
       "shortMorph": "N-DSM",
-      "greek": "λέοντι,",
+      "greek": "λέοντι",
       "transliteration": "leonti",
       "gloss": "leão",
       "strong": "G3023",
@@ -172,7 +171,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Leão; primeiro termo da comparação dos seres viventes em 4:7.",
-      "explanation": "Forma «λέοντι,» (λέων, G3023); Substantivo dativo singular masculino. Leão; primeiro termo da comparação dos seres viventes em 4:7. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -181,7 +180,8 @@ export const apocalipse4v7 = {
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-7-8",
@@ -196,7 +196,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -212,7 +212,7 @@ export const apocalipse4v7 = {
       "shortMorph": "Art-NSN",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -220,7 +220,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» (ὁ, G3588); Artigo definido nominativo singular neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -244,7 +244,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "δεύτερος expressa posição ordinal. Em Ap 2:11 qualifica θανάτου, formando a expressão «segunda morte».",
-      "explanation": "Forma «δεύτερον» (δεύτερος, G1208); Adjetivo nominativo singular neutro. Sentido lexical contextual: segundo. Adjetivo ordinal atributivo de ζῷον. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -268,7 +268,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "Forma «ζῷον» (ζῷον, G2226); Substantivo nominativo singular neutro. Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -292,7 +292,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Predicativo de ζῷον com dativo μόσχῳ. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -306,7 +306,7 @@ export const apocalipse4v7 = {
     {
       "id": "ap4-7-13",
       "shortMorph": "N-DSM",
-      "greek": "μόσχῳ,",
+      "greek": "μόσχῳ",
       "transliteration": "moschō",
       "gloss": "novilho",
       "strong": "G3448",
@@ -316,7 +316,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Novilho ou bezerro; segundo termo de comparação dos viventes em 4:7.",
-      "explanation": "Forma «μόσχῳ,» (μόσχος, G3448); Substantivo dativo singular masculino. Novilho ou bezerro; segundo termo de comparação dos viventes em 4:7. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -325,7 +325,8 @@ export const apocalipse4v7 = {
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-7-14",
@@ -340,7 +341,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -356,7 +357,7 @@ export const apocalipse4v7 = {
       "shortMorph": "Art-NSN",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -364,7 +365,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» (ὁ, G3588); Artigo definido nominativo singular neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -388,7 +389,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "Terceiro; ordinal relativo ao vivente que apresenta rosto humano em 4:7.",
-      "explanation": "Forma «τρίτον» (τρίτος, G5154); Adjetivo nominativo singular neutro. Terceiro; ordinal relativo ao vivente que apresenta rosto humano em 4:7. Adjetivo ordinal atributivo de ζῷον. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -412,7 +413,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "Forma «ζῷον» (ζῷον, G2226); Substantivo nominativo singular neutro. Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -436,7 +437,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter; segurar",
-      "explanation": "Forma «ἔχων» (ἔχω, G2192); Verbo presente, voz ativa, particípio nominativo singular masculino. Sentido lexical contextual: ter; possuir. Particípio em relação descritiva. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -452,7 +453,7 @@ export const apocalipse4v7 = {
       "shortMorph": "Art-ASN",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -460,7 +461,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» (ὁ, G3588); Artigo definido acusativo singular neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -484,7 +485,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "Rosto, face; em 4:7 qualifica o terceiro vivente.",
-      "explanation": "Forma «πρόσωπον» (πρόσωπον, G4383); Substantivo acusativo singular neutro. Rosto, face; em 4:7 qualifica o terceiro vivente. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -508,7 +509,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "como",
-      "explanation": "Forma «ὡς» (ὡς, G5613); Conjunção. Sentido lexical contextual: como; semelhante a. Conector de oração. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -522,7 +523,7 @@ export const apocalipse4v7 = {
     {
       "id": "ap4-7-22",
       "shortMorph": "N-GSM",
-      "greek": "ἀνθρώπου,",
+      "greek": "ἀνθρώπου",
       "transliteration": "anthrōpou",
       "gloss": "homem; ser humano",
       "strong": "G444",
@@ -532,7 +533,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "ser humano; homem",
-      "explanation": "Forma «ἀνθρώπου,» (ἄνθρωπος, G444); Substantivo genitivo singular masculino. Sentido lexical contextual: homem; ser humano. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -541,7 +542,8 @@ export const apocalipse4v7 = {
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-7-23",
@@ -556,7 +558,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -572,7 +574,7 @@ export const apocalipse4v7 = {
       "shortMorph": "Art-NSN",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -580,7 +582,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» (ὁ, G3588); Artigo definido nominativo singular neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -604,7 +606,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "Quarto; ordinal da criatura comparada a águia em 4:7.",
-      "explanation": "Forma «τέταρτον» (τέταρτος, G5067); Adjetivo nominativo singular neutro. Quarto; ordinal da criatura comparada a águia em 4:7. Adjetivo ordinal atributivo de ζῷον. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -628,7 +630,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "Forma «ζῷον» (ζῷον, G2226); Substantivo nominativo singular neutro. Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -652,7 +654,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιον» (ὅμοιος, G3664); Adjetivo nominativo singular neutro. Sentido lexical contextual: semelhante. Predicativo de ζῷον com dativo ἀετῷ. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -676,7 +678,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Águia; quarto vivente comparado à águia em voo em 4:7.",
-      "explanation": "Forma «ἀετῷ» (ἀετός, G105); Substantivo dativo singular masculino. Águia; quarto vivente comparado à águia em voo em 4:7. Núcleo de sintagma nominal. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -690,7 +692,7 @@ export const apocalipse4v7 = {
     {
       "id": "ap4-7-29",
       "shortMorph": "V-PMP-DSM",
-      "greek": "πετομένῳ·",
+      "greek": "πετομένῳ",
       "transliteration": "petomenō",
       "gloss": "voar",
       "strong": "G4072",
@@ -700,7 +702,7 @@ export const apocalipse4v7 = {
       "morphologyCode": "-PMPDSM-",
       "morphology": "Verbo presente, voz média, particípio dativo singular masculino",
       "meanings": "Voar; o particípio descreve águia em movimento na comparação de 4:7.",
-      "explanation": "Forma «πετομένῳ·» (πέτομαι, G4072); Verbo presente, voz média, particípio dativo singular masculino. Voar; o particípio descreve águia em movimento na comparação de 4:7. Particípio em relação descritiva. As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:7"
       ],
@@ -709,7 +711,12 @@ export const apocalipse4v7 = {
         "clauseId": "AP.4.7.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     }
+  ],
+  "syntacticNotes": [
+    "As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
+    "O masculino nominativo ἔχων após o neutro ζῷον é uma irregularidade efetiva do texto SBLGNT e não deve ser corrigida silenciosamente para ἔχον."
   ]
 } as const;

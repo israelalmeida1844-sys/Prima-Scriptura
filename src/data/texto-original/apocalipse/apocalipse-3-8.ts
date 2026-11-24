@@ -8,9 +8,9 @@ export const apocalipse3v8 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço tuas obras. Eis que coloquei diante de ti uma porta aberta, que ninguém pode fechar, porque tens pouca força, guardaste minha palavra e não negaste meu nome.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo."
+    "A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé."
   ],
   "words": [
     {
@@ -26,7 +26,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação.",
-      "explanation": "Forma «Οἶδά» do lema «οἶδα» (Strong G1492): Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «conheço». Predicado verbal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -42,7 +42,7 @@ export const apocalipse3v8 = {
       "shortMorph": "RP ----GS--",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -50,12 +50,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σου» do lema «σύ» (Strong G4771): Pronome genitivo singular. Glosa contextual de apoio: «tu». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -66,7 +66,7 @@ export const apocalipse3v8 = {
       "shortMorph": "RA ----APN-",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -74,7 +74,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὰ» do lema «ὁ» (Strong G3588): Artigo definido acusativo plural neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -88,7 +88,7 @@ export const apocalipse3v8 = {
     {
       "id": "ap3-8-4",
       "shortMorph": "N- ----APN-",
-      "greek": "ἔργα—",
+      "greek": "ἔργα",
       "transliteration": "erga",
       "gloss": "obras",
       "strong": "G2041",
@@ -98,7 +98,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo.",
-      "explanation": "Forma «ἔργα—» do lema «ἔργον» (Strong G2041): Substantivo acusativo plural neutro. Glosa contextual de apoio: «obras». Núcleo nominal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -107,7 +107,8 @@ export const apocalipse3v8 = {
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "—"
     },
     {
       "id": "ap3-8-5",
@@ -122,12 +123,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "--------",
       "morphology": "Partícula ",
       "meanings": "eis; veja",
-      "explanation": "Forma «ἰδοὺ» do lema «ἰδού» (Strong G2400): Partícula . Glosa contextual de apoio: «eis». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -138,7 +139,7 @@ export const apocalipse3v8 = {
       "shortMorph": "V- 1XAI-S--",
       "greek": "δέδωκα",
       "transliteration": "dedōka",
-      "gloss": "Dar, conceder por graça ou outorgar autoridade",
+      "gloss": "dar",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -146,7 +147,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "Ato voluntário de conferir algo a outrem, outorga de prerrogativa ou revelação divina.",
-      "explanation": "Forma «δέδωκα» do lema «δίδωμι» (Strong G1325): Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «Dar, conceder por graça ou outorgar autoridade». Predicado verbal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -170,12 +171,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "diante de; na presença de",
-      "explanation": "Forma «ἐνώπιόν» do lema «ἐνώπιον» (Strong G1799): Preposição . Glosa contextual de apoio: «diante de». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -186,7 +187,7 @@ export const apocalipse3v8 = {
       "shortMorph": "RP ----GS--",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -194,12 +195,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σου» do lema «σύ» (Strong G4771): Pronome genitivo singular. Glosa contextual de apoio: «tu». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -218,7 +219,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "porta",
-      "explanation": "Forma «θύραν» do lema «θύρα» (Strong G2374): Substantivo acusativo singular feminino. Glosa contextual de apoio: «porta». Núcleo nominal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -232,7 +233,7 @@ export const apocalipse3v8 = {
     {
       "id": "ap3-8-10",
       "shortMorph": "V- -XPPASF-",
-      "greek": "ἠνεῳγμένην,",
+      "greek": "ἠνεῳγμένην",
       "transliteration": "ēneōgmenēn",
       "gloss": "abrir",
       "strong": "G455",
@@ -242,7 +243,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "-XPPASF-",
       "morphology": "Verbo perfeito, voz passiva, particípio acusativo singular feminino",
       "meanings": "abrir",
-      "explanation": "Forma «ἠνεῳγμένην,» do lema «ἀνοίγω» (Strong G455): Verbo perfeito, voz passiva, particípio acusativo singular feminino. Glosa contextual de apoio: «abrir». Particípio. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -251,14 +252,15 @@ export const apocalipse3v8 = {
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-8-11",
       "shortMorph": "RR ----ASF-",
       "greek": "ἣν",
       "transliteration": "hēn",
-      "gloss": "Pronome relativo anafórico (o qual, a qual, que)",
+      "gloss": "pronome relativo anafórico (o qual",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -266,12 +268,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASF-",
       "morphology": "Pronome relativo acusativo singular feminino",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "Forma «ἣν» do lema «ὅς» (Strong G3739): Pronome relativo acusativo singular feminino. Glosa contextual de apoio: «Pronome relativo anafórico (o qual, a qual, que)». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -290,12 +292,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "οὐδείς é pronome negativo «ninguém» e sujeito de οἶδεν, salvo a exceção εἰ μή.",
-      "explanation": "Forma «οὐδεὶς» do lema «οὐδείς» (Strong G3762): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «ninguém». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -314,7 +316,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "3PMI-S--",
       "morphology": "Verbo presente, voz média, indicativo, 3ª pessoa singular",
       "meanings": "δύνῃ é forma presente médio/passiva de δύναμαι, verbo de sentido modal; βαστάσαι é seu infinitivo complementar.",
-      "explanation": "Forma «δύναται» do lema «δύναμαι» (Strong G1410): Verbo presente, voz média, indicativo, 3ª pessoa singular. Glosa contextual de apoio: «podes». Predicado verbal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -338,7 +340,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo aoristo, voz ativa, infinitivo",
       "meanings": "fechar",
-      "explanation": "Forma «κλεῖσαι» do lema «κλείω» (Strong G2808): Verbo aoristo, voz ativa, infinitivo. Glosa contextual de apoio: «fechar». Predicado verbal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -352,9 +354,9 @@ export const apocalipse3v8 = {
     {
       "id": "ap3-8-15",
       "shortMorph": "RP ----ASF-",
-      "greek": "αὐτήν—",
+      "greek": "αὐτήν",
       "transliteration": "autēn",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "ela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -362,16 +364,17 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASF-",
       "morphology": "Pronome acusativo singular feminino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτήν—» do lema «αὐτός» (Strong G846): Pronome acusativo singular feminino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "—"
     },
     {
       "id": "ap3-8-16",
@@ -386,12 +389,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "Forma «ὅτι» do lema «ὅτι» (Strong G3754): Conjunção . Glosa contextual de apoio: «que». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -410,12 +413,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "pequeno",
-      "explanation": "Forma «μικρὰν» do lema «μικρός» (Strong G3398): Adjetivo acusativo singular feminino. Glosa contextual de apoio: «pequeno». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -434,7 +437,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter; segurar",
-      "explanation": "Forma «ἔχεις» do lema «ἔχω» (Strong G2192): Verbo presente, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «tinha». Predicado verbal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -448,7 +451,7 @@ export const apocalipse3v8 = {
     {
       "id": "ap3-8-19",
       "shortMorph": "N- ----ASF-",
-      "greek": "δύναμιν,",
+      "greek": "δύναμιν",
       "transliteration": "dynamin",
       "gloss": "força",
       "strong": "G1411",
@@ -458,7 +461,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "força; poder",
-      "explanation": "Forma «δύναμιν,» do lema «δύναμις» (Strong G1411): Substantivo acusativo singular feminino. Glosa contextual de apoio: «força». Núcleo nominal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -467,14 +470,15 @@ export const apocalipse3v8 = {
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-8-20",
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -482,12 +486,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -506,7 +510,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "guardar; observar; preservar",
-      "explanation": "Forma «ἐτήρησάς» do lema «τηρέω» (Strong G5083): Verbo aoristo, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «guardar». Predicado verbal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -522,7 +526,7 @@ export const apocalipse3v8 = {
       "shortMorph": "RP ----GS--",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -530,12 +534,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -546,7 +550,7 @@ export const apocalipse3v8 = {
       "shortMorph": "RA ----ASM-",
       "greek": "τὸν",
       "transliteration": "ton",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -554,7 +558,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸν» do lema «ὁ» (Strong G3588): Artigo definido acusativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -568,7 +572,7 @@ export const apocalipse3v8 = {
     {
       "id": "ap3-8-24",
       "shortMorph": "N- ----ASM-",
-      "greek": "λόγον,",
+      "greek": "λόγον",
       "transliteration": "logon",
       "gloss": "Palavra, mensagem ou declaração",
       "strong": "G3056",
@@ -578,7 +582,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "Conteúdo comunicado oralmente ou por escrito, incluindo discurso, anúncio e mensagem divina.",
-      "explanation": "Forma «λόγον,» do lema «λόγος» (Strong G3056): Substantivo acusativo singular masculino. Glosa contextual de apoio: «Palavra, mensagem ou declaração». Núcleo nominal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -587,14 +591,15 @@ export const apocalipse3v8 = {
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-8-25",
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -602,12 +607,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -626,12 +631,12 @@ export const apocalipse3v8 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
-      "explanation": "Forma «οὐκ» do lema «οὐ» (Strong G3756): Advérbio . Glosa contextual de apoio: «não». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -650,7 +655,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "2AMI-S--",
       "morphology": "Verbo aoristo, voz média, indicativo, 2ª pessoa singular",
       "meanings": "ἠρνήσω é aoristo médio segunda pessoa singular de ἀρνέομαι; com negação expressa fidelidade sem renúncia à fé.",
-      "explanation": "Forma «ἠρνήσω» do lema «ἀρνέομαι» (Strong G720): Verbo aoristo, voz média, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «negar». Predicado verbal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -666,7 +671,7 @@ export const apocalipse3v8 = {
       "shortMorph": "RA ----ASN-",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -674,7 +679,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» do lema «ὁ» (Strong G3588): Artigo definido acusativo singular neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -698,7 +703,7 @@ export const apocalipse3v8 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου.",
-      "explanation": "Forma «ὄνομά» do lema «ὄνομα» (Strong G3686): Substantivo acusativo singular neutro. Glosa contextual de apoio: «nome». Núcleo nominal. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
@@ -712,9 +717,9 @@ export const apocalipse3v8 = {
     {
       "id": "ap3-8-30",
       "shortMorph": "RP ----GS--",
-      "greek": "μου.",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -722,16 +727,20 @@ export const apocalipse3v8 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου.» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado.\n\nExegese: A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé.\n\nCrítica textual: O aparato resumido do SBLGNT não sinaliza unidade de variação neste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado."
   ]
 } as const;

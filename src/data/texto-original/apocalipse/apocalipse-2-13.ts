@@ -8,7 +8,7 @@ export const apocalipse2v13 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sei onde habitas, onde está o trono de Satanás. Entretanto, conservas meu nome e não negaste minha fé, mesmo nos dias de Antipas, minha testemunha fiel, que foi morto entre vós, onde Satanás habita.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὅπου ὁ θρόνος τοῦ Σατανᾶ descreve Pérgamo polemicamente; associações ao altar de Zeus ou ao culto imperial são hipóteses históricas concorrentes, não referências explicitadas no grego. Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου está no nominativo com aposições nominativas, embora o encadeamento após ἐν ταῖς ἡμέραις seja sintaticamente abrupto; não converter o nome para genitivo.\n\n[Revisão acadêmica complementar] ὅπου ὁ θρόνος τοῦ Σατανᾶ contém elipse verbal compreensível no contexto. Ἀντιπᾶς permanece nominativo após expressão temporal, com aposição também nominativa; a irregularidade não deve ser normalizada.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "Pérgamo: fidelidade comunitária em ambiente de conflito religioso; o trono de Satanás é linguagem simbólica cujo referente histórico permanece debatido.",
     "Antipas recebe título de testemunha fiel; a construção gramatical é abrupta, e uma biografia histórica independente não deve ser inventada."
@@ -65,7 +65,7 @@ export const apocalipse2v13 = {
     {
       "id": "ap2-13-3",
       "shortMorph": "V-PAI-2S",
-      "greek": "κατοικεῖς,",
+      "greek": "κατοικεῖς",
       "transliteration": "katoikeis",
       "gloss": "habitas",
       "strong": "G2730",
@@ -84,7 +84,8 @@ export const apocalipse2v13 = {
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-13-4",
@@ -185,7 +186,7 @@ export const apocalipse2v13 = {
     {
       "id": "ap2-13-8",
       "shortMorph": "N-GSM",
-      "greek": "Σατανᾶ,",
+      "greek": "Σατανᾶ",
       "transliteration": "Satana",
       "gloss": "Satanás",
       "strong": "G4567",
@@ -204,7 +205,8 @@ export const apocalipse2v13 = {
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-13-9",
@@ -305,9 +307,9 @@ export const apocalipse2v13 = {
     {
       "id": "ap2-13-13",
       "shortMorph": "PPro-GS-",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -324,7 +326,8 @@ export const apocalipse2v13 = {
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-13-14",
@@ -451,7 +454,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -523,7 +526,7 @@ export const apocalipse2v13 = {
       "shortMorph": "Art-DPF",
       "greek": "ταῖς",
       "transliteration": "tais",
-      "gloss": "às",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -569,7 +572,7 @@ export const apocalipse2v13 = {
     {
       "id": "ap2-13-24",
       "shortMorph": "N-NSM",
-      "greek": "Ἀντιπᾶς,",
+      "greek": "Ἀντιπᾶς",
       "transliteration": "Antipas",
       "gloss": "Antipas",
       "strong": "G493",
@@ -588,7 +591,8 @@ export const apocalipse2v13 = {
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-13-25",
@@ -641,9 +645,9 @@ export const apocalipse2v13 = {
     {
       "id": "ap2-13-27",
       "shortMorph": "PPro-GS-",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -660,7 +664,8 @@ export const apocalipse2v13 = {
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-13-28",
@@ -713,9 +718,9 @@ export const apocalipse2v13 = {
     {
       "id": "ap2-13-30",
       "shortMorph": "PPro-GS-",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -732,7 +737,8 @@ export const apocalipse2v13 = {
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-13-31",
@@ -786,7 +792,7 @@ export const apocalipse2v13 = {
       "id": "ap2-13-33",
       "shortMorph": "P-",
       "greek": "παρ’",
-      "transliteration": "par",
+      "transliteration": "par'",
       "gloss": "junto de",
       "strong": "G3844",
       "lemma": "παρά",
@@ -809,7 +815,7 @@ export const apocalipse2v13 = {
     {
       "id": "ap2-13-34",
       "shortMorph": "PPro-DP-",
-      "greek": "ὑμῖν,",
+      "greek": "ὑμῖν",
       "transliteration": "hymin",
       "gloss": "entre vós",
       "strong": "G4771",
@@ -828,7 +834,8 @@ export const apocalipse2v13 = {
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-13-35",
@@ -905,7 +912,7 @@ export const apocalipse2v13 = {
     {
       "id": "ap2-13-38",
       "shortMorph": "V-PAI-3S",
-      "greek": "κατοικεῖ.",
+      "greek": "κατοικεῖ",
       "transliteration": "katoikei",
       "gloss": "habita",
       "strong": "G2730",
@@ -924,7 +931,12 @@ export const apocalipse2v13 = {
         "clauseId": "AP.2.13.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "ὅπου ὁ θρόνος τοῦ Σατανᾶ descreve Pérgamo polemicamente; associações ao altar de Zeus ou ao culto imperial são hipóteses históricas concorrentes, não referências explicitadas no grego. Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου está no nominativo com aposições nominativas, embora o encadeamento após ἐν ταῖς ἡμέραις seja sintaticamente abrupto; não converter o nome para genitivo.",
+    "ὅπου ὁ θρόνος τοῦ Σατανᾶ contém elipse verbal compreensível no contexto. Ἀντιπᾶς permanece nominativo após expressão temporal, com aposição também nominativa; a irregularidade não deve ser normalizada."
   ]
 } as const;
