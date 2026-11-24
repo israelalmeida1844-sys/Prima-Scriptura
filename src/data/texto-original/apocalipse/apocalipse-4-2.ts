@@ -8,11 +8,10 @@ export const apocalipse4v2 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Imediatamente fui tomado pelo Espírito, e eis que havia um trono posto no céu, e alguém estava sentado sobre o trono.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A descrição do trono deve ser relacionada à visão de Ap 1:10 e às cenas de trono de Ez 1 e Is 6, distinguindo observação textual de identificação dos participantes.",
-    "ἐγενόμην ἐν πνεύματι admite tradução mais literal «achei-me em espírito»; «fui tomado pelo Espírito» explicita uma interpretação do estado visionário, sem afirmar uma alteração física.",
-    "O imperfeito ἔκειτο descreve um trono já colocado; o nominativo καθήμενος funciona na construção elíptica que introduz seu ocupante."
+    "ἐγενόμην ἐν πνεύματι admite tradução mais literal «achei-me em espírito»; «fui tomado pelo Espírito» explicita uma interpretação do estado visionário, sem afirmar uma alteração física."
   ],
   "words": [
     {
@@ -28,7 +27,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "Advérbio temporal «imediatamente», marcando o início da nova experiência visionária (4:2).",
-      "explanation": "Forma «εὐθέως» (εὐθέως, G2112); Advérbio. Advérbio temporal «imediatamente», marcando o início da nova experiência visionária (4:2). Advérbio temporal que modifica ἐγενόμην. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -52,7 +51,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "1AMI-S--",
       "morphology": "Verbo aoristo, voz média, indicativo, 1ª pessoa singular",
       "meanings": "Passar a existir, realizar-se factualmente no tempo e no espaço.",
-      "explanation": "Forma «ἐγενόμην» (γίνομαι, G1096); Verbo aoristo, voz média, indicativo, 1ª pessoa singular. Sentido lexical contextual: acontecer; tornar-se. Predicado verbal. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -76,7 +75,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Forma «ἐν» (ἐν, G1722); Preposição. Sentido lexical contextual: em. Introdução de complemento preposicional. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "O valor da preposição ἐν é determinado pelo dativo e pelo contexto da construção.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -100,7 +99,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
       "meanings": "espírito; sopro; vento",
-      "explanation": "Forma «πνεύματι·» (πνεῦμα, G4151); Substantivo dativo singular neutro. Sentido lexical contextual: Espírito; espírito. Núcleo de sintagma nominal. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -124,7 +123,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -148,7 +147,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "eis; veja",
-      "explanation": "Forma «ἰδοὺ» (ἰδού, G2400); Partícula. Sentido lexical contextual: eis. Partícula apresentativa da visão. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -172,7 +171,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "trono",
-      "explanation": "Forma «θρόνος» (θρόνος, G2362); Substantivo nominativo singular masculino. Sentido lexical contextual: trono. Núcleo de sintagma nominal. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -196,7 +195,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "3IMI-S--",
       "morphology": "Verbo imperfeito, voz média, indicativo, 3ª pessoa singular",
       "meanings": "Estar colocado ou situado; ἔκειτο descreve um trono posto no céu em 4:2.",
-      "explanation": "Forma «ἔκειτο» (κεῖμαι, G2749); Verbo imperfeito, voz média, indicativo, 3ª pessoa singular. Estar colocado ou situado; ἔκειτο descreve um trono posto no céu em 4:2. Predicado verbal. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -220,7 +219,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Forma «ἐν» (ἐν, G1722); Preposição. Sentido lexical contextual: em. Introdução de complemento preposicional. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "O valor da preposição ἐν é determinado pelo dativo e pelo contexto da construção.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -236,7 +235,7 @@ export const apocalipse4v2 = {
       "shortMorph": "Art-DSM",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -244,7 +243,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῷ» (ὁ, G3588); Artigo definido dativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -268,7 +267,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Céu; em 3:12 indica a procedência da Nova Jerusalém no relato visionário.",
-      "explanation": "Forma «οὐρανῷ,» (οὐρανός, G3772); Substantivo dativo singular masculino. Sentido lexical contextual: céu. Núcleo de sintagma nominal. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -292,7 +291,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -316,7 +315,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "sobre; por causa de",
-      "explanation": "Forma «ἐπὶ» (ἐπί, G1909); Preposição. Sentido lexical contextual: sobre; em. Introdução de complemento preposicional. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -332,7 +331,7 @@ export const apocalipse4v2 = {
       "shortMorph": "Art-ASM",
       "greek": "τὸν",
       "transliteration": "ton",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -340,7 +339,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸν» (ὁ, G3588); Artigo definido acusativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -364,7 +363,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "trono",
-      "explanation": "Forma «θρόνον» (θρόνος, G2362); Substantivo acusativo singular masculino. Sentido lexical contextual: trono. Núcleo de sintagma nominal. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -388,7 +387,7 @@ export const apocalipse4v2 = {
       "morphologyCode": "-PMPNSM-",
       "morphology": "Verbo presente, voz média, particípio nominativo singular masculino",
       "meanings": "Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos.",
-      "explanation": "Forma «καθήμενος,» (κάθημαι, G2521); Verbo presente, voz média, particípio nominativo singular masculino. Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos. Particípio em relação descritiva. ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:2"
       ],
@@ -399,5 +398,9 @@ export const apocalipse4v2 = {
       },
       "morphgntPos": "V-"
     }
+  ],
+  "syntacticNotes": [
+    "ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
+    "O imperfeito ἔκειτο descreve um trono já colocado; o nominativo καθήμενος funciona na construção elíptica que introduz seu ocupante."
   ]
 } as const;

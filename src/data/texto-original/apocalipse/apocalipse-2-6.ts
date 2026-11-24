@@ -8,7 +8,7 @@ export const apocalipse2v6 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tens, porém, isto a teu favor: odeias as obras dos nicolaítas, que eu também odeio.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Νικολαϊτῶν é genitivo plural do nome grupal Νικολαΐτης. Identificar diretamente os nicolaítas com os seguidores de Balaão (2:14–15) é inferência interpretativa e não identificação histórica comprovada pela etimologia.\n\n[Revisão acadêmica complementar] Νικολαϊτῶν é genitivo plural de grupo. O texto não fornece etimologia segura nem biografia de seus participantes; correlações com Balaão exigem discussão de 2:14–15.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "Os nicolaítas são mencionados sem descrição histórica completa.",
     "A relação com Balaão requer interpretação a partir do restante da carta."
@@ -139,7 +139,7 @@ export const apocalipse2v6 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -187,7 +187,7 @@ export const apocalipse2v6 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -302,5 +302,9 @@ export const apocalipse2v6 = {
       },
       "morphgntPos": "V-"
     }
+  ],
+  "syntacticNotes": [
+    "Νικολαϊτῶν é genitivo plural do nome grupal Νικολαΐτης. Identificar diretamente os nicolaítas com os seguidores de Balaão (2:14–15) é inferência interpretativa e não identificação histórica comprovada pela etimologia.",
+    "Νικολαϊτῶν é genitivo plural de grupo. O texto não fornece etimologia segura nem biografia de seus participantes; correlações com Balaão exigem discussão de 2:14–15."
   ]
 } as const;

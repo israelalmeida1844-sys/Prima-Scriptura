@@ -8,7 +8,7 @@ export const apocalipse2v15 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Assim também tens os que seguem o ensino dos nicolaítas, da mesma maneira.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "O SBLGNT conclui com ὁμοίως, advérbio 'igualmente', sem a adição ὃ μισῶ de edições do Textus Receptus. A formulação crítica mantém a comparação entre o ensino dos nicolaítas e o de Balaão; a tradução deve evitar ampliar o texto.\n\n[Revisão acadêmica complementar] A dupla sequência οὕτως ... ὁμοίως constrói comparação enfática. Não acrescentar as palavras de outras tradições ao corpo da leitura SBLGNT.",
+  "textualNotes": "Comparação editorial de edições gregas (não substitui colação de manuscritos): O SBLGNT conclui com ὁμοίως, advérbio 'igualmente', sem a adição ὃ μισῶ de edições do Textus Receptus. A formulação crítica mantém a comparação entre o ensino dos nicolaítas e o de Balaão; a tradução deve evitar ampliar o texto.",
   "exegeticalNotes": [
     "Os nicolaítas são apresentados por proximidade com o modelo de Balaão, sem identificação histórica indiscutível.",
     "A leitura ὁμοίως deve ser mantida sem interpolação do TR."
@@ -230,5 +230,8 @@ export const apocalipse2v15 = {
       },
       "morphgntPos": "D-"
     }
+  ],
+  "syntacticNotes": [
+    "A dupla sequência οὕτως ... ὁμοίως constrói comparação enfática. Não acrescentar as palavras de outras tradições ao corpo da leitura SBLGNT."
   ]
 } as const;

@@ -8,9 +8,9 @@ export const apocalipse3v15 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço tuas obras: não és frio nem quente. Quem dera fosses frio ou quente!",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15."
+    "A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão."
   ],
   "words": [
     {
@@ -26,7 +26,7 @@ export const apocalipse3v15 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação.",
-      "explanation": "Forma «Οἶδά» do lema «οἶδα» (Strong G1492): Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «conheço». Predicado verbal. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
@@ -42,7 +42,7 @@ export const apocalipse3v15 = {
       "shortMorph": "RP ----GS--",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -50,12 +50,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σου» do lema «σύ» (Strong G4771): Pronome genitivo singular. Glosa contextual de apoio: «tu». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -66,7 +66,7 @@ export const apocalipse3v15 = {
       "shortMorph": "RA ----APN-",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -74,7 +74,7 @@ export const apocalipse3v15 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὰ» do lema «ὁ» (Strong G3588): Artigo definido acusativo plural neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
@@ -98,7 +98,7 @@ export const apocalipse3v15 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo.",
-      "explanation": "Forma «ἔργα,» do lema «ἔργον» (Strong G2041): Substantivo acusativo plural neutro. Glosa contextual de apoio: «obras». Núcleo nominal. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
@@ -122,12 +122,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "Forma «ὅτι» do lema «ὅτι» (Strong G3754): Advérbio . Glosa contextual de apoio: «que». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -146,12 +146,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "nem",
-      "explanation": "Forma «οὔτε» do lema «οὔτε» (Strong G3777): Conjunção . Glosa contextual de apoio: «nem». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -170,12 +170,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "frio",
-      "explanation": "Forma «ψυχρὸς» do lema «ψυχρός» (Strong G5593): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «frio». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -186,7 +186,7 @@ export const apocalipse3v15 = {
       "shortMorph": "V- 2PAI-S--",
       "greek": "εἶ",
       "transliteration": "ei",
-      "gloss": "ser",
+      "gloss": "és",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -194,7 +194,7 @@ export const apocalipse3v15 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «εἶ» do lema «εἰμί» (Strong G1510): Verbo presente, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «ser». Predicado verbal. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
@@ -218,12 +218,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "nem",
-      "explanation": "Forma «οὔτε» do lema «οὔτε» (Strong G3777): Conjunção . Glosa contextual de apoio: «nem». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -242,12 +242,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "quente",
-      "explanation": "Forma «ζεστός.» do lema «ζεστός» (Strong G2200): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «quente». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -266,12 +266,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "--------",
       "morphology": "Partícula ",
       "meanings": "quem dera",
-      "explanation": "Forma «ὄφελον» do lema «ὄφελον» (Strong G3785): Partícula . Glosa contextual de apoio: «quem dera». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -290,12 +290,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "frio",
-      "explanation": "Forma «ψυχρὸς» do lema «ψυχρός» (Strong G5593): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «frio». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -314,7 +314,7 @@ export const apocalipse3v15 = {
       "morphologyCode": "2IAI-S--",
       "morphology": "Verbo imperfeito, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «ἦς» do lema «εἰμί» (Strong G1510): Verbo imperfeito, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «ser». Predicado verbal. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
@@ -338,12 +338,12 @@ export const apocalipse3v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ou",
-      "explanation": "Forma «ἢ» do lema «ἤ» (Strong G2228): Conjunção . Glosa contextual de apoio: «ou». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -362,16 +362,19 @@ export const apocalipse3v15 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "quente",
-      "explanation": "Forma «ζεστός.» do lema «ζεστός» (Strong G2200): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «quente». Função a revisar. οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos.\n\nExegese: A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão.\n\nCrítica textual: Nenhuma unidade do aparato SBLGNT resumido marcada em 3:15.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
       "morphgntPos": "A-"
     }
+  ],
+  "syntacticNotes": [
+    "οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos."
   ]
 } as const;

@@ -14,12 +14,9 @@ export const apocalipse1v2 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "O qual testemunhou a palavra de Deus e o testemunho de Jesus Cristo, tudo quanto viu.",
   "translationNote": "Tradução editorial própria; o relativo «o qual» retoma João, referido no versículo 1. A sequência grega conserva dois objetos coordenados e uma oração relativa final que descreve a extensão do testemunho.",
-  "textualNotes": "O SBLGNT apresenta ὅσα εἶδεν («tudo quanto viu»). Certas tradições textuais, como a edição de Scrivener do Textus Receptus, apresentam ὅσα τε εἶδεν (com a partícula τε). A variante deve ser documentada sem confundir o texto principal com o Textus Receptus. A leitura ὅσα εἶδεν aqui adotada é a do SBLGNT; esta nota não substitui colação de aparato crítico especializado.\n\n[Revisão acadêmica complementar] ἐμαρτύρησεν (aoristo) apresenta João como testemunha da palavra e do testemunho de Jesus; ὅσα εἶδεν resume o conteúdo visto, sem obrigar que cada visão seja descrita como percepção ocular comum.",
+  "textualNotes": "Comparação editorial de edições gregas (não substitui colação de manuscritos): O SBLGNT apresenta ὅσα εἶδεν («tudo quanto viu»). Certas tradições textuais, como a edição de Scrivener do Textus Receptus, apresentam ὅσα τε εἶδεν (com a partícula τε). A variante deve ser documentada sem confundir o texto principal com o Textus Receptus. A leitura",
   "exegeticalNotes": [
-    "O pronome relativo ὃς, nominativo masculino singular, retoma João em Apocalipse 1:1. A mudança de dativo (Ἰωάννῃ) para nominativo é exigida pela função de sujeito na nova oração.",
-    "O aoristo ἐμαρτύρησεν descreve o testemunho de João como ação vista globalmente. O tempo verbal, por si só, não exige que o testemunho seja interpretado como evento isolado ou como conclusão de todas as visões.",
     "As expressões τὸν λόγον τοῦ θεοῦ e τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ são objetos acusativos coordenados e caracterizam o conteúdo da mensagem testemunhada.",
-    "O genitivo de Ἰησοῦ Χριστοῦ admite interpretação como testemunho procedente de Cristo, a respeito de Cristo, ou como referência que integra essas dimensões; é necessário diálogo com Ap 1:9; 12:17; 19:10 e 22:16, sem impor uma única opção por morfologia.",
     "O relativo neutro plural acusativo ὅσα é objeto de εἶδεν e amplia o conteúdo da declaração: «tudo quanto viu». O testemunho de João está associado à experiência visionária, confirmada pelo gênero do livro e por Ap 22:8."
   ],
   "words": [
@@ -79,7 +76,7 @@ export const apocalipse1v2 = {
       "shortMorph": "Art-ASM",
       "greek": "τὸν",
       "transliteration": "ton",
-      "gloss": "a",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -130,7 +127,7 @@ export const apocalipse1v2 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "de",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -203,7 +200,7 @@ export const apocalipse1v2 = {
       "shortMorph": "Art-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -349,5 +346,11 @@ export const apocalipse1v2 = {
       },
       "morphgntPos": "V-"
     }
+  ],
+  "syntacticNotes": [
+    "ἐμαρτύρησεν (aoristo) apresenta João como testemunha da palavra e do testemunho de Jesus; ὅσα εἶδεν resume o conteúdo visto, sem obrigar que cada visão seja descrita como percepção ocular comum.",
+    "O pronome relativo ὃς, nominativo masculino singular, retoma João em Apocalipse 1:1. A mudança de dativo (Ἰωάννῃ) para nominativo é exigida pela função de sujeito na nova oração.",
+    "O aoristo ἐμαρτύρησεν descreve o testemunho de João como ação vista globalmente. O tempo verbal, por si só, não exige que o testemunho seja interpretado como evento isolado ou como conclusão de todas as visões.",
+    "O genitivo de Ἰησοῦ Χριστοῦ admite interpretação como testemunho procedente de Cristo, a respeito de Cristo, ou como referência que integra essas dimensões; é necessário diálogo com Ap 1:9; 12:17; 19:10 e 22:16, sem impor uma única opção por morfologia."
   ]
 } as const;

@@ -8,7 +8,7 @@ export const apocalipse2v18 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E ao anjo da igreja em Tiatira escreve: Assim diz o Filho de Deus, aquele que tem olhos como chama de fogo, e cujos pés são semelhantes a metal brilhante:",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὁ υἱὸς τοῦ θεοῦ é título cristológico explícito singular nesta formulação no Apocalipse. O texto apresenta ὡς φλόγα πυρός (como chama de fogo), e χαλκολιβάνῳ, termo metalúrgico raro que também ocorre em 1:15; não é hapax do Novo Testamento.\n\n[Revisão acadêmica complementar] ὁ υἱὸς τοῦ θεοῦ identifica o sujeito da mensagem; o dativo χαλκολιβάνῳ depende de ὅμοιοι. Evitar definir composição metalúrgica incerta como fato.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A imagem de Cristo com olhos como fogo e pés brilhantes fundamenta a avaliação de Tiatira.",
     "O título Filho de Deus liga a carta à cristologia do Apocalipse."
@@ -451,7 +451,7 @@ export const apocalipse2v18 = {
       "shortMorph": "PPro-GSM",
       "greek": "αὐτοῦ",
       "transliteration": "autou",
-      "gloss": "dele/dela",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -619,7 +619,7 @@ export const apocalipse2v18 = {
       "shortMorph": "PPro-GSM",
       "greek": "αὐτοῦ",
       "transliteration": "autou",
-      "gloss": "dele/dela",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -686,5 +686,9 @@ export const apocalipse2v18 = {
       },
       "morphgntPos": "N-"
     }
+  ],
+  "syntacticNotes": [
+    "ὁ υἱὸς τοῦ θεοῦ é título cristológico explícito singular nesta formulação no Apocalipse. O texto apresenta ὡς φλόγα πυρός (como chama de fogo), e χαλκολιβάνῳ, termo metalúrgico raro que também ocorre em 1:15; não é hapax do Novo Testamento.",
+    "ὁ υἱὸς τοῦ θεοῦ identifica o sujeito da mensagem; o dativo χαλκολιβάνῳ depende de ὅμοιοι. Evitar definir composição metalúrgica incerta como fato."
   ]
 } as const;

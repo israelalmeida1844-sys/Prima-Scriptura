@@ -8,7 +8,7 @@ export const apocalipse2v23 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E matarei seus filhos com morte; todas as igrejas saberão que eu sou aquele que sonda rins e corações, e darei a cada um de vós segundo as vossas obras.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὁ ἐραυνῶν νεφροὺς καὶ καρδίας: 'aquele que sonda rins e corações'. A linguagem hebraica de interioridade e juízo ecoa Jr 11:20; 17:10 e Sl 7:9, sem exigir identidade verbal absoluta entre versões. ἀποκτενῶ ἐν θανάτῳ expressa sanção judicial em formulação enfática.\n\n[Revisão acadêmica complementar] ἀποκτενῶ ἐν θανάτῳ é expressão enfática; νεφρούς e καρδίας representam o foro interior em linguagem antropológica bíblica. Aplicação histórica concreta requer evidências independentes.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O julgamento afirma o conhecimento divino da interioridade e das obras.",
     "Rins e coração representam dimensões da vida interior em linguagem semítica."
@@ -43,7 +43,7 @@ export const apocalipse2v23 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -91,7 +91,7 @@ export const apocalipse2v23 = {
       "shortMorph": "PPro-GSF",
       "greek": "αὐτῆς",
       "transliteration": "autēs",
-      "gloss": "dele/dela",
+      "gloss": "dela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -523,7 +523,7 @@ export const apocalipse2v23 = {
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "darei",
+      "gloss": "concederei",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -619,7 +619,7 @@ export const apocalipse2v23 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -667,7 +667,7 @@ export const apocalipse2v23 = {
       "shortMorph": "PPro-GP-",
       "greek": "ὑμῶν.",
       "transliteration": "hymōn",
-      "gloss": "de vós",
+      "gloss": "de vocês",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -686,5 +686,9 @@ export const apocalipse2v23 = {
       },
       "morphgntPos": "RP"
     }
+  ],
+  "syntacticNotes": [
+    "ὁ ἐραυνῶν νεφροὺς καὶ καρδίας: 'aquele que sonda rins e corações'. A linguagem hebraica de interioridade e juízo ecoa Jr 11:20; 17:10 e Sl 7:9, sem exigir identidade verbal absoluta entre versões. ἀποκτενῶ ἐν θανάτῳ expressa sanção judicial em formulação enfática.",
+    "ἀποκτενῶ ἐν θανάτῳ é expressão enfática; νεφρούς e καρδίας representam o foro interior em linguagem antropológica bíblica. Aplicação histórica concreta requer evidências independentes."
   ]
 } as const;

@@ -8,7 +8,7 @@ export const apocalipse2v9 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço a tua tribulação e pobreza — mas és rico — e a difamação daqueles que se dizem judeus e não são, mas são sinagoga de Satanás.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "πτωχεία e πλούσιος εἶ compõem contraste entre pobreza material e riqueza de outra ordem. «Sinagoga de Satanás» é linguagem polêmica situada em tensões históricas particulares; não deve ser aplicada genericamente a judeus.\n\n[Revisão acadêmica complementar] οἶδά σου τὴν θλῖψιν é construção com genitivo pronominal e objeto acusativo; a linguagem polêmica 'sinagoga de Satanás' deve ser contextualizada e jamais generalizada contra o povo judeu.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A avaliação divina contrasta com pobreza externa.",
     "A polêmica religiosa deve ser contextualizada, nunca generalizada contra um povo."
@@ -43,7 +43,7 @@ export const apocalipse2v9 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tua",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -355,7 +355,7 @@ export const apocalipse2v9 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -638,5 +638,9 @@ export const apocalipse2v9 = {
       },
       "morphgntPos": "N-"
     }
+  ],
+  "syntacticNotes": [
+    "πτωχεία e πλούσιος εἶ compõem contraste entre pobreza material e riqueza de outra ordem. «Sinagoga de Satanás» é linguagem polêmica situada em tensões históricas particulares; não deve ser aplicada genericamente a judeus.",
+    "οἶδά σου τὴν θλῖψιν é construção com genitivo pronominal e objeto acusativo; a linguagem polêmica 'sinagoga de Satanás' deve ser contextualizada e jamais generalizada contra o povo judeu."
   ]
 } as const;

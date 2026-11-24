@@ -8,7 +8,7 @@ export const apocalipse2v3 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tens perseverança, suportaste por causa do meu nome e não te cansaste.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "O SBLGNT lê καὶ οὐ κεκοπίακες (perfeito ativo indicativo, 2ª pessoa singular) em contraste com a forma aorista ἐκοπίασας em tradições do Textus Receptus. A diferença entre perfeito e aoristo merece anotação sem harmonização.\n\n[Revisão acadêmica complementar] κεκοπίακες é perfeito e não deve ser substituído por leitura aorista para harmonização. O contexto é perseverança por causa do nome de Cristo.",
+  "textualNotes": "Comparação editorial de edições gregas (não substitui colação de manuscritos): O SBLGNT lê καὶ οὐ κεκοπίακες (perfeito ativo indicativo, 2ª pessoa singular) em contraste com a forma aorista ἐκοπίασας em tradições do Textus Receptus. A diferença entre perfeito e aoristo merece anotação sem harmonização.",
   "exegeticalNotes": [
     "O esforço perseverante é relacionado ao nome de Cristo.",
     "O perfeito grego é preservado na análise de κεκοπίακες."
@@ -302,5 +302,8 @@ export const apocalipse2v3 = {
       },
       "morphgntPos": "V-"
     }
+  ],
+  "syntacticNotes": [
+    "κεκοπίακες é perfeito e não deve ser substituído por leitura aorista para harmonização. O contexto é perseverança por causa do nome de Cristo."
   ]
 } as const;

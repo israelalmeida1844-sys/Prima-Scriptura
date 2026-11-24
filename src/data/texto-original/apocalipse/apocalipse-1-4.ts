@@ -7,7 +7,7 @@ export const apocalipse1v4 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "João, às sete igrejas que estão na Ásia: graça a vocês e paz, da parte daquele que é, que era e que vem, e da parte dos sete espíritos que estão diante do seu trono.",
-  "textualNotes": "Em ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, ἀπό normalmente exige genitivo, mas os artigos e particípios permanecem no nominativo. O efeito pode indicar uma designação divina fixa, associável a Êxodo 3:14; a intenção deliberada é hipótese interpretativa, não inferência obrigatória da forma. O imperfeito ἦν é verbo finito nominalizado pelo artigo.\n\n[Revisão acadêmica complementar] A sequência ἀπὸ ὁ ὢν ... mantém formas nominativas após ἀπό; isso deve ser apresentado como irregularidade sintática ou fórmula nominal fixa, não corrigido por declinação editorial. A identidade dos sete espíritos demanda exegese de Ap 3:1; 4:5; 5:6.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "translationNote": "A fórmula divina permanece próxima da sintaxe original; «sete espíritos» não foi resolvido por paráfrase dogmática.",
   "words": [
     {
@@ -159,7 +159,7 @@ export const apocalipse1v4 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "na",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -423,7 +423,7 @@ export const apocalipse1v4 = {
       "shortMorph": "V-IAI-3S",
       "greek": "ἦν",
       "transliteration": "ēn",
-      "gloss": "que era",
+      "gloss": "era",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -754,5 +754,10 @@ export const apocalipse1v4 = {
       },
       "morphgntPos": "RP"
     }
-  ]
+  ],
+  "syntacticNotes": [
+    "Em ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, ἀπό normalmente exige genitivo, mas os artigos e particípios permanecem no nominativo. O efeito pode indicar uma designação divina fixa, associável a Êxodo 3:14; a intenção deliberada é hipótese interpretativa, não inferência obrigatória da forma. O imperfeito ἦν é verbo finito nominalizado pelo artigo.",
+    "A sequência ἀπὸ ὁ ὢν ... mantém formas nominativas após ἀπό; isso deve ser apresentado como irregularidade sintática ou fórmula nominal fixa, não corrigido por declinação editorial. A identidade dos sete espíritos demanda exegese de Ap 3:1; 4:5; 5:6."
+  ],
+  "exegeticalNotes": []
 } as const;

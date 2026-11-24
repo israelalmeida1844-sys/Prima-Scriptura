@@ -8,7 +8,7 @@ export const apocalipse2v11 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. O vencedor de modo algum sofrerá dano da segunda morte.",
   "translationNote": "οὐ μή com aoristo passivo subjuntivo equivale a «de modo algum sofrerá dano», não a duas negações que se anulam.",
-  "textualNotes": "οὐ μή + ἀδικηθῇ, aoristo passivo subjuntivo 3ª pessoa singular, expressa negação enfática prospectiva. A segunda morte é retomada em Ap 20:6,14; 21:8.\n\n[Revisão acadêmica complementar] οὐ μή seguido de subjuntivo aoristo passivo ἀδικηθῇ é negação enfática de dano futuro; segunda morte é expressão intratextual que deve ser analisada em Ap 20–21.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A segunda morte é distinta do sofrimento da morte física.",
     "A negação οὐ μή é intensiva."
@@ -283,7 +283,7 @@ export const apocalipse2v11 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "νικῶν",
       "transliteration": "nikōn",
-      "gloss": "vence",
+      "gloss": "que vence",
       "strong": "G3528",
       "lemma": "νικάω",
       "lemmaTransliteration": "nikaō",
@@ -494,5 +494,9 @@ export const apocalipse2v11 = {
       },
       "morphgntPos": "A-"
     }
+  ],
+  "syntacticNotes": [
+    "οὐ μή + ἀδικηθῇ, aoristo passivo subjuntivo 3ª pessoa singular, expressa negação enfática prospectiva. A segunda morte é retomada em Ap 20:6,14; 21:8.",
+    "οὐ μή seguido de subjuntivo aoristo passivo ἀδικηθῇ é negação enfática de dano futuro; segunda morte é expressão intratextual que deve ser analisada em Ap 20–21."
   ]
 } as const;

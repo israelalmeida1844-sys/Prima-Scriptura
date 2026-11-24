@@ -7,7 +7,7 @@ export const apocalipse1v7 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Eis que ele vem com as nuvens, e todo olho o verá, até mesmo aqueles que o traspassaram; e todas as tribos da terra se lamentarão por causa dele. Sim, amém.",
-  "textualNotes": "A passagem combina imagens de Daniel 7:13 e Zacarias 12:10–14. As decisões textuais do SBLGNT são mantidas no corpo principal, sem harmonização automática com as formas das respectivas passagens na Septuaginta.\n\n[Revisão acadêmica complementar] O futuro ὄψεται refere-se à visibilidade da vinda; οἵτινες ... ἐξεκέντησαν traz alusão a Zc 12:10. A relação de πᾶσαι αἱ φυλαὶ τῆς γῆς com Zacarias e o alcance de γῆ requerem avaliação contextual.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "translationNote": "«Toda vista» é traduzido idiomaticamente por «todo olho»; preserva-se o paralelismo profético.",
   "words": [
     {
@@ -610,5 +610,10 @@ export const apocalipse1v7 = {
       },
       "morphgntPos": "X-"
     }
-  ]
+  ],
+  "syntacticNotes": [
+    "A passagem combina imagens de Daniel 7:13 e Zacarias 12:10–14. As decisões textuais do SBLGNT são mantidas no corpo principal, sem harmonização automática com as formas das respectivas passagens na Septuaginta.",
+    "O futuro ὄψεται refere-se à visibilidade da vinda; οἵτινες ... ἐξεκέντησαν traz alusão a Zc 12:10. A relação de πᾶσαι αἱ φυλαὶ τῆς γῆς com Zacarias e o alcance de γῆ requerem avaliação contextual."
+  ],
+  "exegeticalNotes": []
 } as const;

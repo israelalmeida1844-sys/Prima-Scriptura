@@ -8,11 +8,10 @@ export const apocalipse4v8 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Os quatro seres viventes, cada um com seis asas, estavam cheios de olhos ao redor e por dentro; não tinham descanso nem de dia nem de noite, dizendo: Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O hino evoca Is 6:2–3. ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος é fórmula teológica com uso substantivado de formas verbais, inclusive ὁ ἦν com artigo antes de forma finita. A adoração é contínua.",
     "As seis asas por vivente aproximam a visão dos serafins de Is 6:2–3; os múltiplos olhos retomam elementos associados aos querubins em Ez 1 e 10.",
-    "O artigo ὁ antes do imperfeito finito ἦν constitui construção titulativa não usual; a fórmula completa evoca Ap 1:4 e não deve ser simplificada como se o grego tivesse três particípios.",
     "A tripla repetição de ἅγιος é a aclamação conhecida como Triságion; o rótulo litúrgico não constitui um token adicional da passagem."
   ],
   "words": [
@@ -29,7 +28,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -45,7 +44,7 @@ export const apocalipse4v8 = {
       "shortMorph": "Art-NPN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "o; a; artigo",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -53,7 +52,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὰ» (ὁ, G3588); Artigo definido nominativo plural neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -77,7 +76,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo nominativo plural neutro",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "Forma «τέσσαρα» (τέσσαρες, G5064); Adjetivo nominativo plural neutro. Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma. Numeral quantificador de ζῷα. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -101,7 +100,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo nominativo plural neutro",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "Forma «ζῷα,» (ζῷον, G2226); Substantivo nominativo plural neutro. Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -125,7 +124,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "Um; em 4:8, a repetição ἓν καθ’ ἓν distribui as seis asas a cada vivente.",
-      "explanation": "Forma «ἓν» (εἷς, G1520); Adjetivo nominativo singular neutro. Um; em 4:8, a repetição ἓν καθ’ ἓν distribui as seis asas a cada vivente. Primeiro termo da expressão distributiva ἓν καθ’ ἓν. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -140,7 +139,7 @@ export const apocalipse4v8 = {
       "id": "ap4-8-6",
       "shortMorph": "P-",
       "greek": "καθ’",
-      "transliteration": "kath",
+      "transliteration": "kath'",
       "gloss": "conforme; segundo; por",
       "strong": "G2596",
       "lemma": "κατά",
@@ -149,7 +148,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "κατά com genitivo em ἔχω κατὰ σοῦ expressa oposição ou queixa «tenho contra ti»; não localidade.",
-      "explanation": "Forma «καθ’» (κατά, G2596); Preposição. Sentido lexical contextual: conforme; segundo; por. Introdução de complemento preposicional. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -173,7 +172,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo acusativo singular neutro",
       "meanings": "Um; em 4:8, a repetição ἓν καθ’ ἓν distribui as seis asas a cada vivente.",
-      "explanation": "Forma «ἓν» (εἷς, G1520); Adjetivo acusativo singular neutro. Um; em 4:8, a repetição ἓν καθ’ ἓν distribui as seis asas a cada vivente. Segundo termo da expressão distributiva ἓν καθ’ ἓν. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -189,7 +188,7 @@ export const apocalipse4v8 = {
       "shortMorph": "PPro-GPN",
       "greek": "αὐτῶν",
       "transliteration": "autōn",
-      "gloss": "ele; deles",
+      "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -197,7 +196,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----GPN-",
       "morphology": "Pronome pessoal genitivo plural neutro",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτῶν» (αὐτός, G846); Pronome pessoal genitivo plural neutro. Sentido lexical contextual: ele; deles. Genitivo partitivo referente aos ζῷα. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -221,7 +220,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter; segurar",
-      "explanation": "Forma «ἔχων» (ἔχω, G2192); Verbo presente, voz ativa, particípio nominativo singular masculino. Sentido lexical contextual: ter; possuir. Particípio em relação descritiva. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -245,7 +244,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "Preposição distributiva «cada/por»; em 4:8, ἀνὰ πτέρυγας ἕξ significa seis asas por ser.",
-      "explanation": "Forma «ἀνὰ» (ἀνά, G303); Advérbio. Preposição distributiva «cada/por»; em 4:8, ἀνὰ πτέρυγας ἕξ significa seis asas por ser. Preposição distributiva que rege πτέρυγας. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -269,7 +268,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "Asa; usada em 4:8 para descrever cada um dos seres viventes.",
-      "explanation": "Forma «πτέρυγας» (πτέρυξ, G4420); Substantivo acusativo plural feminino. Asa; usada em 4:8 para descrever cada um dos seres viventes. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -293,7 +292,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "Numeral «seis»; número de asas atribuído a cada ser vivente em 4:8.",
-      "explanation": "Forma «ἕξ,» (ἕξ, G1803); Adjetivo acusativo plural feminino. Numeral «seis»; número de asas atribuído a cada ser vivente em 4:8. Numeral quantificador de πτέρυγας. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -317,7 +316,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "Advérbio que significa «em volta», «ao redor», usado ao redor do trono em 4:3–4,8.",
-      "explanation": "Forma «κυκλόθεν» (κυκλόθεν, G2943); Advérbio. Advérbio que significa «em volta», «ao redor», usado ao redor do trono em 4:3–4,8. Advérbio de localização exterior. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -341,7 +340,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -365,7 +364,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "Por dentro, na parte interior; em 4:8, descreve a extensão dos olhos dos viventes.",
-      "explanation": "Forma «ἔσωθεν» (ἔσωθεν, G2081); Advérbio. Por dentro, na parte interior; em 4:8, descreve a extensão dos olhos dos viventes. Advérbio de localização interior. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -389,7 +388,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "Estar cheio, abundar; usado para seres viventes repletos de olhos em 4:6 e 4:8.",
-      "explanation": "Forma «γέμουσιν» (γέμω, G1073); Verbo presente, voz ativa, indicativo, 3ª pessoa plural. Estar cheio, abundar; usado para seres viventes repletos de olhos em 4:6 e 4:8. Predicado verbal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -413,7 +412,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "olho",
-      "explanation": "Forma «ὀφθαλμῶν·» (ὀφθαλμός, G3788); Substantivo genitivo plural masculino. Sentido lexical contextual: olho. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -437,7 +436,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -461,7 +460,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Descanso, repouso; em 4:8, negado na imagem da adoração incessante.",
-      "explanation": "Forma «ἀνάπαυσιν» (ἀνάπαυσις, G372); Substantivo acusativo singular feminino. Descanso, repouso; em 4:8, negado na imagem da adoração incessante. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -485,7 +484,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
-      "explanation": "Forma «οὐκ» (οὐ, G3756); Advérbio. Sentido lexical contextual: não. Advérbio de negação ligado a ἔχουσιν. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -509,7 +508,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ter; segurar",
-      "explanation": "Forma «ἔχουσιν» (ἔχω, G2192); Verbo presente, voz ativa, indicativo, 3ª pessoa plural. Sentido lexical contextual: ter; possuir. Predicado verbal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -533,7 +532,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "dia",
-      "explanation": "Forma «ἡμέρας» (ἡμέρα, G2250); Substantivo genitivo singular feminino. Sentido lexical contextual: dia. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -557,7 +556,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -581,7 +580,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "Noite; genitivo coordenado ao dia em 4:8, expressando continuidade temporal.",
-      "explanation": "Forma «νυκτὸς» (νύξ, G3571); Substantivo genitivo singular feminino. Noite; genitivo coordenado ao dia em 4:8, expressando continuidade temporal. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -605,7 +604,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "-PAPNPM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo plural masculino",
       "meanings": "dizer; declarar",
-      "explanation": "Forma «λέγοντες·» (λέγω, G3004); Verbo presente, voz ativa, particípio nominativo plural masculino. Sentido lexical contextual: dizer. Particípio em relação descritiva. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -629,7 +628,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "Santo ou consagrado; em 3:7 é título substantivado do Cristo que fala.",
-      "explanation": "Forma «Ἅγιος» (ἅγιος, G40); Adjetivo nominativo singular masculino. Sentido lexical contextual: santo. Primeira aclamação predicativa dirigida ao Senhor. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -653,7 +652,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "Santo ou consagrado; em 3:7 é título substantivado do Cristo que fala.",
-      "explanation": "Forma «ἅγιος» (ἅγιος, G40); Adjetivo nominativo singular masculino. Sentido lexical contextual: santo. Segunda aclamação predicativa dirigida ao Senhor. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -677,7 +676,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "Santo ou consagrado; em 3:7 é título substantivado do Cristo que fala.",
-      "explanation": "Forma «ἅγιος» (ἅγιος, G40); Adjetivo nominativo singular masculino. Sentido lexical contextual: santo. Terceira aclamação predicativa dirigida ao Senhor. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -701,7 +700,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "Senhor",
-      "explanation": "Forma «κύριος,» (κύριος, G2962); Substantivo nominativo singular masculino. Sentido lexical contextual: Senhor. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -717,7 +716,7 @@ export const apocalipse4v8 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -725,7 +724,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» (ὁ, G3588); Artigo definido nominativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -749,7 +748,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Forma «θεός,» (θεός, G2316); Substantivo nominativo singular masculino. Sentido lexical contextual: Deus. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -765,7 +764,7 @@ export const apocalipse4v8 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -773,7 +772,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» (ὁ, G3588); Artigo definido nominativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -797,7 +796,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "Todo-Poderoso; soberano sobre tudo",
-      "explanation": "Forma «παντοκράτωρ,» (παντοκράτωρ, G3841); Substantivo nominativo singular masculino. Sentido lexical contextual: Todo-Poderoso. Núcleo de sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -813,7 +812,7 @@ export const apocalipse4v8 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -821,7 +820,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» (ὁ, G3588); Artigo definido nominativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -837,7 +836,7 @@ export const apocalipse4v8 = {
       "shortMorph": "V-IAI-3S",
       "greek": "ἦν",
       "transliteration": "ēn",
-      "gloss": "ser; estar",
+      "gloss": "era",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -845,7 +844,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo imperfeito, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «ἦν» (εἰμί, G1510); Verbo imperfeito, voz ativa, indicativo, 3ª pessoa singular. Sentido lexical contextual: ser; estar. Predicado verbal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -869,7 +868,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -885,7 +884,7 @@ export const apocalipse4v8 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -893,7 +892,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» (ὁ, G3588); Artigo definido nominativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -917,7 +916,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «ὢν» (εἰμί, G1510); Verbo presente, voz ativa, particípio nominativo singular masculino. Sentido lexical contextual: ser; estar. Particípio em relação descritiva. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -941,7 +940,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -957,7 +956,7 @@ export const apocalipse4v8 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -965,7 +964,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» (ὁ, G3588); Artigo definido nominativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -989,7 +988,7 @@ export const apocalipse4v8 = {
       "morphologyCode": "-PMPNSM-",
       "morphology": "Verbo presente, voz média, particípio nominativo singular masculino",
       "meanings": "vir; chegar",
-      "explanation": "Forma «ἐρχόμενος.» (ἔρχομαι, G2064); Verbo presente, voz média, particípio nominativo singular masculino. Sentido lexical contextual: vir. Particípio em relação descritiva. ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:8"
       ],
@@ -1000,5 +999,9 @@ export const apocalipse4v8 = {
       },
       "morphgntPos": "V-"
     }
+  ],
+  "syntacticNotes": [
+    "ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
+    "O artigo ὁ antes do imperfeito finito ἦν constitui construção titulativa não usual; a fórmula completa evoca Ap 1:4 e não deve ser simplificada como se o grego tivesse três particípios."
   ]
 } as const;

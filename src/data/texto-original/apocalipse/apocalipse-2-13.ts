@@ -8,7 +8,7 @@ export const apocalipse2v13 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sei onde habitas, onde está o trono de Satanás. Entretanto, conservas meu nome e não negaste minha fé, mesmo nos dias de Antipas, minha testemunha fiel, que foi morto entre vós, onde Satanás habita.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὅπου ὁ θρόνος τοῦ Σατανᾶ descreve Pérgamo polemicamente; associações ao altar de Zeus ou ao culto imperial são hipóteses históricas concorrentes, não referências explicitadas no grego. Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου está no nominativo com aposições nominativas, embora o encadeamento após ἐν ταῖς ἡμέραις seja sintaticamente abrupto; não converter o nome para genitivo.\n\n[Revisão acadêmica complementar] ὅπου ὁ θρόνος τοῦ Σατανᾶ contém elipse verbal compreensível no contexto. Ἀντιπᾶς permanece nominativo após expressão temporal, com aposição também nominativa; a irregularidade não deve ser normalizada.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "Pérgamo: fidelidade comunitária em ambiente de conflito religioso; o trono de Satanás é linguagem simbólica cujo referente histórico permanece debatido.",
     "Antipas recebe título de testemunha fiel; a construção gramatical é abrupta, e uma biografia histórica independente não deve ser inventada."
@@ -307,7 +307,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -451,7 +451,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -523,7 +523,7 @@ export const apocalipse2v13 = {
       "shortMorph": "Art-DPF",
       "greek": "ταῖς",
       "transliteration": "tais",
-      "gloss": "às",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -643,7 +643,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -715,7 +715,7 @@ export const apocalipse2v13 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -786,7 +786,7 @@ export const apocalipse2v13 = {
       "id": "ap2-13-33",
       "shortMorph": "P-",
       "greek": "παρ’",
-      "transliteration": "par",
+      "transliteration": "par'",
       "gloss": "junto de",
       "strong": "G3844",
       "lemma": "παρά",
@@ -926,5 +926,9 @@ export const apocalipse2v13 = {
       },
       "morphgntPos": "V-"
     }
+  ],
+  "syntacticNotes": [
+    "ὅπου ὁ θρόνος τοῦ Σατανᾶ descreve Pérgamo polemicamente; associações ao altar de Zeus ou ao culto imperial são hipóteses históricas concorrentes, não referências explicitadas no grego. Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου está no nominativo com aposições nominativas, embora o encadeamento após ἐν ταῖς ἡμέραις seja sintaticamente abrupto; não converter o nome para genitivo.",
+    "ὅπου ὁ θρόνος τοῦ Σατανᾶ contém elipse verbal compreensível no contexto. Ἀντιπᾶς permanece nominativo após expressão temporal, com aposição também nominativa; a irregularidade não deve ser normalizada."
   ]
 } as const;

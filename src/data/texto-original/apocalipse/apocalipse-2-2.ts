@@ -8,7 +8,7 @@ export const apocalipse2v2 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço as tuas obras, o teu trabalho e a tua perseverança; não podes suportar os maus e puseste à prova aqueles que se dizem apóstolos, mas não são, e os achaste falsos.",
   "translationNote": "O presente δύνῃ rege o infinitivo aoristo βαστάσαι; a tradução distingue perseverança da recusa em suportar agentes maus.",
-  "textualNotes": "οὐ δύνῃ βαστάσαι κακούς combina verbo deponente δύναμαι (presente médio/passivo indicativo 2ª pessoa singular) e infinitivo aoristo ativo βαστάσαι. A perícope discute o exame de reivindicações de apostolado.\n\n[Revisão acadêmica complementar] οὐ δύνῃ βαστάσαι une verbo de possibilidade e infinitivo complementar; πειράζω caracteriza submeter alegações à prova. ψευδεῖς é predicativo do objeto αὐτούς.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A comunidade é elogiada por obras, perseverança e exame crítico dos falsos apóstolos.",
     "Discernimento e fidelidade são apresentados em conjunto."
@@ -43,7 +43,7 @@ export const apocalipse2v2 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -91,7 +91,7 @@ export const apocalipse2v2 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου,",
       "transliteration": "sou",
-      "gloss": "teu/de ti",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -259,7 +259,7 @@ export const apocalipse2v2 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου,",
       "transliteration": "sou",
-      "gloss": "teu/de ti",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -734,5 +734,9 @@ export const apocalipse2v2 = {
       },
       "morphgntPos": "A-"
     }
+  ],
+  "syntacticNotes": [
+    "οὐ δύνῃ βαστάσαι κακούς combina verbo deponente δύναμαι (presente médio/passivo indicativo 2ª pessoa singular) e infinitivo aoristo ativo βαστάσαι. A perícope discute o exame de reivindicações de apostolado.",
+    "οὐ δύνῃ βαστάσαι une verbo de possibilidade e infinitivo complementar; πειράζω caracteriza submeter alegações à prova. ψευδεῖς é predicativo do objeto αὐτούς."
   ]
 } as const;

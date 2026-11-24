@@ -8,7 +8,7 @@ export const apocalipse1v20 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quanto ao mistério das sete estrelas que você viu na minha mão direita e dos sete candelabros de ouro: as sete estrelas são os anjos das sete igrejas, e os sete candelabros são as sete igrejas».",
   "translationNote": "A construção inicial é topicalizada e apresenta assimetria de casos; a tradução portuguesa «Quanto ao mistério...» representa a função discursiva, sem converter o grego em acusativo.",
-  "textualNotes": "τὸ μυστήριον é neutro singular, com nominativo e acusativo formalmente idênticos; MorphGNT o analisa como nominativo. τὰς ἑπτὰ λυχνίας é inequivocamente acusativo feminino plural. A abertura admite tópico pendente ou anacoluto; a relação com γράψον (1:19) é hipótese sintática. οἱ ἑπτὰ ἀστέρες e αἱ λυχνίαι são sujeitos nominativos de εἰσίν.\n\n[Revisão acadêmica complementar] τὸ μυστήριον pode ser nominativo ou acusativo quanto à forma; τὰς ... λυχνίας é acusativo. Preservar essa assimetria e discutir tópico pendente/anacoluto, sem reanálise categórica não demonstrada.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "τὸ μυστήριον tem análise nominativa no MorphGNT, ao passo que τὰς ἑπτὰ λυχνίας é acusativo; não uniformizar casos sem justificativa.",
     "O versículo identifica as estrelas com anjos das igrejas e os candelabros com as igrejas."
@@ -67,7 +67,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -259,7 +259,7 @@ export const apocalipse1v20 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -427,7 +427,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-NPM",
       "greek": "οἱ",
       "transliteration": "hoi",
-      "gloss": "o",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -523,7 +523,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-GPF",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -643,7 +643,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-NPF",
       "greek": "αἱ",
       "transliteration": "hai",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -691,7 +691,7 @@ export const apocalipse1v20 = {
       "shortMorph": "Art-NPF",
       "greek": "αἱ",
       "transliteration": "hai",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -806,5 +806,9 @@ export const apocalipse1v20 = {
       },
       "morphgntPos": "V-"
     }
+  ],
+  "syntacticNotes": [
+    "τὸ μυστήριον é neutro singular, com nominativo e acusativo formalmente idênticos; MorphGNT o analisa como nominativo. τὰς ἑπτὰ λυχνίας é inequivocamente acusativo feminino plural. A abertura admite tópico pendente ou anacoluto; a relação com γράψον (1:19) é hipótese sintática. οἱ ἑπτὰ ἀστέρες e αἱ λυχνίαι são sujeitos nominativos de εἰσίν.",
+    "τὸ μυστήριον pode ser nominativo ou acusativo quanto à forma; τὰς ... λυχνίας é acusativo. Preservar essa assimetria e discutir tópico pendente/anacoluto, sem reanálise categórica não demonstrada."
   ]
 } as const;

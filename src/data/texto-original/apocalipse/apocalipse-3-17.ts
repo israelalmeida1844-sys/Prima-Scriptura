@@ -8,9 +8,9 @@ export const apocalipse3v17 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Porque dizes: Sou rico, enriqueci e não necessito de nada; e não sabes que és o infeliz, miserável, pobre, cego e nu,",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP."
+    "A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista."
   ],
   "words": [
     {
@@ -26,12 +26,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "Forma «ὅτι» do lema «ὅτι» (Strong G3754): Conjunção . Glosa contextual de apoio: «que». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -50,7 +50,7 @@ export const apocalipse3v17 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "dizer; declarar",
-      "explanation": "Forma «λέγεις» do lema «λέγω» (Strong G3004): Verbo presente, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «dizer». Predicado verbal. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
@@ -74,12 +74,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "Forma «ὅτι» do lema «ὅτι» (Strong G3754): Conjunção . Glosa contextual de apoio: «que». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -98,12 +98,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "πλούσιος εἶ predica riqueza da comunidade apesar de πτωχεία; riqueza é caracterizada pelo contraste teológico do versículo.",
-      "explanation": "Forma «Πλούσιός» do lema «πλούσιος» (Strong G4145): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «rico». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -122,7 +122,7 @@ export const apocalipse3v17 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «εἰμι» do lema «εἰμί» (Strong G1510): Verbo presente, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «ser». Predicado verbal. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
@@ -138,7 +138,7 @@ export const apocalipse3v17 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -146,12 +146,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -170,7 +170,7 @@ export const apocalipse3v17 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "enriquecer",
-      "explanation": "Forma «πεπλούτηκα» do lema «πλουτέω» (Strong G4147): Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «enriquecer». Predicado verbal. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
@@ -186,7 +186,7 @@ export const apocalipse3v17 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -194,12 +194,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -218,12 +218,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo acusativo singular neutro",
       "meanings": "οὐδείς é pronome negativo «ninguém» e sujeito de οἶδεν, salvo a exceção εἰ μή.",
-      "explanation": "Forma «οὐδὲν» do lema «οὐδείς» (Strong G3762): Adjetivo acusativo singular neutro. Glosa contextual de apoio: «ninguém». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -242,7 +242,7 @@ export const apocalipse3v17 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "necessidade",
-      "explanation": "Forma «χρείαν» do lema «χρεία» (Strong G5532): Substantivo acusativo singular feminino. Glosa contextual de apoio: «necessidade». Núcleo nominal. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
@@ -266,7 +266,7 @@ export const apocalipse3v17 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter; segurar",
-      "explanation": "Forma «ἔχω,» do lema «ἔχω» (Strong G2192): Verbo presente, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «tinha». Predicado verbal. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
@@ -282,7 +282,7 @@ export const apocalipse3v17 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -290,12 +290,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -314,12 +314,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
-      "explanation": "Forma «οὐκ» do lema «οὐ» (Strong G3756): Advérbio . Glosa contextual de apoio: «não». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -338,7 +338,7 @@ export const apocalipse3v17 = {
       "morphologyCode": "2XAI-S--",
       "morphology": "Verbo perfeito, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação.",
-      "explanation": "Forma «οἶδας» do lema «οἶδα» (Strong G1492): Verbo perfeito, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «conheço». Predicado verbal. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
@@ -362,12 +362,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "Forma «ὅτι» do lema «ὅτι» (Strong G3754): Conjunção . Glosa contextual de apoio: «que». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -386,12 +386,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome nominativo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σὺ» do lema «σύ» (Strong G4771): Pronome nominativo singular. Glosa contextual de apoio: «tu». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -402,7 +402,7 @@ export const apocalipse3v17 = {
       "shortMorph": "V- 2PAI-S--",
       "greek": "εἶ",
       "transliteration": "ei",
-      "gloss": "ser",
+      "gloss": "és",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -410,7 +410,7 @@ export const apocalipse3v17 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «εἶ» do lema «εἰμί» (Strong G1510): Verbo presente, voz ativa, indicativo, 2ª pessoa singular. Glosa contextual de apoio: «ser». Predicado verbal. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
@@ -426,7 +426,7 @@ export const apocalipse3v17 = {
       "shortMorph": "RA ----NSM-",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -434,7 +434,7 @@ export const apocalipse3v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
@@ -458,12 +458,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "infeliz",
-      "explanation": "Forma «ταλαίπωρος» do lema «ταλαίπωρος» (Strong G5005): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «infeliz». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -474,7 +474,7 @@ export const apocalipse3v17 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -482,12 +482,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -506,12 +506,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "miserável",
-      "explanation": "Forma «ἐλεεινὸς» do lema «ἐλεεινός» (Strong G1652): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «miserável». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -522,7 +522,7 @@ export const apocalipse3v17 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -530,12 +530,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -554,12 +554,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "pobre",
-      "explanation": "Forma «πτωχὸς» do lema «πτωχός» (Strong G4434): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «pobre». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -570,7 +570,7 @@ export const apocalipse3v17 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -578,12 +578,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -602,12 +602,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "cego",
-      "explanation": "Forma «τυφλὸς» do lema «τυφλός» (Strong G5185): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «cego». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -618,7 +618,7 @@ export const apocalipse3v17 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -626,12 +626,12 @@ export const apocalipse3v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -650,16 +650,19 @@ export const apocalipse3v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "nu",
-      "explanation": "Forma «γυμνός,» do lema «γυμνός» (Strong G1131): Adjetivo nominativo singular masculino. Glosa contextual de apoio: «nu». Função a revisar. πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva.\n\nExegese: A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista.\n\nCrítica textual: Presença do segundo ὅτι no SBLGNT (WH/Treg/NIV), ausente RP; οὐδὲν (ac.) contra οὐδενός (gen.) RP; acréscimo de ὁ antes de ἐλεεινός no RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
       "morphgntPos": "A-"
     }
+  ],
+  "syntacticNotes": [
+    "πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva."
   ]
 } as const;

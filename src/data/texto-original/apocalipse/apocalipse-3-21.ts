@@ -8,9 +8,9 @@ export const apocalipse3v21 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao vencedor concederei sentar-se comigo em meu trono, assim como eu também venci e me sentei com meu Pai no trono dele.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado."
+    "A promessa de participação no trono utiliza linguagem régia e escatológica; comparar Ap 4–5 e 20–22. Não equivale, por si só, a uma declaração de igualdade ontológica com o Pai."
   ],
   "words": [
     {
@@ -18,7 +18,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RA ----NSM-",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -26,7 +26,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -42,7 +42,7 @@ export const apocalipse3v21 = {
       "shortMorph": "V- -PAPNSM-",
       "greek": "νικῶν",
       "transliteration": "nikōn",
-      "gloss": "vencer, conquistar, prevalecer",
+      "gloss": "que vence",
       "strong": "G3528",
       "lemma": "νικάω",
       "lemmaTransliteration": "nikaō",
@@ -50,7 +50,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "νικάω descreve vitória ou superação. Nas mensagens às igrejas, o particípio articular substantivado identifica aquele que vence e recebe promessa escatológica.",
-      "explanation": "Forma «νικῶν» do lema «νικάω» (Strong G3528): Verbo presente, voz ativa, particípio nominativo singular masculino. Glosa contextual de apoio: «vencer, conquistar, prevalecer». Particípio. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -66,7 +66,7 @@ export const apocalipse3v21 = {
       "shortMorph": "V- 1FAI-S--",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "Dar, conceder por graça ou outorgar autoridade",
+      "gloss": "concederei",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -74,7 +74,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "Ato voluntário de conferir algo a outrem, outorga de prerrogativa ou revelação divina.",
-      "explanation": "Forma «δώσω» do lema «δίδωμι» (Strong G1325): Verbo futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «Dar, conceder por graça ou outorgar autoridade». Predicado verbal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -90,7 +90,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RP ----DSM-",
       "greek": "αὐτῷ",
       "transliteration": "autō",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "a ele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -98,12 +98,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "----DSM-",
       "morphology": "Pronome dativo singular masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτῷ» do lema «αὐτός» (Strong G846): Pronome dativo singular masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Dativo de destinatário de δώσω (a ele)",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -122,7 +122,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo aoristo, voz ativa, infinitivo",
       "meanings": "sentar-se",
-      "explanation": "Forma «καθίσαι» do lema «καθίζω» (Strong G2523): Verbo aoristo, voz ativa, infinitivo. Glosa contextual de apoio: «sentar-se». Predicado verbal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -137,7 +137,7 @@ export const apocalipse3v21 = {
       "id": "ap3-21-6",
       "shortMorph": "P- --------",
       "greek": "μετ’",
-      "transliteration": "met",
+      "transliteration": "met'",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",
@@ -146,12 +146,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "com; depois de",
-      "explanation": "Forma «μετ’» do lema «μετά» (Strong G3326): Preposição . Glosa contextual de apoio: «com». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Preposição μετά que rege o genitivo ἐμοῦ (companhia)",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -162,7 +162,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RP ----GS--",
       "greek": "ἐμοῦ",
       "transliteration": "emou",
-      "gloss": "eu",
+      "gloss": "de mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -170,12 +170,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «ἐμοῦ» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Genitivo regido por μετά (comigo)",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -186,7 +186,7 @@ export const apocalipse3v21 = {
       "shortMorph": "P- --------",
       "greek": "ἐν",
       "transliteration": "en",
-      "gloss": "Em, dentro de, em meio a (uso adverbial ou temporal)",
+      "gloss": "em",
       "strong": "G1722",
       "lemma": "ἐν",
       "lemmaTransliteration": "en",
@@ -194,12 +194,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Forma «ἐν» do lema «ἐν» (Strong G1722): Preposição . Glosa contextual de apoio: «Em, dentro de, em meio a (uso adverbial ou temporal)». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "Nesta construção, ἐν rege o dativo com valor locativo.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Preposição ἐν com dativo locativo: «no trono»",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -210,7 +210,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RA ----DSM-",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -218,7 +218,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῷ» do lema «ὁ» (Strong G3588): Artigo definido dativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -242,12 +242,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "trono",
-      "explanation": "Forma «θρόνῳ» do lema «θρόνος» (Strong G2362): Substantivo dativo singular masculino. Glosa contextual de apoio: «trono». Núcleo nominal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Núcleo do sintagma dativo locativo regido por ἐν",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -258,7 +258,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RP ----GS--",
       "greek": "μου,",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -266,12 +266,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου,» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Genitivo possessivo (meu)",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -290,12 +290,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "como",
-      "explanation": "Forma «ὡς» do lema «ὡς» (Strong G5613): Conjunção . Glosa contextual de apoio: «como». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conjunção comparativa que introduz a cláusula da vitória de Cristo",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -314,12 +314,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome nominativo singular",
       "meanings": "κἀγώ contrai καὶ ἐγώ («e eu também»), ligando a posição de Cristo à rejeição das obras mencionadas.",
-      "explanation": "Forma «κἀγὼ» do lema «κἀγώ» (Strong G2504): Pronome nominativo singular. Glosa contextual de apoio: «eu também». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Sujeito enfático da oração comparativa (eu também)",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -330,7 +330,7 @@ export const apocalipse3v21 = {
       "shortMorph": "V- 1AAI-S--",
       "greek": "ἐνίκησα",
       "transliteration": "enikēsa",
-      "gloss": "vencer, conquistar, prevalecer",
+      "gloss": "venci",
       "strong": "G3528",
       "lemma": "νικάω",
       "lemmaTransliteration": "nikaō",
@@ -338,7 +338,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "νικάω descreve vitória ou superação. Nas mensagens às igrejas, o particípio articular substantivado identifica aquele que vence e recebe promessa escatológica.",
-      "explanation": "Forma «ἐνίκησα» do lema «νικάω» (Strong G3528): Verbo aoristo, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «vencer, conquistar, prevalecer». Predicado verbal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -354,7 +354,7 @@ export const apocalipse3v21 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -362,12 +362,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conjunção que coordena os verbos de Cristo",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -386,7 +386,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "sentar-se",
-      "explanation": "Forma «ἐκάθισα» do lema «καθίζω» (Strong G2523): Verbo aoristo, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «sentar-se». Predicado verbal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -410,12 +410,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "com; depois de",
-      "explanation": "Forma «μετὰ» do lema «μετά» (Strong G3326): Preposição . Glosa contextual de apoio: «com». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Preposição μετά que rege o genitivo τοῦ πατρός (companhia)",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -426,7 +426,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -434,7 +434,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -458,7 +458,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "pai",
-      "explanation": "Forma «πατρός» do lema «πατήρ» (Strong G3962): Substantivo genitivo singular masculino. Glosa contextual de apoio: «pai». Núcleo nominal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -474,7 +474,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RP ----GS--",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -482,12 +482,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Genitivo possessivo (meu)",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -498,7 +498,7 @@ export const apocalipse3v21 = {
       "shortMorph": "P- --------",
       "greek": "ἐν",
       "transliteration": "en",
-      "gloss": "Em, dentro de, em meio a (uso adverbial ou temporal)",
+      "gloss": "em",
       "strong": "G1722",
       "lemma": "ἐν",
       "lemmaTransliteration": "en",
@@ -506,12 +506,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Forma «ἐν» do lema «ἐν» (Strong G1722): Preposição . Glosa contextual de apoio: «Em, dentro de, em meio a (uso adverbial ou temporal)». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "Nesta construção, ἐν rege o dativo com valor locativo.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Preposição ἐν com dativo locativo: «no trono»",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -522,7 +522,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RA ----DSM-",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -530,7 +530,7 @@ export const apocalipse3v21 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῷ» do lema «ὁ» (Strong G3588): Artigo definido dativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
@@ -554,12 +554,12 @@ export const apocalipse3v21 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "trono",
-      "explanation": "Forma «θρόνῳ» do lema «θρόνος» (Strong G2362): Substantivo dativo singular masculino. Glosa contextual de apoio: «trono». Núcleo nominal. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Núcleo do sintagma dativo locativo regido por ἐν",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -570,7 +570,7 @@ export const apocalipse3v21 = {
       "shortMorph": "RP ----GSM-",
       "greek": "αὐτοῦ.",
       "transliteration": "autou",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -578,16 +578,20 @@ export const apocalipse3v21 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome genitivo singular masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτοῦ.» do lema «αὐτός» (Strong G846): Pronome genitivo singular masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ὁ νικῶν substantiva o particípio. δώσω ... καθίσαι expressa concessão de sentar-se; ὡς κἀγὼ ἐνίκησα καὶ ἐκάθισα estabelece paralelo entre vitória do Cristo e promessa ao vencedor.\n\nExegese: O trono prometido pertence ao imaginário régio e escatológico de Apocalipse; estudar com 4–5 e 20–22. Não pressupor relação de igualdade ontológica com o Pai por causa da metáfora de participação.\n\nCrítica textual: Sem unidade destacada no aparato comparativo consultado.",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Genitivo possessivo: trono dele",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
       "morphgntPos": "RP"
     }
+  ],
+  "syntacticNotes": [
+    "ὁ νικῶν é particípio presente articular substantivado («aquele que vence»). δώσω rege o infinitivo aoristo καθίσαι; ὡς κἀγὼ estabelece a comparação entre a vitória de Cristo e a promessa ao vencedor.",
+    "μετ’ ἐμοῦ e μετὰ τοῦ πατρός μου contêm μετά com genitivo de companhia. ἐν τῷ θρόνῳ μου e ἐν τῷ θρόνῳ αὐτοῦ contêm ἐν + dativo locativo («no meu trono», «no trono dele»)."
   ]
 } as const;

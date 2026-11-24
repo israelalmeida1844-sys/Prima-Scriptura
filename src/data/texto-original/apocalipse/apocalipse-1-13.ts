@@ -8,7 +8,7 @@ export const apocalipse1v13 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E, no meio dos candelabros, vi alguém semelhante a um filho de homem, vestido com uma roupa longa até os pés e cingido à altura do peito com uma faixa de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "ὅμοιον υἱὸν ἀνθρώπου é uma construção sem artigo, evocando Daniel 7:13. ποδήρη é acusativo singular de ποδήρης, adjetivo substantivado para veste longa até os pés; sua possível função sacerdotal é inferência intertextual.\n\n[Revisão acadêmica complementar] ὅμοιον υἱὸν ἀνθρώπου ecoa Dn 7:13 sem necessariamente reproduzir todas as escolhas lexicais da LXX. A veste ποδήρη é longa; sua função sacerdotal é inferida por intertextualidade.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A figura «semelhante a um filho de homem» remete à visão de Daniel 7.",
     "A roupa longa e a faixa de ouro comunicam dignidade e autoridade, com possíveis ressonâncias sacerdotais."
@@ -91,7 +91,7 @@ export const apocalipse1v13 = {
       "shortMorph": "Art-GPF",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -331,7 +331,7 @@ export const apocalipse1v13 = {
       "shortMorph": "Art-DPM",
       "greek": "τοῖς",
       "transliteration": "tois",
-      "gloss": "os",
+      "gloss": "aos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -422,5 +422,9 @@ export const apocalipse1v13 = {
       },
       "morphgntPos": "A-"
     }
+  ],
+  "syntacticNotes": [
+    "ὅμοιον υἱὸν ἀνθρώπου é uma construção sem artigo, evocando Daniel 7:13. ποδήρη é acusativo singular de ποδήρης, adjetivo substantivado para veste longa até os pés; sua possível função sacerdotal é inferência intertextual.",
+    "ὅμοιον υἱὸν ἀνθρώπου ecoa Dn 7:13 sem necessariamente reproduzir todas as escolhas lexicais da LXX. A veste ποδήρη é longa; sua função sacerdotal é inferida por intertextualidade."
   ]
 } as const;

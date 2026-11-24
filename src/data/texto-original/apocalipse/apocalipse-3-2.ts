@@ -8,9 +8,9 @@ export const apocalipse3v2 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sê vigilante e fortalece o que resta e estava prestes a morrer, pois não encontrei tuas obras completas diante de meu Deus.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais."
+    "A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus."
   ],
   "words": [
     {
@@ -18,7 +18,7 @@ export const apocalipse3v2 = {
       "shortMorph": "V- 2PMD-S--",
       "greek": "γίνου",
       "transliteration": "ginou",
-      "gloss": "Vir a ser, acontecer, cumprir-se na história",
+      "gloss": "vir a ser",
       "strong": "G1096",
       "lemma": "γίνομαι",
       "lemmaTransliteration": "ginomai",
@@ -26,7 +26,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "2PMD-S--",
       "morphology": "Verbo presente, voz média, imperativo, 2ª pessoa singular",
       "meanings": "Passar a existir, realizar-se factualmente no tempo e no espaço.",
-      "explanation": "Forma «γίνου» do lema «γίνομαι» (Strong G1096): Verbo presente, voz média, imperativo, 2ª pessoa singular. Glosa contextual de apoio: «Vir a ser, acontecer, cumprir-se na história». Predicado verbal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -50,7 +50,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "vigiar",
-      "explanation": "Forma «γρηγορῶν,» do lema «γρηγορέω» (Strong G1127): Verbo presente, voz ativa, particípio nominativo singular masculino. Glosa contextual de apoio: «vigiar». Particípio. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -66,7 +66,7 @@ export const apocalipse3v2 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -74,12 +74,12 @@ export const apocalipse3v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -98,7 +98,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "fortalecer",
-      "explanation": "Forma «στήρισον» do lema «στηρίζω» (Strong G4741): Verbo aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa contextual de apoio: «fortalecer». Predicado verbal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -114,7 +114,7 @@ export const apocalipse3v2 = {
       "shortMorph": "RA ----APN-",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -122,7 +122,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὰ» do lema «ὁ» (Strong G3588): Artigo definido acusativo plural neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -146,12 +146,12 @@ export const apocalipse3v2 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "λοιποῖς é adjetivo substantivado dativo plural: «aos restantes», distinto do grupo criticado.",
-      "explanation": "Forma «λοιπὰ» do lema «λοιπός» (Strong G3062): Adjetivo acusativo plural neutro. Glosa contextual de apoio: «restante». Função a revisar. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -162,7 +162,7 @@ export const apocalipse3v2 = {
       "shortMorph": "RR ----NPN-",
       "greek": "ἃ",
       "transliteration": "ha",
-      "gloss": "Pronome relativo anafórico (o qual, a qual, que)",
+      "gloss": "pronome relativo anafórico (o qual",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -170,12 +170,12 @@ export const apocalipse3v2 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "Forma «ἃ» do lema «ὅς» (Strong G3739): Pronome relativo nominativo plural neutro. Glosa contextual de apoio: «Pronome relativo anafórico (o qual, a qual, que)». Função a revisar. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -194,7 +194,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "3IAI-P--",
       "morphology": "Verbo imperfeito, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "estar para; ser iminente",
-      "explanation": "Forma «ἔμελλον» do lema «μέλλω» (Strong G3195): Verbo imperfeito, voz ativa, indicativo, 3ª pessoa plural. Glosa contextual de apoio: «hão de». Predicado verbal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -218,7 +218,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo aoristo, voz ativa, infinitivo",
       "meanings": "morrer",
-      "explanation": "Forma «ἀποθανεῖν,» do lema «ἀποθνῄσκω» (Strong G599): Verbo aoristo, voz ativa, infinitivo. Glosa contextual de apoio: «morrer». Predicado verbal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -242,12 +242,12 @@ export const apocalipse3v2 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
-      "explanation": "Forma «οὐ» do lema «οὐ» (Strong G3756): Advérbio . Glosa contextual de apoio: «não». Função a revisar. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -266,12 +266,12 @@ export const apocalipse3v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "pois; porque",
-      "explanation": "Forma «γὰρ» do lema «γάρ» (Strong G1063): Conjunção . Glosa contextual de apoio: «pois». Função a revisar. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -290,7 +290,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "εὗρες está no aoristo ativo indicativo: o resultado da prova é reconhecer aqueles indivíduos como ψευδεῖς.",
-      "explanation": "Forma «εὕρηκά» do lema «εὑρίσκω» (Strong G2147): Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «achaste». Predicado verbal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -306,7 +306,7 @@ export const apocalipse3v2 = {
       "shortMorph": "RP ----GS--",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -314,12 +314,12 @@ export const apocalipse3v2 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σου» do lema «σύ» (Strong G4771): Pronome genitivo singular. Glosa contextual de apoio: «tu». Função a revisar. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -330,7 +330,7 @@ export const apocalipse3v2 = {
       "shortMorph": "RA ----APN-",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -338,7 +338,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὰ» do lema «ὁ» (Strong G3588): Artigo definido acusativo plural neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -362,7 +362,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo.",
-      "explanation": "Forma «ἔργα» do lema «ἔργον» (Strong G2041): Substantivo acusativo plural neutro. Glosa contextual de apoio: «obras». Núcleo nominal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -386,7 +386,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "-XPPAPN-",
       "morphology": "Verbo perfeito, voz passiva, particípio acusativo plural neutro",
       "meanings": "completar",
-      "explanation": "Forma «πεπληρωμένα» do lema «πληρόω» (Strong G4137): Verbo perfeito, voz passiva, particípio acusativo plural neutro. Glosa contextual de apoio: «completar». Particípio. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -410,12 +410,12 @@ export const apocalipse3v2 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "diante de; na presença de",
-      "explanation": "Forma «ἐνώπιον» do lema «ἐνώπιον» (Strong G1799): Preposição . Glosa contextual de apoio: «diante de». Função a revisar. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -426,7 +426,7 @@ export const apocalipse3v2 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -434,7 +434,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -450,7 +450,7 @@ export const apocalipse3v2 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "O Deus Supremo, o Criador e Pai de nosso Senhor",
+      "gloss": "o deus supremo",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -458,7 +458,7 @@ export const apocalipse3v2 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Forma «θεοῦ» do lema «θεός» (Strong G2316): Substantivo genitivo singular masculino. Glosa contextual de apoio: «O Deus Supremo, o Criador e Pai de nosso Senhor». Núcleo nominal. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
@@ -474,7 +474,7 @@ export const apocalipse3v2 = {
       "shortMorph": "RP ----GS--",
       "greek": "μου·",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -482,16 +482,19 @@ export const apocalipse3v2 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου·» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo.\n\nExegese: A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus.\n\nCrítica textual: SBLGNT: ἔμελλον ἀποθανεῖν (WH, Treg, NIV) contra ἔμελλες ἀποβάλλειν (RP); presença de τὰ em Treg/NIV/RP e ausência em WH. O aparato compara edições, não lista testemunhos individuais.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
       "morphgntPos": "RP"
     }
+  ],
+  "syntacticNotes": [
+    "γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo."
   ]
 } as const;

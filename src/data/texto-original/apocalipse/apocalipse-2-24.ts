@@ -8,7 +8,7 @@ export const apocalipse2v24 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "A vós, porém, digo, aos demais de Tiatira, a todos os que não seguem esse ensino e que não conheceram as chamadas profundezas de Satanás: não vos imponho outro fardo.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "τὰ βαθέα τοῦ Σατανᾶ, ὡς λέγουσιν: 'as profundezas de Satanás, como dizem'. Atribuir a frase a um sistema gnóstico historicamente constituído é anacrônico sem evidência específica. βάρος ('fardo') pode evocar At 15:28, mas o eco é intertextual possível, não citação formal.\n\n[Revisão acadêmica complementar] τὰ βαθέα τοῦ Σατανᾶ não identifica automaticamente uma seita gnóstica posterior. οὐ βάλλω ... ἄλλο βάρος aproxima-se tematicamente de At 15:28, sem provar citação direta.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "Os demais em Tiatira são distinguidos do grupo identificado com o ensino desviado.",
     "A expressão profundezas de Satanás não demonstra por si um movimento gnóstico organizado."
@@ -427,7 +427,7 @@ export const apocalipse2v24 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -618,7 +618,7 @@ export const apocalipse2v24 = {
       "id": "ap2-24-26",
       "shortMorph": "P-",
       "greek": "ἐφ’",
-      "transliteration": "eph",
+      "transliteration": "eph'",
       "gloss": "sobre",
       "strong": "G1909",
       "lemma": "ἐπί",
@@ -710,5 +710,9 @@ export const apocalipse2v24 = {
       },
       "morphgntPos": "N-"
     }
+  ],
+  "syntacticNotes": [
+    "τὰ βαθέα τοῦ Σατανᾶ, ὡς λέγουσιν: 'as profundezas de Satanás, como dizem'. Atribuir a frase a um sistema gnóstico historicamente constituído é anacrônico sem evidência específica. βάρος ('fardo') pode evocar At 15:28, mas o eco é intertextual possível, não citação formal.",
+    "τὰ βαθέα τοῦ Σατανᾶ não identifica automaticamente uma seita gnóstica posterior. οὐ βάλλω ... ἄλλο βάρος aproxima-se tematicamente de At 15:28, sem provar citação direta."
   ]
 } as const;

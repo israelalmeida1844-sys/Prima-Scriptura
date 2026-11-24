@@ -8,7 +8,7 @@ export const apocalipse2v4 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, contra ti que abandonaste o teu primeiro amor.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ἀφῆκες é aoristo ativo indicativo, 2ª pessoa singular de ἀφίημι; τὴν ἀγάπην σου τὴν πρώτην caracteriza o amor inicial abandonado, em construção atributiva repetida.\n\n[Revisão acadêmica complementar] τὴν ἀγάπην ... τὴν πρώτην apresenta adjetivo em segunda posição atributiva. ἀφῆκες descreve abandono, não o sentido isolado 'perdoar' do lema ἀφίημι.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O primeiro amor é apresentado como algo abandonado, apesar de outros elogios.",
     "A memória do passado conduz à convocação à mudança."
@@ -187,7 +187,7 @@ export const apocalipse2v4 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "teu/de ti",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -278,5 +278,9 @@ export const apocalipse2v4 = {
       },
       "morphgntPos": "V-"
     }
+  ],
+  "syntacticNotes": [
+    "ἀφῆκες é aoristo ativo indicativo, 2ª pessoa singular de ἀφίημι; τὴν ἀγάπην σου τὴν πρώτην caracteriza o amor inicial abandonado, em construção atributiva repetida.",
+    "τὴν ἀγάπην ... τὴν πρώτην apresenta adjetivo em segunda posição atributiva. ἀφῆκες descreve abandono, não o sentido isolado 'perdoar' do lema ἀφίημι."
   ]
 } as const;

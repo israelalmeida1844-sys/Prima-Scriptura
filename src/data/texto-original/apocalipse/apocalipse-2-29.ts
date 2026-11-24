@@ -8,7 +8,7 @@ export const apocalipse2v29 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Refrão conclusivo do ciclo da carta a Tiatira: ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις. ἀκουσάτω é imperativo aoristo ativo de terceira pessoa singular.\n\n[Revisão acadêmica complementar] ὁ ἔχων é particípio substantivado, sujeito de ἀκουσάτω, imperativo aoristo terceira pessoa singular. τί introduz interrogativa indireta dependente de 'ouvir'; ταῖς ἐκκλησίαις é dativo destinatário de λέγει.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A conclusão universaliza a exortação: todas as igrejas devem ouvir a mensagem do Espírito.",
     "O refrão encerra formalmente a comunicação a Tiatira."
@@ -254,5 +254,9 @@ export const apocalipse2v29 = {
       },
       "morphgntPos": "N-"
     }
+  ],
+  "syntacticNotes": [
+    "Refrão conclusivo do ciclo da carta a Tiatira: ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις. ἀκουσάτω é imperativo aoristo ativo de terceira pessoa singular.",
+    "ὁ ἔχων é particípio substantivado, sujeito de ἀκουσάτω, imperativo aoristo terceira pessoa singular. τί introduz interrogativa indireta dependente de 'ouvir'; ταῖς ἐκκλησίαις é dativo destinatário de λέγει."
   ]
 } as const;

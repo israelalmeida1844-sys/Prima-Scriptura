@@ -7,7 +7,7 @@ export const apocalipse1v8 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, que era e que vem, o Todo-Poderoso.",
-  "textualNotes": "O SBLGNT traz ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος em aposição a κύριος ὁ θεός. Ao contrário de Ap 1:4, aqui não há ἀπό antes da fórmula; portanto, não ocorre neste ponto o solecismo preposicional. Há, contudo, construção deliberadamente solene do nome divino. A inclusão de «o princípio e o fim» em certas tradições textuais não integra o texto-base SBLGNT deste versículo.\n\n[Revisão acadêmica complementar] A forma ὁ παντοκράτωρ é título divino; ὁ ἦν constitui nominalização incomum de imperfeito, sem a regência ἀπό problemática de 1:4.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "translationNote": "«Alfa» e «Ômega» reproduzem a imagem alfabética do original; «Todo-Poderoso» traduz παντοκράτωρ.",
   "words": [
     {
@@ -15,7 +15,7 @@ export const apocalipse1v8 = {
       "shortMorph": "PPro-NS-",
       "greek": "Ἐγώ",
       "transliteration": "egō",
-      "gloss": "Eu",
+      "gloss": "eu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -375,7 +375,7 @@ export const apocalipse1v8 = {
       "shortMorph": "V-IAI-3S",
       "greek": "ἦν",
       "transliteration": "ēn",
-      "gloss": "que era",
+      "gloss": "era",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -514,5 +514,10 @@ export const apocalipse1v8 = {
       },
       "morphgntPos": "N-"
     }
-  ]
+  ],
+  "syntacticNotes": [
+    "O SBLGNT traz ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος em aposição a κύριος ὁ θεός. Ao contrário de Ap 1:4, aqui não há ἀπό antes da fórmula; portanto, não ocorre neste ponto o solecismo preposicional. Há, contudo, construção deliberadamente solene do nome divino. A inclusão de «o princípio e o fim» em certas tradições textuais não integra o texto-base SBLGNT deste versículo.",
+    "A forma ὁ παντοκράτωρ é título divino; ὁ ἦν constitui nominalização incomum de imperfeito, sem a regência ἀπό problemática de 1:4."
+  ],
+  "exegeticalNotes": []
 } as const;

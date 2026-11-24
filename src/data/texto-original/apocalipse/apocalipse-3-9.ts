@@ -8,9 +8,9 @@ export const apocalipse3v9 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eis que darei alguns da sinagoga de Satanás — daqueles que dizem ser judeus e não são, mas mentem. Farei que venham e se prostrem diante de teus pés, e reconheçam que eu te amei.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP."
+    "A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação."
   ],
   "words": [
     {
@@ -26,12 +26,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Partícula ",
       "meanings": "eis; veja",
-      "explanation": "Forma «ἰδοὺ» do lema «ἰδού» (Strong G2400): Partícula . Glosa contextual de apoio: «eis». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -42,7 +42,7 @@ export const apocalipse3v9 = {
       "shortMorph": "V- 1PAS-S--",
       "greek": "διδῶ",
       "transliteration": "didō",
-      "gloss": "Dar, conceder por graça ou outorgar autoridade",
+      "gloss": "dar",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -50,7 +50,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "1PAS-S--",
       "morphology": "Verbo presente, voz ativa, subjuntivo, 1ª pessoa singular",
       "meanings": "Ato voluntário de conferir algo a outrem, outorga de prerrogativa ou revelação divina.",
-      "explanation": "Forma «διδῶ» do lema «δίδωμι» (Strong G1325): Verbo presente, voz ativa, subjuntivo, 1ª pessoa singular. Glosa contextual de apoio: «Dar, conceder por graça ou outorgar autoridade». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -74,12 +74,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "de; para fora de",
-      "explanation": "Forma «ἐκ» do lema «ἐκ» (Strong G1537): Preposição . Glosa contextual de apoio: «de». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -90,7 +90,7 @@ export const apocalipse3v9 = {
       "shortMorph": "RA ----GSF-",
       "greek": "τῆς",
       "transliteration": "tēs",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -98,7 +98,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῆς» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -122,7 +122,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "συναγωγή significa reunião/assembleia e pode denotar comunidade judaica; a expressão polêmica exige leitura histórica localizada.",
-      "explanation": "Forma «συναγωγῆς» do lema «συναγωγή» (Strong G4864): Substantivo genitivo singular feminino. Glosa contextual de apoio: «sinagoga». Núcleo nominal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -138,7 +138,7 @@ export const apocalipse3v9 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -146,7 +146,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -170,7 +170,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Σατανᾶς é designação pessoal do adversário; o genitivo τοῦ Σατανᾶ qualifica polemicamente a assembleia mencionada.",
-      "explanation": "Forma «Σατανᾶ,» do lema «Σατανᾶς» (Strong G4567): Substantivo genitivo singular masculino. Glosa contextual de apoio: «Satanás». Núcleo nominal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -186,7 +186,7 @@ export const apocalipse3v9 = {
       "shortMorph": "RA ----GPM-",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -194,7 +194,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῶν» do lema «ὁ» (Strong G3588): Artigo definido genitivo plural masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -218,7 +218,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "-PAPGPM-",
       "morphology": "Verbo presente, voz ativa, particípio genitivo plural masculino",
       "meanings": "dizer; declarar",
-      "explanation": "Forma «λεγόντων» do lema «λέγω» (Strong G3004): Verbo presente, voz ativa, particípio genitivo plural masculino. Glosa contextual de apoio: «dizer». Particípio. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -242,12 +242,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome acusativo plural masculino",
       "meanings": "ἑαυτούς é reflexivo acusativo plural correferente ao sujeito de λέγοντας: eles se apresentam a si mesmos como apóstolos.",
-      "explanation": "Forma «ἑαυτοὺς» do lema «ἑαυτοῦ» (Strong G1438): Pronome acusativo plural masculino. Glosa contextual de apoio: «si mesmo». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -266,12 +266,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "Ἰουδαίους é acusativo plural como predicativo de ἑαυτούς; trata-se de controvérsia local, não de definição depreciativa do judaísmo.",
-      "explanation": "Forma «Ἰουδαίους» do lema «Ἰουδαῖος» (Strong G2453): Adjetivo acusativo plural masculino. Glosa contextual de apoio: «judeu». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -290,7 +290,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "-PAN----",
       "morphology": "Verbo presente, voz ativa, infinitivo",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «εἶναι,» do lema «εἰμί» (Strong G1510): Verbo presente, voz ativa, infinitivo. Glosa contextual de apoio: «ser». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -306,7 +306,7 @@ export const apocalipse3v9 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -314,12 +314,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -338,12 +338,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
-      "explanation": "Forma «οὐκ» do lema «οὐ» (Strong G3756): Advérbio . Glosa contextual de apoio: «não». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -362,7 +362,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «εἰσὶν» do lema «εἰμί» (Strong G1510): Verbo presente, voz ativa, indicativo, 3ª pessoa plural. Glosa contextual de apoio: «ser». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -386,12 +386,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ἀλλά introduz contraste com o elogio antecedente; em Ap 2:4 inicia a censura dirigida à igreja.",
-      "explanation": "Forma «ἀλλὰ» do lema «ἀλλά» (Strong G235): Conjunção . Glosa contextual de apoio: «mas». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -410,7 +410,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "3PMI-P--",
       "morphology": "Verbo presente, voz média, indicativo, 3ª pessoa plural",
       "meanings": "mentir",
-      "explanation": "Forma «ψεύδονται—» do lema «ψεύδομαι» (Strong G5574): Verbo presente, voz média, indicativo, 3ª pessoa plural. Glosa contextual de apoio: «mentir». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -434,12 +434,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Partícula ",
       "meanings": "eis; veja",
-      "explanation": "Forma «ἰδοὺ» do lema «ἰδού» (Strong G2400): Partícula . Glosa contextual de apoio: «eis». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -458,7 +458,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "fazer; constituir",
-      "explanation": "Forma «ποιήσω» do lema «ποιέω» (Strong G4160): Verbo futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «fazer». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -474,7 +474,7 @@ export const apocalipse3v9 = {
       "shortMorph": "RP ----APM-",
       "greek": "αὐτοὺς",
       "transliteration": "autous",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -482,12 +482,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome acusativo plural masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτοὺς» do lema «αὐτός» (Strong G846): Pronome acusativo plural masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -506,12 +506,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ἵνα com subjuntivo πειρασθῆτε indica finalidade da provação: «para que sejais postos à prova».",
-      "explanation": "Forma «ἵνα» do lema «ἵνα» (Strong G2443): Conjunção . Glosa contextual de apoio: «para que». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -530,7 +530,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ἥξω é aoristo subjuntivo primeira pessoa singular de ἥκω em ἄχρι οὗ ἄν, projetando a chegada de Cristo.",
-      "explanation": "Forma «ἥξουσιν» do lema «ἥκω» (Strong G2240): Verbo futuro, voz ativa, indicativo, 3ª pessoa plural. Glosa contextual de apoio: «chegar». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -546,7 +546,7 @@ export const apocalipse3v9 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -554,12 +554,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -578,7 +578,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "prostrar-se",
-      "explanation": "Forma «προσκυνήσουσιν» do lema «προσκυνέω» (Strong G4352): Verbo futuro, voz ativa, indicativo, 3ª pessoa plural. Glosa contextual de apoio: «prostrar-se». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -602,12 +602,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "diante de; na presença de",
-      "explanation": "Forma «ἐνώπιον» do lema «ἐνώπιον» (Strong G1799): Preposição . Glosa contextual de apoio: «diante de». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -618,7 +618,7 @@ export const apocalipse3v9 = {
       "shortMorph": "RA ----GPM-",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -626,7 +626,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῶν» do lema «ὁ» (Strong G3588): Artigo definido genitivo plural masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -650,7 +650,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "pé",
-      "explanation": "Forma «ποδῶν» do lema «πούς» (Strong G4228): Substantivo genitivo plural masculino. Glosa contextual de apoio: «pés». Núcleo nominal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -666,7 +666,7 @@ export const apocalipse3v9 = {
       "shortMorph": "RP ----GS--",
       "greek": "σου,",
       "transliteration": "sou",
-      "gloss": "tu",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -674,12 +674,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σου,» do lema «σύ» (Strong G4771): Pronome genitivo singular. Glosa contextual de apoio: «tu». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -690,7 +690,7 @@ export const apocalipse3v9 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -698,12 +698,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -722,7 +722,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "3AAS-P--",
       "morphology": "Verbo aoristo, voz ativa, subjuntivo, 3ª pessoa plural",
       "meanings": "γνώσονται é futuro médio de γινώσκω: «saberão/conhecerão», relacionado ao reconhecimento do juízo divino.",
-      "explanation": "Forma «γνῶσιν» do lema «γινώσκω» (Strong G1097): Verbo aoristo, voz ativa, subjuntivo, 3ª pessoa plural. Glosa contextual de apoio: «conhecer». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -746,12 +746,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "Forma «ὅτι» do lema «ὅτι» (Strong G3754): Conjunção . Glosa contextual de apoio: «que». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -770,12 +770,12 @@ export const apocalipse3v9 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome nominativo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «ἐγὼ» do lema «ἐγώ» (Strong G1473): Pronome nominativo singular. Glosa contextual de apoio: «eu». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -794,7 +794,7 @@ export const apocalipse3v9 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "amar",
-      "explanation": "Forma «ἠγάπησά» do lema «ἀγαπάω» (Strong G25): Verbo aoristo, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «amar». Predicado verbal. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
@@ -818,16 +818,19 @@ export const apocalipse3v9 = {
       "morphologyCode": "----AS--",
       "morphology": "Pronome acusativo singular",
       "meanings": "tu; vós; você(s)",
-      "explanation": "Forma «σε.» do lema «σύ» (Strong G4771): Pronome acusativo singular. Glosa contextual de apoio: «tu». Função a revisar. ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual.\n\nExegese: A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação.\n\nCrítica textual: SBLGNT διδῶ (WH/Treg/NIV) contra δίδωμι (RP); ἥξουσιν καὶ προσκυνήσουσιν (indicativos) contra ἥξωσιν καὶ προσκυνήσωσιν (subjuntivos) RP; ἐγώ presente no SBLGNT, ausente em RP.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
       "morphgntPos": "RP"
     }
+  ],
+  "syntacticNotes": [
+    "ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual."
   ]
 } as const;

@@ -7,7 +7,7 @@ export const apocalipse1v3 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Feliz aquele que lê e aqueles que ouvem as palavras desta profecia e guardam o que nela está escrito, pois o tempo está próximo.",
-  "textualNotes": "Texto-base SBLGNT 2010. Os particípios ἀναγινώσκων, ἀκούοντες e τηροῦντες são formas presentes ativas; γεγραμμένα é perfeito passivo. Não confundir marca de aparato ou pontuação editorial com variante lexical.\n\n[Revisão acadêmica complementar] μακάριος inicia uma bem-aventurança; ὁ ἀναγινώσκων singular distingue o leitor público dos ouvintes plurais. τηροῦντες acrescenta resposta obediente, não mera audição.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "translationNote": "Tradução editorial; a bem-aventurança conjuga leitura pública, escuta e observância.",
   "words": [
     {
@@ -303,7 +303,7 @@ export const apocalipse1v3 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as coisas",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -351,7 +351,7 @@ export const apocalipse1v3 = {
       "shortMorph": "PPro-DSF",
       "greek": "αὐτῇ",
       "transliteration": "aytē",
-      "gloss": "nela",
+      "gloss": "a ela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "aytos",
@@ -490,5 +490,10 @@ export const apocalipse1v3 = {
       },
       "morphgntPos": "D-"
     }
-  ]
+  ],
+  "syntacticNotes": [
+    "Texto-base SBLGNT 2010. Os particípios ἀναγινώσκων, ἀκούοντες e τηροῦντες são formas presentes ativas; γεγραμμένα é perfeito passivo. Não confundir marca de aparato ou pontuação editorial com variante lexical.",
+    "μακάριος inicia uma bem-aventurança; ὁ ἀναγινώσκων singular distingue o leitor público dos ouvintes plurais. τηροῦντες acrescenta resposta obediente, não mera audição."
+  ],
+  "exegeticalNotes": []
 } as const;

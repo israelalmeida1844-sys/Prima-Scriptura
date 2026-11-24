@@ -8,7 +8,7 @@ export const apocalipse1v17 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quando o vi, caí a seus pés como morto. Ele pôs sua mão direita sobre mim e disse: «Não tenha medo. Eu sou o Primeiro e o Último,",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "φοβοῦ é imperativo presente médio/passivo formal de verbo deponente, precedido de μή; significa «não temas». πρῶτος e ἔσχατος fazem eco à linguagem de soberania divina (Is 44:6; 48:12).\n\n[Revisão acadêmica complementar] μή + φοβοῦ é proibição no imperativo presente; a relação entre primeiro/último e linguagem de Isaías é alusão teológica, não equivalência lexical.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A reação de João combina reverência e incapacidade diante da visão.",
     "A palavra «não temas» altera a dinâmica da cena."
@@ -91,7 +91,7 @@ export const apocalipse1v17 = {
       "shortMorph": "PPro-ASM",
       "greek": "αὐτόν,",
       "transliteration": "auton",
-      "gloss": "a ele",
+      "gloss": "ele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -402,7 +402,7 @@ export const apocalipse1v17 = {
       "id": "ap1-17-17",
       "shortMorph": "Preposição",
       "greek": "ἐπ’",
-      "transliteration": "ep",
+      "transliteration": "ep'",
       "gloss": "sobre",
       "strong": "G1909",
       "lemma": "ἐπί",
@@ -686,5 +686,9 @@ export const apocalipse1v17 = {
       },
       "morphgntPos": "A-"
     }
+  ],
+  "syntacticNotes": [
+    "φοβοῦ é imperativo presente médio/passivo formal de verbo deponente, precedido de μή; significa «não temas». πρῶτος e ἔσχατος fazem eco à linguagem de soberania divina (Is 44:6; 48:12).",
+    "μή + φοβοῦ é proibição no imperativo presente; a relação entre primeiro/último e linguagem de Isaías é alusão teológica, não equivalência lexical."
   ]
 } as const;

@@ -8,9 +8,9 @@ export const apocalipse3v6 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvido, ouça o que o Espírito diz às igrejas.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita."
+    "O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes."
   ],
   "words": [
     {
@@ -18,7 +18,7 @@ export const apocalipse3v6 = {
       "shortMorph": "RA ----NSM-",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -26,7 +26,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -50,7 +50,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter; segurar",
-      "explanation": "Forma «ἔχων» do lema «ἔχω» (Strong G2192): Verbo presente, voz ativa, particípio nominativo singular masculino. Glosa contextual de apoio: «tinha». Particípio. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -74,7 +74,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "οὖς é acusativo singular de «ouvido» em fórmula idiomática: quem tem ouvido deve ouvir; evitar pluralização automática da forma grega.",
-      "explanation": "Forma «οὖς» do lema «οὖς» (Strong G3775): Substantivo acusativo singular neutro. Glosa contextual de apoio: «ouvido». Núcleo nominal. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -98,7 +98,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "3AAD-S--",
       "morphology": "Verbo aoristo, voz ativa, imperativo, 3ª pessoa singular",
       "meanings": "ouvir; escutar",
-      "explanation": "Forma «ἀκουσάτω» do lema «ἀκούω» (Strong G191): Verbo aoristo, voz ativa, imperativo, 3ª pessoa singular. Glosa contextual de apoio: «ouvir». Predicado verbal. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -122,12 +122,12 @@ export const apocalipse3v6 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome acusativo singular neutro",
       "meanings": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo.",
-      "explanation": "Forma «τί» do lema «τίς» (Strong G5101): Pronome acusativo singular neutro. Glosa contextual de apoio: «que?». Função a revisar. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.6.C1",
         "governedBy": null
       },
@@ -138,7 +138,7 @@ export const apocalipse3v6 = {
       "shortMorph": "RA ----NSN-",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -146,7 +146,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -170,7 +170,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "espírito; sopro; vento",
-      "explanation": "Forma «πνεῦμα» do lema «πνεῦμα» (Strong G4151): Substantivo nominativo singular neutro. Glosa contextual de apoio: «Espírito». Núcleo nominal. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -194,7 +194,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer; declarar",
-      "explanation": "Forma «λέγει» do lema «λέγω» (Strong G3004): Verbo presente, voz ativa, indicativo, 3ª pessoa singular. Glosa contextual de apoio: «dizer». Predicado verbal. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -210,7 +210,7 @@ export const apocalipse3v6 = {
       "shortMorph": "RA ----DPF-",
       "greek": "ταῖς",
       "transliteration": "tais",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "às",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -218,7 +218,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ταῖς» do lema «ὁ» (Strong G3588): Artigo definido dativo plural feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -242,7 +242,7 @@ export const apocalipse3v6 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "assembleia; igreja",
-      "explanation": "Forma «ἐκκλησίαις.» do lema «ἐκκλησία» (Strong G1577): Substantivo dativo plural feminino. Glosa contextual de apoio: «igreja». Núcleo nominal. ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário.\n\nExegese: O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes.\n\nCrítica textual: Não há unidade de variação registrada neste verso no aparato resumido consultado; não equivale a unanimidade manuscrita.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:6"
       ],
@@ -253,5 +253,8 @@ export const apocalipse3v6 = {
       },
       "morphgntPos": "N-"
     }
+  ],
+  "syntacticNotes": [
+    "ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário."
   ]
 } as const;

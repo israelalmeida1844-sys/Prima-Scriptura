@@ -8,7 +8,7 @@ export const apocalipse2v20 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, contra ti que toleras a mulher Jezabel, que se declara profetisa, ensina e desvia meus servos para que pratiquem imoralidade sexual e comam alimentos sacrificados aos ídolos.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ἀφεῖς é presente ativo indicativo de ἀφίημι, segunda pessoa singular na análise MorphGNT; o sentido contextual é 'toleras/permitas'. O nome Ἰεζάβελ evoca a rainha de 1Rs 16–21 e 2Rs 9, mas não prova que a pessoa citada seja chamada literalmente Jezabel; pode ser pseudônimo tipológico.\n\n[Revisão acadêmica complementar] ἡ λέγουσα é nominativo feminino singular apesar do acusativo τὴν γυναῖκα Ἰεζάβελ; é construção sintaticamente irregular, frequentemente tratada como nominativo pendente/anacoluto. Não ajustar a forma para acusativo na transcrição. O nome Jezabel pode funcionar tipologicamente; identidade civil não demonstrada.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "Jezabel funciona como figura de ensino enganoso e sedução idólatra.",
     "A conexão com a rainha do Antigo Testamento é literária e teológica; sua historicidade local não é confirmada pelo nome."
@@ -235,7 +235,7 @@ export const apocalipse2v20 = {
       "shortMorph": "Art-NSF",
       "greek": "ἡ",
       "transliteration": "hē",
-      "gloss": "a que",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -590,5 +590,9 @@ export const apocalipse2v20 = {
       },
       "morphgntPos": "A-"
     }
+  ],
+  "syntacticNotes": [
+    "ἀφεῖς é presente ativo indicativo de ἀφίημι, segunda pessoa singular na análise MorphGNT; o sentido contextual é 'toleras/permitas'. O nome Ἰεζάβελ evoca a rainha de 1Rs 16–21 e 2Rs 9, mas não prova que a pessoa citada seja chamada literalmente Jezabel; pode ser pseudônimo tipológico.",
+    "ἡ λέγουσα é nominativo feminino singular apesar do acusativo τὴν γυναῖκα Ἰεζάβελ; é construção sintaticamente irregular, frequentemente tratada como nominativo pendente/anacoluto. Não ajustar a forma para acusativo na transcrição. O nome Jezabel pode funcionar tipologicamente; identidade civil não demonstrada."
   ]
 } as const;
