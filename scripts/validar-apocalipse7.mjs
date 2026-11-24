@@ -43,9 +43,9 @@ for(let v=1;v<=17;v++){
     assert.ok(!ids.has(w.id));ids.add(w.id);strongs.add(w.strong);
     assert.equal(lex[w.strong]?.lemma,w.lemma);
     const c=read('public/data/concordancia-grega/'+w.strong+'.json');
-    assert.equal(c.complete,true);assert.ok(c.references.includes('Ap 7:'+v),'Referência ausente: '+w.strong+' Ap 7:'+v);
+    assert.equal(c.complete,true);assert.ok(c.references.some(r=>typeof r==='string'? /^(Ap|Re|Apocalipse)\s+/.test(r)&&r.split(' ').at(-1)==='7:'+v : (r.book==='Apocalipse'||r.book==='Ap'||r.book==='Re')&&Number(r.chapter)===7&&Number(r.verse)===v),'Referência ausente: '+w.strong+' Ap 7:'+v);
     assert.equal(c.verseCount,c.references.length);
-    assert.equal(c.references.length,new Set(c.references).size);
+    assert.equal(c.references.length,new Set(c.references.map(r=>typeof r==='string'?r:r.reference)).size);
     assert.equal(c.tokenCount,Object.values(c.bookDistribution).reduce((a,b)=>a+b,0));
   }
 }

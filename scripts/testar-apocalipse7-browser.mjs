@@ -20,7 +20,7 @@ try{
     const response=await page.goto(base+chapter+'versiculo-'+v+'/');assert.equal(response.status(),200);
     const root=page.locator('[data-original-apocalipse-7-'+v+']');
     await root.waitFor();
-    assert.equal(await root.getAttribute('data-ready'),'true');
+    await page.waitForFunction(s=>document.querySelector(s)?.getAttribute('data-ready')==='true','[data-original-apocalipse-7-'+v+']');
     const words=root.locator('[data-word-index]');const n=await words.count();tokens+=n;
     for(let i=0;i<n;i++){
       const word=words.nth(i), strong=(await word.locator('.strong-number').innerText()).trim(),greek=(await word.locator('.greek-form').innerText()).trim();
