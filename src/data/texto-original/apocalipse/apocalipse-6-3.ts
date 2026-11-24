@@ -1,4 +1,4 @@
-/** Prima Scriptura · Apocalipse 6:3 · Edição de avaliação */
+/** Prima Scriptura · Ap 6:3 · glosas contextuais revistas */
 export const apocalipse6v3 = {
   "reference": "Apocalipse 6:3",
   "book": "Apocalipse",
@@ -165,7 +165,7 @@ export const apocalipse6v3 = {
       "shortMorph": "ADJ-ASF",
       "greek": "δευτέραν",
       "transliteration": "deyteran",
-      "gloss": "segundo, de segunda ordem",
+      "gloss": "segunda",
       "strong": "G1208",
       "lemma": "δεύτερος",
       "lemmaTransliteration": "deuteros",
@@ -238,7 +238,7 @@ export const apocalipse6v3 = {
       "shortMorph": "ADJ-GSN",
       "greek": "δευτέρου",
       "transliteration": "deyteroy",
-      "gloss": "segundo, de segunda ordem",
+      "gloss": "segundo",
       "strong": "G1208",
       "lemma": "δεύτερος",
       "lemmaTransliteration": "deuteros",
@@ -286,7 +286,7 @@ export const apocalipse6v3 = {
       "shortMorph": "V-PAP-GSN",
       "greek": "λέγοντος",
       "transliteration": "legontos",
-      "gloss": "dizer",
+      "gloss": "dizendo",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",

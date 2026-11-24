@@ -1,4 +1,4 @@
-/** Prima Scriptura · Apocalipse 6:6 · Edição de avaliação */
+/** Prima Scriptura · Ap 6:6 · glosas contextuais revistas */
 export const apocalipse6v6 = {
   "reference": "Apocalipse 6:6",
   "book": "Apocalipse",
@@ -237,7 +237,7 @@ export const apocalipse6v6 = {
       "shortMorph": "V-PAP-ASF",
       "greek": "λέγουσαν",
       "transliteration": "legoysan",
-      "gloss": "dizer",
+      "gloss": "dizendo",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",
@@ -552,7 +552,7 @@ export const apocalipse6v6 = {
       "shortMorph": "ART-ASM",
       "greek": "τὸν",
       "transliteration": "ton",
-      "gloss": "o/a",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -624,7 +624,7 @@ export const apocalipse6v6 = {
       "shortMorph": "V-AAS-2-S",
       "greek": "ἀδικήσῃς",
       "transliteration": "adikēsēs",
-      "gloss": "prejudicar",
+      "gloss": "prejudiques",
       "strong": "G91",
       "lemma": "ἀδικέω",
       "lemmaTransliteration": "adikeō",

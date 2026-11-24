@@ -1,4 +1,4 @@
-/** Prima Scriptura · Apocalipse 6:1 · Edição de avaliação */
+/** Prima Scriptura · Ap 6:1 · glosas contextuais revistas */
 export const apocalipse6v1 = {
   "reference": "Apocalipse 6:1",
   "book": "Apocalipse",
@@ -165,7 +165,7 @@ export const apocalipse6v1 = {
       "shortMorph": "ADJ-ASF",
       "greek": "μίαν",
       "transliteration": "mian",
-      "gloss": "um",
+      "gloss": "uma",
       "strong": "G1520",
       "lemma": "εἷς",
       "lemmaTransliteration": "heis",
@@ -261,7 +261,7 @@ export const apocalipse6v1 = {
       "shortMorph": "N-GPF",
       "greek": "σφραγίδων",
       "transliteration": "sphragidōn",
-      "gloss": "selo",
+      "gloss": "selos",
       "strong": "G4973",
       "lemma": "σφραγίς",
       "lemmaTransliteration": "sphragis",
@@ -454,7 +454,7 @@ export const apocalipse6v1 = {
       "shortMorph": "V-PAP-GSN",
       "greek": "λέγοντος",
       "transliteration": "legontos",
-      "gloss": "dizer",
+      "gloss": "dizendo",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",

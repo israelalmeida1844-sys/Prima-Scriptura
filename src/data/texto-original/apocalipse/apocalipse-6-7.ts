@@ -1,4 +1,4 @@
-/** Prima Scriptura · Apocalipse 6:7 · Edição de avaliação */
+/** Prima Scriptura · Ap 6:7 · glosas contextuais revistas */
 export const apocalipse6v7 = {
   "reference": "Apocalipse 6:7",
   "book": "Apocalipse",
@@ -165,7 +165,7 @@ export const apocalipse6v7 = {
       "shortMorph": "ADJ-ASF",
       "greek": "τετάρτην",
       "transliteration": "tetartēn",
-      "gloss": "quarto",
+      "gloss": "quarta",
       "strong": "G5067",
       "lemma": "τέταρτος",
       "lemmaTransliteration": "tetartos",
@@ -310,7 +310,7 @@ export const apocalipse6v7 = {
       "shortMorph": "V-PAP-GSN",
       "greek": "λέγοντος",
       "transliteration": "legontos",
-      "gloss": "dizer",
+      "gloss": "dizendo",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",

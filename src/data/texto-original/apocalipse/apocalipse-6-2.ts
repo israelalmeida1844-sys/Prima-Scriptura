@@ -1,4 +1,4 @@
-/** Prima Scriptura · Apocalipse 6:2 · Edição de avaliação */
+/** Prima Scriptura · Ap 6:2 · glosas contextuais revistas */
 export const apocalipse6v2 = {
   "reference": "Apocalipse 6:2",
   "book": "Apocalipse",
@@ -215,7 +215,7 @@ export const apocalipse6v2 = {
       "shortMorph": "V-PMP-NSM",
       "greek": "καθήμενος",
       "transliteration": "kathēmenos",
-      "gloss": "estar sentado",
+      "gloss": "sentado",
       "strong": "G2521",
       "lemma": "κάθημαι",
       "lemmaTransliteration": "kathēmai",
@@ -263,7 +263,7 @@ export const apocalipse6v2 = {
       "shortMorph": "PRO-ASM",
       "greek": "αὐτὸν",
       "transliteration": "ayton",
-      "gloss": "dele",
+      "gloss": "ele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -287,7 +287,7 @@ export const apocalipse6v2 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "ἔχων",
       "transliteration": "echōn",
-      "gloss": "ter",
+      "gloss": "tendo",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -384,7 +384,7 @@ export const apocalipse6v2 = {
       "shortMorph": "PRO-DSM",
       "greek": "αὐτῷ",
       "transliteration": "aytō",
-      "gloss": "dele",
+      "gloss": "a ele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
