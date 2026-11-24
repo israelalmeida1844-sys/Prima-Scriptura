@@ -1,0 +1,737 @@
+{
+  "strong": "G2521",
+  "lemma": "κάθημαι",
+  "lemmaTranslit": "kathēmai",
+  "tokenCount": 91,
+  "verseCount": 89,
+  "bookDistribution": {
+    "Mateus": 19,
+    "Marcos": 11,
+    "Lucas": 13,
+    "João": 4,
+    "Atos": 6,
+    "1 Coríntios": 1,
+    "Colossenses": 1,
+    "Hebreus": 1,
+    "Tiago": 2,
+    "Apocalipse": 33
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Mt 4:16",
+      "text": "ὁ καθήμενος ἐν",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mt 9:9",
+      "text": "ἄνθρωπον καθήμενον ἐπὶ",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Mt 11:16",
+      "text": "παιδίοις καθημένοις ἐν",
+      "highlightedWord": "καθημένοις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mt 13:1",
+      "text": "οἰκίας ἐκάθητο παρὰ",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mt 13:2",
+      "text": "ἐμβάντα καθῆσθαι, καὶ",
+      "highlightedWord": "καθῆσθαι,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mt 15:29",
+      "text": "ὄρος ἐκάθητο ἐκεῖ.",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Mt 19:28",
+      "text": "αὐτοῦ, καθήσεσθε καὶ",
+      "highlightedWord": "καθήσεσθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Mt 20:30",
+      "text": "τυφλοὶ καθήμενοι παρὰ",
+      "highlightedWord": "καθήμενοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 44,
+      "reference": "Mt 22:44",
+      "text": "μου· Κάθου ἐκ",
+      "highlightedWord": "Κάθου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Mt 23:22",
+      "text": "τῷ καθημένῳ ἐπάνω",
+      "highlightedWord": "καθημένῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 3,
+      "reference": "Mt 24:3",
+      "text": "Καθημένου δὲ",
+      "highlightedWord": "Καθημένου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 58,
+      "reference": "Mt 26:58",
+      "text": "ἔσω ἐκάθητο μετὰ",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 64,
+      "reference": "Mt 26:64",
+      "text": "ἀνθρώπου καθήμενον ἐκ",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 69,
+      "reference": "Mt 26:69",
+      "text": "Πέτρος ἐκάθητο ἔξω",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Mt 27:19",
+      "text": "Καθημένου δὲ",
+      "highlightedWord": "Καθημένου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 36,
+      "reference": "Mt 27:36",
+      "text": "καὶ καθήμενοι ἐτήρουν",
+      "highlightedWord": "καθήμενοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 61,
+      "reference": "Mt 27:61",
+      "text": "Μαρία καθήμεναι ἀπέναντι",
+      "highlightedWord": "καθήμεναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 2,
+      "reference": "Mt 28:2",
+      "text": "καὶ ἐκάθητο ἐπάνω",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Mk 2:6",
+      "text": "ἐκεῖ καθήμενοι καὶ",
+      "highlightedWord": "καθήμενοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Mk 2:14",
+      "text": "Ἁλφαίου καθήμενον ἐπὶ",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 32,
+      "reference": "Mk 3:32",
+      "text": "καὶ ἐκάθητο περὶ",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 34,
+      "reference": "Mk 3:34",
+      "text": "κύκλῳ καθημένους λέγει·",
+      "highlightedWord": "καθημένους"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Mk 4:1",
+      "text": "ἐμβάντα καθῆσθαι ἐν",
+      "highlightedWord": "καθῆσθαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Mk 5:15",
+      "text": "δαιμονιζόμενον καθήμενον ἱματισμένον",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 46,
+      "reference": "Mk 10:46",
+      "text": "προσαίτης ἐκάθητο παρὰ",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mk 12:36",
+      "text": "μου· Κάθου ἐκ",
+      "highlightedWord": "Κάθου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Mk 13:3",
+      "text": "Καὶ καθημένου αὐτοῦ",
+      "highlightedWord": "καθημένου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 62,
+      "reference": "Mk 14:62",
+      "text": "δεξιῶν καθήμενον τῆς",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Mk 16:5",
+      "text": "νεανίσκον καθήμενον ἐν",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 79,
+      "reference": "Lk 1:79",
+      "text": "θανάτου καθημένοις, τοῦ",
+      "highlightedWord": "καθημένοις,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Lk 5:17",
+      "text": "ἦσαν καθήμενοι Φαρισαῖοι",
+      "highlightedWord": "καθήμενοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Lk 5:27",
+      "text": "Λευὶν καθήμενον ἐπὶ",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 32,
+      "reference": "Lk 7:32",
+      "text": "ἀγορᾷ καθημένοις καὶ",
+      "highlightedWord": "καθημένοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "εὗρον καθήμενον τὸν",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Lk 10:13",
+      "text": "σποδῷ καθήμενοι μετενόησαν.",
+      "highlightedWord": "καθήμενοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Lk 18:35",
+      "text": "τις ἐκάθητο παρὰ",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 42,
+      "reference": "Lk 20:42",
+      "text": "μου· Κάθου ἐκ",
+      "highlightedWord": "Κάθου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 35,
+      "reference": "Lk 21:35",
+      "text": "τοὺς καθημένους ἐπὶ",
+      "highlightedWord": "καθημένους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Lk 22:30",
+      "text": "καὶ καθήσεσθε ἐπὶ",
+      "highlightedWord": "καθήσεσθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 55,
+      "reference": "Lk 22:55",
+      "text": "συγκαθισάντων ἐκάθητο ὁ",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 56,
+      "reference": "Lk 22:56",
+      "text": "τις καθήμενον πρὸς",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 69,
+      "reference": "Lk 22:69",
+      "text": "ἀνθρώπου καθήμενος ἐκ",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Jn 2:14",
+      "text": "κερματιστὰς καθημένους,",
+      "highlightedWord": "καθημένους,"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Jn 6:3",
+      "text": "ἐκεῖ ἐκάθητο μετὰ",
+      "highlightedWord": "ἐκάθητο"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Jn 9:8",
+      "text": "ὁ καθήμενος καὶ",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Jn 12:15",
+      "text": "ἔρχεται, καθήμενος ἐπὶ",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ac 2:2",
+      "text": "ἦσαν καθήμενοι,",
+      "highlightedWord": "καθήμενοι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 34,
+      "reference": "Ac 2:34",
+      "text": "μου· Κάθου ἐκ",
+      "highlightedWord": "Κάθου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Ac 3:10",
+      "text": "ἐλεημοσύνην καθήμενος ἐπὶ",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Ac 8:28",
+      "text": "καὶ καθήμενος ἐπὶ",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Ac 14:8",
+      "text": "ποσὶν ἐκάθητο, χωλὸς",
+      "highlightedWord": "ἐκάθητο,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Ac 23:3",
+      "text": "σὺ κάθῃ κρίνων",
+      "highlightedWord": "κάθῃ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "1Co 14:30",
+      "text": "ἀποκαλυφθῇ καθημένῳ, ὁ",
+      "highlightedWord": "καθημένῳ,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Col 3:1",
+      "text": "θεοῦ καθήμενος·",
+      "highlightedWord": "καθήμενος·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Heb 1:13",
+      "text": "ποτε· Κάθου ἐκ",
+      "highlightedWord": "Κάθου"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Jas 2:3",
+      "text": "Σὺ κάθου ὧδε",
+      "highlightedWord": "κάθου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Re 4:2",
+      "text": "θρόνον καθήμενος,",
+      "highlightedWord": "καθήμενος,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Re 4:3",
+      "text": "ὁ καθήμενος ὅμοιος",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Re 4:4",
+      "text": "πρεσβυτέρους καθημένους περιβεβλημένους",
+      "highlightedWord": "καθημένους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Re 4:9",
+      "text": "τῷ καθημένῳ ἐπὶ",
+      "highlightedWord": "καθημένῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Re 4:10",
+      "text": "τοῦ καθημένου ἐπὶ",
+      "highlightedWord": "καθημένου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Re 5:1",
+      "text": "τοῦ καθημένου ἐπὶ",
+      "highlightedWord": "καθημένου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Re 5:7",
+      "text": "τοῦ καθημένου ἐπὶ",
+      "highlightedWord": "καθημένου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Re 5:13",
+      "text": "Τῷ καθημένῳ ἐπὶ",
+      "highlightedWord": "καθημένῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Re 6:2",
+      "text": "ὁ καθήμενος ἐπ’",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Re 6:4",
+      "text": "τῷ καθημένῳ ἐπ’",
+      "highlightedWord": "καθημένῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Re 6:5",
+      "text": "ὁ καθήμενος ἐπ’",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Re 6:8",
+      "text": "ὁ καθήμενος ἐπάνω",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Re 6:16",
+      "text": "τοῦ καθημένου ἐπὶ",
+      "highlightedWord": "καθημένου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Re 7:10",
+      "text": "τῷ καθημένῳ ἐπὶ",
+      "highlightedWord": "καθημένῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Re 7:15",
+      "text": "ὁ καθήμενος ἐπὶ",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "τοὺς καθημένους ἐπ’",
+      "highlightedWord": "καθημένους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Re 11:16",
+      "text": "θεοῦ καθήμενοι ἐπὶ",
+      "highlightedWord": "καθήμενοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Re 14:6",
+      "text": "τοὺς καθημένους ἐπὶ",
+      "highlightedWord": "καθημένους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "νεφέλην καθήμενον ὅμοιον",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Re 14:15",
+      "text": "τῷ καθημένῳ ἐπὶ",
+      "highlightedWord": "καθημένῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Re 14:16",
+      "text": "ὁ καθήμενος ἐπὶ",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Re 17:1",
+      "text": "τῆς καθημένης ἐπὶ",
+      "highlightedWord": "καθημένης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Re 17:3",
+      "text": "γυναῖκα καθημένην ἐπὶ",
+      "highlightedWord": "καθημένην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Re 17:9",
+      "text": "γυνὴ κάθηται ἐπ’",
+      "highlightedWord": "κάθηται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Re 17:15",
+      "text": "πόρνη κάθηται, λαοὶ",
+      "highlightedWord": "κάθηται,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Re 18:7",
+      "text": "ὅτι Κάθημαι βασίλισσα,",
+      "highlightedWord": "Κάθημαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Re 19:4",
+      "text": "τῷ καθημένῳ ἐπὶ",
+      "highlightedWord": "καθημένῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Re 19:11",
+      "text": "ὁ καθήμενος ἐπ’",
+      "highlightedWord": "καθήμενος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Re 19:18",
+      "text": "τῶν καθημένων ἐπ’",
+      "highlightedWord": "καθημένων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Re 19:19",
+      "text": "τοῦ καθημένου ἐπὶ",
+      "highlightedWord": "καθημένου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Re 19:21",
+      "text": "τοῦ καθημένου ἐπὶ",
+      "highlightedWord": "καθημένου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Re 20:11",
+      "text": "τὸν καθήμενον ἐπ’",
+      "highlightedWord": "καθήμενον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Re 21:5",
+      "text": "ὁ καθήμενος ἐπὶ",
+      "highlightedWord": "καθήμενος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

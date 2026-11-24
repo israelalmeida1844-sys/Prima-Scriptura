@@ -1,0 +1,33 @@
+{
+  "strong": "G1652",
+  "lemma": "ἐλεεινός",
+  "lemmaTranslit": "eleeinos",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "1 Coríntios": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "1Co 15:19",
+      "text": "μόνον, ἐλεεινότεροι πάντων",
+      "highlightedWord": "ἐλεεινότεροι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "καὶ ἐλεεινὸς καὶ",
+      "highlightedWord": "ἐλεεινὸς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

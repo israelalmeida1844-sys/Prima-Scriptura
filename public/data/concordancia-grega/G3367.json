@@ -1,0 +1,732 @@
+{
+  "strong": "G3367",
+  "lemma": "μηδείς",
+  "lemmaTranslit": "mēdeis",
+  "tokenCount": 90,
+  "verseCount": 87,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 9,
+    "Lucas": 9,
+    "Atos": 22,
+    "Romanos": 3,
+    "1 Coríntios": 6,
+    "2 Coríntios": 6,
+    "Gálatas": 2,
+    "Efésios": 1,
+    "Filipenses": 3,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 2,
+    "1 Timóteo": 5,
+    "Tito": 4,
+    "Hebreus": 1,
+    "Tiago": 3,
+    "1 Pedro": 1,
+    "1 João": 1,
+    "3 João": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Mt 8:4",
+      "text": "Ὅρα μηδενὶ εἴπῃς,",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Mt 9:30",
+      "text": "Ὁρᾶτε μηδεὶς γινωσκέτω·",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Mt 16:20",
+      "text": "ἵνα μηδενὶ εἴπωσιν",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Mt 17:9",
+      "text": "λέγων· Μηδενὶ εἴπητε",
+      "highlightedWord": "Μηδενὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Mt 27:19",
+      "text": "λέγουσα· Μηδὲν σοὶ",
+      "highlightedWord": "Μηδὲν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 44,
+      "reference": "Mk 1:44",
+      "text": "Ὅρα μηδενὶ μηδὲν",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mk 5:26",
+      "text": "καὶ μηδὲν ὠφεληθεῖσα",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Mk 5:43",
+      "text": "ἵνα μηδεὶς γνοῖ",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mk 6:8",
+      "text": "ἵνα μηδὲν αἴρωσιν",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Mk 7:36",
+      "text": "ἵνα μηδενὶ λέγωσιν·",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Mk 8:30",
+      "text": "ἵνα μηδενὶ λέγωσιν",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mk 9:9",
+      "text": "ἵνα μηδενὶ ἃ",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Mk 11:14",
+      "text": "σοῦ μηδεὶς καρπὸν",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Lk 3:13",
+      "text": "αὐτούς· Μηδὲν πλέον",
+      "highlightedWord": "Μηδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Lk 3:14",
+      "text": "αὐτοῖς· Μηδένα διασείσητε",
+      "highlightedWord": "Μηδένα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Lk 4:35",
+      "text": "αὐτοῦ μηδὲν βλάψαν",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Lk 5:14",
+      "text": "αὐτῷ μηδενὶ εἰπεῖν,",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Lk 6:35",
+      "text": "δανίζετε μηδὲν ἀπελπίζοντες·",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 56,
+      "reference": "Lk 8:56",
+      "text": "αὐτοῖς μηδενὶ εἰπεῖν",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Lk 9:3",
+      "text": "αὐτούς· Μηδὲν αἴρετε",
+      "highlightedWord": "Μηδὲν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Lk 9:21",
+      "text": "παρήγγειλεν μηδενὶ λέγειν",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Lk 10:4",
+      "text": "καὶ μηδένα κατὰ",
+      "highlightedWord": "μηδένα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ac 4:17",
+      "text": "τούτῳ μηδενὶ ἀνθρώπων.",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Ac 4:21",
+      "text": "αὐτούς, μηδὲν εὑρίσκοντες",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Ac 8:24",
+      "text": "ὅπως μηδὲν ἐπέλθῃ",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Ac 9:7",
+      "text": "φωνῆς μηδένα δὲ",
+      "highlightedWord": "μηδένα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Ac 10:20",
+      "text": "αὐτοῖς μηδὲν διακρινόμενος,",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Ac 10:28",
+      "text": "ἔδειξεν μηδένα κοινὸν",
+      "highlightedWord": "μηδένα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Ac 11:12",
+      "text": "αὐτοῖς μηδὲν διακρίναντα.",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ac 11:19",
+      "text": "Ἀντιοχείας μηδενὶ λαλοῦντες",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Ac 13:28",
+      "text": "καὶ μηδεμίαν αἰτίαν",
+      "highlightedWord": "μηδεμίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Ac 15:28",
+      "text": "ἡμῖν μηδὲν πλέον",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Ac 16:28",
+      "text": "λέγων· Μηδὲν πράξῃς",
+      "highlightedWord": "Μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 36,
+      "reference": "Ac 19:36",
+      "text": "καὶ μηδὲν προπετὲς",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 40,
+      "reference": "Ac 19:40",
+      "text": "σήμερον μηδενὸς αἰτίου",
+      "highlightedWord": "μηδενὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Ac 23:14",
+      "text": "ἑαυτοὺς μηδενὸς γεύσασθαι",
+      "highlightedWord": "μηδενὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Ac 23:22",
+      "text": "παραγγείλας μηδενὶ ἐκλαλῆσαι",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 29,
+      "reference": "Ac 23:29",
+      "text": "αὐτῶν, μηδὲν δὲ",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Ac 24:23",
+      "text": "καὶ μηδένα κωλύειν",
+      "highlightedWord": "μηδένα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 17,
+      "reference": "Ac 25:17",
+      "text": "ἀναβολὴν μηδεμίαν ποιησάμενος",
+      "highlightedWord": "μηδεμίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 25,
+      "reference": "Ac 25:25",
+      "text": "κατελαβόμην μηδὲν ἄξιον",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 33,
+      "reference": "Ac 27:33",
+      "text": "διατελεῖτε, μηθὲν προσλαβόμενοι·",
+      "highlightedWord": "μηθὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 6,
+      "reference": "Ac 28:6",
+      "text": "θεωρούντων μηδὲν ἄτοπον",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 18,
+      "reference": "Ac 28:18",
+      "text": "τὸ μηδεμίαν αἰτίαν",
+      "highlightedWord": "μηδεμίαν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Ro 12:17",
+      "text": "μηδενὶ κακὸν",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Ro 13:8",
+      "text": "Μηδενὶ μηδὲν",
+      "highlightedWord": "Μηδενὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Co 1:7",
+      "text": "ἐν μηδενὶ χαρίσματι,",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Co 3:18",
+      "text": "Μηδεὶς ἑαυτὸν",
+      "highlightedWord": "Μηδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "1Co 3:21",
+      "text": "ὥστε μηδεὶς καυχάσθω",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "1Co 10:24",
+      "text": "μηδεὶς τὸ",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "1Co 10:25",
+      "text": "ἐσθίετε μηδὲν ἀνακρίνοντες",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "1Co 10:27",
+      "text": "ἐσθίετε μηδὲν ἀνακρίνοντες",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "2Co 6:3",
+      "text": "μηδεμίαν ἐν",
+      "highlightedWord": "μηδεμίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "2Co 6:10",
+      "text": "ὡς μηδὲν ἔχοντες",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "2Co 7:9",
+      "text": "ἐν μηδενὶ ζημιωθῆτε",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "2Co 11:5",
+      "text": "γὰρ μηδὲν ὑστερηκέναι",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "2Co 13:7",
+      "text": "κακὸν μηδέν, οὐχ",
+      "highlightedWord": "μηδέν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Ga 6:3",
+      "text": "τι μηδὲν ὤν,",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Ga 6:17",
+      "text": "μοι μηδεὶς παρεχέτω,",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Eph 5:6",
+      "text": "Μηδεὶς ὑμᾶς",
+      "highlightedWord": "Μηδεὶς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Php 1:28",
+      "text": "ἐν μηδενὶ ὑπὸ",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Php 2:3",
+      "text": "μηδὲν κατ’",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Php 4:6",
+      "text": "μηδὲν μεριμνᾶτε,",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Col 2:4",
+      "text": "ἵνα μηδεὶς ὑμᾶς",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Col 2:18",
+      "text": "μηδεὶς ὑμᾶς",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Th 3:3",
+      "text": "τὸ μηδένα σαίνεσθαι",
+      "highlightedWord": "μηδένα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Th 4:12",
+      "text": "καὶ μηδενὸς χρείαν",
+      "highlightedWord": "μηδενὸς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Th 2:3",
+      "text": "κατὰ μηδένα τρόπον·",
+      "highlightedWord": "μηδένα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "2Th 3:11",
+      "text": "ἀτάκτως, μηδὲν ἐργαζομένους",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Ti 4:12",
+      "text": "μηδείς σου",
+      "highlightedWord": "μηδείς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Ti 5:14",
+      "text": "οἰκοδεσποτεῖν, μηδεμίαν ἀφορμὴν",
+      "highlightedWord": "μηδεμίαν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "1Ti 5:21",
+      "text": "προκρίματος, μηδὲν ποιῶν",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "1Ti 5:22",
+      "text": "ταχέως μηδενὶ ἐπιτίθει,",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "1Ti 6:4",
+      "text": "τετύφωται, μηδὲν ἐπιστάμενος,",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Tit 2:8",
+      "text": "ἐντραπῇ μηδὲν ἔχων",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Tit 2:15",
+      "text": "ἐπιταγῆς· μηδείς σου",
+      "highlightedWord": "μηδείς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Tit 3:2",
+      "text": "μηδένα βλασφημεῖν,",
+      "highlightedWord": "μηδένα"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Tit 3:13",
+      "text": "ἵνα μηδὲν αὐτοῖς",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Heb 10:2",
+      "text": "τὸ μηδεμίαν ἔχειν",
+      "highlightedWord": "μηδεμίαν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jas 1:4",
+      "text": "ἐν μηδενὶ λειπόμενοι.",
+      "highlightedWord": "μηδενὶ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jas 1:6",
+      "text": "πίστει, μηδὲν διακρινόμενος,",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jas 1:13",
+      "text": "μηδεὶς πειραζόμενος",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Pe 3:6",
+      "text": "φοβούμεναι μηδεμίαν πτόησιν.",
+      "highlightedWord": "μηδεμίαν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Jn 3:7",
+      "text": "τεκνία, μηδεὶς πλανάτω",
+      "highlightedWord": "μηδεὶς"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "3Jn 1:7",
+      "text": "ἐξῆλθον μηδὲν λαμβάνοντες",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "μηδὲν φοβοῦ",
+      "highlightedWord": "μηδὲν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Re 3:11",
+      "text": "ἵνα μηδεὶς λάβῃ",
+      "highlightedWord": "μηδεὶς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,66 @@
+{
+  "strong": "G2807",
+  "lemma": "κλείς",
+  "lemmaTranslit": "kleis",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Mt 16:19",
+      "text": "τὰς κλεῖδας τῆς",
+      "highlightedWord": "κλεῖδας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 52,
+      "reference": "Lk 11:52",
+      "text": "τὴν κλεῖδα τῆς",
+      "highlightedWord": "κλεῖδα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Re 1:18",
+      "text": "τὰς κλεῖς τοῦ",
+      "highlightedWord": "κλεῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "τὴν κλεῖν Δαυίδ,",
+      "highlightedWord": "κλεῖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Re 9:1",
+      "text": "ἡ κλεὶς τοῦ",
+      "highlightedWord": "κλεὶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Re 20:1",
+      "text": "τὴν κλεῖν τῆς",
+      "highlightedWord": "κλεῖν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

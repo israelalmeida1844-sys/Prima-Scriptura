@@ -1,0 +1,1711 @@
+{
+  "strong": "G1831",
+  "lemma": "ἐξέρχομαι",
+  "lemmaTranslit": "exerchomai",
+  "tokenCount": 216,
+  "verseCount": 210,
+  "bookDistribution": {
+    "Mateus": 43,
+    "Marcos": 39,
+    "Lucas": 44,
+    "João": 29,
+    "Atos": 30,
+    "Romanos": 1,
+    "1 Coríntios": 2,
+    "2 Coríntios": 3,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 1,
+    "Hebreus": 5,
+    "Tiago": 1,
+    "1 João": 2,
+    "2 João": 1,
+    "3 João": 1,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Mt 2:6",
+      "text": "γὰρ ἐξελεύσεται ἡγούμενος,",
+      "highlightedWord": "ἐξελεύσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mt 5:26",
+      "text": "μὴ ἐξέλθῃς ἐκεῖθεν",
+      "highlightedWord": "ἐξέλθῃς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Mt 8:28",
+      "text": "μνημείων ἐξερχόμενοι, χαλεποὶ",
+      "highlightedWord": "ἐξερχόμενοι,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Mt 8:32",
+      "text": "δὲ ἐξελθόντες ἀπῆλθον",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Mt 8:34",
+      "text": "πόλις ἐξῆλθεν εἰς",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Mt 9:26",
+      "text": "καὶ ἐξῆλθεν ἡ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mt 9:31",
+      "text": "δὲ ἐξελθόντες διεφήμισαν",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Mt 9:32",
+      "text": "δὲ ἐξερχομένων ἰδοὺ",
+      "highlightedWord": "ἐξερχομένων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mt 10:11",
+      "text": "ἂν ἐξέλθητε.",
+      "highlightedWord": "ἐξέλθητε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mt 10:14",
+      "text": "ὑμῶν, ἐξερχόμενοι ἔξω",
+      "highlightedWord": "ἐξερχόμενοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Mt 11:7",
+      "text": "Τί ἐξήλθατε εἰς",
+      "highlightedWord": "ἐξήλθατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Mt 11:8",
+      "text": "τί ἐξήλθατε ἰδεῖν;",
+      "highlightedWord": "ἐξήλθατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Mt 11:9",
+      "text": "τί ἐξήλθατε; προφήτην",
+      "highlightedWord": "ἐξήλθατε;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mt 12:14",
+      "text": "ἐξελθόντες δὲ",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mt 12:43",
+      "text": "πνεῦμα ἐξέλθῃ ἀπὸ",
+      "highlightedWord": "ἐξέλθῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 44,
+      "reference": "Mt 12:44",
+      "text": "ὅθεν ἐξῆλθον· καὶ",
+      "highlightedWord": "ἐξῆλθον·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mt 13:1",
+      "text": "ἐκείνῃ ἐξελθὼν ὁ",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Mt 13:3",
+      "text": "Ἰδοὺ ἐξῆλθεν ὁ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 49,
+      "reference": "Mt 13:49",
+      "text": "αἰῶνος· ἐξελεύσονται οἱ",
+      "highlightedWord": "ἐξελεύσονται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Mt 14:14",
+      "text": "καὶ ἐξελθὼν εἶδεν",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Mt 15:18",
+      "text": "καρδίας ἐξέρχεται, κἀκεῖνα",
+      "highlightedWord": "ἐξέρχεται,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Mt 15:19",
+      "text": "καρδίας ἐξέρχονται διαλογισμοὶ",
+      "highlightedWord": "ἐξέρχονται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Mt 15:21",
+      "text": "Καὶ ἐξελθὼν ἐκεῖθεν",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Mt 15:22",
+      "text": "ἐκείνων ἐξελθοῦσα ἔκραζεν",
+      "highlightedWord": "ἐξελθοῦσα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Mt 17:18",
+      "text": "καὶ ἐξῆλθεν ἀπ’",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Mt 18:28",
+      "text": "ἐξελθὼν δὲ",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Mt 20:1",
+      "text": "ὅστις ἐξῆλθεν ἅμα",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Mt 20:3",
+      "text": "καὶ ἐξελθὼν περὶ",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Mt 20:5",
+      "text": "πάλιν ἐξελθὼν περὶ",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Mt 20:6",
+      "text": "ἑνδεκάτην ἐξελθὼν εὗρεν",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Mt 21:17",
+      "text": "αὐτοὺς ἐξῆλθεν ἔξω",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Mt 22:10",
+      "text": "καὶ ἐξελθόντες οἱ",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Mt 24:1",
+      "text": "Καὶ ἐξελθὼν ὁ",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 26,
+      "reference": "Mt 24:26",
+      "text": "μὴ ἐξέλθητε· Ἰδοὺ",
+      "highlightedWord": "ἐξέλθητε·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Mt 24:27",
+      "text": "ἀστραπὴ ἐξέρχεται ἀπὸ",
+      "highlightedWord": "ἐξέρχεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 1,
+      "reference": "Mt 25:1",
+      "text": "ἑαυτῶν ἐξῆλθον εἰς",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Mt 25:6",
+      "text": "νυμφίος, ἐξέρχεσθε εἰς",
+      "highlightedWord": "ἐξέρχεσθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 30,
+      "reference": "Mt 26:30",
+      "text": "ὑμνήσαντες ἐξῆλθον εἰς",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 55,
+      "reference": "Mt 26:55",
+      "text": "λῃστὴν ἐξήλθατε μετὰ",
+      "highlightedWord": "ἐξήλθατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 71,
+      "reference": "Mt 26:71",
+      "text": "ἐξελθόντα δὲ",
+      "highlightedWord": "ἐξελθόντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 75,
+      "reference": "Mt 26:75",
+      "text": "καὶ ἐξελθὼν ἔξω",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 32,
+      "reference": "Mt 27:32",
+      "text": "Ἐξερχόμενοι δὲ",
+      "highlightedWord": "Ἐξερχόμενοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 53,
+      "reference": "Mt 27:53",
+      "text": "καὶ ἐξελθόντες ἐκ",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Mk 1:25",
+      "text": "καὶ ἔξελθε ἐξ",
+      "highlightedWord": "ἔξελθε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Mk 1:26",
+      "text": "μεγάλῃ ἐξῆλθεν ἐξ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Mk 1:28",
+      "text": "καὶ ἐξῆλθεν ἡ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Mk 1:29",
+      "text": "συναγωγῆς ἐξελθόντες ἦλθον",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Mk 1:35",
+      "text": "ἀναστὰς ἐξῆλθεν καὶ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 38,
+      "reference": "Mk 1:38",
+      "text": "γὰρ ἐξῆλθον.",
+      "highlightedWord": "ἐξῆλθον."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "δὲ ἐξελθὼν ἤρξατο",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Mk 2:12",
+      "text": "κράβαττον ἐξῆλθεν ἔμπροσθεν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mk 2:13",
+      "text": "Καὶ ἐξῆλθεν πάλιν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Mk 3:6",
+      "text": "καὶ ἐξελθόντες οἱ",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Mk 3:21",
+      "text": "αὐτοῦ ἐξῆλθον κρατῆσαι",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Mk 4:3",
+      "text": "ἰδοὺ ἐξῆλθεν ὁ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Mk 5:2",
+      "text": "καὶ ἐξελθόντος αὐτοῦ",
+      "highlightedWord": "ἐξελθόντος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Mk 5:8",
+      "text": "αὐτῷ· Ἔξελθε τὸ",
+      "highlightedWord": "Ἔξελθε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mk 5:13",
+      "text": "καὶ ἐξελθόντα τὰ",
+      "highlightedWord": "ἐξελθόντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mk 5:30",
+      "text": "δύναμιν ἐξελθοῦσαν ἐπιστραφεὶς",
+      "highlightedWord": "ἐξελθοῦσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mk 6:1",
+      "text": "Καὶ ἐξῆλθεν ἐκεῖθεν,",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Mk 6:10",
+      "text": "ἂν ἐξέλθητε ἐκεῖθεν.",
+      "highlightedWord": "ἐξέλθητε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Mk 6:12",
+      "text": "Καὶ ἐξελθόντες ἐκήρυξαν",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Mk 6:24",
+      "text": "καὶ ἐξελθοῦσα εἶπεν",
+      "highlightedWord": "ἐξελθοῦσα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mk 6:34",
+      "text": "καὶ ἐξελθὼν εἶδεν",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 54,
+      "reference": "Mk 6:54",
+      "text": "καὶ ἐξελθόντων αὐτῶν",
+      "highlightedWord": "ἐξελθόντων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Mk 7:29",
+      "text": "ὕπαγε, ἐξελήλυθεν ἐκ",
+      "highlightedWord": "ἐξελήλυθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Mk 7:30",
+      "text": "δαιμόνιον ἐξεληλυθός.",
+      "highlightedWord": "ἐξεληλυθός."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Mk 7:31",
+      "text": "πάλιν ἐξελθὼν ἐκ",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Mk 8:11",
+      "text": "Καὶ ἐξῆλθον οἱ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Mk 8:27",
+      "text": "Καὶ ἐξῆλθεν ὁ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Mk 9:25",
+      "text": "σοι, ἔξελθε ἐξ",
+      "highlightedWord": "ἔξελθε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Mk 9:26",
+      "text": "σπαράξας ἐξῆλθεν· καὶ",
+      "highlightedWord": "ἐξῆλθεν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Mk 9:29",
+      "text": "δύναται ἐξελθεῖν εἰ",
+      "highlightedWord": "ἐξελθεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Mk 9:30",
+      "text": "Κἀκεῖθεν ἐξελθόντες παρεπορεύοντο",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Mk 11:11",
+      "text": "ὥρας ἐξῆλθεν εἰς",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Mk 11:12",
+      "text": "ἐπαύριον ἐξελθόντων αὐτῶν",
+      "highlightedWord": "ἐξελθόντων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Mk 14:16",
+      "text": "καὶ ἐξῆλθον οἱ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Mk 14:26",
+      "text": "ὑμνήσαντες ἐξῆλθον εἰς",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 48,
+      "reference": "Mk 14:48",
+      "text": "λῃστὴν ἐξήλθατε μετὰ",
+      "highlightedWord": "ἐξήλθατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 68,
+      "reference": "Mk 14:68",
+      "text": "καὶ ἐξῆλθεν ἔξω",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Mk 16:8",
+      "text": "καὶ ἐξελθοῦσαι ἔφυγον",
+      "highlightedWord": "ἐξελθοῦσαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Mk 16:20",
+      "text": "δὲ ἐξελθόντες ἐκήρυξαν",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Lk 1:22",
+      "text": "ἐξελθὼν δὲ",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Lk 2:1",
+      "text": "ἐκείναις ἐξῆλθεν δόγμα",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Lk 4:14",
+      "text": "φήμη ἐξῆλθεν καθ’",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Lk 4:35",
+      "text": "καὶ ἔξελθε ἀπ’",
+      "highlightedWord": "ἔξελθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Lk 4:36",
+      "text": "καὶ ἐξέρχονται;",
+      "highlightedWord": "ἐξέρχονται;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Lk 4:41",
+      "text": "ἐξήρχετο δὲ",
+      "highlightedWord": "ἐξήρχετο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 42,
+      "reference": "Lk 4:42",
+      "text": "ἡμέρας ἐξελθὼν ἐπορεύθη",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Lk 5:8",
+      "text": "λέγων· Ἔξελθε ἀπ’",
+      "highlightedWord": "Ἔξελθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Lk 5:27",
+      "text": "ταῦτα ἐξῆλθεν καὶ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Lk 6:12",
+      "text": "ταύταις ἐξελθεῖν αὐτὸν",
+      "highlightedWord": "ἐξελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Lk 6:19",
+      "text": "αὐτοῦ ἐξήρχετο καὶ",
+      "highlightedWord": "ἐξήρχετο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Lk 7:17",
+      "text": "καὶ ἐξῆλθεν ὁ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Lk 7:24",
+      "text": "Τί ἐξήλθατε εἰς",
+      "highlightedWord": "ἐξήλθατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Lk 7:25",
+      "text": "τί ἐξήλθατε ἰδεῖν;",
+      "highlightedWord": "ἐξήλθατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Lk 7:26",
+      "text": "τί ἐξήλθατε ἰδεῖν;",
+      "highlightedWord": "ἐξήλθατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Lk 8:2",
+      "text": "ἑπτὰ ἐξεληλύθει,",
+      "highlightedWord": "ἐξεληλύθει,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Lk 8:5",
+      "text": "Ἐξῆλθεν ὁ",
+      "highlightedWord": "Ἐξῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Lk 8:27",
+      "text": "ἐξελθόντι δὲ",
+      "highlightedWord": "ἐξελθόντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Lk 8:29",
+      "text": "ἀκαθάρτῳ ἐξελθεῖν ἀπὸ",
+      "highlightedWord": "ἐξελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Lk 8:33",
+      "text": "ἐξελθόντα δὲ",
+      "highlightedWord": "ἐξελθόντα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "ἐξῆλθον δὲ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Lk 8:38",
+      "text": "οὗ ἐξεληλύθει τὰ",
+      "highlightedWord": "ἐξεληλύθει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 46,
+      "reference": "Lk 8:46",
+      "text": "δύναμιν ἐξεληλυθυῖαν ἀπ’",
+      "highlightedWord": "ἐξεληλυθυῖαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Lk 9:4",
+      "text": "ἐκεῖθεν ἐξέρχεσθε.",
+      "highlightedWord": "ἐξέρχεσθε."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Lk 9:5",
+      "text": "ὑμᾶς, ἐξερχόμενοι ἀπὸ",
+      "highlightedWord": "ἐξερχόμενοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Lk 9:6",
+      "text": "ἐξερχόμενοι δὲ",
+      "highlightedWord": "ἐξερχόμενοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Lk 10:10",
+      "text": "ὑμᾶς, ἐξελθόντες εἰς",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Lk 11:14",
+      "text": "δαιμονίου ἐξελθόντος ἐλάλησεν",
+      "highlightedWord": "ἐξελθόντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Lk 11:24",
+      "text": "πνεῦμα ἐξέλθῃ ἀπὸ",
+      "highlightedWord": "ἐξέλθῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 53,
+      "reference": "Lk 11:53",
+      "text": "Κἀκεῖθεν ἐξελθόντος αὐτοῦ",
+      "highlightedWord": "ἐξελθόντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 59,
+      "reference": "Lk 12:59",
+      "text": "μὴ ἐξέλθῃς ἐκεῖθεν",
+      "highlightedWord": "ἐξέλθῃς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Lk 13:31",
+      "text": "αὐτῷ· Ἔξελθε καὶ",
+      "highlightedWord": "Ἔξελθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Lk 14:18",
+      "text": "ἀνάγκην ἐξελθὼν ἰδεῖν",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Lk 14:21",
+      "text": "αὐτοῦ· Ἔξελθε ταχέως",
+      "highlightedWord": "Ἔξελθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Lk 14:23",
+      "text": "δοῦλον· Ἔξελθε εἰς",
+      "highlightedWord": "Ἔξελθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Lk 15:28",
+      "text": "αὐτοῦ ἐξελθὼν παρεκάλει",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Lk 17:29",
+      "text": "ἡμέρᾳ ἐξῆλθεν Λὼτ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Lk 21:37",
+      "text": "νύκτας ἐξερχόμενος ηὐλίζετο",
+      "highlightedWord": "ἐξερχόμενος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 39,
+      "reference": "Lk 22:39",
+      "text": "Καὶ ἐξελθὼν ἐπορεύθη",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 52,
+      "reference": "Lk 22:52",
+      "text": "λῃστὴν ἐξήλθατε μετὰ",
+      "highlightedWord": "ἐξήλθατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 62,
+      "reference": "Lk 22:62",
+      "text": "καὶ ἐξελθὼν ἔξω",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 43,
+      "reference": "Jn 1:43",
+      "text": "ἠθέλησεν ἐξελθεῖν εἰς",
+      "highlightedWord": "ἐξελθεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Jn 4:30",
+      "text": "ἐξῆλθον ἐκ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 43,
+      "reference": "Jn 4:43",
+      "text": "ἡμέρας ἐξῆλθεν ἐκεῖθεν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 42,
+      "reference": "Jn 8:42",
+      "text": "θεοῦ ἐξῆλθον καὶ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 59,
+      "reference": "Jn 8:59",
+      "text": "καὶ ἐξῆλθεν ἐκ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Jn 10:9",
+      "text": "καὶ ἐξελεύσεται καὶ",
+      "highlightedWord": "ἐξελεύσεται"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Jn 10:39",
+      "text": "καὶ ἐξῆλθεν ἐκ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Jn 11:31",
+      "text": "καὶ ἐξῆλθεν, ἠκολούθησαν",
+      "highlightedWord": "ἐξῆλθεν,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Jn 11:44",
+      "text": "ἐξῆλθεν ὁ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Jn 12:13",
+      "text": "καὶ ἐξῆλθον εἰς",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Jn 13:3",
+      "text": "θεοῦ ἐξῆλθεν καὶ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Jn 13:30",
+      "text": "ἐκεῖνος ἐξῆλθεν εὐθύς.",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Jn 13:31",
+      "text": "οὖν ἐξῆλθεν λέγει",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Jn 16:27",
+      "text": "θεοῦ ἐξῆλθον.",
+      "highlightedWord": "ἐξῆλθον."
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Jn 16:28",
+      "text": "ἐξῆλθον ἐκ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Jn 16:30",
+      "text": "θεοῦ ἐξῆλθες.",
+      "highlightedWord": "ἐξῆλθες."
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Jn 17:8",
+      "text": "σοῦ ἐξῆλθον, καὶ",
+      "highlightedWord": "ἐξῆλθον,"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Jn 18:1",
+      "text": "Ἰησοῦς ἐξῆλθεν σὺν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Jn 18:4",
+      "text": "αὐτὸν ἐξῆλθεν, καὶ",
+      "highlightedWord": "ἐξῆλθεν,"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Jn 18:16",
+      "text": "ἔξω. ἐξῆλθεν οὖν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Jn 18:29",
+      "text": "ἐξῆλθεν οὖν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 38,
+      "reference": "Jn 18:38",
+      "text": "πάλιν ἐξῆλθεν πρὸς",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Jn 19:4",
+      "text": "καὶ ἐξῆλθεν πάλιν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Jn 19:5",
+      "text": "ἐξῆλθεν οὖν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Jn 19:17",
+      "text": "σταυρὸν ἐξῆλθεν εἰς",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Jn 19:34",
+      "text": "καὶ ἐξῆλθεν εὐθὺς",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Jn 20:3",
+      "text": "ἐξῆλθεν οὖν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Jn 21:3",
+      "text": "σοί. ἐξῆλθον καὶ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Jn 21:23",
+      "text": "ἐξῆλθεν οὖν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Ac 1:21",
+      "text": "καὶ ἐξῆλθεν ἐφ’",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Ac 7:3",
+      "text": "αὐτόν· Ἔξελθε ἐκ",
+      "highlightedWord": "Ἔξελθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Ac 7:4",
+      "text": "τότε ἐξελθὼν ἐκ",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ac 7:7",
+      "text": "ταῦτα ἐξελεύσονται καὶ",
+      "highlightedWord": "ἐξελεύσονται"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Ac 8:7",
+      "text": "μεγάλῃ ἐξήρχοντο, πολλοὶ",
+      "highlightedWord": "ἐξήρχοντο,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Ac 10:23",
+      "text": "ἀναστὰς ἐξῆλθεν σὺν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ac 11:25",
+      "text": "ἐξῆλθεν δὲ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Ac 12:9",
+      "text": "καὶ ἐξελθὼν ἠκολούθει,",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "καὶ ἐξελθόντες προῆλθον",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Ac 12:17",
+      "text": "καὶ ἐξελθὼν ἐπορεύθη",
+      "highlightedWord": "ἐξελθὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ac 14:20",
+      "text": "ἐπαύριον ἐξῆλθεν σὺν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Ac 15:24",
+      "text": "ἡμῶν ἐξελθόντες ἐτάραξαν",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 40,
+      "reference": "Ac 15:40",
+      "text": "Σιλᾶν ἐξῆλθεν παραδοθεὶς",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Ac 16:3",
+      "text": "αὐτῷ ἐξελθεῖν, καὶ",
+      "highlightedWord": "ἐξελθεῖν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "Ac 16:10",
+      "text": "ἐζητήσαμεν ἐξελθεῖν εἰς",
+      "highlightedWord": "ἐξελθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Ac 16:13",
+      "text": "σαββάτων ἐξήλθομεν ἔξω",
+      "highlightedWord": "ἐξήλθομεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ac 16:18",
+      "text": "Χριστοῦ ἐξελθεῖν ἀπ’",
+      "highlightedWord": "ἐξελθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Ac 16:19",
+      "text": "ὅτι ἐξῆλθεν ἡ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 36,
+      "reference": "Ac 16:36",
+      "text": "οὖν ἐξελθόντες πορεύεσθε",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 40,
+      "reference": "Ac 16:40",
+      "text": "ἐξελθόντες δὲ",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 33,
+      "reference": "Ac 17:33",
+      "text": "Παῦλος ἐξῆλθεν ἐκ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Ac 18:23",
+      "text": "τινὰ ἐξῆλθεν, διερχόμενος",
+      "highlightedWord": "ἐξῆλθεν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Ac 20:1",
+      "text": "ἀσπασάμενος ἐξῆλθεν πορεύεσθαι",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Ac 20:11",
+      "text": "οὕτως ἐξῆλθεν.",
+      "highlightedWord": "ἐξῆλθεν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Ac 21:5",
+      "text": "ἡμέρας, ἐξελθόντες ἐπορευόμεθα",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Ac 21:8",
+      "text": "ἐπαύριον ἐξελθόντες ἤλθομεν",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Ac 22:18",
+      "text": "καὶ ἔξελθε ἐν",
+      "highlightedWord": "ἔξελθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 3,
+      "reference": "Ac 28:3",
+      "text": "θέρμης ἐξελθοῦσα καθῆψε",
+      "highlightedWord": "ἐξελθοῦσα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Ro 10:18",
+      "text": "γῆν ἐξῆλθεν ὁ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Co 5:10",
+      "text": "κόσμου ἐξελθεῖν.",
+      "highlightedWord": "ἐξελθεῖν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 36,
+      "reference": "1Co 14:36",
+      "text": "θεοῦ ἐξῆλθεν, ἢ",
+      "highlightedWord": "ἐξῆλθεν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Co 2:13",
+      "text": "αὐτοῖς ἐξῆλθον εἰς",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "2Co 6:17",
+      "text": "διὸ ἐξέλθατε ἐκ",
+      "highlightedWord": "ἐξέλθατε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "2Co 8:17",
+      "text": "αὐθαίρετος ἐξῆλθεν πρὸς",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Php 4:15",
+      "text": "ὅτε ἐξῆλθον ἀπὸ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "θεὸν ἐξελήλυθεν, ὥστε",
+      "highlightedWord": "ἐξελήλυθεν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Heb 3:16",
+      "text": "οἱ ἐξελθόντες ἐξ",
+      "highlightedWord": "ἐξελθόντες"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Heb 7:5",
+      "text": "καίπερ ἐξεληλυθότας ἐκ",
+      "highlightedWord": "ἐξεληλυθότας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Heb 11:8",
+      "text": "ὑπήκουσεν ἐξελθεῖν εἰς",
+      "highlightedWord": "ἐξελθεῖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Heb 13:13",
+      "text": "τοίνυν ἐξερχώμεθα πρὸς",
+      "highlightedWord": "ἐξερχώμεθα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Jas 3:10",
+      "text": "στόματος ἐξέρχεται εὐλογία",
+      "highlightedWord": "ἐξέρχεται"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Jn 2:19",
+      "text": "ἡμῶν ἐξῆλθαν, ἀλλ’",
+      "highlightedWord": "ἐξῆλθαν,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Jn 4:1",
+      "text": "ψευδοπροφῆται ἐξεληλύθασιν εἰς",
+      "highlightedWord": "ἐξεληλύθασιν"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Jn 1:7",
+      "text": "πλάνοι ἐξῆλθον εἰς",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "3Jn 1:7",
+      "text": "ὀνόματος ἐξῆλθον μηδὲν",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "μὴ ἐξέλθῃ ἔτι,",
+      "highlightedWord": "ἐξέλθῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Re 6:2",
+      "text": "καὶ ἐξῆλθεν νικῶν",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Re 6:4",
+      "text": "καὶ ἐξῆλθεν ἄλλος",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Re 9:3",
+      "text": "καπνοῦ ἐξῆλθον ἀκρίδες",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Re 14:15",
+      "text": "ἄγγελος ἐξῆλθεν ἐκ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Re 14:17",
+      "text": "ἄγγελος ἐξῆλθεν ἐκ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Re 14:20",
+      "text": "καὶ ἐξῆλθεν αἷμα",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Re 15:6",
+      "text": "καὶ ἐξῆλθον οἱ",
+      "highlightedWord": "ἐξῆλθον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Re 16:17",
+      "text": "καὶ ἐξῆλθεν φωνὴ",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Re 18:4",
+      "text": "λέγουσαν· Ἐξέλθατε, ὁ",
+      "highlightedWord": "Ἐξέλθατε,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Re 19:5",
+      "text": "θρόνου ἐξῆλθεν λέγουσα·",
+      "highlightedWord": "ἐξῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Re 19:21",
+      "text": "τῇ ἐξελθούσῃ ἐκ",
+      "highlightedWord": "ἐξελθούσῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Re 20:8",
+      "text": "καὶ ἐξελεύσεται πλανῆσαι",
+      "highlightedWord": "ἐξελεύσεται"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

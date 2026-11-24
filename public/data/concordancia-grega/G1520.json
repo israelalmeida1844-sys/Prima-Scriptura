@@ -1,0 +1,2332 @@
+{
+  "strong": "G1520",
+  "lemma": "εἷς",
+  "lemmaTranslit": "heis",
+  "tokenCount": 342,
+  "verseCount": 287,
+  "bookDistribution": {
+    "Mateus": 66,
+    "Marcos": 44,
+    "Lucas": 43,
+    "João": 38,
+    "Atos": 21,
+    "Romanos": 20,
+    "1 Coríntios": 30,
+    "2 Coríntios": 3,
+    "Gálatas": 8,
+    "Efésios": 15,
+    "Filipenses": 4,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 3,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 5,
+    "Tito": 2,
+    "Hebreus": 5,
+    "Tiago": 3,
+    "2 Pedro": 3,
+    "1 João": 1,
+    "Apocalipse": 25
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Mt 5:18",
+      "text": "ἰῶτα ἓν ἢ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "λύσῃ μίαν τῶν",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Mt 5:29",
+      "text": "ἀπόληται ἓν τῶν",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "ἀπόληται ἓν τῶν",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Mt 5:36",
+      "text": "δύνασαι μίαν τρίχα",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Mt 5:41",
+      "text": "μίλιον ἕν, ὕπαγε",
+      "highlightedWord": "ἕν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Mt 6:24",
+      "text": "τὸν ἕνα μισήσει",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Mt 6:27",
+      "text": "πῆχυν ἕνα;",
+      "highlightedWord": "ἕνα;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 29,
+      "reference": "Mt 6:29",
+      "text": "ὡς ἓν τούτων.",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Mt 8:19",
+      "text": "προσελθὼν εἷς γραμματεὺς",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mt 9:18",
+      "text": "ἄρχων εἷς ἐλθὼν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Mt 10:29",
+      "text": "καὶ ἓν ἐξ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mt 10:42",
+      "text": "ποτίσῃ ἕνα τῶν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Mt 12:11",
+      "text": "πρόβατον ἕν, καὶ",
+      "highlightedWord": "ἕν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Mt 13:46",
+      "text": "δὲ ἕνα πολύτιμον",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Mt 16:14",
+      "text": "ἢ ἕνα τῶν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Mt 17:4",
+      "text": "σοὶ μίαν καὶ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Mt 18:5",
+      "text": "δέξηται ἓν παιδίον",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Mt 18:6",
+      "text": "σκανδαλίσῃ ἕνα τῶν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Mt 18:10",
+      "text": "καταφρονήσητε ἑνὸς τῶν",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Mt 18:12",
+      "text": "πλανηθῇ ἓν ἐξ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Mt 18:14",
+      "text": "ἀπόληται ἓν τῶν",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Mt 18:16",
+      "text": "ἔτι ἕνα ἢ",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Mt 18:24",
+      "text": "αὐτῷ εἷς ὀφειλέτης",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Mt 18:28",
+      "text": "εὗρεν ἕνα τῶν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Mt 19:5",
+      "text": "σάρκα μίαν;",
+      "highlightedWord": "μίαν;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Mt 19:6",
+      "text": "σὰρξ μία. ὃ",
+      "highlightedWord": "μία."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Mt 19:16",
+      "text": "ἰδοὺ εἷς προσελθὼν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Mt 19:17",
+      "text": "ἀγαθοῦ; εἷς ἐστιν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Mt 20:12",
+      "text": "ἔσχατοι μίαν ὥραν",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Mt 20:13",
+      "text": "ἀποκριθεὶς ἑνὶ αὐτῶν",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Mt 20:21",
+      "text": "μου εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Mt 21:19",
+      "text": "συκῆν μίαν ἐπὶ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Mt 21:24",
+      "text": "λόγον ἕνα, ὃν",
+      "highlightedWord": "ἕνα,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 35,
+      "reference": "Mt 22:35",
+      "text": "ἐπηρώτησεν εἷς ἐξ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 8,
+      "reference": "Mt 23:8",
+      "text": "Ῥαββί, εἷς γάρ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Mt 23:9",
+      "text": "γῆς, εἷς γάρ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Mt 23:10",
+      "text": "ἐστιν εἷς ὁ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Mt 23:15",
+      "text": "ποιῆσαι ἕνα προσήλυτον,",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 40,
+      "reference": "Mt 24:40",
+      "text": "ἀγρῷ, εἷς παραλαμβάνεται",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 41,
+      "reference": "Mt 24:41",
+      "text": "μύλῳ, μία παραλαμβάνεται",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Mt 25:15",
+      "text": "δὲ ἕν, ἑκάστῳ",
+      "highlightedWord": "ἕν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 18,
+      "reference": "Mt 25:18",
+      "text": "τὸ ἓν λαβὼν",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 24,
+      "reference": "Mt 25:24",
+      "text": "τὸ ἓν τάλαντον",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 40,
+      "reference": "Mt 25:40",
+      "text": "ἐποιήσατε ἑνὶ τούτων",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 45,
+      "reference": "Mt 25:45",
+      "text": "ἐποιήσατε ἑνὶ τούτων",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 14,
+      "reference": "Mt 26:14",
+      "text": "πορευθεὶς εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 21,
+      "reference": "Mt 26:21",
+      "text": "ὅτι εἷς ἐξ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Mt 26:22",
+      "text": "αὐτῷ εἷς ἕκαστος·",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 40,
+      "reference": "Mt 26:40",
+      "text": "ἰσχύσατε μίαν ὥραν",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 47,
+      "reference": "Mt 26:47",
+      "text": "Ἰούδας εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 51,
+      "reference": "Mt 26:51",
+      "text": "ἰδοὺ εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 69,
+      "reference": "Mt 26:69",
+      "text": "αὐτῷ μία παιδίσκη",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 14,
+      "reference": "Mt 27:14",
+      "text": "οὐδὲ ἓν ῥῆμα,",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 15,
+      "reference": "Mt 27:15",
+      "text": "ἀπολύειν ἕνα τῷ",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 38,
+      "reference": "Mt 27:38",
+      "text": "λῃσταί, εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 48,
+      "reference": "Mt 27:48",
+      "text": "δραμὼν εἷς ἐξ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 1,
+      "reference": "Mt 28:1",
+      "text": "εἰς μίαν σαββάτων,",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mk 2:7",
+      "text": "μὴ εἷς ὁ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Mk 4:8",
+      "text": "ἔφερεν ἓν τριάκοντα",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Mk 4:20",
+      "text": "καρποφοροῦσιν ἓν τριάκοντα",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Mk 5:22",
+      "text": "ἔρχεται εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Mk 6:15",
+      "text": "ὡς εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Mk 8:14",
+      "text": "μὴ ἕνα ἄρτον",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Mk 8:28",
+      "text": "ὅτι εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Mk 9:5",
+      "text": "σοὶ μίαν καὶ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Mk 9:17",
+      "text": "αὐτῷ εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Mk 9:37",
+      "text": "ἂν ἓν τῶν",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Mk 9:42",
+      "text": "σκανδαλίσῃ ἕνα τῶν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Mk 10:8",
+      "text": "σάρκα μίαν· ὥστε",
+      "highlightedWord": "μίαν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Mk 10:17",
+      "text": "προσδραμὼν εἷς καὶ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Mk 10:18",
+      "text": "μὴ εἷς ὁ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Mk 10:21",
+      "text": "αὐτῷ· Ἕν σε",
+      "highlightedWord": "Ἕν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Mk 10:37",
+      "text": "ἵνα εἷς σου",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Mk 11:29",
+      "text": "ὑμᾶς ἕνα λόγον,",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Mk 12:6",
+      "text": "ἔτι ἕνα εἶχεν,",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Mk 12:28",
+      "text": "προσελθὼν εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mk 12:29",
+      "text": "κύριος εἷς ἐστιν,",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mk 12:32",
+      "text": "ὅτι εἷς ἐστιν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Mk 12:42",
+      "text": "ἐλθοῦσα μία χήρα",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mk 13:1",
+      "text": "αὐτῷ εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Mk 14:10",
+      "text": "ὁ εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Mk 14:18",
+      "text": "ὅτι εἷς ἐξ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Mk 14:19",
+      "text": "αὐτῷ εἷς κατὰ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Mk 14:20",
+      "text": "αὐτοῖς· Εἷς τῶν",
+      "highlightedWord": "Εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 37,
+      "reference": "Mk 14:37",
+      "text": "ἴσχυσας μίαν ὥραν",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 43,
+      "reference": "Mk 14:43",
+      "text": "Ἰούδας εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 47,
+      "reference": "Mk 14:47",
+      "text": "εἷς δέ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 66,
+      "reference": "Mk 14:66",
+      "text": "ἔρχεται μία τῶν",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Mk 15:6",
+      "text": "αὐτοῖς ἕνα δέσμιον",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Mk 15:27",
+      "text": "λῃστάς, ἕνα ἐκ",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Mk 16:2",
+      "text": "τῇ μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Lk 4:40",
+      "text": "δὲ ἑνὶ ἑκάστῳ",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Lk 5:3",
+      "text": "εἰς ἓν τῶν",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Lk 5:12",
+      "text": "ἐν μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Lk 5:17",
+      "text": "ἐν μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Lk 7:41",
+      "text": "ὁ εἷς ὤφειλεν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Lk 8:22",
+      "text": "ἐν μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Lk 9:33",
+      "text": "τρεῖς, μίαν σοὶ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Lk 10:42",
+      "text": "ἢ ἑνός· Μαριὰμ",
+      "highlightedWord": "ἑνός·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 46,
+      "reference": "Lk 11:46",
+      "text": "αὐτοὶ ἑνὶ τῶν",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Lk 12:6",
+      "text": "καὶ ἓν ἐξ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Lk 12:27",
+      "text": "ὡς ἓν τούτων.",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 52,
+      "reference": "Lk 12:52",
+      "text": "ἐν ἑνὶ οἴκῳ",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Lk 13:10",
+      "text": "ἐν μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Lk 14:18",
+      "text": "ἀπὸ μιᾶς πάντες",
+      "highlightedWord": "μιᾶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Lk 15:4",
+      "text": "αὐτῶν ἓν οὐ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Lk 15:7",
+      "text": "ἐπὶ ἑνὶ ἁμαρτωλῷ",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Lk 15:8",
+      "text": "δραχμὴν μίαν, οὐχὶ",
+      "highlightedWord": "μίαν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Lk 15:10",
+      "text": "ἐπὶ ἑνὶ ἁμαρτωλῷ",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 15,
+      "reference": "Lk 15:15",
+      "text": "ἐκολλήθη ἑνὶ τῶν",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Lk 15:19",
+      "text": "ὡς ἕνα τῶν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Lk 15:26",
+      "text": "προσκαλεσάμενος ἕνα τῶν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Lk 16:5",
+      "text": "προσκαλεσάμενος ἕνα ἕκαστον",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Lk 16:13",
+      "text": "τὸν ἕνα μισήσει",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Lk 16:17",
+      "text": "νόμου μίαν κεραίαν",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Lk 17:2",
+      "text": "τούτων ἕνα.",
+      "highlightedWord": "ἕνα."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Lk 17:15",
+      "text": "εἷς δὲ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Lk 17:22",
+      "text": "ἐπιθυμήσετε μίαν τῶν",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 34,
+      "reference": "Lk 17:34",
+      "text": "κλίνης μιᾶς, ὁ",
+      "highlightedWord": "μιᾶς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 35,
+      "reference": "Lk 17:35",
+      "text": "ἡ μία παραλημφθήσεται",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Lk 18:10",
+      "text": "ὁ εἷς Φαρισαῖος",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Lk 18:19",
+      "text": "μὴ εἷς ὁ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Lk 18:22",
+      "text": "Ἔτι ἕν σοι",
+      "highlightedWord": "ἕν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Lk 20:1",
+      "text": "ἐν μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 47,
+      "reference": "Lk 22:47",
+      "text": "Ἰούδας εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 50,
+      "reference": "Lk 22:50",
+      "text": "ἐπάταξεν εἷς τις",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 59,
+      "reference": "Lk 22:59",
+      "text": "ὥρας μιᾶς ἄλλος",
+      "highlightedWord": "μιᾶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 39,
+      "reference": "Lk 23:39",
+      "text": "Εἷς δὲ",
+      "highlightedWord": "Εἷς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Lk 24:1",
+      "text": "δὲ μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Lk 24:18",
+      "text": "δὲ εἷς ὀνόματι",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Jn 1:3",
+      "text": "οὐδὲ ἕν. ὃ",
+      "highlightedWord": "ἕν."
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 40,
+      "reference": "Jn 1:40",
+      "text": "Πέτρου εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Jn 3:27",
+      "text": "οὐδὲ ἓν ἐὰν",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Jn 6:8",
+      "text": "αὐτῷ εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "μὴ ἕν, καὶ",
+      "highlightedWord": "ἕν,"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 70,
+      "reference": "Jn 6:70",
+      "text": "ὑμῶν εἷς διάβολός",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 71,
+      "reference": "Jn 6:71",
+      "text": "αὐτόν, εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Jn 7:21",
+      "text": "αὐτοῖς· Ἓν ἔργον",
+      "highlightedWord": "Ἓν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 50,
+      "reference": "Jn 7:50",
+      "text": "πρότερον, εἷς ὢν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Jn 8:41",
+      "text": "γεγεννήμεθα· ἕνα πατέρα",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Jn 9:25",
+      "text": "οἶδα· ἓν οἶδα",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Jn 10:16",
+      "text": "γενήσονται μία ποίμνη,",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Jn 10:30",
+      "text": "πατὴρ ἕν ἐσμεν.",
+      "highlightedWord": "ἕν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 49,
+      "reference": "Jn 11:49",
+      "text": "εἷς δέ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 50,
+      "reference": "Jn 11:50",
+      "text": "ἵνα εἷς ἄνθρωπος",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 52,
+      "reference": "Jn 11:52",
+      "text": "εἰς ἕν.",
+      "highlightedWord": "ἕν."
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Jn 12:2",
+      "text": "Λάζαρος εἷς ἦν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Jn 12:4",
+      "text": "Ἰσκαριώτης εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Jn 13:21",
+      "text": "ὅτι εἷς ἐξ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 23,
+      "reference": "Jn 13:23",
+      "text": "ἀνακείμενος εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Jn 17:11",
+      "text": "ὦσιν ἓν καθὼς",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 21,
+      "reference": "Jn 17:21",
+      "text": "πάντες ἓν ὦσιν,",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Jn 17:22",
+      "text": "ὦσιν ἓν καθὼς",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Jn 17:23",
+      "text": "εἰς ἕν, ἵνα",
+      "highlightedWord": "ἕν,"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Jn 18:14",
+      "text": "συμφέρει ἕνα ἄνθρωπον",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Jn 18:22",
+      "text": "εἰπόντος εἷς παρεστηκὼς",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 26,
+      "reference": "Jn 18:26",
+      "text": "λέγει εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 39,
+      "reference": "Jn 18:39",
+      "text": "ἵνα ἕνα ἀπολύσω",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Jn 19:34",
+      "text": "ἀλλ’ εἷς τῶν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Jn 20:1",
+      "text": "δὲ μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Jn 20:7",
+      "text": "εἰς ἕνα τόπον·",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Jn 20:12",
+      "text": "καθεζομένους, ἕνα πρὸς",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "τῇ μιᾷ σαββάτων,",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Jn 20:24",
+      "text": "δὲ εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Jn 21:25",
+      "text": "καθ’ ἕν, οὐδ’",
+      "highlightedWord": "ἕν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Ac 1:22",
+      "text": "γενέσθαι ἕνα τούτων.",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Ac 1:24",
+      "text": "δύο ἕνα,",
+      "highlightedWord": "ἕνα,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Ac 2:3",
+      "text": "ἐφ’ ἕνα ἕκαστον",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ac 2:6",
+      "text": "ἤκουον εἷς ἕκαστος",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Ac 4:32",
+      "text": "ψυχὴ μία, καὶ",
+      "highlightedWord": "μία,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Ac 11:28",
+      "text": "δὲ εἷς ἐξ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "ῥύμην μίαν, καὶ",
+      "highlightedWord": "μίαν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Ac 17:26",
+      "text": "ἐξ ἑνὸς πᾶν",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Ac 17:27",
+      "text": "ἀπὸ ἑνὸς ἑκάστου",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Ac 19:34",
+      "text": "ἐγένετο μία ἐκ",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Ac 20:7",
+      "text": "τῇ μιᾷ τῶν",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Ac 20:31",
+      "text": "νουθετῶν ἕνα ἕκαστον.",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Ac 21:7",
+      "text": "ἡμέραν μίαν παρ’",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Ac 21:19",
+      "text": "καθ’ ἓν ἕκαστον",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Ac 21:26",
+      "text": "ὑπὲρ ἑνὸς ἑκάστου",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 6,
+      "reference": "Ac 23:6",
+      "text": "τὸ ἓν μέρος",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 17,
+      "reference": "Ac 23:17",
+      "text": "Παῦλος ἕνα τῶν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Ac 24:21",
+      "text": "περὶ μιᾶς ταύτης",
+      "highlightedWord": "μιᾶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 13,
+      "reference": "Ac 28:13",
+      "text": "μετὰ μίαν ἡμέραν",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 25,
+      "reference": "Ac 28:25",
+      "text": "ῥῆμα ἓν ὅτι",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Ro 3:10",
+      "text": "οὐδὲ εἷς,",
+      "highlightedWord": "εἷς,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Ro 3:12",
+      "text": "ἕως ἑνός.",
+      "highlightedWord": "ἑνός."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 30,
+      "reference": "Ro 3:30",
+      "text": "εἴπερ εἷς ὁ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ro 5:12",
+      "text": "δι’ ἑνὸς ἀνθρώπου",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ro 5:15",
+      "text": "τοῦ ἑνὸς παραπτώματι",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Ro 5:16",
+      "text": "δι’ ἑνὸς ἁμαρτήσαντος",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Ro 5:17",
+      "text": "τοῦ ἑνὸς παραπτώματι",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Ro 5:18",
+      "text": "δι’ ἑνὸς παραπτώματος",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ro 5:19",
+      "text": "τοῦ ἑνὸς ἀνθρώπου",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Ro 9:10",
+      "text": "ἐξ ἑνὸς κοίτην",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Ro 12:4",
+      "text": "ἐν ἑνὶ σώματι",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Ro 12:5",
+      "text": "πολλοὶ ἓν σῶμά",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Ro 15:6",
+      "text": "ἐν ἑνὶ στόματι",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Co 3:8",
+      "text": "ποτίζων ἕν εἰσιν,",
+      "highlightedWord": "ἕν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Co 4:6",
+      "text": "μὴ εἷς ὑπὲρ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Co 6:16",
+      "text": "πόρνῃ ἓν σῶμά",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "1Co 6:17",
+      "text": "κυρίῳ ἓν πνεῦμά",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "1Co 8:4",
+      "text": "μὴ εἷς.",
+      "highlightedWord": "εἷς."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "1Co 8:6",
+      "text": "ἡμῖν εἷς θεὸς",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "1Co 9:24",
+      "text": "τρέχουσιν, εἷς δὲ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "1Co 10:8",
+      "text": "ἔπεσαν μιᾷ ἡμέρᾳ",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "1Co 10:17",
+      "text": "ὅτι εἷς ἄρτος,",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "1Co 11:5",
+      "text": "αὐτῆς, ἓν γάρ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "1Co 12:9",
+      "text": "τῷ ἑνὶ πνεύματι,",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "1Co 12:11",
+      "text": "τὸ ἓν καὶ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "1Co 12:12",
+      "text": "σῶμα ἕν ἐστιν",
+      "highlightedWord": "ἕν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "1Co 12:13",
+      "text": "ἐν ἑνὶ πνεύματι",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "1Co 12:14",
+      "text": "ἔστιν ἓν μέλος",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "1Co 12:18",
+      "text": "μέλη, ἓν ἕκαστον",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "1Co 12:19",
+      "text": "πάντα ἓν μέλος,",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "1Co 12:20",
+      "text": "μέλη, ἓν δὲ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "1Co 12:26",
+      "text": "πάσχει ἓν μέλος,",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "1Co 14:27",
+      "text": "καὶ εἷς διερμηνευέτω·",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "1Co 14:31",
+      "text": "καθ’ ἕνα πάντες",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "1Co 16:2",
+      "text": "κατὰ μίαν σαββάτου",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "2Co 5:14",
+      "text": "ὅτι εἷς ὑπὲρ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "2Co 11:2",
+      "text": "ὑμᾶς ἑνὶ ἀνδρὶ",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "2Co 11:24",
+      "text": "παρὰ μίαν ἔλαβον,",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Ga 3:16",
+      "text": "ἐφ’ ἑνός· Καὶ",
+      "highlightedWord": "ἑνός·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Ga 3:20",
+      "text": "μεσίτης ἑνὸς οὐκ",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Ga 3:28",
+      "text": "ὑμεῖς εἷς ἐστε",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Ga 4:22",
+      "text": "ἔσχεν, ἕνα ἐκ",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Ga 4:24",
+      "text": "διαθῆκαι, μία μὲν",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Ga 5:14",
+      "text": "ἐν ἑνὶ λόγῳ",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Eph 2:14",
+      "text": "ἀμφότερα ἓν καὶ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Eph 2:15",
+      "text": "εἰς ἕνα καινὸν",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Eph 2:16",
+      "text": "ἐν ἑνὶ σώματι",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Eph 2:18",
+      "text": "ἐν ἑνὶ πνεύματι",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Eph 4:4",
+      "text": "ἓν σῶμα",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Eph 4:5",
+      "text": "εἷς κύριος,",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Eph 4:6",
+      "text": "εἷς θεὸς",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Eph 4:7",
+      "text": "Ἑνὶ δὲ",
+      "highlightedWord": "Ἑνὶ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Eph 4:16",
+      "text": "μέτρῳ ἑνὸς ἑκάστου",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Eph 5:31",
+      "text": "σάρκα μίαν.",
+      "highlightedWord": "μίαν."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "καθ’ ἕνα ἕκαστος",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Php 1:27",
+      "text": "ἐν ἑνὶ πνεύματι,",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Php 2:2",
+      "text": "τὸ ἓν φρονοῦντες,",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Php 3:13",
+      "text": "κατειληφέναι· ἓν δέ,",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Col 3:15",
+      "text": "ἐν ἑνὶ σώματι·",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Col 4:6",
+      "text": "ὑμᾶς ἑνὶ ἑκάστῳ",
+      "highlightedWord": "ἑνὶ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Th 2:11",
+      "text": "ὡς ἕνα ἕκαστον",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "1Th 5:11",
+      "text": "οἰκοδομεῖτε εἷς τὸν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Th 1:3",
+      "text": "ἀγάπη ἑνὸς ἑκάστου",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Ti 2:5",
+      "text": "εἷς γὰρ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Ti 3:2",
+      "text": "εἶναι, μιᾶς γυναικὸς",
+      "highlightedWord": "μιᾶς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Ti 3:12",
+      "text": "ἔστωσαν μιᾶς γυναικὸς",
+      "highlightedWord": "μιᾶς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Ti 5:9",
+      "text": "γεγονυῖα, ἑνὸς ἀνδρὸς",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Tit 1:6",
+      "text": "ἀνέγκλητος, μιᾶς γυναικὸς",
+      "highlightedWord": "μιᾶς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Tit 3:10",
+      "text": "μετὰ μίαν καὶ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Heb 2:11",
+      "text": "ἐξ ἑνὸς πάντες·",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Heb 10:12",
+      "text": "δὲ μίαν ὑπὲρ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Heb 10:14",
+      "text": "μιᾷ γὰρ",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Heb 11:12",
+      "text": "ἀφ’ ἑνὸς ἐγεννήθησαν,",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Heb 12:16",
+      "text": "βρώσεως μιᾶς ἀπέδετο",
+      "highlightedWord": "μιᾶς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Jas 2:10",
+      "text": "ἐν ἑνί, γέγονεν",
+      "highlightedWord": "ἑνί,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Jas 2:19",
+      "text": "ὅτι εἷς ἐστιν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Jas 4:12",
+      "text": "εἷς ἐστιν",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Pe 3:8",
+      "text": "Ἓν δὲ",
+      "highlightedWord": "Ἓν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Jn 5:8",
+      "text": "τὸ ἕν εἰσιν.",
+      "highlightedWord": "ἕν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "ζῷα, ἓν καθ’",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Re 5:5",
+      "text": "καὶ εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Re 6:1",
+      "text": "ἀρνίον μίαν ἐκ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Re 7:13",
+      "text": "ἀπεκρίθη εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "ἤκουσα ἑνὸς ἀετοῦ",
+      "highlightedWord": "ἑνὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Re 9:12",
+      "text": "ἡ μία ἀπῆλθεν·",
+      "highlightedWord": "μία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Re 9:13",
+      "text": "φωνὴν μίαν ἐκ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Re 13:3",
+      "text": "καὶ μίαν ἐκ",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Re 15:7",
+      "text": "καὶ ἓν ἐκ",
+      "highlightedWord": "ἓν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Re 17:1",
+      "text": "ἦλθεν εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Re 17:10",
+      "text": "ὁ εἷς ἔστιν,",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Re 17:12",
+      "text": "βασιλεῖς μίαν ὥραν",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Re 17:13",
+      "text": "οὗτοι μίαν γνώμην",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Re 17:17",
+      "text": "ποιῆσαι μίαν γνώμην",
+      "highlightedWord": "μίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Re 18:8",
+      "text": "ἐν μιᾷ ἡμέρᾳ",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Re 18:10",
+      "text": "ὅτι μιᾷ ὥρᾳ",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Re 18:17",
+      "text": "ὅτι μιᾷ ὥρᾳ",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "ὅτι μιᾷ ὥρᾳ",
+      "highlightedWord": "μιᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "ἦρεν εἷς ἄγγελος",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Re 19:17",
+      "text": "εἶδον ἕνα ἄγγελον",
+      "highlightedWord": "ἕνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Re 21:9",
+      "text": "ἦλθεν εἷς ἐκ",
+      "highlightedWord": "εἷς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Re 21:21",
+      "text": "ἀνὰ εἷς ἕκαστος",
+      "highlightedWord": "εἷς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

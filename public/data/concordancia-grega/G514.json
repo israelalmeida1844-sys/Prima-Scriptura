@@ -1,0 +1,337 @@
+{
+  "strong": "G514",
+  "lemma": "ἄξιος",
+  "lemmaTranslit": "axios",
+  "tokenCount": 41,
+  "verseCount": 39,
+  "bookDistribution": {
+    "Mateus": 9,
+    "Lucas": 8,
+    "João": 1,
+    "Atos": 7,
+    "Romanos": 2,
+    "1 Coríntios": 1,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 4,
+    "Hebreus": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Mt 3:8",
+      "text": "καρπὸν ἄξιον τῆς",
+      "highlightedWord": "ἄξιον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Mt 10:10",
+      "text": "ῥάβδον· ἄξιος γὰρ",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mt 10:11",
+      "text": "αὐτῇ ἄξιός ἐστιν·",
+      "highlightedWord": "ἄξιός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Mt 10:13",
+      "text": "οἰκία ἀξία, ἐλθάτω",
+      "highlightedWord": "ἀξία,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Mt 10:37",
+      "text": "μου ἄξιος· καὶ",
+      "highlightedWord": "ἄξιος·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Mt 10:38",
+      "text": "μου ἄξιος.",
+      "highlightedWord": "ἄξιος."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Mt 22:8",
+      "text": "ἦσαν ἄξιοι·",
+      "highlightedWord": "ἄξιοι·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Lk 3:8",
+      "text": "καρποὺς ἀξίους τῆς",
+      "highlightedWord": "ἀξίους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Lk 7:4",
+      "text": "ὅτι Ἄξιός ἐστιν",
+      "highlightedWord": "Ἄξιός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Lk 10:7",
+      "text": "αὐτῶν, ἄξιος γὰρ",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Lk 12:48",
+      "text": "δὲ ἄξια πληγῶν",
+      "highlightedWord": "ἄξια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Lk 15:19",
+      "text": "εἰμὶ ἄξιος κληθῆναι",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Lk 15:21",
+      "text": "εἰμὶ ἄξιος κληθῆναι",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Lk 23:15",
+      "text": "οὐδὲν ἄξιον θανάτου",
+      "highlightedWord": "ἄξιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 41,
+      "reference": "Lk 23:41",
+      "text": "δικαίως, ἄξια γὰρ",
+      "highlightedWord": "ἄξια"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Jn 1:27",
+      "text": "εἰμὶ ἄξιος ἵνα",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Ac 13:25",
+      "text": "εἰμὶ ἄξιος τὸ",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Ac 13:46",
+      "text": "οὐκ ἀξίους κρίνετε",
+      "highlightedWord": "ἀξίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 29,
+      "reference": "Ac 23:29",
+      "text": "δὲ ἄξιον θανάτου",
+      "highlightedWord": "ἄξιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "καὶ ἄξιον θανάτου",
+      "highlightedWord": "ἄξιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 25,
+      "reference": "Ac 25:25",
+      "text": "μηδὲν ἄξιον αὐτὸν",
+      "highlightedWord": "ἄξιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 20,
+      "reference": "Ac 26:20",
+      "text": "θεόν, ἄξια τῆς",
+      "highlightedWord": "ἄξια"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Ac 26:31",
+      "text": "δεσμῶν ἄξιον τι",
+      "highlightedWord": "ἄξιον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Ro 1:32",
+      "text": "πράσσοντες ἄξιοι θανάτου",
+      "highlightedWord": "ἄξιοι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Ro 8:18",
+      "text": "οὐκ ἄξια τὰ",
+      "highlightedWord": "ἄξια"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "1Co 16:4",
+      "text": "δὲ ἄξιον ᾖ",
+      "highlightedWord": "ἄξιον"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Th 1:3",
+      "text": "καθὼς ἄξιόν ἐστιν,",
+      "highlightedWord": "ἄξιόν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Ti 1:15",
+      "text": "ἀποδοχῆς ἄξιος, ὅτι",
+      "highlightedWord": "ἄξιος,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Ti 4:9",
+      "text": "ἀποδοχῆς ἄξιος,",
+      "highlightedWord": "ἄξιος,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "1Ti 5:18",
+      "text": "καί· Ἄξιος ὁ",
+      "highlightedWord": "Ἄξιος"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Ti 6:1",
+      "text": "τιμῆς ἀξίους ἡγείσθωσαν,",
+      "highlightedWord": "ἀξίους"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 38,
+      "reference": "Heb 11:38",
+      "text": "ἦν ἄξιος ὁ",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Re 3:4",
+      "text": "ὅτι ἄξιοί εἰσιν.",
+      "highlightedWord": "ἄξιοί"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Re 4:11",
+      "text": "Ἄξιος εἶ,",
+      "highlightedWord": "Ἄξιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Re 5:2",
+      "text": "Τίς ἄξιος ἀνοῖξαι",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Re 5:4",
+      "text": "οὐδεὶς ἄξιος εὑρέθη",
+      "highlightedWord": "ἄξιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Re 5:9",
+      "text": "λέγοντες· Ἄξιος εἶ",
+      "highlightedWord": "Ἄξιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Re 5:12",
+      "text": "μεγάλῃ· Ἄξιόν ἐστιν",
+      "highlightedWord": "Ἄξιόν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Re 16:6",
+      "text": "πιεῖν· ἄξιοί εἰσιν.",
+      "highlightedWord": "ἄξιοί"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

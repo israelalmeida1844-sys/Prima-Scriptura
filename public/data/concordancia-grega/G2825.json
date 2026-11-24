@@ -1,0 +1,91 @@
+{
+  "strong": "G2825",
+  "lemma": "κλίνη",
+  "lemmaTranslit": "klinē",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Marcos": 3,
+    "Lucas": 3,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mt 9:2",
+      "text": "ἐπὶ κλίνης βεβλημένον.",
+      "highlightedWord": "κλίνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mt 9:6",
+      "text": "τὴν κλίνην καὶ",
+      "highlightedWord": "κλίνην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Mk 4:21",
+      "text": "τὴν κλίνην, οὐχ",
+      "highlightedWord": "κλίνην,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Mk 7:4",
+      "text": "καὶ κλινῶν—",
+      "highlightedWord": "κλινῶν—"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Mk 7:30",
+      "text": "τὴν κλίνην καὶ",
+      "highlightedWord": "κλίνην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Lk 5:18",
+      "text": "ἐπὶ κλίνης ἄνθρωπον",
+      "highlightedWord": "κλίνης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Lk 8:16",
+      "text": "ὑποκάτω κλίνης τίθησιν,",
+      "highlightedWord": "κλίνης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 34,
+      "reference": "Lk 17:34",
+      "text": "ἐπὶ κλίνης μιᾶς,",
+      "highlightedWord": "κλίνης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Re 2:22",
+      "text": "εἰς κλίνην, καὶ",
+      "highlightedWord": "κλίνην,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

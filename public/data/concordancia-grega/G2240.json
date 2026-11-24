@@ -1,0 +1,233 @@
+{
+  "strong": "G2240",
+  "lemma": "ἥκω",
+  "lemmaTranslit": "hēkō",
+  "tokenCount": 27,
+  "verseCount": 26,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 1,
+    "Lucas": 5,
+    "João": 4,
+    "Atos": 1,
+    "Romanos": 1,
+    "Hebreus": 3,
+    "2 Pedro": 1,
+    "1 João": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Mt 8:11",
+      "text": "δυσμῶν ἥξουσιν καὶ",
+      "highlightedWord": "ἥξουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 36,
+      "reference": "Mt 23:36",
+      "text": "ὑμῖν, ἥξει ταῦτα",
+      "highlightedWord": "ἥξει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 14,
+      "reference": "Mt 24:14",
+      "text": "τότε ἥξει τὸ",
+      "highlightedWord": "ἥξει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 50,
+      "reference": "Mt 24:50",
+      "text": "ἥξει ὁ",
+      "highlightedWord": "ἥξει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Mk 8:3",
+      "text": "μακρόθεν ἥκασιν.",
+      "highlightedWord": "ἥκασιν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Lk 12:46",
+      "text": "ἥξει ὁ",
+      "highlightedWord": "ἥξει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Lk 13:29",
+      "text": "καὶ ἥξουσιν ἀπὸ",
+      "highlightedWord": "ἥξουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Lk 13:35",
+      "text": "ἕως ἥξει ὅτε",
+      "highlightedWord": "ἥξει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Lk 15:27",
+      "text": "σου ἥκει, καὶ",
+      "highlightedWord": "ἥκει,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 43,
+      "reference": "Lk 19:43",
+      "text": "ὅτι ἥξουσιν ἡμέραι",
+      "highlightedWord": "ἥξουσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Jn 2:4",
+      "text": "οὔπω ἥκει ἡ",
+      "highlightedWord": "ἥκει"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 47,
+      "reference": "Jn 4:47",
+      "text": "Ἰησοῦς ἥκει ἐκ",
+      "highlightedWord": "ἥκει"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 37,
+      "reference": "Jn 6:37",
+      "text": "ἐμὲ ἥξει, καὶ",
+      "highlightedWord": "ἥξει,"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 42,
+      "reference": "Jn 8:42",
+      "text": "καὶ ἥκω· οὐδὲ",
+      "highlightedWord": "ἥκω·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 23,
+      "reference": "Ac 28:23",
+      "text": "ἡμέραν ἧκον πρὸς",
+      "highlightedWord": "ἧκον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Ro 11:26",
+      "text": "γέγραπται· Ἥξει ἐκ",
+      "highlightedWord": "Ἥξει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Heb 10:7",
+      "text": "Ἰδοὺ ἥκω, ἐν",
+      "highlightedWord": "ἥκω,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Heb 10:9",
+      "text": "Ἰδοὺ ἥκω τοῦ",
+      "highlightedWord": "ἥκω"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Heb 10:37",
+      "text": "ἐρχόμενος ἥξει καὶ",
+      "highlightedWord": "ἥξει"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Pe 3:10",
+      "text": "ἥξει δὲ",
+      "highlightedWord": "ἥξει"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Jn 5:20",
+      "text": "θεοῦ ἥκει, καὶ",
+      "highlightedWord": "ἥκει,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Re 2:25",
+      "text": "ἂν ἥξω.",
+      "highlightedWord": "ἥξω."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "γρηγορήσῃς, ἥξω ὡς",
+      "highlightedWord": "ἥξω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "ἵνα ἥξουσιν καὶ",
+      "highlightedWord": "ἥξουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Re 15:4",
+      "text": "ἔθνη ἥξουσιν καὶ",
+      "highlightedWord": "ἥξουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Re 18:8",
+      "text": "ἡμέρᾳ ἥξουσιν αἱ",
+      "highlightedWord": "ἥξουσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

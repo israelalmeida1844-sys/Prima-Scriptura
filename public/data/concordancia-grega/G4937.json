@@ -1,0 +1,77 @@
+{
+  "strong": "G4937",
+  "lemma": "συντρίβω",
+  "lemmaTranslit": "syntribō",
+  "tokenCount": 7,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 2,
+    "Lucas": 1,
+    "João": 1,
+    "Romanos": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Mt 12:20",
+      "text": "κάλαμον συντετριμμένον οὐ",
+      "highlightedWord": "συντετριμμένον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Mk 5:4",
+      "text": "πέδας συντετρῖφθαι, καὶ",
+      "highlightedWord": "συντετρῖφθαι,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Mk 14:3",
+      "text": "πολυτελοῦς· συντρίψασα τὴν",
+      "highlightedWord": "συντρίψασα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Lk 9:39",
+      "text": "αὐτοῦ συντρῖβον αὐτόν·",
+      "highlightedWord": "συντρῖβον"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 36,
+      "reference": "Jn 19:36",
+      "text": "οὐ συντριβήσεται αὐτοῦ.",
+      "highlightedWord": "συντριβήσεται"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Ro 16:20",
+      "text": "εἰρήνης συντρίψει τὸν",
+      "highlightedWord": "συντρίψει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Re 2:27",
+      "text": "κεραμικὰ συντρίβεται,",
+      "highlightedWord": "συντρίβεται,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

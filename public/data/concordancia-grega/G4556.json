@@ -1,0 +1,32 @@
+{
+  "strong": "G4556",
+  "lemma": "σάρδιον",
+  "lemmaTranslit": "sardion",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Re 4:3",
+      "text": "καὶ σαρδίῳ, καὶ",
+      "highlightedWord": "σαρδίῳ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 20,
+      "reference": "Re 21:20",
+      "text": "ἕκτος σάρδιον, ὁ",
+      "highlightedWord": "σάρδιον,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

@@ -1,0 +1,259 @@
+{
+  "strong": "G1322",
+  "lemma": "διδαχή",
+  "lemmaTranslit": "didachē",
+  "tokenCount": 30,
+  "verseCount": 29,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 5,
+    "Lucas": 1,
+    "João": 3,
+    "Atos": 4,
+    "Romanos": 2,
+    "1 Coríntios": 2,
+    "2 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 2,
+    "2 João": 3,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Mt 7:28",
+      "text": "τῇ διδαχῇ αὐτοῦ·",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Mt 16:12",
+      "text": "τῆς διδαχῆς τῶν",
+      "highlightedWord": "διδαχῆς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 33,
+      "reference": "Mt 22:33",
+      "text": "τῇ διδαχῇ αὐτοῦ.",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Mk 1:22",
+      "text": "τῇ διδαχῇ αὐτοῦ,",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Mk 1:27",
+      "text": "τοῦτο; διδαχὴ καινή·",
+      "highlightedWord": "διδαχὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Mk 4:2",
+      "text": "τῇ διδαχῇ αὐτοῦ·",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Mk 11:18",
+      "text": "τῇ διδαχῇ αὐτοῦ.",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Mk 12:38",
+      "text": "τῇ διδαχῇ αὐτοῦ",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Lk 4:32",
+      "text": "τῇ διδαχῇ αὐτοῦ,",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Jn 7:16",
+      "text": "ἐμὴ διδαχὴ οὐκ",
+      "highlightedWord": "διδαχὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Jn 7:17",
+      "text": "τῆς διδαχῆς πότερον",
+      "highlightedWord": "διδαχῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Jn 18:19",
+      "text": "τῆς διδαχῆς αὐτοῦ.",
+      "highlightedWord": "διδαχῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 42,
+      "reference": "Ac 2:42",
+      "text": "τῇ διδαχῇ τῶν",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Ac 5:28",
+      "text": "τῆς διδαχῆς ὑμῶν,",
+      "highlightedWord": "διδαχῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Ac 13:12",
+      "text": "τῇ διδαχῇ τοῦ",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 19,
+      "reference": "Ac 17:19",
+      "text": "λαλουμένη διδαχή;",
+      "highlightedWord": "διδαχή;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Ro 6:17",
+      "text": "τύπον διδαχῆς,",
+      "highlightedWord": "διδαχῆς,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Ro 16:17",
+      "text": "τὴν διδαχὴν ἣν",
+      "highlightedWord": "διδαχὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "1Co 14:6",
+      "text": "ἐν διδαχῇ;",
+      "highlightedWord": "διδαχῇ;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "1Co 14:26",
+      "text": "ἔχει, διδαχὴν ἔχει,",
+      "highlightedWord": "διδαχὴν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Ti 4:2",
+      "text": "καὶ διδαχῇ.",
+      "highlightedWord": "διδαχῇ."
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Tit 1:9",
+      "text": "τὴν διδαχὴν πιστοῦ",
+      "highlightedWord": "διδαχὴν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Heb 6:2",
+      "text": "βαπτισμῶν διδαχὴν ἐπιθέσεώς",
+      "highlightedWord": "διδαχὴν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Heb 13:9",
+      "text": "διδαχαῖς ποικίλαις",
+      "highlightedWord": "διδαχαῖς"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Jn 1:9",
+      "text": "τῇ διδαχῇ τοῦ",
+      "highlightedWord": "διδαχῇ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Jn 1:10",
+      "text": "τὴν διδαχὴν οὐ",
+      "highlightedWord": "διδαχὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "τὴν διδαχὴν Βαλαάμ,",
+      "highlightedWord": "διδαχὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Re 2:15",
+      "text": "τὴν διδαχὴν Νικολαϊτῶν",
+      "highlightedWord": "διδαχὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "τὴν διδαχὴν ταύτην,",
+      "highlightedWord": "διδαχὴν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

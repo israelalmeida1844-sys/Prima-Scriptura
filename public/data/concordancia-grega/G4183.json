@@ -1,0 +1,3056 @@
+{
+  "strong": "G4183",
+  "lemma": "πολύς",
+  "lemmaTranslit": "polys",
+  "tokenCount": 415,
+  "verseCount": 377,
+  "bookDistribution": {
+    "Mateus": 61,
+    "Marcos": 60,
+    "Lucas": 60,
+    "João": 41,
+    "Atos": 65,
+    "Romanos": 20,
+    "1 Coríntios": 22,
+    "2 Coríntios": 24,
+    "Gálatas": 3,
+    "Efésios": 1,
+    "Filipenses": 4,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 4,
+    "1 Timóteo": 5,
+    "2 Timóteo": 4,
+    "Tito": 2,
+    "Filemom": 2,
+    "Hebreus": 11,
+    "Tiago": 3,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "1 João": 2,
+    "2 João": 2,
+    "3 João": 1,
+    "Apocalipse": 15
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Mt 2:18",
+      "text": "ὀδυρμὸς πολύς· Ῥαχὴλ",
+      "highlightedWord": "πολύς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Mt 3:7",
+      "text": "δὲ πολλοὺς τῶν",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Mt 4:25",
+      "text": "ὄχλοι πολλοὶ ἀπὸ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Mt 5:12",
+      "text": "ὑμῶν πολὺς ἐν",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Mt 5:20",
+      "text": "δικαιοσύνη πλεῖον τῶν",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mt 6:25",
+      "text": "ψυχὴ πλεῖόν ἐστι",
+      "highlightedWord": "πλεῖόν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Mt 6:30",
+      "text": "οὐ πολλῷ μᾶλλον",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Mt 7:13",
+      "text": "καὶ πολλοί εἰσιν",
+      "highlightedWord": "πολλοί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Mt 7:22",
+      "text": "πολλοὶ ἐροῦσίν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Mt 8:1",
+      "text": "ὄχλοι πολλοί.",
+      "highlightedWord": "πολλοί."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Mt 8:11",
+      "text": "ὅτι πολλοὶ ἀπὸ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Mt 8:16",
+      "text": "δαιμονιζομένους πολλούς· καὶ",
+      "highlightedWord": "πολλούς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Mt 8:18",
+      "text": "Ἰησοῦς πολλοὺς ὄχλους",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Mt 8:30",
+      "text": "χοίρων πολλῶν βοσκομένη.",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Mt 9:10",
+      "text": "ἰδοὺ πολλοὶ τελῶναι",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Mt 9:14",
+      "text": "νηστεύομεν πολλά, οἱ",
+      "highlightedWord": "πολλά,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Mt 9:37",
+      "text": "θερισμὸς πολύς, οἱ",
+      "highlightedWord": "πολύς,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Mt 10:31",
+      "text": "φοβεῖσθε· πολλῶν στρουθίων",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Mt 11:20",
+      "text": "αἱ πλεῖσται δυνάμεις",
+      "highlightedWord": "πλεῖσται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Mt 12:15",
+      "text": "αὐτῷ πολλοί, καὶ",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Mt 12:41",
+      "text": "ἰδοὺ πλεῖον Ἰωνᾶ",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Mt 12:42",
+      "text": "ἰδοὺ πλεῖον Σολομῶνος",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mt 13:2",
+      "text": "ὄχλοι πολλοί, ὥστε",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Mt 13:3",
+      "text": "αὐτοῖς πολλὰ ἐν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mt 13:5",
+      "text": "γῆν πολλήν, καὶ",
+      "highlightedWord": "πολλήν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Mt 13:17",
+      "text": "ὅτι πολλοὶ προφῆται",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 58,
+      "reference": "Mt 13:58",
+      "text": "δυνάμεις πολλὰς διὰ",
+      "highlightedWord": "πολλὰς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Mt 14:14",
+      "text": "εἶδεν πολὺν ὄχλον,",
+      "highlightedWord": "πολὺν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Mt 14:24",
+      "text": "σταδίους πολλοὺς ἀπὸ",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Mt 15:30",
+      "text": "ὄχλοι πολλοὶ ἔχοντες",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Mt 16:21",
+      "text": "καὶ πολλὰ παθεῖν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Mt 19:2",
+      "text": "ὄχλοι πολλοί, καὶ",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Mt 19:22",
+      "text": "κτήματα πολλά.",
+      "highlightedWord": "πολλά."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Mt 19:30",
+      "text": "πολλοὶ δὲ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Mt 20:10",
+      "text": "ὅτι πλεῖον λήμψονται·",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Mt 20:28",
+      "text": "ἀντὶ πολλῶν.",
+      "highlightedWord": "πολλῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Mt 20:29",
+      "text": "ὄχλος πολύς.",
+      "highlightedWord": "πολύς."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Mt 21:8",
+      "text": "δὲ πλεῖστος ὄχλος",
+      "highlightedWord": "πλεῖστος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Mt 21:36",
+      "text": "δούλους πλείονας τῶν",
+      "highlightedWord": "πλείονας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Mt 22:14",
+      "text": "πολλοὶ γάρ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Mt 24:5",
+      "text": "πολλοὶ γὰρ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 10,
+      "reference": "Mt 24:10",
+      "text": "σκανδαλισθήσονται πολλοὶ καὶ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Mt 24:11",
+      "text": "καὶ πολλοὶ ψευδοπροφῆται",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Mt 24:12",
+      "text": "τῶν πολλῶν.",
+      "highlightedWord": "πολλῶν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 30,
+      "reference": "Mt 24:30",
+      "text": "δόξης πολλῆς·",
+      "highlightedWord": "πολλῆς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 19,
+      "reference": "Mt 25:19",
+      "text": "δὲ πολὺν χρόνον",
+      "highlightedWord": "πολὺν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 21,
+      "reference": "Mt 25:21",
+      "text": "ἐπὶ πολλῶν σε",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 23,
+      "reference": "Mt 25:23",
+      "text": "ἐπὶ πολλῶν σε",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 9,
+      "reference": "Mt 26:9",
+      "text": "πραθῆναι πολλοῦ καὶ",
+      "highlightedWord": "πολλοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 28,
+      "reference": "Mt 26:28",
+      "text": "περὶ πολλῶν ἐκχυννόμενον",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 47,
+      "reference": "Mt 26:47",
+      "text": "ὄχλος πολὺς μετὰ",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 53,
+      "reference": "Mt 26:53",
+      "text": "ἄρτι πλείω δώδεκα",
+      "highlightedWord": "πλείω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 60,
+      "reference": "Mt 26:60",
+      "text": "εὗρον πολλῶν προσελθόντων",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Mt 27:19",
+      "text": "ἐκείνῳ, πολλὰ γὰρ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 52,
+      "reference": "Mt 27:52",
+      "text": "καὶ πολλὰ σώματα",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 53,
+      "reference": "Mt 27:53",
+      "text": "ἐνεφανίσθησαν πολλοῖς.",
+      "highlightedWord": "πολλοῖς."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 55,
+      "reference": "Mt 27:55",
+      "text": "γυναῖκες πολλαὶ ἀπὸ",
+      "highlightedWord": "πολλαὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 34,
+      "reference": "Mk 1:34",
+      "text": "ἐθεράπευσεν πολλοὺς κακῶς",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "κηρύσσειν πολλὰ καὶ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Mk 2:2",
+      "text": "συνήχθησαν πολλοὶ ὥστε",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Mk 2:15",
+      "text": "καὶ πολλοὶ τελῶναι",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Mk 3:7",
+      "text": "καὶ πολὺ πλῆθος",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Mk 3:8",
+      "text": "πλῆθος πολύ, ἀκούοντες",
+      "highlightedWord": "πολύ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Mk 3:10",
+      "text": "πολλοὺς γὰρ",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Mk 3:12",
+      "text": "καὶ πολλὰ ἐπετίμα",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Mk 4:1",
+      "text": "ὄχλος πλεῖστος, ὥστε",
+      "highlightedWord": "πλεῖστος,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Mk 4:2",
+      "text": "παραβολαῖς πολλά καὶ",
+      "highlightedWord": "πολλά"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mk 4:5",
+      "text": "γῆν πολλήν, καὶ",
+      "highlightedWord": "πολλήν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Mk 4:33",
+      "text": "παραβολαῖς πολλαῖς ἐλάλει",
+      "highlightedWord": "πολλαῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Mk 5:9",
+      "text": "ὅτι πολλοί ἐσμεν·",
+      "highlightedWord": "πολλοί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Mk 5:10",
+      "text": "αὐτὸν πολλὰ ἵνα",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Mk 5:21",
+      "text": "ὄχλος πολὺς ἐπ’",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mk 5:23",
+      "text": "αὐτὸν πολλὰ λέγων",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Mk 5:24",
+      "text": "ὄχλος πολύς, καὶ",
+      "highlightedWord": "πολύς,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Mk 5:26",
+      "text": "καὶ πολλὰ παθοῦσα",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Mk 5:38",
+      "text": "ἀλαλάζοντας πολλά,",
+      "highlightedWord": "πολλά,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Mk 5:43",
+      "text": "αὐτοῖς πολλὰ ἵνα",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mk 6:2",
+      "text": "οἱ πολλοὶ ἀκούοντες",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Mk 6:13",
+      "text": "δαιμόνια πολλὰ ἐξέβαλλον,",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Mk 6:20",
+      "text": "αὐτοῦ πολλὰ ἠπόρει,",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mk 6:31",
+      "text": "ὑπάγοντες πολλοί, καὶ",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Mk 6:33",
+      "text": "ἐπέγνωσαν πολλοί, καὶ",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mk 6:34",
+      "text": "εἶδεν πολὺν ὄχλον,",
+      "highlightedWord": "πολὺν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Mk 6:35",
+      "text": "ὥρας πολλῆς γενομένης",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Mk 7:4",
+      "text": "ἄλλα πολλά ἐστιν",
+      "highlightedWord": "πολλά"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Mk 7:13",
+      "text": "τοιαῦτα πολλὰ ποιεῖτε.",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Mk 8:1",
+      "text": "πάλιν πολλοῦ ὄχλου",
+      "highlightedWord": "πολλοῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mk 8:31",
+      "text": "ἀνθρώπου πολλὰ παθεῖν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mk 9:12",
+      "text": "ἵνα πολλὰ πάθῃ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Mk 9:14",
+      "text": "ὄχλον πολὺν περὶ",
+      "highlightedWord": "πολὺν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Mk 9:26",
+      "text": "καὶ πολλὰ σπαράξας",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Mk 10:22",
+      "text": "κτήματα πολλά.",
+      "highlightedWord": "πολλά."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Mk 10:31",
+      "text": "πολλοὶ δὲ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 45,
+      "reference": "Mk 10:45",
+      "text": "ἀντὶ πολλῶν.",
+      "highlightedWord": "πολλῶν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 48,
+      "reference": "Mk 10:48",
+      "text": "αὐτῷ πολλοὶ ἵνα",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Mk 11:8",
+      "text": "καὶ πολλοὶ τὰ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Mk 12:5",
+      "text": "καὶ πολλοὺς ἄλλους,",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Mk 12:27",
+      "text": "ζώντων· πολὺ πλανᾶσθε.",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Mk 12:37",
+      "text": "ὁ πολὺς ὄχλος",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Mk 12:41",
+      "text": "καὶ πολλοὶ πλούσιοι",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mk 12:43",
+      "text": "πτωχὴ πλεῖον πάντων",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Mk 13:6",
+      "text": "πολλοὶ ἐλεύσονται",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Mk 13:26",
+      "text": "δυνάμεως πολλῆς καὶ",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Mk 14:24",
+      "text": "ὑπὲρ πολλῶν.",
+      "highlightedWord": "πολλῶν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 56,
+      "reference": "Mk 14:56",
+      "text": "πολλοὶ γὰρ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Mk 15:3",
+      "text": "ἀρχιερεῖς πολλά.",
+      "highlightedWord": "πολλά."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 41,
+      "reference": "Mk 15:41",
+      "text": "ἄλλαι πολλαὶ αἱ",
+      "highlightedWord": "πολλαὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Lk 1:1",
+      "text": "Ἐπειδήπερ πολλοὶ ἐπεχείρησαν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Lk 1:14",
+      "text": "καὶ πολλοὶ ἐπὶ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Lk 1:16",
+      "text": "καὶ πολλοὺς τῶν",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 34,
+      "reference": "Lk 2:34",
+      "text": "ἀνάστασιν πολλῶν ἐν",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 35,
+      "reference": "Lk 2:35",
+      "text": "ἐκ πολλῶν καρδιῶν",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 36,
+      "reference": "Lk 2:36",
+      "text": "ἡμέραις πολλαῖς, ζήσασα",
+      "highlightedWord": "πολλαῖς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Lk 3:13",
+      "text": "Μηδὲν πλέον παρὰ",
+      "highlightedWord": "πλέον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Lk 3:18",
+      "text": "Πολλὰ μὲν",
+      "highlightedWord": "Πολλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Lk 4:25",
+      "text": "ὑμῖν, πολλαὶ χῆραι",
+      "highlightedWord": "πολλαὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Lk 4:27",
+      "text": "καὶ πολλοὶ λεπροὶ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Lk 4:41",
+      "text": "ἀπὸ πολλῶν κραυγάζοντα",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Lk 5:6",
+      "text": "ἰχθύων πολύ, διερρήσσετο",
+      "highlightedWord": "πολύ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Lk 5:15",
+      "text": "ὄχλοι πολλοὶ ἀκούειν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Lk 5:29",
+      "text": "ὄχλος πολὺς τελωνῶν",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Lk 6:17",
+      "text": "ὄχλος πολὺς μαθητῶν",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Lk 6:23",
+      "text": "ὑμῶν πολὺς ἐν",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Lk 6:35",
+      "text": "ὑμῶν πολύς, καὶ",
+      "highlightedWord": "πολύς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Lk 7:11",
+      "text": "ὄχλος πολύς.",
+      "highlightedWord": "πολύς."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Lk 7:21",
+      "text": "ἐθεράπευσεν πολλοὺς ἀπὸ",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Lk 7:42",
+      "text": "αὐτῶν πλεῖον ἀγαπήσει",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 43,
+      "reference": "Lk 7:43",
+      "text": "τὸ πλεῖον ἐχαρίσατο.",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 47,
+      "reference": "Lk 7:47",
+      "text": "αἱ πολλαί, ὅτι",
+      "highlightedWord": "πολλαί,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Lk 8:3",
+      "text": "ἕτεραι πολλαί, αἵτινες",
+      "highlightedWord": "πολλαί,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Lk 8:4",
+      "text": "ὄχλου πολλοῦ καὶ",
+      "highlightedWord": "πολλοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Lk 8:29",
+      "text": "ἀνθρώπου. πολλοῖς γὰρ",
+      "highlightedWord": "πολλοῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Lk 8:30",
+      "text": "δαιμόνια πολλὰ εἰς",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Lk 9:13",
+      "text": "ἡμῖν πλεῖον ἢ",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Lk 9:22",
+      "text": "ἀνθρώπου πολλὰ παθεῖν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Lk 9:37",
+      "text": "ὄχλος πολύς.",
+      "highlightedWord": "πολύς."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Lk 10:2",
+      "text": "θερισμὸς πολύς, οἱ",
+      "highlightedWord": "πολύς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Lk 10:24",
+      "text": "ὅτι πολλοὶ προφῆται",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Lk 10:40",
+      "text": "περὶ πολλὴν διακονίαν·",
+      "highlightedWord": "πολλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 41,
+      "reference": "Lk 10:41",
+      "text": "περὶ πολλά,",
+      "highlightedWord": "πολλά,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Lk 11:31",
+      "text": "ἰδοὺ πλεῖον Σολομῶνος",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Lk 11:32",
+      "text": "ἰδοὺ πλεῖον Ἰωνᾶ",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 53,
+      "reference": "Lk 11:53",
+      "text": "περὶ πλειόνων,",
+      "highlightedWord": "πλειόνων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Lk 12:7",
+      "text": "φοβεῖσθε· πολλῶν στρουθίων",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Lk 12:19",
+      "text": "ἔχεις πολλὰ ἀγαθὰ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Lk 12:23",
+      "text": "ψυχὴ πλεῖόν ἐστιν",
+      "highlightedWord": "πλεῖόν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Lk 12:47",
+      "text": "δαρήσεται πολλάς·",
+      "highlightedWord": "πολλάς·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Lk 12:48",
+      "text": "ἐδόθη πολύ, πολὺ",
+      "highlightedWord": "πολύ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Lk 13:24",
+      "text": "ὅτι πολλοί, λέγω",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Lk 14:16",
+      "text": "ἐκάλεσεν πολλούς,",
+      "highlightedWord": "πολλούς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Lk 14:25",
+      "text": "ὄχλοι πολλοί, καὶ",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Lk 15:13",
+      "text": "οὐ πολλὰς ἡμέρας",
+      "highlightedWord": "πολλὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "Lk 16:10",
+      "text": "ἐν πολλῷ πιστός",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Lk 17:25",
+      "text": "αὐτὸν πολλὰ παθεῖν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 39,
+      "reference": "Lk 18:39",
+      "text": "δὲ πολλῷ μᾶλλον",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Lk 21:3",
+      "text": "αὕτη πλεῖον πάντων",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Lk 21:8",
+      "text": "πλανηθῆτε· πολλοὶ γὰρ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Lk 21:27",
+      "text": "δόξης πολλῆς.",
+      "highlightedWord": "πολλῆς."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 65,
+      "reference": "Lk 22:65",
+      "text": "ἕτερα πολλὰ βλασφημοῦντες",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 27,
+      "reference": "Lk 23:27",
+      "text": "αὐτῷ πολὺ πλῆθος",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Jn 2:12",
+      "text": "οὐ πολλὰς ἡμέρας.",
+      "highlightedWord": "πολλὰς"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Jn 2:23",
+      "text": "ἑορτῇ, πολλοὶ ἐπίστευσαν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Jn 3:23",
+      "text": "ὕδατα πολλὰ ἦν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Jn 4:1",
+      "text": "Ἰησοῦς πλείονας μαθητὰς",
+      "highlightedWord": "πλείονας"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 39,
+      "reference": "Jn 4:39",
+      "text": "ἐκείνης πολλοὶ ἐπίστευσαν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Jn 4:41",
+      "text": "καὶ πολλῷ πλείους",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Jn 5:6",
+      "text": "ὅτι πολὺν ἤδη",
+      "highlightedWord": "πολὺν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Jn 6:2",
+      "text": "ὄχλος πολύς, ὅτι",
+      "highlightedWord": "πολύς,"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Jn 6:5",
+      "text": "ὅτι πολὺς ὄχλος",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Jn 6:10",
+      "text": "χόρτος πολὺς ἐν",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 60,
+      "reference": "Jn 6:60",
+      "text": "Πολλοὶ οὖν",
+      "highlightedWord": "Πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 66,
+      "reference": "Jn 6:66",
+      "text": "τούτου πολλοὶ ἐκ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Jn 7:12",
+      "text": "ἦν πολὺς ἐν",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Jn 7:31",
+      "text": "δὲ πολλοὶ ἐπίστευσαν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Jn 8:26",
+      "text": "πολλὰ ἔχω",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Jn 8:30",
+      "text": "λαλοῦντος πολλοὶ ἐπίστευσαν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Jn 10:20",
+      "text": "δὲ πολλοὶ ἐξ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Jn 10:32",
+      "text": "Ἰησοῦς· Πολλὰ ἔργα",
+      "highlightedWord": "Πολλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 41,
+      "reference": "Jn 10:41",
+      "text": "καὶ πολλοὶ ἦλθον",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Jn 10:42",
+      "text": "καὶ πολλοὶ ἐπίστευσαν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Jn 11:19",
+      "text": "πολλοὶ δὲ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 45,
+      "reference": "Jn 11:45",
+      "text": "Πολλοὶ οὖν",
+      "highlightedWord": "Πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 47,
+      "reference": "Jn 11:47",
+      "text": "ἄνθρωπος πολλὰ ποιεῖ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 55,
+      "reference": "Jn 11:55",
+      "text": "ἀνέβησαν πολλοὶ εἰς",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Jn 12:9",
+      "text": "ὄχλος πολὺς ἐκ",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Jn 12:11",
+      "text": "ὅτι πολλοὶ δι’",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Jn 12:12",
+      "text": "ὄχλος πολὺς ὁ",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Jn 12:24",
+      "text": "ἀποθάνῃ, πολὺν καρπὸν",
+      "highlightedWord": "πολὺν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Jn 12:42",
+      "text": "ἀρχόντων πολλοὶ ἐπίστευσαν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Jn 14:2",
+      "text": "μοναὶ πολλαί εἰσιν·",
+      "highlightedWord": "πολλαί"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Jn 14:30",
+      "text": "οὐκέτι πολλὰ λαλήσω",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Jn 15:2",
+      "text": "καρπὸν πλείονα φέρῃ.",
+      "highlightedWord": "πλείονα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Jn 15:5",
+      "text": "καρπὸν πολύν, ὅτι",
+      "highlightedWord": "πολύν,"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Jn 15:8",
+      "text": "καρπὸν πολὺν φέρητε",
+      "highlightedWord": "πολὺν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Jn 16:12",
+      "text": "Ἔτι πολλὰ ἔχω",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Jn 19:20",
+      "text": "τίτλον πολλοὶ ἀνέγνωσαν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Jn 20:30",
+      "text": "Πολλὰ μὲν",
+      "highlightedWord": "Πολλὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Jn 21:15",
+      "text": "με πλέον τούτων;",
+      "highlightedWord": "πλέον"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Jn 21:25",
+      "text": "ἄλλα πολλὰ ἃ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Ac 1:3",
+      "text": "ἐν πολλοῖς τεκμηρίοις,",
+      "highlightedWord": "πολλοῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Ac 1:5",
+      "text": "μετὰ πολλὰς ταύτας",
+      "highlightedWord": "πολλὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 40,
+      "reference": "Ac 2:40",
+      "text": "λόγοις πλείοσιν διεμαρτύρατο,",
+      "highlightedWord": "πλείοσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 43,
+      "reference": "Ac 2:43",
+      "text": "φόβος, πολλά τε",
+      "highlightedWord": "πολλά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Ac 4:4",
+      "text": "πολλοὶ δὲ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ac 4:17",
+      "text": "ἐπὶ πλεῖον διανεμηθῇ",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Ac 4:22",
+      "text": "ἦν πλειόνων τεσσεράκοντα",
+      "highlightedWord": "πλειόνων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ac 5:12",
+      "text": "τέρατα πολλὰ ἐν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Ac 6:7",
+      "text": "σφόδρα, πολύς τε",
+      "highlightedWord": "πολύς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Ac 8:7",
+      "text": "πολλοὶ γὰρ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Ac 8:8",
+      "text": "δὲ πολλὴ χαρὰ",
+      "highlightedWord": "πολλὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Ac 8:25",
+      "text": "Ἱεροσόλυμα, πολλάς τε",
+      "highlightedWord": "πολλάς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Ac 9:13",
+      "text": "ἀπὸ πολλῶν περὶ",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Ac 9:42",
+      "text": "ἐπίστευσαν πολλοὶ ἐπὶ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Ac 10:2",
+      "text": "ἐλεημοσύνας πολλὰς τῷ",
+      "highlightedWord": "πολλὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Ac 10:27",
+      "text": "συνεληλυθότας πολλούς,",
+      "highlightedWord": "πολλούς,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Ac 11:21",
+      "text": "αὐτῶν, πολύς τε",
+      "highlightedWord": "πολύς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Ac 13:31",
+      "text": "ἡμέρας πλείους τοῖς",
+      "highlightedWord": "πλείους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 43,
+      "reference": "Ac 13:43",
+      "text": "ἠκολούθησαν πολλοὶ τῶν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ac 14:1",
+      "text": "Ἑλλήνων πολὺ πλῆθος.",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ac 14:22",
+      "text": "διὰ πολλῶν θλίψεων",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Ac 15:7",
+      "text": "πολλῆς δὲ",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Ac 15:28",
+      "text": "μηδὲν πλέον ἐπιτίθεσθαι",
+      "highlightedWord": "πλέον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Ac 15:32",
+      "text": "λόγου πολλοῦ παρεκάλεσαν",
+      "highlightedWord": "πολλοῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 35,
+      "reference": "Ac 15:35",
+      "text": "ἑτέρων πολλῶν τὸν",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Ac 16:16",
+      "text": "ἐργασίαν πολλὴν παρεῖχεν",
+      "highlightedWord": "πολλὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ac 16:18",
+      "text": "ἐπὶ πολλὰς ἡμέρας.",
+      "highlightedWord": "πολλὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Ac 16:23",
+      "text": "πολλάς τε",
+      "highlightedWord": "πολλάς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Ac 17:4",
+      "text": "πλῆθος πολὺ γυναικῶν",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Ac 17:12",
+      "text": "πολλοὶ μὲν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Ac 18:8",
+      "text": "καὶ πολλοὶ τῶν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Ac 18:10",
+      "text": "μοι πολὺς ἐν",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Ac 18:20",
+      "text": "ἐπὶ πλείονα χρόνον",
+      "highlightedWord": "πλείονα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 27,
+      "reference": "Ac 18:27",
+      "text": "συνεβάλετο πολὺ τοῖς",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Ac 19:18",
+      "text": "πολλοί τε",
+      "highlightedWord": "πολλοί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Ac 19:32",
+      "text": "οἱ πλείους οὐκ",
+      "highlightedWord": "πλείους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Ac 20:2",
+      "text": "λόγῳ πολλῷ ἦλθεν",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Ac 20:9",
+      "text": "ἐπὶ πλεῖον, κατενεχθεὶς",
+      "highlightedWord": "πλεῖον,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Ac 21:10",
+      "text": "ἡμέρας πλείους κατῆλθέν",
+      "highlightedWord": "πλείους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 40,
+      "reference": "Ac 21:40",
+      "text": "λαῷ, πολλῆς δὲ",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 28,
+      "reference": "Ac 22:28",
+      "text": "Ἐγὼ πολλοῦ κεφαλαίου",
+      "highlightedWord": "πολλοῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Ac 23:10",
+      "text": "πολλῆς δὲ",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 13,
+      "reference": "Ac 23:13",
+      "text": "δὲ πλείους τεσσεράκοντα",
+      "highlightedWord": "πλείους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 21,
+      "reference": "Ac 23:21",
+      "text": "ἄνδρες πλείους τεσσεράκοντα,",
+      "highlightedWord": "πλείους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Ac 24:2",
+      "text": "λέγων· Πολλῆς εἰρήνης",
+      "highlightedWord": "Πολλῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 4,
+      "reference": "Ac 24:4",
+      "text": "ἐπὶ πλεῖόν σε",
+      "highlightedWord": "πλεῖόν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 10,
+      "reference": "Ac 24:10",
+      "text": "Ἐκ πολλῶν ἐτῶν",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 11,
+      "reference": "Ac 24:11",
+      "text": "οὐ πλείους εἰσίν",
+      "highlightedWord": "πλείους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 17,
+      "reference": "Ac 24:17",
+      "text": "δὲ πλειόνων ἐλεημοσύνας",
+      "highlightedWord": "πλειόνων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Ac 25:6",
+      "text": "οὐ πλείους ὀκτὼ",
+      "highlightedWord": "πλείους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 7,
+      "reference": "Ac 25:7",
+      "text": "Ἰουδαῖοι, πολλὰ καὶ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 14,
+      "reference": "Ac 25:14",
+      "text": "δὲ πλείους ἡμέρας",
+      "highlightedWord": "πλείους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 23,
+      "reference": "Ac 25:23",
+      "text": "μετὰ πολλῆς φαντασίας",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 9,
+      "reference": "Ac 26:9",
+      "text": "δεῖν πολλὰ ἐναντία",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Ac 26:10",
+      "text": "καὶ πολλούς τε",
+      "highlightedWord": "πολλούς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 24,
+      "reference": "Ac 26:24",
+      "text": "τὰ πολλά σε",
+      "highlightedWord": "πολλά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 10,
+      "reference": "Ac 27:10",
+      "text": "καὶ πολλῆς ζημίας",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Ac 27:12",
+      "text": "οἱ πλείονες ἔθεντο",
+      "highlightedWord": "πλείονες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 14,
+      "reference": "Ac 27:14",
+      "text": "οὐ πολὺ δὲ",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 20,
+      "reference": "Ac 27:20",
+      "text": "ἐπὶ πλείονας ἡμέρας,",
+      "highlightedWord": "πλείονας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 21,
+      "reference": "Ac 27:21",
+      "text": "Πολλῆς τε",
+      "highlightedWord": "Πολλῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 6,
+      "reference": "Ac 28:6",
+      "text": "ἐπὶ πολὺ δὲ",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 10,
+      "reference": "Ac 28:10",
+      "text": "καὶ πολλαῖς τιμαῖς",
+      "highlightedWord": "πολλαῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 23,
+      "reference": "Ac 28:23",
+      "text": "ξενίαν πλείονες, οἷς",
+      "highlightedWord": "πλείονες,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ro 3:2",
+      "text": "πολὺ κατὰ",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ro 4:17",
+      "text": "Πατέρα πολλῶν ἐθνῶν",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ro 4:18",
+      "text": "πατέρα πολλῶν ἐθνῶν",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Ro 5:9",
+      "text": "πολλῷ οὖν",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ro 5:10",
+      "text": "αὐτοῦ, πολλῷ μᾶλλον",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ro 5:15",
+      "text": "οἱ πολλοὶ ἀπέθανον,",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Ro 5:16",
+      "text": "ἐκ πολλῶν παραπτωμάτων",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Ro 5:17",
+      "text": "ἑνός, πολλῷ μᾶλλον",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ro 5:19",
+      "text": "οἱ πολλοί, οὕτως",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Ro 8:29",
+      "text": "ἐν πολλοῖς ἀδελφοῖς·",
+      "highlightedWord": "πολλοῖς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Ro 9:22",
+      "text": "ἐν πολλῇ μακροθυμίᾳ",
+      "highlightedWord": "πολλῇ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Ro 12:4",
+      "text": "σώματι πολλὰ μέλη",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Ro 12:5",
+      "text": "οἱ πολλοὶ ἓν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Ro 15:22",
+      "text": "τὰ πολλὰ τοῦ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Ro 16:2",
+      "text": "προστάτις πολλῶν ἐγενήθη",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Ro 16:6",
+      "text": "ἥτις πολλὰ ἐκοπίασεν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Ro 16:12",
+      "text": "ἥτις πολλὰ ἐκοπίασεν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "1Co 1:26",
+      "text": "οὐ πολλοὶ σοφοὶ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "1Co 2:3",
+      "text": "τρόμῳ πολλῷ ἐγενόμην",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Co 4:15",
+      "text": "οὐ πολλοὺς πατέρας,",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "1Co 8:5",
+      "text": "θεοὶ πολλοὶ καὶ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "1Co 9:19",
+      "text": "τοὺς πλείονας κερδήσω·",
+      "highlightedWord": "πλείονας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "1Co 10:5",
+      "text": "τοῖς πλείοσιν αὐτῶν",
+      "highlightedWord": "πλείοσιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "1Co 10:17",
+      "text": "οἱ πολλοί ἐσμεν,",
+      "highlightedWord": "πολλοί"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "1Co 10:33",
+      "text": "τῶν πολλῶν, ἵνα",
+      "highlightedWord": "πολλῶν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "1Co 11:30",
+      "text": "ὑμῖν πολλοὶ ἀσθενεῖς",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "1Co 12:12",
+      "text": "μέλη πολλὰ ἔχει,",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "1Co 12:14",
+      "text": "ἀλλὰ πολλά.",
+      "highlightedWord": "πολλά."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "1Co 12:20",
+      "text": "δὲ πολλὰ μὲν",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "1Co 12:22",
+      "text": "ἀλλὰ πολλῷ μᾶλλον",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "1Co 14:27",
+      "text": "τὸ πλεῖστον τρεῖς,",
+      "highlightedWord": "πλεῖστον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "1Co 15:6",
+      "text": "οἱ πλείονες μένουσιν",
+      "highlightedWord": "πλείονες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "1Co 16:9",
+      "text": "ἀντικείμενοι πολλοί.",
+      "highlightedWord": "πολλοί."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "1Co 16:12",
+      "text": "ἀδελφοῦ, πολλὰ παρεκάλεσα",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "1Co 16:19",
+      "text": "κυρίῳ πολλὰ Ἀκύλας",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Co 1:11",
+      "text": "ἐκ πολλῶν προσώπων",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Co 2:4",
+      "text": "γὰρ πολλῆς θλίψεως",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "2Co 2:6",
+      "text": "τῶν πλειόνων,",
+      "highlightedWord": "πλειόνων,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "2Co 2:17",
+      "text": "οἱ πολλοὶ καπηλεύοντες",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Co 3:9",
+      "text": "δόξα, πολλῷ μᾶλλον",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "2Co 3:11",
+      "text": "δόξης, πολλῷ μᾶλλον",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Co 3:12",
+      "text": "ἐλπίδα πολλῇ παρρησίᾳ",
+      "highlightedWord": "πολλῇ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "2Co 4:15",
+      "text": "τῶν πλειόνων τὴν",
+      "highlightedWord": "πλειόνων"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "2Co 6:4",
+      "text": "ὑπομονῇ πολλῇ, ἐν",
+      "highlightedWord": "πολλῇ,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "2Co 6:10",
+      "text": "πτωχοὶ πολλοὺς δὲ",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "2Co 7:4",
+      "text": "πολλή μοι",
+      "highlightedWord": "πολλή"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "2Co 8:2",
+      "text": "ἐν πολλῇ δοκιμῇ",
+      "highlightedWord": "πολλῇ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "2Co 8:4",
+      "text": "μετὰ πολλῆς παρακλήσεως",
+      "highlightedWord": "πολλῆς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "2Co 8:15",
+      "text": "τὸ πολὺ οὐκ",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "2Co 8:22",
+      "text": "ἐν πολλοῖς πολλάκις",
+      "highlightedWord": "πολλοῖς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "2Co 9:2",
+      "text": "τοὺς πλείονας.",
+      "highlightedWord": "πλείονας."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "2Co 9:12",
+      "text": "διὰ πολλῶν εὐχαριστιῶν",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "2Co 11:18",
+      "text": "ἐπεὶ πολλοὶ καυχῶνται",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "2Co 12:21",
+      "text": "πενθήσω πολλοὺς τῶν",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Ga 1:14",
+      "text": "ὑπὲρ πολλοὺς συνηλικιώτας",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Ga 3:16",
+      "text": "ἐπὶ πολλῶν, ἀλλ’",
+      "highlightedWord": "πολλῶν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Ga 4:27",
+      "text": "ὅτι πολλὰ τὰ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Eph 2:4",
+      "text": "τὴν πολλὴν ἀγάπην",
+      "highlightedWord": "πολλὴν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Php 1:14",
+      "text": "τοὺς πλείονας τῶν",
+      "highlightedWord": "πλείονας"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Php 1:23",
+      "text": "εἶναι, πολλῷ γὰρ",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Php 2:12",
+      "text": "νῦν πολλῷ μᾶλλον",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Php 3:18",
+      "text": "πολλοὶ γὰρ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Col 4:13",
+      "text": "ἔχει πολὺν πόνον",
+      "highlightedWord": "πολὺν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Th 1:5",
+      "text": "πληροφορίᾳ πολλῇ, καθὼς",
+      "highlightedWord": "πολλῇ,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Th 1:6",
+      "text": "θλίψει πολλῇ μετὰ",
+      "highlightedWord": "πολλῇ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Th 2:2",
+      "text": "ἐν πολλῷ ἀγῶνι.",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "1Th 2:17",
+      "text": "ἐν πολλῇ ἐπιθυμίᾳ.",
+      "highlightedWord": "πολλῇ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Ti 3:8",
+      "text": "οἴνῳ πολλῷ προσέχοντας,",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Ti 3:13",
+      "text": "καὶ πολλὴν παρρησίαν",
+      "highlightedWord": "πολλὴν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Ti 6:9",
+      "text": "ἐπιθυμίας πολλὰς ἀνοήτους",
+      "highlightedWord": "πολλὰς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "1Ti 6:10",
+      "text": "ὀδύναις πολλαῖς.",
+      "highlightedWord": "πολλαῖς."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "1Ti 6:12",
+      "text": "ἐνώπιον πολλῶν μαρτύρων.",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Ti 2:2",
+      "text": "διὰ πολλῶν μαρτύρων,",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "2Ti 2:16",
+      "text": "ἐπὶ πλεῖον γὰρ",
+      "highlightedWord": "πλεῖον"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Ti 3:9",
+      "text": "ἐπὶ πλεῖον, ἡ",
+      "highlightedWord": "πλεῖον,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "2Ti 4:14",
+      "text": "χαλκεὺς πολλά μοι",
+      "highlightedWord": "πολλά"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Tit 1:10",
+      "text": "γὰρ πολλοὶ καὶ",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Tit 2:3",
+      "text": "οἴνῳ πολλῷ δεδουλωμένας,",
+      "highlightedWord": "πολλῷ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Phm 1:7",
+      "text": "γὰρ πολλὴν ἔσχον",
+      "highlightedWord": "πολλὴν"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Phm 1:8",
+      "text": "Διό, πολλὴν ἐν",
+      "highlightedWord": "πολλὴν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Heb 2:10",
+      "text": "πάντα, πολλοὺς υἱοὺς",
+      "highlightedWord": "πολλοὺς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Heb 3:3",
+      "text": "πλείονος γὰρ",
+      "highlightedWord": "πλείονος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Heb 5:11",
+      "text": "οὗ πολὺς ἡμῖν",
+      "highlightedWord": "πολὺς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Heb 7:23",
+      "text": "μὲν πλείονές εἰσιν",
+      "highlightedWord": "πλείονές"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Heb 9:28",
+      "text": "τὸ πολλῶν ἀνενεγκεῖν",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Heb 10:32",
+      "text": "φωτισθέντες πολλὴν ἄθλησιν",
+      "highlightedWord": "πολλὴν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Heb 11:4",
+      "text": "Πίστει πλείονα θυσίαν",
+      "highlightedWord": "πλείονα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Heb 12:9",
+      "text": "οὐ πολὺ μᾶλλον",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Heb 12:15",
+      "text": "μιανθῶσιν πολλοί,",
+      "highlightedWord": "πολλοί,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Heb 12:25",
+      "text": "χρηματίζοντα, πολὺ μᾶλλον",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Jas 3:1",
+      "text": "Μὴ πολλοὶ διδάσκαλοι",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jas 3:2",
+      "text": "πολλὰ γὰρ",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Jas 5:16",
+      "text": "ἰαθῆτε. πολὺ ἰσχύει",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Pe 1:3",
+      "text": "τὸ πολὺ αὐτοῦ",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Pe 2:2",
+      "text": "καὶ πολλοὶ ἐξακολουθήσουσιν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "1Jn 2:18",
+      "text": "ἀντίχριστοι πολλοὶ γεγόνασιν·",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Jn 4:1",
+      "text": "ὅτι πολλοὶ ψευδοπροφῆται",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Jn 1:7",
+      "text": "ὅτι πολλοὶ πλάνοι",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Jn 1:12",
+      "text": "Πολλὰ ἔχων",
+      "highlightedWord": "Πολλὰ"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "3Jn 1:13",
+      "text": "Πολλὰ εἶχον",
+      "highlightedWord": "Πολλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Re 1:15",
+      "text": "ὑδάτων πολλῶν,",
+      "highlightedWord": "πολλῶν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "ἔσχατα πλείονα τῶν",
+      "highlightedWord": "πλείονα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Re 5:4",
+      "text": "ἔκλαιον πολὺ ὅτι",
+      "highlightedWord": "πολὺ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Re 5:11",
+      "text": "ἀγγέλων πολλῶν κύκλῳ",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Re 7:9",
+      "text": "ὄχλος πολύς, ὃν",
+      "highlightedWord": "πολύς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Re 8:3",
+      "text": "θυμιάματα πολλὰ ἵνα",
+      "highlightedWord": "πολλὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Re 8:11",
+      "text": "καὶ πολλοὶ τῶν",
+      "highlightedWord": "πολλοὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Re 9:9",
+      "text": "ἵππων πολλῶν τρεχόντων",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Re 10:11",
+      "text": "βασιλεῦσιν πολλοῖς.",
+      "highlightedWord": "πολλοῖς."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Re 14:2",
+      "text": "ὑδάτων πολλῶν καὶ",
+      "highlightedWord": "πολλῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Re 17:1",
+      "text": "ὑδάτων πολλῶν,",
+      "highlightedWord": "πολλῶν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Re 19:1",
+      "text": "ὄχλου πολλοῦ ἐν",
+      "highlightedWord": "πολλοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Re 19:6",
+      "text": "ὄχλου πολλοῦ καὶ",
+      "highlightedWord": "πολλοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "διαδήματα πολλά, ἔχων",
+      "highlightedWord": "πολλά,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

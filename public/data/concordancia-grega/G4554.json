@@ -1,0 +1,40 @@
+{
+  "strong": "G4554",
+  "lemma": "Σάρδεις",
+  "lemmaTranslit": "Sardeis",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "εἰς Σάρδεις καὶ",
+      "highlightedWord": "Σάρδεις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Re 3:1",
+      "text": "ἐν Σάρδεσιν ἐκκλησίας",
+      "highlightedWord": "Σάρδεσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Re 3:4",
+      "text": "ἐν Σάρδεσιν ἃ",
+      "highlightedWord": "Σάρδεσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

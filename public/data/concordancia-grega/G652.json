@@ -1,0 +1,660 @@
+{
+  "strong": "G652",
+  "lemma": "ἀπόστολος",
+  "lemmaTranslit": "apostolos",
+  "tokenCount": 79,
+  "verseCount": 78,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Lucas": 6,
+    "João": 1,
+    "Atos": 28,
+    "Romanos": 3,
+    "1 Coríntios": 10,
+    "2 Coríntios": 6,
+    "Gálatas": 3,
+    "Efésios": 4,
+    "Filipenses": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 2,
+    "2 Timóteo": 2,
+    "Tito": 1,
+    "Hebreus": 1,
+    "1 Pedro": 1,
+    "2 Pedro": 2,
+    "Judas": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Mt 10:2",
+      "text": "δώδεκα ἀποστόλων τὰ",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Mk 6:30",
+      "text": "οἱ ἀπόστολοι πρὸς",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Lk 6:13",
+      "text": "καὶ ἀποστόλους ὠνόμασεν,",
+      "highlightedWord": "ἀποστόλους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Lk 9:10",
+      "text": "οἱ ἀπόστολοι διηγήσαντο",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 49,
+      "reference": "Lk 11:49",
+      "text": "καὶ ἀποστόλους, καὶ",
+      "highlightedWord": "ἀποστόλους,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Lk 17:5",
+      "text": "οἱ ἀπόστολοι τῷ",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Lk 22:14",
+      "text": "οἱ ἀπόστολοι σὺν",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 10,
+      "reference": "Lk 24:10",
+      "text": "τοὺς ἀποστόλους ταῦτα.",
+      "highlightedWord": "ἀποστόλους"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Jn 13:16",
+      "text": "οὐδὲ ἀπόστολος μείζων",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Ac 1:2",
+      "text": "τοῖς ἀποστόλοις διὰ",
+      "highlightedWord": "ἀποστόλοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Ac 1:26",
+      "text": "ἕνδεκα ἀποστόλων.",
+      "highlightedWord": "ἀποστόλων."
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 37,
+      "reference": "Ac 2:37",
+      "text": "λοιποὺς ἀποστόλους· Τί",
+      "highlightedWord": "ἀποστόλους·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 42,
+      "reference": "Ac 2:42",
+      "text": "τῶν ἀποστόλων καὶ",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 43,
+      "reference": "Ac 2:43",
+      "text": "τῶν ἀποστόλων ἐγίνετο.",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Ac 4:33",
+      "text": "οἱ ἀπόστολοι τῆς",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "τῶν ἀποστόλων· διεδίδετο",
+      "highlightedWord": "ἀποστόλων·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Ac 4:36",
+      "text": "τῶν ἀποστόλων, ὅ",
+      "highlightedWord": "ἀποστόλων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Ac 4:37",
+      "text": "τῶν ἀποστόλων.",
+      "highlightedWord": "ἀποστόλων."
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ac 5:2",
+      "text": "τῶν ἀποστόλων ἔθηκεν.",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ac 5:12",
+      "text": "τῶν ἀποστόλων ἐγίνετο",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Ac 5:18",
+      "text": "τοὺς ἀποστόλους καὶ",
+      "highlightedWord": "ἀποστόλους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Ac 5:29",
+      "text": "οἱ ἀπόστολοι εἶπαν·",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Ac 5:40",
+      "text": "τοὺς ἀποστόλους δείραντες",
+      "highlightedWord": "ἀποστόλους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Ac 6:6",
+      "text": "τῶν ἀποστόλων, καὶ",
+      "highlightedWord": "ἀποστόλων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Ac 8:1",
+      "text": "τῶν ἀποστόλων.",
+      "highlightedWord": "ἀποστόλων."
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Ac 8:14",
+      "text": "Ἱεροσολύμοις ἀπόστολοι ὅτι",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Ac 8:18",
+      "text": "τῶν ἀποστόλων δίδοται",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Ac 9:27",
+      "text": "τοὺς ἀποστόλους, καὶ",
+      "highlightedWord": "ἀποστόλους,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Ac 11:1",
+      "text": "οἱ ἀπόστολοι καὶ",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Ac 14:4",
+      "text": "τοῖς ἀποστόλοις.",
+      "highlightedWord": "ἀποστόλοις."
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Ac 14:14",
+      "text": "οἱ ἀπόστολοι Βαρναβᾶς",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ac 15:2",
+      "text": "τοὺς ἀποστόλους καὶ",
+      "highlightedWord": "ἀποστόλους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Ac 15:4",
+      "text": "τῶν ἀποστόλων καὶ",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Ac 15:6",
+      "text": "οἱ ἀπόστολοι καὶ",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Ac 15:22",
+      "text": "τοῖς ἀποστόλοις καὶ",
+      "highlightedWord": "ἀποστόλοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Ac 15:23",
+      "text": "Οἱ ἀπόστολοι καὶ",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Ac 16:4",
+      "text": "τῶν ἀποστόλων καὶ",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Ro 1:1",
+      "text": "κλητὸς ἀπόστολος, ἀφωρισμένος",
+      "highlightedWord": "ἀπόστολος,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Ro 11:13",
+      "text": "ἐθνῶν ἀπόστολος, τὴν",
+      "highlightedWord": "ἀπόστολος,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Ro 16:7",
+      "text": "τοῖς ἀποστόλοις, οἳ",
+      "highlightedWord": "ἀποστόλοις,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "1Co 1:1",
+      "text": "κλητὸς ἀπόστολος Χριστοῦ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Co 4:9",
+      "text": "τοὺς ἀποστόλους ἐσχάτους",
+      "highlightedWord": "ἀποστόλους"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "1Co 9:1",
+      "text": "εἰμὶ ἀπόστολος; οὐχὶ",
+      "highlightedWord": "ἀπόστολος;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "1Co 9:2",
+      "text": "εἰμὶ ἀπόστολος, ἀλλά",
+      "highlightedWord": "ἀπόστολος,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "1Co 9:5",
+      "text": "λοιποὶ ἀπόστολοι καὶ",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "1Co 12:28",
+      "text": "πρῶτον ἀποστόλους, δεύτερον",
+      "highlightedWord": "ἀποστόλους,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "1Co 12:29",
+      "text": "πάντες ἀπόστολοι; μὴ",
+      "highlightedWord": "ἀπόστολοι;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "1Co 15:7",
+      "text": "τοῖς ἀποστόλοις πᾶσιν·",
+      "highlightedWord": "ἀποστόλοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "1Co 15:9",
+      "text": "τῶν ἀποστόλων, ὃς",
+      "highlightedWord": "ἀποστόλων,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Co 1:1",
+      "text": "Παῦλος ἀπόστολος Χριστοῦ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "2Co 8:23",
+      "text": "ἡμῶν, ἀπόστολοι ἐκκλησιῶν,",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "2Co 11:5",
+      "text": "ὑπερλίαν ἀποστόλων·",
+      "highlightedWord": "ἀποστόλων·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "2Co 11:13",
+      "text": "εἰς ἀποστόλους Χριστοῦ·",
+      "highlightedWord": "ἀποστόλους"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "2Co 12:11",
+      "text": "ὑπερλίαν ἀποστόλων, εἰ",
+      "highlightedWord": "ἀποστόλων,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "2Co 12:12",
+      "text": "τοῦ ἀποστόλου κατειργάσθη",
+      "highlightedWord": "ἀποστόλου"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Ga 1:1",
+      "text": "Παῦλος ἀπόστολος, οὐκ",
+      "highlightedWord": "ἀπόστολος,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Ga 1:17",
+      "text": "ἐμοῦ ἀποστόλους, ἀλλὰ",
+      "highlightedWord": "ἀποστόλους,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Ga 1:19",
+      "text": "τῶν ἀποστόλων οὐκ",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Eph 1:1",
+      "text": "Παῦλος ἀπόστολος Χριστοῦ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Eph 2:20",
+      "text": "τῶν ἀποστόλων καὶ",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Eph 3:5",
+      "text": "ἁγίοις ἀποστόλοις αὐτοῦ",
+      "highlightedWord": "ἀποστόλοις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Eph 4:11",
+      "text": "μὲν ἀποστόλους, τοὺς",
+      "highlightedWord": "ἀποστόλους,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Php 2:25",
+      "text": "δὲ ἀπόστολον καὶ",
+      "highlightedWord": "ἀπόστολον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Col 1:1",
+      "text": "Παῦλος ἀπόστολος Χριστοῦ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Th 2:7",
+      "text": "Χριστοῦ ἀπόστολοι· ἀλλὰ",
+      "highlightedWord": "ἀπόστολοι·"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "1Ti 1:1",
+      "text": "Παῦλος ἀπόστολος Χριστοῦ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Ti 2:7",
+      "text": "καὶ ἀπόστολος— ἀλήθειαν",
+      "highlightedWord": "ἀπόστολος—"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Ti 1:1",
+      "text": "Παῦλος ἀπόστολος Χριστοῦ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Ti 1:11",
+      "text": "καὶ ἀπόστολος καὶ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Tit 1:1",
+      "text": "θεοῦ, ἀπόστολος δὲ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Heb 3:1",
+      "text": "τὸν ἀπόστολον καὶ",
+      "highlightedWord": "ἀπόστολον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "1Pe 1:1",
+      "text": "Πέτρος ἀπόστολος Ἰησοῦ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Pe 1:1",
+      "text": "καὶ ἀπόστολος Ἰησοῦ",
+      "highlightedWord": "ἀπόστολος"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Pe 3:2",
+      "text": "τῶν ἀποστόλων ὑμῶν",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Jud 1:17",
+      "text": "τῶν ἀποστόλων τοῦ",
+      "highlightedWord": "ἀποστόλων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "ἑαυτοὺς ἀποστόλους, καὶ",
+      "highlightedWord": "ἀποστόλους,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Re 18:20",
+      "text": "οἱ ἀπόστολοι καὶ",
+      "highlightedWord": "ἀπόστολοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Re 21:14",
+      "text": "δώδεκα ἀποστόλων τοῦ",
+      "highlightedWord": "ἀποστόλων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

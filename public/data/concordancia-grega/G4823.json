@@ -1,0 +1,51 @@
+{
+  "strong": "G4823",
+  "lemma": "συμβουλεύω",
+  "lemmaTranslit": "symbouleuō",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Mateus": 1,
+    "João": 1,
+    "Atos": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Mt 26:4",
+      "text": "καὶ συνεβουλεύσαντο ἵνα",
+      "highlightedWord": "συνεβουλεύσαντο"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Jn 18:14",
+      "text": "ὁ συμβουλεύσας τοῖς",
+      "highlightedWord": "συμβουλεύσας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Ac 9:23",
+      "text": "ἱκαναί, συνεβουλεύσαντο οἱ",
+      "highlightedWord": "συνεβουλεύσαντο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "συμβουλεύω σοι",
+      "highlightedWord": "συμβουλεύω"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

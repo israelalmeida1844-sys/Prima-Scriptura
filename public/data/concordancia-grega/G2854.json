@@ -1,0 +1,24 @@
+{
+  "strong": "G2854",
+  "lemma": "κολλούριον",
+  "lemmaTranslit": "kollourion",
+  "tokenCount": 1,
+  "verseCount": 1,
+  "bookDistribution": {
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Re 3:18",
+      "text": "καὶ κολλούριον ἐγχρῖσαι",
+      "highlightedWord": "κολλούριον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

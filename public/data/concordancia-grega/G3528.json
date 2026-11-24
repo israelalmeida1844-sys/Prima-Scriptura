@@ -1,0 +1,212 @@
+{
+  "strong": "G3528",
+  "lemma": "νικάω",
+  "lemmaTranslit": "nikaō",
+  "tokenCount": 28,
+  "verseCount": 24,
+  "bookDistribution": {
+    "Lucas": 1,
+    "João": 1,
+    "Romanos": 3,
+    "1 João": 6,
+    "Apocalipse": 17
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Lk 11:22",
+      "text": "ἐπελθὼν νικήσῃ αὐτόν,",
+      "highlightedWord": "νικήσῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Jn 16:33",
+      "text": "ἐγὼ νενίκηκα τὸν",
+      "highlightedWord": "νενίκηκα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Ro 3:4",
+      "text": "καὶ νικήσεις ἐν",
+      "highlightedWord": "νικήσεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Ro 12:21",
+      "text": "μὴ νικῶ ὑπὸ",
+      "highlightedWord": "νικῶ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Jn 2:13",
+      "text": "ὅτι νενικήκατε τὸν",
+      "highlightedWord": "νενικήκατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Jn 2:14",
+      "text": "καὶ νενικήκατε τὸν",
+      "highlightedWord": "νενικήκατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Jn 4:4",
+      "text": "καὶ νενικήκατε αὐτούς,",
+      "highlightedWord": "νενικήκατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Jn 5:4",
+      "text": "θεοῦ νικᾷ τὸν",
+      "highlightedWord": "νικᾷ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Jn 5:5",
+      "text": "ὁ νικῶν τὸν",
+      "highlightedWord": "νικῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Re 2:7",
+      "text": "τῷ νικῶντι δώσω",
+      "highlightedWord": "νικῶντι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Re 2:11",
+      "text": "ὁ νικῶν οὐ",
+      "highlightedWord": "νικῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "τῷ νικῶντι δώσω",
+      "highlightedWord": "νικῶντι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Re 2:26",
+      "text": "ὁ νικῶν καὶ",
+      "highlightedWord": "νικῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Re 3:5",
+      "text": "ὁ νικῶν οὕτως",
+      "highlightedWord": "νικῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "ὁ νικῶν ποιήσω",
+      "highlightedWord": "νικῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Re 3:21",
+      "text": "ὁ νικῶν δώσω",
+      "highlightedWord": "νικῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Re 5:5",
+      "text": "ἰδοὺ ἐνίκησεν ὁ",
+      "highlightedWord": "ἐνίκησεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Re 6:2",
+      "text": "ἐξῆλθεν νικῶν καὶ",
+      "highlightedWord": "νικῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Re 11:7",
+      "text": "καὶ νικήσει αὐτοὺς",
+      "highlightedWord": "νικήσει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Re 12:11",
+      "text": "αὐτοὶ ἐνίκησαν αὐτὸν",
+      "highlightedWord": "ἐνίκησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Re 13:7",
+      "text": "καὶ νικῆσαι αὐτούς,",
+      "highlightedWord": "νικῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Re 15:2",
+      "text": "τοὺς νικῶντας ἐκ",
+      "highlightedWord": "νικῶντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Re 17:14",
+      "text": "ἀρνίον νικήσει αὐτούς,",
+      "highlightedWord": "νικήσει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Re 21:7",
+      "text": "ὁ νικῶν κληρονομήσει",
+      "highlightedWord": "νικῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

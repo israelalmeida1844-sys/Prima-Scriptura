@@ -1,0 +1,321 @@
+{
+  "strong": "G2374",
+  "lemma": "θύρα",
+  "lemmaTranslit": "thyra",
+  "tokenCount": 39,
+  "verseCount": 37,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 6,
+    "Lucas": 4,
+    "João": 7,
+    "Atos": 10,
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "Colossenses": 1,
+    "Tiago": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Mt 6:6",
+      "text": "τὴν θύραν σου",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 33,
+      "reference": "Mt 24:33",
+      "text": "ἐπὶ θύραις.",
+      "highlightedWord": "θύραις."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Mt 25:10",
+      "text": "ἡ θύρα.",
+      "highlightedWord": "θύρα."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 60,
+      "reference": "Mt 27:60",
+      "text": "τῇ θύρᾳ τοῦ",
+      "highlightedWord": "θύρᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Mk 1:33",
+      "text": "τὴν θύραν.",
+      "highlightedWord": "θύραν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Mk 2:2",
+      "text": "τὴν θύραν, καὶ",
+      "highlightedWord": "θύραν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Mk 11:4",
+      "text": "πρὸς θύραν ἔξω",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Mk 13:29",
+      "text": "ἐπὶ θύραις.",
+      "highlightedWord": "θύραις."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 46,
+      "reference": "Mk 15:46",
+      "text": "τὴν θύραν τοῦ",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Mk 16:3",
+      "text": "τῆς θύρας τοῦ",
+      "highlightedWord": "θύρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Lk 11:7",
+      "text": "ἡ θύρα κέκλεισται,",
+      "highlightedWord": "θύρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Lk 13:24",
+      "text": "στενῆς θύρας, ὅτι",
+      "highlightedWord": "θύρας,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Lk 13:25",
+      "text": "τὴν θύραν, καὶ",
+      "highlightedWord": "θύραν,"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Jn 10:1",
+      "text": "τῆς θύρας εἰς",
+      "highlightedWord": "θύρας"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Jn 10:2",
+      "text": "τῆς θύρας ποιμήν",
+      "highlightedWord": "θύρας"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Jn 10:7",
+      "text": "ἡ θύρα τῶν",
+      "highlightedWord": "θύρα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Jn 10:9",
+      "text": "ἡ θύρα· δι’",
+      "highlightedWord": "θύρα·"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Jn 18:16",
+      "text": "τῇ θύρᾳ ἔξω.",
+      "highlightedWord": "θύρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "τῶν θυρῶν κεκλεισμένων",
+      "highlightedWord": "θυρῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Jn 20:26",
+      "text": "τῶν θυρῶν κεκλεισμένων,",
+      "highlightedWord": "θυρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ac 3:2",
+      "text": "τὴν θύραν τοῦ",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Ac 5:9",
+      "text": "τῇ θύρᾳ καὶ",
+      "highlightedWord": "θύρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ac 5:19",
+      "text": "τὰς θύρας τῆς",
+      "highlightedWord": "θύρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Ac 5:23",
+      "text": "τῶν θυρῶν, ἀνοίξαντες",
+      "highlightedWord": "θυρῶν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ac 12:6",
+      "text": "τῆς θύρας ἐτήρουν",
+      "highlightedWord": "θύρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Ac 12:13",
+      "text": "τὴν θύραν τοῦ",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Ac 14:27",
+      "text": "ἔθνεσιν θύραν πίστεως.",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Ac 16:26",
+      "text": "αἱ θύραι πᾶσαι,",
+      "highlightedWord": "θύραι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Ac 16:27",
+      "text": "τὰς θύρας τῆς",
+      "highlightedWord": "θύρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Ac 21:30",
+      "text": "αἱ θύραι.",
+      "highlightedWord": "θύραι."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "1Co 16:9",
+      "text": "θύρα γάρ",
+      "highlightedWord": "θύρα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Co 2:12",
+      "text": "καὶ θύρας μοι",
+      "highlightedWord": "θύρας"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Col 4:3",
+      "text": "ἡμῖν θύραν τοῦ",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jas 5:9",
+      "text": "τῶν θυρῶν ἕστηκεν.",
+      "highlightedWord": "θυρῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "σου θύραν ἠνεῳγμένην,",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "τὴν θύραν καὶ",
+      "highlightedWord": "θύραν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "ἰδοὺ θύρα ἠνεῳγμένη",
+      "highlightedWord": "θύρα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

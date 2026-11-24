@@ -1,0 +1,49 @@
+{
+  "strong": "G2363",
+  "lemma": "Θυάτειρα",
+  "lemmaTranslit": "Thyateira",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Atos": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Ac 16:14",
+      "text": "πόλεως Θυατείρων σεβομένη",
+      "highlightedWord": "Θυατείρων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "εἰς Θυάτειρα καὶ",
+      "highlightedWord": "Θυάτειρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Re 2:18",
+      "text": "ἐν Θυατείροις ἐκκλησίας",
+      "highlightedWord": "Θυατείροις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "ἐν Θυατείροις, ὅσοι",
+      "highlightedWord": "Θυατείροις,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,122 @@
+{
+  "strong": "G5574",
+  "lemma": "ψεύδομαι",
+  "lemmaTranslit": "pseudomai",
+  "tokenCount": 12,
+  "verseCount": 12,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Atos": 2,
+    "Romanos": 1,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "Colossenses": 1,
+    "1 Timóteo": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "1 João": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Mt 5:11",
+      "text": "ὑμῶν ψευδόμενοι ἕνεκεν",
+      "highlightedWord": "ψευδόμενοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ac 5:3",
+      "text": "σου, ψεύσασθαί σε",
+      "highlightedWord": "ψεύσασθαί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Ac 5:4",
+      "text": "οὐκ ἐψεύσω ἀνθρώποις",
+      "highlightedWord": "ἐψεύσω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Ro 9:1",
+      "text": "οὐ ψεύδομαι, συμμαρτυρούσης",
+      "highlightedWord": "ψεύδομαι,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "2Co 11:31",
+      "text": "οὐ ψεύδομαι.",
+      "highlightedWord": "ψεύδομαι."
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Ga 1:20",
+      "text": "οὐ ψεύδομαι.",
+      "highlightedWord": "ψεύδομαι."
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Col 3:9",
+      "text": "μὴ ψεύδεσθε εἰς",
+      "highlightedWord": "ψεύδεσθε"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Ti 2:7",
+      "text": "οὐ ψεύδομαι— διδάσκαλος",
+      "highlightedWord": "ψεύδομαι—"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Heb 6:18",
+      "text": "ἀδύνατον ψεύσασθαι θεόν,",
+      "highlightedWord": "ψεύσασθαι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jas 3:14",
+      "text": "καὶ ψεύδεσθε κατὰ",
+      "highlightedWord": "ψεύδεσθε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Jn 1:6",
+      "text": "περιπατῶμεν, ψευδόμεθα καὶ",
+      "highlightedWord": "ψευδόμεθα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "ἀλλὰ ψεύδονται— ἰδοὺ",
+      "highlightedWord": "ψεύδονται—"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

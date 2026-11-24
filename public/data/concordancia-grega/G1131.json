@@ -1,0 +1,144 @@
+{
+  "strong": "G1131",
+  "lemma": "γυμνός",
+  "lemmaTranslit": "gymnos",
+  "tokenCount": 15,
+  "verseCount": 15,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 2,
+    "João": 1,
+    "Atos": 1,
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 36,
+      "reference": "Mt 25:36",
+      "text": "γυμνὸς καὶ",
+      "highlightedWord": "γυμνὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 38,
+      "reference": "Mt 25:38",
+      "text": "ἢ γυμνὸν καὶ",
+      "highlightedWord": "γυμνὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 43,
+      "reference": "Mt 25:43",
+      "text": "με, γυμνὸς καὶ",
+      "highlightedWord": "γυμνὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 44,
+      "reference": "Mt 25:44",
+      "text": "ἢ γυμνὸν ἢ",
+      "highlightedWord": "γυμνὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 51,
+      "reference": "Mk 14:51",
+      "text": "ἐπὶ γυμνοῦ, καὶ",
+      "highlightedWord": "γυμνοῦ,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 52,
+      "reference": "Mk 14:52",
+      "text": "σινδόνα γυμνὸς ἔφυγεν.",
+      "highlightedWord": "γυμνὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Jn 21:7",
+      "text": "γὰρ γυμνός, καὶ",
+      "highlightedWord": "γυμνός,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Ac 19:16",
+      "text": "ὥστε γυμνοὺς καὶ",
+      "highlightedWord": "γυμνοὺς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "1Co 15:37",
+      "text": "ἀλλὰ γυμνὸν κόκκον",
+      "highlightedWord": "γυμνὸν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "2Co 5:3",
+      "text": "οὐ γυμνοὶ εὑρεθησόμεθα.",
+      "highlightedWord": "γυμνοὶ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Heb 4:13",
+      "text": "δὲ γυμνὰ καὶ",
+      "highlightedWord": "γυμνὰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Jas 2:15",
+      "text": "ἀδελφὴ γυμνοὶ ὑπάρχωσιν",
+      "highlightedWord": "γυμνοὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "καὶ γυμνός,",
+      "highlightedWord": "γυμνός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Re 16:15",
+      "text": "μὴ γυμνὸς περιπατῇ",
+      "highlightedWord": "γυμνὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Re 17:16",
+      "text": "καὶ γυμνήν, καὶ",
+      "highlightedWord": "γυμνήν,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

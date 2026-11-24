@@ -1,0 +1,32 @@
+{
+  "strong": "G5193",
+  "lemma": "ὑάλινος",
+  "lemmaTranslit": "hyalinos",
+  "tokenCount": 3,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "θάλασσα ὑαλίνη ὁμοία",
+      "highlightedWord": "ὑαλίνη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Re 15:2",
+      "text": "θάλασσαν ὑαλίνην μεμιγμένην",
+      "highlightedWord": "ὑαλίνην"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

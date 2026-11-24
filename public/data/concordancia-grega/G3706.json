@@ -1,0 +1,41 @@
+{
+  "strong": "G3706",
+  "lemma": "ὅρασις",
+  "lemmaTranslit": "horasis",
+  "tokenCount": 4,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Atos": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ac 2:17",
+      "text": "ὑμῶν ὁράσεις ὄψονται,",
+      "highlightedWord": "ὁράσεις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Re 4:3",
+      "text": "ὅμοιος ὁράσει λίθῳ",
+      "highlightedWord": "ὁράσει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "τῇ ὁράσει καὶ",
+      "highlightedWord": "ὁράσει"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

@@ -1,0 +1,1507 @@
+{
+  "strong": "G2453",
+  "lemma": "Ἰουδαῖος",
+  "lemmaTranslit": "Ioudaios",
+  "tokenCount": 194,
+  "verseCount": 185,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 6,
+    "Lucas": 5,
+    "João": 71,
+    "Atos": 79,
+    "Romanos": 11,
+    "1 Coríntios": 8,
+    "2 Coríntios": 1,
+    "Gálatas": 4,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Mt 2:2",
+      "text": "τῶν Ἰουδαίων; εἴδομεν",
+      "highlightedWord": "Ἰουδαίων;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 11,
+      "reference": "Mt 27:11",
+      "text": "τῶν Ἰουδαίων; ὁ",
+      "highlightedWord": "Ἰουδαίων;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Mt 27:29",
+      "text": "τῶν Ἰουδαίων,",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 37,
+      "reference": "Mt 27:37",
+      "text": "τῶν Ἰουδαίων.",
+      "highlightedWord": "Ἰουδαίων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 15,
+      "reference": "Mt 28:15",
+      "text": "παρὰ Ἰουδαίοις μέχρι",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Mk 7:3",
+      "text": "οἱ Ἰουδαῖοι ἐὰν",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Mk 15:2",
+      "text": "τῶν Ἰουδαίων; ὁ",
+      "highlightedWord": "Ἰουδαίων;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Mk 15:9",
+      "text": "τῶν Ἰουδαίων;",
+      "highlightedWord": "Ἰουδαίων;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "Mk 15:12",
+      "text": "τῶν Ἰουδαίων;",
+      "highlightedWord": "Ἰουδαίων;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Mk 15:18",
+      "text": "τῶν Ἰουδαίων·",
+      "highlightedWord": "Ἰουδαίων·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Mk 15:26",
+      "text": "τῶν Ἰουδαίων.",
+      "highlightedWord": "Ἰουδαίων."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Lk 7:3",
+      "text": "τῶν Ἰουδαίων, ἐρωτῶν",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Lk 23:3",
+      "text": "τῶν Ἰουδαίων; ὁ",
+      "highlightedWord": "Ἰουδαίων;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 37,
+      "reference": "Lk 23:37",
+      "text": "τῶν Ἰουδαίων, σῶσον",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 38,
+      "reference": "Lk 23:38",
+      "text": "τῶν Ἰουδαίων οὗτος.",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 51,
+      "reference": "Lk 23:51",
+      "text": "τῶν Ἰουδαίων, ὃς",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Jn 1:19",
+      "text": "οἱ Ἰουδαῖοι ἐξ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jn 2:6",
+      "text": "τῶν Ἰουδαίων κείμεναι,",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Jn 2:13",
+      "text": "τῶν Ἰουδαίων, καὶ",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Jn 2:18",
+      "text": "οἱ Ἰουδαῖοι καὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jn 2:20",
+      "text": "οἱ Ἰουδαῖοι· Τεσσεράκοντα",
+      "highlightedWord": "Ἰουδαῖοι·"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Jn 3:1",
+      "text": "τῶν Ἰουδαίων·",
+      "highlightedWord": "Ἰουδαίων·"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Jn 3:22",
+      "text": "τὴν Ἰουδαίαν γῆν,",
+      "highlightedWord": "Ἰουδαίαν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Jn 3:25",
+      "text": "μετὰ Ἰουδαίου περὶ",
+      "highlightedWord": "Ἰουδαίου"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Jn 4:9",
+      "text": "σὺ Ἰουδαῖος ὢν",
+      "highlightedWord": "Ἰουδαῖος"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Jn 4:22",
+      "text": "τῶν Ἰουδαίων ἐστίν·",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Jn 5:1",
+      "text": "τῶν Ἰουδαίων, καὶ",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Jn 5:10",
+      "text": "οἱ Ἰουδαῖοι τῷ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Jn 5:15",
+      "text": "τοῖς Ἰουδαίοις ὅτι",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Jn 5:16",
+      "text": "οἱ Ἰουδαῖοι τὸν",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Jn 5:18",
+      "text": "οἱ Ἰουδαῖοι ἀποκτεῖναι",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Jn 6:4",
+      "text": "τῶν Ἰουδαίων.",
+      "highlightedWord": "Ἰουδαίων."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Jn 6:41",
+      "text": "οἱ Ἰουδαῖοι περὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 52,
+      "reference": "Jn 6:52",
+      "text": "οἱ Ἰουδαῖοι λέγοντες·",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Jn 7:1",
+      "text": "οἱ Ἰουδαῖοι ἀποκτεῖναι.",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Jn 7:2",
+      "text": "τῶν Ἰουδαίων ἡ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Jn 7:11",
+      "text": "οὖν Ἰουδαῖοι ἐζήτουν",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Jn 7:13",
+      "text": "τῶν Ἰουδαίων.",
+      "highlightedWord": "Ἰουδαίων."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Jn 7:15",
+      "text": "οἱ Ἰουδαῖοι λέγοντες·",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "οἱ Ἰουδαῖοι πρὸς",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Jn 8:22",
+      "text": "οἱ Ἰουδαῖοι· Μήτι",
+      "highlightedWord": "Ἰουδαῖοι·"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Jn 8:31",
+      "text": "αὐτῷ Ἰουδαίους· Ἐὰν",
+      "highlightedWord": "Ἰουδαίους·"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 48,
+      "reference": "Jn 8:48",
+      "text": "οἱ Ἰουδαῖοι καὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Jn 8:52",
+      "text": "οἱ Ἰουδαῖοι· Νῦν",
+      "highlightedWord": "Ἰουδαῖοι·"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 57,
+      "reference": "Jn 8:57",
+      "text": "οἱ Ἰουδαῖοι πρὸς",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Jn 9:18",
+      "text": "οἱ Ἰουδαῖοι περὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Jn 9:22",
+      "text": "τοὺς Ἰουδαίους, ἤδη",
+      "highlightedWord": "Ἰουδαίους,"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Jn 10:19",
+      "text": "τοῖς Ἰουδαίοις διὰ",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Jn 10:24",
+      "text": "οἱ Ἰουδαῖοι καὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Jn 10:31",
+      "text": "οἱ Ἰουδαῖοι ἵνα",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Jn 10:33",
+      "text": "οἱ Ἰουδαῖοι· Περὶ",
+      "highlightedWord": "Ἰουδαῖοι·"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Jn 11:8",
+      "text": "οἱ Ἰουδαῖοι, καὶ",
+      "highlightedWord": "Ἰουδαῖοι,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Jn 11:19",
+      "text": "τῶν Ἰουδαίων ἐληλύθεισαν",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Jn 11:31",
+      "text": "οὖν Ἰουδαῖοι οἱ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Jn 11:33",
+      "text": "αὐτῇ Ἰουδαίους κλαίοντας",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Jn 11:36",
+      "text": "οἱ Ἰουδαῖοι· Ἴδε",
+      "highlightedWord": "Ἰουδαῖοι·"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 45,
+      "reference": "Jn 11:45",
+      "text": "τῶν Ἰουδαίων, οἱ",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 54,
+      "reference": "Jn 11:54",
+      "text": "τοῖς Ἰουδαίοις, ἀλλὰ",
+      "highlightedWord": "Ἰουδαίοις,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 55,
+      "reference": "Jn 11:55",
+      "text": "τῶν Ἰουδαίων, καὶ",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Jn 12:9",
+      "text": "τῶν Ἰουδαίων ὅτι",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Jn 12:11",
+      "text": "τῶν Ἰουδαίων καὶ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Jn 13:33",
+      "text": "τοῖς Ἰουδαίοις ὅτι",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Jn 18:12",
+      "text": "τῶν Ἰουδαίων συνέλαβον",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Jn 18:14",
+      "text": "τοῖς Ἰουδαίοις ὅτι",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Jn 18:20",
+      "text": "οἱ Ἰουδαῖοι συνέρχονται,",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Jn 18:31",
+      "text": "οἱ Ἰουδαῖοι· Ἡμῖν",
+      "highlightedWord": "Ἰουδαῖοι·"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 33,
+      "reference": "Jn 18:33",
+      "text": "τῶν Ἰουδαίων;",
+      "highlightedWord": "Ἰουδαίων;"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Jn 18:35",
+      "text": "ἐγὼ Ἰουδαῖός εἰμι;",
+      "highlightedWord": "Ἰουδαῖός"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 36,
+      "reference": "Jn 18:36",
+      "text": "τοῖς Ἰουδαίοις· νῦν",
+      "highlightedWord": "Ἰουδαίοις·"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 38,
+      "reference": "Jn 18:38",
+      "text": "τοὺς Ἰουδαίους, καὶ",
+      "highlightedWord": "Ἰουδαίους,"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 39,
+      "reference": "Jn 18:39",
+      "text": "τῶν Ἰουδαίων;",
+      "highlightedWord": "Ἰουδαίων;"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Jn 19:3",
+      "text": "τῶν Ἰουδαίων· καὶ",
+      "highlightedWord": "Ἰουδαίων·"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Jn 19:7",
+      "text": "οἱ Ἰουδαῖοι· Ἡμεῖς",
+      "highlightedWord": "Ἰουδαῖοι·"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Jn 19:12",
+      "text": "δὲ Ἰουδαῖοι ἐκραύγασαν",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Jn 19:14",
+      "text": "τοῖς Ἰουδαίοις· Ἴδε",
+      "highlightedWord": "Ἰουδαίοις·"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Jn 19:19",
+      "text": "τῶν Ἰουδαίων.",
+      "highlightedWord": "Ἰουδαίων."
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Jn 19:20",
+      "text": "τῶν Ἰουδαίων, ὅτι",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Jn 19:21",
+      "text": "τῶν Ἰουδαίων· Μὴ",
+      "highlightedWord": "Ἰουδαίων·"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Jn 19:31",
+      "text": "οὖν Ἰουδαῖοι, ἐπεὶ",
+      "highlightedWord": "Ἰουδαῖοι,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Jn 19:38",
+      "text": "τῶν Ἰουδαίων, ἵνα",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 40,
+      "reference": "Jn 19:40",
+      "text": "τοῖς Ἰουδαίοις ἐνταφιάζειν.",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Jn 19:42",
+      "text": "τῶν Ἰουδαίων, ὅτι",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "τῶν Ἰουδαίων, ἦλθεν",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ac 2:5",
+      "text": "κατοικοῦντες Ἰουδαῖοι, ἄνδρες",
+      "highlightedWord": "Ἰουδαῖοι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Ac 2:11",
+      "text": "Ἰουδαῖοί τε",
+      "highlightedWord": "Ἰουδαῖοί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ac 2:14",
+      "text": "Ἄνδρες Ἰουδαῖοι καὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Ac 9:22",
+      "text": "τοὺς Ἰουδαίους τοὺς",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Ac 9:23",
+      "text": "οἱ Ἰουδαῖοι ἀνελεῖν",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Ac 10:22",
+      "text": "τῶν Ἰουδαίων, ἐχρηματίσθη",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Ac 10:28",
+      "text": "ἀνδρὶ Ἰουδαίῳ κολλᾶσθαι",
+      "highlightedWord": "Ἰουδαίῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Ac 10:39",
+      "text": "τῶν Ἰουδαίων καὶ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ac 11:19",
+      "text": "μόνον Ἰουδαίοις.",
+      "highlightedWord": "Ἰουδαίοις."
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Ac 12:3",
+      "text": "τοῖς Ἰουδαίοις προσέθετο",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Ac 12:11",
+      "text": "τῶν Ἰουδαίων.",
+      "highlightedWord": "Ἰουδαίων."
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Ac 13:5",
+      "text": "τῶν Ἰουδαίων· εἶχον",
+      "highlightedWord": "Ἰουδαίων·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Ac 13:6",
+      "text": "ψευδοπροφήτην Ἰουδαῖον ᾧ",
+      "highlightedWord": "Ἰουδαῖον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 43,
+      "reference": "Ac 13:43",
+      "text": "τῶν Ἰουδαίων καὶ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 45,
+      "reference": "Ac 13:45",
+      "text": "οἱ Ἰουδαῖοι τοὺς",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 50,
+      "reference": "Ac 13:50",
+      "text": "δὲ Ἰουδαῖοι παρώτρυναν",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ac 14:1",
+      "text": "τῶν Ἰουδαίων καὶ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Ac 14:2",
+      "text": "ἀπειθήσαντες Ἰουδαῖοι ἐπήγειραν",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Ac 14:4",
+      "text": "τοῖς Ἰουδαίοις οἱ",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Ac 14:5",
+      "text": "καὶ Ἰουδαίων σὺν",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Ac 14:19",
+      "text": "Ἰκονίου Ἰουδαῖοι, καὶ",
+      "highlightedWord": "Ἰουδαῖοι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Ac 16:1",
+      "text": "γυναικὸς Ἰουδαίας πιστῆς,",
+      "highlightedWord": "Ἰουδαίας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Ac 16:3",
+      "text": "τοὺς Ἰουδαίους τοὺς",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Ac 16:20",
+      "text": "πόλιν Ἰουδαῖοι ὑπάρχοντες,",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Ac 17:1",
+      "text": "τῶν Ἰουδαίων.",
+      "highlightedWord": "Ἰουδαίων."
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Ac 17:5",
+      "text": "οἱ Ἰουδαῖοι καὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Ac 17:10",
+      "text": "τῶν Ἰουδαίων ἀπῄεσαν·",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Ac 17:13",
+      "text": "Θεσσαλονίκης Ἰουδαῖοι ὅτι",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Ac 17:17",
+      "text": "τοῖς Ἰουδαίοις καὶ",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Ac 18:2",
+      "text": "τινα Ἰουδαῖον ὀνόματι",
+      "highlightedWord": "Ἰουδαῖον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Ac 18:4",
+      "text": "τε Ἰουδαίους καὶ",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Ac 18:5",
+      "text": "τοῖς Ἰουδαίοις εἶναι",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Ac 18:12",
+      "text": "οἱ Ἰουδαῖοι τῷ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "τοὺς Ἰουδαίους· Εἰ",
+      "highlightedWord": "Ἰουδαίους·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Ac 18:19",
+      "text": "τοῖς Ἰουδαίοις.",
+      "highlightedWord": "Ἰουδαίοις."
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Ac 18:24",
+      "text": "Ἰουδαῖος δέ",
+      "highlightedWord": "Ἰουδαῖος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Ac 18:28",
+      "text": "τοῖς Ἰουδαίοις διακατηλέγχετο",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Ac 19:10",
+      "text": "κυρίου, Ἰουδαίους τε",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Ac 19:13",
+      "text": "περιερχομένων Ἰουδαίων ἐξορκιστῶν",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Ac 19:14",
+      "text": "Σκευᾶ Ἰουδαίου ἀρχιερέως",
+      "highlightedWord": "Ἰουδαίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Ac 19:17",
+      "text": "πᾶσιν Ἰουδαίοις τε",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 33,
+      "reference": "Ac 19:33",
+      "text": "τῶν Ἰουδαίων, ὁ",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Ac 19:34",
+      "text": "ὅτι Ἰουδαῖός ἐστιν",
+      "highlightedWord": "Ἰουδαῖός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Ac 20:3",
+      "text": "τῶν Ἰουδαίων μέλλοντι",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Ac 20:19",
+      "text": "τῶν Ἰουδαίων·",
+      "highlightedWord": "Ἰουδαίων·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Ac 20:21",
+      "text": "διαμαρτυρόμενος Ἰουδαίοις τε",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "οἱ Ἰουδαῖοι καὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 20,
+      "reference": "Ac 21:20",
+      "text": "τοῖς Ἰουδαίοις τῶν",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Ac 21:21",
+      "text": "πάντας Ἰουδαίους, λέγων",
+      "highlightedWord": "Ἰουδαίους,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Ac 21:27",
+      "text": "Ἀσίας Ἰουδαῖοι θεασάμενοι",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 39,
+      "reference": "Ac 21:39",
+      "text": "εἰμι Ἰουδαῖος, Ταρσεὺς",
+      "highlightedWord": "Ἰουδαῖος,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Ac 22:3",
+      "text": "ἀνὴρ Ἰουδαῖος, γεγεννημένος",
+      "highlightedWord": "Ἰουδαῖος,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Ac 22:12",
+      "text": "κατοικούντων Ἰουδαίων,",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Ac 22:30",
+      "text": "τῶν Ἰουδαίων ἔλυσεν",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Ac 23:12",
+      "text": "οἱ Ἰουδαῖοι ἀνεθεμάτισαν",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 20,
+      "reference": "Ac 23:20",
+      "text": "Οἱ Ἰουδαῖοι συνέθεντο",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 27,
+      "reference": "Ac 23:27",
+      "text": "τῶν Ἰουδαίων καὶ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Ac 24:5",
+      "text": "τοῖς Ἰουδαίοις τοῖς",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Ac 24:9",
+      "text": "οἱ Ἰουδαῖοι φάσκοντες",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Ac 24:19",
+      "text": "Ἀσίας Ἰουδαῖοι, οὓς",
+      "highlightedWord": "Ἰουδαῖοι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Ac 24:24",
+      "text": "οὔσῃ Ἰουδαίᾳ μετεπέμψατο",
+      "highlightedWord": "Ἰουδαίᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Ac 24:27",
+      "text": "τοῖς Ἰουδαίοις ὁ",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 2,
+      "reference": "Ac 25:2",
+      "text": "τῶν Ἰουδαίων κατὰ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 7,
+      "reference": "Ac 25:7",
+      "text": "καταβεβηκότες Ἰουδαῖοι, πολλὰ",
+      "highlightedWord": "Ἰουδαῖοι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 8,
+      "reference": "Ac 25:8",
+      "text": "τῶν Ἰουδαίων οὔτε",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 9,
+      "reference": "Ac 25:9",
+      "text": "τοῖς Ἰουδαίοις χάριν",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Ac 25:10",
+      "text": "κρίνεσθαι. Ἰουδαίους οὐδὲν",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Ac 25:15",
+      "text": "τῶν Ἰουδαίων, αἰτούμενοι",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 24,
+      "reference": "Ac 25:24",
+      "text": "τῶν Ἰουδαίων ἐνέτυχόν",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 2,
+      "reference": "Ac 26:2",
+      "text": "ὑπὸ Ἰουδαίων, βασιλεῦ",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 3,
+      "reference": "Ac 26:3",
+      "text": "κατὰ Ἰουδαίους ἐθῶν",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Ac 26:4",
+      "text": "πάντες Ἰουδαῖοι,",
+      "highlightedWord": "Ἰουδαῖοι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 7,
+      "reference": "Ac 26:7",
+      "text": "ὑπὸ Ἰουδαίων, βασιλεῦ·",
+      "highlightedWord": "Ἰουδαίων,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 21,
+      "reference": "Ac 26:21",
+      "text": "με Ἰουδαῖοι συλλαβόμενοι",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 17,
+      "reference": "Ac 28:17",
+      "text": "τῶν Ἰουδαίων πρώτους·",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Ac 28:19",
+      "text": "τῶν Ἰουδαίων ἠναγκάσθην",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ro 1:16",
+      "text": "πιστεύοντι, Ἰουδαίῳ τε",
+      "highlightedWord": "Ἰουδαίῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ro 2:9",
+      "text": "κακόν, Ἰουδαίου τε",
+      "highlightedWord": "Ἰουδαίου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Ro 2:10",
+      "text": "ἀγαθόν, Ἰουδαίῳ τε",
+      "highlightedWord": "Ἰουδαίῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ro 2:17",
+      "text": "σὺ Ἰουδαῖος ἐπονομάζῃ",
+      "highlightedWord": "Ἰουδαῖος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Ro 2:28",
+      "text": "φανερῷ Ἰουδαῖός ἐστιν,",
+      "highlightedWord": "Ἰουδαῖός"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Ro 2:29",
+      "text": "κρυπτῷ Ἰουδαῖος, καὶ",
+      "highlightedWord": "Ἰουδαῖος,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Ro 3:1",
+      "text": "τοῦ Ἰουδαίου, ἢ",
+      "highlightedWord": "Ἰουδαίου,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Ro 3:9",
+      "text": "γὰρ Ἰουδαίους τε",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Ro 3:29",
+      "text": "ἢ Ἰουδαίων ὁ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Ro 9:24",
+      "text": "ἐξ Ἰουδαίων ἀλλὰ",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Ro 10:12",
+      "text": "διαστολὴ Ἰουδαίου τε",
+      "highlightedWord": "Ἰουδαίου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "1Co 1:22",
+      "text": "καὶ Ἰουδαῖοι σημεῖα",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "1Co 1:23",
+      "text": "ἐσταυρωμένον, Ἰουδαίοις μὲν",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "1Co 1:24",
+      "text": "κλητοῖς, Ἰουδαίοις τε",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "1Co 9:20",
+      "text": "τοῖς Ἰουδαίοις ὡς",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "1Co 10:32",
+      "text": "καὶ Ἰουδαίοις γίνεσθε",
+      "highlightedWord": "Ἰουδαίοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "1Co 12:13",
+      "text": "εἴτε Ἰουδαῖοι εἴτε",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "2Co 11:24",
+      "text": "ὑπὸ Ἰουδαίων πεντάκις",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Ga 2:13",
+      "text": "λοιποὶ Ἰουδαῖοι, ὥστε",
+      "highlightedWord": "Ἰουδαῖοι,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ga 2:14",
+      "text": "σὺ Ἰουδαῖος ὑπάρχων",
+      "highlightedWord": "Ἰουδαῖος"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Ga 2:15",
+      "text": "φύσει Ἰουδαῖοι καὶ",
+      "highlightedWord": "Ἰουδαῖοι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Ga 3:28",
+      "text": "ἔνι Ἰουδαῖος οὐδὲ",
+      "highlightedWord": "Ἰουδαῖος"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Col 3:11",
+      "text": "καὶ Ἰουδαῖος, περιτομὴ",
+      "highlightedWord": "Ἰουδαῖος,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Th 2:14",
+      "text": "τῶν Ἰουδαίων",
+      "highlightedWord": "Ἰουδαίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "λεγόντων Ἰουδαίους εἶναι",
+      "highlightedWord": "Ἰουδαίους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "ἑαυτοὺς Ἰουδαίους εἶναι,",
+      "highlightedWord": "Ἰουδαίους"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,24 @@
+{
+  "strong": "G2403",
+  "lemma": "Ἰεζάβελ",
+  "lemmaTranslit": "Iezabel",
+  "tokenCount": 1,
+  "verseCount": 1,
+  "bookDistribution": {
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "γυναῖκα Ἰεζάβελ, ἡ",
+      "highlightedWord": "Ἰεζάβελ,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

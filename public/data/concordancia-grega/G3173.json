@@ -1,0 +1,1856 @@
+{
+  "strong": "G3173",
+  "lemma": "μέγας",
+  "lemmaTranslit": "megas",
+  "tokenCount": 240,
+  "verseCount": 228,
+  "bookDistribution": {
+    "Mateus": 30,
+    "Marcos": 18,
+    "Lucas": 33,
+    "João": 18,
+    "Atos": 31,
+    "Romanos": 2,
+    "1 Coríntios": 5,
+    "2 Coríntios": 1,
+    "Efésios": 1,
+    "1 Timóteo": 2,
+    "2 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 10,
+    "Tiago": 3,
+    "1 João": 3,
+    "Judas": 1,
+    "Apocalipse": 80
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mt 2:10",
+      "text": "χαρὰν μεγάλην σφόδρα.",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Mt 4:16",
+      "text": "εἶδεν μέγα, καὶ",
+      "highlightedWord": "μέγα,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "οὗτος μέγας κληθήσεται",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Mt 5:35",
+      "text": "τοῦ μεγάλου βασιλέως·",
+      "highlightedWord": "μεγάλου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Mt 7:27",
+      "text": "αὐτῆς μεγάλη.",
+      "highlightedWord": "μεγάλη."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Mt 8:24",
+      "text": "σεισμὸς μέγας ἐγένετο",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Mt 8:26",
+      "text": "γαλήνη μεγάλη.",
+      "highlightedWord": "μεγάλη."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Mt 11:11",
+      "text": "γυναικῶν μείζων Ἰωάννου",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Mt 12:6",
+      "text": "ἱεροῦ μεῖζόν ἐστιν",
+      "highlightedWord": "μεῖζόν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mt 13:32",
+      "text": "αὐξηθῇ μεῖζον τῶν",
+      "highlightedWord": "μεῖζον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Mt 15:28",
+      "text": "γύναι, μεγάλη σου",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Mt 18:1",
+      "text": "ἄρα μείζων ἐστὶν",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Mt 18:4",
+      "text": "ὁ μείζων ἐν",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Mt 20:25",
+      "text": "οἱ μεγάλοι κατεξουσιάζουσιν",
+      "highlightedWord": "μεγάλοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Mt 20:26",
+      "text": "ὑμῖν μέγας γενέσθαι",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Mt 20:31",
+      "text": "δὲ μεῖζον ἔκραξαν",
+      "highlightedWord": "μεῖζον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 36,
+      "reference": "Mt 22:36",
+      "text": "ἐντολὴ μεγάλη ἐν",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 38,
+      "reference": "Mt 22:38",
+      "text": "ἡ μεγάλη καὶ",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 11,
+      "reference": "Mt 23:11",
+      "text": "δὲ μείζων ὑμῶν",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 17,
+      "reference": "Mt 23:17",
+      "text": "γὰρ μείζων ἐστίν,",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Mt 23:19",
+      "text": "γὰρ μεῖζον, τὸ",
+      "highlightedWord": "μεῖζον,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Mt 24:21",
+      "text": "θλῖψις μεγάλη οἵα",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Mt 24:24",
+      "text": "σημεῖα μεγάλα καὶ",
+      "highlightedWord": "μεγάλα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 31,
+      "reference": "Mt 24:31",
+      "text": "σάλπιγγος μεγάλης, καὶ",
+      "highlightedWord": "μεγάλης,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 46,
+      "reference": "Mt 27:46",
+      "text": "φωνῇ μεγάλῃ λέγων·",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 50,
+      "reference": "Mt 27:50",
+      "text": "φωνῇ μεγάλῃ ἀφῆκεν",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 60,
+      "reference": "Mt 27:60",
+      "text": "λίθον μέγαν τῇ",
+      "highlightedWord": "μέγαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 2,
+      "reference": "Mt 28:2",
+      "text": "ἐγένετο μέγας· ἄγγελος",
+      "highlightedWord": "μέγας·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 8,
+      "reference": "Mt 28:8",
+      "text": "χαρᾶς μεγάλης ἔδραμον",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Mk 1:26",
+      "text": "φωνῇ μεγάλῃ ἐξῆλθεν",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Mk 4:32",
+      "text": "γίνεται μεῖζον πάντων",
+      "highlightedWord": "μεῖζον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Mk 4:37",
+      "text": "λαῖλαψ μεγάλη ἀνέμου,",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 39,
+      "reference": "Mk 4:39",
+      "text": "γαλήνη μεγάλη.",
+      "highlightedWord": "μεγάλη."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Mk 4:41",
+      "text": "φόβον μέγαν, καὶ",
+      "highlightedWord": "μέγαν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Mk 5:7",
+      "text": "φωνῇ μεγάλῃ λέγει·",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Mk 5:11",
+      "text": "χοίρων μεγάλη βοσκομένη·",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Mk 5:42",
+      "text": "ἐκστάσει μεγάλῃ.",
+      "highlightedWord": "μεγάλῃ."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Mk 9:34",
+      "text": "τίς μείζων.",
+      "highlightedWord": "μείζων."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mk 10:42",
+      "text": "οἱ μεγάλοι αὐτῶν",
+      "highlightedWord": "μεγάλοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 43,
+      "reference": "Mk 10:43",
+      "text": "θέλῃ μέγας γενέσθαι",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Mk 12:31",
+      "text": "σεαυτόν. μείζων τούτων",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mk 13:2",
+      "text": "τὰς μεγάλας οἰκοδομάς;",
+      "highlightedWord": "μεγάλας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Mk 14:15",
+      "text": "ἀνάγαιον μέγα ἐστρωμένον",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "Mk 15:34",
+      "text": "φωνῇ μεγάλῃ· Ἐλωῒ",
+      "highlightedWord": "μεγάλῃ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "Mk 15:37",
+      "text": "φωνὴν μεγάλην ἐξέπνευσεν.",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Mk 16:4",
+      "text": "γὰρ μέγας σφόδρα.",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Lk 1:15",
+      "text": "γὰρ μέγας ἐνώπιον",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Lk 1:32",
+      "text": "ἔσται μέγας καὶ",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 42,
+      "reference": "Lk 1:42",
+      "text": "κραυγῇ μεγάλῃ καὶ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 49,
+      "reference": "Lk 1:49",
+      "text": "μοι μεγάλα ὁ",
+      "highlightedWord": "μεγάλα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Lk 2:9",
+      "text": "φόβον μέγαν·",
+      "highlightedWord": "μέγαν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Lk 2:10",
+      "text": "χαρὰν μεγάλην ἥτις",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Lk 4:25",
+      "text": "λιμὸς μέγας ἐπὶ",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Lk 4:33",
+      "text": "φωνῇ μεγάλῃ·",
+      "highlightedWord": "μεγάλῃ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 38,
+      "reference": "Lk 4:38",
+      "text": "πυρετῷ μεγάλῳ, καὶ",
+      "highlightedWord": "μεγάλῳ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Lk 5:29",
+      "text": "δοχὴν μεγάλην Λευὶς",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Lk 6:49",
+      "text": "ἐκείνης μέγα.",
+      "highlightedWord": "μέγα."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Lk 7:16",
+      "text": "Προφήτης μέγας ἠγέρθη",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Lk 7:28",
+      "text": "ὑμῖν, μείζων ἐν",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Lk 8:28",
+      "text": "φωνῇ μεγάλῃ εἶπεν·",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Lk 8:37",
+      "text": "φόβῳ μεγάλῳ συνείχοντο·",
+      "highlightedWord": "μεγάλῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 46,
+      "reference": "Lk 9:46",
+      "text": "εἴη μείζων αὐτῶν.",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 48,
+      "reference": "Lk 9:48",
+      "text": "ἐστιν μέγας.",
+      "highlightedWord": "μέγας."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Lk 12:18",
+      "text": "καὶ μείζονας οἰκοδομήσω,",
+      "highlightedWord": "μείζονας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Lk 14:16",
+      "text": "δεῖπνον μέγα, καὶ",
+      "highlightedWord": "μέγα,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Lk 16:26",
+      "text": "χάσμα μέγα ἐστήρικται,",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Lk 17:15",
+      "text": "φωνῆς μεγάλης δοξάζων",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 37,
+      "reference": "Lk 19:37",
+      "text": "φωνῇ μεγάλῃ περὶ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Lk 21:11",
+      "text": "τε μεγάλοι καὶ",
+      "highlightedWord": "μεγάλοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Lk 21:23",
+      "text": "ἀνάγκη μεγάλη ἐπὶ",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Lk 22:12",
+      "text": "ἀνάγαιον μέγα ἐστρωμένον·",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Lk 22:24",
+      "text": "εἶναι μείζων.",
+      "highlightedWord": "μείζων."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 26,
+      "reference": "Lk 22:26",
+      "text": "ὁ μείζων ἐν",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 27,
+      "reference": "Lk 22:27",
+      "text": "γὰρ μείζων, ὁ",
+      "highlightedWord": "μείζων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Lk 23:23",
+      "text": "φωναῖς μεγάλαις αἰτούμενοι",
+      "highlightedWord": "μεγάλαις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 46,
+      "reference": "Lk 23:46",
+      "text": "φωνῇ μεγάλῃ ὁ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 52,
+      "reference": "Lk 24:52",
+      "text": "χαρᾶς μεγάλης,",
+      "highlightedWord": "μεγάλης,"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 50,
+      "reference": "Jn 1:50",
+      "text": "πιστεύεις; μείζω τούτων",
+      "highlightedWord": "μείζω"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Jn 4:12",
+      "text": "σὺ μείζων εἶ",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Jn 5:20",
+      "text": "καὶ μείζονα τούτων",
+      "highlightedWord": "μείζονα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Jn 5:36",
+      "text": "μαρτυρίαν μείζω τοῦ",
+      "highlightedWord": "μείζω"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Jn 6:18",
+      "text": "ἀνέμου μεγάλου πνέοντος",
+      "highlightedWord": "μεγάλου"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Jn 7:37",
+      "text": "τῇ μεγάλῃ τῆς",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 53,
+      "reference": "Jn 8:53",
+      "text": "σὺ μείζων εἶ",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Jn 10:29",
+      "text": "πάντων μεῖζων ἐστίν,",
+      "highlightedWord": "μεῖζων"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 43,
+      "reference": "Jn 11:43",
+      "text": "φωνῇ μεγάλῃ ἐκραύγασεν·",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Jn 13:16",
+      "text": "δοῦλος μείζων τοῦ",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Jn 14:12",
+      "text": "καὶ μείζονα τούτων",
+      "highlightedWord": "μείζονα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Jn 14:28",
+      "text": "πατὴρ μείζων μού",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Jn 15:13",
+      "text": "μείζονα ταύτης",
+      "highlightedWord": "μείζονα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Jn 15:20",
+      "text": "δοῦλος μείζων τοῦ",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Jn 19:11",
+      "text": "σοι μείζονα ἁμαρτίαν",
+      "highlightedWord": "μείζονα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Jn 19:31",
+      "text": "γὰρ μεγάλη ἡ",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Jn 21:11",
+      "text": "ἰχθύων μεγάλων ἑκατὸν",
+      "highlightedWord": "μεγάλων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Ac 2:20",
+      "text": "τὴν μεγάλην καὶ",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Ac 4:33",
+      "text": "δυνάμει μεγάλῃ ἀπεδίδουν",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Ac 5:5",
+      "text": "φόβος μέγας ἐπὶ",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Ac 5:11",
+      "text": "φόβος μέγας ἐφ’",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Ac 6:8",
+      "text": "σημεῖα μεγάλα ἐν",
+      "highlightedWord": "μεγάλα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Ac 7:11",
+      "text": "θλῖψις μεγάλη, καὶ",
+      "highlightedWord": "μεγάλη,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 57,
+      "reference": "Ac 7:57",
+      "text": "φωνῇ μεγάλῃ συνέσχον",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 60,
+      "reference": "Ac 7:60",
+      "text": "φωνῇ μεγάλῃ· Κύριε,",
+      "highlightedWord": "μεγάλῃ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Ac 8:1",
+      "text": "διωγμὸς μέγας ἐπὶ",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Ac 8:2",
+      "text": "κοπετὸν μέγαν ἐπ’",
+      "highlightedWord": "μέγαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Ac 8:7",
+      "text": "φωνῇ μεγάλῃ ἐξήρχοντο,",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ac 8:9",
+      "text": "ἑαυτὸν μέγαν,",
+      "highlightedWord": "μέγαν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Ac 8:10",
+      "text": "ἕως μεγάλου λέγοντες·",
+      "highlightedWord": "μεγάλου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Ac 8:13",
+      "text": "δυνάμεις μεγάλας γινομένας",
+      "highlightedWord": "μεγάλας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Ac 10:11",
+      "text": "ὀθόνην μεγάλην τέσσαρσιν",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ac 11:5",
+      "text": "ὀθόνην μεγάλην τέσσαρσιν",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Ac 11:28",
+      "text": "λιμὸν μεγάλην μέλλειν",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Ac 14:10",
+      "text": "εἶπεν μεγάλῃ φωνῇ·",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Ac 15:3",
+      "text": "χαρὰν μεγάλην πᾶσι",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Ac 16:26",
+      "text": "ἐγένετο μέγας ὥστε",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Ac 16:28",
+      "text": "φωνῇ μεγάλῃ ὁ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Ac 19:27",
+      "text": "τῆς μεγάλης θεᾶς",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Ac 19:28",
+      "text": "λέγοντες· Μεγάλη ἡ",
+      "highlightedWord": "Μεγάλη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Ac 19:34",
+      "text": "κραζόντων· Μεγάλη ἡ",
+      "highlightedWord": "Μεγάλη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Ac 19:35",
+      "text": "τῆς μεγάλης Ἀρτέμιδος",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "κραυγὴ μεγάλη, καὶ",
+      "highlightedWord": "μεγάλη,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "καὶ μεγάλῳ, οὐδὲν",
+      "highlightedWord": "μεγάλῳ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 24,
+      "reference": "Ac 26:24",
+      "text": "Φῆστος μεγάλῃ τῇ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 29,
+      "reference": "Ac 26:29",
+      "text": "ἐν μεγάλῳ οὐ",
+      "highlightedWord": "μεγάλῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ro 9:2",
+      "text": "ἐστιν μεγάλη καὶ",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Ro 9:12",
+      "text": "Ὁ μείζων δουλεύσει",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "1Co 9:11",
+      "text": "ἐσπείραμεν, μέγα εἰ",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "1Co 12:31",
+      "text": "τὰ μείζονα. καὶ",
+      "highlightedWord": "μείζονα."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "1Co 13:13",
+      "text": "ταῦτα, μείζων δὲ",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "1Co 14:5",
+      "text": "προφητεύητε· μείζων δὲ",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "1Co 16:9",
+      "text": "ἀνέῳγεν μεγάλη καὶ",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "2Co 11:15",
+      "text": "οὐ μέγα οὖν",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "Eph 5:32",
+      "text": "τοῦτο μέγα ἐστίν,",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Ti 3:16",
+      "text": "ὁμολογουμένως μέγα ἐστὶν",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "1Ti 6:6",
+      "text": "πορισμὸς μέγας ἡ",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Ti 2:20",
+      "text": "Ἐν μεγάλῃ δὲ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Tit 2:13",
+      "text": "τοῦ μεγάλου θεοῦ",
+      "highlightedWord": "μεγάλου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Heb 4:14",
+      "text": "ἀρχιερέα μέγαν διεληλυθότα",
+      "highlightedWord": "μέγαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Heb 6:13",
+      "text": "εἶχεν μείζονος ὀμόσαι,",
+      "highlightedWord": "μείζονος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Heb 6:16",
+      "text": "τοῦ μείζονος ὀμνύουσιν,",
+      "highlightedWord": "μείζονος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Heb 8:11",
+      "text": "ἕως μεγάλου αὐτῶν.",
+      "highlightedWord": "μεγάλου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Heb 9:11",
+      "text": "τῆς μείζονος καὶ",
+      "highlightedWord": "μείζονος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Heb 10:21",
+      "text": "ἱερέα μέγαν ἐπὶ",
+      "highlightedWord": "μέγαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Heb 10:35",
+      "text": "ἔχει μεγάλην μισθαποδοσίαν,",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Heb 11:24",
+      "text": "Μωϋσῆς μέγας γενόμενος",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Heb 11:26",
+      "text": "μείζονα πλοῦτον",
+      "highlightedWord": "μείζονα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Heb 13:20",
+      "text": "τὸν μέγαν ἐν",
+      "highlightedWord": "μέγαν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Jas 3:1",
+      "text": "ὅτι μεῖζον κρίμα",
+      "highlightedWord": "μεῖζον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Jas 3:5",
+      "text": "καὶ μεγάλα αὐχεῖ.",
+      "highlightedWord": "μεγάλα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Jas 4:6",
+      "text": "μείζονα δὲ",
+      "highlightedWord": "μείζονα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "1Jn 3:20",
+      "text": "ὅτι μείζων ἐστὶν",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Jn 4:4",
+      "text": "ὅτι μείζων ἐστὶν",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Jn 5:9",
+      "text": "θεοῦ μείζων ἐστίν,",
+      "highlightedWord": "μείζων"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jud 1:6",
+      "text": "κρίσιν μεγάλης ἡμέρας",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Re 1:10",
+      "text": "φωνὴν μεγάλην ὡς",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Re 2:22",
+      "text": "θλῖψιν μεγάλην, ἐὰν",
+      "highlightedWord": "μεγάλην,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Re 5:2",
+      "text": "φωνῇ μεγάλῃ· Τίς",
+      "highlightedWord": "μεγάλῃ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Re 5:12",
+      "text": "φωνῇ μεγάλῃ· Ἄξιόν",
+      "highlightedWord": "μεγάλῃ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Re 6:4",
+      "text": "μάχαιρα μεγάλη.",
+      "highlightedWord": "μεγάλη."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Re 6:10",
+      "text": "φωνῇ μεγάλῃ λέγοντες·",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Re 6:12",
+      "text": "σεισμὸς μέγας ἐγένετο,",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Re 6:13",
+      "text": "ἀνέμου μεγάλου σειομένη,",
+      "highlightedWord": "μεγάλου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Re 6:17",
+      "text": "ἡ μεγάλη τῆς",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "φωνῇ μεγάλῃ τοῖς",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Re 7:10",
+      "text": "φωνῇ μεγάλῃ λέγοντες·",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Re 7:14",
+      "text": "τῆς μεγάλης, καὶ",
+      "highlightedWord": "μεγάλης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Re 8:8",
+      "text": "ὄρος μέγα πυρὶ",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Re 8:10",
+      "text": "ἀστὴρ μέγας καιόμενος",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "φωνῇ μεγάλῃ· Οὐαὶ",
+      "highlightedWord": "μεγάλῃ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Re 9:2",
+      "text": "καμίνου μεγάλης, καὶ",
+      "highlightedWord": "μεγάλης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Re 9:14",
+      "text": "τῷ μεγάλῳ Εὐφράτῃ.",
+      "highlightedWord": "μεγάλῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Re 10:3",
+      "text": "φωνῇ μεγάλῃ ὥσπερ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Re 11:8",
+      "text": "τῆς μεγάλης, ἥτις",
+      "highlightedWord": "μεγάλης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Re 11:11",
+      "text": "φόβος μέγας ἐπέπεσεν",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Re 11:12",
+      "text": "φωνῆς μεγάλης ἐκ",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "σεισμὸς μέγας, καὶ",
+      "highlightedWord": "μέγας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Re 11:15",
+      "text": "φωναὶ μεγάλαι ἐν",
+      "highlightedWord": "μεγάλαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Re 11:17",
+      "text": "τὴν μεγάλην καὶ",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Re 11:18",
+      "text": "τοὺς μεγάλους, καὶ",
+      "highlightedWord": "μεγάλους,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Re 11:19",
+      "text": "χάλαζα μεγάλη.",
+      "highlightedWord": "μεγάλη."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Re 12:1",
+      "text": "σημεῖον μέγα ὤφθη",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Re 12:3",
+      "text": "δράκων μέγας πυρρός,",
+      "highlightedWord": "μέγας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "ὁ μέγας, ὁ",
+      "highlightedWord": "μέγας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Re 12:10",
+      "text": "φωνὴν μεγάλην ἐν",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Re 12:12",
+      "text": "θυμὸν μέγαν, εἰδὼς",
+      "highlightedWord": "μέγαν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "τοῦ μεγάλου, ἵνα",
+      "highlightedWord": "μεγάλου,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Re 13:2",
+      "text": "ἐξουσίαν μεγάλην.",
+      "highlightedWord": "μεγάλην."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Re 13:5",
+      "text": "λαλοῦν μεγάλα καὶ",
+      "highlightedWord": "μεγάλα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Re 13:13",
+      "text": "σημεῖα μεγάλα, ἵνα",
+      "highlightedWord": "μεγάλα,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Re 13:16",
+      "text": "τοὺς μεγάλους, καὶ",
+      "highlightedWord": "μεγάλους,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Re 14:2",
+      "text": "βροντῆς μεγάλης, καὶ",
+      "highlightedWord": "μεγάλης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Re 14:7",
+      "text": "φωνῇ μεγάλῃ· Φοβήθητε",
+      "highlightedWord": "μεγάλῃ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Re 14:8",
+      "text": "ἡ μεγάλη, ἣ",
+      "highlightedWord": "μεγάλη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "φωνῇ μεγάλῃ· Εἴ",
+      "highlightedWord": "μεγάλῃ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Re 14:15",
+      "text": "φωνῇ μεγάλῃ τῷ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Re 14:18",
+      "text": "φωνῇ μεγάλῃ τῷ",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Re 14:19",
+      "text": "τὸν μέγαν.",
+      "highlightedWord": "μέγαν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Re 15:1",
+      "text": "οὐρανῷ μέγα καὶ",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Re 15:3",
+      "text": "λέγοντες· Μεγάλα καὶ",
+      "highlightedWord": "Μεγάλα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Re 16:1",
+      "text": "ἤκουσα μεγάλης φωνῆς",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Re 16:9",
+      "text": "καῦμα μέγα· καὶ",
+      "highlightedWord": "μέγα·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Re 16:12",
+      "text": "τὸν μέγαν τὸν",
+      "highlightedWord": "μέγαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Re 16:14",
+      "text": "τῆς μεγάλης τοῦ",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Re 16:17",
+      "text": "φωνὴ μεγάλη ἐκ",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Re 16:18",
+      "text": "ἐγένετο μέγας, οἷος",
+      "highlightedWord": "μέγας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Re 16:19",
+      "text": "ἡ μεγάλη εἰς",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Re 16:21",
+      "text": "χάλαζα μεγάλη ὡς",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Re 17:1",
+      "text": "τῆς μεγάλης τῆς",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Re 17:5",
+      "text": "ἡ μεγάλη, ἡ",
+      "highlightedWord": "μεγάλη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Re 17:6",
+      "text": "θαῦμα μέγα·",
+      "highlightedWord": "μέγα·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Re 17:18",
+      "text": "ἡ μεγάλη ἡ",
+      "highlightedWord": "μεγάλη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Re 18:1",
+      "text": "ἐξουσίαν μεγάλην, καὶ",
+      "highlightedWord": "μεγάλην,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Re 18:2",
+      "text": "ἡ μεγάλη, καὶ",
+      "highlightedWord": "μεγάλη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Re 18:10",
+      "text": "ἡ μεγάλη, Βαβυλὼν",
+      "highlightedWord": "μεγάλη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Re 18:16",
+      "text": "ἡ μεγάλη, ἡ",
+      "highlightedWord": "μεγάλη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Re 18:18",
+      "text": "τῇ μεγάλῃ;",
+      "highlightedWord": "μεγάλῃ;"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "ἡ μεγάλη, ἐν",
+      "highlightedWord": "μεγάλη,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "μύλινον μέγαν, καὶ",
+      "highlightedWord": "μέγαν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Re 19:1",
+      "text": "φωνὴν μεγάλην ὄχλου",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Re 19:2",
+      "text": "τὴν μεγάλην ἥτις",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Re 19:5",
+      "text": "οἱ μεγάλοι.",
+      "highlightedWord": "μεγάλοι."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Re 19:17",
+      "text": "φωνῇ μεγάλῃ λέγων",
+      "highlightedWord": "μεγάλῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Re 19:18",
+      "text": "καὶ μεγάλων.",
+      "highlightedWord": "μεγάλων."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Re 20:1",
+      "text": "ἅλυσιν μεγάλην ἐπὶ",
+      "highlightedWord": "μεγάλην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Re 20:11",
+      "text": "θρόνον μέγαν λευκὸν",
+      "highlightedWord": "μέγαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Re 20:12",
+      "text": "τοὺς μεγάλους καὶ",
+      "highlightedWord": "μεγάλους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Re 21:3",
+      "text": "φωνῆς μεγάλης ἐκ",
+      "highlightedWord": "μεγάλης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Re 21:10",
+      "text": "ὄρος μέγα καὶ",
+      "highlightedWord": "μέγα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Re 21:12",
+      "text": "τεῖχος μέγα καὶ",
+      "highlightedWord": "μέγα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

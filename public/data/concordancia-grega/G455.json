@@ -1,0 +1,625 @@
+{
+  "strong": "G455",
+  "lemma": "ἀνοίγω",
+  "lemmaTranslit": "anoigō",
+  "tokenCount": 77,
+  "verseCount": 75,
+  "bookDistribution": {
+    "Mateus": 11,
+    "Marcos": 1,
+    "Lucas": 6,
+    "João": 11,
+    "Atos": 16,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "2 Coríntios": 2,
+    "Colossenses": 1,
+    "Apocalipse": 27
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Mt 2:11",
+      "text": "καὶ ἀνοίξαντες τοὺς",
+      "highlightedWord": "ἀνοίξαντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Mt 3:16",
+      "text": "ἰδοὺ ἠνεῴχθησαν οἱ",
+      "highlightedWord": "ἠνεῴχθησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Mt 5:2",
+      "text": "καὶ ἀνοίξας τὸ",
+      "highlightedWord": "ἀνοίξας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Mt 7:7",
+      "text": "καὶ ἀνοιγήσεται ὑμῖν.",
+      "highlightedWord": "ἀνοιγήσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Mt 7:8",
+      "text": "κρούοντι ἀνοιγήσεται.",
+      "highlightedWord": "ἀνοιγήσεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Mt 9:30",
+      "text": "καὶ ἠνεῴχθησαν αὐτῶν",
+      "highlightedWord": "ἠνεῴχθησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Mt 13:35",
+      "text": "λέγοντος· Ἀνοίξω ἐν",
+      "highlightedWord": "Ἀνοίξω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "καὶ ἀνοίξας τὸ",
+      "highlightedWord": "ἀνοίξας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 33,
+      "reference": "Mt 20:33",
+      "text": "ἵνα ἀνοιγῶσιν οἱ",
+      "highlightedWord": "ἀνοιγῶσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Mt 25:11",
+      "text": "κύριε, ἄνοιξον ἡμῖν·",
+      "highlightedWord": "ἄνοιξον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 52,
+      "reference": "Mt 27:52",
+      "text": "μνημεῖα ἀνεῴχθησαν καὶ",
+      "highlightedWord": "ἀνεῴχθησαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Mk 7:35",
+      "text": "καὶ ἠνοίγησαν αὐτοῦ",
+      "highlightedWord": "ἠνοίγησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 64,
+      "reference": "Lk 1:64",
+      "text": "ἀνεῴχθη δὲ",
+      "highlightedWord": "ἀνεῴχθη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Lk 3:21",
+      "text": "προσευχομένου ἀνεῳχθῆναι τὸν",
+      "highlightedWord": "ἀνεῳχθῆναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Lk 11:9",
+      "text": "καὶ ἀνοιγήσεται ὑμῖν·",
+      "highlightedWord": "ἀνοιγήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Lk 11:10",
+      "text": "κρούοντι ἀνοιγήσεται.",
+      "highlightedWord": "ἀνοιγήσεται."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Lk 12:36",
+      "text": "εὐθέως ἀνοίξωσιν αὐτῷ.",
+      "highlightedWord": "ἀνοίξωσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Lk 13:25",
+      "text": "Κύριε, ἄνοιξον ἡμῖν·",
+      "highlightedWord": "ἄνοιξον"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 51,
+      "reference": "Jn 1:51",
+      "text": "οὐρανὸν ἀνεῳγότα καὶ",
+      "highlightedWord": "ἀνεῳγότα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Jn 9:10",
+      "text": "Πῶς ἠνεῴχθησάν σου",
+      "highlightedWord": "ἠνεῴχθησάν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Jn 9:14",
+      "text": "καὶ ἀνέῳξεν αὐτοῦ",
+      "highlightedWord": "ἀνέῳξεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Jn 9:17",
+      "text": "ὅτι ἠνέῳξέν σου",
+      "highlightedWord": "ἠνέῳξέν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Jn 9:21",
+      "text": "τίς ἤνοιξεν αὐτοῦ",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Jn 9:26",
+      "text": "πῶς ἤνοιξέν σου",
+      "highlightedWord": "ἤνοιξέν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Jn 9:30",
+      "text": "καὶ ἤνοιξέν μου",
+      "highlightedWord": "ἤνοιξέν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Jn 9:32",
+      "text": "ὅτι ἠνέῳξέν τις",
+      "highlightedWord": "ἠνέῳξέν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Jn 10:3",
+      "text": "θυρωρὸς ἀνοίγει, καὶ",
+      "highlightedWord": "ἀνοίγει,"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Jn 10:21",
+      "text": "ὀφθαλμοὺς ἀνοῖξαι;",
+      "highlightedWord": "ἀνοῖξαι;"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Jn 11:37",
+      "text": "ὁ ἀνοίξας τοὺς",
+      "highlightedWord": "ἀνοίξας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ac 5:19",
+      "text": "νυκτὸς ἤνοιξε τὰς",
+      "highlightedWord": "ἤνοιξε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Ac 5:23",
+      "text": "θυρῶν, ἀνοίξαντες δὲ",
+      "highlightedWord": "ἀνοίξαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Ac 8:32",
+      "text": "οὐκ ἀνοίγει τὸ",
+      "highlightedWord": "ἀνοίγει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Ac 8:35",
+      "text": "ἀνοίξας δὲ",
+      "highlightedWord": "ἀνοίξας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Ac 9:8",
+      "text": "γῆς, ἀνεῳγμένων δὲ",
+      "highlightedWord": "ἀνεῳγμένων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Ac 9:40",
+      "text": "δὲ ἤνοιξεν τοὺς",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Ac 10:11",
+      "text": "οὐρανὸν ἀνεῳγμένον καὶ",
+      "highlightedWord": "ἀνεῳγμένον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Ac 10:34",
+      "text": "Ἀνοίξας δὲ",
+      "highlightedWord": "Ἀνοίξας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "αὐτομάτη ἠνοίγη αὐτοῖς,",
+      "highlightedWord": "ἠνοίγη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Ac 12:14",
+      "text": "οὐκ ἤνοιξεν τὸν",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Ac 12:16",
+      "text": "κρούων· ἀνοίξαντες δὲ",
+      "highlightedWord": "ἀνοίξαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Ac 14:27",
+      "text": "ὅτι ἤνοιξεν τοῖς",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Ac 16:26",
+      "text": "δεσμωτηρίου, ἠνεῴχθησαν δὲ",
+      "highlightedWord": "ἠνεῴχθησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Ac 16:27",
+      "text": "ἰδὼν ἀνεῳγμένας τὰς",
+      "highlightedWord": "ἀνεῳγμένας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "Παύλου ἀνοίγειν τὸ",
+      "highlightedWord": "ἀνοίγειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 18,
+      "reference": "Ac 26:18",
+      "text": "ἀνοῖξαι ὀφθαλμοὺς",
+      "highlightedWord": "ἀνοῖξαι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Ro 3:13",
+      "text": "τάφος ἀνεῳγμένος ὁ",
+      "highlightedWord": "ἀνεῳγμένος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "1Co 16:9",
+      "text": "μοι ἀνέῳγεν μεγάλη",
+      "highlightedWord": "ἀνέῳγεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Co 2:12",
+      "text": "μοι ἀνεῳγμένης ἐν",
+      "highlightedWord": "ἀνεῳγμένης"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "2Co 6:11",
+      "text": "ἡμῶν ἀνέῳγεν πρὸς",
+      "highlightedWord": "ἀνέῳγεν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Col 4:3",
+      "text": "θεὸς ἀνοίξῃ ἡμῖν",
+      "highlightedWord": "ἀνοίξῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "ὁ ἀνοίγων καὶ",
+      "highlightedWord": "ἀνοίγων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "θύραν ἠνεῳγμένην, ἣν",
+      "highlightedWord": "ἠνεῳγμένην,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "καὶ ἀνοίξῃ τὴν",
+      "highlightedWord": "ἀνοίξῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "θύρα ἠνεῳγμένη ἐν",
+      "highlightedWord": "ἠνεῳγμένη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Re 5:2",
+      "text": "ἄξιος ἀνοῖξαι τὸ",
+      "highlightedWord": "ἀνοῖξαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Re 5:3",
+      "text": "γῆς ἀνοῖξαι τὸ",
+      "highlightedWord": "ἀνοῖξαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Re 5:4",
+      "text": "εὑρέθη ἀνοῖξαι τὸ",
+      "highlightedWord": "ἀνοῖξαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Re 5:5",
+      "text": "Δαυίδ, ἀνοῖξαι τὸ",
+      "highlightedWord": "ἀνοῖξαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Re 5:9",
+      "text": "καὶ ἀνοῖξαι τὰς",
+      "highlightedWord": "ἀνοῖξαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Re 6:1",
+      "text": "ὅτε ἤνοιξεν τὸ",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Re 6:3",
+      "text": "ὅτε ἤνοιξεν τὴν",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Re 6:5",
+      "text": "ὅτε ἤνοιξε τὴν",
+      "highlightedWord": "ἤνοιξε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Re 6:7",
+      "text": "ὅτε ἤνοιξεν τὴν",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Re 6:9",
+      "text": "ὅτε ἤνοιξεν τὴν",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Re 6:12",
+      "text": "ὅτε ἤνοιξεν τὴν",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Re 8:1",
+      "text": "ὅταν ἤνοιξεν τὴν",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Re 9:2",
+      "text": "καὶ ἤνοιξεν τὸ",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Re 10:2",
+      "text": "βιβλαρίδιον ἠνεῳγμένον. καὶ",
+      "highlightedWord": "ἠνεῳγμένον."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Re 10:8",
+      "text": "τὸ ἠνεῳγμένον ἐν",
+      "highlightedWord": "ἠνεῳγμένον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Re 11:19",
+      "text": "Καὶ ἠνοίγη ὁ",
+      "highlightedWord": "ἠνοίγη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Re 12:16",
+      "text": "καὶ ἤνοιξεν ἡ",
+      "highlightedWord": "ἤνοιξεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Re 13:6",
+      "text": "καὶ ἤνοιξε τὸ",
+      "highlightedWord": "ἤνοιξε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Re 15:5",
+      "text": "καὶ ἠνοίγη ὁ",
+      "highlightedWord": "ἠνοίγη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Re 19:11",
+      "text": "οὐρανὸν ἠνεῳγμένον, καὶ",
+      "highlightedWord": "ἠνεῳγμένον,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Re 20:12",
+      "text": "βιβλία ἠνοίχθησαν· καὶ",
+      "highlightedWord": "ἠνοίχθησαν·"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

@@ -1,0 +1,1184 @@
+{
+  "version": "1.0.0",
+  "scope": "Apocalipse 2:1–12",
+  "source": "SBLGNT / MorphGNT 6.12 aaed91e5 / jtauber Greek lemma mappings",
+  "editorialStatus": "Revisão contextual complementar de exemplos anteriormente genéricos; definição lexical exaustiva e aparato crítico especializado ainda sujeitos a cotejo acadêmico.",
+  "entries": {
+    "G3592": {
+      "strong": "G3592",
+      "lemma": "ὅδε",
+      "lemmaTransliteration": "hode",
+      "partOfSpeech": "Pronome demonstrativo",
+      "senses": [
+        {
+          "id": "G3592-1",
+          "label": "isto",
+          "definition": "O demonstrativo neutro plural Τάδε introduz solenemente o oráculo: «estas coisas diz». Não é advérbio por classe morfológica.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:1",
+              "greek": "γράψον· Τάδε λέγει",
+              "translation": "isto",
+              "explanation": "O demonstrativo neutro plural Τάδε introduz solenemente o oráculo: «estas coisas diz». Não é advérbio por classe morfológica."
+            }
+          ]
+        }
+      ]
+    },
+    "G2902": {
+      "strong": "G2902",
+      "lemma": "κρατέω",
+      "lemmaTransliteration": "krateō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2902-1",
+          "label": "segurar firmemente, manter sob controle",
+          "definition": "κρατέω designa agarrar, segurar com firmeza ou manter sob domínio. Em Ap 2:1, o particípio presente κρατῶν descreve aquele que mantém as estrelas em sua mão direita.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:1",
+              "greek": "ὁ κρατῶν τοὺς",
+              "translation": "segura",
+              "explanation": "Particípio presente ativo; a permanência da ação é relevante à caracterização do locutor."
+            }
+          ]
+        }
+      ]
+    },
+    "G4043": {
+      "strong": "G4043",
+      "lemma": "περιπατέω",
+      "lemmaTransliteration": "peripateō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4043-1",
+          "label": "andar, caminhar continuamente",
+          "definition": "περιπατέω pode denotar caminhada concreta ou conduta. Em Ap 2:1, ὁ περιπατῶν é imagem de presença ativa entre os sete candelabros.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:1",
+              "greek": "ὁ περιπατῶν ἐν",
+              "translation": "anda",
+              "explanation": "A ideia de vigilância decorre da imagem em contexto, não de sentido lexical obrigatório."
+            }
+          ]
+        }
+      ]
+    },
+    "G1492": {
+      "strong": "G1492",
+      "lemma": "οἶδα",
+      "lemmaTransliteration": "oida",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G1492-1",
+          "label": "conheço",
+          "definition": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "Οἶδα τὰ",
+              "translation": "conheço",
+              "explanation": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação."
+            }
+          ]
+        }
+      ]
+    },
+    "G2041": {
+      "strong": "G2041",
+      "lemma": "ἔργον",
+      "lemmaTransliteration": "ergon",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2041-1",
+          "label": "obra",
+          "definition": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "τὰ ἔργα σου,",
+              "translation": "obra",
+              "explanation": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo."
+            }
+          ]
+        }
+      ]
+    },
+    "G2873": {
+      "strong": "G2873",
+      "lemma": "κόπος",
+      "lemmaTransliteration": "kopos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2873-1",
+          "label": "trabalho custoso, fadiga",
+          "definition": "κόπος envolve esforço intenso e trabalho fatigante. O elogio a Éfeso não é apenas por atividade, mas por seu custo e perseverança.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "τὸν κόπον καὶ",
+              "translation": "trabalho fatigante",
+              "explanation": "Não equivale automaticamente a «mérito salvífico»."
+            }
+          ]
+        }
+      ]
+    },
+    "G3754": {
+      "strong": "G3754",
+      "lemma": "ὅτι",
+      "lemmaTransliteration": "hoti",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G3754-1",
+          "label": "que",
+          "definition": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "καὶ ὅτι οὐ",
+              "translation": "que",
+              "explanation": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα."
+            }
+          ]
+        }
+      ]
+    },
+    "G3756": {
+      "strong": "G3756",
+      "lemma": "οὐ",
+      "lemmaTransliteration": "ou",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G3756-1",
+          "label": "não",
+          "definition": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "ὅτι οὐ δύνῃ",
+              "translation": "não",
+              "explanation": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus."
+            }
+          ]
+        }
+      ]
+    },
+    "G1410": {
+      "strong": "G1410",
+      "lemma": "δύναμαι",
+      "lemmaTransliteration": "dynamai",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G1410-1",
+          "label": "podes",
+          "definition": "δύνῃ é forma presente médio/passiva de δύναμαι, verbo de sentido modal; βαστάσαι é seu infinitivo complementar.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "οὐ δύνῃ βαστάσαι",
+              "translation": "podes",
+              "explanation": "δύνῃ é forma presente médio/passiva de δύναμαι, verbo de sentido modal; βαστάσαι é seu infinitivo complementar."
+            }
+          ]
+        }
+      ]
+    },
+    "G941": {
+      "strong": "G941",
+      "lemma": "βαστάζω",
+      "lemmaTransliteration": "bastazō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G941-1",
+          "label": "suportar, carregar, tolerar",
+          "definition": "βαστάζω expressa carregar peso ou suportar/tolerar. Em Ap 2:2, o infinitivo aoristo βαστάσαι completa οὐ δύνῃ.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "δύνῃ βαστάσαι κακούς,",
+              "translation": "suportar",
+              "explanation": "Distinguir o infinitivo de sua função após δύναμαι."
+            }
+          ]
+        }
+      ]
+    },
+    "G2556": {
+      "strong": "G2556",
+      "lemma": "κακός",
+      "lemmaTransliteration": "kakos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G2556-1",
+          "label": "mau",
+          "definition": "κακούς, adjetivo acusativo plural substantivado, designa pessoas qualificadas como más; não qualifica diretamente as obras.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "βαστάσαι κακούς, καὶ",
+              "translation": "mau",
+              "explanation": "κακούς, adjetivo acusativo plural substantivado, designa pessoas qualificadas como más; não qualifica diretamente as obras."
+            }
+          ]
+        }
+      ]
+    },
+    "G3985": {
+      "strong": "G3985",
+      "lemma": "πειράζω",
+      "lemmaTransliteration": "peirazō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3985-1",
+          "label": "puseste à prova",
+          "definition": "ἐπείρασας é aoristo ativo indicativo: submeteste a exame os que reivindicavam ser apóstolos, não tentaste induzi-los ao mal.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "καὶ ἐπείρασας τοὺς",
+              "translation": "puseste à prova",
+              "explanation": "ἐπείρασας é aoristo ativo indicativo: submeteste a exame os que reivindicavam ser apóstolos, não tentaste induzi-los ao mal."
+            }
+          ]
+        }
+      ]
+    },
+    "G1438": {
+      "strong": "G1438",
+      "lemma": "ἑαυτοῦ",
+      "lemmaTransliteration": "heautou",
+      "partOfSpeech": "Pronome pessoal",
+      "senses": [
+        {
+          "id": "G1438-1",
+          "label": "si mesmo",
+          "definition": "ἑαυτούς é reflexivo acusativo plural correferente ao sujeito de λέγοντας: eles se apresentam a si mesmos como apóstolos.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "λέγοντας ἑαυτοὺς ἀποστόλους,",
+              "translation": "si mesmo",
+              "explanation": "ἑαυτούς é reflexivo acusativo plural correferente ao sujeito de λέγοντας: eles se apresentam a si mesmos como apóstolos."
+            }
+          ]
+        }
+      ]
+    },
+    "G652": {
+      "strong": "G652",
+      "lemma": "ἀπόστολος",
+      "lemmaTransliteration": "apostolos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G652-1",
+          "label": "apóstolo",
+          "definition": "ἀποστόλους ocorre como predicativo acusativo de ἑαυτούς; o texto examina uma reivindicação de autoridade apostólica.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "ἑαυτοὺς ἀποστόλους, καὶ",
+              "translation": "apóstolo",
+              "explanation": "ἀποστόλους ocorre como predicativo acusativo de ἑαυτούς; o texto examina uma reivindicação de autoridade apostólica."
+            }
+          ]
+        }
+      ]
+    },
+    "G2147": {
+      "strong": "G2147",
+      "lemma": "εὑρίσκω",
+      "lemmaTransliteration": "heuriskō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2147-1",
+          "label": "achaste",
+          "definition": "εὗρες está no aoristo ativo indicativo: o resultado da prova é reconhecer aqueles indivíduos como ψευδεῖς.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "καὶ εὗρες αὐτοὺς",
+              "translation": "achaste",
+              "explanation": "εὗρες está no aoristo ativo indicativo: o resultado da prova é reconhecer aqueles indivíduos como ψευδεῖς."
+            }
+          ]
+        }
+      ]
+    },
+    "G5571": {
+      "strong": "G5571",
+      "lemma": "ψευδής",
+      "lemmaTransliteration": "pseudēs",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G5571-1",
+          "label": "falso, enganoso",
+          "definition": "ψευδής caracteriza o que é falso ou mentiroso. Em 2:2 o acusativo plural ψευδεῖς é predicativo dos pretensos apóstolos submetidos à prova.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:2",
+              "greek": "αὐτοὺς ψευδεῖς·",
+              "translation": "falso",
+              "explanation": "A falsidade é atribuída aos indivíduos examinados, não a toda reivindicação de apostolado."
+            }
+          ]
+        }
+      ]
+    },
+    "G3686": {
+      "strong": "G3686",
+      "lemma": "ὄνομα",
+      "lemmaTransliteration": "onoma",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3686-1",
+          "label": "nome",
+          "definition": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:3",
+              "greek": "τὸ ὄνομά μου,",
+              "translation": "nome",
+              "explanation": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου."
+            }
+          ]
+        }
+      ]
+    },
+    "G2872": {
+      "strong": "G2872",
+      "lemma": "κοπιάω",
+      "lemmaTransliteration": "kopiaō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2872-1",
+          "label": "trabalhar até cansar, fatigar-se",
+          "definition": "κοπιάω refere-se a esforço exaustivo. Em 2:3 a forma κεκοπίακες é perfeito ativo indicativo (SBLGNT), negado por οὐ.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:3",
+              "greek": "οὐ κεκοπίακες.",
+              "translation": "cansar-se",
+              "explanation": "O perfeito apresenta relevância do resultado; não confundir com o aoristo alternativo do TR."
+            }
+          ]
+        }
+      ]
+    },
+    "G235": {
+      "strong": "G235",
+      "lemma": "ἀλλά",
+      "lemmaTransliteration": "alla",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G235-1",
+          "label": "mas",
+          "definition": "ἀλλά introduz contraste com o elogio antecedente; em Ap 2:4 inicia a censura dirigida à igreja.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:4",
+              "greek": "ἀλλὰ ἔχω",
+              "translation": "mas",
+              "explanation": "ἀλλά introduz contraste com o elogio antecedente; em Ap 2:4 inicia a censura dirigida à igreja."
+            }
+          ]
+        }
+      ]
+    },
+    "G2596": {
+      "strong": "G2596",
+      "lemma": "κατά",
+      "lemmaTransliteration": "kata",
+      "partOfSpeech": "Preposição",
+      "senses": [
+        {
+          "id": "G2596-1",
+          "label": "contra",
+          "definition": "κατά com genitivo em ἔχω κατὰ σοῦ expressa oposição ou queixa «tenho contra ti»; não localidade.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:4",
+              "greek": "ἔχω κατὰ σοῦ",
+              "translation": "contra",
+              "explanation": "κατά com genitivo em ἔχω κατὰ σοῦ expressa oposição ou queixa «tenho contra ti»; não localidade."
+            }
+          ]
+        }
+      ]
+    },
+    "G26": {
+      "strong": "G26",
+      "lemma": "ἀγάπη",
+      "lemmaTransliteration": "agapē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G26-1",
+          "label": "amor",
+          "definition": "ἀγάπη denota amor; τὴν πρώτην especifica o amor anterior abandonado, sem definir sozinho todos os seus objetos.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:4",
+              "greek": "τὴν ἀγάπην σου",
+              "translation": "amor",
+              "explanation": "ἀγάπη denota amor; τὴν πρώτην especifica o amor anterior abandonado, sem definir sozinho todos os seus objetos."
+            }
+          ]
+        }
+      ]
+    },
+    "G863": {
+      "strong": "G863",
+      "lemma": "ἀφίημι",
+      "lemmaTransliteration": "aphiēmi",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G863-1",
+          "label": "deixar, abandonar, permitir, perdoar",
+          "definition": "ἀφίημι pode expressar deixar ir, liberar, abandonar ou perdoar, dependendo da construção. Em 2:4 o aoristo ἀφῆκες indica abandono do primeiro amor.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:4",
+              "greek": "πρώτην ἀφῆκες.",
+              "translation": "abandonaste",
+              "explanation": "Não transportar o sentido «perdoar» para a glosa específica de 2:4."
+            }
+          ]
+        }
+      ]
+    },
+    "G3421": {
+      "strong": "G3421",
+      "lemma": "μνημονεύω",
+      "lemmaTransliteration": "mnēmoneuō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3421-1",
+          "label": "lembrar-se, manter na memória",
+          "definition": "μνημονεύω exige recordar ativamente. Em 2:5 a forma imperativa presente convoca reflexão continuada sobre o ponto de queda.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:5",
+              "greek": "μνημόνευε οὖν",
+              "translation": "lembrar-se",
+              "explanation": "A forma verbal é imperativa; não apenas uma constatação de lembrança."
+            }
+          ]
+        }
+      ]
+    },
+    "G4159": {
+      "strong": "G4159",
+      "lemma": "πόθεν",
+      "lemmaTransliteration": "pothen",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G4159-1",
+          "label": "de onde",
+          "definition": "πόθεν é advérbio interrogativo de origem «de onde»; com πέπτωκας caracteriza figuradamente a condição da qual a igreja caiu.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:5",
+              "greek": "οὖν πόθεν πέπτωκας,",
+              "translation": "de onde",
+              "explanation": "πόθεν é advérbio interrogativo de origem «de onde»; com πέπτωκας caracteriza figuradamente a condição da qual a igreja caiu."
+            }
+          ]
+        }
+      ]
+    },
+    "G3340": {
+      "strong": "G3340",
+      "lemma": "μετανοέω",
+      "lemmaTransliteration": "metanoeō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3340-1",
+          "label": "arrepender-se, mudar de orientação",
+          "definition": "μετανοέω indica reconsideração/mudança de mente e direção. Em 2:5 articula lembrança e prática das primeiras obras.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:5",
+              "greek": "καὶ μετανόησον καὶ",
+              "translation": "arrepende-te",
+              "explanation": "Não reduzir o termo a emoção momentânea ou atribuir-lhe por si uma doutrina completa."
+            }
+          ]
+        }
+      ]
+    },
+    "G1487": {
+      "strong": "G1487",
+      "lemma": "εἰ",
+      "lemmaTransliteration": "ei",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G1487-1",
+          "label": "se",
+          "definition": "εἰ introduz condição; εἰ δὲ μή formula a alternativa negativa «caso contrário». Não equiparar mecanicamente a ἐάν.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:5",
+              "greek": "ποίησον· εἰ δὲ",
+              "translation": "se",
+              "explanation": "εἰ introduz condição; εἰ δὲ μή formula a alternativa negativa «caso contrário». Não equiparar mecanicamente a ἐάν."
+            }
+          ]
+        }
+      ]
+    },
+    "G2795": {
+      "strong": "G2795",
+      "lemma": "κινέω",
+      "lemmaTransliteration": "kineō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2795-1",
+          "label": "removerei",
+          "definition": "κινήσω é futuro ativo de κινέω: moverei/removerei o candelabro de seu lugar; a imagem é julgamento da comunidade.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:5",
+              "greek": "καὶ κινήσω τὴν",
+              "translation": "removerei",
+              "explanation": "κινήσω é futuro ativo de κινέω: moverei/removerei o candelabro de seu lugar; a imagem é julgamento da comunidade."
+            }
+          ]
+        }
+      ]
+    },
+    "G5117": {
+      "strong": "G5117",
+      "lemma": "τόπος",
+      "lemmaTransliteration": "topos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5117-1",
+          "label": "lugar",
+          "definition": "τόπος no genitivo τοῦ τόπου refere-se ao lugar ocupado pelo candelabro, complemento de ἐκ.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:5",
+              "greek": "τοῦ τόπου αὐτῆς,",
+              "translation": "lugar",
+              "explanation": "τόπος no genitivo τοῦ τόπου refere-se ao lugar ocupado pelo candelabro, complemento de ἐκ."
+            }
+          ]
+        }
+      ]
+    },
+    "G1437": {
+      "strong": "G1437",
+      "lemma": "ἐάν",
+      "lemmaTransliteration": "ean",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G1437-1",
+          "label": "se",
+          "definition": "ἐάν introduz oração condicional prospectiva; com μή e subjuntivo μετανοήσῃς: «se não te arrependeres».",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:5",
+              "greek": "αὐτῆς, ἐὰν μὴ",
+              "translation": "se",
+              "explanation": "ἐάν introduz oração condicional prospectiva; com μή e subjuntivo μετανοήσῃς: «se não te arrependeres»."
+            }
+          ]
+        }
+      ]
+    },
+    "G3404": {
+      "strong": "G3404",
+      "lemma": "μισέω",
+      "lemmaTransliteration": "miseō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3404-1",
+          "label": "odiar",
+          "definition": "μισεῖς é presente ativo: a igreja rejeita as práticas dos nicolaítas; objeto expresso é τὰ ἔργα, não as pessoas.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:6",
+              "greek": "ὅτι μισεῖς τὰ",
+              "translation": "odiar",
+              "explanation": "μισεῖς é presente ativo: a igreja rejeita as práticas dos nicolaítas; objeto expresso é τὰ ἔργα, não as pessoas."
+            }
+          ]
+        }
+      ]
+    },
+    "G3531": {
+      "strong": "G3531",
+      "lemma": "Νικολαΐτης",
+      "lemmaTransliteration": "Nikolaitēs",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3531-1",
+          "label": "nicolaíta, integrante dos nicolaítas",
+          "definition": "Νικολαΐτης designa membro do grupo mencionado em Ap 2:6 e 2:15. A derivação nominal é relacionada a Νικόλαος; a origem e identidade histórica não são seguras.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:6",
+              "greek": "τῶν Νικολαϊτῶν, ἃ",
+              "translation": "nicolaíta",
+              "explanation": "A associação com Balaão (2:14–15) não equivale a comprovação etimológica."
+            }
+          ]
+        }
+      ]
+    },
+    "G2504": {
+      "strong": "G2504",
+      "lemma": "κἀγώ",
+      "lemmaTransliteration": "kagō",
+      "partOfSpeech": "Pronome pessoal",
+      "senses": [
+        {
+          "id": "G2504-1",
+          "label": "eu também",
+          "definition": "κἀγώ contrai καὶ ἐγώ («e eu também»), ligando a posição de Cristo à rejeição das obras mencionadas.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:6",
+              "greek": "ἃ κἀγὼ μισῶ.",
+              "translation": "eu também",
+              "explanation": "κἀγώ contrai καὶ ἐγώ («e eu também»), ligando a posição de Cristo à rejeição das obras mencionadas."
+            }
+          ]
+        }
+      ]
+    },
+    "G3775": {
+      "strong": "G3775",
+      "lemma": "οὖς",
+      "lemmaTransliteration": "ous",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3775-1",
+          "label": "ouvido",
+          "definition": "οὖς é acusativo singular de «ouvido» em fórmula idiomática: quem tem ouvido deve ouvir; evitar pluralização automática da forma grega.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:7",
+              "greek": "ἔχων οὖς ἀκουσάτω",
+              "translation": "ouvido",
+              "explanation": "οὖς é acusativo singular de «ouvido» em fórmula idiomática: quem tem ouvido deve ouvir; evitar pluralização automática da forma grega."
+            }
+          ]
+        }
+      ]
+    },
+    "G5101": {
+      "strong": "G5101",
+      "lemma": "τίς",
+      "lemmaTransliteration": "tis",
+      "partOfSpeech": "Pronome interrogativo/indefinido",
+      "senses": [
+        {
+          "id": "G5101-1",
+          "label": "que?",
+          "definition": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:7",
+              "greek": "ἀκουσάτω τί τὸ",
+              "translation": "que?",
+              "explanation": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo."
+            }
+          ]
+        }
+      ]
+    },
+    "G3528": {
+      "strong": "G3528",
+      "lemma": "νικάω",
+      "lemmaTransliteration": "nikaō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3528-1",
+          "label": "vencer, conquistar, prevalecer",
+          "definition": "νικάω descreve vitória ou superação. Nas mensagens às igrejas, o particípio articular substantivado identifica aquele que vence e recebe promessa escatológica.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:7",
+              "greek": "τῷ νικῶντι δώσω",
+              "translation": "vence",
+              "explanation": "Em 2:7, o dativo τῷ νικῶντι é retomado pelo pronome αὐτῷ."
+            }
+          ]
+        }
+      ]
+    },
+    "G2068": {
+      "strong": "G2068",
+      "lemma": "ἐσθίω",
+      "lemmaTransliteration": "esthiō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2068-1",
+          "label": "comer",
+          "definition": "φαγεῖν é infinitivo aoristo ativo de ἐσθίω e complementa δώσω; o alimento prometido provém da árvore da vida.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:7",
+              "greek": "αὐτῷ φαγεῖν ἐκ",
+              "translation": "comer",
+              "explanation": "φαγεῖν é infinitivo aoristo ativo de ἐσθίω e complementa δώσω; o alimento prometido provém da árvore da vida."
+            }
+          ]
+        }
+      ]
+    },
+    "G3586": {
+      "strong": "G3586",
+      "lemma": "ξύλον",
+      "lemmaTransliteration": "xylon",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3586-1",
+          "label": "madeira, árvore, lenho",
+          "definition": "ξύλον pode significar madeira, objeto de madeira ou árvore. Em Ap 2:7 a expressão ξύλον τῆς ζωῆς designa a árvore da vida, retomando o Éden.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:7",
+              "greek": "τοῦ ξύλου τῆς",
+              "translation": "árvore",
+              "explanation": "Não pressupor que o lema sempre signifique árvore, como em outros contextos neotestamentários."
+            }
+          ]
+        }
+      ]
+    },
+    "G2222": {
+      "strong": "G2222",
+      "lemma": "ζωή",
+      "lemmaTransliteration": "zōē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2222-1",
+          "label": "vida",
+          "definition": "ζωή está em genitivo, τῆς ζωῆς, qualificando a árvore; a expressão ecoa o Éden e a promessa escatológica.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:7",
+              "greek": "τῆς ζωῆς, ὅ",
+              "translation": "vida",
+              "explanation": "ζωή está em genitivo, τῆς ζωῆς, qualificando a árvore; a expressão ecoa o Éden e a promessa escatológica."
+            }
+          ]
+        }
+      ]
+    },
+    "G3857": {
+      "strong": "G3857",
+      "lemma": "παράδεισος",
+      "lemmaTransliteration": "paradeisos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3857-1",
+          "label": "jardim, paraíso",
+          "definition": "παράδεισος denota jardim ou paraíso. Em 2:7 integra a promessa escatológica e dialoga com o jardim primordial.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:7",
+              "greek": "τῷ παραδείσῳ τοῦ",
+              "translation": "paraíso",
+              "explanation": "A forma παραδείσῳ está no dativo após ἐν; «paraíso» é tradução contextual."
+            }
+          ]
+        }
+      ]
+    },
+    "G4432": {
+      "strong": "G4432",
+      "lemma": "πτωχεία",
+      "lemmaTransliteration": "ptōcheia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4432-1",
+          "label": "pobreza, privação material",
+          "definition": "πτωχεία nomeia condição de pobreza e carência. Em 2:9 contrasta com πλούσιος εἶ para estabelecer avaliação espiritual diferente das condições materiais.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:9",
+              "greek": "τὴν πτωχείαν, ἀλλὰ",
+              "translation": "pobreza",
+              "explanation": "Não inferir automaticamente uma riqueza monetária prometida à comunidade."
+            }
+          ]
+        }
+      ]
+    },
+    "G4145": {
+      "strong": "G4145",
+      "lemma": "πλούσιος",
+      "lemmaTransliteration": "plousios",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G4145-1",
+          "label": "rico",
+          "definition": "πλούσιος εἶ predica riqueza da comunidade apesar de πτωχεία; riqueza é caracterizada pelo contraste teológico do versículo.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:9",
+              "greek": "ἀλλὰ πλούσιος εἶ,",
+              "translation": "rico",
+              "explanation": "πλούσιος εἶ predica riqueza da comunidade apesar de πτωχεία; riqueza é caracterizada pelo contraste teológico do versículo."
+            }
+          ]
+        }
+      ]
+    },
+    "G988": {
+      "strong": "G988",
+      "lemma": "βλασφημία",
+      "lemmaTransliteration": "blasphēmia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G988-1",
+          "label": "blasfêmia, difamação, fala injuriosa",
+          "definition": "βλασφημία pode significar blasfêmia ou calúnia/difamação, de acordo com o referente. Em 2:9 a acusação hostil feita contra a igreja favorece «difamação».",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:9",
+              "greek": "τὴν βλασφημίαν ἐκ",
+              "translation": "difamação",
+              "explanation": "A expressão polêmica precisa ser situada no conflito local do primeiro século."
+            }
+          ]
+        }
+      ]
+    },
+    "G2453": {
+      "strong": "G2453",
+      "lemma": "Ἰουδαῖος",
+      "lemmaTransliteration": "Ioudaios",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G2453-1",
+          "label": "judeu",
+          "definition": "Ἰουδαίους é acusativo plural como predicativo de ἑαυτούς; trata-se de controvérsia local, não de definição depreciativa do judaísmo.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:9",
+              "greek": "λεγόντων Ἰουδαίους εἶναι",
+              "translation": "judeu",
+              "explanation": "Ἰουδαίους é acusativo plural como predicativo de ἑαυτούς; trata-se de controvérsia local, não de definição depreciativa do judaísmo."
+            }
+          ]
+        }
+      ]
+    },
+    "G4864": {
+      "strong": "G4864",
+      "lemma": "συναγωγή",
+      "lemmaTransliteration": "synagōgē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4864-1",
+          "label": "sinagoga",
+          "definition": "συναγωγή significa reunião/assembleia e pode denotar comunidade judaica; a expressão polêmica exige leitura histórica localizada.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:9",
+              "greek": "ἀλλὰ συναγωγὴ τοῦ",
+              "translation": "sinagoga",
+              "explanation": "συναγωγή significa reunião/assembleia e pode denotar comunidade judaica; a expressão polêmica exige leitura histórica localizada."
+            }
+          ]
+        }
+      ]
+    },
+    "G4567": {
+      "strong": "G4567",
+      "lemma": "Σατανᾶς",
+      "lemmaTransliteration": "Satanas",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4567-1",
+          "label": "Satanás",
+          "definition": "Σατανᾶς é designação pessoal do adversário; o genitivo τοῦ Σατανᾶ qualifica polemicamente a assembleia mencionada.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:9",
+              "greek": "τοῦ Σατανᾶ.",
+              "translation": "Satanás",
+              "explanation": "Σατανᾶς é designação pessoal do adversário; o genitivo τοῦ Σατανᾶ qualifica polemicamente a assembleia mencionada."
+            }
+          ]
+        }
+      ]
+    },
+    "G3367": {
+      "strong": "G3367",
+      "lemma": "μηδείς",
+      "lemmaTransliteration": "mēdeis",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3367-1",
+          "label": "nada",
+          "definition": "μηδέν é acusativo neutro singular de μηδείς com sentido adverbial: «não temas coisa alguma», objeto de φοβοῦ.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "μηδὲν φοβοῦ",
+              "translation": "nada",
+              "explanation": "μηδέν é acusativo neutro singular de μηδείς com sentido adverbial: «não temas coisa alguma», objeto de φοβοῦ."
+            }
+          ]
+        }
+      ]
+    },
+    "G3958": {
+      "strong": "G3958",
+      "lemma": "πάσχω",
+      "lemmaTransliteration": "paschō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3958-1",
+          "label": "sofrer",
+          "definition": "πάσχειν é infinitivo presente dependente de μέλλεις, projetando sofrimento futuro sem especificar todas as circunstâncias.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "μέλλεις πάσχειν. ἰδοὺ",
+              "translation": "sofrer",
+              "explanation": "πάσχειν é infinitivo presente dependente de μέλλεις, projetando sofrimento futuro sem especificar todas as circunstâncias."
+            }
+          ]
+        }
+      ]
+    },
+    "G906": {
+      "strong": "G906",
+      "lemma": "βάλλω",
+      "lemmaTransliteration": "ballō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G906-1",
+          "label": "lançar",
+          "definition": "βάλλειν é infinitivo presente dependente de μέλλει; com εἰς φυλακήν indica lançar na prisão.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "μέλλει βάλλειν ὁ",
+              "translation": "lançar",
+              "explanation": "βάλλειν é infinitivo presente dependente de μέλλει; com εἰς φυλακήν indica lançar na prisão."
+            }
+          ]
+        }
+      ]
+    },
+    "G1228": {
+      "strong": "G1228",
+      "lemma": "διάβολος",
+      "lemmaTransliteration": "diabolos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G1228-1",
+          "label": "diabo",
+          "definition": "διάβολος ocorre com artigo como sujeito de μέλλει βάλλειν; corresponde ao acusador/adversário na representação do texto.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "ὁ διάβολος ἐξ",
+              "translation": "diabo",
+              "explanation": "διάβολος ocorre com artigo como sujeito de μέλλει βάλλειν; corresponde ao acusador/adversário na representação do texto."
+            }
+          ]
+        }
+      ]
+    },
+    "G5438": {
+      "strong": "G5438",
+      "lemma": "φυλακή",
+      "lemmaTransliteration": "phylakē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5438-1",
+          "label": "prisão",
+          "definition": "φυλακή é acusativo de direção após εἰς; neste contexto significa prisão/confinamento, não «vigília».",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "εἰς φυλακὴν ἵνα",
+              "translation": "prisão",
+              "explanation": "φυλακή é acusativo de direção após εἰς; neste contexto significa prisão/confinamento, não «vigília»."
+            }
+          ]
+        }
+      ]
+    },
+    "G2443": {
+      "strong": "G2443",
+      "lemma": "ἵνα",
+      "lemmaTransliteration": "hina",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G2443-1",
+          "label": "para que",
+          "definition": "ἵνα com subjuntivo πειρασθῆτε indica finalidade da provação: «para que sejais postos à prova».",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "φυλακὴν ἵνα πειρασθῆτε,",
+              "translation": "para que",
+              "explanation": "ἵνα com subjuntivo πειρασθῆτε indica finalidade da provação: «para que sejais postos à prova»."
+            }
+          ]
+        }
+      ]
+    },
+    "G1176": {
+      "strong": "G1176",
+      "lemma": "δέκα",
+      "lemmaTransliteration": "deka",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G1176-1",
+          "label": "dez",
+          "definition": "δέκα é numeral indeclinável determinando ἡμερῶν no genitivo plural; a expressão não fixa cronologia histórica por si.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "ἡμερῶν δέκα. γίνου",
+              "translation": "dez",
+              "explanation": "δέκα é numeral indeclinável determinando ἡμερῶν no genitivo plural; a expressão não fixa cronologia histórica por si."
+            }
+          ]
+        }
+      ]
+    },
+    "G891": {
+      "strong": "G891",
+      "lemma": "ἄχρι",
+      "lemmaTransliteration": "achri",
+      "partOfSpeech": "Preposição",
+      "senses": [
+        {
+          "id": "G891-1",
+          "label": "até",
+          "definition": "ἄχρι com genitivo θανάτου marca limite ou extensão «até a morte»; a fidelidade é exigida mesmo diante da morte.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "πιστὸς ἄχρι θανάτου,",
+              "translation": "até",
+              "explanation": "ἄχρι com genitivo θανάτου marca limite ou extensão «até a morte»; a fidelidade é exigida mesmo diante da morte."
+            }
+          ]
+        }
+      ]
+    },
+    "G4735": {
+      "strong": "G4735",
+      "lemma": "στέφανος",
+      "lemmaTransliteration": "stephanos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4735-1",
+          "label": "coroa, grinalda de honra",
+          "definition": "στέφανος denota coroa ou grinalda de honra, vitória ou reconhecimento; sua distinção lexical de διάδημα é pertinente, sem absolutizá-la.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:10",
+              "greek": "τὸν στέφανον τῆς",
+              "translation": "coroa de honra",
+              "explanation": "Em 2:10 é ligado ao genitivo τῆς ζωῆς: «coroa da vida»."
+            }
+          ]
+        }
+      ]
+    },
+    "G91": {
+      "strong": "G91",
+      "lemma": "ἀδικέω",
+      "lemmaTransliteration": "adikeō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G91-1",
+          "label": "fazer injustiça, prejudicar, causar dano",
+          "definition": "ἀδικέω é agir injustamente ou causar dano. Em 2:11, a forma ἀδικηθῇ é aoristo passivo subjuntivo após οὐ μή, negação enfática prospectiva.",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:11",
+              "greek": "μὴ ἀδικηθῇ ἐκ",
+              "translation": "sofrerá dano",
+              "explanation": "A glosa contextual é «não sofrerá dano», e não «não cometerá injustiça»."
+            }
+          ]
+        }
+      ]
+    },
+    "G1208": {
+      "strong": "G1208",
+      "lemma": "δεύτερος",
+      "lemmaTransliteration": "deuteros",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G1208-1",
+          "label": "segundo, de segunda ordem",
+          "definition": "δεύτερος expressa posição ordinal. Em Ap 2:11 qualifica θανάτου, formando a expressão «segunda morte».",
+          "examples": [
+            {
+              "reference": "Apocalipse 2:11",
+              "greek": "τοῦ δευτέρου.",
+              "translation": "segundo",
+              "explanation": "A escatologia dessa morte depende do conjunto de Apocalipse (20:6,14; 21:8)."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

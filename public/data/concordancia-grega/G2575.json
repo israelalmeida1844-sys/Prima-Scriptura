@@ -1,0 +1,49 @@
+{
+  "strong": "G2575",
+  "lemma": "κάμινος",
+  "lemmaTranslit": "kaminos",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 42,
+      "reference": "Mt 13:42",
+      "text": "τὴν κάμινον τοῦ",
+      "highlightedWord": "κάμινον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 50,
+      "reference": "Mt 13:50",
+      "text": "τὴν κάμινον τοῦ",
+      "highlightedWord": "κάμινον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Re 1:15",
+      "text": "ἐν καμίνῳ πεπυρωμένης,",
+      "highlightedWord": "καμίνῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Re 9:2",
+      "text": "καπνὸς καμίνου μεγάλης,",
+      "highlightedWord": "καμίνου"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

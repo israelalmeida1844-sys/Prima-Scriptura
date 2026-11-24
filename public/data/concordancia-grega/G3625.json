@@ -1,0 +1,141 @@
+{
+  "strong": "G3625",
+  "lemma": "οἰκουμένη",
+  "lemmaTranslit": "oikoumenē",
+  "tokenCount": 15,
+  "verseCount": 15,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 3,
+    "Atos": 5,
+    "Romanos": 1,
+    "Hebreus": 2,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 14,
+      "reference": "Mt 24:14",
+      "text": "τῇ οἰκουμένῃ εἰς",
+      "highlightedWord": "οἰκουμένῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Lk 2:1",
+      "text": "τὴν οἰκουμένην·",
+      "highlightedWord": "οἰκουμένην·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Lk 4:5",
+      "text": "τῆς οἰκουμένης ἐν",
+      "highlightedWord": "οἰκουμένης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Lk 21:26",
+      "text": "τῇ οἰκουμένῃ, αἱ",
+      "highlightedWord": "οἰκουμένῃ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Ac 11:28",
+      "text": "τὴν οἰκουμένην· ἥτις",
+      "highlightedWord": "οἰκουμένην·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Ac 17:6",
+      "text": "τὴν οἰκουμένην ἀναστατώσαντες",
+      "highlightedWord": "οἰκουμένην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Ac 17:31",
+      "text": "τὴν οἰκουμένην ἐν",
+      "highlightedWord": "οἰκουμένην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Ac 19:27",
+      "text": "ἡ οἰκουμένη σέβεται.",
+      "highlightedWord": "οἰκουμένη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Ac 24:5",
+      "text": "τὴν οἰκουμένην πρωτοστάτην",
+      "highlightedWord": "οἰκουμένην"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Ro 10:18",
+      "text": "τῆς οἰκουμένης τὰ",
+      "highlightedWord": "οἰκουμένης"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Heb 1:6",
+      "text": "τὴν οἰκουμένην, λέγει·",
+      "highlightedWord": "οἰκουμένην,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Heb 2:5",
+      "text": "τὴν οἰκουμένην τὴν",
+      "highlightedWord": "οἰκουμένην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Re 3:10",
+      "text": "τῆς οἰκουμένης ὅλης,",
+      "highlightedWord": "οἰκουμένης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "τὴν οἰκουμένην ὅλην—",
+      "highlightedWord": "οἰκουμένην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Re 16:14",
+      "text": "τῆς οἰκουμένης ὅλης,",
+      "highlightedWord": "οἰκουμένης"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

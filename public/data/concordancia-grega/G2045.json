@@ -1,0 +1,68 @@
+{
+  "strong": "G2045",
+  "lemma": "ἐραυνάω",
+  "lemmaTranslit": "eraunaō",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "João": 2,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "1 Pedro": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Jn 5:39",
+      "text": "Ἐραυνᾶτε τὰς",
+      "highlightedWord": "Ἐραυνᾶτε"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 52,
+      "reference": "Jn 7:52",
+      "text": "εἶ; ἐραύνησον καὶ",
+      "highlightedWord": "ἐραύνησον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Ro 8:27",
+      "text": "δὲ ἐραυνῶν τὰς",
+      "highlightedWord": "ἐραυνῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "1Co 2:10",
+      "text": "πάντα ἐραυνᾷ, καὶ",
+      "highlightedWord": "ἐραυνᾷ,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "1Pe 1:11",
+      "text": "ἐραυνῶντες εἰς",
+      "highlightedWord": "ἐραυνῶντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "ὁ ἐραυνῶν νεφροὺς",
+      "highlightedWord": "ἐραυνῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

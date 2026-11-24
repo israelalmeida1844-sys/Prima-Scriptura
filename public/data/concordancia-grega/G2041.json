@@ -1,0 +1,1297 @@
+{
+  "strong": "G2041",
+  "lemma": "ἔργον",
+  "lemmaTranslit": "ergon",
+  "tokenCount": 169,
+  "verseCount": 157,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 2,
+    "Lucas": 2,
+    "João": 27,
+    "Atos": 10,
+    "Romanos": 15,
+    "1 Coríntios": 8,
+    "2 Coríntios": 3,
+    "Gálatas": 8,
+    "Efésios": 4,
+    "Filipenses": 3,
+    "Colossenses": 3,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 2,
+    "1 Timóteo": 6,
+    "2 Timóteo": 6,
+    "Tito": 8,
+    "Hebreus": 9,
+    "Tiago": 15,
+    "1 Pedro": 2,
+    "2 Pedro": 2,
+    "1 João": 3,
+    "2 João": 1,
+    "3 João": 1,
+    "Judas": 1,
+    "Apocalipse": 20
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Mt 5:16",
+      "text": "καλὰ ἔργα καὶ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Mt 11:2",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Mt 11:19",
+      "text": "τῶν ἔργων αὐτῆς.",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Mt 23:3",
+      "text": "τὰ ἔργα αὐτῶν",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 5,
+      "reference": "Mt 23:5",
+      "text": "τὰ ἔργα αὐτῶν",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Mt 26:10",
+      "text": "γυναικί; ἔργον γὰρ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mk 13:34",
+      "text": "τὸ ἔργον αὐτοῦ,",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Mk 14:6",
+      "text": "καλὸν ἔργον ἠργάσατο",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 48,
+      "reference": "Lk 11:48",
+      "text": "τοῖς ἔργοις τῶν",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Lk 24:19",
+      "text": "ἐν ἔργῳ καὶ",
+      "highlightedWord": "ἔργῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Jn 3:19",
+      "text": "τὰ ἔργα.",
+      "highlightedWord": "ἔργα."
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Jn 3:20",
+      "text": "τὰ ἔργα αὐτοῦ·",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Jn 3:21",
+      "text": "τὰ ἔργα ὅτι",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Jn 4:34",
+      "text": "τὸ ἔργον.",
+      "highlightedWord": "ἔργον."
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Jn 5:20",
+      "text": "αὐτῷ ἔργα, ἵνα",
+      "highlightedWord": "ἔργα,"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Jn 5:36",
+      "text": "γὰρ ἔργα ἃ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 28,
+      "reference": "Jn 6:28",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 29,
+      "reference": "Jn 6:29",
+      "text": "τὸ ἔργον τοῦ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Jn 7:3",
+      "text": "τὰ ἔργα ἃ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Jn 7:7",
+      "text": "τὰ ἔργα αὐτοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Jn 7:21",
+      "text": "Ἓν ἔργον ἐποίησα",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Jn 8:39",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Jn 8:41",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Jn 9:3",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Jn 9:4",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Jn 10:25",
+      "text": "τὰ ἔργα ἃ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Jn 10:32",
+      "text": "Πολλὰ ἔργα καλὰ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Jn 10:33",
+      "text": "καλοῦ ἔργου οὐ",
+      "highlightedWord": "ἔργου"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Jn 10:37",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Jn 10:38",
+      "text": "τοῖς ἔργοις πιστεύετε,",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Jn 14:10",
+      "text": "τὰ ἔργα αὐτοῦ.",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Jn 14:11",
+      "text": "τὰ ἔργα αὐτὰ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Jn 14:12",
+      "text": "τὰ ἔργα ἃ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Jn 15:24",
+      "text": "τὰ ἔργα μὴ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Jn 17:4",
+      "text": "τὸ ἔργον τελειώσας",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Ac 5:38",
+      "text": "τὸ ἔργον τοῦτο,",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Ac 7:22",
+      "text": "καὶ ἔργοις αὐτοῦ.",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Ac 7:41",
+      "text": "τοῖς ἔργοις τῶν",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Ac 9:36",
+      "text": "πλήρης ἔργων ἀγαθῶν",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Ac 13:2",
+      "text": "τὸ ἔργον ὃ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 41,
+      "reference": "Ac 13:41",
+      "text": "ὅτι ἔργον ἐργάζομαι",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Ac 14:26",
+      "text": "τὸ ἔργον ὃ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 38,
+      "reference": "Ac 15:38",
+      "text": "τὸ ἔργον, μὴ",
+      "highlightedWord": "ἔργον,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 20,
+      "reference": "Ac 26:20",
+      "text": "μετανοίας ἔργα πράσσοντας.",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ro 2:6",
+      "text": "τὰ ἔργα αὐτοῦ·",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Ro 2:7",
+      "text": "ὑπομονὴν ἔργου ἀγαθοῦ",
+      "highlightedWord": "ἔργου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Ro 2:15",
+      "text": "τὸ ἔργον τοῦ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Ro 3:20",
+      "text": "ἐξ ἔργων νόμου",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Ro 3:27",
+      "text": "τῶν ἔργων; οὐχί,",
+      "highlightedWord": "ἔργων;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Ro 3:28",
+      "text": "χωρὶς ἔργων νόμου.",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Ro 4:2",
+      "text": "ἐξ ἔργων ἐδικαιώθη,",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Ro 4:6",
+      "text": "χωρὶς ἔργων·",
+      "highlightedWord": "ἔργων·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Ro 9:12",
+      "text": "ἐξ ἔργων ἀλλ’",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Ro 9:32",
+      "text": "ἐξ ἔργων· προσέκοψαν",
+      "highlightedWord": "ἔργων·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Ro 11:6",
+      "text": "ἐξ ἔργων, ἐπεὶ",
+      "highlightedWord": "ἔργων,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ro 13:3",
+      "text": "ἀγαθῷ ἔργῳ ἀλλὰ",
+      "highlightedWord": "ἔργῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Ro 13:12",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ro 14:20",
+      "text": "τὸ ἔργον τοῦ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Ro 15:18",
+      "text": "καὶ ἔργῳ,",
+      "highlightedWord": "ἔργῳ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Co 3:13",
+      "text": "τὸ ἔργον φανερὸν",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Co 3:14",
+      "text": "τὸ ἔργον μενεῖ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Co 3:15",
+      "text": "τὸ ἔργον κατακαήσεται,",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Co 5:2",
+      "text": "τὸ ἔργον τοῦτο",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "1Co 9:1",
+      "text": "τὸ ἔργον μου",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 58,
+      "reference": "1Co 15:58",
+      "text": "τῷ ἔργῳ τοῦ",
+      "highlightedWord": "ἔργῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "1Co 16:10",
+      "text": "γὰρ ἔργον κυρίου",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "2Co 9:8",
+      "text": "πᾶν ἔργον ἀγαθόν·",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "2Co 10:11",
+      "text": "τῷ ἔργῳ.",
+      "highlightedWord": "ἔργῳ."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "2Co 11:15",
+      "text": "τὰ ἔργα αὐτῶν.",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ga 2:16",
+      "text": "ἐξ ἔργων νόμου",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ga 3:2",
+      "text": "ἐξ ἔργων νόμου",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ga 3:5",
+      "text": "ἐξ ἔργων νόμου",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Ga 3:10",
+      "text": "ἐξ ἔργων νόμου",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ga 5:19",
+      "text": "τὰ ἔργα τῆς",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ga 6:4",
+      "text": "δὲ ἔργον ἑαυτοῦ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Eph 2:9",
+      "text": "ἐξ ἔργων, ἵνα",
+      "highlightedWord": "ἔργων,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Eph 2:10",
+      "text": "ἐπὶ ἔργοις ἀγαθοῖς",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Eph 4:12",
+      "text": "εἰς ἔργον διακονίας,",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Eph 5:11",
+      "text": "τοῖς ἔργοις τοῖς",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Php 1:6",
+      "text": "ὑμῖν ἔργον ἀγαθὸν",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Php 1:22",
+      "text": "καρπὸς ἔργου— καὶ",
+      "highlightedWord": "ἔργου—"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 30,
+      "reference": "Php 2:30",
+      "text": "τὸ ἔργον Χριστοῦ",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Col 1:10",
+      "text": "παντὶ ἔργῳ ἀγαθῷ",
+      "highlightedWord": "ἔργῳ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Col 1:21",
+      "text": "τοῖς ἔργοις τοῖς",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Col 3:17",
+      "text": "ἐν ἔργῳ, πάντα",
+      "highlightedWord": "ἔργῳ,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Th 1:3",
+      "text": "τοῦ ἔργου τῆς",
+      "highlightedWord": "ἔργου"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Th 5:13",
+      "text": "τὸ ἔργον αὐτῶν.",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Th 1:11",
+      "text": "καὶ ἔργον πίστεως",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "2Th 2:17",
+      "text": "παντὶ ἔργῳ καὶ",
+      "highlightedWord": "ἔργῳ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "1Ti 2:10",
+      "text": "δι’ ἔργων ἀγαθῶν.",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Ti 3:1",
+      "text": "καλοῦ ἔργου ἐπιθυμεῖ.",
+      "highlightedWord": "ἔργου"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Ti 5:10",
+      "text": "ἐν ἔργοις καλοῖς",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "1Ti 5:25",
+      "text": "τὰ ἔργα τὰ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "1Ti 6:18",
+      "text": "ἐν ἔργοις καλοῖς,",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Ti 1:9",
+      "text": "τὰ ἔργα ἡμῶν",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "2Ti 2:21",
+      "text": "πᾶν ἔργον ἀγαθὸν",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Ti 3:17",
+      "text": "πᾶν ἔργον ἀγαθὸν",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "2Ti 4:5",
+      "text": "κακοπάθησον, ἔργον ποίησον",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "2Ti 4:14",
+      "text": "τὰ ἔργα αὐτοῦ—",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "2Ti 4:18",
+      "text": "παντὸς ἔργου πονηροῦ",
+      "highlightedWord": "ἔργου"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Tit 1:16",
+      "text": "δὲ ἔργοις ἀρνοῦνται,",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Tit 2:7",
+      "text": "καλῶν ἔργων, ἐν",
+      "highlightedWord": "ἔργων,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Tit 2:14",
+      "text": "καλῶν ἔργων.",
+      "highlightedWord": "ἔργων."
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Tit 3:1",
+      "text": "πᾶν ἔργον ἀγαθὸν",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Tit 3:5",
+      "text": "ἐξ ἔργων τῶν",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Tit 3:8",
+      "text": "καλῶν ἔργων προΐστασθαι",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Tit 3:14",
+      "text": "καλῶν ἔργων προΐστασθαι",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Heb 1:10",
+      "text": "καὶ ἔργα τῶν",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Heb 3:9",
+      "text": "τὰ ἔργα μου",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Heb 4:3",
+      "text": "τῶν ἔργων ἀπὸ",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Heb 4:4",
+      "text": "τῶν ἔργων αὐτοῦ,",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Heb 4:10",
+      "text": "τῶν ἔργων αὐτοῦ",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Heb 6:1",
+      "text": "νεκρῶν ἔργων, καὶ",
+      "highlightedWord": "ἔργων,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Heb 6:10",
+      "text": "τοῦ ἔργου ὑμῶν",
+      "highlightedWord": "ἔργου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Heb 9:14",
+      "text": "νεκρῶν ἔργων εἰς",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Heb 10:24",
+      "text": "καλῶν ἔργων,",
+      "highlightedWord": "ἔργων,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jas 1:4",
+      "text": "ὑπομονὴ ἔργον τέλειον",
+      "highlightedWord": "ἔργον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Jas 1:25",
+      "text": "ποιητὴς ἔργου, οὗτος",
+      "highlightedWord": "ἔργου,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Jas 2:14",
+      "text": "ἔχειν ἔργα δὲ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Jas 2:17",
+      "text": "ἔχῃ ἔργα, νεκρά",
+      "highlightedWord": "ἔργα,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Jas 2:18",
+      "text": "κἀγὼ ἔργα ἔχω.",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jas 2:20",
+      "text": "τῶν ἔργων ἀργή",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Jas 2:21",
+      "text": "ἐξ ἔργων ἐδικαιώθη,",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Jas 2:22",
+      "text": "τοῖς ἔργοις αὐτοῦ",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Jas 2:24",
+      "text": "ἐξ ἔργων δικαιοῦται",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Jas 2:25",
+      "text": "ἐξ ἔργων ἐδικαιώθη,",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Jas 2:26",
+      "text": "χωρὶς ἔργων νεκρά",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jas 3:13",
+      "text": "τὰ ἔργα αὐτοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Pe 1:17",
+      "text": "ἑκάστου ἔργον, ἐν",
+      "highlightedWord": "ἔργον,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Pe 2:12",
+      "text": "καλῶν ἔργων ἐποπτεύοντες",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "2Pe 2:8",
+      "text": "ἀνόμοις ἔργοις ἐβασάνιζεν—",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Pe 3:10",
+      "text": "αὐτῇ ἔργα εὑρεθήσεται.",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Jn 3:8",
+      "text": "τὰ ἔργα τοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Jn 3:12",
+      "text": "τὰ ἔργα αὐτοῦ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Jn 3:18",
+      "text": "ἐν ἔργῳ καὶ",
+      "highlightedWord": "ἔργῳ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Jn 1:11",
+      "text": "τοῖς ἔργοις αὐτοῦ",
+      "highlightedWord": "ἔργοις"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "3Jn 1:10",
+      "text": "τὰ ἔργα ἃ",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Jud 1:15",
+      "text": "τῶν ἔργων ἀσεβείας",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "τὰ ἔργα σου,",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "πρῶτα ἔργα ποίησον·",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Re 2:6",
+      "text": "τὰ ἔργα τῶν",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "τὰ ἔργα, καὶ",
+      "highlightedWord": "ἔργα,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Re 2:22",
+      "text": "τῶν ἔργων αὐτῆς·",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "τὰ ἔργα ὑμῶν.",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Re 2:26",
+      "text": "τὰ ἔργα μου,",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Re 3:1",
+      "text": "τὰ ἔργα, ὅτι",
+      "highlightedWord": "ἔργα,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Re 3:2",
+      "text": "τὰ ἔργα πεπληρωμένα",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "τὰ ἔργα— ἰδοὺ",
+      "highlightedWord": "ἔργα—"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Re 3:15",
+      "text": "τὰ ἔργα, ὅτι",
+      "highlightedWord": "ἔργα,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "τῶν ἔργων τῶν",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Re 14:13",
+      "text": "γὰρ ἔργα αὐτῶν",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Re 15:3",
+      "text": "τὰ ἔργα σου,",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "Re 16:11",
+      "text": "τῶν ἔργων αὐτῶν.",
+      "highlightedWord": "ἔργων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Re 18:6",
+      "text": "τὰ ἔργα αὐτῆς·",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Re 20:12",
+      "text": "τὰ ἔργα αὐτῶν.",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Re 20:13",
+      "text": "τὰ ἔργα αὐτῶν.",
+      "highlightedWord": "ἔργα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Re 22:12",
+      "text": "τὸ ἔργον ἐστὶν",
+      "highlightedWord": "ἔργον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

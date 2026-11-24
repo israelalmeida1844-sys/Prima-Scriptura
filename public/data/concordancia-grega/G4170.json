@@ -1,0 +1,65 @@
+{
+  "strong": "G4170",
+  "lemma": "πολεμέω",
+  "lemmaTranslit": "polemeō",
+  "tokenCount": 7,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Tiago": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Jas 4:2",
+      "text": "καὶ πολεμεῖτε. οὐκ",
+      "highlightedWord": "πολεμεῖτε."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Re 2:16",
+      "text": "καὶ πολεμήσω μετ’",
+      "highlightedWord": "πολεμήσω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Re 12:7",
+      "text": "τοῦ πολεμῆσαι μετὰ",
+      "highlightedWord": "πολεμῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Re 13:4",
+      "text": "δύναται πολεμῆσαι μετ’",
+      "highlightedWord": "πολεμῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Re 17:14",
+      "text": "ἀρνίου πολεμήσουσιν, καὶ",
+      "highlightedWord": "πολεμήσουσιν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Re 19:11",
+      "text": "καὶ πολεμεῖ.",
+      "highlightedWord": "πολεμεῖ."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,2222 @@
+{
+  "strong": "G2980",
+  "lemma": "λαλέω",
+  "lemmaTranslit": "laleō",
+  "tokenCount": 297,
+  "verseCount": 273,
+  "bookDistribution": {
+    "Mateus": 26,
+    "Marcos": 21,
+    "Lucas": 31,
+    "João": 59,
+    "Atos": 60,
+    "Romanos": 3,
+    "1 Coríntios": 34,
+    "2 Coríntios": 10,
+    "Efésios": 3,
+    "Filipenses": 1,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 4,
+    "1 Timóteo": 1,
+    "Tito": 2,
+    "Hebreus": 16,
+    "Tiago": 3,
+    "1 Pedro": 2,
+    "2 Pedro": 2,
+    "1 João": 1,
+    "2 João": 1,
+    "3 João": 1,
+    "Judas": 2,
+    "Apocalipse": 12
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mt 9:18",
+      "text": "αὐτοῦ λαλοῦντος αὐτοῖς",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Mt 9:33",
+      "text": "δαιμονίου ἐλάλησεν ὁ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Mt 10:19",
+      "text": "τί λαλήσητε· δοθήσεται",
+      "highlightedWord": "λαλήσητε·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Mt 10:20",
+      "text": "οἱ λαλοῦντες ἀλλὰ",
+      "highlightedWord": "λαλοῦντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Mt 12:22",
+      "text": "κωφὸν λαλεῖν καὶ",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Mt 12:34",
+      "text": "ἀγαθὰ λαλεῖν πονηροὶ",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mt 12:36",
+      "text": "ὃ λαλήσουσιν οἱ",
+      "highlightedWord": "λαλήσουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Mt 12:46",
+      "text": "αὐτοῦ λαλοῦντος τοῖς",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Mt 12:47",
+      "text": "σοι λαλῆσαι.",
+      "highlightedWord": "λαλῆσαι."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Mt 13:3",
+      "text": "καὶ ἐλάλησεν αὐτοῖς",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Mt 13:10",
+      "text": "παραβολαῖς λαλεῖς αὐτοῖς;",
+      "highlightedWord": "λαλεῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Mt 13:13",
+      "text": "αὐτοῖς λαλῶ, ὅτι",
+      "highlightedWord": "λαλῶ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Mt 13:33",
+      "text": "παραβολὴν ἐλάλησεν αὐτοῖς·",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Mt 13:34",
+      "text": "πάντα ἐλάλησεν ὁ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "Mt 14:27",
+      "text": "δὲ ἐλάλησεν αὐτοῖς",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mt 15:31",
+      "text": "κωφοὺς λαλοῦντας κυλλοὺς",
+      "highlightedWord": "λαλοῦντας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Mt 17:5",
+      "text": "αὐτοῦ λαλοῦντος ἰδοὺ",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 1,
+      "reference": "Mt 23:1",
+      "text": "Ἰησοῦς ἐλάλησεν τοῖς",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 13,
+      "reference": "Mt 26:13",
+      "text": "κόσμῳ, λαληθήσεται καὶ",
+      "highlightedWord": "λαληθήσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 47,
+      "reference": "Mt 26:47",
+      "text": "αὐτοῦ λαλοῦντος ἰδοὺ",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 18,
+      "reference": "Mt 28:18",
+      "text": "Ἰησοῦς ἐλάλησεν αὐτοῖς",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 34,
+      "reference": "Mk 1:34",
+      "text": "ἤφιεν λαλεῖν τὰ",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Mk 2:2",
+      "text": "καὶ ἐλάλει αὐτοῖς",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mk 2:7",
+      "text": "οὕτως λαλεῖ; βλασφημεῖ·",
+      "highlightedWord": "λαλεῖ;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Mk 4:33",
+      "text": "πολλαῖς ἐλάλει αὐτοῖς",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Mk 4:34",
+      "text": "οὐκ ἐλάλει αὐτοῖς,",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Mk 5:35",
+      "text": "αὐτοῦ λαλοῦντος ἔρχονται",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Mk 5:36",
+      "text": "λόγον λαλούμενον λέγει",
+      "highlightedWord": "λαλούμενον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 50,
+      "reference": "Mk 6:50",
+      "text": "εὐθὺς ἐλάλησεν μετ’",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Mk 7:35",
+      "text": "καὶ ἐλάλει ὀρθῶς·",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Mk 7:37",
+      "text": "ἀλάλους λαλεῖν.",
+      "highlightedWord": "λαλεῖν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Mk 8:32",
+      "text": "λόγον ἐλάλει. καὶ",
+      "highlightedWord": "ἐλάλει."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mk 11:23",
+      "text": "ὃ λαλεῖ γίνεται,",
+      "highlightedWord": "λαλεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Mk 12:1",
+      "text": "παραβολαῖς λαλεῖν· Ἀμπελῶνα",
+      "highlightedWord": "λαλεῖν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mk 13:11",
+      "text": "τί λαλήσητε, ἀλλ’",
+      "highlightedWord": "λαλήσητε,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Mk 14:9",
+      "text": "αὕτη λαληθήσεται εἰς",
+      "highlightedWord": "λαληθήσεται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Mk 14:31",
+      "text": "ἐκπερισσῶς ἐλάλει· Ἐὰν",
+      "highlightedWord": "ἐλάλει·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 43,
+      "reference": "Mk 14:43",
+      "text": "αὐτοῦ λαλοῦντος παραγίνεται",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Mk 16:17",
+      "text": "γλώσσαις λαλήσουσιν καιναῖς,",
+      "highlightedWord": "λαλήσουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Mk 16:19",
+      "text": "τὸ λαλῆσαι αὐτοῖς",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Lk 1:19",
+      "text": "ἀπεστάλην λαλῆσαι πρὸς",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Lk 1:20",
+      "text": "δυνάμενος λαλῆσαι ἄχρι",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Lk 1:22",
+      "text": "ἐδύνατο λαλῆσαι αὐτοῖς,",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Lk 1:45",
+      "text": "τοῖς λελαλημένοις αὐτῇ",
+      "highlightedWord": "λελαλημένοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 55,
+      "reference": "Lk 1:55",
+      "text": "καθὼς ἐλάλησεν πρὸς",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 64,
+      "reference": "Lk 1:64",
+      "text": "καὶ ἐλάλει εὐλογῶν",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 70,
+      "reference": "Lk 1:70",
+      "text": "καθὼς ἐλάλησεν διὰ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Lk 2:15",
+      "text": "ποιμένες ἐλάλουν πρὸς",
+      "highlightedWord": "ἐλάλουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Lk 2:17",
+      "text": "τοῦ λαληθέντος αὐτοῖς",
+      "highlightedWord": "λαληθέντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Lk 2:18",
+      "text": "τῶν λαληθέντων ὑπὸ",
+      "highlightedWord": "λαληθέντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Lk 2:20",
+      "text": "καθὼς ἐλαλήθη πρὸς",
+      "highlightedWord": "ἐλαλήθη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 33,
+      "reference": "Lk 2:33",
+      "text": "τοῖς λαλουμένοις περὶ",
+      "highlightedWord": "λαλουμένοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "Lk 2:38",
+      "text": "καὶ ἐλάλει περὶ",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 50,
+      "reference": "Lk 2:50",
+      "text": "ὃ ἐλάλησεν αὐτοῖς.",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Lk 4:41",
+      "text": "αὐτὰ λαλεῖν, ὅτι",
+      "highlightedWord": "λαλεῖν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Lk 5:4",
+      "text": "ἐπαύσατο λαλῶν, εἶπεν",
+      "highlightedWord": "λαλῶν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Lk 5:21",
+      "text": "ὃς λαλεῖ βλασφημίας;",
+      "highlightedWord": "λαλεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 45,
+      "reference": "Lk 6:45",
+      "text": "καρδίας λαλεῖ τὸ",
+      "highlightedWord": "λαλεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Lk 7:15",
+      "text": "ἤρξατο λαλεῖν, καὶ",
+      "highlightedWord": "λαλεῖν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 49,
+      "reference": "Lk 8:49",
+      "text": "αὐτοῦ λαλοῦντος ἔρχεταί",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Lk 9:11",
+      "text": "αὐτοὺς ἐλάλει αὐτοῖς",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Lk 11:14",
+      "text": "ἐξελθόντος ἐλάλησεν ὁ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Lk 11:37",
+      "text": "τῷ λαλῆσαι ἐρωτᾷ",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Lk 12:3",
+      "text": "οὖς ἐλαλήσατε ἐν",
+      "highlightedWord": "ἐλαλήσατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 47,
+      "reference": "Lk 22:47",
+      "text": "αὐτοῦ λαλοῦντος ἰδοὺ",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 60,
+      "reference": "Lk 22:60",
+      "text": "ἔτι λαλοῦντος αὐτοῦ",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Lk 24:6",
+      "text": "ὡς ἐλάλησεν ὑμῖν",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 25,
+      "reference": "Lk 24:25",
+      "text": "οἷς ἐλάλησαν οἱ",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 32,
+      "reference": "Lk 24:32",
+      "text": "ὡς ἐλάλει ἡμῖν",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Lk 24:36",
+      "text": "αὐτῶν λαλούντων αὐτὸς",
+      "highlightedWord": "λαλούντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 44,
+      "reference": "Lk 24:44",
+      "text": "οὓς ἐλάλησα πρὸς",
+      "highlightedWord": "ἐλάλησα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 37,
+      "reference": "Jn 1:37",
+      "text": "αὐτοῦ λαλοῦντος καὶ",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Jn 3:11",
+      "text": "οἴδαμεν λαλοῦμεν καὶ",
+      "highlightedWord": "λαλοῦμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Jn 3:31",
+      "text": "γῆς λαλεῖ· ὁ",
+      "highlightedWord": "λαλεῖ·"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 34,
+      "reference": "Jn 3:34",
+      "text": "θεοῦ λαλεῖ, οὐ",
+      "highlightedWord": "λαλεῖ,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Jn 4:26",
+      "text": "ὁ λαλῶν σοι.",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Jn 4:27",
+      "text": "γυναικὸς ἐλάλει· οὐδεὶς",
+      "highlightedWord": "ἐλάλει·"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 63,
+      "reference": "Jn 6:63",
+      "text": "ἐγὼ λελάληκα ὑμῖν",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Jn 7:13",
+      "text": "παρρησίᾳ ἐλάλει περὶ",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Jn 7:17",
+      "text": "ἐμαυτοῦ λαλῶ.",
+      "highlightedWord": "λαλῶ."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Jn 7:18",
+      "text": "ἑαυτοῦ λαλῶν τὴν",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Jn 7:26",
+      "text": "παρρησίᾳ λαλεῖ καὶ",
+      "highlightedWord": "λαλεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 46,
+      "reference": "Jn 7:46",
+      "text": "Οὐδέποτε ἐλάλησεν οὕτως",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Jn 8:12",
+      "text": "αὐτοῖς ἐλάλησεν ὁ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Jn 8:20",
+      "text": "ῥήματα ἐλάλησεν ἐν",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Jn 8:25",
+      "text": "καὶ λαλῶ ὑμῖν;",
+      "highlightedWord": "λαλῶ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Jn 8:26",
+      "text": "ὑμῶν λαλεῖν καὶ",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "ταῦτα λαλῶ.",
+      "highlightedWord": "λαλῶ."
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Jn 8:30",
+      "text": "αὐτοῦ λαλοῦντος πολλοὶ",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Jn 8:38",
+      "text": "πατρὶ λαλῶ· καὶ",
+      "highlightedWord": "λαλῶ·"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 40,
+      "reference": "Jn 8:40",
+      "text": "ὑμῖν λελάληκα ἣν",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Jn 8:44",
+      "text": "ὅταν λαλῇ τὸ",
+      "highlightedWord": "λαλῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Jn 9:21",
+      "text": "ἑαυτοῦ λαλήσει.",
+      "highlightedWord": "λαλήσει."
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Jn 9:29",
+      "text": "Μωϋσεῖ λελάληκεν ὁ",
+      "highlightedWord": "λελάληκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Jn 9:37",
+      "text": "ὁ λαλῶν μετὰ",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Jn 10:6",
+      "text": "ἃ ἐλάλει αὐτοῖς.",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Jn 12:29",
+      "text": "αὐτῷ λελάληκεν.",
+      "highlightedWord": "λελάληκεν."
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Jn 12:36",
+      "text": "Ταῦτα ἐλάλησεν Ἰησοῦς,",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Jn 12:41",
+      "text": "καὶ ἐλάλησεν περὶ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Jn 12:48",
+      "text": "ὃν ἐλάλησα ἐκεῖνος",
+      "highlightedWord": "ἐλάλησα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 49,
+      "reference": "Jn 12:49",
+      "text": "οὐκ ἐλάλησα, ἀλλ’",
+      "highlightedWord": "ἐλάλησα,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 50,
+      "reference": "Jn 12:50",
+      "text": "ἐγὼ λαλῶ, καθὼς",
+      "highlightedWord": "λαλῶ,"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Jn 14:10",
+      "text": "οὐ λαλῶ, ὁ",
+      "highlightedWord": "λαλῶ,"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Jn 14:25",
+      "text": "Ταῦτα λελάληκα ὑμῖν",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Jn 14:30",
+      "text": "πολλὰ λαλήσω μεθ’",
+      "highlightedWord": "λαλήσω"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Jn 15:3",
+      "text": "ὃν λελάληκα ὑμῖν·",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Jn 15:11",
+      "text": "ταῦτα λελάληκα ὑμῖν",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Jn 15:22",
+      "text": "καὶ ἐλάλησα αὐτοῖς,",
+      "highlightedWord": "ἐλάλησα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Jn 16:1",
+      "text": "Ταῦτα λελάληκα ὑμῖν",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Jn 16:4",
+      "text": "ταῦτα λελάληκα ὑμῖν",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Jn 16:6",
+      "text": "ταῦτα λελάληκα ὑμῖν",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Jn 16:13",
+      "text": "γὰρ λαλήσει ἀφ’",
+      "highlightedWord": "λαλήσει"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Jn 16:18",
+      "text": "τί λαλεῖ.",
+      "highlightedWord": "λαλεῖ."
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Jn 16:25",
+      "text": "παροιμίαις λελάληκα ὑμῖν·",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 29,
+      "reference": "Jn 16:29",
+      "text": "παρρησίᾳ λαλεῖς, καὶ",
+      "highlightedWord": "λαλεῖς,"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Jn 16:33",
+      "text": "ταῦτα λελάληκα ὑμῖν",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Jn 17:1",
+      "text": "Ταῦτα ἐλάλησεν Ἰησοῦς,",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Jn 17:13",
+      "text": "ταῦτα λαλῶ ἐν",
+      "highlightedWord": "λαλῶ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Jn 18:20",
+      "text": "παρρησίᾳ λελάληκα τῷ",
+      "highlightedWord": "λελάληκα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Jn 18:21",
+      "text": "τί ἐλάλησα αὐτοῖς·",
+      "highlightedWord": "ἐλάλησα"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Jn 18:23",
+      "text": "κακῶς ἐλάλησα, μαρτύρησον",
+      "highlightedWord": "ἐλάλησα,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Jn 19:10",
+      "text": "οὐ λαλεῖς; οὐκ",
+      "highlightedWord": "λαλεῖς;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Ac 2:4",
+      "text": "ἤρξαντο λαλεῖν ἑτέραις",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ac 2:6",
+      "text": "διαλέκτῳ λαλούντων αὐτῶν·",
+      "highlightedWord": "λαλούντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Ac 2:7",
+      "text": "οἱ λαλοῦντες Γαλιλαῖοι;",
+      "highlightedWord": "λαλοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Ac 2:11",
+      "text": "ἀκούομεν λαλούντων αὐτῶν",
+      "highlightedWord": "λαλούντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 31,
+      "reference": "Ac 2:31",
+      "text": "προϊδὼν ἐλάλησεν περὶ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ac 3:21",
+      "text": "ὧν ἐλάλησεν ὁ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Ac 3:22",
+      "text": "ἂν λαλήσῃ πρὸς",
+      "highlightedWord": "λαλήσῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Ac 3:24",
+      "text": "ὅσοι ἐλάλησαν καὶ",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Ac 4:1",
+      "text": "Λαλούντων δὲ",
+      "highlightedWord": "Λαλούντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ac 4:17",
+      "text": "μηκέτι λαλεῖν ἐπὶ",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Ac 4:20",
+      "text": "μὴ λαλεῖν.",
+      "highlightedWord": "λαλεῖν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Ac 4:29",
+      "text": "πάσης λαλεῖν τὸν",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Ac 4:31",
+      "text": "καὶ ἐλάλουν τὸν",
+      "highlightedWord": "ἐλάλουν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Ac 5:20",
+      "text": "σταθέντες λαλεῖτε ἐν",
+      "highlightedWord": "λαλεῖτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Ac 5:40",
+      "text": "μὴ λαλεῖν ἐπὶ",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Ac 6:10",
+      "text": "ᾧ ἐλάλει.",
+      "highlightedWord": "ἐλάλει."
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Ac 6:11",
+      "text": "αὐτοῦ λαλοῦντος ῥήματα",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ac 6:13",
+      "text": "παύεται λαλῶν ῥήματα",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Ac 7:6",
+      "text": "ἐλάλησεν δὲ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Ac 7:38",
+      "text": "τοῦ λαλοῦντος αὐτῷ",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Ac 7:44",
+      "text": "ὁ λαλῶν τῷ",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Ac 8:25",
+      "text": "καὶ λαλήσαντες τὸν",
+      "highlightedWord": "λαλήσαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Ac 8:26",
+      "text": "κυρίου ἐλάλησεν πρὸς",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Ac 9:6",
+      "text": "καὶ λαληθήσεταί σοι",
+      "highlightedWord": "λαληθήσεταί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Ac 9:27",
+      "text": "ὅτι ἐλάλησεν αὐτῷ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Ac 9:29",
+      "text": "ἐλάλει τε",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Ac 10:7",
+      "text": "ὁ λαλῶν αὐτῷ,",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 44,
+      "reference": "Ac 10:44",
+      "text": "Ἔτι λαλοῦντος τοῦ",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 46,
+      "reference": "Ac 10:46",
+      "text": "αὐτῶν λαλούντων γλώσσαις",
+      "highlightedWord": "λαλούντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Ac 11:14",
+      "text": "ὃς λαλήσει ῥήματα",
+      "highlightedWord": "λαλήσει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Ac 11:15",
+      "text": "με λαλεῖν ἐπέπεσεν",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ac 11:19",
+      "text": "μηδενὶ λαλοῦντες τὸν",
+      "highlightedWord": "λαλοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Ac 11:20",
+      "text": "Ἀντιόχειαν ἐλάλουν καὶ",
+      "highlightedWord": "ἐλάλουν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 42,
+      "reference": "Ac 13:42",
+      "text": "σάββατον λαληθῆναι αὐτοῖς",
+      "highlightedWord": "λαληθῆναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 45,
+      "reference": "Ac 13:45",
+      "text": "Παύλου λαλουμένοις βλασφημοῦντες.",
+      "highlightedWord": "λαλουμένοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Ac 13:46",
+      "text": "πρῶτον λαληθῆναι τὸν",
+      "highlightedWord": "λαληθῆναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ac 14:1",
+      "text": "καὶ λαλῆσαι οὕτως",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Ac 14:9",
+      "text": "Παύλου λαλοῦντος· ὃς",
+      "highlightedWord": "λαλοῦντος·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Ac 14:25",
+      "text": "καὶ λαλήσαντες ἐν",
+      "highlightedWord": "λαλήσαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Ac 16:6",
+      "text": "πνεύματος λαλῆσαι τὸν",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Ac 16:13",
+      "text": "καθίσαντες ἐλαλοῦμεν ταῖς",
+      "highlightedWord": "ἐλαλοῦμεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Ac 16:14",
+      "text": "τοῖς λαλουμένοις ὑπὸ",
+      "highlightedWord": "λαλουμένοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 32,
+      "reference": "Ac 16:32",
+      "text": "καὶ ἐλάλησαν αὐτῷ",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 19,
+      "reference": "Ac 17:19",
+      "text": "σοῦ λαλουμένη διδαχή;",
+      "highlightedWord": "λαλουμένη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Ac 18:9",
+      "text": "ἀλλὰ λάλει καὶ",
+      "highlightedWord": "λάλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Ac 18:25",
+      "text": "πνεύματι ἐλάλει καὶ",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Ac 19:6",
+      "text": "αὐτούς, ἐλάλουν τε",
+      "highlightedWord": "ἐλάλουν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Ac 20:30",
+      "text": "ἄνδρες λαλοῦντες διεστραμμένα",
+      "highlightedWord": "λαλοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 39,
+      "reference": "Ac 21:39",
+      "text": "μοι λαλῆσαι πρὸς",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Ac 22:9",
+      "text": "τοῦ λαλοῦντός μοι.",
+      "highlightedWord": "λαλοῦντός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Ac 22:10",
+      "text": "σοι λαληθήσεται περὶ",
+      "highlightedWord": "λαληθήσεται"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 7,
+      "reference": "Ac 23:7",
+      "text": "αὐτοῦ λαλοῦντος ἐγένετο",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "πνεῦμα ἐλάλησεν αὐτῷ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 18,
+      "reference": "Ac 23:18",
+      "text": "τι λαλῆσαί σοι.",
+      "highlightedWord": "λαλῆσαί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "προφῆται ἐλάλησαν μελλόντων",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 26,
+      "reference": "Ac 26:26",
+      "text": "παρρησιαζόμενος λαλῶ· λανθάνειν",
+      "highlightedWord": "λαλῶ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Ac 26:31",
+      "text": "ἀναχωρήσαντες ἐλάλουν πρὸς",
+      "highlightedWord": "ἐλάλουν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 25,
+      "reference": "Ac 27:25",
+      "text": "τρόπον λελάληταί μοι.",
+      "highlightedWord": "λελάληταί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 21,
+      "reference": "Ac 28:21",
+      "text": "ἢ ἐλάλησέν τι",
+      "highlightedWord": "ἐλάλησέν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 25,
+      "reference": "Ac 28:25",
+      "text": "ἅγιον ἐλάλησεν διὰ",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ro 3:19",
+      "text": "νόμῳ λαλεῖ, ἵνα",
+      "highlightedWord": "λαλεῖ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ro 7:1",
+      "text": "νόμον λαλῶ, ὅτι",
+      "highlightedWord": "λαλῶ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Ro 15:18",
+      "text": "τι λαλεῖν ὧν",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Co 2:6",
+      "text": "δὲ λαλοῦμεν ἐν",
+      "highlightedWord": "λαλοῦμεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Co 2:7",
+      "text": "ἀλλὰ λαλοῦμεν θεοῦ",
+      "highlightedWord": "λαλοῦμεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Co 2:13",
+      "text": "καὶ λαλοῦμεν οὐκ",
+      "highlightedWord": "λαλοῦμεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Co 3:1",
+      "text": "ἠδυνήθην λαλῆσαι ὑμῖν",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "1Co 9:8",
+      "text": "ταῦτα λαλῶ ἢ",
+      "highlightedWord": "λαλῶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "1Co 12:3",
+      "text": "θεοῦ λαλῶν λέγει·",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "1Co 12:30",
+      "text": "γλώσσαις λαλοῦσιν; μὴ",
+      "highlightedWord": "λαλοῦσιν;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "1Co 13:1",
+      "text": "ἀνθρώπων λαλῶ καὶ",
+      "highlightedWord": "λαλῶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "1Co 13:11",
+      "text": "νήπιος, ἐλάλουν ὡς",
+      "highlightedWord": "ἐλάλουν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "1Co 14:2",
+      "text": "γὰρ λαλῶν γλώσσῃ",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "1Co 14:3",
+      "text": "ἀνθρώποις λαλεῖ οἰκοδομὴν",
+      "highlightedWord": "λαλεῖ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "1Co 14:4",
+      "text": "ὁ λαλῶν γλώσσῃ",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "1Co 14:5",
+      "text": "ὑμᾶς λαλεῖν γλώσσαις,",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "1Co 14:6",
+      "text": "γλώσσαις λαλῶν, τί",
+      "highlightedWord": "λαλῶν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "1Co 14:9",
+      "text": "τὸ λαλούμενον; ἔσεσθε",
+      "highlightedWord": "λαλούμενον;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "1Co 14:11",
+      "text": "τῷ λαλοῦντι βάρβαρος",
+      "highlightedWord": "λαλοῦντι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "1Co 14:13",
+      "text": "ὁ λαλῶν γλώσσῃ",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "1Co 14:18",
+      "text": "γλώσσαις λαλῶ·",
+      "highlightedWord": "λαλῶ·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "1Co 14:19",
+      "text": "μου λαλῆσαι, ἵνα",
+      "highlightedWord": "λαλῆσαι,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "1Co 14:21",
+      "text": "ἑτέρων λαλήσω τῷ",
+      "highlightedWord": "λαλήσω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "1Co 14:23",
+      "text": "πάντες λαλῶσιν γλώσσαις,",
+      "highlightedWord": "λαλῶσιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "1Co 14:27",
+      "text": "τις λαλεῖ, κατὰ",
+      "highlightedWord": "λαλεῖ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "1Co 14:28",
+      "text": "δὲ λαλείτω καὶ",
+      "highlightedWord": "λαλείτω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "1Co 14:29",
+      "text": "τρεῖς λαλείτωσαν, καὶ",
+      "highlightedWord": "λαλείτωσαν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 34,
+      "reference": "1Co 14:34",
+      "text": "αὐταῖς λαλεῖν· ἀλλὰ",
+      "highlightedWord": "λαλεῖν·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "1Co 14:35",
+      "text": "γυναικὶ λαλεῖν ἐν",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 39,
+      "reference": "1Co 14:39",
+      "text": "τὸ λαλεῖν μὴ",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "1Co 15:34",
+      "text": "ὑμῖν λαλῶ.",
+      "highlightedWord": "λαλῶ."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "2Co 2:17",
+      "text": "Χριστῷ λαλοῦμεν.",
+      "highlightedWord": "λαλοῦμεν."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "2Co 4:13",
+      "text": "διὸ ἐλάλησα, καὶ",
+      "highlightedWord": "ἐλάλησα,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "2Co 7:14",
+      "text": "ἀληθείᾳ ἐλαλήσαμεν ὑμῖν,",
+      "highlightedWord": "ἐλαλήσαμεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "2Co 11:17",
+      "text": "ὃ λαλῶ οὐ",
+      "highlightedWord": "λαλῶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "2Co 11:23",
+      "text": "παραφρονῶν λαλῶ, ὑπὲρ",
+      "highlightedWord": "λαλῶ,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "2Co 12:4",
+      "text": "ἀνθρώπῳ λαλῆσαι.",
+      "highlightedWord": "λαλῆσαι."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "2Co 12:19",
+      "text": "Χριστῷ λαλοῦμεν. τὰ",
+      "highlightedWord": "λαλοῦμεν."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "2Co 13:3",
+      "text": "ἐμοὶ λαλοῦντος Χριστοῦ·",
+      "highlightedWord": "λαλοῦντος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Eph 4:25",
+      "text": "ψεῦδος λαλεῖτε ἀλήθειαν",
+      "highlightedWord": "λαλεῖτε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Eph 5:19",
+      "text": "λαλοῦντες ἑαυτοῖς",
+      "highlightedWord": "λαλοῦντες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Eph 6:20",
+      "text": "με λαλῆσαι.",
+      "highlightedWord": "λαλῆσαι."
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Php 1:14",
+      "text": "λόγον λαλεῖν.",
+      "highlightedWord": "λαλεῖν."
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Col 4:3",
+      "text": "λόγου, λαλῆσαι τὸ",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Col 4:4",
+      "text": "με λαλῆσαι.",
+      "highlightedWord": "λαλῆσαι."
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "ἡμᾶς λαλεῖν τι·",
+      "highlightedWord": "λαλεῖν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Th 2:2",
+      "text": "ἡμῶν λαλῆσαι πρὸς",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Th 2:4",
+      "text": "οὕτως λαλοῦμεν, οὐχ",
+      "highlightedWord": "λαλοῦμεν,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Th 2:16",
+      "text": "ἔθνεσιν λαλῆσαι ἵνα",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Ti 5:13",
+      "text": "περίεργοι, λαλοῦσαι τὰ",
+      "highlightedWord": "λαλοῦσαι"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Tit 2:1",
+      "text": "δὲ λάλει ἃ",
+      "highlightedWord": "λάλει"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Tit 2:15",
+      "text": "Ταῦτα λάλει καὶ",
+      "highlightedWord": "λάλει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Heb 1:1",
+      "text": "θεὸς λαλήσας τοῖς",
+      "highlightedWord": "λαλήσας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Heb 1:2",
+      "text": "τούτων ἐλάλησεν ἡμῖν",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Heb 2:2",
+      "text": "ἀγγέλων λαληθεὶς λόγος",
+      "highlightedWord": "λαληθεὶς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Heb 2:3",
+      "text": "λαβοῦσα λαλεῖσθαι διὰ",
+      "highlightedWord": "λαλεῖσθαι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Heb 2:5",
+      "text": "ἧς λαλοῦμεν·",
+      "highlightedWord": "λαλοῦμεν·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Heb 3:5",
+      "text": "τῶν λαληθησομένων,",
+      "highlightedWord": "λαληθησομένων,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Heb 4:8",
+      "text": "ἄλλης ἐλάλει μετὰ",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Heb 5:5",
+      "text": "ὁ λαλήσας πρὸς",
+      "highlightedWord": "λαλήσας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Heb 6:9",
+      "text": "οὕτως λαλοῦμεν·",
+      "highlightedWord": "λαλοῦμεν·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Heb 7:14",
+      "text": "Μωϋσῆς ἐλάλησεν.",
+      "highlightedWord": "ἐλάλησεν."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Heb 9:19",
+      "text": "λαληθείσης γὰρ",
+      "highlightedWord": "λαληθείσης"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Heb 11:4",
+      "text": "ἔτι λαλεῖ.",
+      "highlightedWord": "λαλεῖ."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Heb 11:18",
+      "text": "ὃν ἐλαλήθη ὅτι",
+      "highlightedWord": "ἐλαλήθη"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Heb 12:24",
+      "text": "κρεῖττον λαλοῦντι παρὰ",
+      "highlightedWord": "λαλοῦντι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Heb 12:25",
+      "text": "τὸν λαλοῦντα· εἰ",
+      "highlightedWord": "λαλοῦντα·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Heb 13:7",
+      "text": "οἵτινες ἐλάλησαν ὑμῖν",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Jas 1:19",
+      "text": "τὸ λαλῆσαι, βραδὺς",
+      "highlightedWord": "λαλῆσαι,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Jas 2:12",
+      "text": "οὕτως λαλεῖτε καὶ",
+      "highlightedWord": "λαλεῖτε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Jas 5:10",
+      "text": "οἳ ἐλάλησαν ἐν",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Pe 3:10",
+      "text": "μὴ λαλῆσαι δόλον,",
+      "highlightedWord": "λαλῆσαι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Pe 4:11",
+      "text": "τις λαλεῖ, ὡς",
+      "highlightedWord": "λαλεῖ,"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "2Pe 1:21",
+      "text": "φερόμενοι ἐλάλησαν ἀπὸ",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "2Pe 3:16",
+      "text": "ἐπιστολαῖς λαλῶν ἐν",
+      "highlightedWord": "λαλῶν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Jn 4:5",
+      "text": "κόσμου λαλοῦσιν καὶ",
+      "highlightedWord": "λαλοῦσιν"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Jn 1:12",
+      "text": "στόμα λαλῆσαι, ἵνα",
+      "highlightedWord": "λαλῆσαι,"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "3Jn 1:14",
+      "text": "στόμα λαλήσομεν.",
+      "highlightedWord": "λαλήσομεν."
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Jud 1:15",
+      "text": "ὧν ἐλάλησαν κατ’",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Jud 1:16",
+      "text": "αὐτῶν λαλεῖ ὑπέρογκα,",
+      "highlightedWord": "λαλεῖ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Re 1:12",
+      "text": "ἥτις ἐλάλει μετ’",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "σάλπιγγος λαλούσης μετ’",
+      "highlightedWord": "λαλούσης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Re 10:3",
+      "text": "ἔκραξεν, ἐλάλησαν αἱ",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Re 10:4",
+      "text": "ὅτε ἐλάλησαν αἱ",
+      "highlightedWord": "ἐλάλησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Re 10:8",
+      "text": "πάλιν λαλοῦσαν μετ’",
+      "highlightedWord": "λαλοῦσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Re 13:5",
+      "text": "στόμα λαλοῦν μεγάλα",
+      "highlightedWord": "λαλοῦν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Re 13:11",
+      "text": "καὶ ἐλάλει ὡς",
+      "highlightedWord": "ἐλάλει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Re 13:15",
+      "text": "καὶ λαλήσῃ ἡ",
+      "highlightedWord": "λαλήσῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Re 17:1",
+      "text": "καὶ ἐλάλησεν μετ’",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Re 21:9",
+      "text": "καὶ ἐλάλησεν μετ’",
+      "highlightedWord": "ἐλάλησεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Re 21:15",
+      "text": "ὁ λαλῶν μετ’",
+      "highlightedWord": "λαλῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

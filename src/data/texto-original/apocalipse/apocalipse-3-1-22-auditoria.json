@@ -1,0 +1,13 @@
+{
+  "source": "SBLGNT / MorphGNT 6.12",
+  "morphgntCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "scope": "Apocalipse 3:1–22",
+  "verseCount": 22,
+  "tokenCount": 525,
+  "strongMappingException": {
+    "lemma": "ζηλεύω",
+    "strong": "G2206",
+    "reference": "Apocalipse 3:19"
+  },
+  "academicStatus": "Revisão editorial em rascunho; aguardando build Astro e cotejo final de glosas."
+}

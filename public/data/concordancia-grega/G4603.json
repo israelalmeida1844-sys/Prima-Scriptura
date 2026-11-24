@@ -1,0 +1,57 @@
+{
+  "strong": "G4603",
+  "lemma": "σιδηροῦς",
+  "lemmaTranslit": "sidērous",
+  "tokenCount": 5,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Atos": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "τὴν σιδηρᾶν τὴν",
+      "highlightedWord": "σιδηρᾶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Re 2:27",
+      "text": "ῥάβδῳ σιδηρᾷ ὡς",
+      "highlightedWord": "σιδηρᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Re 9:9",
+      "text": "θώρακας σιδηροῦς, καὶ",
+      "highlightedWord": "σιδηροῦς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Re 12:5",
+      "text": "ῥάβδῳ σιδηρᾷ· καὶ",
+      "highlightedWord": "σιδηρᾷ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "ῥάβδῳ σιδηρᾷ· καὶ",
+      "highlightedWord": "σιδηρᾷ·"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

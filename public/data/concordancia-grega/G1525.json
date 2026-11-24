@@ -1,0 +1,1489 @@
+{
+  "strong": "G1525",
+  "lemma": "εἰσέρχομαι",
+  "lemmaTranslit": "eiserchomai",
+  "tokenCount": 193,
+  "verseCount": 183,
+  "bookDistribution": {
+    "Mateus": 36,
+    "Marcos": 29,
+    "Lucas": 50,
+    "João": 15,
+    "Atos": 34,
+    "Romanos": 2,
+    "1 Coríntios": 2,
+    "Hebreus": 17,
+    "Tiago": 3,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Mt 2:21",
+      "text": "καὶ εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Mt 5:20",
+      "text": "μὴ εἰσέλθητε εἰς",
+      "highlightedWord": "εἰσέλθητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Mt 6:6",
+      "text": "προσεύχῃ, εἴσελθε εἰς",
+      "highlightedWord": "εἴσελθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Mt 7:13",
+      "text": "Εἰσέλθατε διὰ",
+      "highlightedWord": "Εἰσέλθατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mt 7:21",
+      "text": "κύριε εἰσελεύσεται εἰς",
+      "highlightedWord": "εἰσελεύσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Mt 8:5",
+      "text": "Εἰσελθόντος δὲ",
+      "highlightedWord": "Εἰσελθόντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Mt 8:8",
+      "text": "στέγην εἰσέλθῃς· ἀλλὰ",
+      "highlightedWord": "εἰσέλθῃς·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Mt 9:25",
+      "text": "ὄχλος, εἰσελθὼν ἐκράτησεν",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Mt 10:5",
+      "text": "μὴ εἰσέλθητε·",
+      "highlightedWord": "εἰσέλθητε·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Mt 10:11",
+      "text": "κώμην εἰσέλθητε, ἐξετάσατε",
+      "highlightedWord": "εἰσέλθητε,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Mt 10:12",
+      "text": "εἰσερχόμενοι δὲ",
+      "highlightedWord": "εἰσερχόμενοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Mt 12:4",
+      "text": "πῶς εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mt 12:29",
+      "text": "τις εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "καὶ εἰσελθόντα κατοικεῖ",
+      "highlightedWord": "εἰσελθόντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Mt 15:11",
+      "text": "τὸ εἰσερχόμενον εἰς",
+      "highlightedWord": "εἰσερχόμενον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Mt 18:3",
+      "text": "μὴ εἰσέλθητε εἰς",
+      "highlightedWord": "εἰσέλθητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Mt 18:8",
+      "text": "ἐστιν εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Mt 18:9",
+      "text": "ζωὴν εἰσελθεῖν, ἢ",
+      "highlightedWord": "εἰσελθεῖν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Mt 19:17",
+      "text": "ζωὴν εἰσελθεῖν, τήρησον",
+      "highlightedWord": "εἰσελθεῖν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Mt 19:23",
+      "text": "δυσκόλως εἰσελεύσεται εἰς",
+      "highlightedWord": "εἰσελεύσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Mt 19:24",
+      "text": "ῥαφίδος εἰσελθεῖν ἢ",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Mt 21:10",
+      "text": "καὶ εἰσελθόντος αὐτοῦ",
+      "highlightedWord": "εἰσελθόντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Mt 21:12",
+      "text": "Καὶ εἰσῆλθεν Ἰησοῦς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Mt 22:11",
+      "text": "εἰσελθὼν δὲ",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Mt 22:12",
+      "text": "πῶς εἰσῆλθες ὧδε",
+      "highlightedWord": "εἰσῆλθες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 13,
+      "reference": "Mt 23:13",
+      "text": "οὐκ εἰσέρχεσθε, οὐδὲ",
+      "highlightedWord": "εἰσέρχεσθε,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 38,
+      "reference": "Mt 24:38",
+      "text": "ἡμέρας εἰσῆλθεν Νῶε",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Mt 25:10",
+      "text": "ἕτοιμοι εἰσῆλθον μετ’",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 21,
+      "reference": "Mt 25:21",
+      "text": "καταστήσω· εἴσελθε εἰς",
+      "highlightedWord": "εἴσελθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 23,
+      "reference": "Mt 25:23",
+      "text": "καταστήσω· εἴσελθε εἰς",
+      "highlightedWord": "εἴσελθε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 41,
+      "reference": "Mt 26:41",
+      "text": "μὴ εἰσέλθητε εἰς",
+      "highlightedWord": "εἰσέλθητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 58,
+      "reference": "Mt 26:58",
+      "text": "καὶ εἰσελθὼν ἔσω",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 53,
+      "reference": "Mt 27:53",
+      "text": "αὐτοῦ εἰσῆλθον εἰς",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "πόλιν εἰσελθεῖν, ἀλλὰ",
+      "highlightedWord": "εἰσελθεῖν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Mk 2:1",
+      "text": "Καὶ εἰσελθὼν πάλιν",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Mk 2:26",
+      "text": "πῶς εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Mk 3:1",
+      "text": "Καὶ εἰσῆλθεν πάλιν",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Mk 3:27",
+      "text": "ἰσχυροῦ εἰσελθὼν τὰ",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Mk 5:12",
+      "text": "αὐτοὺς εἰσέλθωμεν.",
+      "highlightedWord": "εἰσέλθωμεν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mk 5:13",
+      "text": "ἀκάθαρτα εἰσῆλθον εἰς",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Mk 5:39",
+      "text": "καὶ εἰσελθὼν λέγει",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Mk 6:10",
+      "text": "ἐὰν εἰσέλθητε εἰς",
+      "highlightedWord": "εἰσέλθητε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Mk 6:22",
+      "text": "καὶ εἰσελθούσης τῆς",
+      "highlightedWord": "εἰσελθούσης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mk 6:25",
+      "text": "καὶ εἰσελθοῦσα εὐθὺς",
+      "highlightedWord": "εἰσελθοῦσα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Mk 7:17",
+      "text": "ὅτε εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Mk 7:24",
+      "text": "καὶ εἰσελθὼν εἰς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Mk 8:26",
+      "text": "κώμην εἰσέλθῃς.",
+      "highlightedWord": "εἰσέλθῃς."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Mk 9:25",
+      "text": "μηκέτι εἰσέλθῃς εἰς",
+      "highlightedWord": "εἰσέλθῃς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Mk 9:28",
+      "text": "καὶ εἰσελθόντος αὐτοῦ",
+      "highlightedWord": "εἰσελθόντος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Mk 9:43",
+      "text": "κυλλὸν εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Mk 9:45",
+      "text": "σε εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Mk 9:47",
+      "text": "μονόφθαλμον εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Mk 10:15",
+      "text": "μὴ εἰσέλθῃ εἰς",
+      "highlightedWord": "εἰσέλθῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mk 10:23",
+      "text": "θεοῦ εἰσελεύσονται.",
+      "highlightedWord": "εἰσελεύσονται."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Mk 10:24",
+      "text": "θεοῦ εἰσελθεῖν·",
+      "highlightedWord": "εἰσελθεῖν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Mk 10:25",
+      "text": "θεοῦ εἰσελθεῖν.",
+      "highlightedWord": "εἰσελθεῖν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Mk 11:11",
+      "text": "Καὶ εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Mk 11:15",
+      "text": "καὶ εἰσελθὼν εἰς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Mk 13:15",
+      "text": "μηδὲ εἰσελθάτω τι",
+      "highlightedWord": "εἰσελθάτω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Mk 14:14",
+      "text": "ἐὰν εἰσέλθῃ εἴπατε",
+      "highlightedWord": "εἰσέλθῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 43,
+      "reference": "Mk 15:43",
+      "text": "τολμήσας εἰσῆλθεν πρὸς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Mk 16:5",
+      "text": "καὶ εἰσελθοῦσαι εἰς",
+      "highlightedWord": "εἰσελθοῦσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Lk 1:9",
+      "text": "θυμιᾶσαι εἰσελθὼν εἰς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Lk 1:28",
+      "text": "καὶ εἰσελθὼν πρὸς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 40,
+      "reference": "Lk 1:40",
+      "text": "καὶ εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Lk 4:16",
+      "text": "καὶ εἰσῆλθεν κατὰ",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 38,
+      "reference": "Lk 4:38",
+      "text": "συναγωγῆς εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Lk 6:4",
+      "text": "ὡς εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Lk 6:6",
+      "text": "σαββάτῳ εἰσελθεῖν αὐτὸν",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Lk 7:1",
+      "text": "λαοῦ, εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Lk 7:6",
+      "text": "μου εἰσέλθῃς·",
+      "highlightedWord": "εἰσέλθῃς·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Lk 7:36",
+      "text": "καὶ εἰσελθὼν εἰς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Lk 7:44",
+      "text": "γυναῖκα; εἰσῆλθόν σου",
+      "highlightedWord": "εἰσῆλθόν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Lk 7:45",
+      "text": "ἧς εἰσῆλθον οὐ",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Lk 8:30",
+      "text": "ὅτι εἰσῆλθεν δαιμόνια",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Lk 8:32",
+      "text": "ἐκείνους εἰσελθεῖν· καὶ",
+      "highlightedWord": "εἰσελθεῖν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Lk 8:33",
+      "text": "ἀνθρώπου εἰσῆλθον εἰς",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Lk 8:41",
+      "text": "αὐτὸν εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Lk 8:51",
+      "text": "ἀφῆκεν εἰσελθεῖν τινα",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Lk 9:4",
+      "text": "οἰκίαν εἰσέλθητε, ἐκεῖ",
+      "highlightedWord": "εἰσέλθητε,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Lk 9:34",
+      "text": "τῷ εἰσελθεῖν αὐτοὺς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 46,
+      "reference": "Lk 9:46",
+      "text": "Εἰσῆλθεν δὲ",
+      "highlightedWord": "Εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 52,
+      "reference": "Lk 9:52",
+      "text": "πορευθέντες εἰσῆλθον εἰς",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Lk 10:5",
+      "text": "ἂν εἰσέλθητε οἰκίαν",
+      "highlightedWord": "εἰσέλθητε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Lk 10:8",
+      "text": "πόλιν εἰσέρχησθε καὶ",
+      "highlightedWord": "εἰσέρχησθε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Lk 10:10",
+      "text": "πόλιν εἰσέλθητε καὶ",
+      "highlightedWord": "εἰσέλθητε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Lk 10:38",
+      "text": "αὐτὸς εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Lk 11:26",
+      "text": "καὶ εἰσελθόντα κατοικεῖ",
+      "highlightedWord": "εἰσελθόντα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Lk 11:37",
+      "text": "αὐτῷ· εἰσελθὼν δὲ",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 52,
+      "reference": "Lk 11:52",
+      "text": "οὐκ εἰσήλθατε καὶ",
+      "highlightedWord": "εἰσήλθατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Lk 13:24",
+      "text": "Ἀγωνίζεσθε εἰσελθεῖν διὰ",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Lk 14:23",
+      "text": "ἀνάγκασον εἰσελθεῖν, ἵνα",
+      "highlightedWord": "εἰσελθεῖν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Lk 15:28",
+      "text": "ἤθελεν εἰσελθεῖν. ὁ",
+      "highlightedWord": "εἰσελθεῖν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Lk 17:7",
+      "text": "ὃς εἰσελθόντι ἐκ",
+      "highlightedWord": "εἰσελθόντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Lk 17:12",
+      "text": "καὶ εἰσερχομένου αὐτοῦ",
+      "highlightedWord": "εἰσερχομένου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Lk 17:27",
+      "text": "ἡμέρας εἰσῆλθεν Νῶε",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Lk 18:17",
+      "text": "μὴ εἰσέλθῃ εἰς",
+      "highlightedWord": "εἰσέλθῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Lk 18:25",
+      "text": "βελόνης εἰσελθεῖν ἢ",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Lk 19:1",
+      "text": "Καὶ εἰσελθὼν διήρχετο",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Lk 19:7",
+      "text": "ἀνδρὶ εἰσῆλθεν καταλῦσαι.",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 45,
+      "reference": "Lk 19:45",
+      "text": "Καὶ εἰσελθὼν εἰς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Lk 21:21",
+      "text": "μὴ εἰσερχέσθωσαν εἰς",
+      "highlightedWord": "εἰσερχέσθωσαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 3,
+      "reference": "Lk 22:3",
+      "text": "Εἰσῆλθεν δὲ",
+      "highlightedWord": "Εἰσῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Lk 22:10",
+      "text": "Ἰδοὺ εἰσελθόντων ὑμῶν",
+      "highlightedWord": "εἰσελθόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 40,
+      "reference": "Lk 22:40",
+      "text": "μὴ εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Lk 22:46",
+      "text": "μὴ εἰσέλθητε εἰς",
+      "highlightedWord": "εἰσέλθητε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 3,
+      "reference": "Lk 24:3",
+      "text": "εἰσελθοῦσαι δὲ",
+      "highlightedWord": "εἰσελθοῦσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 26,
+      "reference": "Lk 24:26",
+      "text": "καὶ εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Lk 24:29",
+      "text": "καὶ εἰσῆλθεν τοῦ",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Jn 3:4",
+      "text": "δεύτερον εἰσελθεῖν καὶ",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Jn 3:5",
+      "text": "δύναται εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 38,
+      "reference": "Jn 4:38",
+      "text": "αὐτῶν εἰσεληλύθατε.",
+      "highlightedWord": "εἰσεληλύθατε."
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Jn 10:1",
+      "text": "μὴ εἰσερχόμενος διὰ",
+      "highlightedWord": "εἰσερχόμενος"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Jn 10:2",
+      "text": "δὲ εἰσερχόμενος διὰ",
+      "highlightedWord": "εἰσερχόμενος"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Jn 10:9",
+      "text": "τις εἰσέλθῃ σωθήσεται",
+      "highlightedWord": "εἰσέλθῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Jn 13:27",
+      "text": "τότε εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Jn 18:1",
+      "text": "ὃν εἰσῆλθεν αὐτὸς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Jn 18:28",
+      "text": "οὐκ εἰσῆλθον εἰς",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 33,
+      "reference": "Jn 18:33",
+      "text": "Εἰσῆλθεν οὖν",
+      "highlightedWord": "Εἰσῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Jn 19:9",
+      "text": "καὶ εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Jn 20:5",
+      "text": "μέντοι εἰσῆλθεν.",
+      "highlightedWord": "εἰσῆλθεν."
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Jn 20:6",
+      "text": "καὶ εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Jn 20:8",
+      "text": "οὖν εἰσῆλθεν καὶ",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ac 1:13",
+      "text": "ὅτε εἰσῆλθον, εἰς",
+      "highlightedWord": "εἰσῆλθον,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Ac 1:21",
+      "text": "ᾧ εἰσῆλθεν καὶ",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ac 3:8",
+      "text": "καὶ εἰσῆλθεν σὺν",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ac 5:7",
+      "text": "γεγονὸς εἰσῆλθεν.",
+      "highlightedWord": "εἰσῆλθεν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ac 5:10",
+      "text": "ἐξέψυξεν· εἰσελθόντες δὲ",
+      "highlightedWord": "εἰσελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Ac 5:21",
+      "text": "δὲ εἰσῆλθον ὑπὸ",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Ac 9:6",
+      "text": "καὶ εἴσελθε εἰς",
+      "highlightedWord": "εἴσελθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Ac 9:12",
+      "text": "ὀνόματι εἰσελθόντα καὶ",
+      "highlightedWord": "εἰσελθόντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Ac 9:17",
+      "text": "καὶ εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Ac 10:3",
+      "text": "θεοῦ εἰσελθόντα πρὸς",
+      "highlightedWord": "εἰσελθόντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Ac 10:24",
+      "text": "ἐπαύριον εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Ac 10:25",
+      "text": "τοῦ εἰσελθεῖν τὸν",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Ac 10:27",
+      "text": "αὐτῷ εἰσῆλθεν, καὶ",
+      "highlightedWord": "εἰσῆλθεν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Ac 11:3",
+      "text": "ὅτι Εἰσῆλθες πρὸς",
+      "highlightedWord": "Εἰσῆλθες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Ac 11:8",
+      "text": "οὐδέποτε εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Ac 11:12",
+      "text": "καὶ εἰσήλθομεν εἰς",
+      "highlightedWord": "εἰσήλθομεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Ac 13:14",
+      "text": "καὶ εἰσελθόντες εἰς",
+      "highlightedWord": "εἰσελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ac 14:1",
+      "text": "αὐτὸ εἰσελθεῖν αὐτοὺς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ac 14:20",
+      "text": "ἀναστὰς εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ac 14:22",
+      "text": "ἡμᾶς εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Ac 16:15",
+      "text": "εἶναι, εἰσελθόντες εἰς",
+      "highlightedWord": "εἰσελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 40,
+      "reference": "Ac 16:40",
+      "text": "φυλακῆς εἰσῆλθον πρὸς",
+      "highlightedWord": "εἰσῆλθον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Ac 17:2",
+      "text": "Παύλῳ εἰσῆλθεν πρὸς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Ac 18:7",
+      "text": "ἐκεῖθεν εἰσῆλθεν εἰς",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Ac 18:19",
+      "text": "δὲ εἰσελθὼν εἰς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Ac 19:8",
+      "text": "Εἰσελθὼν δὲ",
+      "highlightedWord": "Εἰσελθὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Ac 19:30",
+      "text": "βουλομένου εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Ac 20:29",
+      "text": "ὅτι εἰσελεύσονται μετὰ",
+      "highlightedWord": "εἰσελεύσονται"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Ac 21:8",
+      "text": "καὶ εἰσελθόντες εἰς",
+      "highlightedWord": "εἰσελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 16,
+      "reference": "Ac 23:16",
+      "text": "καὶ εἰσελθὼν εἰς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 33,
+      "reference": "Ac 23:33",
+      "text": "οἵτινες εἰσελθόντες εἰς",
+      "highlightedWord": "εἰσελθόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 23,
+      "reference": "Ac 25:23",
+      "text": "καὶ εἰσελθόντων εἰς",
+      "highlightedWord": "εἰσελθόντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 8,
+      "reference": "Ac 28:8",
+      "text": "Παῦλος εἰσελθὼν καὶ",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 16,
+      "reference": "Ac 28:16",
+      "text": "δὲ εἰσήλθομεν εἰς",
+      "highlightedWord": "εἰσήλθομεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ro 5:12",
+      "text": "κόσμον εἰσῆλθεν καὶ",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "ἐθνῶν εἰσέλθῃ,",
+      "highlightedWord": "εἰσέλθῃ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "1Co 14:23",
+      "text": "γλώσσαις, εἰσέλθωσιν δὲ",
+      "highlightedWord": "εἰσέλθωσιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "1Co 14:24",
+      "text": "προφητεύωσιν, εἰσέλθῃ δέ",
+      "highlightedWord": "εἰσέλθῃ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Heb 3:11",
+      "text": "Εἰ εἰσελεύσονται εἰς",
+      "highlightedWord": "εἰσελεύσονται"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Heb 3:18",
+      "text": "μὴ εἰσελεύσεσθαι εἰς",
+      "highlightedWord": "εἰσελεύσεσθαι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Heb 3:19",
+      "text": "ἠδυνήθησαν εἰσελθεῖν δι’",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Heb 4:1",
+      "text": "ἐπαγγελίας εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Heb 4:3",
+      "text": "εἰσερχόμεθα γὰρ",
+      "highlightedWord": "εἰσερχόμεθα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Heb 4:5",
+      "text": "Εἰ εἰσελεύσονται εἰς",
+      "highlightedWord": "εἰσελεύσονται"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Heb 4:6",
+      "text": "τινὰς εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Heb 4:10",
+      "text": "γὰρ εἰσελθὼν εἰς",
+      "highlightedWord": "εἰσελθὼν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Heb 4:11",
+      "text": "οὖν εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Heb 6:19",
+      "text": "καὶ εἰσερχομένην εἰς",
+      "highlightedWord": "εἰσερχομένην"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Heb 6:20",
+      "text": "ἡμῶν εἰσῆλθεν Ἰησοῦς,",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Heb 9:12",
+      "text": "αἵματος, εἰσῆλθεν ἐφάπαξ",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Heb 9:24",
+      "text": "χειροποίητα εἰσῆλθεν ἅγια",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Heb 9:25",
+      "text": "ἀρχιερεὺς εἰσέρχεται εἰς",
+      "highlightedWord": "εἰσέρχεται"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Heb 10:5",
+      "text": "διὸ εἰσερχόμενος εἰς",
+      "highlightedWord": "εἰσερχόμενος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Jas 2:2",
+      "text": "γὰρ εἰσέλθῃ εἰς",
+      "highlightedWord": "εἰσέλθῃ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Jas 5:4",
+      "text": "Σαβαὼθ εἰσεληλύθασιν·",
+      "highlightedWord": "εἰσεληλύθασιν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "καὶ εἰσελεύσομαι πρὸς",
+      "highlightedWord": "εἰσελεύσομαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Re 11:11",
+      "text": "θεοῦ εἰσῆλθεν ἐν",
+      "highlightedWord": "εἰσῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Re 15:8",
+      "text": "ἐδύνατο εἰσελθεῖν εἰς",
+      "highlightedWord": "εἰσελθεῖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Re 21:27",
+      "text": "μὴ εἰσέλθῃ εἰς",
+      "highlightedWord": "εἰσέλθῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Re 22:14",
+      "text": "πυλῶσιν εἰσέλθωσιν εἰς",
+      "highlightedWord": "εἰσέλθωσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

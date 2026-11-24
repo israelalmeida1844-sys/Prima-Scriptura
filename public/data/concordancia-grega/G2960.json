@@ -1,0 +1,33 @@
+{
+  "strong": "G2960",
+  "lemma": "κυριακός",
+  "lemmaTranslit": "kyriakos",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "1 Coríntios": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "1Co 11:20",
+      "text": "ἔστιν κυριακὸν δεῖπνον",
+      "highlightedWord": "κυριακὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Re 1:10",
+      "text": "τῇ κυριακῇ ἡμέρᾳ,",
+      "highlightedWord": "κυριακῇ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

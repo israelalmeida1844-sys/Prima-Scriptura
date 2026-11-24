@@ -1,0 +1,75 @@
+{
+  "strong": "G2223",
+  "lemma": "ζώνη",
+  "lemmaTranslit": "zōnē",
+  "tokenCount": 8,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Marcos": 2,
+    "Atos": 2,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Mt 3:4",
+      "text": "καὶ ζώνην δερματίνην",
+      "highlightedWord": "ζώνην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Mt 10:9",
+      "text": "τὰς ζώνας ὑμῶν,",
+      "highlightedWord": "ζώνας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Mk 1:6",
+      "text": "καὶ ζώνην δερματίνην",
+      "highlightedWord": "ζώνην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mk 6:8",
+      "text": "τὴν ζώνην χαλκόν,",
+      "highlightedWord": "ζώνην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "τὴν ζώνην τοῦ",
+      "highlightedWord": "ζώνην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "μαστοῖς ζώνην χρυσᾶν·",
+      "highlightedWord": "ζώνην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Re 15:6",
+      "text": "στήθη ζώνας χρυσᾶς.",
+      "highlightedWord": "ζώνας"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

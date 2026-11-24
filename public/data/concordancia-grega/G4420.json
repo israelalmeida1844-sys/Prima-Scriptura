@@ -1,0 +1,58 @@
+{
+  "strong": "G4420",
+  "lemma": "πτέρυξ",
+  "lemmaTranslit": "pteryx",
+  "tokenCount": 5,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 37,
+      "reference": "Mt 23:37",
+      "text": "τὰς πτέρυγας, καὶ",
+      "highlightedWord": "πτέρυγας,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Lk 13:34",
+      "text": "τὰς πτέρυγας, καὶ",
+      "highlightedWord": "πτέρυγας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "ἀνὰ πτέρυγας ἕξ,",
+      "highlightedWord": "πτέρυγας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Re 9:9",
+      "text": "τῶν πτερύγων αὐτῶν",
+      "highlightedWord": "πτερύγων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "δύο πτέρυγες τοῦ",
+      "highlightedWord": "πτέρυγες"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

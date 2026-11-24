@@ -1,0 +1,1675 @@
+{
+  "strong": "G1097",
+  "lemma": "γινώσκω",
+  "lemmaTranslit": "ginōskō",
+  "tokenCount": 221,
+  "verseCount": 205,
+  "bookDistribution": {
+    "Mateus": 20,
+    "Marcos": 12,
+    "Lucas": 28,
+    "João": 56,
+    "Atos": 16,
+    "Romanos": 9,
+    "1 Coríntios": 16,
+    "2 Coríntios": 8,
+    "Gálatas": 4,
+    "Efésios": 3,
+    "Filipenses": 5,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "2 Timóteo": 3,
+    "Hebreus": 4,
+    "Tiago": 3,
+    "2 Pedro": 2,
+    "1 João": 25,
+    "2 João": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Mt 1:25",
+      "text": "οὐκ ἐγίνωσκεν αὐτὴν",
+      "highlightedWord": "ἐγίνωσκεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Mt 6:3",
+      "text": "μὴ γνώτω ἡ",
+      "highlightedWord": "γνώτω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Mt 7:23",
+      "text": "Οὐδέποτε ἔγνων ὑμᾶς·",
+      "highlightedWord": "ἔγνων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Mt 9:30",
+      "text": "μηδεὶς γινωσκέτω·",
+      "highlightedWord": "γινωσκέτω·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Mt 10:26",
+      "text": "οὐ γνωσθήσεται.",
+      "highlightedWord": "γνωσθήσεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Mt 12:7",
+      "text": "δὲ ἐγνώκειτε τί",
+      "highlightedWord": "ἐγνώκειτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Mt 12:15",
+      "text": "Ἰησοῦς γνοὺς ἀνεχώρησεν",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Mt 12:33",
+      "text": "δένδρον γινώσκεται.",
+      "highlightedWord": "γινώσκεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mt 13:11",
+      "text": "δέδοται γνῶναι τὰ",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Mt 16:3",
+      "text": "οὐρανοῦ γινώσκετε διακρίνειν,",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Mt 16:8",
+      "text": "γνοὺς δὲ",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 45,
+      "reference": "Mt 21:45",
+      "text": "αὐτοῦ ἔγνωσαν ὅτι",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Mt 22:18",
+      "text": "γνοὺς δὲ",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 32,
+      "reference": "Mt 24:32",
+      "text": "ἐκφύῃ, γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 33,
+      "reference": "Mt 24:33",
+      "text": "ταῦτα, γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 39,
+      "reference": "Mt 24:39",
+      "text": "οὐκ ἔγνωσαν ἕως",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "δὲ γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 50,
+      "reference": "Mt 24:50",
+      "text": "οὐ γινώσκει,",
+      "highlightedWord": "γινώσκει,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 24,
+      "reference": "Mt 25:24",
+      "text": "Κύριε, ἔγνων σε",
+      "highlightedWord": "ἔγνων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Mt 26:10",
+      "text": "γνοὺς δὲ",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Mk 4:13",
+      "text": "παραβολὰς γνώσεσθε;",
+      "highlightedWord": "γνώσεσθε;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Mk 5:29",
+      "text": "καὶ ἔγνω τῷ",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Mk 5:43",
+      "text": "μηδεὶς γνοῖ τοῦτο,",
+      "highlightedWord": "γνοῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Mk 6:38",
+      "text": "καὶ γνόντες λέγουσιν·",
+      "highlightedWord": "γνόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Mk 7:24",
+      "text": "ἤθελεν γνῶναι, καὶ",
+      "highlightedWord": "γνῶναι,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Mk 8:17",
+      "text": "καὶ γνοὺς λέγει",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Mk 9:30",
+      "text": "τις γνοῖ·",
+      "highlightedWord": "γνοῖ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mk 12:12",
+      "text": "ὄχλον, ἔγνωσαν γὰρ",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Mk 13:28",
+      "text": "φύλλα, γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Mk 13:29",
+      "text": "γινόμενα, γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Mk 15:10",
+      "text": "ἐγίνωσκεν γὰρ",
+      "highlightedWord": "ἐγίνωσκεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 45,
+      "reference": "Mk 15:45",
+      "text": "καὶ γνοὺς ἀπὸ",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Lk 1:18",
+      "text": "τί γνώσομαι τοῦτο;",
+      "highlightedWord": "γνώσομαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 34,
+      "reference": "Lk 1:34",
+      "text": "οὐ γινώσκω;",
+      "highlightedWord": "γινώσκω;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 43,
+      "reference": "Lk 2:43",
+      "text": "οὐκ ἔγνωσαν οἱ",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Lk 6:44",
+      "text": "καρποῦ γινώσκεται· οὐ",
+      "highlightedWord": "γινώσκεται·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Lk 7:39",
+      "text": "προφήτης, ἐγίνωσκεν ἂν",
+      "highlightedWord": "ἐγίνωσκεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Lk 8:10",
+      "text": "δέδοται γνῶναι τὰ",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Lk 8:17",
+      "text": "μὴ γνωσθῇ καὶ",
+      "highlightedWord": "γνωσθῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 46,
+      "reference": "Lk 8:46",
+      "text": "γὰρ ἔγνων δύναμιν",
+      "highlightedWord": "ἔγνων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Lk 9:11",
+      "text": "ὄχλοι γνόντες ἠκολούθησαν",
+      "highlightedWord": "γνόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Lk 10:11",
+      "text": "τοῦτο γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Lk 10:22",
+      "text": "οὐδεὶς γινώσκει τίς",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Lk 12:2",
+      "text": "οὐ γνωσθήσεται.",
+      "highlightedWord": "γνωσθήσεται."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Lk 12:39",
+      "text": "δὲ γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Lk 12:46",
+      "text": "οὐ γινώσκει, καὶ",
+      "highlightedWord": "γινώσκει,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Lk 12:47",
+      "text": "ὁ γνοὺς τὸ",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Lk 12:48",
+      "text": "μὴ γνοὺς ποιήσας",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Lk 16:4",
+      "text": "ἔγνων τί",
+      "highlightedWord": "ἔγνων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Lk 16:15",
+      "text": "θεὸς γινώσκει τὰς",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 34,
+      "reference": "Lk 18:34",
+      "text": "οὐκ ἐγίνωσκον τὰ",
+      "highlightedWord": "ἐγίνωσκον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Lk 19:15",
+      "text": "ἵνα γνοῖ τί",
+      "highlightedWord": "γνοῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Lk 19:42",
+      "text": "Εἰ ἔγνως ἐν",
+      "highlightedWord": "ἔγνως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 44,
+      "reference": "Lk 19:44",
+      "text": "οὐκ ἔγνως τὸν",
+      "highlightedWord": "ἔγνως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Lk 20:19",
+      "text": "λαόν, ἔγνωσαν γὰρ",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 20,
+      "reference": "Lk 21:20",
+      "text": "τότε γνῶτε ὅτι",
+      "highlightedWord": "γνῶτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Lk 21:30",
+      "text": "ἑαυτῶν γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Lk 21:31",
+      "text": "γινόμενα, γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Lk 24:18",
+      "text": "οὐκ ἔγνως τὰ",
+      "highlightedWord": "ἔγνως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 35,
+      "reference": "Lk 24:35",
+      "text": "ὡς ἐγνώσθη αὐτοῖς",
+      "highlightedWord": "ἐγνώσθη"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Jn 1:10",
+      "text": "οὐκ ἔγνω.",
+      "highlightedWord": "ἔγνω."
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 48,
+      "reference": "Jn 1:48",
+      "text": "με γινώσκεις; ἀπεκρίθη",
+      "highlightedWord": "γινώσκεις;"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Jn 2:24",
+      "text": "αὐτὸν γινώσκειν πάντας",
+      "highlightedWord": "γινώσκειν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Jn 2:25",
+      "text": "γὰρ ἐγίνωσκεν τί",
+      "highlightedWord": "ἐγίνωσκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Jn 3:10",
+      "text": "οὐ γινώσκεις;",
+      "highlightedWord": "γινώσκεις;"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Jn 4:1",
+      "text": "οὖν ἔγνω ὁ",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 53,
+      "reference": "Jn 4:53",
+      "text": "ἔγνω οὖν",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Jn 5:6",
+      "text": "καὶ γνοὺς ὅτι",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Jn 5:42",
+      "text": "ἀλλὰ ἔγνωκα ὑμᾶς",
+      "highlightedWord": "ἔγνωκα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Jn 6:15",
+      "text": "οὖν γνοὺς ὅτι",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 69,
+      "reference": "Jn 6:69",
+      "text": "καὶ ἐγνώκαμεν ὅτι",
+      "highlightedWord": "ἐγνώκαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Jn 7:17",
+      "text": "ποιεῖν, γνώσεται περὶ",
+      "highlightedWord": "γνώσεται"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Jn 7:26",
+      "text": "ἀληθῶς ἔγνωσαν οἱ",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Jn 7:27",
+      "text": "οὐδεὶς γινώσκει πόθεν",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Jn 7:49",
+      "text": "μὴ γινώσκων τὸν",
+      "highlightedWord": "γινώσκων"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 51,
+      "reference": "Jn 7:51",
+      "text": "καὶ γνῷ τί",
+      "highlightedWord": "γνῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Jn 8:27",
+      "text": "οὐκ ἔγνωσαν ὅτι",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "τότε γνώσεσθε ὅτι",
+      "highlightedWord": "γνώσεσθε"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Jn 8:32",
+      "text": "καὶ γνώσεσθε τὴν",
+      "highlightedWord": "γνώσεσθε"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 43,
+      "reference": "Jn 8:43",
+      "text": "οὐ γινώσκετε; ὅτι",
+      "highlightedWord": "γινώσκετε;"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Jn 8:52",
+      "text": "Νῦν ἐγνώκαμεν ὅτι",
+      "highlightedWord": "ἐγνώκαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 55,
+      "reference": "Jn 8:55",
+      "text": "οὐκ ἐγνώκατε αὐτόν,",
+      "highlightedWord": "ἐγνώκατε"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Jn 10:6",
+      "text": "οὐκ ἔγνωσαν τίνα",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Jn 10:14",
+      "text": "καὶ γινώσκω τὰ",
+      "highlightedWord": "γινώσκω"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Jn 10:15",
+      "text": "καθὼς γινώσκει με",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Jn 10:27",
+      "text": "κἀγὼ γινώσκω αὐτά,",
+      "highlightedWord": "γινώσκω"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Jn 10:38",
+      "text": "ἵνα γνῶτε καὶ",
+      "highlightedWord": "γνῶτε"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 57,
+      "reference": "Jn 11:57",
+      "text": "τις γνῷ ποῦ",
+      "highlightedWord": "γνῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Jn 12:9",
+      "text": "Ἔγνω οὖν",
+      "highlightedWord": "Ἔγνω"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Jn 12:16",
+      "text": "οὐκ ἔγνωσαν αὐτοῦ",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Jn 13:7",
+      "text": "ἄρτι, γνώσῃ δὲ",
+      "highlightedWord": "γνώσῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Jn 13:12",
+      "text": "αὐτοῖς· Γινώσκετε τί",
+      "highlightedWord": "Γινώσκετε"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Jn 13:28",
+      "text": "οὐδεὶς ἔγνω τῶν",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Jn 13:35",
+      "text": "τούτῳ γνώσονται πάντες",
+      "highlightedWord": "γνώσονται"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Jn 14:7",
+      "text": "εἰ ἐγνώκειτέ με,",
+      "highlightedWord": "ἐγνώκειτέ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Jn 14:9",
+      "text": "οὐκ ἔγνωκάς με,",
+      "highlightedWord": "ἔγνωκάς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Jn 14:17",
+      "text": "οὐδὲ γινώσκει· ὑμεῖς",
+      "highlightedWord": "γινώσκει·"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Jn 14:20",
+      "text": "ἡμέρᾳ γνώσεσθε ὑμεῖς",
+      "highlightedWord": "γνώσεσθε"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Jn 14:31",
+      "text": "ἵνα γνῷ ὁ",
+      "highlightedWord": "γνῷ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Jn 15:18",
+      "text": "μισεῖ, γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Jn 16:3",
+      "text": "οὐκ ἔγνωσαν τὸν",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Jn 16:19",
+      "text": "ἔγνω Ἰησοῦς",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Jn 17:3",
+      "text": "ἵνα γινώσκωσι σὲ",
+      "highlightedWord": "γινώσκωσι"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Jn 17:7",
+      "text": "νῦν ἔγνωκαν ὅτι",
+      "highlightedWord": "ἔγνωκαν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Jn 17:8",
+      "text": "καὶ ἔγνωσαν ἀληθῶς",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Jn 17:23",
+      "text": "ἵνα γινώσκῃ ὁ",
+      "highlightedWord": "γινώσκῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Jn 17:25",
+      "text": "οὐκ ἔγνω, ἐγὼ",
+      "highlightedWord": "ἔγνω,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Jn 19:4",
+      "text": "ἵνα γνῶτε ὅτι",
+      "highlightedWord": "γνῶτε"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Jn 21:17",
+      "text": "σὺ γινώσκεις ὅτι",
+      "highlightedWord": "γινώσκεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ac 1:7",
+      "text": "ἐστιν γνῶναι χρόνους",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 36,
+      "reference": "Ac 2:36",
+      "text": "οὖν γινωσκέτω πᾶς",
+      "highlightedWord": "γινωσκέτω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Ac 8:30",
+      "text": "γε γινώσκεις ἃ",
+      "highlightedWord": "γινώσκεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Ac 9:24",
+      "text": "ἐγνώσθη δὲ",
+      "highlightedWord": "ἐγνώσθη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Ac 17:13",
+      "text": "δὲ ἔγνωσαν οἱ",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 19,
+      "reference": "Ac 17:19",
+      "text": "Δυνάμεθα γνῶναι τίς",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Ac 17:20",
+      "text": "οὖν γνῶναι τίνα",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Ac 19:15",
+      "text": "Ἰησοῦν γινώσκω καὶ",
+      "highlightedWord": "γινώσκω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Ac 19:35",
+      "text": "οὐ γινώσκει τὴν",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 34,
+      "reference": "Ac 20:34",
+      "text": "αὐτοὶ γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Ac 21:24",
+      "text": "καὶ γνώσονται πάντες",
+      "highlightedWord": "γνώσονται"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Ac 21:34",
+      "text": "αὐτοῦ γνῶναι τὸ",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Ac 21:37",
+      "text": "Ἑλληνιστὶ γινώσκεις;",
+      "highlightedWord": "γινώσκεις;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Ac 22:14",
+      "text": "σε γνῶναι τὸ",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Ac 22:30",
+      "text": "βουλόμενος γνῶναι τὸ",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 6,
+      "reference": "Ac 23:6",
+      "text": "Γνοὺς δὲ",
+      "highlightedWord": "Γνοὺς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Ro 1:21",
+      "text": "διότι γνόντες τὸν",
+      "highlightedWord": "γνόντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Ro 2:18",
+      "text": "καὶ γινώσκεις τὸ",
+      "highlightedWord": "γινώσκεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Ro 3:17",
+      "text": "οὐκ ἔγνωσαν.",
+      "highlightedWord": "ἔγνωσαν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Ro 6:6",
+      "text": "τοῦτο γινώσκοντες ὅτι",
+      "highlightedWord": "γινώσκοντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ro 7:1",
+      "text": "ἀδελφοί, γινώσκουσιν γὰρ",
+      "highlightedWord": "γινώσκουσιν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ro 7:7",
+      "text": "οὐκ ἔγνων εἰ",
+      "highlightedWord": "ἔγνων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Ro 7:15",
+      "text": "οὐ γινώσκω· οὐ",
+      "highlightedWord": "γινώσκω·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Ro 10:19",
+      "text": "οὐκ ἔγνω; πρῶτος",
+      "highlightedWord": "ἔγνω;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Ro 11:34",
+      "text": "γὰρ ἔγνω νοῦν",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "1Co 1:21",
+      "text": "οὐκ ἔγνω ὁ",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Co 2:8",
+      "text": "τούτου ἔγνωκεν, εἰ",
+      "highlightedWord": "ἔγνωκεν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Co 2:11",
+      "text": "οὐδεὶς ἔγνωκεν εἰ",
+      "highlightedWord": "ἔγνωκεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Co 2:14",
+      "text": "δύναται γνῶναι, ὅτι",
+      "highlightedWord": "γνῶναι,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Co 2:16",
+      "text": "γὰρ ἔγνω νοῦν",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "1Co 3:20",
+      "text": "Κύριος γινώσκει τοὺς",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Co 4:19",
+      "text": "καὶ γνώσομαι οὐ",
+      "highlightedWord": "γνώσομαι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "1Co 8:2",
+      "text": "δοκεῖ ἐγνωκέναι τι,",
+      "highlightedWord": "ἐγνωκέναι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "1Co 8:3",
+      "text": "οὗτος ἔγνωσται ὑπ’",
+      "highlightedWord": "ἔγνωσται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "1Co 13:9",
+      "text": "γὰρ γινώσκομεν καὶ",
+      "highlightedWord": "γινώσκομεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "1Co 13:12",
+      "text": "ἄρτι γινώσκω ἐκ",
+      "highlightedWord": "γινώσκω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "1Co 14:7",
+      "text": "πῶς γνωσθήσεται τὸ",
+      "highlightedWord": "γνωσθήσεται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "1Co 14:9",
+      "text": "πῶς γνωσθήσεται τὸ",
+      "highlightedWord": "γνωσθήσεται"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Co 2:4",
+      "text": "ἵνα γνῶτε ἣν",
+      "highlightedWord": "γνῶτε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Co 2:9",
+      "text": "ἵνα γνῶ τὴν",
+      "highlightedWord": "γνῶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Co 3:2",
+      "text": "ἡμῶν, γινωσκομένη καὶ",
+      "highlightedWord": "γινωσκομένη"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "2Co 5:16",
+      "text": "καὶ ἐγνώκαμεν κατὰ",
+      "highlightedWord": "ἐγνώκαμεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "2Co 5:21",
+      "text": "μὴ γνόντα ἁμαρτίαν",
+      "highlightedWord": "γνόντα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "2Co 8:9",
+      "text": "γινώσκετε γὰρ",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "2Co 13:6",
+      "text": "ὅτι γνώσεσθε ὅτι",
+      "highlightedWord": "γνώσεσθε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ga 2:9",
+      "text": "καὶ γνόντες τὴν",
+      "highlightedWord": "γνόντες"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Ga 3:7",
+      "text": "Γινώσκετε ἄρα",
+      "highlightedWord": "Γινώσκετε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ga 4:9",
+      "text": "δὲ γνόντες θεόν,",
+      "highlightedWord": "γνόντες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Eph 3:19",
+      "text": "γνῶναί τε",
+      "highlightedWord": "γνῶναί"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Eph 5:5",
+      "text": "ἴστε γινώσκοντες ὅτι",
+      "highlightedWord": "γινώσκοντες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Eph 6:22",
+      "text": "ἵνα γνῶτε τὰ",
+      "highlightedWord": "γνῶτε"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Php 1:12",
+      "text": "Γινώσκειν δὲ",
+      "highlightedWord": "Γινώσκειν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Php 2:19",
+      "text": "εὐψυχῶ γνοὺς τὰ",
+      "highlightedWord": "γνοὺς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Php 2:22",
+      "text": "αὐτοῦ γινώσκετε, ὅτι",
+      "highlightedWord": "γινώσκετε,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Php 3:10",
+      "text": "τοῦ γνῶναι αὐτὸν",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Php 4:5",
+      "text": "ὑμῶν γνωσθήτω πᾶσιν",
+      "highlightedWord": "γνωσθήτω"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Col 4:8",
+      "text": "ἵνα γνῶτε τὰ",
+      "highlightedWord": "γνῶτε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Th 3:5",
+      "text": "τὸ γνῶναι τὴν",
+      "highlightedWord": "γνῶναι"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Ti 1:18",
+      "text": "σὺ γινώσκεις.",
+      "highlightedWord": "γινώσκεις."
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "2Ti 2:19",
+      "text": "ταύτην· Ἔγνω κύριος",
+      "highlightedWord": "Ἔγνω"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Ti 3:1",
+      "text": "δὲ γίνωσκε ὅτι",
+      "highlightedWord": "γίνωσκε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Heb 3:10",
+      "text": "οὐκ ἔγνωσαν τὰς",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Heb 8:11",
+      "text": "λέγων· Γνῶθι τὸν",
+      "highlightedWord": "Γνῶθι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Heb 10:34",
+      "text": "προσεδέξασθε, γινώσκοντες ἔχειν",
+      "highlightedWord": "γινώσκοντες"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 23,
+      "reference": "Heb 13:23",
+      "text": "γινώσκετε τὸν",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Jas 1:3",
+      "text": "γινώσκοντες ὅτι",
+      "highlightedWord": "γινώσκοντες"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jas 2:20",
+      "text": "δὲ γνῶναι, ὦ",
+      "highlightedWord": "γνῶναι,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Jas 5:20",
+      "text": "γινωσκέτω ὅτι",
+      "highlightedWord": "γινωσκέτω"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "2Pe 1:20",
+      "text": "πρῶτον γινώσκοντες ὅτι",
+      "highlightedWord": "γινώσκοντες"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Pe 3:3",
+      "text": "πρῶτον γινώσκοντες ὅτι",
+      "highlightedWord": "γινώσκοντες"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "1Jn 2:3",
+      "text": "τούτῳ γινώσκομεν ὅτι",
+      "highlightedWord": "γινώσκομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Jn 2:4",
+      "text": "ὅτι Ἔγνωκα αὐτὸν",
+      "highlightedWord": "Ἔγνωκα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Jn 2:5",
+      "text": "τούτῳ γινώσκομεν ὅτι",
+      "highlightedWord": "γινώσκομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Jn 2:13",
+      "text": "ὅτι ἐγνώκατε τὸν",
+      "highlightedWord": "ἐγνώκατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "1Jn 2:14",
+      "text": "ὅτι ἐγνώκατε τὸν",
+      "highlightedWord": "ἐγνώκατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "1Jn 2:18",
+      "text": "ὅθεν γινώσκομεν ὅτι",
+      "highlightedWord": "γινώσκομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "1Jn 2:29",
+      "text": "ἐστιν, γινώσκετε ὅτι",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Jn 3:1",
+      "text": "οὐ γινώσκει ἡμᾶς",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Jn 3:6",
+      "text": "οὐδὲ ἔγνωκεν αὐτόν.",
+      "highlightedWord": "ἔγνωκεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Jn 3:16",
+      "text": "τούτῳ ἐγνώκαμεν τὴν",
+      "highlightedWord": "ἐγνώκαμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "1Jn 3:19",
+      "text": "τούτῳ γνωσόμεθα ὅτι",
+      "highlightedWord": "γνωσόμεθα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "1Jn 3:20",
+      "text": "καὶ γινώσκει πάντα.",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "1Jn 3:24",
+      "text": "τούτῳ γινώσκομεν ὅτι",
+      "highlightedWord": "γινώσκομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Jn 4:2",
+      "text": "τούτῳ γινώσκετε τὸ",
+      "highlightedWord": "γινώσκετε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Jn 4:6",
+      "text": "ὁ γινώσκων τὸν",
+      "highlightedWord": "γινώσκων"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Jn 4:7",
+      "text": "καὶ γινώσκει τὸν",
+      "highlightedWord": "γινώσκει"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Jn 4:8",
+      "text": "οὐκ ἔγνω τὸν",
+      "highlightedWord": "ἔγνω"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Jn 4:13",
+      "text": "τούτῳ γινώσκομεν ὅτι",
+      "highlightedWord": "γινώσκομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Jn 4:16",
+      "text": "ἡμεῖς ἐγνώκαμεν καὶ",
+      "highlightedWord": "ἐγνώκαμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Jn 5:2",
+      "text": "τούτῳ γινώσκομεν ὅτι",
+      "highlightedWord": "γινώσκομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Jn 5:20",
+      "text": "ἵνα γινώσκωμεν τὸν",
+      "highlightedWord": "γινώσκωμεν"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Jn 1:1",
+      "text": "οἱ ἐγνωκότες τὴν",
+      "highlightedWord": "ἐγνωκότες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "καὶ γνώσονται πᾶσαι",
+      "highlightedWord": "γνώσονται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "οὐκ ἔγνωσαν τὰ",
+      "highlightedWord": "ἔγνωσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "μὴ γνῷς ποίαν",
+      "highlightedWord": "γνῷς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "καὶ γνῶσιν ὅτι",
+      "highlightedWord": "γνῶσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

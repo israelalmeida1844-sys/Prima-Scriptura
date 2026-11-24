@@ -1,0 +1,341 @@
+{
+  "strong": "G5056",
+  "lemma": "τέλος",
+  "lemmaTranslit": "telos",
+  "tokenCount": 40,
+  "verseCount": 39,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 3,
+    "Lucas": 4,
+    "João": 1,
+    "Romanos": 5,
+    "1 Coríntios": 3,
+    "2 Coríntios": 3,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 1,
+    "Hebreus": 4,
+    "Tiago": 1,
+    "1 Pedro": 4,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Mt 10:22",
+      "text": "εἰς τέλος οὗτος",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Mt 17:25",
+      "text": "λαμβάνουσιν τέλη ἢ",
+      "highlightedWord": "τέλη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Mt 24:6",
+      "text": "τὸ τέλος.",
+      "highlightedWord": "τέλος."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 13,
+      "reference": "Mt 24:13",
+      "text": "εἰς τέλος οὗτος",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 14,
+      "reference": "Mt 24:14",
+      "text": "τὸ τέλος.",
+      "highlightedWord": "τέλος."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 58,
+      "reference": "Mt 26:58",
+      "text": "τὸ τέλος.",
+      "highlightedWord": "τέλος."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Mk 3:26",
+      "text": "ἀλλὰ τέλος ἔχει.",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Mk 13:7",
+      "text": "τὸ τέλος.",
+      "highlightedWord": "τέλος."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Mk 13:13",
+      "text": "εἰς τέλος οὗτος",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Lk 1:33",
+      "text": "ἔσται τέλος.",
+      "highlightedWord": "τέλος."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Lk 18:5",
+      "text": "εἰς τέλος ἐρχομένη",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Lk 21:9",
+      "text": "τὸ τέλος.",
+      "highlightedWord": "τέλος."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 37,
+      "reference": "Lk 22:37",
+      "text": "ἐμοῦ τέλος ἔχει.",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Jn 13:1",
+      "text": "εἰς τέλος ἠγάπησεν",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Ro 6:21",
+      "text": "γὰρ τέλος ἐκείνων",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Ro 6:22",
+      "text": "δὲ τέλος ζωὴν",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Ro 10:4",
+      "text": "τέλος γὰρ",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Ro 13:7",
+      "text": "τὸ τέλος τὸ",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Co 1:8",
+      "text": "ἕως τέλους ἀνεγκλήτους",
+      "highlightedWord": "τέλους"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "1Co 10:11",
+      "text": "τὰ τέλη τῶν",
+      "highlightedWord": "τέλη"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "1Co 15:24",
+      "text": "τὸ τέλος, ὅταν",
+      "highlightedWord": "τέλος,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Co 1:13",
+      "text": "ἕως τέλους ἐπιγνώσεσθε,",
+      "highlightedWord": "τέλους"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Co 3:13",
+      "text": "τὸ τέλος τοῦ",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "2Co 11:15",
+      "text": "τὸ τέλος ἔσται",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Php 3:19",
+      "text": "τὸ τέλος ἀπώλεια,",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Th 2:16",
+      "text": "εἰς τέλος.",
+      "highlightedWord": "τέλος."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Ti 1:5",
+      "text": "δὲ τέλος τῆς",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Heb 3:14",
+      "text": "μέχρι τέλους βεβαίαν",
+      "highlightedWord": "τέλους"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Heb 6:8",
+      "text": "τὸ τέλος εἰς",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Heb 6:11",
+      "text": "ἄχρι τέλους,",
+      "highlightedWord": "τέλους,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Heb 7:3",
+      "text": "ζωῆς τέλος ἔχων,",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Jas 5:11",
+      "text": "τὸ τέλος κυρίου",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Pe 1:9",
+      "text": "τὸ τέλος τῆς",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Pe 3:8",
+      "text": "δὲ τέλος πάντες",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Pe 4:7",
+      "text": "τὸ τέλος ἤγγικεν.",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Pe 4:17",
+      "text": "τὸ τέλος τῶν",
+      "highlightedWord": "τέλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Re 2:26",
+      "text": "ἄχρι τέλους τὰ",
+      "highlightedWord": "τέλους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Re 21:6",
+      "text": "τὸ τέλος. ἐγὼ",
+      "highlightedWord": "τέλος."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Re 22:13",
+      "text": "τὸ τέλος.",
+      "highlightedWord": "τέλος."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

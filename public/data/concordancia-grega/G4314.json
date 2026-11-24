@@ -1,0 +1,5185 @@
+{
+  "strong": "G4314",
+  "lemma": "πρός",
+  "lemmaTranslit": "pros",
+  "tokenCount": 696,
+  "verseCount": 643,
+  "bookDistribution": {
+    "Mateus": 42,
+    "Marcos": 65,
+    "Lucas": 165,
+    "João": 100,
+    "Atos": 133,
+    "Romanos": 17,
+    "1 Coríntios": 24,
+    "2 Coríntios": 33,
+    "Gálatas": 9,
+    "Efésios": 15,
+    "Filipenses": 4,
+    "Colossenses": 6,
+    "1 Tessalonicenses": 13,
+    "2 Tessalonicenses": 4,
+    "1 Timóteo": 5,
+    "2 Timóteo": 7,
+    "Tito": 5,
+    "Filemom": 3,
+    "Hebreus": 19,
+    "Tiago": 2,
+    "1 Pedro": 3,
+    "2 Pedro": 2,
+    "1 João": 8,
+    "2 João": 3,
+    "3 João": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Mt 2:12",
+      "text": "ἀνακάμψαι πρὸς Ἡρῴδην",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Mt 3:5",
+      "text": "ἐξεπορεύετο πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Mt 3:10",
+      "text": "ἀξίνη πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Mt 3:13",
+      "text": "Ἰορδάνην πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Mt 3:14",
+      "text": "ἔρχῃ πρός με;",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Mt 3:15",
+      "text": "εἶπεν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mt 4:6",
+      "text": "προσκόψῃς πρὸς λίθον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Mt 5:28",
+      "text": "γυναῖκα πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mt 6:1",
+      "text": "ἀνθρώπων πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Mt 7:15",
+      "text": "ἔρχονται πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Mt 10:6",
+      "text": "μᾶλλον πρὸς τὰ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Mt 10:13",
+      "text": "ὑμῶν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Mt 11:28",
+      "text": "Δεῦτε πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mt 13:2",
+      "text": "συνήχθησαν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Mt 13:30",
+      "text": "δέσμας πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 56,
+      "reference": "Mt 13:56",
+      "text": "πᾶσαι πρὸς ἡμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mt 14:25",
+      "text": "ἦλθεν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Mt 14:28",
+      "text": "ἐλθεῖν πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Mt 14:29",
+      "text": "ἦλθεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Mt 17:14",
+      "text": "ἐλθόντων πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Mt 19:8",
+      "text": "Μωϋσῆς πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Mt 19:14",
+      "text": "ἐλθεῖν πρός με,",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 32,
+      "reference": "Mt 21:32",
+      "text": "Ἰωάννης πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Mt 21:34",
+      "text": "αὐτοῦ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Mt 21:37",
+      "text": "ἀπέστειλεν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 5,
+      "reference": "Mt 23:5",
+      "text": "ποιοῦσιν πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 34,
+      "reference": "Mt 23:34",
+      "text": "ἀποστέλλω πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 37,
+      "reference": "Mt 23:37",
+      "text": "ἀπεσταλμένους πρὸς αὐτήν—",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 9,
+      "reference": "Mt 25:9",
+      "text": "μᾶλλον πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 36,
+      "reference": "Mt 25:36",
+      "text": "ἤλθατε πρός με.",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 39,
+      "reference": "Mt 25:39",
+      "text": "ἤλθομεν πρός σε;",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 12,
+      "reference": "Mt 26:12",
+      "text": "μου πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 14,
+      "reference": "Mt 26:14",
+      "text": "Ἰσκαριώτης, πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 18,
+      "reference": "Mt 26:18",
+      "text": "πόλιν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 40,
+      "reference": "Mt 26:40",
+      "text": "ἔρχεται πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 45,
+      "reference": "Mt 26:45",
+      "text": "ἔρχεται πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 57,
+      "reference": "Mt 26:57",
+      "text": "ἀπήγαγον πρὸς Καϊάφαν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 4,
+      "reference": "Mt 27:4",
+      "text": "Τί πρὸς ἡμᾶς;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 14,
+      "reference": "Mt 27:14",
+      "text": "αὐτῷ πρὸς οὐδὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Mt 27:19",
+      "text": "ἀπέστειλεν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 62,
+      "reference": "Mt 27:62",
+      "text": "Φαρισαῖοι πρὸς Πιλᾶτον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Mk 1:5",
+      "text": "ἐξεπορεύετο πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Mk 1:27",
+      "text": "συζητεῖν πρὸς ἑαυτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Mk 1:32",
+      "text": "ἔφερον πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Mk 1:33",
+      "text": "ἐπισυνηγμένη πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 40,
+      "reference": "Mk 1:40",
+      "text": "ἔρχεται πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "ἤρχοντο πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Mk 2:2",
+      "text": "τὰ πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Mk 2:3",
+      "text": "φέροντες πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mk 2:13",
+      "text": "ἤρχετο πρὸς αὐτόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Mk 3:7",
+      "text": "ἀνεχώρησεν πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Mk 3:8",
+      "text": "ἦλθον πρὸς αὐτόν.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Mk 3:13",
+      "text": "ἀπῆλθον πρὸς αὐτόν.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Mk 3:31",
+      "text": "ἀπέστειλαν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Mk 4:1",
+      "text": "συνάγεται πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Mk 4:41",
+      "text": "ἔλεγον πρὸς ἀλλήλους·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Mk 5:11",
+      "text": "ἐκεῖ πρὸς τῷ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Mk 5:15",
+      "text": "ἔρχονται πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mk 5:19",
+      "text": "σου πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Mk 5:22",
+      "text": "πίπτει πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Mk 6:3",
+      "text": "ὧδε πρὸς ἡμᾶς;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mk 6:25",
+      "text": "σπουδῆς πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Mk 6:30",
+      "text": "ἀπόστολοι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 45,
+      "reference": "Mk 6:45",
+      "text": "πέραν πρὸς Βηθσαϊδάν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Mk 6:48",
+      "text": "ἔρχεται πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 51,
+      "reference": "Mk 6:51",
+      "text": "ἀνέβη πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Mk 7:1",
+      "text": "συνάγονται πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Mk 7:25",
+      "text": "προσέπεσεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Mk 8:16",
+      "text": "διελογίζοντο πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Mk 9:10",
+      "text": "ἐκράτησαν πρὸς ἑαυτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Mk 9:14",
+      "text": "ἐλθόντες πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Mk 9:16",
+      "text": "συζητεῖτε πρὸς αὑτούς;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Mk 9:17",
+      "text": "μου πρὸς σέ,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Mk 9:19",
+      "text": "πότε πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Mk 9:20",
+      "text": "αὐτὸν πρὸς αὐτόν.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Mk 9:34",
+      "text": "ἐσιώπων, πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Mk 10:1",
+      "text": "ὄχλοι πρὸς αὐτόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Mk 10:5",
+      "text": "αὐτοῖς· Πρὸς τὴν",
+      "highlightedWord": "Πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Mk 10:7",
+      "text": "προσκολληθήσεται πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mk 10:14",
+      "text": "ἔρχεσθαι πρός με,",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Mk 10:26",
+      "text": "λέγοντες πρὸς ἑαυτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 50,
+      "reference": "Mk 10:50",
+      "text": "ἦλθεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Mk 11:1",
+      "text": "Βηθανίαν πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Mk 11:4",
+      "text": "δεδεμένον πρὸς θύραν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Mk 11:7",
+      "text": "πῶλον πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Mk 11:27",
+      "text": "ἔρχονται πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Mk 11:31",
+      "text": "διελογίζοντο πρὸς ἑαυτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Mk 12:2",
+      "text": "ἀπέστειλεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Mk 12:4",
+      "text": "ἀπέστειλεν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Mk 12:6",
+      "text": "ἔσχατον πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Mk 12:7",
+      "text": "γεωργοὶ πρὸς ἑαυτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mk 12:12",
+      "text": "ὅτι πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Mk 12:13",
+      "text": "ἀποστέλλουσιν πρὸς αὐτόν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Mk 12:18",
+      "text": "Σαδδουκαῖοι πρὸς αὐτόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Mk 13:22",
+      "text": "τέρατα πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Mk 14:4",
+      "text": "ἀγανακτοῦντες πρὸς ἑαυτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Mk 14:10",
+      "text": "ἀπῆλθεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 49,
+      "reference": "Mk 14:49",
+      "text": "ἤμην πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 53,
+      "reference": "Mk 14:53",
+      "text": "Ἰησοῦν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 54,
+      "reference": "Mk 14:54",
+      "text": "θερμαινόμενος πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Mk 15:31",
+      "text": "ἐμπαίζοντες πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 43,
+      "reference": "Mk 15:43",
+      "text": "εἰσῆλθεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Mk 16:3",
+      "text": "ἔλεγον πρὸς ἑαυτάς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Lk 1:13",
+      "text": "δὲ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Lk 1:18",
+      "text": "Ζαχαρίας πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Lk 1:19",
+      "text": "λαλῆσαι πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Lk 1:27",
+      "text": "πρὸς παρθένον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Lk 1:28",
+      "text": "εἰσελθὼν πρὸς αὐτὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 34,
+      "reference": "Lk 1:34",
+      "text": "Μαριὰμ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 43,
+      "reference": "Lk 1:43",
+      "text": "μου πρὸς ἐμέ;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 55,
+      "reference": "Lk 1:55",
+      "text": "ἐλάλησεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 61,
+      "reference": "Lk 1:61",
+      "text": "εἶπαν πρὸς αὐτὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 73,
+      "reference": "Lk 1:73",
+      "text": "ὤμοσεν πρὸς Ἀβραὰμ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 80,
+      "reference": "Lk 1:80",
+      "text": "αὐτοῦ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Lk 2:15",
+      "text": "ἐλάλουν πρὸς ἀλλήλους·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Lk 2:18",
+      "text": "ποιμένων πρὸς αὐτούς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Lk 2:20",
+      "text": "ἐλαλήθη πρὸς αὐτούς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 34,
+      "reference": "Lk 2:34",
+      "text": "εἶπεν πρὸς Μαριὰμ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 48,
+      "reference": "Lk 2:48",
+      "text": "εἶπεν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 49,
+      "reference": "Lk 2:49",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Lk 3:9",
+      "text": "ἀξίνη πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Lk 3:12",
+      "text": "εἶπαν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Lk 3:13",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Lk 4:4",
+      "text": "ἀπεκρίθη πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Lk 4:11",
+      "text": "προσκόψῃς πρὸς λίθον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Lk 4:21",
+      "text": "λέγειν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Lk 4:23",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Lk 4:26",
+      "text": "καὶ πρὸς οὐδεμίαν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 36,
+      "reference": "Lk 4:36",
+      "text": "συνελάλουν πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Lk 4:40",
+      "text": "αὐτοὺς πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 43,
+      "reference": "Lk 4:43",
+      "text": "εἶπεν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Lk 5:4",
+      "text": "εἶπεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Lk 5:10",
+      "text": "εἶπεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Lk 5:22",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Lk 5:30",
+      "text": "αὐτῶν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Lk 5:31",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Lk 5:33",
+      "text": "εἶπαν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Lk 5:34",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Lk 5:36",
+      "text": "παραβολὴν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Lk 6:3",
+      "text": "ἀποκριθεὶς πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Lk 6:9",
+      "text": "Ἰησοῦς πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Lk 6:11",
+      "text": "διελάλουν πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 47,
+      "reference": "Lk 6:47",
+      "text": "ἐρχόμενος πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Lk 7:3",
+      "text": "ἀπέστειλεν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Lk 7:4",
+      "text": "παραγενόμενοι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Lk 7:7",
+      "text": "ἠξίωσα πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Lk 7:19",
+      "text": "ἔπεμψεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Lk 7:20",
+      "text": "δὲ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Lk 7:24",
+      "text": "λέγειν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "Lk 7:40",
+      "text": "εἶπεν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Lk 7:44",
+      "text": "στραφεὶς πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 50,
+      "reference": "Lk 7:50",
+      "text": "δὲ πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Lk 8:4",
+      "text": "ἐπιπορευομένων πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Lk 8:13",
+      "text": "οἳ πρὸς καιρὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Lk 8:19",
+      "text": "δὲ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Lk 8:21",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Lk 8:22",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Lk 8:25",
+      "text": "λέγοντες πρὸς ἀλλήλους·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "ἦλθον πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Lk 9:3",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Lk 9:13",
+      "text": "δὲ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Lk 9:14",
+      "text": "δὲ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "δὲ πρὸς πάντας·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Lk 9:33",
+      "text": "Πέτρος πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Lk 9:41",
+      "text": "ἔσομαι πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Lk 9:43",
+      "text": "εἶπεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 50,
+      "reference": "Lk 9:50",
+      "text": "δὲ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 57,
+      "reference": "Lk 9:57",
+      "text": "τις πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 59,
+      "reference": "Lk 9:59",
+      "text": "δὲ πρὸς ἕτερον·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Lk 10:2",
+      "text": "δὲ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Lk 10:23",
+      "text": "στραφεὶς πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Lk 10:26",
+      "text": "εἶπεν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Lk 10:29",
+      "text": "εἶπεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Lk 10:39",
+      "text": "παρακαθεσθεῖσα πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Lk 11:1",
+      "text": "αὐτοῦ πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Lk 11:5",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Lk 11:6",
+      "text": "ὁδοῦ πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 39,
+      "reference": "Lk 11:39",
+      "text": "κύριος πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Lk 12:1",
+      "text": "λέγειν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Lk 12:3",
+      "text": "ὃ πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Lk 12:15",
+      "text": "δὲ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Lk 12:16",
+      "text": "παραβολὴν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Lk 12:22",
+      "text": "δὲ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Lk 12:41",
+      "text": "Κύριε, πρὸς ἡμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Lk 12:47",
+      "text": "ποιήσας πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 58,
+      "reference": "Lk 12:58",
+      "text": "σε πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Lk 13:7",
+      "text": "δὲ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 23,
+      "reference": "Lk 13:23",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Lk 13:34",
+      "text": "ἀπεσταλμένους πρὸς αὐτήν—",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Lk 14:3",
+      "text": "εἶπεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Lk 14:5",
+      "text": "καὶ πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Lk 14:6",
+      "text": "ἀνταποκριθῆναι πρὸς ταῦτα.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Lk 14:7",
+      "text": "δὲ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Lk 14:23",
+      "text": "κύριος πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Lk 14:25",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "ἔρχεται πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 32,
+      "reference": "Lk 14:32",
+      "text": "τὰ πρὸς εἰρήνην.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Lk 15:3",
+      "text": "δὲ πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Lk 15:18",
+      "text": "πορεύσομαι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Lk 15:20",
+      "text": "ἦλθεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Lk 15:22",
+      "text": "πατὴρ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Lk 16:1",
+      "text": "καὶ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Lk 16:20",
+      "text": "ἐβέβλητο πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Lk 16:26",
+      "text": "ἔνθεν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Lk 16:30",
+      "text": "πορευθῇ πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Lk 17:1",
+      "text": "δὲ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Lk 17:4",
+      "text": "ἐπιστρέψῃ πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Lk 17:22",
+      "text": "δὲ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Lk 18:1",
+      "text": "αὐτοῖς πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Lk 18:3",
+      "text": "ἤρχετο πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Lk 18:9",
+      "text": "καὶ πρός τινας",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Lk 18:11",
+      "text": "σταθεὶς πρὸς ἑαυτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Lk 18:16",
+      "text": "ἔρχεσθαι πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Lk 18:31",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 40,
+      "reference": "Lk 18:40",
+      "text": "ἀχθῆναι πρὸς αὐτόν.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Lk 19:5",
+      "text": "εἶπεν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Lk 19:8",
+      "text": "εἶπεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 9,
+      "reference": "Lk 19:9",
+      "text": "δὲ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Lk 19:13",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Lk 19:29",
+      "text": "Βηθανίαν πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 33,
+      "reference": "Lk 19:33",
+      "text": "αὐτοῦ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Lk 19:35",
+      "text": "αὐτὸν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 37,
+      "reference": "Lk 19:37",
+      "text": "ἤδη πρὸς τῇ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 39,
+      "reference": "Lk 19:39",
+      "text": "εἶπαν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Lk 19:42",
+      "text": "τὰ πρὸς εἰρήνην—",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Lk 20:2",
+      "text": "λέγοντες πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Lk 20:3",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Lk 20:5",
+      "text": "συνελογίσαντο πρὸς ἑαυτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Lk 20:9",
+      "text": "δὲ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Lk 20:10",
+      "text": "ἀπέστειλεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Lk 20:14",
+      "text": "διελογίζοντο πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Lk 20:19",
+      "text": "ὅτι πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Lk 20:23",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Lk 20:25",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 41,
+      "reference": "Lk 20:41",
+      "text": "δὲ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 38,
+      "reference": "Lk 21:38",
+      "text": "ὤρθριζεν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 15,
+      "reference": "Lk 22:15",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 23,
+      "reference": "Lk 22:23",
+      "text": "συζητεῖν πρὸς ἑαυτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 45,
+      "reference": "Lk 22:45",
+      "text": "ἐλθὼν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 52,
+      "reference": "Lk 22:52",
+      "text": "Ἰησοῦς πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 56,
+      "reference": "Lk 22:56",
+      "text": "καθήμενον πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 70,
+      "reference": "Lk 22:70",
+      "text": "δὲ πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 4,
+      "reference": "Lk 23:4",
+      "text": "εἶπεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 7,
+      "reference": "Lk 23:7",
+      "text": "αὐτὸν πρὸς Ἡρῴδην,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 12,
+      "reference": "Lk 23:12",
+      "text": "ὄντες πρὸς αὑτούς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Lk 23:14",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Lk 23:15",
+      "text": "αὐτὸν πρὸς ἡμᾶς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Lk 23:22",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Lk 23:28",
+      "text": "δὲ πρὸς αὐτὰς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Lk 24:5",
+      "text": "εἶπαν πρὸς αὐτάς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 10,
+      "reference": "Lk 24:10",
+      "text": "ἔλεγον πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Lk 24:12",
+      "text": "ἀπῆλθεν πρὸς αὑτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 14,
+      "reference": "Lk 24:14",
+      "text": "ὡμίλουν πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 17,
+      "reference": "Lk 24:17",
+      "text": "δὲ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Lk 24:18",
+      "text": "εἶπεν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 25,
+      "reference": "Lk 24:25",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Lk 24:29",
+      "text": "ὅτι πρὸς ἑσπέραν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 32,
+      "reference": "Lk 24:32",
+      "text": "εἶπαν πρὸς ἀλλήλους·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 44,
+      "reference": "Lk 24:44",
+      "text": "δὲ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 50,
+      "reference": "Lk 24:50",
+      "text": "ἕως πρὸς Βηθανίαν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Jn 1:1",
+      "text": "ἦν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Jn 1:2",
+      "text": "ἀρχῇ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Jn 1:29",
+      "text": "ἐρχόμενον πρὸς αὐτόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 42,
+      "reference": "Jn 1:42",
+      "text": "αὐτὸν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 47,
+      "reference": "Jn 1:47",
+      "text": "ἐρχόμενον πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Jn 2:3",
+      "text": "Ἰησοῦ πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jn 3:2",
+      "text": "ἦλθεν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Jn 3:4",
+      "text": "λέγει πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Jn 3:20",
+      "text": "ἔρχεται πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Jn 3:21",
+      "text": "ἔρχεται πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Jn 3:26",
+      "text": "ἦλθον πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jn 4:15",
+      "text": "λέγει πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Jn 4:30",
+      "text": "ἤρχοντο πρὸς αὐτόν.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Jn 4:33",
+      "text": "μαθηταὶ πρὸς ἀλλήλους·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Jn 4:35",
+      "text": "εἰσιν πρὸς θερισμόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Jn 4:40",
+      "text": "ἦλθον πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 47,
+      "reference": "Jn 4:47",
+      "text": "ἀπῆλθεν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 48,
+      "reference": "Jn 4:48",
+      "text": "Ἰησοῦς πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 49,
+      "reference": "Jn 4:49",
+      "text": "λέγει πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Jn 5:33",
+      "text": "ἀπεστάλκατε πρὸς Ἰωάννην,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Jn 5:35",
+      "text": "ἀγαλλιαθῆναι πρὸς ὥραν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Jn 5:40",
+      "text": "ἐλθεῖν πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 45,
+      "reference": "Jn 5:45",
+      "text": "ὑμῶν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Jn 6:5",
+      "text": "ἔρχεται πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Jn 6:17",
+      "text": "ἐληλύθει πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 28,
+      "reference": "Jn 6:28",
+      "text": "οὖν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Jn 6:34",
+      "text": "οὖν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Jn 6:35",
+      "text": "ἐρχόμενος πρὸς ἐμὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 37,
+      "reference": "Jn 6:37",
+      "text": "πατὴρ πρὸς ἐμὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 44,
+      "reference": "Jn 6:44",
+      "text": "ἐλθεῖν πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 45,
+      "reference": "Jn 6:45",
+      "text": "ἔρχεται πρὸς ἐμέ.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 52,
+      "reference": "Jn 6:52",
+      "text": "οὖν πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 65,
+      "reference": "Jn 6:65",
+      "text": "ἐλθεῖν πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 68,
+      "reference": "Jn 6:68",
+      "text": "Κύριε, πρὸς τίνα",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Jn 7:3",
+      "text": "οὖν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Jn 7:33",
+      "text": "ὑπάγω πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "Ἰουδαῖοι πρὸς ἑαυτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Jn 7:37",
+      "text": "ἐρχέσθω πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Jn 7:45",
+      "text": "ὑπηρέται πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 50,
+      "reference": "Jn 7:50",
+      "text": "Νικόδημος πρὸς αὐτούς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Jn 8:31",
+      "text": "Ἰησοῦς πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Jn 8:33",
+      "text": "ἀπεκρίθησαν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 57,
+      "reference": "Jn 8:57",
+      "text": "Ἰουδαῖοι πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Jn 9:13",
+      "text": "αὐτὸν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Jn 10:35",
+      "text": "θεοὺς πρὸς οὓς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 41,
+      "reference": "Jn 10:41",
+      "text": "ἦλθον πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Jn 11:3",
+      "text": "ἀδελφαὶ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Jn 11:4",
+      "text": "ἔστιν πρὸς θάνατον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Jn 11:15",
+      "text": "ἄγωμεν πρὸς αὐτόν.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Jn 11:19",
+      "text": "ἐληλύθεισαν πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Jn 11:21",
+      "text": "Μάρθα πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Jn 11:29",
+      "text": "ἤρχετο πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "αὐτοῦ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 45,
+      "reference": "Jn 11:45",
+      "text": "ἐλθόντες πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 46,
+      "reference": "Jn 11:46",
+      "text": "ἀπῆλθον πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Jn 12:19",
+      "text": "εἶπαν πρὸς ἑαυτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Jn 12:32",
+      "text": "ἑλκύσω πρὸς ἐμαυτόν.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Jn 13:1",
+      "text": "τούτου πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Jn 13:3",
+      "text": "καὶ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Jn 13:6",
+      "text": "οὖν πρὸς Σίμωνα",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Jn 13:28",
+      "text": "ἀνακειμένων πρὸς τί",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Jn 14:3",
+      "text": "ὑμᾶς πρὸς ἐμαυτόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Jn 14:6",
+      "text": "ἔρχεται πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Jn 14:12",
+      "text": "ἐγὼ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Jn 14:18",
+      "text": "ἔρχομαι πρὸς ὑμᾶς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "Jn 14:23",
+      "text": "καὶ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Jn 14:28",
+      "text": "ἔρχομαι πρὸς ὑμᾶς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Jn 16:5",
+      "text": "ὑπάγω πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Jn 16:7",
+      "text": "ἔλθῃ πρὸς ὑμᾶς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "Jn 16:10",
+      "text": "ὅτι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Jn 16:17",
+      "text": "αὐτοῦ πρὸς ἀλλήλους·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Jn 16:28",
+      "text": "πορεύομαι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Jn 17:11",
+      "text": "κἀγὼ πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Jn 17:13",
+      "text": "δὲ πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Jn 18:13",
+      "text": "ἤγαγον πρὸς Ἅνναν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Jn 18:16",
+      "text": "εἱστήκει πρὸς τῇ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Jn 18:24",
+      "text": "δεδεμένον πρὸς Καϊάφαν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Jn 18:29",
+      "text": "ἔξω πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 38,
+      "reference": "Jn 18:38",
+      "text": "ἐξῆλθεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Jn 19:3",
+      "text": "ἤρχοντο πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Jn 19:24",
+      "text": "οὖν πρὸς ἀλλήλους·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 39,
+      "reference": "Jn 19:39",
+      "text": "ἐλθὼν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Jn 20:2",
+      "text": "ἔρχεται πρὸς Σίμωνα",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Jn 20:10",
+      "text": "πάλιν πρὸς αὑτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Jn 20:11",
+      "text": "εἱστήκει πρὸς τῷ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Jn 20:12",
+      "text": "ἕνα πρὸς τῇ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Jn 20:17",
+      "text": "ἀναβέβηκα πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 22,
+      "reference": "Jn 21:22",
+      "text": "τί πρὸς σέ;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Jn 21:23",
+      "text": "τί πρὸς σέ;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ac 1:7",
+      "text": "δὲ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Ac 2:12",
+      "text": "ἄλλος πρὸς ἄλλον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Ac 2:29",
+      "text": "παρρησίας πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 37,
+      "reference": "Ac 2:37",
+      "text": "τε πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "Ac 2:38",
+      "text": "δὲ πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 47,
+      "reference": "Ac 2:47",
+      "text": "χάριν πρὸς ὅλον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Ac 3:2",
+      "text": "ἡμέραν πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Ac 3:10",
+      "text": "ὁ πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Ac 3:11",
+      "text": "λαὸς πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Ac 3:12",
+      "text": "ἀπεκρίνατο πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ac 3:19",
+      "text": "ἐπιστρέψατε πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Ac 3:22",
+      "text": "λαλήσῃ πρὸς ὑμᾶς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Ac 3:25",
+      "text": "θεὸς πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Ac 4:1",
+      "text": "αὐτῶν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Ac 4:8",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Ac 4:15",
+      "text": "συνέβαλλον πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Ac 4:19",
+      "text": "εἶπον πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Ac 4:23",
+      "text": "ἦλθον πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Ac 4:24",
+      "text": "φωνὴν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Ac 5:8",
+      "text": "δὲ πρὸς αὐτὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Ac 5:9",
+      "text": "Πέτρος πρὸς αὐτήν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ac 5:10",
+      "text": "παραχρῆμα πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Ac 5:35",
+      "text": "τε πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ac 6:1",
+      "text": "Ἑλληνιστῶν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Ac 7:3",
+      "text": "εἶπεν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Ac 8:14",
+      "text": "ἀπέστειλαν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Ac 8:20",
+      "text": "εἶπεν πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Ac 8:24",
+      "text": "ἐμοῦ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Ac 8:26",
+      "text": "ἐλάλησεν πρὸς Φίλιππον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ac 9:2",
+      "text": "Δαμασκὸν πρὸς τὰς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Ac 9:10",
+      "text": "εἶπεν πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Ac 9:11",
+      "text": "κύριος πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Ac 9:15",
+      "text": "δὲ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Ac 9:27",
+      "text": "ἤγαγεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Ac 9:29",
+      "text": "συνεζήτει πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Ac 9:32",
+      "text": "καὶ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Ac 9:38",
+      "text": "ἄνδρας πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 40,
+      "reference": "Ac 9:40",
+      "text": "ἐπιστρέψας πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Ac 10:3",
+      "text": "εἰσελθόντα πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Ac 10:13",
+      "text": "φωνὴ πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Ac 10:15",
+      "text": "δευτέρου πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Ac 10:21",
+      "text": "Πέτρος πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Ac 10:28",
+      "text": "τε πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Ac 10:33",
+      "text": "ἔπεμψα πρὸς σέ,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Ac 11:2",
+      "text": "διεκρίνοντο πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Ac 11:3",
+      "text": "Εἰσῆλθες πρὸς ἄνδρας",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Ac 11:11",
+      "text": "Καισαρείας πρός με.",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Ac 11:14",
+      "text": "ῥήματα πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Ac 11:20",
+      "text": "καὶ πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Ac 11:30",
+      "text": "ἀποστείλαντες πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Ac 12:5",
+      "text": "ἐκκλησίας πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Ac 12:8",
+      "text": "ἄγγελος πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Ac 12:15",
+      "text": "δὲ πρὸς αὐτὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Ac 12:20",
+      "text": "παρῆσαν πρὸς αὐτόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Ac 12:21",
+      "text": "ἐδημηγόρει πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Ac 13:15",
+      "text": "ἀρχισυνάγωγοι πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Ac 13:31",
+      "text": "αὐτοῦ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Ac 13:32",
+      "text": "τὴν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 36,
+      "reference": "Ac 13:36",
+      "text": "προσετέθη πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Ac 14:11",
+      "text": "κατέβησαν πρὸς ἡμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ac 15:2",
+      "text": "Βαρναβᾷ πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Ac 15:7",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Ac 15:25",
+      "text": "πέμψαι πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 33,
+      "reference": "Ac 15:33",
+      "text": "ἀδελφῶν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Ac 15:36",
+      "text": "εἶπεν πρὸς Βαρναβᾶν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 36,
+      "reference": "Ac 16:36",
+      "text": "τούτους πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 37,
+      "reference": "Ac 16:37",
+      "text": "ἔφη πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 40,
+      "reference": "Ac 16:40",
+      "text": "εἰσῆλθον πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Ac 17:2",
+      "text": "εἰσῆλθεν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Ac 17:15",
+      "text": "ἐντολὴν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Ac 17:17",
+      "text": "ἡμέραν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Ac 18:6",
+      "text": "εἶπεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "Γαλλίων πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Ac 18:21",
+      "text": "ἀνακάμψω πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Ac 19:2",
+      "text": "τε πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Ac 19:31",
+      "text": "πέμψαντες πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Ac 19:38",
+      "text": "ἔχουσιν πρός τινα",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Ac 20:6",
+      "text": "ἤλθομεν πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Ac 20:18",
+      "text": "παρεγένοντο πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "ἐλθὼν πρὸς ἡμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Ac 21:18",
+      "text": "ἡμῖν πρὸς Ἰάκωβον,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Ac 21:37",
+      "text": "τι πρὸς σέ;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 39,
+      "reference": "Ac 21:39",
+      "text": "λαλῆσαι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 1,
+      "reference": "Ac 22:1",
+      "text": "τῆς πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Ac 22:5",
+      "text": "δεξάμενος πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Ac 22:8",
+      "text": "τε πρὸς ἐμέ·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Ac 22:10",
+      "text": "εἶπεν πρός με·",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Ac 22:13",
+      "text": "ἐλθὼν πρὸς ἐμὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 15,
+      "reference": "Ac 22:15",
+      "text": "αὐτῷ πρὸς πάντας",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 21,
+      "reference": "Ac 22:21",
+      "text": "εἶπεν πρός με·",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Ac 22:25",
+      "text": "εἶπεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Ac 23:3",
+      "text": "Παῦλος πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 17,
+      "reference": "Ac 23:17",
+      "text": "ἄπαγε πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 18,
+      "reference": "Ac 23:18",
+      "text": "ἤγαγεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Ac 23:22",
+      "text": "ἐνεφάνισας πρὸς ἐμέ.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 24,
+      "reference": "Ac 23:24",
+      "text": "διασώσωσι πρὸς Φήλικα",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 30,
+      "reference": "Ac 23:30",
+      "text": "ἔπεμψα πρὸς σέ,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Ac 24:12",
+      "text": "με πρός τινα",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 16,
+      "reference": "Ac 24:16",
+      "text": "ἔχειν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Ac 24:19",
+      "text": "ἔχοιεν πρὸς ἐμέ,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Ac 25:16",
+      "text": "πρὸς οὓς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 19,
+      "reference": "Ac 25:19",
+      "text": "εἶχον πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 21,
+      "reference": "Ac 25:21",
+      "text": "αὐτὸν πρὸς Καίσαρα.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 22,
+      "reference": "Ac 25:22",
+      "text": "δὲ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 1,
+      "reference": "Ac 26:1",
+      "text": "δὲ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 9,
+      "reference": "Ac 26:9",
+      "text": "ἐμαυτῷ πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 14,
+      "reference": "Ac 26:14",
+      "text": "λέγουσαν πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 26,
+      "reference": "Ac 26:26",
+      "text": "βασιλεύς, πρὸς ὃν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 28,
+      "reference": "Ac 26:28",
+      "text": "Ἀγρίππας πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Ac 26:31",
+      "text": "ἐλάλουν πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 3,
+      "reference": "Ac 27:3",
+      "text": "ἐπέτρεψεν πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Ac 27:12",
+      "text": "ὑπάρχοντος πρὸς παραχειμασίαν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 34,
+      "reference": "Ac 27:34",
+      "text": "γὰρ πρὸς τῆς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 4,
+      "reference": "Ac 28:4",
+      "text": "αὐτοῦ, πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 8,
+      "reference": "Ac 28:8",
+      "text": "κατακεῖσθαι, πρὸς ὃν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 10,
+      "reference": "Ac 28:10",
+      "text": "τὰ πρὸς τὰς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 17,
+      "reference": "Ac 28:17",
+      "text": "ἔλεγεν πρὸς αὐτούς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 21,
+      "reference": "Ac 28:21",
+      "text": "δὲ πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 23,
+      "reference": "Ac 28:23",
+      "text": "ἧκον πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 25,
+      "reference": "Ac 28:25",
+      "text": "ὄντες πρὸς ἀλλήλους",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 26,
+      "reference": "Ac 28:26",
+      "text": "Πορεύθητι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 30,
+      "reference": "Ac 28:30",
+      "text": "εἰσπορευομένους πρὸς αὐτόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ro 1:10",
+      "text": "ἐλθεῖν πρὸς ὑμᾶς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "ἐλθεῖν πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Ro 3:26",
+      "text": "θεοῦ, πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Ro 4:2",
+      "text": "οὐ πρὸς θεόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ro 5:1",
+      "text": "ἔχομεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Ro 8:18",
+      "text": "καιροῦ πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ro 8:31",
+      "text": "ἐροῦμεν πρὸς ταῦτα;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Ro 10:1",
+      "text": "δέησις πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Ro 10:21",
+      "text": "πρὸς δὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Ro 15:2",
+      "text": "ἀγαθὸν πρὸς οἰκοδομήν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Ro 15:17",
+      "text": "τὰ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Ro 15:22",
+      "text": "ἐλθεῖν πρὸς ὑμᾶς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Ro 15:23",
+      "text": "ἐλθεῖν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Ro 15:29",
+      "text": "ἐρχόμενος πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Ro 15:30",
+      "text": "ἐμοῦ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Ro 15:32",
+      "text": "ἐλθὼν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Co 2:1",
+      "text": "ἐλθὼν πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "1Co 2:3",
+      "text": "ἐγενόμην πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Co 4:18",
+      "text": "μου πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "1Co 4:19",
+      "text": "ταχέως πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "1Co 4:21",
+      "text": "ἔλθω πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Co 6:1",
+      "text": "ἔχων πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "1Co 6:5",
+      "text": "πρὸς ἐντροπὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "1Co 7:5",
+      "text": "συμφώνου πρὸς καιρὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "1Co 7:35",
+      "text": "δὲ πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "1Co 10:11",
+      "text": "δὲ πρὸς νουθεσίαν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "1Co 12:2",
+      "text": "ἦτε πρὸς τὰ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "1Co 12:7",
+      "text": "πνεύματος πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "1Co 13:12",
+      "text": "πρόσωπον πρὸς πρόσωπον·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "1Co 14:6",
+      "text": "ἔλθω πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "1Co 14:12",
+      "text": "πνευμάτων, πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "1Co 14:26",
+      "text": "πάντα πρὸς οἰκοδομὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "1Co 15:34",
+      "text": "ἔχουσιν· πρὸς ἐντροπὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "1Co 16:5",
+      "text": "δὲ πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "1Co 16:6",
+      "text": "πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "1Co 16:7",
+      "text": "ἐπιμεῖναι πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "1Co 16:10",
+      "text": "γένηται πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "1Co 16:11",
+      "text": "ἔλθῃ πρός με,",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "1Co 16:12",
+      "text": "ἔλθῃ πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Co 1:12",
+      "text": "δὲ πρὸς ὑμᾶς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "2Co 1:15",
+      "text": "πρότερον πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "2Co 1:16",
+      "text": "ἐλθεῖν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Co 1:18",
+      "text": "ὁ πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "2Co 1:20",
+      "text": "θεῷ πρὸς δόξαν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "2Co 2:1",
+      "text": "λύπῃ πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "2Co 2:16",
+      "text": "καὶ πρὸς ταῦτα",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Co 3:1",
+      "text": "ἐπιστολῶν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "2Co 3:4",
+      "text": "Χριστοῦ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "2Co 3:13",
+      "text": "αὐτοῦ, πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "2Co 3:16",
+      "text": "ἐπιστρέψῃ πρὸς κύριον,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "2Co 4:2",
+      "text": "ἑαυτοὺς πρὸς πᾶσαν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "2Co 4:6",
+      "text": "ἡμῶν πρὸς φωτισμὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "2Co 5:8",
+      "text": "ἐνδημῆσαι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "2Co 5:10",
+      "text": "σώματος πρὸς ἃ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "2Co 5:12",
+      "text": "ἔχητε πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "2Co 6:11",
+      "text": "ἀνέῳγεν πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "2Co 6:14",
+      "text": "φωτὶ πρὸς σκότος;",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "2Co 6:15",
+      "text": "Χριστοῦ πρὸς Βελιάρ,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "2Co 7:3",
+      "text": "πρὸς κατάκρισιν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "2Co 7:4",
+      "text": "παρρησία πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "2Co 7:8",
+      "text": "καὶ πρὸς ὥραν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "2Co 7:12",
+      "text": "ἡμῶν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "2Co 8:17",
+      "text": "ἐξῆλθεν πρὸς ὑμᾶς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "2Co 8:19",
+      "text": "ἡμῶν πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "2Co 10:4",
+      "text": "θεῷ πρὸς καθαίρεσιν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "2Co 11:8",
+      "text": "ὀψώνιον πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "2Co 11:9",
+      "text": "παρὼν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "2Co 12:14",
+      "text": "ἐλθεῖν πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "2Co 12:17",
+      "text": "ἀπέσταλκα πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "2Co 12:21",
+      "text": "μου πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "2Co 13:1",
+      "text": "ἔρχομαι πρὸς ὑμᾶς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "2Co 13:7",
+      "text": "δὲ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Ga 1:17",
+      "text": "Ἱεροσόλυμα πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Ga 1:18",
+      "text": "ἐπέμεινα πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ga 2:5",
+      "text": "οὐδὲ πρὸς ὥραν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ga 2:14",
+      "text": "ὀρθοποδοῦσιν πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ga 4:18",
+      "text": "με πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Ga 4:20",
+      "text": "παρεῖναι πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Ga 6:10",
+      "text": "ἀγαθὸν πρὸς πάντας,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Eph 2:18",
+      "text": "πνεύματι πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Eph 3:4",
+      "text": "πρὸς ὃ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Eph 3:14",
+      "text": "μου πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Eph 4:12",
+      "text": "πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Eph 4:14",
+      "text": "πανουργίᾳ πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "ἀγαθὸς πρὸς οἰκοδομὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Eph 6:9",
+      "text": "ποιεῖτε πρὸς αὐτούς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Eph 6:11",
+      "text": "θεοῦ πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Eph 6:12",
+      "text": "πάλη πρὸς αἷμα",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Eph 6:22",
+      "text": "ἔπεμψα πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Php 1:26",
+      "text": "πάλιν πρὸς ὑμᾶς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Php 2:25",
+      "text": "πέμψαι πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 30,
+      "reference": "Php 2:30",
+      "text": "τῆς πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Php 4:6",
+      "text": "γνωριζέσθω πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Col 2:23",
+      "text": "τινι πρὸς πλησμονὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Col 3:13",
+      "text": "τις πρός τινα",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Col 3:19",
+      "text": "πικραίνεσθε πρὸς αὐτάς.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Col 4:5",
+      "text": "περιπατεῖτε πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Col 4:8",
+      "text": "ἔπεμψα πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Col 4:10",
+      "text": "ἔλθῃ πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "ἡ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Th 1:9",
+      "text": "ἔσχομεν πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Th 2:1",
+      "text": "τὴν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Th 2:2",
+      "text": "λαλῆσαι πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Th 2:9",
+      "text": "ἐργαζόμενοι πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "1Th 2:17",
+      "text": "ὑμῶν πρὸς καιρὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "1Th 2:18",
+      "text": "ἐλθεῖν πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Th 3:4",
+      "text": "ὅτε πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Th 3:6",
+      "text": "Τιμοθέου πρὸς ἡμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Th 3:11",
+      "text": "ἡμῶν πρὸς ὑμᾶς·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Th 4:12",
+      "text": "εὐσχημόνως πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Th 5:14",
+      "text": "μακροθυμεῖτε πρὸς πάντας.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Th 2:5",
+      "text": "ὢν πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Th 3:1",
+      "text": "καὶ πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Th 3:8",
+      "text": "ἐργαζόμενοι πρὸς τὸ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Th 3:10",
+      "text": "ἦμεν πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Ti 1:16",
+      "text": "μακροθυμίαν, πρὸς ὑποτύπωσιν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Ti 3:14",
+      "text": "ἐλθεῖν πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Ti 4:7",
+      "text": "σεαυτὸν πρὸς εὐσέβειαν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Ti 4:8",
+      "text": "γυμνασία πρὸς ὀλίγον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "2Ti 2:24",
+      "text": "εἶναι πρὸς πάντας,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "2Ti 3:16",
+      "text": "ὠφέλιμος πρὸς διδασκαλίαν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Ti 3:17",
+      "text": "ἄνθρωπος, πρὸς πᾶν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "2Ti 4:9",
+      "text": "ἐλθεῖν πρός με",
+      "highlightedWord": "πρός"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Tit 1:16",
+      "text": "καὶ πρὸς πᾶν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Tit 3:1",
+      "text": "πειθαρχεῖν, πρὸς πᾶν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Tit 3:2",
+      "text": "πραΰτητα πρὸς πάντας",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Tit 3:12",
+      "text": "Ἀρτεμᾶν πρὸς σὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Phm 1:5",
+      "text": "ἔχεις πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Phm 1:13",
+      "text": "ἐβουλόμην πρὸς ἐμαυτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Phm 1:15",
+      "text": "ἐχωρίσθη πρὸς ὥραν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Heb 1:7",
+      "text": "καὶ πρὸς μὲν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Heb 1:8",
+      "text": "πρὸς δὲ",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Heb 1:13",
+      "text": "πρὸς τίνα",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Heb 2:17",
+      "text": "τὰ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Heb 4:13",
+      "text": "αὐτοῦ, πρὸς ὃν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Heb 5:1",
+      "text": "τὰ πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Heb 5:5",
+      "text": "λαλήσας πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Heb 5:7",
+      "text": "ἱκετηρίας πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Heb 5:14",
+      "text": "ἐχόντων πρὸς διάκρισιν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Heb 6:11",
+      "text": "σπουδὴν πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Heb 7:21",
+      "text": "λέγοντος πρὸς αὐτόν·",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Heb 9:13",
+      "text": "ἁγιάζει πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Heb 9:20",
+      "text": "ἐνετείλατο πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Heb 10:16",
+      "text": "διαθήσομαι πρὸς αὐτοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Heb 11:18",
+      "text": "πρὸς ὃν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Heb 12:4",
+      "text": "ἀντικατέστητε πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Heb 12:10",
+      "text": "γὰρ πρὸς ὀλίγας",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Heb 12:11",
+      "text": "παιδεία πρὸς μὲν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Heb 13:13",
+      "text": "ἐξερχώμεθα πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Jas 4:5",
+      "text": "λέγει· Πρὸς φθόνον",
+      "highlightedWord": "Πρὸς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Jas 4:14",
+      "text": "ἡ πρὸς ὀλίγον",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Pe 2:4",
+      "text": "Πρὸς ὃν",
+      "highlightedWord": "Πρὸς"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Pe 3:15",
+      "text": "ἀεὶ πρὸς ἀπολογίαν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Pe 4:12",
+      "text": "πυρώσει πρὸς πειρασμὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Pe 1:3",
+      "text": "τὰ πρὸς ζωὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "2Pe 3:16",
+      "text": "γραφὰς πρὸς τὴν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "1Jn 1:2",
+      "text": "ἦν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Jn 2:1",
+      "text": "ἔχομεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "1Jn 3:21",
+      "text": "ἔχομεν πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Jn 5:14",
+      "text": "ἔχομεν πρὸς αὐτόν,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Jn 5:16",
+      "text": "μὴ πρὸς θάνατον,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "1Jn 5:17",
+      "text": "οὐ πρὸς θάνατον.",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Jn 1:10",
+      "text": "ἔρχεται πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Jn 1:12",
+      "text": "γενέσθαι πρὸς ὑμᾶς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "3Jn 1:14",
+      "text": "στόμα πρὸς στόμα",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "περιεζωσμένον πρὸς τοῖς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "ἔπεσα πρὸς τοὺς",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "εἰσελεύσομαι πρὸς αὐτὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Re 10:9",
+      "text": "ἀπῆλθα πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Re 12:5",
+      "text": "αὐτῆς πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Re 12:12",
+      "text": "διάβολος πρὸς ὑμᾶς,",
+      "highlightedWord": "πρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Re 13:6",
+      "text": "βλασφημίας πρὸς τὸν",
+      "highlightedWord": "πρὸς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

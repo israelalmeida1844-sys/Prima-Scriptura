@@ -1,0 +1,377 @@
+{
+  "strong": "G2523",
+  "lemma": "καθίζω",
+  "lemmaTranslit": "kathizō",
+  "tokenCount": 45,
+  "verseCount": 44,
+  "bookDistribution": {
+    "Mateus": 8,
+    "Marcos": 8,
+    "Lucas": 7,
+    "João": 2,
+    "Atos": 9,
+    "1 Coríntios": 2,
+    "Efésios": 1,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 4,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Mt 5:1",
+      "text": "καὶ καθίσαντος αὐτοῦ",
+      "highlightedWord": "καθίσαντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 48,
+      "reference": "Mt 13:48",
+      "text": "καὶ καθίσαντες συνέλεξαν",
+      "highlightedWord": "καθίσαντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 28,
+      "reference": "Mt 19:28",
+      "text": "ὅταν καθίσῃ ὁ",
+      "highlightedWord": "καθίσῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Mt 20:21",
+      "text": "ἵνα καθίσωσιν οὗτοι",
+      "highlightedWord": "καθίσωσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Mt 20:23",
+      "text": "δὲ καθίσαι ἐκ",
+      "highlightedWord": "καθίσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 2,
+      "reference": "Mt 23:2",
+      "text": "καθέδρας ἐκάθισαν οἱ",
+      "highlightedWord": "ἐκάθισαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 31,
+      "reference": "Mt 25:31",
+      "text": "τότε καθίσει ἐπὶ",
+      "highlightedWord": "καθίσει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 36,
+      "reference": "Mt 26:36",
+      "text": "μαθηταῖς· Καθίσατε αὐτοῦ",
+      "highlightedWord": "Καθίσατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mk 9:35",
+      "text": "καὶ καθίσας ἐφώνησεν",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Mk 10:37",
+      "text": "ἀριστερῶν καθίσωμεν ἐν",
+      "highlightedWord": "καθίσωμεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Mk 10:40",
+      "text": "δὲ καθίσαι ἐκ",
+      "highlightedWord": "καθίσαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Mk 11:2",
+      "text": "ἀνθρώπων ἐκάθισεν· λύσατε",
+      "highlightedWord": "ἐκάθισεν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Mk 11:7",
+      "text": "καὶ ἐκάθισεν ἐπ’",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Mk 12:41",
+      "text": "Καὶ καθίσας κατέναντι",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 32,
+      "reference": "Mk 14:32",
+      "text": "αὐτοῦ· Καθίσατε ὧδε",
+      "highlightedWord": "Καθίσατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Mk 16:19",
+      "text": "καὶ ἐκάθισεν ἐκ",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Lk 4:20",
+      "text": "ὑπηρέτῃ ἐκάθισεν· καὶ",
+      "highlightedWord": "ἐκάθισεν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Lk 5:3",
+      "text": "ὀλίγον, καθίσας δὲ",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Lk 14:28",
+      "text": "πρῶτον καθίσας ψηφίζει",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Lk 14:31",
+      "text": "οὐχὶ καθίσας πρῶτον",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Lk 16:6",
+      "text": "καὶ καθίσας ταχέως",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Lk 19:30",
+      "text": "ἀνθρώπων ἐκάθισεν, καὶ",
+      "highlightedWord": "ἐκάθισεν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 49,
+      "reference": "Lk 24:49",
+      "text": "δὲ καθίσατε ἐν",
+      "highlightedWord": "καθίσατε"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Jn 12:14",
+      "text": "ὀνάριον ἐκάθισεν ἐπ’",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Jn 19:13",
+      "text": "καὶ ἐκάθισεν ἐπὶ",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Ac 2:3",
+      "text": "καὶ ἐκάθισεν ἐφ’",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 30,
+      "reference": "Ac 2:30",
+      "text": "αὐτοῦ καθίσαι ἐπὶ",
+      "highlightedWord": "καθίσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ac 8:31",
+      "text": "ἀναβάντα καθίσαι σὺν",
+      "highlightedWord": "καθίσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Ac 12:21",
+      "text": "καὶ καθίσας ἐπὶ",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Ac 13:14",
+      "text": "σαββάτων ἐκάθισαν.",
+      "highlightedWord": "ἐκάθισαν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Ac 16:13",
+      "text": "καὶ καθίσαντες ἐλαλοῦμεν",
+      "highlightedWord": "καθίσαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Ac 18:11",
+      "text": "ἐκάθισεν δὲ",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Ac 25:6",
+      "text": "ἐπαύριον καθίσας ἐπὶ",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 17,
+      "reference": "Ac 25:17",
+      "text": "ἑξῆς καθίσας ἐπὶ",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "1Co 6:4",
+      "text": "τούτους καθίζετε;",
+      "highlightedWord": "καθίζετε;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "1Co 10:7",
+      "text": "γέγραπται· Ἐκάθισεν ὁ",
+      "highlightedWord": "Ἐκάθισεν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Eph 1:20",
+      "text": "καὶ καθίσας ἐν",
+      "highlightedWord": "καθίσας"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Th 2:4",
+      "text": "θεοῦ καθίσαι ἀποδεικνύντα",
+      "highlightedWord": "καθίσαι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Heb 1:3",
+      "text": "ποιησάμενος ἐκάθισεν ἐν",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Heb 8:1",
+      "text": "ὃς ἐκάθισεν ἐν",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Heb 10:12",
+      "text": "διηνεκὲς ἐκάθισεν ἐν",
+      "highlightedWord": "ἐκάθισεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Heb 12:2",
+      "text": "θεοῦ κεκάθικεν.",
+      "highlightedWord": "κεκάθικεν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Re 3:21",
+      "text": "αὐτῷ καθίσαι μετ’",
+      "highlightedWord": "καθίσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Re 20:4",
+      "text": "καὶ ἐκάθισαν ἐπ’",
+      "highlightedWord": "ἐκάθισαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

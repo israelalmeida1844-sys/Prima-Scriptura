@@ -1,0 +1,1652 @@
+{
+  "strong": "G3779",
+  "lemma": "οὕτω(ς)",
+  "lemmaTranslit": "houtōs",
+  "tokenCount": 207,
+  "verseCount": 202,
+  "bookDistribution": {
+    "Mateus": 32,
+    "Marcos": 10,
+    "Lucas": 21,
+    "João": 14,
+    "Atos": 27,
+    "Romanos": 17,
+    "1 Coríntios": 31,
+    "2 Coríntios": 7,
+    "Gálatas": 5,
+    "Efésios": 4,
+    "Filipenses": 2,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 5,
+    "2 Tessalonicenses": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 9,
+    "Tiago": 7,
+    "1 Pedro": 2,
+    "2 Pedro": 3,
+    "1 João": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Mt 1:18",
+      "text": "γένεσις οὕτως ἦν.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Mt 2:5",
+      "text": "Ἰουδαίας· οὕτως γὰρ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Mt 3:15",
+      "text": "ἄρτι, οὕτως γὰρ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Mt 5:12",
+      "text": "οὐρανοῖς· οὕτως γὰρ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Mt 5:16",
+      "text": "οὕτως λαμψάτω",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "διδάξῃ οὕτως τοὺς",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Mt 6:9",
+      "text": "Οὕτως οὖν",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Mt 6:30",
+      "text": "θεὸς οὕτως ἀμφιέννυσιν,",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Mt 7:12",
+      "text": "ἄνθρωποι, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Mt 7:17",
+      "text": "οὕτως πᾶν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Mt 9:33",
+      "text": "ἐφάνη οὕτως ἐν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Mt 11:26",
+      "text": "ὅτι οὕτως εὐδοκία",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Mt 12:40",
+      "text": "νύκτας, οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "πρώτων. οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 40,
+      "reference": "Mt 13:40",
+      "text": "καίεται, οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 49,
+      "reference": "Mt 13:49",
+      "text": "οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Mt 17:12",
+      "text": "ἠθέλησαν· οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Mt 18:14",
+      "text": "οὕτως οὐκ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 35,
+      "reference": "Mt 18:35",
+      "text": "Οὕτως καὶ",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Mt 19:8",
+      "text": "γέγονεν οὕτως.",
+      "highlightedWord": "οὕτως."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Mt 19:10",
+      "text": "Εἰ οὕτως ἐστὶν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Mt 19:12",
+      "text": "ἐγεννήθησαν οὕτως, καὶ",
+      "highlightedWord": "οὕτως,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Mt 20:16",
+      "text": "οὕτως ἔσονται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Mt 20:26",
+      "text": "οὐχ οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Mt 23:28",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Mt 24:27",
+      "text": "δυσμῶν, οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 33,
+      "reference": "Mt 24:33",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 37,
+      "reference": "Mt 24:37",
+      "text": "Νῶε, οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 39,
+      "reference": "Mt 24:39",
+      "text": "ἅπαντας, οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 46,
+      "reference": "Mt 24:46",
+      "text": "εὑρήσει οὕτως ποιοῦντα·",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 40,
+      "reference": "Mt 26:40",
+      "text": "Πέτρῳ· Οὕτως οὐκ",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 54,
+      "reference": "Mt 26:54",
+      "text": "ὅτι οὕτως δεῖ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mk 2:7",
+      "text": "οὗτος οὕτως λαλεῖ;",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Mk 2:8",
+      "text": "ὅτι οὕτως διαλογίζονται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Mk 2:12",
+      "text": "ὅτι Οὕτως οὐδέποτε",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Mk 4:26",
+      "text": "ἔλεγεν· Οὕτως ἐστὶν",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Mk 7:18",
+      "text": "αὐτοῖς· Οὕτως καὶ",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Mk 9:3",
+      "text": "δύναται οὕτως λευκᾶναι.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 43,
+      "reference": "Mk 10:43",
+      "text": "οὐχ οὕτως δέ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Mk 13:29",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 59,
+      "reference": "Mk 14:59",
+      "text": "οὐδὲ οὕτως ἴση",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 39,
+      "reference": "Mk 15:39",
+      "text": "ὅτι οὕτως ἐξέπνευσεν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Lk 1:25",
+      "text": "ὅτι Οὕτως μοι",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 48,
+      "reference": "Lk 2:48",
+      "text": "ἡμῖν οὕτως; ἰδοὺ",
+      "highlightedWord": "οὕτως;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Lk 9:15",
+      "text": "ἐποίησαν οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Lk 10:21",
+      "text": "ὅτι οὕτως εὐδοκία",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Lk 11:30",
+      "text": "σημεῖον, οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Lk 12:21",
+      "text": "οὕτως ὁ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Lk 12:28",
+      "text": "θεὸς οὕτως ἀμφιέζει,",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Lk 12:38",
+      "text": "εὕρῃ οὕτως, μακάριοί",
+      "highlightedWord": "οὕτως,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Lk 12:43",
+      "text": "ποιοῦντα οὕτως·",
+      "highlightedWord": "οὕτως·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 54,
+      "reference": "Lk 12:54",
+      "text": "γίνεται οὕτως·",
+      "highlightedWord": "οὕτως·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 33,
+      "reference": "Lk 14:33",
+      "text": "οὕτως οὖν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Lk 15:7",
+      "text": "ὅτι οὕτως χαρὰ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Lk 15:10",
+      "text": "οὕτως, λέγω",
+      "highlightedWord": "οὕτως,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Lk 17:10",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Lk 17:24",
+      "text": "λάμπει, οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Lk 17:26",
+      "text": "Νῶε, οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Lk 19:31",
+      "text": "λύετε; οὕτως ἐρεῖτε",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Lk 21:31",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 26,
+      "reference": "Lk 22:26",
+      "text": "οὐχ οὕτως, ἀλλ’",
+      "highlightedWord": "οὕτως,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Lk 24:24",
+      "text": "εὗρον οὕτως καθὼς",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 46,
+      "reference": "Lk 24:46",
+      "text": "ὅτι οὕτως γέγραπται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jn 3:8",
+      "text": "ὑπάγει· οὕτως ἐστὶν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jn 3:14",
+      "text": "ἐρήμῳ, οὕτως ὑψωθῆναι",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Jn 3:16",
+      "text": "Οὕτως γὰρ",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Jn 4:6",
+      "text": "ἐκαθέζετο οὕτως ἐπὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Jn 5:21",
+      "text": "ζῳοποιεῖ, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Jn 5:26",
+      "text": "ἑαυτῷ, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 46,
+      "reference": "Jn 7:46",
+      "text": "ἐλάλησεν οὕτως ἄνθρωπος.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 48,
+      "reference": "Jn 11:48",
+      "text": "αὐτὸν οὕτως, πάντες",
+      "highlightedWord": "οὕτως,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 50,
+      "reference": "Jn 12:50",
+      "text": "πατήρ, οὕτως λαλῶ.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Jn 13:25",
+      "text": "ἐκεῖνος οὕτως ἐπὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Jn 14:31",
+      "text": "πατὴρ οὕτως ποιῶ.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Jn 15:4",
+      "text": "ἀμπέλῳ, οὕτως οὐδὲ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Jn 18:22",
+      "text": "εἰπών· Οὕτως ἀποκρίνῃ",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Jn 21:1",
+      "text": "δὲ οὕτως.",
+      "highlightedWord": "οὕτως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ac 1:11",
+      "text": "οὐρανὸν οὕτως ἐλεύσεται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Ac 3:18",
+      "text": "ἐπλήρωσεν οὕτως.",
+      "highlightedWord": "οὕτως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ac 7:1",
+      "text": "ταῦτα οὕτως ἔχει;",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Ac 7:6",
+      "text": "δὲ οὕτως ὁ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Ac 7:8",
+      "text": "καὶ οὕτως ἐγέννησεν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Ac 8:32",
+      "text": "ἄφωνος, οὕτως οὐκ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Ac 12:8",
+      "text": "δὲ οὕτως. καὶ",
+      "highlightedWord": "οὕτως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Ac 12:15",
+      "text": "διϊσχυρίζετο οὕτως ἔχειν.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Ac 13:8",
+      "text": "μάγος, οὕτως γὰρ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Ac 13:34",
+      "text": "διαφθοράν, οὕτως εἴρηκεν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 47,
+      "reference": "Ac 13:47",
+      "text": "οὕτως γὰρ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ac 14:1",
+      "text": "λαλῆσαι οὕτως ὥστε",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Ac 17:11",
+      "text": "ταῦτα οὕτως.",
+      "highlightedWord": "οὕτως."
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 33,
+      "reference": "Ac 17:33",
+      "text": "οὕτως ὁ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Ac 19:20",
+      "text": "οὕτως κατὰ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Ac 20:11",
+      "text": "αὐγῆς, οὕτως ἐξῆλθεν.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Ac 20:13",
+      "text": "Παῦλον, οὕτως γὰρ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 35,
+      "reference": "Ac 20:35",
+      "text": "ὅτι οὕτως κοπιῶντας",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "αὕτη, οὕτως δήσουσιν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Ac 22:24",
+      "text": "αἰτίαν οὕτως ἐπεφώνουν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 11,
+      "reference": "Ac 23:11",
+      "text": "Ἰερουσαλὴμ οὕτω σε",
+      "highlightedWord": "οὕτω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Ac 24:9",
+      "text": "ταῦτα οὕτως ἔχειν.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 14,
+      "reference": "Ac 24:14",
+      "text": "αἵρεσιν οὕτως λατρεύω",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 17,
+      "reference": "Ac 27:17",
+      "text": "σκεῦος, οὕτως ἐφέροντο.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 25,
+      "reference": "Ac 27:25",
+      "text": "ὅτι οὕτως ἔσται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 44,
+      "reference": "Ac 27:44",
+      "text": "καὶ οὕτως ἐγένετο",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 14,
+      "reference": "Ac 28:14",
+      "text": "καὶ οὕτως εἰς",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Ro 1:15",
+      "text": "οὕτως τὸ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ro 4:18",
+      "text": "εἰρημένον· Οὕτως ἔσται",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ro 5:12",
+      "text": "καὶ οὕτως εἰς",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ro 5:15",
+      "text": "παράπτωμα, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Ro 5:18",
+      "text": "κατάκριμα, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ro 5:19",
+      "text": "πολλοί, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Ro 5:21",
+      "text": "θανάτῳ, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ro 6:4",
+      "text": "πατρός, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Ro 6:11",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Ro 6:19",
+      "text": "ἀνομίαν, οὕτως νῦν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Ro 9:20",
+      "text": "ἐποίησας οὕτως;",
+      "highlightedWord": "οὕτως;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Ro 10:6",
+      "text": "δικαιοσύνη οὕτως λέγει·",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ro 11:5",
+      "text": "οὕτως οὖν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Ro 11:26",
+      "text": "καὶ οὕτως πᾶς",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Ro 11:31",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Ro 12:5",
+      "text": "οὕτως οἱ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Ro 15:20",
+      "text": "οὕτως δὲ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Co 2:11",
+      "text": "αὐτῷ; οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Co 3:15",
+      "text": "σωθήσεται, οὕτως δὲ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Co 4:1",
+      "text": "Οὕτως ἡμᾶς",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "1Co 5:3",
+      "text": "τὸν οὕτως τοῦτο",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "1Co 6:5",
+      "text": "λέγω. οὕτως οὐκ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "1Co 7:7",
+      "text": "μὲν οὕτως, ⸁ὁ",
+      "highlightedWord": "οὕτως,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "1Co 7:17",
+      "text": "θεός, οὕτως περιπατείτω·",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "1Co 7:26",
+      "text": "τὸ οὕτως εἶναι.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "1Co 7:36",
+      "text": "καὶ οὕτως ὀφείλει",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "1Co 7:40",
+      "text": "ἐὰν οὕτως μείνῃ,",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "1Co 8:12",
+      "text": "οὕτως δὲ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "1Co 9:14",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "1Co 9:15",
+      "text": "ἵνα οὕτως γένηται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "1Co 9:24",
+      "text": "βραβεῖον; οὕτως τρέχετε",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "1Co 9:26",
+      "text": "τοίνυν οὕτως τρέχω",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "1Co 11:12",
+      "text": "ἀνδρός, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "1Co 11:28",
+      "text": "καὶ οὕτως ἐκ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "1Co 12:12",
+      "text": "σῶμα, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "1Co 14:9",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "1Co 14:12",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "1Co 14:21",
+      "text": "οὐδ’ οὕτως εἰσακούσονταί",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "1Co 14:25",
+      "text": "καὶ οὕτως πεσὼν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "1Co 15:11",
+      "text": "ἐκεῖνοι, οὕτως κηρύσσομεν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "1Co 15:22",
+      "text": "ἀποθνῄσκουσιν, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 42,
+      "reference": "1Co 15:42",
+      "text": "Οὕτως καὶ",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 45,
+      "reference": "1Co 15:45",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "1Co 16:1",
+      "text": "Γαλατίας, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Co 1:5",
+      "text": "ἡμᾶς, οὕτως διὰ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Co 1:7",
+      "text": "παθημάτων, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "2Co 7:14",
+      "text": "ὑμῖν, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "2Co 8:6",
+      "text": "προενήρξατο οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "2Co 8:11",
+      "text": "θέλειν οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "2Co 9:5",
+      "text": "εἶναι οὕτως ὡς",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "2Co 10:7",
+      "text": "Χριστοῦ οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Ga 1:6",
+      "text": "ὅτι οὕτως ταχέως",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Ga 3:3",
+      "text": "οὕτως ἀνόητοί",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Ga 4:3",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Ga 4:29",
+      "text": "πνεῦμα, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Ga 6:2",
+      "text": "καὶ οὕτως ἀναπληρώσετε",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Eph 4:20",
+      "text": "οὐχ οὕτως ἐμάθετε",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Eph 5:24",
+      "text": "Χριστῷ, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Eph 5:28",
+      "text": "οὕτως ὀφείλουσιν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "γυναῖκα οὕτως ἀγαπάτω",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Php 3:17",
+      "text": "τοὺς οὕτω περιπατοῦντας",
+      "highlightedWord": "οὕτω"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Php 4:1",
+      "text": "μου, οὕτως στήκετε",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Col 3:13",
+      "text": "ὑμῖν οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Th 2:4",
+      "text": "εὐαγγέλιον οὕτως λαλοῦμεν,",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Th 2:8",
+      "text": "οὕτως ὁμειρόμενοι",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Th 4:14",
+      "text": "ἀνέστη, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Th 4:17",
+      "text": "καὶ οὕτως πάντοτε",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Th 5:2",
+      "text": "νυκτὶ οὕτως ἔρχεται.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Th 3:17",
+      "text": "ἐπιστολῇ· οὕτως γράφω.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Ti 3:8",
+      "text": "Μωϋσεῖ, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Heb 4:4",
+      "text": "ἑβδόμης οὕτως· Καὶ",
+      "highlightedWord": "οὕτως·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Heb 5:3",
+      "text": "λαοῦ, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Heb 5:5",
+      "text": "Οὕτως καὶ",
+      "highlightedWord": "Οὕτως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Heb 6:9",
+      "text": "καὶ οὕτως λαλοῦμεν·",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Heb 6:15",
+      "text": "καὶ οὕτως μακροθυμήσας",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Heb 9:6",
+      "text": "δὲ οὕτως κατεσκευασμένων,",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Heb 9:28",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Heb 10:33",
+      "text": "τῶν οὕτως ἀναστρεφομένων",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Heb 12:21",
+      "text": "καί, οὕτω φοβερὸν",
+      "highlightedWord": "οὕτω"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Jas 1:11",
+      "text": "ἀπώλετο· οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Jas 2:12",
+      "text": "οὕτως λαλεῖτε",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Jas 2:17",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Jas 2:26",
+      "text": "ἐστιν, οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Jas 3:5",
+      "text": "οὕτως καὶ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Jas 3:10",
+      "text": "ταῦτα οὕτως γίνεσθαι.",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Pe 2:15",
+      "text": "(ὅτι οὕτως ἐστὶν",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Pe 3:5",
+      "text": "οὕτως γάρ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Pe 1:11",
+      "text": "οὕτως γὰρ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "2Pe 3:4",
+      "text": "πάντα οὕτως διαμένει",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "2Pe 3:11",
+      "text": "Τούτων οὕτως πάντων",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Jn 4:11",
+      "text": "εἰ οὕτως ὁ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Re 2:15",
+      "text": "οὕτως ἔχεις",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Re 3:5",
+      "text": "νικῶν οὕτως περιβαλεῖται",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Re 3:16",
+      "text": "οὕτως, ὅτι",
+      "highlightedWord": "οὕτως,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "καὶ οὕτως εἶδον",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Re 11:5",
+      "text": "ἀδικῆσαι, οὕτως δεῖ",
+      "highlightedWord": "οὕτως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Re 16:18",
+      "text": "σεισμὸς οὕτω μέγας,",
+      "highlightedWord": "οὕτω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "λέγων· Οὕτως ὁρμήματι",
+      "highlightedWord": "Οὕτως"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

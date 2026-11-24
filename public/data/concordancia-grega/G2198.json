@@ -1,0 +1,1027 @@
+{
+  "strong": "G2198",
+  "lemma": "ζάω",
+  "lemmaTranslit": "zaō",
+  "tokenCount": 140,
+  "verseCount": 124,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 3,
+    "Lucas": 9,
+    "João": 17,
+    "Atos": 12,
+    "Romanos": 23,
+    "1 Coríntios": 3,
+    "2 Coríntios": 9,
+    "Gálatas": 9,
+    "Filipenses": 2,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 5,
+    "1 Timóteo": 3,
+    "2 Timóteo": 2,
+    "Tito": 1,
+    "Hebreus": 12,
+    "Tiago": 1,
+    "1 Pedro": 7,
+    "1 João": 1,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Mt 4:4",
+      "text": "μόνῳ ζήσεται ὁ",
+      "highlightedWord": "ζήσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mt 9:18",
+      "text": "καὶ ζήσεται.",
+      "highlightedWord": "ζήσεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Mt 16:16",
+      "text": "τοῦ ζῶντος.",
+      "highlightedWord": "ζῶντος."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 32,
+      "reference": "Mt 22:32",
+      "text": "ἀλλὰ ζώντων.",
+      "highlightedWord": "ζώντων."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 63,
+      "reference": "Mt 26:63",
+      "text": "τοῦ ζῶντος ἵνα",
+      "highlightedWord": "ζῶντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 63,
+      "reference": "Mt 27:63",
+      "text": "ἔτι ζῶν· Μετὰ",
+      "highlightedWord": "ζῶν·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mk 5:23",
+      "text": "καὶ ζήσῃ.",
+      "highlightedWord": "ζήσῃ."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Mk 12:27",
+      "text": "ἀλλὰ ζώντων· πολὺ",
+      "highlightedWord": "ζώντων·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "Mk 16:11",
+      "text": "ὅτι ζῇ καὶ",
+      "highlightedWord": "ζῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 36,
+      "reference": "Lk 2:36",
+      "text": "πολλαῖς, ζήσασα μετὰ",
+      "highlightedWord": "ζήσασα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Lk 4:4",
+      "text": "μόνῳ ζήσεται ὁ",
+      "highlightedWord": "ζήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Lk 10:28",
+      "text": "καὶ ζήσῃ.",
+      "highlightedWord": "ζήσῃ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Lk 15:13",
+      "text": "αὐτοῦ ζῶν ἀσώτως.",
+      "highlightedWord": "ζῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Lk 15:32",
+      "text": "καὶ ἔζησεν, καὶ",
+      "highlightedWord": "ἔζησεν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 38,
+      "reference": "Lk 20:38",
+      "text": "ἀλλὰ ζώντων, πάντες",
+      "highlightedWord": "ζώντων,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Lk 24:5",
+      "text": "τὸν ζῶντα μετὰ",
+      "highlightedWord": "ζῶντα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Lk 24:23",
+      "text": "αὐτὸν ζῆν.",
+      "highlightedWord": "ζῆν."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Jn 4:10",
+      "text": "ὕδωρ ζῶν.",
+      "highlightedWord": "ζῶν."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "τὸ ζῶν;",
+      "highlightedWord": "ζῶν;"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 50,
+      "reference": "Jn 4:50",
+      "text": "σου ζῇ. ἐπίστευσεν",
+      "highlightedWord": "ζῇ."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 51,
+      "reference": "Jn 4:51",
+      "text": "αὐτοῦ ζῇ.",
+      "highlightedWord": "ζῇ."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 53,
+      "reference": "Jn 4:53",
+      "text": "σου ζῇ, καὶ",
+      "highlightedWord": "ζῇ,"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Jn 5:25",
+      "text": "ἀκούσαντες ζήσουσιν.",
+      "highlightedWord": "ζήσουσιν."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 51,
+      "reference": "Jn 6:51",
+      "text": "ὁ ζῶν ὁ",
+      "highlightedWord": "ζῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 57,
+      "reference": "Jn 6:57",
+      "text": "ὁ ζῶν πατὴρ",
+      "highlightedWord": "ζῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 58,
+      "reference": "Jn 6:58",
+      "text": "ἄρτον ζήσει εἰς",
+      "highlightedWord": "ζήσει"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Jn 7:38",
+      "text": "ὕδατος ζῶντος.",
+      "highlightedWord": "ζῶντος."
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Jn 11:25",
+      "text": "ἀποθάνῃ ζήσεται,",
+      "highlightedWord": "ζήσεται,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Jn 11:26",
+      "text": "ὁ ζῶν καὶ",
+      "highlightedWord": "ζῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Jn 14:19",
+      "text": "ἐγὼ ζῶ καὶ",
+      "highlightedWord": "ζῶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Ac 1:3",
+      "text": "ἑαυτὸν ζῶντα μετὰ",
+      "highlightedWord": "ζῶντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Ac 7:38",
+      "text": "λόγια ζῶντα δοῦναι",
+      "highlightedWord": "ζῶντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Ac 9:41",
+      "text": "αὐτὴν ζῶσαν.",
+      "highlightedWord": "ζῶσαν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Ac 10:42",
+      "text": "κριτὴς ζώντων καὶ",
+      "highlightedWord": "ζώντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ac 14:15",
+      "text": "θεὸν ζῶντα ὃς",
+      "highlightedWord": "ζῶντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 28,
+      "reference": "Ac 17:28",
+      "text": "γὰρ ζῶμεν καὶ",
+      "highlightedWord": "ζῶμεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Ac 20:12",
+      "text": "παῖδα ζῶντα, καὶ",
+      "highlightedWord": "ζῶντα,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Ac 22:22",
+      "text": "αὐτὸν ζῆν.",
+      "highlightedWord": "ζῆν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 19,
+      "reference": "Ac 25:19",
+      "text": "Παῦλος ζῆν.",
+      "highlightedWord": "ζῆν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 24,
+      "reference": "Ac 25:24",
+      "text": "αὐτὸν ζῆν μηκέτι.",
+      "highlightedWord": "ζῆν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 5,
+      "reference": "Ac 26:5",
+      "text": "θρησκείας ἔζησα Φαρισαῖος.",
+      "highlightedWord": "ἔζησα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 4,
+      "reference": "Ac 28:4",
+      "text": "δίκη ζῆν οὐκ",
+      "highlightedWord": "ζῆν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Ro 1:17",
+      "text": "πίστεως ζήσεται.",
+      "highlightedWord": "ζήσεται."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Ro 6:2",
+      "text": "ἔτι ζήσομεν ἐν",
+      "highlightedWord": "ζήσομεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Ro 6:10",
+      "text": "δὲ ζῇ, ζῇ",
+      "highlightedWord": "ζῇ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Ro 6:11",
+      "text": "ἁμαρτίᾳ ζῶντας δὲ",
+      "highlightedWord": "ζῶντας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ro 6:13",
+      "text": "νεκρῶν ζῶντας καὶ",
+      "highlightedWord": "ζῶντας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ro 7:1",
+      "text": "χρόνον ζῇ;",
+      "highlightedWord": "ζῇ;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Ro 7:2",
+      "text": "τῷ ζῶντι ἀνδρὶ",
+      "highlightedWord": "ζῶντι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Ro 7:3",
+      "text": "οὖν ζῶντος τοῦ",
+      "highlightedWord": "ζῶντος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Ro 7:9",
+      "text": "δὲ ἔζων χωρὶς",
+      "highlightedWord": "ἔζων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Ro 8:12",
+      "text": "σάρκα ζῆν,",
+      "highlightedWord": "ζῆν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Ro 8:13",
+      "text": "σάρκα ζῆτε μέλλετε",
+      "highlightedWord": "ζῆτε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ro 9:26",
+      "text": "θεοῦ ζῶντος.",
+      "highlightedWord": "ζῶντος."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Ro 10:5",
+      "text": "ἄνθρωπος ζήσεται ἐν",
+      "highlightedWord": "ζήσεται"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Ro 12:1",
+      "text": "θυσίαν ζῶσαν ἁγίαν",
+      "highlightedWord": "ζῶσαν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Ro 14:7",
+      "text": "ἑαυτῷ ζῇ, καὶ",
+      "highlightedWord": "ζῇ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Ro 14:8",
+      "text": "γὰρ ζῶμεν, τῷ",
+      "highlightedWord": "ζῶμεν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Ro 14:9",
+      "text": "καὶ ἔζησεν ἵνα",
+      "highlightedWord": "ἔζησεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Ro 14:11",
+      "text": "γάρ· Ζῶ ἐγώ,",
+      "highlightedWord": "Ζῶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "1Co 7:39",
+      "text": "χρόνον ζῇ ὁ",
+      "highlightedWord": "ζῇ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "1Co 9:14",
+      "text": "εὐαγγελίου ζῆν.",
+      "highlightedWord": "ζῆν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 45,
+      "reference": "1Co 15:45",
+      "text": "ψυχὴν ζῶσαν· ὁ",
+      "highlightedWord": "ζῶσαν·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Co 1:8",
+      "text": "τοῦ ζῆν·",
+      "highlightedWord": "ζῆν·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "2Co 3:3",
+      "text": "θεοῦ ζῶντος, οὐκ",
+      "highlightedWord": "ζῶντος,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "2Co 4:11",
+      "text": "οἱ ζῶντες εἰς",
+      "highlightedWord": "ζῶντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "2Co 5:15",
+      "text": "οἱ ζῶντες μηκέτι",
+      "highlightedWord": "ζῶντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "2Co 6:9",
+      "text": "ἰδοὺ ζῶμεν, ὡς",
+      "highlightedWord": "ζῶμεν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "2Co 6:16",
+      "text": "ἐσμεν ζῶντος· καθὼς",
+      "highlightedWord": "ζῶντος·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "2Co 13:4",
+      "text": "ἀλλὰ ζῇ ἐκ",
+      "highlightedWord": "ζῇ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ga 2:14",
+      "text": "Ἰουδαϊκῶς ζῇς, πῶς",
+      "highlightedWord": "ζῇς,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Ga 2:19",
+      "text": "θεῷ ζήσω· Χριστῷ",
+      "highlightedWord": "ζήσω·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Ga 2:20",
+      "text": "ζῶ δὲ",
+      "highlightedWord": "ζῶ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Ga 3:11",
+      "text": "πίστεως ζήσεται,",
+      "highlightedWord": "ζήσεται,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Ga 3:12",
+      "text": "αὐτὰ ζήσεται ἐν",
+      "highlightedWord": "ζήσεται"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Ga 5:25",
+      "text": "εἰ ζῶμεν πνεύματι,",
+      "highlightedWord": "ζῶμεν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Php 1:21",
+      "text": "τὸ ζῆν Χριστὸς",
+      "highlightedWord": "ζῆν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Php 1:22",
+      "text": "τὸ ζῆν ἐν",
+      "highlightedWord": "ζῆν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Col 2:20",
+      "text": "ὡς ζῶντες ἐν",
+      "highlightedWord": "ζῶντες"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Col 3:7",
+      "text": "ὅτε ἐζῆτε ἐν",
+      "highlightedWord": "ἐζῆτε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Th 1:9",
+      "text": "θεῷ ζῶντι καὶ",
+      "highlightedWord": "ζῶντι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "1Th 3:8",
+      "text": "νῦν ζῶμεν ἐὰν",
+      "highlightedWord": "ζῶμεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Th 4:15",
+      "text": "οἱ ζῶντες οἱ",
+      "highlightedWord": "ζῶντες"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Th 4:17",
+      "text": "οἱ ζῶντες οἱ",
+      "highlightedWord": "ζῶντες"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Th 5:10",
+      "text": "αὐτῷ ζήσωμεν.",
+      "highlightedWord": "ζήσωμεν."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Ti 3:15",
+      "text": "θεοῦ ζῶντος, στῦλος",
+      "highlightedWord": "ζῶντος,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Ti 4:10",
+      "text": "θεῷ ζῶντι, ὅς",
+      "highlightedWord": "ζῶντι,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Ti 5:6",
+      "text": "σπαταλῶσα ζῶσα τέθνηκεν.",
+      "highlightedWord": "ζῶσα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Ti 3:12",
+      "text": "θέλοντες ζῆν εὐσεβῶς",
+      "highlightedWord": "ζῆν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "2Ti 4:1",
+      "text": "κρίνειν ζῶντας καὶ",
+      "highlightedWord": "ζῶντας"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Tit 2:12",
+      "text": "εὐσεβῶς ζήσωμεν ἐν",
+      "highlightedWord": "ζήσωμεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Heb 2:15",
+      "text": "τοῦ ζῆν ἔνοχοι",
+      "highlightedWord": "ζῆν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Heb 3:12",
+      "text": "θεοῦ ζῶντος,",
+      "highlightedWord": "ζῶντος,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Heb 4:12",
+      "text": "Ζῶν γὰρ",
+      "highlightedWord": "Ζῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Heb 7:8",
+      "text": "ὅτι ζῇ.",
+      "highlightedWord": "ζῇ."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Heb 7:25",
+      "text": "πάντοτε ζῶν εἰς",
+      "highlightedWord": "ζῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Heb 9:14",
+      "text": "θεῷ ζῶντι.",
+      "highlightedWord": "ζῶντι."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Heb 9:17",
+      "text": "ὅτε ζῇ ὁ",
+      "highlightedWord": "ζῇ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Heb 10:20",
+      "text": "καὶ ζῶσαν διὰ",
+      "highlightedWord": "ζῶσαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Heb 10:31",
+      "text": "θεοῦ ζῶντος.",
+      "highlightedWord": "ζῶντος."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Heb 10:38",
+      "text": "πίστεως ζήσεται, καὶ",
+      "highlightedWord": "ζήσεται,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Heb 12:9",
+      "text": "καὶ ζήσομεν;",
+      "highlightedWord": "ζήσομεν;"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Heb 12:22",
+      "text": "θεοῦ ζῶντος, Ἰερουσαλὴμ",
+      "highlightedWord": "ζῶντος,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jas 4:15",
+      "text": "καὶ ζήσομεν καὶ",
+      "highlightedWord": "ζήσομεν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Pe 1:3",
+      "text": "ἐλπίδα ζῶσαν δι’",
+      "highlightedWord": "ζῶσαν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "1Pe 1:23",
+      "text": "λόγου ζῶντος θεοῦ",
+      "highlightedWord": "ζῶντος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Pe 2:4",
+      "text": "λίθον ζῶντα, ὑπὸ",
+      "highlightedWord": "ζῶντα,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Pe 2:5",
+      "text": "λίθοι ζῶντες οἰκοδομεῖσθε",
+      "highlightedWord": "ζῶντες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "1Pe 2:24",
+      "text": "δικαιοσύνῃ ζήσωμεν· οὗ",
+      "highlightedWord": "ζήσωμεν·"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Pe 4:5",
+      "text": "κρῖναι ζῶντας καὶ",
+      "highlightedWord": "ζῶντας"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "1Pe 4:6",
+      "text": "σαρκὶ ζῶσι δὲ",
+      "highlightedWord": "ζῶσι"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Jn 4:9",
+      "text": "ἵνα ζήσωμεν δι’",
+      "highlightedWord": "ζήσωμεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Re 1:18",
+      "text": "ὁ ζῶν— καὶ",
+      "highlightedWord": "ζῶν—"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Re 2:8",
+      "text": "καὶ ἔζησεν·",
+      "highlightedWord": "ἔζησεν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Re 3:1",
+      "text": "ὅτι ζῇς, καὶ",
+      "highlightedWord": "ζῇς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Re 4:9",
+      "text": "τῷ ζῶντι εἰς",
+      "highlightedWord": "ζῶντι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Re 4:10",
+      "text": "τῷ ζῶντι εἰς",
+      "highlightedWord": "ζῶντι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "θεοῦ ζῶντος, καὶ",
+      "highlightedWord": "ζῶντος,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Re 10:6",
+      "text": "τῷ ζῶντι εἰς",
+      "highlightedWord": "ζῶντι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Re 13:14",
+      "text": "καὶ ἔζησεν.",
+      "highlightedWord": "ἔζησεν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Re 15:7",
+      "text": "τοῦ ζῶντος εἰς",
+      "highlightedWord": "ζῶντος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Re 19:20",
+      "text": "αὐτοῦ· ζῶντες ἐβλήθησαν",
+      "highlightedWord": "ζῶντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Re 20:4",
+      "text": "καὶ ἔζησαν καὶ",
+      "highlightedWord": "ἔζησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Re 20:5",
+      "text": "οὐκ ἔζησαν ἄχρι",
+      "highlightedWord": "ἔζησαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,460 @@
+{
+  "strong": "G3319",
+  "lemma": "μέσος",
+  "lemmaTranslit": "mesos",
+  "tokenCount": 56,
+  "verseCount": 54,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 5,
+    "Lucas": 14,
+    "João": 4,
+    "Atos": 10,
+    "1 Coríntios": 2,
+    "2 Coríntios": 1,
+    "Filipenses": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Mt 10:16",
+      "text": "ἐν μέσῳ λύκων·",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Mt 13:25",
+      "text": "ἀνὰ μέσον τοῦ",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 49,
+      "reference": "Mt 13:49",
+      "text": "ἐκ μέσου τῶν",
+      "highlightedWord": "μέσου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Mt 14:6",
+      "text": "τῷ μέσῳ καὶ",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Mt 18:2",
+      "text": "ἐν μέσῳ αὐτῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Mt 18:20",
+      "text": "ἐν μέσῳ αὐτῶν.",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Mt 25:6",
+      "text": "μέσης δὲ",
+      "highlightedWord": "μέσης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Mk 3:3",
+      "text": "τὸ μέσον.",
+      "highlightedWord": "μέσον."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 47,
+      "reference": "Mk 6:47",
+      "text": "ἐν μέσῳ τῆς",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Mk 7:31",
+      "text": "ἀνὰ μέσον τῶν",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Mk 9:36",
+      "text": "ἐν μέσῳ αὐτῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 60,
+      "reference": "Mk 14:60",
+      "text": "εἰς μέσον ἐπηρώτησεν",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 46,
+      "reference": "Lk 2:46",
+      "text": "ἐν μέσῳ τῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Lk 4:30",
+      "text": "διὰ μέσου αὐτῶν",
+      "highlightedWord": "μέσου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Lk 4:35",
+      "text": "τὸ μέσον ἐξῆλθεν",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Lk 5:19",
+      "text": "τὸ μέσον ἔμπροσθεν",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Lk 6:8",
+      "text": "τὸ μέσον· καὶ",
+      "highlightedWord": "μέσον·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Lk 8:7",
+      "text": "ἐν μέσῳ τῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Lk 10:3",
+      "text": "ἐν μέσῳ λύκων.",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Lk 17:11",
+      "text": "διὰ μέσον Σαμαρείας",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Lk 21:21",
+      "text": "ἐν μέσῳ αὐτῆς",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 27,
+      "reference": "Lk 22:27",
+      "text": "ἐν μέσῳ ὑμῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 55,
+      "reference": "Lk 22:55",
+      "text": "ἐν μέσῳ τῆς",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 45,
+      "reference": "Lk 23:45",
+      "text": "ναοῦ μέσον.",
+      "highlightedWord": "μέσον."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Lk 24:36",
+      "text": "ἐν μέσῳ αὐτῶν.",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jn 1:26",
+      "text": "ὕδατι· μέσος ὑμῶν",
+      "highlightedWord": "μέσος"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Jn 19:18",
+      "text": "ἐντεῦθεν, μέσον δὲ",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "τὸ μέσον, καὶ",
+      "highlightedWord": "μέσον,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Jn 20:26",
+      "text": "τὸ μέσον καὶ",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Ac 1:15",
+      "text": "ἐν μέσῳ τῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Ac 1:18",
+      "text": "ἐλάκησεν μέσος, καὶ",
+      "highlightedWord": "μέσος,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Ac 2:22",
+      "text": "ἐν μέσῳ ὑμῶν,",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ac 4:7",
+      "text": "τῷ μέσῳ ἐπυνθάνοντο·",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Ac 17:22",
+      "text": "ἐν μέσῳ τοῦ",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 33,
+      "reference": "Ac 17:33",
+      "text": "ἐκ μέσου αὐτῶν·",
+      "highlightedWord": "μέσου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Ac 23:10",
+      "text": "ἐκ μέσου αὐτῶν,",
+      "highlightedWord": "μέσου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 13,
+      "reference": "Ac 26:13",
+      "text": "ἡμέρας μέσης κατὰ",
+      "highlightedWord": "μέσης"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 21,
+      "reference": "Ac 27:21",
+      "text": "ἐν μέσῳ αὐτῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 27,
+      "reference": "Ac 27:27",
+      "text": "κατὰ μέσον τῆς",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Co 5:2",
+      "text": "ἐκ μέσου ὑμῶν",
+      "highlightedWord": "μέσου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "1Co 6:5",
+      "text": "ἀνὰ μέσον τοῦ",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "2Co 6:17",
+      "text": "ἐκ μέσου αὐτῶν,",
+      "highlightedWord": "μέσου"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Php 2:15",
+      "text": "ἄμωμα μέσον γενεᾶς",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Col 2:14",
+      "text": "τοῦ μέσου προσηλώσας",
+      "highlightedWord": "μέσου"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Th 2:7",
+      "text": "ἐν μέσῳ ὑμῶν,",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "2Th 2:7",
+      "text": "ἐκ μέσου γένηται.",
+      "highlightedWord": "μέσου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Heb 2:12",
+      "text": "ἐν μέσῳ ἐκκλησίας",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "ἐν μέσῳ τῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "ἐν μέσῳ τῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "ἐν μέσῳ τοῦ",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Re 5:6",
+      "text": "ἐν μέσῳ τοῦ",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Re 6:6",
+      "text": "ἐν μέσῳ τῶν",
+      "highlightedWord": "μέσῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Re 7:17",
+      "text": "ἀνὰ μέσον τοῦ",
+      "highlightedWord": "μέσον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Re 22:2",
+      "text": "ἐν μέσῳ τῆς",
+      "highlightedWord": "μέσῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

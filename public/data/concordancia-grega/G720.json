@@ -1,0 +1,268 @@
+{
+  "strong": "G720",
+  "lemma": "ἀρνέομαι",
+  "lemmaTranslit": "arneomai",
+  "tokenCount": 33,
+  "verseCount": 30,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 2,
+    "Lucas": 4,
+    "João": 4,
+    "Atos": 4,
+    "1 Timóteo": 1,
+    "2 Timóteo": 4,
+    "Tito": 2,
+    "Hebreus": 1,
+    "2 Pedro": 1,
+    "1 João": 3,
+    "Judas": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mt 10:33",
+      "text": "ἂν ἀρνήσηταί με",
+      "highlightedWord": "ἀρνήσηταί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 70,
+      "reference": "Mt 26:70",
+      "text": "δὲ ἠρνήσατο ἔμπροσθεν",
+      "highlightedWord": "ἠρνήσατο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 72,
+      "reference": "Mt 26:72",
+      "text": "πάλιν ἠρνήσατο μετὰ",
+      "highlightedWord": "ἠρνήσατο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 68,
+      "reference": "Mk 14:68",
+      "text": "δὲ ἠρνήσατο λέγων·",
+      "highlightedWord": "ἠρνήσατο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 70,
+      "reference": "Mk 14:70",
+      "text": "πάλιν ἠρνεῖτο. καὶ",
+      "highlightedWord": "ἠρνεῖτο."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 45,
+      "reference": "Lk 8:45",
+      "text": "μου; ἀρνουμένων δὲ",
+      "highlightedWord": "ἀρνουμένων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "ἔρχεσθαι, ἀρνησάσθω ἑαυτὸν",
+      "highlightedWord": "ἀρνησάσθω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Lk 12:9",
+      "text": "δὲ ἀρνησάμενός με",
+      "highlightedWord": "ἀρνησάμενός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 57,
+      "reference": "Lk 22:57",
+      "text": "δὲ ἠρνήσατο λέγων·",
+      "highlightedWord": "ἠρνήσατο"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Jn 1:20",
+      "text": "οὐκ ἠρνήσατο, καὶ",
+      "highlightedWord": "ἠρνήσατο,"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 38,
+      "reference": "Jn 13:38",
+      "text": "οὗ ἀρνήσῃ με",
+      "highlightedWord": "ἀρνήσῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Jn 18:25",
+      "text": "εἶ; ἠρνήσατο ἐκεῖνος",
+      "highlightedWord": "ἠρνήσατο"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 27,
+      "reference": "Jn 18:27",
+      "text": "οὖν ἠρνήσατο Πέτρος·",
+      "highlightedWord": "ἠρνήσατο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Ac 3:13",
+      "text": "καὶ ἠρνήσασθε κατὰ",
+      "highlightedWord": "ἠρνήσασθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Ac 3:14",
+      "text": "δίκαιον ἠρνήσασθε καὶ",
+      "highlightedWord": "ἠρνήσασθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Ac 4:16",
+      "text": "δυνάμεθα ἀρνεῖσθαι·",
+      "highlightedWord": "ἀρνεῖσθαι·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Ac 7:35",
+      "text": "ὃν ἠρνήσαντο εἰπόντες·",
+      "highlightedWord": "ἠρνήσαντο"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Ti 5:8",
+      "text": "πίστιν ἤρνηται καὶ",
+      "highlightedWord": "ἤρνηται"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Ti 2:12",
+      "text": "εἰ ἀρνησόμεθα, κἀκεῖνος",
+      "highlightedWord": "ἀρνησόμεθα,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Ti 2:13",
+      "text": "μένει· ἀρνήσασθαι ἑαυτὸν",
+      "highlightedWord": "ἀρνήσασθαι"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Ti 3:5",
+      "text": "αὐτῆς ἠρνημένοι· καὶ",
+      "highlightedWord": "ἠρνημένοι·"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Tit 1:16",
+      "text": "ἔργοις ἀρνοῦνται, βδελυκτοὶ",
+      "highlightedWord": "ἀρνοῦνται,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Tit 2:12",
+      "text": "ἵνα ἀρνησάμενοι τὴν",
+      "highlightedWord": "ἀρνησάμενοι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Heb 11:24",
+      "text": "γενόμενος ἠρνήσατο λέγεσθαι",
+      "highlightedWord": "ἠρνήσατο"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "2Pe 2:1",
+      "text": "δεσπότην ἀρνούμενοι, ἐπάγοντες",
+      "highlightedWord": "ἀρνούμενοι,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "1Jn 2:22",
+      "text": "ὁ ἀρνούμενος ὅτι",
+      "highlightedWord": "ἀρνούμενος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "1Jn 2:23",
+      "text": "ὁ ἀρνούμενος τὸν",
+      "highlightedWord": "ἀρνούμενος"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jud 1:4",
+      "text": "Χριστὸν ἀρνούμενοι.",
+      "highlightedWord": "ἀρνούμενοι."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "οὐκ ἠρνήσω τὴν",
+      "highlightedWord": "ἠρνήσω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "οὐκ ἠρνήσω τὸ",
+      "highlightedWord": "ἠρνήσω"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

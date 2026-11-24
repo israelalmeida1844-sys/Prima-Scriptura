@@ -1,0 +1,460 @@
+{
+  "strong": "G1188",
+  "lemma": "δεξιός",
+  "lemmaTranslit": "dexios",
+  "tokenCount": 54,
+  "verseCount": 54,
+  "bookDistribution": {
+    "Mateus": 12,
+    "Marcos": 7,
+    "Lucas": 6,
+    "João": 2,
+    "Atos": 7,
+    "Romanos": 1,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "Efésios": 1,
+    "Colossenses": 1,
+    "Hebreus": 5,
+    "1 Pedro": 1,
+    "Apocalipse": 9
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Mt 5:29",
+      "text": "ὁ δεξιὸς σκανδαλίζει",
+      "highlightedWord": "δεξιὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "ἡ δεξιά σου",
+      "highlightedWord": "δεξιά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Mt 5:39",
+      "text": "τὴν δεξιὰν σιαγόνα,",
+      "highlightedWord": "δεξιὰν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Mt 6:3",
+      "text": "ἡ δεξιά σου,",
+      "highlightedWord": "δεξιά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Mt 20:21",
+      "text": "ἐκ δεξιῶν σου",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Mt 20:23",
+      "text": "ἐκ δεξιῶν μου",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 44,
+      "reference": "Mt 22:44",
+      "text": "ἐκ δεξιῶν μου",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 33,
+      "reference": "Mt 25:33",
+      "text": "ἐκ δεξιῶν αὐτοῦ",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 34,
+      "reference": "Mt 25:34",
+      "text": "ἐκ δεξιῶν αὐτοῦ·",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 64,
+      "reference": "Mt 26:64",
+      "text": "ἐκ δεξιῶν τῆς",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Mt 27:29",
+      "text": "τῇ δεξιᾷ αὐτοῦ,",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 38,
+      "reference": "Mt 27:38",
+      "text": "ἐκ δεξιῶν καὶ",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Mk 10:37",
+      "text": "ἐκ δεξιῶν καὶ",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Mk 10:40",
+      "text": "ἐκ δεξιῶν μου",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mk 12:36",
+      "text": "ἐκ δεξιῶν μου",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 62,
+      "reference": "Mk 14:62",
+      "text": "ἐκ δεξιῶν καθήμενον",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Mk 15:27",
+      "text": "ἐκ δεξιῶν καὶ",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Mk 16:5",
+      "text": "τοῖς δεξιοῖς περιβεβλημένον",
+      "highlightedWord": "δεξιοῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Mk 16:19",
+      "text": "ἐκ δεξιῶν τοῦ",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Lk 1:11",
+      "text": "ἐκ δεξιῶν τοῦ",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Lk 6:6",
+      "text": "ἡ δεξιὰ ἦν",
+      "highlightedWord": "δεξιὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 42,
+      "reference": "Lk 20:42",
+      "text": "ἐκ δεξιῶν μου",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 50,
+      "reference": "Lk 22:50",
+      "text": "τὸ δεξιόν.",
+      "highlightedWord": "δεξιόν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 69,
+      "reference": "Lk 22:69",
+      "text": "ἐκ δεξιῶν τῆς",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 33,
+      "reference": "Lk 23:33",
+      "text": "ἐκ δεξιῶν ὃν",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Jn 18:10",
+      "text": "τὸ δεξιόν. ἦν",
+      "highlightedWord": "δεξιόν."
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Jn 21:6",
+      "text": "τὰ δεξιὰ μέρη",
+      "highlightedWord": "δεξιὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Ac 2:25",
+      "text": "ἐκ δεξιῶν μού",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 33,
+      "reference": "Ac 2:33",
+      "text": "τῇ δεξιᾷ οὖν",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 34,
+      "reference": "Ac 2:34",
+      "text": "ἐκ δεξιῶν μου,",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Ac 3:7",
+      "text": "τῆς δεξιᾶς χειρὸς",
+      "highlightedWord": "δεξιᾶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Ac 5:31",
+      "text": "τῇ δεξιᾷ αὐτοῦ,",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 55,
+      "reference": "Ac 7:55",
+      "text": "ἐκ δεξιῶν τοῦ",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 56,
+      "reference": "Ac 7:56",
+      "text": "ἐκ δεξιῶν ἑστῶτα",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Ro 8:34",
+      "text": "ἐν δεξιᾷ τοῦ",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "2Co 6:7",
+      "text": "τῶν δεξιῶν καὶ",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ga 2:9",
+      "text": "εἶναι, δεξιὰς ἔδωκαν",
+      "highlightedWord": "δεξιὰς"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Eph 1:20",
+      "text": "ἐν δεξιᾷ αὐτοῦ",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Col 3:1",
+      "text": "ἐν δεξιᾷ τοῦ",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Heb 1:3",
+      "text": "ἐν δεξιᾷ τῆς",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Heb 1:13",
+      "text": "ἐκ δεξιῶν μου",
+      "highlightedWord": "δεξιῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Heb 8:1",
+      "text": "ἐν δεξιᾷ τοῦ",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Heb 10:12",
+      "text": "ἐν δεξιᾷ τοῦ",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Heb 12:2",
+      "text": "ἐν δεξιᾷ τε",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "1Pe 3:22",
+      "text": "ἐν δεξιᾷ θεοῦ",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "τῇ δεξιᾷ χειρὶ",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "τὴν δεξιὰν αὐτοῦ",
+      "highlightedWord": "δεξιὰν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Re 1:20",
+      "text": "τῆς δεξιᾶς μου,",
+      "highlightedWord": "δεξιᾶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "τῇ δεξιᾷ αὐτοῦ,",
+      "highlightedWord": "δεξιᾷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Re 5:1",
+      "text": "τὴν δεξιὰν τοῦ",
+      "highlightedWord": "δεξιὰν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Re 5:7",
+      "text": "τῆς δεξιᾶς τοῦ",
+      "highlightedWord": "δεξιᾶς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Re 10:2",
+      "text": "τὸν δεξιὸν ἐπὶ",
+      "highlightedWord": "δεξιὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Re 10:5",
+      "text": "τὴν δεξιὰν εἰς",
+      "highlightedWord": "δεξιὰν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Re 13:16",
+      "text": "τῆς δεξιᾶς ἢ",
+      "highlightedWord": "δεξιᾶς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

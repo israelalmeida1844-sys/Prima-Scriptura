@@ -1,0 +1,76 @@
+{
+  "strong": "G5395",
+  "lemma": "φλόξ",
+  "lemmaTranslit": "phlox",
+  "tokenCount": 7,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Lucas": 1,
+    "Atos": 1,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Lk 16:24",
+      "text": "τῇ φλογὶ ταύτῃ.",
+      "highlightedWord": "φλογὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Ac 7:30",
+      "text": "ἐν φλογὶ πυρὸς",
+      "highlightedWord": "φλογὶ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Th 1:8",
+      "text": "ἐν φλογὶ πυρός,",
+      "highlightedWord": "φλογὶ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Heb 1:7",
+      "text": "πυρὸς φλόγα·",
+      "highlightedWord": "φλόγα·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Re 1:14",
+      "text": "ὡς φλὸξ πυρός,",
+      "highlightedWord": "φλὸξ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Re 2:18",
+      "text": "ὡς φλόγα πυρός,",
+      "highlightedWord": "φλόγα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "αὐτοῦ φλὸξ πυρός,",
+      "highlightedWord": "φλὸξ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,176 @@
+{
+  "strong": "G2937",
+  "lemma": "κτίσις",
+  "lemmaTranslit": "ktisis",
+  "tokenCount": 19,
+  "verseCount": 19,
+  "bookDistribution": {
+    "Marcos": 3,
+    "Romanos": 7,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "Colossenses": 2,
+    "Hebreus": 2,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Mk 10:6",
+      "text": "ἀρχῆς κτίσεως ἄρσεν",
+      "highlightedWord": "κτίσεως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mk 13:19",
+      "text": "ἀρχῆς κτίσεως ἣν",
+      "highlightedWord": "κτίσεως"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Mk 16:15",
+      "text": "τῇ κτίσει.",
+      "highlightedWord": "κτίσει."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Ro 1:20",
+      "text": "ἀπὸ κτίσεως κόσμου",
+      "highlightedWord": "κτίσεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Ro 1:25",
+      "text": "τῇ κτίσει παρὰ",
+      "highlightedWord": "κτίσει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Ro 8:19",
+      "text": "τῆς κτίσεως τὴν",
+      "highlightedWord": "κτίσεως"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Ro 8:20",
+      "text": "ἡ κτίσις ὑπετάγη,",
+      "highlightedWord": "κτίσις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Ro 8:21",
+      "text": "ἡ κτίσις ἐλευθερωθήσεται",
+      "highlightedWord": "κτίσις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Ro 8:22",
+      "text": "ἡ κτίσις συστενάζει",
+      "highlightedWord": "κτίσις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Ro 8:39",
+      "text": "τις κτίσις ἑτέρα",
+      "highlightedWord": "κτίσις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "2Co 5:17",
+      "text": "καινὴ κτίσις· τὰ",
+      "highlightedWord": "κτίσις·"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Ga 6:15",
+      "text": "καινὴ κτίσις.",
+      "highlightedWord": "κτίσις."
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Col 1:15",
+      "text": "πάσης κτίσεως,",
+      "highlightedWord": "κτίσεως,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Col 1:23",
+      "text": "πάσῃ κτίσει τῇ",
+      "highlightedWord": "κτίσει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Heb 4:13",
+      "text": "ἔστιν κτίσις ἀφανὴς",
+      "highlightedWord": "κτίσις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Heb 9:11",
+      "text": "τῆς κτίσεως,",
+      "highlightedWord": "κτίσεως,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "1Pe 2:13",
+      "text": "ἀνθρωπίνῃ κτίσει διὰ",
+      "highlightedWord": "κτίσει"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "2Pe 3:4",
+      "text": "ἀρχῆς κτίσεως.",
+      "highlightedWord": "κτίσεως."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Re 3:14",
+      "text": "τῆς κτίσεως τοῦ",
+      "highlightedWord": "κτίσεως"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

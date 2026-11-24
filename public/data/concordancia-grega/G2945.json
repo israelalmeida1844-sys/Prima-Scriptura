@@ -1,0 +1,83 @@
+{
+  "strong": "G2945",
+  "lemma": "κύκλῳ",
+  "lemmaTranslit": "kyklō",
+  "tokenCount": 8,
+  "verseCount": 8,
+  "bookDistribution": {
+    "Marcos": 3,
+    "Lucas": 1,
+    "Romanos": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 34,
+      "reference": "Mk 3:34",
+      "text": "αὐτὸν κύκλῳ καθημένους",
+      "highlightedWord": "κύκλῳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Mk 6:6",
+      "text": "κώμας κύκλῳ διδάσκων.",
+      "highlightedWord": "κύκλῳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 36,
+      "reference": "Mk 6:36",
+      "text": "τοὺς κύκλῳ ἀγροὺς",
+      "highlightedWord": "κύκλῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Lk 9:12",
+      "text": "τὰς κύκλῳ κώμας",
+      "highlightedWord": "κύκλῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Ro 15:19",
+      "text": "καὶ κύκλῳ μέχρι",
+      "highlightedWord": "κύκλῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "καὶ κύκλῳ τοῦ",
+      "highlightedWord": "κύκλῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Re 5:11",
+      "text": "πολλῶν κύκλῳ τοῦ",
+      "highlightedWord": "κύκλῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Re 7:11",
+      "text": "εἱστήκεισαν κύκλῳ τοῦ",
+      "highlightedWord": "κύκλῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

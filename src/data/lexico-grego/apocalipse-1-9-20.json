@@ -1,0 +1,1688 @@
+{
+  "version": "1.0.0",
+  "scope": "Apocalipse 1:9–20",
+  "source": "MorphGNT 6.12 (aaed91e5) + mapeamento de Strong por jtauber/greek-lemma-mappings",
+  "editorialStatus": "Edição crítica em avaliação; verbetes-chave revisados individualmente, demais definições ainda requerem cotejo especializado com léxicos de referência.",
+  "entries": {
+    "G80": {
+      "strong": "G80",
+      "lemma": "ἀδελφός",
+      "lemmaTransliteration": "adelphos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G80-1",
+          "label": "irmão",
+          "definition": "irmão",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:9",
+              "greek": "ὁ ἀδελφὸς ὑμῶν",
+              "translation": "irmão",
+              "explanation": "Exemplo contextual da ocorrência de ἀδελφός; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4791": {
+      "strong": "G4791",
+      "lemma": "συγκοινωνός",
+      "lemmaTransliteration": "synkoinōnos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4791-1",
+          "label": "coparticipante / quem partilha uma condição",
+          "definition": "Adjetivo/substantivo de relação: quem participa juntamente com outros de uma situação, dom ou responsabilidade. Em Ap 1:9, a coparticipação de João na tribulação, no reino e na perseverança em Jesus é solidária e comunitária.",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:9",
+              "greek": "καὶ συγκοινωνὸς ἐν",
+              "translation": "coparticipante",
+              "explanation": "Em Ap 1:9, o dativo coordenado indica o âmbito da experiência compartilhada, não uma simples identidade formal."
+            }
+          ]
+        }
+      ]
+    },
+    "G2347": {
+      "strong": "G2347",
+      "lemma": "θλῖψις",
+      "lemmaTransliteration": "thlipsis",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2347-1",
+          "label": "tribulação",
+          "definition": "tribulação; aflição",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:9",
+              "greek": "τῇ θλίψει καὶ",
+              "translation": "tribulação",
+              "explanation": "Exemplo contextual da ocorrência de θλῖψις; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5281": {
+      "strong": "G5281",
+      "lemma": "ὑπομονή",
+      "lemmaTransliteration": "hypomonē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5281-1",
+          "label": "perseverança",
+          "definition": "perseverança; resistência",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:9",
+              "greek": "καὶ ὑπομονῇ ἐν",
+              "translation": "perseverança",
+              "explanation": "Exemplo contextual da ocorrência de ὑπομονή; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3520": {
+      "strong": "G3520",
+      "lemma": "νῆσος",
+      "lemmaTransliteration": "nēsos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3520-1",
+          "label": "ilha",
+          "definition": "ilha",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:9",
+              "greek": "τῇ νήσῳ τῇ",
+              "translation": "ilha",
+              "explanation": "Exemplo contextual da ocorrência de νῆσος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2564": {
+      "strong": "G2564",
+      "lemma": "καλέω",
+      "lemmaTransliteration": "kaleō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2564-1",
+          "label": "chamada",
+          "definition": "chamar; denominar",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:9",
+              "greek": "τῇ καλουμένῃ Πάτμῳ",
+              "translation": "chamada",
+              "explanation": "Exemplo contextual da ocorrência de καλέω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3963": {
+      "strong": "G3963",
+      "lemma": "Πάτμος",
+      "lemmaTransliteration": "Patmos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3963-1",
+          "label": "Patmos",
+          "definition": "Patmos",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:9",
+              "greek": "καλουμένῃ Πάτμῳ διὰ",
+              "translation": "Patmos",
+              "explanation": "Exemplo contextual da ocorrência de Πάτμος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2960": {
+      "strong": "G2960",
+      "lemma": "κυριακός",
+      "lemmaTransliteration": "kyriakos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G2960-1",
+          "label": "pertencente ao Senhor",
+          "definition": "Adjetivo relacional κυριακός: aquilo que pertence ao Senhor ou lhe diz respeito. Em 1:10, modifica ἡμέρᾳ (dativo feminino singular). Não determina, por si só, a identificação histórica do dia da semana.",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:10",
+              "greek": "τῇ κυριακῇ ἡμέρᾳ,",
+              "translation": "do Senhor",
+              "explanation": "«Dia do Senhor» é opção tradutória literal; distinguir discussão filológica de interpretação histórica ou denominacional."
+            }
+          ]
+        }
+      ]
+    },
+    "G2250": {
+      "strong": "G2250",
+      "lemma": "ἡμέρα",
+      "lemmaTransliteration": "hēmera",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2250-1",
+          "label": "dia",
+          "definition": "dia",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:10",
+              "greek": "κυριακῇ ἡμέρᾳ, καὶ",
+              "translation": "dia",
+              "explanation": "Exemplo contextual da ocorrência de ἡμέρα; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3694": {
+      "strong": "G3694",
+      "lemma": "ὀπίσω",
+      "lemmaTransliteration": "opisō",
+      "partOfSpeech": "Preposição",
+      "senses": [
+        {
+          "id": "G3694-1",
+          "label": "atrás",
+          "definition": "atrás",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:10",
+              "greek": "ἤκουσα ὀπίσω μου",
+              "translation": "atrás",
+              "explanation": "Exemplo contextual da ocorrência de ὀπίσω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5456": {
+      "strong": "G5456",
+      "lemma": "φωνή",
+      "lemmaTransliteration": "phōnē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5456-1",
+          "label": "voz",
+          "definition": "voz; som",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:10",
+              "greek": "μου φωνὴν μεγάλην",
+              "translation": "voz",
+              "explanation": "Exemplo contextual da ocorrência de φωνή; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3173": {
+      "strong": "G3173",
+      "lemma": "μέγας",
+      "lemmaTransliteration": "megas",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3173-1",
+          "label": "grande",
+          "definition": "grande",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:10",
+              "greek": "φωνὴν μεγάλην ὡς",
+              "translation": "grande",
+              "explanation": "Exemplo contextual da ocorrência de μέγας; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5613": {
+      "strong": "G5613",
+      "lemma": "ὡς",
+      "lemmaTransliteration": "hōs",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G5613-1",
+          "label": "como",
+          "definition": "como",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:10",
+              "greek": "μεγάλην ὡς σάλπιγγος",
+              "translation": "como",
+              "explanation": "Exemplo contextual da ocorrência de ὡς; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4536": {
+      "strong": "G4536",
+      "lemma": "σάλπιγξ",
+      "lemmaTransliteration": "salpinx",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4536-1",
+          "label": "trombeta",
+          "definition": "trombeta",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:10",
+              "greek": "ὡς σάλπιγγος",
+              "translation": "trombeta",
+              "explanation": "Exemplo contextual da ocorrência de σάλπιγξ; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G991": {
+      "strong": "G991",
+      "lemma": "βλέπω",
+      "lemmaTransliteration": "blepō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G991-1",
+          "label": "vês",
+          "definition": "ver; observar",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "Ὃ βλέπεις γράψον",
+              "translation": "vês",
+              "explanation": "Exemplo contextual da ocorrência de βλέπω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G975": {
+      "strong": "G975",
+      "lemma": "βιβλίον",
+      "lemmaTransliteration": "biblion",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G975-1",
+          "label": "livro",
+          "definition": "livro; rolo",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "εἰς βιβλίον καὶ",
+              "translation": "livro",
+              "explanation": "Exemplo contextual da ocorrência de βιβλίον; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3992": {
+      "strong": "G3992",
+      "lemma": "πέμπω",
+      "lemmaTransliteration": "pempō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3992-1",
+          "label": "envia",
+          "definition": "enviar",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "καὶ πέμψον ταῖς",
+              "translation": "envia",
+              "explanation": "Exemplo contextual da ocorrência de πέμπω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2181": {
+      "strong": "G2181",
+      "lemma": "Ἔφεσος",
+      "lemmaTransliteration": "Ephesos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2181-1",
+          "label": "Éfeso",
+          "definition": "Éfeso",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "εἰς Ἔφεσον καὶ",
+              "translation": "Éfeso",
+              "explanation": "Exemplo contextual da ocorrência de Ἔφεσος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4667": {
+      "strong": "G4667",
+      "lemma": "Σμύρνα",
+      "lemmaTransliteration": "Smyrna",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4667-1",
+          "label": "Esmirna",
+          "definition": "Esmirna",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "εἰς Σμύρναν καὶ",
+              "translation": "Esmirna",
+              "explanation": "Exemplo contextual da ocorrência de Σμύρνα; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4010": {
+      "strong": "G4010",
+      "lemma": "Πέργαμος",
+      "lemmaTransliteration": "Pergamos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4010-1",
+          "label": "Pérgamo",
+          "definition": "Pérgamo",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "εἰς Πέργαμον καὶ",
+              "translation": "Pérgamo",
+              "explanation": "Exemplo contextual da ocorrência de Πέργαμος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2363": {
+      "strong": "G2363",
+      "lemma": "Θυάτειρα",
+      "lemmaTransliteration": "Thyateira",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2363-1",
+          "label": "Tiatira",
+          "definition": "Tiatira",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "εἰς Θυάτειρα καὶ",
+              "translation": "Tiatira",
+              "explanation": "Exemplo contextual da ocorrência de Θυάτειρα; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4554": {
+      "strong": "G4554",
+      "lemma": "Σάρδεις",
+      "lemmaTransliteration": "Sardeis",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4554-1",
+          "label": "Sardes",
+          "definition": "Sardes",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "εἰς Σάρδεις καὶ",
+              "translation": "Sardes",
+              "explanation": "Exemplo contextual da ocorrência de Σάρδεις; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5359": {
+      "strong": "G5359",
+      "lemma": "Φιλαδέλφεια",
+      "lemmaTransliteration": "Philadelpheia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5359-1",
+          "label": "Filadélfia",
+          "definition": "Filadélfia",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "εἰς Φιλαδέλφειαν καὶ",
+              "translation": "Filadélfia",
+              "explanation": "Exemplo contextual da ocorrência de Φιλαδέλφεια; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2993": {
+      "strong": "G2993",
+      "lemma": "Λαοδίκεια",
+      "lemmaTransliteration": "Laodikeia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2993-1",
+          "label": "Laodiceia",
+          "definition": "Laodiceia",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:11",
+              "greek": "εἰς Λαοδίκειαν.",
+              "translation": "Laodiceia",
+              "explanation": "Exemplo contextual da ocorrência de Λαοδίκεια; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G1994": {
+      "strong": "G1994",
+      "lemma": "ἐπιστρέφω",
+      "lemmaTransliteration": "epistrephō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G1994-1",
+          "label": "voltei-me",
+          "definition": "voltar-se; retornar",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:12",
+              "greek": "Καὶ ἐπέστρεψα βλέπειν",
+              "translation": "voltei-me",
+              "explanation": "Exemplo contextual da ocorrência de ἐπιστρέφω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2980": {
+      "strong": "G2980",
+      "lemma": "λαλέω",
+      "lemmaTransliteration": "laleō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2980-1",
+          "label": "falava",
+          "definition": "falar",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:12",
+              "greek": "ἥτις ἐλάλει μετ’",
+              "translation": "falava",
+              "explanation": "Exemplo contextual da ocorrência de λαλέω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3087": {
+      "strong": "G3087",
+      "lemma": "λυχνία",
+      "lemmaTransliteration": "lychnia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3087-1",
+          "label": "candelabros",
+          "definition": "candelabro; suporte de lâmpada",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:12",
+              "greek": "ἑπτὰ λυχνίας χρυσᾶς,",
+              "translation": "candelabros",
+              "explanation": "Exemplo contextual da ocorrência de λυχνία; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5552": {
+      "strong": "G5552",
+      "lemma": "χρυσοῦς",
+      "lemmaTransliteration": "chrysous",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G5552-1",
+          "label": "de ouro",
+          "definition": "de ouro; dourado",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:12",
+              "greek": "λυχνίας χρυσᾶς,",
+              "translation": "de ouro",
+              "explanation": "Exemplo contextual da ocorrência de χρυσοῦς; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3319": {
+      "strong": "G3319",
+      "lemma": "μέσος",
+      "lemmaTransliteration": "mesos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3319-1",
+          "label": "meio",
+          "definition": "meio; centro",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "ἐν μέσῳ τῶν",
+              "translation": "meio",
+              "explanation": "Exemplo contextual da ocorrência de μέσος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3664": {
+      "strong": "G3664",
+      "lemma": "ὅμοιος",
+      "lemmaTransliteration": "homoios",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3664-1",
+          "label": "semelhante",
+          "definition": "semelhante",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "λυχνιῶν ὅμοιον υἱὸν",
+              "translation": "semelhante",
+              "explanation": "Exemplo contextual da ocorrência de ὅμοιος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5207": {
+      "strong": "G5207",
+      "lemma": "υἱός",
+      "lemmaTransliteration": "huios",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5207-1",
+          "label": "filho",
+          "definition": "filho",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "ὅμοιον υἱὸν ἀνθρώπου,",
+              "translation": "filho",
+              "explanation": "Exemplo contextual da ocorrência de υἱός; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G444": {
+      "strong": "G444",
+      "lemma": "ἄνθρωπος",
+      "lemmaTransliteration": "anthrōpos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G444-1",
+          "label": "homem",
+          "definition": "ser humano; homem",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "υἱὸν ἀνθρώπου, ἐνδεδυμένον",
+              "translation": "homem",
+              "explanation": "Exemplo contextual da ocorrência de ἄνθρωπος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G1746": {
+      "strong": "G1746",
+      "lemma": "ἐνδύω",
+      "lemmaTransliteration": "endyō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G1746-1",
+          "label": "vestido",
+          "definition": "vestir; revestir",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "ἀνθρώπου, ἐνδεδυμένον ποδήρη",
+              "translation": "vestido",
+              "explanation": "Exemplo contextual da ocorrência de ἐνδύω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4158": {
+      "strong": "G4158",
+      "lemma": "ποδήρης",
+      "lemmaTransliteration": "podērēs",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G4158-1",
+          "label": "veste longa até os pés",
+          "definition": "Adjetivo ποδήρης, frequentemente substantivado, para roupa comprida até os pés. A forma ποδήρη é acusativo singular masculino em Ap 1:13.",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "ἐνδεδυμένον ποδήρη καὶ",
+              "translation": "veste longa",
+              "explanation": "A associação com vestimentas sacerdotais/representação régia requer apoio em outros textos; não faz parte do significado lexical necessário."
+            }
+          ]
+        }
+      ]
+    },
+    "G4024": {
+      "strong": "G4024",
+      "lemma": "περιζώννυμι",
+      "lemmaTransliteration": "perizōnnymi",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4024-1",
+          "label": "cingido",
+          "definition": "cingir; envolver com cinto",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "καὶ περιεζωσμένον πρὸς",
+              "translation": "cingido",
+              "explanation": "Exemplo contextual da ocorrência de περιζώννυμι; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4314": {
+      "strong": "G4314",
+      "lemma": "πρός",
+      "lemmaTransliteration": "pros",
+      "partOfSpeech": "Preposição",
+      "senses": [
+        {
+          "id": "G4314-1",
+          "label": "junto a",
+          "definition": "junto a; em direção a",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "περιεζωσμένον πρὸς τοῖς",
+              "translation": "junto a",
+              "explanation": "Exemplo contextual da ocorrência de πρός; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3149": {
+      "strong": "G3149",
+      "lemma": "μαστός",
+      "lemmaTransliteration": "mastos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3149-1",
+          "label": "peito",
+          "definition": "peito; mama",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "τοῖς μαστοῖς ζώνην",
+              "translation": "peito",
+              "explanation": "Exemplo contextual da ocorrência de μαστός; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2223": {
+      "strong": "G2223",
+      "lemma": "ζώνη",
+      "lemmaTransliteration": "zōnē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2223-1",
+          "label": "faixa",
+          "definition": "cinto; faixa",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:13",
+              "greek": "μαστοῖς ζώνην χρυσᾶν·",
+              "translation": "faixa",
+              "explanation": "Exemplo contextual da ocorrência de ζώνη; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G1161": {
+      "strong": "G1161",
+      "lemma": "δέ",
+      "lemmaTransliteration": "de",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G1161-1",
+          "label": "e",
+          "definition": "mas; e; por sua vez",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:14",
+              "greek": "ἡ δὲ κεφαλὴ",
+              "translation": "e",
+              "explanation": "Exemplo contextual da ocorrência de δέ; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2776": {
+      "strong": "G2776",
+      "lemma": "κεφαλή",
+      "lemmaTransliteration": "kephalē",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2776-1",
+          "label": "cabeça",
+          "definition": "cabeça",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:14",
+              "greek": "δὲ κεφαλὴ αὐτοῦ",
+              "translation": "cabeça",
+              "explanation": "Exemplo contextual da ocorrência de κεφαλή; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2359": {
+      "strong": "G2359",
+      "lemma": "θρίξ",
+      "lemmaTransliteration": "thrix",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2359-1",
+          "label": "cabelos",
+          "definition": "cabelo; fio de cabelo",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:14",
+              "greek": "αἱ τρίχες λευκαὶ",
+              "translation": "cabelos",
+              "explanation": "Exemplo contextual da ocorrência de θρίξ; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3022": {
+      "strong": "G3022",
+      "lemma": "λευκός",
+      "lemmaTransliteration": "leukos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3022-1",
+          "label": "brancos",
+          "definition": "branco",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:14",
+              "greek": "τρίχες λευκαὶ ὡς",
+              "translation": "brancos",
+              "explanation": "Exemplo contextual da ocorrência de λευκός; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2053": {
+      "strong": "G2053",
+      "lemma": "ἔριον",
+      "lemmaTransliteration": "erion",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2053-1",
+          "label": "lã",
+          "definition": "lã",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:14",
+              "greek": "ὡς ἔριον λευκόν,",
+              "translation": "lã",
+              "explanation": "Exemplo contextual da ocorrência de ἔριον; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5510": {
+      "strong": "G5510",
+      "lemma": "χιών",
+      "lemmaTransliteration": "chiōn",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5510-1",
+          "label": "neve",
+          "definition": "neve",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:14",
+              "greek": "ὡς χιών, καὶ",
+              "translation": "neve",
+              "explanation": "Exemplo contextual da ocorrência de χιών; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5395": {
+      "strong": "G5395",
+      "lemma": "φλόξ",
+      "lemmaTransliteration": "phlox",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5395-1",
+          "label": "chama",
+          "definition": "chama",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:14",
+              "greek": "ὡς φλὸξ πυρός,",
+              "translation": "chama",
+              "explanation": "Exemplo contextual da ocorrência de φλόξ; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4442": {
+      "strong": "G4442",
+      "lemma": "πῦρ",
+      "lemmaTransliteration": "pyr",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4442-1",
+          "label": "fogo",
+          "definition": "fogo",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:14",
+              "greek": "φλὸξ πυρός,",
+              "translation": "fogo",
+              "explanation": "Exemplo contextual da ocorrência de πῦρ; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4228": {
+      "strong": "G4228",
+      "lemma": "πούς",
+      "lemmaTransliteration": "pous",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4228-1",
+          "label": "pés",
+          "definition": "pé",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:15",
+              "greek": "οἱ πόδες αὐτοῦ",
+              "translation": "pés",
+              "explanation": "Exemplo contextual da ocorrência de πούς; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5474": {
+      "strong": "G5474",
+      "lemma": "χαλκολίβανον",
+      "lemmaTransliteration": "chalkolibanon",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5474-1",
+          "label": "metal brilhante de identificação incerta",
+          "definition": "Substantivo neutro χαλκολίβανον, de interpretação metalúrgica disputada. Ocorre duas vezes no Novo Testamento, em Ap 1:15 e 2:18; portanto, não é um hapax legomenon.",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:15",
+              "greek": "ὅμοιοι χαλκολιβάνῳ, ὡς",
+              "translation": "bronze brilhante",
+              "explanation": "A tradução «bronze refinado» é tradicional, não identificação química ou etimológica incontroversa."
+            }
+          ]
+        }
+      ]
+    },
+    "G2575": {
+      "strong": "G2575",
+      "lemma": "κάμινος",
+      "lemmaTransliteration": "kaminos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2575-1",
+          "label": "fornalha",
+          "definition": "fornalha",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:15",
+              "greek": "ἐν καμίνῳ πεπυρωμένης,",
+              "translation": "fornalha",
+              "explanation": "Exemplo contextual da ocorrência de κάμινος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4448": {
+      "strong": "G4448",
+      "lemma": "πυρόομαι",
+      "lemmaTransliteration": "pyroomai",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4448-1",
+          "label": "incandescente",
+          "definition": "ser aquecido ao fogo; incandescer",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:15",
+              "greek": "καμίνῳ πεπυρωμένης, καὶ",
+              "translation": "incandescente",
+              "explanation": "Exemplo contextual da ocorrência de πυρόομαι; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5204": {
+      "strong": "G5204",
+      "lemma": "ὕδωρ",
+      "lemmaTransliteration": "hydōr",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5204-1",
+          "label": "águas",
+          "definition": "água",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:15",
+              "greek": "φωνὴ ὑδάτων πολλῶν,",
+              "translation": "águas",
+              "explanation": "Exemplo contextual da ocorrência de ὕδωρ; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4183": {
+      "strong": "G4183",
+      "lemma": "πολύς",
+      "lemmaTransliteration": "polys",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G4183-1",
+          "label": "muitas",
+          "definition": "muito; numeroso",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:15",
+              "greek": "ὑδάτων πολλῶν,",
+              "translation": "muitas",
+              "explanation": "Exemplo contextual da ocorrência de πολύς; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2192": {
+      "strong": "G2192",
+      "lemma": "ἔχω",
+      "lemmaTransliteration": "echō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2192-1",
+          "label": "tinha",
+          "definition": "ter; segurar",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "καὶ ἔχων ἐν",
+              "translation": "tinha",
+              "explanation": "Exemplo contextual da ocorrência de ἔχω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G1188": {
+      "strong": "G1188",
+      "lemma": "δεξιός",
+      "lemmaTransliteration": "dexios",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G1188-1",
+          "label": "direita",
+          "definition": "direita; direito",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "τῇ δεξιᾷ χειρὶ",
+              "translation": "direita",
+              "explanation": "Exemplo contextual da ocorrência de δεξιός; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5495": {
+      "strong": "G5495",
+      "lemma": "χείρ",
+      "lemmaTransliteration": "cheir",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G5495-1",
+          "label": "mão",
+          "definition": "mão",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "δεξιᾷ χειρὶ αὐτοῦ",
+              "translation": "mão",
+              "explanation": "Exemplo contextual da ocorrência de χείρ; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G792": {
+      "strong": "G792",
+      "lemma": "ἀστήρ",
+      "lemmaTransliteration": "astēr",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G792-1",
+          "label": "estrelas",
+          "definition": "estrela",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "αὐτοῦ ἀστέρας ἑπτά,",
+              "translation": "estrelas",
+              "explanation": "Exemplo contextual da ocorrência de ἀστήρ; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4750": {
+      "strong": "G4750",
+      "lemma": "στόμα",
+      "lemmaTransliteration": "stoma",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4750-1",
+          "label": "boca",
+          "definition": "boca",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "τοῦ στόματος αὐτοῦ",
+              "translation": "boca",
+              "explanation": "Exemplo contextual da ocorrência de στόμα; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4501": {
+      "strong": "G4501",
+      "lemma": "ῥομφαία",
+      "lemmaTransliteration": "rhomphaia",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G4501-1",
+          "label": "espada longa",
+          "definition": "Substantivo feminino ῥομφαία: espada grande ou arma de lâmina longa. Em Ap 1:16, a espada procede simbolicamente da boca da figura vista por João.",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "αὐτοῦ ῥομφαία δίστομος",
+              "translation": "espada",
+              "explanation": "Os dois gumes são expressos pelo modificador δίστομος; o sentido figurado decorre do contexto apocalíptico."
+            }
+          ]
+        }
+      ]
+    },
+    "G1366": {
+      "strong": "G1366",
+      "lemma": "δίστομος",
+      "lemmaTransliteration": "distomos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G1366-1",
+          "label": "de dois gumes",
+          "definition": "de dois gumes",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "ῥομφαία δίστομος ὀξεῖα",
+              "translation": "de dois gumes",
+              "explanation": "Exemplo contextual da ocorrência de δίστομος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3691": {
+      "strong": "G3691",
+      "lemma": "ὀξύς",
+      "lemmaTransliteration": "oxys",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G3691-1",
+          "label": "afiada",
+          "definition": "afiado; agudo",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "δίστομος ὀξεῖα ἐκπορευομένη,",
+              "translation": "afiada",
+              "explanation": "Exemplo contextual da ocorrência de ὀξύς; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G1607": {
+      "strong": "G1607",
+      "lemma": "ἐκπορεύομαι",
+      "lemmaTransliteration": "ekporeuomai",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G1607-1",
+          "label": "saía",
+          "definition": "sair; proceder",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "ὀξεῖα ἐκπορευομένη, καὶ",
+              "translation": "saía",
+              "explanation": "Exemplo contextual da ocorrência de ἐκπορεύομαι; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3799": {
+      "strong": "G3799",
+      "lemma": "ὄψις",
+      "lemmaTransliteration": "opsis",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3799-1",
+          "label": "rosto",
+          "definition": "aparência; aspecto",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "ἡ ὄψις αὐτοῦ",
+              "translation": "rosto",
+              "explanation": "Exemplo contextual da ocorrência de ὄψις; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2246": {
+      "strong": "G2246",
+      "lemma": "ἥλιος",
+      "lemmaTransliteration": "hēlios",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2246-1",
+          "label": "sol",
+          "definition": "sol",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "ὁ ἥλιος φαίνει",
+              "translation": "sol",
+              "explanation": "Exemplo contextual da ocorrência de ἥλιος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5316": {
+      "strong": "G5316",
+      "lemma": "φαίνω",
+      "lemmaTransliteration": "phainō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G5316-1",
+          "label": "brilha",
+          "definition": "brilhar; aparecer",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "ἥλιος φαίνει ἐν",
+              "translation": "brilha",
+              "explanation": "Exemplo contextual da ocorrência de φαίνω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G1411": {
+      "strong": "G1411",
+      "lemma": "δύναμις",
+      "lemmaTransliteration": "dynamis",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G1411-1",
+          "label": "força",
+          "definition": "força; poder",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:16",
+              "greek": "τῇ δυνάμει αὐτοῦ.",
+              "translation": "força",
+              "explanation": "Exemplo contextual da ocorrência de δύναμις; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3753": {
+      "strong": "G3753",
+      "lemma": "ὅτε",
+      "lemmaTransliteration": "hote",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G3753-1",
+          "label": "quando",
+          "definition": "quando",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:17",
+              "greek": "Καὶ ὅτε εἶδον",
+              "translation": "quando",
+              "explanation": "Exemplo contextual da ocorrência de ὅτε; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4098": {
+      "strong": "G4098",
+      "lemma": "πίπτω",
+      "lemmaTransliteration": "piptō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G4098-1",
+          "label": "caí",
+          "definition": "cair",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:17",
+              "greek": "αὐτόν, ἔπεσα πρὸς",
+              "translation": "caí",
+              "explanation": "Exemplo contextual da ocorrência de πίπτω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5087": {
+      "strong": "G5087",
+      "lemma": "τίθημι",
+      "lemmaTransliteration": "tithēmi",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G5087-1",
+          "label": "pôs",
+          "definition": "colocar; pôr",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:17",
+              "greek": "καὶ ἔθηκεν τὴν",
+              "translation": "pôs",
+              "explanation": "Exemplo contextual da ocorrência de τίθημι; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3361": {
+      "strong": "G3361",
+      "lemma": "μή",
+      "lemmaTransliteration": "mē",
+      "partOfSpeech": "Advérbio",
+      "senses": [
+        {
+          "id": "G3361-1",
+          "label": "não",
+          "definition": "não; partícula negativa",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:17",
+              "greek": "λέγων· Μὴ φοβοῦ·",
+              "translation": "não",
+              "explanation": "Exemplo contextual da ocorrência de μή; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G5399": {
+      "strong": "G5399",
+      "lemma": "φοβέομαι",
+      "lemmaTransliteration": "phobeomai",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G5399-1",
+          "label": "temas",
+          "definition": "temer; ter medo",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:17",
+              "greek": "Μὴ φοβοῦ· ἐγώ",
+              "translation": "temas",
+              "explanation": "Exemplo contextual da ocorrência de φοβέομαι; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G4413": {
+      "strong": "G4413",
+      "lemma": "πρῶτος",
+      "lemmaTransliteration": "prōtos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G4413-1",
+          "label": "primeiro",
+          "definition": "primeiro",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:17",
+              "greek": "ὁ πρῶτος καὶ",
+              "translation": "primeiro",
+              "explanation": "Exemplo contextual da ocorrência de πρῶτος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2078": {
+      "strong": "G2078",
+      "lemma": "ἔσχατος",
+      "lemmaTransliteration": "eschatos",
+      "partOfSpeech": "Adjetivo",
+      "senses": [
+        {
+          "id": "G2078-1",
+          "label": "último",
+          "definition": "último",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:17",
+              "greek": "ὁ ἔσχατος,",
+              "translation": "último",
+              "explanation": "Exemplo contextual da ocorrência de ἔσχατος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2198": {
+      "strong": "G2198",
+      "lemma": "ζάω",
+      "lemmaTransliteration": "zaō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G2198-1",
+          "label": "vivo",
+          "definition": "viver",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:18",
+              "greek": "ὁ ζῶν— καὶ",
+              "translation": "vivo",
+              "explanation": "Exemplo contextual da ocorrência de ζάω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2807": {
+      "strong": "G2807",
+      "lemma": "κλείς",
+      "lemmaTransliteration": "kleis",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2807-1",
+          "label": "chaves",
+          "definition": "chave",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:18",
+              "greek": "τὰς κλεῖς τοῦ",
+              "translation": "chaves",
+              "explanation": "Exemplo contextual da ocorrência de κλείς; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G2288": {
+      "strong": "G2288",
+      "lemma": "θάνατος",
+      "lemmaTransliteration": "thanatos",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G2288-1",
+          "label": "morte",
+          "definition": "morte",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:18",
+              "greek": "τοῦ θανάτου καὶ",
+              "translation": "morte",
+              "explanation": "Exemplo contextual da ocorrência de θάνατος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G86": {
+      "strong": "G86",
+      "lemma": "ᾅδης",
+      "lemmaTransliteration": "hadēs",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G86-1",
+          "label": "Hades / mundo dos mortos",
+          "definition": "Substantivo masculino ᾅδης: domínio dos mortos, mundo dos mortos. Em Ap 1:18, aparece no genitivo singular governado pela expressão «as chaves».",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:18",
+              "greek": "τοῦ ᾅδου.",
+              "translation": "Hades",
+              "explanation": "Não pressupor que o vocábulo seja sinônimo lexical automático de tormento eterno."
+            }
+          ]
+        }
+      ]
+    },
+    "G3767": {
+      "strong": "G3767",
+      "lemma": "οὖν",
+      "lemmaTransliteration": "oun",
+      "partOfSpeech": "Conjunção",
+      "senses": [
+        {
+          "id": "G3767-1",
+          "label": "portanto",
+          "definition": "portanto; pois",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:19",
+              "greek": "γράψον οὖν ἃ",
+              "translation": "portanto",
+              "explanation": "Exemplo contextual da ocorrência de οὖν; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3195": {
+      "strong": "G3195",
+      "lemma": "μέλλω",
+      "lemmaTransliteration": "mellō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G3195-1",
+          "label": "hão de",
+          "definition": "estar para; ser iminente",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:19",
+              "greek": "ἃ μέλλει γίνεσθαι",
+              "translation": "hão de",
+              "explanation": "Exemplo contextual da ocorrência de μέλλω; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3778": {
+      "strong": "G3778",
+      "lemma": "οὗτος",
+      "lemmaTransliteration": "houtos",
+      "partOfSpeech": "Pronome demonstrativo",
+      "senses": [
+        {
+          "id": "G3778-1",
+          "label": "essas coisas",
+          "definition": "este; essas coisas",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:19",
+              "greek": "μετὰ ταῦτα.",
+              "translation": "essas coisas",
+              "explanation": "Exemplo contextual da ocorrência de οὗτος; consulte o versículo e a análise sintática para determinar o valor da expressão."
+            }
+          ]
+        }
+      ]
+    },
+    "G3466": {
+      "strong": "G3466",
+      "lemma": "μυστήριον",
+      "lemmaTransliteration": "mystērion",
+      "partOfSpeech": "Substantivo",
+      "senses": [
+        {
+          "id": "G3466-1",
+          "label": "mistério revelado",
+          "definition": "Substantivo neutro μυστήριον: realidade antes encoberta cujo sentido se torna conhecido por revelação ou interpretação. Em Ap 1:20 refere-se à identidade das estrelas e dos candelabros.",
+          "examples": [
+            {
+              "reference": "Apocalipse 1:20",
+              "greek": "τὸ μυστήριον τῶν",
+              "translation": "mistério",
+              "explanation": "Forma nominal neutra singular ambígua entre nominativo e acusativo; MorphGNT registra nominativo nesta passagem."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

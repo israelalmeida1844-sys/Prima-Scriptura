@@ -1,0 +1,1975 @@
+{
+  "strong": "G40",
+  "lemma": "ἅγιος",
+  "lemmaTranslit": "hagios",
+  "tokenCount": 255,
+  "verseCount": 242,
+  "bookDistribution": {
+    "Mateus": 10,
+    "Marcos": 8,
+    "Lucas": 21,
+    "João": 5,
+    "Atos": 55,
+    "Romanos": 26,
+    "1 Coríntios": 16,
+    "2 Coríntios": 11,
+    "Gálatas": 1,
+    "Efésios": 15,
+    "Filipenses": 3,
+    "Colossenses": 6,
+    "1 Tessalonicenses": 6,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 2,
+    "2 Timóteo": 2,
+    "Tito": 1,
+    "Filemom": 2,
+    "Hebreus": 20,
+    "1 Pedro": 8,
+    "2 Pedro": 6,
+    "1 João": 1,
+    "Judas": 4,
+    "Apocalipse": 25
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Mt 1:18",
+      "text": "πνεύματος ἁγίου.",
+      "highlightedWord": "ἁγίου."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mt 1:20",
+      "text": "ἐστιν ἁγίου·",
+      "highlightedWord": "ἁγίου·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Mt 3:11",
+      "text": "πνεύματι ἁγίῳ καὶ",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mt 4:5",
+      "text": "τὴν ἁγίαν πόλιν,",
+      "highlightedWord": "ἁγίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Mt 7:6",
+      "text": "τὸ ἅγιον τοῖς",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mt 12:32",
+      "text": "τοῦ ἁγίου, οὐκ",
+      "highlightedWord": "ἁγίου,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 15,
+      "reference": "Mt 24:15",
+      "text": "τόπῳ ἁγίῳ, ὁ",
+      "highlightedWord": "ἁγίῳ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 52,
+      "reference": "Mt 27:52",
+      "text": "κεκοιμημένων ἁγίων ἠγέρθησαν,",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 53,
+      "reference": "Mt 27:53",
+      "text": "τὴν ἁγίαν πόλιν",
+      "highlightedWord": "ἁγίαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Mt 28:19",
+      "text": "τοῦ ἁγίου πνεύματος,",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Mk 1:8",
+      "text": "πνεύματι ἁγίῳ.",
+      "highlightedWord": "ἁγίῳ."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Mk 1:24",
+      "text": "ὁ ἅγιος τοῦ",
+      "highlightedWord": "ἅγιος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Mk 3:29",
+      "text": "τὸ ἅγιον, οὐκ",
+      "highlightedWord": "ἅγιον,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Mk 6:20",
+      "text": "καὶ ἅγιον, καὶ",
+      "highlightedWord": "ἅγιον,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Mk 8:38",
+      "text": "τῶν ἁγίων.",
+      "highlightedWord": "ἁγίων."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Mk 9:32",
+      "text": "δὲ ἠγνόουν τὸ",
+      "highlightedWord": "ἠγνόουν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Mk 12:36",
+      "text": "τῷ ἁγίῳ· Εἶπεν",
+      "highlightedWord": "ἁγίῳ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mk 13:11",
+      "text": "τὸ ἅγιον.",
+      "highlightedWord": "ἅγιον."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Lk 1:15",
+      "text": "πνεύματος ἁγίου πλησθήσεται",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Lk 1:35",
+      "text": "Πνεῦμα ἅγιον ἐπελεύσεται",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 41,
+      "reference": "Lk 1:41",
+      "text": "πνεύματος ἁγίου ἡ",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 49,
+      "reference": "Lk 1:49",
+      "text": "καὶ ἅγιον τὸ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 67,
+      "reference": "Lk 1:67",
+      "text": "πνεύματος ἁγίου καὶ",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 70,
+      "reference": "Lk 1:70",
+      "text": "τῶν ἁγίων ἀπ’",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 72,
+      "reference": "Lk 1:72",
+      "text": "διαθήκης ἁγίας αὐτοῦ,",
+      "highlightedWord": "ἁγίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Lk 2:23",
+      "text": "μήτραν ἅγιον τῷ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Lk 2:25",
+      "text": "ἦν ἅγιον ἐπ’",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Lk 2:26",
+      "text": "τοῦ ἁγίου μὴ",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Lk 3:16",
+      "text": "πνεύματι ἁγίῳ καὶ",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Lk 3:22",
+      "text": "τὸ ἅγιον σωματικῷ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Lk 4:1",
+      "text": "πνεύματος ἁγίου ὑπέστρεψεν",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Lk 4:34",
+      "text": "ὁ ἅγιος τοῦ",
+      "highlightedWord": "ἅγιος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Lk 9:26",
+      "text": "τῶν ἁγίων ἀγγέλων.",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Lk 9:45",
+      "text": "δὲ ἠγνόουν τὸ",
+      "highlightedWord": "ἠγνόουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Lk 10:21",
+      "text": "τῷ ἁγίῳ καὶ",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Lk 11:13",
+      "text": "πνεῦμα ἅγιον τοῖς",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Lk 12:10",
+      "text": "τὸ ἅγιον πνεῦμα",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Lk 12:12",
+      "text": "γὰρ ἅγιον πνεῦμα",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Jn 1:33",
+      "text": "πνεύματι ἁγίῳ·",
+      "highlightedWord": "ἁγίῳ·"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 69,
+      "reference": "Jn 6:69",
+      "text": "ὁ ἅγιος τοῦ",
+      "highlightedWord": "ἅγιος"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Jn 14:26",
+      "text": "τὸ ἅγιον ὃ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Jn 17:11",
+      "text": "πάτερ ἅγιε, τήρησον",
+      "highlightedWord": "ἅγιε,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 22,
+      "reference": "Jn 20:22",
+      "text": "πνεῦμα ἅγιον·",
+      "highlightedWord": "ἅγιον·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Ac 1:2",
+      "text": "πνεύματος ἁγίου οὓς",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Ac 1:5",
+      "text": "βαπτισθήσεσθε ἁγίῳ οὐ",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Ac 1:8",
+      "text": "τοῦ ἁγίου πνεύματος",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ac 1:16",
+      "text": "τὸ ἅγιον διὰ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Ac 2:4",
+      "text": "πνεύματος ἁγίου, καὶ",
+      "highlightedWord": "ἁγίου,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 33,
+      "reference": "Ac 2:33",
+      "text": "τοῦ ἁγίου λαβὼν",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "Ac 2:38",
+      "text": "τοῦ ἁγίου πνεύματος·",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Ac 3:14",
+      "text": "τὸν ἅγιον καὶ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ac 3:21",
+      "text": "τῶν ἁγίων ἀπ’",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Ac 4:8",
+      "text": "πνεύματος ἁγίου εἶπεν",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Ac 4:25",
+      "text": "πνεύματος ἁγίου στόματος",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Ac 4:27",
+      "text": "τὸν ἅγιον παῖδά",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Ac 4:30",
+      "text": "τοῦ ἁγίου παιδός",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Ac 4:31",
+      "text": "τοῦ ἁγίου πνεύματος,",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ac 5:3",
+      "text": "τὸ ἅγιον καὶ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "Ac 5:32",
+      "text": "τὸ ἅγιον ὃ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Ac 6:5",
+      "text": "πνεύματος ἁγίου, καὶ",
+      "highlightedWord": "ἁγίου,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ac 6:13",
+      "text": "τοῦ ἁγίου καὶ",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Ac 7:33",
+      "text": "γῆ ἁγία ἐστίν.",
+      "highlightedWord": "ἁγία"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 51,
+      "reference": "Ac 7:51",
+      "text": "τῷ ἁγίῳ ἀντιπίπτετε,",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 55,
+      "reference": "Ac 7:55",
+      "text": "πνεύματος ἁγίου ἀτενίσας",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Ac 8:15",
+      "text": "πνεῦμα ἅγιον·",
+      "highlightedWord": "ἅγιον·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Ac 8:17",
+      "text": "πνεῦμα ἅγιον.",
+      "highlightedWord": "ἅγιον."
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Ac 8:19",
+      "text": "πνεῦμα ἅγιον.",
+      "highlightedWord": "ἅγιον."
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Ac 9:13",
+      "text": "τοῖς ἁγίοις σου",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Ac 9:17",
+      "text": "πνεύματος ἁγίου.",
+      "highlightedWord": "ἁγίου."
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Ac 9:31",
+      "text": "τοῦ ἁγίου πνεύματος",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Ac 9:32",
+      "text": "τοὺς ἁγίους τοὺς",
+      "highlightedWord": "ἁγίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Ac 9:41",
+      "text": "τοὺς ἁγίους καὶ",
+      "highlightedWord": "ἁγίους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Ac 10:22",
+      "text": "ἀγγέλου ἁγίου μεταπέμψασθαί",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Ac 10:38",
+      "text": "πνεύματι ἁγίῳ καὶ",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 44,
+      "reference": "Ac 10:44",
+      "text": "τὸ ἅγιον ἐπὶ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 45,
+      "reference": "Ac 10:45",
+      "text": "τοῦ ἁγίου πνεύματος",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 47,
+      "reference": "Ac 10:47",
+      "text": "τὸ ἅγιον ἔλαβον",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Ac 11:15",
+      "text": "τὸ ἅγιον ἐπ’",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Ac 11:16",
+      "text": "πνεύματι ἁγίῳ.",
+      "highlightedWord": "ἁγίῳ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Ac 11:24",
+      "text": "πνεύματος ἁγίου καὶ",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Ac 13:2",
+      "text": "τὸ ἅγιον· Ἀφορίσατε",
+      "highlightedWord": "ἅγιον·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Ac 13:4",
+      "text": "τοῦ ἁγίου πνεύματος",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Ac 13:9",
+      "text": "πνεύματος ἁγίου ἀτενίσας",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Ac 13:27",
+      "text": "τοῦτον ἀγνοήσαντες καὶ",
+      "highlightedWord": "ἀγνοήσαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 52,
+      "reference": "Ac 13:52",
+      "text": "πνεύματος ἁγίου.",
+      "highlightedWord": "ἁγίου."
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Ac 15:8",
+      "text": "τὸ ἅγιον καθὼς",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Ac 15:28",
+      "text": "τῷ ἁγίῳ καὶ",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Ac 16:6",
+      "text": "τοῦ ἁγίου πνεύματος",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Ac 17:23",
+      "text": "οὖν ἀγνοοῦντες εὐσεβεῖτε,",
+      "highlightedWord": "ἀγνοοῦντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Ac 19:2",
+      "text": "πνεῦμα ἅγιον ἐλάβετε",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Ac 19:6",
+      "text": "τὸ ἅγιον ἐπ’",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Ac 20:23",
+      "text": "τὸ ἅγιον κατὰ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Ac 20:28",
+      "text": "τὸ ἅγιον ἔθετο",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "τὸ ἅγιον Τὸν",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Ac 21:28",
+      "text": "τὸν ἅγιον τόπον",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Ac 26:10",
+      "text": "τῶν ἁγίων ἐγὼ",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 25,
+      "reference": "Ac 28:25",
+      "text": "τὸ ἅγιον ἐλάλησεν",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Ro 1:2",
+      "text": "γραφαῖς ἁγίαις",
+      "highlightedWord": "ἁγίαις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ro 1:7",
+      "text": "κλητοῖς ἁγίοις· χάρις",
+      "highlightedWord": "ἁγίοις·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "ὑμᾶς ἀγνοεῖν, ἀδελφοί,",
+      "highlightedWord": "ἀγνοεῖν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Ro 2:4",
+      "text": "καταφρονεῖς, ἀγνοῶν ὅτι",
+      "highlightedWord": "ἀγνοῶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Ro 5:5",
+      "text": "πνεύματος ἁγίου τοῦ",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Ro 6:3",
+      "text": "ἢ ἀγνοεῖτε ὅτι",
+      "highlightedWord": "ἀγνοεῖτε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ro 7:1",
+      "text": "Ἢ ἀγνοεῖτε, ἀδελφοί,",
+      "highlightedWord": "ἀγνοεῖτε,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Ro 7:12",
+      "text": "νόμος ἅγιος, καὶ",
+      "highlightedWord": "ἅγιος,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Ro 8:27",
+      "text": "ὑπὲρ ἁγίων.",
+      "highlightedWord": "ἁγίων."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Ro 9:1",
+      "text": "πνεύματι ἁγίῳ,",
+      "highlightedWord": "ἁγίῳ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Ro 10:3",
+      "text": "ἀγνοοῦντες γὰρ",
+      "highlightedWord": "ἀγνοοῦντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Ro 11:16",
+      "text": "ἀπαρχὴ ἁγία, καὶ",
+      "highlightedWord": "ἁγία,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Ro 11:25",
+      "text": "ὑμᾶς ἀγνοεῖν, ἀδελφοί,",
+      "highlightedWord": "ἀγνοεῖν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Ro 12:1",
+      "text": "ζῶσαν ἁγίαν εὐάρεστον",
+      "highlightedWord": "ἁγίαν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Ro 12:13",
+      "text": "τῶν ἁγίων κοινωνοῦντες,",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Ro 14:17",
+      "text": "πνεύματι ἁγίῳ·",
+      "highlightedWord": "ἁγίῳ·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Ro 15:13",
+      "text": "πνεύματος ἁγίου.",
+      "highlightedWord": "ἁγίου."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Ro 15:16",
+      "text": "πνεύματι ἁγίῳ.",
+      "highlightedWord": "ἁγίῳ."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Ro 15:25",
+      "text": "τοῖς ἁγίοις.",
+      "highlightedWord": "ἁγίοις."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Ro 15:26",
+      "text": "τῶν ἁγίων τῶν",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Ro 15:31",
+      "text": "τοῖς ἁγίοις γένηται,",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Ro 16:2",
+      "text": "τῶν ἁγίων, καὶ",
+      "highlightedWord": "ἁγίων,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Ro 16:15",
+      "text": "πάντας ἁγίους.",
+      "highlightedWord": "ἁγίους."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Ro 16:16",
+      "text": "φιλήματι ἁγίῳ. Ἀσπάζονται",
+      "highlightedWord": "ἁγίῳ."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "1Co 1:2",
+      "text": "κλητοῖς ἁγίοις, σὺν",
+      "highlightedWord": "ἁγίοις,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Co 3:17",
+      "text": "θεοῦ ἅγιός ἐστιν,",
+      "highlightedWord": "ἅγιός"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Co 6:1",
+      "text": "τῶν ἁγίων;",
+      "highlightedWord": "ἁγίων;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "1Co 6:2",
+      "text": "οἱ ἅγιοι τὸν",
+      "highlightedWord": "ἅγιοι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Co 6:19",
+      "text": "ὑμῖν ἁγίου πνεύματός",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "1Co 7:14",
+      "text": "δὲ ἅγιά ἐστιν.",
+      "highlightedWord": "ἅγιά"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "1Co 7:34",
+      "text": "ᾖ ἁγία καὶ",
+      "highlightedWord": "ἁγία"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "1Co 10:1",
+      "text": "ὑμᾶς ἀγνοεῖν, ἀδελφοί,",
+      "highlightedWord": "ἀγνοεῖν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "1Co 12:1",
+      "text": "ὑμᾶς ἀγνοεῖν.",
+      "highlightedWord": "ἀγνοεῖν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "1Co 12:3",
+      "text": "πνεύματι ἁγίῳ.",
+      "highlightedWord": "ἁγίῳ."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 33,
+      "reference": "1Co 14:33",
+      "text": "τῶν ἁγίων.",
+      "highlightedWord": "ἁγίων."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 38,
+      "reference": "1Co 14:38",
+      "text": "τις ἀγνοεῖ, ἀγνοεῖται.",
+      "highlightedWord": "ἀγνοεῖ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "1Co 16:1",
+      "text": "τοὺς ἁγίους, ὥσπερ",
+      "highlightedWord": "ἁγίους,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "1Co 16:15",
+      "text": "τοῖς ἁγίοις ἔταξαν",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "1Co 16:20",
+      "text": "φιλήματι ἁγίῳ.",
+      "highlightedWord": "ἁγίῳ."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Co 1:1",
+      "text": "τοῖς ἁγίοις πᾶσιν",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Co 1:8",
+      "text": "ὑμᾶς ἀγνοεῖν, ἀδελφοί,",
+      "highlightedWord": "ἀγνοεῖν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Co 2:11",
+      "text": "νοήματα ἀγνοοῦμεν.",
+      "highlightedWord": "ἀγνοοῦμεν."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "2Co 6:6",
+      "text": "πνεύματι ἁγίῳ, ἐν",
+      "highlightedWord": "ἁγίῳ,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "2Co 6:9",
+      "text": "ὡς ἀγνοούμενοι καὶ",
+      "highlightedWord": "ἀγνοούμενοι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "2Co 8:4",
+      "text": "τοὺς ἁγίους—",
+      "highlightedWord": "ἁγίους—"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "2Co 9:1",
+      "text": "τοὺς ἁγίους περισσόν",
+      "highlightedWord": "ἁγίους"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "2Co 9:12",
+      "text": "τῶν ἁγίων, ἀλλὰ",
+      "highlightedWord": "ἁγίων,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "2Co 13:12",
+      "text": "ἐν ἁγίῳ φιλήματι.",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "2Co 13:13",
+      "text": "τοῦ ἁγίου πνεύματος",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Ga 1:22",
+      "text": "δὲ ἀγνοούμενος τῷ",
+      "highlightedWord": "ἀγνοούμενος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Eph 1:1",
+      "text": "τοῖς ἁγίοις τοῖς",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Eph 1:4",
+      "text": "ἡμᾶς ἁγίους καὶ",
+      "highlightedWord": "ἁγίους"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Eph 1:13",
+      "text": "τῷ ἁγίῳ,",
+      "highlightedWord": "ἁγίῳ,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Eph 1:15",
+      "text": "τοὺς ἁγίους,",
+      "highlightedWord": "ἁγίους,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Eph 1:18",
+      "text": "τοῖς ἁγίοις,",
+      "highlightedWord": "ἁγίοις,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Eph 2:19",
+      "text": "τῶν ἁγίων καὶ",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Eph 2:21",
+      "text": "ναὸν ἅγιον ἐν",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Eph 3:5",
+      "text": "τοῖς ἁγίοις ἀποστόλοις",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Eph 3:8",
+      "text": "πάντων ἁγίων ἐδόθη",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Eph 3:18",
+      "text": "τοῖς ἁγίοις τί",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Eph 4:12",
+      "text": "τῶν ἁγίων εἰς",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Eph 4:30",
+      "text": "τὸ ἅγιον τοῦ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Eph 5:3",
+      "text": "πρέπει ἁγίοις,",
+      "highlightedWord": "ἁγίοις,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Eph 5:27",
+      "text": "ᾖ ἁγία καὶ",
+      "highlightedWord": "ἁγία"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Eph 6:18",
+      "text": "τῶν ἁγίων,",
+      "highlightedWord": "ἁγίων,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "Php 1:1",
+      "text": "τοῖς ἁγίοις ἐν",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Php 4:21",
+      "text": "πάντα ἅγιον ἐν",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Php 4:22",
+      "text": "οἱ ἅγιοι, μάλιστα",
+      "highlightedWord": "ἅγιοι,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Col 1:2",
+      "text": "Κολοσσαῖς ἁγίοις καὶ",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Col 1:4",
+      "text": "τοὺς ἁγίους",
+      "highlightedWord": "ἁγίους"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Col 1:12",
+      "text": "τῶν ἁγίων ἐν",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Col 1:22",
+      "text": "ὑμᾶς ἁγίους καὶ",
+      "highlightedWord": "ἁγίους"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Col 1:26",
+      "text": "τοῖς ἁγίοις αὐτοῦ,",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Col 3:12",
+      "text": "θεοῦ, ἅγιοι καὶ",
+      "highlightedWord": "ἅγιοι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Th 1:5",
+      "text": "πνεύματι ἁγίῳ καὶ",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Th 1:6",
+      "text": "πνεύματος ἁγίου,",
+      "highlightedWord": "ἁγίου,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Th 3:13",
+      "text": "τῶν ἁγίων αὐτοῦ.",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Th 4:8",
+      "text": "τὸ ἅγιον εἰς",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Th 4:13",
+      "text": "ὑμᾶς ἀγνοεῖν, ἀδελφοί,",
+      "highlightedWord": "ἀγνοεῖν,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "1Th 5:26",
+      "text": "φιλήματι ἁγίῳ.",
+      "highlightedWord": "ἁγίῳ."
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Th 1:10",
+      "text": "τοῖς ἁγίοις αὐτοῦ",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "1Ti 1:13",
+      "text": "ὅτι ἀγνοῶν ἐποίησα",
+      "highlightedWord": "ἀγνοῶν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Ti 5:10",
+      "text": "εἰ ἁγίων πόδας",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Ti 1:9",
+      "text": "κλήσει ἁγίᾳ, οὐ",
+      "highlightedWord": "ἁγίᾳ,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "2Ti 1:14",
+      "text": "πνεύματος ἁγίου τοῦ",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Tit 3:5",
+      "text": "πνεύματος ἁγίου,",
+      "highlightedWord": "ἁγίου,"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Phm 1:5",
+      "text": "τοὺς ἁγίους,",
+      "highlightedWord": "ἁγίους,"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Phm 1:7",
+      "text": "τῶν ἁγίων ἀναπέπαυται",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Heb 2:4",
+      "text": "πνεύματος ἁγίου μερισμοῖς",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Heb 3:1",
+      "text": "ἀδελφοὶ ἅγιοι, κλήσεως",
+      "highlightedWord": "ἅγιοι,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Heb 3:7",
+      "text": "τὸ ἅγιον· Σήμερον",
+      "highlightedWord": "ἅγιον·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Heb 5:2",
+      "text": "τοῖς ἀγνοοῦσι καὶ",
+      "highlightedWord": "ἀγνοοῦσι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Heb 6:4",
+      "text": "πνεύματος ἁγίου",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Heb 6:10",
+      "text": "τοῖς ἁγίοις καὶ",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Heb 8:2",
+      "text": "τῶν ἁγίων λειτουργὸς",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Heb 9:1",
+      "text": "τε ἅγιον κοσμικόν.",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Heb 9:2",
+      "text": "λέγεται Ἅγια·",
+      "highlightedWord": "Ἅγια·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Heb 9:3",
+      "text": "λεγομένη Ἅγια Ἁγίων,",
+      "highlightedWord": "Ἅγια"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Heb 9:8",
+      "text": "τοῦ ἁγίου, μήπω",
+      "highlightedWord": "ἁγίου,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Heb 9:12",
+      "text": "τὰ ἅγια, αἰωνίαν",
+      "highlightedWord": "ἅγια,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Heb 9:24",
+      "text": "εἰσῆλθεν ἅγια Χριστός,",
+      "highlightedWord": "ἅγια"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Heb 9:25",
+      "text": "τὰ ἅγια κατ’",
+      "highlightedWord": "ἅγια"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Heb 10:15",
+      "text": "τὸ ἅγιον, μετὰ",
+      "highlightedWord": "ἅγιον,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Heb 10:19",
+      "text": "τῶν ἁγίων ἐν",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Heb 13:11",
+      "text": "τὰ ἅγια διὰ",
+      "highlightedWord": "ἅγια"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Heb 13:24",
+      "text": "τοὺς ἁγίους. ἀσπάζονται",
+      "highlightedWord": "ἁγίους."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "1Pe 1:12",
+      "text": "πνεύματι ἁγίῳ ἀποσταλέντι",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Pe 1:15",
+      "text": "ὑμᾶς ἅγιον καὶ",
+      "highlightedWord": "ἅγιον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Pe 1:16",
+      "text": "ὅτι Ἅγιοι ἔσεσθε,",
+      "highlightedWord": "Ἅγιοι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Pe 2:5",
+      "text": "ἱεράτευμα ἅγιον, ἀνενέγκαι",
+      "highlightedWord": "ἅγιον,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Pe 2:9",
+      "text": "ἔθνος ἅγιον, λαὸς",
+      "highlightedWord": "ἅγιον,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Pe 3:5",
+      "text": "αἱ ἅγιαι γυναῖκες",
+      "highlightedWord": "ἅγιαι"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Pe 1:18",
+      "text": "τῷ ἁγίῳ ὄρει.",
+      "highlightedWord": "ἁγίῳ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "2Pe 1:21",
+      "text": "πνεύματος ἁγίου φερόμενοι",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Pe 2:12",
+      "text": "οἷς ἀγνοοῦσιν βλασφημοῦντες,",
+      "highlightedWord": "ἀγνοοῦσιν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "2Pe 2:21",
+      "text": "αὐτοῖς ἁγίας ἐντολῆς·",
+      "highlightedWord": "ἁγίας"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "2Pe 3:2",
+      "text": "τῶν ἁγίων προφητῶν",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "2Pe 3:11",
+      "text": "ἐν ἁγίαις ἀναστροφαῖς",
+      "highlightedWord": "ἁγίαις"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "1Jn 2:20",
+      "text": "τοῦ ἁγίου καὶ",
+      "highlightedWord": "ἁγίου"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Jud 1:3",
+      "text": "τοῖς ἁγίοις πίστει.",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Jud 1:14",
+      "text": "ἐν ἁγίαις μυριάσιν",
+      "highlightedWord": "ἁγίαις"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Jud 1:20",
+      "text": "τῇ ἁγιωτάτῃ ὑμῶν",
+      "highlightedWord": "ἁγιωτάτῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "ὁ ἅγιος, ὁ",
+      "highlightedWord": "ἅγιος,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "λέγοντες· Ἅγιος ἅγιος",
+      "highlightedWord": "Ἅγιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "τῶν ἁγίων·",
+      "highlightedWord": "ἁγίων·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Re 6:10",
+      "text": "ὁ ἅγιος καὶ",
+      "highlightedWord": "ἅγιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Re 8:3",
+      "text": "τῶν ἁγίων πάντων",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Re 8:4",
+      "text": "τῶν ἁγίων ἐκ",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Re 11:2",
+      "text": "τὴν ἁγίαν πατήσουσιν",
+      "highlightedWord": "ἁγίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Re 11:18",
+      "text": "τοῖς ἁγίοις καὶ",
+      "highlightedWord": "ἁγίοις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Re 13:7",
+      "text": "τῶν ἁγίων καὶ",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Re 13:10",
+      "text": "τῶν ἁγίων.",
+      "highlightedWord": "ἁγίων."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Re 14:10",
+      "text": "ἀγγέλων ἁγίων καὶ",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Re 14:12",
+      "text": "τῶν ἁγίων ἐστίν,",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Re 16:6",
+      "text": "αἷμα ἁγίων καὶ",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Re 17:6",
+      "text": "τῶν ἁγίων καὶ",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Re 18:20",
+      "text": "οἱ ἅγιοι καὶ",
+      "highlightedWord": "ἅγιοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Re 18:24",
+      "text": "καὶ ἁγίων εὑρέθη",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Re 19:8",
+      "text": "τῶν ἁγίων ἐστίν.",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Re 20:6",
+      "text": "καὶ ἅγιος ὁ",
+      "highlightedWord": "ἅγιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Re 20:9",
+      "text": "τῶν ἁγίων καὶ",
+      "highlightedWord": "ἁγίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Re 21:2",
+      "text": "τὴν ἁγίαν Ἰερουσαλὴμ",
+      "highlightedWord": "ἁγίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Re 21:10",
+      "text": "τὴν ἁγίαν Ἰερουσαλὴμ",
+      "highlightedWord": "ἁγίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Re 22:11",
+      "text": "ὁ ἅγιος ἁγιασθήτω",
+      "highlightedWord": "ἅγιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 19,
+      "reference": "Re 22:19",
+      "text": "τῆς ἁγίας, τῶν",
+      "highlightedWord": "ἁγίας,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

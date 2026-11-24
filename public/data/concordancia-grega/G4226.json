@@ -1,0 +1,363 @@
+{
+  "strong": "G4226",
+  "lemma": "ποῦ",
+  "lemmaTranslit": "pou",
+  "tokenCount": 47,
+  "verseCount": 42,
+  "bookDistribution": {
+    "Mateus": 4,
+    "Marcos": 3,
+    "Lucas": 7,
+    "João": 18,
+    "Romanos": 1,
+    "1 Coríntios": 8,
+    "Gálatas": 1,
+    "Hebreus": 1,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "1 João": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Mt 2:2",
+      "text": "λέγοντες· Ποῦ ἐστιν",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Mt 2:4",
+      "text": "αὐτῶν ποῦ ὁ",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Mt 8:20",
+      "text": "ἔχει ποῦ τὴν",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 17,
+      "reference": "Mt 26:17",
+      "text": "λέγοντες· Ποῦ θέλεις",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Mk 14:12",
+      "text": "αὐτοῦ· Ποῦ θέλεις",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Mk 14:14",
+      "text": "λέγει· Ποῦ ἐστιν",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 47,
+      "reference": "Mk 15:47",
+      "text": "ἐθεώρουν ποῦ τέθειται.",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Lk 8:25",
+      "text": "αὐτοῖς· Ποῦ ἡ",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 58,
+      "reference": "Lk 9:58",
+      "text": "ἔχει ποῦ τὴν",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Lk 12:17",
+      "text": "ἔχω ποῦ συνάξω",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Lk 17:17",
+      "text": "ἐννέα ποῦ;",
+      "highlightedWord": "ποῦ;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 37,
+      "reference": "Lk 17:37",
+      "text": "αὐτῷ· Ποῦ, κύριε;",
+      "highlightedWord": "Ποῦ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Lk 22:9",
+      "text": "αὐτῷ· Ποῦ θέλεις",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Lk 22:11",
+      "text": "διδάσκαλος· Ποῦ ἐστιν",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 38,
+      "reference": "Jn 1:38",
+      "text": "Διδάσκαλε), ποῦ μένεις;",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Jn 1:39",
+      "text": "εἶδαν ποῦ μένει,",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jn 3:8",
+      "text": "καὶ ποῦ ὑπάγει·",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Jn 7:11",
+      "text": "ἔλεγον· Ποῦ ἐστιν",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "ἑαυτούς· Ποῦ οὗτος",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Jn 8:14",
+      "text": "καὶ ποῦ ὑπάγω·",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Jn 8:19",
+      "text": "αὐτῷ· Ποῦ ἐστιν",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Jn 9:12",
+      "text": "αὐτῷ· Ποῦ ἐστιν",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Jn 11:34",
+      "text": "εἶπεν· Ποῦ τεθείκατε",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 57,
+      "reference": "Jn 11:57",
+      "text": "γνῷ ποῦ ἐστιν",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "οἶδεν ποῦ ὑπάγει.",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 36,
+      "reference": "Jn 13:36",
+      "text": "Κύριε, ποῦ ὑπάγεις;",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Jn 14:5",
+      "text": "οἴδαμεν ποῦ ὑπάγεις·",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Jn 16:5",
+      "text": "με· Ποῦ ὑπάγεις;",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Jn 20:2",
+      "text": "οἴδαμεν ποῦ ἔθηκαν",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Jn 20:13",
+      "text": "οἶδα ποῦ ἔθηκαν",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Jn 20:15",
+      "text": "μοι ποῦ ἔθηκας",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Ro 3:27",
+      "text": "Ποῦ οὖν",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "1Co 1:20",
+      "text": "ποῦ σοφός;",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "1Co 12:17",
+      "text": "ὀφθαλμός, ποῦ ἡ",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "1Co 12:19",
+      "text": "μέλος, ποῦ τὸ",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 55,
+      "reference": "1Co 15:55",
+      "text": "ποῦ σου,",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Ga 4:15",
+      "text": "ποῦ οὖν",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Heb 11:8",
+      "text": "ἐπιστάμενος ποῦ ἔρχεται.",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Pe 4:18",
+      "text": "ἁμαρτωλὸς ποῦ φανεῖται;",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "2Pe 3:4",
+      "text": "λέγοντες· Ποῦ ἐστιν",
+      "highlightedWord": "Ποῦ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Jn 2:11",
+      "text": "οἶδεν ποῦ ὑπάγει,",
+      "highlightedWord": "ποῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "Οἶδα ποῦ κατοικεῖς,",
+      "highlightedWord": "ποῦ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

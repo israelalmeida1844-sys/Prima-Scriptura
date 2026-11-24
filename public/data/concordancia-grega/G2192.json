@@ -1,0 +1,5034 @@
+{
+  "strong": "G2192",
+  "lemma": "ἔχω",
+  "lemmaTranslit": "echō",
+  "tokenCount": 706,
+  "verseCount": 624,
+  "bookDistribution": {
+    "Mateus": 73,
+    "Marcos": 70,
+    "Lucas": 77,
+    "João": 86,
+    "Atos": 44,
+    "Romanos": 25,
+    "1 Coríntios": 49,
+    "2 Coríntios": 22,
+    "Gálatas": 5,
+    "Efésios": 8,
+    "Filipenses": 10,
+    "Colossenses": 7,
+    "1 Tessalonicenses": 8,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 14,
+    "2 Timóteo": 6,
+    "Tito": 2,
+    "Filemom": 4,
+    "Hebreus": 39,
+    "Tiago": 10,
+    "1 Pedro": 5,
+    "2 Pedro": 5,
+    "1 João": 28,
+    "2 João": 4,
+    "3 João": 2,
+    "Judas": 2,
+    "Apocalipse": 100
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Mt 1:18",
+      "text": "γαστρὶ ἔχουσα ἐκ",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Mt 1:23",
+      "text": "γαστρὶ ἕξει καὶ",
+      "highlightedWord": "ἕξει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Mt 3:4",
+      "text": "Ἰωάννης εἶχεν τὸ",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Mt 3:9",
+      "text": "Πατέρα ἔχομεν τὸν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Mt 3:14",
+      "text": "χρείαν ἔχω ὑπὸ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Mt 4:24",
+      "text": "κακῶς ἔχοντας ποικίλαις",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mt 5:23",
+      "text": "σου ἔχει τι",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 46,
+      "reference": "Mt 5:46",
+      "text": "μισθὸν ἔχετε; οὐχὶ",
+      "highlightedWord": "ἔχετε;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mt 6:1",
+      "text": "οὐκ ἔχετε παρὰ",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mt 6:8",
+      "text": "χρείαν ἔχετε πρὸ",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Mt 7:29",
+      "text": "ἐξουσίαν ἔχων καὶ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Mt 8:9",
+      "text": "ἐξουσίαν, ἔχων ὑπ’",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Mt 8:16",
+      "text": "κακῶς ἔχοντας ἐθεράπευσεν·",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Mt 8:20",
+      "text": "φωλεοὺς ἔχουσιν καὶ",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mt 9:6",
+      "text": "ἐξουσίαν ἔχει ὁ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Mt 9:12",
+      "text": "χρείαν ἔχουσιν οἱ",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Mt 9:36",
+      "text": "μὴ ἔχοντα ποιμένα.",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Mt 11:15",
+      "text": "ὁ ἔχων ὦτα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Mt 11:18",
+      "text": "Δαιμόνιον ἔχει·",
+      "highlightedWord": "ἔχει·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Mt 12:10",
+      "text": "χεῖρα ἔχων ξηράν.",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Mt 12:11",
+      "text": "ὃς ἕξει πρόβατον",
+      "highlightedWord": "ἕξει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mt 13:5",
+      "text": "οὐκ εἶχεν γῆν",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Mt 13:6",
+      "text": "μὴ ἔχειν ῥίζαν",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Mt 13:9",
+      "text": "ὁ ἔχων ὦτα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Mt 13:12",
+      "text": "γὰρ ἔχει, δοθήσεται",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mt 13:21",
+      "text": "οὐκ ἔχει δὲ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Mt 13:27",
+      "text": "οὖν ἔχει ζιζάνια;",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 43,
+      "reference": "Mt 13:43",
+      "text": "ὁ ἔχων ὦτα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Mt 13:44",
+      "text": "ὅσα ἔχει καὶ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Mt 13:46",
+      "text": "ὅσα εἶχεν καὶ",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Mt 14:4",
+      "text": "σοι ἔχειν αὐτήν·",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Mt 14:5",
+      "text": "αὐτὸν εἶχον.",
+      "highlightedWord": "εἶχον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Mt 14:16",
+      "text": "χρείαν ἔχουσιν ἀπελθεῖν·",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Mt 14:17",
+      "text": "Οὐκ ἔχομεν ὧδε",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mt 14:35",
+      "text": "κακῶς ἔχοντας,",
+      "highlightedWord": "ἔχοντας,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Mt 15:30",
+      "text": "πολλοὶ ἔχοντες μεθ’",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Mt 15:32",
+      "text": "οὐκ ἔχουσιν τί",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "Mt 15:34",
+      "text": "ἄρτους ἔχετε; οἱ",
+      "highlightedWord": "ἔχετε;"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Mt 17:20",
+      "text": "ἐὰν ἔχητε πίστιν",
+      "highlightedWord": "ἔχητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Mt 18:8",
+      "text": "πόδας ἔχοντα βληθῆναι",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Mt 18:9",
+      "text": "ὀφθαλμοὺς ἔχοντα βληθῆναι",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Mt 18:25",
+      "text": "μὴ ἔχοντος δὲ",
+      "highlightedWord": "ἔχοντος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Mt 19:16",
+      "text": "ἵνα σχῶ ζωὴν",
+      "highlightedWord": "σχῶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Mt 19:21",
+      "text": "καὶ ἕξεις θησαυρὸν",
+      "highlightedWord": "ἕξεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Mt 19:22",
+      "text": "γὰρ ἔχων κτήματα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Mt 21:3",
+      "text": "χρείαν ἔχει· εὐθὺς",
+      "highlightedWord": "ἔχει·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Mt 21:21",
+      "text": "ἐὰν ἔχητε πίστιν",
+      "highlightedWord": "ἔχητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Mt 21:26",
+      "text": "προφήτην ἔχουσιν τὸν",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Mt 21:28",
+      "text": "ἄνθρωπος εἶχεν τέκνα",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 38,
+      "reference": "Mt 21:38",
+      "text": "καὶ σχῶμεν τὴν",
+      "highlightedWord": "σχῶμεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 46,
+      "reference": "Mt 21:46",
+      "text": "αὐτὸν εἶχον.",
+      "highlightedWord": "εἶχον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Mt 22:12",
+      "text": "μὴ ἔχων ἔνδυμα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Mt 22:24",
+      "text": "μὴ ἔχων τέκνα,",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Mt 22:25",
+      "text": "μὴ ἔχων σπέρμα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 28,
+      "reference": "Mt 22:28",
+      "text": "γὰρ ἔσχον αὐτήν.",
+      "highlightedWord": "ἔσχον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Mt 24:19",
+      "text": "γαστρὶ ἐχούσαις καὶ",
+      "highlightedWord": "ἐχούσαις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 25,
+      "reference": "Mt 25:25",
+      "text": "ἴδε ἔχεις τὸ",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 28,
+      "reference": "Mt 25:28",
+      "text": "τῷ ἔχοντι τὰ",
+      "highlightedWord": "ἔχοντι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 29,
+      "reference": "Mt 25:29",
+      "text": "γὰρ ἔχοντι παντὶ",
+      "highlightedWord": "ἔχοντι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 7,
+      "reference": "Mt 26:7",
+      "text": "γυνὴ ἔχουσα ἀλάβαστρον",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 11,
+      "reference": "Mt 26:11",
+      "text": "πτωχοὺς ἔχετε μεθ’",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 65,
+      "reference": "Mt 26:65",
+      "text": "χρείαν ἔχομεν μαρτύρων;",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 16,
+      "reference": "Mt 27:16",
+      "text": "εἶχον δὲ",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 65,
+      "reference": "Mt 27:65",
+      "text": "Πιλᾶτος· Ἔχετε κουστωδίαν·",
+      "highlightedWord": "Ἔχετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Mk 1:22",
+      "text": "ἐξουσίαν ἔχων καὶ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Mk 1:32",
+      "text": "κακῶς ἔχοντας καὶ",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 34,
+      "reference": "Mk 1:34",
+      "text": "κακῶς ἔχοντας ποικίλαις",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 38,
+      "reference": "Mk 1:38",
+      "text": "τὰς ἐχομένας κωμοπόλεις,",
+      "highlightedWord": "ἐχομένας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mk 2:10",
+      "text": "ἐξουσίαν ἔχει ὁ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Mk 2:17",
+      "text": "χρείαν ἔχουσιν οἱ",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Mk 2:19",
+      "text": "χρόνον ἔχουσιν τὸν",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Mk 2:25",
+      "text": "χρείαν ἔσχεν καὶ",
+      "highlightedWord": "ἔσχεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Mk 3:1",
+      "text": "ἐξηραμμένην ἔχων τὴν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Mk 3:3",
+      "text": "χεῖρα ἔχοντι ξηράν·",
+      "highlightedWord": "ἔχοντι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Mk 3:10",
+      "text": "ὅσοι εἶχον μάστιγας.",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Mk 3:15",
+      "text": "καὶ ἔχειν ἐξουσίαν",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Mk 3:22",
+      "text": "Βεελζεβοὺλ ἔχει καὶ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Mk 3:26",
+      "text": "τέλος ἔχει.",
+      "highlightedWord": "ἔχει."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Mk 3:29",
+      "text": "οὐκ ἔχει ἄφεσιν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 30,
+      "reference": "Mk 3:30",
+      "text": "ἀκάθαρτον ἔχει.",
+      "highlightedWord": "ἔχει."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mk 4:5",
+      "text": "οὐκ εἶχεν γῆν",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mk 4:6",
+      "text": "μὴ ἔχειν ῥίζαν",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Mk 4:9",
+      "text": "Ὃς ἔχει ὦτα",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Mk 4:17",
+      "text": "οὐκ ἔχουσιν ῥίζαν",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Mk 4:23",
+      "text": "τις ἔχει ὦτα",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Mk 4:25",
+      "text": "γὰρ ἔχει, δοθήσεται",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Mk 4:40",
+      "text": "οὔπω ἔχετε πίστιν;",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Mk 5:3",
+      "text": "κατοίκησιν εἶχεν ἐν",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Mk 5:15",
+      "text": "τὸν ἐσχηκότα τὸν",
+      "highlightedWord": "ἐσχηκότα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mk 5:23",
+      "text": "ἐσχάτως ἔχει, ἵνα",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Mk 6:18",
+      "text": "σοι ἔχειν τὴν",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mk 6:34",
+      "text": "μὴ ἔχοντα ποιμένα,",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Mk 6:38",
+      "text": "Πόσους ἔχετε ἄρτους;",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 55,
+      "reference": "Mk 6:55",
+      "text": "κακῶς ἔχοντας περιφέρειν",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Mk 7:25",
+      "text": "ἧς εἶχεν τὸ",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Mk 8:1",
+      "text": "μὴ ἐχόντων τί",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Mk 8:2",
+      "text": "οὐκ ἔχουσιν τί",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Mk 8:5",
+      "text": "Πόσους ἔχετε ἄρτους;",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Mk 8:7",
+      "text": "καὶ εἶχον ἰχθύδια",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Mk 8:14",
+      "text": "οὐκ εἶχον μεθ’",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Mk 8:16",
+      "text": "οὐκ ἔχουσιν.",
+      "highlightedWord": "ἔχουσιν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Mk 8:17",
+      "text": "οὐκ ἔχετε; οὔπω",
+      "highlightedWord": "ἔχετε;"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Mk 8:18",
+      "text": "ὀφθαλμοὺς ἔχοντες οὐ",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Mk 9:17",
+      "text": "σέ, ἔχοντα πνεῦμα",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Mk 9:43",
+      "text": "χεῖρας ἔχοντα ἀπελθεῖν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Mk 9:45",
+      "text": "πόδας ἔχοντα βληθῆναι",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Mk 9:47",
+      "text": "ὀφθαλμοὺς ἔχοντα βληθῆναι",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 50,
+      "reference": "Mk 9:50",
+      "text": "ἀρτύσετε; ἔχετε ἐν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Mk 10:21",
+      "text": "ὅσα ἔχεις πώλησον",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Mk 10:22",
+      "text": "γὰρ ἔχων κτήματα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mk 10:23",
+      "text": "χρήματα ἔχοντες εἰς",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Mk 11:3",
+      "text": "χρείαν ἔχει· καὶ",
+      "highlightedWord": "ἔχει·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Mk 11:13",
+      "text": "μακρόθεν ἔχουσαν φύλλα",
+      "highlightedWord": "ἔχουσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Mk 11:22",
+      "text": "αὐτοῖς· Ἔχετε πίστιν",
+      "highlightedWord": "Ἔχετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mk 11:25",
+      "text": "τι ἔχετε κατά",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Mk 11:32",
+      "text": "γὰρ εἶχον τὸν",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Mk 12:6",
+      "text": "ἕνα εἶχεν, υἱὸν",
+      "highlightedWord": "εἶχεν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Mk 12:23",
+      "text": "ἑπτὰ ἔσχον αὐτὴν",
+      "highlightedWord": "ἔσχον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 44,
+      "reference": "Mk 12:44",
+      "text": "ὅσα εἶχεν ἔβαλεν,",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Mk 13:17",
+      "text": "γαστρὶ ἐχούσαις καὶ",
+      "highlightedWord": "ἐχούσαις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Mk 14:3",
+      "text": "γυνὴ ἔχουσα ἀλάβαστρον",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Mk 14:7",
+      "text": "πτωχοὺς ἔχετε μεθ’",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Mk 14:8",
+      "text": "ὃ ἔσχεν ἐποίησεν,",
+      "highlightedWord": "ἔσχεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 63,
+      "reference": "Mk 14:63",
+      "text": "χρείαν ἔχομεν μαρτύρων;",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Mk 16:8",
+      "text": "μνημείου, εἶχεν γὰρ",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Mk 16:18",
+      "text": "καλῶς ἕξουσιν.",
+      "highlightedWord": "ἕξουσιν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Lk 3:8",
+      "text": "Πατέρα ἔχομεν τὸν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Lk 3:11",
+      "text": "Ὁ ἔχων δύο",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Lk 4:33",
+      "text": "ἄνθρωπος ἔχων πνεῦμα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Lk 4:40",
+      "text": "ὅσοι εἶχον ἀσθενοῦντας",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Lk 5:24",
+      "text": "ἐξουσίαν ἔχει ἐπὶ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Lk 5:31",
+      "text": "χρείαν ἔχουσιν οἱ",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Lk 6:8",
+      "text": "ξηρὰν ἔχοντι τὴν",
+      "highlightedWord": "ἔχοντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Lk 7:2",
+      "text": "κακῶς ἔχων ἤμελλεν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Lk 7:8",
+      "text": "τασσόμενος, ἔχων ὑπ’",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Lk 7:33",
+      "text": "Δαιμόνιον ἔχει·",
+      "highlightedWord": "ἔχει·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "Lk 7:40",
+      "text": "Σίμων, ἔχω σοί",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Lk 7:42",
+      "text": "μὴ ἐχόντων αὐτῶν",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Lk 8:6",
+      "text": "μὴ ἔχειν ἰκμάδα.",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Lk 8:8",
+      "text": "Ὁ ἔχων ὦτα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Lk 8:13",
+      "text": "οὐκ ἔχουσιν, οἳ",
+      "highlightedWord": "ἔχουσιν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Lk 8:18",
+      "text": "γὰρ ἔχῃ, δοθήσεται",
+      "highlightedWord": "ἔχῃ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Lk 8:27",
+      "text": "πόλεως ἔχων δαιμόνια·",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Lk 9:3",
+      "text": "χιτῶνας ἔχειν.",
+      "highlightedWord": "ἔχειν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Lk 9:11",
+      "text": "χρείαν ἔχοντας θεραπείας",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 58,
+      "reference": "Lk 9:58",
+      "text": "φωλεοὺς ἔχουσιν καὶ",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Lk 11:5",
+      "text": "ὑμῶν ἕξει φίλον",
+      "highlightedWord": "ἕξει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Lk 11:6",
+      "text": "οὐκ ἔχω ὃ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Lk 11:36",
+      "text": "μὴ ἔχον μέρος",
+      "highlightedWord": "ἔχον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Lk 12:4",
+      "text": "μὴ ἐχόντων περισσότερόν",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Lk 12:5",
+      "text": "ἀποκτεῖναι ἔχοντα ἐξουσίαν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Lk 12:17",
+      "text": "οὐκ ἔχω ποῦ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Lk 12:19",
+      "text": "Ψυχή, ἔχεις πολλὰ",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 50,
+      "reference": "Lk 12:50",
+      "text": "δὲ ἔχω βαπτισθῆναι,",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Lk 13:6",
+      "text": "Συκῆν εἶχέν τις",
+      "highlightedWord": "εἶχέν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Lk 13:11",
+      "text": "πνεῦμα ἔχουσα ἀσθενείας",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Lk 13:33",
+      "text": "τῇ ἐχομένῃ πορεύεσθαι,",
+      "highlightedWord": "ἐχομένῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Lk 14:14",
+      "text": "οὐκ ἔχουσιν ἀνταποδοῦναί",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Lk 14:18",
+      "text": "καὶ ἔχω ἀνάγκην",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Lk 14:19",
+      "text": "σε, ἔχε με",
+      "highlightedWord": "ἔχε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Lk 14:28",
+      "text": "εἰ ἔχει εἰς",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Lk 14:35",
+      "text": "ὁ ἔχων ὦτα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Lk 15:4",
+      "text": "ὑμῶν ἔχων ἑκατὸν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Lk 15:7",
+      "text": "χρείαν ἔχουσιν μετανοίας.",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Lk 15:8",
+      "text": "δραχμὰς ἔχουσα δέκα,",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Lk 15:11",
+      "text": "τις εἶχεν δύο",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Lk 16:1",
+      "text": "ὃς εἶχεν οἰκονόμον,",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Lk 16:28",
+      "text": "ἔχω γὰρ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 29,
+      "reference": "Lk 16:29",
+      "text": "Ἀβραάμ· Ἔχουσι Μωϋσέα",
+      "highlightedWord": "Ἔχουσι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Lk 17:6",
+      "text": "Εἰ ἔχετε πίστιν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Lk 17:7",
+      "text": "δοῦλον ἔχων ἀροτριῶντα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Lk 17:9",
+      "text": "μὴ ἔχει χάριν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Lk 18:22",
+      "text": "ὅσα ἔχεις πώλησον",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Lk 18:24",
+      "text": "χρήματα ἔχοντες εἰς",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Lk 19:17",
+      "text": "ἐξουσίαν ἔχων ἐπάνω",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Lk 19:20",
+      "text": "ἣν εἶχον ἀποκειμένην",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Lk 19:24",
+      "text": "μνᾶς ἔχοντι—",
+      "highlightedWord": "ἔχοντι—"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 25,
+      "reference": "Lk 19:25",
+      "text": "Κύριε, ἔχει δέκα",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Lk 19:26",
+      "text": "τῷ ἔχοντι δοθήσεται,",
+      "highlightedWord": "ἔχοντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Lk 19:31",
+      "text": "χρείαν ἔχει.",
+      "highlightedWord": "ἔχει."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Lk 19:34",
+      "text": "χρείαν ἔχει.",
+      "highlightedWord": "ἔχει."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Lk 20:24",
+      "text": "τίνος ἔχει εἰκόνα",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 28,
+      "reference": "Lk 20:28",
+      "text": "ἀποθάνῃ ἔχων γυναῖκα,",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 33,
+      "reference": "Lk 20:33",
+      "text": "ἑπτὰ ἔσχον αὐτὴν",
+      "highlightedWord": "ἔσχον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Lk 21:4",
+      "text": "ὃν εἶχεν ἔβαλεν.",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Lk 21:23",
+      "text": "γαστρὶ ἐχούσαις καὶ",
+      "highlightedWord": "ἐχούσαις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 36,
+      "reference": "Lk 22:36",
+      "text": "ὁ ἔχων βαλλάντιον",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 37,
+      "reference": "Lk 22:37",
+      "text": "τέλος ἔχει.",
+      "highlightedWord": "ἔχει."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 71,
+      "reference": "Lk 22:71",
+      "text": "ἔτι ἔχομεν μαρτυρίας",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 39,
+      "reference": "Lk 24:39",
+      "text": "οὐκ ἔχει καθὼς",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 41,
+      "reference": "Lk 24:41",
+      "text": "αὐτοῖς· Ἔχετέ τι",
+      "highlightedWord": "Ἔχετέ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Jn 2:3",
+      "text": "οὐκ ἔχουσιν.",
+      "highlightedWord": "ἔχουσιν."
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Jn 2:25",
+      "text": "χρείαν εἶχεν ἵνα",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Jn 3:15",
+      "text": "αὐτῷ ἔχῃ ζωὴν",
+      "highlightedWord": "ἔχῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Jn 3:16",
+      "text": "ἀλλὰ ἔχῃ ζωὴν",
+      "highlightedWord": "ἔχῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Jn 3:29",
+      "text": "ὁ ἔχων τὴν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 36,
+      "reference": "Jn 3:36",
+      "text": "υἱὸν ἔχει ζωὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "ἄντλημα ἔχεις καὶ",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Jn 4:17",
+      "text": "Οὐκ ἔχω ἄνδρα.",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Jn 4:18",
+      "text": "ἄνδρας ἔσχες, καὶ",
+      "highlightedWord": "ἔσχες,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Jn 4:32",
+      "text": "βρῶσιν ἔχω φαγεῖν",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 44,
+      "reference": "Jn 4:44",
+      "text": "οὐκ ἔχει.",
+      "highlightedWord": "ἔχει."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 52,
+      "reference": "Jn 4:52",
+      "text": "κομψότερον ἔσχεν· εἶπαν",
+      "highlightedWord": "ἔσχεν·"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Jn 5:2",
+      "text": "στοὰς ἔχουσα·",
+      "highlightedWord": "ἔχουσα·"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Jn 5:5",
+      "text": "ἔτη ἔχων ἐν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Jn 5:6",
+      "text": "χρόνον ἔχει, λέγει",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jn 5:7",
+      "text": "οὐκ ἔχω ἵνα",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Jn 5:24",
+      "text": "με ἔχει ζωὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Jn 5:26",
+      "text": "πατὴρ ἔχει ζωὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Jn 5:36",
+      "text": "δὲ ἔχω τὴν",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Jn 5:38",
+      "text": "οὐκ ἔχετε ἐν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Jn 5:39",
+      "text": "αἰώνιον ἔχειν· καὶ",
+      "highlightedWord": "ἔχειν·"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Jn 5:40",
+      "text": "ζωὴν ἔχητε.",
+      "highlightedWord": "ἔχητε."
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Jn 5:42",
+      "text": "οὐκ ἔχετε ἐν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Jn 6:9",
+      "text": "ὃς ἔχει πέντε",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 40,
+      "reference": "Jn 6:40",
+      "text": "αὐτὸν ἔχῃ ζωὴν",
+      "highlightedWord": "ἔχῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 47,
+      "reference": "Jn 6:47",
+      "text": "πιστεύων ἔχει ζωὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 53,
+      "reference": "Jn 6:53",
+      "text": "οὐκ ἔχετε ζωὴν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 54,
+      "reference": "Jn 6:54",
+      "text": "αἷμα ἔχει ζωὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 68,
+      "reference": "Jn 6:68",
+      "text": "αἰωνίου ἔχεις,",
+      "highlightedWord": "ἔχεις,"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Jn 7:20",
+      "text": "Δαιμόνιον ἔχεις· τίς",
+      "highlightedWord": "ἔχεις·"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Jn 8:12",
+      "text": "ἀλλ’ ἕξει τὸ",
+      "highlightedWord": "ἕξει"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Jn 8:26",
+      "text": "πολλὰ ἔχω περὶ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Jn 8:41",
+      "text": "πατέρα ἔχομεν τὸν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 48,
+      "reference": "Jn 8:48",
+      "text": "δαιμόνιον ἔχεις;",
+      "highlightedWord": "ἔχεις;"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 49,
+      "reference": "Jn 8:49",
+      "text": "οὐκ ἔχω, ἀλλὰ",
+      "highlightedWord": "ἔχω,"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Jn 8:52",
+      "text": "δαιμόνιον ἔχεις. Ἀβραὰμ",
+      "highlightedWord": "ἔχεις."
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 57,
+      "reference": "Jn 8:57",
+      "text": "οὔπω ἔχεις καὶ",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Jn 9:21",
+      "text": "ἡλικίαν ἔχει, αὐτὸς",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Jn 9:23",
+      "text": "Ἡλικίαν ἔχει, αὐτὸν",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Jn 9:41",
+      "text": "ἂν εἴχετε ἁμαρτίαν·",
+      "highlightedWord": "εἴχετε"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Jn 10:10",
+      "text": "ζωὴν ἔχωσιν καὶ",
+      "highlightedWord": "ἔχωσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Jn 10:16",
+      "text": "πρόβατα ἔχω ἃ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Jn 10:18",
+      "text": "ἐξουσίαν ἔχω θεῖναι",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Jn 10:20",
+      "text": "Δαιμόνιον ἔχει καὶ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Jn 11:17",
+      "text": "ἡμέρας ἔχοντα ἐν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Jn 12:6",
+      "text": "γλωσσόκομον ἔχων τὰ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Jn 12:8",
+      "text": "πάντοτε ἔχετε μεθ’",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "φῶς ἔχετε, ἵνα",
+      "highlightedWord": "ἔχετε,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Jn 12:36",
+      "text": "φῶς ἔχετε, πιστεύετε",
+      "highlightedWord": "ἔχετε,"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Jn 12:48",
+      "text": "μου ἔχει τὸν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Jn 13:8",
+      "text": "οὐκ ἔχεις μέρος",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Jn 13:10",
+      "text": "οὐκ ἔχει χρείαν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 29,
+      "reference": "Jn 13:29",
+      "text": "γλωσσόκομον εἶχεν Ἰούδας,",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Jn 13:35",
+      "text": "ἀγάπην ἔχητε ἐν",
+      "highlightedWord": "ἔχητε"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Jn 14:21",
+      "text": "ὁ ἔχων τὰς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Jn 14:30",
+      "text": "οὐκ ἔχει οὐδέν,",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Jn 15:13",
+      "text": "οὐδεὶς ἔχει, ἵνα",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Jn 15:22",
+      "text": "οὐκ εἴχοσαν· νῦν",
+      "highlightedWord": "εἴχοσαν·"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Jn 15:24",
+      "text": "οὐκ εἴχοσαν· νῦν",
+      "highlightedWord": "εἴχοσαν·"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Jn 16:12",
+      "text": "πολλὰ ἔχω ὑμῖν",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Jn 16:15",
+      "text": "ὅσα ἔχει ὁ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Jn 16:21",
+      "text": "λύπην ἔχει, ὅτι",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Jn 16:22",
+      "text": "λύπην ἔχετε· πάλιν",
+      "highlightedWord": "ἔχετε·"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Jn 16:30",
+      "text": "χρείαν ἔχεις ἵνα",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Jn 16:33",
+      "text": "εἰρήνην ἔχητε· ἐν",
+      "highlightedWord": "ἔχητε·"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Jn 17:5",
+      "text": "ᾗ εἶχον πρὸ",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Jn 17:13",
+      "text": "ἵνα ἔχωσιν τὴν",
+      "highlightedWord": "ἔχωσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Jn 18:10",
+      "text": "Πέτρος ἔχων μάχαιραν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Jn 19:7",
+      "text": "νόμον ἔχομεν, καὶ",
+      "highlightedWord": "ἔχομεν,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Jn 19:10",
+      "text": "ἐξουσίαν ἔχω ἀπολῦσαί",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Jn 19:11",
+      "text": "Οὐκ εἶχες ἐξουσίαν",
+      "highlightedWord": "εἶχες"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Jn 19:15",
+      "text": "Οὐκ ἔχομεν βασιλέα",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Jn 20:31",
+      "text": "ζωὴν ἔχητε ἐν",
+      "highlightedWord": "ἔχητε"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Jn 21:5",
+      "text": "προσφάγιον ἔχετε; ἀπεκρίθησαν",
+      "highlightedWord": "ἔχετε;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ac 1:12",
+      "text": "σαββάτου ἔχον ὁδόν.",
+      "highlightedWord": "ἔχον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 44,
+      "reference": "Ac 2:44",
+      "text": "καὶ εἶχον ἅπαντα",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 45,
+      "reference": "Ac 2:45",
+      "text": "χρείαν εἶχεν·",
+      "highlightedWord": "εἶχεν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 47,
+      "reference": "Ac 2:47",
+      "text": "καὶ ἔχοντες χάριν",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Ac 3:6",
+      "text": "δὲ ἔχω τοῦτό",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ac 4:14",
+      "text": "οὐδὲν εἶχον ἀντειπεῖν.",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Ac 4:35",
+      "text": "χρείαν εἶχεν.",
+      "highlightedWord": "εἶχεν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ac 7:1",
+      "text": "οὕτως ἔχει;",
+      "highlightedWord": "ἔχει;"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Ac 8:7",
+      "text": "τῶν ἐχόντων πνεύματα",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ac 9:14",
+      "text": "ὧδε ἔχει ἐξουσίαν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Ac 9:31",
+      "text": "Σαμαρείας εἶχεν εἰρήνην",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Ac 11:3",
+      "text": "ἀκροβυστίαν ἔχοντας καὶ",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Ac 12:15",
+      "text": "οὕτως ἔχειν. οἱ",
+      "highlightedWord": "ἔχειν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Ac 13:5",
+      "text": "Ἰουδαίων· εἶχον δὲ",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Ac 14:9",
+      "text": "ὅτι ἔχει πίστιν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Ac 15:21",
+      "text": "αὐτὸν ἔχει ἐν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Ac 15:36",
+      "text": "πῶς ἔχουσιν.",
+      "highlightedWord": "ἔχουσιν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Ac 16:16",
+      "text": "τινὰ ἔχουσαν πνεῦμα",
+      "highlightedWord": "ἔχουσαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Ac 17:11",
+      "text": "εἰ ἔχοι ταῦτα",
+      "highlightedWord": "ἔχοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Ac 18:18",
+      "text": "κεφαλήν, εἶχεν γὰρ",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Ac 19:13",
+      "text": "τοὺς ἔχοντας τὰ",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Ac 19:38",
+      "text": "τεχνῖται ἔχουσιν πρός",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Ac 20:15",
+      "text": "δὲ ἐχομένῃ ἤλθομεν",
+      "highlightedWord": "ἐχομένῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Ac 21:13",
+      "text": "ἑτοίμως ἔχω ὑπὲρ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Ac 21:23",
+      "text": "εὐχὴν ἔχοντες ἀφ’",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 26,
+      "reference": "Ac 21:26",
+      "text": "τῇ ἐχομένῃ ἡμέρᾳ",
+      "highlightedWord": "ἐχομένῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 17,
+      "reference": "Ac 23:17",
+      "text": "χιλίαρχον, ἔχει γὰρ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 18,
+      "reference": "Ac 23:18",
+      "text": "σέ, ἔχοντά τι",
+      "highlightedWord": "ἔχοντά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Ac 23:19",
+      "text": "ὃ ἔχεις ἀπαγγεῖλαί",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 25,
+      "reference": "Ac 23:25",
+      "text": "ἐπιστολὴν ἔχουσαν τὸν",
+      "highlightedWord": "ἔχουσαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 29,
+      "reference": "Ac 23:29",
+      "text": "δεσμῶν ἔχοντα ἔγκλημα.",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Ac 24:9",
+      "text": "οὕτως ἔχειν.",
+      "highlightedWord": "ἔχειν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 15,
+      "reference": "Ac 24:15",
+      "text": "ἐλπίδα ἔχων εἰς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 16,
+      "reference": "Ac 24:16",
+      "text": "συνείδησιν ἔχειν πρὸς",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Ac 24:19",
+      "text": "τι ἔχοιεν πρὸς",
+      "highlightedWord": "ἔχοιεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Ac 24:23",
+      "text": "αὐτὸν ἔχειν τε",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 25,
+      "reference": "Ac 24:25",
+      "text": "νῦν ἔχον πορεύου,",
+      "highlightedWord": "ἔχον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Ac 25:16",
+      "text": "πρόσωπον ἔχοι τοὺς",
+      "highlightedWord": "ἔχοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 19,
+      "reference": "Ac 25:19",
+      "text": "δεισιδαιμονίας εἶχον πρὸς",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 26,
+      "reference": "Ac 25:26",
+      "text": "οὐκ ἔχω· διὸ",
+      "highlightedWord": "ἔχω·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 39,
+      "reference": "Ac 27:39",
+      "text": "κατενόουν ἔχοντα αἰγιαλὸν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 9,
+      "reference": "Ac 28:9",
+      "text": "νήσῳ ἔχοντες ἀσθενείας",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Ac 28:19",
+      "text": "μου ἔχων τι",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ro 1:13",
+      "text": "καρπὸν σχῶ καὶ",
+      "highlightedWord": "σχῶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 28,
+      "reference": "Ro 1:28",
+      "text": "θεὸν ἔχειν ἐν",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ro 2:14",
+      "text": "νόμον ἔχοντα φύσει",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Ro 2:20",
+      "text": "νηπίων, ἔχοντα τὴν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Ro 4:2",
+      "text": "ἐδικαιώθη, ἔχει καύχημα·",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ro 5:1",
+      "text": "εἰρήνην ἔχομεν πρὸς",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ro 5:2",
+      "text": "προσαγωγὴν ἐσχήκαμεν τῇ",
+      "highlightedWord": "ἐσχήκαμεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Ro 6:21",
+      "text": "καρπὸν εἴχετε τότε",
+      "highlightedWord": "εἴχετε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Ro 6:22",
+      "text": "θεῷ, ἔχετε τὸν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ro 8:9",
+      "text": "οὐκ ἔχει, οὗτος",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Ro 8:23",
+      "text": "πνεύματος ἔχοντες ἡμεῖς",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Ro 9:10",
+      "text": "κοίτην ἔχουσα, Ἰσαὰκ",
+      "highlightedWord": "ἔχουσα,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ro 9:21",
+      "text": "οὐκ ἔχει ἐξουσίαν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Ro 10:2",
+      "text": "θεοῦ ἔχουσιν· ἀλλ’",
+      "highlightedWord": "ἔχουσιν·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Ro 12:4",
+      "text": "μέλη ἔχομεν, τὰ",
+      "highlightedWord": "ἔχομεν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ro 12:6",
+      "text": "ἔχοντες δὲ",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ro 13:3",
+      "text": "καὶ ἕξεις ἔπαινον",
+      "highlightedWord": "ἕξεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Ro 14:22",
+      "text": "ἣν ἔχεις κατὰ",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Ro 15:4",
+      "text": "ἐλπίδα ἔχωμεν.",
+      "highlightedWord": "ἔχωμεν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Ro 15:17",
+      "text": "ἔχω οὖν",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Ro 15:23",
+      "text": "τόπον ἔχων ἐν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Co 2:16",
+      "text": "Χριστοῦ ἔχομεν.",
+      "highlightedWord": "ἔχομεν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Co 4:7",
+      "text": "δὲ ἔχεις ὃ",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Co 4:15",
+      "text": "παιδαγωγοὺς ἔχητε ἐν",
+      "highlightedWord": "ἔχητε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Co 5:1",
+      "text": "πατρὸς ἔχειν.",
+      "highlightedWord": "ἔχειν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Co 6:1",
+      "text": "πρᾶγμα ἔχων πρὸς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "1Co 6:4",
+      "text": "ἐὰν ἔχητε, τοὺς",
+      "highlightedWord": "ἔχητε,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "1Co 6:7",
+      "text": "κρίματα ἔχετε μεθ’",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Co 6:19",
+      "text": "οὗ ἔχετε ἀπὸ",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "1Co 7:2",
+      "text": "γυναῖκα ἐχέτω, καὶ",
+      "highlightedWord": "ἐχέτω,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "1Co 7:7",
+      "text": "ἴδιον ἔχει χάρισμα",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "1Co 7:12",
+      "text": "γυναῖκα ἔχει ἄπιστον,",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "1Co 7:13",
+      "text": "τις ἔχει ἄνδρα",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "1Co 7:25",
+      "text": "οὐκ ἔχω, γνώμην",
+      "highlightedWord": "ἔχω,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "1Co 7:28",
+      "text": "σαρκὶ ἕξουσιν οἱ",
+      "highlightedWord": "ἕξουσιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "1Co 7:29",
+      "text": "οἱ ἔχοντες γυναῖκας",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "1Co 7:37",
+      "text": "μὴ ἔχων ἀνάγκην,",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "1Co 7:40",
+      "text": "θεοῦ ἔχειν.",
+      "highlightedWord": "ἔχειν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "1Co 8:1",
+      "text": "γνῶσιν ἔχομεν. ἡ",
+      "highlightedWord": "ἔχομεν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "1Co 8:10",
+      "text": "τὸν ἔχοντα γνῶσιν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "1Co 9:4",
+      "text": "οὐκ ἔχομεν ἐξουσίαν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "1Co 9:5",
+      "text": "οὐκ ἔχομεν ἐξουσίαν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "1Co 9:6",
+      "text": "οὐκ ἔχομεν ἐξουσίαν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "1Co 9:17",
+      "text": "μισθὸν ἔχω· εἰ",
+      "highlightedWord": "ἔχω·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "1Co 11:4",
+      "text": "κεφαλῆς ἔχων καταισχύνει",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "1Co 11:10",
+      "text": "ἐξουσίαν ἔχειν ἐπὶ",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "1Co 11:16",
+      "text": "οὐκ ἔχομεν, οὐδὲ",
+      "highlightedWord": "ἔχομεν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "1Co 11:22",
+      "text": "οὐκ ἔχετε εἰς",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "1Co 12:12",
+      "text": "πολλὰ ἔχει, πάντα",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "1Co 12:21",
+      "text": "οὐκ ἔχω, ἢ",
+      "highlightedWord": "ἔχω,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "1Co 12:23",
+      "text": "περισσοτέραν ἔχει,",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "1Co 12:24",
+      "text": "χρείαν ἔχει. ἀλλὰ",
+      "highlightedWord": "ἔχει."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "1Co 12:30",
+      "text": "χαρίσματα ἔχουσιν ἰαμάτων;",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "1Co 13:1",
+      "text": "μὴ ἔχω, γέγονα",
+      "highlightedWord": "ἔχω,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "1Co 13:2",
+      "text": "ἐὰν ἔχω προφητείαν",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "1Co 13:3",
+      "text": "μὴ ἔχω, οὐδὲν",
+      "highlightedWord": "ἔχω,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "1Co 14:26",
+      "text": "ψαλμὸν ἔχει, διδαχὴν",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "1Co 15:31",
+      "text": "ἣν ἔχω ἐν",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "1Co 15:34",
+      "text": "τινες ἔχουσιν· πρὸς",
+      "highlightedWord": "ἔχουσιν·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Co 1:9",
+      "text": "θανάτου ἐσχήκαμεν, ἵνα",
+      "highlightedWord": "ἐσχήκαμεν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "2Co 1:15",
+      "text": "χάριν σχῆτε,",
+      "highlightedWord": "σχῆτε,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "2Co 2:3",
+      "text": "λύπην σχῶ ἀφ’",
+      "highlightedWord": "σχῶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Co 2:4",
+      "text": "ἣν ἔχω περισσοτέρως",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Co 2:13",
+      "text": "οὐκ ἔσχηκα ἄνεσιν",
+      "highlightedWord": "ἔσχηκα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "2Co 3:4",
+      "text": "τοιαύτην ἔχομεν διὰ",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Co 3:12",
+      "text": "Ἔχοντες οὖν",
+      "highlightedWord": "Ἔχοντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "2Co 4:1",
+      "text": "τοῦτο, ἔχοντες τὴν",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "2Co 4:7",
+      "text": "Ἔχομεν δὲ",
+      "highlightedWord": "Ἔχομεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "2Co 4:13",
+      "text": "Ἔχοντες δὲ",
+      "highlightedWord": "Ἔχοντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "2Co 5:1",
+      "text": "θεοῦ ἔχομεν οἰκίαν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "2Co 5:12",
+      "text": "ἵνα ἔχητε πρὸς",
+      "highlightedWord": "ἔχητε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "2Co 6:10",
+      "text": "μηδὲν ἔχοντες καὶ",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "2Co 7:1",
+      "text": "οὖν ἔχοντες τὰς",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "2Co 7:5",
+      "text": "οὐδεμίαν ἔσχηκεν ἄνεσιν",
+      "highlightedWord": "ἔσχηκεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "2Co 8:11",
+      "text": "τοῦ ἔχειν.",
+      "highlightedWord": "ἔχειν."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "2Co 8:12",
+      "text": "ἐὰν ἔχῃ εὐπρόσδεκτος,",
+      "highlightedWord": "ἔχῃ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "2Co 9:8",
+      "text": "αὐτάρκειαν ἔχοντες περισσεύητε",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "2Co 10:6",
+      "text": "ἑτοίμῳ ἔχοντες ἐκδικῆσαι",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "2Co 10:15",
+      "text": "δὲ ἔχοντες αὐξανομένης",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "2Co 12:14",
+      "text": "ἑτοίμως ἔχω ἐλθεῖν",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Ga 2:4",
+      "text": "ἣν ἔχομεν ἐν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Ga 4:22",
+      "text": "υἱοὺς ἔσχεν, ἕνα",
+      "highlightedWord": "ἔσχεν,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Ga 4:27",
+      "text": "τῆς ἐχούσης τὸν",
+      "highlightedWord": "ἐχούσης"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ga 6:4",
+      "text": "καύχημα ἕξει καὶ",
+      "highlightedWord": "ἕξει"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Ga 6:10",
+      "text": "καιρὸν ἔχομεν, ἐργαζώμεθα",
+      "highlightedWord": "ἔχομεν,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Eph 1:7",
+      "text": "ᾧ ἔχομεν τὴν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Eph 2:12",
+      "text": "μὴ ἔχοντες καὶ",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Eph 2:18",
+      "text": "αὐτοῦ ἔχομεν τὴν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Eph 3:12",
+      "text": "ᾧ ἔχομεν τὴν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Eph 4:28",
+      "text": "ἵνα ἔχῃ μεταδιδόναι",
+      "highlightedWord": "ἔχῃ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Eph 5:5",
+      "text": "οὐκ ἔχει κληρονομίαν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Eph 5:27",
+      "text": "μὴ ἔχουσαν σπίλον",
+      "highlightedWord": "ἔχουσαν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Php 1:7",
+      "text": "τὸ ἔχειν με",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Php 1:23",
+      "text": "ἐπιθυμίαν ἔχων εἰς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Php 1:30",
+      "text": "ἀγῶνα ἔχοντες οἷον",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Php 2:2",
+      "text": "ἀγάπην ἔχοντες, σύμψυχοι,",
+      "highlightedWord": "ἔχοντες,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Php 2:20",
+      "text": "γὰρ ἔχω ἰσόψυχον",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Php 2:27",
+      "text": "λύπην σχῶ.",
+      "highlightedWord": "σχῶ."
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Php 2:29",
+      "text": "ἐντίμους ἔχετε,",
+      "highlightedWord": "ἔχετε,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Php 3:4",
+      "text": "ἐγὼ ἔχων πεποίθησιν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Php 3:9",
+      "text": "μὴ ἔχων ἐμὴν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Php 3:17",
+      "text": "καθὼς ἔχετε τύπον",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Col 1:4",
+      "text": "ἣν ἔχετε εἰς",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Col 1:14",
+      "text": "ᾧ ἔχομεν τὴν",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Col 2:1",
+      "text": "ἀγῶνα ἔχω ὑπὲρ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Col 2:23",
+      "text": "μὲν ἔχοντα σοφίας",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Col 3:13",
+      "text": "τινα ἔχῃ μομφήν·",
+      "highlightedWord": "ἔχῃ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Col 4:1",
+      "text": "ὑμεῖς ἔχετε κύριον",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Col 4:13",
+      "text": "ὅτι ἔχει πολὺν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "χρείαν ἔχειν ἡμᾶς",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Th 1:9",
+      "text": "εἴσοδον ἔσχομεν πρὸς",
+      "highlightedWord": "ἔσχομεν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Th 3:6",
+      "text": "ὅτι ἔχετε μνείαν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Th 4:9",
+      "text": "χρείαν ἔχετε γράφειν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Th 4:12",
+      "text": "χρείαν ἔχητε.",
+      "highlightedWord": "ἔχητε."
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "1Th 4:13",
+      "text": "μὴ ἔχοντες ἐλπίδα.",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Th 5:1",
+      "text": "χρείαν ἔχετε ὑμῖν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "1Th 5:3",
+      "text": "γαστρὶ ἐχούσῃ, καὶ",
+      "highlightedWord": "ἐχούσῃ,"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Th 3:9",
+      "text": "οὐκ ἔχομεν ἐξουσίαν,",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "1Ti 1:12",
+      "text": "Χάριν ἔχω τῷ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "1Ti 1:19",
+      "text": "ἔχων πίστιν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Ti 3:4",
+      "text": "τέκνα ἔχοντα ἐν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Ti 3:7",
+      "text": "καλὴν ἔχειν ἀπὸ",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Ti 3:9",
+      "text": "ἔχοντας τὸ",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Ti 4:8",
+      "text": "ἐπαγγελίαν ἔχουσα ζωῆς",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Ti 5:4",
+      "text": "ἔκγονα ἔχει, μανθανέτωσαν",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Ti 5:12",
+      "text": "ἔχουσαι κρίμα",
+      "highlightedWord": "ἔχουσαι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Ti 5:16",
+      "text": "πιστὴ ἔχει χήρας,",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Ti 5:20",
+      "text": "φόβον ἔχωσιν.",
+      "highlightedWord": "ἔχωσιν."
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "1Ti 5:25",
+      "text": "ἄλλως ἔχοντα κρυβῆναι",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "1Ti 6:2",
+      "text": "πιστοὺς ἔχοντες δεσπότας",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "1Ti 6:8",
+      "text": "ἔχοντες δὲ",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Ti 6:16",
+      "text": "μόνος ἔχων ἀθανασίαν,",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Ti 1:3",
+      "text": "Χάριν ἔχω τῷ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Ti 1:13",
+      "text": "ὑποτύπωσιν ἔχε ὑγιαινόντων",
+      "highlightedWord": "ἔχε"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "2Ti 2:17",
+      "text": "νομὴν ἕξει· ὧν",
+      "highlightedWord": "ἕξει·"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "2Ti 2:19",
+      "text": "ἕστηκεν, ἔχων τὴν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Ti 3:5",
+      "text": "ἔχοντες μόρφωσιν",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Tit 1:6",
+      "text": "τέκνα ἔχων πιστά,",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Tit 2:8",
+      "text": "μηδὲν ἔχων λέγειν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Phm 1:5",
+      "text": "ἣν ἔχεις πρὸς",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Phm 1:7",
+      "text": "πολλὴν ἔσχον καὶ",
+      "highlightedWord": "ἔσχον"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Phm 1:8",
+      "text": "παρρησίαν ἔχων ἐπιτάσσειν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Phm 1:17",
+      "text": "με ἔχεις κοινωνόν,",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Heb 2:14",
+      "text": "κράτος ἔχοντα τοῦ",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Heb 3:3",
+      "text": "τιμὴν ἔχει τοῦ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Heb 4:14",
+      "text": "Ἔχοντες οὖν",
+      "highlightedWord": "Ἔχοντες"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Heb 4:15",
+      "text": "γὰρ ἔχομεν ἀρχιερέα",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Heb 5:12",
+      "text": "χρείαν ἔχετε τοῦ",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Heb 5:14",
+      "text": "γεγυμνασμένα ἐχόντων πρὸς",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Heb 6:9",
+      "text": "καὶ ἐχόμενα σωτηρίας,",
+      "highlightedWord": "ἐχόμενα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Heb 6:13",
+      "text": "οὐδενὸς εἶχεν μείζονος",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Heb 6:18",
+      "text": "παράκλησιν ἔχωμεν οἱ",
+      "highlightedWord": "ἔχωμεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Heb 6:19",
+      "text": "ἄγκυραν ἔχομεν τῆς",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Heb 7:3",
+      "text": "τέλος ἔχων, ἀφωμοιωμένος",
+      "highlightedWord": "ἔχων,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Heb 7:5",
+      "text": "ἐντολὴν ἔχουσιν ἀποδεκατοῦν",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Heb 7:6",
+      "text": "τὸν ἔχοντα τὰς",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Heb 7:24",
+      "text": "ἀπαράβατον ἔχει τὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Heb 7:27",
+      "text": "οὐκ ἔχει καθ’",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Heb 7:28",
+      "text": "ἀρχιερεῖς ἔχοντας ἀσθένειαν,",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Heb 8:1",
+      "text": "τοιοῦτον ἔχομεν ἀρχιερέα,",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Heb 8:3",
+      "text": "ἀναγκαῖον ἔχειν τι",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Heb 9:1",
+      "text": "Εἶχε μὲν",
+      "highlightedWord": "Εἶχε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Heb 9:4",
+      "text": "χρυσοῦν ἔχουσα θυμιατήριον",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Heb 9:8",
+      "text": "σκηνῆς ἐχούσης στάσιν,",
+      "highlightedWord": "ἐχούσης"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Heb 10:1",
+      "text": "γὰρ ἔχων ὁ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Heb 10:2",
+      "text": "μηδεμίαν ἔχειν ἔτι",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Heb 10:19",
+      "text": "Ἔχοντες οὖν,",
+      "highlightedWord": "Ἔχοντες"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 34,
+      "reference": "Heb 10:34",
+      "text": "γινώσκοντες ἔχειν ἑαυτοὺς",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Heb 10:35",
+      "text": "ἥτις ἔχει μεγάλην",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 36,
+      "reference": "Heb 10:36",
+      "text": "γὰρ ἔχετε χρείαν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Heb 11:10",
+      "text": "θεμελίους ἔχουσαν πόλιν,",
+      "highlightedWord": "ἔχουσαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Heb 11:15",
+      "text": "ἐξέβησαν, εἶχον ἂν",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Heb 11:25",
+      "text": "πρόσκαιρον ἔχειν ἁμαρτίας",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Heb 12:1",
+      "text": "τοσοῦτον ἔχοντες περικείμενον",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Heb 12:9",
+      "text": "πατέρας εἴχομεν παιδευτὰς",
+      "highlightedWord": "εἴχομεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Heb 12:28",
+      "text": "παραλαμβάνοντες ἔχωμεν χάριν,",
+      "highlightedWord": "ἔχωμεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Heb 13:10",
+      "text": "ἔχομεν θυσιαστήριον",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Heb 13:14",
+      "text": "γὰρ ἔχομεν ὧδε",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Heb 13:18",
+      "text": "συνείδησιν ἔχομεν, ἐν",
+      "highlightedWord": "ἔχομεν,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Jas 1:4",
+      "text": "τέλειον ἐχέτω, ἵνα",
+      "highlightedWord": "ἐχέτω,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Jas 2:1",
+      "text": "προσωπολημψίαις ἔχετε τὴν",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Jas 2:14",
+      "text": "τις ἔχειν ἔργα",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Jas 2:17",
+      "text": "μὴ ἔχῃ ἔργα,",
+      "highlightedWord": "ἔχῃ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Jas 2:18",
+      "text": "πίστιν ἔχεις κἀγὼ",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jas 3:14",
+      "text": "πικρὸν ἔχετε καὶ",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Jas 4:2",
+      "text": "οὐκ ἔχετε· φονεύετε",
+      "highlightedWord": "ἔχετε·"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Pe 2:12",
+      "text": "ἔθνεσιν ἔχοντες καλήν,",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "1Pe 2:16",
+      "text": "ἐπικάλυμμα ἔχοντες τῆς",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Pe 3:16",
+      "text": "συνείδησιν ἔχοντες ἀγαθήν,",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Pe 4:5",
+      "text": "ἑτοίμως ἔχοντι κρῖναι",
+      "highlightedWord": "ἔχοντι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Pe 4:8",
+      "text": "ἐκτενῆ ἔχοντες, ὅτι",
+      "highlightedWord": "ἔχοντες,"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "2Pe 1:15",
+      "text": "ἑκάστοτε ἔχειν ὑμᾶς",
+      "highlightedWord": "ἔχειν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "2Pe 1:19",
+      "text": "καὶ ἔχομεν βεβαιότερον",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "2Pe 2:14",
+      "text": "ὀφθαλμοὺς ἔχοντες μεστοὺς",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "2Pe 2:16",
+      "text": "δὲ ἔσχεν ἰδίας",
+      "highlightedWord": "ἔσχεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Jn 1:3",
+      "text": "κοινωνίαν ἔχητε μεθ’",
+      "highlightedWord": "ἔχητε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Jn 1:6",
+      "text": "κοινωνίαν ἔχομεν μετ’",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Jn 1:7",
+      "text": "κοινωνίαν ἔχομεν μετ’",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Jn 1:8",
+      "text": "οὐκ ἔχομεν, ἑαυτοὺς",
+      "highlightedWord": "ἔχομεν,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Jn 2:1",
+      "text": "παράκλητον ἔχομεν πρὸς",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Jn 2:7",
+      "text": "ἣν εἴχετε ἀπ’",
+      "highlightedWord": "εἴχετε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "1Jn 2:20",
+      "text": "χρῖσμα ἔχετε ἀπὸ",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "1Jn 2:23",
+      "text": "πατέρα ἔχει· ὁ",
+      "highlightedWord": "ἔχει·"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "1Jn 2:27",
+      "text": "χρείαν ἔχετε ἵνα",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "1Jn 2:28",
+      "text": "φανερωθῇ σχῶμεν παρρησίαν",
+      "highlightedWord": "σχῶμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Jn 3:3",
+      "text": "ὁ ἔχων τὴν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Jn 3:15",
+      "text": "οὐκ ἔχει ζωὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Jn 3:17",
+      "text": "ἂν ἔχῃ τὸν",
+      "highlightedWord": "ἔχῃ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "1Jn 3:21",
+      "text": "παρρησίαν ἔχομεν πρὸς",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Jn 4:16",
+      "text": "ἣν ἔχει ὁ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Jn 4:17",
+      "text": "παρρησίαν ἔχωμεν ἐν",
+      "highlightedWord": "ἔχωμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Jn 4:18",
+      "text": "κόλασιν ἔχει, ὁ",
+      "highlightedWord": "ἔχει,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "1Jn 4:21",
+      "text": "ἐντολὴν ἔχομεν ἀπ’",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Jn 5:10",
+      "text": "θεοῦ ἔχει τὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Jn 5:12",
+      "text": "ὁ ἔχων τὸν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Jn 5:13",
+      "text": "ζωὴν ἔχετε αἰώνιον,",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Jn 5:14",
+      "text": "ἣν ἔχομεν πρὸς",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Jn 5:15",
+      "text": "ὅτι ἔχομεν τὰ",
+      "highlightedWord": "ἔχομεν"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "2Jn 1:5",
+      "text": "ἣν εἴχομεν ἀπ’",
+      "highlightedWord": "εἴχομεν"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Jn 1:9",
+      "text": "οὐκ ἔχει· ὁ",
+      "highlightedWord": "ἔχει·"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Jn 1:12",
+      "text": "Πολλὰ ἔχων ὑμῖν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "3Jn 1:4",
+      "text": "οὐκ ἔχω χαράν,",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "3Jn 1:13",
+      "text": "Πολλὰ εἶχον γράψαι",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Jud 1:3",
+      "text": "ἀνάγκην ἔσχον γράψαι",
+      "highlightedWord": "ἔσχον"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Jud 1:19",
+      "text": "μὴ ἔχοντες.",
+      "highlightedWord": "ἔχοντες."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "καὶ ἔχων ἐν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Re 1:18",
+      "text": "καὶ ἔχω τὰς",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Re 2:3",
+      "text": "ὑπομονὴν ἔχεις, καὶ",
+      "highlightedWord": "ἔχεις,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Re 2:4",
+      "text": "ἀλλὰ ἔχω κατὰ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Re 2:6",
+      "text": "τοῦτο ἔχεις ὅτι",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Re 2:7",
+      "text": "ὁ ἔχων οὖς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "καὶ ἕξετε θλῖψιν",
+      "highlightedWord": "ἕξετε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Re 2:11",
+      "text": "ὁ ἔχων οὖς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Re 2:12",
+      "text": "ὁ ἔχων τὴν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "ἀλλὰ ἔχω κατὰ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Re 2:15",
+      "text": "οὕτως ἔχεις καὶ",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "ὁ ἔχων οὖς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Re 2:18",
+      "text": "ὁ ἔχων τοὺς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Re 2:20",
+      "text": "ἀλλὰ ἔχω κατὰ",
+      "highlightedWord": "ἔχω"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Re 2:24",
+      "text": "οὐκ ἔχουσιν τὴν",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Re 2:25",
+      "text": "ὃ ἔχετε κρατήσατε",
+      "highlightedWord": "ἔχετε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Re 2:29",
+      "text": "ὁ ἔχων οὖς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Re 3:1",
+      "text": "ὁ ἔχων τὰ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Re 3:4",
+      "text": "ἀλλὰ ἔχεις ὀλίγα",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Re 3:6",
+      "text": "ὁ ἔχων οὖς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Re 3:7",
+      "text": "ὁ ἔχων τὴν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "μικρὰν ἔχεις δύναμιν,",
+      "highlightedWord": "ἔχεις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Re 3:11",
+      "text": "ὃ ἔχεις, ἵνα",
+      "highlightedWord": "ἔχεις,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Re 3:13",
+      "text": "ὁ ἔχων οὖς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "χρείαν ἔχω, καὶ",
+      "highlightedWord": "ἔχω,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Re 3:22",
+      "text": "ὁ ἔχων οὖς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "ζῷον ἔχων τὸ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "αὐτῶν ἔχων ἀνὰ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Re 5:6",
+      "text": "ἐσφαγμένον, ἔχων κέρατα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "ἀρνίου, ἔχοντες ἕκαστος",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Re 6:2",
+      "text": "αὐτὸν ἔχων τόξον,",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Re 6:5",
+      "text": "αὐτὸν ἔχων ζυγὸν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Re 6:9",
+      "text": "ἣν εἶχον.",
+      "highlightedWord": "εἶχον."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "ἡλίου, ἔχοντα σφραγῖδα",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Re 8:3",
+      "text": "θυσιαστηρίου ἔχων λιβανωτὸν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Re 8:6",
+      "text": "οἱ ἔχοντες τὰς",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Re 8:9",
+      "text": "τὰ ἔχοντα ψυχάς,",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Re 9:3",
+      "text": "ὡς ἔχουσιν ἐξουσίαν",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Re 9:4",
+      "text": "οὐκ ἔχουσι τὴν",
+      "highlightedWord": "ἔχουσι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Re 9:8",
+      "text": "καὶ εἶχον τρίχας",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Re 9:9",
+      "text": "καὶ εἶχον θώρακας",
+      "highlightedWord": "εἶχον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Re 9:10",
+      "text": "καὶ ἔχουσιν οὐρὰς",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Re 9:11",
+      "text": "ἔχουσιν ἐπ’",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Re 9:14",
+      "text": "ὁ ἔχων τὴν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "αὐτῶν, ἔχοντας θώρακας",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Re 9:19",
+      "text": "ὄφεσιν, ἔχουσαι κεφαλάς,",
+      "highlightedWord": "ἔχουσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Re 10:2",
+      "text": "καὶ ἔχων ἐν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "οὗτοι ἔχουσιν τὴν",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Re 12:2",
+      "text": "γαστρὶ ἔχουσα· καὶ",
+      "highlightedWord": "ἔχουσα·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Re 12:3",
+      "text": "πυρρός, ἔχων κεφαλὰς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Re 12:6",
+      "text": "ὅπου ἔχει ἐκεῖ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Re 12:12",
+      "text": "ὑμᾶς, ἔχων θυμὸν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Re 12:17",
+      "text": "καὶ ἐχόντων τὴν",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Re 13:1",
+      "text": "ἀναβαῖνον, ἔχον κέρατα",
+      "highlightedWord": "ἔχον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Re 13:9",
+      "text": "τις ἔχει οὖς",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Re 13:11",
+      "text": "καὶ εἶχεν κέρατα",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Re 13:14",
+      "text": "ὃς ἔχει τὴν",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "ὁ ἔχων τὸ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Re 13:18",
+      "text": "ὁ ἔχων νοῦν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Re 14:1",
+      "text": "χιλιάδες ἔχουσαι τὸ",
+      "highlightedWord": "ἔχουσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Re 14:6",
+      "text": "μεσουρανήματι, ἔχοντα εὐαγγέλιον",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "οὐκ ἔχουσιν ἀνάπαυσιν",
+      "highlightedWord": "ἔχουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "ἀνθρώπου, ἔχων ἐπὶ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Re 14:17",
+      "text": "οὐρανῷ, ἔχων καὶ",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Re 14:18",
+      "text": "ὁ ἔχων ἐξουσίαν",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Re 15:1",
+      "text": "ἑπτὰ ἔχοντας πληγὰς",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Re 15:2",
+      "text": "ὑαλίνην, ἔχοντας κιθάρας",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Re 15:6",
+      "text": "οἱ ἔχοντες τὰς",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Re 16:2",
+      "text": "τοὺς ἔχοντας τὸ",
+      "highlightedWord": "ἔχοντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Re 16:9",
+      "text": "τοῦ ἔχοντος τὴν",
+      "highlightedWord": "ἔχοντος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Re 17:1",
+      "text": "τῶν ἐχόντων τὰς",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Re 17:3",
+      "text": "βλασφημίας, ἔχων κεφαλὰς",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Re 17:4",
+      "text": "μαργαρίταις, ἔχουσα ποτήριον",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 7,
+      "reference": "Re 17:7",
+      "text": "τοῦ ἔχοντος τὰς",
+      "highlightedWord": "ἔχοντος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Re 17:9",
+      "text": "ὁ ἔχων σοφίαν.",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Re 17:13",
+      "text": "γνώμην ἔχουσιν, καὶ",
+      "highlightedWord": "ἔχουσιν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Re 17:18",
+      "text": "ἡ ἔχουσα βασιλείαν",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Re 18:1",
+      "text": "οὐρανοῦ, ἔχοντα ἐξουσίαν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "οἱ ἔχοντες τὰ",
+      "highlightedWord": "ἔχοντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Re 19:10",
+      "text": "τῶν ἐχόντων τὴν",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "πολλά, ἔχων ὄνομα",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Re 19:16",
+      "text": "καὶ ἔχει ἐπὶ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Re 20:1",
+      "text": "οὐρανοῦ, ἔχοντα τὴν",
+      "highlightedWord": "ἔχοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Re 20:6",
+      "text": "ὁ ἔχων μέρος",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Re 21:9",
+      "text": "τῶν ἐχόντων τὰς",
+      "highlightedWord": "ἐχόντων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Re 21:11",
+      "text": "ἔχουσαν τὴν",
+      "highlightedWord": "ἔχουσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Re 21:12",
+      "text": "ἔχουσα τεῖχος",
+      "highlightedWord": "ἔχουσα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Re 21:14",
+      "text": "πόλεως ἔχων θεμελίους",
+      "highlightedWord": "ἔχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Re 21:15",
+      "text": "ἐμοῦ εἶχεν μέτρον",
+      "highlightedWord": "εἶχεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Re 21:23",
+      "text": "χρείαν ἔχει τοῦ",
+      "highlightedWord": "ἔχει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Re 22:5",
+      "text": "οὐκ ἔχουσιν χρείαν",
+      "highlightedWord": "ἔχουσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

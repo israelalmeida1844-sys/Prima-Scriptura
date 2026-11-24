@@ -1,0 +1,878 @@
+{
+  "strong": "G2288",
+  "lemma": "θάνατος",
+  "lemmaTranslit": "thanatos",
+  "tokenCount": 120,
+  "verseCount": 106,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 6,
+    "Lucas": 7,
+    "João": 8,
+    "Atos": 8,
+    "Romanos": 22,
+    "1 Coríntios": 8,
+    "2 Coríntios": 9,
+    "Filipenses": 6,
+    "Colossenses": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 10,
+    "Tiago": 2,
+    "1 João": 6,
+    "Apocalipse": 19
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Mt 4:16",
+      "text": "σκιᾷ θανάτου φῶς",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Mt 10:21",
+      "text": "εἰς θάνατον καὶ",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Mt 15:4",
+      "text": "μητέρα θανάτῳ τελευτάτω·",
+      "highlightedWord": "θανάτῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Mt 16:28",
+      "text": "γεύσωνται θανάτου ἕως",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Mt 20:18",
+      "text": "αὐτὸν θανάτῳ,",
+      "highlightedWord": "θανάτῳ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 38,
+      "reference": "Mt 26:38",
+      "text": "ἕως θανάτου· μείνατε",
+      "highlightedWord": "θανάτου·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 66,
+      "reference": "Mt 26:66",
+      "text": "Ἔνοχος θανάτου ἐστίν.",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Mk 7:10",
+      "text": "μητέρα θανάτῳ τελευτάτω·",
+      "highlightedWord": "θανάτῳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Mk 9:1",
+      "text": "γεύσωνται θανάτου ἕως",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Mk 10:33",
+      "text": "αὐτὸν θανάτῳ καὶ",
+      "highlightedWord": "θανάτῳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Mk 13:12",
+      "text": "εἰς θάνατον καὶ",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 34,
+      "reference": "Mk 14:34",
+      "text": "ἕως θανάτου· μείνατε",
+      "highlightedWord": "θανάτου·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 64,
+      "reference": "Mk 14:64",
+      "text": "εἶναι θανάτου.",
+      "highlightedWord": "θανάτου."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 79,
+      "reference": "Lk 1:79",
+      "text": "σκιᾷ θανάτου καθημένοις,",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Lk 2:26",
+      "text": "ἰδεῖν θάνατον πρὶν",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Lk 9:27",
+      "text": "γεύσωνται θανάτου ἕως",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 33,
+      "reference": "Lk 22:33",
+      "text": "εἰς θάνατον πορεύεσθαι.",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Lk 23:15",
+      "text": "ἄξιον θανάτου ἐστὶν",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Lk 23:22",
+      "text": "αἴτιον θανάτου εὗρον",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 20,
+      "reference": "Lk 24:20",
+      "text": "κρίμα θανάτου καὶ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Jn 5:24",
+      "text": "τοῦ θανάτου εἰς",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Jn 8:51",
+      "text": "τηρήσῃ, θάνατον οὐ",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Jn 8:52",
+      "text": "γεύσηται θανάτου εἰς",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Jn 11:4",
+      "text": "πρὸς θάνατον ἀλλ’",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Jn 11:13",
+      "text": "τοῦ θανάτου αὐτοῦ.",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Jn 12:33",
+      "text": "ποίῳ θανάτῳ ἤμελλεν",
+      "highlightedWord": "θανάτῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Jn 18:32",
+      "text": "ποίῳ θανάτῳ ἤμελλεν",
+      "highlightedWord": "θανάτῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Jn 21:19",
+      "text": "ποίῳ θανάτῳ δοξάσει",
+      "highlightedWord": "θανάτῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Ac 2:24",
+      "text": "τοῦ θανάτου, καθότι",
+      "highlightedWord": "θανάτου,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Ac 13:28",
+      "text": "αἰτίαν θανάτου εὑρόντες",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Ac 22:4",
+      "text": "ἄχρι θανάτου, δεσμεύων",
+      "highlightedWord": "θανάτου,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 29,
+      "reference": "Ac 23:29",
+      "text": "ἄξιον θανάτου ἢ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "ἄξιον θανάτου πέπραχά",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 25,
+      "reference": "Ac 25:25",
+      "text": "αὐτὸν θανάτου πεπραχέναι,",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Ac 26:31",
+      "text": "Οὐδὲν θανάτου ἢ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 18,
+      "reference": "Ac 28:18",
+      "text": "αἰτίαν θανάτου ὑπάρχειν",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Ro 1:32",
+      "text": "ἄξιοι θανάτου εἰσίν,",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ro 5:10",
+      "text": "τοῦ θανάτου τοῦ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ro 5:12",
+      "text": "ὁ θάνατος, καὶ",
+      "highlightedWord": "θάνατος,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Ro 5:14",
+      "text": "ὁ θάνατος ἀπὸ",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Ro 5:17",
+      "text": "ὁ θάνατος ἐβασίλευσεν",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Ro 5:21",
+      "text": "τῷ θανάτῳ, οὕτως",
+      "highlightedWord": "θανάτῳ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Ro 6:3",
+      "text": "τὸν θάνατον αὐτοῦ",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ro 6:4",
+      "text": "τὸν θάνατον, ἵνα",
+      "highlightedWord": "θάνατον,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Ro 6:5",
+      "text": "τοῦ θανάτου αὐτοῦ,",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Ro 6:9",
+      "text": "ἀποθνῄσκει, θάνατος αὐτοῦ",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Ro 6:16",
+      "text": "εἰς θάνατον ἢ",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Ro 6:21",
+      "text": "ἐκείνων θάνατος·",
+      "highlightedWord": "θάνατος·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Ro 6:23",
+      "text": "ἁμαρτίας θάνατος, τὸ",
+      "highlightedWord": "θάνατος,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Ro 7:5",
+      "text": "τῷ θανάτῳ·",
+      "highlightedWord": "θανάτῳ·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Ro 7:10",
+      "text": "εἰς θάνατον·",
+      "highlightedWord": "θάνατον·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Ro 7:13",
+      "text": "ἐγένετο θάνατος; μὴ",
+      "highlightedWord": "θάνατος;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Ro 7:24",
+      "text": "τοῦ θανάτου τούτου;",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Ro 8:2",
+      "text": "τοῦ θανάτου.",
+      "highlightedWord": "θανάτου."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Ro 8:6",
+      "text": "σαρκὸς θάνατος, τὸ",
+      "highlightedWord": "θάνατος,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ro 8:38",
+      "text": "οὔτε θάνατος οὔτε",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "1Co 3:22",
+      "text": "εἴτε θάνατος εἴτε",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "1Co 11:26",
+      "text": "τὸν θάνατον τοῦ",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "1Co 15:21",
+      "text": "ἀνθρώπου θάνατος, καὶ",
+      "highlightedWord": "θάνατος,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "1Co 15:26",
+      "text": "ὁ θάνατος,",
+      "highlightedWord": "θάνατος,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 54,
+      "reference": "1Co 15:54",
+      "text": "ὁ θάνατος εἰς",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 55,
+      "reference": "1Co 15:55",
+      "text": "σου, θάνατε, τὸ",
+      "highlightedWord": "θάνατε,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 56,
+      "reference": "1Co 15:56",
+      "text": "τοῦ θανάτου ἡ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "2Co 1:9",
+      "text": "τοῦ θανάτου ἐσχήκαμεν,",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Co 1:10",
+      "text": "τηλικούτου θανάτου ἐρρύσατο",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "2Co 2:16",
+      "text": "ἐκ θανάτου εἰς",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Co 3:7",
+      "text": "τοῦ θανάτου ἐν",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "2Co 4:11",
+      "text": "εἰς θάνατον παραδιδόμεθα",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "2Co 4:12",
+      "text": "ὁ θάνατος ἐν",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "2Co 7:10",
+      "text": "λύπη θάνατον κατεργάζεται.",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "2Co 11:23",
+      "text": "ἐν θανάτοις πολλάκις·",
+      "highlightedWord": "θανάτοις"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Php 1:20",
+      "text": "διὰ θανάτου.",
+      "highlightedWord": "θανάτου."
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Php 2:8",
+      "text": "μέχρι θανάτου, θανάτου",
+      "highlightedWord": "θανάτου,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Php 2:27",
+      "text": "παραπλήσιον θανάτῳ· ἀλλὰ",
+      "highlightedWord": "θανάτῳ·"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 30,
+      "reference": "Php 2:30",
+      "text": "μέχρι θανάτου ἤγγισεν,",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Php 3:10",
+      "text": "τῷ θανάτῳ αὐτοῦ,",
+      "highlightedWord": "θανάτῳ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Col 1:22",
+      "text": "τοῦ θανάτου— παραστῆσαι",
+      "highlightedWord": "θανάτου—"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Ti 1:10",
+      "text": "τὸν θάνατον φωτίσαντος",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Heb 2:9",
+      "text": "τοῦ θανάτου δόξῃ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Heb 2:14",
+      "text": "τοῦ θανάτου καταργήσῃ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Heb 2:15",
+      "text": "φόβῳ θανάτου διὰ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Heb 5:7",
+      "text": "ἐκ θανάτου μετὰ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Heb 7:23",
+      "text": "τὸ θανάτῳ κωλύεσθαι",
+      "highlightedWord": "θανάτῳ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Heb 9:15",
+      "text": "ὅπως θανάτου γενομένου",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Heb 9:16",
+      "text": "διαθήκη, θάνατον ἀνάγκη",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Heb 11:5",
+      "text": "ἰδεῖν θάνατον, καὶ",
+      "highlightedWord": "θάνατον,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Jas 1:15",
+      "text": "ἀποκύει θάνατον.",
+      "highlightedWord": "θάνατον."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Jas 5:20",
+      "text": "ἐκ θανάτου καὶ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Jn 3:14",
+      "text": "τοῦ θανάτου εἰς",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Jn 5:16",
+      "text": "πρὸς θάνατον, αἰτήσει,",
+      "highlightedWord": "θάνατον,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "1Jn 5:17",
+      "text": "πρὸς θάνατον.",
+      "highlightedWord": "θάνατον."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Re 1:18",
+      "text": "τοῦ θανάτου καὶ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "ἄχρι θανάτου, καὶ",
+      "highlightedWord": "θανάτου,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Re 2:11",
+      "text": "τοῦ θανάτου τοῦ",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "ἐν θανάτῳ· καὶ",
+      "highlightedWord": "θανάτῳ·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Re 6:8",
+      "text": "ὁ Θάνατος, καὶ",
+      "highlightedWord": "Θάνατος,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "τὸν θάνατον καὶ",
+      "highlightedWord": "θάνατον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Re 12:11",
+      "text": "ἄχρι θανάτου·",
+      "highlightedWord": "θανάτου·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Re 13:3",
+      "text": "εἰς θάνατον, καὶ",
+      "highlightedWord": "θάνατον,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Re 13:12",
+      "text": "τοῦ θανάτου αὐτοῦ.",
+      "highlightedWord": "θανάτου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Re 18:8",
+      "text": "αὐτῆς, θάνατος καὶ",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Re 20:6",
+      "text": "δεύτερος θάνατος οὐκ",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Re 20:13",
+      "text": "ὁ θάνατος καὶ",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Re 20:14",
+      "text": "ὁ θάνατος καὶ",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Re 21:4",
+      "text": "ὁ θάνατος οὐκ",
+      "highlightedWord": "θάνατος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Re 21:8",
+      "text": "ὁ θάνατος ὁ",
+      "highlightedWord": "θάνατος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,1223 @@
+{
+  "strong": "G2476",
+  "lemma": "ἵστημι",
+  "lemmaTranslit": "histēmi",
+  "tokenCount": 153,
+  "verseCount": 149,
+  "bookDistribution": {
+    "Mateus": 21,
+    "Marcos": 9,
+    "Lucas": 26,
+    "João": 19,
+    "Atos": 35,
+    "Romanos": 6,
+    "1 Coríntios": 3,
+    "2 Coríntios": 2,
+    "Efésios": 3,
+    "Colossenses": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 2,
+    "Tiago": 2,
+    "1 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 21
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Mt 2:9",
+      "text": "ἐλθὼν ἐστάθη ἐπάνω",
+      "highlightedWord": "ἐστάθη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mt 4:5",
+      "text": "καὶ ἔστησεν αὐτὸν",
+      "highlightedWord": "ἔστησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mt 6:5",
+      "text": "πλατειῶν ἑστῶτες προσεύχεσθαι,",
+      "highlightedWord": "ἑστῶτες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mt 12:25",
+      "text": "οὐ σταθήσεται.",
+      "highlightedWord": "σταθήσεται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Mt 12:26",
+      "text": "οὖν σταθήσεται ἡ",
+      "highlightedWord": "σταθήσεται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Mt 12:46",
+      "text": "αὐτοῦ εἱστήκεισαν ἔξω",
+      "highlightedWord": "εἱστήκεισαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Mt 12:47",
+      "text": "ἔξω ἑστήκασιν, ζητοῦντές",
+      "highlightedWord": "ἑστήκασιν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mt 13:2",
+      "text": "αἰγιαλὸν εἱστήκει.",
+      "highlightedWord": "εἱστήκει."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Mt 16:28",
+      "text": "ὧδε ἑστώτων οἵτινες",
+      "highlightedWord": "ἑστώτων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Mt 18:2",
+      "text": "παιδίον ἔστησεν αὐτὸ",
+      "highlightedWord": "ἔστησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Mt 18:16",
+      "text": "τριῶν σταθῇ πᾶν",
+      "highlightedWord": "σταθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Mt 20:3",
+      "text": "ἄλλους ἑστῶτας ἐν",
+      "highlightedWord": "ἑστῶτας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Mt 20:6",
+      "text": "ἄλλους ἑστῶτας, καὶ",
+      "highlightedWord": "ἑστῶτας,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 32,
+      "reference": "Mt 20:32",
+      "text": "καὶ στὰς ὁ",
+      "highlightedWord": "στὰς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 15,
+      "reference": "Mt 24:15",
+      "text": "προφήτου ἑστὸς ἐν",
+      "highlightedWord": "ἑστὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 33,
+      "reference": "Mt 25:33",
+      "text": "καὶ στήσει τὰ",
+      "highlightedWord": "στήσει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 15,
+      "reference": "Mt 26:15",
+      "text": "δὲ ἔστησαν αὐτῷ",
+      "highlightedWord": "ἔστησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 73,
+      "reference": "Mt 26:73",
+      "text": "οἱ ἑστῶτες εἶπον",
+      "highlightedWord": "ἑστῶτες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 11,
+      "reference": "Mt 27:11",
+      "text": "Ἰησοῦς ἐστάθη ἔμπροσθεν",
+      "highlightedWord": "ἐστάθη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 47,
+      "reference": "Mt 27:47",
+      "text": "ἐκεῖ ἑστηκότων ἀκούσαντες",
+      "highlightedWord": "ἑστηκότων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Mk 3:24",
+      "text": "δύναται σταθῆναι ἡ",
+      "highlightedWord": "σταθῆναι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Mk 3:25",
+      "text": "ἐκείνη σταθῆναι·",
+      "highlightedWord": "σταθῆναι·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Mk 3:26",
+      "text": "δύναται στῆναι ἀλλὰ",
+      "highlightedWord": "στῆναι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Mk 9:1",
+      "text": "ὧδε ἑστηκότων οἵτινες",
+      "highlightedWord": "ἑστηκότων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Mk 9:36",
+      "text": "παιδίον ἔστησεν αὐτὸ",
+      "highlightedWord": "ἔστησεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 49,
+      "reference": "Mk 10:49",
+      "text": "καὶ στὰς ὁ",
+      "highlightedWord": "στὰς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Mk 11:5",
+      "text": "ἐκεῖ ἑστηκότων ἔλεγον",
+      "highlightedWord": "ἑστηκότων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Mk 13:9",
+      "text": "βασιλέων σταθήσεσθε ἕνεκεν",
+      "highlightedWord": "σταθήσεσθε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Mk 13:14",
+      "text": "ἐρημώσεως ἑστηκότα ὅπου",
+      "highlightedWord": "ἑστηκότα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Lk 1:11",
+      "text": "κυρίου ἑστὼς ἐκ",
+      "highlightedWord": "ἑστὼς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Lk 4:9",
+      "text": "καὶ ἔστησεν ἐπὶ",
+      "highlightedWord": "ἔστησεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Lk 5:1",
+      "text": "ἦν ἑστὼς παρὰ",
+      "highlightedWord": "ἑστὼς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Lk 5:2",
+      "text": "πλοῖα ἑστῶτα παρὰ",
+      "highlightedWord": "ἑστῶτα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Lk 6:8",
+      "text": "καὶ στῆθι εἰς",
+      "highlightedWord": "στῆθι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Lk 6:17",
+      "text": "αὐτῶν ἔστη ἐπὶ",
+      "highlightedWord": "ἔστη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Lk 7:14",
+      "text": "βαστάζοντες ἔστησαν, καὶ",
+      "highlightedWord": "ἔστησαν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Lk 7:38",
+      "text": "καὶ στᾶσα ὀπίσω",
+      "highlightedWord": "στᾶσα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Lk 8:20",
+      "text": "σου ἑστήκασιν ἔξω",
+      "highlightedWord": "ἑστήκασιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Lk 8:44",
+      "text": "παραχρῆμα ἔστη ἡ",
+      "highlightedWord": "ἔστη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Lk 9:27",
+      "text": "αὐτοῦ ἑστηκότων οἳ",
+      "highlightedWord": "ἑστηκότων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Lk 9:47",
+      "text": "παιδίον ἔστησεν αὐτὸ",
+      "highlightedWord": "ἔστησεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Lk 11:18",
+      "text": "πῶς σταθήσεται ἡ",
+      "highlightedWord": "σταθήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Lk 13:25",
+      "text": "ἔξω ἑστάναι καὶ",
+      "highlightedWord": "ἑστάναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Lk 17:12",
+      "text": "οἳ ἔστησαν πόρρωθεν,",
+      "highlightedWord": "ἔστησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Lk 18:11",
+      "text": "Φαρισαῖος σταθεὶς πρὸς",
+      "highlightedWord": "σταθεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Lk 18:13",
+      "text": "μακρόθεν ἑστὼς οὐκ",
+      "highlightedWord": "ἑστὼς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 40,
+      "reference": "Lk 18:40",
+      "text": "σταθεὶς δὲ",
+      "highlightedWord": "σταθεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Lk 19:8",
+      "text": "σταθεὶς δὲ",
+      "highlightedWord": "σταθεὶς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 36,
+      "reference": "Lk 21:36",
+      "text": "καὶ σταθῆναι ἔμπροσθεν",
+      "highlightedWord": "σταθῆναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Lk 23:10",
+      "text": "εἱστήκεισαν δὲ",
+      "highlightedWord": "εἱστήκεισαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 35,
+      "reference": "Lk 23:35",
+      "text": "καὶ εἱστήκει ὁ",
+      "highlightedWord": "εἱστήκει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 49,
+      "reference": "Lk 23:49",
+      "text": "εἱστήκεισαν δὲ",
+      "highlightedWord": "εἱστήκεισαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 17,
+      "reference": "Lk 24:17",
+      "text": "καὶ ἐστάθησαν σκυθρωποί.",
+      "highlightedWord": "ἐστάθησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Lk 24:36",
+      "text": "αὐτὸς ἔστη ἐν",
+      "highlightedWord": "ἔστη"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jn 1:26",
+      "text": "ὑμῶν ἕστηκεν ὃν",
+      "highlightedWord": "ἕστηκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Jn 1:35",
+      "text": "πάλιν εἱστήκει ὁ",
+      "highlightedWord": "εἱστήκει"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Jn 3:29",
+      "text": "ὁ ἑστηκὼς καὶ",
+      "highlightedWord": "ἑστηκὼς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "ὁ ἑστηκὼς πέραν",
+      "highlightedWord": "ἑστηκὼς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "Jn 7:37",
+      "text": "ἑορτῆς εἱστήκει ὁ",
+      "highlightedWord": "εἱστήκει"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Jn 8:44",
+      "text": "οὐκ ἔστηκεν, ὅτι",
+      "highlightedWord": "ἔστηκεν,"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 56,
+      "reference": "Jn 11:56",
+      "text": "ἱερῷ ἑστηκότες· Τί",
+      "highlightedWord": "ἑστηκότες·"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Jn 12:29",
+      "text": "ὁ ἑστὼς καὶ",
+      "highlightedWord": "ἑστὼς"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Jn 18:5",
+      "text": "εἰμι. εἱστήκει δὲ",
+      "highlightedWord": "εἱστήκει"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Jn 18:16",
+      "text": "Πέτρος εἱστήκει πρὸς",
+      "highlightedWord": "εἱστήκει"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Jn 18:18",
+      "text": "εἱστήκεισαν δὲ",
+      "highlightedWord": "εἱστήκεισαν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Jn 18:25",
+      "text": "Πέτρος ἑστὼς καὶ",
+      "highlightedWord": "ἑστὼς"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 25,
+      "reference": "Jn 19:25",
+      "text": "Εἱστήκεισαν δὲ",
+      "highlightedWord": "Εἱστήκεισαν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Jn 20:11",
+      "text": "δὲ εἱστήκει πρὸς",
+      "highlightedWord": "εἱστήκει"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Jn 20:14",
+      "text": "Ἰησοῦν ἑστῶτα, καὶ",
+      "highlightedWord": "ἑστῶτα,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "καὶ ἔστη εἰς",
+      "highlightedWord": "ἔστη"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 26,
+      "reference": "Jn 20:26",
+      "text": "καὶ ἔστη εἰς",
+      "highlightedWord": "ἔστη"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Jn 21:4",
+      "text": "γενομένης ἔστη Ἰησοῦς",
+      "highlightedWord": "ἔστη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Ac 1:11",
+      "text": "τί ἑστήκατε βλέποντες",
+      "highlightedWord": "ἑστήκατε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Ac 1:23",
+      "text": "καὶ ἔστησαν δύο,",
+      "highlightedWord": "ἔστησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ac 2:14",
+      "text": "Σταθεὶς δὲ",
+      "highlightedWord": "Σταθεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ac 3:8",
+      "text": "ἐξαλλόμενος ἔστη καὶ",
+      "highlightedWord": "ἔστη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ac 4:7",
+      "text": "καὶ στήσαντες αὐτοὺς",
+      "highlightedWord": "στήσαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ac 4:14",
+      "text": "αὐτοῖς ἑστῶτα τὸν",
+      "highlightedWord": "ἑστῶτα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Ac 5:20",
+      "text": "καὶ σταθέντες λαλεῖτε",
+      "highlightedWord": "σταθέντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Ac 5:23",
+      "text": "φύλακας ἑστῶτας ἐπὶ",
+      "highlightedWord": "ἑστῶτας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Ac 5:25",
+      "text": "ἱερῷ ἑστῶτες καὶ",
+      "highlightedWord": "ἑστῶτες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Ac 5:27",
+      "text": "αὐτοὺς ἔστησαν ἐν",
+      "highlightedWord": "ἔστησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Ac 6:6",
+      "text": "οὓς ἔστησαν ἐνώπιον",
+      "highlightedWord": "ἔστησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ac 6:13",
+      "text": "ἔστησάν τε",
+      "highlightedWord": "ἔστησάν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Ac 7:33",
+      "text": "ᾧ ἕστηκας γῆ",
+      "highlightedWord": "ἕστηκας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 55,
+      "reference": "Ac 7:55",
+      "text": "Ἰησοῦν ἑστῶτα ἐκ",
+      "highlightedWord": "ἑστῶτα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 56,
+      "reference": "Ac 7:56",
+      "text": "δεξιῶν ἑστῶτα τοῦ",
+      "highlightedWord": "ἑστῶτα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 60,
+      "reference": "Ac 7:60",
+      "text": "μὴ στήσῃς αὐτοῖς",
+      "highlightedWord": "στήσῃς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ac 8:38",
+      "text": "ἐκέλευσεν στῆναι τὸ",
+      "highlightedWord": "στῆναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Ac 9:7",
+      "text": "αὐτῷ εἱστήκεισαν ἐνεοί,",
+      "highlightedWord": "εἱστήκεισαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Ac 10:30",
+      "text": "ἀνὴρ ἔστη ἐνώπιόν",
+      "highlightedWord": "ἔστη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Ac 11:13",
+      "text": "αὐτοῦ σταθέντα καὶ",
+      "highlightedWord": "σταθέντα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Ac 12:14",
+      "text": "ἀπήγγειλεν ἑστάναι τὸν",
+      "highlightedWord": "ἑστάναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Ac 16:9",
+      "text": "ἦν ἑστὼς καὶ",
+      "highlightedWord": "ἑστὼς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Ac 17:22",
+      "text": "Σταθεὶς δὲ",
+      "highlightedWord": "Σταθεὶς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Ac 17:31",
+      "text": "καθότι ἔστησεν ἡμέραν",
+      "highlightedWord": "ἔστησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 40,
+      "reference": "Ac 21:40",
+      "text": "Παῦλος ἑστὼς ἐπὶ",
+      "highlightedWord": "ἑστὼς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Ac 22:25",
+      "text": "τὸν ἑστῶτα ἑκατόνταρχον",
+      "highlightedWord": "ἑστῶτα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Ac 22:30",
+      "text": "Παῦλον ἔστησεν εἰς",
+      "highlightedWord": "ἔστησεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 20,
+      "reference": "Ac 24:20",
+      "text": "ἀδίκημα στάντος μου",
+      "highlightedWord": "στάντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Ac 24:21",
+      "text": "αὐτοῖς ἑστὼς ὅτι",
+      "highlightedWord": "ἑστὼς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Ac 25:10",
+      "text": "Καίσαρος ἑστώς εἰμι,",
+      "highlightedWord": "ἑστώς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 18,
+      "reference": "Ac 25:18",
+      "text": "οὗ σταθέντες οἱ",
+      "highlightedWord": "σταθέντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 6,
+      "reference": "Ac 26:6",
+      "text": "θεοῦ ἕστηκα κρινόμενος,",
+      "highlightedWord": "ἕστηκα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 16,
+      "reference": "Ac 26:16",
+      "text": "καὶ στῆθι ἐπὶ",
+      "highlightedWord": "στῆθι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "ταύτης ἕστηκα μαρτυρόμενος",
+      "highlightedWord": "ἕστηκα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 21,
+      "reference": "Ac 27:21",
+      "text": "τότε σταθεὶς ὁ",
+      "highlightedWord": "σταθεὶς"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Ro 3:31",
+      "text": "νόμον ἱστάνομεν.",
+      "highlightedWord": "ἱστάνομεν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Ro 5:2",
+      "text": "ᾗ ἑστήκαμεν, καὶ",
+      "highlightedWord": "ἑστήκαμεν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Ro 10:3",
+      "text": "ζητοῦντες στῆσαι, τῇ",
+      "highlightedWord": "στῆσαι,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Ro 11:20",
+      "text": "πίστει ἕστηκας. μὴ",
+      "highlightedWord": "ἕστηκας."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Ro 14:4",
+      "text": "πίπτει· σταθήσεται δέ,",
+      "highlightedWord": "σταθήσεται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 37,
+      "reference": "1Co 7:37",
+      "text": "δὲ ἕστηκεν ἐν",
+      "highlightedWord": "ἕστηκεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "1Co 10:12",
+      "text": "δοκῶν ἑστάναι βλεπέτω",
+      "highlightedWord": "ἑστάναι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "1Co 15:1",
+      "text": "καὶ ἑστήκατε,",
+      "highlightedWord": "ἑστήκατε,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "2Co 1:24",
+      "text": "πίστει ἑστήκατε.",
+      "highlightedWord": "ἑστήκατε."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "2Co 13:1",
+      "text": "τριῶν σταθήσεται πᾶν",
+      "highlightedWord": "σταθήσεται"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Eph 6:11",
+      "text": "ὑμᾶς στῆναι πρὸς",
+      "highlightedWord": "στῆναι"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Eph 6:13",
+      "text": "κατεργασάμενοι στῆναι.",
+      "highlightedWord": "στῆναι."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Eph 6:14",
+      "text": "στῆτε οὖν",
+      "highlightedWord": "στῆτε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Col 4:12",
+      "text": "ἵνα σταθῆτε τέλειοι",
+      "highlightedWord": "σταθῆτε"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "2Ti 2:19",
+      "text": "θεοῦ ἕστηκεν, ἔχων",
+      "highlightedWord": "ἕστηκεν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Heb 10:9",
+      "text": "δεύτερον στήσῃ.",
+      "highlightedWord": "στήσῃ."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Heb 10:11",
+      "text": "ἱερεὺς ἕστηκεν καθ’",
+      "highlightedWord": "ἕστηκεν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Jas 2:3",
+      "text": "Σὺ στῆθι ἢ",
+      "highlightedWord": "στῆθι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jas 5:9",
+      "text": "θυρῶν ἕστηκεν.",
+      "highlightedWord": "ἕστηκεν."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Pe 5:12",
+      "text": "ἣν στῆτε.",
+      "highlightedWord": "στῆτε."
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Jud 1:24",
+      "text": "καὶ στῆσαι κατενώπιον",
+      "highlightedWord": "στῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "ἰδοὺ ἕστηκα ἐπὶ",
+      "highlightedWord": "ἕστηκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Re 5:6",
+      "text": "ἀρνίον ἑστηκὸς ὡς",
+      "highlightedWord": "ἑστηκὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Re 6:17",
+      "text": "δύναται σταθῆναι;",
+      "highlightedWord": "σταθῆναι;"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Re 7:1",
+      "text": "ἀγγέλους ἑστῶτας ἐπὶ",
+      "highlightedWord": "ἑστῶτας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Re 7:9",
+      "text": "γλωσσῶν, ἑστῶτες ἐνώπιον",
+      "highlightedWord": "ἑστῶτες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Re 7:11",
+      "text": "ἄγγελοι εἱστήκεισαν κύκλῳ",
+      "highlightedWord": "εἱστήκεισαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Re 8:2",
+      "text": "θεοῦ ἑστήκασιν, καὶ",
+      "highlightedWord": "ἑστήκασιν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Re 8:3",
+      "text": "καὶ ἐστάθη ἐπὶ",
+      "highlightedWord": "ἐστάθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Re 10:5",
+      "text": "εἶδον ἑστῶτα ἐπὶ",
+      "highlightedWord": "ἑστῶτα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Re 10:8",
+      "text": "τοῦ ἑστῶτος ἐπὶ",
+      "highlightedWord": "ἑστῶτος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Re 11:4",
+      "text": "γῆς ἑστῶτες.",
+      "highlightedWord": "ἑστῶτες."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Re 11:11",
+      "text": "καὶ ἔστησαν ἐπὶ",
+      "highlightedWord": "ἔστησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "δράκων ἕστηκεν ἐνώπιον",
+      "highlightedWord": "ἕστηκεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Re 12:18",
+      "text": "καὶ ἐστάθη ἐπὶ",
+      "highlightedWord": "ἐστάθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Re 14:1",
+      "text": "ἀρνίον ἑστὸς ἐπὶ",
+      "highlightedWord": "ἑστὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Re 15:2",
+      "text": "αὐτοῦ ἑστῶτας ἐπὶ",
+      "highlightedWord": "ἑστῶτας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Re 18:10",
+      "text": "μακρόθεν ἑστηκότες διὰ",
+      "highlightedWord": "ἑστηκότες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Re 18:15",
+      "text": "μακρόθεν στήσονται διὰ",
+      "highlightedWord": "στήσονται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Re 18:17",
+      "text": "μακρόθεν ἔστησαν",
+      "highlightedWord": "ἔστησαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Re 19:17",
+      "text": "ἄγγελον ἑστῶτα ἐν",
+      "highlightedWord": "ἑστῶτα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Re 20:12",
+      "text": "μικρούς, ἑστῶτας ἐνώπιον",
+      "highlightedWord": "ἑστῶτας"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

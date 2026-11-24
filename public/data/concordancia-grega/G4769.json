@@ -1,0 +1,50 @@
+{
+  "strong": "G4769",
+  "lemma": "στῦλος",
+  "lemmaTranslit": "stylos",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Gálatas": 1,
+    "1 Timóteo": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ga 2:9",
+      "text": "δοκοῦντες στῦλοι εἶναι,",
+      "highlightedWord": "στῦλοι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Ti 3:15",
+      "text": "ζῶντος, στῦλος καὶ",
+      "highlightedWord": "στῦλος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "αὐτὸν στῦλον ἐν",
+      "highlightedWord": "στῦλον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Re 10:1",
+      "text": "ὡς στῦλοι πυρός,",
+      "highlightedWord": "στῦλοι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

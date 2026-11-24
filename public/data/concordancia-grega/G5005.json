@@ -1,0 +1,33 @@
+{
+  "strong": "G5005",
+  "lemma": "ταλαίπωρος",
+  "lemmaTranslit": "talaipōros",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Romanos": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Ro 7:24",
+      "text": "ταλαίπωρος ἐγὼ",
+      "highlightedWord": "ταλαίπωρος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "ὁ ταλαίπωρος καὶ",
+      "highlightedWord": "ταλαίπωρος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

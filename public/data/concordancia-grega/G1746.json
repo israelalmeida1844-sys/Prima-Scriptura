@@ -1,0 +1,235 @@
+{
+  "strong": "G1746",
+  "lemma": "ἐνδύω",
+  "lemmaTranslit": "endyō",
+  "tokenCount": 28,
+  "verseCount": 26,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 3,
+    "Lucas": 4,
+    "Atos": 1,
+    "Romanos": 2,
+    "1 Coríntios": 4,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "Efésios": 3,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Mt 6:25",
+      "text": "τί ἐνδύσησθε· οὐχὶ",
+      "highlightedWord": "ἐνδύσησθε·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Mt 22:11",
+      "text": "οὐκ ἐνδεδυμένον ἔνδυμα",
+      "highlightedWord": "ἐνδεδυμένον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 31,
+      "reference": "Mt 27:31",
+      "text": "καὶ ἐνέδυσαν αὐτὸν",
+      "highlightedWord": "ἐνέδυσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Mk 1:6",
+      "text": "Ἰωάννης ἐνδεδυμένος τρίχας",
+      "highlightedWord": "ἐνδεδυμένος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Mk 6:9",
+      "text": "μὴ ἐνδύσησθε δύο",
+      "highlightedWord": "ἐνδύσησθε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Mk 15:20",
+      "text": "καὶ ἐνέδυσαν αὐτὸν",
+      "highlightedWord": "ἐνέδυσαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Lk 8:27",
+      "text": "οὐκ ἐνεδύσατο ἱμάτιον,",
+      "highlightedWord": "ἐνεδύσατο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Lk 12:22",
+      "text": "τί ἐνδύσησθε.",
+      "highlightedWord": "ἐνδύσησθε."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Lk 15:22",
+      "text": "καὶ ἐνδύσατε αὐτόν,",
+      "highlightedWord": "ἐνδύσατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 49,
+      "reference": "Lk 24:49",
+      "text": "οὗ ἐνδύσησθε ἐξ",
+      "highlightedWord": "ἐνδύσησθε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Ac 12:21",
+      "text": "Ἡρῴδης ἐνδυσάμενος ἐσθῆτα",
+      "highlightedWord": "ἐνδυσάμενος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Ro 13:12",
+      "text": "σκότους, ἐνδυσώμεθα δὲ",
+      "highlightedWord": "ἐνδυσώμεθα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Ro 13:14",
+      "text": "ἀλλὰ ἐνδύσασθε τὸν",
+      "highlightedWord": "ἐνδύσασθε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 53,
+      "reference": "1Co 15:53",
+      "text": "τοῦτο ἐνδύσασθαι ἀφθαρσίαν",
+      "highlightedWord": "ἐνδύσασθαι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 54,
+      "reference": "1Co 15:54",
+      "text": "τοῦτο ἐνδύσηται ἀφθαρσίαν",
+      "highlightedWord": "ἐνδύσηται"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "2Co 5:3",
+      "text": "καὶ ἐνδυσάμενοι οὐ",
+      "highlightedWord": "ἐνδυσάμενοι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Ga 3:27",
+      "text": "Χριστὸν ἐνεδύσασθε·",
+      "highlightedWord": "ἐνεδύσασθε·"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Eph 4:24",
+      "text": "καὶ ἐνδύσασθαι τὸν",
+      "highlightedWord": "ἐνδύσασθαι"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Eph 6:11",
+      "text": "ἐνδύσασθε τὴν",
+      "highlightedWord": "ἐνδύσασθε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Eph 6:14",
+      "text": "καὶ ἐνδυσάμενοι τὸν",
+      "highlightedWord": "ἐνδυσάμενοι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Col 3:10",
+      "text": "καὶ ἐνδυσάμενοι τὸν",
+      "highlightedWord": "ἐνδυσάμενοι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Col 3:12",
+      "text": "Ἐνδύσασθε οὖν",
+      "highlightedWord": "Ἐνδύσασθε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Th 5:8",
+      "text": "νήφωμεν, ἐνδυσάμενοι θώρακα",
+      "highlightedWord": "ἐνδυσάμενοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "ἀνθρώπου, ἐνδεδυμένον ποδήρη",
+      "highlightedWord": "ἐνδεδυμένον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Re 15:6",
+      "text": "ναοῦ, ἐνδεδυμένοι λίνον",
+      "highlightedWord": "ἐνδεδυμένοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Re 19:14",
+      "text": "λευκοῖς, ἐνδεδυμένοι βύσσινον",
+      "highlightedWord": "ἐνδεδυμένοι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

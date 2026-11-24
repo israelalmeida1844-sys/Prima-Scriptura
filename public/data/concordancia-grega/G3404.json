@@ -1,0 +1,314 @@
+{
+  "strong": "G3404",
+  "lemma": "μισέω",
+  "lemmaTranslit": "miseō",
+  "tokenCount": 40,
+  "verseCount": 36,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 1,
+    "Lucas": 7,
+    "João": 12,
+    "Romanos": 2,
+    "Efésios": 1,
+    "Tito": 1,
+    "Hebreus": 1,
+    "1 João": 5,
+    "Judas": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Mt 5:43",
+      "text": "καὶ μισήσεις τὸν",
+      "highlightedWord": "μισήσεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Mt 6:24",
+      "text": "ἕνα μισήσει καὶ",
+      "highlightedWord": "μισήσει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Mt 10:22",
+      "text": "ἔσεσθε μισούμενοι ὑπὸ",
+      "highlightedWord": "μισούμενοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Mt 24:9",
+      "text": "ἔσεσθε μισούμενοι ὑπὸ",
+      "highlightedWord": "μισούμενοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 10,
+      "reference": "Mt 24:10",
+      "text": "καὶ μισήσουσιν ἀλλήλους·",
+      "highlightedWord": "μισήσουσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Mk 13:13",
+      "text": "ἔσεσθε μισούμενοι ὑπὸ",
+      "highlightedWord": "μισούμενοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 71,
+      "reference": "Lk 1:71",
+      "text": "τῶν μισούντων ἡμᾶς,",
+      "highlightedWord": "μισούντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Lk 6:22",
+      "text": "ὅταν μισήσωσιν ὑμᾶς",
+      "highlightedWord": "μισήσωσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Lk 6:27",
+      "text": "τοῖς μισοῦσιν ὑμᾶς,",
+      "highlightedWord": "μισοῦσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "οὐ μισεῖ τὸν",
+      "highlightedWord": "μισεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Lk 16:13",
+      "text": "ἕνα μισήσει καὶ",
+      "highlightedWord": "μισήσει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Lk 19:14",
+      "text": "αὐτοῦ ἐμίσουν αὐτόν,",
+      "highlightedWord": "ἐμίσουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Lk 21:17",
+      "text": "ἔσεσθε μισούμενοι ὑπὸ",
+      "highlightedWord": "μισούμενοι"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Jn 3:20",
+      "text": "πράσσων μισεῖ τὸ",
+      "highlightedWord": "μισεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Jn 7:7",
+      "text": "κόσμος μισεῖν ὑμᾶς,",
+      "highlightedWord": "μισεῖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Jn 12:25",
+      "text": "ὁ μισῶν τὴν",
+      "highlightedWord": "μισῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Jn 15:18",
+      "text": "ὑμᾶς μισεῖ, γινώσκετε",
+      "highlightedWord": "μισεῖ,"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Jn 15:19",
+      "text": "τοῦτο μισεῖ ὑμᾶς",
+      "highlightedWord": "μισεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Jn 15:23",
+      "text": "ἐμὲ μισῶν καὶ",
+      "highlightedWord": "μισῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Jn 15:24",
+      "text": "καὶ μεμισήκασιν καὶ",
+      "highlightedWord": "μεμισήκασιν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Jn 15:25",
+      "text": "ὅτι Ἐμίσησάν με",
+      "highlightedWord": "Ἐμίσησάν"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 14,
+      "reference": "Jn 17:14",
+      "text": "κόσμος ἐμίσησεν αὐτούς,",
+      "highlightedWord": "ἐμίσησεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Ro 7:15",
+      "text": "ὃ μισῶ τοῦτο",
+      "highlightedWord": "μισῶ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Ro 9:13",
+      "text": "Ἠσαῦ ἐμίσησα.",
+      "highlightedWord": "ἐμίσησα."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Eph 5:29",
+      "text": "σάρκα ἐμίσησεν, ἀλλὰ",
+      "highlightedWord": "ἐμίσησεν,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Tit 3:3",
+      "text": "στυγητοί, μισοῦντες ἀλλήλους.",
+      "highlightedWord": "μισοῦντες"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Heb 1:9",
+      "text": "καὶ ἐμίσησας ἀνομίαν·",
+      "highlightedWord": "ἐμίσησας"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Jn 2:9",
+      "text": "αὐτοῦ μισῶν ἐν",
+      "highlightedWord": "μισῶν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Jn 2:11",
+      "text": "δὲ μισῶν τὸν",
+      "highlightedWord": "μισῶν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Jn 3:13",
+      "text": "εἰ μισεῖ ὑμᾶς",
+      "highlightedWord": "μισεῖ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Jn 3:15",
+      "text": "ὁ μισῶν τὸν",
+      "highlightedWord": "μισῶν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "1Jn 4:20",
+      "text": "αὐτοῦ μισῇ, ψεύστης",
+      "highlightedWord": "μισῇ,"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Jud 1:23",
+      "text": "φόβῳ, μισοῦντες καὶ",
+      "highlightedWord": "μισοῦντες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Re 2:6",
+      "text": "ὅτι μισεῖς τὰ",
+      "highlightedWord": "μισεῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Re 17:16",
+      "text": "οὗτοι μισήσουσι τὴν",
+      "highlightedWord": "μισήσουσι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Re 18:2",
+      "text": "καὶ μεμισημένου,",
+      "highlightedWord": "μεμισημένου,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

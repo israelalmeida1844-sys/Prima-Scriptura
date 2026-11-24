@@ -1,0 +1,394 @@
+{
+  "strong": "G2556",
+  "lemma": "κακός",
+  "lemmaTranslit": "kakos",
+  "tokenCount": 50,
+  "verseCount": 45,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 2,
+    "Lucas": 2,
+    "João": 2,
+    "Atos": 4,
+    "Romanos": 15,
+    "1 Coríntios": 3,
+    "2 Coríntios": 1,
+    "Filipenses": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 2,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 1,
+    "Tiago": 2,
+    "1 Pedro": 5,
+    "3 João": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 41,
+      "reference": "Mt 21:41",
+      "text": "αὐτῷ· Κακοὺς κακῶς",
+      "highlightedWord": "Κακοὺς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 48,
+      "reference": "Mt 24:48",
+      "text": "ὁ κακὸς δοῦλος",
+      "highlightedWord": "κακὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 23,
+      "reference": "Mt 27:23",
+      "text": "γὰρ κακὸν ἐποίησεν;",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mk 7:21",
+      "text": "οἱ κακοὶ ἐκπορεύονται,",
+      "highlightedWord": "κακοὶ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Mk 15:14",
+      "text": "ἐποίησεν κακόν; οἱ",
+      "highlightedWord": "κακόν;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Lk 16:25",
+      "text": "τὰ κακά· νῦν",
+      "highlightedWord": "κακά·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Lk 23:22",
+      "text": "γὰρ κακὸν ἐποίησεν",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Jn 18:23",
+      "text": "τοῦ κακοῦ· εἰ",
+      "highlightedWord": "κακοῦ·"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Jn 18:30",
+      "text": "οὗτος κακὸν ποιῶν,",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Ac 9:13",
+      "text": "ὅσα κακὰ τοῖς",
+      "highlightedWord": "κακὰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Ac 16:28",
+      "text": "σεαυτῷ κακόν, ἅπαντες",
+      "highlightedWord": "κακόν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "Οὐδὲν κακὸν εὑρίσκομεν",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Ac 28:5",
+      "text": "οὐδὲν κακόν·",
+      "highlightedWord": "κακόν·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Ro 1:30",
+      "text": "ἐφευρετὰς κακῶν, γονεῦσιν",
+      "highlightedWord": "κακῶν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Ro 2:9",
+      "text": "τὸ κακόν, Ἰουδαίου",
+      "highlightedWord": "κακόν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Ro 3:8",
+      "text": "τὰ κακὰ ἵνα",
+      "highlightedWord": "κακὰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Ro 7:19",
+      "text": "θέλω κακὸν τοῦτο",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Ro 7:21",
+      "text": "τὸ κακὸν παράκειται·",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Ro 12:17",
+      "text": "μηδενὶ κακὸν ἀντὶ",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Ro 12:21",
+      "text": "τοῦ κακοῦ, ἀλλὰ",
+      "highlightedWord": "κακοῦ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ro 13:3",
+      "text": "τῷ κακῷ. θέλεις",
+      "highlightedWord": "κακῷ."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Ro 13:4",
+      "text": "τὸ κακὸν ποιῇς,",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Ro 13:10",
+      "text": "πλησίον κακὸν οὐκ",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Ro 14:20",
+      "text": "ἀλλὰ κακὸν τῷ",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Ro 16:19",
+      "text": "τὸ κακόν.",
+      "highlightedWord": "κακόν."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "1Co 10:6",
+      "text": "ἐπιθυμητὰς κακῶν, καθὼς",
+      "highlightedWord": "κακῶν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "1Co 13:5",
+      "text": "τὸ κακόν,",
+      "highlightedWord": "κακόν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 33,
+      "reference": "1Co 15:33",
+      "text": "ὁμιλίαι κακαί.",
+      "highlightedWord": "κακαί."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "2Co 13:7",
+      "text": "ὑμᾶς κακὸν μηδέν,",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Php 3:2",
+      "text": "τοὺς κακοὺς ἐργάτας,",
+      "highlightedWord": "κακοὺς"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Col 3:5",
+      "text": "ἐπιθυμίαν κακήν, καὶ",
+      "highlightedWord": "κακήν,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Th 5:15",
+      "text": "τις κακὸν ἀντὶ",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "1Ti 6:10",
+      "text": "τῶν κακῶν ἐστιν",
+      "highlightedWord": "κακῶν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "2Ti 4:14",
+      "text": "μοι κακὰ ἐνεδείξατο—",
+      "highlightedWord": "κακὰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Tit 1:12",
+      "text": "ψεῦσται, κακὰ θηρία,",
+      "highlightedWord": "κακὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Heb 5:14",
+      "text": "καὶ κακοῦ.",
+      "highlightedWord": "κακοῦ."
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jas 1:13",
+      "text": "ἐστιν κακῶν, πειράζει",
+      "highlightedWord": "κακῶν,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jas 3:8",
+      "text": "ἀκατάστατον κακόν, μεστὴ",
+      "highlightedWord": "κακόν,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "1Pe 3:9",
+      "text": "ἀποδιδόντες κακὸν ἀντὶ",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Pe 3:10",
+      "text": "ἀπὸ κακοῦ καὶ",
+      "highlightedWord": "κακοῦ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Pe 3:11",
+      "text": "ἀπὸ κακοῦ καὶ",
+      "highlightedWord": "κακοῦ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Pe 3:12",
+      "text": "ποιοῦντας κακά.",
+      "highlightedWord": "κακά."
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "3Jn 1:11",
+      "text": "τὸ κακὸν ἀλλὰ",
+      "highlightedWord": "κακὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "βαστάσαι κακούς, καὶ",
+      "highlightedWord": "κακούς,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Re 16:2",
+      "text": "ἕλκος κακὸν καὶ",
+      "highlightedWord": "κακὸν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

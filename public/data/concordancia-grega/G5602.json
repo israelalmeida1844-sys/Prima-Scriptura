@@ -1,0 +1,497 @@
+{
+  "strong": "G5602",
+  "lemma": "ὧδε",
+  "lemmaTranslit": "hōde",
+  "tokenCount": 61,
+  "verseCount": 59,
+  "bookDistribution": {
+    "Mateus": 18,
+    "Marcos": 10,
+    "Lucas": 15,
+    "João": 5,
+    "Atos": 2,
+    "1 Coríntios": 1,
+    "Colossenses": 1,
+    "Hebreus": 2,
+    "Tiago": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Mt 8:29",
+      "text": "ἦλθες ὧδε πρὸ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Mt 12:6",
+      "text": "ἐστιν ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 41,
+      "reference": "Mt 12:41",
+      "text": "Ἰωνᾶ ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Mt 12:42",
+      "text": "Σολομῶνος ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Mt 14:8",
+      "text": "φησίν, ὧδε ἐπὶ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Mt 14:17",
+      "text": "ἔχομεν ὧδε εἰ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Mt 14:18",
+      "text": "μοι ὧδε αὐτούς.",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Mt 16:28",
+      "text": "τῶν ὧδε ἑστώτων",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Mt 17:4",
+      "text": "ἡμᾶς ὧδε εἶναι·",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Mt 17:17",
+      "text": "αὐτὸν ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Mt 20:6",
+      "text": "Τί ὧδε ἑστήκατε",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 12,
+      "reference": "Mt 22:12",
+      "text": "εἰσῆλθες ὧδε μὴ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Mt 24:2",
+      "text": "ἀφεθῇ ὧδε λίθος",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Mt 24:23",
+      "text": "Ἰδοὺ ὧδε ὁ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 38,
+      "reference": "Mt 26:38",
+      "text": "μείνατε ὧδε καὶ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 6,
+      "reference": "Mt 28:6",
+      "text": "ἔστιν ὧδε, ἠγέρθη",
+      "highlightedWord": "ὧδε,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Mk 6:3",
+      "text": "αὐτοῦ ὧδε πρὸς",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Mk 8:4",
+      "text": "τις ὧδε χορτάσαι",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Mk 9:1",
+      "text": "τῶν ὧδε ἑστηκότων",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Mk 9:5",
+      "text": "ἡμᾶς ὧδε εἶναι,",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Mk 11:3",
+      "text": "πάλιν ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mk 13:2",
+      "text": "ἀφεθῇ ὧδε λίθος",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Mk 13:21",
+      "text": "Ἴδε ὧδε ὁ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 32,
+      "reference": "Mk 14:32",
+      "text": "Καθίσατε ὧδε ἕως",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 34,
+      "reference": "Mk 14:34",
+      "text": "μείνατε ὧδε καὶ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Mk 16:6",
+      "text": "ἔστιν ὧδε· ἴδε",
+      "highlightedWord": "ὧδε·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Lk 4:23",
+      "text": "καὶ ὧδε ἐν",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Lk 9:12",
+      "text": "ὅτι ὧδε ἐν",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Lk 9:33",
+      "text": "ἡμᾶς ὧδε εἶναι,",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Lk 9:41",
+      "text": "προσάγαγε ὧδε τὸν",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Lk 11:31",
+      "text": "Σολομῶνος ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Lk 11:32",
+      "text": "Ἰωνᾶ ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Lk 14:21",
+      "text": "εἰσάγαγε ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Lk 15:17",
+      "text": "λιμῷ ὧδε ἀπόλλυμαι·",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Lk 16:25",
+      "text": "δὲ ὧδε παρακαλεῖται",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 21,
+      "reference": "Lk 17:21",
+      "text": "Ἰδοὺ ὧδε ἤ·",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Lk 17:23",
+      "text": "Ἰδοὺ ὧδε· μὴ",
+      "highlightedWord": "ὧδε·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Lk 19:27",
+      "text": "ἀγάγετε ὧδε καὶ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 38,
+      "reference": "Lk 22:38",
+      "text": "μάχαιραι ὧδε δύο.",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 5,
+      "reference": "Lk 23:5",
+      "text": "ἕως ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Lk 24:6",
+      "text": "ἔστιν ὧδε, ἀλλὰ",
+      "highlightedWord": "ὧδε,"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Jn 6:9",
+      "text": "παιδάριον ὧδε ὃς",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Jn 6:25",
+      "text": "πότε ὧδε γέγονας;",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Jn 11:21",
+      "text": "ἦς ὧδε οὐκ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "ἦς ὧδε οὐκ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Jn 20:27",
+      "text": "σου ὧδε καὶ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ac 9:14",
+      "text": "καὶ ὧδε ἔχει",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ac 9:21",
+      "text": "καὶ ὧδε εἰς",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Co 4:2",
+      "text": "ὧδε λοιπὸν",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Col 4:9",
+      "text": "τὰ ὧδε.",
+      "highlightedWord": "ὧδε."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Heb 7:8",
+      "text": "καὶ ὧδε μὲν",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Heb 13:14",
+      "text": "ἔχομεν ὧδε μένουσαν",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Jas 2:3",
+      "text": "κάθου ὧδε καλῶς,",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "Ἀνάβα ὧδε, καὶ",
+      "highlightedWord": "ὧδε,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Re 11:12",
+      "text": "Ἀνάβατε ὧδε, καὶ",
+      "highlightedWord": "ὧδε,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Re 13:10",
+      "text": "ἀποκτανθῆναι. ὧδέ ἐστιν",
+      "highlightedWord": "ὧδέ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Re 13:18",
+      "text": "ὧδε ἡ",
+      "highlightedWord": "ὧδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Re 14:12",
+      "text": "Ὧδε ἡ",
+      "highlightedWord": "Ὧδε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 9,
+      "reference": "Re 17:9",
+      "text": "Ὧδε ὁ",
+      "highlightedWord": "Ὧδε"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

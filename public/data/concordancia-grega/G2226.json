@@ -1,0 +1,179 @@
+{
+  "strong": "G2226",
+  "lemma": "ζῷον",
+  "lemmaTranslit": "zōon",
+  "tokenCount": 23,
+  "verseCount": 20,
+  "bookDistribution": {
+    "Hebreus": 1,
+    "2 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 20
+  },
+  "references": [
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Heb 13:11",
+      "text": "εἰσφέρεται ζῴων τὸ",
+      "highlightedWord": "ζῴων"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Pe 2:12",
+      "text": "ἄλογα ζῷα γεγεννημένα",
+      "highlightedWord": "ζῷα"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Jud 1:10",
+      "text": "ἄλογα ζῷα ἐπίστανται,",
+      "highlightedWord": "ζῷα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "τέσσαρα ζῷα γέμοντα",
+      "highlightedWord": "ζῷα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "τὸ ζῷον τὸ",
+      "highlightedWord": "ζῷον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "τέσσαρα ζῷα, ἓν",
+      "highlightedWord": "ζῷα,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Re 4:9",
+      "text": "τὰ ζῷα δόξαν",
+      "highlightedWord": "ζῷα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Re 5:6",
+      "text": "τεσσάρων ζῴων καὶ",
+      "highlightedWord": "ζῴων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "τέσσαρα ζῷα καὶ",
+      "highlightedWord": "ζῷα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Re 5:11",
+      "text": "τῶν ζῴων καὶ",
+      "highlightedWord": "ζῴων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Re 5:14",
+      "text": "τέσσαρα ζῷα ἔλεγον·",
+      "highlightedWord": "ζῷα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Re 6:1",
+      "text": "τεσσάρων ζῴων λέγοντος",
+      "highlightedWord": "ζῴων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Re 6:3",
+      "text": "δευτέρου ζῴου λέγοντος·",
+      "highlightedWord": "ζῴου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Re 6:5",
+      "text": "τρίτου ζῴου λέγοντος·",
+      "highlightedWord": "ζῴου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Re 6:6",
+      "text": "τεσσάρων ζῴων λέγουσαν·",
+      "highlightedWord": "ζῴων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Re 6:7",
+      "text": "τετάρτου ζῴου λέγοντος·",
+      "highlightedWord": "ζῴου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Re 7:11",
+      "text": "τεσσάρων ζῴων, καὶ",
+      "highlightedWord": "ζῴων,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Re 14:3",
+      "text": "τεσσάρων ζῴων καὶ",
+      "highlightedWord": "ζῴων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Re 15:7",
+      "text": "τεσσάρων ζῴων ἔδωκεν",
+      "highlightedWord": "ζῴων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Re 19:4",
+      "text": "τέσσαρα ζῷα, καὶ",
+      "highlightedWord": "ζῷα,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

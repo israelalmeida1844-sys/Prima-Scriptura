@@ -1,0 +1,99 @@
+{
+  "strong": "G86",
+  "lemma": "ᾅδης",
+  "lemmaTranslit": "hadēs",
+  "tokenCount": 10,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Lucas": 2,
+    "Atos": 2,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mt 11:23",
+      "text": "ἕως ᾅδου καταβήσῃ·",
+      "highlightedWord": "ᾅδου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Mt 16:18",
+      "text": "πύλαι ᾅδου οὐ",
+      "highlightedWord": "ᾅδου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Lk 10:15",
+      "text": "τοῦ ᾅδου καταβιβασθήσῃ.",
+      "highlightedWord": "ᾅδου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Lk 16:23",
+      "text": "τῷ ᾅδῃ ἐπάρας",
+      "highlightedWord": "ᾅδῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Ac 2:27",
+      "text": "εἰς ᾅδην, οὐδὲ",
+      "highlightedWord": "ᾅδην,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 31,
+      "reference": "Ac 2:31",
+      "text": "εἰς ᾅδην οὔτε",
+      "highlightedWord": "ᾅδην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Re 1:18",
+      "text": "τοῦ ᾅδου.",
+      "highlightedWord": "ᾅδου."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Re 6:8",
+      "text": "ὁ ᾅδης ἠκολούθει",
+      "highlightedWord": "ᾅδης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Re 20:13",
+      "text": "ὁ ᾅδης ἔδωκαν",
+      "highlightedWord": "ᾅδης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Re 20:14",
+      "text": "ὁ ᾅδης ἐβλήθησαν",
+      "highlightedWord": "ᾅδης"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

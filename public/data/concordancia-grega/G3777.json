@@ -1,0 +1,339 @@
+{
+  "strong": "G3777",
+  "lemma": "οὔτε",
+  "lemmaTranslit": "oute",
+  "tokenCount": 87,
+  "verseCount": 39,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 4,
+    "Lucas": 4,
+    "João": 9,
+    "Atos": 14,
+    "Romanos": 10,
+    "1 Coríntios": 13,
+    "Gálatas": 5,
+    "1 Tessalonicenses": 5,
+    "Tiago": 1,
+    "3 João": 1,
+    "Apocalipse": 15
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Mt 6:20",
+      "text": "ὅπου οὔτε σὴς",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mt 12:32",
+      "text": "αὐτῷ οὔτε ἐν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 30,
+      "reference": "Mt 22:30",
+      "text": "ἀναστάσει οὔτε γαμοῦσιν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Mk 12:25",
+      "text": "ἀναστῶσιν, οὔτε γαμοῦσιν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 68,
+      "reference": "Mk 14:68",
+      "text": "λέγων· Οὔτε οἶδα",
+      "highlightedWord": "Οὔτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Lk 14:35",
+      "text": "οὔτε εἰς",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 35,
+      "reference": "Lk 20:35",
+      "text": "νεκρῶν οὔτε γαμοῦσιν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "Κύριε, οὔτε ἄντλημα",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Jn 4:21",
+      "text": "ὅτε οὔτε ἐν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Jn 5:37",
+      "text": "ἐμοῦ. οὔτε φωνὴν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Jn 8:19",
+      "text": "Ἰησοῦς· Οὔτε ἐμὲ",
+      "highlightedWord": "Οὔτε"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Jn 9:3",
+      "text": "Ἰησοῦς· Οὔτε οὗτος",
+      "highlightedWord": "Οὔτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 31,
+      "reference": "Ac 2:31",
+      "text": "ὅτι οὔτε ἐγκατελείφθη",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Ac 15:10",
+      "text": "ὃν οὔτε οἱ",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 37,
+      "reference": "Ac 19:37",
+      "text": "τούτους οὔτε ἱεροσύλους",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Ac 24:12",
+      "text": "καὶ οὔτε ἐν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 8,
+      "reference": "Ac 25:8",
+      "text": "ὅτι Οὔτε εἰς",
+      "highlightedWord": "Οὔτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 21,
+      "reference": "Ac 28:21",
+      "text": "Ἡμεῖς οὔτε γράμματα",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ro 8:38",
+      "text": "ὅτι οὔτε θάνατος",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Ro 8:39",
+      "text": "οὔτε ὕψωμα",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Co 3:7",
+      "text": "ὥστε οὔτε ὁ",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Co 6:9",
+      "text": "πλανᾶσθε· οὔτε πόρνοι",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "1Co 6:10",
+      "text": "οὔτε κλέπται",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "1Co 8:8",
+      "text": "θεῷ· οὔτε γὰρ",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "1Co 11:11",
+      "text": "πλὴν οὔτε γυνὴ",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Ga 1:12",
+      "text": "αὐτό, οὔτε ἐδιδάχθην,",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Ga 5:6",
+      "text": "Ἰησοῦ οὔτε περιτομή",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Ga 6:15",
+      "text": "οὔτε γὰρ",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Th 2:5",
+      "text": "οὔτε γάρ",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Th 2:6",
+      "text": "οὔτε ζητοῦντες",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Jas 3:12",
+      "text": "σῦκα; οὔτε ἁλυκὸν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "3Jn 1:10",
+      "text": "τούτοις οὔτε αὐτὸς",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Re 3:15",
+      "text": "ὅτι οὔτε ψυχρὸς",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Re 3:16",
+      "text": "καὶ οὔτε ζεστὸς",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Re 5:3",
+      "text": "βιβλίον οὔτε βλέπειν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Re 5:4",
+      "text": "βιβλίον οὔτε βλέπειν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "ἃ οὔτε βλέπειν",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Re 9:21",
+      "text": "αὐτῶν οὔτε ἐκ",
+      "highlightedWord": "οὔτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Re 21:4",
+      "text": "ἔτι· οὔτε πένθος",
+      "highlightedWord": "οὔτε"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

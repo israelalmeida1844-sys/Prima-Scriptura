@@ -1,0 +1,42 @@
+{
+  "strong": "G602",
+  "lemma": "ἀποκάλυψις",
+  "lemmaTranslit": "apokalypsis",
+  "tokenCount": 17,
+  "verseCount": 17,
+  "bookDistribution": {
+    "Lc": 1,
+    "Rm": 2,
+    "1Co": 3,
+    "2Co": 2,
+    "Gl": 2,
+    "Ef": 2,
+    "2Ts": 1,
+    "1Pe": 3,
+    "Ap": 1
+  },
+  "references": [
+    "Lc 2:32",
+    "Rm 2:5",
+    "Rm 8:19",
+    "1Co 1:7",
+    "1Co 14:6",
+    "1Co 14:26",
+    "2Co 12:1",
+    "2Co 12:7",
+    "Gl 1:12",
+    "Gl 2:2",
+    "Ef 1:17",
+    "Ef 3:3",
+    "2Ts 1:7",
+    "1Pe 1:7",
+    "1Pe 1:13",
+    "1Pe 4:13",
+    "Ap 1:1"
+  ],
+  "complete": true,
+  "source": "SBL Greek New Testament / MorphGNT",
+  "sourceVersion": "6.12",
+  "license": "CC BY-SA 3.0 / CC BY 4.0",
+  "attribution": "MorphGNT (James K. Tauber) e SBL Greek New Testament"
+}

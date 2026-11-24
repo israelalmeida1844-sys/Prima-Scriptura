@@ -1,0 +1,66 @@
+{
+  "strong": "G3448",
+  "lemma": "μόσχος",
+  "lemmaTranslit": "moschos",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Lucas": 3,
+    "Hebreus": 2,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Lk 15:23",
+      "text": "τὸν μόσχον τὸν",
+      "highlightedWord": "μόσχον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Lk 15:27",
+      "text": "τὸν μόσχον τὸν",
+      "highlightedWord": "μόσχον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Lk 15:30",
+      "text": "σιτευτὸν μόσχον.",
+      "highlightedWord": "μόσχον."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Heb 9:12",
+      "text": "καὶ μόσχων διὰ",
+      "highlightedWord": "μόσχων"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Heb 9:19",
+      "text": "τῶν μόσχων μετὰ",
+      "highlightedWord": "μόσχων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "ὅμοιον μόσχῳ, καὶ",
+      "highlightedWord": "μόσχῳ,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

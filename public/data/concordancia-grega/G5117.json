@@ -1,0 +1,741 @@
+{
+  "strong": "G5117",
+  "lemma": "τόπος",
+  "lemmaTranslit": "topos",
+  "tokenCount": 94,
+  "verseCount": 89,
+  "bookDistribution": {
+    "Mateus": 10,
+    "Marcos": 10,
+    "Lucas": 19,
+    "João": 16,
+    "Atos": 18,
+    "Romanos": 3,
+    "1 Coríntios": 2,
+    "2 Coríntios": 1,
+    "Efésios": 1,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 1,
+    "Hebreus": 3,
+    "2 Pedro": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mt 12:43",
+      "text": "ἀνύδρων τόπων ζητοῦν",
+      "highlightedWord": "τόπων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Mt 14:13",
+      "text": "ἔρημον τόπον κατ’",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Mt 14:15",
+      "text": "ὁ τόπος καὶ",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mt 14:35",
+      "text": "τοῦ τόπου ἐκείνου",
+      "highlightedWord": "τόπου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 7,
+      "reference": "Mt 24:7",
+      "text": "κατὰ τόπους·",
+      "highlightedWord": "τόπους·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 15,
+      "reference": "Mt 24:15",
+      "text": "ἐν τόπῳ ἁγίῳ,",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 52,
+      "reference": "Mt 26:52",
+      "text": "τὸν τόπον αὐτῆς,",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 33,
+      "reference": "Mt 27:33",
+      "text": "εἰς τόπον λεγόμενον",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 6,
+      "reference": "Mt 28:6",
+      "text": "τὸν τόπον ὅπου",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Mk 1:35",
+      "text": "ἔρημον τόπον κἀκεῖ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Mk 1:45",
+      "text": "ἐρήμοις τόποις ἦν·",
+      "highlightedWord": "τόποις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Mk 6:11",
+      "text": "ἂν τόπος μὴ",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mk 6:31",
+      "text": "ἔρημον τόπον καὶ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Mk 6:32",
+      "text": "ἔρημον τόπον κατ’",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Mk 6:35",
+      "text": "ὁ τόπος, καὶ",
+      "highlightedWord": "τόπος,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Mk 13:8",
+      "text": "κατὰ τόπους, ⸁ἔσονται",
+      "highlightedWord": "τόπους,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Mk 15:22",
+      "text": "Γολγοθᾶν τόπον, ὅ",
+      "highlightedWord": "τόπον,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Mk 16:6",
+      "text": "ὁ τόπος ὅπου",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Lk 2:7",
+      "text": "αὐτοῖς τόπος ἐν",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Lk 4:17",
+      "text": "τὸν τόπον οὗ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 37,
+      "reference": "Lk 4:37",
+      "text": "πάντα τόπον τῆς",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 42,
+      "reference": "Lk 4:42",
+      "text": "ἔρημον τόπον· καὶ",
+      "highlightedWord": "τόπον·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Lk 6:17",
+      "text": "ἐπὶ τόπου πεδινοῦ,",
+      "highlightedWord": "τόπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Lk 9:12",
+      "text": "ἐρήμῳ τόπῳ ἐσμέν.",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Lk 10:1",
+      "text": "καὶ τόπον οὗ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Lk 10:32",
+      "text": "τὸν τόπον ἐλθὼν",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Lk 11:1",
+      "text": "ἐν τόπῳ τινὶ",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Lk 11:24",
+      "text": "ἀνύδρων τόπων ζητοῦν",
+      "highlightedWord": "τόπων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Lk 14:9",
+      "text": "τούτῳ τόπον, καὶ",
+      "highlightedWord": "τόπον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Lk 14:10",
+      "text": "ἔσχατον τόπον, ἵνα",
+      "highlightedWord": "τόπον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 22,
+      "reference": "Lk 14:22",
+      "text": "ἔτι τόπος ἐστίν.",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Lk 16:28",
+      "text": "τὸν τόπον τοῦτον",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Lk 19:5",
+      "text": "τὸν τόπον, ἀναβλέψας",
+      "highlightedWord": "τόπον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Lk 21:11",
+      "text": "κατὰ τόπους λιμοὶ",
+      "highlightedWord": "τόπους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 40,
+      "reference": "Lk 22:40",
+      "text": "τοῦ τόπου εἶπεν",
+      "highlightedWord": "τόπου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 33,
+      "reference": "Lk 23:33",
+      "text": "τὸν τόπον τὸν",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Jn 4:20",
+      "text": "ὁ τόπος ὅπου",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Jn 5:13",
+      "text": "τῷ τόπῳ.",
+      "highlightedWord": "τόπῳ."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Jn 6:10",
+      "text": "τῷ τόπῳ. ἀνέπεσαν",
+      "highlightedWord": "τόπῳ."
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Jn 6:23",
+      "text": "τοῦ τόπου ὅπου",
+      "highlightedWord": "τόπου"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Jn 10:40",
+      "text": "τὸν τόπον ὅπου",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Jn 11:6",
+      "text": "ἦν τόπῳ δύο",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Jn 11:30",
+      "text": "τῷ τόπῳ ὅπου",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 48,
+      "reference": "Jn 11:48",
+      "text": "τὸν τόπον καὶ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Jn 14:2",
+      "text": "ἑτοιμάσαι τόπον ὑμῖν·",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Jn 14:3",
+      "text": "ἑτοιμάσω τόπον ὑμῖν,",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Jn 18:2",
+      "text": "τὸν τόπον, ὅτι",
+      "highlightedWord": "τόπον,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Jn 19:13",
+      "text": "εἰς τόπον λεγόμενον",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Jn 19:17",
+      "text": "Κρανίου Τόπον, ὃ",
+      "highlightedWord": "Τόπον,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Jn 19:20",
+      "text": "ὁ τόπος τῆς",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 41,
+      "reference": "Jn 19:41",
+      "text": "τῷ τόπῳ ὅπου",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Jn 20:7",
+      "text": "ἕνα τόπον·",
+      "highlightedWord": "τόπον·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Ac 1:25",
+      "text": "τὸν τόπον τῆς",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Ac 4:31",
+      "text": "ὁ τόπος ἐν",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Ac 6:13",
+      "text": "τοῦ τόπου τοῦ",
+      "highlightedWord": "τόπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Ac 6:14",
+      "text": "τὸν τόπον τοῦτον",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ac 7:7",
+      "text": "τῷ τόπῳ τούτῳ.",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Ac 7:33",
+      "text": "γὰρ τόπος ἐφ’",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 49,
+      "reference": "Ac 7:49",
+      "text": "τίς τόπος τῆς",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Ac 12:17",
+      "text": "ἕτερον τόπον.",
+      "highlightedWord": "τόπον."
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Ac 16:3",
+      "text": "τοῖς τόποις ἐκείνοις,",
+      "highlightedWord": "τόποις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Ac 21:28",
+      "text": "τοῦ τόπου τούτου",
+      "highlightedWord": "τόπου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Ac 25:16",
+      "text": "κατηγόρους τόπον τε",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 2,
+      "reference": "Ac 27:2",
+      "text": "Ἀσίαν τόπους ἀνήχθημεν",
+      "highlightedWord": "τόπους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 8,
+      "reference": "Ac 27:8",
+      "text": "εἰς τόπον τινὰ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 29,
+      "reference": "Ac 27:29",
+      "text": "τραχεῖς τόπους ἐκπέσωμεν",
+      "highlightedWord": "τόπους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 41,
+      "reference": "Ac 27:41",
+      "text": "εἰς τόπον διθάλασσον",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 7,
+      "reference": "Ac 28:7",
+      "text": "τὸν τόπον ἐκεῖνον",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ro 9:26",
+      "text": "τῷ τόπῳ οὗ",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Ro 12:19",
+      "text": "δότε τόπον τῇ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Ro 15:23",
+      "text": "μηκέτι τόπον ἔχων",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "1Co 1:2",
+      "text": "παντὶ τόπῳ αὐτῶν",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "1Co 14:16",
+      "text": "τὸν τόπον τοῦ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "2Co 2:14",
+      "text": "παντὶ τόπῳ·",
+      "highlightedWord": "τόπῳ·"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Eph 4:27",
+      "text": "δίδοτε τόπον τῷ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Th 1:8",
+      "text": "παντὶ τόπῳ ἡ",
+      "highlightedWord": "τόπῳ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Ti 2:8",
+      "text": "παντὶ τόπῳ, ἐπαίροντας",
+      "highlightedWord": "τόπῳ,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Heb 8:7",
+      "text": "ἐζητεῖτο τόπος·",
+      "highlightedWord": "τόπος·"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Heb 11:8",
+      "text": "εἰς τόπον ὃν",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Heb 12:17",
+      "text": "γὰρ τόπον οὐχ",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "2Pe 1:19",
+      "text": "αὐχμηρῷ τόπῳ, ἕως",
+      "highlightedWord": "τόπῳ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "τοῦ τόπου αὐτῆς,",
+      "highlightedWord": "τόπου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Re 6:14",
+      "text": "τῶν τόπων αὐτῶν",
+      "highlightedWord": "τόπων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Re 12:6",
+      "text": "ἐκεῖ τόπον ἡτοιμασμένον",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Re 12:8",
+      "text": "οὐδὲ τόπος εὑρέθη",
+      "highlightedWord": "τόπος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "τὸν τόπον αὐτῆς,",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Re 16:16",
+      "text": "τὸν τόπον τὸν",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Re 18:17",
+      "text": "ἐπὶ τόπον πλέων,",
+      "highlightedWord": "τόπον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Re 20:11",
+      "text": "καὶ τόπος οὐχ",
+      "highlightedWord": "τόπος"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

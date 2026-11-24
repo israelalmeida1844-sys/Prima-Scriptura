@@ -1,0 +1,166 @@
+{
+  "strong": "G2928",
+  "lemma": "κρύπτω",
+  "lemmaTranslit": "kryptō",
+  "tokenCount": 19,
+  "verseCount": 18,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Lucas": 3,
+    "João": 3,
+    "Colossenses": 1,
+    "1 Timóteo": 1,
+    "Hebreus": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Mt 5:14",
+      "text": "πόλις κρυβῆναι ἐπάνω",
+      "highlightedWord": "κρυβῆναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mt 11:25",
+      "text": "ὅτι ἔκρυψας ταῦτα",
+      "highlightedWord": "ἔκρυψας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Mt 13:35",
+      "text": "ἐρεύξομαι κεκρυμμένα ἀπὸ",
+      "highlightedWord": "κεκρυμμένα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Mt 13:44",
+      "text": "θησαυρῷ κεκρυμμένῳ ἐν",
+      "highlightedWord": "κεκρυμμένῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 18,
+      "reference": "Mt 25:18",
+      "text": "καὶ ἔκρυψεν τὸ",
+      "highlightedWord": "ἔκρυψεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 25,
+      "reference": "Mt 25:25",
+      "text": "ἀπελθὼν ἔκρυψα τὸ",
+      "highlightedWord": "ἔκρυψα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Lk 13:21",
+      "text": "γυνὴ ἔκρυψεν εἰς",
+      "highlightedWord": "ἔκρυψεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 34,
+      "reference": "Lk 18:34",
+      "text": "τοῦτο κεκρυμμένον ἀπ’",
+      "highlightedWord": "κεκρυμμένον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Lk 19:42",
+      "text": "δὲ ἐκρύβη ἀπὸ",
+      "highlightedWord": "ἐκρύβη"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 59,
+      "reference": "Jn 8:59",
+      "text": "δὲ ἐκρύβη καὶ",
+      "highlightedWord": "ἐκρύβη"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Jn 12:36",
+      "text": "ἀπελθὼν ἐκρύβη ἀπ’",
+      "highlightedWord": "ἐκρύβη"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Jn 19:38",
+      "text": "Ἰησοῦ κεκρυμμένος δὲ",
+      "highlightedWord": "κεκρυμμένος"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Col 3:3",
+      "text": "ὑμῶν κέκρυπται σὺν",
+      "highlightedWord": "κέκρυπται"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "1Ti 5:25",
+      "text": "ἔχοντα κρυβῆναι οὐ",
+      "highlightedWord": "κρυβῆναι"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Heb 11:23",
+      "text": "γεννηθεὶς ἐκρύβη τρίμηνον",
+      "highlightedWord": "ἐκρύβη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "τοῦ κεκρυμμένου, καὶ",
+      "highlightedWord": "κεκρυμμένου,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Re 6:15",
+      "text": "ἐλεύθερος ἔκρυψαν ἑαυτοὺς",
+      "highlightedWord": "ἔκρυψαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Re 6:16",
+      "text": "καὶ κρύψατε ἡμᾶς",
+      "highlightedWord": "κρύψατε"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

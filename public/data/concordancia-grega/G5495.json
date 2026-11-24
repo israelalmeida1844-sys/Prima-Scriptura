@@ -1,0 +1,1380 @@
+{
+  "strong": "G5495",
+  "lemma": "χείρ",
+  "lemmaTranslit": "cheir",
+  "tokenCount": 176,
+  "verseCount": 168,
+  "bookDistribution": {
+    "Mateus": 24,
+    "Marcos": 25,
+    "Lucas": 26,
+    "João": 15,
+    "Atos": 45,
+    "Romanos": 1,
+    "1 Coríntios": 4,
+    "2 Coríntios": 1,
+    "Gálatas": 2,
+    "Efésios": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 3,
+    "2 Timóteo": 1,
+    "Filemom": 1,
+    "Hebreus": 5,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "1 João": 1,
+    "Apocalipse": 16
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Mt 3:12",
+      "text": "τῇ χειρὶ αὐτοῦ,",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mt 4:6",
+      "text": "ἐπὶ χειρῶν ἀροῦσίν",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "σου χεὶρ σκανδαλίζει",
+      "highlightedWord": "χεὶρ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Mt 8:3",
+      "text": "τὴν χεῖρα ἥψατο",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 15,
+      "reference": "Mt 8:15",
+      "text": "τῆς χειρὸς αὐτῆς,",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mt 9:18",
+      "text": "τὴν χεῖρά σου",
+      "highlightedWord": "χεῖρά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Mt 9:25",
+      "text": "τῆς χειρὸς αὐτῆς,",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Mt 12:10",
+      "text": "ἄνθρωπος χεῖρα ἔχων",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Mt 12:13",
+      "text": "τὴν χεῖρα· καὶ",
+      "highlightedWord": "χεῖρα·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 49,
+      "reference": "Mt 12:49",
+      "text": "τὴν χεῖρα αὐτοῦ",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Mt 14:31",
+      "text": "τὴν χεῖρα ἐπελάβετο",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Mt 15:2",
+      "text": "τὰς χεῖρας αὐτῶν",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Mt 15:20",
+      "text": "ἀνίπτοις χερσὶν φαγεῖν",
+      "highlightedWord": "χερσὶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Mt 17:22",
+      "text": "εἰς χεῖρας ἀνθρώπων,",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Mt 18:8",
+      "text": "ἡ χείρ σου",
+      "highlightedWord": "χείρ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Mt 19:13",
+      "text": "τὰς χεῖρας ἐπιθῇ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Mt 19:15",
+      "text": "τὰς χεῖρας αὐτοῖς",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Mt 22:13",
+      "text": "καὶ χεῖρας ἐκβάλετε",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 23,
+      "reference": "Mt 26:23",
+      "text": "τὴν χεῖρα ἐν",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 45,
+      "reference": "Mt 26:45",
+      "text": "εἰς χεῖρας ἁμαρτωλῶν.",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 50,
+      "reference": "Mt 26:50",
+      "text": "τὰς χεῖρας ἐπὶ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 51,
+      "reference": "Mt 26:51",
+      "text": "τὴν χεῖρα ἀπέσπασεν",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 24,
+      "reference": "Mt 27:24",
+      "text": "τὰς χεῖρας ἀπέναντι",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Mk 1:31",
+      "text": "τῆς χειρός· καὶ",
+      "highlightedWord": "χειρός·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 41,
+      "reference": "Mk 1:41",
+      "text": "τὴν χεῖρα αὐτοῦ",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Mk 3:1",
+      "text": "τὴν χεῖρα.",
+      "highlightedWord": "χεῖρα."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Mk 3:3",
+      "text": "τὴν χεῖρα ἔχοντι",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Mk 3:5",
+      "text": "τὴν χεῖρα· καὶ",
+      "highlightedWord": "χεῖρα·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mk 5:23",
+      "text": "τὰς χεῖρας αὐτῇ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Mk 5:41",
+      "text": "τῆς χειρὸς τοῦ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mk 6:2",
+      "text": "τῶν χειρῶν αὐτοῦ",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mk 6:5",
+      "text": "τὰς χεῖρας ἐθεράπευσεν·",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Mk 7:2",
+      "text": "κοιναῖς χερσίν, τοῦτ’",
+      "highlightedWord": "χερσίν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Mk 7:3",
+      "text": "τὰς χεῖρας οὐκ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Mk 7:5",
+      "text": "κοιναῖς χερσὶν ἐσθίουσιν",
+      "highlightedWord": "χερσὶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 32,
+      "reference": "Mk 7:32",
+      "text": "τὴν χεῖρα.",
+      "highlightedWord": "χεῖρα."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Mk 8:23",
+      "text": "τῆς χειρὸς τοῦ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Mk 8:25",
+      "text": "τὰς χεῖρας ἐπὶ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Mk 9:27",
+      "text": "τῆς χειρὸς αὐτοῦ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mk 9:31",
+      "text": "εἰς χεῖρας ἀνθρώπων,",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Mk 9:43",
+      "text": "ἡ χείρ σου,",
+      "highlightedWord": "χείρ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Mk 10:16",
+      "text": "τὰς χεῖρας ἐπ’",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 41,
+      "reference": "Mk 14:41",
+      "text": "τὰς χεῖρας τῶν",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 46,
+      "reference": "Mk 14:46",
+      "text": "τὰς χεῖρας αὐτῷ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Mk 16:18",
+      "text": "ἀρρώστους χεῖρας ἐπιθήσουσιν",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 66,
+      "reference": "Lk 1:66",
+      "text": "γὰρ χεὶρ κυρίου",
+      "highlightedWord": "χεὶρ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 71,
+      "reference": "Lk 1:71",
+      "text": "ἐκ χειρὸς πάντων",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 74,
+      "reference": "Lk 1:74",
+      "text": "ἐκ χειρὸς ἐχθρῶν",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Lk 3:17",
+      "text": "τῇ χειρὶ αὐτοῦ",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Lk 4:11",
+      "text": "Ἐπὶ χειρῶν ἀροῦσίν",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Lk 4:40",
+      "text": "τὰς χεῖρας ἐπιτιθεὶς",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Lk 5:13",
+      "text": "τὴν χεῖρα ἥψατο",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Lk 6:1",
+      "text": "ταῖς χερσίν.",
+      "highlightedWord": "χερσίν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Lk 6:6",
+      "text": "ἡ χεὶρ αὐτοῦ",
+      "highlightedWord": "χεὶρ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Lk 6:8",
+      "text": "τὴν χεῖρα· Ἔγειρε",
+      "highlightedWord": "χεῖρα·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Lk 6:10",
+      "text": "τὴν χεῖρά σου·",
+      "highlightedWord": "χεῖρά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 54,
+      "reference": "Lk 8:54",
+      "text": "τῆς χειρὸς αὐτῆς",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 44,
+      "reference": "Lk 9:44",
+      "text": "εἰς χεῖρας ἀνθρώπων.",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 62,
+      "reference": "Lk 9:62",
+      "text": "τὴν χεῖρα ἐπ’",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Lk 13:13",
+      "text": "τὰς χεῖρας· καὶ",
+      "highlightedWord": "χεῖρας·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Lk 15:22",
+      "text": "τὴν χεῖρα αὐτοῦ",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Lk 20:19",
+      "text": "τὰς χεῖρας ἐν",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Lk 21:12",
+      "text": "τὰς χεῖρας αὐτῶν",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 21,
+      "reference": "Lk 22:21",
+      "text": "ἡ χεὶρ τοῦ",
+      "highlightedWord": "χεὶρ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 53,
+      "reference": "Lk 22:53",
+      "text": "τὰς χεῖρας ἐπ’",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 46,
+      "reference": "Lk 23:46",
+      "text": "εἰς χεῖράς σου",
+      "highlightedWord": "χεῖράς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 7,
+      "reference": "Lk 24:7",
+      "text": "εἰς χεῖρας ἀνθρώπων",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 39,
+      "reference": "Lk 24:39",
+      "text": "τὰς χεῖράς μου",
+      "highlightedWord": "χεῖράς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 40,
+      "reference": "Lk 24:40",
+      "text": "τὰς χεῖρας καὶ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 50,
+      "reference": "Lk 24:50",
+      "text": "τὰς χεῖρας αὐτοῦ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 35,
+      "reference": "Jn 3:35",
+      "text": "τῇ χειρὶ αὐτοῦ.",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Jn 7:30",
+      "text": "τὴν χεῖρα, ὅτι",
+      "highlightedWord": "χεῖρα,"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Jn 7:44",
+      "text": "τὰς χεῖρας.",
+      "highlightedWord": "χεῖρας."
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Jn 10:28",
+      "text": "τῆς χειρός μου.",
+      "highlightedWord": "χειρός"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Jn 10:29",
+      "text": "τῆς χειρὸς τοῦ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Jn 10:39",
+      "text": "τῆς χειρὸς αὐτῶν.",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Jn 11:44",
+      "text": "τὰς χεῖρας κειρίαις,",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Jn 13:3",
+      "text": "τὰς χεῖρας, καὶ",
+      "highlightedWord": "χεῖρας,"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Jn 13:9",
+      "text": "τὰς χεῖρας καὶ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Jn 20:20",
+      "text": "τὰς χεῖρας καὶ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Jn 20:25",
+      "text": "ταῖς χερσὶν αὐτοῦ",
+      "highlightedWord": "χερσὶν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 27,
+      "reference": "Jn 20:27",
+      "text": "τὰς χεῖράς μου,",
+      "highlightedWord": "χεῖράς"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Jn 21:18",
+      "text": "τὰς χεῖράς σου,",
+      "highlightedWord": "χεῖράς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Ac 2:23",
+      "text": "διὰ χειρὸς ἀνόμων",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Ac 3:7",
+      "text": "δεξιᾶς χειρὸς ἤγειρεν",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Ac 4:3",
+      "text": "τὰς χεῖρας καὶ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Ac 4:28",
+      "text": "ἡ χείρ σου",
+      "highlightedWord": "χείρ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Ac 4:30",
+      "text": "τὴν χεῖρά σου",
+      "highlightedWord": "χεῖρά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Ac 5:12",
+      "text": "τῶν χειρῶν τῶν",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Ac 5:18",
+      "text": "τὰς χεῖρας ἐπὶ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Ac 6:6",
+      "text": "τὰς χεῖρας.",
+      "highlightedWord": "χεῖρας."
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Ac 7:25",
+      "text": "διὰ χειρὸς αὐτοῦ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Ac 7:35",
+      "text": "σὺν χειρὶ ἀγγέλου",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Ac 7:41",
+      "text": "τῶν χειρῶν αὐτῶν.",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 50,
+      "reference": "Ac 7:50",
+      "text": "ἡ χείρ μου",
+      "highlightedWord": "χείρ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Ac 8:17",
+      "text": "τὰς χεῖρας ἐπ’",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Ac 8:18",
+      "text": "τῶν χειρῶν τῶν",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Ac 8:19",
+      "text": "τὰς χεῖρας λαμβάνῃ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Ac 9:12",
+      "text": "αὐτῷ χεῖρας ὅπως",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Ac 9:17",
+      "text": "τὰς χεῖρας εἶπεν·",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Ac 9:41",
+      "text": "αὐτῇ χεῖρα ἀνέστησεν",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Ac 11:21",
+      "text": "ἦν χεὶρ κυρίου",
+      "highlightedWord": "χεὶρ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Ac 11:30",
+      "text": "διὰ χειρὸς Βαρναβᾶ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Ac 12:1",
+      "text": "τὰς χεῖρας κακῶσαί",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Ac 12:7",
+      "text": "τῶν χειρῶν.",
+      "highlightedWord": "χειρῶν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Ac 12:11",
+      "text": "ἐκ χειρὸς Ἡρῴδου",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Ac 12:17",
+      "text": "τῇ χειρὶ σιγᾶν",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Ac 13:3",
+      "text": "τὰς χεῖρας αὐτοῖς",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ac 13:11",
+      "text": "ἰδοὺ χεὶρ κυρίου",
+      "highlightedWord": "χεὶρ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Ac 13:16",
+      "text": "τῇ χειρὶ εἶπεν·",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Ac 14:3",
+      "text": "τῶν χειρῶν αὐτῶν.",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 23,
+      "reference": "Ac 15:23",
+      "text": "διὰ χειρὸς αὐτῶν·",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 25,
+      "reference": "Ac 17:25",
+      "text": "ὑπὸ χειρῶν ἀνθρωπίνων",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Ac 19:6",
+      "text": "Παύλου χεῖρας ἦλθε",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Ac 19:11",
+      "text": "τῶν χειρῶν Παύλου,",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Ac 19:26",
+      "text": "διὰ χειρῶν γινόμενοι.",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 33,
+      "reference": "Ac 19:33",
+      "text": "τὴν χεῖρα ἤθελεν",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 34,
+      "reference": "Ac 20:34",
+      "text": "αἱ χεῖρες αὗται.",
+      "highlightedWord": "χεῖρες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "τὰς χεῖρας εἶπεν·",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Ac 21:27",
+      "text": "τὰς χεῖρας,",
+      "highlightedWord": "χεῖρας,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 40,
+      "reference": "Ac 21:40",
+      "text": "τῇ χειρὶ τῷ",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Ac 23:19",
+      "text": "τῆς χειρὸς αὐτοῦ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 1,
+      "reference": "Ac 26:1",
+      "text": "τὴν χεῖρα ἀπελογεῖτο·",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 3,
+      "reference": "Ac 28:3",
+      "text": "τῆς χειρὸς αὐτοῦ.",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 4,
+      "reference": "Ac 28:4",
+      "text": "τῆς χειρὸς αὐτοῦ,",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 8,
+      "reference": "Ac 28:8",
+      "text": "τὰς χεῖρας αὐτῷ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 17,
+      "reference": "Ac 28:17",
+      "text": "τὰς χεῖρας τῶν",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Ro 10:21",
+      "text": "τὰς χεῖράς μου",
+      "highlightedWord": "χεῖράς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Co 4:12",
+      "text": "ἰδίαις χερσίν· λοιδορούμενοι",
+      "highlightedWord": "χερσίν·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "1Co 12:15",
+      "text": "εἰμὶ χείρ, οὐκ",
+      "highlightedWord": "χείρ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "1Co 12:21",
+      "text": "τῇ χειρί· Χρείαν",
+      "highlightedWord": "χειρί·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "1Co 16:21",
+      "text": "ἐμῇ χειρὶ Παύλου.",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "2Co 11:33",
+      "text": "τὰς χεῖρας αὐτοῦ.",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ga 3:19",
+      "text": "ἐν χειρὶ μεσίτου·",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Ga 6:11",
+      "text": "ἐμῇ χειρί.",
+      "highlightedWord": "χειρί."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Eph 4:28",
+      "text": "ἰδίαις χερσὶν τὸ",
+      "highlightedWord": "χερσὶν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Col 4:18",
+      "text": "ἐμῇ χειρὶ Παύλου.",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Th 4:11",
+      "text": "ταῖς χερσὶν ὑμῶν,",
+      "highlightedWord": "χερσὶν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Th 3:17",
+      "text": "ἐμῇ χειρὶ Παύλου,",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Ti 2:8",
+      "text": "ὁσίους χεῖρας χωρὶς",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Ti 4:14",
+      "text": "τῶν χειρῶν τοῦ",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "1Ti 5:22",
+      "text": "χεῖρας ταχέως",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Ti 1:6",
+      "text": "τῶν χειρῶν μου·",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Phm 1:19",
+      "text": "ἐμῇ χειρί, ἐγὼ",
+      "highlightedWord": "χειρί,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Heb 1:10",
+      "text": "τῶν χειρῶν σού",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Heb 6:2",
+      "text": "τε χειρῶν, ἀναστάσεώς",
+      "highlightedWord": "χειρῶν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Heb 8:9",
+      "text": "τῆς χειρὸς αὐτῶν",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Heb 10:31",
+      "text": "εἰς χεῖρας θεοῦ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Heb 12:12",
+      "text": "παρειμένας χεῖρας καὶ",
+      "highlightedWord": "χεῖρας"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Jas 4:8",
+      "text": "καθαρίσατε χεῖρας, ἁμαρτωλοί,",
+      "highlightedWord": "χεῖρας,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Pe 5:6",
+      "text": "κραταιὰν χεῖρα τοῦ",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "1Jn 1:1",
+      "text": "αἱ χεῖρες ἡμῶν",
+      "highlightedWord": "χεῖρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Re 1:16",
+      "text": "δεξιᾷ χειρὶ αὐτοῦ",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Re 6:5",
+      "text": "τῇ χειρὶ αὐτοῦ.",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Re 7:9",
+      "text": "ταῖς χερσὶν αὐτῶν·",
+      "highlightedWord": "χερσὶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Re 8:4",
+      "text": "ἐκ χειρὸς τοῦ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "τῶν χειρῶν αὐτῶν,",
+      "highlightedWord": "χειρῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Re 10:2",
+      "text": "τῇ χειρὶ αὐτοῦ",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Re 10:5",
+      "text": "τὴν χεῖρα αὐτοῦ",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Re 10:8",
+      "text": "τῇ χειρὶ τοῦ",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Re 10:10",
+      "text": "τῆς χειρὸς τοῦ",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Re 13:16",
+      "text": "τῆς χειρὸς αὐτῶν",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "τὴν χεῖρα αὐτοῦ,",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "τῇ χειρὶ αὐτοῦ",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Re 17:4",
+      "text": "τῇ χειρὶ αὐτῆς",
+      "highlightedWord": "χειρὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Re 19:2",
+      "text": "ἐκ χειρὸς αὐτῆς.",
+      "highlightedWord": "χειρὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Re 20:1",
+      "text": "τὴν χεῖρα αὐτοῦ.",
+      "highlightedWord": "χεῖρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Re 20:4",
+      "text": "τὴν χεῖρα αὐτῶν·",
+      "highlightedWord": "χεῖρα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

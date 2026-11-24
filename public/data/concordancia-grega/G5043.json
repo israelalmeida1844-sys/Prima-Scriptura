@@ -1,0 +1,766 @@
+{
+  "strong": "G5043",
+  "lemma": "τέκνον",
+  "lemmaTranslit": "teknon",
+  "tokenCount": 99,
+  "verseCount": 91,
+  "bookDistribution": {
+    "Mateus": 14,
+    "Marcos": 9,
+    "Lucas": 14,
+    "João": 3,
+    "Atos": 5,
+    "Romanos": 7,
+    "1 Coríntios": 3,
+    "2 Coríntios": 3,
+    "Gálatas": 5,
+    "Efésios": 5,
+    "Filipenses": 2,
+    "Colossenses": 2,
+    "1 Tessalonicenses": 2,
+    "1 Timóteo": 5,
+    "2 Timóteo": 2,
+    "Tito": 2,
+    "Filemom": 1,
+    "1 Pedro": 2,
+    "2 Pedro": 1,
+    "1 João": 5,
+    "2 João": 3,
+    "3 João": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Mt 2:18",
+      "text": "τὰ τέκνα αὐτῆς,",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Mt 3:9",
+      "text": "ἐγεῖραι τέκνα τῷ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Mt 7:11",
+      "text": "τοῖς τέκνοις ὑμῶν,",
+      "highlightedWord": "τέκνοις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Mt 9:2",
+      "text": "Θάρσει, τέκνον· ἀφίενταί",
+      "highlightedWord": "τέκνον·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Mt 10:21",
+      "text": "πατὴρ τέκνον, καὶ",
+      "highlightedWord": "τέκνον,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Mt 15:26",
+      "text": "τῶν τέκνων καὶ",
+      "highlightedWord": "τέκνων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Mt 18:25",
+      "text": "τὰ τέκνα καὶ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Mt 19:29",
+      "text": "ἢ τέκνα ἢ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Mt 21:28",
+      "text": "εἶχεν τέκνα δύο.",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 24,
+      "reference": "Mt 22:24",
+      "text": "ἔχων τέκνα, ἐπιγαμβρεύσει",
+      "highlightedWord": "τέκνα,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 37,
+      "reference": "Mt 23:37",
+      "text": "τὰ τέκνα σου,",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 25,
+      "reference": "Mt 27:25",
+      "text": "τὰ τέκνα ἡμῶν.",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Mk 2:5",
+      "text": "παραλυτικῷ· Τέκνον, ἀφίενταί",
+      "highlightedWord": "Τέκνον,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Mk 7:27",
+      "text": "τὰ τέκνα, οὐ",
+      "highlightedWord": "τέκνα,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Mk 10:24",
+      "text": "αὐτοῖς· Τέκνα, πῶς",
+      "highlightedWord": "Τέκνα,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Mk 10:29",
+      "text": "ἢ τέκνα ἢ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Mk 10:30",
+      "text": "καὶ τέκνα καὶ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mk 12:19",
+      "text": "ἀφῇ τέκνον, ἵνα",
+      "highlightedWord": "τέκνον,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Mk 13:12",
+      "text": "πατὴρ τέκνον, καὶ",
+      "highlightedWord": "τέκνον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Lk 1:7",
+      "text": "αὐτοῖς τέκνον, καθότι",
+      "highlightedWord": "τέκνον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Lk 1:17",
+      "text": "ἐπὶ τέκνα καὶ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 48,
+      "reference": "Lk 2:48",
+      "text": "αὐτοῦ· Τέκνον, τί",
+      "highlightedWord": "Τέκνον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Lk 3:8",
+      "text": "ἐγεῖραι τέκνα τῷ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Lk 7:35",
+      "text": "τῶν τέκνων αὐτῆς.",
+      "highlightedWord": "τέκνων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Lk 11:13",
+      "text": "τοῖς τέκνοις ὑμῶν,",
+      "highlightedWord": "τέκνοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 34,
+      "reference": "Lk 13:34",
+      "text": "τὰ τέκνα σου",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "τὰ τέκνα καὶ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 31,
+      "reference": "Lk 15:31",
+      "text": "αὐτῷ· Τέκνον, σὺ",
+      "highlightedWord": "Τέκνον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Lk 16:25",
+      "text": "Ἀβραάμ· Τέκνον, μνήσθητι",
+      "highlightedWord": "Τέκνον,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Lk 18:29",
+      "text": "ἢ τέκνα ἕνεκεν",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 44,
+      "reference": "Lk 19:44",
+      "text": "τὰ τέκνα σου",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Lk 20:31",
+      "text": "κατέλιπον τέκνα καὶ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Lk 23:28",
+      "text": "τὰ τέκνα ὑμῶν,",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Jn 1:12",
+      "text": "ἐξουσίαν τέκνα θεοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Jn 8:39",
+      "text": "Εἰ τέκνα τοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 52,
+      "reference": "Jn 11:52",
+      "text": "τὰ τέκνα τοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 39,
+      "reference": "Ac 2:39",
+      "text": "τοῖς τέκνοις ὑμῶν",
+      "highlightedWord": "τέκνοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Ac 7:5",
+      "text": "αὐτῷ τέκνου.",
+      "highlightedWord": "τέκνου."
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Ac 13:33",
+      "text": "τοῖς τέκνοις ἡμῶν",
+      "highlightedWord": "τέκνοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Ac 21:5",
+      "text": "καὶ τέκνοις ἕως",
+      "highlightedWord": "τέκνοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Ac 21:21",
+      "text": "τὰ τέκνα μηδὲ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Ro 8:16",
+      "text": "ἐσμὲν τέκνα θεοῦ.",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Ro 8:17",
+      "text": "δὲ τέκνα, καὶ",
+      "highlightedWord": "τέκνα,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Ro 8:21",
+      "text": "τῶν τέκνων τοῦ",
+      "highlightedWord": "τέκνων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Ro 9:7",
+      "text": "πάντες τέκνα, ἀλλ’·",
+      "highlightedWord": "τέκνα,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Ro 9:8",
+      "text": "τὰ τέκνα τῆς",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Co 4:14",
+      "text": "ὡς τέκνα μου",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Co 4:17",
+      "text": "μου τέκνον ἀγαπητὸν",
+      "highlightedWord": "τέκνον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "1Co 7:14",
+      "text": "τὰ τέκνα ὑμῶν",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "2Co 6:13",
+      "text": "ὡς τέκνοις λέγω,",
+      "highlightedWord": "τέκνοις"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "2Co 12:14",
+      "text": "τὰ τέκνα τοῖς",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Ga 4:19",
+      "text": "τέκνα μου,",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Ga 4:25",
+      "text": "τῶν τέκνων αὐτῆς·",
+      "highlightedWord": "τέκνων"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Ga 4:27",
+      "text": "τὰ τέκνα τῆς",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Ga 4:28",
+      "text": "ἐπαγγελίας τέκνα ἐστέ·",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Ga 4:31",
+      "text": "παιδίσκης τέκνα ἀλλὰ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Eph 2:3",
+      "text": "ἤμεθα τέκνα φύσει",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Eph 5:1",
+      "text": "ὡς τέκνα ἀγαπητά,",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Eph 5:8",
+      "text": "ὡς τέκνα φωτὸς",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Eph 6:1",
+      "text": "Τὰ τέκνα, ὑπακούετε",
+      "highlightedWord": "τέκνα,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Eph 6:4",
+      "text": "τὰ τέκνα ὑμῶν,",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Php 2:15",
+      "text": "ἀκέραιοι, τέκνα θεοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Php 2:22",
+      "text": "πατρὶ τέκνον σὺν",
+      "highlightedWord": "τέκνον"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Col 3:20",
+      "text": "Τὰ τέκνα, ὑπακούετε",
+      "highlightedWord": "τέκνα,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Col 3:21",
+      "text": "τὰ τέκνα ὑμῶν,",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Th 2:7",
+      "text": "ἑαυτῆς τέκνα·",
+      "highlightedWord": "τέκνα·"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Th 2:11",
+      "text": "πατὴρ τέκνα ἑαυτοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "1Ti 1:2",
+      "text": "γνησίῳ τέκνῳ ἐν",
+      "highlightedWord": "τέκνῳ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "1Ti 1:18",
+      "text": "σοι, τέκνον Τιμόθεε,",
+      "highlightedWord": "τέκνον"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Ti 3:4",
+      "text": "προϊστάμενον, τέκνα ἔχοντα",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Ti 3:12",
+      "text": "ἄνδρες, τέκνων καλῶς",
+      "highlightedWord": "τέκνων"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Ti 5:4",
+      "text": "χήρα τέκνα ἢ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "2Ti 1:2",
+      "text": "ἀγαπητῷ τέκνῳ· χάρις,",
+      "highlightedWord": "τέκνῳ·"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "2Ti 2:1",
+      "text": "οὖν, τέκνον μου,",
+      "highlightedWord": "τέκνον"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Tit 1:4",
+      "text": "γνησίῳ τέκνῳ κατὰ",
+      "highlightedWord": "τέκνῳ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Tit 1:6",
+      "text": "ἀνήρ, τέκνα ἔχων",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Phm 1:10",
+      "text": "ἐμοῦ τέκνου, ὃν",
+      "highlightedWord": "τέκνου,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "1Pe 1:14",
+      "text": "ὡς τέκνα ὑπακοῆς,",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Pe 3:6",
+      "text": "ἐγενήθητε τέκνα ἀγαθοποιοῦσαι",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "2Pe 2:14",
+      "text": "κατάρας τέκνα,",
+      "highlightedWord": "τέκνα,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Jn 3:1",
+      "text": "ἵνα τέκνα θεοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Jn 3:2",
+      "text": "νῦν τέκνα θεοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Jn 3:10",
+      "text": "τὰ τέκνα τοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Jn 5:2",
+      "text": "τὰ τέκνα τοῦ",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 1,
+      "reference": "2Jn 1:1",
+      "text": "τοῖς τέκνοις αὐτῆς,",
+      "highlightedWord": "τέκνοις"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Jn 1:4",
+      "text": "τῶν τέκνων σου",
+      "highlightedWord": "τέκνων"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Jn 1:13",
+      "text": "τὰ τέκνα τῆς",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "3Jn 1:4",
+      "text": "ἐμὰ τέκνα ἐν",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Re 2:23",
+      "text": "τὰ τέκνα αὐτῆς",
+      "highlightedWord": "τέκνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Re 12:4",
+      "text": "τὸ τέκνον αὐτῆς",
+      "highlightedWord": "τέκνον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Re 12:5",
+      "text": "τὸ τέκνον αὐτῆς",
+      "highlightedWord": "τέκνον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

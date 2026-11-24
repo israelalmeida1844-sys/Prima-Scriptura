@@ -1,0 +1,841 @@
+{
+  "strong": "G3753",
+  "lemma": "ὅτε",
+  "lemmaTranslit": "hote",
+  "tokenCount": 102,
+  "verseCount": 101,
+  "bookDistribution": {
+    "Mateus": 12,
+    "Marcos": 12,
+    "Lucas": 11,
+    "João": 21,
+    "Atos": 10,
+    "Romanos": 4,
+    "1 Coríntios": 3,
+    "Gálatas": 6,
+    "Filipenses": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 1,
+    "2 Timóteo": 1,
+    "Tito": 1,
+    "Hebreus": 2,
+    "1 Pedro": 1,
+    "Judas": 1,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Mt 7:28",
+      "text": "ἐγένετο ὅτε ἐτέλεσεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Mt 9:25",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Mt 11:1",
+      "text": "ἐγένετο ὅτε ἐτέλεσεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Mt 12:3",
+      "text": "Δαυὶδ ὅτε ἐπείνασεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Mt 13:26",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 48,
+      "reference": "Mt 13:48",
+      "text": "ἣν ὅτε ἐπληρώθη",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 53,
+      "reference": "Mt 13:53",
+      "text": "ἐγένετο ὅτε ἐτέλεσεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Mt 19:1",
+      "text": "ἐγένετο ὅτε ἐτέλεσεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Mt 21:1",
+      "text": "Καὶ ὅτε ἤγγισαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Mt 21:34",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 1,
+      "reference": "Mt 26:1",
+      "text": "ἐγένετο ὅτε ἐτέλεσεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 31,
+      "reference": "Mt 27:31",
+      "text": "καὶ ὅτε ἐνέπαιξαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 32,
+      "reference": "Mk 1:32",
+      "text": "γενομένης, ὅτε ἔδυ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Mk 2:25",
+      "text": "Δαυὶδ ὅτε χρείαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mk 4:6",
+      "text": "καὶ ὅτε ἀνέτειλεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Mk 4:10",
+      "text": "Καὶ ὅτε ἐγένετο",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Mk 6:21",
+      "text": "εὐκαίρου ὅτε Ἡρῴδης",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Mk 7:17",
+      "text": "Καὶ ὅτε εἰσῆλθεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Mk 8:19",
+      "text": "ὅτε τοὺς",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Mk 8:20",
+      "text": "ὅτε καὶ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Mk 11:1",
+      "text": "Καὶ ὅτε ἐγγίζουσιν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Mk 14:12",
+      "text": "ἀζύμων, ὅτε τὸ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Mk 15:20",
+      "text": "καὶ ὅτε ἐνέπαιξαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 41,
+      "reference": "Mk 15:41",
+      "text": "αἳ ὅτε ἦν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Lk 2:21",
+      "text": "Καὶ ὅτε ἐπλήσθησαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Lk 2:22",
+      "text": "Καὶ ὅτε ἐπλήσθησαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 42,
+      "reference": "Lk 2:42",
+      "text": "καὶ ὅτε ἐγένετο",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Lk 4:25",
+      "text": "Ἰσραήλ, ὅτε ἐκλείσθη",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Lk 6:13",
+      "text": "καὶ ὅτε ἐγένετο",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Lk 13:35",
+      "text": "ἥξει ὅτε εἴπητε·",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Lk 15:30",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 22,
+      "reference": "Lk 17:22",
+      "text": "ἡμέραι ὅτε ἐπιθυμήσετε",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Lk 22:14",
+      "text": "Καὶ ὅτε ἐγένετο",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 35,
+      "reference": "Lk 22:35",
+      "text": "αὐτοῖς· Ὅτε ἀπέστειλα",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 33,
+      "reference": "Lk 23:33",
+      "text": "καὶ ὅτε ἦλθον",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Jn 1:19",
+      "text": "Ἰωάννου ὅτε ἀπέστειλαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Jn 2:22",
+      "text": "ὅτε οὖν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Jn 4:21",
+      "text": "ὥρα ὅτε οὔτε",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Jn 4:23",
+      "text": "ἐστιν, ὅτε οἱ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 45,
+      "reference": "Jn 4:45",
+      "text": "ὅτε οὖν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Jn 5:25",
+      "text": "ἐστιν ὅτε οἱ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Jn 6:24",
+      "text": "ὅτε οὖν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Jn 9:4",
+      "text": "νὺξ ὅτε οὐδεὶς",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "Jn 12:16",
+      "text": "ἀλλ’ ὅτε ἐδοξάσθη",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Jn 12:17",
+      "text": "αὐτοῦ ὅτε τὸν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Jn 13:12",
+      "text": "Ὅτε οὖν",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Jn 13:31",
+      "text": "Ὅτε οὖν",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Jn 16:25",
+      "text": "ὥρα ὅτε οὐκέτι",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Jn 17:12",
+      "text": "ὅτε ἤμην",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Jn 19:6",
+      "text": "ὅτε οὖν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Jn 19:8",
+      "text": "Ὅτε οὖν",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Jn 19:23",
+      "text": "στρατιῶται ὅτε ἐσταύρωσαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Jn 19:30",
+      "text": "ὅτε οὖν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Jn 20:24",
+      "text": "αὐτῶν ὅτε ἦλθεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Jn 21:15",
+      "text": "Ὅτε οὖν",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Jn 21:18",
+      "text": "σοι, ὅτε ἦς",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Ac 1:13",
+      "text": "καὶ ὅτε εἰσῆλθον,",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Ac 8:12",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Ac 8:39",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Ac 11:2",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ac 12:6",
+      "text": "Ὅτε δὲ",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Ac 21:5",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 35,
+      "reference": "Ac 21:35",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 20,
+      "reference": "Ac 22:20",
+      "text": "καὶ ὅτε ἐξεχύννετο",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 39,
+      "reference": "Ac 27:39",
+      "text": "Ὅτε δὲ",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 16,
+      "reference": "Ac 28:16",
+      "text": "Ὅτε δὲ",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ro 2:16",
+      "text": "ἡμέρᾳ ὅτε κρίνει",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Ro 6:20",
+      "text": "Ὅτε γὰρ",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Ro 7:5",
+      "text": "ὅτε γὰρ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ro 13:11",
+      "text": "ἢ ὅτε ἐπιστεύσαμεν.",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "1Co 12:2",
+      "text": "ὅτι ὅτε ἔθνη",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "1Co 13:11",
+      "text": "ὅτε ἤμην",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Ga 1:15",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Ga 2:11",
+      "text": "Ὅτε δὲ",
+      "highlightedWord": "Ὅτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Ga 2:12",
+      "text": "συνήσθιεν· ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ga 2:14",
+      "text": "ἀλλ’ ὅτε εἶδον",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Ga 4:3",
+      "text": "ἡμεῖς, ὅτε ἦμεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Ga 4:4",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Php 4:15",
+      "text": "εὐαγγελίου, ὅτε ἐξῆλθον",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Col 3:7",
+      "text": "ποτε ὅτε ἐζῆτε",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Th 3:4",
+      "text": "γὰρ ὅτε πρὸς",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Th 3:10",
+      "text": "γὰρ ὅτε ἦμεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "2Ti 4:3",
+      "text": "καιρὸς ὅτε τῆς",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Tit 3:4",
+      "text": "ὅτε δὲ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Heb 7:10",
+      "text": "ἦν ὅτε συνήντησεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Heb 9:17",
+      "text": "ἰσχύει ὅτε ζῇ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "1Pe 3:20",
+      "text": "ποτε ὅτε ἀπεξεδέχετο",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Jud 1:9",
+      "text": "ἀρχάγγελος, ὅτε τῷ",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "Καὶ ὅτε εἶδον",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "καὶ ὅτε ἔλαβεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Re 6:1",
+      "text": "εἶδον ὅτε ἤνοιξεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Re 6:3",
+      "text": "Καὶ ὅτε ἤνοιξεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Re 6:5",
+      "text": "Καὶ ὅτε ἤνοιξε",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Re 6:7",
+      "text": "Καὶ ὅτε ἤνοιξεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Re 6:9",
+      "text": "Καὶ ὅτε ἤνοιξεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Re 6:12",
+      "text": "εἶδον ὅτε ἤνοιξεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Re 10:3",
+      "text": "καὶ ὅτε ἔκραξεν,",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Re 10:4",
+      "text": "καὶ ὅτε ἐλάλησαν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Re 10:10",
+      "text": "καὶ ὅτε ἔφαγον",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Re 12:13",
+      "text": "Καὶ ὅτε εἶδεν",
+      "highlightedWord": "ὅτε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Re 22:8",
+      "text": "καὶ ὅτε ἤκουσα",
+      "highlightedWord": "ὅτε"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

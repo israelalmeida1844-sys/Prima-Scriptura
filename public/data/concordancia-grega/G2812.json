@@ -1,0 +1,151 @@
+{
+  "strong": "G2812",
+  "lemma": "κλέπτης",
+  "lemmaTranslit": "kleptēs",
+  "tokenCount": 16,
+  "verseCount": 16,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Lucas": 2,
+    "João": 4,
+    "1 Coríntios": 1,
+    "1 Tessalonicenses": 2,
+    "1 Pedro": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Mt 6:19",
+      "text": "ὅπου κλέπται διορύσσουσιν",
+      "highlightedWord": "κλέπται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 20,
+      "reference": "Mt 6:20",
+      "text": "ὅπου κλέπται οὐ",
+      "highlightedWord": "κλέπται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "ὁ κλέπτης ἔρχεται,",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 33,
+      "reference": "Lk 12:33",
+      "text": "ὅπου κλέπτης οὐκ",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Lk 12:39",
+      "text": "ὁ κλέπτης ἔρχεται,",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Jn 10:1",
+      "text": "ἐκεῖνος κλέπτης ἐστὶν",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Jn 10:8",
+      "text": "ἐμοῦ κλέπται εἰσὶν",
+      "highlightedWord": "κλέπται"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Jn 10:10",
+      "text": "ὁ κλέπτης οὐκ",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Jn 12:6",
+      "text": "ὅτι κλέπτης ἦν",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "1Co 6:10",
+      "text": "οὔτε κλέπται οὔτε",
+      "highlightedWord": "κλέπται"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Th 5:2",
+      "text": "ὡς κλέπτης ἐν",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Th 5:4",
+      "text": "ὡς κλέπτης καταλάβῃ,",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "1Pe 4:15",
+      "text": "ἢ κλέπτης ἢ",
+      "highlightedWord": "κλέπτης"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Pe 3:10",
+      "text": "ὡς κλέπτης, ἐν",
+      "highlightedWord": "κλέπτης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "ὡς κλέπτης, καὶ",
+      "highlightedWord": "κλέπτης,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Re 16:15",
+      "text": "ὡς κλέπτης. μακάριος",
+      "highlightedWord": "κλέπτης."
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

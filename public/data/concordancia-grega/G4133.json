@@ -1,0 +1,271 @@
+{
+  "strong": "G4133",
+  "lemma": "πλήν",
+  "lemmaTranslit": "plēn",
+  "tokenCount": 31,
+  "verseCount": 31,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 1,
+    "Lucas": 15,
+    "Atos": 4,
+    "1 Coríntios": 1,
+    "Efésios": 1,
+    "Filipenses": 3,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Mt 11:22",
+      "text": "πλὴν λέγω",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Mt 11:24",
+      "text": "πλὴν λέγω",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Mt 18:7",
+      "text": "σκάνδαλα, πλὴν οὐαὶ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 39,
+      "reference": "Mt 26:39",
+      "text": "τοῦτο· πλὴν οὐχ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 64,
+      "reference": "Mt 26:64",
+      "text": "εἶπας· πλὴν λέγω",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Mk 12:32",
+      "text": "ἄλλος πλὴν αὐτοῦ·",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Lk 6:24",
+      "text": "πλὴν οὐαὶ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Lk 6:35",
+      "text": "πλὴν ἀγαπᾶτε",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "Lk 10:11",
+      "text": "ὑμῖν· πλὴν τοῦτο",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Lk 10:14",
+      "text": "πλὴν Τύρῳ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Lk 10:20",
+      "text": "πλὴν ἐν",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 41,
+      "reference": "Lk 11:41",
+      "text": "πλὴν τὰ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Lk 12:31",
+      "text": "πλὴν ζητεῖτε",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Lk 13:33",
+      "text": "πλὴν δεῖ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Lk 17:1",
+      "text": "ἐλθεῖν, πλὴν οὐαὶ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Lk 18:8",
+      "text": "τάχει. πλὴν ὁ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Lk 19:27",
+      "text": "πλὴν τοὺς",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 21,
+      "reference": "Lk 22:21",
+      "text": "πλὴν ἰδοὺ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Lk 22:22",
+      "text": "πορεύεται, πλὴν οὐαὶ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 42,
+      "reference": "Lk 22:42",
+      "text": "ἐμοῦ· πλὴν μὴ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 28,
+      "reference": "Lk 23:28",
+      "text": "ἐμέ· πλὴν ἐφ’",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Ac 8:1",
+      "text": "Σαμαρείας πλὴν τῶν",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Ac 15:28",
+      "text": "βάρος πλὴν τούτων",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Ac 20:23",
+      "text": "πλὴν ὅτι",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 22,
+      "reference": "Ac 27:22",
+      "text": "ὑμῶν πλὴν τοῦ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "1Co 11:11",
+      "text": "πλὴν οὔτε",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Eph 5:33",
+      "text": "πλὴν καὶ",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Php 1:18",
+      "text": "γάρ; πλὴν ὅτι",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Php 3:16",
+      "text": "πλὴν εἰς",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Php 4:14",
+      "text": "πλὴν καλῶς",
+      "highlightedWord": "πλὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Re 2:25",
+      "text": "πλὴν ὃ",
+      "highlightedWord": "πλὴν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

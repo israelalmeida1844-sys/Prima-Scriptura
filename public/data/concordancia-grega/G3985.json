@@ -1,0 +1,291 @@
+{
+  "strong": "G3985",
+  "lemma": "πειράζω",
+  "lemmaTranslit": "peirazō",
+  "tokenCount": 37,
+  "verseCount": 33,
+  "bookDistribution": {
+    "Mateus": 6,
+    "Marcos": 4,
+    "Lucas": 2,
+    "João": 1,
+    "Atos": 5,
+    "1 Coríntios": 3,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "1 Tessalonicenses": 2,
+    "Hebreus": 5,
+    "Tiago": 4,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Mt 4:1",
+      "text": "πνεύματος, πειρασθῆναι ὑπὸ",
+      "highlightedWord": "πειρασθῆναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Mt 4:3",
+      "text": "ὁ πειράζων εἶπεν",
+      "highlightedWord": "πειράζων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Mt 16:1",
+      "text": "Σαδδουκαῖοι πειράζοντες ἐπηρώτησαν",
+      "highlightedWord": "πειράζοντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Mt 19:3",
+      "text": "Φαρισαῖοι πειράζοντες αὐτὸν",
+      "highlightedWord": "πειράζοντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Mt 22:18",
+      "text": "με πειράζετε, ὑποκριταί;",
+      "highlightedWord": "πειράζετε,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 35,
+      "reference": "Mt 22:35",
+      "text": "νομικὸς πειράζων αὐτόν·",
+      "highlightedWord": "πειράζων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Mk 1:13",
+      "text": "ἡμέρας πειραζόμενος ὑπὸ",
+      "highlightedWord": "πειραζόμενος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Mk 8:11",
+      "text": "οὐρανοῦ, πειράζοντες αὐτόν.",
+      "highlightedWord": "πειράζοντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Mk 10:2",
+      "text": "ἀπολῦσαι, πειράζοντες αὐτόν.",
+      "highlightedWord": "πειράζοντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Mk 12:15",
+      "text": "με πειράζετε; φέρετέ",
+      "highlightedWord": "πειράζετε;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Lk 4:2",
+      "text": "τεσσεράκοντα πειραζόμενος ὑπὸ",
+      "highlightedWord": "πειραζόμενος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Lk 11:16",
+      "text": "δὲ πειράζοντες σημεῖον",
+      "highlightedWord": "πειράζοντες"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Jn 6:6",
+      "text": "ἔλεγεν πειράζων αὐτόν,",
+      "highlightedWord": "πειράζων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Ac 5:9",
+      "text": "ὑμῖν πειράσαι τὸ",
+      "highlightedWord": "πειράσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Ac 9:26",
+      "text": "Ἰερουσαλὴμ ἐπείραζεν κολλᾶσθαι",
+      "highlightedWord": "ἐπείραζεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Ac 15:10",
+      "text": "τί πειράζετε τὸν",
+      "highlightedWord": "πειράζετε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Ac 16:7",
+      "text": "Μυσίαν ἐπείραζον εἰς",
+      "highlightedWord": "ἐπείραζον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Ac 24:6",
+      "text": "ἱερὸν ἐπείρασεν βεβηλῶσαι,",
+      "highlightedWord": "ἐπείρασεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "1Co 7:5",
+      "text": "μὴ πειράζῃ ὑμᾶς",
+      "highlightedWord": "πειράζῃ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "1Co 10:9",
+      "text": "αὐτῶν ἐπείρασαν, καὶ",
+      "highlightedWord": "ἐπείρασαν,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "1Co 10:13",
+      "text": "ὑμᾶς πειρασθῆναι ὑπὲρ",
+      "highlightedWord": "πειρασθῆναι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "2Co 13:5",
+      "text": "Ἑαυτοὺς πειράζετε εἰ",
+      "highlightedWord": "πειράζετε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ga 6:1",
+      "text": "σὺ πειρασθῇς.",
+      "highlightedWord": "πειρασθῇς."
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Th 3:5",
+      "text": "πως ἐπείρασεν ὑμᾶς",
+      "highlightedWord": "ἐπείρασεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Heb 2:18",
+      "text": "αὐτὸς πειρασθείς, δύναται",
+      "highlightedWord": "πειρασθείς,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Heb 3:9",
+      "text": "οὗ ἐπείρασαν οἱ",
+      "highlightedWord": "ἐπείρασαν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Heb 4:15",
+      "text": "ἡμῶν, πεπειρασμένον δὲ",
+      "highlightedWord": "πεπειρασμένον"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Heb 11:17",
+      "text": "Ἰσαὰκ πειραζόμενος, καὶ",
+      "highlightedWord": "πειραζόμενος,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Jas 1:13",
+      "text": "μηδεὶς πειραζόμενος λεγέτω",
+      "highlightedWord": "πειραζόμενος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "Jas 1:14",
+      "text": "δὲ πειράζεται ὑπὸ",
+      "highlightedWord": "πειράζεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "καὶ ἐπείρασας τοὺς",
+      "highlightedWord": "ἐπείρασας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "ἵνα πειρασθῆτε, καὶ",
+      "highlightedWord": "πειρασθῆτε,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Re 3:10",
+      "text": "ὅλης, πειράσαι τοὺς",
+      "highlightedWord": "πειράσαι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

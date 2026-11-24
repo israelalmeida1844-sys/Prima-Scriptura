@@ -1,0 +1,720 @@
+{
+  "strong": "G4137",
+  "lemma": "πληρόω",
+  "lemmaTranslit": "plēroō",
+  "tokenCount": 86,
+  "verseCount": 86,
+  "bookDistribution": {
+    "Mateus": 16,
+    "Marcos": 2,
+    "Lucas": 9,
+    "João": 15,
+    "Atos": 16,
+    "Romanos": 6,
+    "2 Coríntios": 2,
+    "Gálatas": 1,
+    "Efésios": 4,
+    "Filipenses": 4,
+    "Colossenses": 4,
+    "2 Tessalonicenses": 1,
+    "2 Timóteo": 1,
+    "Tiago": 1,
+    "1 João": 1,
+    "2 João": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Mt 1:22",
+      "text": "ἵνα πληρωθῇ τὸ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Mt 2:15",
+      "text": "ἵνα πληρωθῇ τὸ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Mt 2:17",
+      "text": "τότε ἐπληρώθη τὸ",
+      "highlightedWord": "ἐπληρώθη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Mt 2:23",
+      "text": "ὅπως πληρωθῇ τὸ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Mt 3:15",
+      "text": "ἡμῖν πληρῶσαι πᾶσαν",
+      "highlightedWord": "πληρῶσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Mt 4:14",
+      "text": "ἵνα πληρωθῇ τὸ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Mt 5:17",
+      "text": "ἀλλὰ πληρῶσαι·",
+      "highlightedWord": "πληρῶσαι·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Mt 8:17",
+      "text": "ὅπως πληρωθῇ τὸ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Mt 12:17",
+      "text": "ἵνα πληρωθῇ τὸ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Mt 13:35",
+      "text": "ὅπως πληρωθῇ τὸ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 48,
+      "reference": "Mt 13:48",
+      "text": "ὅτε ἐπληρώθη ἀναβιβάσαντες",
+      "highlightedWord": "ἐπληρώθη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Mt 21:4",
+      "text": "ἵνα πληρωθῇ τὸ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 32,
+      "reference": "Mt 23:32",
+      "text": "ὑμεῖς πληρώσατε τὸ",
+      "highlightedWord": "πληρώσατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 54,
+      "reference": "Mt 26:54",
+      "text": "οὖν πληρωθῶσιν αἱ",
+      "highlightedWord": "πληρωθῶσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 56,
+      "reference": "Mt 26:56",
+      "text": "ἵνα πληρωθῶσιν αἱ",
+      "highlightedWord": "πληρωθῶσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 9,
+      "reference": "Mt 27:9",
+      "text": "τότε ἐπληρώθη τὸ",
+      "highlightedWord": "ἐπληρώθη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Mk 1:15",
+      "text": "ὅτι Πεπλήρωται ὁ",
+      "highlightedWord": "Πεπλήρωται"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 49,
+      "reference": "Mk 14:49",
+      "text": "ἵνα πληρωθῶσιν αἱ",
+      "highlightedWord": "πληρωθῶσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Lk 1:20",
+      "text": "οἵτινες πληρωθήσονται εἰς",
+      "highlightedWord": "πληρωθήσονται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 40,
+      "reference": "Lk 2:40",
+      "text": "ἐκραταιοῦτο πληρούμενον σοφίᾳ,",
+      "highlightedWord": "πληρούμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Lk 3:5",
+      "text": "φάραγξ πληρωθήσεται καὶ",
+      "highlightedWord": "πληρωθήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Lk 4:21",
+      "text": "Σήμερον πεπλήρωται ἡ",
+      "highlightedWord": "πεπλήρωται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Lk 7:1",
+      "text": "Ἐπειδὴ ἐπλήρωσεν πάντα",
+      "highlightedWord": "ἐπλήρωσεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Lk 9:31",
+      "text": "ἤμελλεν πληροῦν ἐν",
+      "highlightedWord": "πληροῦν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Lk 21:24",
+      "text": "οὗ πληρωθῶσιν καιροὶ",
+      "highlightedWord": "πληρωθῶσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Lk 22:16",
+      "text": "ὅτου πληρωθῇ ἐν",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 44,
+      "reference": "Lk 24:44",
+      "text": "δεῖ πληρωθῆναι πάντα",
+      "highlightedWord": "πληρωθῆναι"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Jn 3:29",
+      "text": "ἐμὴ πεπλήρωται.",
+      "highlightedWord": "πεπλήρωται."
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Jn 7:8",
+      "text": "οὔπω πεπλήρωται.",
+      "highlightedWord": "πεπλήρωται."
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Jn 12:3",
+      "text": "οἰκία ἐπληρώθη ἐκ",
+      "highlightedWord": "ἐπληρώθη"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Jn 12:38",
+      "text": "προφήτου πληρωθῇ ὃν",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Jn 13:18",
+      "text": "γραφὴ πληρωθῇ· Ὁ",
+      "highlightedWord": "πληρωθῇ·"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Jn 15:11",
+      "text": "ὑμῶν πληρωθῇ.",
+      "highlightedWord": "πληρωθῇ."
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Jn 15:25",
+      "text": "ἵνα πληρωθῇ ὁ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Jn 16:6",
+      "text": "λύπη πεπλήρωκεν ὑμῶν",
+      "highlightedWord": "πεπλήρωκεν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Jn 16:24",
+      "text": "ᾖ πεπληρωμένη.",
+      "highlightedWord": "πεπληρωμένη."
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Jn 17:12",
+      "text": "γραφὴ πληρωθῇ.",
+      "highlightedWord": "πληρωθῇ."
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Jn 17:13",
+      "text": "ἐμὴν πεπληρωμένην ἐν",
+      "highlightedWord": "πεπληρωμένην"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Jn 18:9",
+      "text": "ἵνα πληρωθῇ ὁ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Jn 18:32",
+      "text": "Ἰησοῦ πληρωθῇ ὃν",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Jn 19:24",
+      "text": "γραφὴ πληρωθῇ ἡ",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 36,
+      "reference": "Jn 19:36",
+      "text": "γραφὴ πληρωθῇ· Ὀστοῦν",
+      "highlightedWord": "πληρωθῇ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Ac 1:16",
+      "text": "ἔδει πληρωθῆναι τὴν",
+      "highlightedWord": "πληρωθῆναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ac 2:2",
+      "text": "καὶ ἐπλήρωσεν ὅλον",
+      "highlightedWord": "ἐπλήρωσεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Ac 2:28",
+      "text": "ζωῆς, πληρώσεις με",
+      "highlightedWord": "πληρώσεις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Ac 3:18",
+      "text": "αὐτοῦ ἐπλήρωσεν οὕτως.",
+      "highlightedWord": "ἐπλήρωσεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ac 5:3",
+      "text": "τί ἐπλήρωσεν ὁ",
+      "highlightedWord": "ἐπλήρωσεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Ac 5:28",
+      "text": "ἰδοὺ πεπληρώκατε τὴν",
+      "highlightedWord": "πεπληρώκατε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Ac 7:23",
+      "text": "δὲ ἐπληροῦτο αὐτῷ",
+      "highlightedWord": "ἐπληροῦτο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Ac 7:30",
+      "text": "Καὶ πληρωθέντων ἐτῶν",
+      "highlightedWord": "πληρωθέντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Ac 9:23",
+      "text": "δὲ ἐπληροῦντο ἡμέραι",
+      "highlightedWord": "ἐπληροῦντο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Ac 12:25",
+      "text": "Ἰερουσαλὴμ πληρώσαντες τὴν",
+      "highlightedWord": "πληρώσαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Ac 13:25",
+      "text": "δὲ ἐπλήρου Ἰωάννης",
+      "highlightedWord": "ἐπλήρου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Ac 13:27",
+      "text": "κρίναντες ἐπλήρωσαν,",
+      "highlightedWord": "ἐπλήρωσαν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 52,
+      "reference": "Ac 13:52",
+      "text": "μαθηταὶ ἐπληροῦντο χαρᾶς",
+      "highlightedWord": "ἐπληροῦντο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Ac 14:26",
+      "text": "ὃ ἐπλήρωσαν.",
+      "highlightedWord": "ἐπλήρωσαν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Ac 19:21",
+      "text": "δὲ ἐπληρώθη ταῦτα,",
+      "highlightedWord": "ἐπληρώθη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Ac 24:27",
+      "text": "δὲ πληρωθείσης ἔλαβεν",
+      "highlightedWord": "πληρωθείσης"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Ro 1:29",
+      "text": "πεπληρωμένους πάσῃ",
+      "highlightedWord": "πεπληρωμένους"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Ro 8:4",
+      "text": "νόμου πληρωθῇ ἐν",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Ro 13:8",
+      "text": "νόμον πεπλήρωκεν.",
+      "highlightedWord": "πεπλήρωκεν."
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Ro 15:13",
+      "text": "ἐλπίδος πληρώσαι ὑμᾶς",
+      "highlightedWord": "πληρώσαι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Ro 15:14",
+      "text": "ἀγαθωσύνης, πεπληρωμένοι πάσης",
+      "highlightedWord": "πεπληρωμένοι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Ro 15:19",
+      "text": "Ἰλλυρικοῦ πεπληρωκέναι τὸ",
+      "highlightedWord": "πεπληρωκέναι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "2Co 7:4",
+      "text": "ὑμῶν· πεπλήρωμαι τῇ",
+      "highlightedWord": "πεπλήρωμαι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "2Co 10:6",
+      "text": "ὅταν πληρωθῇ ὑμῶν",
+      "highlightedWord": "πληρωθῇ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Ga 5:14",
+      "text": "λόγῳ πεπλήρωται, ἐν",
+      "highlightedWord": "πεπλήρωται,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Eph 1:23",
+      "text": "πᾶσιν πληρουμένου.",
+      "highlightedWord": "πληρουμένου."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Eph 3:19",
+      "text": "ἵνα πληρωθῆτε εἰς",
+      "highlightedWord": "πληρωθῆτε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Eph 4:10",
+      "text": "ἵνα πληρώσῃ τὰ",
+      "highlightedWord": "πληρώσῃ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Eph 5:18",
+      "text": "ἀλλὰ πληροῦσθε ἐν",
+      "highlightedWord": "πληροῦσθε"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Php 1:11",
+      "text": "πεπληρωμένοι καρπὸν",
+      "highlightedWord": "πεπληρωμένοι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Php 2:2",
+      "text": "πληρώσατέ μου",
+      "highlightedWord": "πληρώσατέ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Php 4:18",
+      "text": "περισσεύω· πεπλήρωμαι δεξάμενος",
+      "highlightedWord": "πεπλήρωμαι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Php 4:19",
+      "text": "μου πληρώσει πᾶσαν",
+      "highlightedWord": "πληρώσει"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Col 1:9",
+      "text": "ἵνα πληρωθῆτε τὴν",
+      "highlightedWord": "πληρωθῆτε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Col 1:25",
+      "text": "ὑμᾶς πληρῶσαι τὸν",
+      "highlightedWord": "πληρῶσαι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Col 2:10",
+      "text": "αὐτῷ πεπληρωμένοι, ὅς",
+      "highlightedWord": "πεπληρωμένοι,"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Col 4:17",
+      "text": "αὐτὴν πληροῖς.",
+      "highlightedWord": "πληροῖς."
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "2Th 1:11",
+      "text": "καὶ πληρώσῃ πᾶσαν",
+      "highlightedWord": "πληρώσῃ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Ti 1:4",
+      "text": "χαρᾶς πληρωθῶ",
+      "highlightedWord": "πληρωθῶ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Jas 2:23",
+      "text": "καὶ ἐπληρώθη ἡ",
+      "highlightedWord": "ἐπληρώθη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "1Jn 1:4",
+      "text": "ᾖ πεπληρωμένη.",
+      "highlightedWord": "πεπληρωμένη."
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Jn 1:12",
+      "text": "ὑμῶν πεπληρωμένη ᾖ.",
+      "highlightedWord": "πεπληρωμένη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Re 3:2",
+      "text": "ἔργα πεπληρωμένα ἐνώπιον",
+      "highlightedWord": "πεπληρωμένα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "ἕως πληρωθῶσιν καὶ",
+      "highlightedWord": "πληρωθῶσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

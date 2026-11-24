@@ -1,0 +1,384 @@
+{
+  "strong": "G5438",
+  "lemma": "φυλακή",
+  "lemmaTranslit": "phylakē",
+  "tokenCount": 47,
+  "verseCount": 45,
+  "bookDistribution": {
+    "Mateus": 10,
+    "Marcos": 3,
+    "Lucas": 8,
+    "João": 1,
+    "Atos": 16,
+    "2 Coríntios": 2,
+    "Hebreus": 1,
+    "1 Pedro": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Mt 5:25",
+      "text": "εἰς φυλακὴν βληθήσῃ·",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Mt 14:3",
+      "text": "ἐν φυλακῇ ἀπέθετο",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Mt 14:10",
+      "text": "τῇ φυλακῇ·",
+      "highlightedWord": "φυλακῇ·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mt 14:25",
+      "text": "δὲ φυλακῇ τῆς",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Mt 18:30",
+      "text": "εἰς φυλακὴν ἕως",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "ποίᾳ φυλακῇ ὁ",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 36,
+      "reference": "Mt 25:36",
+      "text": "ἐν φυλακῇ ἤμην",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 39,
+      "reference": "Mt 25:39",
+      "text": "ἐν φυλακῇ καὶ",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 43,
+      "reference": "Mt 25:43",
+      "text": "ἐν φυλακῇ καὶ",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 44,
+      "reference": "Mt 25:44",
+      "text": "ἐν φυλακῇ καὶ",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Mk 6:17",
+      "text": "ἐν φυλακῇ διὰ",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Mk 6:27",
+      "text": "τῇ φυλακῇ",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Mk 6:48",
+      "text": "τετάρτην φυλακὴν τῆς",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Lk 2:8",
+      "text": "φυλάσσοντες φυλακὰς τῆς",
+      "highlightedWord": "φυλακὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Lk 3:20",
+      "text": "ἐν φυλακῇ.",
+      "highlightedWord": "φυλακῇ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Lk 12:38",
+      "text": "τρίτῃ φυλακῇ ἔλθῃ",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 58,
+      "reference": "Lk 12:58",
+      "text": "εἰς φυλακήν.",
+      "highlightedWord": "φυλακήν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Lk 21:12",
+      "text": "καὶ φυλακάς, ἀπαγομένους",
+      "highlightedWord": "φυλακάς,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 33,
+      "reference": "Lk 22:33",
+      "text": "εἰς φυλακὴν καὶ",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Lk 23:19",
+      "text": "τῇ φυλακῇ.",
+      "highlightedWord": "φυλακῇ."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 25,
+      "reference": "Lk 23:25",
+      "text": "εἰς φυλακὴν ὃν",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Jn 3:24",
+      "text": "τὴν φυλακὴν ὁ",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ac 5:19",
+      "text": "τῆς φυλακῆς ἐξαγαγών",
+      "highlightedWord": "φυλακῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Ac 5:22",
+      "text": "τῇ φυλακῇ, ἀναστρέψαντες",
+      "highlightedWord": "φυλακῇ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Ac 5:25",
+      "text": "τῇ φυλακῇ εἰσὶν",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Ac 8:3",
+      "text": "εἰς φυλακήν.",
+      "highlightedWord": "φυλακήν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Ac 12:4",
+      "text": "εἰς φυλακήν, παραδοὺς",
+      "highlightedWord": "φυλακήν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Ac 12:5",
+      "text": "τῇ φυλακῇ· προσευχὴ",
+      "highlightedWord": "φυλακῇ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ac 12:6",
+      "text": "τὴν φυλακήν.",
+      "highlightedWord": "φυλακήν."
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Ac 12:10",
+      "text": "πρώτην φυλακὴν καὶ",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Ac 12:17",
+      "text": "τῆς φυλακῆς, εἶπέν",
+      "highlightedWord": "φυλακῆς,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Ac 16:23",
+      "text": "εἰς φυλακήν, παραγγείλαντες",
+      "highlightedWord": "φυλακήν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Ac 16:24",
+      "text": "ἐσωτέραν φυλακὴν καὶ",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Ac 16:27",
+      "text": "τῆς φυλακῆς σπασάμενος",
+      "highlightedWord": "φυλακῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 37,
+      "reference": "Ac 16:37",
+      "text": "εἰς φυλακήν· καὶ",
+      "highlightedWord": "φυλακήν·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 40,
+      "reference": "Ac 16:40",
+      "text": "τῆς φυλακῆς εἰσῆλθον",
+      "highlightedWord": "φυλακῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Ac 22:4",
+      "text": "εἰς φυλακὰς ἄνδρας",
+      "highlightedWord": "φυλακὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 10,
+      "reference": "Ac 26:10",
+      "text": "ἐν φυλακαῖς κατέκλεισα",
+      "highlightedWord": "φυλακαῖς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "2Co 6:5",
+      "text": "ἐν φυλακαῖς, ἐν",
+      "highlightedWord": "φυλακαῖς,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "2Co 11:23",
+      "text": "ἐν φυλακαῖς περισσοτέρως,",
+      "highlightedWord": "φυλακαῖς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Heb 11:36",
+      "text": "καὶ φυλακῆς·",
+      "highlightedWord": "φυλακῆς·"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "1Pe 3:19",
+      "text": "ἐν φυλακῇ πνεύμασιν",
+      "highlightedWord": "φυλακῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Re 2:10",
+      "text": "εἰς φυλακὴν ἵνα",
+      "highlightedWord": "φυλακὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Re 18:2",
+      "text": "καὶ φυλακὴ παντὸς",
+      "highlightedWord": "φυλακὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Re 20:7",
+      "text": "τῆς φυλακῆς αὐτοῦ,",
+      "highlightedWord": "φυλακῆς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

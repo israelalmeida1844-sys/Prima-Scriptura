@@ -1,0 +1,370 @@
+{
+  "strong": "G3398",
+  "lemma": "μικρός",
+  "lemmaTranslit": "mikros",
+  "tokenCount": 46,
+  "verseCount": 43,
+  "bookDistribution": {
+    "Mateus": 8,
+    "Marcos": 5,
+    "Lucas": 5,
+    "João": 11,
+    "Atos": 2,
+    "1 Coríntios": 1,
+    "2 Coríntios": 2,
+    "Gálatas": 1,
+    "Hebreus": 2,
+    "Tiago": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mt 10:42",
+      "text": "τῶν μικρῶν τούτων",
+      "highlightedWord": "μικρῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Mt 11:11",
+      "text": "δὲ μικρότερος ἐν",
+      "highlightedWord": "μικρότερος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mt 13:32",
+      "text": "ὃ μικρότερον μέν",
+      "highlightedWord": "μικρότερον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Mt 18:6",
+      "text": "τῶν μικρῶν τούτων",
+      "highlightedWord": "μικρῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Mt 18:10",
+      "text": "τῶν μικρῶν τούτων,",
+      "highlightedWord": "μικρῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Mt 18:14",
+      "text": "τῶν μικρῶν τούτων.",
+      "highlightedWord": "μικρῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 39,
+      "reference": "Mt 26:39",
+      "text": "προελθὼν μικρὸν ἔπεσεν",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 73,
+      "reference": "Mt 26:73",
+      "text": "μετὰ μικρὸν δὲ",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 31,
+      "reference": "Mk 4:31",
+      "text": "γῆς, μικρότερον ὂν",
+      "highlightedWord": "μικρότερον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Mk 9:42",
+      "text": "τῶν μικρῶν τούτων",
+      "highlightedWord": "μικρῶν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mk 14:35",
+      "text": "προελθὼν μικρὸν ἔπιπτεν",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 70,
+      "reference": "Mk 14:70",
+      "text": "μετὰ μικρὸν πάλιν",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 40,
+      "reference": "Mk 15:40",
+      "text": "τοῦ μικροῦ καὶ",
+      "highlightedWord": "μικροῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Lk 7:28",
+      "text": "δὲ μικρότερος ἐν",
+      "highlightedWord": "μικρότερος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 48,
+      "reference": "Lk 9:48",
+      "text": "γὰρ μικρότερος ἐν",
+      "highlightedWord": "μικρότερος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 32,
+      "reference": "Lk 12:32",
+      "text": "τὸ μικρὸν ποίμνιον,",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Lk 17:2",
+      "text": "τῶν μικρῶν τούτων",
+      "highlightedWord": "μικρῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Lk 19:3",
+      "text": "ἡλικίᾳ μικρὸς ἦν.",
+      "highlightedWord": "μικρὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Jn 7:33",
+      "text": "χρόνον μικρὸν μεθ’",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "Ἔτι μικρὸν χρόνον",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Jn 13:33",
+      "text": "ἔτι μικρὸν μεθ’",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Jn 14:19",
+      "text": "ἔτι μικρὸν καὶ",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Jn 16:16",
+      "text": "Μικρὸν καὶ",
+      "highlightedWord": "Μικρὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Jn 16:17",
+      "text": "ἡμῖν· Μικρὸν καὶ",
+      "highlightedWord": "Μικρὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Jn 16:18",
+      "text": "λέγει μικρόν; οὐκ",
+      "highlightedWord": "μικρόν;"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Jn 16:19",
+      "text": "εἶπον· Μικρὸν καὶ",
+      "highlightedWord": "Μικρὸν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Ac 8:10",
+      "text": "ἀπὸ μικροῦ ἕως",
+      "highlightedWord": "μικροῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "μαρτυρόμενος μικρῷ τε",
+      "highlightedWord": "μικρῷ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Co 5:6",
+      "text": "ὅτι μικρὰ ζύμη",
+      "highlightedWord": "μικρὰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "2Co 11:1",
+      "text": "μου μικρόν τι",
+      "highlightedWord": "μικρόν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "2Co 11:16",
+      "text": "κἀγὼ μικρόν τι",
+      "highlightedWord": "μικρόν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Ga 5:9",
+      "text": "μικρὰ ζύμη",
+      "highlightedWord": "μικρὰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Heb 8:11",
+      "text": "ἀπὸ μικροῦ ἕως",
+      "highlightedWord": "μικροῦ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Heb 10:37",
+      "text": "γὰρ μικρὸν ὅσον",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Jas 3:5",
+      "text": "γλῶσσα μικρὸν μέλος",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "ὅτι μικρὰν ἔχεις",
+      "highlightedWord": "μικρὰν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Re 6:11",
+      "text": "χρόνον μικρόν, ἕως",
+      "highlightedWord": "μικρόν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Re 11:18",
+      "text": "τοὺς μικροὺς καὶ",
+      "highlightedWord": "μικροὺς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Re 13:16",
+      "text": "τοὺς μικροὺς καὶ",
+      "highlightedWord": "μικροὺς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Re 19:5",
+      "text": "οἱ μικροὶ καὶ",
+      "highlightedWord": "μικροὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Re 19:18",
+      "text": "καὶ μικρῶν καὶ",
+      "highlightedWord": "μικρῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "αὐτὸν μικρὸν χρόνον.",
+      "highlightedWord": "μικρὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Re 20:12",
+      "text": "τοὺς μικρούς, ἑστῶτας",
+      "highlightedWord": "μικρούς,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

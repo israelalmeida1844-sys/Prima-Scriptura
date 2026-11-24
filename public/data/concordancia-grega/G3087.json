@@ -1,0 +1,108 @@
+{
+  "strong": "G3087",
+  "lemma": "λυχνία",
+  "lemmaTranslit": "lychnia",
+  "tokenCount": 12,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Lucas": 2,
+    "Hebreus": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Mt 5:15",
+      "text": "τὴν λυχνίαν, καὶ",
+      "highlightedWord": "λυχνίαν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Mk 4:21",
+      "text": "τὴν λυχνίαν τεθῇ;",
+      "highlightedWord": "λυχνίαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Lk 8:16",
+      "text": "ἐπὶ λυχνίας τίθησιν,",
+      "highlightedWord": "λυχνίας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Lk 11:33",
+      "text": "τὴν λυχνίαν, ἵνα",
+      "highlightedWord": "λυχνίαν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Heb 9:2",
+      "text": "τε λυχνία καὶ",
+      "highlightedWord": "λυχνία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Re 1:12",
+      "text": "ἑπτὰ λυχνίας χρυσᾶς,",
+      "highlightedWord": "λυχνίας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "τῶν λυχνιῶν ὅμοιον",
+      "highlightedWord": "λυχνιῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Re 1:20",
+      "text": "ἑπτὰ λυχνίας τὰς",
+      "highlightedWord": "λυχνίας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "ἑπτὰ λυχνιῶν τῶν",
+      "highlightedWord": "λυχνιῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "τὴν λυχνίαν σου",
+      "highlightedWord": "λυχνίαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Re 11:4",
+      "text": "δύο λυχνίαι αἱ",
+      "highlightedWord": "λυχνίαι"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

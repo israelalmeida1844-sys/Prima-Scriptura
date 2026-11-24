@@ -1,0 +1,3926 @@
+{
+  "strong": "G3767",
+  "lemma": "οὖν",
+  "lemmaTranslit": "oun",
+  "tokenCount": 494,
+  "verseCount": 486,
+  "bookDistribution": {
+    "Mateus": 56,
+    "Marcos": 5,
+    "Lucas": 32,
+    "João": 197,
+    "Atos": 62,
+    "Romanos": 47,
+    "1 Coríntios": 19,
+    "2 Coríntios": 10,
+    "Gálatas": 6,
+    "Efésios": 7,
+    "Filipenses": 5,
+    "Colossenses": 5,
+    "1 Tessalonicenses": 2,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 4,
+    "2 Timóteo": 3,
+    "Filemom": 1,
+    "Hebreus": 13,
+    "Tiago": 5,
+    "1 Pedro": 6,
+    "2 Pedro": 1,
+    "3 João": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Mt 1:17",
+      "text": "Πᾶσαι οὖν αἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Mt 3:8",
+      "text": "ποιήσατε οὖν καρπὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Mt 3:10",
+      "text": "πᾶν οὖν δένδρον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Mt 5:19",
+      "text": "ἐὰν οὖν λύσῃ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Mt 5:23",
+      "text": "ἐὰν οὖν προσφέρῃς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 48,
+      "reference": "Mt 5:48",
+      "text": "Ἔσεσθε οὖν ὑμεῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mt 6:2",
+      "text": "Ὅταν οὖν ποιῇς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mt 6:8",
+      "text": "μὴ οὖν ὁμοιωθῆτε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Mt 6:9",
+      "text": "Οὕτως οὖν προσεύχεσθε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Mt 6:22",
+      "text": "ἐὰν οὖν ᾖ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Mt 6:23",
+      "text": "εἰ οὖν τὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 31,
+      "reference": "Mt 6:31",
+      "text": "μὴ οὖν μεριμνήσητε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Mt 6:34",
+      "text": "μὴ οὖν μεριμνήσητε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Mt 7:11",
+      "text": "εἰ οὖν ὑμεῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "Mt 7:12",
+      "text": "Πάντα οὖν ὅσα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Mt 7:24",
+      "text": "Πᾶς οὖν ὅστις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Mt 9:38",
+      "text": "δεήθητε οὖν τοῦ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Mt 10:16",
+      "text": "γίνεσθε οὖν φρόνιμοι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 26,
+      "reference": "Mt 10:26",
+      "text": "Μὴ οὖν φοβηθῆτε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Mt 10:31",
+      "text": "μὴ οὖν φοβεῖσθε·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Mt 10:32",
+      "text": "Πᾶς οὖν ὅστις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mt 12:12",
+      "text": "πόσῳ οὖν διαφέρει",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Mt 12:26",
+      "text": "πῶς οὖν σταθήσεται",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Mt 13:18",
+      "text": "Ὑμεῖς οὖν ἀκούσατε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Mt 13:27",
+      "text": "πόθεν οὖν ἔχει",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Mt 13:28",
+      "text": "Θέλεις οὖν ἀπελθόντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 40,
+      "reference": "Mt 13:40",
+      "text": "ὥσπερ οὖν συλλέγεται",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 56,
+      "reference": "Mt 13:56",
+      "text": "πόθεν οὖν τούτῳ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Mt 17:10",
+      "text": "Τί οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Mt 18:4",
+      "text": "ὅστις οὖν ταπεινώσει",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 26,
+      "reference": "Mt 18:26",
+      "text": "πεσὼν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Mt 18:29",
+      "text": "πεσὼν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Mt 18:31",
+      "text": "ἰδόντες οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Mt 19:6",
+      "text": "ὃ οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 7,
+      "reference": "Mt 19:7",
+      "text": "Τί οὖν Μωϋσῆς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Mt 21:25",
+      "text": "τί οὖν οὐκ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 40,
+      "reference": "Mt 21:40",
+      "text": "ὅταν οὖν ἔλθῃ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Mt 22:9",
+      "text": "πορεύεσθε οὖν ἐπὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 17,
+      "reference": "Mt 22:17",
+      "text": "εἰπὸν οὖν ἡμῖν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 21,
+      "reference": "Mt 22:21",
+      "text": "Ἀπόδοτε οὖν τὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 28,
+      "reference": "Mt 22:28",
+      "text": "ἀναστάσει οὖν τίνος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 43,
+      "reference": "Mt 22:43",
+      "text": "Πῶς οὖν Δαυὶδ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 45,
+      "reference": "Mt 22:45",
+      "text": "εἰ οὖν Δαυὶδ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 3,
+      "reference": "Mt 23:3",
+      "text": "πάντα οὖν ὅσα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 20,
+      "reference": "Mt 23:20",
+      "text": "ὁ οὖν ὀμόσας",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 15,
+      "reference": "Mt 24:15",
+      "text": "Ὅταν οὖν ἴδητε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 26,
+      "reference": "Mt 24:26",
+      "text": "ἐὰν οὖν εἴπωσιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 42,
+      "reference": "Mt 24:42",
+      "text": "γρηγορεῖτε οὖν, ὅτι",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 13,
+      "reference": "Mt 25:13",
+      "text": "γρηγορεῖτε οὖν, ὅτι",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 27,
+      "reference": "Mt 25:27",
+      "text": "σε οὖν βαλεῖν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 28,
+      "reference": "Mt 25:28",
+      "text": "ἄρατε οὖν ἀπ’",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 54,
+      "reference": "Mt 26:54",
+      "text": "πῶς οὖν πληρωθῶσιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 17,
+      "reference": "Mt 27:17",
+      "text": "συνηγμένων οὖν αὐτῶν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 22,
+      "reference": "Mt 27:22",
+      "text": "Τί οὖν ποιήσω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 64,
+      "reference": "Mt 27:64",
+      "text": "κέλευσον οὖν ἀσφαλισθῆναι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Mt 28:19",
+      "text": "πορευθέντες οὖν μαθητεύσατε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Mk 10:9",
+      "text": "ὃ οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Mk 11:31",
+      "text": "τί οὖν οὐκ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Mk 13:35",
+      "text": "γρηγορεῖτε οὖν, οὐκ",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "Mk 15:12",
+      "text": "Τί οὖν θέλετε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Mk 16:19",
+      "text": "μὲν οὖν κύριος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Lk 3:7",
+      "text": "Ἔλεγεν οὖν τοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Lk 3:8",
+      "text": "ποιήσατε οὖν καρποὺς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Lk 3:9",
+      "text": "πᾶν οὖν δένδρον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Lk 3:10",
+      "text": "Τί οὖν ποιήσωμεν;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Lk 3:18",
+      "text": "μὲν οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Lk 4:7",
+      "text": "σὺ οὖν ἐὰν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Lk 7:31",
+      "text": "Τίνι οὖν ὁμοιώσω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 42,
+      "reference": "Lk 7:42",
+      "text": "τίς οὖν αὐτῶν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Lk 8:18",
+      "text": "βλέπετε οὖν πῶς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Lk 10:2",
+      "text": "δεήθητε οὖν τοῦ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Lk 10:40",
+      "text": "εἰπὲ οὖν αὐτῇ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Lk 11:13",
+      "text": "εἰ οὖν ὑμεῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 35,
+      "reference": "Lk 11:35",
+      "text": "σκόπει οὖν μὴ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Lk 11:36",
+      "text": "εἰ οὖν τὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Lk 12:26",
+      "text": "εἰ οὖν οὐδὲ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Lk 13:14",
+      "text": "αὐταῖς οὖν ἐρχόμενοι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Lk 13:18",
+      "text": "Ἔλεγεν οὖν· Τίνι",
+      "highlightedWord": "οὖν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 33,
+      "reference": "Lk 14:33",
+      "text": "οὕτως οὖν πᾶς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 34,
+      "reference": "Lk 14:34",
+      "text": "Καλὸν οὖν τὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "Lk 16:11",
+      "text": "εἰ οὖν ἐν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Lk 16:27",
+      "text": "σε οὖν, πάτερ,",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Lk 19:12",
+      "text": "εἶπεν οὖν· Ἄνθρωπός",
+      "highlightedWord": "οὖν·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Lk 20:15",
+      "text": "τί οὖν ποιήσει",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Lk 20:17",
+      "text": "Τί οὖν ἐστιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Lk 20:29",
+      "text": "ἑπτὰ οὖν ἀδελφοὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 33,
+      "reference": "Lk 20:33",
+      "text": "γυνὴ οὖν ἐν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 44,
+      "reference": "Lk 20:44",
+      "text": "Δαυὶδ οὖν αὐτὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Lk 21:7",
+      "text": "πότε οὖν ταῦτα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Lk 21:14",
+      "text": "θέτε οὖν ἐν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 70,
+      "reference": "Lk 22:70",
+      "text": "Σὺ οὖν εἶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 16,
+      "reference": "Lk 23:16",
+      "text": "παιδεύσας οὖν αὐτὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Lk 23:22",
+      "text": "παιδεύσας οὖν αὐτὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Jn 1:21",
+      "text": "Τί οὖν; σὺ",
+      "highlightedWord": "οὖν;"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Jn 1:22",
+      "text": "εἶπαν οὖν αὐτῷ·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Jn 1:25",
+      "text": "Τί οὖν βαπτίζεις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Jn 1:39",
+      "text": "ἦλθαν οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Jn 2:18",
+      "text": "ἀπεκρίθησαν οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jn 2:20",
+      "text": "εἶπαν οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Jn 2:22",
+      "text": "ὅτε οὖν ἠγέρθη",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Jn 3:25",
+      "text": "Ἐγένετο οὖν ζήτησις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Jn 3:29",
+      "text": "αὕτη οὖν ἡ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Jn 4:1",
+      "text": "Ὡς οὖν ἔγνω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Jn 4:5",
+      "text": "ἔρχεται οὖν εἰς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Jn 4:6",
+      "text": "ὁ οὖν Ἰησοῦς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Jn 4:9",
+      "text": "λέγει οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "πόθεν οὖν ἔχεις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Jn 4:28",
+      "text": "ἀφῆκεν οὖν τὴν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Jn 4:33",
+      "text": "ἔλεγον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Jn 4:40",
+      "text": "ὡς οὖν ἦλθον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 45,
+      "reference": "Jn 4:45",
+      "text": "ὅτε οὖν ἦλθεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 46,
+      "reference": "Jn 4:46",
+      "text": "Ἦλθεν οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 48,
+      "reference": "Jn 4:48",
+      "text": "εἶπεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 52,
+      "reference": "Jn 4:52",
+      "text": "ἐπύθετο οὖν τὴν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 53,
+      "reference": "Jn 4:53",
+      "text": "ἔγνω οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Jn 5:10",
+      "text": "ἔλεγον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jn 5:12",
+      "text": "ἠρώτησαν οὖν αὐτόν·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Jn 5:18",
+      "text": "τοῦτο οὖν μᾶλλον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "Ἀπεκρίνατο οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Jn 6:5",
+      "text": "ἐπάρας οὖν τοὺς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Jn 6:10",
+      "text": "ἀνέπεσαν οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "Jn 6:11",
+      "text": "ἔλαβεν οὖν τοὺς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Jn 6:13",
+      "text": "συνήγαγον οὖν, καὶ",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Jn 6:14",
+      "text": "οἱ οὖν ἄνθρωποι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Jn 6:15",
+      "text": "Ἰησοῦς οὖν γνοὺς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Jn 6:19",
+      "text": "ἐληλακότες οὖν ὡς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Jn 6:21",
+      "text": "ἤθελον οὖν λαβεῖν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Jn 6:24",
+      "text": "ὅτε οὖν εἶδεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 28,
+      "reference": "Jn 6:28",
+      "text": "εἶπον οὖν πρὸς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Jn 6:30",
+      "text": "εἶπον οὖν αὐτῷ·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Jn 6:32",
+      "text": "εἶπεν οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 34,
+      "reference": "Jn 6:34",
+      "text": "εἶπον οὖν πρὸς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Jn 6:41",
+      "text": "Ἐγόγγυζον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 52,
+      "reference": "Jn 6:52",
+      "text": "Ἐμάχοντο οὖν πρὸς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 53,
+      "reference": "Jn 6:53",
+      "text": "εἶπεν οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 60,
+      "reference": "Jn 6:60",
+      "text": "Πολλοὶ οὖν ἀκούσαντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 62,
+      "reference": "Jn 6:62",
+      "text": "ἐὰν οὖν θεωρῆτε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 67,
+      "reference": "Jn 6:67",
+      "text": "εἶπεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Jn 7:3",
+      "text": "εἶπον οὖν πρὸς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 6,
+      "reference": "Jn 7:6",
+      "text": "λέγει οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Jn 7:11",
+      "text": "οἱ οὖν Ἰουδαῖοι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Jn 7:15",
+      "text": "ἐθαύμαζον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Jn 7:16",
+      "text": "ἀπεκρίθη οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Jn 7:25",
+      "text": "Ἔλεγον οὖν τινες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Jn 7:28",
+      "text": "ἔκραξεν οὖν ἐν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Jn 7:30",
+      "text": "ἐζήτουν οὖν αὐτὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Jn 7:33",
+      "text": "εἶπεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "εἶπον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "Jn 7:40",
+      "text": "ὄχλου οὖν ἀκούσαντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 43,
+      "reference": "Jn 7:43",
+      "text": "σχίσμα οὖν ἐγένετο",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Jn 7:45",
+      "text": "Ἦλθον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 47,
+      "reference": "Jn 7:47",
+      "text": "ἀπεκρίθησαν οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Jn 8:12",
+      "text": "Πάλιν οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Jn 8:13",
+      "text": "εἶπον οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Jn 8:19",
+      "text": "ἔλεγον οὖν αὐτῷ·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Jn 8:21",
+      "text": "Εἶπεν οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Jn 8:22",
+      "text": "ἔλεγον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Jn 8:24",
+      "text": "εἶπον οὖν ὑμῖν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Jn 8:25",
+      "text": "ἔλεγον οὖν αὐτῷ·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Jn 8:28",
+      "text": "εἶπεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Jn 8:31",
+      "text": "Ἔλεγεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Jn 8:36",
+      "text": "ἐὰν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Jn 8:38",
+      "text": "ὑμεῖς οὖν ἃ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 57,
+      "reference": "Jn 8:57",
+      "text": "εἶπον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 59,
+      "reference": "Jn 8:59",
+      "text": "ἦραν οὖν λίθους",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Jn 9:7",
+      "text": "ἀπῆλθεν οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Jn 9:8",
+      "text": "οἱ οὖν γείτονες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Jn 9:10",
+      "text": "ἔλεγον οὖν αὐτῷ·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Jn 9:11",
+      "text": "ἀπελθὼν οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Jn 9:15",
+      "text": "πάλιν οὖν ἠρώτων",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Jn 9:16",
+      "text": "ἔλεγον οὖν ἐκ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Jn 9:17",
+      "text": "λέγουσιν οὖν τῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Jn 9:18",
+      "text": "ἐπίστευσαν οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Jn 9:19",
+      "text": "πῶς οὖν βλέπει",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Jn 9:20",
+      "text": "ἀπεκρίθησαν οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Jn 9:24",
+      "text": "Ἐφώνησαν οὖν τὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Jn 9:25",
+      "text": "ἀπεκρίθη οὖν ἐκεῖνος·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Jn 9:26",
+      "text": "εἶπον οὖν αὐτῷ·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Jn 10:7",
+      "text": "Εἶπεν οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Jn 10:24",
+      "text": "ἐκύκλωσαν οὖν αὐτὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Jn 10:31",
+      "text": "Ἐβάστασαν οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Jn 10:39",
+      "text": "ἐζήτουν οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Jn 11:3",
+      "text": "ἀπέστειλαν οὖν αἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Jn 11:6",
+      "text": "ὡς οὖν ἤκουσεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Jn 11:12",
+      "text": "εἶπαν οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Jn 11:14",
+      "text": "τότε οὖν εἶπεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Jn 11:16",
+      "text": "εἶπεν οὖν Θωμᾶς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Jn 11:17",
+      "text": "Ἐλθὼν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Jn 11:20",
+      "text": "ἡ οὖν Μάρθα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Jn 11:21",
+      "text": "εἶπεν οὖν ἡ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "Jn 11:31",
+      "text": "οἱ οὖν Ἰουδαῖοι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "ἡ οὖν Μαριὰμ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Jn 11:33",
+      "text": "Ἰησοῦς οὖν ὡς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Jn 11:36",
+      "text": "ἔλεγον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 38,
+      "reference": "Jn 11:38",
+      "text": "Ἰησοῦς οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 41,
+      "reference": "Jn 11:41",
+      "text": "ἦραν οὖν τὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 45,
+      "reference": "Jn 11:45",
+      "text": "Πολλοὶ οὖν ἐκ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 47,
+      "reference": "Jn 11:47",
+      "text": "συνήγαγον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 53,
+      "reference": "Jn 11:53",
+      "text": "ἐκείνης οὖν τῆς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 54,
+      "reference": "Jn 11:54",
+      "text": "Ὁ οὖν Ἰησοῦς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 56,
+      "reference": "Jn 11:56",
+      "text": "ἐζήτουν οὖν τὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Jn 12:1",
+      "text": "Ὁ οὖν Ἰησοῦς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Jn 12:2",
+      "text": "ἐποίησαν οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Jn 12:3",
+      "text": "ἡ οὖν Μαριὰμ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Jn 12:7",
+      "text": "εἶπεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Jn 12:9",
+      "text": "Ἔγνω οὖν ὄχλος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Jn 12:17",
+      "text": "ἐμαρτύρει οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Jn 12:19",
+      "text": "οἱ οὖν Φαρισαῖοι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Jn 12:21",
+      "text": "οὗτοι οὖν προσῆλθον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Jn 12:28",
+      "text": "ἦλθεν οὖν φωνὴ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Jn 12:29",
+      "text": "ὁ οὖν ὄχλος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 34,
+      "reference": "Jn 12:34",
+      "text": "ἀπεκρίθη οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "εἶπεν οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 50,
+      "reference": "Jn 12:50",
+      "text": "ἃ οὖν ἐγὼ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Jn 13:6",
+      "text": "ἔρχεται οὖν πρὸς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Jn 13:12",
+      "text": "Ὅτε οὖν ἔνιψεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Jn 13:14",
+      "text": "εἰ οὖν ἐγὼ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Jn 13:24",
+      "text": "νεύει οὖν τούτῳ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Jn 13:26",
+      "text": "βάψας οὖν τὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Jn 13:27",
+      "text": "λέγει οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Jn 13:30",
+      "text": "λαβὼν οὖν τὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Jn 13:31",
+      "text": "Ὅτε οὖν ἐξῆλθεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Jn 16:17",
+      "text": "εἶπαν οὖν ἐκ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Jn 16:18",
+      "text": "ἔλεγον οὖν· Τί",
+      "highlightedWord": "οὖν·"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "Jn 16:22",
+      "text": "ὑμεῖς οὖν νῦν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Jn 18:3",
+      "text": "ὁ οὖν Ἰούδας",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Jn 18:4",
+      "text": "Ἰησοῦς οὖν εἰδὼς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Jn 18:6",
+      "text": "ὡς οὖν εἶπεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Jn 18:7",
+      "text": "πάλιν οὖν ἐπηρώτησεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Jn 18:8",
+      "text": "εἰ οὖν ἐμὲ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Jn 18:10",
+      "text": "Σίμων οὖν Πέτρος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Jn 18:11",
+      "text": "εἶπεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Jn 18:12",
+      "text": "Ἡ οὖν σπεῖρα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Jn 18:16",
+      "text": "ἐξῆλθεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Jn 18:17",
+      "text": "λέγει οὖν τῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Jn 18:19",
+      "text": "Ὁ οὖν ἀρχιερεὺς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Jn 18:24",
+      "text": "ἀπέστειλεν οὖν αὐτὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Jn 18:25",
+      "text": "εἶπον οὖν αὐτῷ·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 27,
+      "reference": "Jn 18:27",
+      "text": "πάλιν οὖν ἠρνήσατο",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Jn 18:28",
+      "text": "Ἄγουσιν οὖν τὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Jn 18:29",
+      "text": "ἐξῆλθεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 31,
+      "reference": "Jn 18:31",
+      "text": "εἶπεν οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 33,
+      "reference": "Jn 18:33",
+      "text": "Εἰσῆλθεν οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 37,
+      "reference": "Jn 18:37",
+      "text": "εἶπεν οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 39,
+      "reference": "Jn 18:39",
+      "text": "βούλεσθε οὖν ἀπολύσω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 40,
+      "reference": "Jn 18:40",
+      "text": "ἐκραύγασαν οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Jn 19:1",
+      "text": "Τότε οὖν ἔλαβεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Jn 19:5",
+      "text": "ἐξῆλθεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Jn 19:6",
+      "text": "ὅτε οὖν εἶδον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Jn 19:8",
+      "text": "Ὅτε οὖν ἤκουσεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Jn 19:10",
+      "text": "λέγει οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Jn 19:13",
+      "text": "Ὁ οὖν Πιλᾶτος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Jn 19:15",
+      "text": "ἐκραύγασαν οὖν ἐκεῖνοι·",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Jn 19:16",
+      "text": "τότε οὖν παρέδωκεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Jn 19:20",
+      "text": "τοῦτον οὖν τὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Jn 19:21",
+      "text": "ἔλεγον οὖν τῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Jn 19:23",
+      "text": "οἱ οὖν στρατιῶται",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Jn 19:24",
+      "text": "εἶπαν οὖν πρὸς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 26,
+      "reference": "Jn 19:26",
+      "text": "Ἰησοῦς οὖν ἰδὼν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Jn 19:29",
+      "text": "σπόγγον οὖν μεστὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Jn 19:30",
+      "text": "ὅτε οὖν ἔλαβεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Jn 19:31",
+      "text": "Οἱ οὖν Ἰουδαῖοι,",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Jn 19:32",
+      "text": "ἦλθον οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Jn 19:38",
+      "text": "ἦλθεν οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 40,
+      "reference": "Jn 19:40",
+      "text": "ἔλαβον οὖν τὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Jn 19:42",
+      "text": "ἐκεῖ οὖν διὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Jn 20:2",
+      "text": "τρέχει οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Jn 20:3",
+      "text": "ἐξῆλθεν οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Jn 20:6",
+      "text": "ἔρχεται οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 8,
+      "reference": "Jn 20:8",
+      "text": "τότε οὖν εἰσῆλθεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Jn 20:10",
+      "text": "ἀπῆλθον οὖν πάλιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Jn 20:11",
+      "text": "ὡς οὖν ἔκλαιεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "Οὔσης οὖν ὀψίας",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 20,
+      "reference": "Jn 20:20",
+      "text": "ἐχάρησαν οὖν οἱ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Jn 20:21",
+      "text": "εἶπεν οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Jn 20:25",
+      "text": "ἔλεγον οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Jn 20:30",
+      "text": "μὲν οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Jn 21:5",
+      "text": "λέγει οὖν αὐτοῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Jn 21:6",
+      "text": "ἔβαλον οὖν, καὶ",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Jn 21:7",
+      "text": "λέγει οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Jn 21:9",
+      "text": "Ὡς οὖν ἀπέβησαν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Jn 21:11",
+      "text": "ἀνέβη οὖν Σίμων",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Jn 21:15",
+      "text": "Ὅτε οὖν ἠρίστησαν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Jn 21:21",
+      "text": "τοῦτον οὖν ἰδὼν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Jn 21:23",
+      "text": "ἐξῆλθεν οὖν οὗτος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Ac 1:6",
+      "text": "μὲν οὖν συνελθόντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Ac 1:18",
+      "text": "μὲν οὖν ἐκτήσατο",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Ac 1:21",
+      "text": "δεῖ οὖν τῶν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 30,
+      "reference": "Ac 2:30",
+      "text": "προφήτης οὖν ὑπάρχων,",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 33,
+      "reference": "Ac 2:33",
+      "text": "δεξιᾷ οὖν τοῦ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 36,
+      "reference": "Ac 2:36",
+      "text": "ἀσφαλῶς οὖν γινωσκέτω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 41,
+      "reference": "Ac 2:41",
+      "text": "μὲν οὖν ἀποδεξάμενοι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ac 3:19",
+      "text": "μετανοήσατε οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Ac 5:41",
+      "text": "μὲν οὖν ἐπορεύοντο",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Ac 8:4",
+      "text": "μὲν οὖν διασπαρέντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Ac 8:22",
+      "text": "μετανόησον οὖν ἀπὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Ac 8:25",
+      "text": "μὲν οὖν διαμαρτυράμενοι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Ac 9:31",
+      "text": "μὲν οὖν ἐκκλησία",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Ac 10:23",
+      "text": "εἰσκαλεσάμενος οὖν αὐτοὺς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Ac 10:29",
+      "text": "πυνθάνομαι οὖν τίνι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 32,
+      "reference": "Ac 10:32",
+      "text": "πέμψον οὖν εἰς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "Ac 10:33",
+      "text": "ἐξαυτῆς οὖν ἔπεμψα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Ac 11:17",
+      "text": "εἰ οὖν τὴν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ac 11:19",
+      "text": "μὲν οὖν διασπαρέντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Ac 12:5",
+      "text": "μὲν οὖν Πέτρος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Ac 13:4",
+      "text": "μὲν οὖν ἐκπεμφθέντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 38,
+      "reference": "Ac 13:38",
+      "text": "γνωστὸν οὖν ἔστω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 40,
+      "reference": "Ac 13:40",
+      "text": "βλέπετε οὖν μὴ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Ac 14:3",
+      "text": "μὲν οὖν χρόνον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 3,
+      "reference": "Ac 15:3",
+      "text": "μὲν οὖν προπεμφθέντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Ac 15:10",
+      "text": "νῦν οὖν τί",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Ac 15:27",
+      "text": "ἀπεστάλκαμεν οὖν Ἰούδαν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Ac 15:30",
+      "text": "μὲν οὖν ἀπολυθέντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Ac 16:5",
+      "text": "μὲν οὖν ἐκκλησίαι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "Ac 16:11",
+      "text": "Ἀναχθέντες οὖν ἀπὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 36,
+      "reference": "Ac 16:36",
+      "text": "νῦν οὖν ἐξελθόντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Ac 17:12",
+      "text": "μὲν οὖν ἐξ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Ac 17:17",
+      "text": "μὲν οὖν ἐν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 20,
+      "reference": "Ac 17:20",
+      "text": "βουλόμεθα οὖν γνῶναι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Ac 17:23",
+      "text": "ὃ οὖν ἀγνοοῦντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Ac 17:29",
+      "text": "γένος οὖν ὑπάρχοντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 30,
+      "reference": "Ac 17:30",
+      "text": "μὲν οὖν χρόνους",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Ac 19:3",
+      "text": "τί οὖν ἐβαπτίσθητε;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Ac 19:32",
+      "text": "μὲν οὖν ἄλλο",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 36,
+      "reference": "Ac 19:36",
+      "text": "ἀναντιρρήτων οὖν ὄντων",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Ac 19:38",
+      "text": "μὲν οὖν Δημήτριος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 22,
+      "reference": "Ac 21:22",
+      "text": "τί οὖν ἐστιν;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Ac 21:23",
+      "text": "τοῦτο οὖν ποίησον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Ac 22:29",
+      "text": "εὐθέως οὖν ἀπέστησαν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 15,
+      "reference": "Ac 23:15",
+      "text": "νῦν οὖν ὑμεῖς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 18,
+      "reference": "Ac 23:18",
+      "text": "μὲν οὖν παραλαβὼν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 21,
+      "reference": "Ac 23:21",
+      "text": "σὺ οὖν μὴ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Ac 23:22",
+      "text": "μὲν οὖν χιλίαρχος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 31,
+      "reference": "Ac 23:31",
+      "text": "μὲν οὖν στρατιῶται",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 1,
+      "reference": "Ac 25:1",
+      "text": "Φῆστος οὖν ἐπιβὰς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 4,
+      "reference": "Ac 25:4",
+      "text": "μὲν οὖν Φῆστος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 5,
+      "reference": "Ac 25:5",
+      "text": "Οἱ οὖν ἐν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "μὲν οὖν ἀδικῶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 17,
+      "reference": "Ac 25:17",
+      "text": "συνελθόντων οὖν ἐνθάδε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 23,
+      "reference": "Ac 25:23",
+      "text": "Τῇ οὖν ἐπαύριον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Ac 26:4",
+      "text": "μὲν οὖν βίωσίν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 9,
+      "reference": "Ac 26:9",
+      "text": "μὲν οὖν ἔδοξα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 22,
+      "reference": "Ac 26:22",
+      "text": "ἐπικουρίας οὖν τυχὼν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Ac 28:5",
+      "text": "μὲν οὖν ἀποτινάξας",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 20,
+      "reference": "Ac 28:20",
+      "text": "ταύτην οὖν τὴν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 28,
+      "reference": "Ac 28:28",
+      "text": "γνωστὸν οὖν ἔστω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Ro 2:21",
+      "text": "ὁ οὖν διδάσκων",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Ro 2:26",
+      "text": "ἐὰν οὖν ἡ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Ro 3:1",
+      "text": "Τί οὖν τὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Ro 3:9",
+      "text": "Τί οὖν; προεχόμεθα;",
+      "highlightedWord": "οὖν;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Ro 3:27",
+      "text": "Ποῦ οὖν ἡ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 31,
+      "reference": "Ro 3:31",
+      "text": "νόμον οὖν καταργοῦμεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Ro 4:1",
+      "text": "Τί οὖν ἐροῦμεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ro 4:9",
+      "text": "μακαρισμὸς οὖν οὗτος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Ro 4:10",
+      "text": "πῶς οὖν ἐλογίσθη;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ro 5:1",
+      "text": "Δικαιωθέντες οὖν ἐκ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Ro 5:9",
+      "text": "πολλῷ οὖν μᾶλλον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Ro 5:18",
+      "text": "Ἄρα οὖν ὡς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Ro 6:1",
+      "text": "Τί οὖν ἐροῦμεν;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Ro 6:4",
+      "text": "συνετάφημεν οὖν αὐτῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 12,
+      "reference": "Ro 6:12",
+      "text": "Μὴ οὖν βασιλευέτω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "Ro 6:15",
+      "text": "Τί οὖν; ἁμαρτήσωμεν",
+      "highlightedWord": "οὖν;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Ro 6:21",
+      "text": "τίνα οὖν καρπὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Ro 7:3",
+      "text": "ἄρα οὖν ζῶντος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ro 7:7",
+      "text": "Τί οὖν ἐροῦμεν;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "Ro 7:13",
+      "text": "Τὸ οὖν ἀγαθὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Ro 7:25",
+      "text": "Ἄρα οὖν αὐτὸς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Ro 8:12",
+      "text": "Ἄρα οὖν, ἀδελφοί,",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ro 8:31",
+      "text": "Τί οὖν ἐροῦμεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ro 9:14",
+      "text": "Τί οὖν ἐροῦμεν;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Ro 9:16",
+      "text": "ἄρα οὖν οὐ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Ro 9:18",
+      "text": "ἄρα οὖν ὃν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Ro 9:19",
+      "text": "μοι οὖν· Τί",
+      "highlightedWord": "οὖν·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Ro 9:30",
+      "text": "Τί οὖν ἐροῦμεν;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Ro 10:14",
+      "text": "Πῶς οὖν ἐπικαλέσωνται",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Ro 11:1",
+      "text": "Λέγω οὖν, μὴ",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Ro 11:5",
+      "text": "οὕτως οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Ro 11:7",
+      "text": "τί οὖν; ὃ",
+      "highlightedWord": "οὖν;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Ro 11:11",
+      "text": "Λέγω οὖν, μὴ",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Ro 11:13",
+      "text": "μὲν οὖν εἰμι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ro 11:19",
+      "text": "ἐρεῖς οὖν· Ἐξεκλάσθησαν",
+      "highlightedWord": "οὖν·"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Ro 11:22",
+      "text": "ἴδε οὖν χρηστότητα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Ro 12:1",
+      "text": "Παρακαλῶ οὖν ὑμᾶς,",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Ro 13:10",
+      "text": "πλήρωμα οὖν νόμου",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Ro 13:12",
+      "text": "ἀποβαλώμεθα οὖν τὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Ro 14:8",
+      "text": "τε οὖν ζῶμεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Ro 14:13",
+      "text": "Μηκέτι οὖν ἀλλήλους",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Ro 14:16",
+      "text": "βλασφημείσθω οὖν ὑμῶν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Ro 14:19",
+      "text": "ἄρα οὖν τὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Ro 15:17",
+      "text": "ἔχω οὖν τὴν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Ro 15:28",
+      "text": "τοῦτο οὖν ἐπιτελέσας,",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Ro 16:19",
+      "text": "ὑμῖν οὖν χαίρω,",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Co 3:5",
+      "text": "Τί οὖν ἐστιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Co 4:16",
+      "text": "παρακαλῶ οὖν ὑμᾶς,",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "1Co 6:4",
+      "text": "μὲν οὖν κριτήρια",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "1Co 6:7",
+      "text": "μὲν οὖν ὅλως",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "1Co 6:15",
+      "text": "ἄρας οὖν τὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "1Co 7:26",
+      "text": "νομίζω οὖν τοῦτο",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "1Co 8:4",
+      "text": "βρώσεως οὖν τῶν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "1Co 9:18",
+      "text": "τίς οὖν μού",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "1Co 9:25",
+      "text": "μὲν οὖν ἵνα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "1Co 10:19",
+      "text": "τί οὖν φημι;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "1Co 10:31",
+      "text": "Εἴτε οὖν ἐσθίετε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "1Co 11:20",
+      "text": "συνερχομένων οὖν ὑμῶν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "1Co 14:11",
+      "text": "ἐὰν οὖν μὴ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "1Co 14:15",
+      "text": "τί οὖν ἐστιν;",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 23,
+      "reference": "1Co 14:23",
+      "text": "ἐὰν οὖν συνέλθῃ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "1Co 14:26",
+      "text": "Τί οὖν ἐστιν,",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "1Co 15:11",
+      "text": "εἴτε οὖν ἐγὼ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "1Co 16:11",
+      "text": "τις οὖν αὐτὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "1Co 16:18",
+      "text": "ἐπιγινώσκετε οὖν τοὺς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Co 1:17",
+      "text": "τοῦτο οὖν βουλόμενος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "2Co 3:12",
+      "text": "Ἔχοντες οὖν τοιαύτην",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "2Co 5:6",
+      "text": "Θαρροῦντες οὖν πάντοτε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "2Co 5:11",
+      "text": "Εἰδότες οὖν τὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "2Co 5:20",
+      "text": "Χριστοῦ οὖν πρεσβεύομεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "2Co 7:1",
+      "text": "ταύτας οὖν ἔχοντες",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "2Co 8:24",
+      "text": "τὴν οὖν ἔνδειξιν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "2Co 9:5",
+      "text": "ἀναγκαῖον οὖν ἡγησάμην",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "2Co 11:15",
+      "text": "μέγα οὖν εἰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "2Co 12:9",
+      "text": "ἥδιστα οὖν μᾶλλον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ga 3:5",
+      "text": "ὁ οὖν ἐπιχορηγῶν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ga 3:19",
+      "text": "Τί οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ga 3:21",
+      "text": "Ὁ οὖν νόμος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Ga 4:15",
+      "text": "ποῦ οὖν ὁ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ga 5:1",
+      "text": "στήκετε οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Ga 6:10",
+      "text": "ἄρα οὖν ὡς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Eph 2:19",
+      "text": "ἄρα οὖν οὐκέτι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Eph 4:1",
+      "text": "Παρακαλῶ οὖν ὑμᾶς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Eph 4:17",
+      "text": "Τοῦτο οὖν λέγω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Eph 5:1",
+      "text": "γίνεσθε οὖν μιμηταὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Eph 5:7",
+      "text": "μὴ οὖν γίνεσθε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Eph 5:15",
+      "text": "Βλέπετε οὖν ἀκριβῶς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Eph 6:14",
+      "text": "στῆτε οὖν περιζωσάμενοι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Php 2:1",
+      "text": "τις οὖν παράκλησις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Php 2:23",
+      "text": "μὲν οὖν ἐλπίζω",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 28,
+      "reference": "Php 2:28",
+      "text": "σπουδαιοτέρως οὖν ἔπεμψα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Php 2:29",
+      "text": "προσδέχεσθε οὖν αὐτὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Php 3:15",
+      "text": "ὅσοι οὖν τέλειοι,",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Col 2:6",
+      "text": "Ὡς οὖν παρελάβετε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Col 2:16",
+      "text": "Μὴ οὖν τις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Col 3:1",
+      "text": "Εἰ οὖν συνηγέρθητε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Col 3:5",
+      "text": "Νεκρώσατε οὖν τὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Col 3:12",
+      "text": "Ἐνδύσασθε οὖν ὡς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Th 4:1",
+      "text": "Λοιπὸν οὖν, ἀδελφοί,",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Th 5:6",
+      "text": "ἄρα οὖν μὴ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "2Th 2:15",
+      "text": "ἄρα οὖν, ἀδελφοί,",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Ti 2:1",
+      "text": "Παρακαλῶ οὖν πρῶτον",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Ti 2:8",
+      "text": "Βούλομαι οὖν προσεύχεσθαι",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Ti 3:2",
+      "text": "δεῖ οὖν τὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Ti 5:14",
+      "text": "βούλομαι οὖν νεωτέρας",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Ti 1:8",
+      "text": "Μὴ οὖν ἐπαισχυνθῇς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "2Ti 2:1",
+      "text": "Σὺ οὖν, τέκνον",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "2Ti 2:21",
+      "text": "ἐὰν οὖν τις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Phm 1:17",
+      "text": "Εἰ οὖν με",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Heb 2:14",
+      "text": "Ἐπεὶ οὖν τὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Heb 4:1",
+      "text": "Φοβηθῶμεν οὖν μήποτε",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Heb 4:6",
+      "text": "ἐπεὶ οὖν ἀπολείπεται",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Heb 4:11",
+      "text": "σπουδάσωμεν οὖν εἰσελθεῖν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Heb 4:14",
+      "text": "Ἔχοντες οὖν ἀρχιερέα",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Heb 4:16",
+      "text": "προσερχώμεθα οὖν μετὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Heb 7:11",
+      "text": "μὲν οὖν τελείωσις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Heb 8:4",
+      "text": "μὲν οὖν ἦν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Heb 9:1",
+      "text": "μὲν οὖν ἡ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Heb 9:23",
+      "text": "Ἀνάγκη οὖν τὰ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Heb 10:19",
+      "text": "Ἔχοντες οὖν, ἀδελφοί,",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Heb 10:35",
+      "text": "ἀποβάλητε οὖν τὴν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Heb 13:15",
+      "text": "αὐτοῦ οὖν ἀναφέρωμεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Jas 4:4",
+      "text": "ἐὰν οὖν βουληθῇ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Jas 4:7",
+      "text": "ὑποτάγητε οὖν τῷ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Jas 4:17",
+      "text": "εἰδότι οὖν καλὸν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jas 5:7",
+      "text": "Μακροθυμήσατε οὖν, ἀδελφοί,",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "Jas 5:16",
+      "text": "ἐξομολογεῖσθε οὖν ἀλλήλοις",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Pe 2:1",
+      "text": "Ἀποθέμενοι οὖν πᾶσαν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Pe 2:7",
+      "text": "ὑμῖν οὖν ἡ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Pe 4:1",
+      "text": "Χριστοῦ οὖν παθόντος",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Pe 4:7",
+      "text": "σωφρονήσατε οὖν καὶ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "1Pe 5:1",
+      "text": "Πρεσβυτέρους οὖν ἐν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Pe 5:6",
+      "text": "Ταπεινώθητε οὖν ὑπὸ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "2Pe 3:17",
+      "text": "ὑμεῖς οὖν, ἀγαπητοί,",
+      "highlightedWord": "οὖν,"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "3Jn 1:8",
+      "text": "ἡμεῖς οὖν ὀφείλομεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Re 1:19",
+      "text": "γράψον οὖν ἃ",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "μνημόνευε οὖν πόθεν",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Re 2:16",
+      "text": "μετανόησον οὖν· εἰ",
+      "highlightedWord": "οὖν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "μνημόνευε οὖν πῶς",
+      "highlightedWord": "οὖν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Re 3:19",
+      "text": "ζήλευε οὖν καὶ",
+      "highlightedWord": "οὖν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

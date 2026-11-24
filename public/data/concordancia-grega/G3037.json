@@ -1,0 +1,449 @@
+{
+  "strong": "G3037",
+  "lemma": "λίθος",
+  "lemmaTranslit": "lithos",
+  "tokenCount": 58,
+  "verseCount": 53,
+  "bookDistribution": {
+    "Mateus": 11,
+    "Marcos": 8,
+    "Lucas": 14,
+    "João": 6,
+    "Atos": 2,
+    "Romanos": 2,
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "1 Pedro": 5,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Mt 3:9",
+      "text": "τῶν λίθων τούτων",
+      "highlightedWord": "λίθων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Mt 4:3",
+      "text": "οἱ λίθοι οὗτοι",
+      "highlightedWord": "λίθοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mt 4:6",
+      "text": "πρὸς λίθον τὸν",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Mt 7:9",
+      "text": "μὴ λίθον ἐπιδώσει",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 42,
+      "reference": "Mt 21:42",
+      "text": "γραφαῖς· Λίθον ὃν",
+      "highlightedWord": "Λίθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 44,
+      "reference": "Mt 21:44",
+      "text": "τὸν λίθον τοῦτον",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Mt 24:2",
+      "text": "ὧδε λίθος ἐπὶ",
+      "highlightedWord": "λίθος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 60,
+      "reference": "Mt 27:60",
+      "text": "προσκυλίσας λίθον μέγαν",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 66,
+      "reference": "Mt 27:66",
+      "text": "τὸν λίθον μετὰ",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 2,
+      "reference": "Mt 28:2",
+      "text": "τὸν λίθον καὶ",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Mk 5:5",
+      "text": "ἑαυτὸν λίθοις.",
+      "highlightedWord": "λίθοις."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Mk 12:10",
+      "text": "ἀνέγνωτε· Λίθον ὃν",
+      "highlightedWord": "Λίθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mk 13:1",
+      "text": "ποταποὶ λίθοι καὶ",
+      "highlightedWord": "λίθοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Mk 13:2",
+      "text": "ὧδε λίθος ἐπὶ",
+      "highlightedWord": "λίθος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 46,
+      "reference": "Mk 15:46",
+      "text": "προσεκύλισεν λίθον ἐπὶ",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Mk 16:3",
+      "text": "τὸν λίθον ἐκ",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Mk 16:4",
+      "text": "ὁ λίθος, ἦν",
+      "highlightedWord": "λίθος,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Lk 3:8",
+      "text": "τῶν λίθων τούτων",
+      "highlightedWord": "λίθων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Lk 4:3",
+      "text": "τῷ λίθῳ τούτῳ",
+      "highlightedWord": "λίθῳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Lk 4:11",
+      "text": "πρὸς λίθον τὸν",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Lk 17:2",
+      "text": "εἰ λίθος μυλικὸς",
+      "highlightedWord": "λίθος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 40,
+      "reference": "Lk 19:40",
+      "text": "οἱ λίθοι κράξουσιν.",
+      "highlightedWord": "λίθοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 44,
+      "reference": "Lk 19:44",
+      "text": "ἀφήσουσιν λίθον ἐπὶ",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 17,
+      "reference": "Lk 20:17",
+      "text": "τοῦτο· Λίθον ὃν",
+      "highlightedWord": "Λίθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Lk 20:18",
+      "text": "τὸν λίθον συνθλασθήσεται·",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 5,
+      "reference": "Lk 21:5",
+      "text": "ὅτι λίθοις καλοῖς",
+      "highlightedWord": "λίθοις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Lk 21:6",
+      "text": "ἀφεθήσεται λίθος ἐπὶ",
+      "highlightedWord": "λίθος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 41,
+      "reference": "Lk 22:41",
+      "text": "ὡσεὶ λίθου βολήν,",
+      "highlightedWord": "λίθου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Lk 24:2",
+      "text": "τὸν λίθον ἀποκεκυλισμένον",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 59,
+      "reference": "Jn 8:59",
+      "text": "οὖν λίθους ἵνα",
+      "highlightedWord": "λίθους"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Jn 10:31",
+      "text": "πάλιν λίθους οἱ",
+      "highlightedWord": "λίθους"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 38,
+      "reference": "Jn 11:38",
+      "text": "καὶ λίθος ἐπέκειτο",
+      "highlightedWord": "λίθος"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 39,
+      "reference": "Jn 11:39",
+      "text": "τὸν λίθον. λέγει",
+      "highlightedWord": "λίθον."
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 41,
+      "reference": "Jn 11:41",
+      "text": "τὸν λίθον. ὁ",
+      "highlightedWord": "λίθον."
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Jn 20:1",
+      "text": "τὸν λίθον ἠρμένον",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Ac 4:11",
+      "text": "ὁ λίθος ὁ",
+      "highlightedWord": "λίθος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Ac 17:29",
+      "text": "ἢ λίθῳ, χαράγματι",
+      "highlightedWord": "λίθῳ,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Ro 9:32",
+      "text": "τῷ λίθῳ τοῦ",
+      "highlightedWord": "λίθῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Ro 9:33",
+      "text": "Σιὼν λίθον προσκόμματος",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Co 3:12",
+      "text": "ἄργυρον, λίθους τιμίους,",
+      "highlightedWord": "λίθους"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Co 3:7",
+      "text": "ἐντετυπωμένη λίθοις ἐγενήθη",
+      "highlightedWord": "λίθοις"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "1Pe 2:4",
+      "text": "προσερχόμενοι, λίθον ζῶντα,",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Pe 2:5",
+      "text": "ὡς λίθοι ζῶντες",
+      "highlightedWord": "λίθοι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Pe 2:6",
+      "text": "Σιὼν λίθον ἀκρογωνιαῖον",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "1Pe 2:7",
+      "text": "δὲ λίθος ὃν",
+      "highlightedWord": "λίθος"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Pe 2:8",
+      "text": "καὶ λίθος προσκόμματος",
+      "highlightedWord": "λίθος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Re 4:3",
+      "text": "ὁράσει λίθῳ ἰάσπιδι",
+      "highlightedWord": "λίθῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Re 17:4",
+      "text": "καὶ λίθῳ τιμίῳ",
+      "highlightedWord": "λίθῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Re 18:12",
+      "text": "καὶ λίθου τιμίου",
+      "highlightedWord": "λίθου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Re 18:16",
+      "text": "καὶ λίθῳ τιμίῳ",
+      "highlightedWord": "λίθῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "ἰσχυρὸς λίθον ὡς",
+      "highlightedWord": "λίθον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Re 21:11",
+      "text": "ὅμοιος λίθῳ τιμιωτάτῳ,",
+      "highlightedWord": "λίθῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Re 21:19",
+      "text": "παντὶ λίθῳ τιμίῳ",
+      "highlightedWord": "λίθῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

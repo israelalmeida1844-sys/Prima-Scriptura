@@ -1,0 +1,109 @@
+{
+  "strong": "G2206",
+  "lemma": "ζηλεύω",
+  "lemmaTranslit": "zēleuō",
+  "tokenCount": 12,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Atos": 2,
+    "1 Coríntios": 4,
+    "2 Coríntios": 1,
+    "Gálatas": 3,
+    "Tiago": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Ac 7:9",
+      "text": "πατριάρχαι ζηλώσαντες τὸν",
+      "highlightedWord": "ζηλώσαντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Ac 17:5",
+      "text": "ζηλώσαντες δὲ",
+      "highlightedWord": "ζηλώσαντες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "1Co 12:31",
+      "text": "ζηλοῦτε δὲ",
+      "highlightedWord": "ζηλοῦτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "1Co 13:4",
+      "text": "οὐ ζηλοῖ ἡ",
+      "highlightedWord": "ζηλοῖ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "1Co 14:1",
+      "text": "ἀγάπην, ζηλοῦτε δὲ",
+      "highlightedWord": "ζηλοῦτε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 39,
+      "reference": "1Co 14:39",
+      "text": "μου, ζηλοῦτε τὸ",
+      "highlightedWord": "ζηλοῦτε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "2Co 11:2",
+      "text": "ζηλῶ γὰρ",
+      "highlightedWord": "ζηλῶ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ga 4:17",
+      "text": "ζηλοῦσιν ὑμᾶς",
+      "highlightedWord": "ζηλοῦσιν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ga 4:18",
+      "text": "δὲ ζηλοῦσθαι ἐν",
+      "highlightedWord": "ζηλοῦσθαι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Jas 4:2",
+      "text": "καὶ ζηλοῦτε, καὶ",
+      "highlightedWord": "ζηλοῦτε,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Re 3:19",
+      "text": "παιδεύω· ζήλευε οὖν",
+      "highlightedWord": "ζήλευε"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

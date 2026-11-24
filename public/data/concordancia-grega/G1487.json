@@ -1,0 +1,3720 @@
+{
+  "strong": "G1487",
+  "lemma": "εἰ",
+  "lemmaTranslit": "ei",
+  "tokenCount": 502,
+  "verseCount": 460,
+  "bookDistribution": {
+    "Mateus": 55,
+    "Marcos": 35,
+    "Lucas": 53,
+    "João": 49,
+    "Atos": 35,
+    "Romanos": 44,
+    "1 Coríntios": 64,
+    "2 Coríntios": 36,
+    "Gálatas": 20,
+    "Efésios": 4,
+    "Filipenses": 13,
+    "Colossenses": 4,
+    "1 Tessalonicenses": 1,
+    "2 Tessalonicenses": 2,
+    "1 Timóteo": 13,
+    "2 Timóteo": 4,
+    "Tito": 1,
+    "Filemom": 2,
+    "Hebreus": 16,
+    "Tiago": 10,
+    "1 Pedro": 15,
+    "2 Pedro": 2,
+    "1 João": 7,
+    "2 João": 1,
+    "Apocalipse": 16
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Mt 4:3",
+      "text": "αὐτῷ· Εἰ υἱὸς",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Mt 4:6",
+      "text": "αὐτῷ· Εἰ υἱὸς",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Mt 5:13",
+      "text": "ἔτι εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 29,
+      "reference": "Mt 5:29",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "καὶ εἰ ἡ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Mt 6:1",
+      "text": "αὐτοῖς· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Mt 6:23",
+      "text": "ἔσται. εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 30,
+      "reference": "Mt 6:30",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Mt 7:11",
+      "text": "εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Mt 8:31",
+      "text": "λέγοντες· Εἰ ἐκβάλλεις",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Mt 9:17",
+      "text": "παλαιούς· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Mt 10:25",
+      "text": "αὐτοῦ. εἰ τὸν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Mt 11:14",
+      "text": "καὶ εἰ θέλετε",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Mt 11:21",
+      "text": "ὅτι εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "Mt 11:23",
+      "text": "ὅτι εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Mt 11:27",
+      "text": "υἱὸν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 4,
+      "reference": "Mt 12:4",
+      "text": "αὐτοῦ, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Mt 12:7",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Mt 12:10",
+      "text": "λέγοντες· Εἰ ἔξεστι",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Mt 12:24",
+      "text": "δαιμόνια εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Mt 12:26",
+      "text": "καὶ εἰ ὁ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Mt 12:27",
+      "text": "καὶ εἰ ἐγὼ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Mt 12:28",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Mt 12:39",
+      "text": "αὐτῇ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 57,
+      "reference": "Mt 13:57",
+      "text": "ἄτιμος εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Mt 14:17",
+      "text": "ὧδε εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Mt 14:28",
+      "text": "Κύριε, εἰ σὺ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Mt 15:24",
+      "text": "ἀπεστάλην εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Mt 16:4",
+      "text": "αὐτῇ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Mt 16:24",
+      "text": "αὐτοῦ· Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Mt 17:4",
+      "text": "εἶναι· εἰ θέλεις,",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Mt 17:8",
+      "text": "εἶδον εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Mt 18:8",
+      "text": "Εἰ δὲ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Mt 18:9",
+      "text": "καὶ εἰ ὁ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Mt 18:28",
+      "text": "Ἀπόδος εἴ τι",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Mt 19:3",
+      "text": "λέγοντες· Εἰ ἔξεστιν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Mt 19:10",
+      "text": "μαθηταί· Εἰ οὕτως",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Mt 19:17",
+      "text": "ἀγαθός· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Mt 19:21",
+      "text": "Ἰησοῦς· Εἰ θέλεις",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Mt 21:19",
+      "text": "αὐτῇ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 45,
+      "reference": "Mt 22:45",
+      "text": "εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 30,
+      "reference": "Mt 23:30",
+      "text": "λέγετε· Εἰ ἤμεθα",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Mt 24:22",
+      "text": "καὶ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Mt 24:24",
+      "text": "πλανῆσαι εἰ δυνατὸν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "υἱός, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "ὅτι εἰ ᾔδει",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 24,
+      "reference": "Mt 26:24",
+      "text": "αὐτῷ εἰ οὐκ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 33,
+      "reference": "Mt 26:33",
+      "text": "αὐτῷ· Εἰ πάντες",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 39,
+      "reference": "Mt 26:39",
+      "text": "μου, εἰ δυνατόν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 42,
+      "reference": "Mt 26:42",
+      "text": "μου, εἰ οὐ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 63,
+      "reference": "Mt 26:63",
+      "text": "εἴπῃς εἰ σὺ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 40,
+      "reference": "Mt 27:40",
+      "text": "σεαυτόν· εἰ υἱὸς",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 43,
+      "reference": "Mt 27:43",
+      "text": "νῦν εἰ θέλει",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 49,
+      "reference": "Mt 27:49",
+      "text": "ἴδωμεν εἰ ἔρχεται",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Mk 2:7",
+      "text": "ἁμαρτίας εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Mk 2:21",
+      "text": "παλαιόν· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mk 2:22",
+      "text": "παλαιούς· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "Mk 2:26",
+      "text": "φαγεῖν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Mk 3:2",
+      "text": "αὐτὸν εἰ τοῖς",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 26,
+      "reference": "Mk 3:26",
+      "text": "καὶ εἰ ὁ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Mk 4:23",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Mk 5:37",
+      "text": "συνακολουθῆσαι εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Mk 6:4",
+      "text": "ἄτιμος εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mk 6:5",
+      "text": "δύναμιν, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mk 6:8",
+      "text": "ὁδὸν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Mk 8:12",
+      "text": "ὑμῖν, εἰ δοθήσεται",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Mk 8:14",
+      "text": "καὶ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 23,
+      "reference": "Mk 8:23",
+      "text": "αὐτόν· Εἴ τι",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Mk 8:34",
+      "text": "αὐτοῖς· Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Mk 9:9",
+      "text": "διηγήσωνται, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mk 9:22",
+      "text": "ἀλλ’ εἴ τι",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Mk 9:23",
+      "text": "Τὸ Εἰ δύνῃ,",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Mk 9:29",
+      "text": "ἐξελθεῖν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mk 9:35",
+      "text": "αὐτοῖς· Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Mk 9:42",
+      "text": "μᾶλλον εἰ περίκειται",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Mk 10:2",
+      "text": "αὐτὸν εἰ ἔξεστιν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Mk 10:18",
+      "text": "ἀγαθὸς εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Mk 11:13",
+      "text": "ἦλθεν εἰ ἄρα",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mk 11:25",
+      "text": "ἀφίετε εἴ τι",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 20,
+      "reference": "Mk 13:20",
+      "text": "καὶ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Mk 13:22",
+      "text": "ἀποπλανᾶν εἰ δυνατὸν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "υἱός, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Mk 14:21",
+      "text": "αὐτῷ εἰ οὐκ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Mk 14:29",
+      "text": "αὐτῷ· Εἰ καὶ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mk 14:35",
+      "text": "ἵνα εἰ δυνατόν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Mk 15:36",
+      "text": "ἴδωμεν εἰ ἔρχεται",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 44,
+      "reference": "Mk 15:44",
+      "text": "ἐθαύμασεν εἰ ἤδη",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Lk 4:3",
+      "text": "διάβολος· Εἰ υἱὸς",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Lk 4:9",
+      "text": "αὐτῷ· Εἰ υἱὸς",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 26,
+      "reference": "Lk 4:26",
+      "text": "Ἠλίας εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Lk 4:27",
+      "text": "ἐκαθαρίσθη, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Lk 5:21",
+      "text": "ἀφεῖναι εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 36,
+      "reference": "Lk 5:36",
+      "text": "παλαιόν· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Lk 5:37",
+      "text": "παλαιούς· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 4,
+      "reference": "Lk 6:4",
+      "text": "φαγεῖν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Lk 6:7",
+      "text": "Φαρισαῖοι εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Lk 6:9",
+      "text": "ὑμᾶς, εἰ ἔξεστιν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Lk 6:32",
+      "text": "Καὶ εἰ ἀγαπᾶτε",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "Lk 7:39",
+      "text": "Οὗτος εἰ ἦν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 51,
+      "reference": "Lk 8:51",
+      "text": "αὐτῷ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Lk 9:13",
+      "text": "δύο, εἰ μήτι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 23,
+      "reference": "Lk 9:23",
+      "text": "πάντας· Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Lk 10:6",
+      "text": "ὑμῶν· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Lk 10:13",
+      "text": "ὅτι εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Lk 10:22",
+      "text": "υἱὸς εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Lk 11:8",
+      "text": "ὑμῖν, εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Lk 11:13",
+      "text": "εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Lk 11:18",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Lk 11:19",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Lk 11:20",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Lk 11:29",
+      "text": "αὐτῇ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Lk 11:36",
+      "text": "εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Lk 12:26",
+      "text": "εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Lk 12:28",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Lk 12:39",
+      "text": "ὅτι εἰ ᾔδει",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 49,
+      "reference": "Lk 12:49",
+      "text": "θέλω εἰ ἤδη",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Lk 13:9",
+      "text": "μέλλον— εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 23,
+      "reference": "Lk 13:23",
+      "text": "Κύριε, εἰ ὀλίγοι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Lk 14:26",
+      "text": "Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Lk 14:28",
+      "text": "δαπάνην, εἰ ἔχει",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 31,
+      "reference": "Lk 14:31",
+      "text": "βουλεύσεται εἰ δυνατός",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 32,
+      "reference": "Lk 14:32",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 11,
+      "reference": "Lk 16:11",
+      "text": "εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Lk 16:12",
+      "text": "καὶ εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 31,
+      "reference": "Lk 16:31",
+      "text": "αὐτῷ· Εἰ Μωϋσέως",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 2,
+      "reference": "Lk 17:2",
+      "text": "αὐτῷ εἰ λίθος",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Lk 17:6",
+      "text": "κύριος· Εἰ ἔχετε",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Lk 17:18",
+      "text": "θεῷ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Lk 18:4",
+      "text": "ἑαυτῷ· Εἰ καὶ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Lk 18:19",
+      "text": "ἀγαθὸς εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Lk 19:8",
+      "text": "καὶ εἴ τινός",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 42,
+      "reference": "Lk 19:42",
+      "text": "ὅτι Εἰ ἔγνως",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 42,
+      "reference": "Lk 22:42",
+      "text": "Πάτερ, εἰ βούλει",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 49,
+      "reference": "Lk 22:49",
+      "text": "Κύριε, εἰ πατάξομεν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 67,
+      "reference": "Lk 22:67",
+      "text": "λέγοντες· Εἰ σὺ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 6,
+      "reference": "Lk 23:6",
+      "text": "ἐπηρώτησεν εἰ ὁ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 31,
+      "reference": "Lk 23:31",
+      "text": "ὅτι εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 35,
+      "reference": "Lk 23:35",
+      "text": "ἑαυτόν, εἰ οὗτός",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 37,
+      "reference": "Lk 23:37",
+      "text": "λέγοντες· Εἰ σὺ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Jn 1:25",
+      "text": "βαπτίζεις εἰ σὺ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Jn 3:12",
+      "text": "εἰ τὰ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Jn 3:13",
+      "text": "οὐρανὸν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Jn 4:10",
+      "text": "αὐτῇ· Εἰ ᾔδεις",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 46,
+      "reference": "Jn 5:46",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 47,
+      "reference": "Jn 5:47",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "ἐκεῖ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 46,
+      "reference": "Jn 6:46",
+      "text": "τις εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Jn 7:4",
+      "text": "εἶναι· εἰ ταῦτα",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 23,
+      "reference": "Jn 7:23",
+      "text": "εἰ περιτομὴν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Jn 8:19",
+      "text": "μου· εἰ ἐμὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Jn 8:39",
+      "text": "Ἰησοῦς· Εἰ τέκνα",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 42,
+      "reference": "Jn 8:42",
+      "text": "Ἰησοῦς· Εἰ ὁ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 46,
+      "reference": "Jn 8:46",
+      "text": "ἁμαρτίας; εἰ ἀλήθειαν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Jn 9:25",
+      "text": "ἐκεῖνος· Εἰ ἁμαρτωλός",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Jn 9:33",
+      "text": "εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Jn 9:41",
+      "text": "Ἰησοῦς· Εἰ τυφλοὶ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Jn 10:10",
+      "text": "ἔρχεται εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Jn 10:24",
+      "text": "αἴρεις; εἰ σὺ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Jn 10:35",
+      "text": "εἰ ἐκείνους",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Jn 10:37",
+      "text": "εἰ οὐ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Jn 10:38",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Jn 11:12",
+      "text": "Κύριε, εἰ κεκοίμηται",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Jn 11:21",
+      "text": "Κύριε, εἰ ἦς",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "Κύριε, εἰ ἦς",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Jn 13:10",
+      "text": "χρείαν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Jn 13:14",
+      "text": "εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Jn 13:17",
+      "text": "εἰ ταῦτα",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Jn 13:32",
+      "text": "εἰ ὁ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Jn 14:2",
+      "text": "εἰσιν· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 6,
+      "reference": "Jn 14:6",
+      "text": "πατέρα εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Jn 14:7",
+      "text": "εἰ ἐγνώκειτέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Jn 14:11",
+      "text": "ἐμοί· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Jn 14:28",
+      "text": "ὑμᾶς. εἰ ἠγαπᾶτέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 18,
+      "reference": "Jn 15:18",
+      "text": "Εἰ ὁ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Jn 15:19",
+      "text": "εἰ ἐκ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Jn 15:20",
+      "text": "αὐτοῦ· εἰ ἐμὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Jn 15:22",
+      "text": "εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Jn 15:24",
+      "text": "εἰ τὰ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Jn 17:12",
+      "text": "ἀπώλετο εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Jn 18:8",
+      "text": "εἰμι· εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Jn 18:23",
+      "text": "Ἰησοῦς· Εἰ κακῶς",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Jn 18:30",
+      "text": "αὐτῷ· Εἰ μὴ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 36,
+      "reference": "Jn 18:36",
+      "text": "τούτου· εἰ ἐκ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 11,
+      "reference": "Jn 19:11",
+      "text": "οὐδεμίαν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Jn 19:15",
+      "text": "βασιλέα εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Jn 20:15",
+      "text": "Κύριε, εἰ σὺ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Ac 1:6",
+      "text": "Κύριε, εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Ac 4:9",
+      "text": "εἰ ἡμεῖς",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 19,
+      "reference": "Ac 4:19",
+      "text": "αὐτούς· Εἰ δίκαιόν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Ac 5:8",
+      "text": "μοι, εἰ τοσούτου",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Ac 5:39",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Ac 7:1",
+      "text": "ἀρχιερεύς· Εἰ ταῦτα",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Ac 8:22",
+      "text": "κυρίου εἰ ἄρα",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Ac 10:18",
+      "text": "ἐπυνθάνοντο εἰ Σίμων",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Ac 11:17",
+      "text": "εἰ οὖν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Ac 11:19",
+      "text": "λόγον εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Ac 13:15",
+      "text": "ἀδελφοί, εἴ τίς",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "Ac 16:15",
+      "text": "λέγουσα· Εἰ κεκρίκατέ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Ac 17:11",
+      "text": "γραφὰς εἰ ἔχοι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Ac 17:27",
+      "text": "θεὸν εἰ ἄρα",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Ac 18:14",
+      "text": "Ἰουδαίους· Εἰ μὲν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Ac 18:15",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Ac 19:2",
+      "text": "αὐτούς· Εἰ πνεῦμα",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Ac 19:38",
+      "text": "εἰ μὲν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 39,
+      "reference": "Ac 19:39",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Ac 20:16",
+      "text": "γὰρ εἰ δυνατὸν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Ac 21:37",
+      "text": "χιλιάρχῳ· Εἰ ἔξεστίν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 25,
+      "reference": "Ac 22:25",
+      "text": "Παῦλος· Εἰ ἄνθρωπον",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "τούτῳ· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Ac 24:19",
+      "text": "κατηγορεῖν εἴ τι",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 5,
+      "reference": "Ac 25:5",
+      "text": "συγκαταβάντες εἴ τί",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "εἰ μὲν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 20,
+      "reference": "Ac 25:20",
+      "text": "ἔλεγον εἰ βούλοιτο",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 8,
+      "reference": "Ac 26:8",
+      "text": "ὑμῖν εἰ ὁ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 23,
+      "reference": "Ac 26:23",
+      "text": "εἰ παθητὸς",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 32,
+      "reference": "Ac 26:32",
+      "text": "οὗτος εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 12,
+      "reference": "Ac 27:12",
+      "text": "ἐκεῖθεν, εἴ πως",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 39,
+      "reference": "Ac 27:39",
+      "text": "ἐβουλεύοντο εἰ δύναιντο",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ro 1:10",
+      "text": "δεόμενος εἴ πως",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ro 2:17",
+      "text": "Εἰ δὲ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Ro 3:3",
+      "text": "γάρ; εἰ ἠπίστησάν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Ro 3:5",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Ro 3:7",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Ro 4:2",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Ro 4:14",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ro 5:10",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ro 5:15",
+      "text": "χάρισμα· εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Ro 5:17",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Ro 6:5",
+      "text": "Εἰ γὰρ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Ro 6:8",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ro 7:7",
+      "text": "ἔγνων εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Ro 7:16",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Ro 7:20",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ro 8:9",
+      "text": "ὑμῖν. εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Ro 8:10",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Ro 8:11",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Ro 8:13",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Ro 8:17",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Ro 8:25",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Ro 8:31",
+      "text": "ταῦτα; εἰ ὁ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Ro 9:22",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Ro 9:29",
+      "text": "Ἠσαΐας· Εἰ μὴ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Ro 11:6",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Ro 11:12",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Ro 11:14",
+      "text": "εἴ πως",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Ro 11:15",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Ro 11:16",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Ro 11:17",
+      "text": "Εἰ δέ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Ro 11:18",
+      "text": "κλάδων· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Ro 11:21",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Ro 11:24",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 18,
+      "reference": "Ro 12:18",
+      "text": "εἰ δυνατόν,",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Ro 13:1",
+      "text": "ἐξουσία εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Ro 13:8",
+      "text": "ὀφείλετε, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Ro 13:9",
+      "text": "καὶ εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Ro 14:14",
+      "text": "ἑαυτοῦ· εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ro 14:15",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Ro 15:27",
+      "text": "αὐτῶν· εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "1Co 1:14",
+      "text": "ἐβάπτισα εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Co 1:16",
+      "text": "οἶδα εἴ τινα",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Co 2:2",
+      "text": "ὑμῖν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "1Co 2:8",
+      "text": "ἔγνωκεν, εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Co 2:11",
+      "text": "ἀνθρώπου εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Co 3:12",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Co 3:14",
+      "text": "εἴ τινος",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Co 3:15",
+      "text": "εἴ τινος",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Co 3:17",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "1Co 3:18",
+      "text": "ἐξαπατάτω· εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Co 4:7",
+      "text": "ἔλαβες; εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "1Co 6:2",
+      "text": "καὶ εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "1Co 7:5",
+      "text": "ἀλλήλους, εἰ μήτι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "1Co 7:9",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "1Co 7:12",
+      "text": "κύριος· εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 13,
+      "reference": "1Co 7:13",
+      "text": "γυνὴ εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "1Co 7:15",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "1Co 7:16",
+      "text": "γύναι, εἰ τὸν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "1Co 7:17",
+      "text": "Εἰ μὴ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "1Co 7:21",
+      "text": "ἀλλ’ εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "1Co 7:36",
+      "text": "Εἰ δέ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "1Co 8:2",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "1Co 8:3",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "1Co 8:4",
+      "text": "θεὸς εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "1Co 8:13",
+      "text": "διόπερ εἰ βρῶμα",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "1Co 9:2",
+      "text": "εἰ ἄλλοις",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "1Co 9:11",
+      "text": "εἰ ἡμεῖς",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "1Co 9:12",
+      "text": "εἰ ἄλλοι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "1Co 9:17",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "1Co 10:13",
+      "text": "εἴληφεν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "1Co 10:27",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "1Co 10:30",
+      "text": "εἰ ἐγὼ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "1Co 11:6",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "1Co 11:16",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "1Co 11:31",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "1Co 11:34",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "1Co 12:3",
+      "text": "Ἰησοῦς εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "1Co 12:17",
+      "text": "εἰ ὅλον",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "1Co 12:19",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "1Co 14:5",
+      "text": "ἐκτὸς εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "1Co 14:10",
+      "text": "τοσαῦτα εἰ τύχοι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "1Co 14:35",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 37,
+      "reference": "1Co 14:37",
+      "text": "Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 38,
+      "reference": "1Co 14:38",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "1Co 15:2",
+      "text": "ὑμῖν, εἰ κατέχετε,",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "1Co 15:12",
+      "text": "Εἰ δὲ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "1Co 15:13",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "1Co 15:14",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "1Co 15:16",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "1Co 15:17",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "1Co 15:19",
+      "text": "εἰ ἐν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "1Co 15:29",
+      "text": "νεκρῶν; εἰ ὅλως",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "1Co 15:32",
+      "text": "εἰ κατὰ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "1Co 15:37",
+      "text": "κόκκον εἰ τύχοι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 44,
+      "reference": "1Co 15:44",
+      "text": "πνευματικόν. Εἰ ἔστιν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "1Co 16:22",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "2Co 2:2",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "2Co 2:5",
+      "text": "Εἰ δέ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Co 2:9",
+      "text": "ὑμῶν, εἰ εἰς",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "2Co 2:10",
+      "text": "κεχάρισμαι, εἴ τι",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Co 3:7",
+      "text": "Εἰ δὲ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Co 3:9",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "2Co 3:11",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "2Co 4:3",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "2Co 4:16",
+      "text": "ἀλλ’ εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "2Co 5:3",
+      "text": "εἴ γε",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "2Co 5:16",
+      "text": "σάρκα· εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "2Co 5:17",
+      "text": "ὥστε εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "2Co 7:8",
+      "text": "ὅτι εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "2Co 7:12",
+      "text": "ἄρα εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "2Co 7:14",
+      "text": "ὅτι εἴ τι",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "2Co 8:12",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "2Co 10:7",
+      "text": "βλέπετε. εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "2Co 11:4",
+      "text": "εἰ μὲν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "2Co 11:6",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "2Co 11:15",
+      "text": "οὖν εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "2Co 11:16",
+      "text": "εἶναι— εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "2Co 11:20",
+      "text": "γὰρ εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "2Co 11:30",
+      "text": "Εἰ καυχᾶσθαι",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "2Co 12:5",
+      "text": "καυχήσομαι εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "2Co 12:11",
+      "text": "ἀποστόλων, εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "2Co 12:13",
+      "text": "ἐκκλησίας, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "2Co 12:15",
+      "text": "ὑμῶν. εἰ περισσοτέρως",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "2Co 13:5",
+      "text": "πειράζετε εἰ ἐστὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Ga 1:7",
+      "text": "ἄλλο· εἰ μή",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Ga 1:9",
+      "text": "λέγω, εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ga 1:10",
+      "text": "ἀρέσκειν; εἰ ἔτι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Ga 1:19",
+      "text": "εἶδον, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ga 2:14",
+      "text": "πάντων· Εἰ σὺ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ga 2:17",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Ga 2:18",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Ga 2:21",
+      "text": "θεοῦ· εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Ga 3:4",
+      "text": "εἰκῇ; εἴ γε",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Ga 3:18",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Ga 3:21",
+      "text": "γένοιτο· εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Ga 3:29",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ga 4:7",
+      "text": "υἱός· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Ga 4:15",
+      "text": "ὅτι εἰ δυνατὸν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Ga 5:11",
+      "text": "ἀδελφοί, εἰ περιτομὴν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Ga 5:15",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Ga 5:18",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Ga 5:25",
+      "text": "εἰ ζῶμεν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "Ga 6:3",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Ga 6:14",
+      "text": "καυχᾶσθαι εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Eph 3:2",
+      "text": "εἴ γε",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Eph 4:9",
+      "text": "ἐστιν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Eph 4:21",
+      "text": "εἴ γε",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 29,
+      "reference": "Eph 4:29",
+      "text": "ἀλλὰ εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Php 1:22",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Php 2:1",
+      "text": "Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Php 2:17",
+      "text": "ἀλλὰ εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Php 3:4",
+      "text": "σαρκί. Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Php 3:11",
+      "text": "εἴ πως",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Php 3:12",
+      "text": "δὲ εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Php 3:15",
+      "text": "καὶ εἴ τι",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Php 4:8",
+      "text": "εὔφημα, εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Php 4:15",
+      "text": "λήμψεως εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Col 1:23",
+      "text": "εἴ γε",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Col 2:5",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Col 2:20",
+      "text": "Εἰ ἀπεθάνετε",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Col 3:1",
+      "text": "Εἰ οὖν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Th 4:14",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Th 3:10",
+      "text": "ὅτι εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Th 3:14",
+      "text": "Εἰ δέ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "1Ti 1:10",
+      "text": "καὶ εἴ τι",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Ti 3:1",
+      "text": "λόγος· εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Ti 3:5",
+      "text": "(εἰ δέ",
+      "highlightedWord": "(εἰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Ti 5:4",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Ti 5:8",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "1Ti 5:10",
+      "text": "μαρτυρουμένη, εἰ ἐτεκνοτρόφησεν,",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Ti 5:16",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Ti 5:19",
+      "text": "ἐκτὸς εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "1Ti 6:3",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "2Ti 2:11",
+      "text": "λόγος· εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "2Ti 2:12",
+      "text": "εἰ ὑπομένομεν,",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Ti 2:13",
+      "text": "εἰ ἀπιστοῦμεν,",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Tit 1:6",
+      "text": "εἴ τίς",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Phm 1:17",
+      "text": "Εἰ οὖν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Phm 1:18",
+      "text": "εἰ δέ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Heb 2:2",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Heb 3:11",
+      "text": "μου· Εἰ εἰσελεύσονται",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Heb 3:18",
+      "text": "αὐτοῦ εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Heb 4:3",
+      "text": "μου, Εἰ εἰσελεύσονται",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Heb 4:5",
+      "text": "πάλιν· Εἰ εἰσελεύσονται",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Heb 4:8",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Heb 6:9",
+      "text": "σωτηρίας, εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Heb 6:14",
+      "text": "λέγων· Εἰ μὴν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Heb 7:11",
+      "text": "Εἰ μὲν",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Heb 7:15",
+      "text": "ἐστιν, εἰ κατὰ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "Heb 8:4",
+      "text": "εἰ μὲν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Heb 8:7",
+      "text": "Εἰ γὰρ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Heb 9:13",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Heb 11:15",
+      "text": "καὶ εἰ μὲν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Heb 12:8",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Heb 12:25",
+      "text": "λαλοῦντα· εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Jas 1:5",
+      "text": "Εἰ δέ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Jas 1:23",
+      "text": "ὅτι εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jas 1:26",
+      "text": "Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Jas 2:8",
+      "text": "Εἰ μέντοι",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Jas 2:9",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Jas 2:11",
+      "text": "φονεύσῃς· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jas 3:2",
+      "text": "ἅπαντες. εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Jas 3:3",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jas 3:14",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jas 4:11",
+      "text": "νόμον· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "1Pe 1:6",
+      "text": "ἄρτι εἰ δέον",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "1Pe 1:17",
+      "text": "Καὶ εἰ πατέρα",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "1Pe 2:3",
+      "text": "εἰ ἐγεύσασθε",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Pe 2:19",
+      "text": "χάρις εἰ διὰ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "1Pe 2:20",
+      "text": "κλέος εἰ ἁμαρτάνοντες",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Pe 3:1",
+      "text": "καὶ εἴ τινες",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Pe 3:14",
+      "text": "ἀλλ’ εἰ καὶ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Pe 3:17",
+      "text": "ἀγαθοποιοῦντας, εἰ θέλοι",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Pe 4:11",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Pe 4:14",
+      "text": "εἰ ὀνειδίζεσθε",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Pe 4:16",
+      "text": "εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Pe 4:17",
+      "text": "θεοῦ· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Pe 4:18",
+      "text": "καὶ εἰ ὁ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Pe 2:4",
+      "text": "Εἰ γὰρ",
+      "highlightedWord": "Εἰ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Pe 2:20",
+      "text": "εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "1Jn 2:19",
+      "text": "ἡμῶν· εἰ γὰρ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "1Jn 2:22",
+      "text": "ψεύστης εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "1Jn 3:13",
+      "text": "ἀδελφοί, εἰ μισεῖ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Jn 4:1",
+      "text": "πνεύματα εἰ ἐκ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Jn 4:11",
+      "text": "ἀγαπητοί, εἰ οὕτως",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Jn 5:5",
+      "text": "κόσμον εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Jn 5:9",
+      "text": "εἰ τὴν",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Jn 1:10",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "ποίησον· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Re 2:16",
+      "text": "οὖν· εἰ δὲ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "οἶδεν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Re 9:4",
+      "text": "δένδρον, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Re 11:5",
+      "text": "καὶ εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Re 13:9",
+      "text": "Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Re 13:10",
+      "text": "εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "πωλῆσαι εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Re 14:3",
+      "text": "ᾠδὴν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "μεγάλῃ· Εἴ τις",
+      "highlightedWord": "Εἴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "καὶ εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "οἶδεν εἰ μὴ",
+      "highlightedWord": "εἰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Re 20:15",
+      "text": "καὶ εἴ τις",
+      "highlightedWord": "εἴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Re 21:27",
+      "text": "ψεῦδος, εἰ μὴ",
+      "highlightedWord": "εἰ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

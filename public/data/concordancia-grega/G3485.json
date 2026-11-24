@@ -1,0 +1,337 @@
+{
+  "strong": "G3485",
+  "lemma": "ναός",
+  "lemmaTranslit": "naos",
+  "tokenCount": 45,
+  "verseCount": 39,
+  "bookDistribution": {
+    "Mateus": 9,
+    "Marcos": 3,
+    "Lucas": 4,
+    "João": 3,
+    "Atos": 2,
+    "1 Coríntios": 4,
+    "2 Coríntios": 2,
+    "Efésios": 1,
+    "2 Tessalonicenses": 1,
+    "Apocalipse": 16
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 16,
+      "reference": "Mt 23:16",
+      "text": "τῷ ναῷ, οὐδέν",
+      "highlightedWord": "ναῷ,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 17,
+      "reference": "Mt 23:17",
+      "text": "ὁ ναὸς ὁ",
+      "highlightedWord": "ναὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 21,
+      "reference": "Mt 23:21",
+      "text": "τῷ ναῷ ὀμνύει",
+      "highlightedWord": "ναῷ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 35,
+      "reference": "Mt 23:35",
+      "text": "τοῦ ναοῦ καὶ",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 61,
+      "reference": "Mt 26:61",
+      "text": "τὸν ναὸν τοῦ",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 5,
+      "reference": "Mt 27:5",
+      "text": "τὸν ναὸν ἀνεχώρησεν,",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 40,
+      "reference": "Mt 27:40",
+      "text": "τὸν ναὸν καὶ",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 51,
+      "reference": "Mt 27:51",
+      "text": "τοῦ ναοῦ ἐσχίσθη",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 58,
+      "reference": "Mk 14:58",
+      "text": "τὸν ναὸν τοῦτον",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Mk 15:29",
+      "text": "τὸν ναὸν καὶ",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 38,
+      "reference": "Mk 15:38",
+      "text": "τοῦ ναοῦ ἐσχίσθη",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Lk 1:9",
+      "text": "τὸν ναὸν τοῦ",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Lk 1:21",
+      "text": "τῷ ναῷ αὐτόν.",
+      "highlightedWord": "ναῷ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "Lk 1:22",
+      "text": "τῷ ναῷ· καὶ",
+      "highlightedWord": "ναῷ·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 45,
+      "reference": "Lk 23:45",
+      "text": "τοῦ ναοῦ μέσον.",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Jn 2:19",
+      "text": "τὸν ναὸν τοῦτον",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Jn 2:20",
+      "text": "ὁ ναὸς οὗτος,",
+      "highlightedWord": "ναὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Jn 2:21",
+      "text": "τοῦ ναοῦ τοῦ",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 24,
+      "reference": "Ac 17:24",
+      "text": "χειροποιήτοις ναοῖς κατοικεῖ",
+      "highlightedWord": "ναοῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Ac 19:24",
+      "text": "ποιῶν ναοὺς ἀργυροῦς",
+      "highlightedWord": "ναοὺς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Co 3:16",
+      "text": "ὅτι ναὸς θεοῦ",
+      "highlightedWord": "ναὸς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Co 3:17",
+      "text": "τὸν ναὸν τοῦ",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Co 6:19",
+      "text": "ὑμῶν ναὸς τοῦ",
+      "highlightedWord": "ναὸς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "2Co 6:16",
+      "text": "συγκατάθεσις ναῷ θεοῦ",
+      "highlightedWord": "ναῷ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Eph 2:21",
+      "text": "εἰς ναὸν ἅγιον",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Th 2:4",
+      "text": "τὸν ναὸν τοῦ",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "τῷ ναῷ τοῦ",
+      "highlightedWord": "ναῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Re 7:15",
+      "text": "τῷ ναῷ αὐτοῦ,",
+      "highlightedWord": "ναῷ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Re 11:1",
+      "text": "τὸν ναὸν τοῦ",
+      "highlightedWord": "ναὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Re 11:2",
+      "text": "τοῦ ναοῦ ἔκβαλε",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Re 11:19",
+      "text": "ὁ ναὸς τοῦ",
+      "highlightedWord": "ναὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Re 14:15",
+      "text": "τοῦ ναοῦ κράζων",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Re 14:17",
+      "text": "τοῦ ναοῦ τοῦ",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Re 15:5",
+      "text": "ὁ ναὸς τῆς",
+      "highlightedWord": "ναὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Re 15:6",
+      "text": "τοῦ ναοῦ, ἐνδεδυμένοι",
+      "highlightedWord": "ναοῦ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Re 15:8",
+      "text": "ὁ ναὸς καπνοῦ",
+      "highlightedWord": "ναὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Re 16:1",
+      "text": "τοῦ ναοῦ λεγούσης",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Re 16:17",
+      "text": "τοῦ ναοῦ ἀπὸ",
+      "highlightedWord": "ναοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 22,
+      "reference": "Re 21:22",
+      "text": "Καὶ ναὸν οὐκ",
+      "highlightedWord": "ναὸν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

@@ -1,0 +1,1050 @@
+{
+  "strong": "G5456",
+  "lemma": "φωνή",
+  "lemmaTranslit": "phōnē",
+  "tokenCount": 139,
+  "verseCount": 128,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 7,
+    "Lucas": 14,
+    "João": 15,
+    "Atos": 27,
+    "1 Coríntios": 4,
+    "Gálatas": 1,
+    "1 Tessalonicenses": 1,
+    "Hebreus": 5,
+    "2 Pedro": 3,
+    "Apocalipse": 55
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Mt 2:18",
+      "text": "Φωνὴ ἐν",
+      "highlightedWord": "Φωνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Mt 3:3",
+      "text": "λέγοντος· Φωνὴ βοῶντος",
+      "highlightedWord": "Φωνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Mt 3:17",
+      "text": "ἰδοὺ φωνὴ ἐκ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Mt 12:19",
+      "text": "τὴν φωνὴν αὐτοῦ.",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Mt 17:5",
+      "text": "ἰδοὺ φωνὴ ἐκ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 46,
+      "reference": "Mt 27:46",
+      "text": "Ἰησοῦς φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 50,
+      "reference": "Mt 27:50",
+      "text": "κράξας φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "Mk 1:3",
+      "text": "φωνὴ βοῶντος",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Mk 1:11",
+      "text": "καὶ φωνὴ ἐγένετο",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Mk 1:26",
+      "text": "φωνῆσαν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Mk 5:7",
+      "text": "κράξας φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Mk 9:7",
+      "text": "ἐγένετο φωνὴ ἐκ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "Mk 15:34",
+      "text": "Ἰησοῦς φωνῇ μεγάλῃ·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 37,
+      "reference": "Mk 15:37",
+      "text": "ἀφεὶς φωνὴν μεγάλην",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 44,
+      "reference": "Lk 1:44",
+      "text": "ἡ φωνὴ τοῦ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Lk 3:4",
+      "text": "προφήτου· Φωνὴ βοῶντος",
+      "highlightedWord": "Φωνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Lk 3:22",
+      "text": "καὶ φωνὴν ἐξ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Lk 4:33",
+      "text": "ἀνέκραξεν φωνῇ μεγάλῃ·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Lk 8:28",
+      "text": "καὶ φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Lk 9:35",
+      "text": "καὶ φωνὴ ἐγένετο",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Lk 9:36",
+      "text": "τὴν φωνὴν εὑρέθη",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 27,
+      "reference": "Lk 11:27",
+      "text": "τις φωνὴν γυνὴ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 13,
+      "reference": "Lk 17:13",
+      "text": "ἦραν φωνὴν λέγοντες·",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Lk 17:15",
+      "text": "μετὰ φωνῆς μεγάλης",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 37,
+      "reference": "Lk 19:37",
+      "text": "θεὸν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Lk 23:23",
+      "text": "ἐπέκειντο φωναῖς μεγάλαις",
+      "highlightedWord": "φωναῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 46,
+      "reference": "Lk 23:46",
+      "text": "φωνήσας φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Jn 1:23",
+      "text": "Ἐγὼ φωνὴ βοῶντος",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jn 3:8",
+      "text": "τὴν φωνὴν αὐτοῦ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 29,
+      "reference": "Jn 3:29",
+      "text": "τὴν φωνὴν τοῦ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Jn 5:25",
+      "text": "τῆς φωνῆς τοῦ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Jn 5:28",
+      "text": "τῆς φωνῆς αὐτοῦ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Jn 5:37",
+      "text": "οὔτε φωνὴν αὐτοῦ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Jn 10:3",
+      "text": "τῆς φωνῆς αὐτοῦ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Jn 10:4",
+      "text": "τὴν φωνὴν αὐτοῦ·",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Jn 10:5",
+      "text": "τὴν φωνήν.",
+      "highlightedWord": "φωνήν."
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Jn 10:16",
+      "text": "τῆς φωνῆς μου",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Jn 10:27",
+      "text": "τῆς φωνῆς μου",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 43,
+      "reference": "Jn 11:43",
+      "text": "εἰπὼν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Jn 12:28",
+      "text": "οὖν φωνὴ ἐκ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "Jn 12:30",
+      "text": "ἡ φωνὴ αὕτη",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 37,
+      "reference": "Jn 18:37",
+      "text": "τῆς φωνῆς.",
+      "highlightedWord": "φωνῆς."
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Ac 2:6",
+      "text": "τῆς φωνῆς ταύτης",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Ac 2:14",
+      "text": "τὴν φωνὴν αὐτοῦ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Ac 4:24",
+      "text": "ἦραν φωνὴν πρὸς",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Ac 7:31",
+      "text": "ἐγένετο φωνὴ κυρίου·",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 57,
+      "reference": "Ac 7:57",
+      "text": "δὲ φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 60,
+      "reference": "Ac 7:60",
+      "text": "ἔκραξεν φωνῇ μεγάλῃ·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Ac 8:7",
+      "text": "βοῶντα φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Ac 9:4",
+      "text": "ἤκουσεν φωνὴν λέγουσαν",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Ac 9:7",
+      "text": "τῆς φωνῆς μηδένα",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Ac 10:13",
+      "text": "ἐγένετο φωνὴ πρὸς",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Ac 10:15",
+      "text": "καὶ φωνὴ πάλιν",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Ac 11:7",
+      "text": "καὶ φωνῆς λεγούσης",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Ac 11:9",
+      "text": "δὲ φωνὴ ἐκ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Ac 12:14",
+      "text": "τὴν φωνὴν τοῦ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 22,
+      "reference": "Ac 12:22",
+      "text": "Θεοῦ φωνὴ καὶ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Ac 13:27",
+      "text": "τὰς φωνὰς τῶν",
+      "highlightedWord": "φωνὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Ac 14:10",
+      "text": "μεγάλῃ φωνῇ· Ἀνάστηθι",
+      "highlightedWord": "φωνῇ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Ac 14:11",
+      "text": "τὴν φωνὴν αὐτῶν",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Ac 16:28",
+      "text": "δὲ φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Ac 19:34",
+      "text": "ἐστιν φωνὴ ἐγένετο",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Ac 22:7",
+      "text": "ἤκουσα φωνῆς λεγούσης",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Ac 22:9",
+      "text": "δὲ φωνὴν οὐκ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Ac 22:14",
+      "text": "ἀκοῦσαι φωνὴν ἐκ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Ac 22:22",
+      "text": "τὴν φωνὴν αὐτῶν",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 21,
+      "reference": "Ac 24:21",
+      "text": "ταύτης φωνῆς ἧς",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 14,
+      "reference": "Ac 26:14",
+      "text": "ἤκουσα φωνὴν λέγουσαν",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 24,
+      "reference": "Ac 26:24",
+      "text": "τῇ φωνῇ φησιν·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "1Co 14:7",
+      "text": "ἄψυχα φωνὴν διδόντα,",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "1Co 14:8",
+      "text": "ἄδηλον φωνὴν σάλπιγξ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "1Co 14:10",
+      "text": "γένη φωνῶν εἰσιν",
+      "highlightedWord": "φωνῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "1Co 14:11",
+      "text": "τῆς φωνῆς, ἔσομαι",
+      "highlightedWord": "φωνῆς,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Ga 4:20",
+      "text": "τὴν φωνήν μου,",
+      "highlightedWord": "φωνήν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Th 4:16",
+      "text": "ἐν φωνῇ ἀρχαγγέλου",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Heb 3:7",
+      "text": "τῆς φωνῆς αὐτοῦ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Heb 3:15",
+      "text": "τῆς φωνῆς αὐτοῦ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Heb 4:7",
+      "text": "τῆς φωνῆς αὐτοῦ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Heb 12:19",
+      "text": "καὶ φωνῇ ῥημάτων,",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 26,
+      "reference": "Heb 12:26",
+      "text": "ἡ φωνὴ τὴν",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Pe 1:17",
+      "text": "δόξαν φωνῆς ἐνεχθείσης",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Pe 1:18",
+      "text": "τὴν φωνὴν ἡμεῖς",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "2Pe 2:16",
+      "text": "ἀνθρώπου φωνῇ φθεγξάμενον",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Re 1:10",
+      "text": "μου φωνὴν μεγάλην",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Re 1:12",
+      "text": "τὴν φωνὴν ἥτις",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Re 1:15",
+      "text": "ἡ φωνὴ αὐτοῦ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "Re 3:20",
+      "text": "τῆς φωνῆς μου",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Re 4:1",
+      "text": "ἡ φωνὴ ἡ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Re 4:5",
+      "text": "καὶ φωναὶ καὶ",
+      "highlightedWord": "φωναὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Re 5:2",
+      "text": "ἐν φωνῇ μεγάλῃ·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Re 5:11",
+      "text": "ἤκουσα φωνὴν ἀγγέλων",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Re 5:12",
+      "text": "λέγοντες φωνῇ μεγάλῃ·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Re 6:1",
+      "text": "ὡς φωνῇ βροντῆς·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Re 6:6",
+      "text": "ὡς φωνὴν ἐν",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Re 6:7",
+      "text": "ἤκουσα φωνὴν τοῦ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Re 6:10",
+      "text": "ἔκραξαν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "ἔκραξεν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Re 7:10",
+      "text": "κράζουσι φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Re 8:5",
+      "text": "καὶ φωναὶ καὶ",
+      "highlightedWord": "φωναὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Re 8:13",
+      "text": "λέγοντος φωνῇ μεγάλῃ·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Re 9:9",
+      "text": "ἡ φωνὴ τῶν",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Re 9:13",
+      "text": "ἤκουσα φωνὴν μίαν",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Re 10:3",
+      "text": "ἔκραξεν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Re 10:4",
+      "text": "ἤκουσα φωνὴν ἐκ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Re 10:7",
+      "text": "τῆς φωνῆς τοῦ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Re 10:8",
+      "text": "ἡ φωνὴ ἣν",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "Re 11:12",
+      "text": "ἤκουσαν φωνῆς μεγάλης",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Re 11:15",
+      "text": "ἐγένοντο φωναὶ μεγάλαι",
+      "highlightedWord": "φωναὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Re 11:19",
+      "text": "καὶ φωναὶ καὶ",
+      "highlightedWord": "φωναὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Re 12:10",
+      "text": "ἤκουσα φωνὴν μεγάλην",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Re 14:2",
+      "text": "ἤκουσα φωνὴν ἐκ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Re 14:7",
+      "text": "ἐν φωνῇ μεγάλῃ·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "Re 14:9",
+      "text": "ἐν φωνῇ μεγάλῃ·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Re 14:13",
+      "text": "ἤκουσα φωνῆς ἐκ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Re 14:15",
+      "text": "ἐν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 18,
+      "reference": "Re 14:18",
+      "text": "ἐφώνησεν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Re 16:1",
+      "text": "μεγάλης φωνῆς ἐκ",
+      "highlightedWord": "φωνῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Re 16:17",
+      "text": "ἐξῆλθεν φωνὴ μεγάλη",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Re 16:18",
+      "text": "καὶ φωναὶ καὶ",
+      "highlightedWord": "φωναὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Re 18:2",
+      "text": "ἰσχυρᾷ φωνῇ λέγων·",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Re 18:4",
+      "text": "ἄλλην φωνὴν ἐκ",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Re 18:22",
+      "text": "καὶ φωνὴ κιθαρῳδῶν",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 23,
+      "reference": "Re 18:23",
+      "text": "καὶ φωνὴ νυμφίου",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Re 19:1",
+      "text": "ὡς φωνὴν μεγάλην",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Re 19:5",
+      "text": "Καὶ φωνὴ ἀπὸ",
+      "highlightedWord": "φωνὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Re 19:6",
+      "text": "ὡς φωνὴν ὄχλου",
+      "highlightedWord": "φωνὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Re 19:17",
+      "text": "ἔκραξεν φωνῇ μεγάλῃ",
+      "highlightedWord": "φωνῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Re 21:3",
+      "text": "ἤκουσα φωνῆς μεγάλης",
+      "highlightedWord": "φωνῆς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

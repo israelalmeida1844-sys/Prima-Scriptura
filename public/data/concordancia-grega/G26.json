@@ -1,0 +1,887 @@
+{
+  "strong": "G26",
+  "lemma": "ἀγάπη",
+  "lemmaTranslit": "agapē",
+  "tokenCount": 116,
+  "verseCount": 106,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 1,
+    "João": 7,
+    "Romanos": 9,
+    "1 Coríntios": 14,
+    "2 Coríntios": 9,
+    "Gálatas": 3,
+    "Efésios": 10,
+    "Filipenses": 4,
+    "Colossenses": 5,
+    "1 Tessalonicenses": 5,
+    "2 Tessalonicenses": 3,
+    "1 Timóteo": 5,
+    "2 Timóteo": 4,
+    "Tito": 1,
+    "Filemom": 3,
+    "Hebreus": 2,
+    "1 Pedro": 3,
+    "2 Pedro": 1,
+    "1 João": 18,
+    "2 João": 2,
+    "3 João": 1,
+    "Judas": 3,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Mt 24:12",
+      "text": "ἡ ἀγάπη τῶν",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 42,
+      "reference": "Lk 11:42",
+      "text": "τὴν ἀγάπην τοῦ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 42,
+      "reference": "Jn 5:42",
+      "text": "τὴν ἀγάπην τοῦ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Jn 13:35",
+      "text": "ἐὰν ἀγάπην ἔχητε",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Jn 15:9",
+      "text": "τῇ ἀγάπῃ τῇ",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 10,
+      "reference": "Jn 15:10",
+      "text": "τῇ ἀγάπῃ μου,",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 13,
+      "reference": "Jn 15:13",
+      "text": "ταύτης ἀγάπην οὐδεὶς",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Jn 17:26",
+      "text": "ἡ ἀγάπη ἣν",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Ro 5:5",
+      "text": "ἡ ἀγάπη τοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Ro 5:8",
+      "text": "ἑαυτοῦ ἀγάπην εἰς",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Ro 8:35",
+      "text": "τῆς ἀγάπης τοῦ",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Ro 8:39",
+      "text": "τῆς ἀγάπης τοῦ",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Ro 12:9",
+      "text": "Ἡ ἀγάπη ἀνυπόκριτος.",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Ro 13:10",
+      "text": "ἡ ἀγάπη τῷ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ro 14:15",
+      "text": "κατὰ ἀγάπην περιπατεῖς.",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "Ro 15:30",
+      "text": "τῆς ἀγάπης τοῦ",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "1Co 4:21",
+      "text": "ἐν ἀγάπῃ πνεύματί",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "1Co 8:1",
+      "text": "δὲ ἀγάπη οἰκοδομεῖ.",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "1Co 13:1",
+      "text": "ἀγγέλων, ἀγάπην δὲ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "1Co 13:2",
+      "text": "μεθιστάναι, ἀγάπην δὲ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "1Co 13:3",
+      "text": "καυθήσομαι, ἀγάπην δὲ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "1Co 13:4",
+      "text": "Ἡ ἀγάπη μακροθυμεῖ,",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "1Co 13:8",
+      "text": "Ἡ ἀγάπη οὐδέποτε",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "1Co 13:13",
+      "text": "ἐλπίς, ἀγάπη· τὰ",
+      "highlightedWord": "ἀγάπη·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "1Co 14:1",
+      "text": "τὴν ἀγάπην, ζηλοῦτε",
+      "highlightedWord": "ἀγάπην,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "1Co 16:14",
+      "text": "ἐν ἀγάπῃ γινέσθω.",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "1Co 16:24",
+      "text": "ἡ ἀγάπη μου",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "2Co 2:4",
+      "text": "τὴν ἀγάπην ἵνα",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "2Co 2:8",
+      "text": "αὐτὸν ἀγάπην·",
+      "highlightedWord": "ἀγάπην·"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "2Co 5:14",
+      "text": "γὰρ ἀγάπη τοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "2Co 6:6",
+      "text": "ἐν ἀγάπῃ ἀνυποκρίτῳ,",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "2Co 8:7",
+      "text": "ὑμῖν ἀγάπῃ, ἵνα",
+      "highlightedWord": "ἀγάπῃ,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "2Co 8:8",
+      "text": "ὑμετέρας ἀγάπης γνήσιον",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "2Co 8:24",
+      "text": "τῆς ἀγάπης ὑμῶν",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "2Co 13:11",
+      "text": "τῆς ἀγάπης καὶ",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "2Co 13:13",
+      "text": "ἡ ἀγάπη τοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Ga 5:6",
+      "text": "δι’ ἀγάπης ἐνεργουμένη.",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Ga 5:13",
+      "text": "τῆς ἀγάπης δουλεύετε",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Ga 5:22",
+      "text": "ἐστιν ἀγάπη, χαρά,",
+      "highlightedWord": "ἀγάπη,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Eph 1:4",
+      "text": "ἐν ἀγάπῃ,",
+      "highlightedWord": "ἀγάπῃ,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Eph 1:15",
+      "text": "τὴν ἀγάπην τὴν",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Eph 2:4",
+      "text": "πολλὴν ἀγάπην αὐτοῦ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Eph 3:17",
+      "text": "ἐν ἀγάπῃ· ἐρριζωμένοι",
+      "highlightedWord": "ἀγάπῃ·"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Eph 3:19",
+      "text": "γνώσεως ἀγάπην τοῦ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Eph 4:2",
+      "text": "ἐν ἀγάπῃ,",
+      "highlightedWord": "ἀγάπῃ,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Eph 4:15",
+      "text": "ἐν ἀγάπῃ αὐξήσωμεν",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Eph 4:16",
+      "text": "ἐν ἀγάπῃ.",
+      "highlightedWord": "ἀγάπῃ."
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Eph 5:2",
+      "text": "ἐν ἀγάπῃ, καθὼς",
+      "highlightedWord": "ἀγάπῃ,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Eph 6:23",
+      "text": "καὶ ἀγάπη μετὰ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Php 1:9",
+      "text": "ἡ ἀγάπη ὑμῶν",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Php 1:16",
+      "text": "ἐξ ἀγάπης, εἰδότες",
+      "highlightedWord": "ἀγάπης,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Php 2:1",
+      "text": "παραμύθιον ἀγάπης, εἴ",
+      "highlightedWord": "ἀγάπης,"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Php 2:2",
+      "text": "αὐτὴν ἀγάπην ἔχοντες,",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Col 1:4",
+      "text": "τὴν ἀγάπην ἣν",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Col 1:8",
+      "text": "ὑμῶν ἀγάπην ἐν",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Col 1:13",
+      "text": "τῆς ἀγάπης αὐτοῦ,",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Col 2:2",
+      "text": "ἐν ἀγάπῃ καὶ",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Col 3:14",
+      "text": "τὴν ἀγάπην, ὅ",
+      "highlightedWord": "ἀγάπην,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "1Th 1:3",
+      "text": "τῆς ἀγάπης καὶ",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "1Th 3:6",
+      "text": "τὴν ἀγάπην ὑμῶν,",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Th 3:12",
+      "text": "τῇ ἀγάπῃ εἰς",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Th 5:8",
+      "text": "καὶ ἀγάπης καὶ",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Th 5:13",
+      "text": "ἐν ἀγάπῃ διὰ",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Th 1:3",
+      "text": "ἡ ἀγάπη ἑνὸς",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "2Th 2:10",
+      "text": "τὴν ἀγάπην τῆς",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Th 3:5",
+      "text": "τὴν ἀγάπην τοῦ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Ti 1:5",
+      "text": "ἐστὶν ἀγάπη ἐκ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 14,
+      "reference": "1Ti 1:14",
+      "text": "καὶ ἀγάπης τῆς",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Ti 2:15",
+      "text": "καὶ ἀγάπῃ καὶ",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Ti 4:12",
+      "text": "ἐν ἀγάπῃ, ἐν",
+      "highlightedWord": "ἀγάπῃ,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "1Ti 6:11",
+      "text": "πίστιν, ἀγάπην, ὑπομονήν,",
+      "highlightedWord": "ἀγάπην,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Ti 1:7",
+      "text": "καὶ ἀγάπης καὶ",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "2Ti 1:13",
+      "text": "καὶ ἀγάπῃ τῇ",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "2Ti 2:22",
+      "text": "πίστιν, ἀγάπην, εἰρήνην",
+      "highlightedWord": "ἀγάπην,"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Ti 3:10",
+      "text": "τῇ ἀγάπῃ, τῇ",
+      "highlightedWord": "ἀγάπῃ,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Tit 2:2",
+      "text": "τῇ ἀγάπῃ, τῇ",
+      "highlightedWord": "ἀγάπῃ,"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Phm 1:5",
+      "text": "τὴν ἀγάπην καὶ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Phm 1:7",
+      "text": "τῇ ἀγάπῃ σου,",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Phm 1:9",
+      "text": "τὴν ἀγάπην μᾶλλον",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Heb 6:10",
+      "text": "τῆς ἀγάπης ἧς",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "Heb 10:24",
+      "text": "παροξυσμὸν ἀγάπης καὶ",
+      "highlightedWord": "ἀγάπης"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Pe 4:8",
+      "text": "ἑαυτοὺς ἀγάπην ἐκτενῆ",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "1Pe 5:14",
+      "text": "φιλήματι ἀγάπης. εἰρήνη",
+      "highlightedWord": "ἀγάπης."
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Pe 1:7",
+      "text": "τὴν ἀγάπην·",
+      "highlightedWord": "ἀγάπην·"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Jn 2:5",
+      "text": "ἡ ἀγάπη τοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "1Jn 2:15",
+      "text": "ἡ ἀγάπη τοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "1Jn 3:1",
+      "text": "ποταπὴν ἀγάπην δέδωκεν",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Jn 3:16",
+      "text": "τὴν ἀγάπην, ὅτι",
+      "highlightedWord": "ἀγάπην,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "1Jn 3:17",
+      "text": "ἡ ἀγάπη τοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "1Jn 4:7",
+      "text": "ἡ ἀγάπη ἐκ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "1Jn 4:8",
+      "text": "θεὸς ἀγάπη ἐστίν.",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "1Jn 4:9",
+      "text": "ἡ ἀγάπη τοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "1Jn 4:10",
+      "text": "ἡ ἀγάπη, οὐχ",
+      "highlightedWord": "ἀγάπη,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "1Jn 4:12",
+      "text": "ἡ ἀγάπη αὐτοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Jn 4:16",
+      "text": "τὴν ἀγάπην ἣν",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Jn 4:17",
+      "text": "ἡ ἀγάπη μεθ’",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "1Jn 4:18",
+      "text": "τῇ ἀγάπῃ, ἀλλ’",
+      "highlightedWord": "ἀγάπῃ,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "1Jn 5:3",
+      "text": "ἡ ἀγάπη τοῦ",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Jn 1:3",
+      "text": "καὶ ἀγάπῃ.",
+      "highlightedWord": "ἀγάπῃ."
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "2Jn 1:6",
+      "text": "ἡ ἀγάπη, ἵνα",
+      "highlightedWord": "ἀγάπη,"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "3Jn 1:6",
+      "text": "τῇ ἀγάπῃ ἐνώπιον",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "Jud 1:2",
+      "text": "καὶ ἀγάπη πληθυνθείη.",
+      "highlightedWord": "ἀγάπη"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Jud 1:12",
+      "text": "ταῖς ἀγάπαις ὑμῶν",
+      "highlightedWord": "ἀγάπαις"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Jud 1:21",
+      "text": "ἐν ἀγάπῃ θεοῦ",
+      "highlightedWord": "ἀγάπῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Re 2:4",
+      "text": "τὴν ἀγάπην σου",
+      "highlightedWord": "ἀγάπην"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "τὴν ἀγάπην καὶ",
+      "highlightedWord": "ἀγάπην"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

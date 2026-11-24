@@ -1,0 +1,125 @@
+{
+  "strong": "G303",
+  "lemma": "ἀνά",
+  "lemmaTranslit": "ana",
+  "tokenCount": 13,
+  "verseCount": 13,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 1,
+    "Lucas": 3,
+    "João": 1,
+    "1 Coríntios": 2,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Mt 13:25",
+      "text": "ζιζάνια ἀνὰ μέσον",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Mt 20:9",
+      "text": "ἔλαβον ἀνὰ δηνάριον.",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Mt 20:10",
+      "text": "τὸ ἀνὰ δηνάριον",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Mk 7:31",
+      "text": "Γαλιλαίας ἀνὰ μέσον",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Lk 9:3",
+      "text": "μήτε ἀνὰ δύο",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Lk 9:14",
+      "text": "ὡσεὶ ἀνὰ πεντήκοντα.",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Lk 10:1",
+      "text": "αὐτοὺς ἀνὰ δύο",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jn 2:6",
+      "text": "χωροῦσαι ἀνὰ μετρητὰς",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "1Co 6:5",
+      "text": "διακρῖναι ἀνὰ μέσον",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "1Co 14:27",
+      "text": "καὶ ἀνὰ μέρος,",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "ἔχων ἀνὰ πτέρυγας",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Re 7:17",
+      "text": "τὸ ἀνὰ μέσον",
+      "highlightedWord": "ἀνὰ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Re 21:21",
+      "text": "μαργαρῖται, ἀνὰ εἷς",
+      "highlightedWord": "ἀνὰ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

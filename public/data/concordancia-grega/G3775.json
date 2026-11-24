@@ -1,0 +1,296 @@
+{
+  "strong": "G3775",
+  "lemma": "οὖς",
+  "lemmaTranslit": "ous",
+  "tokenCount": 36,
+  "verseCount": 34,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 4,
+    "Lucas": 7,
+    "Atos": 5,
+    "Romanos": 1,
+    "1 Coríntios": 2,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Mt 10:27",
+      "text": "τὸ οὖς ἀκούετε,",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Mt 11:15",
+      "text": "ἔχων ὦτα ἀκουέτω.",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Mt 13:9",
+      "text": "ἔχων ὦτα ἀκουέτω.",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Mt 13:15",
+      "text": "τοῖς ὠσὶν βαρέως",
+      "highlightedWord": "ὠσὶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Mt 13:16",
+      "text": "τὰ ὦτα ὑμῶν",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 43,
+      "reference": "Mt 13:43",
+      "text": "ἔχων ὦτα ἀκουέτω.",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Mk 4:9",
+      "text": "ἔχει ὦτα ἀκούειν",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Mk 4:23",
+      "text": "ἔχει ὦτα ἀκούειν",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Mk 7:33",
+      "text": "τὰ ὦτα αὐτοῦ",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Mk 8:18",
+      "text": "καὶ ὦτα ἔχοντες",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 44,
+      "reference": "Lk 1:44",
+      "text": "τὰ ὦτά μου,",
+      "highlightedWord": "ὦτά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Lk 4:21",
+      "text": "τοῖς ὠσὶν ὑμῶν.",
+      "highlightedWord": "ὠσὶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Lk 8:8",
+      "text": "ἔχων ὦτα ἀκούειν",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 44,
+      "reference": "Lk 9:44",
+      "text": "τὰ ὦτα ὑμῶν",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "Lk 12:3",
+      "text": "τὸ οὖς ἐλαλήσατε",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Lk 14:35",
+      "text": "ἔχων ὦτα ἀκούειν",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 50,
+      "reference": "Lk 22:50",
+      "text": "τὸ οὖς αὐτοῦ",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 51,
+      "reference": "Ac 7:51",
+      "text": "τοῖς ὠσίν, ὑμεῖς",
+      "highlightedWord": "ὠσίν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 57,
+      "reference": "Ac 7:57",
+      "text": "τὰ ὦτα αὐτῶν,",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Ac 11:22",
+      "text": "τὰ ὦτα τῆς",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 27,
+      "reference": "Ac 28:27",
+      "text": "τοῖς ὠσὶν βαρέως",
+      "highlightedWord": "ὠσὶν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Ro 11:8",
+      "text": "καὶ ὦτα τοῦ",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Co 2:9",
+      "text": "καὶ οὖς οὐκ",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 16,
+      "reference": "1Co 12:16",
+      "text": "τὸ οὖς· Ὅτι",
+      "highlightedWord": "οὖς·"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Jas 5:4",
+      "text": "τὰ ὦτα Κυρίου",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "1Pe 3:12",
+      "text": "καὶ ὦτα αὐτοῦ",
+      "highlightedWord": "ὦτα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Re 2:7",
+      "text": "ἔχων οὖς ἀκουσάτω",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Re 2:11",
+      "text": "ἔχων οὖς ἀκουσάτω",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "ἔχων οὖς ἀκουσάτω",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "Re 2:29",
+      "text": "ἔχων οὖς ἀκουσάτω",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Re 3:6",
+      "text": "ἔχων οὖς ἀκουσάτω",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Re 3:13",
+      "text": "ἔχων οὖς ἀκουσάτω",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Re 3:22",
+      "text": "ἔχων οὖς ἀκουσάτω",
+      "highlightedWord": "οὖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Re 13:9",
+      "text": "ἔχει οὖς ἀκουσάτω.",
+      "highlightedWord": "οὖς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

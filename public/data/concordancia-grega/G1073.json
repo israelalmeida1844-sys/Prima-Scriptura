@@ -1,0 +1,107 @@
+{
+  "strong": "G1073",
+  "lemma": "γέμω",
+  "lemmaTranslit": "gemō",
+  "tokenCount": 11,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Lucas": 1,
+    "Romanos": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 25,
+      "reference": "Mt 23:25",
+      "text": "δὲ γέμουσιν ἐξ",
+      "highlightedWord": "γέμουσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 27,
+      "reference": "Mt 23:27",
+      "text": "δὲ γέμουσιν ὀστέων",
+      "highlightedWord": "γέμουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 39,
+      "reference": "Lk 11:39",
+      "text": "ὑμῶν γέμει ἁρπαγῆς",
+      "highlightedWord": "γέμει"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Ro 3:14",
+      "text": "πικρίας γέμει·",
+      "highlightedWord": "γέμει·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "ζῷα γέμοντα ὀφθαλμῶν",
+      "highlightedWord": "γέμοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "ἔσωθεν γέμουσιν ὀφθαλμῶν·",
+      "highlightedWord": "γέμουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "χρυσᾶς γεμούσας θυμιαμάτων,",
+      "highlightedWord": "γεμούσας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Re 15:7",
+      "text": "χρυσᾶς γεμούσας τοῦ",
+      "highlightedWord": "γεμούσας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Re 17:3",
+      "text": "κόκκινον, γέμοντα ὀνόματα",
+      "highlightedWord": "γέμοντα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 4,
+      "reference": "Re 17:4",
+      "text": "αὐτῆς γέμον βδελυγμάτων",
+      "highlightedWord": "γέμον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Re 21:9",
+      "text": "τῶν γεμόντων τῶν",
+      "highlightedWord": "γεμόντων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

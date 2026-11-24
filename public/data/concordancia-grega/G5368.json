@@ -1,0 +1,190 @@
+{
+  "strong": "G5368",
+  "lemma": "φιλέω",
+  "lemmaTranslit": "phileō",
+  "tokenCount": 25,
+  "verseCount": 21,
+  "bookDistribution": {
+    "Mateus": 5,
+    "Marcos": 1,
+    "Lucas": 2,
+    "João": 13,
+    "1 Coríntios": 1,
+    "Tito": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mt 6:5",
+      "text": "ὅτι φιλοῦσιν ἐν",
+      "highlightedWord": "φιλοῦσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Mt 10:37",
+      "text": "ὁ φιλῶν πατέρα",
+      "highlightedWord": "φιλῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 6,
+      "reference": "Mt 23:6",
+      "text": "φιλοῦσι δὲ",
+      "highlightedWord": "φιλοῦσι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 48,
+      "reference": "Mt 26:48",
+      "text": "ἂν φιλήσω αὐτός",
+      "highlightedWord": "φιλήσω"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 44,
+      "reference": "Mk 14:44",
+      "text": "ἂν φιλήσω αὐτός",
+      "highlightedWord": "φιλήσω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 46,
+      "reference": "Lk 20:46",
+      "text": "καὶ φιλούντων ἀσπασμοὺς",
+      "highlightedWord": "φιλούντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 47,
+      "reference": "Lk 22:47",
+      "text": "Ἰησοῦ φιλῆσαι αὐτόν.",
+      "highlightedWord": "φιλῆσαι"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Jn 5:20",
+      "text": "πατὴρ φιλεῖ τὸν",
+      "highlightedWord": "φιλεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Jn 11:3",
+      "text": "ὃν φιλεῖς ἀσθενεῖ.",
+      "highlightedWord": "φιλεῖς"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 36,
+      "reference": "Jn 11:36",
+      "text": "πῶς ἐφίλει αὐτόν.",
+      "highlightedWord": "ἐφίλει"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Jn 12:25",
+      "text": "ὁ φιλῶν τὴν",
+      "highlightedWord": "φιλῶν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Jn 15:19",
+      "text": "ἴδιον ἐφίλει· ὅτι",
+      "highlightedWord": "ἐφίλει·"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 27,
+      "reference": "Jn 16:27",
+      "text": "πατὴρ φιλεῖ ὑμᾶς,",
+      "highlightedWord": "φιλεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Jn 20:2",
+      "text": "ὃν ἐφίλει ὁ",
+      "highlightedWord": "ἐφίλει"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Jn 21:15",
+      "text": "ὅτι φιλῶ σε.",
+      "highlightedWord": "φιλῶ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Jn 21:16",
+      "text": "ὅτι φιλῶ σε.",
+      "highlightedWord": "φιλῶ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Jn 21:17",
+      "text": "Ἰωάννου, φιλεῖς με;",
+      "highlightedWord": "φιλεῖς"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 22,
+      "reference": "1Co 16:22",
+      "text": "οὐ φιλεῖ τὸν",
+      "highlightedWord": "φιλεῖ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Tit 3:15",
+      "text": "τοὺς φιλοῦντας ἡμᾶς",
+      "highlightedWord": "φιλοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Re 3:19",
+      "text": "ἐὰν φιλῶ ἐλέγχω",
+      "highlightedWord": "φιλῶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 15,
+      "reference": "Re 22:15",
+      "text": "πᾶς φιλῶν καὶ",
+      "highlightedWord": "φιλῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

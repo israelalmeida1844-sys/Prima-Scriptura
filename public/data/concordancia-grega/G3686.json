@@ -1,0 +1,1746 @@
+{
+  "strong": "G3686",
+  "lemma": "ὄνομα",
+  "lemmaTranslit": "onoma",
+  "tokenCount": 229,
+  "verseCount": 214,
+  "bookDistribution": {
+    "Mateus": 22,
+    "Marcos": 15,
+    "Lucas": 34,
+    "João": 25,
+    "Atos": 60,
+    "Romanos": 5,
+    "1 Coríntios": 6,
+    "Efésios": 2,
+    "Filipenses": 4,
+    "Colossenses": 1,
+    "2 Tessalonicenses": 2,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 4,
+    "Tiago": 3,
+    "1 Pedro": 2,
+    "1 João": 3,
+    "3 João": 2,
+    "Apocalipse": 37
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Mt 1:21",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Mt 1:23",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Mt 1:25",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Mt 6:9",
+      "text": "τὸ ὄνομά σου,",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Mt 7:22",
+      "text": "σῷ ὀνόματι ἐπροφητεύσαμεν,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 2,
+      "reference": "Mt 10:2",
+      "text": "τὰ ὀνόματά ἐστιν",
+      "highlightedWord": "ὀνόματά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Mt 10:22",
+      "text": "τὸ ὄνομά μου·",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 41,
+      "reference": "Mt 10:41",
+      "text": "εἰς ὄνομα προφήτου",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mt 10:42",
+      "text": "εἰς ὄνομα μαθητοῦ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 21,
+      "reference": "Mt 12:21",
+      "text": "τῷ ὀνόματι αὐτοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 5,
+      "reference": "Mt 18:5",
+      "text": "τῷ ὀνόματί μου,",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Mt 18:20",
+      "text": "ἐμὸν ὄνομα, ἐκεῖ",
+      "highlightedWord": "ὄνομα,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Mt 19:29",
+      "text": "τοῦ ὀνόματός μου,",
+      "highlightedWord": "ὀνόματός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Mt 21:9",
+      "text": "ἐν ὀνόματι κυρίου·",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 39,
+      "reference": "Mt 23:39",
+      "text": "ἐν ὀνόματι κυρίου.",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Mt 24:5",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 9,
+      "reference": "Mt 24:9",
+      "text": "τὸ ὄνομά μου.",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 32,
+      "reference": "Mt 27:32",
+      "text": "Κυρηναῖον ὀνόματι Σίμωνα·",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 19,
+      "reference": "Mt 28:19",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Mk 3:16",
+      "text": "ἐπέθηκεν ὄνομα τῷ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Mk 3:17",
+      "text": "αὐτοῖς ὀνόματα Βοανηργές,",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Mk 5:9",
+      "text": "Τί ὄνομά σοι;",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Mk 5:22",
+      "text": "ἀρχισυναγώγων, ὀνόματι Ἰάϊρος,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Mk 6:14",
+      "text": "τὸ ὄνομα αὐτοῦ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Mk 9:37",
+      "text": "τῷ ὀνόματί μου,",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Mk 9:38",
+      "text": "τῷ ὀνόματί σου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 39,
+      "reference": "Mk 9:39",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Mk 9:41",
+      "text": "ἐν ὀνόματι ὅτι",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Mk 11:9",
+      "text": "ἐν ὀνόματι κυρίου·",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Mk 13:6",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 13,
+      "reference": "Mk 13:13",
+      "text": "τὸ ὄνομά μου.",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 32,
+      "reference": "Mk 14:32",
+      "text": "τὸ ὄνομα Γεθσημανί,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Mk 16:17",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Lk 1:5",
+      "text": "τις ὀνόματι Ζαχαρίας",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Lk 1:13",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Lk 1:26",
+      "text": "ᾗ ὄνομα Ναζαρὲθ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 27,
+      "reference": "Lk 1:27",
+      "text": "ᾧ ὄνομα Ἰωσὴφ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Lk 1:31",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 49,
+      "reference": "Lk 1:49",
+      "text": "τὸ ὄνομα αὐτοῦ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 59,
+      "reference": "Lk 1:59",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 61,
+      "reference": "Lk 1:61",
+      "text": "τῷ ὀνόματι τούτῳ.",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 63,
+      "reference": "Lk 1:63",
+      "text": "ἐστὶν ὄνομα αὐτοῦ.",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Lk 2:21",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Lk 2:25",
+      "text": "ᾧ ὄνομα Συμεών,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 27,
+      "reference": "Lk 5:27",
+      "text": "τελώνην ὀνόματι Λευὶν",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Lk 6:22",
+      "text": "τὸ ὄνομα ὑμῶν",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Lk 8:30",
+      "text": "σοι ὄνομά ἐστιν;",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Lk 8:41",
+      "text": "ᾧ ὄνομα Ἰάϊρος,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 48,
+      "reference": "Lk 9:48",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 49,
+      "reference": "Lk 9:49",
+      "text": "τῷ ὀνόματί σου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Lk 10:17",
+      "text": "τῷ ὀνόματί σου.",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Lk 10:20",
+      "text": "τὰ ὀνόματα ὑμῶν",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Lk 10:38",
+      "text": "τις ὀνόματι Μάρθα",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Lk 11:2",
+      "text": "τὸ ὄνομά σου·",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Lk 13:35",
+      "text": "ἐν ὀνόματι κυρίου.",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Lk 16:20",
+      "text": "τις ὀνόματι Λάζαρος",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 2,
+      "reference": "Lk 19:2",
+      "text": "ἀνὴρ ὀνόματι καλούμενος",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 38,
+      "reference": "Lk 19:38",
+      "text": "ἐν ὀνόματι κυρίου·",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Lk 21:8",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Lk 21:12",
+      "text": "τοῦ ὀνόματός μου·",
+      "highlightedWord": "ὀνόματός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Lk 21:17",
+      "text": "τὸ ὄνομά μου.",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 50,
+      "reference": "Lk 23:50",
+      "text": "ἀνὴρ ὀνόματι Ἰωσὴφ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 13,
+      "reference": "Lk 24:13",
+      "text": "ᾗ ὄνομα Ἐμμαοῦς,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Lk 24:18",
+      "text": "εἷς ὀνόματι Κλεοπᾶς",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 47,
+      "reference": "Lk 24:47",
+      "text": "τῷ ὀνόματι αὐτοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 6,
+      "reference": "Jn 1:6",
+      "text": "θεοῦ, ὄνομα αὐτῷ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "Jn 1:12",
+      "text": "τὸ ὄνομα αὐτοῦ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 23,
+      "reference": "Jn 2:23",
+      "text": "τὸ ὄνομα αὐτοῦ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Jn 3:1",
+      "text": "Νικόδημος ὄνομα αὐτῷ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 18,
+      "reference": "Jn 3:18",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Jn 5:43",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Jn 10:3",
+      "text": "κατ’ ὄνομα καὶ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Jn 10:25",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Jn 12:13",
+      "text": "ἐν ὀνόματι κυρίου,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Jn 12:28",
+      "text": "τὸ ὄνομα. ἦλθεν",
+      "highlightedWord": "ὄνομα."
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Jn 14:13",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Jn 14:14",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Jn 14:26",
+      "text": "τῷ ὀνόματί μου,",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Jn 15:16",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Jn 15:21",
+      "text": "τὸ ὄνομά μου,",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Jn 16:23",
+      "text": "τῷ ὀνόματί μου.",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Jn 16:24",
+      "text": "τῷ ὀνόματί μου·",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Jn 16:26",
+      "text": "τῷ ὀνόματί μου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Jn 17:6",
+      "text": "τὸ ὄνομα τοῖς",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 11,
+      "reference": "Jn 17:11",
+      "text": "τῷ ὀνόματί σου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Jn 17:12",
+      "text": "τῷ ὀνόματί σου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 26,
+      "reference": "Jn 17:26",
+      "text": "τὸ ὄνομά σου",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Jn 18:10",
+      "text": "δὲ ὄνομα τῷ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Jn 20:31",
+      "text": "τῷ ὀνόματι αὐτοῦ.",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Ac 1:15",
+      "text": "ὄχλος ὀνομάτων ἐπὶ",
+      "highlightedWord": "ὀνομάτων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Ac 2:21",
+      "text": "τὸ ὄνομα κυρίου",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "Ac 2:38",
+      "text": "τῷ ὀνόματι Ἰησοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "Ac 3:6",
+      "text": "τῷ ὀνόματι Ἰησοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Ac 3:16",
+      "text": "τοῦ ὀνόματος αὐτοῦ",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Ac 4:7",
+      "text": "ποίῳ ὀνόματι ἐποιήσατε",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Ac 4:10",
+      "text": "τῷ ὀνόματι Ἰησοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ac 4:12",
+      "text": "γὰρ ὄνομά ἐστιν",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Ac 4:17",
+      "text": "τῷ ὀνόματι τούτῳ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Ac 4:18",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 30,
+      "reference": "Ac 4:30",
+      "text": "τοῦ ὀνόματος τοῦ",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "Ac 5:1",
+      "text": "Ἁνανίας ὀνόματι σὺν",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Ac 5:28",
+      "text": "τῷ ὀνόματι τούτῳ,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 34,
+      "reference": "Ac 5:34",
+      "text": "Φαρισαῖος ὀνόματι Γαμαλιήλ,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 40,
+      "reference": "Ac 5:40",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Ac 5:41",
+      "text": "τοῦ ὀνόματος ἀτιμασθῆναι·",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "Ac 8:9",
+      "text": "τις ὀνόματι Σίμων",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Ac 8:12",
+      "text": "τοῦ ὀνόματος Ἰησοῦ",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 16,
+      "reference": "Ac 8:16",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Ac 9:10",
+      "text": "Δαμασκῷ ὀνόματι Ἁνανίας,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Ac 9:11",
+      "text": "Σαῦλον ὀνόματι Ταρσέα,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Ac 9:12",
+      "text": "Ἁνανίαν ὀνόματι εἰσελθόντα",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ac 9:14",
+      "text": "τὸ ὄνομά σου.",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Ac 9:15",
+      "text": "τὸ ὄνομά μου",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Ac 9:16",
+      "text": "τοῦ ὀνόματός μου",
+      "highlightedWord": "ὀνόματός"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ac 9:21",
+      "text": "τὸ ὄνομα τοῦτο,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Ac 9:27",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Ac 9:28",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Ac 9:33",
+      "text": "τινα ὀνόματι Αἰνέαν",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Ac 9:36",
+      "text": "μαθήτρια ὀνόματι Ταβιθά,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Ac 10:1",
+      "text": "Καισαρείᾳ ὀνόματι Κορνήλιος,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 43,
+      "reference": "Ac 10:43",
+      "text": "τοῦ ὀνόματος αὐτοῦ",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 48,
+      "reference": "Ac 10:48",
+      "text": "τῷ ὀνόματι Ἰησοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Ac 11:28",
+      "text": "αὐτῶν ὀνόματι Ἅγαβος",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 13,
+      "reference": "Ac 12:13",
+      "text": "ὑπακοῦσαι ὀνόματι Ῥόδη,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Ac 13:6",
+      "text": "ᾧ ὄνομα Βαριησοῦ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Ac 13:8",
+      "text": "τὸ ὄνομα αὐτοῦ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Ac 15:14",
+      "text": "τῷ ὀνόματι αὐτοῦ.",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 17,
+      "reference": "Ac 15:17",
+      "text": "τὸ ὄνομά μου",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Ac 15:26",
+      "text": "τοῦ ὀνόματος τοῦ",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 1,
+      "reference": "Ac 16:1",
+      "text": "ἐκεῖ ὀνόματι Τιμόθεος,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Ac 16:14",
+      "text": "γυνὴ ὀνόματι Λυδία,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ac 16:18",
+      "text": "ἐν ὀνόματι Ἰησοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 34,
+      "reference": "Ac 17:34",
+      "text": "γυνὴ ὀνόματι Δάμαρις",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Ac 18:2",
+      "text": "Ἰουδαῖον ὀνόματι Ἀκύλαν,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Ac 18:7",
+      "text": "τινὸς ὀνόματι Τιτίου",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Ac 18:15",
+      "text": "καὶ ὀνομάτων καὶ",
+      "highlightedWord": "ὀνομάτων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Ac 18:24",
+      "text": "Ἀπολλῶς ὀνόματι, Ἀλεξανδρεὺς",
+      "highlightedWord": "ὀνόματι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Ac 19:5",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Ac 19:13",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Ac 19:17",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Ac 19:24",
+      "text": "τις ὀνόματι, ἀργυροκόπος,",
+      "highlightedWord": "ὀνόματι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Ac 20:9",
+      "text": "νεανίας ὀνόματι Εὔτυχος",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 10,
+      "reference": "Ac 21:10",
+      "text": "προφήτης ὀνόματι Ἅγαβος,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Ac 21:13",
+      "text": "τοῦ ὀνόματος τοῦ",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Ac 22:16",
+      "text": "τὸ ὄνομα αὐτοῦ.",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 9,
+      "reference": "Ac 26:9",
+      "text": "τὸ ὄνομα Ἰησοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 1,
+      "reference": "Ac 27:1",
+      "text": "ἑκατοντάρχῃ ὀνόματι Ἰουλίῳ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 7,
+      "reference": "Ac 28:7",
+      "text": "νήσου ὀνόματι Ποπλίῳ,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Ro 1:5",
+      "text": "τοῦ ὀνόματος αὐτοῦ,",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Ro 2:24",
+      "text": "γὰρ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Ro 9:17",
+      "text": "τὸ ὄνομά μου",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 13,
+      "reference": "Ro 10:13",
+      "text": "τὸ ὄνομα κυρίου",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Ro 15:9",
+      "text": "τῷ ὀνόματί σου",
+      "highlightedWord": "ὀνόματί"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 2,
+      "reference": "1Co 1:2",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "1Co 1:10",
+      "text": "τοῦ ὀνόματος τοῦ",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "1Co 1:13",
+      "text": "τὸ ὄνομα Παύλου",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "1Co 1:15",
+      "text": "ἐμὸν ὄνομα ἐβαπτίσθητε·",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "1Co 5:4",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "1Co 6:11",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Eph 1:21",
+      "text": "παντὸς ὀνόματος ὀνομαζομένου",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Eph 5:20",
+      "text": "ἐν ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Php 2:9",
+      "text": "τὸ ὄνομα τὸ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Php 2:10",
+      "text": "τῷ ὀνόματι Ἰησοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Php 4:3",
+      "text": "τὰ ὀνόματα ἐν",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Col 3:17",
+      "text": "ἐν ὀνόματι κυρίου",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Th 1:12",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "2Th 3:6",
+      "text": "ἐν ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "1Ti 6:1",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "2Ti 2:19",
+      "text": "τὸ ὄνομα κυρίου.",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "Heb 1:4",
+      "text": "κεκληρονόμηκεν ὄνομα.",
+      "highlightedWord": "ὄνομα."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Heb 2:12",
+      "text": "τὸ ὄνομά σου",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 10,
+      "reference": "Heb 6:10",
+      "text": "τὸ ὄνομα αὐτοῦ,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 13,
+      "verse": 15,
+      "reference": "Heb 13:15",
+      "text": "τῷ ὀνόματι αὐτοῦ.",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Jas 2:7",
+      "text": "καλὸν ὄνομα τὸ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Jas 5:10",
+      "text": "τῷ ὀνόματι κυρίου.",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Jas 5:14",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "1Pe 4:14",
+      "text": "ἐν ὀνόματι Χριστοῦ,",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "1Pe 4:16",
+      "text": "τῷ ὀνόματι τούτῳ.",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Jn 2:12",
+      "text": "τὸ ὄνομα αὐτοῦ·",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "1Jn 3:23",
+      "text": "τῷ ὀνόματι τοῦ",
+      "highlightedWord": "ὀνόματι"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Jn 5:13",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "3Jn 1:7",
+      "text": "τοῦ ὀνόματος ἐξῆλθον",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "3Jn 1:15",
+      "text": "κατ’ ὄνομα.",
+      "highlightedWord": "ὄνομα."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 3,
+      "reference": "Re 2:3",
+      "text": "τὸ ὄνομά μου,",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "τὸ ὄνομά μου,",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "ψῆφον ὄνομα καινὸν",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Re 3:1",
+      "text": "ὅτι ὄνομα ἔχεις",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "Re 3:4",
+      "text": "ὀλίγα ὀνόματα ἐν",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Re 3:5",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "τὸ ὄνομά μου.",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Re 3:12",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Re 6:8",
+      "text": "αὐτοῦ ὄνομα αὐτῷ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Re 8:11",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Re 9:11",
+      "text": "ἀβύσσου· ὄνομα αὐτῷ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "σεισμῷ ὀνόματα ἀνθρώπων",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Re 11:18",
+      "text": "τὸ ὄνομά σου,",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Re 13:1",
+      "text": "αὐτοῦ ὀνόματα βλασφημίας.",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Re 13:6",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Re 13:8",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Re 13:17",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Re 14:1",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "τοῦ ὀνόματος αὐτοῦ.",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 2,
+      "reference": "Re 15:2",
+      "text": "τοῦ ὀνόματος αὐτοῦ",
+      "highlightedWord": "ὀνόματος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Re 15:4",
+      "text": "τὸ ὄνομά σου,",
+      "highlightedWord": "ὄνομά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Re 16:9",
+      "text": "τὸ ὄνομα τοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 3,
+      "reference": "Re 17:3",
+      "text": "γέμοντα ὀνόματα βλασφημίας,",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Re 17:5",
+      "text": "αὐτῆς ὄνομα γεγραμμένον,",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Re 17:8",
+      "text": "τὸ ὄνομα ἐπὶ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "ἔχων ὄνομα γεγραμμένον",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Re 19:13",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Re 19:16",
+      "text": "αὐτοῦ ὄνομα γεγραμμένον·",
+      "highlightedWord": "ὄνομα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Re 21:12",
+      "text": "καὶ ὀνόματα ἐπιγεγραμμένα",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 14,
+      "reference": "Re 21:14",
+      "text": "δώδεκα ὀνόματα τῶν",
+      "highlightedWord": "ὀνόματα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Re 22:4",
+      "text": "τὸ ὄνομα αὐτοῦ",
+      "highlightedWord": "ὄνομα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

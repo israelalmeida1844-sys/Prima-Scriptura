@@ -1,0 +1,470 @@
+{
+  "strong": "G4864",
+  "lemma": "συναγωγή",
+  "lemmaTranslit": "synagōgē",
+  "tokenCount": 56,
+  "verseCount": 56,
+  "bookDistribution": {
+    "Mateus": 9,
+    "Marcos": 8,
+    "Lucas": 15,
+    "João": 2,
+    "Atos": 19,
+    "Tiago": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Mt 4:23",
+      "text": "ταῖς συναγωγαῖς αὐτῶν",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mt 6:2",
+      "text": "ταῖς συναγωγαῖς καὶ",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Mt 6:5",
+      "text": "ταῖς συναγωγαῖς καὶ",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Mt 9:35",
+      "text": "ταῖς συναγωγαῖς αὐτῶν",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Mt 10:17",
+      "text": "ταῖς συναγωγαῖς αὐτῶν",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Mt 12:9",
+      "text": "τὴν συναγωγὴν αὐτῶν·",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 54,
+      "reference": "Mt 13:54",
+      "text": "τῇ συναγωγῇ αὐτῶν,",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 6,
+      "reference": "Mt 23:6",
+      "text": "ταῖς συναγωγαῖς",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 34,
+      "reference": "Mt 23:34",
+      "text": "ταῖς συναγωγαῖς ὑμῶν",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 21,
+      "reference": "Mk 1:21",
+      "text": "τὴν συναγωγήν.",
+      "highlightedWord": "συναγωγήν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Mk 1:23",
+      "text": "τῇ συναγωγῇ αὐτῶν",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Mk 1:29",
+      "text": "τῆς συναγωγῆς ἐξελθόντες",
+      "highlightedWord": "συναγωγῆς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Mk 1:39",
+      "text": "τὰς συναγωγὰς αὐτῶν",
+      "highlightedWord": "συναγωγὰς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Mk 3:1",
+      "text": "εἰς συναγωγήν, καὶ",
+      "highlightedWord": "συναγωγήν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "Mk 6:2",
+      "text": "τῇ συναγωγῇ· καὶ",
+      "highlightedWord": "συναγωγῇ·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Mk 12:39",
+      "text": "ταῖς συναγωγαῖς καὶ",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 9,
+      "reference": "Mk 13:9",
+      "text": "εἰς συναγωγὰς δαρήσεσθε",
+      "highlightedWord": "συναγωγὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Lk 4:15",
+      "text": "ταῖς συναγωγαῖς αὐτῶν,",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Lk 4:16",
+      "text": "τὴν συναγωγήν, καὶ",
+      "highlightedWord": "συναγωγήν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Lk 4:20",
+      "text": "τῇ συναγωγῇ ἦσαν",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Lk 4:28",
+      "text": "τῇ συναγωγῇ ἀκούοντες",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Lk 4:33",
+      "text": "τῇ συναγωγῇ ἦν",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 38,
+      "reference": "Lk 4:38",
+      "text": "τῆς συναγωγῆς εἰσῆλθεν",
+      "highlightedWord": "συναγωγῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 44,
+      "reference": "Lk 4:44",
+      "text": "τὰς συναγωγὰς τῆς",
+      "highlightedWord": "συναγωγὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Lk 6:6",
+      "text": "τὴν συναγωγὴν καὶ",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 5,
+      "reference": "Lk 7:5",
+      "text": "τὴν συναγωγὴν αὐτὸς",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Lk 8:41",
+      "text": "τῆς συναγωγῆς ὑπῆρχεν,",
+      "highlightedWord": "συναγωγῆς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 43,
+      "reference": "Lk 11:43",
+      "text": "ταῖς συναγωγαῖς καὶ",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Lk 12:11",
+      "text": "τὰς συναγωγὰς καὶ",
+      "highlightedWord": "συναγωγὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 10,
+      "reference": "Lk 13:10",
+      "text": "τῶν συναγωγῶν ἐν",
+      "highlightedWord": "συναγωγῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 46,
+      "reference": "Lk 20:46",
+      "text": "ταῖς συναγωγαῖς καὶ",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Lk 21:12",
+      "text": "τὰς συναγωγὰς καὶ",
+      "highlightedWord": "συναγωγὰς"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 59,
+      "reference": "Jn 6:59",
+      "text": "ἐν συναγωγῇ διδάσκων",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Jn 18:20",
+      "text": "ἐν συναγωγῇ καὶ",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Ac 6:9",
+      "text": "τῆς συναγωγῆς τῆς",
+      "highlightedWord": "συναγωγῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ac 9:2",
+      "text": "τὰς συναγωγάς, ὅπως",
+      "highlightedWord": "συναγωγάς,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Ac 9:20",
+      "text": "ταῖς συναγωγαῖς ἐκήρυσσεν",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Ac 13:5",
+      "text": "ταῖς συναγωγαῖς τῶν",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Ac 13:14",
+      "text": "τὴν συναγωγὴν τῇ",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 43,
+      "reference": "Ac 13:43",
+      "text": "τῆς συναγωγῆς ἠκολούθησαν",
+      "highlightedWord": "συναγωγῆς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Ac 14:1",
+      "text": "τὴν συναγωγὴν τῶν",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Ac 15:21",
+      "text": "ταῖς συναγωγαῖς κατὰ",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Ac 17:1",
+      "text": "ἦν συναγωγὴ τῶν",
+      "highlightedWord": "συναγωγὴ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Ac 17:10",
+      "text": "τὴν συναγωγὴν τῶν",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 17,
+      "reference": "Ac 17:17",
+      "text": "τῇ συναγωγῇ τοῖς",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Ac 18:4",
+      "text": "τῇ συναγωγῇ κατὰ",
+      "highlightedWord": "συναγωγῇ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Ac 18:7",
+      "text": "τῇ συναγωγῇ.",
+      "highlightedWord": "συναγωγῇ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Ac 18:19",
+      "text": "τὴν συναγωγὴν διελέξατο",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 26,
+      "reference": "Ac 18:26",
+      "text": "τῇ συναγωγῇ· ἀκούσαντες",
+      "highlightedWord": "συναγωγῇ·"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Ac 19:8",
+      "text": "τὴν συναγωγὴν ἐπαρρησιάζετο",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 19,
+      "reference": "Ac 22:19",
+      "text": "τὰς συναγωγὰς τοὺς",
+      "highlightedWord": "συναγωγὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Ac 24:12",
+      "text": "ταῖς συναγωγαῖς οὔτε",
+      "highlightedWord": "συναγωγαῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 11,
+      "reference": "Ac 26:11",
+      "text": "τὰς συναγωγὰς πολλάκις",
+      "highlightedWord": "συναγωγὰς"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Jas 2:2",
+      "text": "εἰς συναγωγὴν ὑμῶν",
+      "highlightedWord": "συναγωγὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "ἀλλὰ συναγωγὴ τοῦ",
+      "highlightedWord": "συναγωγὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Re 3:9",
+      "text": "τῆς συναγωγῆς τοῦ",
+      "highlightedWord": "συναγωγῆς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

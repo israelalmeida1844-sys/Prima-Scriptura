@@ -1,0 +1,705 @@
+{
+  "strong": "G4098",
+  "lemma": "πίπτω",
+  "lemmaTranslit": "piptō",
+  "tokenCount": 90,
+  "verseCount": 85,
+  "bookDistribution": {
+    "Mateus": 19,
+    "Marcos": 8,
+    "Lucas": 17,
+    "João": 3,
+    "Atos": 9,
+    "Romanos": 3,
+    "1 Coríntios": 4,
+    "Hebreus": 3,
+    "Tiago": 1,
+    "Apocalipse": 23
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Mt 2:11",
+      "text": "καὶ πεσόντες προσεκύνησαν",
+      "highlightedWord": "πεσόντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 9,
+      "reference": "Mt 4:9",
+      "text": "ἐὰν πεσὼν προσκυνήσῃς",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Mt 7:25",
+      "text": "οὐκ ἔπεσεν, τεθεμελίωτο",
+      "highlightedWord": "ἔπεσεν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Mt 7:27",
+      "text": "καὶ ἔπεσεν, καὶ",
+      "highlightedWord": "ἔπεσεν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Mt 10:29",
+      "text": "οὐ πεσεῖται ἐπὶ",
+      "highlightedWord": "πεσεῖται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Mt 13:4",
+      "text": "μὲν ἔπεσεν παρὰ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Mt 13:5",
+      "text": "δὲ ἔπεσεν ἐπὶ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Mt 13:7",
+      "text": "δὲ ἔπεσεν ἐπὶ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Mt 13:8",
+      "text": "δὲ ἔπεσεν ἐπὶ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Mt 15:14",
+      "text": "βόθυνον πεσοῦνται.",
+      "highlightedWord": "πεσοῦνται."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Mt 15:27",
+      "text": "τῶν πιπτόντων ἀπὸ",
+      "highlightedWord": "πιπτόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Mt 17:6",
+      "text": "μαθηταὶ ἔπεσαν ἐπὶ",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Mt 17:15",
+      "text": "γὰρ πίπτει εἰς",
+      "highlightedWord": "πίπτει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 26,
+      "reference": "Mt 18:26",
+      "text": "πεσὼν οὖν",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 29,
+      "reference": "Mt 18:29",
+      "text": "πεσὼν οὖν",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 44,
+      "reference": "Mt 21:44",
+      "text": "ὁ πεσὼν ἐπὶ",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Mt 24:29",
+      "text": "ἀστέρες πεσοῦνται ἀπὸ",
+      "highlightedWord": "πεσοῦνται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 39,
+      "reference": "Mt 26:39",
+      "text": "μικρὸν ἔπεσεν ἐπὶ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Mk 4:4",
+      "text": "μὲν ἔπεσεν παρὰ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "Mk 4:5",
+      "text": "ἄλλο ἔπεσεν ἐπὶ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Mk 4:7",
+      "text": "ἄλλο ἔπεσεν εἰς",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Mk 4:8",
+      "text": "ἄλλα ἔπεσεν εἰς",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Mk 5:22",
+      "text": "αὐτὸν πίπτει πρὸς",
+      "highlightedWord": "πίπτει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Mk 9:20",
+      "text": "καὶ πεσὼν ἐπὶ",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Mk 13:25",
+      "text": "οὐρανοῦ πίπτοντες, καὶ",
+      "highlightedWord": "πίπτοντες,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mk 14:35",
+      "text": "μικρὸν ἔπιπτεν ἐπὶ",
+      "highlightedWord": "ἔπιπτεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Lk 5:12",
+      "text": "Ἰησοῦν πεσὼν ἐπὶ",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 5,
+      "reference": "Lk 8:5",
+      "text": "μὲν ἔπεσεν παρὰ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Lk 8:7",
+      "text": "ἕτερον ἔπεσεν ἐν",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Lk 8:8",
+      "text": "ἕτερον ἔπεσεν εἰς",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Lk 8:14",
+      "text": "ἀκάνθας πεσόν, οὗτοί",
+      "highlightedWord": "πεσόν,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 41,
+      "reference": "Lk 8:41",
+      "text": "καὶ πεσὼν παρὰ",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "Lk 10:18",
+      "text": "οὐρανοῦ πεσόντα.",
+      "highlightedWord": "πεσόντα."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Lk 11:17",
+      "text": "οἶκον πίπτει.",
+      "highlightedWord": "πίπτει."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Lk 13:4",
+      "text": "οὓς ἔπεσεν ὁ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Lk 14:5",
+      "text": "φρέαρ πεσεῖται, καὶ",
+      "highlightedWord": "πεσεῖται,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Lk 16:17",
+      "text": "κεραίαν πεσεῖν.",
+      "highlightedWord": "πεσεῖν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Lk 16:21",
+      "text": "τῶν πιπτόντων ἀπὸ",
+      "highlightedWord": "πιπτόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 16,
+      "reference": "Lk 17:16",
+      "text": "καὶ ἔπεσεν ἐπὶ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Lk 20:18",
+      "text": "ὁ πεσὼν ἐπ’",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Lk 21:24",
+      "text": "καὶ πεσοῦνται στόματι",
+      "highlightedWord": "πεσοῦνται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 30,
+      "reference": "Lk 23:30",
+      "text": "ὄρεσιν· Πέσετε ἐφ’",
+      "highlightedWord": "Πέσετε"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 32,
+      "reference": "Jn 11:32",
+      "text": "αὐτὸν ἔπεσεν αὐτοῦ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Jn 12:24",
+      "text": "σίτου πεσὼν εἰς",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Jn 18:6",
+      "text": "καὶ ἔπεσαν χαμαί.",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Ac 1:26",
+      "text": "καὶ ἔπεσεν ὁ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Ac 5:5",
+      "text": "τούτους πεσὼν ἐξέψυξεν·",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ac 5:10",
+      "text": "ἔπεσεν δὲ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Ac 9:4",
+      "text": "καὶ πεσὼν ἐπὶ",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 25,
+      "reference": "Ac 10:25",
+      "text": "Κορνήλιος πεσὼν ἐπὶ",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ac 13:11",
+      "text": "δὲ ἔπεσεν ἐπ’",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 16,
+      "reference": "Ac 15:16",
+      "text": "τὴν πεπτωκυῖαν καὶ",
+      "highlightedWord": "πεπτωκυῖαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Ac 20:9",
+      "text": "ὕπνου ἔπεσεν ἀπὸ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Ac 22:7",
+      "text": "ἔπεσά τε",
+      "highlightedWord": "ἔπεσά"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Ro 11:11",
+      "text": "ἵνα πέσωσιν; μὴ",
+      "highlightedWord": "πέσωσιν;"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Ro 11:22",
+      "text": "τοὺς πεσόντας ἀποτομία,",
+      "highlightedWord": "πεσόντας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Ro 14:4",
+      "text": "ἢ πίπτει· σταθήσεται",
+      "highlightedWord": "πίπτει·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "1Co 10:8",
+      "text": "καὶ ἔπεσαν μιᾷ",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "1Co 10:12",
+      "text": "μὴ πέσῃ,",
+      "highlightedWord": "πέσῃ,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "1Co 13:8",
+      "text": "οὐδέποτε πίπτει. εἴτε",
+      "highlightedWord": "πίπτει."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "1Co 14:25",
+      "text": "οὕτως πεσὼν ἐπὶ",
+      "highlightedWord": "πεσὼν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Heb 3:17",
+      "text": "κῶλα ἔπεσεν ἐν",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Heb 4:11",
+      "text": "ὑποδείγματι πέσῃ τῆς",
+      "highlightedWord": "πέσῃ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 30,
+      "reference": "Heb 11:30",
+      "text": "Ἰεριχὼ ἔπεσαν κυκλωθέντα",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "Jas 5:12",
+      "text": "κρίσιν πέσητε.",
+      "highlightedWord": "πέσητε."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Re 1:17",
+      "text": "αὐτόν, ἔπεσα πρὸς",
+      "highlightedWord": "ἔπεσα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Re 2:5",
+      "text": "πόθεν πέπτωκας, καὶ",
+      "highlightedWord": "πέπτωκας,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Re 4:10",
+      "text": "πεσοῦνται οἱ",
+      "highlightedWord": "πεσοῦνται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "Re 5:8",
+      "text": "πρεσβύτεροι ἔπεσαν ἐνώπιον",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Re 5:14",
+      "text": "πρεσβύτεροι ἔπεσαν καὶ",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Re 6:13",
+      "text": "οὐρανοῦ ἔπεσαν εἰς",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Re 6:16",
+      "text": "πέτραις· Πέσετε ἐφ’",
+      "highlightedWord": "Πέσετε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Re 7:11",
+      "text": "καὶ ἔπεσαν ἐνώπιον",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "Re 7:16",
+      "text": "μὴ πέσῃ ἐπ’",
+      "highlightedWord": "πέσῃ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Re 8:10",
+      "text": "καὶ ἔπεσεν ἐκ",
+      "highlightedWord": "ἔπεσεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Re 9:1",
+      "text": "οὐρανοῦ πεπτωκότα εἰς",
+      "highlightedWord": "πεπτωκότα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "πόλεως ἔπεσεν, καὶ",
+      "highlightedWord": "ἔπεσεν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Re 11:16",
+      "text": "αὐτῶν ἔπεσαν ἐπὶ",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 8,
+      "reference": "Re 14:8",
+      "text": "λέγων· Ἔπεσεν, ἔπεσεν",
+      "highlightedWord": "Ἔπεσεν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Re 16:19",
+      "text": "ἐθνῶν ἔπεσαν· καὶ",
+      "highlightedWord": "ἔπεσαν·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Re 17:10",
+      "text": "πέντε ἔπεσαν, ὁ",
+      "highlightedWord": "ἔπεσαν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Re 18:2",
+      "text": "λέγων· Ἔπεσεν, ἔπεσεν",
+      "highlightedWord": "Ἔπεσεν,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Re 19:4",
+      "text": "καὶ ἔπεσαν οἱ",
+      "highlightedWord": "ἔπεσαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Re 19:10",
+      "text": "καὶ ἔπεσα ἔμπροσθεν",
+      "highlightedWord": "ἔπεσα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 8,
+      "reference": "Re 22:8",
+      "text": "ἔβλεψα, ἔπεσα προσκυνῆσαι",
+      "highlightedWord": "ἔπεσα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,217 @@
+{
+  "strong": "G91",
+  "lemma": "ἀδικέω",
+  "lemmaTranslit": "adikeō",
+  "tokenCount": 28,
+  "verseCount": 24,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 1,
+    "Atos": 5,
+    "1 Coríntios": 2,
+    "2 Coríntios": 3,
+    "Gálatas": 1,
+    "Colossenses": 2,
+    "Filemom": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 11
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Mt 20:13",
+      "text": "οὐκ ἀδικῶ σε·",
+      "highlightedWord": "ἀδικῶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Lk 10:19",
+      "text": "μὴ ἀδικήσῃ.",
+      "highlightedWord": "ἀδικήσῃ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Ac 7:24",
+      "text": "τινα ἀδικούμενον ἠμύνατο",
+      "highlightedWord": "ἀδικούμενον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Ac 7:26",
+      "text": "ἱνατί ἀδικεῖτε ἀλλήλους;",
+      "highlightedWord": "ἀδικεῖτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Ac 7:27",
+      "text": "δὲ ἀδικῶν τὸν",
+      "highlightedWord": "ἀδικῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Ac 25:10",
+      "text": "οὐδὲν ἠδίκησα, ὡς",
+      "highlightedWord": "ἠδίκησα,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 25,
+      "verse": 11,
+      "reference": "Ac 25:11",
+      "text": "οὖν ἀδικῶ καὶ",
+      "highlightedWord": "ἀδικῶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "1Co 6:7",
+      "text": "μᾶλλον ἀδικεῖσθε; διὰ",
+      "highlightedWord": "ἀδικεῖσθε;"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "1Co 6:8",
+      "text": "ὑμεῖς ἀδικεῖτε καὶ",
+      "highlightedWord": "ἀδικεῖτε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "2Co 7:2",
+      "text": "οὐδένα ἠδικήσαμεν, οὐδένα",
+      "highlightedWord": "ἠδικήσαμεν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 12,
+      "reference": "2Co 7:12",
+      "text": "τοῦ ἀδικήσαντος, οὐδὲ",
+      "highlightedWord": "ἀδικήσαντος,"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Ga 4:12",
+      "text": "με ἠδικήσατε·",
+      "highlightedWord": "ἠδικήσατε·"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Col 3:25",
+      "text": "γὰρ ἀδικῶν κομίσεται",
+      "highlightedWord": "ἀδικῶν"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Phm 1:18",
+      "text": "τι ἠδίκησέν σε",
+      "highlightedWord": "ἠδίκησέν"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Pe 2:13",
+      "text": "ἀδικούμενοι μισθὸν",
+      "highlightedWord": "ἀδικούμενοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "Re 2:11",
+      "text": "μὴ ἀδικηθῇ ἐκ",
+      "highlightedWord": "ἀδικηθῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Re 6:6",
+      "text": "μὴ ἀδικήσῃς.",
+      "highlightedWord": "ἀδικήσῃς."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Re 7:2",
+      "text": "αὐτοῖς ἀδικῆσαι τὴν",
+      "highlightedWord": "ἀδικῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Re 7:3",
+      "text": "Μὴ ἀδικήσητε τὴν",
+      "highlightedWord": "ἀδικήσητε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Re 9:4",
+      "text": "μὴ ἀδικήσουσιν τὸν",
+      "highlightedWord": "ἀδικήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Re 9:10",
+      "text": "αὐτῶν ἀδικῆσαι τοὺς",
+      "highlightedWord": "ἀδικῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Re 9:19",
+      "text": "αὐταῖς ἀδικοῦσιν.",
+      "highlightedWord": "ἀδικοῦσιν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Re 11:5",
+      "text": "θέλει ἀδικῆσαι, πῦρ",
+      "highlightedWord": "ἀδικῆσαι,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Re 22:11",
+      "text": "ὁ ἀδικῶν ἀδικησάτω",
+      "highlightedWord": "ἀδικῶν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

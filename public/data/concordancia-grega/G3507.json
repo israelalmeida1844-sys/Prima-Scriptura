@@ -1,0 +1,43 @@
+{
+  "strong": "G3507",
+  "lemma": "νεφέλη",
+  "lemmaTranslit": "nephelē",
+  "tokenCount": 25,
+  "verseCount": 21,
+  "bookDistribution": {
+    "Mt": 4,
+    "Mc": 4,
+    "Lc": 5,
+    "At": 1,
+    "1Co": 2,
+    "1Ts": 1,
+    "Jd": 1,
+    "Ap": 7
+  },
+  "references": [
+    "Mt 17:5",
+    "Mt 24:30",
+    "Mt 26:64",
+    "Mc 9:7",
+    "Mc 13:26",
+    "Mc 14:62",
+    "Lc 9:34",
+    "Lc 9:35",
+    "Lc 12:54",
+    "Lc 21:27",
+    "At 1:9",
+    "1Co 10:1",
+    "1Co 10:2",
+    "1Ts 4:17",
+    "Jd 1:12",
+    "Ap 1:7",
+    "Ap 10:1",
+    "Ap 11:12",
+    "Ap 14:14",
+    "Ap 14:15",
+    "Ap 14:16"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "MorphGNT SBLGNT 6.12; todos os 27 livros"
+}

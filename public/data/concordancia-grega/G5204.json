@@ -1,0 +1,571 @@
+{
+  "strong": "G5204",
+  "lemma": "ὕδωρ",
+  "lemmaTranslit": "hydōr",
+  "tokenCount": 76,
+  "verseCount": 68,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 5,
+    "Lucas": 6,
+    "João": 21,
+    "Atos": 7,
+    "Efésios": 1,
+    "Hebreus": 2,
+    "Tiago": 1,
+    "1 Pedro": 1,
+    "2 Pedro": 3,
+    "1 João": 4,
+    "Apocalipse": 18
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Mt 3:11",
+      "text": "ἐν ὕδατι εἰς",
+      "highlightedWord": "ὕδατι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Mt 3:16",
+      "text": "τοῦ ὕδατος· καὶ",
+      "highlightedWord": "ὕδατος·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Mt 8:32",
+      "text": "τοῖς ὕδασιν.",
+      "highlightedWord": "ὕδασιν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 28,
+      "reference": "Mt 14:28",
+      "text": "τὰ ὕδατα·",
+      "highlightedWord": "ὕδατα·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "Mt 14:29",
+      "text": "τὰ ὕδατα καὶ",
+      "highlightedWord": "ὕδατα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Mt 17:15",
+      "text": "τὸ ὕδωρ.",
+      "highlightedWord": "ὕδωρ."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 24,
+      "reference": "Mt 27:24",
+      "text": "λαβὼν ὕδωρ ἀπενίψατο",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Mk 1:8",
+      "text": "ὑμᾶς ὕδατι, αὐτὸς",
+      "highlightedWord": "ὕδατι,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Mk 1:10",
+      "text": "τοῦ ὕδατος εἶδεν",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mk 9:22",
+      "text": "εἰς ὕδατα ἵνα",
+      "highlightedWord": "ὕδατα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 41,
+      "reference": "Mk 9:41",
+      "text": "ποτήριον ὕδατος ἐν",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Mk 14:13",
+      "text": "κεράμιον ὕδατος βαστάζων·",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Lk 3:16",
+      "text": "μὲν ὕδατι βαπτίζω",
+      "highlightedWord": "ὕδατι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 44,
+      "reference": "Lk 7:44",
+      "text": "οἰκίαν, ὕδωρ μοι",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 24,
+      "reference": "Lk 8:24",
+      "text": "τοῦ ὕδατος, καὶ",
+      "highlightedWord": "ὕδατος,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 25,
+      "reference": "Lk 8:25",
+      "text": "τῷ ὕδατι, καὶ",
+      "highlightedWord": "ὕδατι,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 24,
+      "reference": "Lk 16:24",
+      "text": "αὐτοῦ ὕδατος καὶ",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Lk 22:10",
+      "text": "κεράμιον ὕδατος βαστάζων·",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jn 1:26",
+      "text": "ἐν ὕδατι· μέσος",
+      "highlightedWord": "ὕδατι·"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Jn 1:31",
+      "text": "ἐν ὕδατι βαπτίζων.",
+      "highlightedWord": "ὕδατι"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Jn 1:33",
+      "text": "ἐν ὕδατι ἐκεῖνός",
+      "highlightedWord": "ὕδατι"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Jn 2:7",
+      "text": "ὑδρίας ὕδατος· καὶ",
+      "highlightedWord": "ὕδατος·"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Jn 2:9",
+      "text": "τὸ ὕδωρ οἶνον",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "Jn 3:5",
+      "text": "ἐξ ὕδατος καὶ",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Jn 3:23",
+      "text": "ὅτι ὕδατα πολλὰ",
+      "highlightedWord": "ὕδατα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Jn 4:7",
+      "text": "ἀντλῆσαι ὕδωρ. λέγει",
+      "highlightedWord": "ὕδωρ."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Jn 4:10",
+      "text": "σοι ὕδωρ ζῶν.",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "τὸ ὕδωρ τὸ",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Jn 4:13",
+      "text": "τοῦ ὕδατος τούτου",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Jn 4:14",
+      "text": "τοῦ ὕδατος οὗ",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jn 4:15",
+      "text": "τὸ ὕδωρ, ἵνα",
+      "highlightedWord": "ὕδωρ,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 46,
+      "reference": "Jn 4:46",
+      "text": "τὸ ὕδωρ οἶνον.",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Jn 5:7",
+      "text": "τὸ ὕδωρ βάλῃ",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 38,
+      "reference": "Jn 7:38",
+      "text": "ῥεύσουσιν ὕδατος ζῶντος.",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Jn 13:5",
+      "text": "βάλλει ὕδωρ εἰς",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Jn 19:34",
+      "text": "καὶ ὕδωρ.",
+      "highlightedWord": "ὕδωρ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "Ac 1:5",
+      "text": "ἐβάπτισεν ὕδατι, ὑμεῖς",
+      "highlightedWord": "ὕδατι,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 36,
+      "reference": "Ac 8:36",
+      "text": "τι ὕδωρ, καί",
+      "highlightedWord": "ὕδωρ,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ac 8:38",
+      "text": "τὸ ὕδωρ ὅ",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Ac 8:39",
+      "text": "τοῦ ὕδατος, πνεῦμα",
+      "highlightedWord": "ὕδατος,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 47,
+      "reference": "Ac 10:47",
+      "text": "τὸ ὕδωρ δύναται",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Ac 11:16",
+      "text": "ἐβάπτισεν ὕδατι, ὑμεῖς",
+      "highlightedWord": "ὕδατι,"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Eph 5:26",
+      "text": "τοῦ ὕδατος ἐν",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Heb 9:19",
+      "text": "μετὰ ὕδατος καὶ",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Heb 10:22",
+      "text": "σῶμα ὕδατι καθαρῷ·",
+      "highlightedWord": "ὕδατι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 12,
+      "reference": "Jas 3:12",
+      "text": "ποιῆσαι ὕδωρ.",
+      "highlightedWord": "ὕδωρ."
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 20,
+      "reference": "1Pe 3:20",
+      "text": "δι’ ὕδατος.",
+      "highlightedWord": "ὕδατος."
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "2Pe 3:5",
+      "text": "ἐξ ὕδατος καὶ",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 6,
+      "reference": "2Pe 3:6",
+      "text": "κόσμος ὕδατι κατακλυσθεὶς",
+      "highlightedWord": "ὕδατι"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Jn 5:6",
+      "text": "δι’ ὕδατος καὶ",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Jn 5:8",
+      "text": "τὸ ὕδωρ καὶ",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Re 1:15",
+      "text": "φωνὴ ὑδάτων πολλῶν,",
+      "highlightedWord": "ὑδάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 17,
+      "reference": "Re 7:17",
+      "text": "πηγὰς ὑδάτων· καὶ",
+      "highlightedWord": "ὑδάτων·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Re 8:10",
+      "text": "τῶν ὑδάτων.",
+      "highlightedWord": "ὑδάτων."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Re 8:11",
+      "text": "τῶν ὑδάτων εἰς",
+      "highlightedWord": "ὑδάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "τῶν ὑδάτων στρέφειν",
+      "highlightedWord": "ὑδάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Re 12:15",
+      "text": "γυναικὸς ὕδωρ ὡς",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 2,
+      "reference": "Re 14:2",
+      "text": "φωνὴν ὑδάτων πολλῶν",
+      "highlightedWord": "ὑδάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Re 14:7",
+      "text": "πηγὰς ὑδάτων.",
+      "highlightedWord": "ὑδάτων."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Re 16:4",
+      "text": "τῶν ὑδάτων· καὶ",
+      "highlightedWord": "ὑδάτων·"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 5,
+      "reference": "Re 16:5",
+      "text": "τῶν ὑδάτων λέγοντος·",
+      "highlightedWord": "ὑδάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Re 16:12",
+      "text": "τὸ ὕδωρ αὐτοῦ,",
+      "highlightedWord": "ὕδωρ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Re 17:1",
+      "text": "ἐπὶ ὑδάτων πολλῶν,",
+      "highlightedWord": "ὑδάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 15,
+      "reference": "Re 17:15",
+      "text": "Τὰ ὕδατα ἃ",
+      "highlightedWord": "ὕδατα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Re 19:6",
+      "text": "φωνὴν ὑδάτων πολλῶν",
+      "highlightedWord": "ὑδάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Re 21:6",
+      "text": "τοῦ ὕδατος τῆς",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 1,
+      "reference": "Re 22:1",
+      "text": "ποταμὸν ὕδατος ζωῆς",
+      "highlightedWord": "ὕδατος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 17,
+      "reference": "Re 22:17",
+      "text": "λαβέτω ὕδωρ ζωῆς",
+      "highlightedWord": "ὕδωρ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

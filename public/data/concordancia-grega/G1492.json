@@ -1,0 +1,2216 @@
+{
+  "strong": "G1492",
+  "lemma": "οἶδα",
+  "lemmaTranslit": "oida",
+  "tokenCount": 296,
+  "verseCount": 272,
+  "bookDistribution": {
+    "Mateus": 23,
+    "Marcos": 19,
+    "Lucas": 22,
+    "João": 80,
+    "Atos": 16,
+    "Romanos": 16,
+    "1 Coríntios": 25,
+    "2 Coríntios": 16,
+    "Gálatas": 3,
+    "Efésios": 5,
+    "Filipenses": 6,
+    "Colossenses": 4,
+    "1 Tessalonicenses": 13,
+    "2 Tessalonicenses": 3,
+    "1 Timóteo": 3,
+    "2 Timóteo": 3,
+    "Tito": 1,
+    "Hebreus": 3,
+    "Tiago": 4,
+    "1 Pedro": 2,
+    "2 Pedro": 1,
+    "1 João": 15,
+    "3 João": 1,
+    "Judas": 1,
+    "Apocalipse": 11
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mt 6:8",
+      "text": "αὐτοῖς, οἶδεν γὰρ",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Mt 6:32",
+      "text": "ἐπιζητοῦσιν· οἶδεν γὰρ",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Mt 7:11",
+      "text": "ὄντες οἴδατε δόματα",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mt 9:6",
+      "text": "δὲ εἰδῆτε ὅτι",
+      "highlightedWord": "εἰδῆτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 12,
+      "reference": "Mt 15:12",
+      "text": "αὐτῷ· Οἶδας ὅτι",
+      "highlightedWord": "Οἶδας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 22,
+      "reference": "Mt 20:22",
+      "text": "Οὐκ οἴδατε τί",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Mt 20:25",
+      "text": "εἶπεν· Οἴδατε ὅτι",
+      "highlightedWord": "Οἴδατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 27,
+      "reference": "Mt 21:27",
+      "text": "Οὐκ οἴδαμεν. ἔφη",
+      "highlightedWord": "οἴδαμεν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 16,
+      "reference": "Mt 22:16",
+      "text": "Διδάσκαλε, οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Mt 22:29",
+      "text": "μὴ εἰδότες τὰς",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "οὐδεὶς οἶδεν, οὐδὲ",
+      "highlightedWord": "οἶδεν,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 42,
+      "reference": "Mt 24:42",
+      "text": "οὐκ οἴδατε ποίᾳ",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "εἰ ᾔδει ὁ",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 12,
+      "reference": "Mt 25:12",
+      "text": "οὐκ οἶδα ὑμᾶς.",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 13,
+      "reference": "Mt 25:13",
+      "text": "οὐκ οἴδατε τὴν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 26,
+      "reference": "Mt 25:26",
+      "text": "ὀκνηρέ, ᾔδεις ὅτι",
+      "highlightedWord": "ᾔδεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 2,
+      "reference": "Mt 26:2",
+      "text": "Οἴδατε ὅτι",
+      "highlightedWord": "Οἴδατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 70,
+      "reference": "Mt 26:70",
+      "text": "Οὐκ οἶδα τί",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 72,
+      "reference": "Mt 26:72",
+      "text": "Οὐκ οἶδα τὸν",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 74,
+      "reference": "Mt 26:74",
+      "text": "Οὐκ οἶδα τὸν",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 18,
+      "reference": "Mt 27:18",
+      "text": "ᾔδει γὰρ",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 65,
+      "reference": "Mt 27:65",
+      "text": "ὡς οἴδατε.",
+      "highlightedWord": "οἴδατε."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Mt 28:5",
+      "text": "ὑμεῖς, οἶδα γὰρ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Mk 1:24",
+      "text": "ἡμᾶς; οἶδά σε",
+      "highlightedWord": "οἶδά"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 34,
+      "reference": "Mk 1:34",
+      "text": "ὅτι ᾔδεισαν αὐτόν.",
+      "highlightedWord": "ᾔδεισαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 10,
+      "reference": "Mk 2:10",
+      "text": "δὲ εἰδῆτε ὅτι",
+      "highlightedWord": "εἰδῆτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Mk 4:13",
+      "text": "Οὐκ οἴδατε τὴν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Mk 4:27",
+      "text": "οὐκ οἶδεν αὐτός.",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 33,
+      "reference": "Mk 5:33",
+      "text": "τρέμουσα, εἰδυῖα ὃ",
+      "highlightedWord": "εἰδυῖα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Mk 9:6",
+      "text": "γὰρ ᾔδει τί",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Mk 10:19",
+      "text": "ἐντολὰς οἶδας· Μὴ",
+      "highlightedWord": "οἶδας·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 38,
+      "reference": "Mk 10:38",
+      "text": "Οὐκ οἴδατε τί",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 42,
+      "reference": "Mk 10:42",
+      "text": "αὐτοῖς· Οἴδατε ὅτι",
+      "highlightedWord": "Οἴδατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 33,
+      "reference": "Mk 11:33",
+      "text": "Οὐκ οἴδαμεν. καὶ",
+      "highlightedWord": "οἴδαμεν."
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Mk 12:14",
+      "text": "Διδάσκαλε, οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Mk 12:24",
+      "text": "μὴ εἰδότες τὰς",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "οὐδεὶς οἶδεν, οὐδὲ",
+      "highlightedWord": "οἶδεν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Mk 13:33",
+      "text": "οὐκ οἴδατε γὰρ",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 35,
+      "reference": "Mk 13:35",
+      "text": "οὐκ οἴδατε γὰρ",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 40,
+      "reference": "Mk 14:40",
+      "text": "οὐκ ᾔδεισαν τί",
+      "highlightedWord": "ᾔδεισαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 68,
+      "reference": "Mk 14:68",
+      "text": "Οὔτε οἶδα οὔτε",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 71,
+      "reference": "Mk 14:71",
+      "text": "Οὐκ οἶδα τὸν",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 49,
+      "reference": "Lk 2:49",
+      "text": "οὐκ ᾔδειτε ὅτι",
+      "highlightedWord": "ᾔδειτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 34,
+      "reference": "Lk 4:34",
+      "text": "ἡμᾶς; οἶδά σε",
+      "highlightedWord": "οἶδά"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Lk 4:41",
+      "text": "ὅτι ᾔδεισαν τὸν",
+      "highlightedWord": "ᾔδεισαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Lk 5:24",
+      "text": "δὲ εἰδῆτε ὅτι",
+      "highlightedWord": "εἰδῆτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Lk 6:8",
+      "text": "δὲ ᾔδει τοὺς",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 53,
+      "reference": "Lk 8:53",
+      "text": "αὐτοῦ, εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Lk 11:13",
+      "text": "ὑπάρχοντες οἴδατε δόματα",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Lk 11:44",
+      "text": "οὐκ οἴδασιν.",
+      "highlightedWord": "οἴδασιν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 30,
+      "reference": "Lk 12:30",
+      "text": "πατὴρ οἶδεν ὅτι",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Lk 12:39",
+      "text": "εἰ ᾔδει ὁ",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 56,
+      "reference": "Lk 12:56",
+      "text": "οὐρανοῦ οἴδατε δοκιμάζειν,",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Lk 13:25",
+      "text": "Οὐκ οἶδα ὑμᾶς",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Lk 13:27",
+      "text": "Οὐκ οἶδα πόθεν",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Lk 18:20",
+      "text": "ἐντολὰς οἶδας· Μὴ",
+      "highlightedWord": "οἶδας·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Lk 19:22",
+      "text": "δοῦλε· ᾔδεις ὅτι",
+      "highlightedWord": "ᾔδεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Lk 20:7",
+      "text": "μὴ εἰδέναι πόθεν.",
+      "highlightedWord": "εἰδέναι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Lk 20:21",
+      "text": "Διδάσκαλε, οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 34,
+      "reference": "Lk 22:34",
+      "text": "ἀπαρνήσῃ εἰδέναι.",
+      "highlightedWord": "εἰδέναι."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 57,
+      "reference": "Lk 22:57",
+      "text": "Οὐκ οἶδα αὐτόν,",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 60,
+      "reference": "Lk 22:60",
+      "text": "οὐκ οἶδα ὃ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 34,
+      "reference": "Lk 23:34",
+      "text": "γὰρ οἴδασιν τί",
+      "highlightedWord": "οἴδασιν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Jn 1:26",
+      "text": "οὐκ οἴδατε,",
+      "highlightedWord": "οἴδατε,"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Jn 1:31",
+      "text": "οὐκ ᾔδειν αὐτόν,",
+      "highlightedWord": "ᾔδειν"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Jn 1:33",
+      "text": "οὐκ ᾔδειν αὐτόν,",
+      "highlightedWord": "ᾔδειν"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Jn 2:9",
+      "text": "οὐκ ᾔδει πόθεν",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jn 3:2",
+      "text": "Ῥαββί, οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Jn 3:8",
+      "text": "οὐκ οἶδας πόθεν",
+      "highlightedWord": "οἶδας"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Jn 3:11",
+      "text": "ὃ οἴδαμεν λαλοῦμεν",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Jn 4:10",
+      "text": "Εἰ ᾔδεις τὴν",
+      "highlightedWord": "ᾔδεις"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Jn 4:22",
+      "text": "οὐκ οἴδατε, ἡμεῖς",
+      "highlightedWord": "οἴδατε,"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Jn 4:25",
+      "text": "γυνή· Οἶδα ὅτι",
+      "highlightedWord": "Οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 32,
+      "reference": "Jn 4:32",
+      "text": "οὐκ οἴδατε.",
+      "highlightedWord": "οἴδατε."
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 42,
+      "reference": "Jn 4:42",
+      "text": "καὶ οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Jn 5:13",
+      "text": "οὐκ ᾔδει τίς",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 32,
+      "reference": "Jn 5:32",
+      "text": "καὶ οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 6,
+      "reference": "Jn 6:6",
+      "text": "γὰρ ᾔδει τί",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 42,
+      "reference": "Jn 6:42",
+      "text": "ἡμεῖς οἴδαμεν τὸν",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 64,
+      "reference": "Jn 6:64",
+      "text": "πιστεύουσιν. ᾔδει γὰρ",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Jn 7:15",
+      "text": "γράμματα οἶδεν μὴ",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Jn 7:27",
+      "text": "τοῦτον οἴδαμεν πόθεν",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 28,
+      "reference": "Jn 7:28",
+      "text": "Κἀμὲ οἴδατε καὶ",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Jn 7:29",
+      "text": "ἐγὼ οἶδα αὐτόν,",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "Jn 8:14",
+      "text": "ὅτι οἶδα πόθεν",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Jn 8:19",
+      "text": "ἐμὲ οἴδατε οὔτε",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Jn 8:37",
+      "text": "οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 55,
+      "reference": "Jn 8:55",
+      "text": "δὲ οἶδα αὐτόν·",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Jn 9:12",
+      "text": "Οὐκ οἶδα.",
+      "highlightedWord": "οἶδα."
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Jn 9:20",
+      "text": "εἶπαν· Οἴδαμεν ὅτι",
+      "highlightedWord": "Οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Jn 9:21",
+      "text": "οὐκ οἴδαμεν, ἢ",
+      "highlightedWord": "οἴδαμεν,"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Jn 9:24",
+      "text": "ἡμεῖς οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Jn 9:25",
+      "text": "οὐκ οἶδα· ἓν",
+      "highlightedWord": "οἶδα·"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 29,
+      "reference": "Jn 9:29",
+      "text": "ἡμεῖς οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Jn 9:30",
+      "text": "οὐκ οἴδατε πόθεν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Jn 9:31",
+      "text": "οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 4,
+      "reference": "Jn 10:4",
+      "text": "ὅτι οἴδασιν τὴν",
+      "highlightedWord": "οἴδασιν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Jn 10:5",
+      "text": "οὐκ οἴδασι τῶν",
+      "highlightedWord": "οἴδασι"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 22,
+      "reference": "Jn 11:22",
+      "text": "νῦν οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Jn 11:24",
+      "text": "Μάρθα· Οἶδα ὅτι",
+      "highlightedWord": "Οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 42,
+      "reference": "Jn 11:42",
+      "text": "δὲ ᾔδειν ὅτι",
+      "highlightedWord": "ᾔδειν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 49,
+      "reference": "Jn 11:49",
+      "text": "οὐκ οἴδατε οὐδέν,",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 35,
+      "reference": "Jn 12:35",
+      "text": "οὐκ οἶδεν ποῦ",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 50,
+      "reference": "Jn 12:50",
+      "text": "καὶ οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Jn 13:7",
+      "text": "οὐκ οἶδας ἄρτι,",
+      "highlightedWord": "οἶδας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Jn 13:11",
+      "text": "ᾔδει γὰρ",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Jn 13:17",
+      "text": "ταῦτα οἴδατε, μακάριοί",
+      "highlightedWord": "οἴδατε,"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Jn 13:18",
+      "text": "ἐγὼ οἶδα τίνας",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 4,
+      "reference": "Jn 14:4",
+      "text": "ὑπάγω οἴδατε τὴν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Jn 14:5",
+      "text": "οὐκ οἴδαμεν ποῦ",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Jn 14:7",
+      "text": "ἂν ᾔδειτε· ἀπ’",
+      "highlightedWord": "ᾔδειτε·"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 15,
+      "reference": "Jn 15:15",
+      "text": "οὐκ οἶδεν τί",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 21,
+      "reference": "Jn 15:21",
+      "text": "οὐκ οἴδασιν τὸν",
+      "highlightedWord": "οἴδασιν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Jn 16:18",
+      "text": "οὐκ οἴδαμεν τί",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 30,
+      "reference": "Jn 16:30",
+      "text": "νῦν οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Jn 18:2",
+      "text": "ᾔδει δὲ",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Jn 18:21",
+      "text": "οὗτοι οἴδασιν ἃ",
+      "highlightedWord": "οἴδασιν"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Jn 19:10",
+      "text": "οὐκ οἶδας ὅτι",
+      "highlightedWord": "οἶδας"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Jn 19:35",
+      "text": "ἐκεῖνος οἶδεν ὅτι",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Jn 20:2",
+      "text": "οὐκ οἴδαμεν ποῦ",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Jn 20:9",
+      "text": "γὰρ ᾔδεισαν τὴν",
+      "highlightedWord": "ᾔδεισαν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Jn 20:13",
+      "text": "οὐκ οἶδα ποῦ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 14,
+      "reference": "Jn 20:14",
+      "text": "οὐκ ᾔδει ὅτι",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Jn 21:4",
+      "text": "μέντοι ᾔδεισαν οἱ",
+      "highlightedWord": "ᾔδεισαν"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 12,
+      "reference": "Jn 21:12",
+      "text": "εἶ; εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 15,
+      "reference": "Jn 21:15",
+      "text": "σὺ οἶδας ὅτι",
+      "highlightedWord": "οἶδας"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Jn 21:16",
+      "text": "σὺ οἶδας ὅτι",
+      "highlightedWord": "οἶδας"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 17,
+      "reference": "Jn 21:17",
+      "text": "σὺ οἶδας, σὺ",
+      "highlightedWord": "οἶδας,"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 24,
+      "reference": "Jn 21:24",
+      "text": "καὶ οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Ac 2:22",
+      "text": "αὐτοὶ οἴδατε,",
+      "highlightedWord": "οἴδατε,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "Ac 3:16",
+      "text": "καὶ οἴδατε ἐστερέωσεν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Ac 3:17",
+      "text": "ἀδελφοί, οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ac 5:7",
+      "text": "μὴ εἰδυῖα τὸ",
+      "highlightedWord": "εἰδυῖα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Ac 7:18",
+      "text": "οὐκ ᾔδει τὸν",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 40,
+      "reference": "Ac 7:40",
+      "text": "οὐκ οἴδαμεν τί",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 37,
+      "reference": "Ac 10:37",
+      "text": "ὑμεῖς οἴδατε τὸ",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Ac 12:9",
+      "text": "οὐκ ᾔδει ὅτι",
+      "highlightedWord": "ᾔδει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Ac 12:11",
+      "text": "Νῦν οἶδα ἀληθῶς",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Ac 16:3",
+      "text": "ἐκείνοις, ᾔδεισαν γὰρ",
+      "highlightedWord": "ᾔδεισαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Ac 19:32",
+      "text": "οὐκ ᾔδεισαν τίνος",
+      "highlightedWord": "ᾔδεισαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 25,
+      "reference": "Ac 20:25",
+      "text": "ἐγὼ οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 29,
+      "reference": "Ac 20:29",
+      "text": "ἐγὼ οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 5,
+      "reference": "Ac 23:5",
+      "text": "Οὐκ ᾔδειν, ἀδελφοί,",
+      "highlightedWord": "ᾔδειν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Ac 26:4",
+      "text": "Ἱεροσολύμοις ἴσασι πάντες",
+      "highlightedWord": "ἴσασι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 27,
+      "reference": "Ac 26:27",
+      "text": "προφήταις; οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ro 2:2",
+      "text": "οἴδαμεν δὲ",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 3,
+      "verse": 19,
+      "reference": "Ro 3:19",
+      "text": "Οἴδαμεν δὲ",
+      "highlightedWord": "Οἴδαμεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Ro 5:3",
+      "text": "θλίψεσιν, εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Ro 6:9",
+      "text": "εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "Ro 6:16",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Ro 7:7",
+      "text": "οὐκ ᾔδειν εἰ",
+      "highlightedWord": "ᾔδειν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Ro 7:14",
+      "text": "Οἴδαμεν γὰρ",
+      "highlightedWord": "Οἴδαμεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Ro 7:18",
+      "text": "οἶδα γὰρ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 22,
+      "reference": "Ro 8:22",
+      "text": "οἴδαμεν γὰρ",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 26,
+      "reference": "Ro 8:26",
+      "text": "οὐκ οἴδαμεν, ἀλλὰ",
+      "highlightedWord": "οἴδαμεν,"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Ro 8:27",
+      "text": "καρδίας οἶδεν τί",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Ro 8:28",
+      "text": "Οἴδαμεν δὲ",
+      "highlightedWord": "Οἴδαμεν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Ro 11:2",
+      "text": "οὐκ οἴδατε ἐν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ro 13:11",
+      "text": "τοῦτο εἰδότες τὸν",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Ro 14:14",
+      "text": "οἶδα καὶ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 29,
+      "reference": "Ro 15:29",
+      "text": "οἶδα δὲ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "1Co 1:16",
+      "text": "οὐκ οἶδα εἴ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Co 2:2",
+      "text": "τι εἰδέναι ἐν",
+      "highlightedWord": "εἰδέναι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Co 2:11",
+      "text": "γὰρ οἶδεν ἀνθρώπων",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "1Co 2:12",
+      "text": "ἵνα εἰδῶμεν τὰ",
+      "highlightedWord": "εἰδῶμεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Co 3:16",
+      "text": "Οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "1Co 5:6",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 2,
+      "reference": "1Co 6:2",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 3,
+      "reference": "1Co 6:3",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "1Co 6:9",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 15,
+      "reference": "1Co 6:15",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Co 6:16",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "1Co 6:19",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 16,
+      "reference": "1Co 7:16",
+      "text": "γὰρ οἶδας, γύναι,",
+      "highlightedWord": "οἶδας,"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "1Co 8:1",
+      "text": "εἰδωλοθύτων, οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "1Co 8:4",
+      "text": "εἰδωλοθύτων οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "1Co 9:13",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "1Co 9:24",
+      "text": "Οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "1Co 11:3",
+      "text": "ὑμᾶς εἰδέναι ὅτι",
+      "highlightedWord": "εἰδέναι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "1Co 12:2",
+      "text": "οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "1Co 13:2",
+      "text": "καὶ εἰδῶ τὰ",
+      "highlightedWord": "εἰδῶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "1Co 14:11",
+      "text": "μὴ εἰδῶ τὴν",
+      "highlightedWord": "εἰδῶ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "1Co 14:16",
+      "text": "οὐκ οἶδεν·",
+      "highlightedWord": "οἶδεν·"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 58,
+      "reference": "1Co 15:58",
+      "text": "πάντοτε, εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 16,
+      "verse": 15,
+      "reference": "1Co 16:15",
+      "text": "ἀδελφοί· οἴδατε τὴν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "2Co 1:7",
+      "text": "ὑμῶν· εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "2Co 4:14",
+      "text": "εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 1,
+      "reference": "2Co 5:1",
+      "text": "Οἴδαμεν γὰρ",
+      "highlightedWord": "Οἴδαμεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "2Co 5:6",
+      "text": "καὶ εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "2Co 5:11",
+      "text": "Εἰδότες οὖν",
+      "highlightedWord": "Εἰδότες"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "2Co 5:16",
+      "text": "οὐδένα οἴδαμεν κατὰ",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "2Co 9:2",
+      "text": "οἶδα γὰρ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "2Co 11:11",
+      "text": "θεὸς οἶδεν.",
+      "highlightedWord": "οἶδεν."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 31,
+      "reference": "2Co 11:31",
+      "text": "Ἰησοῦ οἶδεν, ὁ",
+      "highlightedWord": "οἶδεν,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "2Co 12:2",
+      "text": "οἶδα ἄνθρωπον",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 3,
+      "reference": "2Co 12:3",
+      "text": "καὶ οἶδα τὸν",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Ga 2:16",
+      "text": "εἰδότες δὲ",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Ga 4:8",
+      "text": "οὐκ εἰδότες θεὸν",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Ga 4:13",
+      "text": "οἴδατε δὲ",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Eph 1:18",
+      "text": "τὸ εἰδέναι ὑμᾶς",
+      "highlightedWord": "εἰδέναι"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Eph 5:5",
+      "text": "γὰρ ἴστε γινώσκοντες",
+      "highlightedWord": "ἴστε"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Eph 6:8",
+      "text": "εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Eph 6:9",
+      "text": "ἀπειλήν, εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Eph 6:21",
+      "text": "δὲ εἰδῆτε καὶ",
+      "highlightedWord": "εἰδῆτε"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Php 1:16",
+      "text": "ἀγάπης, εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Php 1:19",
+      "text": "οἶδα γὰρ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 25,
+      "reference": "Php 1:25",
+      "text": "πεποιθὼς οἶδα ὅτι",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Php 4:12",
+      "text": "οἶδα καὶ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Php 4:15",
+      "text": "Οἴδατε δὲ",
+      "highlightedWord": "Οἴδατε"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Col 2:1",
+      "text": "ὑμᾶς εἰδέναι ἡλίκον",
+      "highlightedWord": "εἰδέναι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Col 3:24",
+      "text": "εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Col 4:1",
+      "text": "παρέχεσθε, εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Col 4:6",
+      "text": "ἠρτυμένος, εἰδέναι πῶς",
+      "highlightedWord": "εἰδέναι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "1Th 1:4",
+      "text": "εἰδότες, ἀδελφοὶ",
+      "highlightedWord": "εἰδότες,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 5,
+      "reference": "1Th 1:5",
+      "text": "καθὼς οἴδατε οἷοι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "1Th 2:1",
+      "text": "γὰρ οἴδατε, ἀδελφοί,",
+      "highlightedWord": "οἴδατε,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "1Th 2:2",
+      "text": "καθὼς οἴδατε ἐν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "1Th 2:5",
+      "text": "καθὼς οἴδατε, οὔτε",
+      "highlightedWord": "οἴδατε,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Th 2:11",
+      "text": "καθάπερ οἴδατε ὡς",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Th 3:3",
+      "text": "γὰρ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 4,
+      "reference": "1Th 3:4",
+      "text": "καὶ οἴδατε.",
+      "highlightedWord": "οἴδατε."
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Th 4:2",
+      "text": "οἴδατε γὰρ",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "1Th 4:4",
+      "text": "εἰδέναι ἕκαστον",
+      "highlightedWord": "εἰδέναι"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 5,
+      "reference": "1Th 4:5",
+      "text": "μὴ εἰδότα τὸν",
+      "highlightedWord": "εἰδότα"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Th 5:2",
+      "text": "ἀκριβῶς οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 12,
+      "reference": "1Th 5:12",
+      "text": "ἀδελφοί, εἰδέναι τοὺς",
+      "highlightedWord": "εἰδέναι"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "2Th 1:8",
+      "text": "μὴ εἰδόσι θεὸν",
+      "highlightedWord": "εἰδόσι"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "2Th 2:6",
+      "text": "κατέχον οἴδατε, εἰς",
+      "highlightedWord": "οἴδατε,"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "2Th 3:7",
+      "text": "γὰρ οἴδατε πῶς",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "1Ti 1:8",
+      "text": "Οἴδαμεν δὲ",
+      "highlightedWord": "Οἴδαμεν"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Ti 3:5",
+      "text": "οὐκ οἶδεν, πῶς",
+      "highlightedWord": "οἶδεν,"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Ti 3:15",
+      "text": "ἵνα εἰδῇς πῶς",
+      "highlightedWord": "εἰδῇς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Ti 1:12",
+      "text": "ἐπαισχύνομαι, οἶδα γὰρ",
+      "highlightedWord": "οἶδα"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "2Ti 1:15",
+      "text": "Οἶδας τοῦτο",
+      "highlightedWord": "Οἶδας"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Ti 3:15",
+      "text": "γράμματα οἶδας, τὰ",
+      "highlightedWord": "οἶδας,"
+    },
+    {
+      "book": "Tito",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Tit 1:16",
+      "text": "ὁμολογοῦσιν εἰδέναι, τοῖς",
+      "highlightedWord": "εἰδέναι,"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Heb 8:11",
+      "text": "πάντες εἰδήσουσίν με",
+      "highlightedWord": "εἰδήσουσίν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Heb 10:30",
+      "text": "οἴδαμεν γὰρ",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Heb 12:17",
+      "text": "ἴστε γὰρ",
+      "highlightedWord": "ἴστε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Jas 1:19",
+      "text": "Ἴστε, ἀδελφοί",
+      "highlightedWord": "Ἴστε,"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Jas 3:1",
+      "text": "μου, εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Jas 4:4",
+      "text": "οὐκ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Jas 4:17",
+      "text": "εἰδότι οὖν",
+      "highlightedWord": "εἰδότι"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "1Pe 1:18",
+      "text": "εἰδότες ὅτι",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "1Pe 5:9",
+      "text": "πίστει, εἰδότες τὰ",
+      "highlightedWord": "εἰδότες"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Pe 2:9",
+      "text": "οἶδεν κύριος",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 11,
+      "reference": "1Jn 2:11",
+      "text": "οὐκ οἶδεν ποῦ",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "1Jn 2:20",
+      "text": "καὶ οἴδατε πάντες·",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "1Jn 2:21",
+      "text": "οὐκ οἴδατε τὴν",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 29,
+      "reference": "1Jn 2:29",
+      "text": "ἐὰν εἰδῆτε ὅτι",
+      "highlightedWord": "εἰδῆτε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Jn 3:2",
+      "text": "ἐσόμεθα. οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Jn 3:5",
+      "text": "καὶ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "1Jn 3:14",
+      "text": "ἡμεῖς οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "1Jn 3:15",
+      "text": "καὶ οἴδατε ὅτι",
+      "highlightedWord": "οἴδατε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "1Jn 5:13",
+      "text": "ἵνα εἰδῆτε ὅτι",
+      "highlightedWord": "εἰδῆτε"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "1Jn 5:15",
+      "text": "ἐὰν οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "1Jn 5:18",
+      "text": "Οἴδαμεν ὅτι",
+      "highlightedWord": "Οἴδαμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Jn 5:19",
+      "text": "οἴδαμεν ὅτι",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "1Jn 5:20",
+      "text": "οἴδαμεν δὲ",
+      "highlightedWord": "οἴδαμεν"
+    },
+    {
+      "book": "3 João",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "3Jn 1:12",
+      "text": "καὶ οἶδας ὅτι",
+      "highlightedWord": "οἶδας"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Jud 1:10",
+      "text": "οὐκ οἴδασιν βλασφημοῦσιν,",
+      "highlightedWord": "οἴδασιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "Οἶδα τὰ",
+      "highlightedWord": "Οἶδα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "Re 2:9",
+      "text": "Οἶδά σου",
+      "highlightedWord": "Οἶδά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "Οἶδα ποῦ",
+      "highlightedWord": "Οἶδα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Re 2:17",
+      "text": "οὐδεὶς οἶδεν εἰ",
+      "highlightedWord": "οἶδεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Re 2:19",
+      "text": "Οἶδά σου",
+      "highlightedWord": "Οἶδά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Re 3:1",
+      "text": "ἀστέρας· Οἶδά σου",
+      "highlightedWord": "Οἶδά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "Re 3:8",
+      "text": "Οἶδά σου",
+      "highlightedWord": "Οἶδά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Re 3:15",
+      "text": "Οἶδά σου",
+      "highlightedWord": "Οἶδά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 17,
+      "reference": "Re 3:17",
+      "text": "οὐκ οἶδας ὅτι",
+      "highlightedWord": "οἶδας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Re 7:14",
+      "text": "σὺ οἶδας. καὶ",
+      "highlightedWord": "οἶδας."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Re 19:12",
+      "text": "οὐδεὶς οἶδεν εἰ",
+      "highlightedWord": "οἶδεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

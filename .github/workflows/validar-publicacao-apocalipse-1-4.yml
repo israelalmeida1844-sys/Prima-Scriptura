@@ -1,0 +1,39 @@
+name: Verificar candidato de publicação de Apocalipse 1–4
+on:
+  push:
+    branches:
+      - publicacao/apocalipse-1-4
+permissions:
+  contents: read
+jobs:
+  verificar-publicacao:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Compilar e verificar 82 rotas de Apocalipse
+        run: |
+          set -euo pipefail
+          npm run build
+          test -s dist/comentarios/index.html
+          test -s dist/comentarios/apocalipse/index.html
+          for pair in '1 20' '2 29' '3 22' '4 11'; do
+            set -- $pair
+            c=$1
+            count=$2
+            test -s "dist/comentarios/apocalipse/capitulo-$c/index.html"
+            for v in $(seq 1 "$count"); do
+              file="dist/comentarios/apocalipse/capitulo-$c/versiculo-$v/index.html"
+              test -s "$file"
+              grep -q "data-original-apocalipse-$c-$v" "$file"
+            done
+          done
+          grep -q '4 capítulos disponíveis' dist/comentarios/index.html
+          grep -q '/comentarios/apocalipse/capitulo-4/' dist/comentarios/apocalipse/index.html
+          pages=$(find dist -type f -name index.html | wc -l)
+          echo "PUBLICAÇÃO VALIDADA: 82 rotas de Apocalipse e $pages páginas HTML"
+          test "$pages" -ge 150

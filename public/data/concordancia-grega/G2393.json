@@ -1,0 +1,48 @@
+{
+  "strong": "G2393",
+  "lemma": "ἴασπις",
+  "lemmaTranslit": "iaspis",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Re 4:3",
+      "text": "λίθῳ ἰάσπιδι καὶ",
+      "highlightedWord": "ἰάσπιδι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Re 21:11",
+      "text": "λίθῳ ἰάσπιδι κρυσταλλίζοντι·",
+      "highlightedWord": "ἰάσπιδι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Re 21:18",
+      "text": "αὐτῆς ἴασπις, καὶ",
+      "highlightedWord": "ἴασπις,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Re 21:19",
+      "text": "πρῶτος ἴασπις, ὁ",
+      "highlightedWord": "ἴασπις,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

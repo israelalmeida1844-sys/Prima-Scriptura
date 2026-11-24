@@ -1,0 +1,297 @@
+---
+import Base from '../../../../layouts/Base.astro';
+
+const availableVerses = [
+  {
+    "number": 1,
+    "title": "Sardes: viva de nome, morta na realidade",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 2,
+    "title": "Desperta e fortalece o restante",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 3,
+    "title": "Lembra-te e arrepende-te",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 4,
+    "title": "Vestes não contaminadas",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 5,
+    "title": "O vencedor e o livro da vida",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 6,
+    "title": "Ouça o Espírito",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 7,
+    "title": "A chave de Davi",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 8,
+    "title": "A porta aberta",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 9,
+    "title": "A fidelidade reconhecida",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 10,
+    "title": "A hora da provação",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 11,
+    "title": "Conserva tua coroa",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 12,
+    "title": "Coluna e novo nome",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 13,
+    "title": "Ouça o Espírito",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 14,
+    "title": "O Amém e o princípio da criação",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 15,
+    "title": "Nem frio nem quente",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 16,
+    "title": "A mornidão de Laodiceia",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 17,
+    "title": "A riqueza ilusória",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 18,
+    "title": "Ouro, vestes e colírio",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 19,
+    "title": "Disciplina e arrependimento",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 20,
+    "title": "À porta e bato",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 21,
+    "title": "O vencedor e o trono",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  },
+  {
+    "number": 22,
+    "title": "Ouça o Espírito",
+    "description": "SBLGNT · interlinear, morfologia, léxico e concordâncias em avaliação."
+  }
+];
+---
+<Base
+  title="Apocalipse 3 — Estudo interlinear em avaliação"
+  description="Consulte o texto original grego e a análise lexical de Apocalipse 3:1–22, com concordâncias exaustivas do Novo Testamento."
+>
+  <section class="apocalipse-chapter">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Caminho de navegação">
+        <a href="/comentarios/">Comentários</a>
+        <span aria-hidden="true">/</span>
+        <a href="/comentarios/apocalipse/">Apocalipse</a>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">Capítulo 3</span>
+      </nav>
+
+      <div class="chapter-heading">
+        <p class="eyebrow">A REVELAÇÃO DE JESUS CRISTO · CAPÍTULO 03</p>
+        <h1>Apocalipse 3 — As Cartas às Sete Igrejas (Parte 2)</h1>
+        <p>
+          Examine o texto grego koiné no texto crítico SBLGNT com transliteração, glosas, morfologia, acepções semânticas e concordâncias exaustivas do Novo Testamento. Edição pública em avaliação acadêmica, sujeita a revisão crítica contínua.
+        </p>
+      </div>
+
+      <div class="summary" aria-label="Progresso do capítulo 3">
+        <strong>22 de 22</strong>
+        <span>versículos preparados: Sardes, Filadélfia e Laodiceia — capítulo 3 disponível para estudo</span>
+      </div>
+
+      <h2>Versículos preparados</h2>
+      <div class="verse-list">
+        {availableVerses.map(v => (
+          <a href={'/comentarios/apocalipse/capitulo-3/versiculo-' + v.number + '/'}>
+            <span>APOCALIPSE 3:{v.number}</span>
+            <strong>{v.title}</strong>
+            <p>{v.description}</p>
+            <small>Estudar versículo <span aria-hidden="true">→</span></small>
+          </a>
+        ))}
+      </div>
+
+      <div class="pending">
+        <h2>Nota editorial</h2>
+        <p>
+          Os 22 versículos deste capítulo estão publicados para consulta interlinear. As notas críticas e as interpretações permanecem abertas a aperfeiçoamento editorial. Conforme o protocolo do Prima Scriptura, nenhum versículo é gerado automaticamente sem rigorosa validação prévia.
+        </p>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .apocalipse-chapter,
+  .apocalipse-chapter :is(a, span, p, h1, h2, strong, small) {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .apocalipse-chapter {
+    padding: 45px 0 90px;
+  }
+  .crumbs {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-size: 14px;
+    color: #5e7287;
+    margin-bottom: 30px;
+  }
+  .apocalipse-chapter .crumbs a {
+    color: #435b76;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .chapter-heading {
+    padding: 40px;
+    background: linear-gradient(120deg, #10233b, #244366);
+    color: #f4f4f1;
+    border-radius: 14px;
+    margin-bottom: 24px;
+  }
+  .chapter-heading .eyebrow {
+    color: #eac48d;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+  }
+  .chapter-heading h1 {
+    color: #fff;
+    font-size: clamp(32px, 5vw, 50px);
+    margin: 10px 0;
+  }
+  .chapter-heading > p:last-child {
+    font-size: 19px;
+    max-width: 760px;
+    line-height: 1.7;
+    color: #d6e2ee;
+  }
+  .summary {
+    background: white;
+    border: 1px solid #e0d7c8;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 35px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .summary strong {
+    font-size: 27px;
+    color: #1a334f;
+    white-space: nowrap;
+  }
+  .summary span {
+    font-size: 16px;
+    color: #607084;
+  }
+  .verse-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 18px;
+  }
+  .verse-list a {
+    background: #fff;
+    border: 1px solid #e3daca;
+    border-radius: 10px;
+    min-height: 160px;
+    padding: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.15s ease-in-out;
+  }
+  .verse-list a:hover {
+    background: #faf6ed;
+    border-color: #b59157;
+    transform: translateY(-2px);
+  }
+  .verse-list a > span {
+    font-size: 13px;
+    font-weight: 700;
+    color: #936d36;
+  }
+  .verse-list strong {
+    font-size: 20px;
+    line-height: 1.35;
+    color: #101f35;
+  }
+  .verse-list p {
+    font-size: 14px;
+    color: #5d6f82;
+    line-height: 1.5;
+    margin: 0;
+  }
+  .verse-list small {
+    margin-top: auto;
+    color: #59708a;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .pending {
+    margin-top: 48px;
+    padding: 24px;
+    border-left: 4px solid #c6a15b;
+    background: #f7f3e9;
+    border-radius: 0 8px 8px 0;
+  }
+  .pending h2 {
+    font-size: 21px;
+    margin: 0 0 6px;
+    color: #1c3554;
+  }
+  .pending p {
+    margin: 0;
+    line-height: 1.65;
+    color: #596a7d;
+  }
+  @media (max-width: 440px) {
+    .chapter-heading {
+      padding: 24px;
+    }
+  }
+</style>

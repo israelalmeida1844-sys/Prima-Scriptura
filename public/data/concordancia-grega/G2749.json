@@ -1,0 +1,217 @@
+{
+  "strong": "G2749",
+  "lemma": "κεῖμαι",
+  "lemmaTranslit": "keimai",
+  "tokenCount": 24,
+  "verseCount": 24,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Lucas": 6,
+    "João": 7,
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "Filipenses": 1,
+    "1 Tessalonicenses": 1,
+    "1 Timóteo": 1,
+    "1 João": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Mt 3:10",
+      "text": "δένδρων κεῖται· πᾶν",
+      "highlightedWord": "κεῖται·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Mt 5:14",
+      "text": "ὄρους κειμένη·",
+      "highlightedWord": "κειμένη·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 6,
+      "reference": "Mt 28:6",
+      "text": "ὅπου ἔκειτο·",
+      "highlightedWord": "ἔκειτο·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Lk 2:12",
+      "text": "καὶ κείμενον ἐν",
+      "highlightedWord": "κείμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Lk 2:16",
+      "text": "βρέφος κείμενον ἐν",
+      "highlightedWord": "κείμενον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 34,
+      "reference": "Lk 2:34",
+      "text": "οὗτος κεῖται εἰς",
+      "highlightedWord": "κεῖται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Lk 3:9",
+      "text": "δένδρων κεῖται· πᾶν",
+      "highlightedWord": "κεῖται·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Lk 12:19",
+      "text": "ἀγαθὰ κείμενα εἰς",
+      "highlightedWord": "κείμενα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 53,
+      "reference": "Lk 23:53",
+      "text": "οὔπω κείμενος.",
+      "highlightedWord": "κείμενος."
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jn 2:6",
+      "text": "Ἰουδαίων κείμεναι, χωροῦσαι",
+      "highlightedWord": "κείμεναι,"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Jn 19:29",
+      "text": "σκεῦος ἔκειτο ὄξους",
+      "highlightedWord": "ἔκειτο"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Jn 20:5",
+      "text": "βλέπει κείμενα τὰ",
+      "highlightedWord": "κείμενα"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Jn 20:6",
+      "text": "ὀθόνια κείμενα,",
+      "highlightedWord": "κείμενα,"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 7,
+      "reference": "Jn 20:7",
+      "text": "ὀθονίων κείμενον ἀλλὰ",
+      "highlightedWord": "κείμενον"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Jn 20:12",
+      "text": "ὅπου ἔκειτο τὸ",
+      "highlightedWord": "ἔκειτο"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Jn 21:9",
+      "text": "ἀνθρακιὰν κειμένην καὶ",
+      "highlightedWord": "κειμένην"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Co 3:11",
+      "text": "τὸν κείμενον, ὅς",
+      "highlightedWord": "κείμενον,"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "2Co 3:15",
+      "text": "αὐτῶν κεῖται·",
+      "highlightedWord": "κεῖται·"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "Php 1:16",
+      "text": "εὐαγγελίου κεῖμαι,",
+      "highlightedWord": "κεῖμαι,"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Th 3:3",
+      "text": "τοῦτο κείμεθα·",
+      "highlightedWord": "κείμεθα·"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Ti 1:9",
+      "text": "οὐ κεῖται, ἀνόμοις",
+      "highlightedWord": "κεῖται,"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Jn 5:19",
+      "text": "πονηρῷ κεῖται.",
+      "highlightedWord": "κεῖται."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Re 4:2",
+      "text": "θρόνος ἔκειτο ἐν",
+      "highlightedWord": "ἔκειτο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 16,
+      "reference": "Re 21:16",
+      "text": "τετράγωνος κεῖται, καὶ",
+      "highlightedWord": "κεῖται,"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

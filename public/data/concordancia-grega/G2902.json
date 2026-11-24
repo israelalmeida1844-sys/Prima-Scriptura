@@ -1,0 +1,392 @@
+{
+  "strong": "G2902",
+  "lemma": "κρατέω",
+  "lemmaTranslit": "krateō",
+  "tokenCount": 47,
+  "verseCount": 46,
+  "bookDistribution": {
+    "Mateus": 12,
+    "Marcos": 15,
+    "Lucas": 2,
+    "João": 2,
+    "Atos": 4,
+    "Colossenses": 1,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 2,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Mt 9:25",
+      "text": "εἰσελθὼν ἐκράτησεν τῆς",
+      "highlightedWord": "ἐκράτησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 11,
+      "reference": "Mt 12:11",
+      "text": "οὐχὶ κρατήσει αὐτὸ",
+      "highlightedWord": "κρατήσει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Mt 14:3",
+      "text": "Ἡρῴδης κρατήσας τὸν",
+      "highlightedWord": "κρατήσας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Mt 18:28",
+      "text": "καὶ κρατήσας αὐτὸν",
+      "highlightedWord": "κρατήσας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 46,
+      "reference": "Mt 21:46",
+      "text": "αὐτὸν κρατῆσαι ἐφοβήθησαν",
+      "highlightedWord": "κρατῆσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 6,
+      "reference": "Mt 22:6",
+      "text": "λοιποὶ κρατήσαντες τοὺς",
+      "highlightedWord": "κρατήσαντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 4,
+      "reference": "Mt 26:4",
+      "text": "δόλῳ κρατήσωσιν καὶ",
+      "highlightedWord": "κρατήσωσιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 48,
+      "reference": "Mt 26:48",
+      "text": "ἐστιν· κρατήσατε αὐτόν.",
+      "highlightedWord": "κρατήσατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 50,
+      "reference": "Mt 26:50",
+      "text": "καὶ ἐκράτησαν αὐτόν.",
+      "highlightedWord": "ἐκράτησαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 55,
+      "reference": "Mt 26:55",
+      "text": "οὐκ ἐκρατήσατέ με.",
+      "highlightedWord": "ἐκρατήσατέ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 57,
+      "reference": "Mt 26:57",
+      "text": "δὲ κρατήσαντες τὸν",
+      "highlightedWord": "κρατήσαντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 9,
+      "reference": "Mt 28:9",
+      "text": "προσελθοῦσαι ἐκράτησαν αὐτοῦ",
+      "highlightedWord": "ἐκράτησαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 31,
+      "reference": "Mk 1:31",
+      "text": "αὐτὴν κρατήσας τῆς",
+      "highlightedWord": "κρατήσας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 21,
+      "reference": "Mk 3:21",
+      "text": "ἐξῆλθον κρατῆσαι αὐτόν,",
+      "highlightedWord": "κρατῆσαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Mk 5:41",
+      "text": "καὶ κρατήσας τῆς",
+      "highlightedWord": "κρατήσας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Mk 6:17",
+      "text": "ἀποστείλας ἐκράτησεν τὸν",
+      "highlightedWord": "ἐκράτησεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 3,
+      "reference": "Mk 7:3",
+      "text": "ἐσθίουσιν, κρατοῦντες τὴν",
+      "highlightedWord": "κρατοῦντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Mk 7:4",
+      "text": "παρέλαβον κρατεῖν, βαπτισμοὺς",
+      "highlightedWord": "κρατεῖν,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Mk 7:8",
+      "text": "θεοῦ κρατεῖτε τὴν",
+      "highlightedWord": "κρατεῖτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Mk 9:10",
+      "text": "λόγον ἐκράτησαν πρὸς",
+      "highlightedWord": "ἐκράτησαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Mk 9:27",
+      "text": "Ἰησοῦς κρατήσας τῆς",
+      "highlightedWord": "κρατήσας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mk 12:12",
+      "text": "αὐτὸν κρατῆσαι, καὶ",
+      "highlightedWord": "κρατῆσαι,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Mk 14:1",
+      "text": "δόλῳ κρατήσαντες ἀποκτείνωσιν,",
+      "highlightedWord": "κρατήσαντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 44,
+      "reference": "Mk 14:44",
+      "text": "ἐστιν· κρατήσατε αὐτὸν",
+      "highlightedWord": "κρατήσατε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 46,
+      "reference": "Mk 14:46",
+      "text": "καὶ ἐκράτησαν αὐτόν.",
+      "highlightedWord": "ἐκράτησαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 49,
+      "reference": "Mk 14:49",
+      "text": "οὐκ ἐκρατήσατέ με·",
+      "highlightedWord": "ἐκρατήσατέ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 51,
+      "reference": "Mk 14:51",
+      "text": "καὶ κρατοῦσιν αὐτόν,",
+      "highlightedWord": "κρατοῦσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 54,
+      "reference": "Lk 8:54",
+      "text": "δὲ κρατήσας τῆς",
+      "highlightedWord": "κρατήσας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 16,
+      "reference": "Lk 24:16",
+      "text": "αὐτῶν ἐκρατοῦντο τοῦ",
+      "highlightedWord": "ἐκρατοῦντο"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 23,
+      "reference": "Jn 20:23",
+      "text": "τινων κρατῆτε κεκράτηνται.",
+      "highlightedWord": "κρατῆτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Ac 2:24",
+      "text": "δυνατὸν κρατεῖσθαι αὐτὸν",
+      "highlightedWord": "κρατεῖσθαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Ac 3:11",
+      "text": "Κρατοῦντος δὲ",
+      "highlightedWord": "Κρατοῦντος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 6,
+      "reference": "Ac 24:6",
+      "text": "καὶ ἐκρατήσαμεν,",
+      "highlightedWord": "ἐκρατήσαμεν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 13,
+      "reference": "Ac 27:13",
+      "text": "προθέσεως κεκρατηκέναι ἄραντες",
+      "highlightedWord": "κεκρατηκέναι"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Col 2:19",
+      "text": "οὐ κρατῶν τὴν",
+      "highlightedWord": "κρατῶν"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "2Th 2:15",
+      "text": "καὶ κρατεῖτε τὰς",
+      "highlightedWord": "κρατεῖτε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 14,
+      "reference": "Heb 4:14",
+      "text": "θεοῦ, κρατῶμεν τῆς",
+      "highlightedWord": "κρατῶμεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Heb 6:18",
+      "text": "καταφυγόντες κρατῆσαι τῆς",
+      "highlightedWord": "κρατῆσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Re 2:1",
+      "text": "ὁ κρατῶν τοὺς",
+      "highlightedWord": "κρατῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Re 2:13",
+      "text": "καὶ κρατεῖς τὸ",
+      "highlightedWord": "κρατεῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Re 2:14",
+      "text": "ἐκεῖ κρατοῦντας τὴν",
+      "highlightedWord": "κρατοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Re 2:15",
+      "text": "σὺ κρατοῦντας τὴν",
+      "highlightedWord": "κρατοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 25,
+      "reference": "Re 2:25",
+      "text": "ἔχετε κρατήσατε ἄχρι",
+      "highlightedWord": "κρατήσατε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Re 3:11",
+      "text": "ταχύ· κράτει ὃ",
+      "highlightedWord": "κράτει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Re 7:1",
+      "text": "γῆς, κρατοῦντας τοὺς",
+      "highlightedWord": "κρατοῦντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Re 20:2",
+      "text": "καὶ ἐκράτησεν τὸν",
+      "highlightedWord": "ἐκράτησεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

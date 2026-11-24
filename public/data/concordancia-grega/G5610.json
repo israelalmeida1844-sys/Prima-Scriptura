@@ -1,0 +1,820 @@
+{
+  "strong": "G5610",
+  "lemma": "ὥρα",
+  "lemmaTranslit": "hōra",
+  "tokenCount": 106,
+  "verseCount": 99,
+  "bookDistribution": {
+    "Mateus": 21,
+    "Marcos": 12,
+    "Lucas": 17,
+    "João": 26,
+    "Atos": 11,
+    "Romanos": 1,
+    "1 Coríntios": 2,
+    "2 Coríntios": 1,
+    "Gálatas": 1,
+    "1 Tessalonicenses": 1,
+    "Filemom": 1,
+    "1 João": 2,
+    "Apocalipse": 10
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Mt 8:13",
+      "text": "τῇ ὥρᾳ ἐκείνῃ.",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mt 9:22",
+      "text": "τῆς ὥρας ἐκείνης.",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Mt 10:19",
+      "text": "τῇ ὥρᾳ τί",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Mt 14:15",
+      "text": "ἡ ὥρα ἤδη",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Mt 15:28",
+      "text": "τῆς ὥρας ἐκείνης.",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Mt 17:18",
+      "text": "τῆς ὥρας ἐκείνης.",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Mt 18:1",
+      "text": "τῇ ὥρᾳ προσῆλθον",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Mt 20:3",
+      "text": "τρίτην ὥραν εἶδεν",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Mt 20:5",
+      "text": "ἐνάτην ὥραν ἐποίησεν",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 9,
+      "reference": "Mt 20:9",
+      "text": "ἑνδεκάτην ὥραν ἔλαβον",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Mt 20:12",
+      "text": "μίαν ὥραν ἐποίησαν,",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "καὶ ὥρας οὐδεὶς",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 44,
+      "reference": "Mt 24:44",
+      "text": "δοκεῖτε ὥρᾳ ὁ",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 50,
+      "reference": "Mt 24:50",
+      "text": "ἐν ὥρᾳ ᾗ",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 13,
+      "reference": "Mt 25:13",
+      "text": "τὴν ὥραν.",
+      "highlightedWord": "ὥραν."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 40,
+      "reference": "Mt 26:40",
+      "text": "μίαν ὥραν γρηγορῆσαι",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 45,
+      "reference": "Mt 26:45",
+      "text": "ἡ ὥρα καὶ",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 55,
+      "reference": "Mt 26:55",
+      "text": "τῇ ὥρᾳ εἶπεν",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 45,
+      "reference": "Mt 27:45",
+      "text": "ἕκτης ὥρας σκότος",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 46,
+      "reference": "Mt 27:46",
+      "text": "ἐνάτην ὥραν ἀνεβόησεν",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 35,
+      "reference": "Mk 6:35",
+      "text": "ἤδη ὥρας πολλῆς",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Mk 11:11",
+      "text": "τῆς ὥρας ἐξῆλθεν",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mk 13:11",
+      "text": "τῇ ὥρᾳ τοῦτο",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "τῆς ὥρας οὐδεὶς",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mk 14:35",
+      "text": "ἡ ὥρα,",
+      "highlightedWord": "ὥρα,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 37,
+      "reference": "Mk 14:37",
+      "text": "μίαν ὥραν γρηγορῆσαι;",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 41,
+      "reference": "Mk 14:41",
+      "text": "ἡ ὥρα, ἰδοὺ",
+      "highlightedWord": "ὥρα,"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 25,
+      "reference": "Mk 15:25",
+      "text": "δὲ ὥρα τρίτη",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 33,
+      "reference": "Mk 15:33",
+      "text": "γενομένης ὥρας ἕκτης",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 34,
+      "reference": "Mk 15:34",
+      "text": "ἐνάτῃ ὥρᾳ ἐβόησεν",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Lk 1:10",
+      "text": "τῇ ὥρᾳ τοῦ",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 38,
+      "reference": "Lk 2:38",
+      "text": "τῇ ὥρᾳ ἐπιστᾶσα",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Lk 7:21",
+      "text": "τῇ ὥρᾳ ἐθεράπευσεν",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Lk 10:21",
+      "text": "τῇ ὥρᾳ ἠγαλλιάσατο",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Lk 12:12",
+      "text": "τῇ ὥρᾳ ἃ",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 39,
+      "reference": "Lk 12:39",
+      "text": "ποίᾳ ὥρᾳ ὁ",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Lk 12:40",
+      "text": "ᾗ ὥρᾳ οὐ",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Lk 12:46",
+      "text": "ἐν ὥρᾳ ᾗ",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Lk 13:31",
+      "text": "τῇ ὥρᾳ προσῆλθάν",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Lk 14:17",
+      "text": "τῇ ὥρᾳ τοῦ",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Lk 20:19",
+      "text": "τῇ ὥρᾳ, καὶ",
+      "highlightedWord": "ὥρᾳ,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 14,
+      "reference": "Lk 22:14",
+      "text": "ἡ ὥρα, ἀνέπεσεν",
+      "highlightedWord": "ὥρα,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 53,
+      "reference": "Lk 22:53",
+      "text": "ἡ ὥρα καὶ",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 59,
+      "reference": "Lk 22:59",
+      "text": "ὡσεὶ ὥρας μιᾶς",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 44,
+      "reference": "Lk 23:44",
+      "text": "ὡσεὶ ὥρα ἕκτη",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 33,
+      "reference": "Lk 24:33",
+      "text": "τῇ ὥρᾳ ὑπέστρεψαν",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Jn 1:39",
+      "text": "ἐκείνην· ὥρα ἦν",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 4,
+      "reference": "Jn 2:4",
+      "text": "ἡ ὥρα μου.",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Jn 4:6",
+      "text": "πηγῇ· ὥρα ἦν",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Jn 4:21",
+      "text": "ἔρχεται ὥρα ὅτε",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Jn 4:23",
+      "text": "ἔρχεται ὥρα καὶ",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 52,
+      "reference": "Jn 4:52",
+      "text": "τὴν ὥραν παρ’",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 53,
+      "reference": "Jn 4:53",
+      "text": "τῇ ὥρᾳ ἐν",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Jn 5:25",
+      "text": "ἔρχεται ὥρα καὶ",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 28,
+      "reference": "Jn 5:28",
+      "text": "ἔρχεται ὥρα ἐν",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Jn 5:35",
+      "text": "πρὸς ὥραν ἐν",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Jn 7:30",
+      "text": "ἡ ὥρα αὐτοῦ.",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 20,
+      "reference": "Jn 8:20",
+      "text": "ἡ ὥρα αὐτοῦ.",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Jn 11:9",
+      "text": "δώδεκα ὧραί εἰσιν",
+      "highlightedWord": "ὧραί"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 23,
+      "reference": "Jn 12:23",
+      "text": "ἡ ὥρα ἵνα",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Jn 12:27",
+      "text": "τῆς ὥρας ταύτης.",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Jn 13:1",
+      "text": "ἡ ὥρα ἵνα",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Jn 16:2",
+      "text": "ἔρχεται ὥρα ἵνα",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Jn 16:4",
+      "text": "ἡ ὥρα αὐτῶν",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Jn 16:21",
+      "text": "ἡ ὥρα αὐτῆς·",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Jn 16:25",
+      "text": "ἔρχεται ὥρα ὅτε",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 32,
+      "reference": "Jn 16:32",
+      "text": "ἔρχεται ὥρα καὶ",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 17,
+      "verse": 1,
+      "reference": "Jn 17:1",
+      "text": "ἡ ὥρα· δόξασόν",
+      "highlightedWord": "ὥρα·"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Jn 19:14",
+      "text": "πάσχα, ὥρα ἦν",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Jn 19:27",
+      "text": "τῆς ὥρας ἔλαβεν",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Ac 2:15",
+      "text": "γὰρ ὥρα τρίτη",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Ac 3:1",
+      "text": "τὴν ὥραν τῆς",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ac 5:7",
+      "text": "ὡς ὡρῶν τριῶν",
+      "highlightedWord": "ὡρῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Ac 10:3",
+      "text": "περὶ ὥραν ἐνάτην",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Ac 10:9",
+      "text": "περὶ ὥραν ἕκτην.",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Ac 10:30",
+      "text": "τῆς ὥρας ἤμην",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Ac 16:18",
+      "text": "τῇ ὥρᾳ.",
+      "highlightedWord": "ὥρᾳ."
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Ac 16:33",
+      "text": "τῇ ὥρᾳ τῆς",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Ac 19:34",
+      "text": "ἐπὶ ὥρας δύο",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Ac 22:13",
+      "text": "τῇ ὥρᾳ ἀνέβλεψα",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Ac 23:23",
+      "text": "τρίτης ὥρας τῆς",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ro 13:11",
+      "text": "ὅτι ὥρα ἤδη",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "1Co 4:11",
+      "text": "ἄρτι ὥρας καὶ",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 30,
+      "reference": "1Co 15:30",
+      "text": "πᾶσαν ὥραν;",
+      "highlightedWord": "ὥραν;"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "2Co 7:8",
+      "text": "πρὸς ὥραν ἐλύπησεν",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 5,
+      "reference": "Ga 2:5",
+      "text": "πρὸς ὥραν εἴξαμεν",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "1Th 2:17",
+      "text": "καιρὸν ὥρας, προσώπῳ",
+      "highlightedWord": "ὥρας,"
+    },
+    {
+      "book": "Filemom",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Phm 1:15",
+      "text": "πρὸς ὥραν ἵνα",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "1Jn 2:18",
+      "text": "ἐσχάτη ὥρα ἐστίν,",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "Re 3:3",
+      "text": "ποίαν ὥραν ἥξω",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "Re 3:10",
+      "text": "τῆς ὥρας τοῦ",
+      "highlightedWord": "ὥρας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Re 9:15",
+      "text": "τὴν ὥραν καὶ",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "τῇ ὥρᾳ ἐγένετο",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 7,
+      "reference": "Re 14:7",
+      "text": "ἡ ὥρα τῆς",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Re 14:15",
+      "text": "ἡ ὥρα θερίσαι,",
+      "highlightedWord": "ὥρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 12,
+      "reference": "Re 17:12",
+      "text": "μίαν ὥραν λαμβάνουσιν",
+      "highlightedWord": "ὥραν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Re 18:10",
+      "text": "μιᾷ ὥρᾳ ἦλθεν",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Re 18:17",
+      "text": "μιᾷ ὥρᾳ ἠρημώθη",
+      "highlightedWord": "ὥρᾳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Re 18:19",
+      "text": "μιᾷ ὥρᾳ ἠρημώθη.",
+      "highlightedWord": "ὥρᾳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Excertos breves de contexto, um registro por versículo; tokenCount registra todas as ocorrências. O G2206 inclui a variante lexical ζηλεύω."
+}

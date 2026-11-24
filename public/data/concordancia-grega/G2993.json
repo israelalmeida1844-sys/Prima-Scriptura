@@ -1,0 +1,65 @@
+{
+  "strong": "G2993",
+  "lemma": "Λαοδίκεια",
+  "lemmaTranslit": "Laodikeia",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Colossenses": 4,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Colossenses",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Col 2:1",
+      "text": "ἐν Λαοδικείᾳ καὶ",
+      "highlightedWord": "Λαοδικείᾳ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 13,
+      "reference": "Col 4:13",
+      "text": "ἐν Λαοδικείᾳ καὶ",
+      "highlightedWord": "Λαοδικείᾳ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Col 4:15",
+      "text": "ἐν Λαοδικείᾳ ἀδελφοὺς",
+      "highlightedWord": "Λαοδικείᾳ"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Col 4:16",
+      "text": "ἐκ Λαοδικείας ἵνα",
+      "highlightedWord": "Λαοδικείας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 11,
+      "reference": "Re 1:11",
+      "text": "εἰς Λαοδίκειαν.",
+      "highlightedWord": "Λαοδίκειαν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Re 3:14",
+      "text": "ἐν Λαοδικείᾳ ἐκκλησίας",
+      "highlightedWord": "Λαοδικείᾳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

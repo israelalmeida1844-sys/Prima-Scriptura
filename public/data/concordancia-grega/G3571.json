@@ -1,0 +1,491 @@
+{
+  "strong": "G3571",
+  "lemma": "νύξ",
+  "lemmaTranslit": "nyx",
+  "tokenCount": 61,
+  "verseCount": 58,
+  "bookDistribution": {
+    "Mateus": 9,
+    "Marcos": 4,
+    "Lucas": 7,
+    "João": 6,
+    "Atos": 16,
+    "Romanos": 1,
+    "1 Coríntios": 1,
+    "1 Tessalonicenses": 6,
+    "2 Tessalonicenses": 1,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Mt 2:14",
+      "text": "αὐτοῦ νυκτὸς καὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Mt 4:2",
+      "text": "καὶ νύκτας τεσσεράκοντα",
+      "highlightedWord": "νύκτας"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 40,
+      "reference": "Mt 12:40",
+      "text": "τρεῖς νύκτας, οὕτως",
+      "highlightedWord": "νύκτας,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mt 14:25",
+      "text": "τῆς νυκτὸς ἦλθεν",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 6,
+      "reference": "Mt 25:6",
+      "text": "δὲ νυκτὸς κραυγὴ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 31,
+      "reference": "Mt 26:31",
+      "text": "τῇ νυκτὶ ταύτῃ,",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 34,
+      "reference": "Mt 26:34",
+      "text": "τῇ νυκτὶ πρὶν",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 13,
+      "reference": "Mt 28:13",
+      "text": "αὐτοῦ νυκτὸς ἐλθόντες",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Mk 4:27",
+      "text": "ἐγείρηται νύκτα καὶ",
+      "highlightedWord": "νύκτα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Mk 5:5",
+      "text": "παντὸς νυκτὸς καὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Mk 6:48",
+      "text": "τῆς νυκτὸς ἔρχεται",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 30,
+      "reference": "Mk 14:30",
+      "text": "τῇ νυκτὶ πρὶν",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Lk 2:8",
+      "text": "τῆς νυκτὸς ἐπὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 37,
+      "reference": "Lk 2:37",
+      "text": "λατρεύουσα νύκτα καὶ",
+      "highlightedWord": "νύκτα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "Lk 5:5",
+      "text": "ὅλης νυκτὸς κοπιάσαντες",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "Lk 12:20",
+      "text": "τῇ νυκτὶ τὴν",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 34,
+      "reference": "Lk 17:34",
+      "text": "τῇ νυκτὶ ἔσονται",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Lk 18:7",
+      "text": "καὶ νυκτός, καὶ",
+      "highlightedWord": "νυκτός,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 37,
+      "reference": "Lk 21:37",
+      "text": "δὲ νύκτας ἐξερχόμενος",
+      "highlightedWord": "νύκτας"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Jn 3:2",
+      "text": "αὐτὸν νυκτὸς καὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Jn 9:4",
+      "text": "ἔρχεται νὺξ ὅτε",
+      "highlightedWord": "νὺξ"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Jn 11:10",
+      "text": "τῇ νυκτί, προσκόπτει,",
+      "highlightedWord": "νυκτί,"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Jn 13:30",
+      "text": "δὲ νύξ.",
+      "highlightedWord": "νύξ."
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 39,
+      "reference": "Jn 19:39",
+      "text": "αὐτὸν νυκτὸς τὸ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Jn 21:3",
+      "text": "τῇ νυκτὶ ἐπίασαν",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Ac 5:19",
+      "text": "διὰ νυκτὸς ἤνοιξε",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "Ac 9:24",
+      "text": "καὶ νυκτὸς ὅπως",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Ac 9:25",
+      "text": "αὐτοῦ νυκτὸς διὰ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ac 12:6",
+      "text": "τῇ νυκτὶ ἐκείνῃ",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Ac 16:9",
+      "text": "διὰ νυκτὸς τῷ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Ac 16:33",
+      "text": "τῆς νυκτὸς ἔλουσεν",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Ac 17:10",
+      "text": "διὰ νυκτὸς ἐξέπεμψαν",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Ac 18:9",
+      "text": "ἐν νυκτὶ δι’",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 31,
+      "reference": "Ac 20:31",
+      "text": "τριετίαν νύκτα καὶ",
+      "highlightedWord": "νύκτα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 11,
+      "reference": "Ac 23:11",
+      "text": "ἐπιούσῃ νυκτὶ ἐπιστὰς",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Ac 23:23",
+      "text": "τῆς νυκτός,",
+      "highlightedWord": "νυκτός,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 31,
+      "reference": "Ac 23:31",
+      "text": "διὰ νυκτὸς εἰς",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 7,
+      "reference": "Ac 26:7",
+      "text": "ἐκτενείᾳ νύκτα καὶ",
+      "highlightedWord": "νύκτα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 23,
+      "reference": "Ac 27:23",
+      "text": "τῇ νυκτὶ τοῦ",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 27,
+      "reference": "Ac 27:27",
+      "text": "τεσσαρεσκαιδεκάτη νὺξ ἐγένετο",
+      "highlightedWord": "νὺξ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Ro 13:12",
+      "text": "ἡ νὺξ προέκοψεν,",
+      "highlightedWord": "νὺξ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "1Co 11:23",
+      "text": "τῇ νυκτὶ ᾗ",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "1Th 2:9",
+      "text": "μόχθον· νυκτὸς καὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "1Th 3:10",
+      "text": "νυκτὸς καὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "1Th 5:2",
+      "text": "ἐν νυκτὶ οὕτως",
+      "highlightedWord": "νυκτὶ"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Th 5:5",
+      "text": "ἐσμὲν νυκτὸς οὐδὲ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "1Th 5:7",
+      "text": "καθεύδοντες νυκτὸς καθεύδουσιν,",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 8,
+      "reference": "2Th 3:8",
+      "text": "μόχθῳ νυκτὸς καὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 5,
+      "reference": "1Ti 5:5",
+      "text": "προσευχαῖς νυκτὸς καὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 3,
+      "reference": "2Ti 1:3",
+      "text": "μου, νυκτὸς καὶ",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Re 4:8",
+      "text": "καὶ νυκτὸς λέγοντες·",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 7,
+      "verse": 15,
+      "reference": "Re 7:15",
+      "text": "καὶ νυκτὸς ἐν",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Re 8:12",
+      "text": "ἡ νὺξ ὁμοίως.",
+      "highlightedWord": "νὺξ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 10,
+      "reference": "Re 12:10",
+      "text": "καὶ νυκτός.",
+      "highlightedWord": "νυκτός."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "καὶ νυκτός, οἱ",
+      "highlightedWord": "νυκτός,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Re 20:10",
+      "text": "καὶ νυκτὸς εἰς",
+      "highlightedWord": "νυκτὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 25,
+      "reference": "Re 21:25",
+      "text": "ἡμέρας, νὺξ γὰρ",
+      "highlightedWord": "νὺξ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Re 22:5",
+      "text": "καὶ νὺξ οὐκ",
+      "highlightedWord": "νὺξ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Um registro contextual por versículo; tokenCount contabiliza ocorrências, incluindo repetições no mesmo versículo. κύκλῳ = G2945 conforme léxico Strong."
+}

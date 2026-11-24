@@ -1,0 +1,1367 @@
+{
+  "strong": "G2147",
+  "lemma": "εὑρίσκω",
+  "lemmaTranslit": "heuriskō",
+  "tokenCount": 176,
+  "verseCount": 167,
+  "bookDistribution": {
+    "Mateus": 27,
+    "Marcos": 11,
+    "Lucas": 45,
+    "João": 19,
+    "Atos": 35,
+    "Romanos": 4,
+    "1 Coríntios": 2,
+    "2 Coríntios": 6,
+    "Gálatas": 1,
+    "Filipenses": 2,
+    "2 Timóteo": 2,
+    "Hebreus": 4,
+    "1 Pedro": 2,
+    "2 Pedro": 2,
+    "2 João": 1,
+    "Apocalipse": 13
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Mt 1:18",
+      "text": "αὐτοὺς εὑρέθη ἐν",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "Mt 2:8",
+      "text": "δὲ εὕρητε, ἀπαγγείλατέ",
+      "highlightedWord": "εὕρητε,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Mt 7:7",
+      "text": "καὶ εὑρήσετε· κρούετε,",
+      "highlightedWord": "εὑρήσετε·"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Mt 7:8",
+      "text": "ζητῶν εὑρίσκει καὶ",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Mt 7:14",
+      "text": "οἱ εὑρίσκοντες αὐτήν.",
+      "highlightedWord": "εὑρίσκοντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Mt 8:10",
+      "text": "Ἰσραὴλ εὗρον.",
+      "highlightedWord": "εὗρον."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Mt 10:39",
+      "text": "ὁ εὑρὼν τὴν",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Mt 11:29",
+      "text": "καὶ εὑρήσετε ἀνάπαυσιν",
+      "highlightedWord": "εὑρήσετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mt 12:43",
+      "text": "οὐχ εὑρίσκει.",
+      "highlightedWord": "εὑρίσκει."
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 44,
+      "reference": "Mt 12:44",
+      "text": "ἐλθὸν εὑρίσκει σχολάζοντα",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Mt 13:44",
+      "text": "ὃν εὑρὼν ἄνθρωπος",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Mt 13:46",
+      "text": "εὑρὼν δὲ",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 25,
+      "reference": "Mt 16:25",
+      "text": "ἐμοῦ εὑρήσει αὐτήν.",
+      "highlightedWord": "εὑρήσει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "αὐτοῦ εὑρήσεις στατῆρα·",
+      "highlightedWord": "εὑρήσεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Mt 18:13",
+      "text": "γένηται εὑρεῖν αὐτό,",
+      "highlightedWord": "εὑρεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Mt 18:28",
+      "text": "ἐκεῖνος εὗρεν ἕνα",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Mt 20:6",
+      "text": "ἐξελθὼν εὗρεν ἄλλους",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Mt 21:2",
+      "text": "εὐθέως εὑρήσετε ὄνον",
+      "highlightedWord": "εὑρήσετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 19,
+      "reference": "Mt 21:19",
+      "text": "οὐδὲν εὗρεν ἐν",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 9,
+      "reference": "Mt 22:9",
+      "text": "ἐὰν εὕρητε καλέσατε",
+      "highlightedWord": "εὕρητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Mt 22:10",
+      "text": "οὓς εὗρον, πονηρούς",
+      "highlightedWord": "εὗρον,"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 46,
+      "reference": "Mt 24:46",
+      "text": "αὐτοῦ εὑρήσει οὕτως",
+      "highlightedWord": "εὑρήσει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 40,
+      "reference": "Mt 26:40",
+      "text": "καὶ εὑρίσκει αὐτοὺς",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 43,
+      "reference": "Mt 26:43",
+      "text": "πάλιν εὗρεν αὐτοὺς",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 60,
+      "reference": "Mt 26:60",
+      "text": "οὐχ εὗρον πολλῶν",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 32,
+      "reference": "Mt 27:32",
+      "text": "δὲ εὗρον ἄνθρωπον",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 37,
+      "reference": "Mk 1:37",
+      "text": "καὶ εὗρον αὐτὸν",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Mk 7:30",
+      "text": "αὐτῆς εὗρεν τὸ",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Mk 11:2",
+      "text": "αὐτὴν εὑρήσετε πῶλον",
+      "highlightedWord": "εὑρήσετε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Mk 11:4",
+      "text": "καὶ εὗρον πῶλον",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Mk 11:13",
+      "text": "τι εὑρήσει ἐν",
+      "highlightedWord": "εὑρήσει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 36,
+      "reference": "Mk 13:36",
+      "text": "ἐξαίφνης εὕρῃ ὑμᾶς",
+      "highlightedWord": "εὕρῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Mk 14:16",
+      "text": "καὶ εὗρον καθὼς",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 37,
+      "reference": "Mk 14:37",
+      "text": "καὶ εὑρίσκει αὐτοὺς",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 40,
+      "reference": "Mk 14:40",
+      "text": "ἐλθὼν εὗρεν αὐτοὺς",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 55,
+      "reference": "Mk 14:55",
+      "text": "οὐχ ηὕρισκον·",
+      "highlightedWord": "ηὕρισκον·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 30,
+      "reference": "Lk 1:30",
+      "text": "Μαριάμ, εὗρες γὰρ",
+      "highlightedWord": "εὗρες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Lk 2:12",
+      "text": "σημεῖον, εὑρήσετε βρέφος",
+      "highlightedWord": "εὑρήσετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 45,
+      "reference": "Lk 2:45",
+      "text": "μὴ εὑρόντες ὑπέστρεψαν",
+      "highlightedWord": "εὑρόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 46,
+      "reference": "Lk 2:46",
+      "text": "τρεῖς εὗρον αὐτὸν",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "Lk 4:17",
+      "text": "βιβλίον εὗρεν τὸν",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Lk 5:19",
+      "text": "μὴ εὑρόντες ποίας",
+      "highlightedWord": "εὑρόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Lk 6:7",
+      "text": "ἵνα εὕρωσιν κατηγορεῖν",
+      "highlightedWord": "εὕρωσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 9,
+      "reference": "Lk 7:9",
+      "text": "πίστιν εὗρον.",
+      "highlightedWord": "εὗρον."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Lk 7:10",
+      "text": "πεμφθέντες εὗρον τὸν",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "καὶ εὗρον καθήμενον",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Lk 9:12",
+      "text": "καὶ εὕρωσιν ἐπισιτισμόν,",
+      "highlightedWord": "εὕρωσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Lk 9:36",
+      "text": "φωνὴν εὑρέθη Ἰησοῦς",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Lk 11:9",
+      "text": "καὶ εὑρήσετε· κρούετε,",
+      "highlightedWord": "εὑρήσετε·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Lk 11:10",
+      "text": "ζητῶν εὑρίσκει, καὶ",
+      "highlightedWord": "εὑρίσκει,"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Lk 11:24",
+      "text": "μὴ εὑρίσκον λέγει·",
+      "highlightedWord": "εὑρίσκον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Lk 11:25",
+      "text": "ἐλθὸν εὑρίσκει σεσαρωμένον",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Lk 12:37",
+      "text": "κύριος εὑρήσει γρηγοροῦντας·",
+      "highlightedWord": "εὑρήσει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Lk 12:38",
+      "text": "καὶ εὕρῃ οὕτως,",
+      "highlightedWord": "εὕρῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Lk 12:43",
+      "text": "αὐτοῦ εὑρήσει ποιοῦντα",
+      "highlightedWord": "εὑρήσει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Lk 13:6",
+      "text": "οὐχ εὗρεν.",
+      "highlightedWord": "εὗρεν."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Lk 13:7",
+      "text": "οὐχ εὑρίσκω· ἔκκοψον",
+      "highlightedWord": "εὑρίσκω·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 4,
+      "reference": "Lk 15:4",
+      "text": "ἕως εὕρῃ αὐτό;",
+      "highlightedWord": "εὕρῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 5,
+      "reference": "Lk 15:5",
+      "text": "καὶ εὑρὼν ἐπιτίθησιν",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Lk 15:6",
+      "text": "ὅτι εὗρον τὸ",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Lk 15:8",
+      "text": "οὗ εὕρῃ;",
+      "highlightedWord": "εὕρῃ;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 9,
+      "reference": "Lk 15:9",
+      "text": "καὶ εὑροῦσα συγκαλεῖ",
+      "highlightedWord": "εὑροῦσα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 24,
+      "reference": "Lk 15:24",
+      "text": "καὶ εὑρέθη. καὶ",
+      "highlightedWord": "εὑρέθη."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 32,
+      "reference": "Lk 15:32",
+      "text": "καὶ εὑρέθη.",
+      "highlightedWord": "εὑρέθη."
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Lk 17:18",
+      "text": "οὐχ εὑρέθησαν ὑποστρέψαντες",
+      "highlightedWord": "εὑρέθησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Lk 18:8",
+      "text": "ἆρα εὑρήσει τὴν",
+      "highlightedWord": "εὑρήσει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Lk 19:30",
+      "text": "εἰσπορευόμενοι εὑρήσετε πῶλον",
+      "highlightedWord": "εὑρήσετε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Lk 19:32",
+      "text": "ἀπεσταλμένοι εὗρον καθὼς",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 48,
+      "reference": "Lk 19:48",
+      "text": "οὐχ εὕρισκον τὸ",
+      "highlightedWord": "εὕρισκον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Lk 22:13",
+      "text": "δὲ εὗρον καθὼς",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 45,
+      "reference": "Lk 22:45",
+      "text": "μαθητὰς εὗρεν κοιμωμένους",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 2,
+      "reference": "Lk 23:2",
+      "text": "Τοῦτον εὕραμεν διαστρέφοντα",
+      "highlightedWord": "εὕραμεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 4,
+      "reference": "Lk 23:4",
+      "text": "Οὐδὲν εὑρίσκω αἴτιον",
+      "highlightedWord": "εὑρίσκω"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 14,
+      "reference": "Lk 23:14",
+      "text": "οὐθὲν εὗρον ἐν",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 22,
+      "reference": "Lk 23:22",
+      "text": "θανάτου εὗρον ἐν",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 2,
+      "reference": "Lk 24:2",
+      "text": "εὗρον δὲ",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 3,
+      "reference": "Lk 24:3",
+      "text": "οὐχ εὗρον τὸ",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 23,
+      "reference": "Lk 24:23",
+      "text": "μὴ εὑροῦσαι τὸ",
+      "highlightedWord": "εὑροῦσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Lk 24:24",
+      "text": "καὶ εὗρον οὕτως",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 33,
+      "reference": "Lk 24:33",
+      "text": "καὶ εὗρον ἠθροισμένους",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 41,
+      "reference": "Jn 1:41",
+      "text": "εὑρίσκει οὗτος",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 43,
+      "reference": "Jn 1:43",
+      "text": "καὶ εὑρίσκει Φίλιππον",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 45,
+      "reference": "Jn 1:45",
+      "text": "εὑρίσκει Φίλιππος",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 14,
+      "reference": "Jn 2:14",
+      "text": "καὶ εὗρεν ἐν",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Jn 5:14",
+      "text": "ταῦτα εὑρίσκει αὐτὸν",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 25,
+      "reference": "Jn 6:25",
+      "text": "Καὶ εὑρόντες αὐτὸν",
+      "highlightedWord": "εὑρόντες"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Jn 7:34",
+      "text": "οὐχ εὑρήσετε, καὶ",
+      "highlightedWord": "εὑρήσετε,"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 35,
+      "reference": "Jn 7:35",
+      "text": "οὐχ εὑρήσομεν αὐτόν;",
+      "highlightedWord": "εὑρήσομεν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Jn 7:36",
+      "text": "οὐχ εὑρήσετε, καὶ",
+      "highlightedWord": "εὑρήσετε,"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 35,
+      "reference": "Jn 9:35",
+      "text": "καὶ εὑρὼν αὐτὸν",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Jn 10:9",
+      "text": "νομὴν εὑρήσει.",
+      "highlightedWord": "εὑρήσει."
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 17,
+      "reference": "Jn 11:17",
+      "text": "Ἰησοῦς εὗρεν αὐτὸν",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Jn 12:14",
+      "text": "εὑρὼν δὲ",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 38,
+      "reference": "Jn 18:38",
+      "text": "οὐδεμίαν εὑρίσκω ἐν",
+      "highlightedWord": "εὑρίσκω"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Jn 19:4",
+      "text": "αἰτίαν εὑρίσκω ἐν",
+      "highlightedWord": "εὑρίσκω"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Jn 19:6",
+      "text": "οὐχ εὑρίσκω ἐν",
+      "highlightedWord": "εὑρίσκω"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Jn 21:6",
+      "text": "καὶ εὑρήσετε. ἔβαλον",
+      "highlightedWord": "εὑρήσετε."
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Ac 4:21",
+      "text": "μηδὲν εὑρίσκοντες τὸ",
+      "highlightedWord": "εὑρίσκοντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 10,
+      "reference": "Ac 5:10",
+      "text": "νεανίσκοι εὗρον αὐτὴν",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 22,
+      "reference": "Ac 5:22",
+      "text": "οὐχ εὗρον αὐτοὺς",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 23,
+      "reference": "Ac 5:23",
+      "text": "δεσμωτήριον εὕρομεν κεκλεισμένον",
+      "highlightedWord": "εὕρομεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Ac 5:39",
+      "text": "θεομάχοι εὑρεθῆτε. ἐπείσθησαν",
+      "highlightedWord": "εὑρεθῆτε."
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Ac 7:11",
+      "text": "οὐχ ηὕρισκον χορτάσματα",
+      "highlightedWord": "ηὕρισκον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 46,
+      "reference": "Ac 7:46",
+      "text": "ὃς εὗρεν χάριν",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 40,
+      "reference": "Ac 8:40",
+      "text": "δὲ εὑρέθη εἰς",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ac 9:2",
+      "text": "τινας εὕρῃ τῆς",
+      "highlightedWord": "εὕρῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Ac 9:33",
+      "text": "εὗρεν δὲ",
+      "highlightedWord": "εὗρεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 27,
+      "reference": "Ac 10:27",
+      "text": "καὶ εὑρίσκει συνεληλυθότας",
+      "highlightedWord": "εὑρίσκει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Ac 11:26",
+      "text": "καὶ εὑρὼν ἤγαγεν",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Ac 12:19",
+      "text": "μὴ εὑρὼν ἀνακρίνας",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Ac 13:6",
+      "text": "Πάφου εὗρον ἄνδρα",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 22,
+      "reference": "Ac 13:22",
+      "text": "μαρτυρήσας· Εὗρον Δαυὶδ",
+      "highlightedWord": "Εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Ac 13:28",
+      "text": "θανάτου εὑρόντες ᾐτήσαντο",
+      "highlightedWord": "εὑρόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 6,
+      "reference": "Ac 17:6",
+      "text": "μὴ εὑρόντες δὲ",
+      "highlightedWord": "εὑρόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Ac 17:23",
+      "text": "ὑμῶν εὗρον καὶ",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Ac 17:27",
+      "text": "καὶ εὕροιεν, καί",
+      "highlightedWord": "εὕροιεν,"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Ac 18:2",
+      "text": "καὶ εὑρών τινα",
+      "highlightedWord": "εὑρών"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 1,
+      "reference": "Ac 19:1",
+      "text": "καὶ εὑρεῖν τινας",
+      "highlightedWord": "εὑρεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Ac 19:19",
+      "text": "καὶ εὗρον ἀργυρίου",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Ac 21:2",
+      "text": "καὶ εὑρόντες πλοῖον",
+      "highlightedWord": "εὑρόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 9,
+      "reference": "Ac 23:9",
+      "text": "κακὸν εὑρίσκομεν ἐν",
+      "highlightedWord": "εὑρίσκομεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 29,
+      "reference": "Ac 23:29",
+      "text": "ὃν εὗρον ἐγκαλούμενον",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Ac 24:5",
+      "text": "εὑρόντες γὰρ",
+      "highlightedWord": "εὑρόντες"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Ac 24:12",
+      "text": "ἱερῷ εὗρόν με",
+      "highlightedWord": "εὗρόν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 18,
+      "reference": "Ac 24:18",
+      "text": "αἷς εὗρόν με",
+      "highlightedWord": "εὗρόν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 20,
+      "reference": "Ac 24:20",
+      "text": "τί εὗρον ἀδίκημα",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 6,
+      "reference": "Ac 27:6",
+      "text": "κἀκεῖ εὑρὼν ὁ",
+      "highlightedWord": "εὑρὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 28,
+      "reference": "Ac 27:28",
+      "text": "βολίσαντες εὗρον ὀργυιὰς",
+      "highlightedWord": "εὗρον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 14,
+      "reference": "Ac 28:14",
+      "text": "οὗ εὑρόντες ἀδελφοὺς",
+      "highlightedWord": "εὑρόντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "Ro 4:1",
+      "text": "ἐροῦμεν εὑρηκέναι Ἀβραὰμ",
+      "highlightedWord": "εὑρηκέναι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Ro 7:10",
+      "text": "καὶ εὑρέθη μοι",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Ro 7:21",
+      "text": "Εὑρίσκω ἄρα",
+      "highlightedWord": "Εὑρίσκω"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Ro 10:20",
+      "text": "λέγει· Εὑρέθην ἐν",
+      "highlightedWord": "Εὑρέθην"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Co 4:2",
+      "text": "τις εὑρεθῇ.",
+      "highlightedWord": "εὑρεθῇ."
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 15,
+      "reference": "1Co 15:15",
+      "text": "εὑρισκόμεθα δὲ",
+      "highlightedWord": "εὑρισκόμεθα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Co 2:13",
+      "text": "μὴ εὑρεῖν με",
+      "highlightedWord": "εὑρεῖν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "2Co 5:3",
+      "text": "γυμνοὶ εὑρεθησόμεθα.",
+      "highlightedWord": "εὑρεθησόμεθα."
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "2Co 9:4",
+      "text": "καὶ εὕρωσιν ὑμᾶς",
+      "highlightedWord": "εὕρωσιν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 12,
+      "reference": "2Co 11:12",
+      "text": "καυχῶνται εὑρεθῶσιν καθὼς",
+      "highlightedWord": "εὑρεθῶσιν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 20,
+      "reference": "2Co 12:20",
+      "text": "θέλω εὕρω ὑμᾶς,",
+      "highlightedWord": "εὕρω"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ga 2:17",
+      "text": "Χριστῷ εὑρέθημεν καὶ",
+      "highlightedWord": "εὑρέθημεν"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Php 2:7",
+      "text": "σχήματι εὑρεθεὶς ὡς",
+      "highlightedWord": "εὑρεθεὶς"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "Php 3:9",
+      "text": "καὶ εὑρεθῶ ἐν",
+      "highlightedWord": "εὑρεθῶ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Ti 1:17",
+      "text": "καὶ εὗρεν—",
+      "highlightedWord": "εὗρεν—"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Ti 1:18",
+      "text": "κύριος εὑρεῖν ἔλεος",
+      "highlightedWord": "εὑρεῖν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 16,
+      "reference": "Heb 4:16",
+      "text": "χάριν εὕρωμεν εἰς",
+      "highlightedWord": "εὕρωμεν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Heb 9:12",
+      "text": "λύτρωσιν εὑράμενος.",
+      "highlightedWord": "εὑράμενος."
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 5,
+      "reference": "Heb 11:5",
+      "text": "οὐχ ηὑρίσκετο διότι",
+      "highlightedWord": "ηὑρίσκετο"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Heb 12:17",
+      "text": "οὐχ εὗρεν, καίπερ",
+      "highlightedWord": "εὗρεν,"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "1Pe 1:7",
+      "text": "δοκιμαζομένου εὑρεθῇ εἰς",
+      "highlightedWord": "εὑρεθῇ"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "1Pe 2:22",
+      "text": "οὐδὲ εὑρέθη δόλος",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 10,
+      "reference": "2Pe 3:10",
+      "text": "ἔργα εὑρεθήσεται.",
+      "highlightedWord": "εὑρεθήσεται."
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "2Pe 3:14",
+      "text": "αὐτῷ εὑρεθῆναι ἐν",
+      "highlightedWord": "εὑρεθῆναι"
+    },
+    {
+      "book": "2 João",
+      "chapter": 1,
+      "verse": 4,
+      "reference": "2Jn 1:4",
+      "text": "ὅτι εὕρηκα ἐκ",
+      "highlightedWord": "εὕρηκα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Re 2:2",
+      "text": "καὶ εὗρες αὐτοὺς",
+      "highlightedWord": "εὗρες"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "Re 3:2",
+      "text": "γὰρ εὕρηκά σου",
+      "highlightedWord": "εὕρηκά"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Re 5:4",
+      "text": "ἄξιος εὑρέθη ἀνοῖξαι",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "μὴ εὑρήσουσιν αὐτόν,",
+      "highlightedWord": "εὑρήσουσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 8,
+      "reference": "Re 12:8",
+      "text": "τόπος εὑρέθη αὐτῶν",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Re 14:5",
+      "text": "οὐχ εὑρέθη ψεῦδος·",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Re 16:20",
+      "text": "οὐχ εὑρέθησαν.",
+      "highlightedWord": "εὑρέθησαν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Re 18:14",
+      "text": "αὐτὰ εὑρήσουσιν.",
+      "highlightedWord": "εὑρήσουσιν."
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 21,
+      "reference": "Re 18:21",
+      "text": "μὴ εὑρεθῇ ἔτι.",
+      "highlightedWord": "εὑρεθῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 22,
+      "reference": "Re 18:22",
+      "text": "μὴ εὑρεθῇ ἐν",
+      "highlightedWord": "εὑρεθῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Re 18:24",
+      "text": "ἁγίων εὑρέθη καὶ",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Re 20:11",
+      "text": "οὐχ εὑρέθη αὐτοῖς.",
+      "highlightedWord": "εὑρέθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Re 20:15",
+      "text": "οὐχ εὑρέθη ἐν",
+      "highlightedWord": "εὑρέθη"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

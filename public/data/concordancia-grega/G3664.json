@@ -1,0 +1,351 @@
+{
+  "strong": "G3664",
+  "lemma": "ὅμοιος",
+  "lemmaTranslit": "homoios",
+  "tokenCount": 45,
+  "verseCount": 41,
+  "bookDistribution": {
+    "Mateus": 9,
+    "Lucas": 9,
+    "João": 2,
+    "Atos": 1,
+    "Gálatas": 1,
+    "1 João": 1,
+    "Judas": 1,
+    "Apocalipse": 21
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Mt 11:16",
+      "text": "ταύτην; ὁμοία ἐστὶν",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 31,
+      "reference": "Mt 13:31",
+      "text": "λέγων· Ὁμοία ἐστὶν",
+      "highlightedWord": "Ὁμοία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Mt 13:33",
+      "text": "αὐτοῖς· Ὁμοία ἐστὶν",
+      "highlightedWord": "Ὁμοία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Mt 13:44",
+      "text": "Ὁμοία ἐστὶν",
+      "highlightedWord": "Ὁμοία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 45,
+      "reference": "Mt 13:45",
+      "text": "Πάλιν ὁμοία ἐστὶν",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 47,
+      "reference": "Mt 13:47",
+      "text": "Πάλιν ὁμοία ἐστὶν",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 52,
+      "reference": "Mt 13:52",
+      "text": "οὐρανῶν ὅμοιός ἐστιν",
+      "highlightedWord": "ὅμοιός"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Mt 20:1",
+      "text": "Ὁμοία γάρ",
+      "highlightedWord": "Ὁμοία"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 39,
+      "reference": "Mt 22:39",
+      "text": "δὲ ὁμοία αὐτῇ·",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 47,
+      "reference": "Lk 6:47",
+      "text": "ἐστὶν ὅμοιος·",
+      "highlightedWord": "ὅμοιος·"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Lk 6:48",
+      "text": "ὅμοιός ἐστιν",
+      "highlightedWord": "ὅμοιός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Lk 6:49",
+      "text": "ποιήσας ὅμοιός ἐστιν",
+      "highlightedWord": "ὅμοιός"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 31,
+      "reference": "Lk 7:31",
+      "text": "εἰσὶν ὅμοιοι;",
+      "highlightedWord": "ὅμοιοι;"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 32,
+      "reference": "Lk 7:32",
+      "text": "ὅμοιοί εἰσιν",
+      "highlightedWord": "ὅμοιοί"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Lk 12:36",
+      "text": "ὑμεῖς ὅμοιοι ἀνθρώποις",
+      "highlightedWord": "ὅμοιοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 18,
+      "reference": "Lk 13:18",
+      "text": "Τίνι ὁμοία ἐστὶν",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Lk 13:19",
+      "text": "ὁμοία ἐστὶν",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 21,
+      "reference": "Lk 13:21",
+      "text": "ὁμοία ἐστὶν",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 55,
+      "reference": "Jn 8:55",
+      "text": "ἔσομαι ὅμοιος ὑμῖν",
+      "highlightedWord": "ὅμοιος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Jn 9:9",
+      "text": "ἀλλὰ ὅμοιος αὐτῷ",
+      "highlightedWord": "ὅμοιος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Ac 17:29",
+      "text": "εἶναι ὅμοιον.",
+      "highlightedWord": "ὅμοιον."
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "Ga 5:21",
+      "text": "τὰ ὅμοια τούτοις,",
+      "highlightedWord": "ὅμοια"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 2,
+      "reference": "1Jn 3:2",
+      "text": "φανερωθῇ ὅμοιοι αὐτῷ",
+      "highlightedWord": "ὅμοιοι"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jud 1:7",
+      "text": "τὸν ὅμοιον τρόπον",
+      "highlightedWord": "ὅμοιον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 13,
+      "reference": "Re 1:13",
+      "text": "λυχνιῶν ὅμοιον υἱὸν",
+      "highlightedWord": "ὅμοιον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 1,
+      "verse": 15,
+      "reference": "Re 1:15",
+      "text": "αὐτοῦ ὅμοιοι χαλκολιβάνῳ,",
+      "highlightedWord": "ὅμοιοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Re 2:18",
+      "text": "αὐτοῦ ὅμοιοι χαλκολιβάνῳ·",
+      "highlightedWord": "ὅμοιοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Re 4:3",
+      "text": "καθήμενος ὅμοιος ὁράσει",
+      "highlightedWord": "ὅμοιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 6,
+      "reference": "Re 4:6",
+      "text": "ὑαλίνη ὁμοία κρυστάλλῳ.",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Re 4:7",
+      "text": "πρῶτον ὅμοιον λέοντι,",
+      "highlightedWord": "ὅμοιον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Re 9:7",
+      "text": "ἀκρίδων ὅμοια ἵπποις",
+      "highlightedWord": "ὅμοια"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Re 9:10",
+      "text": "οὐρὰς ὁμοίας σκορπίοις",
+      "highlightedWord": "ὁμοίας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Re 9:19",
+      "text": "αὐτῶν ὅμοιαι ὄφεσιν,",
+      "highlightedWord": "ὅμοιαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Re 11:1",
+      "text": "κάλαμος ὅμοιος ῥάβδῳ,",
+      "highlightedWord": "ὅμοιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 2,
+      "reference": "Re 13:2",
+      "text": "ἦν ὅμοιον παρδάλει,",
+      "highlightedWord": "ὅμοιον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Re 13:4",
+      "text": "Τίς ὅμοιος τῷ",
+      "highlightedWord": "ὅμοιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Re 13:11",
+      "text": "δύο ὅμοια ἀρνίῳ,",
+      "highlightedWord": "ὅμοια"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Re 14:14",
+      "text": "καθήμενον ὅμοιον υἱὸν",
+      "highlightedWord": "ὅμοιον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Re 18:18",
+      "text": "Τίς ὁμοία τῇ",
+      "highlightedWord": "ὁμοία"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Re 21:11",
+      "text": "αὐτῆς ὅμοιος λίθῳ",
+      "highlightedWord": "ὅμοιος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 18,
+      "reference": "Re 21:18",
+      "text": "καθαρὸν ὅμοιον ὑάλῳ",
+      "highlightedWord": "ὅμοιον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}

@@ -1,0 +1,109 @@
+{
+  "strong": "G4464",
+  "lemma": "ῥάβδος",
+  "lemmaTranslit": "hrabdos",
+  "tokenCount": 12,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 1,
+    "Lucas": 1,
+    "1 Coríntios": 1,
+    "Hebreus": 4,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Mt 10:10",
+      "text": "μηδὲ ῥάβδον· ἄξιος",
+      "highlightedWord": "ῥάβδον·"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 8,
+      "reference": "Mk 6:8",
+      "text": "μὴ ῥάβδον μόνον,",
+      "highlightedWord": "ῥάβδον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Lk 9:3",
+      "text": "μήτε ῥάβδον μήτε",
+      "highlightedWord": "ῥάβδον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "1Co 4:21",
+      "text": "ἐν ῥάβδῳ ἔλθω",
+      "highlightedWord": "ῥάβδῳ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Heb 1:8",
+      "text": "ἡ ῥάβδος τῆς",
+      "highlightedWord": "ῥάβδος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 9,
+      "verse": 4,
+      "reference": "Heb 9:4",
+      "text": "ἡ ῥάβδος Ἀαρὼν",
+      "highlightedWord": "ῥάβδος"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 21,
+      "reference": "Heb 11:21",
+      "text": "τῆς ῥάβδου αὐτοῦ.",
+      "highlightedWord": "ῥάβδου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 2,
+      "verse": 27,
+      "reference": "Re 2:27",
+      "text": "ἐν ῥάβδῳ σιδηρᾷ",
+      "highlightedWord": "ῥάβδῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Re 11:1",
+      "text": "ὅμοιος ῥάβδῳ, λέγων·",
+      "highlightedWord": "ῥάβδῳ,"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 5,
+      "reference": "Re 12:5",
+      "text": "ἐν ῥάβδῳ σιδηρᾷ·",
+      "highlightedWord": "ῥάβδῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Re 19:15",
+      "text": "ἐν ῥάβδῳ σιδηρᾷ·",
+      "highlightedWord": "ῥάβδῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+}
