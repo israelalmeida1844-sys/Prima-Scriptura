@@ -1,0 +1,29 @@
+{
+  "strong": "G4693",
+  "lemma": "σπήλαιον",
+  "lemmaTranslit": "spēlaion",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Mt": 1,
+    "Mc": 1,
+    "Lc": 1,
+    "Jo": 1,
+    "Hb": 1,
+    "Ap": 1
+  },
+  "references": [
+    "Mt 21:13",
+    "Mc 11:17",
+    "Lc 19:46",
+    "Jo 11:38",
+    "Hb 11:38",
+    "Ap 6:15"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

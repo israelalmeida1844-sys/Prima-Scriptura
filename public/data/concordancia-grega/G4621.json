@@ -1,0 +1,38 @@
+{
+  "strong": "G4621",
+  "lemma": "σῖτος",
+  "lemmaTranslit": "sitos",
+  "tokenCount": 14,
+  "verseCount": 14,
+  "bookDistribution": {
+    "Mt": 4,
+    "Mc": 1,
+    "Lc": 4,
+    "Jo": 1,
+    "At": 1,
+    "1Co": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 3:12",
+    "Mt 13:25",
+    "Mt 13:29",
+    "Mt 13:30",
+    "Mc 4:28",
+    "Lc 3:17",
+    "Lc 12:18",
+    "Lc 16:7",
+    "Lc 22:31",
+    "Jo 12:24",
+    "At 27:38",
+    "1Co 15:37",
+    "Ap 6:6",
+    "Ap 18:13"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

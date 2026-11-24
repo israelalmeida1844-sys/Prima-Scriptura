@@ -1,0 +1,34 @@
+{
+  "strong": "G4578",
+  "lemma": "σεισμός",
+  "lemmaTranslit": "seismos",
+  "tokenCount": 14,
+  "verseCount": 12,
+  "bookDistribution": {
+    "Mt": 4,
+    "Mc": 1,
+    "Lc": 1,
+    "At": 1,
+    "Ap": 7
+  },
+  "references": [
+    "Mt 8:24",
+    "Mt 24:7",
+    "Mt 27:54",
+    "Mt 28:2",
+    "Mc 13:8",
+    "Lc 21:11",
+    "At 16:26",
+    "Ap 6:12",
+    "Ap 8:5",
+    "Ap 11:13",
+    "Ap 11:19",
+    "Ap 16:18"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

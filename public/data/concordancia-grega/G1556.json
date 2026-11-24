@@ -1,0 +1,27 @@
+{
+  "strong": "G1556",
+  "lemma": "ἐκδικέω",
+  "lemmaTranslit": "ekdikeō",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Lc": 2,
+    "Rm": 1,
+    "2Co": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Lc 18:3",
+    "Lc 18:5",
+    "Rm 12:19",
+    "2Co 10:6",
+    "Ap 6:10",
+    "Ap 19:2"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

@@ -1,0 +1,24 @@
+{
+  "strong": "G4526",
+  "lemma": "σάκκος",
+  "lemmaTranslit": "sakkos",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Mt": 1,
+    "Lc": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 11:21",
+    "Lc 10:13",
+    "Ap 6:12",
+    "Ap 11:3"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

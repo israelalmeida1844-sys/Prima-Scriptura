@@ -351,9 +351,9 @@
     "Ap 22:19"
   ],
   "complete": true,
-  "source": "SBL Greek New Testament / MorphGNT",
-  "sourceVersion": "6.12",
-  "sourceCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "license": "CC BY-SA 3.0 / SBLGNT EULA",
-  "attribution": "MorphGNT (James K. Tauber); SBL Greek New Testament (Michael W. Holmes, 2010)"
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
 }

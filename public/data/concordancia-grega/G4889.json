@@ -1,0 +1,30 @@
+{
+  "strong": "G4889",
+  "lemma": "σύνδουλος",
+  "lemmaTranslit": "syndoylos",
+  "tokenCount": 10,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Mt": 5,
+    "Cl": 2,
+    "Ap": 3
+  },
+  "references": [
+    "Mt 18:28",
+    "Mt 18:29",
+    "Mt 18:31",
+    "Mt 18:33",
+    "Mt 24:49",
+    "Cl 1:7",
+    "Cl 4:7",
+    "Ap 6:11",
+    "Ap 19:10",
+    "Ap 22:9"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

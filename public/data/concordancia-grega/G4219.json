@@ -1,0 +1,39 @@
+{
+  "strong": "G4219",
+  "lemma": "πότε",
+  "lemmaTranslit": "pote",
+  "tokenCount": 19,
+  "verseCount": 17,
+  "bookDistribution": {
+    "Mt": 7,
+    "Mc": 5,
+    "Lc": 4,
+    "Jo": 2,
+    "Ap": 1
+  },
+  "references": [
+    "Mt 17:17",
+    "Mt 24:3",
+    "Mt 25:37",
+    "Mt 25:38",
+    "Mt 25:39",
+    "Mt 25:44",
+    "Mc 9:19",
+    "Mc 13:4",
+    "Mc 13:33",
+    "Mc 13:35",
+    "Lc 9:41",
+    "Lc 12:36",
+    "Lc 17:20",
+    "Lc 21:7",
+    "Jo 6:25",
+    "Jo 10:24",
+    "Ap 6:10"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}
