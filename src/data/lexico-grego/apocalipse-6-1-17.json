@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 1:1–6:17; avaliação",
   "source": "SBLGNT/MorphGNT 6.12",
-  "editorialStatus": "Capítulo 6: 50 novos verbetes, sujeitos a revisão final de léxico e crítica textual.",
+  "editorialStatus": "Apocalipse 6: 50 novos verbetes, com definições semânticas e exemplos contextuais. Homologação final de crítica textual e sintaxe individual pendente.",
   "entries": {
     "G602": {
       "strong": "G602",
@@ -9506,12 +9506,12 @@
       "strong": "G2462",
       "lemma": "ἵππος",
       "lemmaTransliteration": "ippos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G2462-1",
           "label": "cavalo",
-          "definition": "Sentido lexical no uso de Apocalipse 6: cavalo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Substantivo que designa o cavalo, animal de montaria e de guerra; no contexto do selo qualifica o veículo do cavaleiro simbólico.",
           "examples": [
             {
               "reference": "Ap 6:2",
@@ -9529,12 +9529,12 @@
       "strong": "G5115",
       "lemma": "τόξον",
       "lemmaTransliteration": "toxon",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G5115-1",
           "label": "arco",
-          "definition": "Sentido lexical no uso de Apocalipse 6: arco. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Arma em forma de arco empregada para lançar flechas; a presença do objeto não determina isoladamente a identidade histórica do portador.",
           "examples": [
             {
               "reference": "Ap 6:2",
@@ -9552,12 +9552,12 @@
       "strong": "G4450",
       "lemma": "πυρρός",
       "lemmaTransliteration": "pyrros",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "senses": [
         {
           "id": "G4450-1",
           "label": "vermelho-fogo",
-          "definition": "Sentido lexical no uso de Apocalipse 6: vermelho-fogo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Adjetivo cromático que descreve vermelho intenso ou cor de fogo; em 6:4 determina o cavalo da segunda visão.",
           "examples": [
             {
               "reference": "Ap 6:4",
@@ -9575,12 +9575,12 @@
       "strong": "G240",
       "lemma": "ἀλλήλων",
       "lemmaTransliteration": "allēlōn",
-      "partOfSpeech": "RP",
+      "partOfSpeech": "Pronome pessoal",
       "senses": [
         {
           "id": "G240-1",
           "label": "uns aos outros",
-          "definition": "Sentido lexical no uso de Apocalipse 6: uns aos outros. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Pronome recíproco que estabelece relação mútua entre dois ou mais sujeitos ou participantes de uma ação.",
           "examples": [
             {
               "reference": "Ap 6:4",
@@ -9598,12 +9598,12 @@
       "strong": "G3162",
       "lemma": "μάχαιρα",
       "lemmaTransliteration": "machaira",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G3162-1",
           "label": "espada curta",
-          "definition": "Sentido lexical no uso de Apocalipse 6: espada curta. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Lâmina ou arma cortante, frequentemente traduzida por espada; sua extensão física não pode ser fixada apenas pelo lema.",
           "examples": [
             {
               "reference": "Ap 6:4",
@@ -9621,12 +9621,12 @@
       "strong": "G3189",
       "lemma": "μέλας",
       "lemmaTransliteration": "melas",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "senses": [
         {
           "id": "G3189-1",
           "label": "negro",
-          "definition": "Sentido lexical no uso de Apocalipse 6: negro. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Adjetivo que indica coloração negra ou muito escura; modifica ἵππος em 6:5.",
           "examples": [
             {
               "reference": "Ap 6:5",
@@ -9644,12 +9644,12 @@
       "strong": "G2218",
       "lemma": "ζυγός",
       "lemmaTransliteration": "zygos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G2218-1",
           "label": "balança; jugo",
-          "definition": "Sentido lexical no uso de Apocalipse 6: balança; jugo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Pode denotar jugo ou instrumento de pesagem; em 6:5 a cena comercial favorece balança.",
           "examples": [
             {
               "reference": "Ap 6:5",
@@ -9667,12 +9667,12 @@
       "strong": "G5518",
       "lemma": "χοῖνιξ",
       "lemmaTransliteration": "choinix",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G5518-1",
           "label": "medida de cereal",
-          "definition": "Sentido lexical no uso de Apocalipse 6: medida de cereal. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Medida antiga de capacidade para cereais, aproximadamente próxima de um litro, variável conforme sistema local e época.",
           "examples": [
             {
               "reference": "Ap 6:6",
@@ -9690,12 +9690,12 @@
       "strong": "G4621",
       "lemma": "σῖτος",
       "lemmaTransliteration": "sitos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4621-1",
           "label": "trigo",
-          "definition": "Sentido lexical no uso de Apocalipse 6: trigo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Trigo ou cereal empregado para farinha e alimentação; em 6:6 aparece no genitivo de conteúdo da medida.",
           "examples": [
             {
               "reference": "Ap 6:6",
@@ -9713,12 +9713,12 @@
       "strong": "G1220",
       "lemma": "δηνάριον",
       "lemmaTransliteration": "dēnarion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G1220-1",
           "label": "denário, moeda romana",
-          "definition": "Sentido lexical no uso de Apocalipse 6: denário, moeda romana. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Denário, moeda romana de prata; em 6:6 funciona como unidade de preço do cereal.",
           "examples": [
             {
               "reference": "Ap 6:6",
@@ -9736,12 +9736,12 @@
       "strong": "G5140",
       "lemma": "τρεῖς",
       "lemmaTransliteration": "treis",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "senses": [
         {
           "id": "G5140-1",
           "label": "três",
-          "definition": "Sentido lexical no uso de Apocalipse 6: três. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Numeral cardinal de valor três, flexionado conforme o gênero e o caso do substantivo a que se refere.",
           "examples": [
             {
               "reference": "Ap 6:6",
@@ -9759,12 +9759,12 @@
       "strong": "G2915",
       "lemma": "κριθή",
       "lemmaTransliteration": "krithē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G2915-1",
           "label": "cevada",
-          "definition": "Sentido lexical no uso de Apocalipse 6: cevada. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Cevada, cereal usado como alimento humano e animal, normalmente com preço inferior ao trigo em condições semelhantes.",
           "examples": [
             {
               "reference": "Ap 6:6",
@@ -9782,12 +9782,12 @@
       "strong": "G1637",
       "lemma": "ἔλαιον",
       "lemmaTransliteration": "elaion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G1637-1",
           "label": "azeite",
-          "definition": "Sentido lexical no uso de Apocalipse 6: azeite. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Azeite ou óleo de oliva; o contexto de 6:6 o distingue dos cereais cotados por medida.",
           "examples": [
             {
               "reference": "Ap 6:6",
@@ -9805,12 +9805,12 @@
       "strong": "G3631",
       "lemma": "οἶνος",
       "lemmaTransliteration": "oinos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G3631-1",
           "label": "vinho",
-          "definition": "Sentido lexical no uso de Apocalipse 6: vinho. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Vinho, produto da uva e da viticultura, mencionado junto ao azeite em 6:6.",
           "examples": [
             {
               "reference": "Ap 6:6",
@@ -9828,12 +9828,12 @@
       "strong": "G5515",
       "lemma": "χλωρός",
       "lemmaTransliteration": "chlōros",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "senses": [
         {
           "id": "G5515-1",
           "label": "verde-pálido",
-          "definition": "Sentido lexical no uso de Apocalipse 6: verde-pálido. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Adjetivo de tonalidade verde, amarelo-esverdeada ou pálida; a imagem da Morte motiva a escolha tradutória contextual.",
           "examples": [
             {
               "reference": "Ap 6:8",
@@ -9851,12 +9851,12 @@
       "strong": "G1883",
       "lemma": "ἐπάνω",
       "lemmaTransliteration": "epanō",
-      "partOfSpeech": "P-",
+      "partOfSpeech": "Preposição",
       "senses": [
         {
           "id": "G1883-1",
           "label": "sobre",
-          "definition": "Sentido lexical no uso de Apocalipse 6: sobre. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Advérbio ou preposição que indica posição superior, sobre ou acima de um objeto ou referência espacial.",
           "examples": [
             {
               "reference": "Ap 6:8",
@@ -9874,12 +9874,12 @@
       "strong": "G190",
       "lemma": "ἀκολουθέω",
       "lemmaTransliteration": "akoloytheō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G190-1",
           "label": "seguir",
-          "definition": "Sentido lexical no uso de Apocalipse 6: seguir. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Verbo que indica seguir alguém, acompanhar ou prosseguir atrás; em 6:8 caracteriza o Hades.",
           "examples": [
             {
               "reference": "Ap 6:8",
@@ -9897,12 +9897,12 @@
       "strong": "G3042",
       "lemma": "λιμός",
       "lemmaTransliteration": "limos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G3042-1",
           "label": "fome",
-          "definition": "Sentido lexical no uso de Apocalipse 6: fome. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Fome extrema ou escassez de mantimentos, frequentemente ligada a crise e juízo em textos antigos.",
           "examples": [
             {
               "reference": "Ap 6:8",
@@ -9920,12 +9920,12 @@
       "strong": "G5259",
       "lemma": "ὑπό",
       "lemmaTransliteration": "ypo",
-      "partOfSpeech": "P-",
+      "partOfSpeech": "Preposição",
       "senses": [
         {
           "id": "G5259-1",
           "label": "sob; por",
-          "definition": "Sentido lexical no uso de Apocalipse 6: sob; por. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Preposição que pode indicar posição inferior ou agente; a interpretação depende do caso gramatical regido.",
           "examples": [
             {
               "reference": "Ap 6:8",
@@ -9943,12 +9943,12 @@
       "strong": "G2342",
       "lemma": "θηρίον",
       "lemmaTransliteration": "thērion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G2342-1",
           "label": "fera",
-          "definition": "Sentido lexical no uso de Apocalipse 6: fera. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Animal selvagem ou fera; em 6:8 participa de uma enumeração de instrumentos de morte.",
           "examples": [
             {
               "reference": "Ap 6:8",
@@ -9966,12 +9966,12 @@
       "strong": "G3991",
       "lemma": "πέμπτος",
       "lemmaTransliteration": "pemptos",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "senses": [
         {
           "id": "G3991-1",
           "label": "quinto",
-          "definition": "Sentido lexical no uso de Apocalipse 6: quinto. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Numeral ordinal que designa a quinta posição numa sequência.",
           "examples": [
             {
               "reference": "Ap 6:9",
@@ -9989,12 +9989,12 @@
       "strong": "G2379",
       "lemma": "θυσιαστήριον",
       "lemmaTransliteration": "thysiastērion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G2379-1",
           "label": "altar",
-          "definition": "Sentido lexical no uso de Apocalipse 6: altar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Altar destinado a ofertas e sacrifícios; em Apocalipse, a imagem aparece em cenário de culto e julgamento.",
           "examples": [
             {
               "reference": "Ap 6:9",
@@ -10012,12 +10012,12 @@
       "strong": "G5590",
       "lemma": "ψυχή",
       "lemmaTransliteration": "psychē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G5590-1",
           "label": "vida; alma",
-          "definition": "Sentido lexical no uso de Apocalipse 6: vida; alma. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Pode designar vida, pessoa, ser vivo ou alma; sua ocorrência não determina por si só a antropologia da visão.",
           "examples": [
             {
               "reference": "Ap 6:9",
@@ -10035,12 +10035,12 @@
       "strong": "G2896",
       "lemma": "κράζω",
       "lemmaTransliteration": "krazō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G2896-1",
           "label": "clamar",
-          "definition": "Sentido lexical no uso de Apocalipse 6: clamar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Clamar ou gritar em voz forte; frequentemente usado em súplicas e proclamações intensas.",
           "examples": [
             {
               "reference": "Ap 6:10",
@@ -10058,12 +10058,12 @@
       "strong": "G2193",
       "lemma": "ἕως",
       "lemmaTransliteration": "eōs",
-      "partOfSpeech": "P-",
+      "partOfSpeech": "Preposição",
       "senses": [
         {
           "id": "G2193-1",
           "label": "até",
-          "definition": "Sentido lexical no uso de Apocalipse 6: até. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Partícula ou preposição que estabelece limite, especialmente temporal, e em perguntas a duração até um evento.",
           "examples": [
             {
               "reference": "Ap 6:10",
@@ -10081,12 +10081,12 @@
       "strong": "G4219",
       "lemma": "πότε",
       "lemmaTransliteration": "pote",
-      "partOfSpeech": "D-",
+      "partOfSpeech": "Advérbio/partícula",
       "senses": [
         {
           "id": "G4219-1",
           "label": "quando?",
-          "definition": "Sentido lexical no uso de Apocalipse 6: quando?. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Advérbio interrogativo temporal, com sentido de quando; associado a ἕως forma até quando.",
           "examples": [
             {
               "reference": "Ap 6:10",
@@ -10104,12 +10104,12 @@
       "strong": "G1203",
       "lemma": "δεσπότης",
       "lemmaTransliteration": "despotēs",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G1203-1",
           "label": "soberano",
-          "definition": "Sentido lexical no uso de Apocalipse 6: soberano. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Senhor, mestre ou soberano que exerce autoridade; em 6:10 é vocativo dirigido ao juiz divino.",
           "examples": [
             {
               "reference": "Ap 6:10",
@@ -10127,12 +10127,12 @@
       "strong": "G2919",
       "lemma": "κρίνω",
       "lemmaTransliteration": "krinō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G2919-1",
           "label": "julgar",
-          "definition": "Sentido lexical no uso de Apocalipse 6: julgar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Julgar ou decidir, inclusive em sentido jurídico de avaliação e emissão de sentença.",
           "examples": [
             {
               "reference": "Ap 6:10",
@@ -10150,12 +10150,12 @@
       "strong": "G1556",
       "lemma": "ἐκδικέω",
       "lemmaTransliteration": "ekdikeō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G1556-1",
           "label": "fazer justiça",
-          "definition": "Sentido lexical no uso de Apocalipse 6: fazer justiça. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Fazer justiça, reivindicar direito ou vingar judicialmente uma injustiça; o contexto de 6:10 é um clamor por julgamento.",
           "examples": [
             {
               "reference": "Ap 6:10",
@@ -10173,12 +10173,12 @@
       "strong": "G4749",
       "lemma": "στολή",
       "lemmaTransliteration": "stolē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4749-1",
           "label": "veste longa",
-          "definition": "Sentido lexical no uso de Apocalipse 6: veste longa. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Vestimenta longa, manto ou traje distintivo; em 6:11 é apresentada com a qualificação branca.",
           "examples": [
             {
               "reference": "Ap 6:11",
@@ -10196,12 +10196,12 @@
       "strong": "G373",
       "lemma": "ἀναπαύω",
       "lemmaTransliteration": "anapayō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G373-1",
           "label": "descansar",
-          "definition": "Sentido lexical no uso de Apocalipse 6: descansar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Fazer repousar, descansar ou proporcionar alívio; em 6:11 integra a instrução de esperar.",
           "examples": [
             {
               "reference": "Ap 6:11",
@@ -10219,12 +10219,12 @@
       "strong": "G4889",
       "lemma": "σύνδουλος",
       "lemmaTransliteration": "syndoylos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4889-1",
           "label": "conservo",
-          "definition": "Sentido lexical no uso de Apocalipse 6: conservo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Companheiro de servidão ou conservo, alguém que serve ao mesmo senhor que outro.",
           "examples": [
             {
               "reference": "Ap 6:11",
@@ -10242,12 +10242,12 @@
       "strong": "G1623",
       "lemma": "ἕκτος",
       "lemmaTransliteration": "ektos",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "senses": [
         {
           "id": "G1623-1",
           "label": "sexto",
-          "definition": "Sentido lexical no uso de Apocalipse 6: sexto. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Numeral ordinal que indica a sexta posição na sequência.",
           "examples": [
             {
               "reference": "Ap 6:12",
@@ -10265,12 +10265,12 @@
       "strong": "G4578",
       "lemma": "σεισμός",
       "lemmaTransliteration": "seismos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4578-1",
           "label": "terremoto",
-          "definition": "Sentido lexical no uso de Apocalipse 6: terremoto. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Abalo, tremor ou terremoto; empregado em narrativas de manifestações naturais e juízo.",
           "examples": [
             {
               "reference": "Ap 6:12",
@@ -10288,12 +10288,12 @@
       "strong": "G4526",
       "lemma": "σάκκος",
       "lemmaTransliteration": "sakkos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4526-1",
           "label": "pano de saco",
-          "definition": "Sentido lexical no uso de Apocalipse 6: pano de saco. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Tecido áspero feito de material grosseiro, frequentemente usado como sinal de luto e penitência.",
           "examples": [
             {
               "reference": "Ap 6:12",
@@ -10311,12 +10311,12 @@
       "strong": "G5155",
       "lemma": "τρίχινος",
       "lemmaTransliteration": "trichinos",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "senses": [
         {
           "id": "G5155-1",
           "label": "de crina",
-          "definition": "Sentido lexical no uso de Apocalipse 6: de crina. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Adjetivo de material feito de pelos ou crina, usado para caracterizar o pano de saco.",
           "examples": [
             {
               "reference": "Ap 6:12",
@@ -10334,12 +10334,12 @@
       "strong": "G4582",
       "lemma": "σελήνη",
       "lemmaTransliteration": "selēnē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4582-1",
           "label": "lua",
-          "definition": "Sentido lexical no uso de Apocalipse 6: lua. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "A Lua, corpo celeste visível a partir da Terra; em 6:12 aparece em comparação com sangue.",
           "examples": [
             {
               "reference": "Ap 6:12",
@@ -10357,12 +10357,12 @@
       "strong": "G4808",
       "lemma": "συκῆ",
       "lemmaTransliteration": "sykē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4808-1",
           "label": "figueira",
-          "definition": "Sentido lexical no uso de Apocalipse 6: figueira. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Figueira, árvore frutífera, usada em 6:13 como elemento de comparação.",
           "examples": [
             {
               "reference": "Ap 6:13",
@@ -10380,12 +10380,12 @@
       "strong": "G3653",
       "lemma": "ὄλυνθος",
       "lemmaTransliteration": "olynthos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G3653-1",
           "label": "figo temporão",
-          "definition": "Sentido lexical no uso de Apocalipse 6: figo temporão. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Figo precoce ou imaturo que pode cair da figueira antes da maturação.",
           "examples": [
             {
               "reference": "Ap 6:13",
@@ -10403,12 +10403,12 @@
       "strong": "G417",
       "lemma": "ἄνεμος",
       "lemmaTransliteration": "anemos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G417-1",
           "label": "vento",
-          "definition": "Sentido lexical no uso de Apocalipse 6: vento. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Vento, movimento de ar que, em 6:13, sacode a figueira.",
           "examples": [
             {
               "reference": "Ap 6:13",
@@ -10426,12 +10426,12 @@
       "strong": "G4579",
       "lemma": "σείω",
       "lemmaTransliteration": "seiō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G4579-1",
           "label": "sacudir",
-          "definition": "Sentido lexical no uso de Apocalipse 6: sacudir. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Sacudir, abalar ou agitar; descreve a ação do vento sobre a figueira.",
           "examples": [
             {
               "reference": "Ap 6:13",
@@ -10449,12 +10449,12 @@
       "strong": "G673",
       "lemma": "ἀποχωρίζομαι",
       "lemmaTransliteration": "apochōrizomai",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G673-1",
           "label": "separar-se",
-          "definition": "Sentido lexical no uso de Apocalipse 6: separar-se. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Afastar-se, separar-se ou ser removido; em 6:14 descreve figuradamente o céu.",
           "examples": [
             {
               "reference": "Ap 6:14",
@@ -10472,12 +10472,12 @@
       "strong": "G1667",
       "lemma": "ἑλίσσω",
       "lemmaTransliteration": "elissō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G1667-1",
           "label": "enrolar",
-          "definition": "Sentido lexical no uso de Apocalipse 6: enrolar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Enrolar, dobrar ou torcer; o particípio de 6:14 compara o céu a um rolo de livro.",
           "examples": [
             {
               "reference": "Ap 6:14",
@@ -10495,12 +10495,12 @@
       "strong": "G3735",
       "lemma": "ὄρος",
       "lemmaTransliteration": "oros",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G3735-1",
           "label": "monte",
-          "definition": "Sentido lexical no uso de Apocalipse 6: monte. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Monte ou montanha, elevação de terreno, frequentemente elemento da paisagem apocalíptica.",
           "examples": [
             {
               "reference": "Ap 6:14",
@@ -10518,12 +10518,12 @@
       "strong": "G3175",
       "lemma": "μεγιστάν",
       "lemmaTransliteration": "megistan",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G3175-1",
           "label": "dignitário",
-          "definition": "Sentido lexical no uso de Apocalipse 6: dignitário. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Pessoa de alta posição social ou política, dignitário ou poderoso influente.",
           "examples": [
             {
               "reference": "Ap 6:15",
@@ -10541,12 +10541,12 @@
       "strong": "G5506",
       "lemma": "χιλίαρχος",
       "lemmaTransliteration": "chiliarchos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G5506-1",
           "label": "comandante militar",
-          "definition": "Sentido lexical no uso de Apocalipse 6: comandante militar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Título de comandante militar; originalmente associado ao comando de mil, podendo variar conforme organização histórica.",
           "examples": [
             {
               "reference": "Ap 6:15",
@@ -10564,12 +10564,12 @@
       "strong": "G1658",
       "lemma": "ἐλεύθερος",
       "lemmaTransliteration": "eleytheros",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "senses": [
         {
           "id": "G1658-1",
           "label": "livre",
-          "definition": "Sentido lexical no uso de Apocalipse 6: livre. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Livre, não sujeito à condição jurídica de escravidão; forma oposição social a δοῦλος.",
           "examples": [
             {
               "reference": "Ap 6:15",
@@ -10587,12 +10587,12 @@
       "strong": "G4693",
       "lemma": "σπήλαιον",
       "lemmaTransliteration": "spēlaion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4693-1",
           "label": "caverna",
-          "definition": "Sentido lexical no uso de Apocalipse 6: caverna. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Caverna, gruta ou cavidade natural usada como abrigo.",
           "examples": [
             {
               "reference": "Ap 6:15",
@@ -10610,12 +10610,12 @@
       "strong": "G4073",
       "lemma": "πέτρα",
       "lemmaTransliteration": "petra",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4073-1",
           "label": "rocha",
-          "definition": "Sentido lexical no uso de Apocalipse 6: rocha. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Rocha, massa de pedra ou formação rochosa; em 6:16 recebe uma invocação metafórica.",
           "examples": [
             {
               "reference": "Ap 6:15",
@@ -10633,12 +10633,12 @@
       "strong": "G3709",
       "lemma": "ὀργή",
       "lemmaTransliteration": "orgē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G3709-1",
           "label": "ira",
-          "definition": "Sentido lexical no uso de Apocalipse 6: ira. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+          "definition": "Ira ou indignação, especialmente manifestação de juízo; em 6:16–17 qualifica o julgamento divino.",
           "examples": [
             {
               "reference": "Ap 6:16",
