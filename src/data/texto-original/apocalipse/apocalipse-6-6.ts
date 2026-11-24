@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:6 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:6 · revisão lexical */
 export const apocalipse6v6 = {
   "reference": "Apocalipse 6:6",
   "book": "Apocalipse",
@@ -266,10 +266,10 @@ export const apocalipse6v6 = {
       "strong": "G5518",
       "lemma": "χοῖνιξ",
       "lemmaTransliteration": "choinix",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: medida de cereal. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Medida antiga de capacidade para cereais, aproximadamente próxima de um litro, variável conforme sistema local e época.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"
@@ -290,10 +290,10 @@ export const apocalipse6v6 = {
       "strong": "G4621",
       "lemma": "σῖτος",
       "lemmaTransliteration": "sitos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: trigo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Trigo ou cereal empregado para farinha e alimentação; em 6:6 aparece no genitivo de conteúdo da medida.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"
@@ -314,10 +314,10 @@ export const apocalipse6v6 = {
       "strong": "G1220",
       "lemma": "δηνάριον",
       "lemmaTransliteration": "dēnarion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: N- ----GSN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: denário, moeda romana. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Denário, moeda romana de prata; em 6:6 funciona como unidade de preço do cereal.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"
@@ -363,10 +363,10 @@ export const apocalipse6v6 = {
       "strong": "G5140",
       "lemma": "τρεῖς",
       "lemmaTransliteration": "treis",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: A- ----NPF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: três. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Numeral cardinal de valor três, flexionado conforme o gênero e o caso do substantivo a que se refere.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"
@@ -387,10 +387,10 @@ export const apocalipse6v6 = {
       "strong": "G5518",
       "lemma": "χοῖνιξ",
       "lemmaTransliteration": "choinix",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: N- ----NPF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: medida de cereal. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Medida antiga de capacidade para cereais, aproximadamente próxima de um litro, variável conforme sistema local e época.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"
@@ -411,10 +411,10 @@ export const apocalipse6v6 = {
       "strong": "G2915",
       "lemma": "κριθή",
       "lemmaTransliteration": "krithē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPF-",
       "morphology": "MorphGNT 6.12: N- ----GPF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: cevada. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Cevada, cereal usado como alimento humano e animal, normalmente com preço inferior ao trigo em condições semelhantes.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"
@@ -435,10 +435,10 @@ export const apocalipse6v6 = {
       "strong": "G1220",
       "lemma": "δηνάριον",
       "lemmaTransliteration": "dēnarion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: N- ----GSN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: denário, moeda romana. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Denário, moeda romana de prata; em 6:6 funciona como unidade de preço do cereal.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"
@@ -508,10 +508,10 @@ export const apocalipse6v6 = {
       "strong": "G1637",
       "lemma": "ἔλαιον",
       "lemmaTransliteration": "elaion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: azeite. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Azeite ou óleo de oliva; o contexto de 6:6 o distingue dos cereais cotados por medida.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"
@@ -580,10 +580,10 @@ export const apocalipse6v6 = {
       "strong": "G3631",
       "lemma": "οἶνος",
       "lemmaTransliteration": "oinos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
       "morphology": "MorphGNT 6.12: N- ----ASM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: vinho. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Vinho, produto da uva e da viticultura, mencionado junto ao azeite em 6:6.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:6"

@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:9 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:9 · revisão lexical */
 export const apocalipse6v9 = {
   "reference": "Apocalipse 6:9",
   "book": "Apocalipse",
@@ -121,10 +121,10 @@ export const apocalipse6v9 = {
       "strong": "G3991",
       "lemma": "πέμπτος",
       "lemmaTransliteration": "pemptos",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: A- ----ASF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: quinto. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Numeral ordinal que designa a quinta posição numa sequência.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:9"
@@ -242,10 +242,10 @@ export const apocalipse6v9 = {
       "strong": "G2379",
       "lemma": "θυσιαστήριον",
       "lemmaTransliteration": "thysiastērion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: N- ----GSN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: altar. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Altar destinado a ofertas e sacrifícios; em Apocalipse, a imagem aparece em cenário de culto e julgamento.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:9"
@@ -290,10 +290,10 @@ export const apocalipse6v9 = {
       "strong": "G5590",
       "lemma": "ψυχή",
       "lemmaTransliteration": "psychē",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: N- ----APF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: vida; alma. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Pode designar vida, pessoa, ser vivo ou alma; sua ocorrência não determina por si só a antropologia da visão.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:9"

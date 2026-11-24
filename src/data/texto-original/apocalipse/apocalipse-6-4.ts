@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:4 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:4 · revisão lexical */
 export const apocalipse6v4 = {
   "reference": "Apocalipse 6:4",
   "book": "Apocalipse",
@@ -97,10 +97,10 @@ export const apocalipse6v4 = {
       "strong": "G2462",
       "lemma": "ἵππος",
       "lemmaTransliteration": "ippos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: cavalo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Substantivo que designa o cavalo, animal de montaria e de guerra; no contexto do selo qualifica o veículo do cavaleiro simbólico.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:4"
@@ -121,10 +121,10 @@ export const apocalipse6v4 = {
       "strong": "G4450",
       "lemma": "πυρρός",
       "lemmaTransliteration": "pyrros",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: vermelho-fogo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Adjetivo cromático que descreve vermelho intenso ou cor de fogo; em 6:4 determina o cavalo da segunda visão.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:4"
@@ -506,10 +506,10 @@ export const apocalipse6v4 = {
       "strong": "G240",
       "lemma": "ἀλλήλων",
       "lemmaTransliteration": "allēlōn",
-      "partOfSpeech": "RP",
+      "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: RP ----APM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: uns aos outros. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Pronome recíproco que estabelece relação mútua entre dois ou mais sujeitos ou participantes de uma ação.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:4"
@@ -627,10 +627,10 @@ export const apocalipse6v4 = {
       "strong": "G3162",
       "lemma": "μάχαιρα",
       "lemmaTransliteration": "machaira",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: espada curta. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Lâmina ou arma cortante, frequentemente traduzida por espada; sua extensão física não pode ser fixada apenas pelo lema.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:4"

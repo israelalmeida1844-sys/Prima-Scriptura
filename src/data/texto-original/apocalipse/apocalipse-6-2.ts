@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:2 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:2 · revisão lexical */
 export const apocalipse6v2 = {
   "reference": "Apocalipse 6:2",
   "book": "Apocalipse",
@@ -122,10 +122,10 @@ export const apocalipse6v2 = {
       "strong": "G2462",
       "lemma": "ἵππος",
       "lemmaTransliteration": "ippos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: cavalo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Substantivo que designa o cavalo, animal de montaria e de guerra; no contexto do selo qualifica o veículo do cavaleiro simbólico.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:2"
@@ -315,10 +315,10 @@ export const apocalipse6v2 = {
       "strong": "G5115",
       "lemma": "τόξον",
       "lemmaTransliteration": "toxon",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: arco. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Arma em forma de arco empregada para lançar flechas; a presença do objeto não determina isoladamente a identidade histórica do portador.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:2"

@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:1 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:1 · revisão lexical */
 export const apocalipse6v1 = {
   "reference": "Apocalipse 6:1",
   "book": "Apocalipse",

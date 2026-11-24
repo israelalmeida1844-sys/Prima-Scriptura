@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:8 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:8 · revisão lexical */
 export const apocalipse6v8 = {
   "reference": "Apocalipse 6:8",
   "book": "Apocalipse",
@@ -122,10 +122,10 @@ export const apocalipse6v8 = {
       "strong": "G2462",
       "lemma": "ἵππος",
       "lemmaTransliteration": "ippos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: cavalo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Substantivo que designa o cavalo, animal de montaria e de guerra; no contexto do selo qualifica o veículo do cavaleiro simbólico.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -146,10 +146,10 @@ export const apocalipse6v8 = {
       "strong": "G5515",
       "lemma": "χλωρός",
       "lemmaTransliteration": "chlōros",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: verde-pálido. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Adjetivo de tonalidade verde, amarelo-esverdeada ou pálida; a imagem da Morte motiva a escolha tradutória contextual.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -243,10 +243,10 @@ export const apocalipse6v8 = {
       "strong": "G1883",
       "lemma": "ἐπάνω",
       "lemmaTransliteration": "epanō",
-      "partOfSpeech": "P-",
+      "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: sobre. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Advérbio ou preposição que indica posição superior, sobre ou acima de um objeto ou referência espacial.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -460,10 +460,10 @@ export const apocalipse6v8 = {
       "strong": "G190",
       "lemma": "ἀκολουθέω",
       "lemmaTransliteration": "akoloytheō",
-      "partOfSpeech": "V-",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-S--",
       "morphology": "MorphGNT 6.12: V- 3IAI-S--",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: seguir. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Verbo que indica seguir alguém, acompanhar ou prosseguir atrás; em 6:8 caracteriza o Hades.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -870,10 +870,10 @@ export const apocalipse6v8 = {
       "strong": "G3042",
       "lemma": "λιμός",
       "lemmaTransliteration": "limos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "MorphGNT 6.12: N- ----DSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: fome. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Fome extrema ou escassez de mantimentos, frequentemente ligada a crise e juízo em textos antigos.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -990,10 +990,10 @@ export const apocalipse6v8 = {
       "strong": "G5259",
       "lemma": "ὑπό",
       "lemmaTransliteration": "ypo",
-      "partOfSpeech": "P-",
+      "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: sob; por. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Preposição que pode indicar posição inferior ou agente; a interpretação depende do caso gramatical regido.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -1038,10 +1038,10 @@ export const apocalipse6v8 = {
       "strong": "G2342",
       "lemma": "θηρίον",
       "lemmaTransliteration": "thērion",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: N- ----GPN-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: fera. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Animal selvagem ou fera; em 6:8 participa de uma enumeração de instrumentos de morte.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:8"

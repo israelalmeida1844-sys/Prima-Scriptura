@@ -1,4 +1,4 @@
-/** Prima Scriptura · Ap 6:5 · glosas contextuais revistas */
+/** Prima Scriptura · Ap 6:5 · revisão lexical */
 export const apocalipse6v5 = {
   "reference": "Apocalipse 6:5",
   "book": "Apocalipse",
@@ -437,10 +437,10 @@ export const apocalipse6v5 = {
       "strong": "G2462",
       "lemma": "ἵππος",
       "lemmaTransliteration": "ippos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: cavalo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Substantivo que designa o cavalo, animal de montaria e de guerra; no contexto do selo qualifica o veículo do cavaleiro simbólico.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -461,10 +461,10 @@ export const apocalipse6v5 = {
       "strong": "G3189",
       "lemma": "μέλας",
       "lemmaTransliteration": "melas",
-      "partOfSpeech": "A-",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: negro. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Adjetivo que indica coloração negra ou muito escura; modifica ἵππος em 6:5.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -630,10 +630,10 @@ export const apocalipse6v5 = {
       "strong": "G2218",
       "lemma": "ζυγός",
       "lemmaTransliteration": "zygos",
-      "partOfSpeech": "N-",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
       "morphology": "MorphGNT 6.12: N- ----ASM-",
-      "meanings": "Sentido lexical no uso de Apocalipse 6: balança; jugo. A extensão semântica do lema requer consulta comparativa a léxicos acadêmicos.",
+      "meanings": "Pode denotar jugo ou instrumento de pesagem; em 6:5 a cena comercial favorece balança.",
       "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
       "occurrencesExamples": [
         "Ap 6:5"
