@@ -1,4 +1,5 @@
 name: Revisão editorial e visual de Apocalipse 1–4
+# Revalidação após correção das notas críticas em Ap 1:2,5,6,9,11 e 2:1,3,15
 on:
   push:
     branches: [revisao/apocalipse-1-4-editorial]
