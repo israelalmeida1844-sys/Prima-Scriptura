@@ -1,0 +1,40 @@
+name: Auditoria Apocalipse 1-4
+on:
+  push:
+    branches:
+      - rascunho/apocalipse
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter branch de rascunho
+        uses: actions/checkout@v4
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependencias
+        run: npm install --no-audit --no-fund
+      - name: Auditoria estrutural e editorial
+        id: auditoria
+        continue-on-error: true
+        run: node scripts/auditar-apocalipse.mjs
+      - name: Compilar Astro
+        id: build
+        continue-on-error: true
+        run: npm run build
+      - name: Anexar relatorio
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio-apocalipse-1-4
+          path: audit-results/apocalipse-1-4.json
+          if-no-files-found: warn
+      - name: Falhar quando auditoria ou build falhar
+        if: steps.auditoria.outcome == 'failure' || steps.build.outcome == 'failure'
+        run: exit 1
