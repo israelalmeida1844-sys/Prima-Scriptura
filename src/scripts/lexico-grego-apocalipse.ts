@@ -1,9 +1,9 @@
 /**
- * Prima Scriptura — Apocalipse 1–5.
+ * Prima Scriptura — Apocalipse 1–7.
  * Fonte unificada do léxico para renderização estática e interação por token.
  * As observações sintáticas e exegéticas pertencem às seções do versículo.
  */
-import lexicon from '../data/lexico-grego/apocalipse-6-1-17.json';
+import lexicon from '../data/lexico-grego/apocalipse-7-1-17.json';
 type Example={reference:string;greek:string;transliteration?:string;translation:string;explanation?:string};
 type Sense={id:string;label:string;definition:string;examples:Example[]};
 type Entry={strong:string;lemma:string;lemmaTransliteration:string;partOfSpeech:string;senses:Sense[]};
