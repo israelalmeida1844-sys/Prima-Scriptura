@@ -1,7 +1,7 @@
 {
-  "scope": "Lote 2, sublotes A e B: Atos até 1 Tessalonicenses",
+  "scope": "Lote 2: Atos e 13 cartas paulinas integralmente processados; concordância do NT ainda parcial",
   "complete": false,
-  "batchComplete": false,
+  "batchComplete": true,
   "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7",
   "sources": [
     {
@@ -66,6 +66,41 @@
       "rows": 1473,
       "first": "130101",
       "last": "130528"
+    },
+    {
+      "book": "2Ts",
+      "blob": "123860bf9b3a59ffe1dd7ae0fdeb7a0eddd5d080",
+      "rows": 820,
+      "first": "140101",
+      "last": "140318"
+    },
+    {
+      "book": "1Tm",
+      "blob": "b3a48cf39e72a1d5ab12e22dbfccf50d5273c450",
+      "rows": 1591,
+      "first": "150101",
+      "last": "150621"
+    },
+    {
+      "book": "2Tm",
+      "blob": "9e8982318844d411c26cb29f88fbe2e44f733f6a",
+      "rows": 1235,
+      "first": "160101",
+      "last": "160422"
+    },
+    {
+      "book": "Tt",
+      "blob": "20181fbb5729cc9fbd200b58241ac5e5612c2ec3",
+      "rows": 659,
+      "first": "170101",
+      "last": "170315"
+    },
+    {
+      "book": "Fm",
+      "blob": "a4a64fb468e0110aec98d94d707af8a5188419fd",
+      "rows": 334,
+      "first": "180101",
+      "last": "180125"
     }
   ],
   "entries": {
@@ -91,16 +126,20 @@
       ]
     },
     "μήτε": {
-      "tokenCount": 8,
-      "verseCount": 4,
+      "tokenCount": 13,
+      "verseCount": 6,
       "bookDistribution": {
-        "At": 8
+        "At": 8,
+        "2Ts": 3,
+        "1Tm": 2
       },
       "references": [
         "At 23:8",
         "At 23:12",
         "At 23:21",
-        "At 27:20"
+        "At 27:20",
+        "2Ts 2:2",
+        "1Tm 1:7"
       ]
     },
     "δένδρον": {
@@ -312,15 +351,17 @@
       "references": []
     },
     "σωτηρία": {
-      "tokenCount": 21,
-      "verseCount": 20,
+      "tokenCount": 24,
+      "verseCount": 23,
       "bookDistribution": {
         "At": 6,
         "Rm": 5,
         "2Co": 4,
         "Ef": 1,
         "Fp": 3,
-        "1Ts": 2
+        "1Ts": 2,
+        "2Ts": 1,
+        "2Tm": 2
       },
       "references": [
         "At 4:12",
@@ -342,7 +383,10 @@
         "Fp 1:28",
         "Fp 2:12",
         "1Ts 5:8",
-        "1Ts 5:9"
+        "1Ts 5:9",
+        "2Ts 2:13",
+        "2Tm 2:10",
+        "2Tm 3:15"
       ]
     },
     "ἀποκρίνομαι": {
@@ -389,12 +433,13 @@
       "references": []
     },
     "λατρεύω": {
-      "tokenCount": 8,
-      "verseCount": 8,
+      "tokenCount": 9,
+      "verseCount": 9,
       "bookDistribution": {
         "At": 5,
         "Rm": 2,
-        "Fp": 1
+        "Fp": 1,
+        "2Tm": 1
       },
       "references": [
         "At 7:7",
@@ -404,7 +449,8 @@
         "At 27:23",
         "Rm 1:9",
         "Rm 1:25",
-        "Fp 3:3"
+        "Fp 3:3",
+        "2Tm 1:3"
       ]
     },
     "σκηνόω": {
@@ -464,16 +510,18 @@
       "references": []
     },
     "δάκρυον": {
-      "tokenCount": 3,
-      "verseCount": 3,
+      "tokenCount": 4,
+      "verseCount": 4,
       "bookDistribution": {
         "At": 2,
-        "2Co": 1
+        "2Co": 1,
+        "2Tm": 1
       },
       "references": [
         "At 20:19",
         "At 20:31",
-        "2Co 2:4"
+        "2Co 2:4",
+        "2Tm 1:4"
       ]
     }
   }
