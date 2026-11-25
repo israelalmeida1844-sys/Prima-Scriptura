@@ -262,7 +262,7 @@ document.querySelector<HTMLButtonElement>("#comment-open")!.onclick=async()=>{
       appendText(section,"h4",author.author);appendText(section,"small",author.title+" · módulo "+author.id+" "+author.version+" · "+author.license);
       const rec=chapterData[author.id],hash=rec?.keys?.[String(v)];
       if(!hash){appendText(section,"p","Nenhuma entrada indexada nesta referência.");continue;}
-      const raw=rec.entries[hash];const keys=Object.keys(rec.keys).filter(k=>rec.keys[k]===hash);
+      const raw=rec.entries[hash];if(rec.invalid_bytes?.[hash])appendText(section,"p","A fonte contém bytes incompatíveis com UTF-8. A visualização apresenta caracteres substitutos; os bytes originais estão preservados no arquivo de dados.");const keys=Object.keys(rec.keys).filter(k=>rec.keys[k]===hash);
       appendText(section,"p","Chaves do módulo com este mesmo conteúdo no capítulo: "+keys.join(", ")+".");
       if(lang==="pt"){
         const translated=translations?.[author.id]?.[hash];
