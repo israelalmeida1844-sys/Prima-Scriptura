@@ -8,7 +8,7 @@ export const apocalipse5v12 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Diziam em alta voz: Digno é o Cordeiro que foi imolado de receber poder, riqueza, sabedoria, força, honra, glória e louvor.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ WH Treg NA28 ] + τὸν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐστιν» → «ἐστι».",
   "syntacticNotes": [
     "λέγοντες é particípio presente ativo nominativo plural masculino, retomando os seres que entoam o louvor.",
     "ἄξιον é predicativo neutro associado a τὸ ἀρνίον; λαβεῖν introduz o conteúdo da dignidade.",

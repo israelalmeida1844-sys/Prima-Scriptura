@@ -8,7 +8,7 @@ export const apocalipse6v5 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quando abriu o terceiro selo, ouvi o terceiro ser vivente dizer: Vem! E vi um cavalo negro, cujo cavaleiro tinha uma balança na mão.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "A edição MorphGNT/SBLGNT apresenta Ἔρχου («Vem!»), sem a expansão «e vê» encontrada na tradição do Textus Receptus. A formulação e o suporte manuscrito de cada versículo exigem confronto com o aparato antes de citar testemunhos individualmente.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἶδον WH Treg NA28 ] ἴδε RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τρίτην» após «τὴν»; omite «τὴν τρίτην»; acrescenta «καὶ βλέπε» após «Ἔρχου»; «αὐτὸν» → «αὐτῷ».",
   "syntacticNotes": [
     "ἔχων é particípio presente ativo, nominativo singular masculino; ζυγόν é seu objeto."
   ],

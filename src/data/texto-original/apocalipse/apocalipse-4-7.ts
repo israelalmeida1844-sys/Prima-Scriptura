@@ -8,7 +8,7 @@ export const apocalipse4v7 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "O primeiro ser vivente era semelhante a leão; o segundo, a novilho; o terceiro tinha rosto como de homem; e o quarto era semelhante a águia em voo.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἔχων WH Treg NA28 ] ἔχον RP; τὸ πρόσωπον ὡς WH Treg NA28 ] πρόσωπον RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔχων» → «ἔχον»; «ἀνθρώπου» → «ἄνθρωπος»; «πετομένῳ» → «πετωμένῳ».",
   "exegeticalNotes": [
     "As imagens remetem a Ez 1 e 10, mas Apocalipse distribui as quatro figuras entre seres distintos. Não impor significados alegóricos individuais sem argumentação textual.",
     "Os quatro símbolos evocam Ez 1:10 e 10:14, mas aqui as figuras são distribuídas entre quatro seres; a associação tipológica não demonstra, isoladamente, uma identidade histórica dos seres."

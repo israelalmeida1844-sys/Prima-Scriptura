@@ -8,7 +8,7 @@ export const apocalipse5v11 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Então vi e ouvi a voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos; seu número era miríades de miríades e milhares de milhares.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἤκουσα WH Treg NA28 ] + ὡς RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «κύκλῳ» → «κυκλόθεν».",
   "syntacticNotes": [
     "ἤκουσα é aoristo indicativo ativo, primeira pessoa singular, regendo φωνήν.",
     "ἦν introduz a descrição quantitativa; μυριάδες μυριάδων e χιλιάδες χιλιάδων empregam genitivos de quantidade."

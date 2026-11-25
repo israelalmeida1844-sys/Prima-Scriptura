@@ -8,7 +8,7 @@ export const apocalipse6v14 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E o céu se retirou como um rolo que se enrola; todo monte e ilha foram removidos de seus lugares.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ὁ»; «ἑλισσόμενον» → «εἱλισσόμενον».",
   "syntacticNotes": [
     "ὁ οὐρανός é sujeito de ἀπεχωρίσθη; ἑλισσόμενον modifica βιβλίον."
   ],

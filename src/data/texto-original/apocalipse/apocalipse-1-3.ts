@@ -7,7 +7,7 @@ export const apocalipse1v3 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Feliz aquele que lê e aqueles que ouvem as palavras desta profecia e guardam o que nela está escrito, pois o tempo está próximo.",
-  "textualNotes": "SBLGNT e Scrivener (1894) coincidem na sequência lexical do versículo, desconsideradas acentuação e pontuação editoriais; o aparato do SBLGNT não registra divergência entre suas edições de comparação.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "translationNote": "Tradução editorial; a bem-aventurança conjuga leitura pública, escuta e observância.",
   "words": [
     {

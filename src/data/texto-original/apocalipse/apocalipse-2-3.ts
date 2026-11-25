@@ -8,7 +8,7 @@ export const apocalipse2v3 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tens perseverança, suportaste por causa do meu nome e não te cansaste.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Comparação de edições: o SBLGNT/NA28 apresenta καὶ οὐ κεκοπίακες, com perfeito indicativo; Robinson–Pierpont (texto bizantino) apresenta οὐκ ἐκοπίασας, com aoristo. O Textus Receptus de Scrivener (1894) tem redação mais extensa e diferente: κεκοπίακας καὶ οὐ κέκμηκας. Não se devem confundir a leitura bizantina e a do Textus Receptus nem deduzir automaticamente a mesma redação para ambas.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὐ κεκοπίακες WH Treg NA28 ] οὐκ ἐκοπίασας RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ ἐβάστασας» no início; omite «ἐβάστασας»; acrescenta «κεκοπίακας» após «μου»; «κεκοπίακες» → «κέκμηκας».",
   "exegeticalNotes": [
     "O esforço perseverante é relacionado ao nome de Cristo.",
     "O perfeito grego é preservado na análise de κεκοπίακες."

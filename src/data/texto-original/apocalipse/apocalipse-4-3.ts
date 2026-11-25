@@ -8,7 +8,7 @@ export const apocalipse4v3 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Aquele que estava sentado tinha aparência semelhante ao brilho de jaspe e sárdio; e um arco-íris circundava o trono, semelhante, em aparência, à esmeralda.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ ὁ καθήμενος WH Treg NA28 ] – RP; ὅμοιος ὁράσει σμαραγδίνῳ WH Treg NA28 ] ὁμοίως ὅρασις σμαραγδίνων RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἦν» após «καθήμενος»; «σαρδίῳ» → «σαρδίνῳ»; «ὅμοιος» → «ὁμοία».",
   "exegeticalNotes": [
     "Jaspe, sardônio e esmeralda formam linguagem simbólica de esplendor. Não é possível definir a identidade mineral moderna de cada pedra só pelo texto; comparar Ez 1:26–28 e Ap 21:11,19–20.",
     "O termo σάρδιον designa o sárdio/cornalina; é distinto de σαρδόνυξ, o sardônio. A tradução editorial evita confundir duas pedras referidas de modo distinto em Ap 21:20.",

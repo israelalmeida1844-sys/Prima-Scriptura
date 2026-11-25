@@ -8,7 +8,7 @@ export const apocalipse3v5 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Assim, o vencedor será vestido com vestes brancas; de modo algum apagarei seu nome do livro da vida e confessarei seu nome diante de meu Pai e diante de seus anjos.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὕτως WH Treg NA28 ] οὗτος RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «οὕτως» → «οὗτος»; «ὁμολογήσω» → «ἐξομολογήσομαι».",
   "exegeticalNotes": [
     "A afirmação de que o nome não será apagado é promessa positiva. Não deduzir somente dela solução definitiva de controvérsias soteriológicas. «Livro da vida»: Ap 13:8; 17:8; 20:12,15; 21:27."
   ],

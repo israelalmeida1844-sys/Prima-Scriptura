@@ -7,7 +7,7 @@ export const apocalipse8v13 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Vi e ouvi uma águia voando no meio do céu, dizendo em alta voz: Ai, ai, ai dos habitantes da terra, por causa dos restantes sons da trombeta dos três anjos que ainda vão tocá-la!",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "SBLGNT, WH, Treg e NA28 leem τοὺς κατοικοῦντας (acusativo); RP lê τοῖς κατοικοῦσιν (dativo). As duas construções identificam os destinatários dos ais. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τοὺς κατοικοῦντας WH Treg NA28 ] τοῖς κατοικοῦσιν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἀετοῦ πετομένου» → «ἀγγέλου πετωμένου»; «τοὺς κατοικοῦντας» → «τοῖς κατοικοῦσιν».",
   "syntacticNotes": [
     "ἑνὸς ἀετοῦ depende de ἤκουσα; πετομένου e λέγοντος concordam com ἀετοῦ; μελλόντων rege infinitivo.",
     "φωνῇ μεγάλῃ é dativo de modo; τοὺς κατοικοῦντας é particípio substantivado em acusativo após a interjeição."

@@ -8,7 +8,7 @@ export const apocalipse6v2 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E vi, e eis um cavalo branco! O cavaleiro tinha um arco; foi-lhe dada uma coroa, e saiu vencendo e para vencer.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἶδον καὶ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὐτὸν» → «αὐτῷ»; «ἐξῆλθεν» → «ἐξῆλθε».",
   "syntacticNotes": [
     "ἐδόθη é aoristo passivo; νικῶν é particípio presente e ἵνα νικήσῃ expressa finalidade com subjuntivo."
   ],

@@ -7,7 +7,7 @@ export const apocalipse7v6 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil;",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «Νεφθαλὶμ δώδεκα» → «Νεφθαλείμ ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες».",
   "syntacticNotes": [
     "Repetição elíptica de ἐκ φυλῆς e δώδεκα χιλιάδες; nomes tribais exercem função genitiva."
   ],

@@ -8,7 +8,7 @@ export const apocalipse4v5 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Do trono procediam relâmpagos, vozes e trovões; e sete lâmpadas de fogo ardiam diante do trono: são os sete espíritos de Deus.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἅ WH NA28 ] αἵ Treg; αὐτοῦ αἵ RP; τὰ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «βρονταὶ καὶ» após «καὶ»; omite «καὶ βρονταί»; «ἅ εἰσιν» → «αἵ εἰσι».",
   "exegeticalNotes": [
     "Relâmpagos, vozes e trovões evocam teofania (Êx 19:16). A expressão «sete espíritos» reaparece em Ap 1:4; 3:1; 5:6, exigindo leitura intratextual.",
     "O relativo ἅ está no neutro plural, embora λαμπάδες seja feminino plural; a relação anafórica é semântica e identifica a imagem das sete lâmpadas com «os sete espíritos de Deus».",

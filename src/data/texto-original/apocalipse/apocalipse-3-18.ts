@@ -8,7 +8,7 @@ export const apocalipse3v18 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "aconselho-te a comprar de mim ouro refinado pelo fogo, para te tornares rico, e vestes brancas para te vestires, para que não seja exposta a vergonha de tua nudez, e colírio para ungir teus olhos, a fim de que vejas.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): παρʼ ἐμοῦ χρυσίον WH Treg NA28 ] χρυσίον παρʼ ἐμοῦ RP; ἐγχρῖσαι WH Treg NA28 ] ἵνα ἐγχρίσῃ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐγχρῖσαι» → «ἔγχρισον».",
   "exegeticalNotes": [
     "A interpretação de bens locais (riqueza bancária, indústria têxtil e medicina) requer comprovação arqueológica e histórica. Os símbolos são coerentes com a denúncia de 3:17."
   ],

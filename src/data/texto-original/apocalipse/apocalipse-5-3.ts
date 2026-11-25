@@ -8,7 +8,7 @@ export const apocalipse5v3 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Mas ninguém, nem no céu, nem sobre a terra, nem debaixo da terra, podia abrir o livro ou olhar para ele.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὐρανῷ WH Treg NA28 ] + ἄνω RP; οὐδὲ ἐπὶ τῆς γῆς οὐδὲ WH Treg NA28 ] οὔτε ἐπὶ τῆς γῆς οὔτε RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐδύνατο» → «ἠδύνατο»; «οὔτε» → «οὐδὲ».",
   "syntacticNotes": [
     "οὐδεὶς é sujeito da forma verbal ἐδύνατο; os infinitivos ἀνοῖξαι e βλέπειν completam a noção de capacidade.",
     "As locuções espaciais ligadas por οὐδέ apresentam sequência de localizações abrangentes."

@@ -7,7 +7,7 @@ export const apocalipse7v3 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "dizendo: Não causeis dano à terra, nem ao mar, nem às árvores, até selarmos os servos do nosso Deus em suas testas.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἄχρι WH Treg NA28 ] + οὗ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἄχρι» → «ἄχρις οὗ».",
   "syntacticNotes": [
     "μή com aoristo subjuntivo ἀδικήσητε exprime proibição; ἄχρι com σφραγίσωμεν delimita a ação; ἐπί com genitivo indica localização."
   ],

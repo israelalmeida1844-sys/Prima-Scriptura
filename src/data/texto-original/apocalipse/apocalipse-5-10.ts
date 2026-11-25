@@ -8,7 +8,7 @@ export const apocalipse5v10 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E fizeste deles, para o nosso Deus, um reino e sacerdotes; e eles reinam sobre a terra.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "A edição SBLGNT/MorphGNT fixada lê αὐτούς ('eles'), βασιλείαν ('reino') e βασιλεύουσιν ('reinam', presente). Outras tradições registram ἡμᾶς ('nós'), βασιλεῖς ('reis') e/ou βασιλεύσουσιν ('reinarão', futuro). A combinação exata de leituras e o suporte manuscrito exigem conferência em aparato crítico; não fundir edições.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): βασιλείαν WH Treg NA28 ] βασιλεῖς RP; βασιλεύουσιν WH Treg ] βασιλεύσουσιν NA28 RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὐτοὺς» → «ἡμᾶς»; «βασιλείαν» → «βασιλεῖς»; «βασιλεύουσιν» → «βασιλεύσομεν».",
   "syntacticNotes": [
     "ἐποίησας é aoristo indicativo ativo, segunda pessoa singular; αὐτούς é o objeto pronominal de terceira pessoa plural.",
     "βασιλείαν e ἱερεῖς aparecem como predicativos do objeto na construção com ἐποίησας.",

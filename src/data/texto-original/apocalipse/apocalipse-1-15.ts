@@ -8,7 +8,7 @@ export const apocalipse1v15 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Seus pés eram semelhantes a metal brilhante, como que incandescente numa fornalha, e sua voz era como o som de muitas águas.",
   "translationNote": "A tradução do particípio πεπυρωμένης é interpretativa; o grego do SBLGNT conserva genitivo formalmente não concordante com καμίνῳ.",
-  "textualNotes": "O SBLGNT lê πεπυρωμένης, genitivo singular feminino. Robinson–Pierpont e Scrivener (1894) leem πεπυρωμένοι, nominativo plural masculino, concordando com πόδες. A variante altera a concordância e torna explícito que os pés são comparados a metal incandescente.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): πεπυρωμένης WH Treg NA28 ] πεπυρωμένοι RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «πεπυρωμένης» → «πεπυρωμένοι».",
   "exegeticalNotes": [
     "A imagem de metal incandescente e a voz como muitas águas ecoam Dn 10:6 e Ez 43:2.",
     "O termo metalúrgico também aparece em Ap 2:18; a imagem comunica brilho e majestade sem exigir identificação precisa da liga."

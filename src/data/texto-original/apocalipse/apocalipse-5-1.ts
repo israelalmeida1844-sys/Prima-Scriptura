@@ -8,7 +8,7 @@ export const apocalipse5v1 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Vi na mão direita daquele que estava sentado no trono um livro escrito por dentro e por trás, completamente selado com sete selos.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "O SBLGNT/MorphGNT lê ὄπισθεν ('por trás'); edições da tradição bizantina registram ἔξωθεν ('por fora'). Trata-se de diferença textual ligada à caracterização do livro; conferir aparatos e testemunhos antes de atribuir suporte manuscrito individual.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὄπισθεν WH Treg NA28 ] ἔξωθεν RP. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
     "ἐπὶ τὴν δεξιάν forma um sintagma preposicional no acusativo associado à localização do livro.",
     "γεγραμμένον e κατεσφραγισμένον são particípios perfeitos passivos, acusativo singular neutro, concordando com βιβλίον.",

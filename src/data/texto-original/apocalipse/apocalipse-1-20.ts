@@ -8,7 +8,7 @@ export const apocalipse1v20 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "\"Quanto ao mistério das sete estrelas que você viu na minha mão direita e dos sete candelabros de ouro: as sete estrelas são os anjos das sete igrejas, e os sete candelabros são as sete igrejas.\"",
   "translationNote": "A construção inicial é topicalizada e apresenta assimetria de casos; a tradução portuguesa «Quanto ao mistério...» representa a função discursiva, sem converter o grego em acusativo.",
-  "textualNotes": "O SBLGNT lê οὓς, acusativo masculino plural; Robinson–Pierpont e Scrivener (1894) trazem ὧν, genitivo atraído pelo antecedente. Scrivener também apresenta αἱ ἑπτὰ λυχνίαι ἃς εἶδες, em lugar de αἱ λυχνίαι αἱ ἑπτὰ. A identificação simbólica dos candelabros permanece a mesma.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὓς WH Treg NA28 ] ὧν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «οὓς» → «ὧν»; «εἰσίν» → «εἰσί»; acrescenta «ἑπτὰ» após «αἱ»; «αἱ ἑπτὰ» → «ἃς εἶδες»; «εἰσίν» → «εἰσί».",
   "exegeticalNotes": [
     "O próprio texto fornece a chave interpretativa dos dois símbolos: as estrelas correspondem aos anjos e os candelabros às igrejas.",
     "A interpretação inaugura as mensagens de Ap 2–3; a natureza dos anjos deve ser discutida à luz das cartas, sem ser decidida apenas pelo lema ἄγγελος."

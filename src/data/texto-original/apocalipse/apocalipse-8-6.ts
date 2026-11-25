@@ -7,7 +7,7 @@ export const apocalipse8v6 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Os sete anjos que tinham as sete trombetas prepararam-se para tocá-las.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "SBLGNT e WH leem αὑτούς; Treg e NA28, αὐτούς; RP, ἑαυτούς. As formas reflexivas explicitam que os anjos se prepararam; a distinção αὑτούς/αὐτούς envolve a aspiração editorial. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αὑτοὺς WH ] αὐτοὺς Treg NA28; ἑαυτοὺς RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὑτοὺς» → «ἑαυτοὺς»; «σαλπίσωσιν» → «σαλπίσωσι».",
   "syntacticNotes": [
     "αὑτούς é pronome reflexivo; ἵνα com σαλπίσωσιν expressa finalidade.",
     "οἱ ἔχοντες é particípio atributivo em aposição aos anjos; τὰς ἑπτὰ σάλπιγγας é seu objeto."

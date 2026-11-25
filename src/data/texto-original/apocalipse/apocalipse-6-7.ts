@@ -8,7 +8,7 @@ export const apocalipse6v7 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quando abriu o quarto selo, ouvi a voz do quarto ser vivente dizer: Vem!",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "A edição MorphGNT/SBLGNT apresenta Ἔρχου («Vem!»), sem a expansão «e vê» encontrada na tradição do Textus Receptus. A formulação e o suporte manuscrito de cada versículo exigem confronto com o aparato antes de citar testemunhos individualmente.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): φωνὴν WH Treg NA28 ] – RP; Ἔρχου WH Treg NA28 ] + καὶ ἴδε RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἤνοιξεν» → «ἤνοιξε»; «λέγοντος» → «λέγουσαν»; acrescenta «καὶ βλέπε» após «Ἔρχου».",
   "syntacticNotes": [
     "ἤκουσα rege a expressão de voz; λέγοντος relaciona-se ao ser vivente."
   ],

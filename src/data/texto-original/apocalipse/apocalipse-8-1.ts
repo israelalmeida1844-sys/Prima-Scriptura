@@ -7,7 +7,7 @@ export const apocalipse8v1 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Quando abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "SBLGNT, WH, Treg e NA28 leem ὅταν; RP lê ὅτε. A segunda leitura regulariza a construção temporal com indicativo; ambas introduzem o momento da abertura. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὅταν WH Treg NA28 ] ὅτε RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ὅταν ἤνοιξεν» → «ὅτε ἤνοιξε».",
   "syntacticNotes": [
     "ὅταν com ἤνοιξεν (aoristo indicativo) é construção temporal incomum; ὡς indica aproximação de duração.",
     "τὴν σφραγῖδα τὴν ἑβδόμην é objeto direto com adjetivo atributivo na segunda posição; σιγή é sujeito de ἐγένετο; ἡμιώριον é acusativo de duração."

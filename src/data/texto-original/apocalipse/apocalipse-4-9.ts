@@ -8,7 +8,7 @@ export const apocalipse4v9 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sempre que os seres viventes dão glória, honra e ações de graças àquele que está sentado sobre o trono, àquele que vive pelos séculos dos séculos,",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): δώσουσιν WH Treg NA28 ] δῶσιν RP; τῷ θρόνῳ Treg NA28 ] τοῦ θρόνου WH RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «δώσουσιν» → «δώσουσι»; «τῷ θρόνῳ» → «τοῦ θρόνου».",
   "exegeticalNotes": [
     "O ato dos viventes provoca a prostração dos anciãos no verso seguinte; a fórmula «pelos séculos dos séculos» enfatiza a eternidade divina.",
     "διδόναι δόξαν, τιμὴν καὶ εὐχαριστίαν forma um conjunto de atos de adoração; «dar» não implica conferir glória àquele que já a possui."

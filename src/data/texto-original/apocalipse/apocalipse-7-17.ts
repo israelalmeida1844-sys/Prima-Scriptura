@@ -7,7 +7,7 @@ export const apocalipse7v17 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "porque o Cordeiro que está no meio do trono os pastoreará e os guiará às fontes de águas da vida; e Deus enxugará toda lágrima de seus olhos.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ποιμανεῖ WH Treg NA28 ] ποιμαίνει RP; ὁδηγήσει WH Treg NA28 ] ὁδηγεῖ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ζωῆς» → «ζώσας»; «ἐκ» → «ἀπὸ».",
   "syntacticNotes": [
     "ὅτι introduz causa; ποιμανεῖ, ὁδηγήσει e ἐξαλείψει são futuros. ζωῆς qualifica a expressão πηγὰς ὑδάτων."
   ],

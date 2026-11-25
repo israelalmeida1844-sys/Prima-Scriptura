@@ -8,7 +8,7 @@ export const apocalipse4v11 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Digno és, Senhor e Deus nosso, de receber a glória, a honra e o poder, porque tu criaste todas as coisas; por tua vontade elas existiam e foram criadas.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἡμῶν WH Treg NA28 ] + ὁ ἅγιος RP; τὰ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ὁ κύριος καὶ ὁ θεὸς ἡμῶν» → «Κύριε»; «ἦσαν» → «εἰσὶ».",
   "exegeticalNotes": [
     "O hino atribui a Deus a criação de todas as coisas e liga existência à vontade divina. A sequência ἦσαν καὶ ἐκτίσθησαν deve ser preservada, sem transformá-la em cronologia filosófica rígida.",
     "διὰ τὸ θέλημά σου é construção causal (διά + acusativo), «por causa de tua vontade»; não se deve converter ἦσαν καὶ ἐκτίσθησαν em cronologia filosófica da criação.",

@@ -8,7 +8,7 @@ export const apocalipse5v9 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E cantam um cântico novo, dizendo: Digno és de tomar o livro e abrir os seus selos, porque foste imolado e, com o teu sangue, compraste para Deus pessoas de toda tribo, língua, povo e nação.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "A transmissão apresenta variantes pronominais em torno do objeto do verbo ἠγόρασας, inclusive inserções explícitas de pronomes em algumas tradições. A edição-base aqui preserva a construção sem objeto direto expresso; confrontar o aparato crítico.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θεῷ WH NA28 ] + ἡμᾶς Treg RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἡμᾶς» após «θεῷ».",
   "syntacticNotes": [
     "ᾄδουσιν é presente indicativo ativo, terceira pessoa plural; ᾠδὴν καινήν é objeto direto com adjetivo atributivo.",
     "ἐσφάγης é aoristo indicativo passivo, segunda pessoa singular; ἠγόρασας é aoristo indicativo ativo, segunda pessoa singular.",

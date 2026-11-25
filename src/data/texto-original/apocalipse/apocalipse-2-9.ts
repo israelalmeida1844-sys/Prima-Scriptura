@@ -8,7 +8,7 @@ export const apocalipse2v9 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço a tua tribulação e pobreza — mas és rico — e a difamação daqueles que se dizem judeus e não são, mas são sinagoga de Satanás.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): σου WH Treg NA28 ] + τὰ ἔργα καὶ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τὰ ἔργα καὶ» após «σου»; omite «ἀλλὰ»; acrescenta «δὲ» após «πλούσιος»; omite «ἐκ».",
   "exegeticalNotes": [
     "A avaliação divina contrasta com pobreza externa.",
     "A polêmica religiosa deve ser contextualizada, nunca generalizada contra um povo."

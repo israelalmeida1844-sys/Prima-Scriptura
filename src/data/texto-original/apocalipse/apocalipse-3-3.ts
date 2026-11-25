@@ -8,7 +8,7 @@ export const apocalipse3v3 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Lembra-te, portanto, de como recebeste e ouviste; guarda isso e arrepende-te. Se não vigiares, virei como ladrão, e de modo algum saberás em que hora virei sobre ti.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἥξω WH Treg NA28 ] + ἐπί σε RP; γνῷς WH NA28 RP ] γνώσῃ Treg. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἐπί σε» após «ἥξω».",
   "exegeticalNotes": [
     "A visita «como ladrão» comunica surpresa e necessidade de vigilância; não fixa data escatológica nem deve ser convertida automaticamente em invasão militar local."
   ],

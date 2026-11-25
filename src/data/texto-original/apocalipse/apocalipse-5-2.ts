@@ -8,7 +8,7 @@ export const apocalipse5v2 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E vi um anjo forte que proclamava em alta voz: \"Quem é digno de abrir o rolo e romper os seus selos?\"",
   "translationNote": "Tradução editorial em português a partir do SBLGNT; rolo representa o suporte documental descrito em Ap 5:1.",
-  "textualNotes": "O SBLGNT lê ἐν φωνῇ μεγάλῃ e Τίς ἄξιος, sem cópula. O Textus Receptus de Scrivener (1894) omite ἐν e acrescenta ἐστιν em Τίς ἐστιν ἄξιος. O dativo simples e a explicitação da cópula preservam o sentido. Comparação de edições: https://www.openbible.com/text/revelation/5-2.htm",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἄξιος WH Treg NA28 ] + ἐστιν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ἐν»; acrescenta «ἐστιν» após «Τίς».",
   "syntacticNotes": [
     "εἶδον é o verbo principal, com sujeito de primeira pessoa singular subentendido; ἄγγελον é o objeto direto, modificado por ἰσχυρόν e pelo particípio predicativo κηρύσσοντα.",
     "ἐν φωνῇ μεγάλῃ expressa o modo da proclamação. O adjetivo μεγάλῃ concorda com φωνῇ no dativo singular feminino.",

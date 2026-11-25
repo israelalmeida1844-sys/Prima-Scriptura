@@ -7,7 +7,7 @@ export const apocalipse7v10 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "E clamam em alta voz: A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro!",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «κράζουσι» → «κράζοντες»; «τῷ θρόνῳ» → «τοῦ θρόνου».",
   "syntacticNotes": [
     "κράζουσι é presente; λέγοντες introduz discurso direto; os dativos τῷ θεῷ e τῷ ἀρνίῳ exprimem atribuição numa oração nominal."
   ],

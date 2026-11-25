@@ -8,7 +8,7 @@ export const apocalipse1v10 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Achei-me no Espírito no dia do Senhor e ouvi atrás de mim uma voz alta, semelhante ao som de uma trombeta,",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "O aparato SBLGNT registra em Robinson–Pierpont a ordem φωνὴν ὀπίσω μου em lugar de ὀπίσω μου φωνὴν. Scrivener (1894) coincide com a ordem do SBLGNT; a inversão não altera o sentido essencial da percepção auditiva.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὀπίσω μου φωνὴν WH Treg NA28 ] φωνὴν ὀπίσω μου RP. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
     "A experiência «no Espírito» introduz a percepção profética sem especificar seu mecanismo.",
     "A expressão «dia do Senhor» requer uma discussão histórica separada de sua interpretação denominacional."

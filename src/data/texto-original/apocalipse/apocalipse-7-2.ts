@@ -7,7 +7,7 @@ export const apocalipse7v2 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "Vi outro anjo subindo do nascente do sol, tendo o selo do Deus vivo. Ele clamou em alta voz aos quatro anjos aos quais fora concedido causar dano à terra e ao mar,",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔκραξεν» → «ἔκραξε».",
   "syntacticNotes": [
     "ἀναβαίνοντα e ἔχοντα modificam ἄγγελον; οἷς introduz relativa, com dativo retomado por αὐτοῖς; ἀδικῆσαι completa ἐδόθη."
   ],

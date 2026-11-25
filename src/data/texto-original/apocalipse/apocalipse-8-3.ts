@@ -7,7 +7,7 @@ export const apocalipse8v3 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Outro anjo veio e se colocou junto ao altar, tendo um incensário de ouro. Foram-lhe dados muitos incensos, para que os oferecesse com as orações de todos os santos sobre o altar de ouro diante do trono.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "SBLGNT, WH, Treg e NA28 leem δώσει (futuro indicativo); RP lê δώσῃ (aoristo subjuntivo), construção mais usual após ἵνα. A finalidade permanece. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): δώσει WH Treg NA28 ] δώσῃ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἦλθεν» → «ἦλθε»; «τοῦ θυσιαστηρίου» → «τὸ θυσιαστήριον»; «δώσει» → «δώσῃ».",
   "syntacticNotes": [
     "ἔχων modifica ἄγγελος; ἵνα δώσει apresenta futuro indicativo em oração de finalidade; os dativos das orações admitem associação.",
     "θυμιάματα πολλά é sujeito neutro plural de ἐδόθη, singular; λιβανωτὸν χρυσοῦν é objeto de ἔχων; o segundo ἐπί rege acusativo e marca o alvo da oferta."

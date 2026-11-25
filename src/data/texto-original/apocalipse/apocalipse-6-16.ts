@@ -8,7 +8,7 @@ export const apocalipse6v16 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E dizem aos montes e rochas: Caí sobre nós e escondei-nos da presença daquele que está sentado no trono e da ira do Cordeiro,",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «λέγουσιν» → «λέγουσι»; «ὄρεσιν» → «ὄρεσι».",
   "syntacticNotes": [
     "Πέσετε e κρύψατε são imperativos aoristos de segunda pessoa plural."
   ],

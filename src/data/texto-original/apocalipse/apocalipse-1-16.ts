@@ -8,7 +8,7 @@ export const apocalipse1v16 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E tinha na mão direita sete estrelas; de sua boca saía uma espada afiada de dois gumes, e seu rosto brilhava como o sol em sua força.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "O SBLGNT apresenta χειρὶ αὐτοῦ. Robinson–Pierpont e Scrivener (1894) leem αὐτοῦ χειρί; a ordem alternativa não modifica a identificação da mão direita.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): χειρὶ αὐτοῦ WH Treg NA28 ] αὐτοῦ χειρὶ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «αὐτοῦ» após «δεξιᾷ»; omite «αὐτοῦ».",
   "exegeticalNotes": [
     "As sete estrelas adquirem identificação contextual em 1:20.",
     "A espada da boca e o brilho solar expressam autoridade e glória."

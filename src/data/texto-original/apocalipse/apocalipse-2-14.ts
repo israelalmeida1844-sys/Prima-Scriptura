@@ -8,7 +8,7 @@ export const apocalipse2v14 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, algumas coisas contra ti: tens aí os que seguem o ensino de Balaão, que ensinava Balaque a colocar tropeço diante dos filhos de Israel, para comerem alimentos sacrificados a ídolos e praticarem imoralidade sexual.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐδίδασκεν τῷ WH Treg NA28 ] ἐδίδαξεν τὸν RP; φαγεῖν WH Treg NA28 ] καὶ φαγεῖν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἀλλὰ» → «ἀλλ᾽»; «ἐδίδασκεν τῷ» → «ἐδίδασκε τὸν».",
   "exegeticalNotes": [
     "A figura de Balaão funciona como modelo narrativo de indução à idolatria e imoralidade.",
     "O escândalo representa tropeço espiritual diante de Israel, com ecos do Pentateuco."

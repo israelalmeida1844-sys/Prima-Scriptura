@@ -8,7 +8,7 @@ export const apocalipse3v12 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao vencedor farei coluna no templo do meu Deus, e ele jamais sairá de lá. Escreverei sobre ele o nome do meu Deus e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu da parte do meu Deus, e também meu novo nome.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καταβαίνουσα WH Treg NA28 ] καταβαίνει RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «καταβαίνουσα» → «καταβαίνει».",
   "exegeticalNotes": [
     "A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade."
   ],

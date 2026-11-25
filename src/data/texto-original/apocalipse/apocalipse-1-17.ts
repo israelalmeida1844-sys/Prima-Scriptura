@@ -8,7 +8,7 @@ export const apocalipse1v17 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E, quando o vi, caí a seus pés como morto. E ele pôs sua mão direita sobre mim, dizendo: \"Não tenha medo. Eu sou o Primeiro e o Último,\"",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "Scrivener (1894) apresenta ἐπέθηκεν em vez de ἔθηκεν, explicita χεῖρα após αὐτοῦ e acrescenta μοι após λέγων. As diferenças tornam explícitos a mão e o destinatário da fala; o gesto e a ordem permanecem reconhecíveis no SBLGNT.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔθηκεν» → «ἐπέθηκε»; acrescenta «χεῖρα» após «αὐτοῦ»; acrescenta «μοι» após «λέγων».",
   "exegeticalNotes": [
     "A reação de João combina reverência e incapacidade diante da visão.",
     "A palavra «não temas» altera a dinâmica da cena."

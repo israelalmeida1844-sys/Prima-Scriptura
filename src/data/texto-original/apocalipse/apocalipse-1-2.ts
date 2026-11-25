@@ -14,7 +14,7 @@ export const apocalipse1v2 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "O qual testemunhou a palavra de Deus e o testemunho de Jesus Cristo, tudo quanto viu.",
   "translationNote": "Tradução editorial própria; o relativo «o qual» retoma João, referido no versículo 1. A sequência grega conserva dois objetos coordenados e uma oração relativa final que descreve a extensão do testemunho.",
-  "textualNotes": "Scrivener (1894) acrescenta τε após ὅσα; o SBLGNT não a contém. A partícula reforça a articulação do conteúdo testemunhado sem acrescentar novo objeto à revelação.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐμαρτύρησεν» → «ἐμαρτύρησε»; «εἶδεν» → «τε εἶδε».",
   "exegeticalNotes": [
     "O vocabulário de testemunho liga a missão de João à palavra divina e ao testemunho de Jesus; cf. Ap 1:9; 19:10.",
     "A expressão tudo quanto viu apresenta o relato como testemunho da revelação recebida, sem restringir a experiência profética a percepção ocular comum."

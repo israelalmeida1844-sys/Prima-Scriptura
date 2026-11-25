@@ -7,7 +7,7 @@ export const apocalipse8v11 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O nome da estrela é Absinto. Um terço das águas tornou-se absinto, e muitos homens morreram por causa das águas, porque se tornaram amargas.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "SBLGNT, WH, NA28 e RP incluem ὁ antes do nome Ἄψινθος; Treg omite o artigo. O nome da estrela permanece o mesmo. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὁ WH NA28 RP ] – Treg. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ὁ»; «ἐγένετο» → «γίνεται»; omite «τῶν».",
   "syntacticNotes": [
     "λέγεται é presente passivo; ὅτι introduz causa; ἐπικράνθησαν é aoristo passivo.",
     "εἰς ἄψινθον expressa o resultado da transformação; πολλοὶ τῶν ἀνθρώπων contém genitivo partitivo."

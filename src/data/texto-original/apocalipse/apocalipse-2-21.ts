@@ -8,7 +8,7 @@ export const apocalipse2v21 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Dei-lhe tempo para arrepender-se, mas ela não quer arrepender-se de sua imoralidade sexual.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «καὶ οὐ θέλει μετανοῆσαι»; acrescenta «καὶ οὐ μετενόησεν» após «αὐτῆς».",
   "exegeticalNotes": [
     "A oferta de tempo para arrependimento antecede a sentença.",
     "O texto distingue a oportunidade oferecida da resistência da personagem."

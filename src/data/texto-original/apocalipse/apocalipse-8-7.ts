@@ -7,7 +7,7 @@ export const apocalipse8v7 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O primeiro tocou a trombeta, e houve granizo e fogo misturados com sangue, lançados à terra. Um terço da terra foi queimado, um terço das árvores foi queimado e toda a erva verde foi queimada.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐσάλπισεν» → «ἄγγελος ἐσάλπισε»; omite «ἐν»; omite «καὶ τὸ τρίτον τῆς γῆς κατεκάη».",
   "syntacticNotes": [
     "μεμιγμένα é particípio perfeito passivo neutro plural na classificação MorphGNT; κατεκάη é aoristo passivo; τὸ τρίτον indica fração.",
     "πᾶς χόρτος χλωρός é sujeito da última oração. O perfeito passivo μεμιγμένα descreve o estado resultante da mistura."

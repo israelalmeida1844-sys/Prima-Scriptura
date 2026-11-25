@@ -7,7 +7,7 @@ export const apocalipse7v16 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "Nunca mais terão fome, nem sede; sobre eles não cairá o sol, nem calor algum,",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὐδὲ WH Treg NA28 ] οὐδʼ οὐ RP. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
     "Os futuros πεινάσουσιν e διψήσουσιν são negados; οὐδὲ μή com πέσῃ, aoristo subjuntivo, reforça a negação."
   ],

@@ -8,7 +8,7 @@ export const apocalipse2v7 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei de comer da árvore da vida que está no paraíso de Deus.",
   "translationNote": "A construção de dativo τῷ νικῶντι ... αὐτῷ foi vertida com retomada do beneficiário; a árvore da vida remete à promessa escatológica.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θεοῦ WH Treg NA28 ] + μου RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «τῷ παραδείσῳ» → «μέσῳ τοῦ παραδείσου».",
   "exegeticalNotes": [
     "O convite a ouvir dirige a mensagem à totalidade das igrejas.",
     "A promessa da árvore da vida faz eco ao Éden."

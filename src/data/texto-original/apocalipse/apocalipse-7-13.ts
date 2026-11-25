@@ -7,7 +7,7 @@ export const apocalipse7v13 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "Um dos anciãos tomou a palavra e me perguntou: Estes que estão vestidos de mantos brancos, quem são e de onde vieram?",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «εἰσὶν» → «εἰσί».",
   "syntacticNotes": [
     "ἀπεκρίθη tem forma aorista passiva e sentido ativo; περιβεβλημένοι é perfeito médio; τίνες e πόθεν introduzem perguntas."
   ],

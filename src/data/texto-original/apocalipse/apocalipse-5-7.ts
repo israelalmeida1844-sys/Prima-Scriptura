@@ -8,7 +8,7 @@ export const apocalipse5v7 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ele veio e tomou o livro da mão direita daquele que estava sentado no trono.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἦλθεν» → «ἦλθε»; «εἴληφεν» → «εἴληφε τὸ βιβλίον».",
   "syntacticNotes": [
     "ἦλθεν é aoristo indicativo ativo e εἴληφεν é perfeito indicativo ativo; as duas formas expressam ações verbalmente distintas.",
     "O objeto retomado de εἴληφεν é o livro já mencionado em 5:1."

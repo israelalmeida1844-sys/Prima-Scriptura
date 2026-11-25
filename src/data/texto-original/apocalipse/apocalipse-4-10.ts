@@ -8,7 +8,7 @@ export const apocalipse4v10 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "os vinte e quatro anciãos se prostram diante daquele que está sentado sobre o trono, adoram aquele que vive pelos séculos dos séculos e lançam suas coroas diante do trono, dizendo:",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ» após «εἴκοσι»; «προσκυνήσουσιν» → «προσκυνοῦσι»; «βαλοῦσιν» → «βάλλουσι».",
   "exegeticalNotes": [
     "O lançamento das coroas diante do trono representa reconhecimento da soberania do Criador; não demonstra necessariamente renúncia a todo papel delegado dos anciãos.",
     "O gesto de depositar os στεφάνοι diante do trono comunica homenagem e reconhecimento de autoridade; a distinção entre στέφανος e διάδημα não basta, isoladamente, para identificar a origem dos anciãos."

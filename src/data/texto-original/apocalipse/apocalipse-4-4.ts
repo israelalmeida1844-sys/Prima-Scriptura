@@ -8,7 +8,7 @@ export const apocalipse4v4 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao redor do trono havia vinte e quatro tronos; e sobre eles vi vinte e quatro anciãos sentados, vestidos com vestes brancas e tendo coroas de ouro sobre a cabeça.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θρόνοι WH Treg RP ] θρόνους NA28; θρόνους WH Treg NA28 ] + τοὺς RP; ἐν Treg NA28 RP ] – WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ» após «εἴκοσι»; acrescenta «εἶδον τοὺς» após «θρόνους»; acrescenta «καὶ» após «εἴκοσι»; acrescenta «ἔσχον» após «καὶ».",
   "exegeticalNotes": [
     "A identidade dos vinte e quatro anciãos é tema interpretativo em disputa; sua função cultual e régia é mais evidente no texto que sua origem histórica. στέφανος é coroa de honra, não διάδημα.",
     "A menção de στεφάνους (coroas de honra/vitória) não identifica por si a origem dos anciãos; as propostas de representantes redimidos ou corte celestial permanecem hipóteses interpretativas."

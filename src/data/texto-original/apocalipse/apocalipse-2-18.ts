@@ -8,7 +8,7 @@ export const apocalipse2v18 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E ao anjo da igreja em Tiatira escreve: Assim diz o Filho de Deus, aquele que tem olhos como chama de fogo, e cujos pés são semelhantes a metal brilhante:",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῆς Treg NA28 RP ] τῷ WH. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
     "A imagem de Cristo com olhos como fogo e pés brilhantes fundamenta a avaliação de Tiatira.",
     "O título Filho de Deus liga a carta à cristologia do Apocalipse."

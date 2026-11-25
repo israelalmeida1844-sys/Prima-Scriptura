@@ -150,5 +150,6 @@
   "source": "SBL Greek New Testament / MorphGNT",
   "sourceVersion": "6.12",
   "license": "CC BY-SA 3.0 / CC BY 4.0",
-  "attribution": "MorphGNT (James K. Tauber) e SBL Greek New Testament"
+  "attribution": "MorphGNT (James K. Tauber) e SBL Greek New Testament",
+  "corpusBooks": 27
 }

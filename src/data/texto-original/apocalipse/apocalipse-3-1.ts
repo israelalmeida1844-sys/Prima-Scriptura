@@ -8,7 +8,7 @@ export const apocalipse3v1 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Sardes escreve: Assim diz aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço tuas obras. Tens reputação de viver, mas estás morto.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τὸ» após «ὅτι».",
   "exegeticalNotes": [
     "Nome/reputação não é o sentido obrigatório de ὄνομα em todo contexto; a antítese aqui fundamenta a tradução. Os «sete espíritos» devem ser comparados com Ap 1:4; 4:5; 5:6."
   ],

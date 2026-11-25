@@ -8,7 +8,7 @@ export const apocalipse5v14 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E os quatro seres viventes diziam: Amém! E os anciãos se prostraram e adoraram.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἔλεγον WH Treg NA28 ] λέγοντα τὸ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «εἰκοσιτέσσαρες» após «οἱ»; acrescenta «ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων» após «προσεκύνησαν».",
   "syntacticNotes": [
     "ἔλεγον é imperfeito indicativo ativo, terceira pessoa plural, apresentando a aclamação dos seres viventes.",
     "ἔπεσαν e προσεκύνησαν são aoristos indicativos ativos, terceira pessoa plural, formando a conclusão narrativa."

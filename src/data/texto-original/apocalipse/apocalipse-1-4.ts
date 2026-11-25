@@ -7,7 +7,7 @@ export const apocalipse1v4 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "João, às sete igrejas que estão na Ásia: graça a vocês e paz, da parte daquele que é, que era e que vem, e da parte dos sete espíritos que estão diante do seu trono.",
-  "textualNotes": "O SBLGNT tem ἀπὸ ὁ ὢν. Robinson–Pierpont acrescenta θεοῦ após ἀπό; Scrivener (1894) apresenta ἀπὸ τοῦ ὁ ὢν e acrescenta ἐστιν após ἃ. São explicitações da fonte da saudação e da cópula na relativa.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἀπὸ WH Treg NA28 ] + θεοῦ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τοῦ» após «ἀπὸ»; acrescenta «ἐστιν» após «ἃ».",
   "translationNote": "A fórmula divina permanece próxima da sintaxe original; «sete espíritos» não foi resolvido por paráfrase dogmática.",
   "words": [
     {

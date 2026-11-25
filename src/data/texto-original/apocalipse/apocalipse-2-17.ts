@@ -8,7 +8,7 @@ export const apocalipse2v17 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei do maná escondido; também lhe darei uma pedrinha branca e, sobre a pedrinha, um nome novo escrito, que ninguém conhece, exceto quem o recebe.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αὐτῷ WH Treg NA28 ] + φαγεῖν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «φαγεῖν ἀπὸ» após «αὐτῷ»; «οἶδεν» → «ἔγνω».",
   "exegeticalNotes": [
     "O maná escondido, a pedra branca e o nome novo formam uma promessa composta.",
     "As interpretações judiciais e sociais para a pedra são propostas, não fatos demonstrados."

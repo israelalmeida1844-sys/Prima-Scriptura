@@ -8,7 +8,7 @@ export const apocalipse1v11 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "que dizia: \"O que você vê, escreva em um rolo e envie às sete igrejas: a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia.\"",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Scrivener (1894) inclui a autodesignação Ἐγώ εἰμι τὸ Α καὶ τὸ Ω, ὁ πρῶτος καὶ ὁ ἔσχατος, seguida de καί, antes da ordem de escrever. Acrescenta ainda ταῖς ἐν Ἀσίᾳ após ἐκκλησίαις. Esses acréscimos não integram a redação SBLGNT.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «Ἐγώ εἰμι τὸ Α καὶ τὸ Ω ὁ πρῶτος καὶ ὁ ἔσχατος καί» após «λεγούσης»; acrescenta «ταῖς ἐν Ἀσίᾳ» após «ἐκκλησίαις».",
   "exegeticalNotes": [
     "O texto vincula formalmente λεγούσης à comparação com a trombeta (σάλπιγγος); o leitor percebe a voz que fala por meio da imagem auditiva.",
     "O mandato «escreve o que vês» introduz as mensagens destinadas às sete igrejas da Ásia."

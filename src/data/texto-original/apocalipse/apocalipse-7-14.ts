@@ -7,7 +7,7 @@ export const apocalipse7v14 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "Eu lhe disse: Meu senhor, tu sabes. Ele me disse: Estes são os que vêm da grande tribulação; lavaram seus mantos e os tornaram brancos no sangue do Cordeiro.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἴρηκα WH Treg NA28 ] εἶπον RP; αὐτὰς WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «μου»; «εἶπέν» → «εἶπέ».",
   "syntacticNotes": [
     "εἴρηκα é perfeito; οἶδας é perfeito com sentido presente. οἱ ἐρχόμενοι é particípio presente substantivado; ἔπλυναν e ἐλεύκαναν são aoristos."
   ],

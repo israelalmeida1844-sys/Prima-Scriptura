@@ -8,7 +8,7 @@ export const apocalipse6v13 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E as estrelas do céu caíram sobre a terra como a figueira lança os figos temporãos quando sacudida por vento forte.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): βάλλει WH Treg NA28 ] βαλοῦσα RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «μεγάλου» após «ὑπὸ»; omite «μεγάλου».",
   "syntacticNotes": [
     "οἱ ἀστέρες é sujeito de ἔπεσαν; σειομένη é particípio presente passivo feminino referente à figueira."
   ],

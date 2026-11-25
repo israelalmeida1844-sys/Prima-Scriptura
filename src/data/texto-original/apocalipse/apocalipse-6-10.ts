@@ -8,7 +8,7 @@ export const apocalipse6v10 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E clamaram em alta voz: Até quando, ó Soberano santo e verdadeiro, não julgas e não fazes justiça pelo nosso sangue contra os habitantes da terra?",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔκραξαν» → «ἔκραζον»; acrescenta «ὁ» após «καὶ»; «ἐκ» → «ἀπὸ».",
   "syntacticNotes": [
     "ἔκραξαν é aoristo plural; Ἕως πότε introduz interrogação temporal; κρίνεις e ἐκδικεῖς são presentes."
   ],

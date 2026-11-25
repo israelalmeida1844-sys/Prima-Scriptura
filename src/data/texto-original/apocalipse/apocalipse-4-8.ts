@@ -8,7 +8,7 @@ export const apocalipse4v8 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Os quatro seres viventes, cada um com seis asas, estavam cheios de olhos ao redor e por dentro; não tinham descanso nem de dia nem de noite, dizendo: Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καθʼ ἓν WH NA28 RP ] ἕκαστον Treg; αὐτῶν WH Treg NA28 ] – RP; ἔχων WH Treg NA28 ] ἔχον RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «τὰ»; «ἓν αὐτῶν ἔχων» → «ἑαυτὸ εἶχον»; «γέμουσιν» → «γέμοντα»; «λέγοντες» → «λέγοντα».",
   "exegeticalNotes": [
     "O hino evoca Is 6:2–3. ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος é fórmula teológica com uso substantivado de formas verbais, inclusive ὁ ἦν com artigo antes de forma finita. A adoração é contínua.",
     "As seis asas por vivente aproximam a visão dos serafins de Is 6:2–3; os múltiplos olhos retomam elementos associados aos querubins em Ez 1 e 10.",

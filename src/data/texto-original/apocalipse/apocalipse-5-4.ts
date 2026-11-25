@@ -8,7 +8,7 @@ export const apocalipse5v4 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E eu chorava muito, porque não se encontrou ninguém digno de abrir o livro ou de olhar para ele.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐγὼ WH Treg RP ] – NA28. Cotejo lexical com o Textus Receptus de Scrivener (1894): «πολὺ» → «πολλά»; acrescenta «καὶ ἀναγνῶναι» após «ἀνοῖξαι».",
   "syntacticNotes": [
     "ἔκλαιον é imperfeito indicativo ativo, primeira pessoa singular, indicando o pranto na progressão da cena.",
     "ὅτι introduz a razão do pranto; εὑρέθη é aoristo indicativo passivo."

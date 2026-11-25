@@ -15,7 +15,7 @@ export const apocalipse1v1 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber / SBLGNT)",
   "translation": "Revelação de Jesus Cristo, a qual Deus lhe deu para mostrar aos seus servos as coisas que em breve devem acontecer; e ele as notificou, enviando-as por intermédio do seu anjo ao seu servo João,",
   "translationNote": "Tradução editorial em português fluente, distinta da sequência de glosas interlineares.",
-  "textualNotes": "SBLGNT e Textus Receptus de Scrivener (1894) coincidem na sequência lexical do versículo, desconsideradas acentuação e pontuação editoriais. O aparato do SBLGNT não registra divergência entre suas edições de comparação neste versículo.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "words": [
     {
       "id": "ap1-1-1",

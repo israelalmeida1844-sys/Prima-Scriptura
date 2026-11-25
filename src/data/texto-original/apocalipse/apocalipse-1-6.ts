@@ -7,7 +7,7 @@ export const apocalipse1v6 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "e nos fez um reino, sacerdotes para seu Deus e Pai; a ele sejam a glória e o domínio pelos séculos dos séculos. Amém.",
-  "textualNotes": "Scrivener (1894) apresenta βασιλεῖς καὶ ἱερεῖς, enquanto SBLGNT e Robinson–Pierpont têm βασιλείαν, ἱερεῖς. A diferença afeta a designação coletiva: reino e sacerdotes, em vez de reis e sacerdotes. O aparato SBLGNT também registra omissão de τῶν αἰώνων em Westcott–Hort.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῶν αἰώνων Treg NA28 RP ] – WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): «βασιλείαν» → «βασιλεῖς καὶ».",
   "translationNote": "O acusativo βασιλείαν é resultado da ação de ἐποίησεν e não deve ser substituído por «reis» na tradução do SBLGNT.",
   "words": [
     {

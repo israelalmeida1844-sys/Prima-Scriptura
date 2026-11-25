@@ -8,7 +8,7 @@ export const apocalipse2v1 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Éfeso escreve: Assim diz aquele que segura firmemente as sete estrelas em sua mão direita, aquele que anda entre os sete candelabros de ouro:",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Comparação de edições: o SBLGNT lê τῆς ἐν Ἐφέσῳ ἐκκλησίας («da igreja em Éfeso»), ao passo que o Textus Receptus de Scrivener (1894) apresenta τῆς Ἐφεσίνης ἐκκλησίας («da igreja efésia»). A questão envolve duas redações distintas de identificação da comunidade; o texto interlinear utiliza a forma SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῆς Treg NA28 RP ] τῷ WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐν Ἐφέσῳ» → «Ἐφεσίνης».",
   "exegeticalNotes": [
     "Cristo identifica-se como aquele que segura as estrelas e anda entre as igrejas.",
     "O papel exato de «anjo» nas sete mensagens é discutido."

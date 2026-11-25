@@ -7,7 +7,7 @@ export const apocalipse8v10 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O terceiro anjo tocou a trombeta, e caiu do céu uma grande estrela, ardendo como uma tocha, sobre um terço dos rios e sobre as fontes das águas.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐσάλπισεν» → «ἐσάλπισε»; omite «τῶν».",
   "syntacticNotes": [
     "καιόμενος concorda com ἀστήρ; ὡς λαμπάς introduz comparação; ἐπί indica alvo.",
     "ἀστὴρ μέγας é sujeito de ἔπεσεν; τῶν ποταμῶν é genitivo partitivo."

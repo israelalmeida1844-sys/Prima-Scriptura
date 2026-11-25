@@ -8,7 +8,7 @@ export const apocalipse5v13 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E ouvi toda criatura no céu, sobre a terra, debaixo da terra, sobre o mar e tudo o que neles há, dizendo: Àquele que está sentado no trono e ao Cordeiro sejam o louvor, a honra, a glória e o domínio pelos séculos dos séculos.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θαλάσσης Treg NA28 ] + ἐστίν WH RP; πάντα WH Treg NA28 ] πάντας RP; τῷ θρόνῳ NA28 ] τοῦ θρόνου WH Treg RP; αἰώνων WH Treg NA28 ] + Ἀμήν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἐστιν» após «ὃ»; «ἐπὶ τῆς γῆς» → «ἐν τῇ γῇ»; acrescenta «ἅ ἐστι» após «θαλάσσης»; «τῷ θρόνῳ» → «τοῦ θρόνου».",
   "syntacticNotes": [
     "πᾶν κτίσμα apresenta o tema da abrangência universal, articulado por expressões espaciais.",
     "ἤκουσα é aoristo indicativo ativo, primeira pessoa singular, seguido de λέγοντας, particípio acusativo plural na cena auditiva.",

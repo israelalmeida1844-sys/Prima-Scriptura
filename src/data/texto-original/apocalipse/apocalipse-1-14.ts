@@ -8,7 +8,7 @@ export const apocalipse1v14 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sua cabeça e seus cabelos eram brancos como lã branca, como neve; seus olhos, como chama de fogo.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Scrivener (1894) apresenta ὡσεὶ antes de ἔριον, em lugar de ὡς no SBLGNT. Ambas as partículas introduzem comparação; a diferença não modifica a imagem da lã branca.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ὡς» → «ὡσεὶ».",
   "exegeticalNotes": [
     "A brancura da cabeça e dos cabelos evoca imagens de pureza e majestade.",
     "Os olhos como fogo antecipam o olhar penetrante do Cristo exaltado."

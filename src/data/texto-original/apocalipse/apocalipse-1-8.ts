@@ -7,7 +7,7 @@ export const apocalipse1v8 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "\"Eu sou o Alfa e o Ômega\", diz o Senhor Deus, aquele que é, que era e que vem, o Todo-Poderoso.",
-  "textualNotes": "Scrivener (1894) acrescenta ἀρχὴ καὶ τέλος após o Ômega e apresenta ὁ κύριος em vez de κύριος ὁ θεός. O SBLGNT não contém a expressão princípio e fim e identifica explicitamente o locutor como Senhor Deus.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «Ἄλφα» → «Α»; acrescenta «ἀρχὴ καὶ τέλος» após «Ὦ»; acrescenta «ὁ» após «λέγει»; omite «ὁ θεός».",
   "translationNote": "«Alfa» e «Ômega» reproduzem a imagem alfabética do original; «Todo-Poderoso» traduz παντοκράτωρ.",
   "words": [
     {

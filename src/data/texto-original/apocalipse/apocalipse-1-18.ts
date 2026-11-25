@@ -8,7 +8,7 @@ export const apocalipse1v18 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "\"e aquele que vive. Estive morto, e eis que vivo pelos séculos dos séculos e tenho as chaves da morte e do Hades.\"",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "Robinson–Pierpont acrescenta ἀμήν após αἰώνων, conforme o aparato SBLGNT; Scrivener (1894) também o acrescenta e inverte a ordem dos dois domínios das chaves, τοῦ ᾅδου καὶ τοῦ θανάτου. O texto crítico apresenta morte antes de Hades.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αἰώνων WH Treg NA28 ] + ἀμήν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἀμήν» após «αἰώνων»; «θανάτου» → «ᾅδου»; «ᾅδου» → «θανάτου».",
   "exegeticalNotes": [
     "O Vivente identifica-se pela morte real e pela vida sem fim.",
     "As chaves simbolizam autoridade sobre a morte e o Hades."

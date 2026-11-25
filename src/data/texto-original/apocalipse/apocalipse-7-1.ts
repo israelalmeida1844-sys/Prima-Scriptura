@@ -7,7 +7,7 @@ export const apocalipse7v1 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "Depois disso, vi quatro anjos de pé nos quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): Μετὰ WH NA28 ] Καὶ μετὰ Treg RP; πᾶν WH NA28 ] τι Treg RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «Καὶ» no início; «τοῦτο» → «ταῦτα».",
   "syntacticNotes": [
     "Μετὰ τοῦτο introduz a sequência visionária. ἑστῶτας e κρατοῦντας concordam com ἀγγέλους; ἵνα μή com subjuntivo πνέῃ indica finalidade negativa."
   ],

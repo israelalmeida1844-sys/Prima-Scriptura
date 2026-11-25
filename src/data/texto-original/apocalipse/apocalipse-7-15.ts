@@ -7,7 +7,7 @@ export const apocalipse7v15 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "Por isso estão diante do trono de Deus e o servem dia e noite em seu santuário; aquele que está sentado no trono estenderá sua tenda sobre eles.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τοῦ θρόνου WH Treg NA28 ] τῷ θρόνῳ RP. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
     "διὰ τοῦτο introduz consequência; ἡμέρας καὶ νυκτός são genitivos temporais; σκηνώσει é futuro."
   ],

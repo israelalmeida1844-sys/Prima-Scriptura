@@ -8,7 +8,7 @@ export const apocalipse6v17 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "porque chegou o grande dia da ira deles, e quem pode subsistir?",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Em 6:17 a edição-base lê αὐτῶν («deles»); variantes e traduções podem registrar forma singular. O aparato completo precisa ser conferido antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αὐτῶν WH Treg NA28 ] αὐτοῦ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὐτῶν» → «αὐτοῦ».",
   "syntacticNotes": [
     "ὅτι explica a fala anterior; τίς δύναται σταθῆναι encerra o capítulo com infinitivo dependente."
   ],

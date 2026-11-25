@@ -7,7 +7,7 @@ export const apocalipse8v5 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O anjo tomou o incensário, encheu-o com fogo do altar e lançou-o à terra; houve trovões, vozes, relâmpagos e terremoto.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «τὸν» → «τὸ»; «αὐτὸν» → «αὐτὸ»; acrescenta «φωναὶ καὶ» após «ἐγένοντο»; omite «καὶ φωναὶ».",
   "syntacticNotes": [
     "εἴληφεν é perfeito; os aoristos seguintes narram a ação; ἐκ indica origem do fogo.",
     "αὐτόν retoma λιβανωτόν; εἰς τὴν γῆν indica direção; a série nominativa final depende de ἐγένοντο."

@@ -8,7 +8,7 @@ export const apocalipse6v8 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E vi um cavalo esverdeado; o nome de quem o montava era Morte, e o Hades o seguia. Foi-lhes dada autoridade sobre a quarta parte da terra para matar por espada, fome, morte e feras.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἶδον καὶ WH Treg NA28 ] – RP; μετʼ αὐτοῦ WH Treg NA28 ] αὐτῷ RP; αὐτοῖς WH Treg NA28 ] αὐτῷ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἠκολούθει» → «ἀκολουθεῖ»; acrescenta «ἀποκτεῖναι» após «ἐξουσία»; omite «ἀποκτεῖναι».",
   "syntacticNotes": [
     "ὁ Θάνατος identifica o cavaleiro; ὁ ᾅδης é sujeito de ἠκολούθει; ἀποκτεῖναι é infinitivo de ação autorizada."
   ],

@@ -7,7 +7,7 @@ export const apocalipse7v11 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "Todos os anjos estavam de pé ao redor do trono, dos anciãos e dos quatro seres viventes. Prostraram-se diante do trono, sobre seus rostos, e adoraram a Deus,",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «εἱστήκεισαν» → «ἑστήκεσαν»; «ἔπεσαν» → «ἔπεσον»; «τὰ πρόσωπα» → «πρόσωπον».",
   "syntacticNotes": [
     "εἱστήκεισαν é mais-que-perfeito com valor estativo; ἔπεσαν e προσεκύνησαν são aoristos narrativos."
   ],

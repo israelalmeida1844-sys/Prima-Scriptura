@@ -7,7 +7,7 @@ export const apocalipse7v8 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "da tribo de Zebulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil selados.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμέναι RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ».",
   "syntacticNotes": [
     "O particípio ἐσφραγισμένοι encerra a lista e retoma os indivíduos enumerados."
   ],

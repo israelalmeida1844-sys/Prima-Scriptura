@@ -8,7 +8,7 @@ export const apocalipse5v6 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Então vi, no meio do trono, dos quatro seres viventes e dos anciãos, um Cordeiro em pé, como tendo sido imolado. Tinha sete chifres e sete olhos, que são os sete espíritos de Deus enviados por toda a terra.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἑστηκὸς WH NA28 RP ] ἑστηκὼς Treg; ἔχων WH Treg NA28 ] ἔχον RP; οἵ WH Treg NA28 ] ἃ RP; ἀπεσταλμένοι WH Treg NA28 ] ἀποστελλόμενα RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ ἰδού» após «εἶδον»; «ἔχων» → «ἔχον»; «εἰσιν» → «εἰσι»; omite «πνεύματα»; «ἀπεσταλμένοι» → «πνεύματα τὰ ἀπεσταλμένα».",
   "syntacticNotes": [
     "ἑστηκὸς é particípio perfeito ativo, acusativo singular neutro, relacionado a ἀρνίον.",
     "ἐσφαγμένον é particípio perfeito passivo, acusativo singular neutro, em construção comparativa com ὡς.",

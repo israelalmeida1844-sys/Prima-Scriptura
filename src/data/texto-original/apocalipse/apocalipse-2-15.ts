@@ -8,7 +8,7 @@ export const apocalipse2v15 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Assim também tens os que seguem o ensino dos nicolaítas, da mesma maneira.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Comparação de edições: o SBLGNT encerra Ap 2:15 com ὁμοίως («igualmente»), enquanto o Textus Receptus de Scrivener (1894) apresenta ὃ μισῶ («que eu odeio»). A segunda leitura não deve ser inserida na tradução do SBLGNT por harmonização com Ap 2:6. Para a distribuição manuscrita, consultar um aparato crítico.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): διδαχὴν WH ] + τῶν Treg NA28 RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τῶν» após «διδαχὴν»; «ὁμοίως» → «ὃ μισῶ».",
   "exegeticalNotes": [
     "Os nicolaítas são apresentados por proximidade com o modelo de Balaão, sem identificação histórica indiscutível.",
     "A leitura ὁμοίως deve ser mantida sem interpolação do TR."

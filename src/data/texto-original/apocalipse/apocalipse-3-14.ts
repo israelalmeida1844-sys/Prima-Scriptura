@@ -8,7 +8,7 @@ export const apocalipse3v14 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Laodiceia escreve: Assim diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ Treg NA28 RP ] + ὁ WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ἐν Λαοδικείᾳ»; acrescenta «Λαοδικέων» após «ἐκκλησίας».",
   "exegeticalNotes": [
     "Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual."
   ],

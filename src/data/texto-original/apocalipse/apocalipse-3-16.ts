@@ -8,7 +8,7 @@ export const apocalipse3v16 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Assim, porque és morno e não és quente nem frio, estou para vomitar-te da minha boca.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὔτε WH Treg NA28 ] οὐ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ψυχρὸς οὔτε» após «οὔτε»; omite «οὔτε ψυχρός».",
   "exegeticalNotes": [
     "A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual."
   ],

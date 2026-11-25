@@ -8,7 +8,7 @@ export const apocalipse1v13 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E, no meio dos candelabros, vi alguém semelhante a um filho de homem, vestido com uma roupa longa até os pés e cingido à altura do peito com uma faixa de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "O aparato SBLGNT registra em Robinson–Pierpont e Tregelles ἑπτὰ após τῶν e υἱῷ no lugar de υἱὸν. Scrivener (1894) também apresenta essas leituras e usa χρυσῆν em lugar de χρυσᾶν. A alteração de caso regulariza a relação com ὅμοιον; o numeral explicita o número já informado em Ap 1:12.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῶν WH NA28 ] + ἑπτὰ Treg RP; υἱὸν WH NA28 ] υἱῷ Treg RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἑπτὰ» após «τῶν»; «υἱὸν» → «υἱῷ»; «χρυσᾶν» → «χρυσῆν».",
   "exegeticalNotes": [
     "A figura «semelhante a um filho de homem» remete à visão de Daniel 7.",
     "A roupa longa e a faixa de ouro comunicam dignidade e autoridade, com possíveis ressonâncias sacerdotais."

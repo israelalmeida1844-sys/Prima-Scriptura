@@ -8,7 +8,7 @@ export const apocalipse3v17 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Porque dizes: Sou rico, enriqueci e não necessito de nada; e não sabes que és o infeliz, miserável, pobre, cego e nu,",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὅτι WH Treg NA28 ] – RP; οὐδὲν WH Treg NA28 ] οὐδενὸς RP; καὶ WH Treg NA28 ] + ὁ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «οὐδὲν» → «οὐδενὸς».",
   "exegeticalNotes": [
     "A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista."
   ],

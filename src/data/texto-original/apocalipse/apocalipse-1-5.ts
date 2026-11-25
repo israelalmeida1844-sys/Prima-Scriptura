@@ -7,7 +7,7 @@ export const apocalipse1v5 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "E da parte de Jesus Cristo, a testemunha fiel, o primogênito dentre os mortos e o soberano dos reis da terra. Àquele que nos ama e nos libertou dos nossos pecados por seu sangue,",
-  "textualNotes": "O SBLGNT lê o particípio presente ἀγαπῶντι e λύσαντι com ἐκ; Scrivener (1894) traz ἀγαπήσαντι e λούσαντι com ἀπό, além de ἐκ antes de τῶν νεκρῶν. Robinson–Pierpont coincide com a leitura λούσαντι e ἀπό. A principal diferença semântica é libertar dos pecados versus lavar dos pecados.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): λύσαντι WH Treg NA28 ] λούσαντι RP; ἐκ WH Treg NA28 ] ἀπὸ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἐκ» após «πρωτότοκος»; «ἀγαπῶντι» → «ἀγαπήσαντι»; «λύσαντι» → «λούσαντι»; «ἐκ» → «ἀπὸ».",
   "translationNote": "A expressão ἐν τῷ αἵματι αὐτοῦ é vertida como «por seu sangue»; o meio ou esfera requer análise contextual.",
   "words": [
     {

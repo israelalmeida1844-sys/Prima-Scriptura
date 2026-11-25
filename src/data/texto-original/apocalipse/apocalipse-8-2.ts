@@ -7,7 +7,7 @@ export const apocalipse8v2 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "E vi os sete anjos que estão diante de Deus, e lhes foram dadas sete trombetas.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἑστήκασιν» → «ἑστήκασι».",
   "syntacticNotes": [
     "οἳ introduz oração relativa; ἑστήκασιν é perfeito estativo; αὐτοῖς é dativo de destinatário.",
     "τοὺς ἑπτὰ ἀγγέλους é objeto de εἶδον; σάλπιγγες é sujeito de ἐδόθησαν."

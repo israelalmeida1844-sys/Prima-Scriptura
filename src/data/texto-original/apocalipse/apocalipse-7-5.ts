@@ -7,7 +7,7 @@ export const apocalipse7v5 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "da tribo de Judá, doze mil selados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil;",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμέναι RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «δώδεκα» → «ιβ»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες».",
   "syntacticNotes": [
     "ἐκ rege genitivo; δώδεκα χιλιάδες é expressão numeral; o particípio perfeito passivo explicita o estado de selados."
   ],

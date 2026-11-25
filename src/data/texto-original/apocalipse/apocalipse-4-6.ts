@@ -8,7 +8,7 @@ export const apocalipse4v6 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Diante do trono havia algo como um mar de vidro, semelhante a cristal. No meio do trono e ao seu redor havia quatro seres viventes, cheios de olhos pela frente e por trás.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ὡς».",
   "exegeticalNotes": [
     "O mar de vidro e os quatro seres viventes integram a cena celestial; «olhos à frente e atrás» sugere percepção abrangente, uma interpretação simbólica, não uma descrição zoológica.",
     "ὡς e ὁμοία marcam duas comparações: a visão descreve algo «como um mar vítreo, semelhante a cristal», sem determinar se se trata de água material.",

@@ -7,7 +7,7 @@ export const apocalipse8v12 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O quarto anjo tocou a trombeta, e foi atingido um terço do sol, da lua e das estrelas, para que um terço deles escurecesse e o dia não brilhasse durante um terço dele, e igualmente a noite.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "SBLGNT, WH, Treg e NA28 leem ἡ ἡμέρα μὴ φάνῃ τὸ τρίτον αὐτῆς; RP antepõe τὸ τρίτον αὐτῆς. A diferença é de ordem das palavras. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἡ ἡμέρα μὴ φάνῃ τὸ τρίτον αὐτῆς WH Treg NA28 ] τὸ τρίτον αὐτῆς ἡ ἡμέρα μὴ φάνῃ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐσάλπισεν» → «ἐσάλπισε»; «φάνῃ» → «φαίνῃ».",
   "syntacticNotes": [
     "ἐπλήγη é aoristo passivo; ἵνα σκοτισθῇ expressa finalidade ou resultado; φάνῃ é subjuntivo.",
     "A repetição de τὸ τρίτον delimita a extensão do golpe; em μὴ φάνῃ τὸ τρίτον αὐτῆς, o acusativo indica extensão temporal."

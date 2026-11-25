@@ -7,7 +7,7 @@ export const apocalipse8v9 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Morreu um terço das criaturas vivas do mar, e um terço dos navios foi destruído.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "SBLGNT, WH, Treg e NA28 incluem τῶν antes de ἐν τῇ θαλάσσῃ e leem διεφθάρησαν (plural); RP omite o artigo e lê διεφθάρη (singular). O plural acompanha semanticamente os navios; o singular concorda formalmente com τὸ τρίτον. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῶν WH Treg NA28 ] – RP; διεφθάρησαν WH Treg NA28 ] διεφθάρη RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «διεφθάρησαν» → «διεφθάρη».",
   "syntacticNotes": [
     "τὰ ἔχοντα ψυχάς caracteriza as criaturas; διεφθάρησαν é plural com referência aos navios.",
     "O singular ἀπέθανε concorda com τὸ τρίτον; o nominativo neutro plural τὰ ἔχοντα retoma semanticamente κτισμάτων, apesar do genitivo anterior."

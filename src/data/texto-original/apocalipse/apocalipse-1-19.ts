@@ -8,7 +8,7 @@ export const apocalipse1v19 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "\"Escreva, portanto, o que você viu, o que é e o que está para acontecer depois dessas coisas.\"",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "Scrivener (1894) omite οὖν, enquanto SBLGNT e Robinson–Pierpont mantêm γίνεσθαι; o aparato registra γενέσθαι na edição grega associada à NIV. O primeiro caso altera a conexão discursiva; o segundo, a apresentação aspectual do acontecer.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): γίνεσθαι WH Treg RP ] γενέσθαι NA28. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «οὖν»; «εἰσὶν» → «εἰσι».",
   "exegeticalNotes": [
     "O imperativo de escrever reitera a responsabilidade profética de João.",
     "A tríade temporal exige cautela antes de impor uma divisão rígida ao livro."

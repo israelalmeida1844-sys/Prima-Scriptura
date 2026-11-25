@@ -8,7 +8,7 @@ export const apocalipse3v21 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao vencedor concederei sentar-se comigo em meu trono, assim como eu também venci e me sentei com meu Pai no trono dele.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
     "A promessa de participação no trono utiliza linguagem régia e escatológica; comparar Ap 4–5 e 20–22. Não equivale, por si só, a uma declaração de igualdade ontológica com o Pai."
   ],

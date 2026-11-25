@@ -8,7 +8,7 @@ export const apocalipse2v19 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço tuas obras, teu amor, tua fé, teu serviço e tua perseverança, e sei que tuas últimas obras são mais numerosas que as primeiras.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἀγάπην καὶ τὴν πίστιν WH NA28 RP ] πίστιν καὶ τὴν ἀγάπην Treg. Cotejo lexical com o Textus Receptus de Scrivener (1894): «πίστιν» → «διακονίαν»; «διακονίαν» → «πίστιν»; acrescenta «καὶ» após «σου».",
   "exegeticalNotes": [
     "O elogio destaca progresso nas obras, em contraste com a acusação que segue.",
     "Fé e serviço coexistem com o problema de tolerância ao ensino descrito."

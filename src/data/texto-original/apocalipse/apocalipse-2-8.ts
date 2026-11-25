@@ -8,7 +8,7 @@ export const apocalipse2v8 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Esmirna escreve: Assim diz o Primeiro e o Último, que esteve morto e voltou a viver:",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῆς Treg NA28 RP ] τῷ WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ἐν Σμύρνῃ»; acrescenta «Σμυρναίων» após «ἐκκλησίας».",
   "exegeticalNotes": [
     "O Cristo que morreu e voltou a viver dirige-se à igreja de Esmirna.",
     "O título Primeiro e Último retoma Ap 1:17."

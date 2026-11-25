@@ -8,7 +8,7 @@ export const apocalipse4v2 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Imediatamente fui tomado pelo Espírito, e eis que havia um trono posto no céu, e alguém estava sentado sobre o trono.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εὐθέως WH Treg NA28 ] Καὶ εὐθέως RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ» no início; «τὸν θρόνον» → «τοῦ θρόνου».",
   "exegeticalNotes": [
     "A descrição do trono deve ser relacionada à visão de Ap 1:10 e às cenas de trono de Ez 1 e Is 6, distinguindo observação textual de identificação dos participantes.",
     "ἐγενόμην ἐν πνεύματι admite tradução mais literal «achei-me em espírito»; «fui tomado pelo Espírito» explicita uma interpretação do estado visionário, sem afirmar uma alteração física."

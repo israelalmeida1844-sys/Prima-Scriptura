@@ -8,7 +8,7 @@ export const apocalipse6v4 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E saiu outro cavalo, vermelho-fogo. Ao cavaleiro foi concedido retirar a paz da terra, para que matassem uns aos outros; e foi-lhe dada uma grande espada.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ WH Treg NA28 ] – RP; σφάξουσιν WH Treg NA28 ] σφάξωσιν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὐτὸν» → «αὐτῷ»; «ἐκ» → «ἀπὸ»; «σφάξουσιν» → «σφάξωσι».",
   "syntacticNotes": [
     "ἐδόθη ... λαβεῖν combina concessão passiva e infinitivo; ἵνα ἀλλήλους σφάξουσιν usa futuro indicativo após ἵνα, sem correção silenciosa."
   ],

@@ -1,0 +1,6204 @@
+{
+  "scope": "Ap 1:1–8:13",
+  "sourceCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "apparatusBlob": "231bdbe78cef3a64adbfa45be5837ee20838669f",
+  "trBlob": "156a97f178205f9b450f2d11583de59559ab62a6",
+  "verses": 143,
+  "tokens": 3381,
+  "corpusTokens": 137554,
+  "concordancesChecked": 534,
+  "chapterDetails": [
+    {
+      "chapter": 1,
+      "verses": 20,
+      "tokens": 469,
+      "genericFiches": 0
+    },
+    {
+      "chapter": 2,
+      "verses": 29,
+      "tokens": 621,
+      "genericFiches": 584
+    },
+    {
+      "chapter": 3,
+      "verses": 22,
+      "tokens": 525,
+      "genericFiches": 0
+    },
+    {
+      "chapter": 4,
+      "verses": 11,
+      "tokens": 293,
+      "genericFiches": 0
+    },
+    {
+      "chapter": 5,
+      "verses": 14,
+      "tokens": 339,
+      "genericFiches": 321
+    },
+    {
+      "chapter": 6,
+      "verses": 17,
+      "tokens": 417,
+      "genericFiches": 417
+    },
+    {
+      "chapter": 7,
+      "verses": 17,
+      "tokens": 398,
+      "genericFiches": 0
+    },
+    {
+      "chapter": 8,
+      "verses": 13,
+      "tokens": 319,
+      "genericFiches": 317
+    }
+  ],
+  "verseDetails": [
+    {
+      "reference": "Ap 1:1",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 1:2",
+      "tokens": 13,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 1:3",
+      "tokens": 20,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 1:4",
+      "tokens": 31,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 1:5",
+      "tokens": 33,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 1:6",
+      "tokens": 22,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 1:7",
+      "tokens": 25,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 1:8",
+      "tokens": 21,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 1:9",
+      "tokens": 32,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 4,
+      "trDifferences": 6
+    },
+    {
+      "reference": "Ap 1:10",
+      "tokens": 15,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 1:11",
+      "tokens": 31,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 1:12",
+      "tokens": 15,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 1:13",
+      "tokens": 17,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 1:14",
+      "tokens": 20,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 1:15",
+      "tokens": 18,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 1:16",
+      "tokens": 30,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 1:17",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 1:18",
+      "tokens": 24,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 1:19",
+      "tokens": 13,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 1:20",
+      "tokens": 33,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 5
+    },
+    {
+      "reference": "Ap 2:1",
+      "tokens": 27,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 2,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 2:2",
+      "tokens": 30,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 30,
+      "apparatusEntries": 2,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 2:3",
+      "tokens": 12,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 12,
+      "apparatusEntries": 1,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 2:4",
+      "tokens": 11,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 11,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:5",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 28,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:6",
+      "tokens": 12,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 12,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 2:7",
+      "tokens": 27,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 27,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 2:8",
+      "tokens": 20,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 20,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:9",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 26,
+      "apparatusEntries": 1,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 2:10",
+      "tokens": 32,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 32,
+      "apparatusEntries": 5,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:11",
+      "tokens": 20,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 20,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 2:12",
+      "tokens": 18,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 18,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 2:13",
+      "tokens": 38,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 38,
+      "apparatusEntries": 4,
+      "trDifferences": 5
+    },
+    {
+      "reference": "Ap 2:14",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 26,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:15",
+      "tokens": 9,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 9,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:16",
+      "tokens": 18,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 18,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 2:17",
+      "tokens": 37,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 35,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:18",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 28,
+      "apparatusEntries": 1,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 2:19",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 26,
+      "apparatusEntries": 1,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 2:20",
+      "tokens": 24,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 24,
+      "apparatusEntries": 2,
+      "trDifferences": 8
+    },
+    {
+      "reference": "Ap 2:21",
+      "tokens": 14,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 14,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:22",
+      "tokens": 20,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 20,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 2:23",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 28,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 2:24",
+      "tokens": 29,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 29,
+      "apparatusEntries": 0,
+      "trDifferences": 5
+    },
+    {
+      "reference": "Ap 2:25",
+      "tokens": 8,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 8,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 2:26",
+      "tokens": 17,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 17,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 2:27",
+      "tokens": 12,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 12,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 2:28",
+      "tokens": 14,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 14,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 2:29",
+      "tokens": 10,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 3:1",
+      "tokens": 33,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:2",
+      "tokens": 20,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 3:3",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:4",
+      "tokens": 21,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 3:5",
+      "tokens": 33,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 3:6",
+      "tokens": 10,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 3:7",
+      "tokens": 29,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 3,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 3:8",
+      "tokens": 30,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:9",
+      "tokens": 34,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 3,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 3:10",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 3:11",
+      "tokens": 11,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:12",
+      "tokens": 52,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:13",
+      "tokens": 10,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 3:14",
+      "tokens": 24,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 3:15",
+      "tokens": 15,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:16",
+      "tokens": 16,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 3:17",
+      "tokens": 27,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 3,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:18",
+      "tokens": 32,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:19",
+      "tokens": 11,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:20",
+      "tokens": 29,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 3:21",
+      "tokens": 24,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 3:22",
+      "tokens": 10,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 4:1",
+      "tokens": 33,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 4:2",
+      "tokens": 16,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 4:3",
+      "tokens": 17,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 4:4",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 3,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 4:5",
+      "tokens": 25,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 4:6",
+      "tokens": 25,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 4:7",
+      "tokens": 29,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 4:8",
+      "tokens": 41,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 3,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 4:9",
+      "tokens": 22,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 4:10",
+      "tokens": 29,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 4:11",
+      "tokens": 30,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 5:1",
+      "tokens": 18,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 18,
+      "apparatusEntries": 1,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 5:2",
+      "tokens": 18,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 5:3",
+      "tokens": 20,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 20,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 5:4",
+      "tokens": 14,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 14,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 5:5",
+      "tokens": 29,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 29,
+      "apparatusEntries": 1,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 5:6",
+      "tokens": 37,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 37,
+      "apparatusEntries": 4,
+      "trDifferences": 5
+    },
+    {
+      "reference": "Ap 5:7",
+      "tokens": 12,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 12,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 5:8",
+      "tokens": 31,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 31,
+      "apparatusEntries": 1,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 5:9",
+      "tokens": 34,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 34,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 5:10",
+      "tokens": 14,
+      "corpusDiscrepancies": 1,
+      "glossPunctuation": 0,
+      "genericFiches": 14,
+      "apparatusEntries": 2,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 5:11",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 26,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 5:12",
+      "tokens": 24,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 24,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 5:13",
+      "tokens": 50,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 50,
+      "apparatusEntries": 4,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 5:14",
+      "tokens": 12,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 12,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 6:1",
+      "tokens": 23,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 23,
+      "apparatusEntries": 2,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 6:2",
+      "tokens": 23,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 23,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 6:3",
+      "tokens": 13,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 13,
+      "apparatusEntries": 1,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 6:4",
+      "tokens": 27,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 27,
+      "apparatusEntries": 2,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 6:5",
+      "tokens": 30,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 30,
+      "apparatusEntries": 1,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 6:6",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 26,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 6:7",
+      "tokens": 14,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 14,
+      "apparatusEntries": 2,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 6:8",
+      "tokens": 45,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 45,
+      "apparatusEntries": 3,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 6:9",
+      "tokens": 25,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 25,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 6:10",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 26,
+      "apparatusEntries": 0,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 6:11",
+      "tokens": 30,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 30,
+      "apparatusEntries": 5,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 6:12",
+      "tokens": 27,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 27,
+      "apparatusEntries": 1,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 6:13",
+      "tokens": 19,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 19,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 6:14",
+      "tokens": 17,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 17,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 6:15",
+      "tokens": 33,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 33,
+      "apparatusEntries": 0,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 6:16",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 26,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 6:17",
+      "tokens": 13,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 13,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 7:1",
+      "tokens": 33,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 7:2",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 7:3",
+      "tokens": 22,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 7:4",
+      "tokens": 16,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 7:5",
+      "tokens": 16,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 5
+    },
+    {
+      "reference": "Ap 7:6",
+      "tokens": 15,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 6
+    },
+    {
+      "reference": "Ap 7:7",
+      "tokens": 15,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 6
+    },
+    {
+      "reference": "Ap 7:8",
+      "tokens": 16,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 5
+    },
+    {
+      "reference": "Ap 7:9",
+      "tokens": 38,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 3,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 7:10",
+      "tokens": 18,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 7:11",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 7:12",
+      "tokens": 31,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 7:13",
+      "tokens": 20,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 7:14",
+      "tokens": 32,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 7:15",
+      "tokens": 27,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 7:16",
+      "tokens": 16,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 1,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 7:17",
+      "tokens": 27,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 0,
+      "apparatusEntries": 2,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 8:1",
+      "tokens": 14,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 14,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 8:2",
+      "tokens": 15,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 15,
+      "apparatusEntries": 0,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 8:3",
+      "tokens": 33,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 33,
+      "apparatusEntries": 1,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 8:4",
+      "tokens": 17,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 17,
+      "apparatusEntries": 0,
+      "trDifferences": 0
+    },
+    {
+      "reference": "Ap 8:5",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 28,
+      "apparatusEntries": 0,
+      "trDifferences": 4
+    },
+    {
+      "reference": "Ap 8:6",
+      "tokens": 13,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 13,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 8:7",
+      "tokens": 34,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 34,
+      "apparatusEntries": 0,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 8:8",
+      "tokens": 22,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 22,
+      "apparatusEntries": 1,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 8:9",
+      "tokens": 19,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 19,
+      "apparatusEntries": 2,
+      "trDifferences": 1
+    },
+    {
+      "reference": "Ap 8:10",
+      "tokens": 28,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 28,
+      "apparatusEntries": 0,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 8:11",
+      "tokens": 26,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 24,
+      "apparatusEntries": 1,
+      "trDifferences": 3
+    },
+    {
+      "reference": "Ap 8:12",
+      "tokens": 38,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 38,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    },
+    {
+      "reference": "Ap 8:13",
+      "tokens": 32,
+      "corpusDiscrepancies": 0,
+      "glossPunctuation": 0,
+      "genericFiches": 32,
+      "apparatusEntries": 1,
+      "trDifferences": 2
+    }
+  ],
+  "concordanceDetails": [
+    {
+      "strong": "G1",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "Ἄλφα"
+      ]
+    },
+    {
+      "strong": "G25",
+      "tokens": 143,
+      "verses": 110,
+      "matches": true,
+      "lemmas": [
+        "ἀγαπάω"
+      ]
+    },
+    {
+      "strong": "G26",
+      "tokens": 116,
+      "verses": 106,
+      "matches": true,
+      "lemmas": [
+        "ἀγάπη"
+      ]
+    },
+    {
+      "strong": "G32",
+      "tokens": 175,
+      "verses": 171,
+      "matches": true,
+      "lemmas": [
+        "ἄγγελος"
+      ]
+    },
+    {
+      "strong": "G40",
+      "tokens": 233,
+      "verses": 221,
+      "matches": true,
+      "lemmas": [
+        "ἅγιος"
+      ]
+    },
+    {
+      "strong": "G59",
+      "tokens": 30,
+      "verses": 30,
+      "matches": true,
+      "lemmas": [
+        "ἀγοράζω"
+      ]
+    },
+    {
+      "strong": "G80",
+      "tokens": 342,
+      "verses": 316,
+      "matches": true,
+      "lemmas": [
+        "ἀδελφός"
+      ]
+    },
+    {
+      "strong": "G86",
+      "tokens": 10,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "ᾅδης"
+      ]
+    },
+    {
+      "strong": "G91",
+      "tokens": 28,
+      "verses": 24,
+      "matches": true,
+      "lemmas": [
+        "ἀδικέω"
+      ]
+    },
+    {
+      "strong": "G103",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "ᾄδω"
+      ]
+    },
+    {
+      "strong": "G105",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "ἀετός"
+      ]
+    },
+    {
+      "strong": "G129",
+      "tokens": 97,
+      "verses": 90,
+      "matches": true,
+      "lemmas": [
+        "αἷμα"
+      ]
+    },
+    {
+      "strong": "G152",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "αἰσχύνη"
+      ]
+    },
+    {
+      "strong": "G165",
+      "tokens": 122,
+      "verses": 97,
+      "matches": true,
+      "lemmas": [
+        "αἰών"
+      ]
+    },
+    {
+      "strong": "G190",
+      "tokens": 89,
+      "verses": 86,
+      "matches": true,
+      "lemmas": [
+        "ἀκολουθέω"
+      ]
+    },
+    {
+      "strong": "G191",
+      "tokens": 427,
+      "verses": 397,
+      "matches": true,
+      "lemmas": [
+        "ἀκούω"
+      ]
+    },
+    {
+      "strong": "G228",
+      "tokens": 28,
+      "verses": 26,
+      "matches": true,
+      "lemmas": [
+        "ἀληθινός"
+      ]
+    },
+    {
+      "strong": "G235",
+      "tokens": 638,
+      "verses": 603,
+      "matches": true,
+      "lemmas": [
+        "ἀλλά"
+      ]
+    },
+    {
+      "strong": "G240",
+      "tokens": 100,
+      "verses": 94,
+      "matches": true,
+      "lemmas": [
+        "ἀλλήλων"
+      ]
+    },
+    {
+      "strong": "G243",
+      "tokens": 154,
+      "verses": 136,
+      "matches": true,
+      "lemmas": [
+        "ἄλλος"
+      ]
+    },
+    {
+      "strong": "G266",
+      "tokens": 172,
+      "verses": 149,
+      "matches": true,
+      "lemmas": [
+        "ἁμαρτία"
+      ]
+    },
+    {
+      "strong": "G281",
+      "tokens": 128,
+      "verses": 102,
+      "matches": true,
+      "lemmas": [
+        "ἀμήν"
+      ]
+    },
+    {
+      "strong": "G302",
+      "tokens": 171,
+      "verses": 155,
+      "matches": true,
+      "lemmas": [
+        "ἄν"
+      ]
+    },
+    {
+      "strong": "G303",
+      "tokens": 13,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "ἀνά"
+      ]
+    },
+    {
+      "strong": "G305",
+      "tokens": 81,
+      "verses": 77,
+      "matches": true,
+      "lemmas": [
+        "ἀναβαίνω"
+      ]
+    },
+    {
+      "strong": "G314",
+      "tokens": 32,
+      "verses": 29,
+      "matches": true,
+      "lemmas": [
+        "ἀναγινώσκω"
+      ]
+    },
+    {
+      "strong": "G372",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "ἀνάπαυσις"
+      ]
+    },
+    {
+      "strong": "G373",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "ἀναπαύω"
+      ]
+    },
+    {
+      "strong": "G395",
+      "tokens": 11,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "ἀνατολή"
+      ]
+    },
+    {
+      "strong": "G417",
+      "tokens": 31,
+      "verses": 29,
+      "matches": true,
+      "lemmas": [
+        "ἄνεμος"
+      ]
+    },
+    {
+      "strong": "G444",
+      "tokens": 550,
+      "verses": 497,
+      "matches": true,
+      "lemmas": [
+        "ἄνθρωπος"
+      ]
+    },
+    {
+      "strong": "G455",
+      "tokens": 77,
+      "verses": 75,
+      "matches": true,
+      "lemmas": [
+        "ἀνοίγω"
+      ]
+    },
+    {
+      "strong": "G493",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "Ἀντιπᾶς"
+      ]
+    },
+    {
+      "strong": "G514",
+      "tokens": 41,
+      "verses": 39,
+      "matches": true,
+      "lemmas": [
+        "ἄξιος"
+      ]
+    },
+    {
+      "strong": "G575",
+      "tokens": 644,
+      "verses": 589,
+      "matches": true,
+      "lemmas": [
+        "ἀπό"
+      ]
+    },
+    {
+      "strong": "G599",
+      "tokens": 111,
+      "verses": 100,
+      "matches": true,
+      "lemmas": [
+        "ἀποθνῄσκω"
+      ]
+    },
+    {
+      "strong": "G602",
+      "tokens": 17,
+      "verses": 17,
+      "matches": true,
+      "lemmas": [
+        "ἀποκάλυψις"
+      ]
+    },
+    {
+      "strong": "G611",
+      "tokens": 232,
+      "verses": 232,
+      "matches": true,
+      "lemmas": [
+        "ἀποκρίνομαι"
+      ]
+    },
+    {
+      "strong": "G615",
+      "tokens": 74,
+      "verses": 70,
+      "matches": true,
+      "lemmas": [
+        "ἀποκτείνω"
+      ]
+    },
+    {
+      "strong": "G649",
+      "tokens": 132,
+      "verses": 130,
+      "matches": true,
+      "lemmas": [
+        "ἀποστέλλω"
+      ]
+    },
+    {
+      "strong": "G652",
+      "tokens": 79,
+      "verses": 78,
+      "matches": true,
+      "lemmas": [
+        "ἀπόστολος"
+      ]
+    },
+    {
+      "strong": "G673",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ἀποχωρίζομαι"
+      ]
+    },
+    {
+      "strong": "G705",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "ἀριθμέω"
+      ]
+    },
+    {
+      "strong": "G706",
+      "tokens": 18,
+      "verses": 15,
+      "matches": true,
+      "lemmas": [
+        "ἀριθμός"
+      ]
+    },
+    {
+      "strong": "G720",
+      "tokens": 33,
+      "verses": 30,
+      "matches": true,
+      "lemmas": [
+        "ἀρνέομαι"
+      ]
+    },
+    {
+      "strong": "G721",
+      "tokens": 30,
+      "verses": 28,
+      "matches": true,
+      "lemmas": [
+        "ἀρνίον"
+      ]
+    },
+    {
+      "strong": "G746",
+      "tokens": 55,
+      "verses": 54,
+      "matches": true,
+      "lemmas": [
+        "ἀρχή"
+      ]
+    },
+    {
+      "strong": "G758",
+      "tokens": 37,
+      "verses": 36,
+      "matches": true,
+      "lemmas": [
+        "ἄρχων"
+      ]
+    },
+    {
+      "strong": "G768",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "Ἀσήρ"
+      ]
+    },
+    {
+      "strong": "G773",
+      "tokens": 18,
+      "verses": 18,
+      "matches": true,
+      "lemmas": [
+        "Ἀσία"
+      ]
+    },
+    {
+      "strong": "G792",
+      "tokens": 24,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "ἀστήρ"
+      ]
+    },
+    {
+      "strong": "G796",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "ἀστραπή"
+      ]
+    },
+    {
+      "strong": "G846",
+      "tokens": 5546,
+      "verses": 3705,
+      "matches": true,
+      "lemmas": [
+        "αὐτός"
+      ]
+    },
+    {
+      "strong": "G863",
+      "tokens": 143,
+      "verses": 131,
+      "matches": true,
+      "lemmas": [
+        "ἀφίημι"
+      ]
+    },
+    {
+      "strong": "G891",
+      "tokens": 47,
+      "verses": 47,
+      "matches": true,
+      "lemmas": [
+        "ἄχρι"
+      ]
+    },
+    {
+      "strong": "G894",
+      "tokens": 2,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "ἄψινθος",
+        "Ἄψινθος"
+      ]
+    },
+    {
+      "strong": "G901",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "βαθύς"
+      ]
+    },
+    {
+      "strong": "G903",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "Βαλαάμ"
+      ]
+    },
+    {
+      "strong": "G904",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "Βαλάκ"
+      ]
+    },
+    {
+      "strong": "G906",
+      "tokens": 121,
+      "verses": 105,
+      "matches": true,
+      "lemmas": [
+        "βάλλω"
+      ]
+    },
+    {
+      "strong": "G922",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "βάρος"
+      ]
+    },
+    {
+      "strong": "G932",
+      "tokens": 162,
+      "verses": 154,
+      "matches": true,
+      "lemmas": [
+        "βασιλεία"
+      ]
+    },
+    {
+      "strong": "G935",
+      "tokens": 115,
+      "verses": 105,
+      "matches": true,
+      "lemmas": [
+        "βασιλεύς"
+      ]
+    },
+    {
+      "strong": "G936",
+      "tokens": 21,
+      "verses": 18,
+      "matches": true,
+      "lemmas": [
+        "βασιλεύω"
+      ]
+    },
+    {
+      "strong": "G941",
+      "tokens": 27,
+      "verses": 27,
+      "matches": true,
+      "lemmas": [
+        "βαστάζω"
+      ]
+    },
+    {
+      "strong": "G958",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "Βενιαμίν"
+      ]
+    },
+    {
+      "strong": "G975",
+      "tokens": 34,
+      "verses": 29,
+      "matches": true,
+      "lemmas": [
+        "βιβλίον"
+      ]
+    },
+    {
+      "strong": "G976",
+      "tokens": 10,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "βίβλος"
+      ]
+    },
+    {
+      "strong": "G988",
+      "tokens": 18,
+      "verses": 17,
+      "matches": true,
+      "lemmas": [
+        "βλασφημία"
+      ]
+    },
+    {
+      "strong": "G991",
+      "tokens": 133,
+      "verses": 117,
+      "matches": true,
+      "lemmas": [
+        "βλέπω"
+      ]
+    },
+    {
+      "strong": "G1027",
+      "tokens": 12,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "βροντή"
+      ]
+    },
+    {
+      "strong": "G1045",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "Γάδ"
+      ]
+    },
+    {
+      "strong": "G1063",
+      "tokens": 1039,
+      "verses": 987,
+      "matches": true,
+      "lemmas": [
+        "γάρ"
+      ]
+    },
+    {
+      "strong": "G1072",
+      "tokens": 9,
+      "verses": 8,
+      "matches": true,
+      "lemmas": [
+        "γεμίζω"
+      ]
+    },
+    {
+      "strong": "G1073",
+      "tokens": 11,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "γέμω"
+      ]
+    },
+    {
+      "strong": "G1093",
+      "tokens": 248,
+      "verses": 221,
+      "matches": true,
+      "lemmas": [
+        "γῆ"
+      ]
+    },
+    {
+      "strong": "G1096",
+      "tokens": 667,
+      "verses": 625,
+      "matches": true,
+      "lemmas": [
+        "γίνομαι"
+      ]
+    },
+    {
+      "strong": "G1097",
+      "tokens": 221,
+      "verses": 205,
+      "matches": true,
+      "lemmas": [
+        "γινώσκω"
+      ]
+    },
+    {
+      "strong": "G1100",
+      "tokens": 50,
+      "verses": 47,
+      "matches": true,
+      "lemmas": [
+        "γλῶσσα"
+      ]
+    },
+    {
+      "strong": "G1125",
+      "tokens": 190,
+      "verses": 179,
+      "matches": true,
+      "lemmas": [
+        "γράφω"
+      ]
+    },
+    {
+      "strong": "G1127",
+      "tokens": 22,
+      "verses": 22,
+      "matches": true,
+      "lemmas": [
+        "γρηγορέω"
+      ]
+    },
+    {
+      "strong": "G1131",
+      "tokens": 15,
+      "verses": 15,
+      "matches": true,
+      "lemmas": [
+        "γυμνός"
+      ]
+    },
+    {
+      "strong": "G1132",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "γυμνότης"
+      ]
+    },
+    {
+      "strong": "G1135",
+      "tokens": 212,
+      "verses": 191,
+      "matches": true,
+      "lemmas": [
+        "γυνή"
+      ]
+    },
+    {
+      "strong": "G1137",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "γωνία"
+      ]
+    },
+    {
+      "strong": "G1138",
+      "tokens": 59,
+      "verses": 54,
+      "matches": true,
+      "lemmas": [
+        "Δαυίδ"
+      ]
+    },
+    {
+      "strong": "G1144",
+      "tokens": 10,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "δάκρυον"
+      ]
+    },
+    {
+      "strong": "G1161",
+      "tokens": 2766,
+      "verses": 2461,
+      "matches": true,
+      "lemmas": [
+        "δέ"
+      ]
+    },
+    {
+      "strong": "G1163",
+      "tokens": 101,
+      "verses": 100,
+      "matches": true,
+      "lemmas": [
+        "δέω",
+        "δεῖ"
+      ]
+    },
+    {
+      "strong": "G1166",
+      "tokens": 33,
+      "verses": 31,
+      "matches": true,
+      "lemmas": [
+        "δείκνυμι"
+      ]
+    },
+    {
+      "strong": "G1172",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "δειπνέω"
+      ]
+    },
+    {
+      "strong": "G1176",
+      "tokens": 25,
+      "verses": 22,
+      "matches": true,
+      "lemmas": [
+        "δέκα"
+      ]
+    },
+    {
+      "strong": "G1186",
+      "tokens": 25,
+      "verses": 18,
+      "matches": true,
+      "lemmas": [
+        "δένδρον"
+      ]
+    },
+    {
+      "strong": "G1188",
+      "tokens": 54,
+      "verses": 54,
+      "matches": true,
+      "lemmas": [
+        "δεξιός"
+      ]
+    },
+    {
+      "strong": "G1203",
+      "tokens": 10,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "δεσπότης"
+      ]
+    },
+    {
+      "strong": "G1208",
+      "tokens": 44,
+      "verses": 43,
+      "matches": true,
+      "lemmas": [
+        "δεύτερος"
+      ]
+    },
+    {
+      "strong": "G1220",
+      "tokens": 16,
+      "verses": 15,
+      "matches": true,
+      "lemmas": [
+        "δηνάριον"
+      ]
+    },
+    {
+      "strong": "G1223",
+      "tokens": 666,
+      "verses": 599,
+      "matches": true,
+      "lemmas": [
+        "διά"
+      ]
+    },
+    {
+      "strong": "G1228",
+      "tokens": 35,
+      "verses": 33,
+      "matches": false,
+      "lemmas": [
+        "διάβολος"
+      ]
+    },
+    {
+      "strong": "G1248",
+      "tokens": 34,
+      "verses": 32,
+      "matches": true,
+      "lemmas": [
+        "διακονία"
+      ]
+    },
+    {
+      "strong": "G1311",
+      "tokens": 6,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "διαφθείρω"
+      ]
+    },
+    {
+      "strong": "G1321",
+      "tokens": 96,
+      "verses": 90,
+      "matches": true,
+      "lemmas": [
+        "διδάσκω"
+      ]
+    },
+    {
+      "strong": "G1322",
+      "tokens": 30,
+      "verses": 29,
+      "matches": true,
+      "lemmas": [
+        "διδαχή"
+      ]
+    },
+    {
+      "strong": "G1325",
+      "tokens": 415,
+      "verses": 378,
+      "matches": true,
+      "lemmas": [
+        "δίδωμι"
+      ]
+    },
+    {
+      "strong": "G1366",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "δίστομος"
+      ]
+    },
+    {
+      "strong": "G1372",
+      "tokens": 16,
+      "verses": 16,
+      "matches": true,
+      "lemmas": [
+        "διψάω"
+      ]
+    },
+    {
+      "strong": "G1391",
+      "tokens": 165,
+      "verses": 148,
+      "matches": true,
+      "lemmas": [
+        "δόξα"
+      ]
+    },
+    {
+      "strong": "G1401",
+      "tokens": 126,
+      "verses": 118,
+      "matches": true,
+      "lemmas": [
+        "δοῦλος"
+      ]
+    },
+    {
+      "strong": "G1410",
+      "tokens": 209,
+      "verses": 200,
+      "matches": true,
+      "lemmas": [
+        "δύναμαι"
+      ]
+    },
+    {
+      "strong": "G1411",
+      "tokens": 119,
+      "verses": 115,
+      "matches": true,
+      "lemmas": [
+        "δύναμις"
+      ]
+    },
+    {
+      "strong": "G1427",
+      "tokens": 75,
+      "verses": 61,
+      "matches": true,
+      "lemmas": [
+        "δώδεκα"
+      ]
+    },
+    {
+      "strong": "G1437",
+      "tokens": 331,
+      "verses": 304,
+      "matches": true,
+      "lemmas": [
+        "ἐάν"
+      ]
+    },
+    {
+      "strong": "G1438",
+      "tokens": 333,
+      "verses": 308,
+      "matches": true,
+      "lemmas": [
+        "ἑαυτοῦ"
+      ]
+    },
+    {
+      "strong": "G1442",
+      "tokens": 9,
+      "verses": 8,
+      "matches": true,
+      "lemmas": [
+        "ἕβδομος"
+      ]
+    },
+    {
+      "strong": "G1451",
+      "tokens": 30,
+      "verses": 30,
+      "matches": true,
+      "lemmas": [
+        "ἐγγύς"
+      ]
+    },
+    {
+      "strong": "G1472",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "ἐγχρίω"
+      ]
+    },
+    {
+      "strong": "G1473",
+      "tokens": 2572,
+      "verses": 1826,
+      "matches": true,
+      "lemmas": [
+        "ἐγώ"
+      ]
+    },
+    {
+      "strong": "G1484",
+      "tokens": 160,
+      "verses": 148,
+      "matches": true,
+      "lemmas": [
+        "ἔθνος"
+      ]
+    },
+    {
+      "strong": "G1487",
+      "tokens": 502,
+      "verses": 460,
+      "matches": true,
+      "lemmas": [
+        "εἰ"
+      ]
+    },
+    {
+      "strong": "G1492",
+      "tokens": 296,
+      "verses": 272,
+      "matches": true,
+      "lemmas": [
+        "οἶδα"
+      ]
+    },
+    {
+      "strong": "G1494",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "εἰδωλόθυτον"
+      ]
+    },
+    {
+      "strong": "G1501",
+      "tokens": 11,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "εἴκοσι(ν)"
+      ]
+    },
+    {
+      "strong": "G1510",
+      "tokens": 2456,
+      "verses": 2094,
+      "matches": true,
+      "lemmas": [
+        "εἰμί"
+      ]
+    },
+    {
+      "strong": "G1515",
+      "tokens": 91,
+      "verses": 84,
+      "matches": true,
+      "lemmas": [
+        "εἰρήνη"
+      ]
+    },
+    {
+      "strong": "G1519",
+      "tokens": 1754,
+      "verses": 1500,
+      "matches": true,
+      "lemmas": [
+        "εἰς"
+      ]
+    },
+    {
+      "strong": "G1520",
+      "tokens": 342,
+      "verses": 287,
+      "matches": true,
+      "lemmas": [
+        "εἷς"
+      ]
+    },
+    {
+      "strong": "G1525",
+      "tokens": 193,
+      "verses": 183,
+      "matches": true,
+      "lemmas": [
+        "εἰσέρχομαι"
+      ]
+    },
+    {
+      "strong": "G1537",
+      "tokens": 913,
+      "verses": 758,
+      "matches": true,
+      "lemmas": [
+        "ἐκ"
+      ]
+    },
+    {
+      "strong": "G1538",
+      "tokens": 81,
+      "verses": 76,
+      "matches": true,
+      "lemmas": [
+        "ἕκαστος"
+      ]
+    },
+    {
+      "strong": "G1540",
+      "tokens": 17,
+      "verses": 17,
+      "matches": true,
+      "lemmas": [
+        "ἑκατόν"
+      ]
+    },
+    {
+      "strong": "G1556",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "ἐκδικέω"
+      ]
+    },
+    {
+      "strong": "G1563",
+      "tokens": 95,
+      "verses": 94,
+      "matches": true,
+      "lemmas": [
+        "ἐκεῖ"
+      ]
+    },
+    {
+      "strong": "G1574",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ἐκκεντέω"
+      ]
+    },
+    {
+      "strong": "G1577",
+      "tokens": 114,
+      "verses": 111,
+      "matches": true,
+      "lemmas": [
+        "ἐκκλησία"
+      ]
+    },
+    {
+      "strong": "G1607",
+      "tokens": 33,
+      "verses": 33,
+      "matches": true,
+      "lemmas": [
+        "ἐκπορεύομαι"
+      ]
+    },
+    {
+      "strong": "G1623",
+      "tokens": 14,
+      "verses": 14,
+      "matches": true,
+      "lemmas": [
+        "ἕκτος"
+      ]
+    },
+    {
+      "strong": "G1637",
+      "tokens": 11,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "ἔλαιον"
+      ]
+    },
+    {
+      "strong": "G1651",
+      "tokens": 17,
+      "verses": 17,
+      "matches": true,
+      "lemmas": [
+        "ἐλέγχω"
+      ]
+    },
+    {
+      "strong": "G1652",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ἐλεεινός"
+      ]
+    },
+    {
+      "strong": "G1658",
+      "tokens": 23,
+      "verses": 23,
+      "matches": true,
+      "lemmas": [
+        "ἐλεύθερος"
+      ]
+    },
+    {
+      "strong": "G1667",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ἑλίσσω"
+      ]
+    },
+    {
+      "strong": "G1692",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "ἐμέω"
+      ]
+    },
+    {
+      "strong": "G1699",
+      "tokens": 76,
+      "verses": 66,
+      "matches": true,
+      "lemmas": [
+        "ἐμός"
+      ]
+    },
+    {
+      "strong": "G1715",
+      "tokens": 48,
+      "verses": 45,
+      "matches": true,
+      "lemmas": [
+        "ἔμπροσθεν"
+      ]
+    },
+    {
+      "strong": "G1722",
+      "tokens": 2733,
+      "verses": 2100,
+      "matches": true,
+      "lemmas": [
+        "ἐν"
+      ]
+    },
+    {
+      "strong": "G1746",
+      "tokens": 28,
+      "verses": 26,
+      "matches": true,
+      "lemmas": [
+        "ἐνδύω"
+      ]
+    },
+    {
+      "strong": "G1799",
+      "tokens": 94,
+      "verses": 86,
+      "matches": true,
+      "lemmas": [
+        "ἐνώπιον"
+      ]
+    },
+    {
+      "strong": "G1803",
+      "tokens": 13,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "ἕξ"
+      ]
+    },
+    {
+      "strong": "G1813",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "ἐξαλείφω"
+      ]
+    },
+    {
+      "strong": "G1831",
+      "tokens": 216,
+      "verses": 210,
+      "matches": true,
+      "lemmas": [
+        "ἐξέρχομαι"
+      ]
+    },
+    {
+      "strong": "G1849",
+      "tokens": 102,
+      "verses": 93,
+      "matches": true,
+      "lemmas": [
+        "ἐξουσία"
+      ]
+    },
+    {
+      "strong": "G1854",
+      "tokens": 62,
+      "verses": 61,
+      "matches": true,
+      "lemmas": [
+        "ἔξω"
+      ]
+    },
+    {
+      "strong": "G1883",
+      "tokens": 19,
+      "verses": 18,
+      "matches": true,
+      "lemmas": [
+        "ἐπάνω"
+      ]
+    },
+    {
+      "strong": "G1909",
+      "tokens": 885,
+      "verses": 779,
+      "matches": true,
+      "lemmas": [
+        "ἐπί"
+      ]
+    },
+    {
+      "strong": "G1994",
+      "tokens": 36,
+      "verses": 35,
+      "matches": true,
+      "lemmas": [
+        "ἐπιστρέφω"
+      ]
+    },
+    {
+      "strong": "G2033",
+      "tokens": 88,
+      "verses": 62,
+      "matches": true,
+      "lemmas": [
+        "ἑπτά"
+      ]
+    },
+    {
+      "strong": "G2041",
+      "tokens": 169,
+      "verses": 157,
+      "matches": true,
+      "lemmas": [
+        "ἔργον"
+      ]
+    },
+    {
+      "strong": "G2045",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "ἐραυνάω"
+      ]
+    },
+    {
+      "strong": "G2053",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ἔριον"
+      ]
+    },
+    {
+      "strong": "G2064",
+      "tokens": 631,
+      "verses": 595,
+      "matches": true,
+      "lemmas": [
+        "ἔρχομαι"
+      ]
+    },
+    {
+      "strong": "G2068",
+      "tokens": 157,
+      "verses": 138,
+      "matches": true,
+      "lemmas": [
+        "ἐσθίω"
+      ]
+    },
+    {
+      "strong": "G2078",
+      "tokens": 52,
+      "verses": 47,
+      "matches": true,
+      "lemmas": [
+        "ἔσχατος"
+      ]
+    },
+    {
+      "strong": "G2081",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "ἔσωθεν"
+      ]
+    },
+    {
+      "strong": "G2089",
+      "tokens": 93,
+      "verses": 82,
+      "matches": true,
+      "lemmas": [
+        "ἔτι"
+      ]
+    },
+    {
+      "strong": "G2090",
+      "tokens": 40,
+      "verses": 40,
+      "matches": true,
+      "lemmas": [
+        "ἑτοιμάζω"
+      ]
+    },
+    {
+      "strong": "G2112",
+      "tokens": 35,
+      "verses": 35,
+      "matches": true,
+      "lemmas": [
+        "εὐθέως"
+      ]
+    },
+    {
+      "strong": "G2129",
+      "tokens": 16,
+      "verses": 14,
+      "matches": true,
+      "lemmas": [
+        "εὐλογία"
+      ]
+    },
+    {
+      "strong": "G2147",
+      "tokens": 176,
+      "verses": 167,
+      "matches": true,
+      "lemmas": [
+        "εὑρίσκω"
+      ]
+    },
+    {
+      "strong": "G2169",
+      "tokens": 15,
+      "verses": 15,
+      "matches": true,
+      "lemmas": [
+        "εὐχαριστία"
+      ]
+    },
+    {
+      "strong": "G2181",
+      "tokens": 16,
+      "verses": 16,
+      "matches": true,
+      "lemmas": [
+        "Ἔφεσος"
+      ]
+    },
+    {
+      "strong": "G2192",
+      "tokens": 706,
+      "verses": 624,
+      "matches": true,
+      "lemmas": [
+        "ἔχω"
+      ]
+    },
+    {
+      "strong": "G2193",
+      "tokens": 145,
+      "verses": 136,
+      "matches": true,
+      "lemmas": [
+        "ἕως"
+      ]
+    },
+    {
+      "strong": "G2194",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "Ζαβουλών"
+      ]
+    },
+    {
+      "strong": "G2198",
+      "tokens": 140,
+      "verses": 124,
+      "matches": true,
+      "lemmas": [
+        "ζάω"
+      ]
+    },
+    {
+      "strong": "G2200",
+      "tokens": 3,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ζεστός"
+      ]
+    },
+    {
+      "strong": "G2206",
+      "tokens": 1,
+      "verses": 1,
+      "matches": false,
+      "lemmas": [
+        "ζηλεύω"
+      ]
+    },
+    {
+      "strong": "G2218",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "ζυγός"
+      ]
+    },
+    {
+      "strong": "G2222",
+      "tokens": 135,
+      "verses": 127,
+      "matches": true,
+      "lemmas": [
+        "ζωή"
+      ]
+    },
+    {
+      "strong": "G2223",
+      "tokens": 8,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "ζώνη"
+      ]
+    },
+    {
+      "strong": "G2226",
+      "tokens": 23,
+      "verses": 20,
+      "matches": true,
+      "lemmas": [
+        "ζῷον"
+      ]
+    },
+    {
+      "strong": "G2228",
+      "tokens": 346,
+      "verses": 275,
+      "matches": true,
+      "lemmas": [
+        "ἤ"
+      ]
+    },
+    {
+      "strong": "G2240",
+      "tokens": 27,
+      "verses": 26,
+      "matches": true,
+      "lemmas": [
+        "ἥκω"
+      ]
+    },
+    {
+      "strong": "G2246",
+      "tokens": 32,
+      "verses": 32,
+      "matches": true,
+      "lemmas": [
+        "ἥλιος"
+      ]
+    },
+    {
+      "strong": "G2250",
+      "tokens": 389,
+      "verses": 368,
+      "matches": true,
+      "lemmas": [
+        "ἡμέρα"
+      ]
+    },
+    {
+      "strong": "G2256",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "ἡμιώριον"
+      ]
+    },
+    {
+      "strong": "G2281",
+      "tokens": 90,
+      "verses": 82,
+      "matches": true,
+      "lemmas": [
+        "θάλασσα"
+      ]
+    },
+    {
+      "strong": "G2288",
+      "tokens": 120,
+      "verses": 106,
+      "matches": true,
+      "lemmas": [
+        "θάνατος"
+      ]
+    },
+    {
+      "strong": "G2307",
+      "tokens": 62,
+      "verses": 58,
+      "matches": true,
+      "lemmas": [
+        "θέλημα"
+      ]
+    },
+    {
+      "strong": "G2309",
+      "tokens": 208,
+      "verses": 199,
+      "matches": true,
+      "lemmas": [
+        "θέλω"
+      ]
+    },
+    {
+      "strong": "G2316",
+      "tokens": 1307,
+      "verses": 1148,
+      "matches": true,
+      "lemmas": [
+        "θεός"
+      ]
+    },
+    {
+      "strong": "G2342",
+      "tokens": 46,
+      "verses": 38,
+      "matches": true,
+      "lemmas": [
+        "θηρίον"
+      ]
+    },
+    {
+      "strong": "G2347",
+      "tokens": 45,
+      "verses": 43,
+      "matches": true,
+      "lemmas": [
+        "θλῖψις"
+      ]
+    },
+    {
+      "strong": "G2359",
+      "tokens": 15,
+      "verses": 14,
+      "matches": true,
+      "lemmas": [
+        "θρίξ"
+      ]
+    },
+    {
+      "strong": "G2362",
+      "tokens": 62,
+      "verses": 51,
+      "matches": true,
+      "lemmas": [
+        "θρόνος"
+      ]
+    },
+    {
+      "strong": "G2363",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "Θυάτειρα"
+      ]
+    },
+    {
+      "strong": "G2368",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "θυμίαμα"
+      ]
+    },
+    {
+      "strong": "G2374",
+      "tokens": 39,
+      "verses": 37,
+      "matches": true,
+      "lemmas": [
+        "θύρα"
+      ]
+    },
+    {
+      "strong": "G2379",
+      "tokens": 23,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "θυσιαστήριον"
+      ]
+    },
+    {
+      "strong": "G2393",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "ἴασπις"
+      ]
+    },
+    {
+      "strong": "G2400",
+      "tokens": 200,
+      "verses": 193,
+      "matches": true,
+      "lemmas": [
+        "ἰδού"
+      ]
+    },
+    {
+      "strong": "G2403",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "Ἰεζάβελ"
+      ]
+    },
+    {
+      "strong": "G2409",
+      "tokens": 31,
+      "verses": 31,
+      "matches": true,
+      "lemmas": [
+        "ἱερεύς"
+      ]
+    },
+    {
+      "strong": "G2419",
+      "tokens": 76,
+      "verses": 73,
+      "matches": true,
+      "lemmas": [
+        "Ἰερουσαλήμ"
+      ]
+    },
+    {
+      "strong": "G2424",
+      "tokens": 906,
+      "verses": 866,
+      "matches": true,
+      "lemmas": [
+        "Ἰησοῦς"
+      ]
+    },
+    {
+      "strong": "G2440",
+      "tokens": 60,
+      "verses": 58,
+      "matches": true,
+      "lemmas": [
+        "ἱμάτιον"
+      ]
+    },
+    {
+      "strong": "G2443",
+      "tokens": 662,
+      "verses": 619,
+      "matches": true,
+      "lemmas": [
+        "ἵνα"
+      ]
+    },
+    {
+      "strong": "G2453",
+      "tokens": 194,
+      "verses": 185,
+      "matches": true,
+      "lemmas": [
+        "Ἰουδαῖος"
+      ]
+    },
+    {
+      "strong": "G2455",
+      "tokens": 44,
+      "verses": 42,
+      "matches": true,
+      "lemmas": [
+        "Ἰούδας"
+      ]
+    },
+    {
+      "strong": "G2462",
+      "tokens": 17,
+      "verses": 16,
+      "matches": true,
+      "lemmas": [
+        "ἵππος"
+      ]
+    },
+    {
+      "strong": "G2463",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ἶρις"
+      ]
+    },
+    {
+      "strong": "G2466",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "Ἰσσαχάρ"
+      ]
+    },
+    {
+      "strong": "G2474",
+      "tokens": 68,
+      "verses": 66,
+      "matches": true,
+      "lemmas": [
+        "Ἰσραήλ"
+      ]
+    },
+    {
+      "strong": "G2476",
+      "tokens": 153,
+      "verses": 149,
+      "matches": true,
+      "lemmas": [
+        "ἵστημι"
+      ]
+    },
+    {
+      "strong": "G2478",
+      "tokens": 29,
+      "verses": 27,
+      "matches": true,
+      "lemmas": [
+        "ἰσχυρός"
+      ]
+    },
+    {
+      "strong": "G2479",
+      "tokens": 10,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "ἰσχύς"
+      ]
+    },
+    {
+      "strong": "G2491",
+      "tokens": 135,
+      "verses": 131,
+      "matches": true,
+      "lemmas": [
+        "Ἰωάννης"
+      ]
+    },
+    {
+      "strong": "G2501",
+      "tokens": 35,
+      "verses": 34,
+      "matches": true,
+      "lemmas": [
+        "Ἰωσήφ"
+      ]
+    },
+    {
+      "strong": "G2504",
+      "tokens": 83,
+      "verses": 79,
+      "matches": true,
+      "lemmas": [
+        "κἀγώ"
+      ]
+    },
+    {
+      "strong": "G2521",
+      "tokens": 91,
+      "verses": 89,
+      "matches": true,
+      "lemmas": [
+        "κάθημαι"
+      ]
+    },
+    {
+      "strong": "G2523",
+      "tokens": 45,
+      "verses": 44,
+      "matches": true,
+      "lemmas": [
+        "καθίζω"
+      ]
+    },
+    {
+      "strong": "G2532",
+      "tokens": 8973,
+      "verses": 5112,
+      "matches": true,
+      "lemmas": [
+        "καί"
+      ]
+    },
+    {
+      "strong": "G2537",
+      "tokens": 42,
+      "verses": 36,
+      "matches": true,
+      "lemmas": [
+        "καινός"
+      ]
+    },
+    {
+      "strong": "G2540",
+      "tokens": 85,
+      "verses": 80,
+      "matches": true,
+      "lemmas": [
+        "καιρός"
+      ]
+    },
+    {
+      "strong": "G2545",
+      "tokens": 13,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "καίω"
+      ]
+    },
+    {
+      "strong": "G2556",
+      "tokens": 50,
+      "verses": 45,
+      "matches": true,
+      "lemmas": [
+        "κακός"
+      ]
+    },
+    {
+      "strong": "G2564",
+      "tokens": 148,
+      "verses": 140,
+      "matches": true,
+      "lemmas": [
+        "καλέω"
+      ]
+    },
+    {
+      "strong": "G2575",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "κάμινος"
+      ]
+    },
+    {
+      "strong": "G2586",
+      "tokens": 13,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "καπνός"
+      ]
+    },
+    {
+      "strong": "G2588",
+      "tokens": 156,
+      "verses": 149,
+      "matches": true,
+      "lemmas": [
+        "καρδία"
+      ]
+    },
+    {
+      "strong": "G2596",
+      "tokens": 469,
+      "verses": 427,
+      "matches": true,
+      "lemmas": [
+        "κατά"
+      ]
+    },
+    {
+      "strong": "G2597",
+      "tokens": 80,
+      "verses": 80,
+      "matches": true,
+      "lemmas": [
+        "καταβαίνω"
+      ]
+    },
+    {
+      "strong": "G2618",
+      "tokens": 11,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "κατακαίω"
+      ]
+    },
+    {
+      "strong": "G2696",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "κατασφραγίζω"
+      ]
+    },
+    {
+      "strong": "G2730",
+      "tokens": 44,
+      "verses": 40,
+      "matches": true,
+      "lemmas": [
+        "κατοικέω"
+      ]
+    },
+    {
+      "strong": "G2738",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "καῦμα"
+      ]
+    },
+    {
+      "strong": "G2749",
+      "tokens": 24,
+      "verses": 24,
+      "matches": true,
+      "lemmas": [
+        "κεῖμαι"
+      ]
+    },
+    {
+      "strong": "G2764",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "κεραμικός"
+      ]
+    },
+    {
+      "strong": "G2768",
+      "tokens": 11,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "κέρας"
+      ]
+    },
+    {
+      "strong": "G2776",
+      "tokens": 75,
+      "verses": 67,
+      "matches": true,
+      "lemmas": [
+        "κεφαλή"
+      ]
+    },
+    {
+      "strong": "G2784",
+      "tokens": 61,
+      "verses": 60,
+      "matches": true,
+      "lemmas": [
+        "κηρύσσω"
+      ]
+    },
+    {
+      "strong": "G2788",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "κιθάρα"
+      ]
+    },
+    {
+      "strong": "G2795",
+      "tokens": 8,
+      "verses": 8,
+      "matches": true,
+      "lemmas": [
+        "κινέω"
+      ]
+    },
+    {
+      "strong": "G2799",
+      "tokens": 40,
+      "verses": 34,
+      "matches": true,
+      "lemmas": [
+        "κλαίω"
+      ]
+    },
+    {
+      "strong": "G2807",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "κλείς"
+      ]
+    },
+    {
+      "strong": "G2808",
+      "tokens": 16,
+      "verses": 15,
+      "matches": true,
+      "lemmas": [
+        "κλείω"
+      ]
+    },
+    {
+      "strong": "G2812",
+      "tokens": 16,
+      "verses": 16,
+      "matches": true,
+      "lemmas": [
+        "κλέπτης"
+      ]
+    },
+    {
+      "strong": "G2825",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "κλίνη"
+      ]
+    },
+    {
+      "strong": "G2854",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "κολλούριον"
+      ]
+    },
+    {
+      "strong": "G2872",
+      "tokens": 23,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "κοπιάω"
+      ]
+    },
+    {
+      "strong": "G2873",
+      "tokens": 18,
+      "verses": 18,
+      "matches": true,
+      "lemmas": [
+        "κόπος"
+      ]
+    },
+    {
+      "strong": "G2875",
+      "tokens": 8,
+      "verses": 8,
+      "matches": true,
+      "lemmas": [
+        "κόπτω"
+      ]
+    },
+    {
+      "strong": "G2896",
+      "tokens": 55,
+      "verses": 54,
+      "matches": true,
+      "lemmas": [
+        "κράζω"
+      ]
+    },
+    {
+      "strong": "G2902",
+      "tokens": 47,
+      "verses": 46,
+      "matches": true,
+      "lemmas": [
+        "κρατέω"
+      ]
+    },
+    {
+      "strong": "G2904",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "κράτος"
+      ]
+    },
+    {
+      "strong": "G2915",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "κριθή"
+      ]
+    },
+    {
+      "strong": "G2919",
+      "tokens": 114,
+      "verses": 98,
+      "matches": true,
+      "lemmas": [
+        "κρίνω"
+      ]
+    },
+    {
+      "strong": "G2925",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "κρούω"
+      ]
+    },
+    {
+      "strong": "G2928",
+      "tokens": 19,
+      "verses": 18,
+      "matches": true,
+      "lemmas": [
+        "κρύπτω"
+      ]
+    },
+    {
+      "strong": "G2930",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "κρύσταλλος"
+      ]
+    },
+    {
+      "strong": "G2936",
+      "tokens": 15,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "κτίζω"
+      ]
+    },
+    {
+      "strong": "G2937",
+      "tokens": 19,
+      "verses": 19,
+      "matches": true,
+      "lemmas": [
+        "κτίσις"
+      ]
+    },
+    {
+      "strong": "G2938",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "κτίσμα"
+      ]
+    },
+    {
+      "strong": "G2943",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "κυκλόθεν"
+      ]
+    },
+    {
+      "strong": "G2945",
+      "tokens": 8,
+      "verses": 8,
+      "matches": true,
+      "lemmas": [
+        "κύκλῳ"
+      ]
+    },
+    {
+      "strong": "G2960",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "κυριακός"
+      ]
+    },
+    {
+      "strong": "G2962",
+      "tokens": 713,
+      "verses": 656,
+      "matches": true,
+      "lemmas": [
+        "κύριος"
+      ]
+    },
+    {
+      "strong": "G2980",
+      "tokens": 297,
+      "verses": 273,
+      "matches": true,
+      "lemmas": [
+        "λαλέω"
+      ]
+    },
+    {
+      "strong": "G2983",
+      "tokens": 258,
+      "verses": 243,
+      "matches": true,
+      "lemmas": [
+        "λαμβάνω"
+      ]
+    },
+    {
+      "strong": "G2985",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "λαμπάς"
+      ]
+    },
+    {
+      "strong": "G2992",
+      "tokens": 141,
+      "verses": 137,
+      "matches": true,
+      "lemmas": [
+        "λαός"
+      ]
+    },
+    {
+      "strong": "G2993",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "Λαοδίκεια"
+      ]
+    },
+    {
+      "strong": "G3000",
+      "tokens": 21,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "λατρεύω"
+      ]
+    },
+    {
+      "strong": "G3004",
+      "tokens": 2345,
+      "verses": 1997,
+      "matches": true,
+      "lemmas": [
+        "λέγω"
+      ]
+    },
+    {
+      "strong": "G3017",
+      "tokens": 7,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "Λευί"
+      ]
+    },
+    {
+      "strong": "G3021",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "λευκαίνω"
+      ]
+    },
+    {
+      "strong": "G3022",
+      "tokens": 25,
+      "verses": 23,
+      "matches": true,
+      "lemmas": [
+        "λευκός"
+      ]
+    },
+    {
+      "strong": "G3023",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "λέων"
+      ]
+    },
+    {
+      "strong": "G3031",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "λιβανωτός"
+      ]
+    },
+    {
+      "strong": "G3037",
+      "tokens": 58,
+      "verses": 53,
+      "matches": true,
+      "lemmas": [
+        "λίθος"
+      ]
+    },
+    {
+      "strong": "G3042",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "λιμός"
+      ]
+    },
+    {
+      "strong": "G3056",
+      "tokens": 330,
+      "verses": 318,
+      "matches": true,
+      "lemmas": [
+        "λόγος"
+      ]
+    },
+    {
+      "strong": "G3062",
+      "tokens": 55,
+      "verses": 55,
+      "matches": true,
+      "lemmas": [
+        "λοιπός"
+      ]
+    },
+    {
+      "strong": "G3087",
+      "tokens": 12,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "λυχνία"
+      ]
+    },
+    {
+      "strong": "G3089",
+      "tokens": 42,
+      "verses": 39,
+      "matches": true,
+      "lemmas": [
+        "λύω"
+      ]
+    },
+    {
+      "strong": "G3107",
+      "tokens": 50,
+      "verses": 49,
+      "matches": true,
+      "lemmas": [
+        "μακάριος"
+      ]
+    },
+    {
+      "strong": "G3128",
+      "tokens": 3,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "Μανασσῆς"
+      ]
+    },
+    {
+      "strong": "G3131",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "μάννα"
+      ]
+    },
+    {
+      "strong": "G3140",
+      "tokens": 76,
+      "verses": 72,
+      "matches": true,
+      "lemmas": [
+        "μαρτυρέω"
+      ]
+    },
+    {
+      "strong": "G3141",
+      "tokens": 37,
+      "verses": 33,
+      "matches": true,
+      "lemmas": [
+        "μαρτυρία"
+      ]
+    },
+    {
+      "strong": "G3144",
+      "tokens": 35,
+      "verses": 35,
+      "matches": true,
+      "lemmas": [
+        "μάρτυς"
+      ]
+    },
+    {
+      "strong": "G3149",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "μαστός"
+      ]
+    },
+    {
+      "strong": "G3162",
+      "tokens": 29,
+      "verses": 26,
+      "matches": true,
+      "lemmas": [
+        "μάχαιρα"
+      ]
+    },
+    {
+      "strong": "G3173",
+      "tokens": 240,
+      "verses": 228,
+      "matches": true,
+      "lemmas": [
+        "μέγας"
+      ]
+    },
+    {
+      "strong": "G3175",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "μεγιστάν"
+      ]
+    },
+    {
+      "strong": "G3189",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "μέλας"
+      ]
+    },
+    {
+      "strong": "G3195",
+      "tokens": 109,
+      "verses": 106,
+      "matches": true,
+      "lemmas": [
+        "μέλλω"
+      ]
+    },
+    {
+      "strong": "G3319",
+      "tokens": 56,
+      "verses": 54,
+      "matches": true,
+      "lemmas": [
+        "μέσος"
+      ]
+    },
+    {
+      "strong": "G3321",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "μεσουράνημα"
+      ]
+    },
+    {
+      "strong": "G3326",
+      "tokens": 470,
+      "verses": 442,
+      "matches": true,
+      "lemmas": [
+        "μετά"
+      ]
+    },
+    {
+      "strong": "G3340",
+      "tokens": 34,
+      "verses": 32,
+      "matches": true,
+      "lemmas": [
+        "μετανοέω"
+      ]
+    },
+    {
+      "strong": "G3359",
+      "tokens": 8,
+      "verses": 8,
+      "matches": true,
+      "lemmas": [
+        "μέτωπον"
+      ]
+    },
+    {
+      "strong": "G3361",
+      "tokens": 1036,
+      "verses": 916,
+      "matches": true,
+      "lemmas": [
+        "μή"
+      ]
+    },
+    {
+      "strong": "G3367",
+      "tokens": 90,
+      "verses": 87,
+      "matches": true,
+      "lemmas": [
+        "μηδείς"
+      ]
+    },
+    {
+      "strong": "G3383",
+      "tokens": 34,
+      "verses": 16,
+      "matches": true,
+      "lemmas": [
+        "μήτε"
+      ]
+    },
+    {
+      "strong": "G3396",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "μίγνυμι"
+      ]
+    },
+    {
+      "strong": "G3398",
+      "tokens": 46,
+      "verses": 43,
+      "matches": true,
+      "lemmas": [
+        "μικρός"
+      ]
+    },
+    {
+      "strong": "G3404",
+      "tokens": 40,
+      "verses": 36,
+      "matches": true,
+      "lemmas": [
+        "μισέω"
+      ]
+    },
+    {
+      "strong": "G3421",
+      "tokens": 21,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "μνημονεύω"
+      ]
+    },
+    {
+      "strong": "G3431",
+      "tokens": 14,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "μοιχεύω"
+      ]
+    },
+    {
+      "strong": "G3435",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "μολύνω"
+      ]
+    },
+    {
+      "strong": "G3448",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "μόσχος"
+      ]
+    },
+    {
+      "strong": "G3461",
+      "tokens": 8,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "μυριάς"
+      ]
+    },
+    {
+      "strong": "G3466",
+      "tokens": 26,
+      "verses": 26,
+      "matches": true,
+      "lemmas": [
+        "μυστήριον"
+      ]
+    },
+    {
+      "strong": "G3483",
+      "tokens": 33,
+      "verses": 29,
+      "matches": true,
+      "lemmas": [
+        "ναί"
+      ]
+    },
+    {
+      "strong": "G3485",
+      "tokens": 45,
+      "verses": 39,
+      "matches": true,
+      "lemmas": [
+        "ναός"
+      ]
+    },
+    {
+      "strong": "G3498",
+      "tokens": 128,
+      "verses": 120,
+      "matches": true,
+      "lemmas": [
+        "νεκρός"
+      ]
+    },
+    {
+      "strong": "G3507",
+      "tokens": 25,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "νεφέλη"
+      ]
+    },
+    {
+      "strong": "G3508",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "Νεφθαλίμ"
+      ]
+    },
+    {
+      "strong": "G3510",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "νεφρός"
+      ]
+    },
+    {
+      "strong": "G3520",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "νῆσος"
+      ]
+    },
+    {
+      "strong": "G3528",
+      "tokens": 28,
+      "verses": 24,
+      "matches": true,
+      "lemmas": [
+        "νικάω"
+      ]
+    },
+    {
+      "strong": "G3531",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "Νικολαΐτης"
+      ]
+    },
+    {
+      "strong": "G3571",
+      "tokens": 61,
+      "verses": 58,
+      "matches": true,
+      "lemmas": [
+        "νύξ"
+      ]
+    },
+    {
+      "strong": "G3586",
+      "tokens": 20,
+      "verses": 18,
+      "matches": true,
+      "lemmas": [
+        "ξύλον"
+      ]
+    },
+    {
+      "strong": "G3588",
+      "tokens": 19769,
+      "verses": 6951,
+      "matches": true,
+      "lemmas": [
+        "ὁ"
+      ]
+    },
+    {
+      "strong": "G3592",
+      "tokens": 10,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "ὅδε"
+      ]
+    },
+    {
+      "strong": "G3594",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "ὁδηγέω"
+      ]
+    },
+    {
+      "strong": "G3625",
+      "tokens": 15,
+      "verses": 15,
+      "matches": true,
+      "lemmas": [
+        "οἰκουμένη"
+      ]
+    },
+    {
+      "strong": "G3631",
+      "tokens": 34,
+      "verses": 26,
+      "matches": true,
+      "lemmas": [
+        "οἶνος"
+      ]
+    },
+    {
+      "strong": "G3641",
+      "tokens": 41,
+      "verses": 40,
+      "matches": true,
+      "lemmas": [
+        "ὀλίγος"
+      ]
+    },
+    {
+      "strong": "G3650",
+      "tokens": 108,
+      "verses": 96,
+      "matches": true,
+      "lemmas": [
+        "ὅλος"
+      ]
+    },
+    {
+      "strong": "G3653",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "ὄλυνθος"
+      ]
+    },
+    {
+      "strong": "G3664",
+      "tokens": 45,
+      "verses": 41,
+      "matches": true,
+      "lemmas": [
+        "ὅμοιος"
+      ]
+    },
+    {
+      "strong": "G3668",
+      "tokens": 31,
+      "verses": 31,
+      "matches": true,
+      "lemmas": [
+        "ὁμοίως"
+      ]
+    },
+    {
+      "strong": "G3670",
+      "tokens": 26,
+      "verses": 23,
+      "matches": true,
+      "lemmas": [
+        "ὁμολογέω"
+      ]
+    },
+    {
+      "strong": "G3686",
+      "tokens": 229,
+      "verses": 214,
+      "matches": true,
+      "lemmas": [
+        "ὄνομα"
+      ]
+    },
+    {
+      "strong": "G3691",
+      "tokens": 8,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "ὀξύς"
+      ]
+    },
+    {
+      "strong": "G3693",
+      "tokens": 7,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "ὄπισθεν"
+      ]
+    },
+    {
+      "strong": "G3694",
+      "tokens": 35,
+      "verses": 35,
+      "matches": true,
+      "lemmas": [
+        "ὀπίσω"
+      ]
+    },
+    {
+      "strong": "G3699",
+      "tokens": 81,
+      "verses": 75,
+      "matches": true,
+      "lemmas": [
+        "ὅπου"
+      ]
+    },
+    {
+      "strong": "G3706",
+      "tokens": 4,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "ὅρασις"
+      ]
+    },
+    {
+      "strong": "G3708",
+      "tokens": 476,
+      "verses": 453,
+      "matches": true,
+      "lemmas": [
+        "ὁράω"
+      ]
+    },
+    {
+      "strong": "G3709",
+      "tokens": 36,
+      "verses": 34,
+      "matches": true,
+      "lemmas": [
+        "ὀργή"
+      ]
+    },
+    {
+      "strong": "G3735",
+      "tokens": 62,
+      "verses": 62,
+      "matches": true,
+      "lemmas": [
+        "ὄρος"
+      ]
+    },
+    {
+      "strong": "G3739",
+      "tokens": 1408,
+      "verses": 1228,
+      "matches": true,
+      "lemmas": [
+        "ὅς"
+      ]
+    },
+    {
+      "strong": "G3745",
+      "tokens": 111,
+      "verses": 100,
+      "matches": true,
+      "lemmas": [
+        "ὅσος"
+      ]
+    },
+    {
+      "strong": "G3748",
+      "tokens": 144,
+      "verses": 138,
+      "matches": true,
+      "lemmas": [
+        "ὅστις"
+      ]
+    },
+    {
+      "strong": "G3752",
+      "tokens": 123,
+      "verses": 119,
+      "matches": true,
+      "lemmas": [
+        "ὅταν"
+      ]
+    },
+    {
+      "strong": "G3753",
+      "tokens": 102,
+      "verses": 101,
+      "matches": true,
+      "lemmas": [
+        "ὅτε"
+      ]
+    },
+    {
+      "strong": "G3754",
+      "tokens": 1294,
+      "verses": 1187,
+      "matches": true,
+      "lemmas": [
+        "ὅτι"
+      ]
+    },
+    {
+      "strong": "G3756",
+      "tokens": 1605,
+      "verses": 1390,
+      "matches": true,
+      "lemmas": [
+        "οὐ"
+      ]
+    },
+    {
+      "strong": "G3759",
+      "tokens": 46,
+      "verses": 35,
+      "matches": true,
+      "lemmas": [
+        "οὐαί"
+      ]
+    },
+    {
+      "strong": "G3761",
+      "tokens": 142,
+      "verses": 128,
+      "matches": true,
+      "lemmas": [
+        "οὐδέ"
+      ]
+    },
+    {
+      "strong": "G3762",
+      "tokens": 232,
+      "verses": 219,
+      "matches": true,
+      "lemmas": [
+        "οὐδείς"
+      ]
+    },
+    {
+      "strong": "G3767",
+      "tokens": 494,
+      "verses": 486,
+      "matches": true,
+      "lemmas": [
+        "οὖν"
+      ]
+    },
+    {
+      "strong": "G3772",
+      "tokens": 273,
+      "verses": 255,
+      "matches": true,
+      "lemmas": [
+        "οὐρανός"
+      ]
+    },
+    {
+      "strong": "G3775",
+      "tokens": 36,
+      "verses": 34,
+      "matches": true,
+      "lemmas": [
+        "οὖς"
+      ]
+    },
+    {
+      "strong": "G3777",
+      "tokens": 87,
+      "verses": 39,
+      "matches": true,
+      "lemmas": [
+        "οὔτε"
+      ]
+    },
+    {
+      "strong": "G3778",
+      "tokens": 1385,
+      "verses": 1260,
+      "matches": true,
+      "lemmas": [
+        "οὗτος"
+      ]
+    },
+    {
+      "strong": "G3779",
+      "tokens": 207,
+      "verses": 202,
+      "matches": true,
+      "lemmas": [
+        "οὕτω(ς)"
+      ]
+    },
+    {
+      "strong": "G3785",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "ὄφελον"
+      ]
+    },
+    {
+      "strong": "G3788",
+      "tokens": 100,
+      "verses": 85,
+      "matches": true,
+      "lemmas": [
+        "ὀφθαλμός"
+      ]
+    },
+    {
+      "strong": "G3793",
+      "tokens": 174,
+      "verses": 169,
+      "matches": true,
+      "lemmas": [
+        "ὄχλος"
+      ]
+    },
+    {
+      "strong": "G3799",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "ὄψις"
+      ]
+    },
+    {
+      "strong": "G3811",
+      "tokens": 13,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "παιδεύω"
+      ]
+    },
+    {
+      "strong": "G3841",
+      "tokens": 10,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "παντοκράτωρ"
+      ]
+    },
+    {
+      "strong": "G3844",
+      "tokens": 193,
+      "verses": 182,
+      "matches": true,
+      "lemmas": [
+        "παρά"
+      ]
+    },
+    {
+      "strong": "G3857",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "παράδεισος"
+      ]
+    },
+    {
+      "strong": "G3956",
+      "tokens": 1244,
+      "verses": 1083,
+      "matches": true,
+      "lemmas": [
+        "πᾶς"
+      ]
+    },
+    {
+      "strong": "G3958",
+      "tokens": 42,
+      "verses": 41,
+      "matches": true,
+      "lemmas": [
+        "πάσχω"
+      ]
+    },
+    {
+      "strong": "G3962",
+      "tokens": 413,
+      "verses": 366,
+      "matches": true,
+      "lemmas": [
+        "πατήρ"
+      ]
+    },
+    {
+      "strong": "G3963",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "Πάτμος"
+      ]
+    },
+    {
+      "strong": "G3983",
+      "tokens": 23,
+      "verses": 23,
+      "matches": true,
+      "lemmas": [
+        "πεινάω"
+      ]
+    },
+    {
+      "strong": "G3985",
+      "tokens": 37,
+      "verses": 33,
+      "matches": true,
+      "lemmas": [
+        "πειράζω"
+      ]
+    },
+    {
+      "strong": "G3986",
+      "tokens": 21,
+      "verses": 20,
+      "matches": true,
+      "lemmas": [
+        "πειρασμός"
+      ]
+    },
+    {
+      "strong": "G3991",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "πέμπτος"
+      ]
+    },
+    {
+      "strong": "G3992",
+      "tokens": 79,
+      "verses": 78,
+      "matches": true,
+      "lemmas": [
+        "πέμπω"
+      ]
+    },
+    {
+      "strong": "G4010",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "Πέργαμος"
+      ]
+    },
+    {
+      "strong": "G4016",
+      "tokens": 23,
+      "verses": 23,
+      "matches": true,
+      "lemmas": [
+        "περιβάλλω"
+      ]
+    },
+    {
+      "strong": "G4024",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "περιζώννυμι"
+      ]
+    },
+    {
+      "strong": "G4043",
+      "tokens": 95,
+      "verses": 88,
+      "matches": true,
+      "lemmas": [
+        "περιπατέω"
+      ]
+    },
+    {
+      "strong": "G4072",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "πέτομαι"
+      ]
+    },
+    {
+      "strong": "G4073",
+      "tokens": 15,
+      "verses": 14,
+      "matches": true,
+      "lemmas": [
+        "πέτρα"
+      ]
+    },
+    {
+      "strong": "G4077",
+      "tokens": 11,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "πηγή"
+      ]
+    },
+    {
+      "strong": "G4087",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "πικραίνω"
+      ]
+    },
+    {
+      "strong": "G4098",
+      "tokens": 90,
+      "verses": 85,
+      "matches": true,
+      "lemmas": [
+        "πίπτω"
+      ]
+    },
+    {
+      "strong": "G4102",
+      "tokens": 242,
+      "verses": 226,
+      "matches": true,
+      "lemmas": [
+        "πίστις"
+      ]
+    },
+    {
+      "strong": "G4103",
+      "tokens": 67,
+      "verses": 63,
+      "matches": true,
+      "lemmas": [
+        "πιστός"
+      ]
+    },
+    {
+      "strong": "G4105",
+      "tokens": 39,
+      "verses": 37,
+      "matches": true,
+      "lemmas": [
+        "πλανάω"
+      ]
+    },
+    {
+      "strong": "G4133",
+      "tokens": 31,
+      "verses": 31,
+      "matches": true,
+      "lemmas": [
+        "πλήν"
+      ]
+    },
+    {
+      "strong": "G4137",
+      "tokens": 86,
+      "verses": 86,
+      "matches": true,
+      "lemmas": [
+        "πληρόω"
+      ]
+    },
+    {
+      "strong": "G4141",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "πλήσσω"
+      ]
+    },
+    {
+      "strong": "G4143",
+      "tokens": 67,
+      "verses": 62,
+      "matches": true,
+      "lemmas": [
+        "πλοῖον"
+      ]
+    },
+    {
+      "strong": "G4145",
+      "tokens": 28,
+      "verses": 28,
+      "matches": true,
+      "lemmas": [
+        "πλούσιος"
+      ]
+    },
+    {
+      "strong": "G4147",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "πλουτέω"
+      ]
+    },
+    {
+      "strong": "G4149",
+      "tokens": 22,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "πλοῦτος"
+      ]
+    },
+    {
+      "strong": "G4150",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "πλύνω"
+      ]
+    },
+    {
+      "strong": "G4151",
+      "tokens": 379,
+      "verses": 344,
+      "matches": true,
+      "lemmas": [
+        "πνεῦμα"
+      ]
+    },
+    {
+      "strong": "G4154",
+      "tokens": 7,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "πνέω"
+      ]
+    },
+    {
+      "strong": "G4158",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "ποδήρης"
+      ]
+    },
+    {
+      "strong": "G4159",
+      "tokens": 29,
+      "verses": 26,
+      "matches": true,
+      "lemmas": [
+        "πόθεν"
+      ]
+    },
+    {
+      "strong": "G4160",
+      "tokens": 568,
+      "verses": 514,
+      "matches": true,
+      "lemmas": [
+        "ποιέω"
+      ]
+    },
+    {
+      "strong": "G4165",
+      "tokens": 11,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "ποιμαίνω"
+      ]
+    },
+    {
+      "strong": "G4169",
+      "tokens": 33,
+      "verses": 32,
+      "matches": true,
+      "lemmas": [
+        "ποῖος"
+      ]
+    },
+    {
+      "strong": "G4170",
+      "tokens": 7,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "πολεμέω"
+      ]
+    },
+    {
+      "strong": "G4172",
+      "tokens": 162,
+      "verses": 153,
+      "matches": true,
+      "lemmas": [
+        "πόλις"
+      ]
+    },
+    {
+      "strong": "G4183",
+      "tokens": 415,
+      "verses": 377,
+      "matches": true,
+      "lemmas": [
+        "πολύς"
+      ]
+    },
+    {
+      "strong": "G4202",
+      "tokens": 25,
+      "verses": 24,
+      "matches": true,
+      "lemmas": [
+        "πορνεία"
+      ]
+    },
+    {
+      "strong": "G4203",
+      "tokens": 8,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "πορνεύω"
+      ]
+    },
+    {
+      "strong": "G4215",
+      "tokens": 17,
+      "verses": 17,
+      "matches": true,
+      "lemmas": [
+        "ποταμός"
+      ]
+    },
+    {
+      "strong": "G4219",
+      "tokens": 19,
+      "verses": 17,
+      "matches": true,
+      "lemmas": [
+        "πότε"
+      ]
+    },
+    {
+      "strong": "G4226",
+      "tokens": 47,
+      "verses": 42,
+      "matches": true,
+      "lemmas": [
+        "ποῦ"
+      ]
+    },
+    {
+      "strong": "G4228",
+      "tokens": 93,
+      "verses": 86,
+      "matches": true,
+      "lemmas": [
+        "πούς"
+      ]
+    },
+    {
+      "strong": "G4245",
+      "tokens": 65,
+      "verses": 65,
+      "matches": true,
+      "lemmas": [
+        "πρεσβύτερος"
+      ]
+    },
+    {
+      "strong": "G4314",
+      "tokens": 696,
+      "verses": 643,
+      "matches": true,
+      "lemmas": [
+        "πρός"
+      ]
+    },
+    {
+      "strong": "G4335",
+      "tokens": 36,
+      "verses": 36,
+      "matches": true,
+      "lemmas": [
+        "προσευχή"
+      ]
+    },
+    {
+      "strong": "G4352",
+      "tokens": 60,
+      "verses": 54,
+      "matches": true,
+      "lemmas": [
+        "προσκυνέω"
+      ]
+    },
+    {
+      "strong": "G4383",
+      "tokens": 76,
+      "verses": 71,
+      "matches": true,
+      "lemmas": [
+        "πρόσωπον"
+      ]
+    },
+    {
+      "strong": "G4394",
+      "tokens": 19,
+      "verses": 19,
+      "matches": true,
+      "lemmas": [
+        "προφητεία"
+      ]
+    },
+    {
+      "strong": "G4398",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "προφῆτις"
+      ]
+    },
+    {
+      "strong": "G4407",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "πρωϊνός"
+      ]
+    },
+    {
+      "strong": "G4413",
+      "tokens": 153,
+      "verses": 146,
+      "matches": true,
+      "lemmas": [
+        "πρῶτος"
+      ]
+    },
+    {
+      "strong": "G4416",
+      "tokens": 8,
+      "verses": 8,
+      "matches": true,
+      "lemmas": [
+        "πρωτότοκος"
+      ]
+    },
+    {
+      "strong": "G4420",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "πτέρυξ"
+      ]
+    },
+    {
+      "strong": "G4432",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "πτωχεία"
+      ]
+    },
+    {
+      "strong": "G4434",
+      "tokens": 34,
+      "verses": 34,
+      "matches": true,
+      "lemmas": [
+        "πτωχός"
+      ]
+    },
+    {
+      "strong": "G4442",
+      "tokens": 71,
+      "verses": 69,
+      "matches": true,
+      "lemmas": [
+        "πῦρ"
+      ]
+    },
+    {
+      "strong": "G4448",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "πυρόομαι"
+      ]
+    },
+    {
+      "strong": "G4450",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "πυρρός"
+      ]
+    },
+    {
+      "strong": "G4459",
+      "tokens": 103,
+      "verses": 100,
+      "matches": true,
+      "lemmas": [
+        "πῶς"
+      ]
+    },
+    {
+      "strong": "G4464",
+      "tokens": 12,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "ῥάβδος"
+      ]
+    },
+    {
+      "strong": "G4491",
+      "tokens": 17,
+      "verses": 16,
+      "matches": true,
+      "lemmas": [
+        "ῥίζα"
+      ]
+    },
+    {
+      "strong": "G4501",
+      "tokens": 7,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "ῥομφαία"
+      ]
+    },
+    {
+      "strong": "G4502",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "Ῥουβήν"
+      ]
+    },
+    {
+      "strong": "G4526",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "σάκκος"
+      ]
+    },
+    {
+      "strong": "G4536",
+      "tokens": 11,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "σάλπιγξ"
+      ]
+    },
+    {
+      "strong": "G4537",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "σαλπίζω"
+      ]
+    },
+    {
+      "strong": "G4554",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "Σάρδεις"
+      ]
+    },
+    {
+      "strong": "G4556",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "σάρδιον"
+      ]
+    },
+    {
+      "strong": "G4567",
+      "tokens": 36,
+      "verses": 33,
+      "matches": true,
+      "lemmas": [
+        "Σατανᾶς"
+      ]
+    },
+    {
+      "strong": "G4578",
+      "tokens": 14,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "σεισμός"
+      ]
+    },
+    {
+      "strong": "G4579",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "σείω"
+      ]
+    },
+    {
+      "strong": "G4582",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "σελήνη"
+      ]
+    },
+    {
+      "strong": "G4591",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "σημαίνω"
+      ]
+    },
+    {
+      "strong": "G4602",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "σιγή"
+      ]
+    },
+    {
+      "strong": "G4603",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "σιδηροῦς"
+      ]
+    },
+    {
+      "strong": "G4621",
+      "tokens": 14,
+      "verses": 14,
+      "matches": true,
+      "lemmas": [
+        "σῖτος"
+      ]
+    },
+    {
+      "strong": "G4625",
+      "tokens": 15,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "σκάνδαλον"
+      ]
+    },
+    {
+      "strong": "G4632",
+      "tokens": 23,
+      "verses": 22,
+      "matches": true,
+      "lemmas": [
+        "σκεῦος"
+      ]
+    },
+    {
+      "strong": "G4637",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "σκηνόω"
+      ]
+    },
+    {
+      "strong": "G4654",
+      "tokens": 5,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "σκοτίζομαι"
+      ]
+    },
+    {
+      "strong": "G4664",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "σμαράγδινος"
+      ]
+    },
+    {
+      "strong": "G4667",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "Σμύρνα"
+      ]
+    },
+    {
+      "strong": "G4678",
+      "tokens": 51,
+      "verses": 49,
+      "matches": true,
+      "lemmas": [
+        "σοφία"
+      ]
+    },
+    {
+      "strong": "G4693",
+      "tokens": 6,
+      "verses": 6,
+      "matches": true,
+      "lemmas": [
+        "σπήλαιον"
+      ]
+    },
+    {
+      "strong": "G4735",
+      "tokens": 18,
+      "verses": 18,
+      "matches": true,
+      "lemmas": [
+        "στέφανος"
+      ]
+    },
+    {
+      "strong": "G4741",
+      "tokens": 13,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "στηρίζω"
+      ]
+    },
+    {
+      "strong": "G4749",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "στολή"
+      ]
+    },
+    {
+      "strong": "G4750",
+      "tokens": 78,
+      "verses": 71,
+      "matches": true,
+      "lemmas": [
+        "στόμα"
+      ]
+    },
+    {
+      "strong": "G4769",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "στῦλος"
+      ]
+    },
+    {
+      "strong": "G4771",
+      "tokens": 2894,
+      "verses": 2023,
+      "matches": true,
+      "lemmas": [
+        "σύ"
+      ]
+    },
+    {
+      "strong": "G4791",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "συγκοινωνός"
+      ]
+    },
+    {
+      "strong": "G4808",
+      "tokens": 16,
+      "verses": 15,
+      "matches": true,
+      "lemmas": [
+        "συκῆ"
+      ]
+    },
+    {
+      "strong": "G4823",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "συμβουλεύω"
+      ]
+    },
+    {
+      "strong": "G4826",
+      "tokens": 7,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "Συμεών"
+      ]
+    },
+    {
+      "strong": "G4864",
+      "tokens": 56,
+      "verses": 56,
+      "matches": true,
+      "lemmas": [
+        "συναγωγή"
+      ]
+    },
+    {
+      "strong": "G4889",
+      "tokens": 10,
+      "verses": 10,
+      "matches": true,
+      "lemmas": [
+        "σύνδουλος"
+      ]
+    },
+    {
+      "strong": "G4937",
+      "tokens": 7,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "συντρίβω"
+      ]
+    },
+    {
+      "strong": "G4969",
+      "tokens": 10,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "σφάζω"
+      ]
+    },
+    {
+      "strong": "G4972",
+      "tokens": 15,
+      "verses": 14,
+      "matches": true,
+      "lemmas": [
+        "σφραγίζω"
+      ]
+    },
+    {
+      "strong": "G4973",
+      "tokens": 16,
+      "verses": 16,
+      "matches": true,
+      "lemmas": [
+        "σφραγίς"
+      ]
+    },
+    {
+      "strong": "G4991",
+      "tokens": 46,
+      "verses": 45,
+      "matches": true,
+      "lemmas": [
+        "σωτηρία"
+      ]
+    },
+    {
+      "strong": "G5005",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ταλαίπωρος"
+      ]
+    },
+    {
+      "strong": "G5034",
+      "tokens": 8,
+      "verses": 8,
+      "matches": true,
+      "lemmas": [
+        "τάχος"
+      ]
+    },
+    {
+      "strong": "G5035",
+      "tokens": 9,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "ταχύ"
+      ]
+    },
+    {
+      "strong": "G5043",
+      "tokens": 99,
+      "verses": 91,
+      "matches": true,
+      "lemmas": [
+        "τέκνον"
+      ]
+    },
+    {
+      "strong": "G5056",
+      "tokens": 40,
+      "verses": 39,
+      "matches": true,
+      "lemmas": [
+        "τέλος"
+      ]
+    },
+    {
+      "strong": "G5062",
+      "tokens": 22,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "τεσσεράκοντα"
+      ]
+    },
+    {
+      "strong": "G5064",
+      "tokens": 40,
+      "verses": 34,
+      "matches": true,
+      "lemmas": [
+        "τέσσαρες"
+      ]
+    },
+    {
+      "strong": "G5067",
+      "tokens": 10,
+      "verses": 9,
+      "matches": true,
+      "lemmas": [
+        "τέταρτος"
+      ]
+    },
+    {
+      "strong": "G5083",
+      "tokens": 71,
+      "verses": 65,
+      "matches": true,
+      "lemmas": [
+        "τηρέω"
+      ]
+    },
+    {
+      "strong": "G5087",
+      "tokens": 100,
+      "verses": 96,
+      "matches": true,
+      "lemmas": [
+        "τίθημι"
+      ]
+    },
+    {
+      "strong": "G5092",
+      "tokens": 41,
+      "verses": 40,
+      "matches": true,
+      "lemmas": [
+        "τιμή"
+      ]
+    },
+    {
+      "strong": "G5100",
+      "tokens": 530,
+      "verses": 485,
+      "matches": true,
+      "lemmas": [
+        "τις"
+      ]
+    },
+    {
+      "strong": "G5101",
+      "tokens": 554,
+      "verses": 501,
+      "matches": true,
+      "lemmas": [
+        "τίς"
+      ]
+    },
+    {
+      "strong": "G5115",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "τόξον"
+      ]
+    },
+    {
+      "strong": "G5117",
+      "tokens": 94,
+      "verses": 89,
+      "matches": true,
+      "lemmas": [
+        "τόπος"
+      ]
+    },
+    {
+      "strong": "G5140",
+      "tokens": 67,
+      "verses": 60,
+      "matches": true,
+      "lemmas": [
+        "τρεῖς"
+      ]
+    },
+    {
+      "strong": "G5154",
+      "tokens": 55,
+      "verses": 46,
+      "matches": true,
+      "lemmas": [
+        "τρίτος"
+      ]
+    },
+    {
+      "strong": "G5155",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "τρίχινος"
+      ]
+    },
+    {
+      "strong": "G5185",
+      "tokens": 50,
+      "verses": 46,
+      "matches": true,
+      "lemmas": [
+        "τυφλός"
+      ]
+    },
+    {
+      "strong": "G5193",
+      "tokens": 3,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ὑάλινος"
+      ]
+    },
+    {
+      "strong": "G5204",
+      "tokens": 76,
+      "verses": 68,
+      "matches": true,
+      "lemmas": [
+        "ὕδωρ"
+      ]
+    },
+    {
+      "strong": "G5207",
+      "tokens": 375,
+      "verses": 342,
+      "matches": true,
+      "lemmas": [
+        "υἱός"
+      ]
+    },
+    {
+      "strong": "G5259",
+      "tokens": 220,
+      "verses": 200,
+      "matches": true,
+      "lemmas": [
+        "ὑπό"
+      ]
+    },
+    {
+      "strong": "G5270",
+      "tokens": 11,
+      "verses": 11,
+      "matches": true,
+      "lemmas": [
+        "ὑποκάτω"
+      ]
+    },
+    {
+      "strong": "G5281",
+      "tokens": 32,
+      "verses": 31,
+      "matches": true,
+      "lemmas": [
+        "ὑπομονή"
+      ]
+    },
+    {
+      "strong": "G5316",
+      "tokens": 31,
+      "verses": 31,
+      "matches": true,
+      "lemmas": [
+        "φαίνω"
+      ]
+    },
+    {
+      "strong": "G5319",
+      "tokens": 48,
+      "verses": 43,
+      "matches": true,
+      "lemmas": [
+        "φανερόω"
+      ]
+    },
+    {
+      "strong": "G5357",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "φιάλη"
+      ]
+    },
+    {
+      "strong": "G5359",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "Φιλαδέλφεια"
+      ]
+    },
+    {
+      "strong": "G5368",
+      "tokens": 25,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "φιλέω"
+      ]
+    },
+    {
+      "strong": "G5395",
+      "tokens": 7,
+      "verses": 7,
+      "matches": true,
+      "lemmas": [
+        "φλόξ"
+      ]
+    },
+    {
+      "strong": "G5399",
+      "tokens": 95,
+      "verses": 92,
+      "matches": true,
+      "lemmas": [
+        "φοβέομαι"
+      ]
+    },
+    {
+      "strong": "G5404",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "φοῖνιξ"
+      ]
+    },
+    {
+      "strong": "G5438",
+      "tokens": 47,
+      "verses": 45,
+      "matches": true,
+      "lemmas": [
+        "φυλακή"
+      ]
+    },
+    {
+      "strong": "G5443",
+      "tokens": 31,
+      "verses": 23,
+      "matches": true,
+      "lemmas": [
+        "φυλή"
+      ]
+    },
+    {
+      "strong": "G5456",
+      "tokens": 139,
+      "verses": 128,
+      "matches": true,
+      "lemmas": [
+        "φωνή"
+      ]
+    },
+    {
+      "strong": "G5464",
+      "tokens": 4,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "χάλαζα"
+      ]
+    },
+    {
+      "strong": "G5474",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "χαλκολίβανον"
+      ]
+    },
+    {
+      "strong": "G5485",
+      "tokens": 155,
+      "verses": 147,
+      "matches": true,
+      "lemmas": [
+        "χάρις"
+      ]
+    },
+    {
+      "strong": "G5495",
+      "tokens": 176,
+      "verses": 168,
+      "matches": true,
+      "lemmas": [
+        "χείρ"
+      ]
+    },
+    {
+      "strong": "G5505",
+      "tokens": 23,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "χιλιάς"
+      ]
+    },
+    {
+      "strong": "G5506",
+      "tokens": 21,
+      "verses": 21,
+      "matches": true,
+      "lemmas": [
+        "χιλίαρχος"
+      ]
+    },
+    {
+      "strong": "G5510",
+      "tokens": 2,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "χιών"
+      ]
+    },
+    {
+      "strong": "G5513",
+      "tokens": 1,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "χλιαρός"
+      ]
+    },
+    {
+      "strong": "G5515",
+      "tokens": 4,
+      "verses": 4,
+      "matches": true,
+      "lemmas": [
+        "χλωρός"
+      ]
+    },
+    {
+      "strong": "G5518",
+      "tokens": 2,
+      "verses": 1,
+      "matches": true,
+      "lemmas": [
+        "χοῖνιξ"
+      ]
+    },
+    {
+      "strong": "G5528",
+      "tokens": 15,
+      "verses": 13,
+      "matches": true,
+      "lemmas": [
+        "χόρτος"
+      ]
+    },
+    {
+      "strong": "G5532",
+      "tokens": 49,
+      "verses": 47,
+      "matches": true,
+      "lemmas": [
+        "χρεία"
+      ]
+    },
+    {
+      "strong": "G5547",
+      "tokens": 528,
+      "verses": 498,
+      "matches": true,
+      "lemmas": [
+        "Χριστός"
+      ]
+    },
+    {
+      "strong": "G5550",
+      "tokens": 53,
+      "verses": 53,
+      "matches": true,
+      "lemmas": [
+        "χρόνος"
+      ]
+    },
+    {
+      "strong": "G5552",
+      "tokens": 17,
+      "verses": 15,
+      "matches": false,
+      "lemmas": [
+        "χρυσοῦς"
+      ]
+    },
+    {
+      "strong": "G5553",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "χρυσίον"
+      ]
+    },
+    {
+      "strong": "G5571",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "ψευδής"
+      ]
+    },
+    {
+      "strong": "G5574",
+      "tokens": 12,
+      "verses": 12,
+      "matches": true,
+      "lemmas": [
+        "ψεύδομαι"
+      ]
+    },
+    {
+      "strong": "G5586",
+      "tokens": 3,
+      "verses": 2,
+      "matches": true,
+      "lemmas": [
+        "ψῆφος"
+      ]
+    },
+    {
+      "strong": "G5590",
+      "tokens": 102,
+      "verses": 92,
+      "matches": true,
+      "lemmas": [
+        "ψυχή"
+      ]
+    },
+    {
+      "strong": "G5593",
+      "tokens": 4,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "ψυχρός"
+      ]
+    },
+    {
+      "strong": "G5598",
+      "tokens": 3,
+      "verses": 3,
+      "matches": true,
+      "lemmas": [
+        "Ὦ"
+      ]
+    },
+    {
+      "strong": "G5602",
+      "tokens": 61,
+      "verses": 59,
+      "matches": true,
+      "lemmas": [
+        "ὧδε"
+      ]
+    },
+    {
+      "strong": "G5603",
+      "tokens": 7,
+      "verses": 5,
+      "matches": true,
+      "lemmas": [
+        "ᾠδή"
+      ]
+    },
+    {
+      "strong": "G5610",
+      "tokens": 106,
+      "verses": 99,
+      "matches": true,
+      "lemmas": [
+        "ὥρα"
+      ]
+    },
+    {
+      "strong": "G5613",
+      "tokens": 503,
+      "verses": 441,
+      "matches": true,
+      "lemmas": [
+        "ὡς"
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "ap5-10-11",
+      "field": "morphologyCode",
+      "actual": "3PAI-P--",
+      "expected": "3FAI-P--"
+    },
+    {
+      "strong": "G1228",
+      "field": "concordance",
+      "oldTokens": 37,
+      "actualTokens": 35,
+      "oldVerses": 35,
+      "actualVerses": 33,
+      "lemmas": [
+        "διάβολος"
+      ]
+    },
+    {
+      "strong": "G2206",
+      "field": "concordance",
+      "oldTokens": 12,
+      "actualTokens": 1,
+      "oldVerses": 11,
+      "actualVerses": 1,
+      "lemmas": [
+        "ζηλεύω"
+      ]
+    },
+    {
+      "strong": "G5552",
+      "field": "concordance",
+      "oldTokens": 18,
+      "actualTokens": 17,
+      "oldVerses": 16,
+      "actualVerses": 15,
+      "lemmas": [
+        "χρυσοῦς"
+      ]
+    }
+  ],
+  "limitations": [
+    "Diferenças entre edições, não colação direta de manuscritos. Impacto semântico, glosas, sintaxe e exegese requerem análise contextual.",
+    "Comparação TR lexical não substitui verificação ortográfica; as leituras do aparato são conservadas literalmente."
+  ]
+}

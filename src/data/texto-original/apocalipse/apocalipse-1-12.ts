@@ -8,7 +8,7 @@ export const apocalipse1v12 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E voltei-me para ver a voz que falava comigo; e, ao voltar-me, vi sete candelabros de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Scrivener (1894) traz ἐλάλησεν em vez de ἐλάλει: aoristo em lugar do imperfeito. Robinson–Pierpont acrescenta ἐκεῖ após Καί, segundo o aparato SBLGNT. A primeira variante afeta a apresentação aspectual da fala; a segunda explicita o lugar.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): Καὶ WH Treg NA28 ] + ἐκεῖ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐλάλει» → «ἐλάλησε».",
   "exegeticalNotes": [
     "A imagem de «ver a voz» orienta o leitor do som ao personagem glorioso.",
     "Os candelabros serão identificados em 1:20 como igrejas."

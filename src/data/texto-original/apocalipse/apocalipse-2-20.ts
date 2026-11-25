@@ -8,7 +8,7 @@ export const apocalipse2v20 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tenho, porém, contra ti que toleras a mulher Jezabel, que se declara profetisa, ensina e desvia meus servos para que pratiquem imoralidade sexual e comam alimentos sacrificados aos ídolos.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): γυναῖκα WH Treg NA28 ] + σοῦ RP; λέγουσα WH Treg NA28 ] λέγει RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἀλλὰ» → «ἀλλ᾽»; acrescenta «ὀλίγα» após «σοῦ»; «ἀφεῖς» → «ἐᾷς»; «Ἰεζάβελ ἡ λέγουσα» → «Ἰεζαβήλ τὴν λέγουσαν»; acrescenta «διδάσκειν» após «προφῆτιν»; «διδάσκει καὶ πλανᾷ τοὺς» → «πλανᾶσθαι»; acrescenta «εἰδωλόθυτα» após «καὶ»; omite «εἰδωλόθυτα».",
   "exegeticalNotes": [
     "Jezabel funciona como figura de ensino enganoso e sedução idólatra.",
     "A conexão com a rainha do Antigo Testamento é literária e teológica; sua historicidade local não é confirmada pelo nome."

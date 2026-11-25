@@ -8,7 +8,7 @@ export const apocalipse6v12 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E vi quando abriu o sexto selo: houve um grande terremoto; o sol tornou-se negro como pano de saco de crina e a lua inteira tornou-se como sangue.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐγένετο μέλας WH Treg NA28 ] μέλας ἐγένετο RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἤνοιξεν» → «ἤνοιξε»; acrescenta «ἰδού» após «καὶ»; omite «ὅλη».",
   "syntacticNotes": [
     "σεισμὸς μέγας é sujeito de ἐγένετο; σάκκος τρίχινος participa da comparação."
   ],

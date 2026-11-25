@@ -8,7 +8,7 @@ export const apocalipse2v2 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço as tuas obras, o teu trabalho e a tua perseverança; não podes suportar os maus e puseste à prova aqueles que se dizem apóstolos, mas não são, e os achaste falsos.",
   "translationNote": "O presente δύνῃ rege o infinitivo aoristo βαστάσαι; a tradução distingue perseverança da recusa em suportar agentes maus.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): κόπον WH Treg NA28 ] + σου RP; ἀποστόλους WH Treg NA28 ] + εἶναι RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «σου» após «κόπον»; «ἐπείρασας» → «ἐπειράσω»; «λέγοντας ἑαυτοὺς» → «φάσκοντας εἶναι»; «εἰσίν» → «εἰσί».",
   "exegeticalNotes": [
     "A comunidade é elogiada por obras, perseverança e exame crítico dos falsos apóstolos.",
     "Discernimento e fidelidade são apresentados em conjunto."

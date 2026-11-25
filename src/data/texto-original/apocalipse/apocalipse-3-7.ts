@@ -8,7 +8,7 @@ export const apocalipse3v7 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Filadélfia escreve: Assim diz o Santo, o Verdadeiro, aquele que tem a chave de Davi, que abre e ninguém fechará, que fecha e ninguém abre:",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): Δαυίδ WH Treg NA28 ] τοῦ Δαυίδ RP; καὶ κλείων WH Treg NA28 ] αὐτήν εἴ μὴ ὁ ἀνοίγων RP; ἀνοίγει WH Treg NA28 ] ἀνοίξει RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «κλεῖν Δαυίδ» → «κλεῖδα τοῦ Δαβίδ»; «κλείσει» → «κλείει»; «κλείων» → «κλείει».",
   "exegeticalNotes": [
     "A chave de Davi evoca Isaías 22:22; interpretar tipologicamente a autoridade de Cristo sem identificar automaticamente cada abertura com atividade missionária."
   ],

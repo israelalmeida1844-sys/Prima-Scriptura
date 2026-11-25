@@ -7,7 +7,7 @@ export const apocalipse7v9 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "Depois dessas coisas, vi uma grande multidão que ninguém podia contar, de toda nação, tribos, povos e línguas, de pé diante do trono e do Cordeiro, vestida de mantos brancos, com ramos de palmeira nas mãos.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αὐτὸν WH Treg NA28 ] – RP; ἑστῶτες WH Treg NA28 ] ἑστώτας RP; φοίνικες WH Treg NA28 ] φοίνικας RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐδύνατο» → «ἠδύνατο»; «περιβεβλημένους» → «περιβεβλημένοι».",
   "syntacticNotes": [
     "ὃν ... αὐτόν é retomada pronominal na relativa; ἀριθμῆσαι complementa ἐδύνατο. O texto alterna ἑστῶτες nominativo e περιβεβλημένους acusativo, preservando a construção irregular."
   ],

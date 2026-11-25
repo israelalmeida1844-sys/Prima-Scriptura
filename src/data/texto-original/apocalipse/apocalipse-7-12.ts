@@ -7,7 +7,7 @@ export const apocalipse7v12 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "dizendo: Amém! O louvor, a glória, a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus pelos séculos dos séculos. Amém!",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
     "Sete substantivos nominativos coordenados formam doxologia nominal; τῷ θεῷ é dativo de atribuição; εἰς τοὺς αἰῶνας τῶν αἰώνων exprime duração."
   ],

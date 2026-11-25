@@ -7,7 +7,7 @@ export const apocalipse7v4 = {
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "E ouvi o número dos selados: cento e quarenta e quatro mil, selados de todas as tribos dos filhos de Israel:",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi colacionada nesta nota; isso não implica ausência de variantes.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἑκατὸν WH Treg NA28 ] + καὶ RP; ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμένων RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἑκατὸν τεσσεράκοντα τέσσαρες» → «ρμδ».",
   "syntacticNotes": [
     "τῶν ἐσφραγισμένων é particípio perfeito passivo substantivado; ἐσφραγισμένοι retoma os indivíduos enumerados."
   ],

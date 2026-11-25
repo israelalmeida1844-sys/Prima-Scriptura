@@ -7,7 +7,7 @@ export const apocalipse8v8 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O segundo anjo tocou a trombeta, e algo como uma grande montanha ardendo em fogo foi lançado ao mar; um terço do mar tornou-se sangue.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "SBLGNT, WH, Treg e NA28 incluem πυρί; RP omite essa palavra. A leitura mais longa explicita o fogo no qual a montanha arde. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): πυρὶ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐσάλπισεν» → «ἐσάλπισε».",
   "syntacticNotes": [
     "ὡς introduz comparação, não identidade; καιόμενον concorda com ὄρος; αἷμα é predicativo.",
     "πυρί é dativo associado a καιόμενον; τὸ τρίτον τῆς θαλάσσης é sujeito da oração com ἐγένετο."

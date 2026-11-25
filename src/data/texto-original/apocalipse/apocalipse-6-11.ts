@@ -8,7 +8,7 @@ export const apocalipse6v11 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E foi dada a cada um deles uma veste branca; e lhes foi dito que descansassem ainda por breve tempo, até se completarem seus conservos e irmãos que seriam mortos como eles.",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
-  "textualNotes": "Nenhuma variante específica foi examinada nesta nota; isso não implica ausência de variantes no aparato crítico.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἀναπαύσονται WH Treg NA28 ] ἀναπαύσωνται RP; μικρόν WH Treg NA28 ] – RP; πληρωθῶσιν WH NA28 ] πληρώσωσιν Treg RP; αὐτῶν WH Treg NA28 ] + καὶ RP; ἀποκτέννεσθαι WH Treg NA28 ] ἀποκτένεσθαι RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐδόθη αὐτοῖς ἑκάστῳ στολὴ λευκή» → «ἐδόθησαν ἑκάστοις στολαὶ λευκαί»; «ἀναπαύσονται» → «ἀναπαύσωνται»; «πληρωθῶσιν» → «οὗ πληρώσονται»; «ἀποκτέννεσθαι» → «ἀποκτείνεσθαι».",
   "syntacticNotes": [
     "ἐδόθη é passivo singular; ἑκάστῳ é dativo distributivo; ἵνα ἀναπαύσονται conserva futuro no corpus; ἕως πληρωθῶσιν usa subjuntivo passivo."
   ],

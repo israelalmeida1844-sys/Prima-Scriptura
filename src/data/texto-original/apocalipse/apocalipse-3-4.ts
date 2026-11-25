@@ -8,7 +8,7 @@ export const apocalipse3v4 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Mas tens uns poucos em Sardes, pessoas que não contaminaram suas vestes; elas andarão comigo de branco, porque são dignas.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἔχεις ὀλίγα WH Treg NA28 ] ὀλίγα ἔχεις RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ἀλλὰ»; acrescenta «καὶ» após «ὀνόματα»; «περιπατήσουσιν» → «περιπατήσουσι».",
   "exegeticalNotes": [
     "A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora."
   ],

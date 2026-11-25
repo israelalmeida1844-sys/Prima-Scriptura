@@ -8,7 +8,7 @@ export const apocalipse1v9 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eu, João, irmão de vocês e companheiro na tribulação, no reino e na perseverança em Jesus, estava na ilha chamada Patmos por causa da palavra de Deus e do testemunho de Jesus.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Scrivener (1894) acrescenta καί após ὁ, repete ἐν antes de βασιλείᾳ e apresenta ὑπομονῇ Ἰησοῦ Χριστοῦ em lugar de ὑπομονῇ ἐν Ἰησοῦ; acrescenta também διά e Χριστοῦ na última expressão. O aparato SBLGNT registra em Robinson–Pierpont κοινωνὸς em vez de συγκοινωνὸς, Χριστῷ após ἐν, além de διά e Χριστοῦ. As variantes afetam a formulação da participação e dos títulos cristológicos.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): συγκοινωνὸς WH Treg NA28 ] κοινωνὸς RP; ἐν WH Treg NA28 ] + Χριστῷ RP; καὶ WH Treg NA28 ] + διὰ RP; Ἰησοῦ WH Treg NA28 ] + Χριστοῦ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ» após «ὁ»; acrescenta «ἐν τῇ» após «καὶ»; omite «ἐν»; acrescenta «Χριστοῦ» após «Ἰησοῦ»; acrescenta «διὰ» após «καὶ»; acrescenta «Χριστοῦ» após «Ἰησοῦ».",
   "exegeticalNotes": [
     "João se apresenta como irmão e coparticipante, não como observador distante da aflição das igrejas.",
     "A associação de tribulação, reino e perseverança situa o testemunho cristão no contexto da fidelidade a Jesus."

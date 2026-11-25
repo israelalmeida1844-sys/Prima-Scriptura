@@ -7,7 +7,7 @@ export const apocalipse8v4 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "E a fumaça dos incensos subiu, com as orações dos santos, da mão do anjo diante de Deus.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
     "ταῖς προσευχαῖς é dativo de associação no contexto; ἐκ indica origem.",
     "ὁ καπνός é sujeito; τῶν θυμιαμάτων é genitivo de origem; ἐνώπιον τοῦ θεοῦ indica presença."

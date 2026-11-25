@@ -8,7 +8,7 @@ export const apocalipse5v5 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Então um dos anciãos me disse: Não chores. Eis que o Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o livro e os seus sete selos.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἀνοῖξαι WH Treg NA28 ] ὁ ἀνοίγων RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ὢν» após «ὁ»; «Δαυίδ» → «Δαβίδ»; acrescenta «λῦσαι» após «καὶ».",
   "syntacticNotes": [
     "Μὴ κλαῖε é imperativo presente ativo com partícula negativa, dirigindo ordem a João.",
     "ἐνίκησεν é aoristo indicativo ativo, terceira pessoa singular; ἀνοῖξαι introduz a ação decorrente da vitória.",

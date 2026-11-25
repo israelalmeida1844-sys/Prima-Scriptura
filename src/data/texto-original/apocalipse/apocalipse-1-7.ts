@@ -7,7 +7,7 @@ export const apocalipse1v7 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Eis que ele vem com as nuvens, e todo olho o verá, até mesmo aqueles que o traspassaram; e todas as tribos da terra se lamentarão por causa dele. Sim, amém.",
-  "textualNotes": "SBLGNT e Scrivener (1894) coincidem na sequência lexical do versículo, desconsideradas acentuação e pontuação editoriais; o aparato SBLGNT não registra divergência entre suas edições de comparação.",
+  "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "translationNote": "«Toda vista» é traduzido idiomaticamente por «todo olho»; preserva-se o paralelismo profético.",
   "words": [
     {

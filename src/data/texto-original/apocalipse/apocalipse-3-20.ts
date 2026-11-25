@@ -8,7 +8,7 @@ export const apocalipse3v20 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eis que estou à porta e bato. Se alguém ouvir minha voz e abrir a porta, entrarei para estar com ele e cearei com ele, e ele comigo.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ NA28 RP ] – WH Treg. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «καὶ».",
   "exegeticalNotes": [
     "O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário."
   ],
