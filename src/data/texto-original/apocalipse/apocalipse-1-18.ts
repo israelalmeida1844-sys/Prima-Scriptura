@@ -6,9 +6,9 @@ export const apocalipse1v18 = {
   "verse": 18,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "e aquele que vive. Estive morto, mas eis que vivo para todo o sempre e tenho as chaves da morte e do Hades.",
+  "translation": "\"e aquele que vive. Estive morto, e eis que vivo pelos séculos dos séculos e tenho as chaves da morte e do Hades.\"",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Robinson–Pierpont acrescenta ἀμήν após αἰώνων, conforme o aparato SBLGNT; Scrivener (1894) também o acrescenta e inverte a ordem dos dois domínios das chaves, τοῦ ᾅδου καὶ τοῦ θανάτου. O texto crítico apresenta morte antes de Hades.",
   "exegeticalNotes": [
     "O Vivente identifica-se pela morte real e pela vida sem fim.",
     "As chaves simbolizam autoridade sobre a morte e o Hades."
@@ -27,12 +27,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena novo título com Ap 1:17. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena novo título com Ap 1:17",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Artigo substantivador de ζῶν. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Artigo substantivador de ζῶν",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse1v18 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "ζῶν",
       "transliteration": "zōn",
-      "gloss": "vivo",
+      "gloss": "que vive",
       "strong": "G2198",
       "lemma": "ζάω",
       "lemmaTransliteration": "zaō",
@@ -75,12 +75,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "viver",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vivo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio substantivado em aposição aos títulos anteriores. Verbo no presente, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio substantivado em aposição aos títulos anteriores",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -100,12 +100,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Conjunção que introduz declaração sobre a morte. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Conjunção que introduz declaração sobre a morte",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -124,12 +124,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "1AMI-S--",
       "morphology": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «estive». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado verbal aoristo de primeira pessoa. Verbo no aoristo, voz média, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal aoristo de primeira pessoa",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -148,12 +148,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "morto",
-      "explanation": "Adjetivo nominativo singular masculino. Modificador adjetival ou predicativo. Glosa contextual: «morto». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicativo de ἐγενόμην. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Predicativo de ἐγενόμην",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -172,12 +172,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a morte e a vida. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a morte e a vida",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -196,12 +196,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
       "meanings": "eis; veja",
-      "explanation": "Partícula (indeclinável). Modificador ou elemento discursivo. Glosa contextual: «eis». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Partícula de apresentação enfática. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Modificador ou elemento discursivo",
+        "role": "Partícula de apresentação enfática",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "viver",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vivo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio predicativo na construção com εἰμι. Verbo no presente, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio predicativo na construção com εἰμι",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ser; estar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «sou». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Cópula de ζῶν. Verbo no presente, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Cópula de ζῶν",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de duração. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de duração",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «os». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de αἰῶνας. Artigo definido acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de αἰῶνας",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "era; eternidade",
-      "explanation": "Substantivo acusativo plural masculino. Nome em função acusativa. Glosa contextual: «séculos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento acusativo de εἰς. Substantivo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Complemento acusativo de εἰς",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo plural masculino. Determinante do sintagma nominal. Glosa contextual: «dos/das». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de αἰώνων. Artigo definido genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de αἰώνων",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "era; eternidade",
-      "explanation": "Substantivo genitivo plural masculino. Complemento nominal no genitivo. Glosa contextual: «séculos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo intensificador de αἰῶνας. Substantivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo intensificador de αἰῶνας",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a vida e a posse das chaves. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a vida e a posse das chaves",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter; segurar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal presente indicativo primeira pessoa singular. Glosa contextual: «tenho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado verbal presente de primeira pessoa. Verbo no presente, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Núcleo verbal presente indicativo primeira pessoa singular",
+        "role": "Predicado verbal presente de primeira pessoa",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «as». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de κλεῖς. Artigo definido acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de κλεῖς",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -461,7 +461,7 @@ export const apocalipse1v18 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "chave",
-      "explanation": "Substantivo acusativo plural feminino. Objeto direto de ἔχω. Glosa contextual: «chaves». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Objeto direto de ἔχω. Substantivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
@@ -485,12 +485,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante do sintagma nominal. Glosa contextual: «do». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de θανάτου. Artigo definido genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de θανάτου",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -509,12 +509,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "morte",
-      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «morte». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo adnominal de κλεῖς. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo adnominal de κλεῖς",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -533,12 +533,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena θανάτου e ᾅδου. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena θανάτου e ᾅδου",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -557,12 +557,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante do sintagma nominal. Glosa contextual: «do». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ᾅδου. Artigo definido genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ᾅδου",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },
@@ -581,12 +581,12 @@ export const apocalipse1v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Hades; domínio dos mortos",
-      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «Hades». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo adnominal coordenado de κλεῖς. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo adnominal coordenado de κλεῖς",
         "clauseId": "AP.1.18.C1",
         "governedBy": null
       },

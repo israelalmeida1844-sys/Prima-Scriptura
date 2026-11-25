@@ -8,9 +8,10 @@ export const apocalipse1v15 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Seus pés eram semelhantes a metal brilhante, como que incandescente numa fornalha, e sua voz era como o som de muitas águas.",
   "translationNote": "A tradução do particípio πεπυρωμένης é interpretativa; o grego do SBLGNT conserva genitivo formalmente não concordante com καμίνῳ.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O SBLGNT lê πεπυρωμένης, genitivo singular feminino. Robinson–Pierpont e Scrivener (1894) leem πεπυρωμένοι, nominativo plural masculino, concordando com πόδες. A variante altera a concordância e torna explícito que os pés são comparados a metal incandescente.",
   "exegeticalNotes": [
-    "O substantivo χαλκολίβανον ocorre duas vezes no NT (Ap 1:15; 2:18); é raro, mas não um hapax legomenon, e seu sentido metalúrgico não é estabelecido com precisão."
+    "A imagem de metal incandescente e a voz como muitas águas ecoam Dn 10:6 e Ez 43:2.",
+    "O termo metalúrgico também aparece em Ap 2:18; a imagem comunica brilho e majestade sem exigir identificação precisa da liga."
   ],
   "words": [
     {
@@ -26,12 +27,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena novo traço da figura. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena novo traço da figura",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -50,12 +51,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de πόδες. Artigo definido nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de πόδες",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -74,12 +75,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
       "meanings": "pé",
-      "explanation": "Substantivo nominativo plural masculino. Núcleo nominal. Glosa contextual: «pés». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito da primeira oração nominal. Substantivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Sujeito da primeira oração nominal",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -98,12 +99,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de πόδες. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de πόδες",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -122,12 +123,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "semelhante",
-      "explanation": "Adjetivo nominativo plural masculino. Modificador adjetival ou predicativo. Glosa contextual: «semelhantes». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicativo de πόδες. Adjetivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Predicativo de πόδες",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -151,7 +152,7 @@ export const apocalipse1v15 = {
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Complemento comparativo dativo de ὅμοιοι",
+        "role": "Dativo de comparação regido por ὅμοιοι",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -171,12 +172,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Partícula de comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Partícula de comparação",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -195,12 +196,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de localização. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de localização",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -219,7 +220,7 @@ export const apocalipse1v15 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "fornalha",
-      "explanation": "Substantivo dativo singular feminino. Complemento dativo de ἐν. Glosa contextual: «fornalha». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento dativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
@@ -248,7 +249,7 @@ export const apocalipse1v15 = {
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Particípio perfeito passivo genitivo feminino singular; construção elíptica ou irregular",
+        "role": "Particípio perfeito passivo genitivo feminino, construção irregular frente a καμίνῳ",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -268,12 +269,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a descrição da voz. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a descrição da voz",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -292,12 +293,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de φωνή. Artigo definido nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de φωνή",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -316,12 +317,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «voz». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito da segunda oração nominal. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Sujeito da segunda oração nominal",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -340,12 +341,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de φωνή. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de φωνή",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -364,12 +365,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Partícula de comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Partícula de comparação",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -388,12 +389,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «voz». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Núcleo do predicativo comparativo. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Núcleo do predicativo comparativo",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -412,12 +413,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo genitivo plural neutro",
       "meanings": "água",
-      "explanation": "Substantivo genitivo plural neutro. Complemento nominal no genitivo. Glosa contextual: «águas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo de origem ou caracterização de φωνή. Substantivo genitivo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo de origem ou caracterização de φωνή",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -436,12 +437,12 @@ export const apocalipse1v15 = {
       "morphologyCode": "----GPN-",
       "morphology": "Adjetivo genitivo plural neutro",
       "meanings": "muito; numeroso",
-      "explanation": "Adjetivo genitivo plural neutro. Modificador adjetival ou predicativo. Glosa contextual: «muitas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de ὑδάτων. Adjetivo genitivo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:15"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de ὑδάτων",
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
@@ -450,8 +451,8 @@ export const apocalipse1v15 = {
     }
   ],
   "syntacticNotes": [
-    "χαλκολιβάνῳ (G5474) é dativo neutro singular de termo de referência metalúrgica discutida, documentado também em Ap 2:18; portanto, não é hapax legomenon no Novo Testamento. O SBLGNT apresenta πεπυρωμένης, particípio perfeito passivo genitivo feminino singular, que não concorda formalmente com καμίνῳ (dativo feminino singular); a construção é irregular ou elíptica. Não substituir silenciosamente por outra forma.",
-    "χαλκολίβανον é termo metalúrgico raro de sentido disputado; há duas ocorrências neotestamentárias (1:15 e 2:18). πεπυρωμένης é genitivo feminino singular e não concorda regularmente com καμίνῳ, dativo.",
-    "O particípio πεπυρωμένης conserva genitivo feminino singular formalmente incongruente com καμίνῳ."
+    "ὅμοιοι rege o dativo χαλκολιβάνῳ. O sentido exato do metal é discutido; há outra ocorrência em Ap 2:18.",
+    "πεπυρωμένης, genitivo feminino singular, não concorda regularmente com καμίνῳ, dativo, nem com πόδες, nominativo plural. Preserva-se o solecismo ou elipse do SBLGNT.",
+    "Na segunda oração nominal, ὡς φωνὴ ὑδάτων πολλῶν introduz a comparação auditiva, com genitivo descritivo."
   ]
 } as const;

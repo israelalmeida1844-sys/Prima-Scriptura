@@ -8,7 +8,7 @@ export const apocalipse1v9 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eu, João, irmão de vocês e companheiro na tribulação, no reino e na perseverança em Jesus, estava na ilha chamada Patmos por causa da palavra de Deus e do testemunho de Jesus.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Comparação de edições: o SBLGNT lê συγκοινωνὸς ἐν τῇ θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ ἐν Ἰησοῦ; o Textus Receptus de Scrivener (1894) traz ὁ καὶ ἀδελφὸς, repete ἐν antes de βασιλείᾳ e lê ὑπομονῇ Ἰησοῦ Χριστοῦ, sem a preposição ἐν nesse último sintagma. A redação interlinear segue o SBLGNT. Não se atribui aqui apoio a testemunho manuscrito sem exame do aparato.",
+  "textualNotes": "Scrivener (1894) acrescenta καί após ὁ, repete ἐν antes de βασιλείᾳ e apresenta ὑπομονῇ Ἰησοῦ Χριστοῦ em lugar de ὑπομονῇ ἐν Ἰησοῦ; acrescenta também διά e Χριστοῦ na última expressão. O aparato SBLGNT registra em Robinson–Pierpont κοινωνὸς em vez de συγκοινωνὸς, Χριστῷ após ἐν, além de διά e Χριστοῦ. As variantes afetam a formulação da participação e dos títulos cristológicos.",
   "exegeticalNotes": [
     "João se apresenta como irmão e coparticipante, não como observador distante da aflição das igrejas.",
     "A associação de tribulação, reino e perseverança situa o testemunho cristão no contexto da fidelidade a Jesus."
@@ -27,12 +27,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal nominativo singular. Sujeito nominativo explícito de ἐγενόμην. Glosa contextual: «eu». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito explícito de ἐγενόμην. Pronome pessoal nominativo singular.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Sujeito nominativo explícito de ἐγενόμην",
+        "role": "Sujeito explícito de ἐγενόμην",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "João",
-      "explanation": "Substantivo nominativo singular masculino. Aposto nominativo ao sujeito Ἐγώ. Glosa contextual: «João». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Aposto nominativo de Ἐγώ. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Aposto nominativo ao sujeito Ἐγώ",
+        "role": "Aposto nominativo de Ἐγώ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -76,12 +76,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ἀδελφός. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ἀδελφός",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -100,12 +100,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "irmão",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual: «irmão». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Aposto nominativo de Ἐγώ. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Aposto nominativo de Ἐγώ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -124,12 +124,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
       "meanings": "tu; vós",
-      "explanation": "Pronome pessoal genitivo plural. Genitivo de relação/posse dependente de ἀδελφός. Glosa contextual: «de vocês». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo de relação de ἀδελφός. Pronome pessoal genitivo plural.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Genitivo de relação/posse dependente de ἀδελφός",
+        "role": "Genitivo de relação de ἀδελφός",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -148,12 +148,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena ἀδελφός e συγκοινωνός. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena ἀδελφός e συγκοινωνός",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -172,12 +172,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "coparticipante; companheiro",
-      "explanation": "Substantivo nominativo singular masculino. Aposto nominativo que qualifica João. Glosa contextual: «coparticipante». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Aposto coordenado de Ἐγώ. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Aposto nominativo que qualifica João",
+        "role": "Aposto coordenado de Ἐγώ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -196,12 +196,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de participação nos três dativos seguintes. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de participação nos três dativos seguintes",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de θλίψει. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de θλίψει",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "tribulação; aflição",
-      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «tribulação». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Primeiro complemento de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Primeiro complemento de ἐν",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena θλίψει e βασιλείᾳ. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena θλίψει e βασιλείᾳ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "reino; realeza",
-      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «reino». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Segundo complemento dativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Segundo complemento dativo de ἐν",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena βασιλείᾳ e ὑπομονῇ. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena βασιλείᾳ e ὑπομονῇ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "perseverança; resistência",
-      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «perseverança». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Terceiro complemento dativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Terceiro complemento dativo de ἐν",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição que delimita a esfera da participação. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que delimita a esfera da participação",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -388,12 +388,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Jesus",
-      "explanation": "Substantivo dativo singular masculino. Nome em construção dativa. Glosa contextual: «Jesus». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento dativo de ἐν. Substantivo dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Complemento dativo de ἐν",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "1AMI-S--",
       "morphology": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular. Predicado verbal principal; sujeito ἐγώ. Glosa contextual: «estive». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado verbal principal de Ἐγώ. Verbo no aoristo, voz média, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Predicado verbal principal; sujeito ἐγώ",
+        "role": "Predicado verbal principal de Ἐγώ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição locativa. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição locativa",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de νήσῳ. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de νήσῳ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "ilha",
-      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «ilha». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento locativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Complemento locativo de ἐν",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -501,7 +501,7 @@ export const apocalipse1v9 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tēi",
-      "gloss": "à",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -509,12 +509,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Artigo da posição atributiva de καλουμένῃ. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Artigo da posição atributiva de καλουμένῃ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -533,12 +533,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "-PPPDSF-",
       "morphology": "Verbo no presente, voz passiva, particípio dativo singular feminino",
       "meanings": "chamar; denominar",
-      "explanation": "Verbo no presente, voz passiva, particípio dativo singular feminino. Forma participial; relação sintática a examinar. Glosa contextual: «chamada». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio presente passivo atributivo de νήσῳ. Verbo no presente, voz passiva, particípio dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio presente passivo atributivo de νήσῳ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -557,12 +557,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Patmos",
-      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «Patmos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Nome próprio em aposição dativa à ilha. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Nome próprio em aposição dativa à ilha",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -581,12 +581,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "por causa de; através de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «por causa de». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição causal que rege λόγον e μαρτυρίαν. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição causal que rege λόγον e μαρτυρίαν",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -605,12 +605,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de λόγον. Artigo definido acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de λόγον",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -629,12 +629,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "palavra; mensagem",
-      "explanation": "Substantivo acusativo singular masculino. Nome em função acusativa. Glosa contextual: «palavra». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Primeiro complemento acusativo de διά. Substantivo acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Primeiro complemento acusativo de διά",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -653,12 +653,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular masculino. Determinante do sintagma nominal. Glosa contextual: «do». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de θεοῦ. Artigo definido genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de θεοῦ",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -677,12 +677,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Deus",
-      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «Deus». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo de origem de λόγον. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo de origem de λόγον",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -701,12 +701,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena λόγον e μαρτυρίαν. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena λόγον e μαρτυρίαν",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -725,12 +725,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de μαρτυρίαν. Artigo definido acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de μαρτυρίαν",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -749,12 +749,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "testemunho",
-      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «testemunho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Segundo complemento acusativo de διά. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Segundo complemento acusativo de διά",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },
@@ -765,7 +765,7 @@ export const apocalipse1v9 = {
       "shortMorph": "N-GSM",
       "greek": "Ἰησοῦ",
       "transliteration": "Iēsou",
-      "gloss": "Jesus",
+      "gloss": "de Jesus",
       "strong": "G2424",
       "lemma": "Ἰησοῦς",
       "lemmaTransliteration": "Iēsous",
@@ -773,12 +773,12 @@ export const apocalipse1v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Jesus",
-      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «Jesus». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo de μαρτυρίαν, relação com Jesus. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo de μαρτυρίαν, relação com Jesus",
         "clauseId": "AP.1.9.C1",
         "governedBy": null
       },

@@ -8,7 +8,7 @@ export const apocalipse1v14 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sua cabeça e seus cabelos eram brancos como lã branca, como neve; seus olhos, como chama de fogo.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Scrivener (1894) apresenta ὡσεὶ antes de ἔριον, em lugar de ὡς no SBLGNT. Ambas as partículas introduzem comparação; a diferença não modifica a imagem da lã branca.",
   "exegeticalNotes": [
     "A brancura da cabeça e dos cabelos evoca imagens de pureza e majestade.",
     "Os olhos como fogo antecipam o olhar penetrante do Cristo exaltado."
@@ -27,12 +27,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de κεφαλή. Artigo definido nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de κεφαλή",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "mas; e; por sua vez",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Conjunção que introduz novo traço da figura. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Conjunção que introduz novo traço da figura",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "cabeça",
-      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «cabeça». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Primeiro sujeito da descrição nominal. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Primeiro sujeito da descrição nominal",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de κεφαλή. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de κεφαλή",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena κεφαλή e τρίχες. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena κεφαλή e τρίχες",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de τρίχες. Artigo definido nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de τρίχες",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "cabelo; fio de cabelo",
-      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual: «cabelos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Segundo sujeito da descrição. Substantivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Segundo sujeito da descrição",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "branco",
-      "explanation": "Adjetivo nominativo plural feminino. Predicativo nominativo feminino plural de τρίχες. Glosa contextual: «brancos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicativo plural, concorda formalmente com τρίχες. Adjetivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Predicativo nominativo feminino plural de τρίχες",
+        "role": "Predicativo plural, concorda formalmente com τρίχες",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Introduz a primeira comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Introduz a primeira comparação",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -243,12 +243,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "lã",
-      "explanation": "Substantivo nominativo singular neutro. Núcleo nominal. Glosa contextual: «lã». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Termo da comparação com λευκαί. Substantivo nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Termo da comparação com λευκαί",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -267,12 +267,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
       "meanings": "branco",
-      "explanation": "Adjetivo nominativo singular neutro. Modificador adjetival ou predicativo. Glosa contextual: «branca». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de ἔριον. Adjetivo nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de ἔριον",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Introduz a segunda comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Introduz a segunda comparação",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "neve",
-      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «neve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Termo da comparação com λευκαί. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Termo da comparação com λευκαί",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -341,12 +341,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a descrição dos olhos. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a descrição dos olhos",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -365,12 +365,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ὀφθαλμοί. Artigo definido nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ὀφθαλμοί",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
       "meanings": "olho",
-      "explanation": "Substantivo nominativo plural masculino. Núcleo nominal. Glosa contextual: «olhos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito da oração nominal. Substantivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Sujeito da oração nominal",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de ὀφθαλμοί. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de ὀφθαλμοί",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Partícula de comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Partícula de comparação",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "chama",
-      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «chama». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicativo comparativo de ὀφθαλμοί. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Predicativo comparativo de ὀφθαλμοί",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse1v14 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "fogo",
-      "explanation": "Substantivo genitivo singular neutro. Complemento nominal no genitivo. Glosa contextual: «fogo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo de caracterização de φλόξ. Substantivo genitivo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:14"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo de caracterização de φλόξ",
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },

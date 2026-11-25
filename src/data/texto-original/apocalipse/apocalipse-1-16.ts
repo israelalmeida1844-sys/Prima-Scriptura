@@ -6,9 +6,9 @@ export const apocalipse1v16 = {
   "verse": 16,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Na mão direita ele segurava sete estrelas; de sua boca saía uma espada afiada de dois gumes, e seu rosto brilhava como o sol em toda a sua força.",
+  "translation": "E tinha na mão direita sete estrelas; de sua boca saía uma espada afiada de dois gumes, e seu rosto brilhava como o sol em sua força.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O SBLGNT apresenta χειρὶ αὐτοῦ. Robinson–Pierpont e Scrivener (1894) leem αὐτοῦ χειρί; a ordem alternativa não modifica a identificação da mão direita.",
   "exegeticalNotes": [
     "As sete estrelas adquirem identificação contextual em 1:20.",
     "A espada da boca e o brilho solar expressam autoridade e glória."
@@ -27,12 +27,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Conjunção aditiva que prossegue a descrição. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Conjunção aditiva que prossegue a descrição",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -43,7 +43,7 @@ export const apocalipse1v16 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "ἔχων",
       "transliteration": "echōn",
-      "gloss": "tenho",
+      "gloss": "tendo",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -51,12 +51,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter; segurar",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Particípio presente ativo nominativo singular masculino da figura da visão. Glosa contextual: «tenho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio presente nominativo, retoma a figura em construção descritiva. Verbo no presente, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Particípio presente ativo nominativo singular masculino da figura da visão",
+        "role": "Particípio presente nominativo, retoma a figura em construção descritiva",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição locativa. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição locativa",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de χειρί. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de χειρί",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
       "meanings": "direita; direito",
-      "explanation": "Adjetivo dativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «direita». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de χειρί. Adjetivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de χειρί",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "mão",
-      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «mão». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento dativo locativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Complemento dativo locativo de ἐν",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de χειρί. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de χειρί",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo acusativo plural masculino. Nome em função acusativa. Glosa contextual: «estrelas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Objeto direto de ἔχων. Substantivo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Objeto direto de ἔχων",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo acusativo plural masculino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral posposto a ἀστέρας. Adjetivo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral posposto a ἀστέρας",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a descrição da espada. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a descrição da espada",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "de; para fora de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «de». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de origem. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de origem",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular neutro. Determinante do sintagma nominal. Glosa contextual: «do». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de στόματος. Artigo definido genitivo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de στόματος",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "boca",
-      "explanation": "Substantivo genitivo singular neutro. Complemento nominal no genitivo. Glosa contextual: «boca». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento genitivo de ἐκ. Substantivo genitivo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Complemento genitivo de ἐκ",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de στόματος. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de στόματος",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "espada longa",
-      "explanation": "Substantivo nominativo singular feminino. Sujeito nominativo singular feminino da descrição elíptica. Glosa contextual: «espada». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito nominativo de descrição participial. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Sujeito nominativo singular feminino da descrição elíptica",
+        "role": "Sujeito nominativo de descrição participial",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -388,12 +388,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
       "meanings": "de dois gumes",
-      "explanation": "Adjetivo nominativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «de dois gumes». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de ῥομφαία. Adjetivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de ῥομφαία",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -412,12 +412,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
       "meanings": "afiado; agudo",
-      "explanation": "Adjetivo nominativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «afiada». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de ῥομφαία. Adjetivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de ῥομφαία",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -436,12 +436,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "-PMPNSF-",
       "morphology": "Verbo no presente, voz média, particípio nominativo singular feminino",
       "meanings": "sair; proceder",
-      "explanation": "Verbo no presente, voz média, particípio nominativo singular feminino. Particípio presente médio/passivo nominativo singular feminino, concordando com ῥομφαία. Glosa contextual: «que saía». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio presente médio nominativo, concorda com ῥομφαία. Verbo no presente, voz média, particípio nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Particípio presente médio/passivo nominativo singular feminino, concordando com ῥομφαία",
+        "role": "Particípio presente médio nominativo, concorda com ῥομφαία",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a descrição do rosto. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a descrição do rosto",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ὄψις. Artigo definido nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ὄψις",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -509,12 +509,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "aparência; aspecto",
-      "explanation": "Substantivo nominativo singular feminino. Núcleo nominal. Glosa contextual: «rosto». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito da descrição nominal. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Sujeito da descrição nominal",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -533,12 +533,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de ὄψις. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de ὄψις",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -557,12 +557,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Introduz a oração comparativa. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Introduz a oração comparativa",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -581,12 +581,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ἥλιος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ἥλιος",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -605,12 +605,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "sol",
-      "explanation": "Substantivo nominativo singular masculino. Núcleo nominal. Glosa contextual: «sol». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito de φαίνει. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Sujeito de φαίνει",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -629,12 +629,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "brilhar; aparecer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «brilha». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado da oração comparativa. Verbo no presente, voz ativa, indicativo, 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado da oração comparativa",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -653,12 +653,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de modo. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de modo",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -677,12 +677,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de δυνάμει. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de δυνάμει",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -701,12 +701,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "força; poder",
-      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «força». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento dativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Complemento dativo de ἐν",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -725,12 +725,12 @@ export const apocalipse1v16 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de δυνάμει. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de δυνάμει",
         "clauseId": "AP.1.16.C1",
         "governedBy": null
       },
@@ -739,7 +739,8 @@ export const apocalipse1v16 = {
     }
   ],
   "syntacticNotes": [
-    "ἔχων é particípio presente ativo nominativo masculino singular, ligado à figura da visão. A espada ῥομφαία δίστομος ὀξεῖα no nominativo é descrita saindo da boca, expressão simbólica de autoridade (cf. Ap 19:15,21).",
-    "ἔχων, particípio nominativo, apresenta uma construção descritiva; ῥομφαία ... ἐκπορευομένη é núcleo nominal e particípio nominativos. A espada que sai da boca é imagem visionária, não descrição de arma literal."
+    "ἔχων é particípio nominativo masculino que retoma a figura da visão, com mudança em relação à construção acusativa de Ap 1:13. O objeto direto é ἀστέρας ἑπτά.",
+    "ῥομφαία e ἐκπορευομένη concordam no nominativo feminino singular, numa descrição nominal participial.",
+    "ὡς ὁ ἥλιος φαίνει introduz comparação com oração finita; ἐν τῇ δυνάμει descreve o modo do brilho."
   ]
 } as const;

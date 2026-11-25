@@ -6,12 +6,12 @@ export const apocalipse1v20 = {
   "verse": 20,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quanto ao mistério das sete estrelas que você viu na minha mão direita e dos sete candelabros de ouro: as sete estrelas são os anjos das sete igrejas, e os sete candelabros são as sete igrejas».",
+  "translation": "\"Quanto ao mistério das sete estrelas que você viu na minha mão direita e dos sete candelabros de ouro: as sete estrelas são os anjos das sete igrejas, e os sete candelabros são as sete igrejas.\"",
   "translationNote": "A construção inicial é topicalizada e apresenta assimetria de casos; a tradução portuguesa «Quanto ao mistério...» representa a função discursiva, sem converter o grego em acusativo.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O SBLGNT lê οὓς, acusativo masculino plural; Robinson–Pierpont e Scrivener (1894) trazem ὧν, genitivo atraído pelo antecedente. Scrivener também apresenta αἱ ἑπτὰ λυχνίαι ἃς εἶδες, em lugar de αἱ λυχνίαι αἱ ἑπτὰ. A identificação simbólica dos candelabros permanece a mesma.",
   "exegeticalNotes": [
-    "τὸ μυστήριον tem análise nominativa no MorphGNT, ao passo que τὰς ἑπτὰ λυχνίας é acusativo; não uniformizar casos sem justificativa.",
-    "O versículo identifica as estrelas com anjos das igrejas e os candelabros com as igrejas."
+    "O próprio texto fornece a chave interpretativa dos dois símbolos: as estrelas correspondem aos anjos e os candelabros às igrejas.",
+    "A interpretação inaugura as mensagens de Ap 2–3; a natureza dos anjos deve ser discutida à luz das cartas, sem ser decidida apenas pelo lema ἄγγελος."
   ],
   "words": [
     {
@@ -27,12 +27,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular neutro. Artigo neutro singular, forma idêntica no nominativo e acusativo; MorphGNT: nominativo. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de μυστήριον, neutro singular. Artigo definido nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Artigo neutro singular, forma idêntica no nominativo e acusativo; MorphGNT: nominativo",
+        "role": "Determinante de μυστήριον, neutro singular",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -56,7 +56,7 @@ export const apocalipse1v20 = {
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Nominativo singular neutro na análise MorphGNT; tópico de frase inicial",
+        "role": "Tópico antecipado no nominativo segundo MorphGNT",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo plural masculino. Determinante do sintagma nominal. Glosa contextual: «dos/das». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ἀστέρων. Artigo definido genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ἀστέρων",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo genitivo plural masculino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo genitivo plural masculino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral que quantifica ἀστέρων. Adjetivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral que quantifica ἀστέρων",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo genitivo plural masculino. Complemento nominal no genitivo. Glosa contextual: «estrelas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo de conteúdo de μυστήριον. Substantivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo de conteúdo de μυστήριον",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome relativo acusativo plural masculino",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo acusativo plural masculino. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Relativo acusativo masculino plural, objeto de εἶδες. Pronome relativo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Pronome em estrutura relativa",
+        "role": "Relativo acusativo masculino plural, objeto de εἶδες",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual: «viste». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado da oração relativa. Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado da oração relativa",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "sobre; em",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «sobre». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de localização. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de localização",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo singular feminino. Determinante do sintagma nominal. Glosa contextual: «da». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de δεξιᾶς. Artigo definido genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de δεξιᾶς",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -243,12 +243,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GSF-",
       "morphology": "Adjetivo genitivo singular feminino",
       "meanings": "direita; direito",
-      "explanation": "Adjetivo genitivo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «direita». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo substantivado, complemento genitivo de ἐπί. Adjetivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo substantivado, complemento genitivo de ἐπί",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -267,12 +267,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal genitivo singular. Pronome pessoal no sintagma. Glosa contextual: «eu». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de δεξιᾶς. Pronome pessoal genitivo singular.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de δεξιᾶς",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena o segundo tópico à expressão inicial. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena o segundo tópico à expressão inicial",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural feminino. Artigo acusativo feminino plural de λυχνίας. Glosa contextual: «as». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de λυχνίας. Artigo definido acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Artigo acusativo feminino plural de λυχνίας",
+        "role": "Determinante de λυχνίας",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo acusativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral que quantifica λυχνίας. Adjetivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral que quantifica λυχνίας",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "candelabro; suporte de lâmpada",
-      "explanation": "Substantivo acusativo plural feminino. Nome acusativo plural feminino na construção introdutória. Glosa contextual: «candelabros». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Acusativo em construção de tópico irregular. Substantivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Nome acusativo plural feminino na construção introdutória",
+        "role": "Acusativo em construção de tópico irregular",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -388,12 +388,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural feminino. Artigo acusativo feminino plural de λυχνίας. Glosa contextual: «as». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Artigo da posição atributiva de χρυσᾶς. Artigo definido acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Artigo acusativo feminino plural de λυχνίας",
+        "role": "Artigo da posição atributiva de χρυσᾶς",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -412,12 +412,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "de ouro; dourado",
-      "explanation": "Adjetivo acusativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «de ouro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de λυχνίας. Adjetivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de λυχνίας",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ἀστέρες. Artigo definido nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ἀστέρες",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo nominativo plural masculino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral que quantifica ἀστέρες. Adjetivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral que quantifica ἀστέρες",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo nominativo plural masculino. Sujeito nominativo de εἰσίν. Glosa contextual: «estrelas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito da primeira oração explicativa. Substantivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Sujeito nominativo de εἰσίν",
+        "role": "Sujeito da primeira oração explicativa",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -509,12 +509,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
       "meanings": "mensageiro; anjo",
-      "explanation": "Substantivo nominativo plural masculino. Predicativo nominativo de εἰσίν. Glosa contextual: «anjos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicativo de ἀστέρες. Substantivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Predicativo nominativo de εἰσίν",
+        "role": "Predicativo de ἀστέρες",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -533,12 +533,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo plural feminino. Determinante do sintagma nominal. Glosa contextual: «dos/das». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ἐκκλησιῶν. Artigo definido genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ἐκκλησιῶν",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -557,12 +557,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo genitivo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo genitivo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral que quantifica ἐκκλησιῶν. Adjetivo genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral que quantifica ἐκκλησιῶν",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -573,7 +573,7 @@ export const apocalipse1v20 = {
       "shortMorph": "N-GPF",
       "greek": "ἐκκλησιῶν",
       "transliteration": "ekklēsiōn",
-      "gloss": "igreja",
+      "gloss": "igrejas",
       "strong": "G1577",
       "lemma": "ἐκκλησία",
       "lemmaTransliteration": "ekklēsia",
@@ -581,12 +581,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
       "meanings": "igreja; assembleia",
-      "explanation": "Substantivo genitivo plural feminino. Complemento nominal no genitivo. Glosa contextual: «igreja». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo de relação de ἄγγελοι. Substantivo genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo de relação de ἄγγελοι",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -605,12 +605,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Cópula da primeira oração explicativa. Verbo no presente, voz ativa, indicativo, 3ª pessoa plural.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Cópula da primeira oração explicativa",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -630,12 +630,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena as duas orações explicativas. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena as duas orações explicativas",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -654,12 +654,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de λυχνίαι. Artigo definido nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de λυχνίαι",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -678,12 +678,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "candelabro; suporte de lâmpada",
-      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual: «candelabros». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito da segunda oração explicativa. Substantivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Sujeito da segunda oração explicativa",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -702,12 +702,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Artigo da posição atributiva do numeral. Artigo definido nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Artigo da posição atributiva do numeral",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -726,12 +726,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo nominativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral que quantifica λυχνίαι. Adjetivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral que quantifica λυχνίαι",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -750,12 +750,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo nominativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral que quantifica ἐκκλησίαι. Adjetivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral que quantifica ἐκκλησίαι",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -766,7 +766,7 @@ export const apocalipse1v20 = {
       "shortMorph": "N-NPF",
       "greek": "ἐκκλησίαι",
       "transliteration": "ekklēsiai",
-      "gloss": "igreja",
+      "gloss": "igrejas",
       "strong": "G1577",
       "lemma": "ἐκκλησία",
       "lemmaTransliteration": "ekklēsia",
@@ -774,12 +774,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "igreja; assembleia",
-      "explanation": "Substantivo nominativo plural feminino. Núcleo nominal. Glosa contextual: «igreja». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicativo de λυχνίαι. Substantivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Predicativo de λυχνίαι",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },
@@ -798,12 +798,12 @@ export const apocalipse1v20 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Núcleo verbal. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Cópula da segunda oração explicativa. Verbo no presente, voz ativa, indicativo, 3ª pessoa plural.",
       "occurrencesExamples": [
         "Ap 1:20"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Cópula da segunda oração explicativa",
         "clauseId": "AP.1.20.C1",
         "governedBy": null
       },

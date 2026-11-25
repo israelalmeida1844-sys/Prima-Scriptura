@@ -6,8 +6,8 @@ export const apocalipse1v6 = {
   "verse": 6,
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
-  "translation": "e nos fez um reino, sacerdotes para Deus, seu Pai; a ele sejam a glória e o domínio pelos séculos dos séculos. Amém.",
-  "textualNotes": "Comparação de edições: o SBLGNT apresenta βασιλείαν, ἱερεῖς («um reino, sacerdotes»); o Textus Receptus de Scrivener (1894) apresenta βασιλεῖς καὶ ἱερεῖς («reis e sacerdotes»). A oposição entre substantivo singular coletivo e plural régio pertence à crítica textual; os paralelos de Êxodo 19:6 e Apocalipse 5:10 são discutidos nas notas exegéticas.",
+  "translation": "e nos fez um reino, sacerdotes para seu Deus e Pai; a ele sejam a glória e o domínio pelos séculos dos séculos. Amém.",
+  "textualNotes": "Scrivener (1894) apresenta βασιλεῖς καὶ ἱερεῖς, enquanto SBLGNT e Robinson–Pierpont têm βασιλείαν, ἱερεῖς. A diferença afeta a designação coletiva: reino e sacerdotes, em vez de reis e sacerdotes. O aparato SBLGNT também registra omissão de τῶν αἰώνων em Westcott–Hort.",
   "translationNote": "O acusativo βασιλείαν é resultado da ação de ἐποίησεν e não deve ser substituído por «reis» na tradução do SBLGNT.",
   "words": [
     {
@@ -23,12 +23,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena a ação de Cristo à doxologia anterior. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena a ação de Cristo à doxologia anterior",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -47,12 +47,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo aoristo ativo indicativo 3ª pessoa singular",
       "meanings": "fazer; constituir",
-      "explanation": "A forma ἐποίησεν é verbo aoristo ativo indicativo 3ª pessoa singular do lema ποιέω; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Predicado verbal de constituição. Verbo aoristo ativo indicativo 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Predicado verbal de constituição",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -71,12 +71,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----AP--",
       "morphology": "Pronome pessoal acusativo plural",
       "meanings": "eu; nós",
-      "explanation": "A forma ἡμᾶς é pronome pessoal acusativo plural do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Objeto direto de ἐποίησεν. Pronome pessoal acusativo plural.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Objeto direto de ἐποίησεν",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -100,7 +100,7 @@ export const apocalipse1v6 = {
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Predicativo do objeto ἡμᾶς, condição coletiva",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -112,7 +112,7 @@ export const apocalipse1v6 = {
       "shortMorph": "N-APM",
       "greek": "ἱερεῖς",
       "transliteration": "hiereis",
-      "gloss": "sacerdote",
+      "gloss": "sacerdotes",
       "strong": "G2409",
       "lemma": "ἱερεύς",
       "lemmaTransliteration": "hiereus",
@@ -125,7 +125,7 @@ export const apocalipse1v6 = {
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Predicativo do objeto ἡμᾶς, função sacerdotal",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -144,12 +144,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῷ é artigo definido dativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de θεῷ. Artigo definido dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de θεῷ",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -168,12 +168,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Deus",
-      "explanation": "A forma θεῷ é substantivo dativo singular masculino do lema θεός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Dativo de destinatário da função sacerdotal. Substantivo dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Dativo de destinatário da função sacerdotal",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -192,12 +192,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena θεῷ e πατρί na mesma designação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena θεῷ e πατρί na mesma designação",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -216,12 +216,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "pai",
-      "explanation": "A forma πατρὶ é substantivo dativo singular masculino do lema πατήρ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Aposto coordenado a θεῷ. Substantivo dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Aposto coordenado a θεῷ",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -240,12 +240,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; o mesmo",
-      "explanation": "A forma αὐτοῦ— é pronome pessoal genitivo singular masculino do lema αὐτός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo possessivo de πατρί. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo possessivo de πατρί",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -265,12 +265,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----DSM-",
       "morphology": "Pronome pessoal dativo singular masculino",
       "meanings": "ele; seu; o mesmo",
-      "explanation": "A forma αὐτῷ é pronome pessoal dativo singular masculino do lema αὐτός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Dativo de destinatário da doxologia. Pronome pessoal dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Dativo de destinatário da doxologia",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -289,12 +289,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ἡ é artigo definido nominativo singular feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de δόξα. Artigo definido nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de δόξα",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -313,12 +313,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "glória",
-      "explanation": "A forma δόξα é substantivo nominativo singular feminino do lema δόξα; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Primeiro núcleo da oração doxológica nominal. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Primeiro núcleo da oração doxológica nominal",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -337,12 +337,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena δόξα e κράτος. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena δόξα e κράτος",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -361,12 +361,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τὸ é artigo definido nominativo singular neutro do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de κράτος. Artigo definido nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de κράτος",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -385,12 +385,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "poder; domínio",
-      "explanation": "A forma κράτος é substantivo nominativo singular neutro do lema κράτος; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Segundo núcleo da oração doxológica. Substantivo nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Segundo núcleo da oração doxológica",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -409,12 +409,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a; por",
-      "explanation": "A forma εἰς é preposição (indeclinável) do lema εἰς; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição que introduz duração. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição que introduz duração",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -433,12 +433,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τοὺς é artigo definido acusativo plural masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de αἰῶνας. Artigo definido acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de αἰῶνας",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -449,7 +449,7 @@ export const apocalipse1v6 = {
       "shortMorph": "N-APM",
       "greek": "αἰῶνας",
       "transliteration": "aiōnas",
-      "gloss": "era",
+      "gloss": "séculos",
       "strong": "G165",
       "lemma": "αἰών",
       "lemmaTransliteration": "aiōn",
@@ -457,12 +457,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "era; século; eternidade",
-      "explanation": "A forma αἰῶνας é substantivo acusativo plural masculino do lema αἰών; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Acusativo de duração regido por εἰς. Substantivo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Acusativo de duração regido por εἰς",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -481,12 +481,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῶν é artigo definido genitivo plural masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de αἰώνων. Artigo definido genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de αἰώνων",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -497,7 +497,7 @@ export const apocalipse1v6 = {
       "shortMorph": "N-GPM",
       "greek": "αἰώνων",
       "transliteration": "aiōnōn",
-      "gloss": "era",
+      "gloss": "séculos",
       "strong": "G165",
       "lemma": "αἰών",
       "lemmaTransliteration": "aiōn",
@@ -505,12 +505,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "era; século; eternidade",
-      "explanation": "A forma αἰώνων· é substantivo genitivo plural masculino do lema αἰών; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo intensificador de αἰῶνας. Substantivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo intensificador de αἰῶνας",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -530,12 +530,12 @@ export const apocalipse1v6 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
       "meanings": "amém; assim seja",
-      "explanation": "A forma ἀμήν. é partícula (indeclinável) do lema ἀμήν; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Partícula de ratificação da doxologia. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:6"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Partícula de ratificação da doxologia",
         "clauseId": "AP.1.6.C1",
         "governedBy": null
       },
@@ -544,9 +544,12 @@ export const apocalipse1v6 = {
     }
   ],
   "syntacticNotes": [
-    "βασιλείαν (acusativo singular) e ἱερεῖς (acusativo plural) são predicativos do objeto ἡμᾶς sob ἐποίησεν; não converter o primeiro em βασιλεῖς, leitura distinta."
+    "ἐποίησεν rege ἡμᾶς como objeto direto e βασιλείαν e ἱερεῖς como predicativos do objeto. O singular coletivo e o plural sacerdotal descrevem o resultado da ação de Cristo.",
+    "αὐτῷ retoma o destinatário da doxologia iniciada no versículo anterior; δόξα e κράτος são núcleos nominativos em oração nominal com cópula elíptica.",
+    "εἰς τοὺς αἰῶνας τῶν αἰώνων é fórmula de duração ilimitada, com genitivo intensificador."
   ],
   "exegeticalNotes": [
-    "A imagem de «reino» e «sacerdotes» retoma a linguagem de Êxodo 19:6. O plural ἱερεῖς descreve a função sacerdotal dos destinatários, enquanto βασιλείαν apresenta sua condição coletiva; a redação não deve ser harmonizada com a variante «reis e sacerdotes»."
+    "A constituição de um reino e sacerdotes retoma Êx 19:6; Ap 5:9–10 desenvolve a relação com a redenção pelo Cordeiro.",
+    "A doxologia atribui a Cristo glória e domínio permanentes."
   ]
 } as const;

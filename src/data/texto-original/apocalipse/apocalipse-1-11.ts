@@ -6,9 +6,9 @@ export const apocalipse1v11 = {
   "verse": 11,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "que dizia: «O que você vê, escreva em um livro e envie às sete igrejas: a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia».",
+  "translation": "que dizia: \"O que você vê, escreva em um rolo e envie às sete igrejas: a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia.\"",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Comparação de edições: o SBLGNT apresenta λεγούσης· Ὃ βλέπεις γράψον; o Textus Receptus de Scrivener (1894) intercala Ἐγώ εἰμι τὸ Α καὶ τὸ Ω, ὁ πρῶτος καὶ ὁ ἔσχατος antes da ordem de escrever e acrescenta ταῖς ἐν Ἀσίᾳ na identificação das igrejas. O texto interlinear preserva o SBLGNT. Esta comparação de edições não substitui a colação do aparato manuscrito.",
+  "textualNotes": "Scrivener (1894) inclui a autodesignação Ἐγώ εἰμι τὸ Α καὶ τὸ Ω, ὁ πρῶτος καὶ ὁ ἔσχατος, seguida de καί, antes da ordem de escrever. Acrescenta ainda ταῖς ἐν Ἀσίᾳ após ἐκκλησίαις. Esses acréscimos não integram a redação SBLGNT.",
   "exegeticalNotes": [
     "O texto vincula formalmente λεγούσης à comparação com a trombeta (σάλπιγγος); o leitor percebe a voz que fala por meio da imagem auditiva.",
     "O mandato «escreve o que vês» introduz as mensagens destinadas às sete igrejas da Ásia."
@@ -32,7 +32,7 @@ export const apocalipse1v11 = {
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Particípio presente ativo genitivo feminino singular, concordando formalmente com σάλπιγγος (1:10)",
+        "role": "Particípio genitivo feminino singular, concorda formalmente com σάλπιγγος de Ap 1:10",
         "clauseId": "AP.1.11.C1",
         "governedBy": "σάλπιγγος (Ap 1:10)"
       },
@@ -52,12 +52,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome relativo acusativo singular neutro",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo acusativo singular neutro. Objeto direto da oração relativa dependente de γράψον. Glosa contextual: «o que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Relativo acusativo, objeto de βλέπεις; a relativa livre é objeto de γράψον. Pronome relativo acusativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Objeto direto da oração relativa dependente de γράψον",
+        "role": "Relativo acusativo, objeto de βλέπεις; a relativa livre é objeto de γράψον",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -76,12 +76,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ver; observar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal. Glosa contextual: «vês». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado presente da relativa. Verbo no presente, voz ativa, indicativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado presente da relativa",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -100,12 +100,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Imperativo principal, segunda pessoa singular. Glosa contextual: «escreve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Imperativo principal de ordem. Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Imperativo principal, segunda pessoa singular",
+        "role": "Imperativo principal de ordem",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -124,12 +124,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição que indica suporte da escrita. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que indica suporte da escrita",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -148,12 +148,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "livro; rolo",
-      "explanation": "Substantivo acusativo singular neutro. Nome em função acusativa. Glosa contextual: «livro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento acusativo de εἰς. Substantivo acusativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Complemento acusativo de εἰς",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -172,12 +172,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena γράψον e πέμψον. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena γράψον e πέμψον",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -196,12 +196,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "enviar",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal imperativo. Glosa contextual: «envia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Imperativo coordenado. Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Núcleo verbal imperativo",
+        "role": "Imperativo coordenado",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo plural feminino. Determinante do sintagma nominal. Glosa contextual: «às». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ἐκκλησίαις. Artigo definido dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ἐκκλησίαις",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----DPF-",
       "morphology": "Adjetivo dativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo dativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral que quantifica ἐκκλησίαις. Adjetivo dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral que quantifica ἐκκλησίαις",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -260,7 +260,7 @@ export const apocalipse1v11 = {
       "shortMorph": "N-DPF",
       "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
-      "gloss": "igreja",
+      "gloss": "igrejas",
       "strong": "G1577",
       "lemma": "ἐκκλησία",
       "lemmaTransliteration": "ekklēsia",
@@ -268,12 +268,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "igreja; assembleia",
-      "explanation": "Substantivo dativo plural feminino. Nome em construção dativa. Glosa contextual: «igreja». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Dativo de destinatário de πέμψον. Substantivo dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Dativo de destinatário de πέμψον",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -293,12 +293,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de destino. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de destino",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -317,12 +317,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Éfeso",
-      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Éfeso». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Primeiro destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Primeiro destino da mensagem",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -341,12 +341,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena os destinos. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena os destinos",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -365,12 +365,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de destino. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de destino",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Esmirna",
-      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Esmirna». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Segundo destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Segundo destino da mensagem",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena os destinos. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena os destinos",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de destino. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de destino",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Pérgamo",
-      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Pérgamo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Terceiro destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Terceiro destino da mensagem",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena os destinos. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena os destinos",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -509,12 +509,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de destino. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de destino",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -533,12 +533,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "Tiatira",
-      "explanation": "Substantivo acusativo plural neutro. Nome em função acusativa. Glosa contextual: «Tiatira». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Quarto destino da mensagem. Substantivo acusativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Quarto destino da mensagem",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -557,12 +557,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena os destinos. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena os destinos",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -581,12 +581,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de destino. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de destino",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -605,12 +605,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "Sardes",
-      "explanation": "Substantivo acusativo plural feminino. Nome em função acusativa. Glosa contextual: «Sardes». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Quinto destino da mensagem. Substantivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Quinto destino da mensagem",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -629,12 +629,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena os destinos. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena os destinos",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -653,12 +653,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de destino. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de destino",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -677,12 +677,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Filadélfia",
-      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Filadélfia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sexto destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Sexto destino da mensagem",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -701,12 +701,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena os destinos. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena os destinos",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -725,12 +725,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "para; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de destino. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de destino",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },
@@ -749,12 +749,12 @@ export const apocalipse1v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Laodiceia",
-      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «Laodiceia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sétimo destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Sétimo destino da mensagem",
         "clauseId": "AP.1.11.C1",
         "governedBy": null
       },

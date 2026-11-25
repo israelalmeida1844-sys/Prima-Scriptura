@@ -6,9 +6,9 @@ export const apocalipse1v17 = {
   "verse": 17,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quando o vi, caí a seus pés como morto. Ele pôs sua mão direita sobre mim e disse: «Não tenha medo. Eu sou o Primeiro e o Último,",
+  "translation": "E, quando o vi, caí a seus pés como morto. E ele pôs sua mão direita sobre mim, dizendo: \"Não tenha medo. Eu sou o Primeiro e o Último,\"",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Scrivener (1894) apresenta ἐπέθηκεν em vez de ἔθηκεν, explicita χεῖρα após αὐτοῦ e acrescenta μοι após λέγων. As diferenças tornam explícitos a mão e o destinatário da fala; o gesto e a ordem permanecem reconhecíveis no SBLGNT.",
   "exegeticalNotes": [
     "A reação de João combina reverência e incapacidade diante da visão.",
     "A palavra «não temas» altera a dinâmica da cena."
@@ -27,12 +27,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Conjunção aditiva que encadeia a reação de João. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Conjunção aditiva que encadeia a reação de João",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "quando",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «quando». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Conjunção subordinativa temporal. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Conjunção subordinativa temporal",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «vi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado da oração temporal. Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado da oração temporal",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -91,7 +91,7 @@ export const apocalipse1v17 = {
       "shortMorph": "PPro-ASM",
       "greek": "αὐτόν",
       "transliteration": "auton",
-      "gloss": "ele",
+      "gloss": "o",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -99,12 +99,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome pessoal acusativo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal acusativo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «a ele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Objeto direto de εἶδον. Pronome pessoal acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Objeto direto de εἶδον",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -124,12 +124,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "cair",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «caí». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado principal de primeira pessoa. Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado principal de primeira pessoa",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -148,12 +148,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "junto a; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «junto a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de direção. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de direção",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -172,12 +172,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «os». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de πόδας. Artigo definido acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de πόδας",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -196,12 +196,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "pé",
-      "explanation": "Substantivo acusativo plural masculino. Nome em função acusativa. Glosa contextual: «pés». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento acusativo de πρός. Substantivo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Complemento acusativo de πρός",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de πόδας. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de πόδας",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Partícula de comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Partícula de comparação",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "morto",
-      "explanation": "Adjetivo nominativo singular masculino. Modificador adjetival ou predicativo. Glosa contextual: «morto». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicativo comparativo do sujeito João. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Predicativo comparativo do sujeito João",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -293,12 +293,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a reação e o gesto da figura. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a reação e o gesto da figura",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -317,12 +317,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "colocar; pôr",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «pôs». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado verbal de terceira pessoa. Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal de terceira pessoa",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -341,12 +341,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante substantivador de δεξιάν. Artigo definido acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante substantivador de δεξιάν",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -365,12 +365,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "direita; direito",
-      "explanation": "Adjetivo acusativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «direita». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo substantivado, objeto direto de ἔθηκεν. Adjetivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo substantivado, objeto direto de ἔθηκεν",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; próprio",
-      "explanation": "Pronome pessoal genitivo singular masculino. Pronome pessoal no sintagma. Glosa contextual: «dele». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo possessivo de δεξιάν. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Genitivo possessivo de δεξιάν",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "sobre; em",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «sobre». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de contato. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de contato",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----AS--",
       "morphology": "Pronome pessoal acusativo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal acusativo singular. Pronome pessoal no sintagma. Glosa contextual: «mim». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento acusativo de ἐπί. Pronome pessoal acusativo singular.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Complemento acusativo de ἐπί",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "dizer; falar",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «dizendo». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio presente ativo que introduz a fala. Verbo no presente, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio presente ativo que introduz a fala",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -486,12 +486,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (indeclinável)",
       "meanings": "não; partícula negativa",
-      "explanation": "Advérbio (indeclinável). Modificador ou elemento discursivo. Glosa contextual: «não». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Partícula negativa da proibição. Advérbio (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Modificador ou elemento discursivo",
+        "role": "Partícula negativa da proibição",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -510,12 +510,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "2PMD-S--",
       "morphology": "Verbo no presente, voz média, imperativo, 2ª pessoa singular",
       "meanings": "temer; ter medo",
-      "explanation": "Verbo no presente, voz média, imperativo, 2ª pessoa singular. Imperativo presente médio/passivo formal, deponente; proibição com μή. Glosa contextual: «temas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Imperativo presente médio de proibição. Verbo no presente, voz média, imperativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Imperativo presente médio/passivo formal, deponente; proibição com μή",
+        "role": "Imperativo presente médio de proibição",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -535,12 +535,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal nominativo singular. Pronome pessoal no sintagma. Glosa contextual: «eu». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Sujeito explícito de εἰμι. Pronome pessoal nominativo singular.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Sujeito explícito de εἰμι",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -559,12 +559,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ser; estar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «sou». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Cópula do predicado nominal. Verbo no presente, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Cópula do predicado nominal",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -583,12 +583,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de πρῶτος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de πρῶτος",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -607,12 +607,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "primeiro",
-      "explanation": "Adjetivo nominativo singular masculino. Modificador adjetival ou predicativo. Glosa contextual: «primeiro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Primeiro predicativo de ἐγώ. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Primeiro predicativo de ἐγώ",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -631,12 +631,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena πρῶτος e ἔσχατος. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena πρῶτος e ἔσχατος",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -655,12 +655,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido nominativo singular masculino. Determinante do sintagma nominal. Glosa contextual: «o». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ἔσχατος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ἔσχατος",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
@@ -679,12 +679,12 @@ export const apocalipse1v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "último",
-      "explanation": "Adjetivo nominativo singular masculino. Modificador adjetival ou predicativo. Glosa contextual: «último». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Segundo predicativo de ἐγώ. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Segundo predicativo de ἐγώ",
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },

@@ -6,8 +6,8 @@ export const apocalipse1v8 = {
   "verse": 8,
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
-  "translation": "Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, que era e que vem, o Todo-Poderoso.",
-  "textualNotes": "Comparação de edições (não substitui a colação dos manuscritos): o SBLGNT não contém a expressão ἀρχὴ καὶ τέλος («princípio e fim») em Ap 1:8; ela ocorre no Textus Receptus. A redação adotada no interlinear conserva a leitura SBLGNT. Para ponderar o apoio manuscrito, consultar o aparato crítico.",
+  "translation": "\"Eu sou o Alfa e o Ômega\", diz o Senhor Deus, aquele que é, que era e que vem, o Todo-Poderoso.",
+  "textualNotes": "Scrivener (1894) acrescenta ἀρχὴ καὶ τέλος após o Ômega e apresenta ὁ κύριος em vez de κύριος ὁ θεός. O SBLGNT não contém a expressão princípio e fim e identifica explicitamente o locutor como Senhor Deus.",
   "translationNote": "«Alfa» e «Ômega» reproduzem a imagem alfabética do original; «Todo-Poderoso» traduz παντοκράτωρ.",
   "words": [
     {
@@ -23,12 +23,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu; nós",
-      "explanation": "A forma Ἐγώ é pronome pessoal nominativo singular do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Sujeito explícito de εἰμι. Pronome pessoal nominativo singular.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Sujeito explícito de εἰμι",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -47,12 +47,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente ativo indicativo 1ª pessoa singular",
       "meanings": "ser; estar; existir",
-      "explanation": "Em 1:4, ὢν (presente), ἦν (imperfeito) e ἐρχόμενος (presente médio) integram a fórmula divina. O artigo nominativo após ἀπό constitui anomalia sintática provavelmente motivada pela fórmula fixa; intenção teológica é interpretação, não dado morfológico.",
+      "explanation": "A cópula εἰμι introduz a identificação do locutor pelos predicativos Alfa e Ômega.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Cópula do predicado nominal",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -71,12 +71,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τὸ é artigo definido nominativo singular neutro do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de Ἄλφα. Artigo definido nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de Ἄλφα",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -87,7 +87,7 @@ export const apocalipse1v8 = {
       "shortMorph": "N-NSN",
       "greek": "Ἄλφα",
       "transliteration": "Alpha",
-      "gloss": "alfa",
+      "gloss": "Alfa",
       "strong": "G1",
       "lemma": "Ἄλφα",
       "lemmaTransliteration": "Alpha",
@@ -100,7 +100,7 @@ export const apocalipse1v8 = {
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Primeiro predicativo de Ἐγώ",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -119,12 +119,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena os predicativos Ἄλφα e Ὦ. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena os predicativos Ἄλφα e Ὦ",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -143,12 +143,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τὸ é artigo definido nominativo singular neutro do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de Ὦ. Artigo definido nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de Ὦ",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -159,7 +159,7 @@ export const apocalipse1v8 = {
       "shortMorph": "N-NSN",
       "greek": "Ὦ",
       "transliteration": "Ō",
-      "gloss": "ômega",
+      "gloss": "Ômega",
       "strong": "G5598",
       "lemma": "Ὦ",
       "lemmaTransliteration": "Ō",
@@ -172,7 +172,7 @@ export const apocalipse1v8 = {
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Segundo predicativo de Ἐγώ",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -192,12 +192,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente ativo indicativo 3ª pessoa singular",
       "meanings": "dizer; declarar",
-      "explanation": "A forma λέγει é verbo presente ativo indicativo 3ª pessoa singular do lema λέγω; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Predicado da fórmula de atribuição do discurso. Verbo presente ativo indicativo 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Predicado da fórmula de atribuição do discurso",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -216,12 +216,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "Senhor",
-      "explanation": "A forma κύριος, é substantivo nominativo singular masculino do lema κύριος; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Sujeito da fórmula λέγει. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Sujeito da fórmula λέγει",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -241,12 +241,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de θεός. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de θεός",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -265,12 +265,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "Deus",
-      "explanation": "A forma θεός, é substantivo nominativo singular masculino do lema θεός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Aposto nominativo de κύριος. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Aposto nominativo de κύριος",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -290,12 +290,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo substantivador de ὢν. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo substantivador de ὢν",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -314,12 +314,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente ativo particípio nominativo singular masculino",
       "meanings": "ser; estar; existir",
-      "explanation": "Em 1:4, ὢν (presente), ἦν (imperfeito) e ἐρχόμενος (presente médio) integram a fórmula divina. O artigo nominativo após ἀπό constitui anomalia sintática provavelmente motivada pela fórmula fixa; intenção teológica é interpretação, não dado morfológico.",
+      "explanation": "O particípio substantivado integra a fórmula divina apositiva, sem a regência excepcional de Ap 1:4.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio substantivado, título apositivo de κύριος ὁ θεός",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -338,12 +338,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena as designações temporais. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena as designações temporais",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -362,12 +362,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo que nominaliza o verbo ἦν. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo que nominaliza o verbo ἦν",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -386,12 +386,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo imperfeito ativo indicativo 3ª pessoa singular",
       "meanings": "ser; estar; existir",
-      "explanation": "Em 1:4, ὢν (presente), ἦν (imperfeito) e ἐρχόμενος (presente médio) integram a fórmula divina. O artigo nominativo após ἀπό constitui anomalia sintática provavelmente motivada pela fórmula fixa; intenção teológica é interpretação, não dado morfológico.",
+      "explanation": "O artigo nominaliza o imperfeito finito na segunda designação divina.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Imperfeito indicativo nominalizado, designação divina",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -410,12 +410,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena a terceira designação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena a terceira designação",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -434,12 +434,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo substantivador de ἐρχόμενος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo substantivador de ἐρχόμενος",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -458,12 +458,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "-PMPNSM-",
       "morphology": "Verbo presente médio particípio nominativo singular masculino",
       "meanings": "vir; chegar",
-      "explanation": "A forma ἐρχόμενος, na fórmula divina, aponta para aquele que vem; em 1:7, ἔρχεται refere-se à vinda anunciada em linguagem profética.",
+      "explanation": "O particípio substantivado encerra a tríade de designações temporais.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio substantivado, terceira designação divina",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -483,12 +483,12 @@ export const apocalipse1v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de παντοκράτωρ. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de παντοκράτωρ",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -512,7 +512,7 @@ export const apocalipse1v8 = {
         "Ap 1:8"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Título apositivo de κύριος ὁ θεός",
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
@@ -521,8 +521,9 @@ export const apocalipse1v8 = {
     }
   ],
   "syntacticNotes": [
-    "O SBLGNT traz ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος em aposição a κύριος ὁ θεός. Ao contrário de Ap 1:4, aqui não há ἀπό antes da fórmula; portanto, não ocorre neste ponto o solecismo preposicional. Há, contudo, construção deliberadamente solene do nome divino. A inclusão de «o princípio e o fim» em certas tradições textuais não integra o texto-base SBLGNT deste versículo.",
-    "A forma ὁ παντοκράτωρ é título divino; ὁ ἦν constitui nominalização incomum de imperfeito, sem a regência ἀπό problemática de 1:4."
+    "Ἐγώ εἰμι introduz predicação nominal com dois predicativos coordenados, τὸ Ἄλφα e τὸ Ὦ.",
+    "λέγει introduz a identificação do locutor; as designações nominativas que se seguem são apositivas a κύριος ὁ θεός. Ao contrário de Ap 1:4, não há anomalia de regência preposicional.",
+    "ὁ ἦν nominaliza um imperfeito finito, em paralelismo com os particípios substantivados ὁ ὢν e ὁ ἐρχόμενος."
   ],
   "exegeticalNotes": [
     "O oráculo identifica o Senhor Deus como Alfa e Ômega e Todo-Poderoso. A fórmula «aquele que é, que era e que vem» deve ser interpretada em conjunto com 1:4, sem pressupor que todas as ocorrências do título em Apocalipse tenham automaticamente o mesmo locutor."

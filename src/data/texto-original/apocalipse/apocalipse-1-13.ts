@@ -8,7 +8,7 @@ export const apocalipse1v13 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E, no meio dos candelabros, vi alguém semelhante a um filho de homem, vestido com uma roupa longa até os pés e cingido à altura do peito com uma faixa de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O aparato SBLGNT registra em Robinson–Pierpont e Tregelles ἑπτὰ após τῶν e υἱῷ no lugar de υἱὸν. Scrivener (1894) também apresenta essas leituras e usa χρυσῆν em lugar de χρυσᾶν. A alteração de caso regulariza a relação com ὅμοιον; o numeral explicita o número já informado em Ap 1:12.",
   "exegeticalNotes": [
     "A figura «semelhante a um filho de homem» remete à visão de Daniel 7.",
     "A roupa longa e a faixa de ouro comunicam dignidade e autoridade, com possíveis ressonâncias sacerdotais."
@@ -27,12 +27,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a visão dos candelabros com a figura central. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a visão dos candelabros com a figura central",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição locativa. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição locativa",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----DSN-",
       "morphology": "Adjetivo dativo singular neutro",
       "meanings": "meio; centro",
-      "explanation": "Adjetivo dativo singular neutro. Modificador adjetival ou predicativo. Glosa contextual: «meio». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Núcleo da locução locativa ἐν μέσῳ. Adjetivo dativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Núcleo da locução locativa ἐν μέσῳ",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido genitivo plural feminino. Determinante do sintagma nominal. Glosa contextual: «dos/das». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de λυχνιῶν. Artigo definido genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de λυχνιῶν",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
       "meanings": "candelabro; suporte de lâmpada",
-      "explanation": "Substantivo genitivo plural feminino. Complemento nominal no genitivo. Glosa contextual: «candelabros». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento genitivo de μέσῳ. Substantivo genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Complemento genitivo de μέσῳ",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo acusativo singular masculino",
       "meanings": "semelhante",
-      "explanation": "Adjetivo acusativo singular masculino. Predicativo acusativo masculino singular em relação à figura vista. Glosa contextual: «semelhante». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo substantivado acusativo, objeto de εἶδον de Ap 1:12. Adjetivo acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Predicativo acusativo masculino singular em relação à figura vista",
+        "role": "Adjetivo substantivado acusativo, objeto de εἶδον de Ap 1:12",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "filho",
-      "explanation": "Substantivo acusativo singular masculino. Núcleo do sintagma acusativo dependente de ὅμοιον. Glosa contextual: «filho». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Acusativo de comparação associado a ὅμοιον, construção irregular. Substantivo acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Núcleo do sintagma acusativo dependente de ὅμοιον",
+        "role": "Acusativo de comparação associado a ὅμοιον, construção irregular",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -187,7 +187,7 @@ export const apocalipse1v13 = {
       "shortMorph": "N-GSM",
       "greek": "ἀνθρώπου",
       "transliteration": "anthrōpou",
-      "gloss": "homem",
+      "gloss": "de homem",
       "strong": "G444",
       "lemma": "ἄνθρωπος",
       "lemmaTransliteration": "anthrōpos",
@@ -195,12 +195,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "ser humano; homem",
-      "explanation": "Substantivo genitivo singular masculino. Complemento nominal no genitivo. Glosa contextual: «homem». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo adnominal de υἱόν. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo adnominal de υἱόν",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "-XMPASM-",
       "morphology": "Verbo no perfeito, voz média, particípio acusativo singular masculino",
       "meanings": "vestir; revestir",
-      "explanation": "Verbo no perfeito, voz média, particípio acusativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «vestido». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio perfeito médio/passivo acusativo, descreve a figura. Verbo no perfeito, voz média, particípio acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio perfeito médio/passivo acusativo, descreve a figura",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -249,7 +249,7 @@ export const apocalipse1v13 = {
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Acusativo complemento de ἐνδεδυμένον",
+        "role": "Acusativo de vestimenta de ἐνδεδυμένον",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena os dois particípios descritivos. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena os dois particípios descritivos",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "-XMPASM-",
       "morphology": "Verbo no perfeito, voz média, particípio acusativo singular masculino",
       "meanings": "cingir; envolver com cinto",
-      "explanation": "Verbo no perfeito, voz média, particípio acusativo singular masculino. Forma participial; relação sintática a examinar. Glosa contextual: «cingido». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio perfeito médio/passivo acusativo, descreve a figura. Verbo no perfeito, voz média, particípio acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Forma participial; relação sintática a examinar",
+        "role": "Particípio perfeito médio/passivo acusativo, descreve a figura",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "junto a; em direção a",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «junto a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de localização. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de localização",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----DPM-",
       "morphology": "Artigo definido dativo plural masculino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo plural masculino. Determinante do sintagma nominal. Glosa contextual: «os». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de μαστοῖς. Artigo definido dativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de μαστοῖς",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----DPM-",
       "morphology": "Substantivo dativo plural masculino",
       "meanings": "peito; mama",
-      "explanation": "Substantivo dativo plural masculino. Nome em construção dativa. Glosa contextual: «peitos». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento dativo de πρός. Substantivo dativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Complemento dativo de πρός",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -388,12 +388,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "cinto; faixa",
-      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «faixa». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Acusativo de vestimenta de περιεζωσμένον. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Acusativo de vestimenta de περιεζωσμένον",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -412,12 +412,12 @@ export const apocalipse1v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "de ouro; dourado",
-      "explanation": "Adjetivo acusativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «de ouro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de ζώνην. Adjetivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:13"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de ζώνην",
         "clauseId": "AP.1.13.C1",
         "governedBy": null
       },
@@ -426,7 +426,7 @@ export const apocalipse1v13 = {
     }
   ],
   "syntacticNotes": [
-    "ὅμοιον υἱὸν ἀνθρώπου é uma construção sem artigo, evocando Daniel 7:13. ποδήρη é acusativo singular de ποδήρης, adjetivo substantivado para veste longa até os pés; sua possível função sacerdotal é inferência intertextual.",
-    "ὅμοιον υἱὸν ἀνθρώπου ecoa Dn 7:13 sem necessariamente reproduzir todas as escolhas lexicais da LXX. A veste ποδήρη é longa; sua função sacerdotal é inferida por intertextualidade."
+    "O sintagma ὅμοιον υἱὸν ἀνθρώπου prolonga a percepção de εἶδον em Ap 1:12. O acusativo υἱόν junto a ὅμοιον é irregular em relação à regência dativa usual e ecoa Dn 7:13.",
+    "Os particípios perfeitos ἐνδεδυμένον e περιεζωσμένον concordam em acusativo com a figura vista e descrevem seu estado. ποδήρη e ζώνην são acusativos de vestimenta."
   ]
 } as const;

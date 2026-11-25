@@ -6,9 +6,9 @@ export const apocalipse1v19 = {
   "verse": 19,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Escreva, portanto, as coisas que você viu, as que são e as que estão para acontecer depois destas.",
+  "translation": "\"Escreva, portanto, o que você viu, o que é e o que está para acontecer depois dessas coisas.\"",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Scrivener (1894) omite οὖν, enquanto SBLGNT e Robinson–Pierpont mantêm γίνεσθαι; o aparato registra γενέσθαι na edição grega associada à NIV. O primeiro caso altera a conexão discursiva; o segundo, a apresentação aspectual do acontecer.",
   "exegeticalNotes": [
     "O imperativo de escrever reitera a responsabilidade profética de João.",
     "A tríade temporal exige cautela antes de impor uma divisão rígida ao livro."
@@ -27,12 +27,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Núcleo verbal imperativo. Glosa contextual: «escreve». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Imperativo principal de escrita. Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Núcleo verbal imperativo",
+        "role": "Imperativo principal de escrita",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "portanto; pois",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «portanto». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Conjunção inferencial que retoma a revelação anterior. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Conjunção inferencial que retoma a revelação anterior",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -67,7 +67,7 @@ export const apocalipse1v19 = {
       "shortMorph": "Rel-APN",
       "greek": "ἃ",
       "transliteration": "ha",
-      "gloss": "que",
+      "gloss": "o que",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -75,12 +75,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome relativo acusativo plural neutro",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo acusativo plural neutro. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Relativo acusativo objeto de εἶδες, primeira relativa livre objeto de γράψον. Pronome relativo acusativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Pronome em estrutura relativa",
+        "role": "Relativo acusativo objeto de εἶδες, primeira relativa livre objeto de γράψον",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Núcleo verbal da primeira oração relativa, segunda pessoa singular. Glosa contextual: «viste». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado da primeira relativa. Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Núcleo verbal da primeira oração relativa, segunda pessoa singular",
+        "role": "Predicado da primeira relativa",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena as relativas livres. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena as relativas livres",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -139,7 +139,7 @@ export const apocalipse1v19 = {
       "shortMorph": "Rel-NPN",
       "greek": "ἃ",
       "transliteration": "ha",
-      "gloss": "que",
+      "gloss": "o que",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -147,12 +147,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo nominativo plural neutro. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Relativo nominativo, sujeito de εἰσίν. Pronome relativo nominativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Pronome em estrutura relativa",
+        "role": "Relativo nominativo, sujeito de εἰσίν",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Núcleo verbal da segunda relativa, terceira pessoa plural. Glosa contextual: «são». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado da segunda relativa. Verbo no presente, voz ativa, indicativo, 3ª pessoa plural.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Núcleo verbal da segunda relativa, terceira pessoa plural",
+        "role": "Predicado da segunda relativa",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a terceira relativa. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a terceira relativa",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse1v19 = {
       "shortMorph": "Rel-NPN",
       "greek": "ἃ",
       "transliteration": "ha",
-      "gloss": "que",
+      "gloss": "o que",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -219,12 +219,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo nominativo plural neutro. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Relativo nominativo neutro plural, sujeito de μέλλει. Pronome relativo nominativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Pronome em estrutura relativa",
+        "role": "Relativo nominativo neutro plural, sujeito de μέλλει",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -243,12 +243,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "estar para; ser iminente",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal singular da terceira relativa; rege γίνεσθαι. Glosa contextual: «está para». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Verbo de iminência no singular com sujeito neutro plural. Verbo no presente, voz ativa, indicativo, 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Núcleo verbal singular da terceira relativa; rege γίνεσθαι",
+        "role": "Verbo de iminência no singular com sujeito neutro plural",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -267,12 +267,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "-PMN----",
       "morphology": "Verbo no presente, voz média, infinitivo",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo no presente, voz média, infinitivo. Infinitivo presente médio complemento de μέλλει. Glosa contextual: «acontecer». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Infinitivo complementar de μέλλει. Verbo no presente, voz média, infinitivo.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Infinitivo presente médio complemento de μέλλει",
+        "role": "Infinitivo complementar de μέλλει",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -291,12 +291,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "com; depois de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «depois de». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição temporal. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição temporal",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -315,12 +315,12 @@ export const apocalipse1v19 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
       "meanings": "este; essas coisas",
-      "explanation": "Pronome demonstrativo acusativo plural neutro. Modificador ou elemento discursivo. Glosa contextual: «essas coisas». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento acusativo de μετά. Pronome demonstrativo acusativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:19"
       ],
       "syntax": {
-        "role": "Modificador ou elemento discursivo",
+        "role": "Complemento acusativo de μετά",
         "clauseId": "AP.1.19.C1",
         "governedBy": null
       },
@@ -329,7 +329,8 @@ export const apocalipse1v19 = {
     }
   ],
   "syntacticNotes": [
-    "γράψον é imperativo aoristo ativo segunda pessoa singular; εἶδες é aoristo ativo indicativo segunda pessoa singular («viste»); εἰσὶν é presente ativo indicativo terceira pessoa plural («são»); μέλλει (3ª pessoa singular) rege γίνεσθαι, infinitivo presente médio. A tríade de relativas não impõe uma divisão cronológica rígida de todo o livro.",
-    "As três relativas ἃ εἶδες, ἃ εἰσίν, ἃ μέλλει γίνεσθαι são sintaticamente paralelas, mas não prescrevem obrigatoriamente três seções cronológicas do livro."
+    "γράψον rege três relativas livres coordenadas: ἃ εἶδες, ἃ εἰσίν e ἃ μέλλει γίνεσθαι. A conjunção οὖν retoma a revelação anterior como fundamento da ordem.",
+    "O terceiro relativo é neutro plural e recebe o verbo singular μέλλει, concordância possível em grego. O infinitivo presente γίνεσθαι é complemento de μέλλει.",
+    "A tríade tem estrutura temporal, mas a gramática, isoladamente, não prescreve três divisões rígidas para todo o livro."
   ]
 } as const;

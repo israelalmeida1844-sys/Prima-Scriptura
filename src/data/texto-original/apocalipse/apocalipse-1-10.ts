@@ -6,9 +6,9 @@ export const apocalipse1v10 = {
   "verse": 10,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Achei-me no Espírito no dia do Senhor e ouvi atrás de mim uma voz forte, semelhante ao som de uma trombeta,",
+  "translation": "Achei-me no Espírito no dia do Senhor e ouvi atrás de mim uma voz alta, semelhante ao som de uma trombeta,",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O aparato SBLGNT registra em Robinson–Pierpont a ordem φωνὴν ὀπίσω μου em lugar de ὀπίσω μου φωνὴν. Scrivener (1894) coincide com a ordem do SBLGNT; a inversão não altera o sentido essencial da percepção auditiva.",
   "exegeticalNotes": [
     "A experiência «no Espírito» introduz a percepção profética sem especificar seu mecanismo.",
     "A expressão «dia do Senhor» requer uma discussão histórica separada de sua interpretação denominacional."
@@ -27,12 +27,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "1AMI-S--",
       "morphology": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular",
       "meanings": "tornar-se; acontecer; estar",
-      "explanation": "Verbo no aoristo, voz média, indicativo, 1ª pessoa singular. Predicado verbal principal, primeira pessoa singular. Glosa contextual: «achei-me». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado verbal principal de primeira pessoa singular. Verbo no aoristo, voz média, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Predicado verbal principal, primeira pessoa singular",
+        "role": "Predicado verbal principal de primeira pessoa singular",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição que introduz a esfera da experiência visionária. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz a esfera da experiência visionária",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
       "meanings": "espírito; Espírito",
-      "explanation": "Substantivo dativo singular neutro. Nome em construção dativa. Glosa contextual: «Espírito». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento dativo de ἐν. Substantivo dativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Complemento dativo de ἐν",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; no âmbito de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «em». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição temporal. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição temporal",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido dativo singular feminino. Determinante do sintagma nominal. Glosa contextual: «na/à». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de ἡμέρᾳ. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Determinante do sintagma nominal",
+        "role": "Determinante de ἡμέρᾳ",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -152,7 +152,7 @@ export const apocalipse1v10 = {
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Adjetivo dativo feminino singular, modificador de ἡμέρᾳ",
+        "role": "Adjetivo atributivo de ἡμέρᾳ",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "dia",
-      "explanation": "Substantivo dativo singular feminino. Nome em construção dativa. Glosa contextual: «dia». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento dativo temporal de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Nome em construção dativa",
+        "role": "Complemento dativo temporal de ἐν",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -196,12 +196,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a experiência e a audição. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a experiência e a audição",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ouvir",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «ouvi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado verbal de percepção auditiva. Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal de percepção auditiva",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "atrás",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «atrás». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de localização posterior. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de localização posterior",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -260,7 +260,7 @@ export const apocalipse1v10 = {
       "shortMorph": "PPro-GS-",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu",
+      "gloss": "mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -268,12 +268,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal genitivo singular. Pronome pessoal no sintagma. Glosa contextual: «de mim». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento genitivo de ὀπίσω. Pronome pessoal genitivo singular.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Complemento genitivo de ὀπίσω",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -292,7 +292,7 @@ export const apocalipse1v10 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Substantivo acusativo singular feminino. Objeto direto de ἤκουσα. Glosa contextual: «voz». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Objeto direto de ἤκουσα. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
@@ -316,12 +316,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "grande",
-      "explanation": "Adjetivo acusativo singular feminino. Modificador adjetival ou predicativo. Glosa contextual: «grande». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de φωνήν. Adjetivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de φωνήν",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "como",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «como». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Partícula introdutória da comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Partícula introdutória da comparação",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse1v10 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "trombeta",
-      "explanation": "Substantivo genitivo singular feminino. Complemento nominal no genitivo. Glosa contextual: «trombeta». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Genitivo de comparação, em construção elíptica. Substantivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
       ],
       "syntax": {
-        "role": "Complemento nominal no genitivo",
+        "role": "Genitivo de comparação, em construção elíptica",
         "clauseId": "AP.1.10.C1",
         "governedBy": null
       },

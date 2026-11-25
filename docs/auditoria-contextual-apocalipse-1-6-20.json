@@ -1,0 +1,149 @@
+{
+  "scope": "Ap 1:6–20",
+  "status": "revisão contextual, não homologação final",
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Revelation+1&version=THGNT%3BTR1894%3BSBLGNT",
+    "https://www.biblegateway.com/passage/?search=Revelation+1&version=SBLGNT"
+  ],
+  "limitations": [
+    "Cotejo de edições; NA28/ECM não colacionados integralmente.",
+    "Texto, Strong, etiquetas morfológicas e IDs preservados, sem validação independente integral."
+  ],
+  "verses": [
+    {
+      "verse": 6,
+      "tokens": 22,
+      "gloss": 3,
+      "syntax": 22,
+      "explanation": 20,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 7,
+      "tokens": 25,
+      "gloss": 9,
+      "syntax": 25,
+      "explanation": 23,
+      "textual": true,
+      "translation": false
+    },
+    {
+      "verse": 8,
+      "tokens": 21,
+      "gloss": 2,
+      "syntax": 21,
+      "explanation": 18,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 9,
+      "tokens": 32,
+      "gloss": 2,
+      "syntax": 32,
+      "explanation": 32,
+      "textual": true,
+      "translation": false
+    },
+    {
+      "verse": 10,
+      "tokens": 15,
+      "gloss": 1,
+      "syntax": 14,
+      "explanation": 14,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 11,
+      "tokens": 31,
+      "gloss": 1,
+      "syntax": 31,
+      "explanation": 30,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 12,
+      "tokens": 15,
+      "gloss": 1,
+      "syntax": 14,
+      "explanation": 15,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 13,
+      "tokens": 17,
+      "gloss": 1,
+      "syntax": 17,
+      "explanation": 16,
+      "textual": true,
+      "translation": false
+    },
+    {
+      "verse": 14,
+      "tokens": 20,
+      "gloss": 0,
+      "syntax": 20,
+      "explanation": 20,
+      "textual": true,
+      "translation": false
+    },
+    {
+      "verse": 15,
+      "tokens": 18,
+      "gloss": 0,
+      "syntax": 17,
+      "explanation": 16,
+      "textual": true,
+      "translation": false
+    },
+    {
+      "verse": 16,
+      "tokens": 30,
+      "gloss": 1,
+      "syntax": 30,
+      "explanation": 30,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 17,
+      "tokens": 28,
+      "gloss": 1,
+      "syntax": 28,
+      "explanation": 28,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 18,
+      "tokens": 24,
+      "gloss": 1,
+      "syntax": 23,
+      "explanation": 24,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 19,
+      "tokens": 13,
+      "gloss": 3,
+      "syntax": 13,
+      "explanation": 13,
+      "textual": true,
+      "translation": true
+    },
+    {
+      "verse": 20,
+      "tokens": 33,
+      "gloss": 2,
+      "syntax": 33,
+      "explanation": 32,
+      "textual": true,
+      "translation": true
+    }
+  ]
+}

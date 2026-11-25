@@ -6,9 +6,9 @@ export const apocalipse1v12 = {
   "verse": 12,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Voltei-me para ver a voz que falava comigo e, ao voltar-me, vi sete candelabros de ouro.",
+  "translation": "E voltei-me para ver a voz que falava comigo; e, ao voltar-me, vi sete candelabros de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Scrivener (1894) traz ἐλάλησεν em vez de ἐλάλει: aoristo em lugar do imperfeito. Robinson–Pierpont acrescenta ἐκεῖ após Καί, segundo o aparato SBLGNT. A primeira variante afeta a apresentação aspectual da fala; a segunda explicita o lugar.",
   "exegeticalNotes": [
     "A imagem de «ver a voz» orienta o leitor do som ao personagem glorioso.",
     "Os candelabros serão identificados em 1:20 como igrejas."
@@ -27,12 +27,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Conjunção aditiva que encadeia a visão. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Conjunção aditiva que encadeia a visão",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "voltar-se; retornar",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Núcleo verbal. Glosa contextual: «voltei-me». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado verbal principal. Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal principal",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -75,7 +75,7 @@ export const apocalipse1v12 = {
       "morphologyCode": "-PAN----",
       "morphology": "Verbo no presente, voz ativa, infinitivo",
       "meanings": "ver; observar",
-      "explanation": "Verbo no presente, voz ativa, infinitivo. Infinitivo final dependente de ἐπέστρεψα. Glosa contextual: «ver». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Infinitivo final dependente de ἐπέστρεψα. Verbo no presente, voz ativa, infinitivo.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
@@ -99,12 +99,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "artigo definido",
-      "explanation": "Artigo definido acusativo singular feminino. Determinante acusativo de φωνήν. Glosa contextual: «a». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Determinante de φωνήν. Artigo definido acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Determinante acusativo de φωνήν",
+        "role": "Determinante de φωνήν",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Substantivo acusativo singular feminino. Nome em função acusativa. Glosa contextual: «voz». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Objeto direto de βλέπειν. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Objeto direto de βλέπειν",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Pronome relativo nominativo singular feminino",
       "meanings": "que; o qual",
-      "explanation": "Pronome relativo nominativo singular feminino. Pronome em estrutura relativa. Glosa contextual: «que». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Pronome relativo sujeito de ἐλάλει, retoma φωνήν. Pronome relativo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Pronome em estrutura relativa",
+        "role": "Pronome relativo sujeito de ἐλάλει, retoma φωνήν",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "falar",
-      "explanation": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular. Núcleo verbal. Glosa contextual: «falava». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado imperfeito da relativa. Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado imperfeito da relativa",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "com; depois de",
-      "explanation": "Preposição (indeclinável). Introduz complemento preposicional. Glosa contextual: «com». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Preposição de associação. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição de associação",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -211,7 +211,7 @@ export const apocalipse1v12 = {
       "shortMorph": "PPro-GS-",
       "greek": "ἐμοῦ",
       "transliteration": "emou",
-      "gloss": "de mim",
+      "gloss": "mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -219,12 +219,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu; mim",
-      "explanation": "Pronome pessoal genitivo singular. Pronome pessoal no sintagma. Glosa contextual: «mim». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Complemento genitivo de μετά. Pronome pessoal genitivo singular.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Pronome pessoal no sintagma",
+        "role": "Complemento genitivo de μετά",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também",
-      "explanation": "Conjunção (indeclinável). Conector de coordenação ou articulação discursiva. Glosa contextual: «e». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Coordena a ação de voltar e a visão. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Conector de coordenação ou articulação discursiva",
+        "role": "Coordena a ação de voltar e a visão",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "-AAPNSM-",
       "morphology": "Verbo no aoristo, voz ativa, particípio nominativo singular masculino",
       "meanings": "voltar-se; retornar",
-      "explanation": "Verbo no aoristo, voz ativa, particípio nominativo singular masculino. Particípio aoristo adverbial de anterioridade. Glosa contextual: «tendo-me voltado». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Particípio aoristo circunstancial de anterioridade, sujeito João. Verbo no aoristo, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Particípio aoristo adverbial de anterioridade",
+        "role": "Particípio aoristo circunstancial de anterioridade, sujeito João",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Verbo principal da segunda oração. Glosa contextual: «vi». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Predicado verbal de percepção. Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Verbo principal da segunda oração",
+        "role": "Predicado verbal de percepção",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "sete: numeral cardinal indeclinável (o caso indicado na anotação é contextual)",
-      "explanation": "Adjetivo acusativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «sete». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Numeral que quantifica λυχνίας. Adjetivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Numeral que quantifica λυχνίας",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
       "meanings": "candelabro; suporte de lâmpada",
-      "explanation": "Substantivo acusativo plural feminino. Nome em função acusativa. Glosa contextual: «candelabros». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Objeto direto de εἶδον. Substantivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Nome em função acusativa",
+        "role": "Objeto direto de εἶδον",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse1v12 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
       "meanings": "de ouro; dourado",
-      "explanation": "Adjetivo acusativo plural feminino. Modificador adjetival ou predicativo. Glosa contextual: «de ouro». Esta glosa é auxiliar e não substitui a tradução da oração completa.",
+      "explanation": "Adjetivo atributivo de λυχνίας. Adjetivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
       ],
       "syntax": {
-        "role": "Modificador adjetival ou predicativo",
+        "role": "Adjetivo atributivo de λυχνίας",
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },

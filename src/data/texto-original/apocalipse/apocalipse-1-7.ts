@@ -7,7 +7,7 @@ export const apocalipse1v7 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Eis que ele vem com as nuvens, e todo olho o verá, até mesmo aqueles que o traspassaram; e todas as tribos da terra se lamentarão por causa dele. Sim, amém.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "SBLGNT e Scrivener (1894) coincidem na sequência lexical do versículo, desconsideradas acentuação e pontuação editoriais; o aparato SBLGNT não registra divergência entre suas edições de comparação.",
   "translationNote": "«Toda vista» é traduzido idiomaticamente por «todo olho»; preserva-se o paralelismo profético.",
   "words": [
     {
@@ -23,12 +23,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
       "meanings": "eis; veja",
-      "explanation": "A forma Ἰδοὺ é partícula (indeclinável) do lema ἰδού; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Partícula de apresentação do anúncio. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Partícula de apresentação do anúncio",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -52,7 +52,7 @@ export const apocalipse1v7 = {
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Predicado presente de valor prospectivo",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -71,12 +71,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "com; depois de",
-      "explanation": "A forma μετὰ é preposição (indeclinável) do lema μετά; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição de acompanhamento. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição de acompanhamento",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -87,7 +87,7 @@ export const apocalipse1v7 = {
       "shortMorph": "Art-GPF",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -95,12 +95,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῶν é artigo definido genitivo plural feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de νεφελῶν. Artigo definido genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de νεφελῶν",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -111,7 +111,7 @@ export const apocalipse1v7 = {
       "shortMorph": "N-GPF",
       "greek": "νεφελῶν",
       "transliteration": "nephelōn",
-      "gloss": "nuvem",
+      "gloss": "nuvens",
       "strong": "G3507",
       "lemma": "νεφέλη",
       "lemmaTransliteration": "nephelē",
@@ -119,12 +119,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
       "meanings": "nuvem",
-      "explanation": "A forma νεφελῶν, é substantivo genitivo plural feminino do lema νεφέλη; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Complemento genitivo de μετά. Substantivo genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento genitivo de μετά",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -144,12 +144,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena a vinda e sua percepção. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena a vinda e sua percepção",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -168,12 +168,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "3FMI-S--",
       "morphology": "Verbo futuro médio indicativo 3ª pessoa singular",
       "meanings": "ver; perceber",
-      "explanation": "A forma ὄψεται é verbo futuro médio indicativo 3ª pessoa singular do lema ὁράω; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Predicado verbal futuro de πᾶς ὀφθαλμός. Verbo futuro médio indicativo 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Predicado verbal futuro de πᾶς ὀφθαλμός",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -184,7 +184,7 @@ export const apocalipse1v7 = {
       "shortMorph": "PPro-ASM",
       "greek": "αὐτὸν",
       "transliteration": "auton",
-      "gloss": "a ele",
+      "gloss": "o",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -192,12 +192,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome pessoal acusativo singular masculino",
       "meanings": "ele; seu; o mesmo",
-      "explanation": "A forma αὐτὸν é pronome pessoal acusativo singular masculino do lema αὐτός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Objeto direto de ὄψεται. Pronome pessoal acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Objeto direto de ὄψεται",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -216,12 +216,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "todo; cada",
-      "explanation": "A forma πᾶς é adjetivo nominativo singular masculino do lema πᾶς; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Quantificador de ὀφθαλμός. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Quantificador de ὀφθαλμός",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -240,12 +240,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "olho",
-      "explanation": "A forma ὀφθαλμὸς é substantivo nominativo singular masculino do lema ὀφθαλμός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Sujeito nominativo de ὄψεται. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Sujeito nominativo de ὄψεται",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -264,12 +264,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordenação inclusiva dos que traspassaram. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordenação inclusiva dos que traspassaram",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -280,7 +280,7 @@ export const apocalipse1v7 = {
       "shortMorph": "RelPro-NPM",
       "greek": "οἵτινες",
       "transliteration": "hoitines",
-      "gloss": "qualquer que",
+      "gloss": "os que",
       "strong": "G3748",
       "lemma": "ὅστις",
       "lemmaTransliteration": "hostis",
@@ -288,12 +288,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----NPM-",
       "morphology": "Pronome relativo nominativo plural masculino",
       "meanings": "qualquer que; aquele que",
-      "explanation": "A forma οἵτινες é pronome relativo nominativo plural masculino do lema ὅστις; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Pronome relativo substantivado, sujeito de ἐξεκέντησαν. Pronome relativo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Pronome relativo substantivado, sujeito de ἐξεκέντησαν",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -304,7 +304,7 @@ export const apocalipse1v7 = {
       "shortMorph": "PPro-ASM",
       "greek": "αὐτὸν",
       "transliteration": "auton",
-      "gloss": "a ele",
+      "gloss": "o",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -312,12 +312,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome pessoal acusativo singular masculino",
       "meanings": "ele; seu; o mesmo",
-      "explanation": "A forma αὐτὸν é pronome pessoal acusativo singular masculino do lema αὐτός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Objeto direto de ἐξεκέντησαν. Pronome pessoal acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Objeto direto de ἐξεκέντησαν",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -341,7 +341,7 @@ export const apocalipse1v7 = {
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Predicado aoristo da oração relativa",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -361,12 +361,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena visão e lamentação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena visão e lamentação",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -385,12 +385,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "3FMI-P--",
       "morphology": "Verbo futuro médio indicativo 3ª pessoa plural",
       "meanings": "lamentar; golpear",
-      "explanation": "A forma κόψονται é verbo futuro médio indicativo 3ª pessoa plural do lema κόπτω; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Predicado futuro médio de πᾶσαι αἱ φυλαί. Verbo futuro médio indicativo 3ª pessoa plural.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Predicado futuro médio de πᾶσαι αἱ φυλαί",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -401,7 +401,7 @@ export const apocalipse1v7 = {
       "shortMorph": "Prep",
       "greek": "ἐπ’",
       "transliteration": "ep",
-      "gloss": "sobre",
+      "gloss": "por causa de",
       "strong": "G1909",
       "lemma": "ἐπί",
       "lemmaTransliteration": "epi",
@@ -409,12 +409,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "sobre; por causa de",
-      "explanation": "A forma ἐπ’ é preposição (indeclinável) do lema ἐπί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição causal, rege αὐτόν. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição causal, rege αὐτόν",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -425,7 +425,7 @@ export const apocalipse1v7 = {
       "shortMorph": "PPro-ASM",
       "greek": "αὐτὸν",
       "transliteration": "auton",
-      "gloss": "a ele",
+      "gloss": "ele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -433,12 +433,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome pessoal acusativo singular masculino",
       "meanings": "ele; seu; o mesmo",
-      "explanation": "A forma αὐτὸν é pronome pessoal acusativo singular masculino do lema αὐτός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Complemento acusativo de ἐπί. Pronome pessoal acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento acusativo de ἐπί",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -449,7 +449,7 @@ export const apocalipse1v7 = {
       "shortMorph": "Adj-NPF",
       "greek": "πᾶσαι",
       "transliteration": "pasai",
-      "gloss": "todo",
+      "gloss": "todas",
       "strong": "G3956",
       "lemma": "πᾶς",
       "lemmaTransliteration": "pas",
@@ -457,12 +457,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "todo; cada",
-      "explanation": "A forma πᾶσαι é adjetivo nominativo plural feminino do lema πᾶς; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Quantificador de φυλαί. Adjetivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Quantificador de φυλαί",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -481,12 +481,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma αἱ é artigo definido nominativo plural feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de φυλαί. Artigo definido nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de φυλαί",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -497,7 +497,7 @@ export const apocalipse1v7 = {
       "shortMorph": "N-NPF",
       "greek": "φυλαὶ",
       "transliteration": "phylai",
-      "gloss": "tribo",
+      "gloss": "tribos",
       "strong": "G5443",
       "lemma": "φυλή",
       "lemmaTransliteration": "phylē",
@@ -505,12 +505,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "tribo; família; povo",
-      "explanation": "A forma φυλαὶ é substantivo nominativo plural feminino do lema φυλή; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Sujeito nominativo plural de κόψονται. Substantivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Sujeito nominativo plural de κόψονται",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -529,12 +529,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῆς é artigo definido genitivo singular feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de γῆς. Artigo definido genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de γῆς",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -553,12 +553,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "terra; solo",
-      "explanation": "A forma γῆς. é substantivo genitivo singular feminino do lema γῆ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo que delimita φυλαί. Substantivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo que delimita φυλαί",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -578,12 +578,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
       "meanings": "sim; certamente",
-      "explanation": "A forma ναί, é partícula (indeclinável) do lema ναί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Partícula de afirmação. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Partícula de afirmação",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -603,12 +603,12 @@ export const apocalipse1v7 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
       "meanings": "amém; assim seja",
-      "explanation": "A forma ἀμήν. é partícula (indeclinável) do lema ἀμήν; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Partícula de ratificação. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Partícula de ratificação",
         "clauseId": "AP.1.7.C1",
         "governedBy": null
       },
@@ -617,10 +617,12 @@ export const apocalipse1v7 = {
     }
   ],
   "syntacticNotes": [
-    "A passagem combina imagens de Daniel 7:13 e Zacarias 12:10–14. As decisões textuais do SBLGNT são mantidas no corpo principal, sem harmonização automática com as formas das respectivas passagens na Septuaginta.",
-    "O futuro ὄψεται refere-se à visibilidade da vinda; οἵτινες ... ἐξεκέντησαν traz alusão a Zc 12:10. A relação de πᾶσαι αἱ φυλαὶ τῆς γῆς com Zacarias e o alcance de γῆ requerem avaliação contextual."
+    "Ἰδού introduz o anúncio; ἔρχεται, presente, tem valor prospectivo no contexto profético. Os futuros ὄψεται e κόψονται desenvolvem as consequências.",
+    "πᾶς ὀφθαλμός é sujeito singular de ὄψεται; a relativa οἵτινες αὐτὸν ἐξεκέντησαν especifica os que traspassaram, integrados à percepção universal.",
+    "κόψονται tem sujeito plural πᾶσαι αἱ φυλαί; ἐπ’ αὐτόν exprime o motivo da lamentação."
   ],
   "exegeticalNotes": [
-    "O anúncio reúne elementos de Daniel 7:13 e Zacarias 12:10–14: a vinda nas nuvens, sua visibilidade e a reação das tribos. A extensão de «tribos da terra» e o sentido de «lamentar» exigem leitura da rede de alusões, não somente glosas isoladas."
+    "A vinda com as nuvens evoca Dn 7:13; a visão do traspassado e a lamentação retomam Zc 12:10–14.",
+    "A combinação das imagens anuncia manifestação pública e reação dos povos."
   ]
 } as const;
