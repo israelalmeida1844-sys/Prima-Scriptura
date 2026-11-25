@@ -1,0 +1,336 @@
+---
+import { apocalipse9v10 } from '../data/texto-original/apocalipse/apocalipse-9-10';
+import ApocalipseLexiconSenseList from './ApocalipseLexiconSenseList.astro';
+import lexicon from '../data/lexico-grego/apocalipse-9-1-21.json';
+import '../styles/apocalipse-lexicon.css';
+
+const firstWord = apocalipse9v10.words[0];
+const firstLexicon = (lexicon.entries as Record<string, { lemmaTransliteration: string; partOfSpeech: string }>)[firstWord.strong];
+---
+<section class="apocalipse-interlinear" data-original-apocalipse-9-10 aria-label="Texto original e análise lexical de Apocalipse 9:10">
+  <header class="interlinear-header">
+    <p class="apocalipse-kicker">Texto original · SBL Greek New Testament</p>
+    <h2>{apocalipse9v10.reference}</h2>
+    <p class="instruction">Selecione uma palavra grega para consultar a ficha lexical e a concordância, quando disponível.</p>
+  </header>
+
+  <!-- 5. Botões de visualização independentes -->
+  <fieldset class="interlinear-controls">
+    <legend>Opções de visualização</legend>
+    <label><input type="checkbox" data-toggle="greek" checked /> Grego</label>
+    <label><input type="checkbox" data-toggle="transliteration" checked /> Transliteração</label>
+    <label><input type="checkbox" data-toggle="gloss" checked /> Glosas</label>
+    <label><input type="checkbox" data-toggle="morph" checked /> Morfologia</label>
+    <label><input type="checkbox" data-toggle="translation" checked /> Tradução</label>
+  </fieldset>
+
+  <!-- 4. Apresentação do texto em fluxo contínuo (wrapping, padrão interlinear clássico sem rolagem horizontal) -->
+  <div class="interlinear-flow-container" role="region" aria-label="Texto interlinear grego de Apocalipse 9:10">
+    <span class="verse-num-badge" aria-hidden="true">10</span>
+    <div class="interlinear-words" dir="ltr">
+      {apocalipse9v10.words.map((word, index) => (
+        <button
+          type="button"
+          class:list={['original-word', { selected: index === 0 }]}
+          data-word-index={index}
+          aria-pressed={index === 0 ? 'true' : 'false'}
+          aria-label={`Consultar ${word.greek}: ${word.gloss}`}
+        >
+          <span class="strong-number" dir="ltr">{word.strong}</span>
+          <span class="word-transliteration" dir="ltr">{word.transliteration}</span>
+          <span class="word-greek" lang="grc" dir="ltr"><span class="greek-form">{word.greek}</span><span class="greek-punctuation" aria-hidden="true">{'trailingPunctuation' in word ? word.trailingPunctuation : ''}</span></span>
+          <span class="word-gloss" dir="ltr">{word.gloss}</span>
+          <span class="word-morph" dir="ltr">{word.shortMorph}</span>
+        </button>
+      ))}
+    </div>
+  </div>
+
+  <!-- 6. Ficha lexical interativa -->
+  <section class="lexicon-card" aria-label="Significado da palavra selecionada" aria-live="polite">
+    <div class="lexicon-header">
+      <h3>Significado da palavra selecionada</h3>
+      <span class="strong-number active-strong" data-lexicon-strong>{firstWord.strong}</span>
+    </div>
+
+    <p class="lexicon-greek" lang="grc" dir="ltr" data-lexicon-greek>{firstWord.greek}</p>
+    <p class="lexicon-transliteration" data-lexicon-transliteration>{firstWord.transliteration}</p>
+
+    <dl class="lexicon-fields">
+      <div>
+        <dt>Tradução contextual</dt>
+        <dd data-lexicon-gloss>{firstWord.gloss}</dd>
+      </div>
+      <div>
+        <dt>Lema grego</dt>
+        <dd class="lexicon-lemma">
+          <span class="lexicon-lemma-greek" lang="grc" dir="ltr" data-lexicon-lemma>{firstWord.lemma}</span>
+          <span class="lexicon-lemma-transliteration" dir="ltr" data-lexicon-lemma-transliteration>{firstLexicon?.lemmaTransliteration ?? firstWord.lemmaTransliteration}</span>
+        </dd>
+      </div>
+      <div>
+        <dt>Classe gramatical</dt>
+        <dd data-lexicon-pos>{firstWord.partOfSpeech}</dd>
+      </div>
+      <div>
+        <dt>Morfologia</dt>
+        <dd data-lexicon-morphology>{firstWord.morphology}</dd>
+      </div>
+      <div>
+        <dt>Função sintática no versículo</dt>
+        <dd data-lexicon-syntax>{firstWord.syntax.role} · {firstWord.syntax.clauseId} · dependência: {firstWord.syntax.governedBy ?? 'não indicada'}</dd>
+      </div>
+      <div>
+        <dt>Sentidos e exemplos</dt>
+        <dd class="lexical-senses" data-lexicon-meanings>
+          <ApocalipseLexiconSenseList strong={firstWord.strong} />
+        </dd>
+      </div>
+    </dl>
+
+    <p class="lexical-usage-note" data-lexicon-explanation>{firstWord.explanation}</p>
+
+    <!-- 9. Concordância exaustiva do Novo Testamento grego -->
+    <h4>Ocorrências no Novo Testamento Grego</h4>
+    <button type="button" class="concordance-toggle" data-occurrences-toggle aria-controls="ap9-10-occurrences" aria-expanded="false">
+      Mostrar todas as ocorrências ↓
+    </button>
+    <div id="ap9-10-occurrences" class="concordance-panel" data-occurrences-panel hidden>
+      <p class="concordance-status" data-occurrences-status role="status">
+        Selecione “Mostrar todas as ocorrências” para consultar as referências.
+      </p>
+      <p class="concordance-total" data-occurrences-total hidden></p>
+      <p class="concordance-distribution" data-occurrences-distribution hidden></p>
+      <div class="concordance-references" data-occurrences-refs aria-label="Referências em ordem canônica do Novo Testamento"></div>
+      <p class="concordance-selection" data-occurrences-selection hidden></p>
+    </div>
+    <p class="concordance-note">As concordâncias herdadas abrangem os 27 livros; os novos índices estão em preparação. Identificadores L- são internos e não correspondem a números Strong.</p>
+  </section>
+
+  <!-- 10. Nota de Crítica Textual -->
+  <!-- Seções editoriais separadas: gramática, crítica textual e exegese. -->
+  <section class="syntactic-panel" aria-label="Observações gramaticais do versículo">
+    <h4>Observações gramaticais e sintáticas</h4>
+    <ul>{apocalipse9v10.syntacticNotes.map(note => <li>{note}</li>)}</ul>
+  </section>
+
+  <section class="textual-criticism-panel" aria-label="Crítica textual documentada">
+    <h4>Nota de crítica textual</h4>
+    <p>{apocalipse9v10.textualNotes}</p>
+  </section>
+
+  <section class="exegetical-panel" aria-label="Interpretação exegética do versículo">
+    <h4>Notas exegéticas</h4>
+    {apocalipse9v10.exegeticalNotes.length ? <ul>{apocalipse9v10.exegeticalNotes.map(note => <li>{note}</li>)}</ul> : <p>Sem nota exegética adicional neste versículo.</p>}
+  </section>
+
+  <!-- 11. Tradução Editorial em Português Natural -->
+  <section class="translation-panel" data-panel-translation>
+    <h3>Tradução editorial — ordem natural do português</h3>
+    <p data-translation-text>{apocalipse9v10.translation}</p>
+    <small>{apocalipse9v10.translationNote}</small>
+  </section>
+</section>
+
+<script>
+  import { apocalipse9v10 } from '../data/texto-original/apocalipse/apocalipse-9-10';
+  import { updateLexiconLemmaAndSenses } from '../scripts/lexico-grego-apocalipse';
+
+  interface CorpusData {
+    strong: string;
+    lemma: string;
+    lemmaTranslit: string;
+    tokenCount: number;
+    verseCount: number;
+    bookDistribution: Record<string, number>;
+    references: (string | {book: string;chapter: number;verse: number;reference: string;text: string; highlightedWord: string})[];
+    complete: boolean;
+  }
+
+  function activateInterlinear() {
+    document.querySelectorAll<HTMLElement>('[data-original-apocalipse-9-10]').forEach((root) => {
+      if (root.dataset.ready === 'true') return;
+      root.dataset.ready = 'true';
+
+      const words = apocalipse9v10.words;
+      const fields: Record<string, string> = {
+        strong: '[data-lexicon-strong]',
+        greek: '[data-lexicon-greek]',
+        transliteration: '[data-lexicon-transliteration]',
+        gloss: '[data-lexicon-gloss]',
+        lemma: '[data-lexicon-lemma]',
+        partOfSpeech: '[data-lexicon-pos]',
+        morphology: '[data-lexicon-morphology]',
+        explanation: '[data-lexicon-explanation]',
+      };
+
+      let selectedIndex = 0;
+      let requestSequence = 0;
+      const cache = new Map<string, CorpusData>();
+      const formatNumber = (value: number) => new Intl.NumberFormat('pt-BR').format(value);
+
+      const show = (index: number) => {
+        requestSequence++;
+        const word = words[index];
+        if (!word) return;
+
+        for (const [name, selector] of Object.entries(fields)) {
+          const el = root.querySelector<HTMLElement>(selector);
+          if (el) el.textContent = word[name as keyof typeof word] as string;
+        }
+
+        const syntax = root.querySelector<HTMLElement>('[data-lexicon-syntax]');
+        if (syntax) syntax.textContent = word.syntax.role + ' · ' + word.syntax.clauseId + ' · dependência: ' + (word.syntax.governedBy ?? 'não indicada');
+        updateLexiconLemmaAndSenses(root, word.strong);
+
+        // Reset do painel de ocorrências ao trocar de palavra
+        const panel = root.querySelector<HTMLElement>('[data-occurrences-panel]');
+        const toggle = root.querySelector<HTMLButtonElement>('[data-occurrences-toggle]');
+        if (panel && toggle) {
+          panel.hidden = true;
+          toggle.setAttribute('aria-expanded', 'false');
+          toggle.textContent = 'Mostrar todas as ocorrências ↓';
+          root.querySelector<HTMLElement>('[data-occurrences-total]')?.setAttribute('hidden', '');
+          root.querySelector<HTMLElement>('[data-occurrences-distribution]')?.setAttribute('hidden', '');
+          root.querySelector<HTMLElement>('[data-occurrences-selection]')?.setAttribute('hidden', '');
+          root.querySelector<HTMLElement>('[data-occurrences-refs]')?.replaceChildren();
+          const state = root.querySelector<HTMLElement>('[data-occurrences-status]');
+          if (state) {
+            state.hidden = false;
+            state.textContent = 'Selecione “Mostrar todas as ocorrências” para consultar as referências.';
+          }
+        }
+
+        root.querySelectorAll<HTMLButtonElement>('[data-word-index]').forEach((button) => {
+          const selected = Number(button.dataset.wordIndex) === index;
+          button.classList.toggle('selected', selected);
+          button.setAttribute('aria-pressed', String(selected));
+        });
+      };
+
+      const selectWord = (index: number) => {
+        selectedIndex = index;
+        show(index);
+      };
+
+      root.querySelectorAll<HTMLButtonElement>('[data-word-index]').forEach((button) => {
+        button.addEventListener('click', () => selectWord(Number(button.dataset.wordIndex)));
+      });
+
+      // 9. Lógica de carregamento da concordância
+      const toggleOccurrences = root.querySelector<HTMLButtonElement>('[data-occurrences-toggle]');
+      const occurrencePanel = root.querySelector<HTMLElement>('[data-occurrences-panel]');
+      const occurrenceStatus = root.querySelector<HTMLElement>('[data-occurrences-status]');
+      const occurrenceTotal = root.querySelector<HTMLElement>('[data-occurrences-total]');
+      const occurrenceDistribution = root.querySelector<HTMLElement>('[data-occurrences-distribution]');
+      const occurrenceRefs = root.querySelector<HTMLElement>('[data-occurrences-refs]');
+      const occurrenceSelection = root.querySelector<HTMLElement>('[data-occurrences-selection]');
+
+      toggleOccurrences?.addEventListener('click', async () => {
+        if (!toggleOccurrences || !occurrencePanel || !occurrenceStatus || !occurrenceTotal || !occurrenceRefs) return;
+
+        if (!occurrencePanel.hidden) {
+          requestSequence++;
+          occurrencePanel.hidden = true;
+          toggleOccurrences.setAttribute('aria-expanded', 'false');
+          toggleOccurrences.textContent = 'Mostrar todas as ocorrências ↓';
+          return;
+        }
+
+        const thisRequest = ++requestSequence;
+        const currentStrong = words[selectedIndex].strong;
+        occurrencePanel.hidden = false;
+        toggleOccurrences.setAttribute('aria-expanded', 'true');
+        toggleOccurrences.textContent = 'Ocultar ocorrências ↑';
+        occurrenceStatus.hidden = false;
+        occurrenceStatus.textContent = 'Carregando concordância grega do Novo Testamento…';
+        occurrenceRefs.replaceChildren();
+        occurrenceTotal.hidden = true;
+        if (occurrenceDistribution) occurrenceDistribution.hidden = true;
+        if (occurrenceSelection) occurrenceSelection.hidden = true;
+
+        try {
+          let corpus = cache.get(currentStrong);
+          if (!corpus) {
+            const response = await fetch('/data/concordancia-grega/' + encodeURIComponent(currentStrong) + '.json');
+            if (!response.ok) throw new Error('Arquivo de concordância local ausente (' + response.status + ')');
+            corpus = (await response.json()) as CorpusData;
+            if (!corpus || corpus.complete !== true || !Array.isArray(corpus.references)) {
+              throw new Error('Índice grego incompleto ou inválido');
+            }
+            cache.set(currentStrong, corpus);
+          }
+
+          if (thisRequest !== requestSequence || words[selectedIndex].strong !== currentStrong) return;
+
+          occurrenceStatus.hidden = true;
+          occurrenceTotal.hidden = false;
+          occurrenceTotal.textContent = `${formatNumber(corpus.verseCount)} versículos · ${formatNumber(corpus.tokenCount)} ocorrências (tokens) · ${currentStrong} (${corpus.lemma})`;
+
+          if (occurrenceDistribution && corpus.bookDistribution) {
+            occurrenceDistribution.hidden = false;
+            const distEntries = Object.entries(corpus.bookDistribution)
+              .map(([b, count]) => `${b}: ${count}`)
+              .join(' · ');
+            occurrenceDistribution.textContent = 'Distribuição por livros: ' + distEntries;
+          }
+
+          // Renderização progressiva em chunks para não congelar o navegador em lemas frequentes
+          const references = corpus.references;
+          let offset = 0;
+          const renderChunk = () => {
+            if (thisRequest !== requestSequence || occurrencePanel.hidden || words[selectedIndex].strong !== currentStrong) return;
+            const fragment = document.createDocumentFragment();
+            const limit = Math.min(offset + 250, references.length);
+
+            for (let j = offset; j < limit; j++) {
+              const item = document.createElement('button');
+              item.type = 'button';
+              item.className = 'concordance-reference';
+              const refItem = references[j];
+              item.textContent = typeof refItem === 'string' ? refItem : `${refItem.reference} — ${refItem.text}`;
+              item.setAttribute('aria-label', 'Referência ' + (typeof refItem === 'string' ? refItem : refItem.reference));
+              item.addEventListener('click', () => {
+                if (occurrenceSelection) {
+                  occurrenceSelection.hidden = false;
+                  occurrenceSelection.textContent = typeof refItem === 'string' ? `${refItem} — Ocorrência selecionada no corpus do NT grego.` : `${refItem.reference} — ${refItem.text}`;
+                }
+              });
+              fragment.appendChild(item);
+              if (j < references.length - 1) fragment.appendChild(document.createTextNode('; '));
+            }
+
+            occurrenceRefs.appendChild(fragment);
+            offset = limit;
+            if (offset < references.length) window.requestAnimationFrame(renderChunk);
+          };
+
+          renderChunk();
+        } catch (error) {
+          if (thisRequest !== requestSequence) return;
+          occurrenceStatus.hidden = false;
+          occurrenceStatus.textContent = 'Não foi possível carregar a concordância local. Verifique o arquivo e tente novamente.';
+        }
+      });
+
+      // 5. Controles de visibilidade dos botões
+      const classes: Record<string, string> = {
+        greek: 'hide-greek',
+        transliteration: 'hide-transliteration',
+        gloss: 'hide-gloss',
+        morph: 'hide-morph',
+        translation: 'hide-translation',
+      };
+
+      root.querySelectorAll<HTMLInputElement>('[data-toggle]').forEach((toggle) => {
+        toggle.addEventListener('change', () => {
+          const name = toggle.dataset.toggle || '';
+          if (classes[name]) root.classList.toggle(classes[name], !toggle.checked);
+        });
+      });
+    });
+  }
+
+  activateInterlinear();
+  document.addEventListener('astro:page-load', activateInterlinear);
+</script>
