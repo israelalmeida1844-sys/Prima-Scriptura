@@ -28,7 +28,7 @@ def load(path,prefix):
     assert len(groups)>4000,(path,len(groups))
     return groups
 def key_for(lang,lemma):
-    return lang+":"+lemma_key(lemma)
+    return lang+":"+unicodedata.normalize("NFC",lemma.strip().lower())
 def selftest():
     assert plain("<b>word</b><br>speech")=="word\nspeech"
     assert key_for("grc","λόγος")==key_for("grc","ΛΌΓΟΣ")
