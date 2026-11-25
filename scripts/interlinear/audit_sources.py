@@ -32,7 +32,7 @@ def main():
                 ref,pos,morph,text,word,normalized,lemma=line.split()
                 require(re.fullmatch(r"\d{6}",ref) and int(ref[:2])==i-60,book+" bad source reference "+ref)
                 require(pos in "A- C- D- I- N- P- RA RD RI RP RR V- X-".split(),book+" unknown POS "+pos)
-                require(re.fullmatch(r"[123-][PIFAXY-][AMP-][IDS ONP-][NGDA-][SP-][MFN-][CS-]".replace(" ",""),morph),book+" unknown parsing "+morph)
+                require(re.fullmatch(r"[123-][PIFAXY-][AMP-][IDS ONP-][NGDAV-][SP-][MFN-][CS-]".replace(" ",""),morph),book+" unknown parsing "+morph)
                 key=f"{int(ref[2:4])}:{int(ref[4:])}"
                 expected.setdefault(key,[]).append((text,word,normalized,lemma,pos,morph))
             fields=("text","word","normalized","lemma","pos","morph")
