@@ -78,14 +78,14 @@ async function openLex(token:Token,add:Extra|undefined,strong:StrongEntry|undefi
   }catch{if(serial===lexSerial)wait.textContent="Não foi possível recuperar a ficha lexical.";}
 }
 type SynNode={kind:"wg"|"w";parent:number|null;attrs:Record<string,string>;sentence:string;source_group?:number;source_id?:string;source_ref?:string;token?:number;component?:number};
-type SynVerse={method:string;matched:number;source_word_count:number;words:{status:string;nodes:number[];component_match?:boolean}[];nodes:SynNode[];sentences:Record<string,string[]>};
+type SynVerse={method:string;matched:number;source_word_count:number;words:{status:string;nodes:number[];component_match?:boolean;reason?:string}[];nodes:SynNode[];sentences:Record<string,string[]>};
 const syntaxContent=document.querySelector<HTMLElement>("#syntax-content")!,syntaxOpen=document.querySelector<HTMLButtonElement>("#syntax-open")!;
 let syntaxSerial=0;
 const syntaxCache=new Map<string,Promise<Record<string,SynVerse>>>();
 const roleNames:Record<string,string>={s:"Sujeito",v:"Verbo",o:"Objeto",io:"Objeto indireto",adv:"Adverbial",pp:"Grupo preposicional",p:"Predicado",aux:"Auxiliar"};
 const groupNames:Record<string,string>={cl:"Oração",np:"Sintagma nominal",vp:"Sintagma verbal",pp:"Sintagma preposicional",adjp:"Sintagma adjetival",advp:"Sintagma adverbial"};
 function describeSyn(n:SynNode){
-  const a=n.attrs;return [a.role?((roleNames[a.role]||"Função da fonte")+" ["+a.role+"]"):"",a.class?((groupNames[a.class]||a.class)+" ["+a.class+"]"):"",a.rule||a.Rule?"Regra: "+(a.rule||a.Rule):"",a.clauseType?"Tipo de oração: "+a.clauseType:"",a.junction?"Junção: "+a.junction:"",a.predication?"Predicação: "+a.predication:"",a.head==="true"?"Núcleo indicado pela fonte":""].filter(Boolean).join(" · ")||"Grupo sem rótulo explícito";
+  const a=n.attrs;return [a.role?(a.role.startsWith("err_")?"Diagnóstico da fonte — função não validada":((roleNames[a.role]||"Função da fonte")+" ["+a.role+"]")):"",a.class?((groupNames[a.class]||a.class)+" ["+a.class+"]"):"",a.rule||a.Rule?"Regra: "+(a.rule||a.Rule):"",a.clauseType?"Tipo de oração: "+a.clauseType:"",a.junction?"Junção: "+a.junction:"",a.predication?"Predicação: "+a.predication:"",a.head==="true"?"Núcleo indicado pela fonte":""].filter(Boolean).join(" · ")||"Grupo sem rótulo explícito";
 }
 async function showSyntax(selected?:number){
   const id=++syntaxSerial,b=book.value,ch=chapter.value,ref=ch+":"+verse.value,ws=data[ref]||[];
@@ -101,7 +101,7 @@ async function showSyntax(selected?:number){
     if(selected!==undefined){
       const m=x.words[selected];
       appendText(syntaxContent,"h3","Função da palavra selecionada: "+ws[selected].text);
-      if(!m?.nodes.length)appendText(syntaxContent,"p","Pendente: sem correspondência segura.");
+      if(!m?.nodes.length)appendText(syntaxContent,"p","Pendente: "+(m?.reason||"sem correspondência segura").replaceAll("_"," ")+".");
       else{
         if(!m.component_match)appendText(syntaxContent,"p","Segmentação diferente da fonte: ligação apenas à palavra inteira.");
         for(const j of m.nodes){
@@ -124,7 +124,7 @@ async function showSyntax(selected?:number){
       }
     }
     tree(syntaxContent,kids.get(null)||[]);
-    if(x.matched<ws.length){const pending=x.words.map((w,i)=>w.nodes.length?null:ws[i].text).filter(Boolean);appendText(syntaxContent,"p","Palavras pendentes: "+pending.join(" · "));}
+    if(x.matched<ws.length){const pending=x.words.map((w,i)=>w.nodes.length?null:ws[i].text+" ("+(w.reason||"sem correspondência segura").replaceAll("_"," ")+")").filter(Boolean);appendText(syntaxContent,"p","Palavras pendentes: "+pending.join(" · "));}
   }catch{if(id===syntaxSerial){syntaxContent.replaceChildren();appendText(syntaxContent,"p","Não foi possível carregar a análise sintática.");}}
 }
 syntaxOpen.addEventListener("click",()=>showSyntax());
