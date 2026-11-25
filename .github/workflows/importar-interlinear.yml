@@ -1,0 +1,54 @@
+name: Importar interlinear completo
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/importar-interlinear.yml'
+      - 'scripts/interlinear/import_corpora.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  importar:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Obter corpora livres
+        run: |
+          git clone --depth 1 https://github.com/morphgnt/sblgnt.git /tmp/sblgnt
+          git clone --depth 1 https://github.com/openscriptures/morphhb.git /tmp/morphhb
+      - name: Importar os 66 livros
+        run: |
+          python3 scripts/interlinear/import_corpora.py --greek /tmp/sblgnt --hebrew /tmp/morphhb --out public/interlinear-corpus
+          cp scripts/interlinear/FONTES.md public/interlinear-corpus/FONTES.md
+          git -C /tmp/sblgnt rev-parse HEAD > public/interlinear-corpus/morphgnt-revision.txt
+          git -C /tmp/morphhb rev-parse HEAD > public/interlinear-corpus/oshb-revision.txt
+      - name: Validar cobertura
+        run: |
+          python3 - <<'PY'
+          import json, pathlib
+          p=pathlib.Path('public/interlinear-corpus')
+          m=json.loads((p/'manifest.json').read_text())
+          assert len(m)==66
+          for book, meta in m.items():
+              v=json.loads((p/(book+'.json')).read_text())
+              assert len(v)==meta['verses'] and sum(map(len,v.values()))==meta['tokens']
+              assert all(w['text'] for words in v.values() for w in words)
+          print(sum(x['verses'] for x in m.values()), 'versículos;', sum(x['tokens'] for x in m.values()), 'unidades')
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Salvar somente na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-corpus
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import 66 books from open corpora [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi
