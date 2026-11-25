@@ -240,7 +240,7 @@ export const apocalipse5v9 = {
       "shortMorph": "N-ASN",
       "greek": "βιβλίον",
       "transliteration": "biblion",
-      "gloss": "livro",
+      "gloss": "rolo",
       "strong": "G975",
       "lemma": "βιβλίον",
       "lemmaTransliteration": "biblion",

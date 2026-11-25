@@ -114,7 +114,7 @@ export const apocalipse3v22 = {
       "shortMorph": "RI ----ASN-",
       "greek": "τί",
       "transliteration": "ti",
-      "gloss": "que?",
+      "gloss": "que",
       "strong": "G5101",
       "lemma": "τίς",
       "lemmaTransliteration": "tis",

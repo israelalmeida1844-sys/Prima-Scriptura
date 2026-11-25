@@ -574,7 +574,7 @@ export const apocalipse3v8 = {
       "shortMorph": "N- ----ASM-",
       "greek": "λόγον",
       "transliteration": "logon",
-      "gloss": "Palavra, mensagem ou declaração",
+      "gloss": "Palavra mensagem ou declaração",
       "strong": "G3056",
       "lemma": "λόγος",
       "lemmaTransliteration": "logos",

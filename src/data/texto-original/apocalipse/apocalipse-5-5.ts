@@ -579,7 +579,7 @@ export const apocalipse5v5 = {
       "shortMorph": "N-ASN",
       "greek": "βιβλίον",
       "transliteration": "biblion",
-      "gloss": "livro",
+      "gloss": "rolo",
       "strong": "G975",
       "lemma": "βιβλίον",
       "lemmaTransliteration": "biblion",

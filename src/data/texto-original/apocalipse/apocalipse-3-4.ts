@@ -331,7 +331,7 @@ export const apocalipse3v4 = {
       "shortMorph": "V- 3FAI-P--",
       "greek": "περιπατήσουσιν",
       "transliteration": "peripatēsousin",
-      "gloss": "andar, caminhar continuamente",
+      "gloss": "andar caminhar continuamente",
       "strong": "G4043",
       "lemma": "περιπατέω",
       "lemmaTransliteration": "peripateō",

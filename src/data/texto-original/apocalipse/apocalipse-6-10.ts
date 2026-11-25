@@ -166,7 +166,7 @@ export const apocalipse6v10 = {
       "shortMorph": "ADV",
       "greek": "πότε",
       "transliteration": "pote",
-      "gloss": "quando?",
+      "gloss": "quando",
       "strong": "G4219",
       "lemma": "πότε",
       "lemmaTransliteration": "pote",

@@ -311,7 +311,7 @@ export const apocalipse6v5 = {
       "shortMorph": "V-PMD-2-S",
       "greek": "Ἔρχου",
       "transliteration": "Erchou",
-      "gloss": "Vem!",
+      "gloss": "Vem",
       "strong": "G2064",
       "lemma": "ἔρχομαι",
       "lemmaTransliteration": "erchomai",

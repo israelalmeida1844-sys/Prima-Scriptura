@@ -382,7 +382,7 @@ export const apocalipse6v13 = {
       "shortMorph": "PREP",
       "greek": "ὑπὸ",
       "transliteration": "hypo",
-      "gloss": "sob; por",
+      "gloss": "sob por",
       "strong": "G5259",
       "lemma": "ὑπό",
       "lemmaTransliteration": "hypo",

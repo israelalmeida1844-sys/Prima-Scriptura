@@ -78,7 +78,7 @@ const firstLexicon = (lexicon.entries as Record<string, { lemmaTransliteration: 
       </div>
       <div>
         <dt>Função sintática no versículo</dt>
-        <dd data-lexicon-syntax>{firstWord.syntax.role} · {firstWord.syntax.clauseId} · dependência: {firstWord.syntax.governedBy ?? 'não indicada'}</dd>
+        <dd data-lexicon-syntax>{firstWord.syntax.role} · Ap 5:6{firstWord.syntax.governedBy ? ' · ' + firstWord.syntax.governedBy : ''}</dd>
       </div>
       <div>
         <dt>Sentidos e exemplos</dt>
@@ -180,7 +180,7 @@ const firstLexicon = (lexicon.entries as Record<string, { lemmaTransliteration: 
         }
 
         const syntax = root.querySelector<HTMLElement>('[data-lexicon-syntax]');
-        if (syntax) syntax.textContent = word.syntax.role + ' · ' + word.syntax.clauseId + ' · dependência: ' + (word.syntax.governedBy ?? 'não indicada');
+        if (syntax) syntax.textContent = word.syntax.role + ' · Ap 5:6' + (word.syntax.governedBy ? ' · ' + word.syntax.governedBy : '');
         updateLexiconLemmaAndSenses(root, word.strong);
 
         // Reset do painel de ocorrências ao trocar de palavra

@@ -236,7 +236,7 @@ export const apocalipse3v11 = {
       "shortMorph": "N- ----ASM-",
       "greek": "στέφανόν",
       "transliteration": "stephanon",
-      "gloss": "coroa, grinalda de honra",
+      "gloss": "coroa grinalda de honra",
       "strong": "G4735",
       "lemma": "στέφανος",
       "lemmaTransliteration": "stephanos",

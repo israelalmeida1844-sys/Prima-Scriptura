@@ -571,14 +571,6 @@
               "translation": "do seu anjo.",
               "explanation": "O anjo intérprete que guia João através dos cenários apocalípticos e decifra suas visões celestiais.",
               "source": "SBLGNT"
-            },
-            {
-              "reference": "Hb 1:14",
-              "greek": "οὐχὶ πάντες εἰσὶν λειτουργικὰ πνεύματα εἰς διακονίαν ἀποστελλόμενα",
-              "wordForm": "λειτουργικὰ πνεύματα",
-              "translation": "não são todos eles espíritos ministradores enviados para serviço?",
-              "explanation": "A função dos anjos como servos comissionados em favor dos herdeiros da salvação.",
-              "source": "SBLGNT"
             }
           ]
         }
@@ -865,7 +857,7 @@
           "definition": "feliz; bem-aventurado",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "μακάριος ὁ",
               "wordForm": "μακάριος",
               "translation": "feliz o",
@@ -888,7 +880,7 @@
           "definition": "ler em voz alta; ler",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "ὁ ἀναγινώσκων καὶ",
               "wordForm": "ἀναγινώσκων",
               "translation": "o que lê e",
@@ -911,7 +903,7 @@
           "definition": "ouvir; escutar",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "οἱ ἀκούοντες τοὺς",
               "wordForm": "ἀκούοντες",
               "translation": "os que ouvem os",
@@ -934,7 +926,7 @@
           "definition": "profecia; mensagem profética",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "τῆς προφητείας καὶ",
               "wordForm": "προφητείας",
               "translation": "da profecia e",
@@ -957,7 +949,7 @@
           "definition": "guardar; observar; preservar",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "καὶ τηροῦντες τὰ",
               "wordForm": "τηροῦντες",
               "translation": "e guardam as coisas",
@@ -980,7 +972,7 @@
           "definition": "escrever; registrar",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "αὐτῇ γεγραμμένα, ὁ",
               "wordForm": "γεγραμμένα,",
               "translation": "nela escritas o",
@@ -1003,7 +995,7 @@
           "definition": "pois; porque",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "ὁ γὰρ καιρὸς",
               "wordForm": "γὰρ",
               "translation": "o pois tempo oportuno",
@@ -1026,7 +1018,7 @@
           "definition": "tempo oportuno; ocasião determinada",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "γὰρ καιρὸς ἐγγύς.",
               "wordForm": "καιρὸς",
               "translation": "pois tempo oportuno perto",
@@ -1049,7 +1041,7 @@
           "definition": "perto; próximo",
           "examples": [
             {
-              "reference": "Apocalipse 1:3",
+              "reference": "Ap 1:3",
               "greek": "καιρὸς ἐγγύς.",
               "wordForm": "ἐγγύς.",
               "translation": "tempo oportuno perto",
@@ -1072,7 +1064,7 @@
           "definition": "sete",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "ταῖς ἑπτὰ ἐκκλησίαις",
               "wordForm": "ἑπτὰ",
               "translation": "às sete assembleia",
@@ -1095,7 +1087,7 @@
           "definition": "assembleia; igreja",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "ἑπτὰ ἐκκλησίαις ταῖς",
               "wordForm": "ἐκκλησίαις",
               "translation": "sete assembleia às",
@@ -1118,7 +1110,7 @@
           "definition": "Ásia (província romana)",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "τῇ Ἀσίᾳ· χάρις",
               "wordForm": "Ἀσίᾳ·",
               "translation": "na Ásia (província romana) graça",
@@ -1141,7 +1133,7 @@
           "definition": "graça; favor",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "Ἀσίᾳ· χάρις ὑμῖν",
               "wordForm": "χάρις",
               "translation": "Ásia (província romana) graça a vocês",
@@ -1164,7 +1156,7 @@
           "definition": "tu; vós; você(s)",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "χάρις ὑμῖν καὶ",
               "wordForm": "ὑμῖν",
               "translation": "graça a vocês e",
@@ -1187,7 +1179,7 @@
           "definition": "paz; bem-estar",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "καὶ εἰρήνη ἀπὸ",
               "wordForm": "εἰρήνη",
               "translation": "e paz de",
@@ -1210,7 +1202,7 @@
           "definition": "de; desde; procedente de",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "εἰρήνη ἀπὸ ὁ",
               "wordForm": "ἀπὸ",
               "translation": "paz de o",
@@ -1218,7 +1210,7 @@
               "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             },
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "καὶ ἀπὸ Ἰησοῦ",
               "wordForm": "ἀπὸ",
               "translation": "e de Jesus",
@@ -1241,7 +1233,7 @@
           "definition": "ser; estar; existir",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "ὁ ὢν καὶ",
               "wordForm": "ὢν",
               "translation": "o que é e",
@@ -1249,7 +1241,7 @@
               "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             },
             {
-              "reference": "Apocalipse 1:8",
+              "reference": "Ap 1:8",
               "greek": "Ἐγώ εἰμι τὸ",
               "wordForm": "εἰμι",
               "translation": "Eu sou o",
@@ -1272,7 +1264,7 @@
           "definition": "vir; chegar",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "ὁ ἐρχόμενος, καὶ",
               "wordForm": "ἐρχόμενος,",
               "translation": "o que vem e",
@@ -1280,7 +1272,7 @@
               "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             },
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "Ἰδοὺ ἔρχεται μετὰ",
               "wordForm": "ἔρχεται",
               "translation": "Eis vem com",
@@ -1288,7 +1280,7 @@
               "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             },
             {
-              "reference": "Apocalipse 1:8",
+              "reference": "Ap 1:8",
               "greek": "ὁ ἐρχόμενος, ὁ",
               "wordForm": "ἐρχόμενος,",
               "translation": "o que vem o",
@@ -1311,7 +1303,7 @@
           "definition": "espírito; sopro; vento",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "ἑπτὰ πνευμάτων ἃ",
               "wordForm": "πνευμάτων",
               "translation": "sete espírito que",
@@ -1334,7 +1326,7 @@
           "definition": "diante de; na presença de",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "ἃ ἐνώπιον τοῦ",
               "wordForm": "ἐνώπιον",
               "translation": "que diante de do",
@@ -1357,7 +1349,7 @@
           "definition": "trono",
           "examples": [
             {
-              "reference": "Apocalipse 1:4",
+              "reference": "Ap 1:4",
               "greek": "τοῦ θρόνου αὐτοῦ,",
               "wordForm": "θρόνου",
               "translation": "do trono dele",
@@ -1380,7 +1372,7 @@
           "definition": "testemunha",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "ὁ μάρτυς ὁ",
               "wordForm": "μάρτυς",
               "translation": "o testemunha o",
@@ -1403,7 +1395,7 @@
           "definition": "fiel; digno de confiança",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "ὁ πιστός, ὁ",
               "wordForm": "πιστός,",
               "translation": "o fiel o",
@@ -1426,7 +1418,7 @@
           "definition": "primogênito",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "ὁ πρωτότοκος τῶν",
               "wordForm": "πρωτότοκος",
               "translation": "o primogênito dos",
@@ -1449,7 +1441,7 @@
           "definition": "morto",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "τῶν νεκρῶν καὶ",
               "wordForm": "νεκρῶν",
               "translation": "dos morto e",
@@ -1472,7 +1464,7 @@
           "definition": "governante; soberano",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "ὁ ἄρχων τῶν",
               "wordForm": "ἄρχων",
               "translation": "o governante dos",
@@ -1495,7 +1487,7 @@
           "definition": "rei",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "τῶν βασιλέων τῆς",
               "wordForm": "βασιλέων",
               "translation": "dos rei da",
@@ -1518,7 +1510,7 @@
           "definition": "terra; solo",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "τῆς γῆς. Τῷ",
               "wordForm": "γῆς.",
               "translation": "da terra artigo definido",
@@ -1526,7 +1518,7 @@
               "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             },
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "τῆς γῆς. ναί,",
               "wordForm": "γῆς.",
               "translation": "da terra sim",
@@ -1549,7 +1541,7 @@
           "definition": "amar",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "Τῷ ἀγαπῶντι ἡμᾶς",
               "wordForm": "ἀγαπῶντι",
               "translation": "artigo definido que ama nos",
@@ -1572,7 +1564,7 @@
           "definition": "eu; nós",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "ἀγαπῶντι ἡμᾶς καὶ",
               "wordForm": "ἡμᾶς",
               "translation": "que ama nos e",
@@ -1580,7 +1572,7 @@
               "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             },
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "ἐποίησεν ἡμᾶς βασιλείαν,",
               "wordForm": "ἡμᾶς",
               "translation": "fez nos reino",
@@ -1588,7 +1580,7 @@
               "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             },
             {
-              "reference": "Apocalipse 1:8",
+              "reference": "Ap 1:8",
               "greek": "Ἐγώ εἰμι",
               "wordForm": "Ἐγώ",
               "translation": "Eu sou",
@@ -1611,7 +1603,7 @@
           "definition": "soltar; libertar; desatar",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "καὶ λύσαντι ἡμᾶς",
               "wordForm": "λύσαντι",
               "translation": "e libertou nos",
@@ -1634,7 +1626,7 @@
           "definition": "de; para fora de",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "ἡμᾶς ἐκ τῶν",
               "wordForm": "ἐκ",
               "translation": "nos de dos",
@@ -1657,7 +1649,7 @@
           "definition": "pecado",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "τῶν ἁμαρτιῶν ἡμῶν",
               "wordForm": "ἁμαρτιῶν",
               "translation": "dos pecado nossos",
@@ -1680,7 +1672,7 @@
           "definition": "sangue",
           "examples": [
             {
-              "reference": "Apocalipse 1:5",
+              "reference": "Ap 1:5",
               "greek": "τῷ αἵματι αὐτοῦ—",
               "wordForm": "αἵματι",
               "translation": "ao sangue dele",
@@ -1703,7 +1695,7 @@
           "definition": "fazer; constituir",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "καὶ ἐποίησεν ἡμᾶς",
               "wordForm": "ἐποίησεν",
               "translation": "e fez nos",
@@ -1726,7 +1718,7 @@
           "definition": "reino; realeza",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "ἡμᾶς βασιλείαν, ἱερεῖς",
               "wordForm": "βασιλείαν,",
               "translation": "nos reino sacerdote",
@@ -1749,7 +1741,7 @@
           "definition": "sacerdote",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "βασιλείαν, ἱερεῖς τῷ",
               "wordForm": "ἱερεῖς",
               "translation": "reino sacerdote ao",
@@ -1772,7 +1764,7 @@
           "definition": "pai",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "καὶ πατρὶ αὐτοῦ—",
               "wordForm": "πατρὶ",
               "translation": "e pai dele",
@@ -1795,7 +1787,7 @@
           "definition": "glória",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "ἡ δόξα καὶ",
               "wordForm": "δόξα",
               "translation": "a glória e",
@@ -1818,7 +1810,7 @@
           "definition": "poder; domínio",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "τὸ κράτος εἰς",
               "wordForm": "κράτος",
               "translation": "o poder para",
@@ -1841,7 +1833,7 @@
           "definition": "para; em direção a; por",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "κράτος εἰς τοὺς",
               "wordForm": "εἰς",
               "translation": "poder para os",
@@ -1864,7 +1856,7 @@
           "definition": "era; século; eternidade",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "τοὺς αἰῶνας τῶν",
               "wordForm": "αἰῶνας",
               "translation": "os era dos",
@@ -1887,7 +1879,7 @@
           "definition": "amém; assim seja",
           "examples": [
             {
-              "reference": "Apocalipse 1:6",
+              "reference": "Ap 1:6",
               "greek": "αἰώνων· ἀμήν.",
               "wordForm": "ἀμήν.",
               "translation": "era amém",
@@ -1895,7 +1887,7 @@
               "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
             },
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "ναί, ἀμήν.",
               "wordForm": "ἀμήν.",
               "translation": "sim amém",
@@ -1918,7 +1910,7 @@
           "definition": "eis; veja",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "Ἰδοὺ ἔρχεται",
               "wordForm": "Ἰδοὺ",
               "translation": "Eis vem",
@@ -1941,7 +1933,7 @@
           "definition": "com; depois de",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "ἔρχεται μετὰ τῶν",
               "wordForm": "μετὰ",
               "translation": "vem com dos",
@@ -1964,7 +1956,7 @@
           "definition": "nuvem",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "τῶν νεφελῶν, καὶ",
               "wordForm": "νεφελῶν,",
               "translation": "dos nuvem e",
@@ -1987,7 +1979,7 @@
           "definition": "todo; cada",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "αὐτὸν πᾶς ὀφθαλμὸς",
               "wordForm": "πᾶς",
               "translation": "a ele todo olho",
@@ -2010,7 +2002,7 @@
           "definition": "olho",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "πᾶς ὀφθαλμὸς καὶ",
               "wordForm": "ὀφθαλμὸς",
               "translation": "todo olho e",
@@ -2033,7 +2025,7 @@
           "definition": "qualquer que; aquele que",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "καὶ οἵτινες αὐτὸν",
               "wordForm": "οἵτινες",
               "translation": "e qualquer que a ele",
@@ -2056,7 +2048,7 @@
           "definition": "traspassar; perfurar",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "αὐτὸν ἐξεκέντησαν, καὶ",
               "wordForm": "ἐξεκέντησαν,",
               "translation": "a ele traspassaram e",
@@ -2079,7 +2071,7 @@
           "definition": "lamentar; golpear",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "καὶ κόψονται ἐπ’",
               "wordForm": "κόψονται",
               "translation": "e se lamentarão sobre",
@@ -2102,7 +2094,7 @@
           "definition": "sobre; por causa de",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "κόψονται ἐπ’ αὐτὸν",
               "wordForm": "ἐπ’",
               "translation": "se lamentarão sobre a ele",
@@ -2125,7 +2117,7 @@
           "definition": "tribo; família; povo",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "αἱ φυλαὶ τῆς",
               "wordForm": "φυλαὶ",
               "translation": "as tribo da",
@@ -2148,7 +2140,7 @@
           "definition": "sim; certamente",
           "examples": [
             {
-              "reference": "Apocalipse 1:7",
+              "reference": "Ap 1:7",
               "greek": "γῆς. ναί, ἀμήν.",
               "wordForm": "ναί,",
               "translation": "terra sim amém",
@@ -2171,7 +2163,7 @@
           "definition": "alfa; primeira letra grega",
           "examples": [
             {
-              "reference": "Apocalipse 1:8",
+              "reference": "Ap 1:8",
               "greek": "τὸ Ἄλφα καὶ",
               "wordForm": "Ἄλφα",
               "translation": "o alfa e",
@@ -2194,7 +2186,7 @@
           "definition": "ômega; última letra grega",
           "examples": [
             {
-              "reference": "Apocalipse 1:8",
+              "reference": "Ap 1:8",
               "greek": "τὸ Ὦ, λέγει",
               "wordForm": "Ὦ,",
               "translation": "o ômega diz",
@@ -2217,7 +2209,7 @@
           "definition": "dizer; declarar",
           "examples": [
             {
-              "reference": "Apocalipse 1:8",
+              "reference": "Ap 1:8",
               "greek": "Ὦ, λέγει κύριος,",
               "wordForm": "λέγει",
               "translation": "ômega diz Senhor",
@@ -2240,7 +2232,7 @@
           "definition": "Senhor",
           "examples": [
             {
-              "reference": "Apocalipse 1:8",
+              "reference": "Ap 1:8",
               "greek": "λέγει κύριος, ὁ",
               "wordForm": "κύριος,",
               "translation": "diz Senhor o",
@@ -2263,7 +2255,7 @@
           "definition": "Todo-Poderoso; soberano sobre tudo",
           "examples": [
             {
-              "reference": "Apocalipse 1:8",
+              "reference": "Ap 1:8",
               "greek": "ὁ παντοκράτωρ.",
               "wordForm": "παντοκράτωρ.",
               "translation": "o Todo-Poderoso",
@@ -2286,7 +2278,7 @@
           "definition": "irmão",
           "examples": [
             {
-              "reference": "Apocalipse 1:9",
+              "reference": "Ap 1:9",
               "greek": "ὁ ἀδελφὸς ὑμῶν",
               "translation": "irmão",
               "explanation": "Exemplo contextual da ocorrência de ἀδελφός; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2307,7 +2299,7 @@
           "definition": "Adjetivo/substantivo de relação: quem participa juntamente com outros de uma situação, dom ou responsabilidade. Em Ap 1:9, a coparticipação de João na tribulação, no reino e na perseverança em Jesus é solidária e comunitária.",
           "examples": [
             {
-              "reference": "Apocalipse 1:9",
+              "reference": "Ap 1:9",
               "greek": "καὶ συγκοινωνὸς ἐν",
               "translation": "coparticipante",
               "explanation": "Em Ap 1:9, o dativo coordenado indica o âmbito da experiência compartilhada, não uma simples identidade formal."
@@ -2328,7 +2320,7 @@
           "definition": "tribulação; aflição",
           "examples": [
             {
-              "reference": "Apocalipse 1:9",
+              "reference": "Ap 1:9",
               "greek": "τῇ θλίψει καὶ",
               "translation": "tribulação",
               "explanation": "Exemplo contextual da ocorrência de θλῖψις; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2349,7 +2341,7 @@
           "definition": "perseverança; resistência",
           "examples": [
             {
-              "reference": "Apocalipse 1:9",
+              "reference": "Ap 1:9",
               "greek": "καὶ ὑπομονῇ ἐν",
               "translation": "perseverança",
               "explanation": "Exemplo contextual da ocorrência de ὑπομονή; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2370,7 +2362,7 @@
           "definition": "ilha",
           "examples": [
             {
-              "reference": "Apocalipse 1:9",
+              "reference": "Ap 1:9",
               "greek": "τῇ νήσῳ τῇ",
               "translation": "ilha",
               "explanation": "Exemplo contextual da ocorrência de νῆσος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2391,7 +2383,7 @@
           "definition": "chamar; denominar",
           "examples": [
             {
-              "reference": "Apocalipse 1:9",
+              "reference": "Ap 1:9",
               "greek": "τῇ καλουμένῃ Πάτμῳ",
               "translation": "chamada",
               "explanation": "Exemplo contextual da ocorrência de καλέω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2412,7 +2404,7 @@
           "definition": "Patmos",
           "examples": [
             {
-              "reference": "Apocalipse 1:9",
+              "reference": "Ap 1:9",
               "greek": "καλουμένῃ Πάτμῳ διὰ",
               "translation": "Patmos",
               "explanation": "Exemplo contextual da ocorrência de Πάτμος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2433,7 +2425,7 @@
           "definition": "Adjetivo relacional κυριακός: aquilo que pertence ao Senhor ou lhe diz respeito. Em 1:10, modifica ἡμέρᾳ (dativo feminino singular). Não determina, por si só, a identificação histórica do dia da semana.",
           "examples": [
             {
-              "reference": "Apocalipse 1:10",
+              "reference": "Ap 1:10",
               "greek": "τῇ κυριακῇ ἡμέρᾳ,",
               "translation": "do Senhor",
               "explanation": "«Dia do Senhor» é opção tradutória literal; distinguir discussão filológica de interpretação histórica ou denominacional."
@@ -2454,7 +2446,7 @@
           "definition": "dia",
           "examples": [
             {
-              "reference": "Apocalipse 1:10",
+              "reference": "Ap 1:10",
               "greek": "κυριακῇ ἡμέρᾳ, καὶ",
               "translation": "dia",
               "explanation": "Exemplo contextual da ocorrência de ἡμέρα; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2475,7 +2467,7 @@
           "definition": "atrás",
           "examples": [
             {
-              "reference": "Apocalipse 1:10",
+              "reference": "Ap 1:10",
               "greek": "ἤκουσα ὀπίσω μου",
               "translation": "atrás",
               "explanation": "Exemplo contextual da ocorrência de ὀπίσω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2496,7 +2488,7 @@
           "definition": "voz; som",
           "examples": [
             {
-              "reference": "Apocalipse 1:10",
+              "reference": "Ap 1:10",
               "greek": "μου φωνὴν μεγάλην",
               "translation": "voz",
               "explanation": "Exemplo contextual da ocorrência de φωνή; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2517,7 +2509,7 @@
           "definition": "grande",
           "examples": [
             {
-              "reference": "Apocalipse 1:10",
+              "reference": "Ap 1:10",
               "greek": "φωνὴν μεγάλην ὡς",
               "translation": "grande",
               "explanation": "Exemplo contextual da ocorrência de μέγας; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2538,7 +2530,7 @@
           "definition": "como",
           "examples": [
             {
-              "reference": "Apocalipse 1:10",
+              "reference": "Ap 1:10",
               "greek": "μεγάλην ὡς σάλπιγγος",
               "translation": "como",
               "explanation": "Exemplo contextual da ocorrência de ὡς; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2559,7 +2551,7 @@
           "definition": "trombeta",
           "examples": [
             {
-              "reference": "Apocalipse 1:10",
+              "reference": "Ap 1:10",
               "greek": "ὡς σάλπιγγος",
               "translation": "trombeta",
               "explanation": "Exemplo contextual da ocorrência de σάλπιγξ; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2580,7 +2572,7 @@
           "definition": "ver; observar",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "Ὃ βλέπεις γράψον",
               "translation": "vês",
               "explanation": "Exemplo contextual da ocorrência de βλέπω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2601,7 +2593,7 @@
           "definition": "livro; rolo",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "εἰς βιβλίον καὶ",
               "translation": "livro",
               "explanation": "Exemplo contextual da ocorrência de βιβλίον; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2622,7 +2614,7 @@
           "definition": "enviar",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "καὶ πέμψον ταῖς",
               "translation": "envia",
               "explanation": "Exemplo contextual da ocorrência de πέμπω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2643,7 +2635,7 @@
           "definition": "Éfeso",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "εἰς Ἔφεσον καὶ",
               "translation": "Éfeso",
               "explanation": "Exemplo contextual da ocorrência de Ἔφεσος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2664,7 +2656,7 @@
           "definition": "Esmirna",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "εἰς Σμύρναν καὶ",
               "translation": "Esmirna",
               "explanation": "Exemplo contextual da ocorrência de Σμύρνα; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2685,7 +2677,7 @@
           "definition": "Pérgamo",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "εἰς Πέργαμον καὶ",
               "translation": "Pérgamo",
               "explanation": "Exemplo contextual da ocorrência de Πέργαμος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2706,7 +2698,7 @@
           "definition": "Tiatira",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "εἰς Θυάτειρα καὶ",
               "translation": "Tiatira",
               "explanation": "Exemplo contextual da ocorrência de Θυάτειρα; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2727,7 +2719,7 @@
           "definition": "Sardes",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "εἰς Σάρδεις καὶ",
               "translation": "Sardes",
               "explanation": "Exemplo contextual da ocorrência de Σάρδεις; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2748,7 +2740,7 @@
           "definition": "Filadélfia",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "εἰς Φιλαδέλφειαν καὶ",
               "translation": "Filadélfia",
               "explanation": "Exemplo contextual da ocorrência de Φιλαδέλφεια; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2769,7 +2761,7 @@
           "definition": "Laodiceia",
           "examples": [
             {
-              "reference": "Apocalipse 1:11",
+              "reference": "Ap 1:11",
               "greek": "εἰς Λαοδίκειαν.",
               "translation": "Laodiceia",
               "explanation": "Exemplo contextual da ocorrência de Λαοδίκεια; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2790,7 +2782,7 @@
           "definition": "voltar-se; retornar",
           "examples": [
             {
-              "reference": "Apocalipse 1:12",
+              "reference": "Ap 1:12",
               "greek": "Καὶ ἐπέστρεψα βλέπειν",
               "translation": "voltei-me",
               "explanation": "Exemplo contextual da ocorrência de ἐπιστρέφω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2811,7 +2803,7 @@
           "definition": "falar",
           "examples": [
             {
-              "reference": "Apocalipse 1:12",
+              "reference": "Ap 1:12",
               "greek": "ἥτις ἐλάλει μετ’",
               "translation": "falava",
               "explanation": "Exemplo contextual da ocorrência de λαλέω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2832,7 +2824,7 @@
           "definition": "candelabro; suporte de lâmpada",
           "examples": [
             {
-              "reference": "Apocalipse 1:12",
+              "reference": "Ap 1:12",
               "greek": "ἑπτὰ λυχνίας χρυσᾶς,",
               "translation": "candelabros",
               "explanation": "Exemplo contextual da ocorrência de λυχνία; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2853,7 +2845,7 @@
           "definition": "de ouro; dourado",
           "examples": [
             {
-              "reference": "Apocalipse 1:12",
+              "reference": "Ap 1:12",
               "greek": "λυχνίας χρυσᾶς,",
               "translation": "de ouro",
               "explanation": "Exemplo contextual da ocorrência de χρυσοῦς; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2874,7 +2866,7 @@
           "definition": "meio; centro",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "ἐν μέσῳ τῶν",
               "translation": "meio",
               "explanation": "Exemplo contextual da ocorrência de μέσος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2895,7 +2887,7 @@
           "definition": "semelhante",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "λυχνιῶν ὅμοιον υἱὸν",
               "translation": "semelhante",
               "explanation": "Exemplo contextual da ocorrência de ὅμοιος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2916,7 +2908,7 @@
           "definition": "filho",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "ὅμοιον υἱὸν ἀνθρώπου,",
               "translation": "filho",
               "explanation": "Exemplo contextual da ocorrência de υἱός; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2937,7 +2929,7 @@
           "definition": "ser humano; homem",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "υἱὸν ἀνθρώπου, ἐνδεδυμένον",
               "translation": "homem",
               "explanation": "Exemplo contextual da ocorrência de ἄνθρωπος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2958,7 +2950,7 @@
           "definition": "vestir; revestir",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "ἀνθρώπου, ἐνδεδυμένον ποδήρη",
               "translation": "vestido",
               "explanation": "Exemplo contextual da ocorrência de ἐνδύω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -2979,7 +2971,7 @@
           "definition": "Adjetivo ποδήρης, frequentemente substantivado, para roupa comprida até os pés. A forma ποδήρη é acusativo singular masculino em Ap 1:13.",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "ἐνδεδυμένον ποδήρη καὶ",
               "translation": "veste longa",
               "explanation": "A associação com vestimentas sacerdotais/representação régia requer apoio em outros textos; não faz parte do significado lexical necessário."
@@ -3000,7 +2992,7 @@
           "definition": "cingir; envolver com cinto",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "καὶ περιεζωσμένον πρὸς",
               "translation": "cingido",
               "explanation": "Exemplo contextual da ocorrência de περιζώννυμι; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3021,7 +3013,7 @@
           "definition": "junto a; em direção a",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "περιεζωσμένον πρὸς τοῖς",
               "translation": "junto a",
               "explanation": "Exemplo contextual da ocorrência de πρός; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3042,7 +3034,7 @@
           "definition": "peito; mama",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "τοῖς μαστοῖς ζώνην",
               "translation": "peito",
               "explanation": "Exemplo contextual da ocorrência de μαστός; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3063,7 +3055,7 @@
           "definition": "cinto; faixa",
           "examples": [
             {
-              "reference": "Apocalipse 1:13",
+              "reference": "Ap 1:13",
               "greek": "μαστοῖς ζώνην χρυσᾶν·",
               "translation": "faixa",
               "explanation": "Exemplo contextual da ocorrência de ζώνη; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3084,7 +3076,7 @@
           "definition": "mas; e; por sua vez",
           "examples": [
             {
-              "reference": "Apocalipse 1:14",
+              "reference": "Ap 1:14",
               "greek": "ἡ δὲ κεφαλὴ",
               "translation": "e",
               "explanation": "Exemplo contextual da ocorrência de δέ; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3105,7 +3097,7 @@
           "definition": "cabeça",
           "examples": [
             {
-              "reference": "Apocalipse 1:14",
+              "reference": "Ap 1:14",
               "greek": "δὲ κεφαλὴ αὐτοῦ",
               "translation": "cabeça",
               "explanation": "Exemplo contextual da ocorrência de κεφαλή; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3126,7 +3118,7 @@
           "definition": "cabelo; fio de cabelo",
           "examples": [
             {
-              "reference": "Apocalipse 1:14",
+              "reference": "Ap 1:14",
               "greek": "αἱ τρίχες λευκαὶ",
               "translation": "cabelos",
               "explanation": "Exemplo contextual da ocorrência de θρίξ; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3147,7 +3139,7 @@
           "definition": "branco",
           "examples": [
             {
-              "reference": "Apocalipse 1:14",
+              "reference": "Ap 1:14",
               "greek": "τρίχες λευκαὶ ὡς",
               "translation": "brancos",
               "explanation": "Exemplo contextual da ocorrência de λευκός; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3168,7 +3160,7 @@
           "definition": "lã",
           "examples": [
             {
-              "reference": "Apocalipse 1:14",
+              "reference": "Ap 1:14",
               "greek": "ὡς ἔριον λευκόν,",
               "translation": "lã",
               "explanation": "Exemplo contextual da ocorrência de ἔριον; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3189,7 +3181,7 @@
           "definition": "neve",
           "examples": [
             {
-              "reference": "Apocalipse 1:14",
+              "reference": "Ap 1:14",
               "greek": "ὡς χιών, καὶ",
               "translation": "neve",
               "explanation": "Exemplo contextual da ocorrência de χιών; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3210,7 +3202,7 @@
           "definition": "chama",
           "examples": [
             {
-              "reference": "Apocalipse 1:14",
+              "reference": "Ap 1:14",
               "greek": "ὡς φλὸξ πυρός,",
               "translation": "chama",
               "explanation": "Exemplo contextual da ocorrência de φλόξ; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3231,7 +3223,7 @@
           "definition": "fogo",
           "examples": [
             {
-              "reference": "Apocalipse 1:14",
+              "reference": "Ap 1:14",
               "greek": "φλὸξ πυρός,",
               "translation": "fogo",
               "explanation": "Exemplo contextual da ocorrência de πῦρ; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3252,7 +3244,7 @@
           "definition": "pé",
           "examples": [
             {
-              "reference": "Apocalipse 1:15",
+              "reference": "Ap 1:15",
               "greek": "οἱ πόδες αὐτοῦ",
               "translation": "pés",
               "explanation": "Exemplo contextual da ocorrência de πούς; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3273,7 +3265,7 @@
           "definition": "Substantivo neutro χαλκολίβανον, de interpretação metalúrgica disputada. Ocorre duas vezes no Novo Testamento, em Ap 1:15 e 2:18; portanto, não é um hapax legomenon.",
           "examples": [
             {
-              "reference": "Apocalipse 1:15",
+              "reference": "Ap 1:15",
               "greek": "ὅμοιοι χαλκολιβάνῳ, ὡς",
               "translation": "bronze brilhante",
               "explanation": "A tradução «bronze refinado» é tradicional, não identificação química ou etimológica incontroversa."
@@ -3294,7 +3286,7 @@
           "definition": "fornalha",
           "examples": [
             {
-              "reference": "Apocalipse 1:15",
+              "reference": "Ap 1:15",
               "greek": "ἐν καμίνῳ πεπυρωμένης,",
               "translation": "fornalha",
               "explanation": "Exemplo contextual da ocorrência de κάμινος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3315,7 +3307,7 @@
           "definition": "ser aquecido ao fogo; incandescer",
           "examples": [
             {
-              "reference": "Apocalipse 1:15",
+              "reference": "Ap 1:15",
               "greek": "καμίνῳ πεπυρωμένης, καὶ",
               "translation": "incandescente",
               "explanation": "Exemplo contextual da ocorrência de πυρόομαι; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3336,7 +3328,7 @@
           "definition": "água",
           "examples": [
             {
-              "reference": "Apocalipse 1:15",
+              "reference": "Ap 1:15",
               "greek": "φωνὴ ὑδάτων πολλῶν,",
               "translation": "águas",
               "explanation": "Exemplo contextual da ocorrência de ὕδωρ; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3357,7 +3349,7 @@
           "definition": "muito; numeroso",
           "examples": [
             {
-              "reference": "Apocalipse 1:15",
+              "reference": "Ap 1:15",
               "greek": "ὑδάτων πολλῶν,",
               "translation": "muitas",
               "explanation": "Exemplo contextual da ocorrência de πολύς; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3378,7 +3370,7 @@
           "definition": "ter; segurar",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "καὶ ἔχων ἐν",
               "translation": "tinha",
               "explanation": "Exemplo contextual da ocorrência de ἔχω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3399,7 +3391,7 @@
           "definition": "direita; direito",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "τῇ δεξιᾷ χειρὶ",
               "translation": "direita",
               "explanation": "Exemplo contextual da ocorrência de δεξιός; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3420,7 +3412,7 @@
           "definition": "mão",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "δεξιᾷ χειρὶ αὐτοῦ",
               "translation": "mão",
               "explanation": "Exemplo contextual da ocorrência de χείρ; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3441,7 +3433,7 @@
           "definition": "estrela",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "αὐτοῦ ἀστέρας ἑπτά,",
               "translation": "estrelas",
               "explanation": "Exemplo contextual da ocorrência de ἀστήρ; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3462,7 +3454,7 @@
           "definition": "boca",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "τοῦ στόματος αὐτοῦ",
               "translation": "boca",
               "explanation": "Exemplo contextual da ocorrência de στόμα; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3483,7 +3475,7 @@
           "definition": "Substantivo feminino ῥομφαία: espada grande ou arma de lâmina longa. Em Ap 1:16, a espada procede simbolicamente da boca da figura vista por João.",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "αὐτοῦ ῥομφαία δίστομος",
               "translation": "espada",
               "explanation": "Os dois gumes são expressos pelo modificador δίστομος; o sentido figurado decorre do contexto apocalíptico."
@@ -3504,7 +3496,7 @@
           "definition": "de dois gumes",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "ῥομφαία δίστομος ὀξεῖα",
               "translation": "de dois gumes",
               "explanation": "Exemplo contextual da ocorrência de δίστομος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3525,7 +3517,7 @@
           "definition": "afiado; agudo",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "δίστομος ὀξεῖα ἐκπορευομένη,",
               "translation": "afiada",
               "explanation": "Exemplo contextual da ocorrência de ὀξύς; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3546,7 +3538,7 @@
           "definition": "sair; proceder",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "ὀξεῖα ἐκπορευομένη, καὶ",
               "translation": "saía",
               "explanation": "Exemplo contextual da ocorrência de ἐκπορεύομαι; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3567,7 +3559,7 @@
           "definition": "aparência; aspecto",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "ἡ ὄψις αὐτοῦ",
               "translation": "rosto",
               "explanation": "Exemplo contextual da ocorrência de ὄψις; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3588,7 +3580,7 @@
           "definition": "sol",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "ὁ ἥλιος φαίνει",
               "translation": "sol",
               "explanation": "Exemplo contextual da ocorrência de ἥλιος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3609,7 +3601,7 @@
           "definition": "brilhar; aparecer",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "ἥλιος φαίνει ἐν",
               "translation": "brilha",
               "explanation": "Exemplo contextual da ocorrência de φαίνω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3630,7 +3622,7 @@
           "definition": "força; poder",
           "examples": [
             {
-              "reference": "Apocalipse 1:16",
+              "reference": "Ap 1:16",
               "greek": "τῇ δυνάμει αὐτοῦ.",
               "translation": "força",
               "explanation": "Exemplo contextual da ocorrência de δύναμις; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3651,7 +3643,7 @@
           "definition": "quando",
           "examples": [
             {
-              "reference": "Apocalipse 1:17",
+              "reference": "Ap 1:17",
               "greek": "Καὶ ὅτε εἶδον",
               "translation": "quando",
               "explanation": "Exemplo contextual da ocorrência de ὅτε; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3672,7 +3664,7 @@
           "definition": "cair",
           "examples": [
             {
-              "reference": "Apocalipse 1:17",
+              "reference": "Ap 1:17",
               "greek": "αὐτόν, ἔπεσα πρὸς",
               "translation": "caí",
               "explanation": "Exemplo contextual da ocorrência de πίπτω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3693,7 +3685,7 @@
           "definition": "colocar; pôr",
           "examples": [
             {
-              "reference": "Apocalipse 1:17",
+              "reference": "Ap 1:17",
               "greek": "καὶ ἔθηκεν τὴν",
               "translation": "pôs",
               "explanation": "Exemplo contextual da ocorrência de τίθημι; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3714,7 +3706,7 @@
           "definition": "não; partícula negativa",
           "examples": [
             {
-              "reference": "Apocalipse 1:17",
+              "reference": "Ap 1:17",
               "greek": "λέγων· Μὴ φοβοῦ·",
               "translation": "não",
               "explanation": "Exemplo contextual da ocorrência de μή; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3735,7 +3727,7 @@
           "definition": "temer; ter medo",
           "examples": [
             {
-              "reference": "Apocalipse 1:17",
+              "reference": "Ap 1:17",
               "greek": "Μὴ φοβοῦ· ἐγώ",
               "translation": "temas",
               "explanation": "Exemplo contextual da ocorrência de φοβέομαι; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3756,7 +3748,7 @@
           "definition": "primeiro",
           "examples": [
             {
-              "reference": "Apocalipse 1:17",
+              "reference": "Ap 1:17",
               "greek": "ὁ πρῶτος καὶ",
               "translation": "primeiro",
               "explanation": "Exemplo contextual da ocorrência de πρῶτος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3777,7 +3769,7 @@
           "definition": "último",
           "examples": [
             {
-              "reference": "Apocalipse 1:17",
+              "reference": "Ap 1:17",
               "greek": "ὁ ἔσχατος,",
               "translation": "último",
               "explanation": "Exemplo contextual da ocorrência de ἔσχατος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3798,7 +3790,7 @@
           "definition": "viver",
           "examples": [
             {
-              "reference": "Apocalipse 1:18",
+              "reference": "Ap 1:18",
               "greek": "ὁ ζῶν— καὶ",
               "translation": "vivo",
               "explanation": "Exemplo contextual da ocorrência de ζάω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3819,7 +3811,7 @@
           "definition": "chave",
           "examples": [
             {
-              "reference": "Apocalipse 1:18",
+              "reference": "Ap 1:18",
               "greek": "τὰς κλεῖς τοῦ",
               "translation": "chaves",
               "explanation": "Exemplo contextual da ocorrência de κλείς; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3840,7 +3832,7 @@
           "definition": "morte",
           "examples": [
             {
-              "reference": "Apocalipse 1:18",
+              "reference": "Ap 1:18",
               "greek": "τοῦ θανάτου καὶ",
               "translation": "morte",
               "explanation": "Exemplo contextual da ocorrência de θάνατος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3861,7 +3853,7 @@
           "definition": "Substantivo masculino ᾅδης: domínio dos mortos, mundo dos mortos. Em Ap 1:18, aparece no genitivo singular governado pela expressão «as chaves».",
           "examples": [
             {
-              "reference": "Apocalipse 1:18",
+              "reference": "Ap 1:18",
               "greek": "τοῦ ᾅδου.",
               "translation": "Hades",
               "explanation": "Não pressupor que o vocábulo seja sinônimo lexical automático de tormento eterno."
@@ -3882,7 +3874,7 @@
           "definition": "portanto; pois",
           "examples": [
             {
-              "reference": "Apocalipse 1:19",
+              "reference": "Ap 1:19",
               "greek": "γράψον οὖν ἃ",
               "translation": "portanto",
               "explanation": "Exemplo contextual da ocorrência de οὖν; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3903,7 +3895,7 @@
           "definition": "estar para; ser iminente",
           "examples": [
             {
-              "reference": "Apocalipse 1:19",
+              "reference": "Ap 1:19",
               "greek": "ἃ μέλλει γίνεσθαι",
               "translation": "hão de",
               "explanation": "Exemplo contextual da ocorrência de μέλλω; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3924,7 +3916,7 @@
           "definition": "este; essas coisas",
           "examples": [
             {
-              "reference": "Apocalipse 1:19",
+              "reference": "Ap 1:19",
               "greek": "μετὰ ταῦτα.",
               "translation": "essas coisas",
               "explanation": "Exemplo contextual da ocorrência de οὗτος; consulte o versículo e a análise sintática para determinar o valor da expressão."
@@ -3945,7 +3937,7 @@
           "definition": "Substantivo neutro μυστήριον: realidade antes encoberta cujo sentido se torna conhecido por revelação ou interpretação. Em Ap 1:20 refere-se à identidade das estrelas e dos candelabros.",
           "examples": [
             {
-              "reference": "Apocalipse 1:20",
+              "reference": "Ap 1:20",
               "greek": "τὸ μυστήριον τῶν",
               "translation": "mistério",
               "explanation": "Forma nominal neutra singular ambígua entre nominativo e acusativo; MorphGNT registra nominativo nesta passagem."
@@ -3966,7 +3958,7 @@
           "definition": "O demonstrativo neutro plural Τάδε introduz solenemente o oráculo: «estas coisas diz». Não é advérbio por classe morfológica.",
           "examples": [
             {
-              "reference": "Apocalipse 2:1",
+              "reference": "Ap 2:1",
               "greek": "γράψον· Τάδε λέγει",
               "translation": "isto",
               "explanation": "O demonstrativo neutro plural Τάδε introduz solenemente o oráculo: «estas coisas diz». Não é advérbio por classe morfológica."
@@ -3987,7 +3979,7 @@
           "definition": "κρατέω designa agarrar, segurar com firmeza ou manter sob domínio. Em Ap 2:1, o particípio presente κρατῶν descreve aquele que mantém as estrelas em sua mão direita.",
           "examples": [
             {
-              "reference": "Apocalipse 2:1",
+              "reference": "Ap 2:1",
               "greek": "ὁ κρατῶν τοὺς",
               "translation": "segura",
               "explanation": "Particípio presente ativo; a permanência da ação é relevante à caracterização do locutor."
@@ -4008,7 +4000,7 @@
           "definition": "περιπατέω pode denotar caminhada concreta ou conduta. Em Ap 2:1, ὁ περιπατῶν é imagem de presença ativa entre os sete candelabros.",
           "examples": [
             {
-              "reference": "Apocalipse 2:1",
+              "reference": "Ap 2:1",
               "greek": "ὁ περιπατῶν ἐν",
               "translation": "anda",
               "explanation": "A ideia de vigilância decorre da imagem em contexto, não de sentido lexical obrigatório."
@@ -4029,7 +4021,7 @@
           "definition": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "Οἶδα τὰ",
               "translation": "conheço",
               "explanation": "Οἶδα é forma de perfeito com sentido presente de conhecimento: «conheço». Não inferir necessariamente aquisição recente de informação."
@@ -4050,7 +4042,7 @@
           "definition": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "τὰ ἔργα σου,",
               "translation": "obra",
               "explanation": "ἔργα, plural de ἔργον, designa ações/obras efetivas da comunidade, avaliadas no contexto da mensagem de Cristo."
@@ -4071,7 +4063,7 @@
           "definition": "κόπος envolve esforço intenso e trabalho fatigante. O elogio a Éfeso não é apenas por atividade, mas por seu custo e perseverança.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "τὸν κόπον καὶ",
               "translation": "trabalho fatigante",
               "explanation": "Não equivale automaticamente a «mérito salvífico»."
@@ -4092,7 +4084,7 @@
           "definition": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "καὶ ὅτι οὐ",
               "translation": "que",
               "explanation": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα."
@@ -4113,7 +4105,7 @@
           "definition": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "ὅτι οὐ δύνῃ",
               "translation": "não",
               "explanation": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus."
@@ -4134,7 +4126,7 @@
           "definition": "δύνῃ é forma presente médio/passiva de δύναμαι, verbo de sentido modal; βαστάσαι é seu infinitivo complementar.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "οὐ δύνῃ βαστάσαι",
               "translation": "podes",
               "explanation": "δύνῃ é forma presente médio/passiva de δύναμαι, verbo de sentido modal; βαστάσαι é seu infinitivo complementar."
@@ -4155,7 +4147,7 @@
           "definition": "βαστάζω expressa carregar peso ou suportar/tolerar. Em Ap 2:2, o infinitivo aoristo βαστάσαι completa οὐ δύνῃ.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "δύνῃ βαστάσαι κακούς,",
               "translation": "suportar",
               "explanation": "Distinguir o infinitivo de sua função após δύναμαι."
@@ -4176,7 +4168,7 @@
           "definition": "κακούς, adjetivo acusativo plural substantivado, designa pessoas qualificadas como más; não qualifica diretamente as obras.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "βαστάσαι κακούς, καὶ",
               "translation": "mau",
               "explanation": "κακούς, adjetivo acusativo plural substantivado, designa pessoas qualificadas como más; não qualifica diretamente as obras."
@@ -4197,7 +4189,7 @@
           "definition": "ἐπείρασας é aoristo ativo indicativo: submeteste a exame os que reivindicavam ser apóstolos, não tentaste induzi-los ao mal.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "καὶ ἐπείρασας τοὺς",
               "translation": "puseste à prova",
               "explanation": "ἐπείρασας é aoristo ativo indicativo: submeteste a exame os que reivindicavam ser apóstolos, não tentaste induzi-los ao mal."
@@ -4218,7 +4210,7 @@
           "definition": "ἑαυτούς é reflexivo acusativo plural correferente ao sujeito de λέγοντας: eles se apresentam a si mesmos como apóstolos.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "λέγοντας ἑαυτοὺς ἀποστόλους,",
               "translation": "si mesmo",
               "explanation": "ἑαυτούς é reflexivo acusativo plural correferente ao sujeito de λέγοντας: eles se apresentam a si mesmos como apóstolos."
@@ -4239,7 +4231,7 @@
           "definition": "ἀποστόλους ocorre como predicativo acusativo de ἑαυτούς; o texto examina uma reivindicação de autoridade apostólica.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "ἑαυτοὺς ἀποστόλους, καὶ",
               "translation": "apóstolo",
               "explanation": "ἀποστόλους ocorre como predicativo acusativo de ἑαυτούς; o texto examina uma reivindicação de autoridade apostólica."
@@ -4260,7 +4252,7 @@
           "definition": "εὗρες está no aoristo ativo indicativo: o resultado da prova é reconhecer aqueles indivíduos como ψευδεῖς.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "καὶ εὗρες αὐτοὺς",
               "translation": "achaste",
               "explanation": "εὗρες está no aoristo ativo indicativo: o resultado da prova é reconhecer aqueles indivíduos como ψευδεῖς."
@@ -4281,7 +4273,7 @@
           "definition": "ψευδής caracteriza o que é falso ou mentiroso. Em 2:2 o acusativo plural ψευδεῖς é predicativo dos pretensos apóstolos submetidos à prova.",
           "examples": [
             {
-              "reference": "Apocalipse 2:2",
+              "reference": "Ap 2:2",
               "greek": "αὐτοὺς ψευδεῖς·",
               "translation": "falso",
               "explanation": "A falsidade é atribuída aos indivíduos examinados, não a toda reivindicação de apostolado."
@@ -4302,7 +4294,7 @@
           "definition": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου.",
           "examples": [
             {
-              "reference": "Apocalipse 2:3",
+              "reference": "Ap 2:3",
               "greek": "τὸ ὄνομά μου,",
               "translation": "nome",
               "explanation": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου."
@@ -4323,7 +4315,7 @@
           "definition": "κοπιάω refere-se a esforço exaustivo. Em 2:3 a forma κεκοπίακες é perfeito ativo indicativo (SBLGNT), negado por οὐ.",
           "examples": [
             {
-              "reference": "Apocalipse 2:3",
+              "reference": "Ap 2:3",
               "greek": "οὐ κεκοπίακες.",
               "translation": "cansar-se",
               "explanation": "O perfeito apresenta relevância do resultado; não confundir com o aoristo alternativo do TR."
@@ -4344,7 +4336,7 @@
           "definition": "ἀλλά introduz contraste com o elogio antecedente; em Ap 2:4 inicia a censura dirigida à igreja.",
           "examples": [
             {
-              "reference": "Apocalipse 2:4",
+              "reference": "Ap 2:4",
               "greek": "ἀλλὰ ἔχω",
               "translation": "mas",
               "explanation": "ἀλλά introduz contraste com o elogio antecedente; em Ap 2:4 inicia a censura dirigida à igreja."
@@ -4365,7 +4357,7 @@
           "definition": "κατά com genitivo em ἔχω κατὰ σοῦ expressa oposição ou queixa «tenho contra ti»; não localidade.",
           "examples": [
             {
-              "reference": "Apocalipse 2:4",
+              "reference": "Ap 2:4",
               "greek": "ἔχω κατὰ σοῦ",
               "translation": "contra",
               "explanation": "κατά com genitivo em ἔχω κατὰ σοῦ expressa oposição ou queixa «tenho contra ti»; não localidade."
@@ -4386,7 +4378,7 @@
           "definition": "ἀγάπη denota amor; τὴν πρώτην especifica o amor anterior abandonado, sem definir sozinho todos os seus objetos.",
           "examples": [
             {
-              "reference": "Apocalipse 2:4",
+              "reference": "Ap 2:4",
               "greek": "τὴν ἀγάπην σου",
               "translation": "amor",
               "explanation": "ἀγάπη denota amor; τὴν πρώτην especifica o amor anterior abandonado, sem definir sozinho todos os seus objetos."
@@ -4407,7 +4399,7 @@
           "definition": "ἀφίημι pode expressar deixar ir, liberar, abandonar ou perdoar, dependendo da construção. Em 2:4 o aoristo ἀφῆκες indica abandono do primeiro amor.",
           "examples": [
             {
-              "reference": "Apocalipse 2:4",
+              "reference": "Ap 2:4",
               "greek": "πρώτην ἀφῆκες.",
               "translation": "abandonaste",
               "explanation": "Não transportar o sentido «perdoar» para a glosa específica de 2:4."
@@ -4428,7 +4420,7 @@
           "definition": "μνημονεύω exige recordar ativamente. Em 2:5 a forma imperativa presente convoca reflexão continuada sobre o ponto de queda.",
           "examples": [
             {
-              "reference": "Apocalipse 2:5",
+              "reference": "Ap 2:5",
               "greek": "μνημόνευε οὖν",
               "translation": "lembrar-se",
               "explanation": "A forma verbal é imperativa; não apenas uma constatação de lembrança."
@@ -4449,7 +4441,7 @@
           "definition": "πόθεν é advérbio interrogativo de origem «de onde»; com πέπτωκας caracteriza figuradamente a condição da qual a igreja caiu.",
           "examples": [
             {
-              "reference": "Apocalipse 2:5",
+              "reference": "Ap 2:5",
               "greek": "οὖν πόθεν πέπτωκας,",
               "translation": "de onde",
               "explanation": "πόθεν é advérbio interrogativo de origem «de onde»; com πέπτωκας caracteriza figuradamente a condição da qual a igreja caiu."
@@ -4470,7 +4462,7 @@
           "definition": "μετανοέω indica reconsideração/mudança de mente e direção. Em 2:5 articula lembrança e prática das primeiras obras.",
           "examples": [
             {
-              "reference": "Apocalipse 2:5",
+              "reference": "Ap 2:5",
               "greek": "καὶ μετανόησον καὶ",
               "translation": "arrepende-te",
               "explanation": "Não reduzir o termo a emoção momentânea ou atribuir-lhe por si uma doutrina completa."
@@ -4491,7 +4483,7 @@
           "definition": "εἰ introduz condição; εἰ δὲ μή formula a alternativa negativa «caso contrário». Não equiparar mecanicamente a ἐάν.",
           "examples": [
             {
-              "reference": "Apocalipse 2:5",
+              "reference": "Ap 2:5",
               "greek": "ποίησον· εἰ δὲ",
               "translation": "se",
               "explanation": "εἰ introduz condição; εἰ δὲ μή formula a alternativa negativa «caso contrário». Não equiparar mecanicamente a ἐάν."
@@ -4512,7 +4504,7 @@
           "definition": "κινήσω é futuro ativo de κινέω: moverei/removerei o candelabro de seu lugar; a imagem é julgamento da comunidade.",
           "examples": [
             {
-              "reference": "Apocalipse 2:5",
+              "reference": "Ap 2:5",
               "greek": "καὶ κινήσω τὴν",
               "translation": "removerei",
               "explanation": "κινήσω é futuro ativo de κινέω: moverei/removerei o candelabro de seu lugar; a imagem é julgamento da comunidade."
@@ -4533,7 +4525,7 @@
           "definition": "τόπος no genitivo τοῦ τόπου refere-se ao lugar ocupado pelo candelabro, complemento de ἐκ.",
           "examples": [
             {
-              "reference": "Apocalipse 2:5",
+              "reference": "Ap 2:5",
               "greek": "τοῦ τόπου αὐτῆς,",
               "translation": "lugar",
               "explanation": "τόπος no genitivo τοῦ τόπου refere-se ao lugar ocupado pelo candelabro, complemento de ἐκ."
@@ -4554,7 +4546,7 @@
           "definition": "ἐάν introduz oração condicional prospectiva; com μή e subjuntivo μετανοήσῃς: «se não te arrependeres».",
           "examples": [
             {
-              "reference": "Apocalipse 2:5",
+              "reference": "Ap 2:5",
               "greek": "αὐτῆς, ἐὰν μὴ",
               "translation": "se",
               "explanation": "ἐάν introduz oração condicional prospectiva; com μή e subjuntivo μετανοήσῃς: «se não te arrependeres»."
@@ -4575,7 +4567,7 @@
           "definition": "μισεῖς é presente ativo: a igreja rejeita as práticas dos nicolaítas; objeto expresso é τὰ ἔργα, não as pessoas.",
           "examples": [
             {
-              "reference": "Apocalipse 2:6",
+              "reference": "Ap 2:6",
               "greek": "ὅτι μισεῖς τὰ",
               "translation": "odiar",
               "explanation": "μισεῖς é presente ativo: a igreja rejeita as práticas dos nicolaítas; objeto expresso é τὰ ἔργα, não as pessoas."
@@ -4596,7 +4588,7 @@
           "definition": "Νικολαΐτης designa membro do grupo mencionado em Ap 2:6 e 2:15. A derivação nominal é relacionada a Νικόλαος; a origem e identidade histórica não são seguras.",
           "examples": [
             {
-              "reference": "Apocalipse 2:6",
+              "reference": "Ap 2:6",
               "greek": "τῶν Νικολαϊτῶν, ἃ",
               "translation": "nicolaíta",
               "explanation": "A associação com Balaão (2:14–15) não equivale a comprovação etimológica."
@@ -4617,7 +4609,7 @@
           "definition": "κἀγώ contrai καὶ ἐγώ («e eu também»), ligando a posição de Cristo à rejeição das obras mencionadas.",
           "examples": [
             {
-              "reference": "Apocalipse 2:6",
+              "reference": "Ap 2:6",
               "greek": "ἃ κἀγὼ μισῶ.",
               "translation": "eu também",
               "explanation": "κἀγώ contrai καὶ ἐγώ («e eu também»), ligando a posição de Cristo à rejeição das obras mencionadas."
@@ -4638,7 +4630,7 @@
           "definition": "οὖς é acusativo singular de «ouvido» em fórmula idiomática: quem tem ouvido deve ouvir; evitar pluralização automática da forma grega.",
           "examples": [
             {
-              "reference": "Apocalipse 2:7",
+              "reference": "Ap 2:7",
               "greek": "ἔχων οὖς ἀκουσάτω",
               "translation": "ouvido",
               "explanation": "οὖς é acusativo singular de «ouvido» em fórmula idiomática: quem tem ouvido deve ouvir; evitar pluralização automática da forma grega."
@@ -4655,11 +4647,11 @@
       "senses": [
         {
           "id": "G5101-1",
-          "label": "que?",
-          "definition": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo.",
+          "label": "quem; que; o que",
+          "definition": "Pronome interrogativo que pergunta pela identidade de uma pessoa ou coisa; o gênero e o caso determinam sua função na oração.",
           "examples": [
             {
-              "reference": "Apocalipse 2:7",
+              "reference": "Ap 2:7",
               "greek": "ἀκουσάτω τί τὸ",
               "translation": "que?",
               "explanation": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo."
@@ -4680,7 +4672,7 @@
           "definition": "νικάω descreve vitória ou superação. Nas mensagens às igrejas, o particípio articular substantivado identifica aquele que vence e recebe promessa escatológica.",
           "examples": [
             {
-              "reference": "Apocalipse 2:7",
+              "reference": "Ap 2:7",
               "greek": "τῷ νικῶντι δώσω",
               "translation": "vence",
               "explanation": "Em 2:7, o dativo τῷ νικῶντι é retomado pelo pronome αὐτῷ."
@@ -4701,7 +4693,7 @@
           "definition": "φαγεῖν é infinitivo aoristo ativo de ἐσθίω e complementa δώσω; o alimento prometido provém da árvore da vida.",
           "examples": [
             {
-              "reference": "Apocalipse 2:7",
+              "reference": "Ap 2:7",
               "greek": "αὐτῷ φαγεῖν ἐκ",
               "translation": "comer",
               "explanation": "φαγεῖν é infinitivo aoristo ativo de ἐσθίω e complementa δώσω; o alimento prometido provém da árvore da vida."
@@ -4722,7 +4714,7 @@
           "definition": "ξύλον pode significar madeira, objeto de madeira ou árvore. Em Ap 2:7 a expressão ξύλον τῆς ζωῆς designa a árvore da vida, retomando o Éden.",
           "examples": [
             {
-              "reference": "Apocalipse 2:7",
+              "reference": "Ap 2:7",
               "greek": "τοῦ ξύλου τῆς",
               "translation": "árvore",
               "explanation": "Não pressupor que o lema sempre signifique árvore, como em outros contextos neotestamentários."
@@ -4743,7 +4735,7 @@
           "definition": "ζωή está em genitivo, τῆς ζωῆς, qualificando a árvore; a expressão ecoa o Éden e a promessa escatológica.",
           "examples": [
             {
-              "reference": "Apocalipse 2:7",
+              "reference": "Ap 2:7",
               "greek": "τῆς ζωῆς, ὅ",
               "translation": "vida",
               "explanation": "ζωή está em genitivo, τῆς ζωῆς, qualificando a árvore; a expressão ecoa o Éden e a promessa escatológica."
@@ -4764,7 +4756,7 @@
           "definition": "παράδεισος denota jardim ou paraíso. Em 2:7 integra a promessa escatológica e dialoga com o jardim primordial.",
           "examples": [
             {
-              "reference": "Apocalipse 2:7",
+              "reference": "Ap 2:7",
               "greek": "τῷ παραδείσῳ τοῦ",
               "translation": "paraíso",
               "explanation": "A forma παραδείσῳ está no dativo após ἐν; «paraíso» é tradução contextual."
@@ -4785,7 +4777,7 @@
           "definition": "πτωχεία nomeia condição de pobreza e carência. Em 2:9 contrasta com πλούσιος εἶ para estabelecer avaliação espiritual diferente das condições materiais.",
           "examples": [
             {
-              "reference": "Apocalipse 2:9",
+              "reference": "Ap 2:9",
               "greek": "τὴν πτωχείαν, ἀλλὰ",
               "translation": "pobreza",
               "explanation": "Não inferir automaticamente uma riqueza monetária prometida à comunidade."
@@ -4806,7 +4798,7 @@
           "definition": "πλούσιος εἶ predica riqueza da comunidade apesar de πτωχεία; riqueza é caracterizada pelo contraste teológico do versículo.",
           "examples": [
             {
-              "reference": "Apocalipse 2:9",
+              "reference": "Ap 2:9",
               "greek": "ἀλλὰ πλούσιος εἶ,",
               "translation": "rico",
               "explanation": "πλούσιος εἶ predica riqueza da comunidade apesar de πτωχεία; riqueza é caracterizada pelo contraste teológico do versículo."
@@ -4827,7 +4819,7 @@
           "definition": "βλασφημία pode significar blasfêmia ou calúnia/difamação, de acordo com o referente. Em 2:9 a acusação hostil feita contra a igreja favorece «difamação».",
           "examples": [
             {
-              "reference": "Apocalipse 2:9",
+              "reference": "Ap 2:9",
               "greek": "τὴν βλασφημίαν ἐκ",
               "translation": "difamação",
               "explanation": "A expressão polêmica precisa ser situada no conflito local do primeiro século."
@@ -4848,7 +4840,7 @@
           "definition": "Ἰουδαίους é acusativo plural como predicativo de ἑαυτούς; trata-se de controvérsia local, não de definição depreciativa do judaísmo.",
           "examples": [
             {
-              "reference": "Apocalipse 2:9",
+              "reference": "Ap 2:9",
               "greek": "λεγόντων Ἰουδαίους εἶναι",
               "translation": "judeu",
               "explanation": "Ἰουδαίους é acusativo plural como predicativo de ἑαυτούς; trata-se de controvérsia local, não de definição depreciativa do judaísmo."
@@ -4869,7 +4861,7 @@
           "definition": "συναγωγή significa reunião/assembleia e pode denotar comunidade judaica; a expressão polêmica exige leitura histórica localizada.",
           "examples": [
             {
-              "reference": "Apocalipse 2:9",
+              "reference": "Ap 2:9",
               "greek": "ἀλλὰ συναγωγὴ τοῦ",
               "translation": "sinagoga",
               "explanation": "συναγωγή significa reunião/assembleia e pode denotar comunidade judaica; a expressão polêmica exige leitura histórica localizada."
@@ -4890,7 +4882,7 @@
           "definition": "Σατανᾶς é designação pessoal do adversário; o genitivo τοῦ Σατανᾶ qualifica polemicamente a assembleia mencionada.",
           "examples": [
             {
-              "reference": "Apocalipse 2:9",
+              "reference": "Ap 2:9",
               "greek": "τοῦ Σατανᾶ.",
               "translation": "Satanás",
               "explanation": "Σατανᾶς é designação pessoal do adversário; o genitivo τοῦ Σατανᾶ qualifica polemicamente a assembleia mencionada."
@@ -4911,7 +4903,7 @@
           "definition": "μηδέν é acusativo neutro singular de μηδείς com sentido adverbial: «não temas coisa alguma», objeto de φοβοῦ.",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "μηδὲν φοβοῦ",
               "translation": "nada",
               "explanation": "μηδέν é acusativo neutro singular de μηδείς com sentido adverbial: «não temas coisa alguma», objeto de φοβοῦ."
@@ -4932,7 +4924,7 @@
           "definition": "πάσχειν é infinitivo presente dependente de μέλλεις, projetando sofrimento futuro sem especificar todas as circunstâncias.",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "μέλλεις πάσχειν. ἰδοὺ",
               "translation": "sofrer",
               "explanation": "πάσχειν é infinitivo presente dependente de μέλλεις, projetando sofrimento futuro sem especificar todas as circunstâncias."
@@ -4953,7 +4945,7 @@
           "definition": "βάλλειν é infinitivo presente dependente de μέλλει; com εἰς φυλακήν indica lançar na prisão.",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "μέλλει βάλλειν ὁ",
               "translation": "lançar",
               "explanation": "βάλλειν é infinitivo presente dependente de μέλλει; com εἰς φυλακήν indica lançar na prisão."
@@ -4974,7 +4966,7 @@
           "definition": "διάβολος ocorre com artigo como sujeito de μέλλει βάλλειν; corresponde ao acusador/adversário na representação do texto.",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "ὁ διάβολος ἐξ",
               "translation": "diabo",
               "explanation": "διάβολος ocorre com artigo como sujeito de μέλλει βάλλειν; corresponde ao acusador/adversário na representação do texto."
@@ -4995,7 +4987,7 @@
           "definition": "φυλακή é acusativo de direção após εἰς; neste contexto significa prisão/confinamento, não «vigília».",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "εἰς φυλακὴν ἵνα",
               "translation": "prisão",
               "explanation": "φυλακή é acusativo de direção após εἰς; neste contexto significa prisão/confinamento, não «vigília»."
@@ -5016,7 +5008,7 @@
           "definition": "ἵνα com subjuntivo πειρασθῆτε indica finalidade da provação: «para que sejais postos à prova».",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "φυλακὴν ἵνα πειρασθῆτε,",
               "translation": "para que",
               "explanation": "ἵνα com subjuntivo πειρασθῆτε indica finalidade da provação: «para que sejais postos à prova»."
@@ -5037,7 +5029,7 @@
           "definition": "δέκα é numeral indeclinável determinando ἡμερῶν no genitivo plural; a expressão não fixa cronologia histórica por si.",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "ἡμερῶν δέκα. γίνου",
               "translation": "dez",
               "explanation": "δέκα é numeral indeclinável determinando ἡμερῶν no genitivo plural; a expressão não fixa cronologia histórica por si."
@@ -5058,7 +5050,7 @@
           "definition": "ἄχρι com genitivo θανάτου marca limite ou extensão «até a morte»; a fidelidade é exigida mesmo diante da morte.",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "πιστὸς ἄχρι θανάτου,",
               "translation": "até",
               "explanation": "ἄχρι com genitivo θανάτου marca limite ou extensão «até a morte»; a fidelidade é exigida mesmo diante da morte."
@@ -5079,7 +5071,7 @@
           "definition": "στέφανος denota coroa ou grinalda de honra, vitória ou reconhecimento; sua distinção lexical de διάδημα é pertinente, sem absolutizá-la.",
           "examples": [
             {
-              "reference": "Apocalipse 2:10",
+              "reference": "Ap 2:10",
               "greek": "τὸν στέφανον τῆς",
               "translation": "coroa de honra",
               "explanation": "Em 2:10 é ligado ao genitivo τῆς ζωῆς: «coroa da vida»."
@@ -5100,7 +5092,7 @@
           "definition": "ἀδικέω é agir injustamente ou causar dano. Em 2:11, a forma ἀδικηθῇ é aoristo passivo subjuntivo após οὐ μή, negação enfática prospectiva.",
           "examples": [
             {
-              "reference": "Apocalipse 2:11",
+              "reference": "Ap 2:11",
               "greek": "μὴ ἀδικηθῇ ἐκ",
               "translation": "sofrerá dano",
               "explanation": "A glosa contextual é «não sofrerá dano», e não «não cometerá injustiça»."
@@ -5121,7 +5113,7 @@
           "definition": "δεύτερος expressa posição ordinal. Em Ap 2:11 qualifica θανάτου, formando a expressão «segunda morte».",
           "examples": [
             {
-              "reference": "Apocalipse 2:11",
+              "reference": "Ap 2:11",
               "greek": "τοῦ δευτέρου.",
               "translation": "segundo",
               "explanation": "A escatologia dessa morte depende do conjunto de Apocalipse (20:6,14; 21:8)."
@@ -5142,7 +5134,7 @@
           "definition": "ποῦ introduz pergunta indireta de lugar dependente de Οἶδα: «sei onde habitas».",
           "examples": [
             {
-              "reference": "Apocalipse 2:13",
+              "reference": "Ap 2:13",
               "greek": "Οἶδα ποῦ κατοικεῖς,",
               "translation": "onde",
               "explanation": "ποῦ introduz pergunta indireta de lugar dependente de Οἶδα: «sei onde habitas»."
@@ -5163,7 +5155,7 @@
           "definition": "κατοικεῖς é presente ativo segunda pessoa singular, verbo de habitar/residir; localiza a comunidade no ambiente descrito.",
           "examples": [
             {
-              "reference": "Apocalipse 2:13",
+              "reference": "Ap 2:13",
               "greek": "ποῦ κατοικεῖς, ὅπου",
               "translation": "habitar",
               "explanation": "κατοικεῖς é presente ativo segunda pessoa singular, verbo de habitar/residir; localiza a comunidade no ambiente descrito."
@@ -5184,7 +5176,7 @@
           "definition": "ὅπου introduz oração relativa locativa «onde»; associa a localidade à imagem do trono de Satanás.",
           "examples": [
             {
-              "reference": "Apocalipse 2:13",
+              "reference": "Ap 2:13",
               "greek": "κατοικεῖς, ὅπου ὁ",
               "translation": "onde",
               "explanation": "ὅπου introduz oração relativa locativa «onde»; associa a localidade à imagem do trono de Satanás."
@@ -5205,7 +5197,7 @@
           "definition": "ἠρνήσω é aoristo médio segunda pessoa singular de ἀρνέομαι; com negação expressa fidelidade sem renúncia à fé.",
           "examples": [
             {
-              "reference": "Apocalipse 2:13",
+              "reference": "Ap 2:13",
               "greek": "οὐκ ἠρνήσω τὴν",
               "translation": "negar",
               "explanation": "ἠρνήσω é aoristo médio segunda pessoa singular de ἀρνέομαι; com negação expressa fidelidade sem renúncia à fé."
@@ -5226,7 +5218,7 @@
           "definition": "πίστις pode significar fé ou fidelidade conforme o contexto; τὴν πίστιν μου admite discussão entre confiança em Cristo e lealdade a ele.",
           "examples": [
             {
-              "reference": "Apocalipse 2:13",
+              "reference": "Ap 2:13",
               "greek": "τὴν πίστιν μου",
               "translation": "fé",
               "explanation": "πίστις pode significar fé ou fidelidade conforme o contexto; τὴν πίστιν μου admite discussão entre confiança em Cristo e lealdade a ele."
@@ -5247,7 +5239,7 @@
           "definition": "Ἀντιπᾶς é nome pessoal masculino. Em Ap 2:13 encontra-se no nominativo, seguido dos apostos ὁ μάρτυς μου, ὁ πιστός μου.",
           "examples": [
             {
-              "reference": "Apocalipse 2:13",
+              "reference": "Ap 2:13",
               "greek": "ἡμέραις Ἀντιπᾶς, ὁ",
               "translation": "Antipas",
               "explanation": "A construção mostra nominativo em lugar onde se poderia esperar relação genitiva; não alterar caso para harmonizar."
@@ -5268,7 +5260,7 @@
           "definition": "ἀπεκτάνθη é aoristo passivo: Antipas «foi morto», sem que o verbo identifique os responsáveis históricos.",
           "examples": [
             {
-              "reference": "Apocalipse 2:13",
+              "reference": "Ap 2:13",
               "greek": "ὃς ἀπεκτάνθη παρ’",
               "translation": "matar",
               "explanation": "ἀπεκτάνθη é aoristo passivo: Antipas «foi morto», sem que o verbo identifique os responsáveis históricos."
@@ -5289,7 +5281,7 @@
           "definition": "παρά com dativo ὑμῖν indica proximidade/localidade «entre vós», não movimento de origem.",
           "examples": [
             {
-              "reference": "Apocalipse 2:13",
+              "reference": "Ap 2:13",
               "greek": "ἀπεκτάνθη παρ’ ὑμῖν,",
               "translation": "junto de",
               "explanation": "παρά com dativo ὑμῖν indica proximidade/localidade «entre vós», não movimento de origem."
@@ -5310,7 +5302,7 @@
           "definition": "ὀλίγα é adjetivo neutro plural substantivado, objeto de ἔχω: «algumas coisas» contra a comunidade.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "σοῦ ὀλίγα, ὅτι",
               "translation": "pouco",
               "explanation": "ὀλίγα é adjetivo neutro plural substantivado, objeto de ἔχω: «algumas coisas» contra a comunidade."
@@ -5331,7 +5323,7 @@
           "definition": "ἐκεῖ é advérbio de localização e retoma Pérgamo, onde há seguidores da doutrina descrita.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "ἔχεις ἐκεῖ κρατοῦντας",
               "translation": "ali",
               "explanation": "ἐκεῖ é advérbio de localização e retoma Pérgamo, onde há seguidores da doutrina descrita."
@@ -5352,7 +5344,7 @@
           "definition": "διδαχήν é acusativo singular, objeto de κρατοῦντας: aderir ao ensino de Balaão. Não confundir ensino com pessoa.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "τὴν διδαχὴν Βαλαάμ,",
               "translation": "ensino",
               "explanation": "διδαχήν é acusativo singular, objeto de κρατοῦντας: aderir ao ensino de Balaão. Não confundir ensino com pessoa."
@@ -5373,7 +5365,7 @@
           "definition": "Βαλαάμ é nome próprio indeclinável no texto grego; o genitivo sem marca formal especifica a doutrina vinculada a ele.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "διδαχὴν Βαλαάμ, ὃς",
               "translation": "Balaão",
               "explanation": "Βαλαάμ é nome próprio indeclinável no texto grego; o genitivo sem marca formal especifica a doutrina vinculada a ele."
@@ -5394,7 +5386,7 @@
           "definition": "ἐδίδασκεν é imperfeito ativo «ensinava», cuja ação tem como objeto a instrução de Balaque.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "ὃς ἐδίδασκεν τῷ",
               "translation": "ensinar",
               "explanation": "ἐδίδασκεν é imperfeito ativo «ensinava», cuja ação tem como objeto a instrução de Balaque."
@@ -5415,7 +5407,7 @@
           "definition": "Βαλὰκ é nome próprio indeclinável, dativo por função sintática sob o artigo τῷ; destinatário do ensinamento.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "τῷ Βαλὰκ βαλεῖν",
               "translation": "Balaque",
               "explanation": "Βαλὰκ é nome próprio indeclinável, dativo por função sintática sob o artigo τῷ; destinatário do ensinamento."
@@ -5436,7 +5428,7 @@
           "definition": "σκάνδαλον indica armadilha ou obstáculo que leva à queda. Em Ap 2:14 designa a indução de Israel à idolatria e à imoralidade.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "βαλεῖν σκάνδαλον ἐνώπιον",
               "translation": "armadilha",
               "explanation": "Não equiparar o termo à simples ofensa subjetiva do português contemporâneo."
@@ -5457,7 +5449,7 @@
           "definition": "Ἰσραήλ é nome próprio indeclinável; genitivo por função em τῶν υἱῶν Ἰσραήλ, filhos de Israel.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "υἱῶν Ἰσραήλ, φαγεῖν",
               "translation": "Israel",
               "explanation": "Ἰσραήλ é nome próprio indeclinável; genitivo por função em τῶν υἱῶν Ἰσραήλ, filhos de Israel."
@@ -5478,7 +5470,7 @@
           "definition": "εἰδωλόθυτον qualifica alimento associado a sacrifícios pagãos. Em Ap 2:14, descreve prática vinculada ao ensino de Balaão.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "φαγεῖν εἰδωλόθυτα καὶ",
               "translation": "alimento sacrificado a ídolos",
               "explanation": "O significado e a avaliação da prática dependem de seu cenário idolátrico, não apenas de dieta."
@@ -5499,7 +5491,7 @@
           "definition": "πορνεύω denota relações sexuais ilícitas na ética judaico-cristã antiga; no Apocalipse pode ainda integrar imagens de infidelidade religiosa.",
           "examples": [
             {
-              "reference": "Apocalipse 2:14",
+              "reference": "Ap 2:14",
               "greek": "καὶ πορνεῦσαι·",
               "translation": "praticar imoralidade sexual",
               "explanation": "Distinguir dimensão moral e simbolismo profético sem reduzir o vocábulo a um único valor em todas as passagens."
@@ -5520,7 +5512,7 @@
           "definition": "οὕτως é advérbio de modo; vincula os seguidores dos nicolaítas à comparação anterior.",
           "examples": [
             {
-              "reference": "Apocalipse 2:15",
+              "reference": "Ap 2:15",
               "greek": "οὕτως ἔχεις",
               "translation": "assim",
               "explanation": "οὕτως é advérbio de modo; vincula os seguidores dos nicolaítas à comparação anterior."
@@ -5541,7 +5533,7 @@
           "definition": "ὁμοίως é advérbio «da mesma maneira», reforçando a comparação e não exigindo palavras adicionais do Textus Receptus.",
           "examples": [
             {
-              "reference": "Apocalipse 2:15",
+              "reference": "Ap 2:15",
               "greek": "Νικολαϊτῶν ὁμοίως.",
               "translation": "igualmente",
               "explanation": "ὁμοίως é advérbio «da mesma maneira», reforçando a comparação e não exigindo palavras adicionais do Textus Receptus."
@@ -5562,7 +5554,7 @@
           "definition": "ταχύ funciona adverbialmente «sem demora/rapidamente» com a vinda anunciada; a precisão temporal não está fixada.",
           "examples": [
             {
-              "reference": "Apocalipse 2:16",
+              "reference": "Ap 2:16",
               "greek": "σοι ταχύ, καὶ",
               "translation": "rapidamente",
               "explanation": "ταχύ funciona adverbialmente «sem demora/rapidamente» com a vinda anunciada; a precisão temporal não está fixada."
@@ -5583,7 +5575,7 @@
           "definition": "πολεμήσω é futuro ativo primeira pessoa singular: o sujeito Cristo combaterá os destinatários plurais αὐτῶν.",
           "examples": [
             {
-              "reference": "Apocalipse 2:16",
+              "reference": "Ap 2:16",
               "greek": "καὶ πολεμήσω μετ’",
               "translation": "guerrear",
               "explanation": "πολεμήσω é futuro ativo primeira pessoa singular: o sujeito Cristo combaterá os destinatários plurais αὐτῶν."
@@ -5604,7 +5596,7 @@
           "definition": "μάννα nomeia o alimento provido no deserto. Em Ap 2:17, o maná escondido constitui promessa ao vencedor.",
           "examples": [
             {
-              "reference": "Apocalipse 2:17",
+              "reference": "Ap 2:17",
               "greek": "τοῦ μάννα τοῦ",
               "translation": "maná",
               "explanation": "A conexão com Êxodo é sólida; o referente escatológico preciso exige argumentação interpretativa."
@@ -5625,7 +5617,7 @@
           "definition": "κεκρυμμένου é particípio perfeito médio/passivo genitivo singular, atributivo de μάννα, alimento «escondido».",
           "examples": [
             {
-              "reference": "Apocalipse 2:17",
+              "reference": "Ap 2:17",
               "greek": "τοῦ κεκρυμμένου, καὶ",
               "translation": "esconder",
               "explanation": "κεκρυμμένου é particípio perfeito médio/passivo genitivo singular, atributivo de μάννα, alimento «escondido»."
@@ -5646,7 +5638,7 @@
           "definition": "ψῆφος designa pequena pedra ou ficha utilizada em diferentes práticas antigas. Em Ap 2:17 aparece como pedra branca concedida ao vencedor.",
           "examples": [
             {
-              "reference": "Apocalipse 2:17",
+              "reference": "Ap 2:17",
               "greek": "αὐτῷ ψῆφον λευκήν,",
               "translation": "pedrinha",
               "explanation": "Absolvição jurídica, entrada em banquete e hospitalidade são interpretações possíveis, não uma identificação arqueológica comprovada."
@@ -5667,7 +5659,7 @@
           "definition": "καινός pode designar novidade de caráter, estado ou condição. Em Ap 2:17 modifica ὄνομα, o novo nome inscrito na pedra.",
           "examples": [
             {
-              "reference": "Apocalipse 2:17",
+              "reference": "Ap 2:17",
               "greek": "ὄνομα καινὸν γεγραμμένον",
               "translation": "novo",
               "explanation": "Evitar contrastar mecanicamente καινός com νέος sem avaliar contextos de uso."
@@ -5688,7 +5680,7 @@
           "definition": "οὐδείς é pronome negativo «ninguém» e sujeito de οἶδεν, salvo a exceção εἰ μή.",
           "examples": [
             {
-              "reference": "Apocalipse 2:17",
+              "reference": "Ap 2:17",
               "greek": "ὃ οὐδεὶς οἶδεν",
               "translation": "ninguém",
               "explanation": "οὐδείς é pronome negativo «ninguém» e sujeito de οἶδεν, salvo a exceção εἰ μή."
@@ -5709,7 +5701,7 @@
           "definition": "λαμβάνων é particípio presente ativo substantivado, sujeito da exceção «aquele que recebe» a pedrinha/nome.",
           "examples": [
             {
-              "reference": "Apocalipse 2:17",
+              "reference": "Ap 2:17",
               "greek": "ὁ λαμβάνων.",
               "translation": "receber",
               "explanation": "λαμβάνων é particípio presente ativo substantivado, sujeito da exceção «aquele que recebe» a pedrinha/nome."
@@ -5730,7 +5722,7 @@
           "definition": "διακονία designa serviço/ministério; no acusativo é item do elogio às qualidades de Tiatira.",
           "examples": [
             {
-              "reference": "Apocalipse 2:19",
+              "reference": "Ap 2:19",
               "greek": "τὴν διακονίαν καὶ",
               "translation": "serviço",
               "explanation": "διακονία designa serviço/ministério; no acusativo é item do elogio às qualidades de Tiatira."
@@ -5751,7 +5743,7 @@
           "definition": "γυνή indica mulher ou esposa; τὴν γυναῖκα introduz a personagem Jezabel como objeto de ἀφεῖς.",
           "examples": [
             {
-              "reference": "Apocalipse 2:20",
+              "reference": "Ap 2:20",
               "greek": "τὴν γυναῖκα Ἰεζάβελ,",
               "translation": "mulher",
               "explanation": "γυνή indica mulher ou esposa; τὴν γυναῖκα introduz a personagem Jezabel como objeto de ἀφεῖς."
@@ -5772,7 +5764,7 @@
           "definition": "Ἰεζάβελ é o nome da rainha do relato dos Reis, usado em Ap 2:20 para caracterizar uma figura associada a falsa profecia e sedução.",
           "examples": [
             {
-              "reference": "Apocalipse 2:20",
+              "reference": "Ap 2:20",
               "greek": "γυναῖκα Ἰεζάβελ, ἡ",
               "translation": "Jezabel",
               "explanation": "A identificação como apelido tipológico é provável, mas não demonstrável de modo definitivo."
@@ -5793,7 +5785,7 @@
           "definition": "προφῆτιν é acusativo feminino singular, predicativo de ἑαυτήν após λέγουσα: «dizendo-se profetisa».",
           "examples": [
             {
-              "reference": "Apocalipse 2:20",
+              "reference": "Ap 2:20",
               "greek": "ἑαυτὴν προφῆτιν, καὶ",
               "translation": "profetisa",
               "explanation": "προφῆτιν é acusativo feminino singular, predicativo de ἑαυτήν após λέγουσα: «dizendo-se profetisa»."
@@ -5814,7 +5806,7 @@
           "definition": "πλανᾷ é presente ativo terceira pessoa singular: desvia/engana os servos, associado ao ensino condenado.",
           "examples": [
             {
-              "reference": "Apocalipse 2:20",
+              "reference": "Ap 2:20",
               "greek": "καὶ πλανᾷ τοὺς",
               "translation": "enganar",
               "explanation": "πλανᾷ é presente ativo terceira pessoa singular: desvia/engana os servos, associado ao ensino condenado."
@@ -5835,7 +5827,7 @@
           "definition": "ἐμούς é possessivo acusativo masculino plural concordando com δούλους: «meus servos», na perspectiva do locutor.",
           "examples": [
             {
-              "reference": "Apocalipse 2:20",
+              "reference": "Ap 2:20",
               "greek": "τοὺς ἐμοὺς δούλους",
               "translation": "meu",
               "explanation": "ἐμούς é possessivo acusativo masculino plural concordando com δούλους: «meus servos», na perspectiva do locutor."
@@ -5856,7 +5848,7 @@
           "definition": "χρόνον é acusativo singular, objeto de ἔδωκα: período concedido para arrependimento, não medida cronológica especificada.",
           "examples": [
             {
-              "reference": "Apocalipse 2:21",
+              "reference": "Ap 2:21",
               "greek": "αὐτῇ χρόνον ἵνα",
               "translation": "tempo",
               "explanation": "χρόνον é acusativo singular, objeto de ἔδωκα: período concedido para arrependimento, não medida cronológica especificada."
@@ -5877,7 +5869,7 @@
           "definition": "θέλει é presente ativo terceira pessoa singular: recusa expressa por οὐ θέλει μετανοῆσαι, não incapacidade.",
           "examples": [
             {
-              "reference": "Apocalipse 2:21",
+              "reference": "Ap 2:21",
               "greek": "οὐ θέλει μετανοῆσαι",
               "translation": "querer",
               "explanation": "θέλει é presente ativo terceira pessoa singular: recusa expressa por οὐ θέλει μετανοῆσαι, não incapacidade."
@@ -5898,7 +5890,7 @@
           "definition": "πορνεία designa imoralidade sexual; contexto de idolatria pode envolver linguagem figurada, mas isso demanda argumento.",
           "examples": [
             {
-              "reference": "Apocalipse 2:21",
+              "reference": "Ap 2:21",
               "greek": "τῆς πορνείας αὐτῆς.",
               "translation": "imoralidade sexual",
               "explanation": "πορνεία designa imoralidade sexual; contexto de idolatria pode envolver linguagem figurada, mas isso demanda argumento."
@@ -5919,7 +5911,7 @@
           "definition": "κλίνη significa leito ou cama. Em Ap 2:22, torna-se imagem de julgamento, possivelmente com ironia em relação à infidelidade.",
           "examples": [
             {
-              "reference": "Apocalipse 2:22",
+              "reference": "Ap 2:22",
               "greek": "εἰς κλίνην, καὶ",
               "translation": "leito",
               "explanation": "Não inferir uma doença concreta nem uma punição médica específica somente do substantivo."
@@ -5940,7 +5932,7 @@
           "definition": "μοιχεύοντας é particípio presente ativo acusativo plural substantivado, referente aos que adulteram com ela.",
           "examples": [
             {
-              "reference": "Apocalipse 2:22",
+              "reference": "Ap 2:22",
               "greek": "τοὺς μοιχεύοντας μετ’",
               "translation": "adulterar",
               "explanation": "μοιχεύοντας é particípio presente ativo acusativo plural substantivado, referente aos que adulteram com ela."
@@ -5961,7 +5953,7 @@
           "definition": "τέκνα, neutro plural de τέκνον, pode indicar filhos/descendentes ou seguidores em uso figurado; contexto é necessário.",
           "examples": [
             {
-              "reference": "Apocalipse 2:23",
+              "reference": "Ap 2:23",
               "greek": "τὰ τέκνα αὐτῆς",
               "translation": "filho",
               "explanation": "τέκνα, neutro plural de τέκνον, pode indicar filhos/descendentes ou seguidores em uso figurado; contexto é necessário."
@@ -5982,7 +5974,7 @@
           "definition": "γνώσονται é futuro médio de γινώσκω: «saberão/conhecerão», relacionado ao reconhecimento do juízo divino.",
           "examples": [
             {
-              "reference": "Apocalipse 2:23",
+              "reference": "Ap 2:23",
               "greek": "καὶ γνώσονται πᾶσαι",
               "translation": "conhecer",
               "explanation": "γνώσονται é futuro médio de γινώσκω: «saberão/conhecerão», relacionado ao reconhecimento do juízo divino."
@@ -6003,7 +5995,7 @@
           "definition": "ἐραυνῶν é particípio presente ativo substantivado: «aquele que sonda» a interioridade representada por rins e corações.",
           "examples": [
             {
-              "reference": "Apocalipse 2:23",
+              "reference": "Ap 2:23",
               "greek": "ὁ ἐραυνῶν νεφροὺς",
               "translation": "investigar",
               "explanation": "ἐραυνῶν é particípio presente ativo substantivado: «aquele que sonda» a interioridade representada por rins e corações."
@@ -6024,7 +6016,7 @@
           "definition": "νεφρός designa os rins; em linguagem hebraica, os órgãos internos podem simbolizar as dimensões profundas da vida humana.",
           "examples": [
             {
-              "reference": "Apocalipse 2:23",
+              "reference": "Ap 2:23",
               "greek": "ἐραυνῶν νεφροὺς καὶ",
               "translation": "rim",
               "explanation": "Em Ap 2:23 a coordenação com καρδίας descreve a capacidade divina de examinar o interior."
@@ -6045,7 +6037,7 @@
           "definition": "καρδία pode denotar coração físico ou o centro de pensamentos, desejos e decisões. Em Ap 2:23 participa da linguagem bíblica de conhecimento divino.",
           "examples": [
             {
-              "reference": "Apocalipse 2:23",
+              "reference": "Ap 2:23",
               "greek": "καὶ καρδίας, καὶ",
               "translation": "coração",
               "explanation": "Não reduzir a expressão a sentimentos em oposição exclusiva à razão."
@@ -6066,7 +6058,7 @@
           "definition": "ἑκάστῳ é dativo singular distributivo «a cada um», combinando-se com ὑμῖν na promessa de retribuição individual.",
           "examples": [
             {
-              "reference": "Apocalipse 2:23",
+              "reference": "Ap 2:23",
               "greek": "ὑμῖν ἑκάστῳ κατὰ",
               "translation": "cada um",
               "explanation": "ἑκάστῳ é dativo singular distributivo «a cada um», combinando-se com ὑμῖν na promessa de retribuição individual."
@@ -6087,7 +6079,7 @@
           "definition": "λοιποῖς é adjetivo substantivado dativo plural: «aos restantes», distinto do grupo criticado.",
           "examples": [
             {
-              "reference": "Apocalipse 2:24",
+              "reference": "Ap 2:24",
               "greek": "τοῖς λοιποῖς τοῖς",
               "translation": "restante",
               "explanation": "λοιποῖς é adjetivo substantivado dativo plural: «aos restantes», distinto do grupo criticado."
@@ -6108,7 +6100,7 @@
           "definition": "βαθύς significa profundo. Em Ap 2:24, τὰ βαθέα substantivado integra o título ou afirmação polêmica «profundezas de Satanás».",
           "examples": [
             {
-              "reference": "Apocalipse 2:24",
+              "reference": "Ap 2:24",
               "greek": "τὰ βαθέα τοῦ",
               "translation": "profundo",
               "explanation": "Não pressupor automaticamente a existência de movimento gnóstico desenvolvido."
@@ -6129,7 +6121,7 @@
           "definition": "ἄλλο é adjetivo acusativo neutro singular que modifica βάρος: «outro fardo».",
           "examples": [
             {
-              "reference": "Apocalipse 2:24",
+              "reference": "Ap 2:24",
               "greek": "ὑμᾶς ἄλλο βάρος·",
               "translation": "outro",
               "explanation": "ἄλλο é adjetivo acusativo neutro singular que modifica βάρος: «outro fardo»."
@@ -6150,7 +6142,7 @@
           "definition": "βάρος designa peso ou carga, inclusive em sentido figurado. Em Ap 2:24 Cristo afirma não impor outro fardo.",
           "examples": [
             {
-              "reference": "Apocalipse 2:24",
+              "reference": "Ap 2:24",
               "greek": "ἄλλο βάρος·",
               "translation": "peso",
               "explanation": "A possível evocação de At 15:28 é intertextual e não comprova dependência literária direta."
@@ -6171,7 +6163,7 @@
           "definition": "πλήν atua como partícula adversativa/restritiva: «contudo/somente», introduzindo a exortação seguinte.",
           "examples": [
             {
-              "reference": "Apocalipse 2:25",
+              "reference": "Ap 2:25",
               "greek": "πλὴν ὃ",
               "translation": "contudo",
               "explanation": "πλήν atua como partícula adversativa/restritiva: «contudo/somente», introduzindo a exortação seguinte."
@@ -6192,7 +6184,7 @@
           "definition": "ἄν é partícula modal combinada com ἄχρι οὗ e subjuntivo ἥξω na delimitação futura «até que eu venha».",
           "examples": [
             {
-              "reference": "Apocalipse 2:25",
+              "reference": "Ap 2:25",
               "greek": "οὗ ἂν ἥξω.",
               "translation": "partícula modal",
               "explanation": "ἄν é partícula modal combinada com ἄχρι οὗ e subjuntivo ἥξω na delimitação futura «até que eu venha»."
@@ -6213,7 +6205,7 @@
           "definition": "ἥξω é aoristo subjuntivo primeira pessoa singular de ἥκω em ἄχρι οὗ ἄν, projetando a chegada de Cristo.",
           "examples": [
             {
-              "reference": "Apocalipse 2:25",
+              "reference": "Ap 2:25",
               "greek": "ἂν ἥξω.",
               "translation": "chegar",
               "explanation": "ἥξω é aoristo subjuntivo primeira pessoa singular de ἥκω em ἄχρι οὗ ἄν, projetando a chegada de Cristo."
@@ -6234,7 +6226,7 @@
           "definition": "τέλους é genitivo singular após ἄχρι: «até o fim», limite da perseverança ordenada.",
           "examples": [
             {
-              "reference": "Apocalipse 2:26",
+              "reference": "Ap 2:26",
               "greek": "ἄχρι τέλους τὰ",
               "translation": "fim",
               "explanation": "τέλους é genitivo singular após ἄχρι: «até o fim», limite da perseverança ordenada."
@@ -6255,7 +6247,7 @@
           "definition": "ἐξουσίαν é acusativo singular, objeto de δώσω; significa autoridade delegada sobre as nações.",
           "examples": [
             {
-              "reference": "Apocalipse 2:26",
+              "reference": "Ap 2:26",
               "greek": "αὐτῷ ἐξουσίαν ἐπὶ",
               "translation": "autoridade",
               "explanation": "ἐξουσίαν é acusativo singular, objeto de δώσω; significa autoridade delegada sobre as nações."
@@ -6276,7 +6268,7 @@
           "definition": "ἐθνῶν é genitivo plural de ἔθνος após ἐπί, denotando os povos/nações sob a autoridade prometida.",
           "examples": [
             {
-              "reference": "Apocalipse 2:26",
+              "reference": "Ap 2:26",
               "greek": "τῶν ἐθνῶν,",
               "translation": "nação",
               "explanation": "ἐθνῶν é genitivo plural de ἔθνος após ἐπί, denotando os povos/nações sob a autoridade prometida."
@@ -6297,7 +6289,7 @@
           "definition": "ποιμαίνω significa pastorear e, figuradamente, reger como pastor. Em Ap 2:27 é linguagem régia messiânica relacionada ao Salmo 2.",
           "examples": [
             {
-              "reference": "Apocalipse 2:27",
+              "reference": "Ap 2:27",
               "greek": "καὶ ποιμανεῖ αὐτοὺς",
               "translation": "apascentar",
               "explanation": "A forma ποιμανεῖ é futuro ativo indicativo de terceira pessoa singular."
@@ -6318,7 +6310,7 @@
           "definition": "ῥάβδος designa vara, cajado ou cetro, conforme contexto. Em Ap 2:27, a vara de ferro é imagem régia derivada do Salmo 2.",
           "examples": [
             {
-              "reference": "Apocalipse 2:27",
+              "reference": "Ap 2:27",
               "greek": "ἐν ῥάβδῳ σιδηρᾷ",
               "translation": "vara",
               "explanation": "A dureza da vara é expressa pelo adjetivo σιδηρᾷ, não pelo substantivo isoladamente."
@@ -6339,7 +6331,7 @@
           "definition": "σιδηροῦς é adjetivo referente a ferro; em Ap 2:27 a forma σιδηρᾷ concorda com ῥάβδῳ no dativo singular feminino.",
           "examples": [
             {
-              "reference": "Apocalipse 2:27",
+              "reference": "Ap 2:27",
               "greek": "ῥάβδῳ σιδηρᾷ ὡς",
               "translation": "de ferro",
               "explanation": "A força do símbolo é textual, não descrição literal de tecnologia militar."
@@ -6360,7 +6352,7 @@
           "definition": "σκεύη é neutro plural de σκεῦος, vasos/objetos; é sujeito de συντρίβεται, forma verbal singular permitida com neutro plural.",
           "examples": [
             {
-              "reference": "Apocalipse 2:27",
+              "reference": "Ap 2:27",
               "greek": "τὰ σκεύη τὰ",
               "translation": "vaso",
               "explanation": "σκεύη é neutro plural de σκεῦος, vasos/objetos; é sujeito de συντρίβεται, forma verbal singular permitida com neutro plural."
@@ -6381,7 +6373,7 @@
           "definition": "κεραμικός descreve objetos de cerâmica. Em Ap 2:27 qualifica os vasos comparados à fragilidade diante do governo messiânico.",
           "examples": [
             {
-              "reference": "Apocalipse 2:27",
+              "reference": "Ap 2:27",
               "greek": "τὰ κεραμικὰ συντρίβεται,",
               "translation": "de cerâmica",
               "explanation": "O contraste com a vara de ferro procede da imagem do Salmo 2."
@@ -6402,7 +6394,7 @@
           "definition": "συντρίβω expressa romper ou despedaçar. Em Ap 2:27 a forma συντρίβεται é presente médio/passivo indicativo singular no MorphGNT.",
           "examples": [
             {
-              "reference": "Apocalipse 2:27",
+              "reference": "Ap 2:27",
               "greek": "κεραμικὰ συντρίβεται,",
               "translation": "despedaçar",
               "explanation": "Preservar a peculiaridade sintática da comparação em vez de reescrever o grego."
@@ -6423,7 +6415,7 @@
           "definition": "πρωϊνός é adjetivo relacionado à manhã. Em Ap 2:28 qualifica ἀστέρα, estrela da manhã.",
           "examples": [
             {
-              "reference": "Apocalipse 2:28",
+              "reference": "Ap 2:28",
               "greek": "τὸν πρωϊνόν.",
               "translation": "matutino",
               "explanation": "A identificação de Cristo em Ap 22:16 constitui paralelo interno interpretativo."
@@ -6444,7 +6436,7 @@
           "definition": "Vigiar ou manter-se desperto; em 3:2–3, exige prontidão contínua da comunidade, mais que mera ausência de sono.",
           "examples": [
             {
-              "reference": "Apocalipse 3:2",
+              "reference": "Ap 3:2",
               "greek": "γίνου γρηγορῶν, καὶ",
               "translation": "vigiar",
               "explanation": "Vigiar ou manter-se desperto; em 3:2–3, exige prontidão contínua da comunidade, mais que mera ausência de sono."
@@ -6465,7 +6457,7 @@
           "definition": "Tornar firme ou fortalecer; o imperativo de 3:2 ordena consolidar o que resta antes de perecer.",
           "examples": [
             {
-              "reference": "Apocalipse 3:2",
+              "reference": "Ap 3:2",
               "greek": "καὶ στήρισον τὰ",
               "translation": "fortalecer",
               "explanation": "Tornar firme ou fortalecer; o imperativo de 3:2 ordena consolidar o que resta antes de perecer."
@@ -6486,7 +6478,7 @@
           "definition": "Morrer; o infinitivo de 3:2 qualifica aquilo que estava prestes a extinguir-se na comunidade.",
           "examples": [
             {
-              "reference": "Apocalipse 3:2",
+              "reference": "Ap 3:2",
               "greek": "ἔμελλον ἀποθανεῖν, οὐ",
               "translation": "morrer",
               "explanation": "Morrer; o infinitivo de 3:2 qualifica aquilo que estava prestes a extinguir-se na comunidade."
@@ -6507,7 +6499,7 @@
           "definition": "Completar, cumprir ou levar à plenitude; o perfeito passivo de 3:2 descreve obras não achadas completas diante de Deus.",
           "examples": [
             {
-              "reference": "Apocalipse 3:2",
+              "reference": "Ap 3:2",
               "greek": "ἔργα πεπληρωμένα ἐνώπιον",
               "translation": "completar",
               "explanation": "Completar, cumprir ou levar à plenitude; o perfeito passivo de 3:2 descreve obras não achadas completas diante de Deus."
@@ -6528,7 +6520,7 @@
           "definition": "Advérbio interrogativo de modo; em 3:3, «como» recebeste e ouviste, não simples indicador do conteúdo recebido.",
           "examples": [
             {
-              "reference": "Apocalipse 3:3",
+              "reference": "Ap 3:3",
               "greek": "οὖν πῶς εἴληφας",
               "translation": "como",
               "explanation": "Advérbio interrogativo de modo; em 3:3, «como» recebeste e ouviste, não simples indicador do conteúdo recebido."
@@ -6549,7 +6541,7 @@
           "definition": "Ladrão; em 3:3, comparação da chegada inesperada, sem pressupor identificação histórica do evento.",
           "examples": [
             {
-              "reference": "Apocalipse 3:3",
+              "reference": "Ap 3:3",
               "greek": "ὡς κλέπτης, καὶ",
               "translation": "ladrão",
               "explanation": "Ladrão; em 3:3, comparação da chegada inesperada, sem pressupor identificação histórica do evento."
@@ -6570,7 +6562,7 @@
           "definition": "Pronome/adjetivo interrogativo «qual»; associado a ὥρα na advertência temporal de 3:3.",
           "examples": [
             {
-              "reference": "Apocalipse 3:3",
+              "reference": "Ap 3:3",
               "greek": "γνῷς ποίαν ὥραν",
               "translation": "qual",
               "explanation": "Pronome/adjetivo interrogativo «qual»; associado a ὥρα na advertência temporal de 3:3."
@@ -6591,7 +6583,7 @@
           "definition": "Hora, ocasião ou momento; em 3:3 e 3:10, a expressão ganha nuance pela ameaça e pela provação.",
           "examples": [
             {
-              "reference": "Apocalipse 3:3",
+              "reference": "Ap 3:3",
               "greek": "ποίαν ὥραν ἥξω",
               "translation": "hora",
               "explanation": "Hora, ocasião ou momento; em 3:3 e 3:10, a expressão ganha nuance pela ameaça e pela provação."
@@ -6612,7 +6604,7 @@
           "definition": "Manchar, contaminar; em 3:4, o objeto é a veste, numa metáfora de integridade e fidelidade.",
           "examples": [
             {
-              "reference": "Apocalipse 3:4",
+              "reference": "Ap 3:4",
               "greek": "οὐκ ἐμόλυναν τὰ",
               "translation": "contaminar",
               "explanation": "Manchar, contaminar; em 3:4, o objeto é a veste, numa metáfora de integridade e fidelidade."
@@ -6633,7 +6625,7 @@
           "definition": "Veste ou roupa; em 3:4–5 e 3:18, simboliza condição espiritual, honra e a vergonha de nudez.",
           "examples": [
             {
-              "reference": "Apocalipse 3:4",
+              "reference": "Ap 3:4",
               "greek": "τὰ ἱμάτια αὐτῶν,",
               "translation": "veste",
               "explanation": "Veste ou roupa; em 3:4–5 e 3:18, simboliza condição espiritual, honra e a vergonha de nudez."
@@ -6651,10 +6643,10 @@
         {
           "id": "G514-1",
           "label": "digno",
-          "definition": "Digno, adequado ou merecedor; em 3:4 funciona como predicativo da promessa de andar com Cristo.",
+          "definition": "Digno, adequado ou merecedor; indica qualificação em relação a uma condição ou ação.",
           "examples": [
             {
-              "reference": "Apocalipse 3:4",
+              "reference": "Ap 3:4",
               "greek": "ὅτι ἄξιοί εἰσιν.",
               "translation": "digno",
               "explanation": "Digno, adequado ou merecedor; em 3:4 funciona como predicativo da promessa de andar com Cristo."
@@ -6675,7 +6667,7 @@
           "definition": "Vestir ou envolver com roupa; o contexto 3:5 e 3:18 trata de ser revestido com vestes brancas.",
           "examples": [
             {
-              "reference": "Apocalipse 3:5",
+              "reference": "Ap 3:5",
               "greek": "οὕτως περιβαλεῖται ἐν",
               "translation": "vestir",
               "explanation": "Vestir ou envolver com roupa; o contexto 3:5 e 3:18 trata de ser revestido com vestes brancas."
@@ -6696,7 +6688,7 @@
           "definition": "Apagar ou eliminar registro; em 3:5, referente ao nome no livro da vida sob negação enfática.",
           "examples": [
             {
-              "reference": "Apocalipse 3:5",
+              "reference": "Ap 3:5",
               "greek": "μὴ ἐξαλείψω τὸ",
               "translation": "apagar",
               "explanation": "Apagar ou eliminar registro; em 3:5, referente ao nome no livro da vida sob negação enfática."
@@ -6717,7 +6709,7 @@
           "definition": "Livro ou rolo escrito; no sintagma «livro da vida» (3:5) pertence à imagem do registro divino.",
           "examples": [
             {
-              "reference": "Apocalipse 3:5",
+              "reference": "Ap 3:5",
               "greek": "τῆς βίβλου τῆς",
               "translation": "livro",
               "explanation": "Livro ou rolo escrito; no sintagma «livro da vida» (3:5) pertence à imagem do registro divino."
@@ -6738,7 +6730,7 @@
           "definition": "Reconhecer, declarar ou confessar; em 3:5, Cristo promete reconhecer o nome diante do Pai e dos anjos.",
           "examples": [
             {
-              "reference": "Apocalipse 3:5",
+              "reference": "Ap 3:5",
               "greek": "καὶ ὁμολογήσω τὸ",
               "translation": "confessar",
               "explanation": "Reconhecer, declarar ou confessar; em 3:5, Cristo promete reconhecer o nome diante do Pai e dos anjos."
@@ -6759,7 +6751,7 @@
           "definition": "Santo ou consagrado; em 3:7 é título substantivado do Cristo que fala.",
           "examples": [
             {
-              "reference": "Apocalipse 3:7",
+              "reference": "Ap 3:7",
               "greek": "ὁ ἅγιος, ὁ",
               "translation": "santo",
               "explanation": "Santo ou consagrado; em 3:7 é título substantivado do Cristo que fala."
@@ -6780,7 +6772,7 @@
           "definition": "Verdadeiro, genuíno; em 3:7 e 3:14 qualifica a identidade e confiabilidade do locutor.",
           "examples": [
             {
-              "reference": "Apocalipse 3:7",
+              "reference": "Ap 3:7",
               "greek": "ὁ ἀληθινός, ὁ",
               "translation": "verdadeiro",
               "explanation": "Verdadeiro, genuíno; em 3:7 e 3:14 qualifica a identidade e confiabilidade do locutor."
@@ -6801,7 +6793,7 @@
           "definition": "Nome próprio Davi; «chave de Davi» em 3:7 evoca a imagem de Isaías 22:22, sem identidade literal com a chave antiga.",
           "examples": [
             {
-              "reference": "Apocalipse 3:7",
+              "reference": "Ap 3:7",
               "greek": "κλεῖν Δαυίδ, ὁ",
               "translation": "Davi",
               "explanation": "Nome próprio Davi; «chave de Davi» em 3:7 evoca a imagem de Isaías 22:22, sem identidade literal com a chave antiga."
@@ -6819,10 +6811,10 @@
         {
           "id": "G455-1",
           "label": "abrir",
-          "definition": "Abrir; em 3:7–8, a ação descreve autoridade para abrir o que ninguém fecha.",
+          "definition": "Abrir algo fechado, em sentido literal ou figurado.",
           "examples": [
             {
-              "reference": "Apocalipse 3:7",
+              "reference": "Ap 3:7",
               "greek": "ὁ ἀνοίγων καὶ",
               "translation": "abrir",
               "explanation": "Abrir; em 3:7–8, a ação descreve autoridade para abrir o que ninguém fecha."
@@ -6843,7 +6835,7 @@
           "definition": "Fechar; em 3:7–8 forma paralelo antitético com abrir, exprimindo autoridade exclusiva.",
           "examples": [
             {
-              "reference": "Apocalipse 3:7",
+              "reference": "Ap 3:7",
               "greek": "οὐδεὶς κλείσει, καὶ",
               "translation": "fechar",
               "explanation": "Fechar; em 3:7–8 forma paralelo antitético com abrir, exprimindo autoridade exclusiva."
@@ -6864,7 +6856,7 @@
           "definition": "Porta; em 3:8 simboliza abertura concedida, em 3:20 introduz imagem de encontro e comunhão.",
           "examples": [
             {
-              "reference": "Apocalipse 3:8",
+              "reference": "Ap 3:8",
               "greek": "σου θύραν ἠνεῳγμένην,",
               "translation": "porta",
               "explanation": "Porta; em 3:8 simboliza abertura concedida, em 3:20 introduz imagem de encontro e comunhão."
@@ -6885,7 +6877,7 @@
           "definition": "Pequeno, limitado; em 3:8 modifica δύναμις e expressa pouca força, não necessariamente pouca fé.",
           "examples": [
             {
-              "reference": "Apocalipse 3:8",
+              "reference": "Ap 3:8",
               "greek": "ὅτι μικρὰν ἔχεις",
               "translation": "pequeno",
               "explanation": "Pequeno, limitado; em 3:8 modifica δύναμις e expressa pouca força, não necessariamente pouca fé."
@@ -6906,7 +6898,7 @@
           "definition": "Mentir ou falar falsamente; em 3:9 caracteriza uma reivindicação contestada no conflito local.",
           "examples": [
             {
-              "reference": "Apocalipse 3:9",
+              "reference": "Ap 3:9",
               "greek": "ἀλλὰ ψεύδονται— ἰδοὺ",
               "translation": "mentir",
               "explanation": "Mentir ou falar falsamente; em 3:9 caracteriza uma reivindicação contestada no conflito local."
@@ -6927,7 +6919,7 @@
           "definition": "Prostrar-se ou prestar homenagem; 3:9 requer leitura contextual para determinar o objeto e a natureza do ato.",
           "examples": [
             {
-              "reference": "Apocalipse 3:9",
+              "reference": "Ap 3:9",
               "greek": "καὶ προσκυνήσουσιν ἐνώπιον",
               "translation": "prostrar-se",
               "explanation": "Prostrar-se ou prestar homenagem; 3:9 requer leitura contextual para determinar o objeto e a natureza do ato."
@@ -6948,7 +6940,7 @@
           "definition": "Provação ou teste; em 3:10 aparece como evento que virá sobre a οἰκουμένη, com sentido determinado pelo contexto.",
           "examples": [
             {
-              "reference": "Apocalipse 3:10",
+              "reference": "Ap 3:10",
               "greek": "τοῦ πειρασμοῦ τῆς",
               "translation": "provação",
               "explanation": "Provação ou teste; em 3:10 aparece como evento que virá sobre a οἰκουμένη, com sentido determinado pelo contexto."
@@ -6969,7 +6961,7 @@
           "definition": "Terra habitada ou mundo habitado; em 3:10 marca a amplitude da provação, sem impor mapa geográfico moderno.",
           "examples": [
             {
-              "reference": "Apocalipse 3:10",
+              "reference": "Ap 3:10",
               "greek": "τῆς οἰκουμένης ὅλης,",
               "translation": "mundo habitado",
               "explanation": "Terra habitada ou mundo habitado; em 3:10 marca a amplitude da provação, sem impor mapa geográfico moderno."
@@ -6990,7 +6982,7 @@
           "definition": "Todo, inteiro; em 3:10 caracteriza a extensão da região habitada na expressão ὅλης τῆς οἰκουμένης.",
           "examples": [
             {
-              "reference": "Apocalipse 3:10",
+              "reference": "Ap 3:10",
               "greek": "οἰκουμένης ὅλης, πειράσαι",
               "translation": "todo",
               "explanation": "Todo, inteiro; em 3:10 caracteriza a extensão da região habitada na expressão ὅλης τῆς οἰκουμένης."
@@ -7011,7 +7003,7 @@
           "definition": "Coluna ou pilar; metáfora de estabilidade e pertença ao santuário em 3:12.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "αὐτὸν στῦλον ἐν",
               "translation": "coluna",
               "explanation": "Coluna ou pilar; metáfora de estabilidade e pertença ao santuário em 3:12."
@@ -7032,7 +7024,7 @@
           "definition": "Santuário ou templo; em 3:12 designa o âmbito de Deus na promessa, sujeito a interpretação simbólica em Ap 21:22.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "τῷ ναῷ τοῦ",
               "translation": "santuário",
               "explanation": "Santuário ou templo; em 3:12 designa o âmbito de Deus na promessa, sujeito a interpretação simbólica em Ap 21:22."
@@ -7053,7 +7045,7 @@
           "definition": "Fora, para fora; em 3:12 reforça a permanência prometida ao vencedor.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "καὶ ἔξω οὐ",
               "translation": "fora",
               "explanation": "Fora, para fora; em 3:12 reforça a permanência prometida ao vencedor."
@@ -7074,7 +7066,7 @@
           "definition": "Sair, ir para fora; em 3:12 está sob a negação enfática οὐ μή.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "μὴ ἐξέλθῃ ἔτι,",
               "translation": "sair",
               "explanation": "Sair, ir para fora; em 3:12 está sob a negação enfática οὐ μή."
@@ -7095,7 +7087,7 @@
           "definition": "Ainda, mais; em 3:12 reforça a ideia de nunca mais sair.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "ἐξέλθῃ ἔτι, καὶ",
               "translation": "ainda",
               "explanation": "Ainda, mais; em 3:12 reforça a ideia de nunca mais sair."
@@ -7116,7 +7108,7 @@
           "definition": "Cidade; em 3:12 está vinculada à Nova Jerusalém e à pertença escatológica.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "τῆς πόλεως τοῦ",
               "translation": "cidade",
               "explanation": "Cidade; em 3:12 está vinculada à Nova Jerusalém e à pertença escatológica."
@@ -7137,7 +7129,7 @@
           "definition": "Jerusalém, nome próprio; em 3:12 o adjetivo «nova» marca a cidade escatológica que desce do céu.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "καινῆς Ἰερουσαλήμ, ἡ",
               "translation": "Jerusalém",
               "explanation": "Jerusalém, nome próprio; em 3:12 o adjetivo «nova» marca a cidade escatológica que desce do céu."
@@ -7158,7 +7150,7 @@
           "definition": "Descer; em 3:12 particípio que descreve a cidade vinda do céu, retomada em 21:2,10.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "ἡ καταβαίνουσα ἐκ",
               "translation": "descer",
               "explanation": "Descer; em 3:12 particípio que descreve a cidade vinda do céu, retomada em 21:2,10."
@@ -7179,7 +7171,7 @@
           "definition": "Céu; em 3:12 indica a procedência da Nova Jerusalém no relato visionário.",
           "examples": [
             {
-              "reference": "Apocalipse 3:12",
+              "reference": "Ap 3:12",
               "greek": "τοῦ οὐρανοῦ ἀπὸ",
               "translation": "céu",
               "explanation": "Céu; em 3:12 indica a procedência da Nova Jerusalém no relato visionário."
@@ -7200,7 +7192,7 @@
           "definition": "Princípio, origem ou posição inicial; em 3:14 o genitivo «da criação de Deus» exige análise cristológica, não sentido obrigatório de «primeira criatura».",
           "examples": [
             {
-              "reference": "Apocalipse 3:14",
+              "reference": "Ap 3:14",
               "greek": "ἡ ἀρχὴ τῆς",
               "translation": "princípio; origem",
               "explanation": "Princípio, origem ou posição inicial; em 3:14 o genitivo «da criação de Deus» exige análise cristológica, não sentido obrigatório de «primeira criatura»."
@@ -7221,7 +7213,7 @@
           "definition": "Criação ou ato de criar; em 3:14 aparece no genitivo dependente de ἀρχή.",
           "examples": [
             {
-              "reference": "Apocalipse 3:14",
+              "reference": "Ap 3:14",
               "greek": "τῆς κτίσεως τοῦ",
               "translation": "criação",
               "explanation": "Criação ou ato de criar; em 3:14 aparece no genitivo dependente de ἀρχή."
@@ -7242,7 +7234,7 @@
           "definition": "Conjunção negativa coordenativa «nem»; em 3:15–16 combina qualificações térmicas.",
           "examples": [
             {
-              "reference": "Apocalipse 3:15",
+              "reference": "Ap 3:15",
               "greek": "ὅτι οὔτε ψυχρὸς",
               "translation": "nem",
               "explanation": "Conjunção negativa coordenativa «nem»; em 3:15–16 combina qualificações térmicas."
@@ -7263,7 +7255,7 @@
           "definition": "Frio; em 3:15–16 forma oposição com quente e contraste com morno na crítica à comunidade.",
           "examples": [
             {
-              "reference": "Apocalipse 3:15",
+              "reference": "Ap 3:15",
               "greek": "οὔτε ψυχρὸς εἶ",
               "translation": "frio",
               "explanation": "Frio; em 3:15–16 forma oposição com quente e contraste com morno na crítica à comunidade."
@@ -7284,7 +7276,7 @@
           "definition": "Quente; em 3:15–16 integra metáfora térmica, sem determinar sozinho interpretação sobre águas locais.",
           "examples": [
             {
-              "reference": "Apocalipse 3:15",
+              "reference": "Ap 3:15",
               "greek": "οὔτε ζεστός. ὄφελον",
               "translation": "quente",
               "explanation": "Quente; em 3:15–16 integra metáfora térmica, sem determinar sozinho interpretação sobre águas locais."
@@ -7305,7 +7297,7 @@
           "definition": "Partícula de desejo «quem dera»; em 3:15 introduz desejo irreal acompanhado de ἦς.",
           "examples": [
             {
-              "reference": "Apocalipse 3:15",
+              "reference": "Ap 3:15",
               "greek": "ζεστός. ὄφελον ψυχρὸς",
               "translation": "quem dera",
               "explanation": "Partícula de desejo «quem dera»; em 3:15 introduz desejo irreal acompanhado de ἦς."
@@ -7326,7 +7318,7 @@
           "definition": "Conjunção alternativa «ou»; em 3:15–16 coordena os adjetivos opostos.",
           "examples": [
             {
-              "reference": "Apocalipse 3:15",
+              "reference": "Ap 3:15",
               "greek": "ἦς ἢ ζεστός.",
               "translation": "ou",
               "explanation": "Conjunção alternativa «ou»; em 3:15–16 coordena os adjetivos opostos."
@@ -7347,7 +7339,7 @@
           "definition": "Morno; em 3:16 é condição reprovada na imagem de temperatura.",
           "examples": [
             {
-              "reference": "Apocalipse 3:16",
+              "reference": "Ap 3:16",
               "greek": "ὅτι χλιαρὸς εἶ",
               "translation": "morno",
               "explanation": "Morno; em 3:16 é condição reprovada na imagem de temperatura."
@@ -7368,7 +7360,7 @@
           "definition": "Vomitar; em 3:16 o infinitivo apresenta a imagem de rejeição, não ação literal clínica.",
           "examples": [
             {
-              "reference": "Apocalipse 3:16",
+              "reference": "Ap 3:16",
               "greek": "σε ἐμέσαι ἐκ",
               "translation": "vomitar",
               "explanation": "Vomitar; em 3:16 o infinitivo apresenta a imagem de rejeição, não ação literal clínica."
@@ -7389,7 +7381,7 @@
           "definition": "Ser rico ou enriquecer; em 3:17 a autodescrição econômica contrasta com o juízo espiritual do locutor.",
           "examples": [
             {
-              "reference": "Apocalipse 3:17",
+              "reference": "Ap 3:17",
               "greek": "καὶ πεπλούτηκα καὶ",
               "translation": "enriquecer",
               "explanation": "Ser rico ou enriquecer; em 3:17 a autodescrição econômica contrasta com o juízo espiritual do locutor."
@@ -7410,7 +7402,7 @@
           "definition": "Necessidade, carência; em 3:17 a locução de ausência de necessidade expressa autossuficiência.",
           "examples": [
             {
-              "reference": "Apocalipse 3:17",
+              "reference": "Ap 3:17",
               "greek": "οὐδὲν χρείαν ἔχω,",
               "translation": "necessidade",
               "explanation": "Necessidade, carência; em 3:17 a locução de ausência de necessidade expressa autossuficiência."
@@ -7431,7 +7423,7 @@
           "definition": "Infeliz ou desventurado; em 3:17 qualifica a real condição espiritual da comunidade.",
           "examples": [
             {
-              "reference": "Apocalipse 3:17",
+              "reference": "Ap 3:17",
               "greek": "ὁ ταλαίπωρος καὶ",
               "translation": "infeliz",
               "explanation": "Infeliz ou desventurado; em 3:17 qualifica a real condição espiritual da comunidade."
@@ -7452,7 +7444,7 @@
           "definition": "Digno de pena, miserável; junto dos demais qualificativos em 3:17 evidencia miséria não reconhecida.",
           "examples": [
             {
-              "reference": "Apocalipse 3:17",
+              "reference": "Ap 3:17",
               "greek": "καὶ ἐλεεινὸς καὶ",
               "translation": "miserável",
               "explanation": "Digno de pena, miserável; junto dos demais qualificativos em 3:17 evidencia miséria não reconhecida."
@@ -7473,7 +7465,7 @@
           "definition": "Pobre, necessitado; em 3:17 faz contraste direto com a reivindicação de riqueza.",
           "examples": [
             {
-              "reference": "Apocalipse 3:17",
+              "reference": "Ap 3:17",
               "greek": "καὶ πτωχὸς καὶ",
               "translation": "pobre",
               "explanation": "Pobre, necessitado; em 3:17 faz contraste direto com a reivindicação de riqueza."
@@ -7494,7 +7486,7 @@
           "definition": "Cego; metáfora espiritual em 3:17–18 ligada à necessidade de colírio.",
           "examples": [
             {
-              "reference": "Apocalipse 3:17",
+              "reference": "Ap 3:17",
               "greek": "καὶ τυφλὸς καὶ",
               "translation": "cego",
               "explanation": "Cego; metáfora espiritual em 3:17–18 ligada à necessidade de colírio."
@@ -7515,7 +7507,7 @@
           "definition": "Nu, sem roupa; em 3:17–18 simboliza exposição e vergonha.",
           "examples": [
             {
-              "reference": "Apocalipse 3:17",
+              "reference": "Ap 3:17",
               "greek": "καὶ γυμνός,",
               "translation": "nu",
               "explanation": "Nu, sem roupa; em 3:17–18 simboliza exposição e vergonha."
@@ -7536,7 +7528,7 @@
           "definition": "Aconselhar; em 3:18 rege os infinitivos que enunciam as medidas propostas.",
           "examples": [
             {
-              "reference": "Apocalipse 3:18",
+              "reference": "Ap 3:18",
               "greek": "συμβουλεύω σοι",
               "translation": "aconselhar",
               "explanation": "Aconselhar; em 3:18 rege os infinitivos que enunciam as medidas propostas."
@@ -7557,7 +7549,7 @@
           "definition": "Comprar ou adquirir; em 3:18 integra a metáfora comercial de obter ouro, roupas e colírio de Cristo.",
           "examples": [
             {
-              "reference": "Apocalipse 3:18",
+              "reference": "Ap 3:18",
               "greek": "σοι ἀγοράσαι παρ’",
               "translation": "comprar",
               "explanation": "Comprar ou adquirir; em 3:18 integra a metáfora comercial de obter ouro, roupas e colírio de Cristo."
@@ -7578,7 +7570,7 @@
           "definition": "Ouro, metal precioso; em 3:18 é refinado pelo fogo como imagem de riqueza autêntica.",
           "examples": [
             {
-              "reference": "Apocalipse 3:18",
+              "reference": "Ap 3:18",
               "greek": "ἐμοῦ χρυσίον πεπυρωμένον",
               "translation": "ouro",
               "explanation": "Ouro, metal precioso; em 3:18 é refinado pelo fogo como imagem de riqueza autêntica."
@@ -7599,7 +7591,7 @@
           "definition": "Tornar manifesto ou revelar; em 3:18 está relacionado à exposição da vergonha da nudez.",
           "examples": [
             {
-              "reference": "Apocalipse 3:18",
+              "reference": "Ap 3:18",
               "greek": "μὴ φανερωθῇ ἡ",
               "translation": "manifestar",
               "explanation": "Tornar manifesto ou revelar; em 3:18 está relacionado à exposição da vergonha da nudez."
@@ -7620,7 +7612,7 @@
           "definition": "Vergonha, desonra; em 3:18 se associa à nudez que as vestes devem cobrir.",
           "examples": [
             {
-              "reference": "Apocalipse 3:18",
+              "reference": "Ap 3:18",
               "greek": "ἡ αἰσχύνη τῆς",
               "translation": "vergonha",
               "explanation": "Vergonha, desonra; em 3:18 se associa à nudez que as vestes devem cobrir."
@@ -7641,7 +7633,7 @@
           "definition": "Nudez; em 3:18 determina a vergonha exposta, em continuidade ao qualificativo γυμνός.",
           "examples": [
             {
-              "reference": "Apocalipse 3:18",
+              "reference": "Ap 3:18",
               "greek": "τῆς γυμνότητός σου,",
               "translation": "nudez",
               "explanation": "Nudez; em 3:18 determina a vergonha exposta, em continuidade ao qualificativo γυμνός."
@@ -7662,7 +7654,7 @@
           "definition": "Colírio ou preparação medicinal aplicada aos olhos; em 3:18 é imagem de restauração da visão.",
           "examples": [
             {
-              "reference": "Apocalipse 3:18",
+              "reference": "Ap 3:18",
               "greek": "καὶ κολλούριον ἐγχρῖσαι",
               "translation": "colírio",
               "explanation": "Colírio ou preparação medicinal aplicada aos olhos; em 3:18 é imagem de restauração da visão."
@@ -7683,7 +7675,7 @@
           "definition": "Ungir ou aplicar substância sobre; em 3:18 tem olhos como objeto do colírio.",
           "examples": [
             {
-              "reference": "Apocalipse 3:18",
+              "reference": "Ap 3:18",
               "greek": "κολλούριον ἐγχρῖσαι τοὺς",
               "translation": "ungir; aplicar",
               "explanation": "Ungir ou aplicar substância sobre; em 3:18 tem olhos como objeto do colírio."
@@ -7704,7 +7696,7 @@
           "definition": "Amar ou ter afeição; em 3:19 o amor fundamenta a repreensão e a disciplina.",
           "examples": [
             {
-              "reference": "Apocalipse 3:19",
+              "reference": "Ap 3:19",
               "greek": "ἐὰν φιλῶ ἐλέγχω",
               "translation": "amar",
               "explanation": "Amar ou ter afeição; em 3:19 o amor fundamenta a repreensão e a disciplina."
@@ -7725,7 +7717,7 @@
           "definition": "Repreender, demonstrar erro ou corrigir; em 3:19 descreve uma ação de Cristo para com os amados.",
           "examples": [
             {
-              "reference": "Apocalipse 3:19",
+              "reference": "Ap 3:19",
               "greek": "φιλῶ ἐλέγχω καὶ",
               "translation": "repreender",
               "explanation": "Repreender, demonstrar erro ou corrigir; em 3:19 descreve uma ação de Cristo para com os amados."
@@ -7746,7 +7738,7 @@
           "definition": "Educar, disciplinar ou corrigir; em 3:19 está coordenado com ἐλέγχω, mas não é seu sinônimo exato.",
           "examples": [
             {
-              "reference": "Apocalipse 3:19",
+              "reference": "Ap 3:19",
               "greek": "καὶ παιδεύω· ζήλευε",
               "translation": "disciplinar",
               "explanation": "Educar, disciplinar ou corrigir; em 3:19 está coordenado com ἐλέγχω, mas não é seu sinônimo exato."
@@ -7767,7 +7759,7 @@
           "definition": "Ser zeloso ou empenhar-se com fervor; o imperativo ζήλευε em 3:19 é presente ativo, correspondente ao índice Strong G2206 associado à variante lexical ζηλόω.",
           "examples": [
             {
-              "reference": "Apocalipse 3:19",
+              "reference": "Ap 3:19",
               "greek": "παιδεύω· ζήλευε οὖν",
               "translation": "ser zeloso",
               "explanation": "Ser zeloso ou empenhar-se com fervor; o imperativo ζήλευε em 3:19 é presente ativo, correspondente ao índice Strong G2206 associado à variante lexical ζηλόω."
@@ -7788,7 +7780,7 @@
           "definition": "Estar colocado ou permanecer de pé; o perfeito ἕστηκα em 3:20 apresenta estado presente à porta.",
           "examples": [
             {
-              "reference": "Apocalipse 3:20",
+              "reference": "Ap 3:20",
               "greek": "ἰδοὺ ἕστηκα ἐπὶ",
               "translation": "estar de pé",
               "explanation": "Estar colocado ou permanecer de pé; o perfeito ἕστηκα em 3:20 apresenta estado presente à porta."
@@ -7809,7 +7801,7 @@
           "definition": "Bater à porta; o presente κρούω em 3:20 marca a ação de chamar por abertura.",
           "examples": [
             {
-              "reference": "Apocalipse 3:20",
+              "reference": "Ap 3:20",
               "greek": "καὶ κρούω· ἐάν",
               "translation": "bater",
               "explanation": "Bater à porta; o presente κρούω em 3:20 marca a ação de chamar por abertura."
@@ -7830,7 +7822,7 @@
           "definition": "Pronome indefinido alguém/qualquer pessoa; em 3:20 individualiza o convite condicional.",
           "examples": [
             {
-              "reference": "Apocalipse 3:20",
+              "reference": "Ap 3:20",
               "greek": "ἐάν τις ἀκούσῃ",
               "translation": "alguém",
               "explanation": "Pronome indefinido alguém/qualquer pessoa; em 3:20 individualiza o convite condicional."
@@ -7851,7 +7843,7 @@
           "definition": "Entrar; em 3:20 integra a promessa de ingresso e convivência do locutor.",
           "examples": [
             {
-              "reference": "Apocalipse 3:20",
+              "reference": "Ap 3:20",
               "greek": "καὶ εἰσελεύσομαι πρὸς",
               "translation": "entrar",
               "explanation": "Entrar; em 3:20 integra a promessa de ingresso e convivência do locutor."
@@ -7872,7 +7864,7 @@
           "definition": "Cear ou compartilhar refeição; em 3:20 indica comunhão de mesa e acolhimento.",
           "examples": [
             {
-              "reference": "Apocalipse 3:20",
+              "reference": "Ap 3:20",
               "greek": "καὶ δειπνήσω μετ’",
               "translation": "cear",
               "explanation": "Cear ou compartilhar refeição; em 3:20 indica comunhão de mesa e acolhimento."
@@ -7893,7 +7885,7 @@
           "definition": "Sentar-se, tomar assento; em 3:21 pertence à promessa de participação no trono.",
           "examples": [
             {
-              "reference": "Apocalipse 3:21",
+              "reference": "Ap 3:21",
               "greek": "αὐτῷ καθίσαι μετ’",
               "translation": "sentar-se",
               "explanation": "Sentar-se, tomar assento; em 3:21 pertence à promessa de participação no trono."

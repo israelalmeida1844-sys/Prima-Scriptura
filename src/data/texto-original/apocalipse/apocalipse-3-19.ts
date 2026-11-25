@@ -42,7 +42,7 @@ export const apocalipse3v19 = {
       "shortMorph": "RR ----APM-",
       "greek": "ὅσους",
       "transliteration": "hosous",
-      "gloss": "Tudo quanto, todas as coisas que",
+      "gloss": "Tudo quanto todas as coisas que",
       "strong": "G3745",
       "lemma": "ὅσος",
       "lemmaTransliteration": "hosos",

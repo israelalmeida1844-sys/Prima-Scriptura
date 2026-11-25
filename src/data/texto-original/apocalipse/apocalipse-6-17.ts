@@ -262,7 +262,7 @@ export const apocalipse6v17 = {
       "shortMorph": "RI-NSM",
       "greek": "τίς",
       "transliteration": "tis",
-      "gloss": "quem?",
+      "gloss": "quem",
       "strong": "G5101",
       "lemma": "τίς",
       "lemmaTransliteration": "tis",

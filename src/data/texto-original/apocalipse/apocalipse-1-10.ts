@@ -308,7 +308,7 @@ export const apocalipse1v10 = {
       "shortMorph": "Adj-ASF",
       "greek": "μεγάλην",
       "transliteration": "megalēn",
-      "gloss": "grande",
+      "gloss": "alta",
       "strong": "G3173",
       "lemma": "μέγας",
       "lemmaTransliteration": "megas",
