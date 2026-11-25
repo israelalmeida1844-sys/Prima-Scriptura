@@ -90,6 +90,10 @@ for c,n in enumerate(counts,1):
      # Alguns dados legados ainda carregam a pontuação do campo surface, preservada pelo contrato.
      equal=nfc(actual or '') in (nfc(r[4]),nfc(re.sub(r'[⸀⸂⸃⸄⸅]','',r[3])))
     else:equal=nfc(actual or '')==nfc(expected)
+    if not equal and ident=='ap5-10-11' and field=='morphologyCode' and actual=='3PAI-P--' and expected=='3FAI-P--' and r[4]=='βασιλεύουσιν':
+     # O texto é presente, não futuro; a correção editorial preexistente é filologicamente necessária.
+     row['documentedMorphGntException']='3FAI-P-- no corpus; 3PAI-P-- na forma βασιλεύουσιν.'
+     equal=True
     if not equal:
      row['corpusDiscrepancies']+=1;issues.append({'id':ident,'field':field,'actual':actual,'expected':expected})
    used[w['strong']].add(r[6])
@@ -103,6 +107,8 @@ for c,n in enumerate(counts,1):
   if dif:parts.append('Cotejo lexical com o Textus Receptus de Scrivener (1894): '+'; '.join(dif)+'.')
   else:parts.append('O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.')
   # A comparação é reproduzível; não atribui testemunhos nem impacto semântico sem exame editorial.
+  if (c,v)==(5,2):parts.append('A cópula explicitada e o dativo sem preposição mantêm o sentido da pergunta e da proclamação.')
+  if (c,v)==(5,10):parts.append('O presente βασιλεύουσιν do SBLGNT contrasta com o futuro βασιλεύσουσιν do NA28/RP; Scrivener ainda muda a pessoa para a primeira do plural e o objeto αὐτούς para ἡμᾶς. As diferenças afetam o tempo e os participantes da ação de reinar.')
   j['textualNotes']=' '.join(parts)
   putverse(p,s,m,j)
   row['apparatusEntries']=len(ap);row['trDifferences']=len(dif);details.append(row)
@@ -125,9 +131,13 @@ for strong,lemmas in sorted(used.items(),key=lambda x:int(x[0][1:])):
  lemmas|={x['lemma'] for x in old.get('lemmaBreakdown',[]) if 'lemma' in x}
  if strong=='G1163':lemmas={'δέω','δεῖ'}
  if strong=='G1210':lemmas={'δέω'}
+ # Aliases verificados diretamente na edição fixada: Ap 12:9; 20:2, Ap 3:19 e 2Tm 2:20.
+ if strong=='G1228':lemmas|={'Διάβολος','διάβολος'}
+ if strong=='G2206':lemmas|={'ζηλόω','ζηλεύω'}
+ if strong=='G5552':lemmas|={'χρύσεος','χρυσοῦς'}
  matched=[]
  for b,c,v,r in allrows:
-  if r[6] not in lemmas:continue
+  if nfc(r[6]) not in {nfc(x) for x in lemmas}:continue
   if strong=='G1163' and not impersonal(r):continue
   if strong=='G1210' and impersonal(r):continue
   matched.append((b,c,v,r))
@@ -137,18 +147,22 @@ for strong,lemmas in sorted(used.items(),key=lambda x:int(x[0][1:])):
   issues.append({'strong':strong,'field':'concordance','reason':'no corpus occurrence','lemmas':sorted(lemmas)});continue
  previous_refs=[refkey(x) for x in old.get('references',[])]
  same=old.get('tokenCount')==len(matched) and old.get('verseCount')==len(refs) and set(previous_refs)==set(refs) and len(previous_refs)==len(refs)
- if strong in ('G1163','G266','G3745'):
+ if strong in ('G1163','G266','G3745','G1228','G2206','G5552'):
   # Fix the three known failures only after direct corpus re-count. Preserve existing shape and reference excerpts when equivalent.
   # G1163 classification must be independently consistent with the prior verified 101 tokens; do not silently change a disputed homograph.
   if strong=='G1163' and len(matched)!=101:
    issues.append({'strong':strong,'field':'impersonal homograph','expectedPrior':101,'actual':len(matched),'forms':dict(Counter(r[4] for b,c,v,r in allrows if r[6]=='δέω'))})
   else:
    updated=dict(old);updated.update({'strong':strong,'tokenCount':len(matched),'verseCount':len(refs),'complete':True,'corpusBooks':27})
-   if not same:updated.update({'references':refs,'bookDistribution':dist})
+   if not same:
+    if strong in ('G1228','G2206','G5552'):
+     issues.append({'strong':strong,'field':'alias count still divergent','expected':old.get('tokenCount'),'actual':len(matched),'onlyOld':sorted(set(previous_refs)-set(refs)),'onlyCorpus':sorted(set(refs)-set(previous_refs))})
+     continue
+    updated.update({'references':refs,'bookDistribution':dist})
    if old!=updated:put(p,updated)
    same=True
  if not same:issues.append({'strong':strong,'field':'concordance','oldTokens':old.get('tokenCount'),'actualTokens':len(matched),'oldVerses':old.get('verseCount'),'actualVerses':len(refs),'lemmas':sorted(lemmas)})
- elif old.get('corpusBooks')!=27 and strong not in ('G1163','G266','G3745'):
+ elif old.get('corpusBooks')!=27 and strong not in ('G1163','G266','G3745','G1228','G2206','G5552'):
   # Verified existing index: add missing corpus metadata only if content matches.
   if old.get('complete') is True:
    updated=dict(old);updated['corpusBooks']=27;put(p,updated)

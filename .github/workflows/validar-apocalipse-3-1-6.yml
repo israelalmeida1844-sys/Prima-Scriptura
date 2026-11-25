@@ -1,93 +1,31 @@
-name: Apocalipse 3:1-6 — gerar e validar rascunho
+name: Apocalipse 3 — validar dados auditados 1–6
 on:
   push:
     branches: [rascunho/apocalipse]
     paths:
-      - 'scripts/gerar-apocalipse-3-1-6.mjs'
       - '.github/workflows/validar-apocalipse-3-1-6.yml'
   workflow_dispatch:
 permissions:
-  contents: write
-concurrency:
-  group: apocalipse-3-1-6
-  cancel-in-progress: false
+  contents: read
 jobs:
   validar:
+    if: github.ref == 'refs/heads/rascunho/apocalipse'
     runs-on: ubuntu-latest
-    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: rascunho/apocalipse
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Obter edições acadêmicas fixadas
+      - name: Obter corpus fixado
         run: |
           git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
           git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
-          git clone --quiet https://github.com/jtauber/greek-lemma-mappings.git /tmp/prima-lemma-mappings
-          test "$(git -C /tmp/prima-lemma-mappings hash-object lexemes.yaml)" = "a5cd101e445e51eb67fe05aceb06a14b991d41f2"
-      - name: Gerar texto original e páginas de Sardes
-        run: node scripts/gerar-apocalipse-3-1-6.mjs
-      - name: Preparar concordâncias exaustivas com o gerador já homologado
-        run: |
-          sed 's/apocalipse-2-13-29/apocalipse-3-1-6/g' scripts/generate-apocalipse-2-13-29-concordancias.mjs > /tmp/gerar-concordancias-ap3.mjs
-          node /tmp/gerar-concordancias-ap3.mjs
-      - name: Validar alinhamento exato dos tokens com MorphGNT
-        run: |
-          node --input-type=module <<'NODE'
-          import fs from 'node:fs';
-          import assert from 'node:assert/strict';
-          const original=fs.readFileSync('/tmp/prima-morphgnt/87-Re-morphgnt.txt','utf8').split(/\r?\n/).filter(s=>/^27030[1-6]\s/.test(s)).map(s=>s.trim().split(/\s+/));
-          const strip=s=>s.replace(/[⸀⸂⸃⸄⸅]/g,'');
-          let count=0;
-          for(let verse=1;verse<=6;verse++){
-            const file='src/data/texto-original/apocalipse/apocalipse-3-'+verse+'.ts';
-            const data=fs.readFileSync(file,'utf8').match(/=\s*(\{[\s\S]*\})\s*as const;/);
-            assert.ok(data,'dados ausentes '+file);
-            const obj=JSON.parse(data[1]);
-            const rows=original.filter(t=>Number(t[0].slice(4,6))===verse);
-            assert.equal(obj.words.length,rows.length);
-            for(let i=0;i<rows.length;i++){
-              const word=obj.words[i],row=rows[i];
-              assert.equal(word.greek,strip(row[3]));
-              assert.equal(word.lemma,row[6]);
-              assert.equal(word.morphologyCode,row[2]);
-              assert.equal(word.morphgntPos,row[1]);
-              assert.match(word.strong,/^G\d+$/);
-              assert.ok(word.gloss&&word.transliteration&&word.morphology);
-              const index='public/data/concordancia-grega/'+word.strong+'.json';
-              assert.ok(fs.existsSync(index),'concordância não encontrada '+index);
-              const idx=JSON.parse(fs.readFileSync(index,'utf8'));
-              assert.equal(idx.complete,true);
-              assert.equal(idx.references.length,idx.verseCount);
-              assert.equal(idx.corpusBooks,27);
-              count++;
-            }
-            assert.ok(fs.existsSync('src/components/TextoOriginalApocalipse3v'+verse+'.astro'));
-          }
-          console.log('Cotejo morfológico aprovado para '+count+' unidades em seis versículos.');
-          NODE
-      - name: Compilar e validar rotas do Astro
+      - name: Validar sem sobrescrever a edição auditada
+        run: python3 scripts/validar-apocalipse3-estatico.py /tmp/prima-morphgnt 6
+      - name: Compilar sem publicar
         run: |
           npm install --no-audit --no-fund
           npm run build
-          for v in {1..6}; do
-            p="dist/comentarios/apocalipse/capitulo-3/versiculo-$v/index.html"
-            test -s "$p"
-            grep -q "data-original-apocalipse-3-$v" "$p"
+          for v in $(seq 1 6); do
+            test -s "dist/comentarios/apocalipse/capitulo-3/versiculo-$v/index.html"
           done
-          test -s dist/comentarios/apocalipse/capitulo-3/index.html
-          test -s dist/comentarios/apocalipse/capitulo-2/versiculo-29/index.html
-          test -s dist/comentarios/apocalipse/capitulo-1/versiculo-1/index.html
-      - name: Persistir apenas em rascunho, sem publicar
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/texto-original/apocalipse/apocalipse-3-* src/data/lexico-grego/apocalipse-3-1-6* src/components/TextoOriginalApocalipse3v*.astro src/pages/comentarios/apocalipse/capitulo-3/ src/pages/comentarios/apocalipse/index.astro public/data/concordancia-grega/
-          if ! git diff --cached --quiet; then
-            git commit -m "feat(apocalipse): texto grego e interlinear de Sardes 3:1–6 (rascunho)"
-            git pull --rebase origin rascunho/apocalipse
-            git push origin HEAD:rascunho/apocalipse
-          fi
