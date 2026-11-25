@@ -28,7 +28,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena a terceira fonte da saudação",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -52,7 +52,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição de procedência, rege Ἰησοῦ Χριστοῦ",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -76,7 +76,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento genitivo de ἀπό",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -100,7 +100,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Aposição genitiva a Ἰησοῦ",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -112,7 +112,7 @@ export const apocalipse1v5 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -125,7 +125,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de μάρτυς",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -149,7 +149,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Título apositivo no nominativo apesar do genitivo antecedente",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -173,7 +173,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo da posição atributiva de πιστός",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -197,7 +197,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Adjetivo atributivo de μάρτυς",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -222,7 +222,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de πρωτότοκος",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -246,7 +246,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Segundo título apositivo no nominativo",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -270,7 +270,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de νεκρῶν",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -281,7 +281,7 @@ export const apocalipse1v5 = {
       "shortMorph": "Adj-GPM",
       "greek": "νεκρῶν",
       "transliteration": "nekrōn",
-      "gloss": "morto",
+      "gloss": "mortos",
       "strong": "G3498",
       "lemma": "νεκρός",
       "lemmaTransliteration": "nekros",
@@ -294,7 +294,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo de relação com πρωτότοκος",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -318,7 +318,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena os títulos πρωτότοκος e ἄρχων",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -342,7 +342,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de ἄρχων",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -366,7 +366,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Terceiro título apositivo no nominativo",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -390,7 +390,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de βασιλέων",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -401,7 +401,7 @@ export const apocalipse1v5 = {
       "shortMorph": "N-GPM",
       "greek": "βασιλέων",
       "transliteration": "basileōn",
-      "gloss": "rei",
+      "gloss": "reis",
       "strong": "G935",
       "lemma": "βασιλεύς",
       "lemmaTransliteration": "basileus",
@@ -414,7 +414,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo de domínio de ἄρχων",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -438,7 +438,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de γῆς",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -462,7 +462,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo adnominal de βασιλέων",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -487,7 +487,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo dativo substantivador dos particípios da doxologia",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -511,7 +511,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio presente ativo dativo, destinatário da doxologia",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -535,7 +535,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Objeto direto de ἀγαπῶντι",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -559,7 +559,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena ἀγαπῶντι e λύσαντι",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -570,7 +570,7 @@ export const apocalipse1v5 = {
       "shortMorph": "V-AAP-DSM",
       "greek": "λύσαντι",
       "transliteration": "lysanti",
-      "gloss": "libertou",
+      "gloss": "que libertou",
       "strong": "G3089",
       "lemma": "λύω",
       "lemmaTransliteration": "lyō",
@@ -583,7 +583,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio aoristo ativo dativo, coordenado a ἀγαπῶντι",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -607,7 +607,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Objeto direto de λύσαντι",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -631,7 +631,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição de separação, rege ἁμαρτιῶν",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -655,7 +655,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de ἁμαρτιῶν",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -666,7 +666,7 @@ export const apocalipse1v5 = {
       "shortMorph": "N-GPF",
       "greek": "ἁμαρτιῶν",
       "transliteration": "hamartiōn",
-      "gloss": "pecado",
+      "gloss": "pecados",
       "strong": "G266",
       "lemma": "ἁμαρτία",
       "lemmaTransliteration": "hamartia",
@@ -679,7 +679,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento genitivo de ἐκ",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -690,7 +690,7 @@ export const apocalipse1v5 = {
       "shortMorph": "PPro-GP-",
       "greek": "ἡμῶν",
       "transliteration": "hēmōn",
-      "gloss": "nosso",
+      "gloss": "nossos",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -703,7 +703,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo possessivo de ἁμαρτιῶν",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -714,7 +714,7 @@ export const apocalipse1v5 = {
       "shortMorph": "Prep",
       "greek": "ἐν",
       "transliteration": "en",
-      "gloss": "em",
+      "gloss": "por",
       "strong": "G1722",
       "lemma": "ἐν",
       "lemmaTransliteration": "en",
@@ -727,7 +727,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição de meio, rege αἵματι",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -751,7 +751,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de αἵματι",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -775,7 +775,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento dativo de ἐν, meio da libertação",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -799,7 +799,7 @@ export const apocalipse1v5 = {
         "Ap 1:5"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo possessivo de αἵματι",
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
@@ -808,9 +808,12 @@ export const apocalipse1v5 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ μάρτυς ... nominativo após ἀπὸ Ἰησοῦ Χριστοῦ apresenta aposições formalmente dissonantes. λύσαντι significa libertar; λούσαντι, lavar, pertence a outra tradição textual e não pode substituir o lema do texto crítico."
+    "Após ἀπὸ Ἰησοῦ Χριστοῦ, os títulos ὁ μάρτυς, ὁ πρωτότοκος e ὁ ἄρχων aparecem em nominativo apositivo, em vez do genitivo esperado; a ruptura destaca a série de títulos.",
+    "τῷ ἀγαπῶντι e λύσαντι são particípios dativos coordenados, introduzindo a doxologia que prossegue em Ap 1:6. O presente ἀγαπῶντι e o aoristo λύσαντι distinguem a apresentação do amor e da ação libertadora.",
+    "ἐκ τῶν ἁμαρτιῶν indica separação, e ἐν τῷ αἵματι αὐτοῦ expressa o meio da libertação."
   ],
   "exegeticalNotes": [
-    "Os títulos «testemunha fiel», «primogênito dentre os mortos» e «soberano dos reis da terra» formam a apresentação cristológica. A leitura λύσαντι («libertou») orienta a imagem de libertação pelo sangue sem eliminar o debate textual com λούσαντι («lavou»)."
+    "Os títulos cristológicos ecoam Sl 89:27,37, ligando testemunho, primogenitura e soberania régia.",
+    "O amor e a libertação pelo sangue fundamentam a doxologia, que prossegue na constituição do povo como reino e sacerdotes em Ap 1:6."
   ]
 } as const;

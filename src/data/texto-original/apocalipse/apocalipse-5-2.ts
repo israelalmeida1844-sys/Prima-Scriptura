@@ -6,9 +6,9 @@ export const apocalipse5v2 = {
   "verse": 2,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Vi um anjo forte que proclamava em alta voz: Quem é digno de abrir o livro e romper os seus selos?",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
-  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "translation": "E vi um anjo forte que proclamava em alta voz: \"Quem é digno de abrir o rolo e romper os seus selos?\"",
+  "translationNote": "Tradução editorial em português a partir do SBLGNT; rolo representa o suporte documental descrito em Ap 5:1.",
+  "textualNotes": "O SBLGNT lê ἐν φωνῇ μεγάλῃ e Τίς ἄξιος, sem cópula. O Textus Receptus de Scrivener (1894) omite ἐν e acrescenta ἐστιν em Τίς ἐστιν ἄξιος. O dativo simples e a explicitação da cópula preservam o sentido. Comparação de edições: https://www.openbible.com/text/revelation/5-2.htm",
   "syntacticNotes": [
     "εἶδον é o verbo principal, com sujeito de primeira pessoa singular subentendido; ἄγγελον é o objeto direto, modificado por ἰσχυρόν e pelo particípio predicativo κηρύσσοντα.",
     "ἐν φωνῇ μεγάλῃ expressa o modo da proclamação. O adjetivo μεγάλῃ concorda com φωνῇ no dativo singular feminino.",
@@ -16,8 +16,9 @@ export const apocalipse5v2 = {
     "τὸ βιβλίον e τὰς σφραγῖδας são os objetos diretos dos respectivos infinitivos. O genitivo αὐτοῦ indica que os selos pertencem ao rolo."
   ],
   "exegeticalNotes": [
-    "A pergunta do anjo introduz o problema narrativo da dignidade necessária para abrir o rolo de 5:1. O poder vocal do mensageiro não equivale à autoridade para abrir o rolo.",
-    "A resposta desenvolve-se em 5:3–5 e culmina na apresentação do Cordeiro em 5:6–10. A identidade daquele que pode abrir os selos deve ser estabelecida por esse desenvolvimento narrativo, não apenas pelo significado lexical de ἄξιος."
+    "O rolo selado de Ap 5:1–2 evoca o documento escrito por dentro e por fora de Ez 2:9–10. O termo βιβλίον não identifica isoladamente um testamento; a imagem enfatiza a inacessibilidade do conteúdo sem autoridade para abri-lo.",
+    "O anjo forte (cf. Ap 10:1; 18:21) é um mensageiro de proclamação solene. Sua força não é apresentada como autorização para abrir o rolo.",
+    "A pergunta sobre dignidade prepara a resposta narrativa de Ap 5:3–10: a incapacidade das criaturas contrasta com a vitória e a morte sacrificial do Cordeiro."
   ],
   "words": [
     {
@@ -38,9 +39,9 @@ export const apocalipse5v2 = {
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Conector narrativo",
+        "role": "Conjunção coordenativa aditiva (encadeamento narrativo da visão)",
         "clauseId": "AP.5.2",
-        "governedBy": null
+        "governedBy": "coordena εἶδον à visão anterior"
       },
       "morphgntPos": "C-"
     },
@@ -314,14 +315,14 @@ export const apocalipse5v2 = {
       "shortMorph": "N-ASN",
       "greek": "βιβλίον",
       "transliteration": "biblion",
-      "gloss": "livro",
+      "gloss": "rolo",
       "strong": "G975",
       "lemma": "βιβλίον",
       "lemmaTransliteration": "biblion",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "livro; rolo",
+      "meanings": "Livro ou documento escrito; neste contexto, rolo selado.",
       "explanation": "Acusativo singular neutro; remete ao rolo descrito no versículo anterior.",
       "occurrencesExamples": [
         "Ap 5:2"
@@ -351,9 +352,9 @@ export const apocalipse5v2 = {
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Conector dos infinitivos coordenados",
+        "role": "Conjunção coordenativa aditiva (liga os infinitivos ἀνοῖξαι e λῦσαι)",
         "clauseId": "AP.5.2",
-        "governedBy": null
+        "governedBy": "coordena ἀνοῖξαι e λῦσαι"
       },
       "morphgntPos": "C-"
     },

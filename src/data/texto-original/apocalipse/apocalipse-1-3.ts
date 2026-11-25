@@ -7,7 +7,7 @@ export const apocalipse1v3 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Feliz aquele que lê e aqueles que ouvem as palavras desta profecia e guardam o que nela está escrito, pois o tempo está próximo.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "Na comparação entre SBLGNT e Scrivener (1881), a sequência de palavras coincide; diferenças de pontuação editorial não modificam o sentido. Esta comparação não equivale à colação de todas as testemunhas. Fonte: https://biblia.com/bible/scrmorph/revelation/1/3-6",
   "translationNote": "Tradução editorial; a bem-aventurança conjuga leitura pública, escuta e observância.",
   "words": [
     {
@@ -28,7 +28,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Predicativo da bem-aventurança",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -52,7 +52,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo substantivador de ἀναγινώσκων",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -76,7 +76,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio substantivado, primeiro sujeito da bem-aventurança",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -100,7 +100,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena leitor e ouvintes",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -124,7 +124,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo substantivador de ἀκούοντες",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -148,7 +148,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio substantivado, segundo sujeito da bem-aventurança",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -172,7 +172,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de λόγους",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -183,7 +183,7 @@ export const apocalipse1v3 = {
       "shortMorph": "N-APM",
       "greek": "λόγους",
       "transliteration": "logous",
-      "gloss": "palavra",
+      "gloss": "palavras",
       "strong": "G3056",
       "lemma": "λόγος",
       "lemmaTransliteration": "logos",
@@ -196,7 +196,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Objeto direto de ἀκούοντες",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -220,7 +220,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de προφητείας",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -244,7 +244,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo de conteúdo de λόγους",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -268,7 +268,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena ἀκούοντες e τηροῦντες",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -279,7 +279,7 @@ export const apocalipse1v3 = {
       "shortMorph": "V-PAP-NPM",
       "greek": "τηροῦντες",
       "transliteration": "tērountes",
-      "gloss": "guardam",
+      "gloss": "que guardam",
       "strong": "G5083",
       "lemma": "τηρέω",
       "lemmaTransliteration": "tēreō",
@@ -292,7 +292,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio coordenado que descreve os ouvintes",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -303,7 +303,7 @@ export const apocalipse1v3 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "os",
+      "gloss": "as coisas",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -316,7 +316,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo substantivador de γεγραμμένα",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -340,7 +340,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição de localização textual",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -351,7 +351,7 @@ export const apocalipse1v3 = {
       "shortMorph": "PPro-DSF",
       "greek": "αὐτῇ",
       "transliteration": "autēi",
-      "gloss": "a ela",
+      "gloss": "nela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -364,7 +364,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento dativo de ἐν, retoma προφητείας",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -388,7 +388,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio perfeito passivo substantivado, objeto de τηροῦντες",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -413,7 +413,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de καιρός",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -437,7 +437,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Conjunção explicativa da bem-aventurança",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -461,7 +461,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Sujeito da oração nominal causal",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -472,7 +472,7 @@ export const apocalipse1v3 = {
       "shortMorph": "Adv",
       "greek": "ἐγγύς",
       "transliteration": "engys",
-      "gloss": "perto",
+      "gloss": "próximo",
       "strong": "G1451",
       "lemma": "ἐγγύς",
       "lemmaTransliteration": "engys",
@@ -485,7 +485,7 @@ export const apocalipse1v3 = {
         "Ap 1:3"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Predicativo adverbial de proximidade",
         "clauseId": "AP.1.3.C1",
         "governedBy": null
       },
@@ -494,10 +494,12 @@ export const apocalipse1v3 = {
     }
   ],
   "syntacticNotes": [
-    "Texto-base SBLGNT 2010. Os particípios ἀναγινώσκων, ἀκούοντες e τηροῦντες são formas presentes ativas; γεγραμμένα é perfeito passivo. Não confundir marca de aparato ou pontuação editorial com variante lexical.",
-    "μακάριος inicia uma bem-aventurança; ὁ ἀναγινώσκων singular distingue o leitor público dos ouvintes plurais. τηροῦντες acrescenta resposta obediente, não mera audição."
+    "μακάριος é predicativo em oração nominal de bem-aventurança. O artigo singular ὁ substantiva ἀναγινώσκων, enquanto οἱ substantiva os particípios plurais ἀκούοντες e τηροῦντες; o contraste sugere leitura pública e ouvintes.",
+    "τὰ ἐν αὐτῇ γεγραμμένα é particípio perfeito passivo substantivado, objeto de τηροῦντες; o perfeito apresenta o conteúdo escrito como disponível e vigente.",
+    "ὁ γὰρ καιρὸς ἐγγύς é oração nominal com cópula elíptica; γάρ fundamenta a bem-aventurança na proximidade do tempo."
   ],
   "exegeticalNotes": [
-    "A primeira bem-aventurança associa leitura pública, audição comunitária e observância. O texto não equipara mera informação à fidelidade prática: os ouvintes também são chamados a guardar o que está escrito (Ap 1:3; 22:7)."
+    "A distinção singular/plural entre leitor e ouvintes situa a profecia no ambiente de leitura comunitária.",
+    "A bem-aventurança liga escuta e observância; o horizonte temporal confere urgência à resposta dos destinatários."
   ]
 } as const;

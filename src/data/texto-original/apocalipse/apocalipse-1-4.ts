@@ -7,7 +7,7 @@ export const apocalipse1v4 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "João, às sete igrejas que estão na Ásia: graça a vocês e paz, da parte daquele que é, que era e que vem, e da parte dos sete espíritos que estão diante do seu trono.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "O SBLGNT lê ἀπὸ ὁ ὢν; seu aparato registra a adição de θεοῦ na edição Robinson–Pierpont (ἀπὸ θεοῦ ὁ ὢν). A adição explicita Deus como fonte da saudação; o título no nominativo permanece. Fonte: https://www.biblegateway.com/passage/?search=Revelation+1%3A4&version=SBLGNT",
   "translationNote": "A fórmula divina permanece próxima da sintaxe original; «sete espíritos» não foi resolvido por paráfrase dogmática.",
   "words": [
     {
@@ -28,7 +28,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Remetente no nominativo epistolar",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -52,7 +52,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de ἐκκλησίαις",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -76,7 +76,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Numeral que quantifica ἐκκλησίαις",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -87,7 +87,7 @@ export const apocalipse1v4 = {
       "shortMorph": "N-DPF",
       "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
-      "gloss": "assembleia",
+      "gloss": "igrejas",
       "strong": "G1577",
       "lemma": "ἐκκλησία",
       "lemmaTransliteration": "ekklēsia",
@@ -100,7 +100,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Dativo dos destinatários",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -111,7 +111,7 @@ export const apocalipse1v4 = {
       "shortMorph": "Art-DPF",
       "greek": "ταῖς",
       "transliteration": "tais",
-      "gloss": "às",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -124,7 +124,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo da expressão atributiva ἐν τῇ Ἀσίᾳ",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -148,7 +148,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição de localização das igrejas",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -172,7 +172,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de Ἀσίᾳ",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -183,7 +183,7 @@ export const apocalipse1v4 = {
       "shortMorph": "N-DSF",
       "greek": "Ἀσίᾳ",
       "transliteration": "Asiai",
-      "gloss": "Ásia (província romana)",
+      "gloss": "Ásia",
       "strong": "G773",
       "lemma": "Ἀσία",
       "lemmaTransliteration": "Asia",
@@ -196,7 +196,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento locativo de ἐν",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -221,7 +221,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Primeiro núcleo nominal da saudação",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -245,7 +245,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Dativo de destinatário da saudação",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -269,7 +269,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena χάρις e εἰρήνη",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -293,7 +293,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Segundo núcleo nominal da saudação",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -317,7 +317,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição de procedência, seguida excepcionalmente de nominativo",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -341,7 +341,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo substantivador de ὢν",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -365,7 +365,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio presente substantivado no título divino",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -389,7 +389,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena as designações divinas",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -413,7 +413,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo que nominaliza a forma finita ἦν",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -437,7 +437,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Imperfeito indicativo integrado ao título divino",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -461,7 +461,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena a última designação divina",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -485,7 +485,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Artigo substantivador de ἐρχόμενος",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -509,7 +509,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Forma verbal da oração",
+        "role": "Particípio presente substantivado no título divino",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -534,7 +534,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Coordena as fontes da saudação",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -558,7 +558,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Preposição de procedência, rege πνευμάτων",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -582,7 +582,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de πνευμάτων",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -606,7 +606,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Numeral que quantifica πνευμάτων",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -617,7 +617,7 @@ export const apocalipse1v4 = {
       "shortMorph": "N-GPN",
       "greek": "πνευμάτων",
       "transliteration": "pneumatōn",
-      "gloss": "espírito",
+      "gloss": "espíritos",
       "strong": "G4151",
       "lemma": "πνεῦμα",
       "lemmaTransliteration": "pneuma",
@@ -630,7 +630,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento genitivo de ἀπό",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -654,7 +654,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Pronome relativo neutro plural, sujeito da relativa nominal",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -678,7 +678,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Relação preposicional",
+        "role": "Expressão preposicional de posição",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -702,7 +702,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante de θρόνου",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -726,7 +726,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Complemento genitivo de ἐνώπιον",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -750,7 +750,7 @@ export const apocalipse1v4 = {
         "Ap 1:4"
       ],
       "syntax": {
-        "role": "Elemento lexical no período",
+        "role": "Genitivo possessivo de θρόνου",
         "clauseId": "AP.1.4.C1",
         "governedBy": null
       },
@@ -759,10 +759,13 @@ export const apocalipse1v4 = {
     }
   ],
   "syntacticNotes": [
-    "Em ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, ἀπό normalmente exige genitivo, mas os artigos e particípios permanecem no nominativo. O efeito pode indicar uma designação divina fixa, associável a Êxodo 3:14; a intenção deliberada é hipótese interpretativa, não inferência obrigatória da forma. O imperfeito ἦν é verbo finito nominalizado pelo artigo.",
-    "A sequência ἀπὸ ὁ ὢν ... mantém formas nominativas após ἀπό; isso deve ser apresentado como irregularidade sintática ou fórmula nominal fixa, não corrigido por declinação editorial. A identidade dos sete espíritos demanda exegese de Ap 3:1; 4:5; 5:6."
+    "Ἰωάννης é nominativo de remetente; ταῖς ἑπτὰ ἐκκλησίαις é dativo de destinatário, especificado pela locução atributiva ταῖς ἐν τῇ Ἀσίᾳ.",
+    "Em ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, a preposição normalmente rege genitivo, mas a fórmula divina permanece no nominativo; ἦν é verbo finito nominalizado pelo artigo. A hipótese de título fixo explica a irregularidade sem exigir emenda ao grego.",
+    "ἃ ἐνώπιον τοῦ θρόνου αὐτοῦ é relativa nominal com cópula implícita, que localiza os sete espíritos diante do trono."
   ],
   "exegeticalNotes": [
-    "A saudação apresenta graça e paz e uma fórmula solene acerca daquele que é, era e vem. A identidade dos «sete espíritos» deve ser examinada pela conexão intratextual com Ap 3:1; 4:5 e 5:6; não se deve reduzir antecipadamente a expressão a uma só hipótese sem argumentação."
+    "A saudação às sete igrejas da província romana da Ásia anuncia o caráter comunitário e epistolar da obra.",
+    "A fórmula divina evoca Êx 3:14; a expressão temporal identifica Deus como aquele cuja existência e atuação transcendem o tempo.",
+    "Os sete espíritos reaparecem em Ap 3:1; 4:5 e 5:6, relações intratextuais indispensáveis à sua interpretação."
   ]
 } as const;
