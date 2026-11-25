@@ -126,6 +126,9 @@ const items=[
       }
       render(0);
     };
+    const initialTerm=new URLSearchParams(location.search).get("termo");
+    if(initialTerm){input.value=initialTerm;form.requestSubmit();}
+
   </script>
 </Base>
 <style>

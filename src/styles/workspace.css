@@ -65,3 +65,15 @@
 }
 .workspace[data-reading="true"] #pt-text p { cursor: pointer; }
 body:has(.reading-focus) > :is(.site-header,footer) { display: none; }
+#pt-text .verse-line { margin: .16rem 0; border: 1px solid transparent; border-radius: 6px; }
+#pt-text .verse-line > button { display: block; width: 100%; border: 0; text-align: start; background: transparent; font: inherit; padding: .15em .4em; }
+#pt-text .verse-line > button:hover { color: var(--ink); background: var(--panel); }
+#pt-text .verse-line.active-verse { border-color: var(--line); border-inline-start-color: var(--accent); }
+#pt-text .verse-line.marked-verse > button { box-shadow: inset 3px 0 var(--gold); }
+#verse-actions { padding: .58rem; border-top: 1px solid var(--line); font: .86rem/1.35 Inter,system-ui,sans-serif; }
+.verse-action-row { display: flex; flex-wrap: wrap; gap: .35rem; }
+.verse-action-row + .verse-action-row { margin-top: .45rem; }
+#verse-actions :is([aria-expanded="true"],[aria-pressed="true"],#inline-create) { color: var(--surface); background: var(--heading); border-color: var(--heading); }
+#verse-feedback:not(:empty) { margin-top: .45rem; color: var(--subtle); }
+#study-tool-content .context-current { padding-inline: .6rem; border-inline-start: 2px solid var(--accent); background: var(--panel); }
+.reading-focus #verse-actions { display: none; }

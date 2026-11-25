@@ -30,6 +30,26 @@ import { books, names } from "../data/livros";
       <div id="bible-reading">
         <div><p class="kicker"><a href="/interlinear-enrichment/CREDITOS.md">Bíblia Livre</a></p><h2 id="passage-title"></h2></div>
         <div id="pt-text" dir="ltr"></div>
+        <section id="verse-actions" aria-label="Ferramentas do versículo" hidden>
+          <div class="verse-action-row">
+            <button type="button" id="inline-tools" aria-expanded="true" aria-controls="verse-quick-actions">Ferramentas</button>
+            <button type="button" id="inline-original">Original</button>
+            <button type="button" id="inline-syntax">Sintaxe</button>
+            <button type="button" id="inline-compare">Comparar</button>
+            <button type="button" id="inline-cross">Cruzadas</button>
+            <button type="button" id="inline-literature">Literatura</button>
+            <button type="button" id="inline-context">Contexto</button>
+            <button type="button" id="inline-comment">Comentários</button>
+          </div>
+          <div id="verse-quick-actions" class="verse-action-row">
+            <button type="button" id="inline-create">Elaborar sermão</button>
+            <button type="button" id="inline-attach">Anexar ao sermão</button>
+            <button type="button" id="inline-mark" aria-pressed="false">Marcar</button>
+            <button type="button" id="inline-listen" aria-pressed="false">Ouvir</button>
+            <button type="button" id="inline-copy">Copiar</button>
+          </div>
+          <div id="verse-feedback" role="status"></div>
+        </section>
       </div>
       <div class="original-heading"><h2>Texto original</h2><button type="button" id="toggle-interlinear" aria-expanded={String(!reading)} aria-controls="words">{reading ? "Mostrar interlinear" : "Recolher interlinear"}</button></div>
       <section id="words" aria-label="Palavras do versículo" hidden={reading}></section>
@@ -69,6 +89,13 @@ const title = document.querySelector<HTMLElement>("#passage-title")!;
 const initial = new URLSearchParams(location.search);
 const chronology = document.querySelector<HTMLAnchorElement>("#tool-chronology")!;
 let originalsByTranslation = new Map<string,string>();
+const inlineActions=document.querySelector<HTMLElement>("#verse-actions")!;
+const inlineStatus=document.querySelector<HTMLElement>("#verse-feedback")!;
+let inlineOpen=false;
+let utterance:SpeechSynthesisUtterance|null=null;
+const marksKey="prima-scriptura-verse-marks-v1";
+let marks=new Set<string>();
+try { marks=new Set(JSON.parse(localStorage.getItem(marksKey)||"[]")); } catch {}
 const ptText=document.querySelector<HTMLElement>("#pt-text")!;
 async function optional(url:string){try{const r=await fetch(url);return r.ok?await r.json():{};}catch{return {};}}
 function options(el:HTMLSelectElement,values:string[]){el.replaceChildren(...values.map(v=>new Option(v,v)));}
@@ -237,6 +264,9 @@ function render(){
   const chapterEvent=bookEvents.find(event=>event.ref.split(":")[0]===chapter.value);
   chronology.href="/cronologia/"+(bookEvents.length?"?livro="+encodeURIComponent(book.value):"")+(chapterEvent?"#"+chapterEvent.id:"");
   chronology.textContent=bookEvents.length?"Cronologia relacionada":"Cronologia do Antigo Testamento";
+  if(utterance)stopListening();
+  inlineActions.hidden=true;
+  inlineStatus.textContent="";
   ptText.replaceChildren();
   strip.replaceChildren();
   for (const option of verse.options) {
@@ -249,13 +279,29 @@ function render(){
     button.onclick = () => { verse.value = option.value; render(); strip.querySelector<HTMLButtonElement>('[aria-pressed="true"]')?.focus({preventScroll:true}); };
     strip.append(button);
     if (reading && pt[ref]) {
-      const line = appendText(ptText, "p", "");
-      line.onclick=()=>{if(verse.value!==option.value){verse.value=option.value;render();}};
-      line.dataset.verse = option.value;
-      const marker = appendText(line, "sup", option.value);
-      marker.setAttribute("aria-hidden", "true");
+      const row=appendText(ptText,"div","");
+      row.className="verse-line";
+      const line=appendText(row,"button","") as HTMLButtonElement;
+      line.type="button";
+      line.dataset.verse=option.value;
+      line.setAttribute("aria-controls","verse-actions");
+      const expanded=option.selected && inlineOpen;
+      line.setAttribute("aria-expanded",String(expanded));
+      const marker=appendText(line,"sup",option.value);
       line.append(pt[ref]);
-      if (option.selected) line.classList.add("active-verse");
+      line.onclick=()=>{
+        inlineOpen=verse.value!==option.value || !inlineOpen;
+        verse.value=option.value;
+        render();
+        ptText.querySelector<HTMLButtonElement>('.active-verse button')?.focus({preventScroll:true});
+      };
+      row.classList.toggle("marked-verse",marks.has(book.value+" "+ref));
+      if(option.selected)row.classList.add("active-verse");
+      if(expanded){
+        row.append(inlineActions);
+        inlineActions.hidden=false;
+        document.querySelector("#inline-mark")!.setAttribute("aria-pressed",String(marks.has(book.value+" "+ref)));
+      }
     }
   }
   const active = strip.querySelector<HTMLElement>('[aria-pressed="true"]');
@@ -609,6 +655,115 @@ document.querySelector<HTMLButtonElement>("#tool-comment")!.onclick=()=>{toolMen
 document.querySelector<HTMLButtonElement>("#tool-exegesis")!.onclick=()=>{toolMenu.open=false;openPanel("exegesis");document.querySelector<HTMLButtonElement>("#exegesis-open")!.click();document.querySelector<HTMLElement>("#exegesis-panel")!.scrollIntoView({block:"start"});};
 
 document.querySelector<HTMLButtonElement>("#tool-criticism")!.onclick=()=>{openPanel("criticism");toolMenu.open=false;document.querySelector<HTMLButtonElement>("#criticism-open")!.click();};
+const inlineButton=(id:string)=>document.querySelector<HTMLButtonElement>("#inline-"+id)!;
+const showLink=(container:HTMLElement, label:string, href:string)=>{
+  const link=document.createElement("a");
+  link.textContent=label;
+  link.href=href;
+  container.append(link);
+  return link;
+};
+inlineButton("tools").onclick=()=>{
+  const quick=document.querySelector<HTMLElement>("#verse-quick-actions")!;
+  quick.hidden=!quick.hidden;
+  inlineButton("tools").setAttribute("aria-expanded",String(!quick.hidden));
+};
+inlineButton("original").onclick=()=>{
+  if(words.hidden)partToggle.click();
+  words.scrollIntoView({block:"start"});
+  (words.querySelector<HTMLButtonElement>("button") || partToggle).focus({preventScroll:true});
+};
+inlineButton("syntax").onclick=()=>{openPanel("syntax");void showSyntax();syntaxOpen.focus({preventScroll:true});};
+inlineButton("compare").onclick=()=>document.querySelector<HTMLButtonElement>("#tool-compare")!.click();
+inlineButton("comment").onclick=()=>{
+  document.querySelector<HTMLButtonElement>("#tool-comment")!.click();
+  document.querySelector<HTMLButtonElement>("#comment-open")!.click();
+};
+inlineButton("attach").onclick=()=>document.querySelector<HTMLButtonElement>("#tool-sermon")!.click();
+inlineButton("create").onclick=()=>{
+  const passage=currentReading();
+  if(!passage.text)return;
+  try{
+    const draft=newSermon(passage);
+    saveSermon(draft);
+    location.assign(editorUrl(draft.id));
+  }catch{inlineStatus.textContent="Não foi possível salvar o esboço neste navegador.";}
+};
+inlineButton("cross").onclick=()=>{
+  const passage=currentReading();
+  openTool("Referências cruzadas");
+  appendText(toolContent,"p",passage.name+" "+passage.ref+" · Consulta externa");
+  showLink(toolContent,"Consultar referências no OpenBible.info ↗","https://www.openbible.info/labs/cross-references/search?"+new URLSearchParams({q:passage.book+" "+passage.ref})).target="_blank";
+};
+inlineButton("literature").onclick=()=>{
+  const passage=currentReading();
+  openTool("Literatura de apoio");
+  appendText(toolContent,"p","Recursos bibliográficos para o estudo de "+passage.name+".");
+  showLink(appendText(toolContent,"p",""),"Pesquisar "+passage.name+" na biblioteca","/pesquisa/?"+new URLSearchParams({termo:passage.name}));
+  showLink(appendText(toolContent,"p",""),"Fontes dos comentários clássicos","/commentaries/CREDITOS.md");
+  showLink(appendText(toolContent,"p",""),"Fontes lexicais","/interlinear-lexicon/CREDITOS.md");
+};
+inlineButton("context").onclick=()=>{
+  const passage=currentReading();
+  openTool("Contexto · "+passage.name+" "+passage.ref);
+  const options=[...verse.options];
+  const index=verse.selectedIndex;
+  for(const option of options.slice(Math.max(0,index-3),index+4)){
+    const ref=chapter.value+":"+option.value;
+    const paragraph=appendText(toolContent,"p",option.value+" · "+pt[ref]);
+    paragraph.classList.toggle("context-current",option.selected);
+  }
+};
+inlineButton("mark").onclick=()=>{
+  const passage=currentReading();
+  const key=passage.book+" "+passage.ref;
+  const next=new Set(marks);
+  const marked=!next.has(key);
+  if(marked)next.add(key);else next.delete(key);
+  try{
+    localStorage.setItem(marksKey,JSON.stringify([...next]));
+    marks=next;
+    inlineButton("mark").setAttribute("aria-pressed",String(marked));
+    inlineActions.closest(".verse-line")?.classList.toggle("marked-verse",marked);
+    inlineStatus.textContent=marked?"Versículo marcado.":"Marcação removida.";
+  }catch{inlineStatus.textContent="Não foi possível salvar a marcação.";}
+};
+inlineButton("copy").onclick=async()=>{
+  const passage=currentReading();
+  const quote=passage.name+" "+passage.ref+" (Bíblia Livre)\n"+passage.text;
+  try{
+    await navigator.clipboard.writeText(quote);
+    if(currentReading().ref===passage.ref && book.value===passage.book)inlineStatus.textContent="Versículo copiado.";
+  }catch{
+    openTool("Copiar versículo");
+    const output=appendText(toolContent,"textarea","") as HTMLTextAreaElement;
+    output.value=quote;
+    output.readOnly=true;
+    output.rows=4;
+    output.setAttribute("aria-label","Texto do versículo");
+    output.select();
+  }
+};
+function stopListening(){
+  utterance=null;
+  speechSynthesis.cancel();
+  inlineButton("listen").setAttribute("aria-pressed","false");
+  inlineButton("listen").textContent="Ouvir";
+}
+inlineButton("listen").hidden=!("speechSynthesis" in window && "SpeechSynthesisUtterance" in window);
+inlineButton("listen").onclick=()=>{
+  if(utterance){stopListening();return;}
+  const speech=new SpeechSynthesisUtterance(currentReading().text);
+  speech.lang="pt-BR";
+  const voice=speechSynthesis.getVoices().find(item=>item.lang.toLowerCase().startsWith("pt"));
+  if(voice)speech.voice=voice;
+  speech.onend=()=>{if(utterance===speech)stopListening();};
+  speech.onerror=()=>{if(utterance===speech){stopListening();inlineStatus.textContent="A leitura em voz alta está indisponível neste dispositivo.";}};
+  utterance=speech;
+  inlineButton("listen").setAttribute("aria-pressed","true");
+  inlineButton("listen").textContent="Parar leitura";
+  speechSynthesis.speak(speech);
+};
 if(initial.has("sermao"))location.replace(editorUrl(activeSermon));
 const initialTerm=initial.get("termo");
 if(initialTerm && initialMode){field("query").value=initialTerm;searchForm.requestSubmit();}
