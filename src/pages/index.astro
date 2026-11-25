@@ -7,17 +7,39 @@ const livros = Array.from(new Set(comentarios.map(item => item.data.book))).map(
   const chapters = comentarios.filter(item => item.data.book === name);
   return { name, testament: chapters[0].data.testament, chapterCount: chapters.length, link: name === '1 João' ? '/comentarios/1-joao/' : name === 'Daniel' ? '/comentarios/daniel/' : name === 'Hebreus' ? '/comentarios/hebreus/' : '/comentarios/' + chapters[0].id + '/' };
 });
+const recursos = [
+  ['▤', 'Bíblia completa', 'Leia os 66 livros e navegue por capítulo e versículo.', '/biblia/'],
+  ['α', 'Bíblia interlinear', 'Consulte o texto original palavra por palavra.', '/interlinear-experimental/'],
+  ['¶', 'Comentários bíblicos', 'Consulte exposições e notas por passagem.', '/comentarios/'],
+  ['Aa', 'Dicionário e léxico', 'Encontre verbetes por lema ou índice Strong.', '/interlinear-experimental/?modo=lema#busca'],
+  ['⌕', 'Concordância bíblica', 'Localize ocorrências no corpus bíblico.', '/interlinear-experimental/#busca'],
+  ['◷', 'Cronologia bíblica', 'Percorra as eras do Antigo Testamento.', '/cronologia/'],
+  ['✧', 'Estudos temáticos', 'Explore os estudos da biblioteca por assunto.', '/estudos/'],
+  ['≡', 'Preparação de sermões', 'Reúna passagens para preparar seu esboço.', '/biblia/?sermao=1'],
+];
+
 ---
 <Base title="Estudos bíblicos e comentários">
-  <section class="hero">
-    <div class="wrap">
-      <div class="eyebrow">Biblioteca digital de estudos bíblicos</div>
-      <h1>Explore as Escrituras com profundidade.</h1>
-      <p>Comentários bíblicos, estudos temáticos e recursos para compreender o texto sagrado em seu contexto histórico, literário e teológico.</p>
-      <div class="actions"><a class="btn" href="/interlinear-experimental/">Interlinear completo e ferramentas</a><a class="btn" href="/comentarios/">Explorar comentários</a><a class="btn outline" href="/estudos/">Estudos temáticos</a></div>
+  <section class="home-hero">
+    <div class="wrap home-intro">
+      <div>
+        <div class="eyebrow">Biblioteca digital de estudos bíblicos</div>
+        <h1>Explore as Escrituras<br />com profundidade.</h1>
+        <p>Leia a Bíblia, consulte os idiomas originais e estude o contexto histórico e literário de cada passagem.</p>
+        <div class="actions"><a class="btn" href="/biblia/">Abrir a Bíblia <span aria-hidden="true">→</span></a><a class="btn outline" href="/pesquisa/">Pesquisar na biblioteca</a></div>
+      </div>
+      <img src="/images/1-joao-hero.webp" alt="Ilustração de João escrevendo sua epístola" fetchpriority="high" />
     </div>
   </section>
-  <section class="section">
+  <section class="section resources">
+    <div class="wrap">
+      <h2>Recursos de estudo</h2>
+      <div class="resource-grid">
+        {recursos.map(([icon,label,description,href]) => <a class="card resource" href={href}><span aria-hidden="true" class="resource-icon">{icon}</span><h3>{label}</h3><p>{description}</p><span class="resource-arrow" aria-hidden="true">→</span></a>)}
+      </div>
+    </div>
+  </section>
+  <section class="section soft">
     <div class="wrap">
       <div class="eyebrow">Biblioteca bíblica</div>
       <h2>Projetos de comentários bíblicos</h2>
@@ -61,3 +83,23 @@ const livros = Array.from(new Set(comentarios.map(item => item.data.book))).map(
     <div class="wrap"><h2>Pesquisar na biblioteca</h2><p>Encontre estudos por assunto, título, livro bíblico ou palavra-chave.</p><a class="btn" href="/pesquisa/">Abrir pesquisa</a></div>
   </section>
 </Base>
+
+<style>
+.home-hero { color: #f9f3e7; background: #102039; border-bottom: 3px solid #bc9a5e; }
+.home-intro { display: grid; grid-template-columns: 1.15fr .85fr; align-items: center; gap: 2rem; padding-block: clamp(2.7rem,7vw,6rem); }
+.home-intro h1 { font-size: clamp(2.65rem,6vw,4.8rem); color: #fff8eb; font-weight: 400; margin: .3em 0; line-height: .98; }
+.home-intro p { max-width: 42ch; color: #d8e0ec; }
+.home-intro img { width: 100%; height: clamp(210px,28vw,360px); object-fit: cover; border: 1px solid #b49a68; border-radius: 5px; }
+.home-intro .outline:hover { color: #f5d89a; }
+.resources h2 { font-size: clamp(2rem,3.5vw,2.8rem); margin: 0 0 .7em; }
+.resource-grid { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 1rem; }
+.resource { position: relative; display: block; min-height: 175px; padding: 1.1rem 1.2rem; }
+.resource:hover { border-color: var(--accent); }
+.resource h3 { margin: .55rem 0 .25rem; font-size: 1.35rem; }
+.resource p { margin: 0 0 1rem; font-size: .87rem; line-height: 1.5; }
+.resource-icon { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 5px; color: var(--accent); background: var(--panel); font: 1.2rem var(--serif); }
+.resource-arrow { position: absolute; right: 1rem; bottom: .5rem; color: var(--accent); }
+@media (max-width: 920px) { .resource-grid { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+@media (max-width: 650px) { .home-intro { grid-template-columns: 1fr; } .home-intro img { height: 170px; } }
+@media (max-width: 360px) { .resource-grid { grid-template-columns: 1fr; } }
+</style>

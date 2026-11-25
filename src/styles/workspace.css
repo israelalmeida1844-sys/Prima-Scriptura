@@ -1,0 +1,67 @@
+.workspace { padding-block: 2.3rem 4rem; }
+.workspace h1 { margin: 0; }
+.workspace h2 { font-size: 1.7rem; margin: .3rem 0 .65rem; }
+.workspace input[type="checkbox"] { width: auto; min-height: auto; }
+.workspace button:hover:not(:disabled), .workspace summary:hover { border-color: var(--accent); color: var(--accent); }
+.workspace-head, .reading-actions, .passage-controls, .verse-nav, .original-heading { display: flex; align-items: center; gap: .6rem; }
+.workspace-head, .original-heading { justify-content: space-between; flex-wrap: wrap; }
+.workspace-head .kicker { margin: 0; }
+.reading-actions { flex-wrap: wrap; }
+.passage-controls { flex-wrap: wrap; margin-block: 1.1rem .6rem; }
+.passage-controls label, #lex-search label { display: inline-grid; gap: .2rem; font-size: .9rem; max-width: 100%; }
+.verse-nav > button { flex: 0 0 44px; }
+#verse-strip { display: flex; gap: .35rem; overflow-x: auto; padding: .3rem; flex: 1; min-width: 0; }
+#verse-strip button { flex: 0 0 auto; min-width: 44px; }
+#verse-strip [aria-pressed="true"], #reading-focus[aria-pressed="true"] { background: var(--panel); border-color: var(--accent); color: var(--accent); }
+#status:empty { display:none; }
+.study-columns { display: grid; grid-template-columns: minmax(0,1fr) minmax(210px, .4fr); gap: 1rem; align-items: start; margin-top: 1.2rem; }
+.study-main, .study-aside, .search-panel { min-width: 0; }
+#bible-reading, .study-aside details, .search-panel { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 1rem; overflow-wrap: anywhere; }
+#bible-reading .kicker { margin: 0; }
+#pt-text { font: var(--reading-size,1.32rem)/1.68 var(--serif); }
+#pt-text p { margin: 0; padding: .18em .35em; }
+#pt-text .active-verse { background: var(--panel); border-inline-start: 2px solid var(--accent); }
+#pt-text sup { color: var(--accent); margin-inline-end: .5em; }
+.original-heading { margin-block: 1rem .35rem; }
+#words { display: flex; flex-wrap: wrap; gap: .55rem; }
+#words article { max-width: 100%; min-width: min(126px,100%); }
+#words .word-button { width: 100%; text-align: center; font-family: var(--serif); padding: .55rem; }
+#words .word-button span { display: block; overflow-wrap: anywhere; }
+#words .word-button span:first-child { font-size: calc(var(--reading-size,1.32rem) + .5rem); }
+#words .word-button span:last-child { color: var(--accent); }
+#words .search-selected { outline: 2px solid var(--accent); border-radius: 6px; }
+.study-aside { display: grid; gap: .55rem; }
+.workspace summary { cursor: pointer; padding: .6rem 0; min-height: 44px; font-weight: 650; }
+.study-aside details { padding: .15rem .8rem .35rem; }
+.verse-tools-menu { display: grid; gap: .35rem; padding-bottom: .45rem; }
+.verse-tools-menu button, .verse-tools-menu a { text-align: start; }
+.verse-tools-menu a { color: var(--accent); display: flex; align-items: center; min-height: 44px; padding-inline: .65rem; }
+.search-panel { margin-top: 1rem; }
+#lex-search label { margin: .35rem; }
+#lex-search fieldset { min-width: 0; border: 1px solid var(--line); margin: .5rem 0; }
+#search-features { display: flex; flex-wrap: wrap; }
+#search-chapter, #comment-chapter, #comment-verse { width: 5rem; }
+#hits, #search-pagination { display: flex; flex-wrap: wrap; gap: .4rem; }
+#hits button { text-align: start; overflow-wrap: anywhere; }
+#comment-content, #criticism-content, #exegesis-content, #syntax-content, #lex-content, #study-tool-content { font-family: var(--serif); }
+#syntax-content ul { padding-inline-start: clamp(.35rem,1vw,.85rem); border-inline-start: 1px solid var(--line); list-style: none; }
+#syntax-content button { white-space: normal; text-align: start; overflow-wrap: anywhere; }
+#syntax-content .syntax-selected { outline: 2px solid var(--accent); }
+.workspace :is(dialog,pre) { overflow-wrap: anywhere; }
+.workspace pre { white-space: pre-wrap; }
+.workspace dialog { width: min(720px,calc(100% - 2rem)); max-height: 85dvh; background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; }
+.workspace dialog::backdrop { background: #070f20af; }
+.workspace dialog form { display: flex; justify-content: end; }
+.workspace dialog textarea { width: 100%; }
+.workspace dialog button { margin: .15rem; }
+.workspace dialog article, .workspace .lex-entry, .commentary-entry { border-block-start: 1px solid var(--line); padding-block: .6rem; }
+.workspace a:not(.btn) { color: var(--accent); text-decoration: underline; }
+.reading-focus { max-width: 820px; }
+.reading-focus .study-columns { display: block; }
+.reading-focus :is(.study-aside,.search-panel,.original-heading,#words) { display: none; }
+@media (max-width: 760px) {
+  .study-columns { grid-template-columns: minmax(0,1fr); }
+  .workspace { padding-inline: 1rem; }
+}
+.workspace[data-reading="true"] #pt-text p { cursor: pointer; }
+body:has(.reading-focus) > :is(.site-header,footer) { display: none; }

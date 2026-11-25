@@ -9,6 +9,7 @@ const checks=[];
 try{
   await page.goto("http://127.0.0.1:4321/interlinear-experimental/");
   await page.locator("#words article").first().waitFor();
+  await page.locator("#syntax-panel > summary").click();
   await page.locator("#book").selectOption("Gen");
   await page.waitForFunction(()=>document.querySelector("#chapter").value==="1"&&document.querySelector("#verse").value==="1"&&document.querySelectorAll("#words article").length===7);
   await page.locator("#syntax-open").click();
@@ -17,7 +18,8 @@ try{
   assert.ok(await page.locator("#syntax-content strong").filter({hasText:"Objeto"}).count()>0);
   assert.ok(await page.locator("#syntax-content button").filter({hasText:"Sujeito"}).count()>0);
   checks.push("genesis_constituents");
-  await page.locator('#words article[data-token-index="1"]').getByRole("button",{name:"Sintaxe",exact:true}).click();
+  await page.locator('#words article[data-token-index="1"]').locator(".word-button").click();
+  await page.getByRole("button",{name:"Consultar sintaxe da palavra"}).click();
   await page.locator("#syntax-content h3").waitFor();
   assert.match(await page.locator("#syntax-content").innerText(),/Verbo \[v\]/);
   assert.ok(await page.locator(".syntax-selected").count()>0);checks.push("selected_word_path");

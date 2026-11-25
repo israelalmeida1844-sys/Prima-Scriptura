@@ -9,6 +9,7 @@ const checks=[];
 try{
  await page.goto("http://127.0.0.1:4321/interlinear-experimental/");
  await page.locator("#words article").first().waitFor();
+  await page.locator("#syntax-panel > summary").click();
  for(const reading of ["qere","greek_accent_only"]){
    const ex=report.examples[reading]?.[0];if(!ex)continue;
    await page.locator("#book").selectOption(ex.book);

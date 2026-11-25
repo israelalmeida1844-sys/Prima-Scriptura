@@ -1,0 +1,585 @@
+---
+import Base from "../layouts/Base.astro";
+import "../styles/workspace.css";
+const {reading = false} = Astro.props;
+import { books, names } from "../data/livros";
+---
+<Base title={reading ? "Bíblia completa" : "Bíblia interlinear"}>
+<div class="wrap workspace" data-reading={reading ? "true" : "false"}>
+  <div class="workspace-head">
+    <div><p class="kicker">Ambiente de estudo</p><h1>{reading ? "Bíblia completa" : "Bíblia interlinear"}</h1></div>
+    <div class="reading-actions">
+      <button type="button" id="font-down" aria-label="Diminuir fonte">A−</button>
+      <button type="button" id="font-up" aria-label="Aumentar fonte">A+</button>
+      <button type="button" id="reading-focus" aria-pressed="false">Modo foco</button>
+    </div>
+  </div>
+  <div class="passage-controls">
+    <label>Livro <select id="book">{books.map((b,i)=><option value={b} data-rtl={i<39?"yes":"no"}>{names[i]}</option>)}</select></label>
+    <label>Capítulo <select id="chapter"></select></label>
+    <label>Versículo <select id="verse"></select></label>
+  </div>
+  <div class="verse-nav">
+    <button id="prev-verse" type="button" aria-label="Versículo anterior">←</button>
+    <div id="verse-strip" role="group" aria-label="Selecionar versículo"></div>
+    <button id="next-verse" type="button" aria-label="Próximo versículo">→</button>
+  </div>
+  <p id="status" role="status"></p>
+  <div class="study-columns">
+    <div class="study-main">
+      <div id="bible-reading">
+        <div><p class="kicker"><a href="/interlinear-enrichment/CREDITOS.md">Bíblia Livre</a></p><h2 id="passage-title"></h2></div>
+        <div id="pt-text" dir="ltr"></div>
+      </div>
+      <div class="original-heading"><h2>Texto original</h2><button type="button" id="toggle-interlinear" aria-expanded={String(!reading)} aria-controls="words">{reading ? "Mostrar interlinear" : "Recolher interlinear"}</button></div>
+      <section id="words" aria-label="Palavras do versículo" hidden={reading}></section>
+    </div>
+    <aside class="study-aside" aria-label="Ferramentas acadêmicas">
+      <details id="verse-tools"><summary>Ferramentas</summary><div class="verse-tools-menu">
+        <button id="tool-sermon" type="button">Adicionar ao sermão</button>
+        <button id="view-sermon" type="button">Abrir esboço</button>
+        <button id="tool-compare" type="button">Comparação de traduções</button>
+        <button id="tool-comment" type="button">Comentários bíblicos</button>
+        <button id="tool-exegesis" type="button">Exegese</button>
+        <button id="tool-criticism" type="button">Crítica textual</button>
+        <a id="tool-chronology" href="/cronologia/">Cronologia bíblica</a>
+      </div></details>
+<dialog id="study-tool-dialog" aria-labelledby="study-tool-title"><form method="dialog"><button>Fechar</button></form><h2 id="study-tool-title"></h2><div id="study-tool-content"></div></dialog><details id="syntax-panel"><summary>Análise sintática</summary><h2 id="syntax-title">Análise sintática</h2><button id="syntax-open" type="button">Ver árvore sintática do versículo</button><div id="syntax-content" aria-live="polite"></div><p><a href="/interlinear-syntax/CREDITOS.md">Fontes e limites da análise sintática</a></p></details><details id="commentary-panel"><summary>Comentários bíblicos clássicos</summary><h2 id="commentary-title">Comentários bíblicos clássicos</h2><p>Obras históricas em inglês. A referência dos módulos é KJV; no Antigo Testamento a numeração pode divergir da do Texto Massorético. Confirme a referência antes de consultar.</p><label>Livro (KJV) <select id="comment-book">{books.map((b,i)=><option value={b}>{names[i]}</option>)}</select></label><label>Capítulo <input id="comment-chapter" type="number" min="1" value="1"/></label><label>Versículo <input id="comment-verse" type="number" min="0" value="1"/></label><button id="comment-copy" type="button">Copiar referência numérica do interlinear</button><label>Autor <select id="comment-author"><option value="">Comparar todos</option></select></label><label>Idioma <select id="comment-lang"><option value="en">Inglês original</option><option value="pt">Português (quando revisado)</option></select></label><button id="comment-open" type="button">Consultar comentários</button><div id="comment-content" aria-live="polite"></div><p><a href="https://www.sermonindex.net/commentary/poole/" rel="noopener">Matthew Poole — edição digital alternativa (consulta externa)</a> · <a href="https://bible.helloao.org/docs/reference/commentaries/" rel="noopener">John Gill — fonte externa em domínio público</a>. <a href="/commentaries/CREDITOS.md">Créditos e licenças</a></p></details><details id="exegesis-panel"><summary>Notas exegéticas</summary><h2>Notas exegéticas — Prima Scriptura</h2><button id="exegesis-open" type="button">Consultar notas editoriais</button><div id="exegesis-content" aria-live="polite"></div></details><details id="criticism-panel"><summary>Crítica textual</summary><h2>Nota de crítica textual</h2><button id="criticism-open" type="button">Consultar aparato e notas da fonte</button><div id="criticism-content" aria-live="polite"></div><p><a href="/textual-criticism/CREDITOS.md">Fontes e escopo</a></p></details></aside></div>
+<details id="busca" class="search-panel"><summary>Concordância e pesquisa no texto original</summary>
+<form id="lex-search"><h2>Concordância e pesquisa avançada</h2><label>Tipo de consulta <select id="search-mode"><option value="original">Palavra original</option><option value="lema">Lema / verbete lexical</option><option value="strong">Strong</option><option value="transliteracao">Transliteração</option><option value="glosa">Glosa contextual</option><option value="morfologia">Código morfológico</option></select></label><label>Termo <input id="query" /></label><label><input type="checkbox" id="search-loose" /> Ignorar diacríticos</label><label>Testamento <select id="search-testament"><option value="">Todos</option><option value="ot">Antigo</option><option value="nt">Novo</option></select></label><label>Livro <select id="search-book"><option value="">Todos</option>{books.map((b,i)=><option value={b}>{names[i]}</option>)}</select></label><label>Capítulo <input type="number" min="1" id="search-chapter" /></label><label>Idioma <select id="search-language"><option value="">Todos</option><option value="grc">Grego</option><option value="hbo">Hebraico</option><option value="arc">Aramaico</option></select></label><fieldset><legend>Características morfológicas (no mesmo componente)</legend><div id="search-features"></div></fieldset><button type="submit">Pesquisar</button><p>Busca por palavra ou glosa inteira. No hebraico e aramaico, o lema consulta os verbetes vinculados ao Strong, sem determinar a acepção contextual.</p></form><p id="search-status" role="status"></p><section id="hits" aria-label="Ocorrências"></section><div id="search-pagination" aria-label="Paginação"></div></details><details class="search-panel"><summary>Fontes e metodologia</summary><p>Glossas de fonte aberta: importadas e verificadas estruturalmente, alinhadas automaticamente ou pendentes. As verificações automáticas não equivalem à revisão semântica humana. <a href="/interlinear-enrichment/CREDITOS.md">Créditos e licenças</a>. <a href="/interlinear-strong-review/CREDITOS.md">Fontes dos índices Strong</a>. <a href="/interlinear-transliteration/CONVENCOES.md">Convenções e limites da transliteração</a>. <a href="/interlinear-morphology/METODOLOGIA.md">Metodologia morfológica</a>. <a href="/interlinear-lexicon/CREDITOS.md">Fontes lexicais</a>.</p></details><dialog id="lex-dialog" aria-labelledby="lex-title"><form method="dialog"><button>Fechar</button></form><h2 id="lex-title">Ficha lexical</h2><div id="lex-content"></div></dialog>
+<p>Fontes: <a href="https://github.com/morphgnt/sblgnt">MorphGNT / SBLGNT</a>; <a href="https://github.com/openscriptures/morphhb">Original work of the Open Scriptures Hebrew Bible</a>. Consulte as licenças originais.</p></div>
+<script>
+import { marcos } from "../data/cronologia";
+import { books as canon, helloAoBooks } from "../data/livros";
+type Token={text:string;lemma?:string;morph?:string;gloss_pt?:string;pos?:string};
+const book=document.querySelector<HTMLSelectElement>("#book")!,chapter=document.querySelector<HTMLSelectElement>("#chapter")!,verse=document.querySelector<HTMLSelectElement>("#verse")!,status=document.querySelector<HTMLElement>("#status")!,words=document.querySelector<HTMLElement>("#words")!;
+type Extra={gloss_pt?:string;strong?:string;source_flag?:string;gloss_status?:string;gloss_reason?:string}; type Match={source_ref:string|null;words:Extra[]};
+type StrongEntry={ids:string[];status:string;extended_ids?:string[];components?:{raw:string;id?:string;sense_suffix?:string}[]};
+let strongData:Record<string,StrongEntry[]>={};
+type Translit={value:string|null;status:string;language:string;flags:string[]};
+let translitData:Record<string,Translit[]>={};
+type MorphEntry={descricao:string|null;status:string;motivo?:string};
+let morphCatalog:Record<string,MorphEntry>={};
+let data:Record<string,Token[]>={}; let extra:Record<string,Match>={};let pt:Record<string,string>={}; let serial=0;
+const workspace = document.querySelector<HTMLElement>(".workspace")!;
+const reading = workspace.dataset.reading === "true";
+const strip = document.querySelector<HTMLElement>("#verse-strip")!;
+const title = document.querySelector<HTMLElement>("#passage-title")!;
+const initial = new URLSearchParams(location.search);
+const chronology = document.querySelector<HTMLAnchorElement>("#tool-chronology")!;
+let originalsByTranslation = new Map<string,string>();
+const ptText=document.querySelector<HTMLElement>("#pt-text")!;
+async function optional(url:string){try{const r=await fetch(url);return r.ok?await r.json():{};}catch{return {};}}
+function options(el:HTMLSelectElement,values:string[]){el.replaceChildren(...values.map(v=>new Option(v,v)));}
+type LexEntry={source_id:string;disambiguated_id:string;unique_id:string;headword:string;transliteration:string;lexical_morphology:string;gloss_en:string;definition_en:string;source_line:number};
+type LexCard={id:string;source:string;entries:LexEntry[];occurrence_count:number;observed_portuguese_glosses:{gloss:string;count:number}[]};
+const lexDialog=document.querySelector<HTMLDialogElement>("#lex-dialog")!,lexContent=document.querySelector<HTMLElement>("#lex-content")!;
+let lexSerial=0;
+const lexCache=new Map<string,Promise<any>>();
+async function lexShard(folder:string,key:string){
+  const digest=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(key));
+  const file=new Uint8Array(digest)[0].toString(16).padStart(2,"0");
+  const url="/interlinear-lexicon/"+folder+"/"+file+".json";
+  if(!lexCache.has(url))lexCache.set(url,optional(url));
+  return await lexCache.get(url);
+}
+function appendText(parent:HTMLElement,tag:string,value:string){const node=document.createElement(tag);node.textContent=value;node.dir="auto";parent.append(node);return node;}
+function occurrenceButtons(parent:HTMLElement,refs:[string,string,number][]){
+  const list=document.createElement("div");parent.append(list);let page=0;
+  function show(){list.replaceChildren();appendText(list,"p","Ocorrências "+(page*25+1)+"–"+Math.min((page+1)*25,refs.length)+" de "+refs.length);
+    for(const [b,ref,i] of refs.slice(page*25,page*25+25)){const btn=document.createElement("button");btn.type="button";btn.textContent=b+" "+ref+" · palavra "+(i+1);btn.onclick=async()=>{lexDialog.close();await goToOccurrence(b,ref,i);};list.append(btn);}
+    for(const [label,delta] of [["Anterior",-1],["Próxima",1]] as const){const btn=document.createElement("button");btn.type="button";btn.textContent=label;btn.disabled=page+delta<0||(page+delta)*25>=refs.length;btn.onclick=()=>{page+=delta;show();};list.append(btn);}
+  }if(refs.length)show();
+}
+async function openLex(token:Token,add:Extra|undefined,strong:StrongEntry|undefined, fields:HTMLElement[], index:number){
+  const serial=++lexSerial;lexContent.replaceChildren();if(!lexDialog.open)lexDialog.showModal();
+  appendText(lexContent,"h3",token.text);appendText(lexContent,"p","Lema / código da fonte: "+(token.lemma||"Não disponível"));
+  appendText(lexContent,"p","Glosa contextual em português: "+(add?.gloss_pt||"Não disponível"));
+  appendText(lexContent,"p","Estado da associação Strong: "+(strong?.status||"Pendente"));
+  if(strong?.components?.length)appendText(lexContent,"p","Componentes OSHB: "+strong.components.map(c=>c.raw).join(" / "));
+  const morphology = document.createElement("details");
+  appendText(morphology,"summary","Morfologia e origem dos dados");
+  for (const field of fields) morphology.append(field.cloneNode(true));
+  lexContent.append(morphology);
+  const syntax = document.createElement("button");
+  syntax.type = "button";
+  syntax.textContent = "Consultar sintaxe da palavra";
+  syntax.onclick=()=>{lexDialog.close();openPanel("syntax");showSyntax(index);};
+  lexContent.append(syntax);
+  const wait=appendText(lexContent,"p","Carregando léxico…");
+  try{
+    const ids=strong?.ids||[];const cards=await Promise.all(ids.map(async id=>(await lexShard("cards",id.toLowerCase()))[id] as LexCard|undefined));
+    const lemmaKey=token.pos&&token.lemma?"grc:"+token.lemma.trim().toLowerCase().normalize("NFC"):null;
+    const lemmaRefs=lemmaKey?(await lexShard("lemas",lemmaKey))[lemmaKey]:null;
+    if(serial!==lexSerial||!lexDialog.open)return;wait.remove();
+    if(!ids.length)appendText(lexContent,"p","Nenhum número clássico atribuído nesta auditoria. Não há definição inferida.");
+    if(lemmaKey&&Array.isArray(lemmaRefs)){const section=document.createElement("details");appendText(section,"summary","Concordância exata do lema grego: "+lemmaRefs.length+" unidades");occurrenceButtons(section,lemmaRefs);lexContent.append(section);}
+    for(const [i,card] of cards.entries()){
+      if(!card){appendText(lexContent,"p","Ficha indisponível para "+ids[i]);continue;}
+      appendText(lexContent,"h3",card.id+" · "+card.source+" — STEP Bible");
+      appendText(lexContent,"p","Ocorrências no corpus deste projeto por índice: "+card.occurrence_count);
+      appendText(lexContent,"p","Aceções registradas pela fonte (inglês original). Não indicam automaticamente o sentido deste versículo.");
+      for(const e of card.entries){const section=document.createElement("section");section.className="lex-entry";
+        appendText(section,"h4",e.headword+" · "+e.transliteration);
+        appendText(section,"p","Identificadores da fonte: "+[e.source_id,e.disambiguated_id,e.unique_id].filter(Boolean).join(" / "));
+        appendText(section,"p","Morfologia lexical da fonte: "+e.lexical_morphology);
+        appendText(section,"p","Glosa lexical (EN): "+e.gloss_en);
+        appendText(section,"p",e.definition_en);
+        appendText(section,"small","STEP Bible · "+card.source+" · linha "+e.source_line+" · CC BY 4.0");
+        lexContent.append(section);
+      }
+      appendText(lexContent,"p","Glosas contextuais portuguesas observadas (até 30 mais frequentes; não são definições lexicais): "+card.observed_portuguese_glosses.map(g=>g.gloss+" ("+g.count+")").join("; "));
+      const btn=document.createElement("button");btn.type="button";btn.textContent="Pesquisar todas as ocorrências de "+card.id;
+      btn.onclick=()=>{lexDialog.close();searchPanel.open=true;searchPanel.scrollIntoView({block:"start"});document.querySelector<HTMLSelectElement>("#search-mode")!.value="strong";document.querySelector<HTMLInputElement>("#query")!.value=card.id;document.querySelector<HTMLFormElement>("#lex-search")!.requestSubmit();};lexContent.append(btn);
+    }
+  }catch{if(serial===lexSerial)wait.textContent="Não foi possível recuperar a ficha lexical.";}
+}
+type SynNode={kind:"wg"|"w";parent:number|null;attrs:Record<string,string>;sentence:string;source_group?:number;source_id?:string;source_ref?:string;token?:number;component?:number};
+type SynVerse={method:string;matched:number;source_word_count:number;words:{status:string;nodes:number[];component_match?:boolean;reason?:string}[];nodes:SynNode[];sentences:Record<string,string[]>};
+const syntaxContent=document.querySelector<HTMLElement>("#syntax-content")!,syntaxOpen=document.querySelector<HTMLButtonElement>("#syntax-open")!;
+let syntaxSerial=0;
+const syntaxCache=new Map<string,Promise<Record<string,SynVerse>>>();
+const roleNames:Record<string,string>={s:"Sujeito",v:"Verbo",o:"Objeto",io:"Objeto indireto",adv:"Adverbial",pp:"Grupo preposicional",p:"Predicado",aux:"Auxiliar"};
+const groupNames:Record<string,string>={cl:"Oração",np:"Sintagma nominal",vp:"Sintagma verbal",pp:"Sintagma preposicional",adjp:"Sintagma adjetival",advp:"Sintagma adverbial"};
+function describeSyn(n:SynNode){
+  const a=n.attrs;return [a.role?(a.role.startsWith("err_")?"Diagnóstico da fonte — função não validada":((roleNames[a.role]||"Função da fonte")+" ["+a.role+"]")):"",a.class?((groupNames[a.class]||a.class)+" ["+a.class+"]"):"",a.rule||a.Rule?"Regra: "+(a.rule||a.Rule):"",a.clauseType?"Tipo de oração: "+a.clauseType:"",a.junction?"Junção: "+a.junction:"",a.predication?"Predicação: "+a.predication:"",a.head==="true"?"Núcleo indicado pela fonte":""].filter(Boolean).join(" · ")||"Grupo sem rótulo explícito";
+}
+async function showSyntax(selected?:number){
+  const id=++syntaxSerial,b=book.value,ref=originalRef(),ch=ref.split(":")[0],ws=data[ref]||[];
+  syntaxContent.replaceChildren();if(!ws.length){appendText(syntaxContent,"p","Sem texto original alinhado para análise nesta referência.");return;}
+  appendText(syntaxContent,"p","Carregando análise sintática…");
+  try{
+    const url="/interlinear-syntax/"+encodeURIComponent(b)+"/"+encodeURIComponent(ch)+".json";
+    if(!syntaxCache.has(url)){const p=requiredJson(url);syntaxCache.set(url,p);p.catch(()=>syntaxCache.delete(url));}
+    const x=(await syntaxCache.get(url))?.[ref];if(id!==syntaxSerial)return;
+    syntaxContent.replaceChildren();if(!x){appendText(syntaxContent,"p","Análise sintática indisponível neste versículo.");return;}
+    const coverage=appendText(syntaxContent,"p",x.matched+" de "+ws.length+" palavras alinhadas · MACULA · "+(x.method==="versiculo_integral"?"sequência integral":"alinhamento parcial conservador"));coverage.id="syntax-coverage";
+    appendText(syntaxContent,"p","Árvore de constituintes projetada no versículo; relações de dependência não são inferidas. Grupos podem abranger outras referências.");
+    if(selected!==undefined){
+      const m=x.words[selected];
+      appendText(syntaxContent,"h3","Função da palavra selecionada: "+ws[selected].text);
+      if(!m?.nodes.length)appendText(syntaxContent,"p","Pendente: "+(m?.reason||"sem correspondência segura").replaceAll("_"," ")+".");
+      else{
+        if(!m.component_match)appendText(syntaxContent,"p","Segmentação diferente da fonte: ligação apenas à palavra inteira.");
+        for(const j of m.nodes){
+          const chain=[];let k:number|null=j;while(k!==null){chain.unshift(describeSyn(x.nodes[k]));k=x.nodes[k].parent;}
+          appendText(syntaxContent,"p",chain.join(" › "));
+        }
+      }
+    }
+    const kids=new Map<number|null,number[]>();x.nodes.forEach((n,i)=>{const a=kids.get(n.parent)||[];a.push(i);kids.set(n.parent,a);});
+    function tree(parent:HTMLElement,indices:number[]){
+      const ul=document.createElement("ul");ul.className="syntax-tree";parent.append(ul);
+      for(const i of indices){const n=x.nodes[i],li=document.createElement("li");li.dataset.syntaxNode=String(i);ul.append(li);
+        if(n.kind==="w"){
+          const token=n.token!;const raw=ws[token]?.text||"";
+          const display=n.component!==undefined?(raw.split("/")[n.component]||raw):raw;
+          const btn=document.createElement("button");btn.type="button";btn.textContent=display+" · "+describeSyn(n);btn.dir="auto";btn.dataset.syntaxToken=String(token);btn.onclick=()=>{const card=words.querySelector<HTMLElement>('[data-token-index="'+token+'"]');card?.scrollIntoView({block:"nearest",inline:"center"});showSyntax(token);};
+          if(token===selected)btn.classList.add("syntax-selected");li.append(btn);appendText(li,"small"," "+n.source_id+" · "+n.source_ref);
+        }else{appendText(li,"strong",describeSyn(n));if(n.parent===null)appendText(li,"small"," · frase: "+(x.sentences[n.sentence]||[]).join(", "));}
+        if(kids.has(i))tree(li,kids.get(i)!);
+      }
+    }
+    tree(syntaxContent,kids.get(null)||[]);
+    if(x.matched<ws.length){
+      const section=document.createElement("section");section.id="alternate-syntax";syntaxContent.append(section);
+      appendText(section,"h3","Leituras alternativas e revisão filológica");
+      try{
+        const altUrl="/interlinear-syntax-alternates/"+encodeURIComponent(b)+"/"+encodeURIComponent(ch)+".json";
+        const response=await fetch(altUrl);if(id!==syntaxSerial)return;
+        if(response.ok){
+          const all=await response.json();if(id!==syntaxSerial)return;
+          const entries=all[ref]||{};const seen=new Set<string>();
+          for(const [k,r] of Object.entries(entries) as [string,any][]){
+            if(selected!==undefined&&Number(k)!==selected)continue;
+            const sig=JSON.stringify(r.span||[k]);if(seen.has(sig))continue;seen.add(sig);
+            const item=document.createElement("article");section.append(item);
+            const span=r.span||[Number(k),Number(k)+1];
+            appendText(item,"h4",(r.reading==="qere"?"Ketiv (forma escrita)": "Texto-base")+": "+ws.slice(span[0],span[1]).map(w=>w.text).join(" "));
+            if(r.reading==="qere"){
+              appendText(item,"p","Qere (leitura registrada no OSHB): "+r.qere.map((w:any)=>w.text).join(" "));
+              appendText(item,"p","Sintaxe da leitura Qere no MACULA — não atribuída ao Ketiv.");
+            }else if(r.reading==="greek_accent_only")appendText(item,"p","Correspondência grega com diferença apenas de acentuação, lema e morfologia confirmados.");
+            else{
+              appendText(item,"p","Sem correspondência sintática demonstrada.");
+              for(const note of r.notes||[])appendText(item,"p","Qere documentado: "+note.qere.map((w:any)=>w.text).join(" "));
+            }
+            for(const leaf of r.source||[]){
+              appendText(item,"p",leaf.form+" · "+leaf.source_id+" · "+leaf.source_ref);
+              appendText(item,"p",leaf.path.map((n:any)=>describeSyn(n)).join(" › "));
+            }
+          }
+        }else if(response.status!==404)appendText(section,"p","Camada complementar indisponível.");
+      }catch{if(id===syntaxSerial)appendText(section,"p","Não foi possível consultar a camada complementar.");}
+    }
+    if(x.matched<ws.length){const pending=x.words.map((w,i)=>w.nodes.length?null:ws[i].text+" ("+(w.reason||"sem correspondência segura").replaceAll("_"," ")+")").filter(Boolean);appendText(syntaxContent,"p","Palavras pendentes: "+pending.join(" · "));}
+  }catch{if(id===syntaxSerial){syntaxContent.replaceChildren();appendText(syntaxContent,"p","Não foi possível carregar a análise sintática.");}}
+}
+syntaxOpen.addEventListener("click",()=>showSyntax());
+function originalRef(){
+  const reference = chapter.value + ":" + verse.value;
+  return reading ? originalsByTranslation.get(reference) || "" : reference;
+}
+function render(){
+  syntaxSerial++;
+  syntaxContent.replaceChildren();
+  clearStudyNotes();
+  words.replaceChildren();
+  const selected = chapter.value + ":" + verse.value;
+  const key = reading ? originalsByTranslation.get(selected) || "" : selected;
+  const match = extra[key];
+  const translated = reading ? selected : match?.source_ref;
+  const rtl = book.selectedOptions[0]?.dataset.rtl === "yes";
+  words.dir = rtl ? "rtl" : "ltr";
+  title.textContent = verse.value ? book.selectedOptions[0].text + " " + selected : "";
+  const bookEvents=marcos.filter(event=>event.livro===book.value);
+  const chapterEvent=bookEvents.find(event=>event.ref.split(":")[0]===chapter.value);
+  chronology.href="/cronologia/"+(bookEvents.length?"?livro="+encodeURIComponent(book.value):"")+(chapterEvent?"#"+chapterEvent.id:"");
+  chronology.textContent=bookEvents.length?"Cronologia relacionada":"Cronologia do Antigo Testamento";
+  ptText.replaceChildren();
+  strip.replaceChildren();
+  for (const option of verse.options) {
+    const ref = chapter.value + ":" + option.value;
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = option.value;
+    button.setAttribute("aria-label", "Versículo " + option.value);
+    button.setAttribute("aria-pressed", String(option.selected));
+    button.onclick = () => { verse.value = option.value; render(); strip.querySelector<HTMLButtonElement>('[aria-pressed="true"]')?.focus({preventScroll:true}); };
+    strip.append(button);
+    if (reading && pt[ref]) {
+      const line = appendText(ptText, "p", "");
+      line.onclick=()=>{if(verse.value!==option.value){verse.value=option.value;render();}};
+      line.dataset.verse = option.value;
+      const marker = appendText(line, "sup", option.value);
+      marker.setAttribute("aria-hidden", "true");
+      line.append(pt[ref]);
+      if (option.selected) line.classList.add("active-verse");
+    }
+  }
+  const active = strip.querySelector<HTMLElement>('[aria-pressed="true"]');
+  if (active) {
+    strip.scrollLeft += active.getBoundingClientRect().left - strip.getBoundingClientRect().left - (strip.clientWidth - active.offsetWidth) / 2;
+    const url = new URL(location.href);
+    url.searchParams.set("livro", book.value);
+    url.searchParams.set("ref", selected);
+    history.replaceState(null, "", url);
+  }
+  const atStart=book.selectedIndex===0&&chapter.selectedIndex===0&&verse.selectedIndex===0;
+  const atEnd=book.selectedIndex===book.length-1&&chapter.selectedIndex===chapter.length-1&&verse.selectedIndex===verse.length-1;
+  document.querySelector<HTMLButtonElement>("#prev-verse")!.disabled=!verse.length||atStart;
+  document.querySelector<HTMLButtonElement>("#next-verse")!.disabled=!verse.length||atEnd;
+  if (!reading && verse.value) appendText(ptText, "p", translated && pt[translated] ? translated + " · " + pt[translated] : "Tradução alinhada indisponível nesta referência.");
+  if (verse.value && !data[key]?.length) appendText(words, "p", "Texto original alinhado indisponível nesta referência.");
+  for(const [i,token] of (data[key]||[]).entries()){const add=match?.words[i];const card=document.createElement("article");card.dataset.tokenIndex=String(i);for(const [label,value] of [["",token.text],["Transliteração",translitData[key]?.[i]?.value||"Não disponível"],["Método de transliteração",({grego_ortografico:"Grego · convenção ortográfica",sbl_automatico:"SBL · automática",sbl_modo_permissivo:"SBL · revisão necessária",pendente:"Pendente"} as Record<string,string>)[translitData[key]?.[i]?.status||""]],["Glosa",add?.gloss_pt],["Estado da glosa",({importada_verificada:"Importada · conferência estrutural",alinhada_automaticamente:"Alinhamento automático · revisão humana pendente",corrigida_pontualmente:"Corrigida pontualmente",pendente:"Pendente de revisão"} as Record<string,string>)[add?.gloss_status||""]],["Strong",strongData[key]?.[i]?.ids?.join(", ")||"Não atribuído"],["Origem do índice",({oshb_direto:"OSHB",dupla_fonte:"Alinhamento e léxico STEP",fonte_direta:"Fonte alinhada; sem confirmação do lema no STEP",lema_univoco:"Lema unívoco no STEP",afixo_sem_numero:"Afixo sem número OSHB",identificador_ampliado:"Identificador ampliado (não clássico)",conflito_lexical:"Conflito entre fontes",lema_ambiguo:"Lema ambíguo"} as Record<string,string>)[strongData[key]?.[i]?.status||""]||"Pendente"],["Identificador ampliado",strongData[key]?.[i]?.extended_ids?.join(", ")],["Lema / ID lexical",token.lemma],["Morfologia em português",morphCatalog[token.pos?token.pos+" "+token.morph:token.morph||""]?.descricao||"Decodificação pendente"],["Código morfológico original",token.pos?token.pos+" "+token.morph:token.morph]]){const p=document.createElement("p");p.dir=label?"auto":words.dir;p.textContent=label?label+": "+(value||"Não disponível"):value||"";if(!label)p.className="original";card.append(p);}const fields = [...card.querySelectorAll("p")];
+      card.replaceChildren();
+      const button = document.createElement("button");
+      button.className = "word-button";
+      button.type = "button";
+      for (const index of [0,1,3,5]) {
+        const span=appendText(button,"span",fields[index].textContent || "");
+        span.dir=fields[index].dir;
+      }
+      button.onclick = () => openLex(token,add,strongData[key]?.[i],fields.filter((_,index) => ![0,1,3,5].includes(index)),i);
+      card.append(button);
+      words.append(card);
+    }
+}
+function chapters(targetVerse?:string){
+  const refs = Object.keys(reading ? pt : data);
+  options(verse,refs.filter(k=>k.split(":")[0]===chapter.value).map(k=>k.split(":")[1]));
+  if (targetVerse === "last") verse.selectedIndex = verse.length - 1;
+  else if (targetVerse && [...verse.options].some(option => option.value === targetVerse)) verse.value = targetVerse;
+  render();
+}
+async function load(targetChapter?:string,targetVerse?:string){
+  const id=++serial;
+  data={}; extra={}; pt={}; strongData={}; translitData={}; originalsByTranslation.clear();
+  options(chapter,[]); options(verse,[]); render();
+  status.textContent="Carregando…";
+  try{
+    const slug=encodeURIComponent(book.value);
+    const [next,e,p,s,t,m]=await Promise.all([
+      optional("/interlinear-corpus/"+slug+".json"),
+      optional("/interlinear-gloss-review/"+slug+".json"),
+      optional("/interlinear-enrichment/portugues/"+slug+".json"),
+      optional("/interlinear-strong-review/tokens/"+slug+".json"),
+      optional("/interlinear-transliteration/"+slug+".json"),
+      Object.keys(morphCatalog).length?Promise.resolve(morphCatalog):optional("/interlinear-morphology/catalogo.json")
+    ]);
+    if(id!==serial)return;
+    data=next;extra=e;pt=p;strongData=s;translitData=t;morphCatalog=m;
+    for (const [ref, match] of Object.entries(extra)) if (match.source_ref && !originalsByTranslation.has(match.source_ref)) originalsByTranslation.set(match.source_ref,ref);
+    const refs = Object.keys(reading ? pt : data);
+    if (!refs.length) throw Error("Sem dados");
+    options(chapter,[...new Set(refs.map(k=>k.split(":")[0]))]);
+    if (targetChapter === "last") chapter.selectedIndex = chapter.length - 1;
+    else if (targetChapter && [...chapter.options].some(option=>option.value===targetChapter)) chapter.value=targetChapter;
+    chapters(targetVerse);
+    status.textContent="";
+  }catch{if(id===serial)status.textContent="Corpus indisponível. Tente selecionar o livro novamente.";}
+}
+type SearchRow=[string,string,string,string|null,string|null,string[],string|null];
+type SearchLoc=[number,number,number];
+type SearchTable={refs:string[];rows:SearchRow[][]};
+type SearchMeta={books:string[];features:Record<string,string[]>;shards:string[];book_stats:Record<string,{verses:number}>};
+const hits=document.querySelector<HTMLElement>("#hits")!,searchStatus=document.querySelector<HTMLElement>("#search-status")!,pagination=document.querySelector<HTMLElement>("#search-pagination")!;
+const searchForm=document.querySelector<HTMLFormElement>("#lex-search")!,featureArea=document.querySelector<HTMLElement>("#search-features")!;
+const field=(id:string)=>document.querySelector<HTMLInputElement|HTMLSelectElement>("#"+id)!;
+const labels:Record<string,string>={classe:"Classe",tipo:"Tipo",pessoa:"Pessoa",tempo:"Tempo verbal",voz:"Voz",modo:"Modo",caso:"Caso",numero:"Número",genero:"Gênero",grau:"Grau",tronco:"Tronco verbal",conjugacao:"Conjugação",estado:"Estado",artigo:"Artigo"};
+let searchSerial=0;
+async function requiredJson(url:string){const r=await fetch(url);if(!r.ok)throw Error("HTTP "+r.status+" "+url);return r.json();}
+const metaPromise:Promise<SearchMeta>=requiredJson("/interlinear-search/manifest.json");
+metaPromise.then(meta=>{for(const [k,vals] of Object.entries(meta.features)){const l=document.createElement("label");l.textContent=labels[k]||k;const sel=document.createElement("select");sel.dataset.feature=k;sel.append(new Option("Qualquer",""));for(const v of vals)sel.append(new Option(v,v));l.append(sel);featureArea.append(l);}}).catch(()=>{searchStatus.textContent="Manifesto de busca indisponível.";});
+const searchTables=new Map<number,Promise<SearchTable>>();
+function tableFor(meta:SearchMeta,b:number){if(!searchTables.has(b)){const p=requiredJson("/interlinear-search/books/"+meta.books[b]+".json");searchTables.set(b,p);p.catch(()=>searchTables.delete(b));}return searchTables.get(b)!;}
+function normalizeQuery(s:string,mode:string,loose:boolean){
+  if(mode==="strong"){const m=s.trim().toLowerCase().match(/^([hg])0*(\d+)$/);return m?m[1]+String(Number(m[2])):"";}
+  if(mode==="morfologia")return s.trim().replace(/\s+/gu," ");
+  if(mode==="original"||mode==="lema")s=s.replaceAll("/","");
+  s=s.trim().toLowerCase();
+  return loose?s.normalize("NFD").replace(/\p{M}/gu,"").replace(/\s+/gu," ").trim():s.normalize("NFC");
+}
+async function goToOccurrence(b:string,ref:string,i:number){
+  if (reading) { location.href="/interlinear-experimental/?livro="+encodeURIComponent(b)+"&ref="+encodeURIComponent(ref)+"&palavra="+i; return; }
+  book.value=b;const [c,v]=ref.split(":");await load(c,v);
+  highlightWord(i);
+}
+function highlightWord(i:number){
+  words.hidden = false;
+  const card=words.querySelector<HTMLElement>('[data-token-index="'+i+'"]');if(card){card.classList.add("search-selected");card.scrollIntoView({block:"nearest",inline:"center"});}
+}
+searchForm.addEventListener("submit",async ev=>{
+  ev.preventDefault();const id=++searchSerial;hits.replaceChildren();pagination.replaceChildren();searchStatus.textContent="Pesquisando…";
+  try{
+    const meta=await metaPromise;const mode=field("search-mode").value;const ignore=(field("search-loose") as HTMLInputElement).checked&&!["strong","morfologia"].includes(mode);
+    const raw=field("query").value;const q=normalizeQuery(raw,mode,ignore);
+    const test=field("search-testament").value,bfilter=field("search-book").value,lang=field("search-language").value,chap=field("search-chapter").value;
+    const features=[...featureArea.querySelectorAll<HTMLSelectElement>("select")].filter(x=>x.value).map(x=>[x.dataset.feature!,x.value]);
+    if(raw.trim()&&!q){searchStatus.textContent="Termo inválido para o tipo de pesquisa.";return;}
+    if(!q&&!features.length&&!bfilter&&!test&&!lang&&!chap){searchStatus.textContent="Informe um termo ou selecione ao menos um filtro.";return;}
+    const allowed=(b:number)=>(!bfilter||meta.books[b]===bfilter)&&(!test||(test==="ot"?b<39:b>=39))&&(!lang||(lang==="grc"?b>=39:b<39));
+    let locs:SearchLoc[]=[];
+    if(q){
+      const digest=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(q));
+      const shard=new Uint8Array(digest)[0].toString(16).padStart(2,"0");const kind=ignore?"flexivel":"exato";
+      const file=mode+"/"+kind+"/"+shard;
+      if(meta.shards.includes(file)){const obj=await requiredJson("/interlinear-search/index/"+file+".json");locs=(obj[q]||[]).filter((x:SearchLoc)=>allowed(x[0]));}
+    }else{
+      for(const b of meta.books.keys()){if(!allowed(b))continue;const t=await tableFor(meta,b);if(id!==searchSerial)return;for(const [v,rows] of t.rows.entries()){if(chap&&Number(t.refs[v].split(":")[0])!==Number(chap))continue;for(const i of rows.keys())locs.push([b,v,i]);}}
+    }
+    if(id!==searchSerial)return;
+    if(chap||lang||features.length){
+      if(features.length&&!Object.keys(morphCatalog).length)morphCatalog=await requiredJson("/interlinear-morphology/catalogo.json");
+      const tables=new Map<number,SearchTable>();
+      for(const b of new Set(locs.map(x=>x[0]))){tables.set(b,await tableFor(meta,b));if(id!==searchSerial)return;}
+      locs=locs.filter(([b,v,i])=>{const t=tables.get(b)!,row=t.rows[v][i];if(chap&&Number(t.refs[v].split(":")[0])!==Number(chap))return false;if(lang&&row[1]!==lang)return false;
+        if(features.length){const parts=(morphCatalog[row[2]] as any)?.partes||[];return parts.some((part:any)=>features.every(([k,val])=>part.campos[k]===val));}return true;});
+    }
+    if(id!==searchSerial)return;
+    const distinctVerses=new Set(locs.map(([b,v])=>b+":"+v)).size;
+    searchStatus.textContent=locs.length+" ocorrências em "+distinctVerses+" versículos";
+    let page=0, pageSerial=0;const pageSize=25;
+    async function showPage(){const ps=++pageSerial;hits.replaceChildren();pagination.replaceChildren();const slice=locs.slice(page*pageSize,(page+1)*pageSize);const rows:HTMLElement[]=[];
+      for(const [b,v,i] of slice){const t=await tableFor(meta,b);if(id!==searchSerial||ps!==pageSerial)return;const row=t.rows[v][i];const btn=document.createElement("button");btn.type="button";btn.className="search-hit";btn.dataset.ref=meta.books[b]+" "+t.refs[v];btn.textContent=book.options[b].text+" "+t.refs[v]+" · "+row[0]+" · "+(row[3]||"sem glosa")+" · palavra "+(i+1);btn.onclick=()=>goToOccurrence(meta.books[b],t.refs[v],i);rows.push(btn);}
+      if(id!==searchSerial||ps!==pageSerial)return;hits.replaceChildren(...rows);
+      if(!locs.length)return;appendText(pagination,"span","Página "+(page+1)+" de "+Math.ceil(locs.length/pageSize));
+      for(const [label,delta] of [["Anterior",-1],["Próxima",1]] as const){const btn=document.createElement("button");btn.type="button";btn.textContent=label;btn.disabled=page+delta<0||(page+delta)*pageSize>=locs.length;btn.onclick=()=>{page+=delta;showPage().catch(()=>{if(id===searchSerial)searchStatus.textContent="Falha ao carregar página.";});};pagination.append(btn);}
+    }
+    await showPage();
+  }catch{if(id===searchSerial)searchStatus.textContent="Não foi possível consultar o índice. Tente novamente.";}
+});
+book.addEventListener("change",()=>load());
+chapter.addEventListener("change",()=>chapters());
+verse.addEventListener("change",render);
+const initialBook=initial.get("livro");
+if (initialBook && [...book.options].some(option=>option.value===initialBook)) book.value=initialBook;
+const [initialChapter,initialVerse]=(initial.get("ref")||"").split(":");
+queueMicrotask(()=>load(initialChapter,initialVerse).then(()=>{
+  if(initial.has("palavra")) highlightWord(Number(initial.get("palavra")));
+}));
+const searchPanel=document.querySelector<HTMLDetailsElement>("#busca")!;
+function showSearch(){if(location.hash==="#busca" || initial.has("modo"))searchPanel.open=true;}
+const initialMode=initial.get("modo");
+if(initialMode && [...(field("search-mode") as HTMLSelectElement).options].some(option=>option.value===initialMode))field("search-mode").value=initialMode;
+showSearch();
+window.addEventListener("hashchange",showSearch);
+const focus=document.querySelector<HTMLButtonElement>("#reading-focus")!;
+focus.onclick=()=>{const enabled=workspace.classList.toggle("reading-focus");focus.setAttribute("aria-pressed",String(enabled));};
+let size=1.32;
+for(const [id,delta] of [["font-down",-.12],["font-up",.12]] as const){
+  document.querySelector<HTMLButtonElement>("#"+id)!.onclick=()=>{
+    size=Math.max(1,Math.min(2.52,size+delta));
+    workspace.style.setProperty("--reading-size",size+"rem");
+  };
+}
+const partToggle=document.querySelector<HTMLButtonElement>("#toggle-interlinear")!;
+partToggle.onclick=()=>{
+  words.hidden=!words.hidden;
+  partToggle.setAttribute("aria-expanded",String(!words.hidden));
+  partToggle.textContent=words.hidden?"Mostrar interlinear":"Recolher interlinear";
+};
+for(const [id,delta] of [["prev-verse",-1],["next-verse",1]] as const){
+  document.querySelector<HTMLButtonElement>("#"+id)!.onclick=()=>{
+    if (!verse.length) return;
+    const index=verse.selectedIndex+delta;
+    if(index>=0 && index<verse.length){verse.selectedIndex=index;render();return;}
+    const nextChapter=chapter.options[chapter.selectedIndex+delta];
+    if(nextChapter){chapter.value=nextChapter.value;chapters(delta<0?"last":undefined);return;}
+    const nextBook=book.options[book.selectedIndex+delta];
+    if(nextBook){book.value=nextBook.value;load(delta<0?"last":undefined,delta<0?"last":undefined);}
+  };
+}
+function openPanel(name:string){
+  const panel=document.querySelector<HTMLDetailsElement>("#"+name+"-panel")!;
+  panel.open=true;
+  panel.scrollIntoView({block:"nearest"});
+}
+
+
+const commentBook=document.querySelector<HTMLSelectElement>("#comment-book")!,commentChapter=document.querySelector<HTMLInputElement>("#comment-chapter")!,commentVerse=document.querySelector<HTMLInputElement>("#comment-verse")!,commentAuthor=document.querySelector<HTMLSelectElement>("#comment-author")!,commentLang=document.querySelector<HTMLSelectElement>("#comment-lang")!,commentContent=document.querySelector<HTMLElement>("#comment-content")!;
+let commentSerial=0,critSerial=0,exegSerial=0;
+const commentManifest=optional("/commentaries/manifest.json");
+commentManifest.then(m=>{for(const a of m.authors||[])commentAuthor.add(new Option(a.author,a.id));});
+document.querySelector<HTMLButtonElement>("#comment-copy")!.onclick=()=>{commentBook.value=book.value;commentChapter.value=chapter.value;commentVerse.value=verse.value;commentSerial++;commentContent.replaceChildren();appendText(commentContent,"p","Referência copiada numericamente; confira a equivalência KJV.");};
+for(const e of [commentBook,commentChapter,commentVerse,commentAuthor,commentLang])e.addEventListener("change",()=>{commentSerial++;commentContent.replaceChildren();});
+function readableMarkup(raw:string){
+  // Never insert untrusted source HTML. Parse in an inert document and render text only.
+  const doc=new DOMParser().parseFromString(raw,"text/html");
+  for(const el of doc.querySelectorAll("script,style,iframe,object,embed,svg,math,link,meta,img"))el.remove();
+  for(const el of doc.querySelectorAll("br,p,div,lb,l,lg,title,hi,seg,reference,note")){
+    if(["br","p","div","lb","l","lg","title","note"].includes(el.localName))el.append(doc.createTextNode("\n"));
+  }
+  return doc.body.textContent||"";
+}
+document.querySelector<HTMLButtonElement>("#comment-open")!.onclick=async()=>{
+  const id=++commentSerial,b=commentBook.value,c=Number(commentChapter.value),v=Number(commentVerse.value),lang=commentLang.value,a=commentAuthor.value;
+  commentContent.replaceChildren();
+  if(!b||!Number.isInteger(c)||c<1||!Number.isInteger(v)||v<0){appendText(commentContent,"p","Referência inválida.");return;}
+  appendText(commentContent,"p","Carregando comentários…");
+  try{
+    const manifest=await commentManifest;
+    if(!(manifest.books?.[b]||[]).includes(c)){if(id!==commentSerial)return;commentContent.replaceChildren();appendText(commentContent,"p","Capítulo não encontrado nos módulos locais.");return;}
+    const chapterData=await requiredJson("/commentaries/"+encodeURIComponent(b)+"/"+c+".json");
+    const translations=lang==="pt"?await optional("/commentaries-pt/"+encodeURIComponent(b)+"/"+c+".json"):{};
+    if(id!==commentSerial)return;
+    commentContent.replaceChildren();
+    appendText(commentContent,"h3",b+" "+c+":"+v+" — numeração KJV");
+    for(const author of manifest.authors.filter((x:any)=>!a||x.id===a)){
+      const section=document.createElement("article");section.className="commentary-entry";commentContent.append(section);
+      appendText(section,"h4",author.author);appendText(section,"small",author.title+" · módulo "+author.id+" "+author.version+" · "+author.license);
+      const rec=chapterData[author.id],hash=rec?.granularity==="chapter"?(rec.verse_keys?.[String(v)]||rec.keys?.["0"]):rec?.keys?.[String(v)];
+      if(!hash){appendText(section,"p","Nenhuma entrada indexada nesta referência.");continue;}
+      const raw=rec.entries[hash];if(rec.invalid_bytes?.[hash])appendText(section,"p","A fonte contém bytes incompatíveis com UTF-8. A visualização apresenta caracteres substitutos; os bytes originais estão preservados no arquivo de dados.");const keys=Object.keys(rec.keys).filter(k=>rec.keys[k]===hash);
+      if(rec.granularity==="chapter")appendText(section,"p",(rec.verse_keys?.[String(v)]===hash?"Texto e anotações do versículo, identificado na transcrição":"Comentário integral do capítulo, não isolado por versículo")+" · transcrição histórica EEBO-TCP "+rec.year+" · "+rec.heading+". Pode conter erros de transcrição; confira a edição original.");else appendText(section,"p","Chaves do módulo com este mesmo conteúdo no capítulo: "+keys.join(", ")+".");
+      if(lang==="pt"){
+        const translated=translations?.[author.id]?.[hash];
+        if(translated?.source_sha256===hash&&translated?.status==="reviewed"&&typeof translated.text==="string")appendText(section,"p",translated.text);
+        else appendText(section,"p","Tradução revisada em português ainda não disponível. Selecione o original em inglês.");
+      }else{
+        const content=appendText(section,"div",rec.granularity==="chapter"?readableMarkup(raw.replace(/<(\/?)(?:ns\d+:)/g,"<$1")):readableMarkup(raw));content.className="commentary-original";
+        const details=document.createElement("details");appendText(details,"summary","Registro original do módulo (marcação incluída)");appendText(details,"pre",raw);section.append(details);
+      }
+      const link=document.createElement("a");link.href=rec.source_url||author.license_url;link.textContent="Edição e licença na fonte";link.rel="noopener";section.append(link);
+    }
+  }catch{if(id===commentSerial){commentContent.replaceChildren();appendText(commentContent,"p","Não foi possível carregar os comentários.");}}
+};
+const criticismContent=document.querySelector<HTMLElement>("#criticism-content")!,exegesisContent=document.querySelector<HTMLElement>("#exegesis-content")!;
+function clearStudyNotes(){critSerial++;exegSerial++;criticismContent.replaceChildren();exegesisContent.replaceChildren();}
+for(const e of [book,chapter,verse])e.addEventListener("change",clearStudyNotes);
+document.querySelector<HTMLButtonElement>("#criticism-open")!.onclick=async()=>{
+  const id=++critSerial,b=book.value,ref=originalRef();
+  criticismContent.replaceChildren();appendText(criticismContent,"p","Carregando registros…");
+  const greek=book.selectedOptions[0]?.dataset.rtl!=="yes";
+  try{
+    const d=await requiredJson("/textual-criticism/"+(greek?"greek":"hebrew")+"/"+encodeURIComponent(b)+".json");
+    if(id!==critSerial||b!==book.value||ref!==originalRef())return;
+    criticismContent.replaceChildren();
+    appendText(criticismContent,"h3",greek?"SBLGNT — aparato comparativo de edições":"OSHB — notas do Texto Massorético");
+    appendText(criticismContent,"p",greek?"WH: Westcott-Hort; Treg: Tregelles; RP: Robinson-Pierpont; NA27/NA28: Nestle-Aland conforme indicado na fonte. Não é um aparato completo de manuscritos.":"Notas preservadas da fonte, incluindo leituras Qere, sem inferência de testemunhos.");
+    const rows=d[ref]||[];if(!rows.length)appendText(criticismContent,"p","Nenhum registro indexado nesta referência na fonte utilizada; isso não demonstra ausência de variantes.");
+    for(const row of rows){
+      if(greek){appendText(criticismContent,"small",row.source_reference);appendText(criticismContent,"p",row.note);}
+      else{const details=document.createElement("details");appendText(details,"summary","Nota da fonte · posição "+row.before_token);const show=(parent:HTMLElement,e:any)=>{const q=document.createElement("div");parent.append(q);appendText(q,"small",e.tag+" "+JSON.stringify(e.attributes||{}));if(e.text?.trim())appendText(q,"p",e.text);for(const c of e.children||[])show(q,c);};show(details,row.element);criticismContent.append(details);}
+    }
+  }catch{if(id===critSerial)appendText(criticismContent,"p","Não foi possível carregar a fonte.");}
+};
+document.querySelector<HTMLButtonElement>("#exegesis-open")!.onclick=async()=>{
+  const id=++exegSerial,b=book.value,ref=originalRef();exegesisContent.replaceChildren();
+  const d=await optional("/exegesis/"+encodeURIComponent(b)+"/"+encodeURIComponent(ref.split(":")[0])+".json");
+  if(id!==exegSerial||b!==book.value||ref!==originalRef())return;
+  const rows=(d[ref]||[]).filter((entry:{status:string})=>entry.status==="reviewed");
+  if(!rows.length){
+    const [c,v]=ref.split(":").map(Number);
+    const bookSlug=({Dan:"daniel",Heb:"hebreus","1John":"1-joao"} as Record<string,string>)[b];
+    const section=b==="Gen"&&c===1&&v>=1&&v<=8
+      ? "/comentarios/genesis/capitulo-1/versiculo-"+v+"/"
+      : bookSlug && verse.value
+        ? "/comentarios/"+bookSlug+"/capitulo-"+chapter.value+"/#v"+verse.value
+        : "";
+    if(section){
+      const link=document.createElement("a");
+      link.href=section;
+      link.textContent="Consultar a exposição editorial da passagem";
+      exegesisContent.append(link);
+    }else appendText(exegesisContent,"p","Nenhuma nota editorial homologada nesta referência.");
+  }
+  for(const r of rows){appendText(exegesisContent,"h3",r.title);appendText(exegesisContent,"p",r.text);appendText(exegesisContent,"small",r.author+" · "+r.references.join("; "));}
+};
+
+
+const toolMenu=document.querySelector<HTMLDetailsElement>("#verse-tools")!,toolDialog=document.querySelector<HTMLDialogElement>("#study-tool-dialog")!,toolTitle=document.querySelector<HTMLElement>("#study-tool-title")!,toolContent=document.querySelector<HTMLElement>("#study-tool-content")!;
+function currentReading(){
+  const key=originalRef();
+  const ref=chapter.value+":"+verse.value;
+  const sourceRef=reading?ref:extra[key]?.source_ref||null;
+  return {book:book.value,name:book.selectedOptions[0]?.textContent||book.value,ref,sourceRef,text:sourceRef?pt[sourceRef]||"":"",original:(data[key]||[]).map(w=>w.text).join(" "),rtl:book.selectedOptions[0]?.dataset.rtl==="yes"};
+}
+function openTool(title:string){toolMenu.open=false;toolTitle.textContent=title;toolContent.replaceChildren();if(!toolDialog.open)toolDialog.showModal();}
+const sermonKey="prima-scriptura-sermon-v1";
+type SermonVerse={book:string;name:string;ref:string;sourceRef:string|null;text:string;original:string;rtl:boolean};
+function savedSermon():SermonVerse[]{try{const x=JSON.parse(localStorage.getItem(sermonKey)||"[]");return Array.isArray(x)?x.filter(z=>z&&typeof z.book==="string"&&typeof z.ref==="string"&&typeof z.text==="string"&&typeof z.name==="string"):[];}catch{return [];}}
+function sermonView(message:string){
+ toolContent.replaceChildren();appendText(toolContent,"p",message);appendText(toolContent,"p","Esboço salvo neste navegador, sem sincronização entre dispositivos.");
+ const entries=savedSermon();
+ for(const [i,r] of entries.entries()){const a=document.createElement("article");appendText(a,"h3",r.name+" "+r.ref);appendText(a,"p","Bíblia Livre "+r.sourceRef+": "+r.text);const remove=document.createElement("button");remove.type="button";remove.textContent="Remover";remove.onclick=()=>{try{localStorage.setItem(sermonKey,JSON.stringify(entries.filter((_,j)=>j!==i)));sermonView("Versículo removido.");}catch{sermonView("Não foi possível alterar o armazenamento local.");}};a.append(remove);toolContent.append(a);}
+ const output=document.createElement("textarea");output.rows=5;output.readOnly=true;output.value=entries.map(r=>r.name+" "+r.ref+" (Bíblia Livre "+r.sourceRef+")\n"+r.text).join("\n\n");output.setAttribute("aria-label","Texto do sermão para copiar");toolContent.append(output);
+ const copy=document.createElement("button");copy.type="button";copy.textContent="Copiar referências e textos";copy.onclick=async()=>{try{await navigator.clipboard.writeText(output.value);copy.textContent="Copiado";}catch{output.select();copy.textContent="Selecione e copie o texto";}};toolContent.append(copy);
+}
+document.querySelector<HTMLButtonElement>("#tool-sermon")!.onclick=()=>{const r=currentReading();openTool("Adicionar ao sermão");if(!r.text){sermonView("Texto da Bíblia Livre indisponível nesta referência; nada foi adicionado.");return;}const entries=savedSermon();if(entries.some(x=>x.book===r.book&&x.ref===r.ref&&x.sourceRef===r.sourceRef)){sermonView("Este versículo já está no esboço.");return;}try{localStorage.setItem(sermonKey,JSON.stringify([...entries,r]));sermonView("Versículo adicionado ao esboço.");}catch{sermonView("Não foi possível salvar neste navegador.");}};
+type ComparisonVerse = { type:string; number:number; content:(string|{text?:string;type?:string})[] };
+document.querySelector<HTMLButtonElement>("#tool-compare")!.onclick=async()=>{
+  const r=currentReading();
+  openTool("Comparação de traduções");
+  appendText(toolContent,"h3",r.name+" "+r.ref);
+  appendText(toolContent,"h4","Bíblia Livre — "+(r.sourceRef||"sem referência alinhada"));
+  appendText(toolContent,"p",r.text||"Tradução indisponível.");
+  appendText(toolContent,"h4","King James Version — inglês");
+  const pending=appendText(toolContent,"p","Carregando tradução…");
+  if(r.sourceRef){
+    const [c,v]=r.sourceRef.split(":");
+    try{
+      const edition=await requiredJson("https://bible.helloao.org/api/eng_kjv/"+helloAoBooks[canon.indexOf(r.book)]+"/"+encodeURIComponent(c)+".json");
+      const entry=edition.chapter.content.find((row:ComparisonVerse)=>row.type==="verse"&&row.number===Number(v)) as ComparisonVerse|undefined;
+      pending.textContent=entry?.content.map(part=>typeof part==="string"?part:part.type==="note"?"":part.text||"").join("")||"Versículo indisponível na edição.";
+      if(pending.isConnected){
+        appendText(toolContent,"small","Equivalência numérica com a KJV. Confirme a referência quando a numeração divergir.");
+        const source=document.createElement("a");
+        source.href="https://ebible.org/Scriptures/details.php?id=eng-kjv2006";source.textContent=" Fonte e licença da KJV";toolContent.append(source);
+      }
+    }catch{pending.textContent="Não foi possível consultar a edição KJV.";}
+  }else pending.textContent="Sem referência portuguesa alinhada para comparação.";
+  if(!pending.isConnected)return;
+  appendText(toolContent,"h4",r.rtl?"Texto original — OSHB/WLC":"Texto original — SBLGNT/MorphGNT");
+  const p=appendText(toolContent,"p",r.original||"Texto original indisponível.");
+  p.dir=r.rtl?"rtl":"ltr";p.className="comparison-original";
+};
+document.querySelector<HTMLButtonElement>("#tool-comment")!.onclick=()=>{toolMenu.open=false;openPanel("commentary");document.querySelector<HTMLButtonElement>("#comment-copy")!.click();document.querySelector<HTMLElement>("#commentary-panel")!.scrollIntoView({block:"start"});document.querySelector<HTMLButtonElement>("#comment-open")!.focus({preventScroll:true});};
+document.querySelector<HTMLButtonElement>("#tool-exegesis")!.onclick=()=>{toolMenu.open=false;openPanel("exegesis");document.querySelector<HTMLButtonElement>("#exegesis-open")!.click();document.querySelector<HTMLElement>("#exegesis-panel")!.scrollIntoView({block:"start"});};
+
+document.querySelector<HTMLButtonElement>("#tool-criticism")!.onclick=()=>{openPanel("criticism");toolMenu.open=false;document.querySelector<HTMLButtonElement>("#criticism-open")!.click();};
+function showSermon(){openTool("Preparação de sermões");sermonView("Passagens do esboço");}
+document.querySelector<HTMLButtonElement>("#view-sermon")!.onclick=showSermon;
+if(initial.has("sermao"))showSermon();
+</script>
+</Base>

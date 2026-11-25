@@ -14,6 +14,7 @@ const checks=[];
 try{
   await page.goto("http://127.0.0.1:4321/interlinear-experimental/");
   await page.locator("#words article").first().waitFor();
+  await page.locator("#busca > summary").click();
   await page.locator("#search-features select").first().waitFor();
   const choose=async(id,value)=>page.locator("#"+id).selectOption(value);
   async function query(mode,q,opts={}){
@@ -41,7 +42,7 @@ try{
   const n=gen.rows[0].filter(r=>cat[r[2]].partes.some(p=>Object.entries(feat).every(([k,v])=>p.campos[k]===v))).length;
   assert.equal(await query("morfologia","",{book:"Gen",chapter:"1",features:feat}),gen.rows.filter((_,i)=>gen.refs[i].startsWith("1:")).flat().filter(r=>cat[r[2]].partes.some(p=>Object.entries(feat).every(([k,v])=>p.campos[k]===v))).length);checks.push("same_component_morphology");
   assert.equal(await query("strong","G999999"),0);checks.push("zero_results");
-  await page.locator("#words article").filter({hasText:"H216"}).first().getByRole("button",{name:"Ficha lexical",exact:true}).click();
+  await page.locator("#words article").filter({hasText:"H216"}).first().locator(".word-button").click();
   await page.locator("#lex-dialog").waitFor();await page.locator("#lex-content h3").filter({hasText:"H216"}).waitFor();checks.push("lexical_dialog");
   assert.deepEqual(errors,[]);
   fs.writeFileSync("docs/testes-navegador-interlinear.json",JSON.stringify({status:"passed",viewport:[390,844],checks,page_errors:errors},null,2)+"\n");

@@ -1,0 +1,77 @@
+---
+import Base from "../layouts/Base.astro";
+import { marcos, genealogias, sincronismos } from "../data/cronologia";
+const eras = [...new Set(marcos.map(evento => evento.periodo))];
+const tipos = [...new Set(marcos.map(evento => evento.certeza))];
+const biblia = (livro:string, ref:string) => `/biblia/?livro=${livro}&ref=${ref}`;
+---
+<Base title="Cronologia bíblica">
+  <div class="wrap section timeline">
+    <p class="kicker">Antigo Testamento</p>
+    <h1>Cronologia bíblica</h1>
+    <p>Da Criação ao período persa. A sequência segue a narrativa bíblica e indica o grau de certeza das datas.</p>
+    <div class="filters">
+      <label>Período <select id="era"><option value="">Todos</option>{eras.map(era=><option>{era}</option>)}</select></label>
+      <label>Datação <select id="certainty"><option value="">Todas</option>{tipos.map(tipo=><option>{tipo}</option>)}</select></label>
+      <label>Livro relacionado <select id="related"><option value="">Todos</option>{Object.entries({Gen:"Gênesis",Exod:"Êxodo",Josh:"Josué",Judg:"Juízes","1Sam":"1 Samuel","2Sam":"2 Samuel","1Kgs":"1 Reis","2Kgs":"2 Reis",Dan:"Daniel",Ezra:"Esdras",Neh:"Neemias"}).map(([id,name])=><option value={id}>{name}</option>)}</select></label>
+    </div>
+    <p id="chronology-count" role="status"></p>
+    <ol class="events">
+      {marcos.map(evento=><li id={evento.id} data-period={evento.periodo} data-certainty={evento.certeza} data-book={evento.livro}>
+        <details class="card">
+          <summary><span class="badge">{evento.certeza}</span><strong>{evento.titulo}</strong><span>{evento.data}</span></summary>
+          <p>{evento.nota}</p>
+          {evento.pessoas.length > 0 && <p>{evento.pessoas.join(" · ")}</p>}
+          <a href={biblia(evento.livro,evento.ref)}>{evento.passagem} →</a>
+          {evento.fonte && <p><a href={evento.fonte}>Fonte histórica ↗</a></p>}
+        </details>
+      </li>)}
+    </ol>
+    <details class="card extra"><summary>Distribuição dos marcos por período</summary>
+      {eras.map(era=>{const total=marcos.filter(e=>e.periodo===era).length;return <div class="chart-row"><span>{era}</span><meter value={total} min={0} max={4} aria-label={era}>{total}</meter><span>{total}</span></div>;})}
+    </details>
+    <details class="card extra"><summary>Genealogias selecionadas</summary>{genealogias.map(grupo=><div><h3>{grupo.nome}</h3><p>{grupo.pessoas}</p><a href={biblia(grupo.livro,grupo.ref)}>{grupo.passagem} →</a></div>)}</details>
+    <details class="card extra"><summary>Sincronismos entre Israel e Judá</summary>
+      <p>Exemplos de sincronismos registrados em Reis. Os anos são relativos aos respectivos reinados.</p>
+      <table><thead><tr><th scope="col">Israel</th><th scope="col">Judá</th><th scope="col">Passagem</th></tr></thead><tbody>
+        {sincronismos.map(row=><tr><td>{row.israel}</td><td>{row.juda}</td><td><a href={biblia(row.livro,row.ref)}>{row.passagem}</a></td></tr>)}
+      </tbody></table>
+    </details>
+  </div>
+</Base>
+<script>
+const era=document.querySelector<HTMLSelectElement>("#era")!;
+const certainty=document.querySelector<HTMLSelectElement>("#certainty")!;
+const book=document.querySelector<HTMLSelectElement>("#related")!;
+const count=document.querySelector("#chronology-count")!;
+const events=[...document.querySelectorAll<HTMLLIElement>(".events li")];
+const update=()=>{
+  for(const entry of events)entry.hidden=Boolean((era.value&&era.value!==entry.dataset.period)||(certainty.value&&certainty.value!==entry.dataset.certainty)||(book.value&&book.value!==entry.dataset.book));
+  const visible=events.filter(entry=>!entry.hidden).length;
+  count.textContent=visible ? visible+" marcos exibidos" : "Nenhum marco com os filtros selecionados.";
+};
+for(const input of [era,certainty,book])input.addEventListener("change",update);
+const from=new URLSearchParams(location.search).get("livro");
+if(from && [...book.options].some(option=>option.value===from))book.value=from;
+const target=events.find(entry=>"#"+entry.id===location.hash);
+if(target){target.querySelector("details")!.open=true;requestAnimationFrame(()=>target.scrollIntoView());}
+update();
+</script>
+<style>
+.timeline h1 { margin: 0; }
+.filters { display: flex; flex-wrap: wrap; gap: .75rem; }
+.filters label { display: grid; gap: .2rem; }
+.events { padding: 0 0 0 1rem; list-style: none; border-inline-start: 1px solid var(--accent); }
+.events li { position: relative; margin: .65rem 0; }
+.events li::before { content: ""; position: absolute; top: 1.35rem; inset-inline-start: -1.28rem; width: .5rem; height: .5rem; background: var(--accent); border-radius: 50%; }
+.timeline .card { padding: .6rem 1rem; }
+.timeline summary { cursor: pointer; min-height: 44px; padding-block: .45rem; }
+.timeline summary strong { font: 1.32rem var(--serif); margin-inline: .5rem; }
+.badge { display: inline-block; margin: .15rem; padding: .08rem .45rem; border-radius: 4px; background: var(--panel); color: var(--accent); font-size: .82rem; }
+.timeline .card a { color: var(--accent); text-decoration: underline; }
+.extra { margin-top: .75rem; }
+.chart-row { display: grid; grid-template-columns: minmax(0,10rem) minmax(0,1fr) auto; gap: .5rem; align-items: center; padding-block: .3rem; }
+.chart-row meter { width: 100%; }
+.timeline table { width: 100%; border-collapse: collapse; font-family: var(--serif); font-size: 1.05rem; }
+.timeline :is(td,th) { padding: .45rem .2rem; border-bottom: 1px solid var(--line); text-align: start; }
+</style>
