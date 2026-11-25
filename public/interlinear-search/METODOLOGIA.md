@@ -1,0 +1,3 @@
+# Pesquisa avançada
+Corpus primário de 66 livros. Palavra original, lema, Strong, transliteração, glosa contextual completa e código morfológico têm índices separados. Busca exata ou sem diacríticos; Strong normalizado sem zeros iniciais. Lemas hebraicos e aramaicos são verbetes possíveis do STEP vinculados ao Strong auditado, não acepções contextualizadas. Filtros de morfologia aplicados a um único componente. Contagem de unidades e de versículos distintos, conforme a versificação original. Paginação de 25 unidades.
+Fontes e licenças: consulte os créditos das camadas corpus, gloss-review, strong-review, transliteration, morphology e lexicon. Dados derivados conservam as atribuições e obrigações das respectivas fontes; índices não constituem homologação filológica.

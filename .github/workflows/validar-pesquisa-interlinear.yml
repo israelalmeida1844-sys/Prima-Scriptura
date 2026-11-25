@@ -1,0 +1,54 @@
+name: Validar pesquisa dos 66 livros
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/validar-pesquisa-interlinear.yml'
+      - 'scripts/interlinear/build_search.py'
+      - 'scripts/interlinear/test_search.mjs'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: search-experimental
+  cancel-in-progress: true
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gerar e auditar indices e referencias
+        run: |
+          python3 scripts/interlinear/build_search.py --public public --out public/interlinear-search --report docs/auditoria-pesquisa-interlinear.json
+          cat > public/interlinear-search/METODOLOGIA.md <<'EOF'
+          # Pesquisa avançada
+          Corpus primário de 66 livros. Palavra original, lema, Strong, transliteração, glosa contextual completa e código morfológico têm índices separados. Busca exata ou sem diacríticos; Strong normalizado sem zeros iniciais. Lemas hebraicos e aramaicos são verbetes possíveis do STEP vinculados ao Strong auditado, não acepções contextualizadas. Filtros de morfologia aplicados a um único componente. Contagem de unidades e de versículos distintos, conforme a versificação original. Paginação de 25 unidades.
+          Fontes e licenças: consulte os créditos das camadas corpus, gloss-review, strong-review, transliteration, morphology e lexicon. Dados derivados conservam as atribuições e obrigações das respectivas fontes; índices não constituem homologação filológica.
+          EOF
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Testar navegador Chromium
+        run: |
+          npm install --no-save --package-lock=false playwright@1.58.2
+          npx playwright install --with-deps chromium
+          npm run preview -- --host 127.0.0.1 --port 4321 > /tmp/astro-preview.log 2>&1 &
+          server=$!
+          trap 'kill "$server" 2>/dev/null || true' EXIT
+          for i in $(seq 1 60); do if curl -fsS http://127.0.0.1:4321/interlinear-experimental/ >/dev/null; then break; fi; sleep 1; done
+          node scripts/interlinear/test_search.mjs
+      - name: Salvar somente na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-enrichment public/interlinear-source-structure public/interlinear-gloss-review public/interlinear-strong-review public/interlinear-transliteration public/interlinear-morphology public/interlinear-lexicon
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-search docs/auditoria-pesquisa-interlinear.json docs/testes-navegador-interlinear.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record stage 7 search indexes and browser tests [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi

@@ -1,0 +1,86 @@
+name: Validar fichas lexicais dos 66 livros
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/validar-lexico-interlinear.yml'
+      - 'scripts/interlinear/build_lexical_cards.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: lexicon-experimental
+  cancel-in-progress: true
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recuperar fonte lexical exata
+        run: |
+          git init /tmp/step
+          git -C /tmp/step remote add origin https://github.com/STEPBible/STEPBible-Data.git
+          git -C /tmp/step sparse-checkout set Lexicons
+          git -C /tmp/step fetch --depth 1 --filter=blob:none origin 5de0a47f35f0fc13dfe1430d104e5db8a4285f9c
+          git -C /tmp/step checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/step rev-parse HEAD)" = 5de0a47f35f0fc13dfe1430d104e5db8a4285f9c
+      - name: Gerar fichas e concordancia por lema
+        run: |
+          python3 scripts/interlinear/build_lexical_cards.py --base public/interlinear-corpus --strong public/interlinear-strong-review/tokens --gloss public/interlinear-gloss-review --greeklex /tmp/step/Lexicons/TBESG*.txt --hebrewlex /tmp/step/Lexicons/TBESH*.txt --out public/interlinear-lexicon --report docs/auditoria-lexical-interlinear.json --details docs/lexico-pendente
+          cat > public/interlinear-lexicon/CREDITOS.md <<'EOF'
+          # Fichas lexicais — fontes e metodologia
+          STEP Bible, https://www.STEPBible.org, TBESG e TBESH, https://github.com/STEPBible/STEPBible-Data, revisão 5de0a47f35f0fc13dfe1430d104e5db8a4285f9c, CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. Definições inglesas da fonte convertidas de HTML para texto; rótulos e identificadores conservados; nenhuma aceção atribuída automaticamente ao contexto.
+          Glossas portuguesas observadas no corpus: Bíblia Interlinear, https://github.com/josafams/biblia-interlinear, revisão 2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0, CC BY-SA 4.0. As frequências não são traduções de definições do STEP. O corpus MorphGNT/OSHB conserva as licenças próprias. A camada combinada é distribuída sob CC BY-SA 4.0.
+          As contagens referem-se às unidades primárias do corpus Prima Scriptura, não a versículos distintos ou a outras edições. Os agrupamentos Strong hebraicos incluem possíveis homônimos; o índice grego por lema preserva diacríticos. Sufixos OSHB não equivalem automaticamente aos identificadores de aceção STEP. Conflitos e afixos sem número clássico não recebem definições inferidas. Definições em português e revisão semântica individual permanecem pendentes.
+          EOF
+          cp public/interlinear-enrichment/LICENSE-CC-BY-SA-4.0.txt public/interlinear-lexicon/
+      - name: Validar fichas e todas as referencias
+        run: |
+          python3 - <<'PY'
+          import sys,pathlib,json,collections,hashlib
+          sys.path.insert(0,'scripts/interlinear')
+          from enrich_open import BOOKS,read,shard
+          from build_lexical_cards import key_for
+          p=pathlib.Path('public/interlinear-lexicon');base=pathlib.Path('public/interlinear-corpus');strong=pathlib.Path('public/interlinear-strong-review/tokens')
+          r=read(pathlib.Path('docs/auditoria-lexical-interlinear.json'))
+          assert r['books']==66
+          cards={}
+          for f in (p/'cards').glob('*.json'):
+              for k,x in read(f).items():
+                  assert k==x['id'] and shard(k.lower())==f.stem and k not in cards
+                  assert x['entries'] and all(e['source_line']>0 and e['headword'] and (e['definition_en'] or e['gloss_en']) for e in x['entries'])
+                  cards[k]=x
+          expected=collections.Counter();lemmas=collections.defaultdict(list);covered=total=0
+          for b in BOOKS:
+              data=read(base/(b+'.json'));st=read(strong/(b+'.json'))
+              for ref,words in data.items():
+                  for i,(w,s) in enumerate(zip(words,st[ref])):
+                      total+=1
+                      ids=[x for x in s['ids'] if x in cards];covered+=bool(ids);expected.update(ids)
+                      if w.get('pos'):lemmas[key_for('grc',w['lemma'])].append([b,ref,i])
+          assert total==443061 and covered==r['totals']['with_lexicon']
+          assert set(expected)==set(cards) and len(cards)==r['cards']
+          assert all(cards[k]['occurrence_count']==v for k,v in expected.items())
+          for f in (p/'lemas').glob('*.json'):
+              for key,refs in read(f).items():assert shard(key)==f.stem and refs==lemmas.pop(key)
+          assert not lemmas
+          assert cards['G3056']['occurrence_count']>0 and cards['H216']['occurrence_count']>0 and cards['H1254']['occurrence_count']>0
+          print('Verified',len(cards),'cards;',covered,'linked tokens;',total,'audited tokens')
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Salvar somente na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-enrichment public/interlinear-source-structure public/interlinear-gloss-review public/interlinear-strong-review public/interlinear-transliteration public/interlinear-morphology
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-lexicon docs/auditoria-lexical-interlinear.json docs/lexico-pendente
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record stage 6 lexical cards and audit [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi

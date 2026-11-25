@@ -1,0 +1,102 @@
+name: Auditar Strong dos 66 livros
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/auditar-strong-interlinear.yml'
+      - 'scripts/interlinear/audit_strong.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: strong-review-experimental
+  cancel-in-progress: true
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recuperar fontes abertas e revisoes
+        run: |
+          test "$(cat public/interlinear-corpus/oshb-revision.txt)" = db6c5c9b46b8f39346f10915ddb1a70dcd429901
+          git init /tmp/aligned
+          git -C /tmp/aligned remote add origin https://github.com/josafams/biblia-interlinear.git
+          git -C /tmp/aligned sparse-checkout set dados/cap
+          git -C /tmp/aligned fetch --depth 1 --filter=blob:none origin 2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0
+          git -C /tmp/aligned checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/aligned rev-parse HEAD)" = 2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0
+          git init /tmp/step
+          git -C /tmp/step remote add origin https://github.com/STEPBible/STEPBible-Data.git
+          git -C /tmp/step sparse-checkout set Lexicons
+          git -C /tmp/step fetch --depth 1 --filter=blob:none origin 5de0a47f35f0fc13dfe1430d104e5db8a4285f9c
+          git -C /tmp/step checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/step rev-parse HEAD)" = 5de0a47f35f0fc13dfe1430d104e5db8a4285f9c
+      - name: Auditar indices e reconstruir concordancia
+        run: |
+          python3 scripts/interlinear/audit_strong.py --base public/interlinear-corpus --gloss public/interlinear-gloss-review --aligned /tmp/aligned/dados/cap --greeklex /tmp/step/Lexicons/TBESG*.txt --hebrewlex /tmp/step/Lexicons/TBESH*.txt --out public/interlinear-strong-review --report docs/auditoria-strong-interlinear.json --details docs/strong-pendentes
+          cp public/interlinear-enrichment/LICENSE-CC-BY-SA-4.0.txt public/interlinear-strong-review/
+          cat > public/interlinear-strong-review/CREDITOS.md <<'EOF'
+          # Fontes e licenças
+          Open Scriptures Hebrew Bible, CC BY 4.0, https://github.com/openscriptures/morphhb, revisão db6c5c9b46b8f39346f10915ddb1a70dcd429901. Identificadores ampliados do OSHB convertidos para índices clássicos quando aplicáveis, com componentes originais preservados.
+          STEP Bible, https://www.STEPBible.org e https://github.com/STEPBible/STEPBible-Data, revisão 5de0a47f35f0fc13dfe1430d104e5db8a4285f9c, TBESG e TBESH, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Extração e normalização de identificadores e lemas, sem reprodução de definições.
+          Bíblia Interlinear, josafams e colaboradores, https://github.com/josafams/biblia-interlinear, revisão 2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0, CC BY-SA 4.0. Reaproveitamento de alinhamentos com verificação de forma, lema e morfologia. Camada derivada distribuída sob CC BY-SA 4.0; corpus original conserva suas licenças.
+          Não constitui homologação semântica; divergências e casos não aplicáveis são documentados.
+          EOF
+      - name: Testar integridade e concordancia completa
+        run: |
+          python3 - <<'PY'
+          import sys,pathlib,json,collections
+          sys.path.insert(0,'scripts/interlinear')
+          from enrich_open import BOOKS,searchkey,shard
+          from audit_strong import classical,hebrew_ids
+          p=pathlib.Path('public/interlinear-corpus');g=pathlib.Path('public/interlinear-gloss-review');n=pathlib.Path('public/interlinear-strong-review')
+          r=json.loads(pathlib.Path('docs/auditoria-strong-interlinear.json').read_text())
+          assert set(r['books'])==set(BOOKS)
+          expected=collections.defaultdict(list);total=covered=0
+          for i,b in enumerate(BOOKS):
+              base=json.loads((p/(b+'.json')).read_text());new=json.loads((n/'tokens'/(b+'.json')).read_text())
+              assert set(base)==set(new)
+              for k,ws in base.items():
+                  assert len(ws)==len(new[k])
+                  for j,(w,x) in enumerate(zip(ws,new[k])):
+                      total+=1;ids=x['ids'];covered+=bool(ids)
+                      assert len(ids)==len(set(ids))
+                      assert all(classical(s) and s.startswith('H' if i<39 else 'G') for s in ids)
+                      if i<39:assert ids==[s for s in hebrew_ids(w.get('lemma'))[0] if classical(s)]
+                      keys={searchkey(w.get('word') or w['text'])}
+                      if i>=39:keys.add(searchkey(w.get('lemma') or ''))
+                      keys.update(s.lower() for s in ids)
+                      for q in sorted(keys-{''}):expected[q].append([b,k,j])
+          assert total==443061 and covered==r['totals']['with_id']
+          assert r['totals']['previous_with_id']==420102
+          checked=0
+          for f in (n/'concordancia').glob('*.json'):
+              for q,refs in json.loads(f.read_text()).items():
+                  assert shard(q)==f.stem and refs==expected.pop(q),q
+                  checked+=1
+          assert not expected
+          assert checked>1000
+          gen=json.loads((n/'tokens/Gen.json').read_text())
+          assert 'H559' in gen['1:3'][0]['ids']
+          assert sum('H216' in x['ids'] for x in gen['1:3'])==2
+          jn=json.loads((n/'tokens/John.json').read_text())
+          assert any('G3056' in x['ids'] for x in jn['1:1'])
+          print('All concordance references verified:',checked)
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Salvar resultados somente na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-enrichment public/interlinear-source-structure public/interlinear-gloss-review
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-strong-review docs/auditoria-strong-interlinear.json docs/strong-pendentes
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record stage 3 Strong source audit and concordance [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi

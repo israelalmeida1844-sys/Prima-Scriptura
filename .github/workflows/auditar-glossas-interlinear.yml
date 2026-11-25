@@ -1,0 +1,76 @@
+name: Auditar glossas dos 66 livros
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/auditar-glossas-interlinear.yml'
+      - 'scripts/interlinear/audit_glosses.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: gloss-review-experimental
+  cancel-in-progress: true
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recuperar fonte aberta na revisao registrada
+        run: |
+          git clone --depth 1 --filter=blob:none --no-checkout https://github.com/josafams/biblia-interlinear.git /tmp/aligned
+          git -C /tmp/aligned sparse-checkout init --cone
+          git -C /tmp/aligned sparse-checkout set dados/cap
+          rev=$(cat public/interlinear-enrichment/revision.txt)
+          test "$rev" = 2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0
+          git -C /tmp/aligned fetch --depth 1 origin "$rev"
+          git -C /tmp/aligned checkout --detach "$rev"
+          test "$(git -C /tmp/aligned rev-parse HEAD)" = "$rev"
+      - name: Auditar e complementar glossas
+        run: |
+          python3 scripts/interlinear/audit_glosses.py --base public/interlinear-corpus --old public/interlinear-enrichment/glossas --aligned /tmp/aligned/dados/cap --out public/interlinear-gloss-review --report docs/auditoria-glossas-interlinear.json --details docs/glossas-pendentes
+          cp public/interlinear-enrichment/LICENSE-CC-BY-SA-4.0.txt public/interlinear-gloss-review/
+          cp public/interlinear-enrichment/CREDITOS.md public/interlinear-gloss-review/
+          printf '\nCamada de revisao: verificacao estrutural, recuperacao parcial conservadora e correcoes pontuais; sem homologacao semantica. Adaptacoes CC BY-SA 4.0.\n' >> public/interlinear-gloss-review/CREDITOS.md
+      - name: Validar cobertura, proveniencia e preservacao dos indices
+        run: |
+          python3 - <<'PY'
+          import pathlib,json
+          p=pathlib.Path('public/interlinear-corpus');o=pathlib.Path('public/interlinear-enrichment/glossas');n=pathlib.Path('public/interlinear-gloss-review')
+          r=json.loads(pathlib.Path('docs/auditoria-glossas-interlinear.json').read_text())
+          m=json.loads((p/'manifest.json').read_text())
+          assert len(r['books'])==len(m)==66
+          count=0
+          for b in m:
+              base=json.loads((p/(b+'.json')).read_text());old=json.loads((o/(b+'.json')).read_text());new=json.loads((n/(b+'.json')).read_text())
+              assert set(base)==set(new)
+              for k,ws in base.items():
+                  items=new[k]['words'];assert len(ws)==len(items)
+                  for i,x in enumerate(items):
+                      assert x.get('strong')==(old[k]['words'][i].get('strong') if k in old else None)
+                      if x.get('gloss_pt'):
+                          assert x.get('gloss_source') and x['gloss_status']!='pendente'
+                          count+=1
+                      else:assert x['gloss_status']=='pendente' and x.get('gloss_reason')
+          assert count==r['totals']['glosses']
+          assert r['totals']['old_glosses']==425654
+          assert r['totals']['tokens']==443061
+          assert any(c['book']=='Phlm' and c['ref']=='1:2' and c['to']=='Arquipo' for c in r['specific_corrections'])
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Salvar resultados somente na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-enrichment public/interlinear-source-structure
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-gloss-review docs/auditoria-glossas-interlinear.json docs/glossas-pendentes
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record verified stage 2 gloss review [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi

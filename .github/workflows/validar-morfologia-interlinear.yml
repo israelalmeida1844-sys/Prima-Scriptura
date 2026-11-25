@@ -1,0 +1,81 @@
+name: Validar morfologia dos 66 livros
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/validar-morfologia-interlinear.yml'
+      - 'scripts/interlinear/decode_morphology.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: morphology-experimental
+  cancel-in-progress: true
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decodificar e auditar o corpus
+        run: |
+          python3 scripts/interlinear/decode_morphology.py --base public/interlinear-corpus --out public/interlinear-morphology --report docs/auditoria-morfologia-interlinear.json --details docs/morfologia-pendente
+          cat > public/interlinear-morphology/METODOLOGIA.md <<'EOF'
+          # Morfologia em português
+          Catálogo por código original, reutilizado em cada ocorrência. Não substitui o texto original nem corrige a análise gramatical da fonte por inferência.
+          Grego: MorphGNT SBLGNT, versão 6.12, revisão aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d, James K. Tauber (ed.), DOI 10.5281/zenodo.376200; https://github.com/morphgnt/sblgnt. Dados morfológicos CC BY-SA 3.0. Descrições portuguesas adaptadas sob CC BY-SA 3.0.
+          Hebraico e aramaico: Open Scriptures Hebrew Bible, revisão db6c5c9b46b8f39346f10915ddb1a70dcd429901, https://github.com/openscriptures/morphhb/blob/db6c5c9b46b8f39346f10915ddb1a70dcd429901/parsing/HebrewMorphologyCodes.html. Morfologia CC BY 4.0. Tradução e adaptação dos rótulos sob CC BY 4.0.
+          Campos ausentes não são inventados; x indica valor não especificado no código OSHB. O vocativo grego V, presente no corpus, é reconhecido. O tempo/formação verbal não determina sozinho aspecto contextual ou localização temporal. O estado determinado aramaico é também chamado enfático. A preposição Rd incorpora artigo definido implícito, não um morfema escrito separado.
+          Cada componente separado por barra recebe análise própria. Divergências de segmentação são sinalizadas no relatório. Não inclui nova análise sintática ou revisão filológica individual; as variantes Qere não são processadas separadamente.
+          EOF
+      - name: Testar integridade de todos os codigos e ocorrencias
+        run: |
+          python3 - <<'PY'
+          import sys,json,pathlib,hashlib,collections
+          sys.path.insert(0,'scripts/interlinear')
+          from decode_morphology import decode,OT,NT
+          p=pathlib.Path('public/interlinear-corpus')
+          cat=json.loads(pathlib.Path('public/interlinear-morphology/catalogo.json').read_text())
+          r=json.loads(pathlib.Path('docs/auditoria-morfologia-interlinear.json').read_text())
+          assert r['books']==66
+          frequencies=collections.Counter();decoded=0
+          for b in OT+NT:
+              raw=(p/(b+'.json')).read_bytes();data=json.loads(raw)
+              assert hashlib.sha256(raw).hexdigest()==r['books_detail'][b]['base_sha256']
+              for ref,words in data.items():
+                  for w in words:
+                      m=w['morph'];pos=w.get('pos') if b in NT else None
+                      key=pos+' '+m if pos else m
+                      lang='grc' if b in NT else 'arc' if m.startswith('A') else 'hbo'
+                      x=cat[key];assert x['codigo_original']==m and x['pos_original']==pos and x['idioma']==lang
+                      frequencies[key]+=1
+                      if x['status']=='decodificado':
+                          assert x['descricao'] and x['partes']
+                          if b in OT:assert '/'.join(y['codigo'] for y in x['partes'])==m[1:]
+                          else:assert x['partes'][0]['codigo']==key
+                          decoded+=1
+                      else:assert x['motivo'] and x['descricao'] is None
+          assert frequencies==r['code_frequencies'] and sum(frequencies.values())==443061
+          assert set(frequencies)==set(cat)
+          assert decoded==r['totals']['decoded']
+          assert r['totals']['grc_decoded']==137554
+          assert cat['HVqp3ms']['partes'][0]['campos']['tronco']=='Qal'
+          assert cat['V- 3IAI-S--']['partes'][0]['campos']['tempo']=='Imperfeito'
+          print('Verified',sum(frequencies.values()),'tokens;',len(cat),'distinct codes;',decoded,'decoded')
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Salvar somente na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-source-structure public/interlinear-gloss-review public/interlinear-strong-review public/interlinear-transliteration public/interlinear-enrichment
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-morphology docs/auditoria-morfologia-interlinear.json docs/morfologia-pendente
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record stage 5 morphology catalog and audit [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi

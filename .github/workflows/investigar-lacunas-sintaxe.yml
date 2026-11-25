@@ -1,0 +1,42 @@
+name: Investigar lacunas sintaticas 8.1
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/investigar-lacunas-sintaxe.yml'
+      - 'scripts/interlinear/audit_syntax_residual.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recuperar as revisoes originais
+        run: |
+          git init /tmp/macula-greek
+          git -C /tmp/macula-greek remote add origin https://github.com/Clear-Bible/macula-greek.git
+          git -C /tmp/macula-greek sparse-checkout set SBLGNT/lowfat
+          git -C /tmp/macula-greek fetch --depth 1 --filter=blob:none origin 8423afe47b9e8f24b7772e808af45c7159a6fe7e
+          git -C /tmp/macula-greek checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/macula-greek rev-parse HEAD)" = 8423afe47b9e8f24b7772e808af45c7159a6fe7e
+          git init /tmp/macula-hebrew
+          git -C /tmp/macula-hebrew remote add origin https://github.com/Clear-Bible/macula-hebrew.git
+          git -C /tmp/macula-hebrew sparse-checkout set WLC/lowfat
+          git -C /tmp/macula-hebrew fetch --depth 1 --filter=blob:none origin 47db250bd55d0d8577f2a94fba114ef16c35b23c
+          git -C /tmp/macula-hebrew checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/macula-hebrew rev-parse HEAD)" = 47db250bd55d0d8577f2a94fba114ef16c35b23c
+      - name: Investigar lacunas e diagnosticos
+        run: python3 scripts/interlinear/audit_syntax_residual.py --public public --pending docs/sintaxe-pendente --greek /tmp/macula-greek/SBLGNT/lowfat --hebrew /tmp/macula-hebrew/WLC/lowfat --out docs/investigacao-sintaxe-8-1
+      - name: Salvar apenas relatorio documental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/investigacao-sintaxe-8-1
+          git diff --cached --quiet || git commit -m 'Document residual syntax investigations [skip ci] [CF-Pages-Skip]'
+          git push origin HEAD:rascunho/interlinear-completo

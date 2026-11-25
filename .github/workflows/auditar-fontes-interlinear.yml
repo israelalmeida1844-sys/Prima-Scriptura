@@ -1,0 +1,59 @@
+name: Auditar fontes dos 66 livros
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/auditar-fontes-interlinear.yml'
+      - 'scripts/interlinear/audit_sources.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recuperar revisoes exatas
+        run: |
+          for name in morphgnt oshb; do
+            case "$name" in
+              morphgnt) url=https://github.com/morphgnt/sblgnt.git ;;
+              oshb) url=https://github.com/openscriptures/morphhb.git ;;
+            esac
+            rev=$(cat public/interlinear-corpus/$name-revision.txt)
+            [[ "$rev" =~ ^[0-9a-f]{40}$ ]]
+            git init "/tmp/$name"
+            git -C "/tmp/$name" fetch --depth 1 "$url" "$rev"
+            git -C "/tmp/$name" checkout --detach FETCH_HEAD
+            test "$(git -C "/tmp/$name" rev-parse HEAD)" = "$rev"
+          done
+      - name: Auditar todos os tokens e preservar estrutura hebraica
+        run: |
+          python3 scripts/interlinear/audit_sources.py --greek /tmp/morphgnt --hebrew /tmp/oshb --base public/interlinear-corpus --out public/interlinear-source-structure --report docs/auditoria-fontes-interlinear.json
+          cp public/interlinear-corpus/FONTES.md public/interlinear-source-structure/FONTES.md
+          python3 - <<'PY'
+          import json,pathlib
+          p=pathlib.Path('public/interlinear-source-structure')
+          r=json.loads(pathlib.Path('docs/auditoria-fontes-interlinear.json').read_text())
+          assert r['books']==66 and r['status']=='source_fields_match'
+          assert len(list(p.glob('*.json')))==39
+          assert r['totals']['maqqef']>0 and r['totals']['qere_readings']>0
+          assert r['totals']['aramaic_tokens']>0
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Registrar auditoria sem alterar corpus base
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-enrichment
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-source-structure docs/auditoria-fontes-interlinear.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record verified source fidelity and OSHB punctuation [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi

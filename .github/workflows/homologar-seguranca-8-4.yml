@@ -1,0 +1,85 @@
+name: Homologar seguranca e lacunas sintaticas 8.4
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/homologar-seguranca-8-4.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: security-8-4
+  cancel-in-progress: true
+jobs:
+  review:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Consolidar lacunas verificadas
+        run: |
+          python3 - <<'PY'
+          import json,pathlib,collections
+          p=pathlib.Path
+          read=lambda x:json.loads(p(x).read_text())
+          r=read('docs/auditoria-sintaxe-8-2-3.json')
+          primary=read('docs/auditoria-sintatica-interlinear.json')
+          diag=read('docs/investigacao-sintaxe-8-1/report.json')['diagnostics']
+          unresolved=[]
+          for b in p('public/interlinear-syntax-alternates').iterdir():
+              if not b.is_dir():continue
+              for f in b.glob('*.json'):
+                  for ref,rows in read(f).items():
+                      for i,v in rows.items():
+                          if v['reading']=='unresolved':
+                              original=read(p('public/interlinear-corpus')/(b.name+'.json'))[ref][int(i)]
+                              unresolved.append({'book':b.name,'ref':ref,'token':int(i),'original':original,'record':v})
+          assert len(unresolved)==r['totals']['unresolved']==7
+          assert len(diag)==7
+          report={'stage':'8.2-8.4','primary_tokens':443061,'primary_exact_links':primary['totals']['linked'],'qere_alternative_units':r['totals']['qere_units'],'greek_accent_only_units':r['totals']['greek_accent_only_units'],'unresolved_units':unresolved,'source_diagnostics':diag,'scope':'Separate alternate readings, not Ketiv syntax. Diagnostic source roles preserved as unvalidated. No new philological judgment.'}
+          p('docs/pendencias-sintaticas-finais.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps(report,ensure_ascii=False))
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Atualizar versoes explicitamente corrigidas
+        run: |
+          npm ci
+          npm audit --json > /tmp/npm-before.json || true
+          npm install --save-exact astro@7.4.13 @astrojs/mdx@8.1.6
+          npm audit --json > /tmp/npm-after.json || true
+          node --input-type=module - <<'JS'
+          import fs from 'node:fs';
+          const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+          const before=read('/tmp/npm-before.json'),after=read('/tmp/npm-after.json');
+          if(!before.metadata?.vulnerabilities||!after.metadata?.vulnerabilities)throw Error('npm audit unavailable');
+          const report={stage:'8.4',before:before.metadata.vulnerabilities,after:after.metadata.vulnerabilities,remaining:after.vulnerabilities,versions:read('package.json').dependencies,node:process.version,scope:'Explicit major upgrades in experimental branch; only saved after regression tests.'};
+          fs.writeFileSync('docs/auditoria-dependencias-8-4.json',JSON.stringify(report,null,2)+'\n');
+          console.log(JSON.stringify(report));
+          JS
+      - name: Compilar e verificar rotas
+        run: |
+          npm run build
+          test -f dist/interlinear-experimental/index.html
+      - name: Testes Chromium
+        run: |
+          npm install --no-save --package-lock=false playwright@1.58.2
+          npx playwright install --with-deps chromium
+          npm run preview -- --host 127.0.0.1 --port 4321 > /tmp/astro-preview.log 2>&1 &
+          server=$!
+          trap 'kill "$server" 2>/dev/null || true' EXIT
+          for i in $(seq 1 60); do if curl -fsS http://127.0.0.1:4321/interlinear-experimental/ >/dev/null; then break; fi; sleep 1; done
+          node scripts/interlinear/test_alternate_syntax.mjs
+          node scripts/interlinear/test_syntax.mjs
+          node scripts/interlinear/test_search.mjs
+      - name: Salvar apenas resultados validados
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public src
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add package.json package-lock.json docs/pendencias-sintaticas-finais.json docs/auditoria-dependencias-8-4.json docs/testes-sintaxe-complementar.json docs/testes-sintaxe-navegador.json docs/testes-navegador-interlinear.json
+          git diff --cached --quiet || git commit -m 'Validate security upgrade and record residual syntax gaps [skip ci] [CF-Pages-Skip]'
+          git push origin HEAD:rascunho/interlinear-completo

@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "checks": [
+    "henry_original",
+    "jfb_original",
+    "comparison",
+    "poole_chapter",
+    "translation_not_fabricated",
+    "editorial_not_fabricated",
+    "greek_apparatus",
+    "font_css",
+    "hebrew_source_notes"
+  ],
+  "page_errors": [],
+  "font_css": "\"Times New Roman\", serif"
+}

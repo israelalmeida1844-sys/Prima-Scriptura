@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "viewport": [
+    390,
+    844
+  ],
+  "checks": [
+    "strong",
+    "original",
+    "lema",
+    "transliteracao",
+    "glosa",
+    "morfologia",
+    "filters_navigation",
+    "pagination",
+    "diacritics",
+    "same_component_morphology",
+    "zero_results",
+    "lexical_dialog"
+  ],
+  "page_errors": []
+}

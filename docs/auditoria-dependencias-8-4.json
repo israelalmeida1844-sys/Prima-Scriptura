@@ -1,0 +1,26 @@
+{
+  "stage": "8.4",
+  "before": {
+    "info": 0,
+    "low": 2,
+    "moderate": 0,
+    "high": 3,
+    "critical": 1,
+    "total": 6
+  },
+  "after": {
+    "info": 0,
+    "low": 0,
+    "moderate": 0,
+    "high": 0,
+    "critical": 0,
+    "total": 0
+  },
+  "remaining": {},
+  "versions": {
+    "@astrojs/mdx": "8.1.6",
+    "astro": "7.4.13"
+  },
+  "node": "v24.22.3",
+  "scope": "Explicit major upgrades in experimental branch; only saved after regression tests."
+}
