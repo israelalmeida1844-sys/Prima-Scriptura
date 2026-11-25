@@ -1,0 +1,16 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const categories = ['escatologia', 'eventos finais', 'escatologia/eventos finais', 'escatologia / eventos finais'];
+const items = (await getCollection('estudos', ({data}) => !data.draft && categories.includes(data.category.trim().toLocaleLowerCase('pt-BR')))).sort((a,b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+<Base title="Escatologia / Eventos finais">
+  <section class="section"><div class="wrap">
+    <a href="/estudos/">← Estudos temáticos</a>
+    <div class="eyebrow">Profecias bíblicas</div>
+    <h1>Escatologia / Eventos finais</h1>
+    <p>Estudos bíblicos dedicados ao tempo do fim, à segunda vinda de Cristo e à consumação do plano da salvação, com atenção ao contexto histórico, literário e teológico das Escrituras.</p>
+    <div class="grid">{items.map(item => <a class="card" href={'/estudos/'+item.id+'/'}><div class="kicker">{item.data.category}</div><h3>{item.data.title}</h3><p>{item.data.description}</p><strong>Ler estudo →</strong></a>)}</div>
+    {items.length === 0 && <p>Os estudos desta seção estão em preparação.</p>}
+  </div></section>
+</Base>
