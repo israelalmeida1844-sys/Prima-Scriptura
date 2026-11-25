@@ -66,6 +66,7 @@ def verify():
                 tot["tokens"]+=1
                 old=prior[ref]["words"][i]
                 if old["nodes"]:
+                    tot["previously_linked"]+=1
                     assert r["nodes"],(b,ref,i,"regression")
                     assert [nodes[j]["source_id"] for j in r["nodes"]]==[prior[ref]["nodes"][j]["source_id"] for j in old["nodes"]],(b,ref,i,"mapping changed")
                 if not r["nodes"]:
@@ -107,7 +108,7 @@ def verify():
     dan=read(a.out/"Dan/7.json")["7:1"];assert dan["matched"]>0
     john=read(a.out/"3John/1.json")["1:1"];assert john["matched"]>0
     report=read(a.report);assert report["totals"]["linked"]==tot["linked"]
-    assert tot["recovered"]==tot["linked"]-439570
+    assert tot["recovered"]==tot["linked"]-tot["previously_linked"]
     report["independent_validation"]=dict(tot);report["status"]="source_paths_verified"
     write(a.report,report);print(dict(tot))
 if __name__=="__main__":verify()
