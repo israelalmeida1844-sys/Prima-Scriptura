@@ -124,6 +124,37 @@ async function showSyntax(selected?:number){
       }
     }
     tree(syntaxContent,kids.get(null)||[]);
+    if(x.matched<ws.length){
+      const section=document.createElement("section");section.id="alternate-syntax";syntaxContent.append(section);
+      appendText(section,"h3","Leituras alternativas e revisão filológica");
+      try{
+        const altUrl="/interlinear-syntax-alternates/"+encodeURIComponent(b)+"/"+encodeURIComponent(ch)+".json";
+        const response=await fetch(altUrl);if(id!==syntaxSerial)return;
+        if(response.ok){
+          const all=await response.json();if(id!==syntaxSerial)return;
+          const entries=all[ref]||{};const seen=new Set<string>();
+          for(const [k,r] of Object.entries(entries) as [string,any][]){
+            if(selected!==undefined&&Number(k)!==selected)continue;
+            const sig=JSON.stringify(r.span||[k]);if(seen.has(sig))continue;seen.add(sig);
+            const item=document.createElement("article");section.append(item);
+            const span=r.span||[Number(k),Number(k)+1];
+            appendText(item,"h4",(r.reading==="qere"?"Ketiv (forma escrita)": "Texto-base")+": "+ws.slice(span[0],span[1]).map(w=>w.text).join(" "));
+            if(r.reading==="qere"){
+              appendText(item,"p","Qere (leitura registrada no OSHB): "+r.qere.map((w:any)=>w.text).join(" "));
+              appendText(item,"p","Sintaxe da leitura Qere no MACULA — não atribuída ao Ketiv.");
+            }else if(r.reading==="greek_accent_only")appendText(item,"p","Correspondência grega com diferença apenas de acentuação, lema e morfologia confirmados.");
+            else{
+              appendText(item,"p","Sem correspondência sintática demonstrada.");
+              for(const note of r.notes||[])appendText(item,"p","Qere documentado: "+note.qere.map((w:any)=>w.text).join(" "));
+            }
+            for(const leaf of r.source||[]){
+              appendText(item,"p",leaf.form+" · "+leaf.source_id+" · "+leaf.source_ref);
+              appendText(item,"p",leaf.path.map((n:any)=>describeSyn(n)).join(" › "));
+            }
+          }
+        }else if(response.status!==404)appendText(section,"p","Camada complementar indisponível.");
+      }catch{if(id===syntaxSerial)appendText(section,"p","Não foi possível consultar a camada complementar.");}
+    }
     if(x.matched<ws.length){const pending=x.words.map((w,i)=>w.nodes.length?null:ws[i].text+" ("+(w.reason||"sem correspondência segura").replaceAll("_"," ")+")").filter(Boolean);appendText(syntaxContent,"p","Palavras pendentes: "+pending.join(" · "));}
   }catch{if(id===syntaxSerial){syntaxContent.replaceChildren();appendText(syntaxContent,"p","Não foi possível carregar a análise sintática.");}}
 }
