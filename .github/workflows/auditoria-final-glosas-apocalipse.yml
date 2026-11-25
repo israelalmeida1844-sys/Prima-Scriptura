@@ -1,0 +1,42 @@
+name: Auditoria final de glosas Apocalipse 1–8
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths: ['.github/workflows/auditoria-final-glosas-apocalipse.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  revisar:
+    if: github.ref == 'refs/heads/rascunho/apocalipse'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Corrigir glosas e verificar invariantes
+        run: node scripts/auditar-glosas-apocalipse-1-8.mjs
+      - name: Validar transliteração, compilar e conferir as 143 rotas
+        run: |
+          node scripts/testar-transliteracao-apocalipse.mjs
+          node scripts/normalizar-transliteracao-apocalipse.mjs --check
+          npm install --no-audit --no-fund
+          npm run build
+          counts=(20 29 22 11 14 17 17 13)
+          for c in $(seq 1 8); do
+            for v in $(seq 1 "${counts[$((c-1))]}"); do
+              test -s "dist/comentarios/apocalipse/capitulo-$c/versiculo-$v/index.html"
+            done
+          done
+      - name: Registrar correções no rascunho
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/lexico-grego/apocalipse-*.json src/data/texto-original/apocalipse/apocalipse-[1-8]-*.ts docs/revisao-contextual-apocalipse-2-8.json docs/auditoria-final-glosas-apocalipse-1-8.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'fix(apocalipse): concordância e flexão contextual das glosas'
+            git push origin HEAD:rascunho/apocalipse
+          fi
