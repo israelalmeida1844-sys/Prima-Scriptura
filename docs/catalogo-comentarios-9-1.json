@@ -1,0 +1,114 @@
+{
+  "stage": "9.1",
+  "date": "2026-11-25",
+  "policy": "Only explicitly unrestricted public-domain digital editions may be approved for unrestricted redistribution; no modern translations assumed public domain. Original content and Portuguese translation separate. Times New Roman for Greek/Hebrew/Aramaic. No import during 9.1.",
+  "sources": [
+    {
+      "id": "MHC",
+      "author": "Matthew Henry",
+      "title": "Matthew Henry's Complete Commentary on the Whole Bible",
+      "version": "2.2",
+      "scope": "whole Bible",
+      "language": "en",
+      "license": "Public Domain",
+      "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=MHC",
+      "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/MHC.zip",
+      "status": "license_verified_pending_binary"
+    },
+    {
+      "id": "JFB",
+      "author": "Robert Jamieson; A. R. Fausset; David Brown",
+      "title": "Commentary Critical and Explanatory on the Whole Bible (1871)",
+      "version": "3.0",
+      "scope": "whole Bible",
+      "language": "en",
+      "license": "Public Domain",
+      "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=JFB",
+      "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/JFB.zip",
+      "status": "license_verified_pending_binary"
+    },
+    {
+      "id": "Clarke",
+      "author": "Adam Clarke",
+      "title": "Commentary and critical notes on the Bible",
+      "version": "2.0",
+      "scope": "whole Bible",
+      "language": "en",
+      "license": "Public Domain",
+      "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=Clarke",
+      "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Clarke.zip",
+      "status": "license_verified_pending_binary"
+    },
+    {
+      "id": "Barnes",
+      "author": "Albert Barnes",
+      "title": "New Testament Notes",
+      "version": "1.1",
+      "scope": "NT",
+      "language": "en",
+      "license": "Public Domain",
+      "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=Barnes",
+      "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Barnes.zip",
+      "status": "license_verified_pending_binary"
+    },
+    {
+      "id": "KD",
+      "author": "C. F. Keil; Franz Delitzsch",
+      "title": "Biblical Commentary on the Old Testament",
+      "version": "2.0",
+      "scope": "OT",
+      "language": "en",
+      "license": "Public Domain",
+      "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=KD",
+      "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/KD.zip",
+      "status": "license_verified_pending_binary"
+    },
+    {
+      "id": "CalvinCommentaries",
+      "author": "John Calvin",
+      "title": "Collected Commentaries",
+      "version": "1.1",
+      "scope": "selected books",
+      "language": "en",
+      "license": "Public Domain",
+      "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=CalvinCommentaries",
+      "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/CalvinCommentaries.zip",
+      "status": "license_verified_pending_binary"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "SIPoole",
+      "author": "Matthew Poole",
+      "url": "https://www.sermonindex.net/commentary/poole/",
+      "download": "https://www.sermonindex.net/modules/sword/sipoole.zip",
+      "status": "license_conflict",
+      "reason": "Individual page declares public domain but general site conditions restrict commercial use; do not redistribute until clarified.",
+      "alternative": "https://commons.wikimedia.org/wiki/File:Annotations_upon_the_Holy_Bible._1685_(IA_bim_early-english-books-1641-1700_annotations-upon-the-hol_poole-matthew_1685).pdf",
+      "alternative_status": "Historical scan public domain; not verse-indexed; completeness and transcription unverified."
+    },
+    {
+      "id": "SIGill",
+      "author": "John Gill",
+      "url": "https://www.sermonindex.net/commentary/gill/",
+      "download": "https://www.sermonindex.net/modules/sword/sigill.zip",
+      "status": "license_conflict",
+      "reason": "Same restriction conflict; historical edition can be researched separately."
+    },
+    {
+      "id": "RWP",
+      "author": "A. T. Robertson",
+      "status": "not_approved",
+      "reason": "No unrestricted digital edition verified."
+    },
+    {
+      "id": "Meyer",
+      "status": "not_approved"
+    },
+    {
+      "id": "Vincent",
+      "status": "not_approved"
+    }
+  ],
+  "policy_evidence": "https://www.sermonindex.net/md/copying-permissions/"
+}
