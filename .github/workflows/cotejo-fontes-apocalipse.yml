@@ -1,0 +1,45 @@
+name: Cotejo de fontes e concordâncias Apocalipse 1–8
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths:
+      - '.github/workflows/cotejo-fontes-apocalipse.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cotejo-fontes-apocalipse
+  cancel-in-progress: false
+jobs:
+  cotejar:
+    if: github.ref == 'refs/heads/rascunho/apocalipse'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Obter edições fixadas e corpus
+        run: |
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+          curl --fail --location --retry 3 --silent --show-error 'https://raw.githubusercontent.com/Faithlife/SBLGNT/d7f35adca9ec410e1d1499c63b4dd989d76c8d4d/data/sblgntapp/text/Rev.txt' -o /tmp/prima-apparatus.txt
+          curl --fail --location --retry 3 --silent --show-error 'https://raw.githubusercontent.com/honza/textus-receptus/2bac2dae4a0961c84d6d544a40cbef8b8d8c4e32/data/gnt.flat.json' -o /tmp/prima-tr.json
+      - name: Cotejar os 143 versículos e recontar concordâncias
+        run: python3 scripts/cotejar-fontes-apocalipse.py /tmp/prima-morphgnt /tmp/prima-apparatus.txt /tmp/prima-tr.json --apply
+      - name: Testar transliteração e compilar
+        run: |
+          node scripts/testar-transliteracao-apocalipse.mjs
+          node scripts/normalizar-transliteracao-apocalipse.mjs --check
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Registrar relatório e correções apenas em rascunho
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/texto-original/apocalipse/apocalipse-[1-8]-*.ts public/data/concordancia-grega/ docs/auditoria-fontes-apocalipse-1-8.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'fix(apocalipse): cotejo integral de edições e auditoria de concordâncias'
+            git push origin HEAD:rascunho/apocalipse
+          fi
