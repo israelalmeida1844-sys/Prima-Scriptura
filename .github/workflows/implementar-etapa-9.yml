@@ -1,0 +1,74 @@
+name: Implementar etapa 9
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/implementar-etapa-9.yml'
+      - 'scripts/commentaries/export_sword.cpp'
+      - 'scripts/commentaries/import_stage9.py'
+      - 'scripts/commentaries/import_criticism.py'
+      - 'scripts/commentaries/test_stage9.mjs'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: etapa-9-experimental
+  cancel-in-progress: true
+jobs:
+  implement:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Preparar ferramenta SWORD e importar modulos auditados
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y libsword-dev pkg-config
+          g++ -std=c++17 -O2 scripts/commentaries/export_sword.cpp -o /tmp/export-sword $(pkg-config --cflags --libs sword)
+          python3 scripts/commentaries/import_stage9.py
+      - name: Importar aparato oficial e notas massoreticas
+        run: |
+          git init /tmp/sblgnt
+          git -C /tmp/sblgnt remote add origin https://github.com/Faithlife/SBLGNT.git
+          git -C /tmp/sblgnt fetch --depth 1 origin d7f35adca9ec410e1d1499c63b4dd989d76c8d4d
+          git -C /tmp/sblgnt checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/sblgnt rev-parse HEAD)" = d7f35adca9ec410e1d1499c63b4dd989d76c8d4d
+          python3 scripts/commentaries/import_criticism.py
+          cp /tmp/sblgnt/LICENSE public/textual-criticism/LICENSE-SBLGNT.txt
+          cat > public/textual-criticism/CREDITOS.md <<'EOF'
+          # Crítica textual — fontes
+          The SBL Greek New Testament © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0, https://github.com/Faithlife/SBLGNT, revisão d7f35adca9ec410e1d1499c63b4dd989d76c8d4d. Aparato comparativo das edições (SBLGNTApp), transcrito sem acrescentar testemunhos. Formato adaptado para JSON. https://creativecommons.org/licenses/by/4.0/
+          Original work of the Open Scriptures Hebrew Bible, https://github.com/openscriptures/morphhb, revisão db6c5c9b46b8f39346f10915ddb1a70dcd429901, CC BY 4.0. Notas da fonte original preservadas em JSON. Não é um aparato crítico completo de manuscritos.
+          EOF
+          cp docs/catalogo-comentarios-9-1.json public/commentaries/SOURCES.json
+          cp docs/metodologia-etapa-9.md public/commentaries/CREDITOS.md
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Compilar e verificar seguranca
+        run: |
+          npm ci
+          npm audit --audit-level=high
+          npm run build
+      - name: Testes de navegacao e regressao
+        run: |
+          npm install --no-save --package-lock=false playwright@1.58.2
+          npx playwright install --with-deps chromium
+          npm run preview -- --host 127.0.0.1 --port 4321 > /tmp/astro-preview.log 2>&1 &
+          server=$!
+          trap 'kill "$server" 2>/dev/null || true' EXIT
+          for i in $(seq 1 60); do if curl -fsS http://127.0.0.1:4321/interlinear-experimental/ >/dev/null; then break; fi; sleep 1; done
+          node scripts/commentaries/test_stage9.mjs
+          node scripts/interlinear/test_alternate_syntax.mjs
+          node scripts/interlinear/test_syntax.mjs
+          node scripts/interlinear/test_search.mjs
+      - name: Salvar somente apos validacao
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-source-structure public/interlinear-syntax public/interlinear-syntax-alternates public/interlinear-gloss-review public/interlinear-strong-review public/interlinear-transliteration public/interlinear-morphology public/interlinear-lexicon public/interlinear-search
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/commentaries public/textual-criticism docs/auditoria-comentarios-9.json docs/auditoria-critica-textual-9.json docs/testes-etapa-9.json
+          git diff --cached --quiet || git commit -m 'Record verified classical commentary and textual apparatus data [skip ci] [CF-Pages-Skip]'
+          git push origin HEAD:rascunho/interlinear-completo
