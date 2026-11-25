@@ -25,9 +25,9 @@ function greek(s){
     const c=clusters[i],next=clusters[i+1],prev=clusters[i-1];
     let out=MAP[c.base];
     if(c.base==="γ"&&next&&"γκχξ".includes(next.base))out="n";
-    if(c.base==="υ"&&prev&&DIP.has(prev.base+c.base)&&!c.marks.includes("\u0308"))out="u";
+    if(c.base==="υ"&&((prev&&DIP.has(prev.base+c.base)&&!c.marks.includes("\u0308"))||(next?.base==="ι"&&!next.marks.includes("\u0308"))))out="u";
     if(c.marks.includes("\u0345"))out+="i";
-    if(c.base==="ρ"&&c.marks.includes("\u0314"))out="rh";
+    if(c.base==="ρ"&&(c.marks.includes("\u0314")||prev?.base==="ρ"))out="rh";
     if(VOWEL.has(c.base)&&c.marks.includes("\u0314")){
       if(i===1&&prev&&DIP.has(prev.base+c.base)&&!c.marks.includes("\u0308"))parts[0]="h"+parts[0];
       else out="h"+out;
@@ -71,7 +71,7 @@ function validLatin(s){
   return typeof s==="string"&&/\p{Script=Latin}/u.test(s)&&!/[א-ת\u0591-\u05c7]/u.test(s)&&!/\p{Script=Greek}/u.test(s)&&!s.includes("\ufffd");
 }
 function selftest(){
-  for(const [a,b] of [["λόγος","logos"],["ἀγάπη","agapē"],["Ἰησοῦς","Iēsous"],["αἵρεσις","hairesis"],["ὕμνος","hymnos"],["ἄγγελος","angelos"],["ῥῆμα","rhēma"],["ᾧ","hōi"],["Χριστός","Christos"],["Μωϋσῆς","Mōysēs"]])assert.equal(greek(a),b,a);
+  for(const [a,b] of [["λόγος","logos"],["ἀγάπη","agapē"],["Ἰησοῦς","Iēsous"],["αἵρεσις","hairesis"],["ὕμνος","hymnos"],["ἄγγελος","angelos"],["ῥῆμα","rhēma"],["ᾧ","hōi"],["Χριστός","Christos"],["Μωϋσῆς","Mōysēs"],["υἱός","huios"],["Πύρρος","Pyrrhos"]])assert.equal(greek(a),b,a);
   for(const [a,b] of [["בָּרָא","bārāʾ"],["שָׁלוֹם","šālôm"]])assert.equal(semitic(a).value,b,a);
   assert.equal(semitic("בְּ/רֵאשִׁית").value,semitic("בְּרֵאשִׁית").value);
   assert.equal(semitic("יְהוָה").value,"yhwh");
