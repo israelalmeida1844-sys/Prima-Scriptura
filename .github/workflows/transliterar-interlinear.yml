@@ -1,0 +1,80 @@
+name: Transliterar os 66 livros
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/transliterar-interlinear.yml'
+      - 'scripts/interlinear/transliteration/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: transliteration-experimental
+  cancel-in-progress: true
+jobs:
+  generate:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar motor de transliteracao isolado
+        run: |
+          npm install --prefix scripts/interlinear/transliteration --ignore-scripts --no-audit --no-fund
+          npm ls --prefix scripts/interlinear/transliteration --all
+      - name: Gerar transliteracao com testes de referencia
+        run: |
+          node scripts/interlinear/transliteration/generate.mjs public/interlinear-corpus public/interlinear-source-structure public/interlinear-transliteration docs/auditoria-transliteracao-interlinear.json docs/transliteracao-pendente
+          cat > public/interlinear-transliteration/CONVENCOES.md <<'EOF'
+          # Convenções de transliteração — Prima Scriptura
+          Grego: convenção ortográfica própria baseada nos sinais acadêmicos correntes (não reprodução integral do SBL). eta/omega = ē/ō; θ/φ/χ/ψ = th/ph/ch/ps; υ = y fora de ditongo; gamma nasal antes de γκχξ; espírito áspero = h (rh no rho); iota subscrito = i; acentos e pontuação não são reproduzidos na transliteração, mas permanecem na fonte. Maiúscula inicial preservada.
+          Hebraico: Charles Loder, hebrew-transliteration 2.11.0, esquema SBL academic, licença MIT, https://github.com/charlesLoder/hebrew-transliteration e https://charlesloder.github.io/hebrew-transliteration/api/classes/sbl/. A barra de segmentação OSHB é removida somente da entrada do motor. Sheva, qamats, dagesh, matres, guturais e sílabas são interpretados pelo motor, não revistos individualmente.
+          Aramaico: mesma convenção gráfica aplicada ao texto massorético, não reconstrução fonética histórica nem esquema aramaico independente homologado.
+          Tetragrama: yhwh por convenção, sem inferir pronúncia. Palavras ligadas por maqqef são transliteradas isoladamente; a influência do contexto é sinalizada.
+          Estados: grego_ortografico, sbl_automatico, sbl_modo_permissivo (requer revisão), pendente. Flags registram condições interpretativas. Não equivale a homologação filológica de cada forma. Qere e variantes não são transliterados separadamente nesta etapa.
+          Fontes do corpus: SBLGNT/MorphGNT e OSHB, créditos e licenças em /interlinear-corpus/FONTES.md. Texto original intocado.
+          EOF
+          cp public/interlinear-corpus/FONTES.md public/interlinear-transliteration/FONTES.md
+          find scripts/interlinear/transliteration/node_modules/hebrew-transliteration -maxdepth 1 -iname 'license*' -exec cp {} public/interlinear-transliteration/LICENSE-hebrew-transliteration.txt \;
+          find scripts/interlinear/transliteration/node_modules/havarotjs -maxdepth 1 -iname 'license*' -exec cp {} public/interlinear-transliteration/LICENSE-havarotjs.txt \;
+      - name: Validar todos os registros
+        run: |
+          python3 - <<'PY'
+          import json,pathlib,hashlib
+          base=pathlib.Path('public/interlinear-corpus');out=pathlib.Path('public/interlinear-transliteration')
+          r=json.loads(pathlib.Path('docs/auditoria-transliteracao-interlinear.json').read_text())
+          m=json.loads((base/'manifest.json').read_text());assert r['books']==len(m)==66
+          count=covered=0
+          for i,b in enumerate(m):
+              raw=(base/(b+'.json')).read_bytes();data=json.loads(raw);tr=json.loads((out/(b+'.json')).read_text())
+              assert hashlib.sha256(raw).hexdigest()==r['books_detail'][b]['base_sha256']
+              assert set(data)==set(tr)
+              for ref,words in data.items():
+                  assert len(words)==len(tr[ref])
+                  for w,x in zip(words,tr[ref]):
+                      count+=1
+                      lang='grc' if m[b]['source']=='MorphGNT/SBLGNT' else 'arc' if w['morph'].startswith('A') else 'hbo'
+                      assert x['language']==lang and isinstance(x['flags'],list)
+                      if x['value'] is not None:
+                          assert x['value'].strip() and x['status']!='pendente'
+                          covered+=1
+                      else:assert x['status']=='pendente'
+          assert count==443061 and covered==r['totals']['transliterated']
+          assert r['totals']['grc_transliterated']==137554
+          print('Verified',count,'records;',covered,'transliterations')
+          PY
+      - run: npm install
+      - run: npm run build
+      - name: Salvar apenas na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-enrichment public/interlinear-source-structure public/interlinear-gloss-review public/interlinear-strong-review
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-transliteration docs/auditoria-transliteracao-interlinear.json docs/transliteracao-pendente scripts/interlinear/transliteration/package-lock.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record stage 4 transliteration and verification [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi
