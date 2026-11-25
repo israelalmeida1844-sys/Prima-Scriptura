@@ -17,7 +17,7 @@ const booksFromCollection = Array.from(new Set(entries.map(item => item.data.boo
 const books = [
   {name:'Gênesis',testament:'Antigo Testamento',count:0,total:50,url:'/comentarios/genesis/',partial:true},
   ...booksFromCollection,
-  {name:'Apocalipse',testament:'Novo Testamento',count:0,total:22,url:'/comentarios/apocalipse/',partial:true}
+  {name:'Apocalipse',testament:'Novo Testamento',count:8,total:22,url:'/comentarios/apocalipse/',partial:true}
 ];
 ---
 <Base title="Comentários bíblicos" description="Biblioteca de comentários bíblicos organizados por livro e capítulo.">
@@ -34,9 +34,9 @@ const books = [
               <a href={book.url} class="book-card">
                 <span class="book-testament">{book.testament}</span>
                 <h3>{book.name}</h3>
-                <p>{book.partial ? (book.name === 'Apocalipse' ? 'Edição de avaliação: Apocalipse 1:1–20 e 2:1–29, com texto grego, interlinear, morfologia, léxico e concordâncias em avaliação.' : 'Edição de avaliação: Gênesis 1:1–8 com hebraico interlinear e concordâncias completas. Demais versículos em desenvolvimento.') : 'Comentários organizados por capítulo, com exposição bíblica e referências para aprofundamento.'}</p>
-                <span class="book-progress">{book.partial ? (book.name === 'Apocalipse' ? '49 versículos para avaliação · 22 capítulos no livro' : '8 versículos para avaliação · 50 capítulos no livro') : book.count + ' de ' + book.total + ' capítulos disponíveis'}</span>
-                <strong>{book.partial ? (book.name === 'Apocalipse' ? 'Avaliar Apocalipse' : 'Avaliar Gênesis') : 'Ver capítulos'} <span aria-hidden="true">→</span></strong>
+                <p>{book.partial ? (book.name === 'Apocalipse' ? 'Apocalipse 1–8 disponíveis: 143 versículos com texto grego interlinear, morfologia, léxico e concordâncias. Edição acadêmica em revisão contínua.' : 'Edição de avaliação: Gênesis 1:1–8 com hebraico interlinear e concordâncias completas. Demais versículos em desenvolvimento.') : 'Comentários organizados por capítulo, com exposição bíblica e referências para aprofundamento.'}</p>
+                <span class="book-progress">{book.partial ? (book.name === 'Apocalipse' ? '8 capítulos disponíveis · 143 versículos · 22 capítulos no livro' : '8 versículos para avaliação · 50 capítulos no livro') : book.count + ' de ' + book.total + ' capítulos disponíveis'}</span>
+                <strong>{book.partial ? (book.name === 'Apocalipse' ? 'Estudar Apocalipse' : 'Avaliar Gênesis') : 'Ver capítulos'} <span aria-hidden="true">→</span></strong>
               </a>
             ))}
           </div>
