@@ -1,0 +1,338 @@
+{
+  "scope": "Apocalipse 8 — lote 3: Hebreus e sete cartas gerais integralmente processados",
+  "batchComplete": true,
+  "complete": false,
+  "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7; possíveis variantes de lema registradas separadamente",
+  "sources": [
+    {
+      "book": "Hb",
+      "blob": "b6f41c7341e6b40dddf36eb7230f6ea2541cd879",
+      "rows": 4935,
+      "first": "190101",
+      "last": "191325"
+    },
+    {
+      "book": "Tg",
+      "blob": "462cf055ed12eb98f050da2d2ddcf040212304af",
+      "rows": 1739,
+      "first": "200101",
+      "last": "200520"
+    },
+    {
+      "book": "1Pe",
+      "blob": "5ac72702c9fba9872973d9ae477933ffd261caf7",
+      "rows": 1678,
+      "first": "210101",
+      "last": "210514"
+    },
+    {
+      "book": "2Pe",
+      "blob": "e00185e04d19766df22734e7bce8342916f1d695",
+      "rows": 1098,
+      "first": "220101",
+      "last": "220318"
+    },
+    {
+      "book": "1Jo",
+      "blob": "256ce436ae5bb07f405b8971b8355336dfe39e76",
+      "rows": 2137,
+      "first": "230101",
+      "last": "230521"
+    },
+    {
+      "book": "2Jo",
+      "blob": "1dd4b1fd9bd6095ddbb6d9e178c193666fd43860",
+      "rows": 245,
+      "first": "240101",
+      "last": "240113"
+    },
+    {
+      "book": "3Jo",
+      "blob": "27a36b65129ba367a8ea92dc3507ef1a0cfee730",
+      "rows": 219,
+      "first": "250101",
+      "last": "250115"
+    },
+    {
+      "book": "Jd",
+      "blob": "c401f296d69d02a78d0266a976bdd72db95fb318",
+      "rows": 459,
+      "first": "260101",
+      "last": "260125"
+    }
+  ],
+  "entries": {
+    "ἕβδομος": {
+      "tokenCount": 3,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Hb": 2,
+        "Jd": 1
+      },
+      "references": [
+        "Hb 4:4",
+        "Jd 1:14"
+      ]
+    },
+    "σιγή": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἡμιώριον": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "λιβανωτός": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "καπνός": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "γεμίζω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἑτοιμάζω": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Hb": 1
+      },
+      "references": [
+        "Hb 11:16"
+      ]
+    },
+    "σαλπίζω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "χάλαζα": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "μίγνυμι": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "κατακαίω": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Hb": 1
+      },
+      "references": [
+        "Hb 13:11"
+      ]
+    },
+    "χόρτος": {
+      "tokenCount": 5,
+      "verseCount": 3,
+      "bookDistribution": {
+        "Tg": 2,
+        "1Pe": 3
+      },
+      "references": [
+        "Tg 1:10",
+        "Tg 1:11",
+        "1Pe 1:24"
+      ]
+    },
+    "πλοῖον": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Tg": 1
+      },
+      "references": [
+        "Tg 3:4"
+      ]
+    },
+    "διαφθείρω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ποταμός": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἄψινθος": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἄψινθος": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πικραίνω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πλήσσω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "σκοτίζομαι": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "μεσουράνημα": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "οὐαί": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Jd": 1
+      },
+      "references": [
+        "Jd 1:11"
+      ]
+    }
+  },
+  "alternativeCandidates": {},
+  "strongMapping": [
+    {
+      "lemma": "ἕβδομος",
+      "strong": "G1442",
+      "aliases": []
+    },
+    {
+      "lemma": "σιγή",
+      "strong": "G4602",
+      "aliases": []
+    },
+    {
+      "lemma": "ἡμιώριον",
+      "strong": "G2256",
+      "aliases": []
+    },
+    {
+      "lemma": "λιβανωτός",
+      "strong": "G3031",
+      "aliases": []
+    },
+    {
+      "lemma": "καπνός",
+      "strong": "G2586",
+      "aliases": []
+    },
+    {
+      "lemma": "γεμίζω",
+      "strong": "G1072",
+      "aliases": []
+    },
+    {
+      "lemma": "ἑτοιμάζω",
+      "strong": "G2090",
+      "aliases": []
+    },
+    {
+      "lemma": "σαλπίζω",
+      "strong": "G4537",
+      "aliases": []
+    },
+    {
+      "lemma": "χάλαζα",
+      "strong": "G5464",
+      "aliases": []
+    },
+    {
+      "lemma": "μίγνυμι",
+      "strong": "G3396",
+      "aliases": []
+    },
+    {
+      "lemma": "κατακαίω",
+      "strong": "G2618",
+      "aliases": []
+    },
+    {
+      "lemma": "χόρτος",
+      "strong": "G5528",
+      "aliases": []
+    },
+    {
+      "lemma": "πλοῖον",
+      "strong": "G4143",
+      "aliases": []
+    },
+    {
+      "lemma": "διαφθείρω",
+      "strong": "G1311",
+      "aliases": []
+    },
+    {
+      "lemma": "ποταμός",
+      "strong": "G4215",
+      "aliases": []
+    },
+    {
+      "lemma": "ἄψινθος",
+      "strong": "G894",
+      "aliases": [
+        "Ἄψινθος"
+      ]
+    },
+    {
+      "lemma": "πικραίνω",
+      "strong": "G4087",
+      "aliases": []
+    },
+    {
+      "lemma": "πλήσσω",
+      "strong": "G4141",
+      "aliases": []
+    },
+    {
+      "lemma": "σκοτίζομαι",
+      "strong": "G4654",
+      "aliases": []
+    },
+    {
+      "lemma": "μεσουράνημα",
+      "strong": "G3321",
+      "aliases": []
+    },
+    {
+      "lemma": "οὐαί",
+      "strong": "G3759",
+      "aliases": []
+    }
+  ],
+  "totalMatches": 12
+}
