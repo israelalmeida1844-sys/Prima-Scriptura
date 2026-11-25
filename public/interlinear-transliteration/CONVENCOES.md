@@ -1,0 +1,7 @@
+# Convenções de transliteração — Prima Scriptura
+Grego: convenção ortográfica própria baseada nos sinais acadêmicos correntes (não reprodução integral do SBL). eta/omega = ē/ō; θ/φ/χ/ψ = th/ph/ch/ps; υ = y fora de ditongo; gamma nasal antes de γκχξ; espírito áspero = h (rh no rho); iota subscrito = i; acentos e pontuação não são reproduzidos na transliteração, mas permanecem na fonte. Maiúscula inicial preservada.
+Hebraico: Charles Loder, hebrew-transliteration 2.11.0, esquema SBL academic, licença MIT, https://github.com/charlesLoder/hebrew-transliteration e https://charlesloder.github.io/hebrew-transliteration/api/classes/sbl/. A barra de segmentação OSHB é removida somente da entrada do motor. Sheva, qamats, dagesh, matres, guturais e sílabas são interpretados pelo motor, não revistos individualmente.
+Aramaico: mesma convenção gráfica aplicada ao texto massorético, não reconstrução fonética histórica nem esquema aramaico independente homologado.
+Tetragrama: yhwh por convenção, sem inferir pronúncia. Palavras ligadas por maqqef são transliteradas isoladamente; a influência do contexto é sinalizada.
+Estados: grego_ortografico, sbl_automatico, sbl_modo_permissivo (requer revisão), pendente. Flags registram condições interpretativas. Não equivale a homologação filológica de cada forma. Qere e variantes não são transliterados separadamente nesta etapa.
+Fontes do corpus: SBLGNT/MorphGNT e OSHB, créditos e licenças em /interlinear-corpus/FONTES.md. Texto original intocado.
