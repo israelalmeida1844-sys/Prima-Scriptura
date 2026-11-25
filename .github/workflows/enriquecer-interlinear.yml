@@ -1,0 +1,59 @@
+name: Enriquecer interlinear experimental
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/enriquecer-interlinear.yml'
+      - 'scripts/interlinear/enrich_open.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  importar:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Obter camada de glosas aberta e fixar revisão
+        run: |
+          git clone --depth 1 --filter=blob:none --no-checkout https://github.com/josafams/biblia-interlinear.git /tmp/aligned
+          git -C /tmp/aligned sparse-checkout init --cone
+          git -C /tmp/aligned sparse-checkout set dados/cap
+          git -C /tmp/aligned fetch --depth 1 origin 2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0
+          git -C /tmp/aligned checkout --detach 2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0
+      - name: Gerar camada separada
+        run: |
+          python3 scripts/interlinear/enrich_open.py --base public/interlinear-corpus --aligned /tmp/aligned/dados/cap --out public/interlinear-enrichment
+          cp /tmp/aligned/LICENSE public/interlinear-enrichment/LICENSE-CC-BY-SA-4.0.txt
+          git -C /tmp/aligned rev-parse HEAD > public/interlinear-enrichment/revision.txt
+          cat > public/interlinear-enrichment/CREDITOS.md <<'EOF'
+          # Créditos da camada experimental
+          Glosas e alinhamentos preliminares: projeto Bíblia Interlinear, josafams e colaboradores, https://github.com/josafams/biblia-interlinear, revisão 2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Adaptamos o formato e reindexamos somente correspondências de sequências completas. Não implica endosso do autor. A camada de glosas permanece CC BY-SA 4.0; o texto original separado conserva suas licenças próprias.
+          Glosas automáticas não são homologação acadêmica; podem estar deslocadas ou incorretas mesmo quando os tokens coincidem. Consulte o projeto de origem. Ausência não é preenchida artificialmente.
+          Texto português citado: Bíblia Livre (BLIVRE), Copyright © Diego Santos, Mario Sérgio e Marco Teles, https://sites.google.com/site/biblialivre/, fevereiro de 2018, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Extraído da camada de leitura do projeto Bíblia Interlinear. Numeração portuguesa preservada separadamente.
+          EOF
+      - name: Validar a cobertura das camadas
+        run: |
+          python3 - <<'PY'
+          import json,pathlib
+          p=pathlib.Path('public/interlinear-enrichment')
+          m=json.loads((p/'manifest.json').read_text())
+          assert len(m)==66
+          assert all(x['matched_verses']>0 and x['portuguese_verses']>0 for x in m.values())
+          assert all((p/'glossas'/f'{b}.json').exists() and (p/'portugues'/f'{b}.json').exists() for b in m)
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Salvar dados sem publicar
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-enrichment
+          if ! git diff --cached --quiet; then
+            git commit -m 'Import attributed Portuguese enrichment and concordance [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi
