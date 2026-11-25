@@ -1,0 +1,45 @@
+name: Revisão lexical Apocalipse 1–8
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths:
+      - '.github/workflows/revisao-lexical-apocalipse-1-8.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: revisao-lexical-apocalipse-1-8
+  cancel-in-progress: false
+jobs:
+  revisar:
+    if: github.ref == 'refs/heads/rascunho/apocalipse'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Obter corpus fixado
+        run: |
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+      - name: Revisar definições e cotejar exemplos internos
+        run: python3 scripts/revisar-exemplos-lexicais-apocalipse.py /tmp/prima-morphgnt
+      - name: Normalizar transliteração dos exemplos e compilar
+        run: |
+          node scripts/normalizar-transliteracao-apocalipse.mjs
+          node scripts/normalizar-transliteracao-apocalipse.mjs --check
+          node scripts/testar-transliteracao-apocalipse.mjs
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Registrar alterações lexicais no rascunho
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/lexico-grego/apocalipse-*.json src/data/texto-original/apocalipse/apocalipse-[1-8]-*.ts docs/auditoria-lexical-apocalipse-1-8.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'fix(apocalipse): completar definições e exemplos lexicais verificados'
+            git push origin HEAD:rascunho/apocalipse
+          fi

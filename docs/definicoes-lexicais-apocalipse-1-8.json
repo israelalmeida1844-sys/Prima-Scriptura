@@ -1,0 +1,694 @@
+{
+  "G191": {
+    "label": "ouvir",
+    "definition": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido."
+  },
+  "G1125": {
+    "label": "escrever",
+    "definition": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento."
+  },
+  "G1063": {
+    "label": "pois",
+    "definition": "Conjunção pós-positiva que apresenta fundamento, explicação ou razão para a afirmação precedente."
+  },
+  "G1451": {
+    "label": "perto",
+    "definition": "Advérbio ou expressão de proximidade espacial ou temporal; o contexto determina a dimensão."
+  },
+  "G2033": {
+    "label": "sete",
+    "definition": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto."
+  },
+  "G1577": {
+    "label": "assembleia; igreja",
+    "definition": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva."
+  },
+  "G773": {
+    "label": "Ásia",
+    "definition": "Nome da província romana da Ásia, situada na parte ocidental da Ásia Menor."
+  },
+  "G5485": {
+    "label": "graça",
+    "definition": "Favor, benevolência ou dádiva concedida; pode designar a ação graciosa de Deus e a saudação que a invoca."
+  },
+  "G4771": {
+    "label": "tu; vós",
+    "definition": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática."
+  },
+  "G1515": {
+    "label": "paz",
+    "definition": "Condição de harmonia, segurança ou ausência de conflito; também fórmula de saudação e bem-estar."
+  },
+  "G1510": {
+    "label": "ser; estar",
+    "definition": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo."
+  },
+  "G2064": {
+    "label": "vir; ir",
+    "definition": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento."
+  },
+  "G2362": {
+    "label": "trono",
+    "definition": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida."
+  },
+  "G3144": {
+    "label": "testemunha",
+    "definition": "Pessoa que atesta fatos ou declara uma verdade; o contexto pode associar o testemunho ao sofrimento."
+  },
+  "G4416": {
+    "label": "primogênito",
+    "definition": "Primeiro nascido; pode expressar primazia, posição hereditária ou preeminência em relação a um grupo."
+  },
+  "G3498": {
+    "label": "morto",
+    "definition": "Que perdeu a vida; em sentido figurado, descreve condição de inatividade ou ausência de vida espiritual."
+  },
+  "G935": {
+    "label": "rei",
+    "definition": "Governante investido de autoridade régia sobre um povo ou território."
+  },
+  "G1093": {
+    "label": "terra",
+    "definition": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto."
+  },
+  "G25": {
+    "label": "amar",
+    "definition": "Demonstrar amor, apreço ou dedicação a alguém; o caráter do amor decorre da construção e do contexto."
+  },
+  "G1473": {
+    "label": "eu; nós",
+    "definition": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados."
+  },
+  "G1537": {
+    "label": "de; para fora de",
+    "definition": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto."
+  },
+  "G266": {
+    "label": "pecado",
+    "definition": "Transgressão ou desvio da vontade divina; pode designar atos pecaminosos ou a condição associada ao pecado."
+  },
+  "G129": {
+    "label": "sangue",
+    "definition": "Fluido vital; em contextos sacrificiais ou violentos pode representar vida entregue, morte ou responsabilidade pelo derramamento."
+  },
+  "G4160": {
+    "label": "fazer; produzir",
+    "definition": "Realizar, produzir, constituir ou causar algo; a construção com dois acusativos pode indicar transformação do objeto."
+  },
+  "G932": {
+    "label": "reino",
+    "definition": "Reinado, autoridade régia ou domínio sobre o qual se exerce governo; o contexto distingue essas nuances."
+  },
+  "G2409": {
+    "label": "sacerdote",
+    "definition": "Pessoa que exerce funções sacerdotais de culto e serviço religioso diante de uma divindade."
+  },
+  "G3962": {
+    "label": "pai",
+    "definition": "Progenitor ou figura paterna; em sentido relacional e teológico, designação de Deus como Pai."
+  },
+  "G1391": {
+    "label": "glória",
+    "definition": "Honra, esplendor, reputação ou manifestação de majestade; em doxologias, reconhecimento da dignidade divina."
+  },
+  "G2904": {
+    "label": "domínio; poder",
+    "definition": "Força efetiva, domínio ou poder soberano; frequentemente empregado em fórmulas de louvor."
+  },
+  "G281": {
+    "label": "amém",
+    "definition": "Partícula de confirmação ou ratificação de origem semítica, empregada para afirmar a veracidade de uma declaração."
+  },
+  "G2400": {
+    "label": "eis",
+    "definition": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso."
+  },
+  "G3326": {
+    "label": "com; depois de",
+    "definition": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial."
+  },
+  "G3507": {
+    "label": "nuvem",
+    "definition": "Massa visível de vapor atmosférico; em contextos visionários pode integrar imagens da manifestação divina."
+  },
+  "G3956": {
+    "label": "todo; cada",
+    "definition": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros."
+  },
+  "G3788": {
+    "label": "olho",
+    "definition": "Órgão da visão; figuradamente, capacidade de perceber, discernir ou observar."
+  },
+  "G2875": {
+    "label": "lamentar; golpear",
+    "definition": "Golpear ou bater; na voz média e em contextos de lamento, bater no peito ou lamentar-se."
+  },
+  "G1909": {
+    "label": "sobre; em",
+    "definition": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto."
+  },
+  "G3483": {
+    "label": "sim",
+    "definition": "Partícula afirmativa que confirma ou aceita uma declaração."
+  },
+  "G3004": {
+    "label": "dizer",
+    "definition": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto."
+  },
+  "G2962": {
+    "label": "senhor",
+    "definition": "Pessoa investida de autoridade, proprietário ou tratamento respeitoso; título aplicado a Deus ou a Cristo."
+  },
+  "G80": {
+    "label": "irmão",
+    "definition": "Pessoa com parentesco fraterno; por extensão, membro da mesma comunidade ou grupo de fé."
+  },
+  "G2347": {
+    "label": "tribulação",
+    "definition": "Pressão, aflição, sofrimento ou circunstância adversa; pode designar provação coletiva."
+  },
+  "G3520": {
+    "label": "ilha",
+    "definition": "Porção de terra cercada por água, como Patmos na narrativa de Apocalipse."
+  },
+  "G2564": {
+    "label": "chamar",
+    "definition": "Convocar, chamar alguém ou atribuir um nome ou designação."
+  },
+  "G3963": {
+    "label": "Patmos",
+    "definition": "Nome da ilha do mar Egeu onde João situa sua experiência visionária em Ap 1:9."
+  },
+  "G2250": {
+    "label": "dia",
+    "definition": "Período diurno ou unidade temporal; em contextos proféticos pode indicar ocasião determinada."
+  },
+  "G3694": {
+    "label": "atrás",
+    "definition": "Advérbio ou preposição imprópria que indica posição posterior, atrás de alguém ou algo."
+  },
+  "G5456": {
+    "label": "voz; som",
+    "definition": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação."
+  },
+  "G3173": {
+    "label": "grande",
+    "definition": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte."
+  },
+  "G5613": {
+    "label": "como",
+    "definition": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual."
+  },
+  "G4536": {
+    "label": "trombeta",
+    "definition": "Instrumento sonoro usado para anúncios, convocações, culto ou sinais; no texto visionário, figura de proclamação."
+  },
+  "G991": {
+    "label": "ver; olhar",
+    "definition": "Perceber pela visão, dirigir o olhar ou, figuradamente, perceber e discernir."
+  },
+  "G975": {
+    "label": "livro; rolo",
+    "definition": "Documento escrito ou livro em forma de rolo ou outro suporte antigo; o contexto determina a forma material."
+  },
+  "G3992": {
+    "label": "enviar",
+    "definition": "Mandar alguém ou algo a determinado destino, transmitir ou despachar."
+  },
+  "G2181": {
+    "label": "Éfeso",
+    "definition": "Nome da cidade da província romana da Ásia à qual se dirige a primeira carta de Apocalipse."
+  },
+  "G4667": {
+    "label": "Esmirna",
+    "definition": "Nome da cidade da Ásia Menor à qual se dirige a segunda carta de Apocalipse."
+  },
+  "G4010": {
+    "label": "Pérgamo",
+    "definition": "Nome da cidade da Ásia Menor à qual se dirige a terceira carta de Apocalipse."
+  },
+  "G2363": {
+    "label": "Tiatira",
+    "definition": "Nome da cidade da Ásia Menor à qual se dirige a quarta carta de Apocalipse."
+  },
+  "G4554": {
+    "label": "Sardes",
+    "definition": "Nome da cidade da Ásia Menor à qual se dirige a quinta carta de Apocalipse."
+  },
+  "G5359": {
+    "label": "Filadélfia",
+    "definition": "Nome da cidade da Ásia Menor à qual se dirige a sexta carta de Apocalipse."
+  },
+  "G2993": {
+    "label": "Laodiceia",
+    "definition": "Nome da cidade da Ásia Menor à qual se dirige a sétima carta de Apocalipse."
+  },
+  "G1994": {
+    "label": "voltar; voltar-se",
+    "definition": "Mudar de direção ou retornar; em sentido figurado, voltar-se para Deus ou para determinada conduta."
+  },
+  "G2980": {
+    "label": "falar",
+    "definition": "Pronunciar palavras ou comunicar uma mensagem por meio da fala."
+  },
+  "G5552": {
+    "label": "de ouro; dourado",
+    "definition": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele."
+  },
+  "G3319": {
+    "label": "meio; central",
+    "definition": "Que ocupa posição intermediária ou central; substantivado em expressões de localização."
+  },
+  "G3664": {
+    "label": "semelhante",
+    "definition": "Que apresenta semelhança de forma, qualidade ou aparência com outro referente; frequentemente rege dativo."
+  },
+  "G5207": {
+    "label": "filho",
+    "definition": "Descendente masculino ou designação relacional; pode integrar títulos e expressões de pertencimento."
+  },
+  "G444": {
+    "label": "ser humano; homem",
+    "definition": "Pessoa humana, em sentido individual ou coletivo; a especificação de sexo depende do contexto."
+  },
+  "G1746": {
+    "label": "vestir",
+    "definition": "Pôr vestimenta em alguém ou, na voz média, vestir-se; a forma passiva descreve a condição resultante."
+  },
+  "G3149": {
+    "label": "peito",
+    "definition": "Parte anterior do tórax ou seio; o plural pode indicar a região peitoral."
+  },
+  "G2223": {
+    "label": "faixa; cinto",
+    "definition": "Tira ou peça de vestuário usada para cingir o corpo."
+  },
+  "G1161": {
+    "label": "mas; e; porém",
+    "definition": "Conjunção pós-positiva que articula enunciados por continuidade, transição ou contraste conforme o contexto."
+  },
+  "G2776": {
+    "label": "cabeça",
+    "definition": "Parte superior do corpo; em sentido figurado pode indicar posição de liderança ou preeminência."
+  },
+  "G3022": {
+    "label": "branco",
+    "definition": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto."
+  },
+  "G2053": {
+    "label": "lã",
+    "definition": "Fibra têxtil animal, especialmente de ovelhas; empregada em comparações de cor ou textura."
+  },
+  "G5510": {
+    "label": "neve",
+    "definition": "Precipitação de cristais de gelo; usada em comparações de brancura."
+  },
+  "G5395": {
+    "label": "chama",
+    "definition": "Porção visível de fogo que arde; também imagem de intensidade e brilho."
+  },
+  "G4442": {
+    "label": "fogo",
+    "definition": "Combustão ou chama; em contextos figurados, pode evocar purificação, manifestação ou julgamento."
+  },
+  "G4228": {
+    "label": "pé",
+    "definition": "Extremidade inferior do membro usado para ficar em pé ou caminhar; também marca posição diante de alguém."
+  },
+  "G2575": {
+    "label": "fornalha",
+    "definition": "Forno ou instalação de aquecimento intenso, empregado em processos térmicos como fundição."
+  },
+  "G5204": {
+    "label": "água",
+    "definition": "Substância líquida essencial à vida; o plural pode designar massas de água ou fontes."
+  },
+  "G4183": {
+    "label": "muito; numeroso",
+    "definition": "Quantificador que expressa quantidade elevada, multiplicidade ou intensidade."
+  },
+  "G2192": {
+    "label": "ter; possuir",
+    "definition": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual."
+  },
+  "G1188": {
+    "label": "direito; direita",
+    "definition": "Que pertence ao lado direito; substantivado, pode designar a mão direita ou essa posição."
+  },
+  "G5495": {
+    "label": "mão",
+    "definition": "Órgão usado para segurar e agir; por extensão, meio, poder ou posse em determinadas expressões."
+  },
+  "G792": {
+    "label": "estrela",
+    "definition": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual."
+  },
+  "G4750": {
+    "label": "boca",
+    "definition": "Órgão da fala e alimentação; figuradamente, fonte de palavras ou proclamação."
+  },
+  "G1366": {
+    "label": "de dois gumes",
+    "definition": "Que possui dois lados cortantes; qualificativo de uma lâmina ou espada."
+  },
+  "G3691": {
+    "label": "afiado; agudo",
+    "definition": "Que tem ponta, gume ou qualidade intensa; em referência a lâmina, cortante."
+  },
+  "G1607": {
+    "label": "sair; proceder",
+    "definition": "Mover-se para fora de um lugar ou proceder de determinada origem."
+  },
+  "G3799": {
+    "label": "aparência; rosto",
+    "definition": "Aspecto visível ou semblante de alguém, conforme o referente contextual."
+  },
+  "G2246": {
+    "label": "sol",
+    "definition": "Astro que ilumina a terra; empregado também em comparações de brilho."
+  },
+  "G5316": {
+    "label": "brilhar; aparecer",
+    "definition": "Dar luz ou tornar-se visível; conforme a voz e a construção, manifestar-se ou parecer."
+  },
+  "G1411": {
+    "label": "poder; capacidade",
+    "definition": "Capacidade de agir, força ou poder efetivo; o contexto pode indicar manifestações extraordinárias de poder."
+  },
+  "G3753": {
+    "label": "quando",
+    "definition": "Conjunção temporal que situa uma ação em relação a outra."
+  },
+  "G4098": {
+    "label": "cair",
+    "definition": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição."
+  },
+  "G5087": {
+    "label": "pôr; colocar",
+    "definition": "Colocar, estabelecer ou depositar algo em determinada posição ou relação."
+  },
+  "G5399": {
+    "label": "temer",
+    "definition": "Sentir medo, receio ou reverência; as nuances dependem do objeto e da situação."
+  },
+  "G4413": {
+    "label": "primeiro",
+    "definition": "Ordinal ou qualificativo de prioridade temporal, posição ou importância."
+  },
+  "G2078": {
+    "label": "último",
+    "definition": "Ordinal ou qualificativo da posição final em uma série, ou de sua etapa derradeira."
+  },
+  "G2198": {
+    "label": "viver",
+    "definition": "Estar vivo ou exercer a vida; pode descrever vida física, espiritual ou um modo de viver."
+  },
+  "G2807": {
+    "label": "chave",
+    "definition": "Instrumento que abre ou fecha; figuradamente, autoridade de acesso ou controle."
+  },
+  "G2288": {
+    "label": "morte",
+    "definition": "Cessação da vida; também condição figurada ou realidade personificada em linguagem visionária."
+  },
+  "G3767": {
+    "label": "portanto",
+    "definition": "Conjunção pós-positiva que introduz inferência, consequência ou retomada do raciocínio."
+  },
+  "G3778": {
+    "label": "este; isto",
+    "definition": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto."
+  },
+  "G1137": {
+    "label": "canto; extremidade",
+    "definition": "Ângulo, esquina ou extremidade; no plural pode integrar expressões de abrangência espacial."
+  },
+  "G4154": {
+    "label": "soprar",
+    "definition": "Mover ar, produzir vento ou soprar; descreve a ação do vento em Ap 7:1."
+  },
+  "G3383": {
+    "label": "nem",
+    "definition": "Conjunção ou partícula negativa que coordena elementos excluídos conjuntamente."
+  },
+  "G1186": {
+    "label": "árvore",
+    "definition": "Planta lenhosa de porte arbóreo; designação genérica da vegetação arbórea."
+  },
+  "G395": {
+    "label": "nascente; oriente",
+    "definition": "Ato ou lugar do nascer de um astro; por extensão, a direção oriental."
+  },
+  "G4972": {
+    "label": "selar; marcar",
+    "definition": "Aplicar selo ou marca de autenticação, fechamento, propriedade ou proteção."
+  },
+  "G3359": {
+    "label": "testa; fronte",
+    "definition": "Parte anterior da cabeça acima dos olhos; local do selo na visão de Ap 7."
+  },
+  "G1540": {
+    "label": "cem",
+    "definition": "Numeral cardinal que indica uma centena."
+  },
+  "G5062": {
+    "label": "quarenta",
+    "definition": "Numeral cardinal que indica quatro dezenas."
+  },
+  "G1427": {
+    "label": "doze",
+    "definition": "Numeral cardinal que indica doze unidades."
+  },
+  "G4502": {
+    "label": "Rúben",
+    "definition": "Nome próprio do filho de Jacó e da tribo que leva seu nome."
+  },
+  "G1045": {
+    "label": "Gade",
+    "definition": "Nome próprio de um filho de Jacó e da tribo correspondente."
+  },
+  "G768": {
+    "label": "Aser",
+    "definition": "Nome próprio de um filho de Jacó e da tribo correspondente."
+  },
+  "G3508": {
+    "label": "Naftali",
+    "definition": "Nome próprio de um filho de Jacó e da tribo correspondente."
+  },
+  "G3128": {
+    "label": "Manassés",
+    "definition": "Nome próprio de um filho de José e da tribo que leva seu nome."
+  },
+  "G4826": {
+    "label": "Simeão",
+    "definition": "Nome próprio de um filho de Jacó e da tribo correspondente."
+  },
+  "G3017": {
+    "label": "Levi",
+    "definition": "Nome próprio de um filho de Jacó e da tribo levítica."
+  },
+  "G2466": {
+    "label": "Issacar",
+    "definition": "Nome próprio de um filho de Jacó e da tribo correspondente."
+  },
+  "G2194": {
+    "label": "Zebulom",
+    "definition": "Nome próprio de um filho de Jacó e da tribo correspondente."
+  },
+  "G2501": {
+    "label": "José",
+    "definition": "Nome próprio de origem hebraica; na lista tribal de Ap 7:8, designa José, filho de Jacó."
+  },
+  "G958": {
+    "label": "Benjamim",
+    "definition": "Nome próprio do filho mais novo de Jacó e da tribo correspondente."
+  },
+  "G3793": {
+    "label": "multidão",
+    "definition": "Ajuntamento numeroso de pessoas; substantivo coletivo cujo sentido pode motivar concordância semântica plural."
+  },
+  "G705": {
+    "label": "contar; enumerar",
+    "definition": "Determinar ou registrar a quantidade de pessoas ou coisas por contagem."
+  },
+  "G5404": {
+    "label": "palmeira; ramo de palmeira",
+    "definition": "Palmeira ou ramo de palmeira, conforme o contexto; em Ap 7:9, ramos levados nas mãos."
+  },
+  "G4991": {
+    "label": "salvação; libertação",
+    "definition": "Resgate, preservação ou libertação de perigo; em contextos teológicos, a ação salvadora atribuída a Deus."
+  },
+  "G611": {
+    "label": "responder",
+    "definition": "Dar resposta ou tomar a palavra em diálogo, inclusive ao iniciar uma nova intervenção discursiva."
+  },
+  "G4150": {
+    "label": "lavar",
+    "definition": "Limpar com líquido, especialmente lavar vestes ou objetos."
+  },
+  "G3021": {
+    "label": "tornar branco",
+    "definition": "Branquear ou fazer algo adquirir cor branca; em Ap 7:14, empregado figuradamente."
+  },
+  "G3000": {
+    "label": "servir; prestar culto",
+    "definition": "Prestar serviço, especialmente serviço cultual ou religioso dirigido a Deus no uso neotestamentário."
+  },
+  "G4637": {
+    "label": "habitar; armar tenda",
+    "definition": "Estabelecer habitação como quem arma uma tenda; também expressa presença ou habitação divina."
+  },
+  "G3983": {
+    "label": "ter fome",
+    "definition": "Experimentar necessidade de alimento; figuradamente, desejar intensamente algo."
+  },
+  "G1372": {
+    "label": "ter sede",
+    "definition": "Experimentar necessidade de beber; figuradamente, desejar ou buscar intensamente."
+  },
+  "G2738": {
+    "label": "calor abrasador",
+    "definition": "Calor intenso ou efeito de uma fonte de calor que causa aflição."
+  },
+  "G3594": {
+    "label": "guiar; conduzir",
+    "definition": "Dirigir alguém ao longo de um caminho ou em direção a um destino."
+  },
+  "G4077": {
+    "label": "fonte; nascente",
+    "definition": "Lugar de onde brota água; figuradamente, origem ou fonte de algo."
+  },
+  "G1144": {
+    "label": "lágrima",
+    "definition": "Gota de líquido lacrimal associada ao choro ou à aflição."
+  },
+  "G1442": {
+    "label": "sétimo",
+    "definition": "Ordinal que designa a posição de número sete numa sequência."
+  },
+  "G4602": {
+    "label": "silêncio",
+    "definition": "Condição de ausência de som ou fala."
+  },
+  "G2256": {
+    "label": "meia hora",
+    "definition": "Período correspondente à metade de uma hora, usado em Ap 8:1 com indicação aproximativa."
+  },
+  "G3031": {
+    "label": "incensário",
+    "definition": "Recipiente relacionado à oferta ou queima de incenso; em Ap 8:3–5, objeto usado junto ao altar."
+  },
+  "G2586": {
+    "label": "fumaça",
+    "definition": "Produto visível da combustão; em contexto cultual, a fumaça do incenso."
+  },
+  "G1072": {
+    "label": "encher",
+    "definition": "Fazer um recipiente conter determinada substância ou ficar cheio."
+  },
+  "G2090": {
+    "label": "preparar",
+    "definition": "Dispor algo ou alguém para uma ação ou situação futura."
+  },
+  "G4537": {
+    "label": "tocar trombeta",
+    "definition": "Produzir o som de uma trombeta; em Ap 8, introduz cada cena do septenário."
+  },
+  "G5464": {
+    "label": "granizo",
+    "definition": "Precipitação de pedras de gelo; em textos proféticos, pode integrar imagens de juízo."
+  },
+  "G3396": {
+    "label": "misturar",
+    "definition": "Combinar substâncias ou elementos, produzindo uma mistura."
+  },
+  "G2618": {
+    "label": "queimar completamente",
+    "definition": "Consumir ou destruir algo pelo fogo."
+  },
+  "G5528": {
+    "label": "erva; vegetação",
+    "definition": "Vegetação herbácea ou capim; pode designar alimento vegetal."
+  },
+  "G4143": {
+    "label": "navio; embarcação",
+    "definition": "Veículo usado para navegar sobre a água."
+  },
+  "G1311": {
+    "label": "destruir; arruinar",
+    "definition": "Causar destruição, deterioração ou ruína; na passiva, sofrer dano ou destruição."
+  },
+  "G4215": {
+    "label": "rio",
+    "definition": "Curso natural de água, em contraste com o mar e as fontes."
+  },
+  "G894": {
+    "label": "absinto",
+    "definition": "Planta caracterizada pelo sabor amargo; em Ap 8:11, também nome dado à estrela."
+  },
+  "G4087": {
+    "label": "tornar amargo",
+    "definition": "Fazer adquirir sabor amargo ou causar amargura; na passiva, tornar-se amargo."
+  },
+  "G4141": {
+    "label": "ferir; atingir",
+    "definition": "Golpear ou atingir algo ou alguém, causando dano."
+  },
+  "G4654": {
+    "label": "escurecer",
+    "definition": "Tornar-se escuro ou perder a luz; a forma passiva pode indicar o efeito sofrido."
+  },
+  "G3321": {
+    "label": "meio do céu",
+    "definition": "Região do céu situada em posição elevada ou central, onde algo pode ser amplamente visto ou ouvido."
+  },
+  "G3759": {
+    "label": "ai",
+    "definition": "Interjeição que exprime lamento, aflição ou advertência de juízo."
+  },
+  "G1228": {
+    "label": "diabo; acusador; caluniador",
+    "definition": "Adjetivo que significa caluniador ou acusador; substantivado, designa um adversário ou o Diabo conforme o contexto."
+  },
+  "G2206": {
+    "label": "ser zeloso; desejar intensamente",
+    "definition": "Ter zelo, ardor ou desejo intenso; inclui ζηλόω e a variante ζηλεύω, usada no imperativo ζήλευε de Ap 3:19."
+  },
+  "G1163": {
+    "label": "ser necessário; dever",
+    "definition": "Verbo impessoal δεῖ, que exprime necessidade ou obrigação e rege frequentemente um infinitivo; MorphGNT o lematiza sob δέω, sem confundir esse uso com ligar ou prender."
+  },
+  "G5101": {
+    "label": "quem; que; o que",
+    "definition": "Pronome interrogativo que solicita a identidade de pessoa ou coisa; suas formas flexionadas desempenham funções diferentes na oração."
+  },
+  "G514": {
+    "label": "digno",
+    "definition": "Adequado, merecedor ou qualificado em relação a uma condição, avaliação ou ação."
+  },
+  "G455": {
+    "label": "abrir",
+    "definition": "Fazer algo fechado tornar-se aberto, em sentido literal ou figurado."
+  },
+  "G4973": {
+    "label": "selo",
+    "definition": "Objeto ou marca usada para fechar, assegurar, autenticar ou assinalar pertencimento."
+  },
+  "G3089": {
+    "label": "soltar; desatar; romper",
+    "definition": "Desatar ou liberar aquilo que está preso; em Ap 5:2, romper os selos de um rolo."
+  },
+  "G721": {
+    "label": "cordeiro",
+    "definition": "Animal jovem da espécie ovina; em Apocalipse, a designação figurada do Cordeiro está ligada à morte e vitória de Cristo."
+  },
+  "G32": {
+    "label": "anjo; mensageiro",
+    "definition": "Mensageiro enviado para comunicar ou executar uma tarefa; em Apocalipse, frequentemente um ser celestial."
+  },
+  "G3588": {
+    "label": "artigo definido",
+    "definition": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas."
+  }
+}
