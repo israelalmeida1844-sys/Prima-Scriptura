@@ -41,7 +41,7 @@ try{
   const n=gen.rows[0].filter(r=>cat[r[2]].partes.some(p=>Object.entries(feat).every(([k,v])=>p.campos[k]===v))).length;
   assert.equal(await query("morfologia","",{book:"Gen",chapter:"1",features:feat}),gen.rows.filter((_,i)=>gen.refs[i].startsWith("1:")).flat().filter(r=>cat[r[2]].partes.some(p=>Object.entries(feat).every(([k,v])=>p.campos[k]===v))).length);checks.push("same_component_morphology");
   assert.equal(await query("strong","G999999"),0);checks.push("zero_results");
-  await page.locator("#words article").filter({hasText:"H216"}).first().locator("button").click();
+  await page.locator("#words article").filter({hasText:"H216"}).first().getByRole("button",{name:"Ficha lexical",exact:true}).click();
   await page.locator("#lex-dialog").waitFor();await page.locator("#lex-content h3").filter({hasText:"H216"}).waitFor();checks.push("lexical_dialog");
   assert.deepEqual(errors,[]);
   fs.writeFileSync("docs/testes-navegador-interlinear.json",JSON.stringify({status:"passed",viewport:[390,844],checks,page_errors:errors},null,2)+"\n");
