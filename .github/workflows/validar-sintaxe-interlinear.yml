@@ -1,4 +1,4 @@
-name: Validar sintaxe dos 66 livros
+name: Revisar sintaxe dos 66 livros - etapa 8.1
 on:
   push:
     branches: [rascunho/interlinear-completo]
@@ -36,19 +36,20 @@ jobs:
           test "$(git -C /tmp/macula-hebrew rev-parse HEAD)" = 47db250bd55d0d8577f2a94fba114ef16c35b23c
       - name: Alinhar arvores sintaticas
         run: |
+          cp -a public/interlinear-syntax /tmp/syntax-previous
           python3 scripts/interlinear/import_syntax.py --base public/interlinear-corpus --greek /tmp/macula-greek/SBLGNT/lowfat --hebrew /tmp/macula-hebrew/WLC/lowfat --out public/interlinear-syntax --report docs/auditoria-sintatica-interlinear.json --details docs/sintaxe-pendente
           cat > public/interlinear-syntax/CREDITOS.md <<'EOF'
           # Análise sintática — MACULA
           MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/ © 2022–2024 Biblica, Inc., CC BY 4.0. Revisão 8423afe47b9e8f24b7772e808af45c7159a6fe7e, SBLGNT/lowfat.
           MACULA Hebrew Linguistic Datasets, available at https://github.com/Clear-Bible/macula-hebrew/ © 2022–2024 Biblica, Inc., CC BY 4.0. Revisão 47db250bd55d0d8577f2a94fba114ef16c35b23c, WLC/lowfat. Westminster Hebrew Syntax without Morphology © 1991–2018 The J. Alan Groves Center for Advanced Biblical Research, CC BY 4.0. Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb, CC BY 4.0.
           Licença da camada sintática adaptada: https://creativecommons.org/licenses/by/4.0/. Atribuição não implica endosso. Preservamos os IDs, funções, regras e hierarquia da fonte e traduzimos rótulos selecionados. Não são redistribuídas glosas, domínios semânticos de terceiros ou textos duplicados.
-          Alinhamento por sequência integral de formas normalizadas dentro da mesma referência; quando divergente, apenas formas únicas dentro de blocos monotônicos de ao menos duas palavras, com confirmação do lema no grego. Mantidos diacríticos vocálicos; removidos cantilação, meteg, pontuação e separadores para comparação. Diferenças de segmentação são sinalizadas. A língua hebraica ou aramaica deve coincidir.
+          Alinhamento por sequência integral de formas normalizadas dentro da mesma referência; quando divergente, apenas formas únicas dentro de blocos monotônicos de ao menos duas palavras, com confirmação do lema no grego. Na etapa 8.1 as âncoras anteriores são preservadas; entre elas aceitam-se pares exatos obrigatórios em todos os alinhamentos monotônicos de comprimento máximo, com prova independente por exclusão do par. Diagnósticos err_ da fonte não são apresentados como funções validadas. Lacunas restantes recebem motivo explícito. Mantidos diacríticos vocálicos; removidos cantilação, meteg, pontuação e separadores para comparação. Diferenças de segmentação são sinalizadas. A língua hebraica ou aramaica deve coincidir.
           A interface mostra projeções de constituintes de cada versículo, com referências das frases que atravessam versículos. Não é uma árvore de dependências nem uma nova análise exegética. Rótulos de funções pertencem aos grupos onde a fonte os registra, e não automaticamente a todas as palavras do grupo. Lacunas sem correspondência segura permanecem pendentes; variantes Qere não são analisadas separadamente.
           EOF
           cp /tmp/macula-greek/LICENSE.md public/interlinear-syntax/LICENSE-GREEK.md
           cp /tmp/macula-hebrew/LICENSE.md public/interlinear-syntax/LICENSE-HEBREW.md
       - name: Validar todos os caminhos contra XML original
-        run: python3 scripts/interlinear/validate_syntax.py --base public/interlinear-corpus --greek /tmp/macula-greek/SBLGNT/lowfat --hebrew /tmp/macula-hebrew/WLC/lowfat --out public/interlinear-syntax --report docs/auditoria-sintatica-interlinear.json
+        run: python3 scripts/interlinear/validate_syntax.py --previous /tmp/syntax-previous --base public/interlinear-corpus --greek /tmp/macula-greek/SBLGNT/lowfat --hebrew /tmp/macula-hebrew/WLC/lowfat --out public/interlinear-syntax --report docs/auditoria-sintatica-interlinear.json
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -72,6 +73,6 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add public/interlinear-syntax docs/auditoria-sintatica-interlinear.json docs/sintaxe-pendente docs/testes-sintaxe-navegador.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Record stage 8 syntax alignment and browser tests [skip ci] [CF-Pages-Skip]'
+            git commit -m 'Record stage 8.1 syntax corrections and browser tests [skip ci] [CF-Pages-Skip]'
             git push origin HEAD:rascunho/interlinear-completo
           fi
