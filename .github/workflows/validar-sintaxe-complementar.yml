@@ -1,0 +1,86 @@
+name: Validar etapas 8.2 8.3 8.4
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/validar-sintaxe-complementar.yml'
+      - 'scripts/interlinear/review_alternate_syntax.py'
+      - 'scripts/interlinear/validate_alternate_syntax.py'
+      - 'scripts/interlinear/test_alternate_syntax.mjs'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: syntax-complementary
+  cancel-in-progress: true
+jobs:
+  review:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recuperar fontes fixadas
+        run: |
+          git init /tmp/macula-greek
+          git -C /tmp/macula-greek remote add origin https://github.com/Clear-Bible/macula-greek.git
+          git -C /tmp/macula-greek sparse-checkout set SBLGNT/lowfat
+          git -C /tmp/macula-greek fetch --depth 1 --filter=blob:none origin 8423afe47b9e8f24b7772e808af45c7159a6fe7e
+          git -C /tmp/macula-greek checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/macula-greek rev-parse HEAD)" = 8423afe47b9e8f24b7772e808af45c7159a6fe7e
+          git init /tmp/macula-hebrew
+          git -C /tmp/macula-hebrew remote add origin https://github.com/Clear-Bible/macula-hebrew.git
+          git -C /tmp/macula-hebrew sparse-checkout set WLC/lowfat
+          git -C /tmp/macula-hebrew fetch --depth 1 --filter=blob:none origin 47db250bd55d0d8577f2a94fba114ef16c35b23c
+          git -C /tmp/macula-hebrew checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/macula-hebrew rev-parse HEAD)" = 47db250bd55d0d8577f2a94fba114ef16c35b23c
+      - name: Revisar as 1286 lacunas e validar variantes
+        run: |
+          python3 scripts/interlinear/review_alternate_syntax.py --public public --greek /tmp/macula-greek/SBLGNT/lowfat --hebrew /tmp/macula-hebrew/WLC/lowfat --out public/interlinear-syntax-alternates --report docs/auditoria-sintaxe-8-2-3.json
+          python3 scripts/interlinear/validate_alternate_syntax.py --public public --greek /tmp/macula-greek/SBLGNT/lowfat --hebrew /tmp/macula-hebrew/WLC/lowfat --report docs/auditoria-sintaxe-8-2-3.json
+          cp public/interlinear-syntax/LICENSE-GREEK.md public/interlinear-syntax-alternates/
+          cp public/interlinear-syntax/LICENSE-HEBREW.md public/interlinear-syntax-alternates/
+          cat > public/interlinear-syntax-alternates/CREDITOS.md <<'EOF'
+          # Leituras alternativas e revisão sintática
+          MACULA Greek Linguistic Datasets, https://github.com/Clear-Bible/macula-greek/ e MACULA Hebrew Linguistic Datasets, https://github.com/Clear-Bible/macula-hebrew/, © 2022–2024 Biblica, Inc., CC BY 4.0. Westminster Hebrew Syntax without Morphology © 1991–2018 The J. Alan Groves Center for Advanced Biblical Research, CC BY 4.0. Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb, CC BY 4.0. Revisões fixadas no workflow. A camada adaptada é CC BY 4.0.
+          Qere é uma leitura alternativa documentada, não uma análise do Ketiv. A ligação exige correspondência exata e posição única entre âncoras aprovadas. O grego admite apenas diferença de acento agudo, grave ou circunflexo, com lema e características morfológicas confirmados. Não se inferem funções gramaticais ausentes. Diagnósticos da fonte permanecem não resolvidos. Veja docs/auditoria-sintaxe-8-2-3.json e docs/investigacao-sintaxe-8-1/report.json.
+          EOF
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Auditar e corrigir dependencias sem atualizacao forcada
+        run: |
+          npm install
+          npm audit --json > /tmp/npm-before.json || true
+          npm audit fix --no-fund --no-force || true
+          npm audit --json > /tmp/npm-after.json || true
+          node --input-type=module - <<'JS'
+          import fs from 'node:fs';
+          const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+          const before=read('/tmp/npm-before.json'),after=read('/tmp/npm-after.json');
+          if(!before.metadata?.vulnerabilities||!after.metadata?.vulnerabilities)throw Error('npm audit unavailable');
+          const report={stage:'8.4',before:before.metadata.vulnerabilities,after:after.metadata.vulnerabilities,remaining:after.vulnerabilities,scope:'npm audit fix without force; no forced breaking upgrades; browser and build regression required'};
+          fs.writeFileSync('docs/auditoria-dependencias-8-4.json',JSON.stringify(report,null,2)+'\n');
+          console.log(JSON.stringify(report));
+          JS
+      - run: npm run build
+      - name: Testar as camadas e regressoes no Chromium
+        run: |
+          npm install --no-save --package-lock=false playwright@1.58.2
+          npx playwright install --with-deps chromium
+          npm run preview -- --host 127.0.0.1 --port 4321 > /tmp/astro-preview.log 2>&1 &
+          server=$!
+          trap 'kill "$server" 2>/dev/null || true' EXIT
+          for i in $(seq 1 60); do if curl -fsS http://127.0.0.1:4321/interlinear-experimental/ >/dev/null; then break; fi; sleep 1; done
+          node scripts/interlinear/test_alternate_syntax.mjs
+          node scripts/interlinear/test_syntax.mjs
+          node scripts/interlinear/test_search.mjs
+      - name: Salvar somente na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-enrichment public/interlinear-source-structure public/interlinear-gloss-review public/interlinear-strong-review public/interlinear-transliteration public/interlinear-morphology public/interlinear-lexicon public/interlinear-search public/interlinear-syntax
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-syntax-alternates docs/auditoria-sintaxe-8-2-3.json docs/auditoria-dependencias-8-4.json docs/testes-sintaxe-complementar.json package.json package-lock.json
+          git diff --cached --quiet || git commit -m 'Record complementary syntax review and dependency remediation [skip ci] [CF-Pages-Skip]'
+          git push origin HEAD:rascunho/interlinear-completo
