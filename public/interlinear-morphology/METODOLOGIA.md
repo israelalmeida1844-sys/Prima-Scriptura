@@ -1,0 +1,6 @@
+# Morfologia em português
+Catálogo por código original, reutilizado em cada ocorrência. Não substitui o texto original nem corrige a análise gramatical da fonte por inferência.
+Grego: MorphGNT SBLGNT, versão 6.12, revisão aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d, James K. Tauber (ed.), DOI 10.5281/zenodo.376200; https://github.com/morphgnt/sblgnt. Dados morfológicos CC BY-SA 3.0. Descrições portuguesas adaptadas sob CC BY-SA 3.0.
+Hebraico e aramaico: Open Scriptures Hebrew Bible, revisão db6c5c9b46b8f39346f10915ddb1a70dcd429901, https://github.com/openscriptures/morphhb/blob/db6c5c9b46b8f39346f10915ddb1a70dcd429901/parsing/HebrewMorphologyCodes.html. Morfologia CC BY 4.0. Tradução e adaptação dos rótulos sob CC BY 4.0.
+Campos ausentes não são inventados; x indica valor não especificado no código OSHB. O vocativo grego V, presente no corpus, é reconhecido. O tempo/formação verbal não determina sozinho aspecto contextual ou localização temporal. O estado determinado aramaico é também chamado enfático. A preposição Rd incorpora artigo definido implícito, não um morfema escrito separado.
+Cada componente separado por barra recebe análise própria. Divergências de segmentação são sinalizadas no relatório. Não inclui nova análise sintática ou revisão filológica individual; as variantes Qere não são processadas separadamente.
