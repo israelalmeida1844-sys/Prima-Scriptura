@@ -1,0 +1,30 @@
+name: Validar fontes de comentarios 9.1
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/validar-comentarios-9-1.yml'
+      - 'scripts/commentaries/audit_sources.py'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/commentaries/audit_sources.py
+      - name: Salvar apenas catalogo
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public src
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/catalogo-comentarios-9-1.json
+          git diff --cached --quiet || git commit -m 'Record commentary archive verification [skip ci] [CF-Pages-Skip]'
+          git push origin HEAD:rascunho/interlinear-completo
+      - name: Exigir aprovacao dos arquivos
+        run: |
+          python3 -c 'import json; d=json.load(open("docs/catalogo-comentarios-9-1.json")); assert all(s["status"]=="archive_and_license_verified" for s in d["sources"])'
