@@ -1,0 +1,50 @@
+name: Refinar e validar Poole
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/revisar-poole-9.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: etapa-9-experimental
+  cancel-in-progress: true
+jobs:
+  implement:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refinar dados CC0 preservados
+        run: python3 scripts/commentaries/refine_poole.py
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Compilar e verificar seguranca
+        run: |
+          npm ci
+          npm audit --audit-level=high
+          npm run build
+      - name: Testes de navegacao e regressao
+        run: |
+          npm install --no-save --package-lock=false playwright@1.58.2
+          npx playwright install --with-deps chromium
+          npm run preview -- --host 127.0.0.1 --port 4321 > /tmp/astro-preview.log 2>&1 &
+          server=$!
+          trap 'kill "$server" 2>/dev/null || true' EXIT
+          for i in $(seq 1 60); do if curl -fsS http://127.0.0.1:4321/interlinear-experimental/ >/dev/null; then break; fi; sleep 1; done
+          node scripts/commentaries/test_stage9.mjs
+          node scripts/interlinear/test_alternate_syntax.mjs
+          node scripts/interlinear/test_syntax.mjs
+          node scripts/interlinear/test_search.mjs
+      - name: Salvar somente apos validacao
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-source-structure public/interlinear-syntax public/interlinear-syntax-alternates public/interlinear-gloss-review public/interlinear-strong-review public/interlinear-transliteration public/interlinear-morphology public/interlinear-lexicon public/interlinear-search
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/commentaries public/textual-criticism docs/auditoria-comentarios-9.json docs/auditoria-critica-textual-9.json docs/auditoria-poole-9.json docs/auditoria-poole-refinamento-9.json docs/testes-etapa-9.json
+          git diff --cached --quiet || git commit -m 'Record verified Poole chapter and verse refinement [skip ci] [CF-Pages-Skip]'
+          git push origin HEAD:rascunho/interlinear-completo
