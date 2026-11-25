@@ -1,0 +1,57 @@
+{
+  "strong": "G2586",
+  "lemma": "καπνός",
+  "lemmaTranslit": "kapnos",
+  "tokenCount": 13,
+  "verseCount": 11,
+  "bookDistribution": {
+    "At": 1,
+    "Ap": 12
+  },
+  "references": [
+    "At 2:19",
+    "Ap 8:4",
+    "Ap 9:2",
+    "Ap 9:3",
+    "Ap 9:17",
+    "Ap 9:18",
+    "Ap 14:11",
+    "Ap 15:8",
+    "Ap 18:9",
+    "Ap 18:18",
+    "Ap 19:3"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata dos lemas MorphGNT listados; não equivale necessariamente a todas as formas associadas ao número Strong.",
+  "strongDictionaryLemma": "καπνός",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml; blob 81b698b7141d8b17951a99086ecc4c67fec29884",
+  "lemmaBreakdown": [
+    {
+      "lemma": "καπνός",
+      "tokenCount": 13,
+      "verseCount": 11,
+      "references": [
+        "At 2:19",
+        "Ap 8:4",
+        "Ap 9:2",
+        "Ap 9:3",
+        "Ap 9:17",
+        "Ap 9:18",
+        "Ap 14:11",
+        "Ap 15:8",
+        "Ap 18:9",
+        "Ap 18:18",
+        "Ap 19:3"
+      ],
+      "bookDistribution": {
+        "At": 1,
+        "Ap": 12
+      }
+    }
+  ]
+}

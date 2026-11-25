@@ -1,0 +1,37 @@
+{
+  "strong": "G3031",
+  "lemma": "λιβανωτός",
+  "lemmaTranslit": "libanōtos",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "Ap": 2
+  },
+  "references": [
+    "Ap 8:3",
+    "Ap 8:5"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata dos lemas MorphGNT listados; não equivale necessariamente a todas as formas associadas ao número Strong.",
+  "strongDictionaryLemma": "λιβανωτός",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml; blob 81b698b7141d8b17951a99086ecc4c67fec29884",
+  "lemmaBreakdown": [
+    {
+      "lemma": "λιβανωτός",
+      "tokenCount": 2,
+      "verseCount": 2,
+      "references": [
+        "Ap 8:3",
+        "Ap 8:5"
+      ],
+      "bookDistribution": {
+        "Ap": 2
+      }
+    }
+  ]
+}

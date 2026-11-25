@@ -1,0 +1,45 @@
+{
+  "strong": "G3396",
+  "lemma": "μίγνυμι",
+  "lemmaTranslit": "mignymi",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Mt": 1,
+    "Lc": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 27:34",
+    "Lc 13:1",
+    "Ap 8:7",
+    "Ap 15:2"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata dos lemas MorphGNT listados; não equivale necessariamente a todas as formas associadas ao número Strong.",
+  "strongDictionaryLemma": "μίγνυμι",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml; blob 81b698b7141d8b17951a99086ecc4c67fec29884",
+  "lemmaBreakdown": [
+    {
+      "lemma": "μίγνυμι",
+      "tokenCount": 4,
+      "verseCount": 4,
+      "references": [
+        "Mt 27:34",
+        "Lc 13:1",
+        "Ap 8:7",
+        "Ap 15:2"
+      ],
+      "bookDistribution": {
+        "Mt": 1,
+        "Lc": 1,
+        "Ap": 2
+      }
+    }
+  ]
+}

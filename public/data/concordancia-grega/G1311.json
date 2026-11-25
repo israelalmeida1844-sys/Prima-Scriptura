@@ -1,0 +1,49 @@
+{
+  "strong": "G1311",
+  "lemma": "διαφθείρω",
+  "lemmaTranslit": "diaphtheirō",
+  "tokenCount": 6,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Lc": 1,
+    "2Co": 1,
+    "1Tm": 1,
+    "Ap": 3
+  },
+  "references": [
+    "Lc 12:33",
+    "2Co 4:16",
+    "1Tm 6:5",
+    "Ap 8:9",
+    "Ap 11:18"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata dos lemas MorphGNT listados; não equivale necessariamente a todas as formas associadas ao número Strong.",
+  "strongDictionaryLemma": "διαφθείρω",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml; blob 81b698b7141d8b17951a99086ecc4c67fec29884",
+  "lemmaBreakdown": [
+    {
+      "lemma": "διαφθείρω",
+      "tokenCount": 6,
+      "verseCount": 5,
+      "references": [
+        "Lc 12:33",
+        "2Co 4:16",
+        "1Tm 6:5",
+        "Ap 8:9",
+        "Ap 11:18"
+      ],
+      "bookDistribution": {
+        "Lc": 1,
+        "2Co": 1,
+        "1Tm": 1,
+        "Ap": 3
+      }
+    }
+  ]
+}

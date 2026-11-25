@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 1–8",
   "source": "SBLGNT/MorphGNT 6.12",
-  "editorialStatus": "Rascunho; capítulo 8 com novos lemas, concordâncias pendentes",
+  "editorialStatus": "Rascunho; 21 novos índices consolidados em 27 livros; auditoria final pendente",
   "entries": {
     "G602": {
       "strong": "G602",
@@ -11168,7 +11168,13 @@
           "definition": "sétimo",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 9,
+        "verseCount": 8,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G4602": {
       "strong": "G4602",
@@ -11182,7 +11188,13 @@
           "definition": "silêncio",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 2,
+        "verseCount": 2,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G2256": {
       "strong": "G2256",
@@ -11196,7 +11208,13 @@
           "definition": "meia hora",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 1,
+        "verseCount": 1,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G3031": {
       "strong": "G3031",
@@ -11210,7 +11228,13 @@
           "definition": "incensário; recipiente de incenso",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 2,
+        "verseCount": 2,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G2586": {
       "strong": "G2586",
@@ -11224,7 +11248,13 @@
           "definition": "fumaça",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 13,
+        "verseCount": 11,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G1072": {
       "strong": "G1072",
@@ -11238,7 +11268,13 @@
           "definition": "encher",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 9,
+        "verseCount": 8,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G2090": {
       "strong": "G2090",
@@ -11252,7 +11288,13 @@
           "definition": "preparar",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 40,
+        "verseCount": 40,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G4537": {
       "strong": "G4537",
@@ -11266,7 +11308,13 @@
           "definition": "tocar trombeta",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 12,
+        "verseCount": 12,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G5464": {
       "strong": "G5464",
@@ -11280,7 +11328,13 @@
           "definition": "granizo",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 4,
+        "verseCount": 3,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G3396": {
       "strong": "G3396",
@@ -11294,7 +11348,13 @@
           "definition": "misturar",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 4,
+        "verseCount": 4,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G2618": {
       "strong": "G2618",
@@ -11308,7 +11368,13 @@
           "definition": "queimar completamente",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 11,
+        "verseCount": 9,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G5528": {
       "strong": "G5528",
@@ -11322,7 +11388,13 @@
           "definition": "erva; vegetação",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 15,
+        "verseCount": 13,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G4143": {
       "strong": "G4143",
@@ -11336,7 +11408,13 @@
           "definition": "navio; embarcação",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 67,
+        "verseCount": 62,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G1311": {
       "strong": "G1311",
@@ -11350,7 +11428,13 @@
           "definition": "destruir; arruinar",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 6,
+        "verseCount": 5,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G4215": {
       "strong": "G4215",
@@ -11364,7 +11448,13 @@
           "definition": "rio",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 17,
+        "verseCount": 17,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G894": {
       "strong": "G894",
@@ -11381,7 +11471,13 @@
       ],
       "lemmaAliases": [
         "Ἄψινθος"
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 2,
+        "verseCount": 1,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G4087": {
       "strong": "G4087",
@@ -11395,7 +11491,13 @@
           "definition": "tornar amargo",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 4,
+        "verseCount": 4,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G4141": {
       "strong": "G4141",
@@ -11409,7 +11511,13 @@
           "definition": "ferir; atingir",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 1,
+        "verseCount": 1,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G4654": {
       "strong": "G4654",
@@ -11424,7 +11532,13 @@
           "examples": []
         }
       ],
-      "strongDictionaryLemma": "σκοτίζω"
+      "strongDictionaryLemma": "σκοτίζω",
+      "concordance": {
+        "complete": true,
+        "tokenCount": 5,
+        "verseCount": 5,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G3321": {
       "strong": "G3321",
@@ -11438,7 +11552,13 @@
           "definition": "meio do céu",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 3,
+        "verseCount": 3,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     },
     "G3759": {
       "strong": "G3759",
@@ -11452,7 +11572,13 @@
           "definition": "ai!; expressão de lamento",
           "examples": []
         }
-      ]
+      ],
+      "concordance": {
+        "complete": true,
+        "tokenCount": 46,
+        "verseCount": 35,
+        "source": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json"
+      }
     }
   }
 }

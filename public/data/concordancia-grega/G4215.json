@@ -1,0 +1,79 @@
+{
+  "strong": "G4215",
+  "lemma": "ποταμός",
+  "lemmaTranslit": "potamos",
+  "tokenCount": 17,
+  "verseCount": 17,
+  "bookDistribution": {
+    "Mt": 3,
+    "Mc": 1,
+    "Lc": 2,
+    "Jo": 1,
+    "At": 1,
+    "2Co": 1,
+    "Ap": 8
+  },
+  "references": [
+    "Mt 3:6",
+    "Mt 7:25",
+    "Mt 7:27",
+    "Mc 1:5",
+    "Lc 6:48",
+    "Lc 6:49",
+    "Jo 7:38",
+    "At 16:13",
+    "2Co 11:26",
+    "Ap 8:10",
+    "Ap 9:14",
+    "Ap 12:15",
+    "Ap 12:16",
+    "Ap 16:4",
+    "Ap 16:12",
+    "Ap 22:1",
+    "Ap 22:2"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata dos lemas MorphGNT listados; não equivale necessariamente a todas as formas associadas ao número Strong.",
+  "strongDictionaryLemma": "ποταμός",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml; blob 81b698b7141d8b17951a99086ecc4c67fec29884",
+  "lemmaBreakdown": [
+    {
+      "lemma": "ποταμός",
+      "tokenCount": 17,
+      "verseCount": 17,
+      "references": [
+        "Mt 3:6",
+        "Mt 7:25",
+        "Mt 7:27",
+        "Mc 1:5",
+        "Lc 6:48",
+        "Lc 6:49",
+        "Jo 7:38",
+        "At 16:13",
+        "2Co 11:26",
+        "Ap 8:10",
+        "Ap 9:14",
+        "Ap 12:15",
+        "Ap 12:16",
+        "Ap 16:4",
+        "Ap 16:12",
+        "Ap 22:1",
+        "Ap 22:2"
+      ],
+      "bookDistribution": {
+        "Mt": 3,
+        "Mc": 1,
+        "Lc": 2,
+        "Jo": 1,
+        "At": 1,
+        "2Co": 1,
+        "Ap": 8
+      }
+    }
+  ]
+}

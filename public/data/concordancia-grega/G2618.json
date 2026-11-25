@@ -1,0 +1,61 @@
+{
+  "strong": "G2618",
+  "lemma": "κατακαίω",
+  "lemmaTranslit": "katakaiō",
+  "tokenCount": 11,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mt": 2,
+    "Lc": 1,
+    "At": 1,
+    "1Co": 1,
+    "Hb": 1,
+    "Ap": 5
+  },
+  "references": [
+    "Mt 3:12",
+    "Mt 13:30",
+    "Lc 3:17",
+    "At 19:19",
+    "1Co 3:15",
+    "Hb 13:11",
+    "Ap 8:7",
+    "Ap 17:16",
+    "Ap 18:8"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-8/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata dos lemas MorphGNT listados; não equivale necessariamente a todas as formas associadas ao número Strong.",
+  "strongDictionaryLemma": "κατακαίω",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml; blob 81b698b7141d8b17951a99086ecc4c67fec29884",
+  "lemmaBreakdown": [
+    {
+      "lemma": "κατακαίω",
+      "tokenCount": 11,
+      "verseCount": 9,
+      "references": [
+        "Mt 3:12",
+        "Mt 13:30",
+        "Lc 3:17",
+        "At 19:19",
+        "1Co 3:15",
+        "Hb 13:11",
+        "Ap 8:7",
+        "Ap 17:16",
+        "Ap 18:8"
+      ],
+      "bookDistribution": {
+        "Mt": 2,
+        "Lc": 1,
+        "At": 1,
+        "1Co": 1,
+        "Hb": 1,
+        "Ap": 5
+      }
+    }
+  ]
+}
