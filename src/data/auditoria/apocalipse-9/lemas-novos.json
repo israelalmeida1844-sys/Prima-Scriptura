@@ -1,0 +1,309 @@
+{
+  "complete": false,
+  "source": "MorphGNT; dicionário Strong XML",
+  "entries": [
+    {
+      "lemma": "φρέαρ",
+      "strong": "G5421",
+      "lexicalId": "G5421",
+      "aliases": []
+    },
+    {
+      "lemma": "ἄβυσσος",
+      "strong": "G12",
+      "lexicalId": "G12",
+      "aliases": []
+    },
+    {
+      "lemma": "σκοτόομαι",
+      "strong": "G4656",
+      "lexicalId": "G4656",
+      "aliases": [],
+      "strongDictionaryLemma": "σκοτόω"
+    },
+    {
+      "lemma": "ἀήρ",
+      "strong": "G109",
+      "lexicalId": "G109",
+      "aliases": []
+    },
+    {
+      "lemma": "ἀκρίς",
+      "strong": "G200",
+      "lexicalId": "G200",
+      "aliases": []
+    },
+    {
+      "lemma": "σκορπίος",
+      "strong": "G4651",
+      "lexicalId": "G4651",
+      "aliases": []
+    },
+    {
+      "lemma": "βασανίζω",
+      "strong": "G928",
+      "lexicalId": "G928",
+      "aliases": []
+    },
+    {
+      "lemma": "μήν",
+      "strong": "G3376",
+      "lexicalId": "G3376",
+      "aliases": []
+    },
+    {
+      "lemma": "πέντε",
+      "strong": "G4002",
+      "lexicalId": "G4002",
+      "aliases": []
+    },
+    {
+      "lemma": "βασανισμός",
+      "strong": "G929",
+      "lexicalId": "G929",
+      "aliases": []
+    },
+    {
+      "lemma": "παίω",
+      "strong": "G3817",
+      "lexicalId": "G3817",
+      "aliases": []
+    },
+    {
+      "lemma": "ἐκεῖνος",
+      "strong": "G1565",
+      "lexicalId": "G1565",
+      "aliases": []
+    },
+    {
+      "lemma": "ζητέω",
+      "strong": "G2212",
+      "lexicalId": "G2212",
+      "aliases": []
+    },
+    {
+      "lemma": "ἐπιθυμέω",
+      "strong": "G1937",
+      "lexicalId": "G1937",
+      "aliases": []
+    },
+    {
+      "lemma": "φεύγω",
+      "strong": "G5343",
+      "lexicalId": "G5343",
+      "aliases": []
+    },
+    {
+      "lemma": "ὁμοίωμα",
+      "strong": "G3667",
+      "lexicalId": "G3667",
+      "aliases": []
+    },
+    {
+      "lemma": "πόλεμος",
+      "strong": "G4171",
+      "lexicalId": "G4171",
+      "aliases": []
+    },
+    {
+      "lemma": "χρυσός",
+      "strong": "G5557",
+      "lexicalId": "G5557",
+      "aliases": []
+    },
+    {
+      "lemma": "ὀδούς",
+      "strong": "G3599",
+      "lexicalId": "G3599",
+      "aliases": []
+    },
+    {
+      "lemma": "θώραξ",
+      "strong": "G2382",
+      "lexicalId": "G2382",
+      "aliases": []
+    },
+    {
+      "lemma": "ἅρμα",
+      "strong": "G716",
+      "lexicalId": "G716",
+      "aliases": []
+    },
+    {
+      "lemma": "τρέχω",
+      "strong": "G5143",
+      "lexicalId": "G5143",
+      "aliases": []
+    },
+    {
+      "lemma": "οὐρά",
+      "strong": "G3769",
+      "lexicalId": "G3769",
+      "aliases": []
+    },
+    {
+      "lemma": "κέντρον",
+      "strong": "G2759",
+      "lexicalId": "G2759",
+      "aliases": []
+    },
+    {
+      "lemma": "Ἑβραϊστί",
+      "strong": "G1447",
+      "lexicalId": "G1447",
+      "aliases": []
+    },
+    {
+      "lemma": "Ἀβαδδών",
+      "strong": "G3",
+      "lexicalId": "G3",
+      "aliases": []
+    },
+    {
+      "lemma": "Ἑλληνικός",
+      "strong": "G1673",
+      "lexicalId": "G1673",
+      "aliases": []
+    },
+    {
+      "lemma": "Ἀπολλύων",
+      "strong": "G623",
+      "lexicalId": "G623",
+      "aliases": []
+    },
+    {
+      "lemma": "ἀπέρχομαι",
+      "strong": "G565",
+      "lexicalId": "G565",
+      "aliases": []
+    },
+    {
+      "lemma": "δύο",
+      "strong": "G1417",
+      "lexicalId": "G1417",
+      "aliases": []
+    },
+    {
+      "lemma": "Εὐφράτης",
+      "strong": "G2166",
+      "lexicalId": "G2166",
+      "aliases": []
+    },
+    {
+      "lemma": "ἐνιαυτός",
+      "strong": "G1763",
+      "lexicalId": "G1763",
+      "aliases": []
+    },
+    {
+      "lemma": "στράτευμα",
+      "strong": "G4753",
+      "lexicalId": "G4753",
+      "aliases": []
+    },
+    {
+      "lemma": "ἱππικόν",
+      "strong": "G2461",
+      "lexicalId": "G2461",
+      "aliases": []
+    },
+    {
+      "lemma": "δισμυριάς",
+      "strong": null,
+      "lexicalId": "L-dismyrias",
+      "aliases": []
+    },
+    {
+      "lemma": "πύρινος",
+      "strong": "G4447",
+      "lexicalId": "G4447",
+      "aliases": []
+    },
+    {
+      "lemma": "ὑακίνθινος",
+      "strong": "G5191",
+      "lexicalId": "G5191",
+      "aliases": []
+    },
+    {
+      "lemma": "θειώδης",
+      "strong": "G2306",
+      "lexicalId": "G2306",
+      "aliases": []
+    },
+    {
+      "lemma": "θεῖον",
+      "strong": "G2303",
+      "lexicalId": "G2303",
+      "aliases": []
+    },
+    {
+      "lemma": "πληγή",
+      "strong": "G4127",
+      "lexicalId": "G4127",
+      "aliases": []
+    },
+    {
+      "lemma": "ὄφις",
+      "strong": "G3789",
+      "lexicalId": "G3789",
+      "aliases": []
+    },
+    {
+      "lemma": "δαιμόνιον",
+      "strong": "G1140",
+      "lexicalId": "G1140",
+      "aliases": []
+    },
+    {
+      "lemma": "εἴδωλον",
+      "strong": "G1497",
+      "lexicalId": "G1497",
+      "aliases": []
+    },
+    {
+      "lemma": "ἀργυροῦς",
+      "strong": "G693",
+      "lexicalId": "G693",
+      "aliases": [],
+      "strongDictionaryLemma": "ἀργύρεος"
+    },
+    {
+      "lemma": "χαλκοῦς",
+      "strong": "G5470",
+      "lexicalId": "G5470",
+      "aliases": [],
+      "strongDictionaryLemma": "χάλκεος"
+    },
+    {
+      "lemma": "λίθινος",
+      "strong": "G3035",
+      "lexicalId": "G3035",
+      "aliases": []
+    },
+    {
+      "lemma": "ξύλινος",
+      "strong": "G3585",
+      "lexicalId": "G3585",
+      "aliases": []
+    },
+    {
+      "lemma": "φόνος",
+      "strong": "G5408",
+      "lexicalId": "G5408",
+      "aliases": []
+    },
+    {
+      "lemma": "φάρμακον",
+      "strong": null,
+      "lexicalId": "L-pharmakon",
+      "aliases": []
+    },
+    {
+      "lemma": "κλέμμα",
+      "strong": "G2809",
+      "lexicalId": "G2809",
+      "aliases": []
+    }
+  ]
+}
