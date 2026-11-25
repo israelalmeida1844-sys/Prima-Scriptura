@@ -1,0 +1,42 @@
+{
+  "scope": "Ap 1:1–5",
+  "status": "revisão contextual, não homologação final",
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Revelation+1&version=THGNT%3BTR1894%3BSBLGNT"
+  ],
+  "limitations": [
+    "Comparação de edições não equivale à colação integral de manuscritos. NA28/ECM não consultados integralmente."
+  ],
+  "verses": [
+    {
+      "verse": 1,
+      "tokens": 28,
+      "explanations": 0,
+      "textual": true
+    },
+    {
+      "verse": 2,
+      "tokens": 13,
+      "explanations": 0,
+      "textual": true
+    },
+    {
+      "verse": 3,
+      "tokens": 20,
+      "explanations": 14,
+      "textual": true
+    },
+    {
+      "verse": 4,
+      "tokens": 31,
+      "explanations": 27,
+      "textual": true
+    },
+    {
+      "verse": 5,
+      "tokens": 33,
+      "explanations": 31,
+      "textual": true
+    }
+  ]
+}

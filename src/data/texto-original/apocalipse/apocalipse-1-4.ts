@@ -7,7 +7,7 @@ export const apocalipse1v4 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "João, às sete igrejas que estão na Ásia: graça a vocês e paz, da parte daquele que é, que era e que vem, e da parte dos sete espíritos que estão diante do seu trono.",
-  "textualNotes": "O SBLGNT lê ἀπὸ ὁ ὢν; seu aparato registra a adição de θεοῦ na edição Robinson–Pierpont (ἀπὸ θεοῦ ὁ ὢν). A adição explicita Deus como fonte da saudação; o título no nominativo permanece. Fonte: https://www.biblegateway.com/passage/?search=Revelation+1%3A4&version=SBLGNT",
+  "textualNotes": "O SBLGNT tem ἀπὸ ὁ ὢν. Robinson–Pierpont acrescenta θεοῦ após ἀπό; Scrivener (1894) apresenta ἀπὸ τοῦ ὁ ὢν e acrescenta ἐστιν após ἃ. São explicitações da fonte da saudação e da cópula na relativa.",
   "translationNote": "A fórmula divina permanece próxima da sintaxe original; «sete espíritos» não foi resolvido por paráfrase dogmática.",
   "words": [
     {
@@ -23,7 +23,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "João",
-      "explanation": "A forma Ἰωάννης é substantivo nominativo singular masculino do lema Ἰωάννης; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Remetente no nominativo epistolar. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -47,7 +47,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ταῖς é artigo definido dativo plural feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de ἐκκλησίαις. Artigo definido dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -71,7 +71,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Adjetivo dativo plural feminino",
       "meanings": "sete",
-      "explanation": "A forma ἑπτὰ é adjetivo dativo plural feminino do lema ἑπτά; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Numeral que quantifica ἐκκλησίαις. Adjetivo dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -95,7 +95,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "assembleia; igreja",
-      "explanation": "A forma ἐκκλησίαις é substantivo dativo plural feminino do lema ἐκκλησία; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Dativo dos destinatários. Substantivo dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -119,7 +119,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ταῖς é artigo definido dativo plural feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo da expressão atributiva ἐν τῇ Ἀσίᾳ. Artigo definido dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -143,7 +143,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; dentro de; por meio de",
-      "explanation": "A forma ἐν é preposição (indeclinável) do lema ἐν; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição de localização das igrejas. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -167,7 +167,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῇ é artigo definido dativo singular feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de Ἀσίᾳ. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -191,7 +191,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Ásia (província romana)",
-      "explanation": "A forma Ἀσίᾳ· é substantivo dativo singular feminino do lema Ἀσία; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Complemento locativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -216,7 +216,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "graça; favor",
-      "explanation": "A forma χάρις é substantivo nominativo singular feminino do lema χάρις; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Primeiro núcleo nominal da saudação. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -240,7 +240,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
       "meanings": "tu; vós; você(s)",
-      "explanation": "A forma ὑμῖν é pronome pessoal dativo plural do lema σύ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Dativo de destinatário da saudação. Pronome pessoal dativo plural.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -264,7 +264,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena χάρις e εἰρήνη. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -288,7 +288,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "paz; bem-estar",
-      "explanation": "A forma εἰρήνη é substantivo nominativo singular feminino do lema εἰρήνη; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Segundo núcleo nominal da saudação. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -312,7 +312,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "de; desde; procedente de",
-      "explanation": "A forma ἀπὸ é preposição (indeclinável) do lema ἀπό; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição de procedência, seguida excepcionalmente de nominativo. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -336,7 +336,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo substantivador de ὢν. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -384,7 +384,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena as designações divinas. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -408,7 +408,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo que nominaliza a forma finita ἦν. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -456,7 +456,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena a última designação divina. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -480,7 +480,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo substantivador de ἐρχόμενος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -529,7 +529,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena as fontes da saudação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -553,7 +553,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "de; desde; procedente de",
-      "explanation": "A forma ἀπὸ é preposição (indeclinável) do lema ἀπό; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição de procedência, rege πνευμάτων. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -577,7 +577,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῶν é artigo definido genitivo plural neutro do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de πνευμάτων. Artigo definido genitivo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -601,7 +601,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----GPN-",
       "morphology": "Adjetivo genitivo plural neutro",
       "meanings": "sete",
-      "explanation": "A forma ἑπτὰ é adjetivo genitivo plural neutro do lema ἑπτά; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Numeral que quantifica πνευμάτων. Adjetivo genitivo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -649,7 +649,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "que; o qual",
-      "explanation": "A forma ἃ é pronome relativo nominativo plural neutro do lema ὅς; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Pronome relativo neutro plural, sujeito da relativa nominal. Pronome relativo nominativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -673,7 +673,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "diante de; na presença de",
-      "explanation": "A forma ἐνώπιον é preposição (indeclinável) do lema ἐνώπιον; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Expressão preposicional de posição. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -697,7 +697,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τοῦ é artigo definido genitivo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de θρόνου. Artigo definido genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -721,7 +721,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "trono",
-      "explanation": "A forma θρόνου é substantivo genitivo singular masculino do lema θρόνος; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Complemento genitivo de ἐνώπιον. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],
@@ -745,7 +745,7 @@ export const apocalipse1v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; o mesmo",
-      "explanation": "A forma αὐτοῦ, é pronome pessoal genitivo singular masculino do lema αὐτός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo possessivo de θρόνου. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:4"
       ],

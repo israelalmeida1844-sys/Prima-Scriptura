@@ -7,7 +7,7 @@ export const apocalipse1v3 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Feliz aquele que lê e aqueles que ouvem as palavras desta profecia e guardam o que nela está escrito, pois o tempo está próximo.",
-  "textualNotes": "Na comparação entre SBLGNT e Scrivener (1881), a sequência de palavras coincide; diferenças de pontuação editorial não modificam o sentido. Esta comparação não equivale à colação de todas as testemunhas. Fonte: https://biblia.com/bible/scrmorph/revelation/1/3-6",
+  "textualNotes": "SBLGNT e Scrivener (1894) coincidem na sequência lexical do versículo, desconsideradas acentuação e pontuação editoriais; o aparato do SBLGNT não registra divergência entre suas edições de comparação.",
   "translationNote": "Tradução editorial; a bem-aventurança conjuga leitura pública, escuta e observância.",
   "words": [
     {
@@ -47,7 +47,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo substantivador de ἀναγινώσκων. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -95,7 +95,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena leitor e ouvintes. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -119,7 +119,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma οἱ é artigo definido nominativo plural masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo substantivador de ἀκούοντες. Artigo definido nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -167,7 +167,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τοὺς é artigo definido acusativo plural masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de λόγους. Artigo definido acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -191,7 +191,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "palavra; discurso; mensagem",
-      "explanation": "A forma λόγους é substantivo acusativo plural masculino do lema λόγος; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Objeto direto de ἀκούοντες. Substantivo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -215,7 +215,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῆς é artigo definido genitivo singular feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de προφητείας. Artigo definido genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -239,7 +239,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "profecia; mensagem profética",
-      "explanation": "A forma προφητείας é substantivo genitivo singular feminino do lema προφητεία; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo de conteúdo de λόγους. Substantivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -263,7 +263,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena ἀκούοντες e τηροῦντες. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -311,7 +311,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τὰ é artigo definido acusativo plural neutro do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo substantivador de γεγραμμένα. Artigo definido acusativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -335,7 +335,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; dentro de; por meio de",
-      "explanation": "A forma ἐν é preposição (indeclinável) do lema ἐν; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição de localização textual. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -359,7 +359,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----DSF-",
       "morphology": "Pronome pessoal dativo singular feminino",
       "meanings": "ele; seu; o mesmo",
-      "explanation": "A forma αὐτῇ é pronome pessoal dativo singular feminino do lema αὐτός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Complemento dativo de ἐν, retoma προφητείας. Pronome pessoal dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -383,7 +383,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "-XPPAPN-",
       "morphology": "Verbo perfeito passivo particípio acusativo plural neutro",
       "meanings": "escrever; registrar",
-      "explanation": "A forma γεγραμμένα, é verbo perfeito passivo particípio acusativo plural neutro do lema γράφω; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Particípio perfeito passivo substantivado, objeto de τηροῦντες. Verbo perfeito passivo particípio acusativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -408,7 +408,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de καιρός. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:3"
       ],
@@ -432,7 +432,7 @@ export const apocalipse1v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "pois; porque",
-      "explanation": "A forma γὰρ é conjunção (indeclinável) do lema γάρ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Conjunção explicativa da bem-aventurança. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:3"
       ],

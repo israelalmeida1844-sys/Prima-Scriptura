@@ -15,7 +15,7 @@ export const apocalipse1v1 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber / SBLGNT)",
   "translation": "Revelação de Jesus Cristo, a qual Deus lhe deu para mostrar aos seus servos as coisas que em breve devem acontecer; e ele as notificou, enviando-as por intermédio do seu anjo ao seu servo João,",
   "translationNote": "Tradução editorial em português fluente, distinta da sequência de glosas interlineares.",
-  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
+  "textualNotes": "SBLGNT e Textus Receptus de Scrivener (1894) coincidem na sequência lexical do versículo, desconsideradas acentuação e pontuação editoriais. O aparato do SBLGNT não registra divergência entre suas edições de comparação neste versículo.",
   "words": [
     {
       "id": "ap1-1-1",
@@ -652,9 +652,13 @@ export const apocalipse1v1 = {
     }
   ],
   "syntacticNotes": [
-    "O título Ἀποκάλυψις Ἰησοῦ Χριστοῦ contém genitivo cuja função deve ser analisada à luz do desenvolvimento da oração, especialmente ἣν ἔδωκεν αὐτῷ ὁ θεός."
+    "Ἀποκάλυψις Ἰησοῦ Χριστοῦ funciona como título em nominativo. A relação genitiva admite os valores de origem e conteúdo, interpretados à luz de ἣν ἔδωκεν αὐτῷ ὁ θεός.",
+    "O relativo ἣν retoma Ἀποκάλυψις e é objeto de ἔδωκεν; αὐτῷ indica o destinatário. δεῖξαι é infinitivo de finalidade, enquanto δεῖ rege γενέσθαι na relativa livre ἃ δεῖ γενέσθαι.",
+    "ἐν τάχει indica proximidade ou rapidez do acontecer; ἀποστείλας é particípio circunstancial de meio ou ação acompanhante, e διά com genitivo indica mediação do anjo."
   ],
   "exegeticalNotes": [
-    "Jesus recebe a revelação de Deus e participa de sua comunicação; a dimensão cristológica do conteúdo deve ser examinada no conjunto do livro."
+    "O prólogo apresenta a cadeia da revelação: Deus, Jesus Cristo, o mensageiro e João; os servos são os destinatários.",
+    "A linguagem de ἃ δεῖ γενέσθαι remete a Dn 2:28–29, situando o livro na tradição da revelação profética dos acontecimentos.",
+    "O verbo σημαίνω comunica ou indica; seu emprego não exige, por si só, que cada elemento do livro seja interpretado exclusivamente como símbolo."
   ]
 } as const;

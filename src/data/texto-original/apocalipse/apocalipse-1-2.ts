@@ -14,10 +14,10 @@ export const apocalipse1v2 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "O qual testemunhou a palavra de Deus e o testemunho de Jesus Cristo, tudo quanto viu.",
   "translationNote": "Tradução editorial própria; o relativo «o qual» retoma João, referido no versículo 1. A sequência grega conserva dois objetos coordenados e uma oração relativa final que descreve a extensão do testemunho.",
-  "textualNotes": "Comparação de edições: o SBLGNT apresenta ὅσα εἶδεν («tudo quanto viu»), enquanto o Textus Receptus de Scrivener (1894) inclui a partícula τε: ὅσα τε εἶδε/εἶδεν, conforme a edição. A leitura interlinear segue o SBLGNT. Trata-se de comparação de textos editados, não de colação exaustiva de manuscritos.",
+  "textualNotes": "Scrivener (1894) acrescenta τε após ὅσα; o SBLGNT não a contém. A partícula reforça a articulação do conteúdo testemunhado sem acrescentar novo objeto à revelação.",
   "exegeticalNotes": [
-    "As expressões τὸν λόγον τοῦ θεοῦ e τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ são objetos acusativos coordenados e caracterizam o conteúdo da mensagem testemunhada.",
-    "O relativo neutro plural acusativo ὅσα é objeto de εἶδεν e amplia o conteúdo da declaração: «tudo quanto viu». O testemunho de João está associado à experiência visionária, confirmada pelo gênero do livro e por Ap 22:8."
+    "O vocabulário de testemunho liga a missão de João à palavra divina e ao testemunho de Jesus; cf. Ap 1:9; 19:10.",
+    "A expressão tudo quanto viu apresenta o relato como testemunho da revelação recebida, sem restringir a experiência profética a percepção ocular comum."
   ],
   "words": [
     {
@@ -350,9 +350,8 @@ export const apocalipse1v2 = {
     }
   ],
   "syntacticNotes": [
-    "ἐμαρτύρησεν (aoristo) apresenta João como testemunha da palavra e do testemunho de Jesus; ὅσα εἶδεν resume o conteúdo visto, sem obrigar que cada visão seja descrita como percepção ocular comum.",
-    "O pronome relativo ὃς, nominativo masculino singular, retoma João em Apocalipse 1:1. A mudança de dativo (Ἰωάννῃ) para nominativo é exigida pela função de sujeito na nova oração.",
-    "O aoristo ἐμαρτύρησεν descreve o testemunho de João como ação vista globalmente. O tempo verbal, por si só, não exige que o testemunho seja interpretado como evento isolado ou como conclusão de todas as visões.",
-    "O genitivo de Ἰησοῦ Χριστοῦ admite interpretação como testemunho procedente de Cristo, a respeito de Cristo, ou como referência que integra essas dimensões; é necessário diálogo com Ap 1:9; 12:17; 19:10 e 22:16, sem impor uma única opção por morfologia."
+    "ὃς é sujeito da relativa e retoma João em Ap 1:1; o aoristo ἐμαρτύρησεν apresenta seu testemunho globalmente.",
+    "τὸν λόγον τοῦ θεοῦ e τὴν μαρτυρίαν Ἰησοῦ Χριστοῦ são objetos diretos coordenados. O genitivo de Jesus Cristo admite relação de origem ou conteúdo, a ser avaliada pelo contexto.",
+    "ὅσα εἶδεν é relativa livre em função epexegética, resumindo o conteúdo testemunhado."
   ]
 } as const;

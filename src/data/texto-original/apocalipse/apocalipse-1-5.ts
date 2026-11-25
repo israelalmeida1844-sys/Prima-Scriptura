@@ -7,7 +7,7 @@ export const apocalipse1v5 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "E da parte de Jesus Cristo, a testemunha fiel, o primogênito dentre os mortos e o soberano dos reis da terra. Àquele que nos ama e nos libertou dos nossos pecados por seu sangue,",
-  "textualNotes": "Comparação de edições: o SBLGNT lê λύσαντι ἡμᾶς ἐκ τῶν ἁμαρτιῶν («nos libertou dos pecados»); o Textus Receptus de Scrivener (1894) lê λούσαντι ἡμᾶς ἀπὸ τῶν ἁμαρτιῶν («nos lavou dos pecados»). As diferenças atingem o particípio verbal e a preposição. Para atribuir os apoios manuscritos individuais é necessário consultar o aparato crítico; a redação principal não foi harmonizada.",
+  "textualNotes": "O SBLGNT lê o particípio presente ἀγαπῶντι e λύσαντι com ἐκ; Scrivener (1894) traz ἀγαπήσαντι e λούσαντι com ἀπό, além de ἐκ antes de τῶν νεκρῶν. Robinson–Pierpont coincide com a leitura λούσαντι e ἀπό. A principal diferença semântica é libertar dos pecados versus lavar dos pecados.",
   "translationNote": "A expressão ἐν τῷ αἵματι αὐτοῦ é vertida como «por seu sangue»; o meio ou esfera requer análise contextual.",
   "words": [
     {
@@ -23,7 +23,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena a terceira fonte da saudação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -47,7 +47,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "de; desde; procedente de",
-      "explanation": "A forma ἀπὸ é preposição (indeclinável) do lema ἀπό; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição de procedência, rege Ἰησοῦ Χριστοῦ. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -71,7 +71,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Jesus",
-      "explanation": "A forma Ἰησοῦ é substantivo genitivo singular masculino do lema Ἰησοῦς; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Complemento genitivo de ἀπό. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -95,7 +95,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Cristo; Ungido",
-      "explanation": "A forma Χριστοῦ, é substantivo genitivo singular masculino do lema Χριστός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Aposição genitiva a Ἰησοῦ. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -120,7 +120,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de μάρτυς. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -144,7 +144,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "testemunha",
-      "explanation": "A forma μάρτυς é substantivo nominativo singular masculino do lema μάρτυς; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Título apositivo no nominativo apesar do genitivo antecedente. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -168,7 +168,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo da posição atributiva de πιστός. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -192,7 +192,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "fiel; digno de confiança",
-      "explanation": "A forma πιστός, é adjetivo nominativo singular masculino do lema πιστός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Adjetivo atributivo de μάρτυς. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -217,7 +217,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de πρωτότοκος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -265,7 +265,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῶν é artigo definido genitivo plural masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de νεκρῶν. Artigo definido genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -289,7 +289,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo genitivo plural masculino",
       "meanings": "morto",
-      "explanation": "A forma νεκρῶν é adjetivo genitivo plural masculino do lema νεκρός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo de relação com πρωτότοκος. Adjetivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -313,7 +313,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena os títulos πρωτότοκος e ἄρχων. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -337,7 +337,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma ὁ é artigo definido nominativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de ἄρχων. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -361,7 +361,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
       "meanings": "governante; soberano",
-      "explanation": "A forma ἄρχων é substantivo nominativo singular masculino do lema ἄρχων; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Terceiro título apositivo no nominativo. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -385,7 +385,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῶν é artigo definido genitivo plural masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de βασιλέων. Artigo definido genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -409,7 +409,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "rei",
-      "explanation": "A forma βασιλέων é substantivo genitivo plural masculino do lema βασιλεύς; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo de domínio de ἄρχων. Substantivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -433,7 +433,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῆς é artigo definido genitivo singular feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de γῆς. Artigo definido genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -457,7 +457,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "terra; solo",
-      "explanation": "A forma γῆς. é substantivo genitivo singular feminino do lema γῆ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo adnominal de βασιλέων. Substantivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -482,7 +482,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma Τῷ é artigo definido dativo singular masculino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Artigo dativo substantivador dos particípios da doxologia. Artigo definido dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -506,7 +506,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "-PAPDSM-",
       "morphology": "Verbo presente ativo particípio dativo singular masculino",
       "meanings": "amar",
-      "explanation": "A forma ἀγαπῶντι é verbo presente ativo particípio dativo singular masculino do lema ἀγαπάω; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Particípio presente ativo dativo, destinatário da doxologia. Verbo presente ativo particípio dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -530,7 +530,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----AP--",
       "morphology": "Pronome pessoal acusativo plural",
       "meanings": "eu; nós",
-      "explanation": "A forma ἡμᾶς é pronome pessoal acusativo plural do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Objeto direto de ἀγαπῶντι. Pronome pessoal acusativo plural.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -554,7 +554,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
       "meanings": "e; também; até",
-      "explanation": "A forma καὶ é conjunção (indeclinável) do lema καί; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Coordena ἀγαπῶντι e λύσαντι. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -602,7 +602,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----AP--",
       "morphology": "Pronome pessoal acusativo plural",
       "meanings": "eu; nós",
-      "explanation": "A forma ἡμᾶς é pronome pessoal acusativo plural do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Objeto direto de λύσαντι. Pronome pessoal acusativo plural.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -626,7 +626,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "de; para fora de",
-      "explanation": "A forma ἐκ é preposição (indeclinável) do lema ἐκ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição de separação, rege ἁμαρτιῶν. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -650,7 +650,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῶν é artigo definido genitivo plural feminino do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de ἁμαρτιῶν. Artigo definido genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -674,7 +674,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
       "meanings": "pecado",
-      "explanation": "A forma ἁμαρτιῶν é substantivo genitivo plural feminino do lema ἁμαρτία; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Complemento genitivo de ἐκ. Substantivo genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -698,7 +698,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
       "meanings": "eu; nós",
-      "explanation": "A forma ἡμῶν é pronome pessoal genitivo plural do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo possessivo de ἁμαρτιῶν. Pronome pessoal genitivo plural.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -722,7 +722,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
       "meanings": "em; dentro de; por meio de",
-      "explanation": "A forma ἐν é preposição (indeclinável) do lema ἐν; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Preposição de meio, rege αἵματι. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -746,7 +746,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----DSN-",
       "morphology": "Artigo definido dativo singular neutro",
       "meanings": "artigo definido; marcador de determinação nominal",
-      "explanation": "A forma τῷ é artigo definido dativo singular neutro do lema ὁ; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Determinante de αἵματι. Artigo definido dativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -770,7 +770,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
       "meanings": "sangue",
-      "explanation": "A forma αἵματι é substantivo dativo singular neutro do lema αἷμα; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Complemento dativo de ἐν, meio da libertação. Substantivo dativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
@@ -794,7 +794,7 @@ export const apocalipse1v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome pessoal genitivo singular masculino",
       "meanings": "ele; seu; o mesmo",
-      "explanation": "A forma αὐτοῦ— é pronome pessoal genitivo singular masculino do lema αὐτός; a glosa é contextual e não substitui a análise sintática do período.",
+      "explanation": "Genitivo possessivo de αἵματι. Pronome pessoal genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
       ],
