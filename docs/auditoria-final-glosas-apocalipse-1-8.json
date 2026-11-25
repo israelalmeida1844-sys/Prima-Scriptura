@@ -1,0 +1,1169 @@
+{
+  "scope": "Ap 1:1–8:13",
+  "verses": 143,
+  "tokens": 3381,
+  "changes": [
+    {
+      "id": "ap1-2-3",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-3-7",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-9-25",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-10-3",
+      "field": "gloss",
+      "before": "Espírito",
+      "after": "espírito",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap1-10-5",
+      "field": "gloss",
+      "before": "a",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-16-12",
+      "field": "gloss",
+      "before": "do",
+      "after": "da",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-20-3",
+      "field": "gloss",
+      "before": "dos",
+      "after": "das",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-20-13",
+      "field": "gloss",
+      "before": "as",
+      "after": "os",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-20-18",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-20-22",
+      "field": "gloss",
+      "before": "dos",
+      "after": "das",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap1-20-27",
+      "field": "gloss",
+      "before": "as",
+      "after": "os",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-1-11",
+      "field": "gloss",
+      "before": "segura",
+      "after": "que segura",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap2-1-12",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-1-20",
+      "field": "gloss",
+      "before": "anda",
+      "after": "que anda",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap2-2-2",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-5-8",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-5-19",
+      "field": "gloss",
+      "before": "a",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-6-6",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-7-2",
+      "field": "gloss",
+      "before": "tem",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap2-7-3",
+      "field": "gloss",
+      "before": "ouvidos",
+      "after": "ouvido",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-7-7",
+      "field": "gloss",
+      "before": "Espírito",
+      "after": "espírito",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-7-12",
+      "field": "gloss",
+      "before": "vence",
+      "after": "que vence",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap2-10-29",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-11-2",
+      "field": "gloss",
+      "before": "tem",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap2-11-3",
+      "field": "gloss",
+      "before": "ouvidos",
+      "after": "ouvido",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-11-7",
+      "field": "gloss",
+      "before": "Espírito",
+      "after": "espírito",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-12-12",
+      "field": "gloss",
+      "before": "tem",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap2-13-22",
+      "field": "gloss",
+      "before": "as",
+      "after": "os",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-13-23",
+      "field": "gloss",
+      "before": "dia",
+      "after": "dias",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-13-25",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-16-16",
+      "field": "gloss",
+      "before": "do",
+      "after": "da",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-17-2",
+      "field": "gloss",
+      "before": "tem",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap2-17-7",
+      "field": "gloss",
+      "before": "Espírito",
+      "after": "espírito",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-17-12",
+      "field": "gloss",
+      "before": "vence",
+      "after": "que vence",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap2-18-16",
+      "field": "gloss",
+      "before": "tem",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap2-19-3",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-19-19",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-22-18",
+      "field": "gloss",
+      "before": "dos",
+      "after": "das",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-22-19",
+      "field": "gloss",
+      "before": "obra",
+      "after": "obras",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-23-26",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-23-27",
+      "field": "gloss",
+      "before": "obra",
+      "after": "obras",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-26-9",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-26-10",
+      "field": "gloss",
+      "before": "obra",
+      "after": "obras",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-26-16",
+      "field": "gloss",
+      "before": "dos",
+      "after": "das",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-28-11",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap2-29-2",
+      "field": "gloss",
+      "before": "tem",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap2-29-3",
+      "field": "gloss",
+      "before": "ouvidos",
+      "after": "ouvido",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap2-29-7",
+      "field": "gloss",
+      "before": "Espírito",
+      "after": "espírito",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap3-1-12",
+      "field": "gloss",
+      "before": "tinha",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap3-1-19",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-1-24",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-2-14",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-4-4",
+      "field": "gloss",
+      "before": "nome",
+      "after": "nomes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap3-4-10",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-4-11",
+      "field": "gloss",
+      "before": "veste",
+      "after": "vestes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap3-5-6",
+      "field": "gloss",
+      "before": "veste",
+      "after": "vestes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap3-5-11",
+      "field": "gloss",
+      "before": "apagar",
+      "after": "apagarei",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-5-21",
+      "field": "gloss",
+      "before": "confessar",
+      "after": "confessarei",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-6-2",
+      "field": "gloss",
+      "before": "tinha",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap3-6-7",
+      "field": "gloss",
+      "before": "Espírito",
+      "after": "espírito",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap3-7-16",
+      "field": "gloss",
+      "before": "tinha",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap3-8-3",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-8-21",
+      "field": "gloss",
+      "before": "guardar",
+      "after": "guardaste",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-8-23",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-8-27",
+      "field": "gloss",
+      "before": "negar",
+      "after": "negaste",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-9-19",
+      "field": "gloss",
+      "before": "fazer",
+      "after": "farei",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-9-20",
+      "field": "gloss",
+      "before": "dele",
+      "after": "os",
+      "reason": "pronome acusativo, não genitivo"
+    },
+    {
+      "id": "ap3-10-2",
+      "field": "gloss",
+      "before": "guardar",
+      "after": "guardaste",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-10-3",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-10-10",
+      "field": "gloss",
+      "before": "guardar",
+      "after": "guardarei",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-11-1",
+      "field": "gloss",
+      "before": "vir",
+      "after": "venho",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-11-9",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-12-3",
+      "field": "gloss",
+      "before": "fazer",
+      "after": "farei",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-12-4",
+      "field": "gloss",
+      "before": "dele",
+      "after": "o",
+      "reason": "pronome acusativo, não genitivo"
+    },
+    {
+      "id": "ap3-12-16",
+      "field": "gloss",
+      "before": "sair",
+      "after": "saia",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-12-19",
+      "field": "gloss",
+      "before": "escrever",
+      "after": "escreverei",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-12-21",
+      "field": "gloss",
+      "before": "dele",
+      "after": "ele",
+      "reason": "pronome acusativo, não genitivo"
+    },
+    {
+      "id": "ap3-12-36",
+      "field": "gloss",
+      "before": "novo qualitativamente novo",
+      "after": "nova",
+      "reason": "glosa concisa com concordância"
+    },
+    {
+      "id": "ap3-12-39",
+      "field": "gloss",
+      "before": "descer",
+      "after": "que desce",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap3-12-52",
+      "field": "gloss",
+      "before": "novo qualitativamente novo",
+      "after": "novo",
+      "reason": "glosa concisa com concordância"
+    },
+    {
+      "id": "ap3-13-2",
+      "field": "gloss",
+      "before": "tinha",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap3-13-7",
+      "field": "gloss",
+      "before": "Espírito",
+      "after": "espírito",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap3-14-13",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-15-3",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-16-14",
+      "field": "gloss",
+      "before": "do",
+      "after": "da",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap3-18-13",
+      "field": "gloss",
+      "before": "veste",
+      "after": "vestes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap3-18-29",
+      "field": "gloss",
+      "before": "olho",
+      "after": "olhos",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap3-20-21",
+      "field": "gloss",
+      "before": "dele",
+      "after": "ele",
+      "reason": "pronome acusativo, não genitivo"
+    },
+    {
+      "id": "ap3-22-2",
+      "field": "gloss",
+      "before": "tinha",
+      "after": "que tem",
+      "reason": "particípio articular presente"
+    },
+    {
+      "id": "ap3-22-7",
+      "field": "gloss",
+      "before": "Espírito",
+      "after": "espírito",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-4-14",
+      "field": "gloss",
+      "before": "ancião",
+      "after": "anciãos",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-4-15",
+      "field": "gloss",
+      "before": "estar sentado",
+      "after": "sentados",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap4-4-18",
+      "field": "gloss",
+      "before": "veste",
+      "after": "vestes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-4-19",
+      "field": "gloss",
+      "before": "branco",
+      "after": "brancas",
+      "reason": "concordância com vestes"
+    },
+    {
+      "id": "ap4-4-23",
+      "field": "gloss",
+      "before": "cabeça",
+      "after": "cabeças",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-4-25",
+      "field": "gloss",
+      "before": "coroa",
+      "after": "coroas",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-5-8",
+      "field": "gloss",
+      "before": "voz",
+      "after": "vozes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-5-10",
+      "field": "gloss",
+      "before": "trovão",
+      "after": "trovões",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-6-20",
+      "field": "gloss",
+      "before": "ser vivente",
+      "after": "seres viventes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-6-22",
+      "field": "gloss",
+      "before": "olho",
+      "after": "olhos",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-8-4",
+      "field": "gloss",
+      "before": "ser vivente",
+      "after": "seres viventes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-8-17",
+      "field": "gloss",
+      "before": "olho",
+      "after": "olhos",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-9-5",
+      "field": "gloss",
+      "before": "ser vivente",
+      "after": "seres viventes",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-10-5",
+      "field": "gloss",
+      "before": "ancião",
+      "after": "anciãos",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap4-10-23",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap4-10-24",
+      "field": "gloss",
+      "before": "coroa",
+      "after": "coroas",
+      "reason": "número nominal e sentido contextual"
+    },
+    {
+      "id": "ap5-10-3",
+      "field": "gloss",
+      "before": "eles / os",
+      "after": "os",
+      "reason": "pronome acusativo, não genitivo"
+    },
+    {
+      "id": "ap5-13-18",
+      "field": "gloss",
+      "before": "da",
+      "after": "do",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap6-3-4",
+      "field": "gloss",
+      "before": "a",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap6-5-4",
+      "field": "gloss",
+      "before": "a",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap6-7-4",
+      "field": "gloss",
+      "before": "a",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap6-9-4",
+      "field": "gloss",
+      "before": "a",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap6-9-16",
+      "field": "gloss",
+      "before": "o",
+      "after": "a",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap6-12-5",
+      "field": "gloss",
+      "before": "a",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap6-13-2",
+      "field": "gloss",
+      "before": "os",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap6-17-3",
+      "field": "gloss",
+      "before": "a",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap7-1-32",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-2-3",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-2-16",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-4-13",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-9-7",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-9-11",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-9-14",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-9-32",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-10-4",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-11-2",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-11-11",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-13-6",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-13-15",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-14-19",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-16-15",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-17-6",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap7-17-22",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-2-8",
+      "field": "gloss",
+      "before": "o (genitivo)",
+      "after": "o",
+      "reason": "retirar metadado da glosa"
+    },
+    {
+      "id": "ap8-3-2",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-3-8",
+      "field": "gloss",
+      "before": "o (genitivo)",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap8-3-12",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-3-17",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-3-19",
+      "field": "gloss",
+      "before": "dará (oferecer)",
+      "after": "dará",
+      "reason": "flexão verbal específica"
+    },
+    {
+      "id": "ap8-3-23",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-3-24",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-3-29",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-4-10",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-4-16",
+      "field": "gloss",
+      "before": "o (genitivo)",
+      "after": "o",
+      "reason": "retirar metadado da glosa"
+    },
+    {
+      "id": "ap8-5-11",
+      "field": "gloss",
+      "before": "o (genitivo)",
+      "after": "o",
+      "reason": "retirar metadado da glosa"
+    },
+    {
+      "id": "ap8-7-31",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-7-33",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-8-9",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-10-9",
+      "field": "gloss",
+      "before": "o (genitivo)",
+      "after": "o",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap8-10-12",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-11-18",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-11-23",
+      "field": "gloss",
+      "before": "as (genitivo)",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap8-13-11",
+      "field": "gloss",
+      "before": "com voz",
+      "after": "voz",
+      "reason": "expressão φωνὴ μεγάλη"
+    },
+    {
+      "id": "ap8-13-12",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    },
+    {
+      "id": "ap8-13-22",
+      "field": "gloss",
+      "before": "os (genitivo)",
+      "after": "as",
+      "reason": "concordância com gênero do substantivo português"
+    },
+    {
+      "id": "ap8-13-22",
+      "field": "gloss",
+      "before": "as",
+      "after": "dos",
+      "reason": "genitivo de sons restantes"
+    },
+    {
+      "id": "ap8-13-23",
+      "field": "partOfSpeech",
+      "before": "Adjetivo / numeral",
+      "after": "Adjetivo",
+      "reason": "classe não numeral"
+    }
+  ],
+  "exampleUpdates": 0,
+  "remaining": [
+    {
+      "id": "ap2-4-4",
+      "gloss": "teu/de ti",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap2-14-4",
+      "gloss": "teu/de ti",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap2-20-4",
+      "gloss": "teu/de ti",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap6-8-18",
+      "gloss": "Hades / mundo dos mortos",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap7-9-10",
+      "gloss": "a (retomada pronominal)",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap7-14-27",
+      "gloss": "os (as vestes)",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap7-16-9",
+      "gloss": "caia (subjuntivo)",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap8-1-6",
+      "gloss": "o (artigo reiterado)",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap8-6-5",
+      "gloss": "os (artigo reiterado)",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap8-9-7",
+      "gloss": "os (artigo genitivo)",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap8-9-11",
+      "gloss": "os (artigo retomador)",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    },
+    {
+      "id": "ap8-12-34",
+      "gloss": "dele (do dia)",
+      "reason": "revisão semântica ou segmentação ainda necessária"
+    }
+  ]
+}

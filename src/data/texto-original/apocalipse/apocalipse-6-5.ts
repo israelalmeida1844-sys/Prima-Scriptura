@@ -95,7 +95,7 @@ export const apocalipse6v5 = {
       "shortMorph": "ART-ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "a",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

@@ -98,7 +98,7 @@ export const apocalipse7v10 = {
       "strong": "G3173",
       "lemma": "μέγας",
       "lemmaTransliteration": "megas",
-      "partOfSpeech": "Adjetivo / numeral",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo / numeral · dativo · singular · feminino (MorphGNT: A- ----DSF-)",
       "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",

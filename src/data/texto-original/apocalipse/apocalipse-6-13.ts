@@ -47,7 +47,7 @@ export const apocalipse6v13 = {
       "shortMorph": "ART-NPM",
       "greek": "οἱ",
       "transliteration": "hoi",
-      "gloss": "os",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

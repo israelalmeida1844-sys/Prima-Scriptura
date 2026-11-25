@@ -43,7 +43,7 @@ export const apocalipse3v22 = {
       "shortMorph": "V- -PAPNSM-",
       "greek": "ἔχων",
       "transliteration": "echōn",
-      "gloss": "tinha",
+      "gloss": "que tem",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -163,7 +163,7 @@ export const apocalipse3v22 = {
       "shortMorph": "N- ----NSN-",
       "greek": "πνεῦμα",
       "transliteration": "pneuma",
-      "gloss": "Espírito",
+      "gloss": "espírito",
       "strong": "G4151",
       "lemma": "πνεῦμα",
       "lemmaTransliteration": "pneuma",
@@ -257,7 +257,7 @@ export const apocalipse3v22 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ ἔχων é particípio substantivado, com οὖς como objeto; οὖν tem valor conclusivo.",
-    "ἀκουσάτω é imperativo aoristo de terceira pessoa, seguido de interrogativa indireta."
+    "οὖς é acusativo singular de οὖς («ouvido»), objeto direto do particípio presente substantivado ἔχων; ἀκουσάτω é imperativo aoristo ativo de terceira pessoa singular.",
+    "τί introduz a pergunta indireta dependente de ἀκουσάτω; ταῖς ἐκκλησίαις identifica os destinatários da fala do Espírito."
   ]
 } as const;

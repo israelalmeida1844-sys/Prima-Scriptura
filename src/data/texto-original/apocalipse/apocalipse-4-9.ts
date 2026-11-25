@@ -115,7 +115,7 @@ export const apocalipse4v9 = {
       "shortMorph": "N-NPN",
       "greek": "ζῷα",
       "transliteration": "zōia",
-      "gloss": "ser vivente",
+      "gloss": "seres viventes",
       "strong": "G2226",
       "lemma": "ζῷον",
       "lemmaTransliteration": "zōion",

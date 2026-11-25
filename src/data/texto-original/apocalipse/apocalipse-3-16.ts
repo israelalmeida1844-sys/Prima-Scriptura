@@ -333,7 +333,7 @@ export const apocalipse3v16 = {
       "shortMorph": "RA ----GSN-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "do",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

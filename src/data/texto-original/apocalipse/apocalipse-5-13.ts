@@ -431,7 +431,7 @@ export const apocalipse5v13 = {
       "shortMorph": "ART-GSF",
       "greek": "τῆς",
       "transliteration": "tēs",
-      "gloss": "da",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

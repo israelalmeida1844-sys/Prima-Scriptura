@@ -284,7 +284,7 @@ export const apocalipse1v16 = {
       "shortMorph": "Art-GSN",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "do",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

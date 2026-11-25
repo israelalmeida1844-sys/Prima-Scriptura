@@ -71,7 +71,7 @@ export const apocalipse6v17 = {
       "shortMorph": "ART-NSF",
       "greek": "ἡ",
       "transliteration": "hē",
-      "gloss": "a",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

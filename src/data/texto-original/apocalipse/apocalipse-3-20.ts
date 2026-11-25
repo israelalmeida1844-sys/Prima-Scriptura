@@ -501,7 +501,7 @@ export const apocalipse3v20 = {
       "shortMorph": "RP ----ASM-",
       "greek": "αὐτὸν",
       "transliteration": "auton",
-      "gloss": "dele",
+      "gloss": "ele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",

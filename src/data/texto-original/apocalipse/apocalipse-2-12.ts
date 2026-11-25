@@ -284,7 +284,7 @@ export const apocalipse2v12 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "ἔχων",
       "transliteration": "echōn",
-      "gloss": "tem",
+      "gloss": "que tem",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",

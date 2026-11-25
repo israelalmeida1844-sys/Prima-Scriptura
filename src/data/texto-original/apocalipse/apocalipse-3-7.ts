@@ -382,7 +382,7 @@ export const apocalipse3v7 = {
       "shortMorph": "V- -PAPNSM-",
       "greek": "ἔχων",
       "transliteration": "echōn",
-      "gloss": "tinha",
+      "gloss": "que tem",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",

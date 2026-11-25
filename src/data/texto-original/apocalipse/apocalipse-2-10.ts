@@ -695,7 +695,7 @@ export const apocalipse2v10 = {
       "shortMorph": "Art-ASM",
       "greek": "τὸν",
       "transliteration": "ton",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

@@ -316,7 +316,7 @@ export const apocalipse7v4 = {
       "strong": "G3956",
       "lemma": "πᾶς",
       "lemmaTransliteration": "pas",
-      "partOfSpeech": "Adjetivo / numeral",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GSF-",
       "morphology": "Adjetivo / numeral · genitivo · singular · feminino (MorphGNT: A- ----GSF-)",
       "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",

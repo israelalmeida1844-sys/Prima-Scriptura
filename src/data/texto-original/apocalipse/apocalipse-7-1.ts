@@ -772,7 +772,7 @@ export const apocalipse7v1 = {
       "strong": "G3956",
       "lemma": "πᾶς",
       "lemmaTransliteration": "pas",
-      "partOfSpeech": "Adjetivo / numeral",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
       "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",

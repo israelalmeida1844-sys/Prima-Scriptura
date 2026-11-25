@@ -71,7 +71,7 @@ export const apocalipse5v10 = {
       "shortMorph": "PRO-APM",
       "greek": "αὐτοὺς",
       "transliteration": "autous",
-      "gloss": "eles / os",
+      "gloss": "os",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",

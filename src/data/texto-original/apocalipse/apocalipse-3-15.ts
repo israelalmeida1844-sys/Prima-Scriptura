@@ -67,7 +67,7 @@ export const apocalipse3v15 = {
       "shortMorph": "RA ----APN-",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "os",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

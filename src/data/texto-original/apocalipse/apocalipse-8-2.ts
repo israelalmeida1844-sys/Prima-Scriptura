@@ -197,7 +197,7 @@ export const apocalipse8v2 = {
       "shortMorph": "RA GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o (genitivo)",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",

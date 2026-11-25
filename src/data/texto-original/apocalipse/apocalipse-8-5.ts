@@ -272,7 +272,7 @@ export const apocalipse8v5 = {
       "shortMorph": "RA GSN",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o (genitivo)",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
