@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:2 · Revisão lexical e sintática */
 export const apocalipse9v2 = {
   "reference": "Apocalipse 9:2",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v2 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Abriu o poço do abismo, e subiu fumaça do poço como fumaça de uma grande fornalha; o sol e o ar escureceram por causa da fumaça do poço.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "μεγάλης em SBLGNT/WH/Treg/NA28; καιομένης em RP. ἐσκοτώθη em SBLGNT/WH/NA28; ἐσκοτίσθη em Treg/RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "μεγάλης em SBLGNT/WH/Treg/NA28; καιομένης em RP. ἐσκοτώθη em SBLGNT/WH/NA28; ἐσκοτίσθη em Treg/RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28. Impacto: A primeira variante modifica a caracterização da fornalha (grande ou ardente); a segunda apresenta forma verbal alternativa para o obscurecimento.",
   "syntacticNotes": [
     "ἐσκοτώθη é aoristo passivo; os nominativos ἥλιος e ἀήρ constituem sujeitos coordenados; ἐκ marca causa."
   ],
   "exegeticalNotes": [
-    "A fumaça da fornalha recorda imagens de juízo (Gn 19:28; Êx 19:18); o obscurecimento prepara a cena seguinte."
+    "A fumaça da fornalha recorda imagens de juízo (Gn 19:28; Êx 19:18); o obscurecimento prepara a cena seguinte.",
+    "A sequência abrir–subir–escurecer relaciona a abertura concedida em 9:1 à transformação do cenário. A imagem prepara a emergência dos gafanhotos em 9:3."
   ],
   "words": [
     {
       "id": "ap9-2-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ ἤνοιξεν», καὶ tem a função de coordena nova ação; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena nova ação",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -53,12 +55,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "abrir",
-      "explanation": "Glosa contextual: abriu. ",
+      "explanation": "Na expressão «καὶ ἤνοιξεν τὸ», ἤνοιξεν tem a função de predicado de sujeito implícito (estrela); a acepção contextual é «abriu».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado de sujeito implícito (estrela)",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -77,13 +79,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἤνοιξεν τὸ φρέαρ», τὸ tem a função de determina φρέαρ; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina φρέαρ",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -103,12 +105,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
       "meanings": "poço; abertura de poço",
-      "explanation": "Glosa contextual: poço. ",
+      "explanation": "Na expressão «τὸ φρέαρ τῆς», φρέαρ tem a função de objeto direto de ἤνοιξεν; a acepção contextual é «poço».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto direto de ἤνοιξεν",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -127,13 +129,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: do. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «φρέαρ τῆς ἀβύσσου», τῆς tem a função de determina ἀβύσσου; a acepção contextual é «do».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἀβύσσου",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -153,12 +155,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "abismo; profundidade",
-      "explanation": "Glosa contextual: abismo. ",
+      "explanation": "Na expressão «τῆς ἀβύσσου καὶ», ἀβύσσου tem a função de genitivo especificador de φρέαρ; a acepção contextual é «abismo».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de φρέαρ",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -167,7 +169,7 @@ export const apocalipse9v2 = {
     },
     {
       "id": "ap9-2-7",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -177,13 +179,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «ἀβύσσου καὶ ἀνέβη», καὶ tem a função de coordena segunda oração; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena segunda oração",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -203,12 +205,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "subir",
-      "explanation": "Glosa contextual: subiu. ",
+      "explanation": "Na expressão «καὶ ἀνέβη καπνὸς», ἀνέβη tem a função de predicado de καπνός; a acepção contextual é «subiu».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado de καπνός",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -228,12 +230,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "fumaça",
-      "explanation": "Glosa contextual: fumaça. ",
+      "explanation": "Na expressão «ἀνέβη καπνὸς ἐκ», καπνὸς tem a função de sujeito de ἀνέβη; a acepção contextual é «fumaça».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de ἀνέβη",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -242,7 +244,7 @@ export const apocalipse9v2 = {
     },
     {
       "id": "ap9-2-10",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "de",
@@ -252,13 +254,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «καπνὸς ἐκ τοῦ», ἐκ tem a função de introduz origem; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz origem",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -277,13 +279,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τοῦ φρέατος», τοῦ tem a função de determina φρέατος; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina φρέατος",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -303,12 +305,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "poço; abertura de poço",
-      "explanation": "Glosa contextual: poço. ",
+      "explanation": "Na expressão «τοῦ φρέατος ὡς», φρέατος tem a função de complemento genitivo de ἐκ; a acepção contextual é «poço».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento genitivo de ἐκ",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -317,7 +319,7 @@ export const apocalipse9v2 = {
     },
     {
       "id": "ap9-2-13",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ὡς",
       "transliteration": "hōs",
       "gloss": "como",
@@ -328,12 +330,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa contextual: como. ",
+      "explanation": "Na expressão «φρέατος ὡς καπνὸς», ὡς tem a função de introduz comparação; a acepção contextual é «como».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz comparação",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -353,12 +355,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "fumaça",
-      "explanation": "Glosa contextual: fumaça. ",
+      "explanation": "Na expressão «ὡς καπνὸς καμίνου», καπνὸς tem a função de termo comparativo de καπνός; a acepção contextual é «fumaça».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "termo comparativo de καπνός",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -378,12 +380,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "fornalha",
-      "explanation": "Glosa contextual: de fornalha. ",
+      "explanation": "Na expressão «καπνὸς καμίνου μεγάλης», καμίνου tem a função de genitivo de origem da fumaça comparada; a acepção contextual é «de fornalha».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo de origem da fumaça comparada",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -403,12 +405,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----GSF-",
       "morphology": "Adjetivo / numeral · genitivo · singular · feminino (MorphGNT: A- ----GSF-)",
       "meanings": "grande",
-      "explanation": "Glosa contextual: grande. ",
+      "explanation": "Na expressão «καμίνου μεγάλης καὶ», μεγάλης tem a função de modifica καμίνου; a acepção contextual é «grande».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "modifica καμίνου",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -417,7 +419,7 @@ export const apocalipse9v2 = {
     },
     {
       "id": "ap9-2-17",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -427,13 +429,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «μεγάλης καὶ ἐσκοτώθη», καὶ tem a função de coordena terceira oração; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena terceira oração",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -445,20 +447,20 @@ export const apocalipse9v2 = {
       "shortMorph": "V-API-3-S",
       "greek": "ἐσκοτώθη",
       "transliteration": "eskotōthē",
-      "gloss": "escureceu",
+      "gloss": "foi obscurecido",
       "strong": "G4656",
       "lemma": "σκοτόομαι",
       "lemmaTransliteration": "skotoomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
-      "meanings": "escurecer; tornar-se escuro",
-      "explanation": "Glosa contextual: escureceu. ",
+      "meanings": "Escurecer, tornar escuro; na voz passiva, ser obscurecido.",
+      "explanation": "Na expressão «καὶ ἐσκοτώθη ὁ», ἐσκοτώθη tem a função de predicado passivo; a acepção contextual é «foi obscurecido».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado passivo",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -477,13 +479,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐσκοτώθη ὁ ἥλιος», ὁ tem a função de determina ἥλιος; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἥλιος",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -503,12 +505,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "sol",
-      "explanation": "Glosa contextual: sol. ",
+      "explanation": "Na expressão «ὁ ἥλιος καὶ», ἥλιος tem a função de primeiro sujeito de ἐσκοτώθη; a acepção contextual é «sol».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "primeiro sujeito de ἐσκοτώθη",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -517,7 +519,7 @@ export const apocalipse9v2 = {
     },
     {
       "id": "ap9-2-21",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -527,13 +529,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «ἥλιος καὶ ὁ», καὶ tem a função de coordena sujeitos; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena sujeitos",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -552,13 +554,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «καὶ ὁ ἀὴρ», ὁ tem a função de determina ἀήρ; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἀήρ",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -578,12 +580,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "ar; atmosfera",
-      "explanation": "Glosa contextual: ar. ",
+      "explanation": "Na expressão «ὁ ἀὴρ ἐκ», ἀὴρ tem a função de segundo sujeito de ἐσκοτώθη; a acepção contextual é «ar».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "segundo sujeito de ἐσκοτώθη",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -592,7 +594,7 @@ export const apocalipse9v2 = {
     },
     {
       "id": "ap9-2-24",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "por causa de",
@@ -602,13 +604,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: por causa de. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «ἀὴρ ἐκ τοῦ», ἐκ tem a função de introduz causa; a acepção contextual é «por causa de».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz causa",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -627,13 +629,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τοῦ καπνοῦ», τοῦ tem a função de determina καπνοῦ; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina καπνοῦ",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -653,12 +655,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "fumaça",
-      "explanation": "Glosa contextual: fumaça. ",
+      "explanation": "Na expressão «τοῦ καπνοῦ τοῦ», καπνοῦ tem a função de complemento causal de ἐκ; a acepção contextual é «fumaça».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento causal de ἐκ",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -677,13 +679,13 @@ export const apocalipse9v2 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: do. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «καπνοῦ τοῦ φρέατος», τοῦ tem a função de determina φρέατος; a acepção contextual é «do».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina φρέατος",
         "clauseId": "AP.9.2",
         "governedBy": null
       },
@@ -703,12 +705,12 @@ export const apocalipse9v2 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "poço; abertura de poço",
-      "explanation": "Glosa contextual: poço. ",
+      "explanation": "Na expressão «τοῦ φρέατος», φρέατος tem a função de genitivo especificador de καπνοῦ; a acepção contextual é «poço».",
       "occurrencesExamples": [
         "Ap 9:2"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de καπνοῦ",
         "clauseId": "AP.9.2",
         "governedBy": null
       },

@@ -1,0 +1,41 @@
+{
+  "strong": "G4656",
+  "lemma": "σκοτόομαι",
+  "lemmaTranslit": "skotoomai",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Efésios": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Efésios",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Eph 4:18",
+      "text": "⸀ἐσκοτωμένοι τῇ",
+      "highlightedWord": "ἐσκοτωμένοι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Re 9:2",
+      "text": "καὶ ⸀ἐσκοτώθη ὁ",
+      "highlightedWord": "ἐσκοτώθη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "Re 16:10",
+      "text": "αὐτοῦ ἐσκοτωμένη, καὶ",
+      "highlightedWord": "ἐσκοτωμένη"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

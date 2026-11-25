@@ -1,0 +1,42 @@
+{
+  "strong": "G693",
+  "lemma": "ἀργυροῦς",
+  "lemmaTranslit": "argyrous",
+  "tokenCount": 3,
+  "verseCount": 3,
+  "bookDistribution": {
+    "Atos": 1,
+    "2 Timóteo": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 24,
+      "reference": "Ac 19:24",
+      "text": "ναοὺς ἀργυροῦς Ἀρτέμιδος",
+      "highlightedWord": "ἀργυροῦς"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Ti 2:20",
+      "text": "καὶ ἀργυρᾶ ἀλλὰ",
+      "highlightedWord": "ἀργυρᾶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "τὰ ἀργυρᾶ καὶ",
+      "highlightedWord": "ἀργυρᾶ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

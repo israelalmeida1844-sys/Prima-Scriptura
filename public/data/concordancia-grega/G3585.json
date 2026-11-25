@@ -1,0 +1,33 @@
+{
+  "strong": "G3585",
+  "lemma": "ξύλινος",
+  "lemmaTranslit": "xylinos",
+  "tokenCount": 2,
+  "verseCount": 2,
+  "bookDistribution": {
+    "2 Timóteo": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "2Ti 2:20",
+      "text": "καὶ ξύλινα καὶ",
+      "highlightedWord": "ξύλινα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "τὰ ξύλινα, ἃ",
+      "highlightedWord": "ξύλινα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

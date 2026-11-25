@@ -1,0 +1,162 @@
+{
+  "strong": "G5143",
+  "lemma": "τρέχω",
+  "lemmaTranslit": "trechō",
+  "tokenCount": 20,
+  "verseCount": 17,
+  "bookDistribution": {
+    "Mateus": 2,
+    "Marcos": 2,
+    "Lucas": 2,
+    "João": 2,
+    "Romanos": 1,
+    "1 Coríntios": 4,
+    "Gálatas": 3,
+    "Filipenses": 1,
+    "2 Tessalonicenses": 1,
+    "Hebreus": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 48,
+      "reference": "Mt 27:48",
+      "text": "εὐθέως δραμὼν εἷς",
+      "highlightedWord": "δραμὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 8,
+      "reference": "Mt 28:8",
+      "text": "μεγάλης ἔδραμον ἀπαγγεῖλαι",
+      "highlightedWord": "ἔδραμον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 6,
+      "reference": "Mk 5:6",
+      "text": "μακρόθεν ἔδραμεν καὶ",
+      "highlightedWord": "ἔδραμεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 36,
+      "reference": "Mk 15:36",
+      "text": "δραμὼν δέ",
+      "highlightedWord": "δραμὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Lk 15:20",
+      "text": "καὶ δραμὼν ἐπέπεσεν",
+      "highlightedWord": "δραμὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Lk 24:12",
+      "text": "ἀναστὰς ἔδραμεν ἐπὶ",
+      "highlightedWord": "ἔδραμεν"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Jn 20:2",
+      "text": "τρέχει οὖν",
+      "highlightedWord": "τρέχει"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Jn 20:4",
+      "text": "ἔτρεχον δὲ",
+      "highlightedWord": "ἔτρεχον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Ro 9:16",
+      "text": "τοῦ τρέχοντος ἀλλὰ",
+      "highlightedWord": "τρέχοντος"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 24,
+      "reference": "1Co 9:24",
+      "text": "σταδίῳ τρέχοντες πάντες",
+      "highlightedWord": "τρέχοντες"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "1Co 9:26",
+      "text": "οὕτως τρέχω ὡς",
+      "highlightedWord": "τρέχω"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Ga 2:2",
+      "text": "κενὸν τρέχω ἢ",
+      "highlightedWord": "τρέχω"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Ga 5:7",
+      "text": "Ἐτρέχετε καλῶς·",
+      "highlightedWord": "Ἐτρέχετε"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 16,
+      "reference": "Php 2:16",
+      "text": "κενὸν ἔδραμον οὐδὲ",
+      "highlightedWord": "ἔδραμον"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "2Th 3:1",
+      "text": "κυρίου τρέχῃ καὶ",
+      "highlightedWord": "τρέχῃ"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Heb 12:1",
+      "text": "ὑπομονῆς τρέχωμεν τὸν",
+      "highlightedWord": "τρέχωμεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Re 9:9",
+      "text": "πολλῶν τρεχόντων εἰς",
+      "highlightedWord": "τρεχόντων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

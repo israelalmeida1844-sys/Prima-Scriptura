@@ -1,0 +1,286 @@
+{
+  "strong": "G4002",
+  "lemma": "πέντε",
+  "lemmaTranslit": "pente",
+  "tokenCount": 38,
+  "verseCount": 33,
+  "bookDistribution": {
+    "Mateus": 12,
+    "Marcos": 3,
+    "Lucas": 9,
+    "João": 5,
+    "Atos": 5,
+    "1 Coríntios": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Mt 14:17",
+      "text": "μὴ πέντε ἄρτους",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Mt 14:19",
+      "text": "τοὺς πέντε ἄρτους",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Mt 16:9",
+      "text": "τοὺς πέντε ἄρτους",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 2,
+      "reference": "Mt 25:2",
+      "text": "πέντε δὲ",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Mt 25:15",
+      "text": "ἔδωκεν πέντε τάλαντα",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 16,
+      "reference": "Mt 25:16",
+      "text": "τὰ πέντε τάλαντα",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 20,
+      "reference": "Mt 25:20",
+      "text": "τὰ πέντε τάλαντα",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Mk 6:38",
+      "text": "λέγουσιν· Πέντε, καὶ",
+      "highlightedWord": "Πέντε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Mk 6:41",
+      "text": "τοὺς πέντε ἄρτους",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Mk 8:19",
+      "text": "τοὺς πέντε ἄρτους",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Lk 1:24",
+      "text": "μῆνας πέντε, λέγουσα",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Lk 9:13",
+      "text": "⸂ἄρτοι πέντε⸃ καὶ",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Lk 9:16",
+      "text": "τοὺς πέντε ἄρτους",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Lk 12:6",
+      "text": "οὐχὶ πέντε στρουθία",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 52,
+      "reference": "Lk 12:52",
+      "text": "νῦν πέντε ἐν",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Lk 14:19",
+      "text": "ἠγόρασα πέντε καὶ",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 28,
+      "reference": "Lk 16:28",
+      "text": "γὰρ πέντε ἀδελφούς,",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Lk 19:18",
+      "text": "ἐποίησεν πέντε μνᾶς.",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Lk 19:19",
+      "text": "γίνου⸃ πέντε πόλεων.",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Jn 4:18",
+      "text": "πέντε γὰρ",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Jn 5:2",
+      "text": "⸀Βηθεσδά, πέντε στοὰς",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Jn 6:9",
+      "text": "ἔχει πέντε ἄρτους",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Jn 6:13",
+      "text": "τῶν πέντε ἄρτων",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Jn 6:19",
+      "text": "εἴκοσι πέντε ἢ",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 4,
+      "reference": "Ac 4:4",
+      "text": "χιλιάδες πέντε.",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 14,
+      "reference": "Ac 7:14",
+      "text": "ἑβδομήκοντα πέντε,",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Ac 19:19",
+      "text": "μυριάδας πέντε.",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 6,
+      "reference": "Ac 20:6",
+      "text": "ἡμερῶν πέντε, ⸀οὗ",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 1,
+      "reference": "Ac 24:1",
+      "text": "δὲ πέντε ἡμέρας",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "1Co 14:19",
+      "text": "θέλω πέντε λόγους",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "μῆνας πέντε· καὶ",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Re 9:10",
+      "text": "μῆνας πέντε.",
+      "highlightedWord": "πέντε"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 10,
+      "reference": "Re 17:10",
+      "text": "οἱ πέντε ἔπεσαν,",
+      "highlightedWord": "πέντε"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

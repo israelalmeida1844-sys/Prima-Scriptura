@@ -1,0 +1,76 @@
+{
+  "strong": "G109",
+  "lemma": "ἀήρ",
+  "lemmaTranslit": "aēr",
+  "tokenCount": 7,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Atos": 1,
+    "1 Coríntios": 2,
+    "Efésios": 1,
+    "1 Tessalonicenses": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 23,
+      "reference": "Ac 22:23",
+      "text": "τὸν ἀέρα,",
+      "highlightedWord": "ἀέρα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "1Co 9:26",
+      "text": "οὐκ ἀέρα δέρων·",
+      "highlightedWord": "ἀέρα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 9,
+      "reference": "1Co 14:9",
+      "text": "εἰς ἀέρα λαλοῦντες.",
+      "highlightedWord": "ἀέρα"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 2,
+      "reference": "Eph 2:2",
+      "text": "τοῦ ἀέρος, τοῦ",
+      "highlightedWord": "ἀέρος"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Th 4:17",
+      "text": "εἰς ἀέρα· καὶ",
+      "highlightedWord": "ἀέρα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Re 9:2",
+      "text": "ὁ ἀὴρ ἐκ",
+      "highlightedWord": "ἀὴρ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Re 16:17",
+      "text": "τὸν ἀέρα— καὶ",
+      "highlightedWord": "ἀέρα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

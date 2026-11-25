@@ -36,7 +36,7 @@ const base = '/comentarios/apocalipse/capitulo-9/';
 ---
 <Base
   title={'Apocalipse 9:' + number + ' — Texto grego e análise lexical'}
-  description={'Estudo interlinear de Apocalipse 9:' + number + ' com concordâncias em preparação, morfologia SBLGNT/MorphGNT e tradução editorial.'}
+  description={'Estudo interlinear de Apocalipse 9:' + number + ' com concordâncias do Novo Testamento, morfologia SBLGNT/MorphGNT e tradução editorial.'}
 >
   <section class="apocalipse-reader">
     <div class="reader-wrap">
@@ -69,7 +69,7 @@ const base = '/comentarios/apocalipse/capitulo-9/';
       <WordComponent />
 
       <nav class="verse-navigation" aria-label="Navegação entre versículos">
-        {number > 1 ? <a data-apocalipse-prev href={base + 'versiculo-' + (number - 1) + '/'}>← Versículo anterior</a> : <span class="disabled" aria-disabled="true">Início do capítulo 9</span>}
+        {number > 1 ? <a data-apocalipse-prev href={base + 'versiculo-' + (number - 1) + '/'}>← Versículo anterior</a> : <a data-apocalipse-prev href="/comentarios/apocalipse/capitulo-8/versiculo-13/">← Apocalipse 8:13</a>}
         <a class="chapter-return" href={base}>Índice do capítulo 9</a>
         {number < 21 ? <a data-apocalipse-next href={base + 'versiculo-' + (number + 1) + '/'}>Próximo versículo →</a> : <span class="disabled" aria-disabled="true">Conclusão do capítulo 9</span>}
       </nav>

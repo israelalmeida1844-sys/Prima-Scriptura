@@ -1,0 +1,943 @@
+{
+  "strong": "G2212",
+  "lemma": "ζητέω",
+  "lemmaTranslit": "zēteō",
+  "tokenCount": 117,
+  "verseCount": 114,
+  "bookDistribution": {
+    "Mateus": 14,
+    "Marcos": 10,
+    "Lucas": 25,
+    "João": 34,
+    "Atos": 10,
+    "Romanos": 4,
+    "1 Coríntios": 8,
+    "2 Coríntios": 2,
+    "Gálatas": 2,
+    "Filipenses": 1,
+    "Colossenses": 1,
+    "1 Tessalonicenses": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 1,
+    "1 Pedro": 2,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mt 2:13",
+      "text": "Ἡρῴδης ζητεῖν τὸ",
+      "highlightedWord": "ζητεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Mt 2:20",
+      "text": "οἱ ζητοῦντες τὴν",
+      "highlightedWord": "ζητοῦντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 33,
+      "reference": "Mt 6:33",
+      "text": "ζητεῖτε δὲ",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 7,
+      "reference": "Mt 7:7",
+      "text": "ὑμῖν· ζητεῖτε, καὶ",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "Mt 7:8",
+      "text": "ὁ ζητῶν εὑρίσκει",
+      "highlightedWord": "ζητῶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Mt 12:43",
+      "text": "τόπων ζητοῦν ἀνάπαυσιν,",
+      "highlightedWord": "ζητοῦν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Mt 12:46",
+      "text": "ἔξω ζητοῦντες αὐτῷ",
+      "highlightedWord": "ζητοῦντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Mt 12:47",
+      "text": "ἑστήκασιν, ζητοῦντές σοι",
+      "highlightedWord": "ζητοῦντές"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 45,
+      "reference": "Mt 13:45",
+      "text": "ἐμπόρῳ ζητοῦντι καλοὺς",
+      "highlightedWord": "ζητοῦντι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Mt 18:12",
+      "text": "πορευθεὶς ζητεῖ τὸ",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 46,
+      "reference": "Mt 21:46",
+      "text": "καὶ ζητοῦντες αὐτὸν",
+      "highlightedWord": "ζητοῦντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 16,
+      "reference": "Mt 26:16",
+      "text": "τότε ἐζήτει εὐκαιρίαν",
+      "highlightedWord": "ἐζήτει"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 59,
+      "reference": "Mt 26:59",
+      "text": "ὅλον ἐζήτουν ψευδομαρτυρίαν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 5,
+      "reference": "Mt 28:5",
+      "text": "ἐσταυρωμένον ζητεῖτε·",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 37,
+      "reference": "Mk 1:37",
+      "text": "Πάντες ⸂ζητοῦσίν σε⸃.",
+      "highlightedWord": "ζητοῦσίν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 32,
+      "reference": "Mk 3:32",
+      "text": "ἔξω ζητοῦσίν σε.",
+      "highlightedWord": "ζητοῦσίν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 11,
+      "reference": "Mk 8:11",
+      "text": "αὐτῷ, ζητοῦντες παρ’",
+      "highlightedWord": "ζητοῦντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Mk 8:12",
+      "text": "αὕτη ⸂ζητεῖ σημεῖον⸃;",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Mk 11:18",
+      "text": "καὶ ἐζήτουν πῶς",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mk 12:12",
+      "text": "Καὶ ἐζήτουν αὐτὸν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Mk 14:1",
+      "text": "καὶ ἐζήτουν οἱ",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Mk 14:11",
+      "text": "καὶ ἐζήτει πῶς",
+      "highlightedWord": "ἐζήτει"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 55,
+      "reference": "Mk 14:55",
+      "text": "συνέδριον ἐζήτουν κατὰ",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 6,
+      "reference": "Mk 16:6",
+      "text": "Ἰησοῦν ζητεῖτε τὸν",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 48,
+      "reference": "Lk 2:48",
+      "text": "ὀδυνώμενοι ⸀ἐζητοῦμέν σε.",
+      "highlightedWord": "ἐζητοῦμέν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 49,
+      "reference": "Lk 2:49",
+      "text": "ὅτι ἐζητεῖτέ με;",
+      "highlightedWord": "ἐζητεῖτέ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Lk 5:18",
+      "text": "καὶ ἐζήτουν αὐτὸν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 19,
+      "reference": "Lk 6:19",
+      "text": "ὄχλος ⸀ἐζήτουν ἅπτεσθαι",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Lk 9:9",
+      "text": "καὶ ἐζήτει ἰδεῖν",
+      "highlightedWord": "ἐζήτει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 9,
+      "reference": "Lk 11:9",
+      "text": "ὑμῖν· ζητεῖτε, καὶ",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Lk 11:10",
+      "text": "ὁ ζητῶν εὑρίσκει,",
+      "highlightedWord": "ζητῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 16,
+      "reference": "Lk 11:16",
+      "text": "οὐρανοῦ ἐζήτουν παρ’",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 24,
+      "reference": "Lk 11:24",
+      "text": "τόπων ζητοῦν ἀνάπαυσιν,",
+      "highlightedWord": "ζητοῦν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Lk 11:29",
+      "text": "σημεῖον ⸀ζητεῖ, καὶ",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Lk 12:29",
+      "text": "μὴ ζητεῖτε τί",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 31,
+      "reference": "Lk 12:31",
+      "text": "πλὴν ζητεῖτε τὴν",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Lk 12:48",
+      "text": "πολὺ ζητηθήσεται παρ’",
+      "highlightedWord": "ζητηθήσεται"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 6,
+      "reference": "Lk 13:6",
+      "text": "ἦλθεν ζητῶν καρπὸν",
+      "highlightedWord": "ζητῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 7,
+      "reference": "Lk 13:7",
+      "text": "ἔρχομαι ζητῶν καρπὸν",
+      "highlightedWord": "ζητῶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Lk 13:24",
+      "text": "ὑμῖν, ζητήσουσιν εἰσελθεῖν",
+      "highlightedWord": "ζητήσουσιν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Lk 15:8",
+      "text": "καὶ ζητεῖ ἐπιμελῶς",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 33,
+      "reference": "Lk 17:33",
+      "text": "ἐὰν ζητήσῃ τὴν",
+      "highlightedWord": "ζητήσῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 3,
+      "reference": "Lk 19:3",
+      "text": "καὶ ἐζήτει ἰδεῖν",
+      "highlightedWord": "ἐζήτει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Lk 19:10",
+      "text": "ἀνθρώπου ζητῆσαι καὶ",
+      "highlightedWord": "ζητῆσαι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 47,
+      "reference": "Lk 19:47",
+      "text": "γραμματεῖς ἐζήτουν αὐτὸν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Lk 20:19",
+      "text": "καὶ ἐζήτησαν οἱ",
+      "highlightedWord": "ἐζήτησαν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Lk 22:2",
+      "text": "καὶ ἐζήτουν οἱ",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 6,
+      "reference": "Lk 22:6",
+      "text": "καὶ ἐζήτει εὐκαιρίαν",
+      "highlightedWord": "ἐζήτει"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 5,
+      "reference": "Lk 24:5",
+      "text": "Τί ζητεῖτε τὸν",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 38,
+      "reference": "Jn 1:38",
+      "text": "Τί ζητεῖτε; οἱ",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 23,
+      "reference": "Jn 4:23",
+      "text": "τοιούτους ζητεῖ τοὺς",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 27,
+      "reference": "Jn 4:27",
+      "text": "Τί ζητεῖς; ἢ",
+      "highlightedWord": "ζητεῖς"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 18,
+      "reference": "Jn 5:18",
+      "text": "μᾶλλον ἐζήτουν αὐτὸν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Jn 5:30",
+      "text": "οὐ ζητῶ τὸ",
+      "highlightedWord": "ζητῶ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 44,
+      "reference": "Jn 5:44",
+      "text": "οὐ ζητεῖτε;",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Jn 6:24",
+      "text": "Καφαρναοὺμ ζητοῦντες τὸν",
+      "highlightedWord": "ζητοῦντες"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 26,
+      "reference": "Jn 6:26",
+      "text": "ὑμῖν, ζητεῖτέ με",
+      "highlightedWord": "ζητεῖτέ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 1,
+      "reference": "Jn 7:1",
+      "text": "ὅτι ἐζήτουν αὐτὸν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 4,
+      "reference": "Jn 7:4",
+      "text": "καὶ ζητεῖ αὐτὸς",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Jn 7:11",
+      "text": "Ἰουδαῖοι ἐζήτουν αὐτὸν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Jn 7:18",
+      "text": "ἰδίαν ζητεῖ· ὁ",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 19,
+      "reference": "Jn 7:19",
+      "text": "με ζητεῖτε ἀποκτεῖναι;",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Jn 7:20",
+      "text": "σε ζητεῖ ἀποκτεῖναι;",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Jn 7:25",
+      "text": "ὃν ζητοῦσιν ἀποκτεῖναι;",
+      "highlightedWord": "ζητοῦσιν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Jn 7:30",
+      "text": "ἐζήτουν οὖν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 34,
+      "reference": "Jn 7:34",
+      "text": "ζητήσετέ με",
+      "highlightedWord": "ζητήσετέ"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 36,
+      "reference": "Jn 7:36",
+      "text": "εἶπε· Ζητήσετέ με",
+      "highlightedWord": "Ζητήσετέ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Jn 8:21",
+      "text": "καὶ ζητήσετέ με,",
+      "highlightedWord": "ζητήσετέ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Jn 8:37",
+      "text": "ἀλλὰ ζητεῖτέ με",
+      "highlightedWord": "ζητεῖτέ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 40,
+      "reference": "Jn 8:40",
+      "text": "δὲ ζητεῖτέ με",
+      "highlightedWord": "ζητεῖτέ"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 50,
+      "reference": "Jn 8:50",
+      "text": "οὐ ζητῶ τὴν",
+      "highlightedWord": "ζητῶ"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 39,
+      "reference": "Jn 10:39",
+      "text": "ἐζήτουν οὖν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 8,
+      "reference": "Jn 11:8",
+      "text": "νῦν ἐζήτουν σε",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 56,
+      "reference": "Jn 11:56",
+      "text": "ἐζήτουν οὖν",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 33,
+      "reference": "Jn 13:33",
+      "text": "εἰμι· ζητήσετέ με,",
+      "highlightedWord": "ζητήσετέ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Jn 16:19",
+      "text": "τούτου ζητεῖτε μετ’",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Jn 18:4",
+      "text": "Τίνα ζητεῖτε;",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Jn 18:7",
+      "text": "Τίνα ζητεῖτε; οἱ",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Jn 18:8",
+      "text": "ἐμὲ ζητεῖτε, ἄφετε",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 12,
+      "reference": "Jn 19:12",
+      "text": "Πιλᾶτος ἐζήτει⸃ ἀπολῦσαι",
+      "highlightedWord": "ἐζήτει"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Jn 20:15",
+      "text": "τίνα ζητεῖς; ἐκείνη",
+      "highlightedWord": "ζητεῖς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Ac 9:11",
+      "text": "καὶ ζήτησον ἐν",
+      "highlightedWord": "ζήτησον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Ac 10:19",
+      "text": "⸀ἄνδρες ⸀ζητοῦντές σε·",
+      "highlightedWord": "ζητοῦντές"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Ac 10:21",
+      "text": "ὃν ζητεῖτε· τίς",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 8,
+      "reference": "Ac 13:8",
+      "text": "αὐτοῦ, ζητῶν διαστρέψαι",
+      "highlightedWord": "ζητῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Ac 13:11",
+      "text": "περιάγων ἐζήτει χειραγωγούς.",
+      "highlightedWord": "ἐζήτει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "Ac 16:10",
+      "text": "εὐθέως ἐζητήσαμεν ἐξελθεῖν",
+      "highlightedWord": "ἐζητήσαμεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 5,
+      "reference": "Ac 17:5",
+      "text": "Ἰάσονος ἐζήτουν αὐτοὺς",
+      "highlightedWord": "ἐζήτουν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Ac 17:27",
+      "text": "ζητεῖν τὸν",
+      "highlightedWord": "ζητεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Ac 21:31",
+      "text": "ζητούντων ⸀τε",
+      "highlightedWord": "ζητούντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 30,
+      "reference": "Ac 27:30",
+      "text": "ναυτῶν ζητούντων φυγεῖν",
+      "highlightedWord": "ζητούντων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Ro 2:7",
+      "text": "ἀφθαρσίαν ζητοῦσιν ζωὴν",
+      "highlightedWord": "ζητοῦσιν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 3,
+      "reference": "Ro 10:3",
+      "text": "⸀ἰδίαν ζητοῦντες στῆσαι,",
+      "highlightedWord": "ζητοῦντες"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Ro 10:20",
+      "text": "μὴ ζητοῦσιν, ἐμφανὴς",
+      "highlightedWord": "ζητοῦσιν"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Ro 11:3",
+      "text": "καὶ ζητοῦσιν τὴν",
+      "highlightedWord": "ζητοῦσιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 1,
+      "verse": 22,
+      "reference": "1Co 1:22",
+      "text": "σοφίαν ζητοῦσιν·",
+      "highlightedWord": "ζητοῦσιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "1Co 4:2",
+      "text": "λοιπὸν ζητεῖται ἐν",
+      "highlightedWord": "ζητεῖται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "1Co 7:27",
+      "text": "μὴ ζήτει λύσιν·",
+      "highlightedWord": "ζήτει"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 24,
+      "reference": "1Co 10:24",
+      "text": "ἑαυτοῦ ζητείτω ἀλλὰ",
+      "highlightedWord": "ζητείτω"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 33,
+      "reference": "1Co 10:33",
+      "text": "μὴ ζητῶν τὸ",
+      "highlightedWord": "ζητῶν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "1Co 13:5",
+      "text": "οὐ ζητεῖ τὰ",
+      "highlightedWord": "ζητεῖ"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "1Co 14:12",
+      "text": "ἐκκλησίας ζητεῖτε ἵνα",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "2Co 12:14",
+      "text": "γὰρ ζητῶ τὰ",
+      "highlightedWord": "ζητῶ"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "2Co 13:3",
+      "text": "δοκιμὴν ζητεῖτε τοῦ",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ga 1:10",
+      "text": "ἢ ζητῶ ἀνθρώποις",
+      "highlightedWord": "ζητῶ"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 2,
+      "verse": 17,
+      "reference": "Ga 2:17",
+      "text": "δὲ ζητοῦντες δικαιωθῆναι",
+      "highlightedWord": "ζητοῦντες"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Php 2:21",
+      "text": "ἑαυτῶν ζητοῦσιν, οὐ",
+      "highlightedWord": "ζητοῦσιν"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Col 3:1",
+      "text": "ἄνω ζητεῖτε, οὗ",
+      "highlightedWord": "ζητεῖτε"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Th 2:6",
+      "text": "οὔτε ζητοῦντες ἐξ",
+      "highlightedWord": "ζητοῦντες"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "2Ti 1:17",
+      "text": "⸀σπουδαίως ἐζήτησέν με",
+      "highlightedWord": "ἐζήτησέν"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Heb 8:7",
+      "text": "δευτέρας ἐζητεῖτο τόπος·",
+      "highlightedWord": "ἐζητεῖτο"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "1Pe 3:11",
+      "text": "ἀγαθόν, ζητησάτω εἰρήνην",
+      "highlightedWord": "ζητησάτω"
+    },
+    {
+      "book": "1 Pedro",
+      "chapter": 5,
+      "verse": 8,
+      "reference": "1Pe 5:8",
+      "text": "περιπατεῖ ζητῶν ⸀τινα",
+      "highlightedWord": "ζητῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "ἐκείναις ζητήσουσιν οἱ",
+      "highlightedWord": "ζητήσουσιν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

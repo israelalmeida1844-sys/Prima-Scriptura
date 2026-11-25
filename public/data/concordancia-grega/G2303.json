@@ -1,0 +1,73 @@
+{
+  "strong": "G2303",
+  "lemma": "θεῖον",
+  "lemmaTranslit": "theion",
+  "tokenCount": 7,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Lucas": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 29,
+      "reference": "Lk 17:29",
+      "text": "καὶ θεῖον ἀπ’",
+      "highlightedWord": "θεῖον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "καὶ θεῖον.",
+      "highlightedWord": "θεῖον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Re 9:18",
+      "text": "τοῦ θείου τοῦ",
+      "highlightedWord": "θείου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Re 14:10",
+      "text": "καὶ θείῳ ἐνώπιον",
+      "highlightedWord": "θείῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Re 19:20",
+      "text": "ἐν θείῳ.",
+      "highlightedWord": "θείῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Re 20:10",
+      "text": "καὶ θείου, ὅπου",
+      "highlightedWord": "θείου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 8,
+      "reference": "Re 21:8",
+      "text": "καὶ θείῳ, ὅ",
+      "highlightedWord": "θείῳ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

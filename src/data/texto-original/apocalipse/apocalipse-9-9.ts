@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:9 · Revisão lexical e sintática */
 export const apocalipse9v9 = {
   "reference": "Apocalipse 9:9",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v9 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Tinham couraças como couraças de ferro, e o som de suas asas era como o de carros puxados por muitos cavalos correndo para a guerra.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "Nenhuma entrada neste versículo no aparato comparativo consultado; não implica ausência de variantes manuscritas. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "Não foi encontrada entrada neste versículo no aparato comparativo consultado; não implica ausência de variantes manuscritas. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
     "θώρακας é objeto de εἶχον; τρεχόντων concorda com ἵππων; ὡς introduz comparação acústica."
   ],
   "exegeticalNotes": [
-    "A descrição das couraças e do estrondo retoma o cenário militar de Jl 2:5."
+    "A descrição das couraças e do estrondo retoma o cenário militar de Jl 2:5.",
+    "O som das asas é comparado ao estrondo de uma força militar; a imagem prolonga a associação dos gafanhotos com cavalos em 9:7."
   ],
   "words": [
     {
       "id": "ap9-9-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ εἶχον», καὶ tem a função de coordena descrição; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena descrição",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -52,13 +54,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-P--",
       "morphology": "Verbo · imperfeito · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3IAI-P--)",
-      "meanings": "tinha",
-      "explanation": "Glosa contextual: tinham. ",
+      "meanings": "Ter, possuir, manter ou portar.",
+      "explanation": "Na expressão «καὶ εἶχον θώρακας», εἶχον tem a função de predicado imperfeito; a acepção contextual é «tinham».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado imperfeito",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -78,12 +80,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
       "meanings": "couraça",
-      "explanation": "Glosa contextual: couraças. ",
+      "explanation": "Na expressão «εἶχον θώρακας ὡς», θώρακας tem a função de objeto de εἶχον; a acepção contextual é «couraças».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto de εἶχον",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -92,7 +94,7 @@ export const apocalipse9v9 = {
     },
     {
       "id": "ap9-9-4",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ὡς",
       "transliteration": "hōs",
       "gloss": "como",
@@ -103,12 +105,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa contextual: como. ",
+      "explanation": "Na expressão «θώρακας ὡς θώρακας», ὡς tem a função de introduz comparação; a acepção contextual é «como».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz comparação",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -128,12 +130,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
       "meanings": "couraça",
-      "explanation": "Glosa contextual: couraças. ",
+      "explanation": "Na expressão «ὡς θώρακας σιδηροῦς», θώρακας tem a função de termo comparativo de θώρακας; a acepção contextual é «couraças».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "termo comparativo de θώρακας",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -153,12 +155,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo / numeral · acusativo · plural · masculino (MorphGNT: A- ----APM-)",
       "meanings": "de ferro",
-      "explanation": "Glosa contextual: de ferro. ",
+      "explanation": "Na expressão «θώρακας σιδηροῦς καὶ», σιδηροῦς tem a função de modifica θώρακας; a acepção contextual é «de ferro».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "modifica θώρακας",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -167,7 +169,7 @@ export const apocalipse9v9 = {
     },
     {
       "id": "ap9-9-7",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -177,13 +179,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «σιδηροῦς καὶ ἡ», καὶ tem a função de coordena descrição sonora; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena descrição sonora",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -202,13 +204,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «καὶ ἡ φωνὴ», ἡ tem a função de determina φωνή; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina φωνή",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -227,13 +229,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "voz",
-      "explanation": "Glosa contextual: som. ",
+      "meanings": "Voz, som ou ruído audível.",
+      "explanation": "Na expressão «ἡ φωνὴ τῶν», φωνὴ tem a função de sujeito da predicação nominal; a acepção contextual é «som».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito da predicação nominal",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -252,13 +254,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido · genitivo · plural · feminino (MorphGNT: RA ----GPF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: das. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «φωνὴ τῶν πτερύγων», τῶν tem a função de determina πτερύγων; a acepção contextual é «das».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina πτερύγων",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -278,12 +280,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo · genitivo · plural · feminino (MorphGNT: N- ----GPF-)",
       "meanings": "asa",
-      "explanation": "Glosa contextual: asas. ",
+      "explanation": "Na expressão «τῶν πτερύγων αὐτῶν», πτερύγων tem a função de genitivo especificador de φωνή; a acepção contextual é «asas».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de φωνή",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -294,21 +296,21 @@ export const apocalipse9v9 = {
       "id": "ap9-9-12",
       "shortMorph": "RP GPF",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPF-",
       "morphology": "Pronome pessoal · genitivo · plural · feminino (MorphGNT: RP ----GPF-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «πτερύγων αὐτῶν ὡς», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -317,7 +319,7 @@ export const apocalipse9v9 = {
     },
     {
       "id": "ap9-9-13",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ὡς",
       "transliteration": "hōs",
       "gloss": "como",
@@ -328,12 +330,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa contextual: como. ",
+      "explanation": "Na expressão «αὐτῶν ὡς φωνὴ», ὡς tem a função de introduz comparação; a acepção contextual é «como».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz comparação",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -352,13 +354,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "voz",
-      "explanation": "Glosa contextual: som. ",
+      "meanings": "Voz, som ou ruído audível.",
+      "explanation": "Na expressão «ὡς φωνὴ ἁρμάτων», φωνὴ tem a função de predicativo comparativo; a acepção contextual é «som».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "predicativo comparativo",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -378,12 +380,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "carro de guerra",
-      "explanation": "Glosa contextual: de carros. ",
+      "explanation": "Na expressão «φωνὴ ἁρμάτων ἵππων», ἁρμάτων tem a função de genitivo especificador de φωνή; a acepção contextual é «de carros».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de φωνή",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -403,12 +405,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "cavalo",
-      "explanation": "Glosa contextual: de cavalos. ",
+      "explanation": "Na expressão «ἁρμάτων ἵππων πολλῶν», ἵππων tem a função de genitivo ligado à imagem dos carros; a acepção contextual é «de cavalos».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo ligado à imagem dos carros",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -427,13 +429,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
-      "meanings": "muitas",
-      "explanation": "Glosa contextual: muitos. ",
+      "meanings": "Numeroso, abundante, muito.",
+      "explanation": "Na expressão «ἵππων πολλῶν τρεχόντων», πολλῶν tem a função de modifica ἵππων; a acepção contextual é «muitos».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "modifica ἵππων",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -453,12 +455,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "-PAPGPM-",
       "morphology": "Verbo · presente · voz ativa · particípio · genitivo · plural · masculino (MorphGNT: V- -PAPGPM-)",
       "meanings": "correr",
-      "explanation": "Glosa contextual: correndo. ",
+      "explanation": "Na expressão «πολλῶν τρεχόντων εἰς», τρεχόντων tem a função de particípio que modifica ἵππων; a acepção contextual é «correndo».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "particípio que modifica ἵππων",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -467,7 +469,7 @@ export const apocalipse9v9 = {
     },
     {
       "id": "ap9-9-19",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "εἰς",
       "transliteration": "eis",
       "gloss": "para",
@@ -477,13 +479,13 @@ export const apocalipse9v9 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "para",
-      "explanation": "Glosa contextual: para. ",
+      "meanings": "Para, em direção a; pode indicar finalidade ou referência.",
+      "explanation": "Na expressão «τρεχόντων εἰς πόλεμον», εἰς tem a função de introduz direção; a acepção contextual é «para».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz direção",
         "clauseId": "AP.9.9",
         "governedBy": null
       },
@@ -503,12 +505,12 @@ export const apocalipse9v9 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "guerra; combate",
-      "explanation": "Glosa contextual: guerra. ",
+      "explanation": "Na expressão «εἰς πόλεμον», πόλεμον tem a função de complemento de εἰς; a acepção contextual é «guerra».",
       "occurrencesExamples": [
         "Ap 9:9"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de εἰς",
         "clauseId": "AP.9.9",
         "governedBy": null
       },

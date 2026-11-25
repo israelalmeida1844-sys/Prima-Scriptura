@@ -1,0 +1,258 @@
+{
+  "strong": "G5343",
+  "lemma": "φεύγω",
+  "lemmaTranslit": "pheugō",
+  "tokenCount": 29,
+  "verseCount": 29,
+  "bookDistribution": {
+    "Mateus": 7,
+    "Marcos": 5,
+    "Lucas": 3,
+    "João": 2,
+    "Atos": 2,
+    "1 Coríntios": 2,
+    "1 Timóteo": 1,
+    "2 Timóteo": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "Mt 2:13",
+      "text": "καὶ φεῦγε εἰς",
+      "highlightedWord": "φεῦγε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Mt 3:7",
+      "text": "ὑμῖν φυγεῖν ἀπὸ",
+      "highlightedWord": "φυγεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Mt 8:33",
+      "text": "βόσκοντες ἔφυγον, καὶ",
+      "highlightedWord": "ἔφυγον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 23,
+      "reference": "Mt 10:23",
+      "text": "ταύτῃ, φεύγετε εἰς",
+      "highlightedWord": "φεύγετε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 33,
+      "reference": "Mt 23:33",
+      "text": "πῶς φύγητε ἀπὸ",
+      "highlightedWord": "φύγητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 16,
+      "reference": "Mt 24:16",
+      "text": "Ἰουδαίᾳ φευγέτωσαν ⸀ἐπὶ",
+      "highlightedWord": "φευγέτωσαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 56,
+      "reference": "Mt 26:56",
+      "text": "αὐτὸν ἔφυγον.",
+      "highlightedWord": "ἔφυγον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Mk 5:14",
+      "text": "⸀αὐτοὺς ἔφυγον καὶ",
+      "highlightedWord": "ἔφυγον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Mk 13:14",
+      "text": "Ἰουδαίᾳ φευγέτωσαν εἰς",
+      "highlightedWord": "φευγέτωσαν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 50,
+      "reference": "Mk 14:50",
+      "text": "αὐτὸν ⸂ἔφυγον πάντες⸃.",
+      "highlightedWord": "ἔφυγον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 52,
+      "reference": "Mk 14:52",
+      "text": "γυμνὸς ⸀ἔφυγεν.",
+      "highlightedWord": "ἔφυγεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Mk 16:8",
+      "text": "ἐξελθοῦσαι ἔφυγον ἀπὸ",
+      "highlightedWord": "ἔφυγον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Lk 3:7",
+      "text": "ὑμῖν φυγεῖν ἀπὸ",
+      "highlightedWord": "φυγεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 34,
+      "reference": "Lk 8:34",
+      "text": "⸀γεγονὸς ἔφυγον καὶ",
+      "highlightedWord": "ἔφυγον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 21,
+      "reference": "Lk 21:21",
+      "text": "Ἰουδαίᾳ φευγέτωσαν εἰς",
+      "highlightedWord": "φευγέτωσαν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Jn 10:5",
+      "text": "ἀλλὰ φεύξονται ἀπ’",
+      "highlightedWord": "φεύξονται"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Jn 10:12",
+      "text": "καὶ φεύγει— καὶ",
+      "highlightedWord": "φεύγει"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Ac 7:29",
+      "text": "ἔφυγεν δὲ",
+      "highlightedWord": "ἔφυγεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 27,
+      "verse": 30,
+      "reference": "Ac 27:30",
+      "text": "ζητούντων φυγεῖν ἐκ",
+      "highlightedWord": "φυγεῖν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "1Co 6:18",
+      "text": "φεύγετε τὴν",
+      "highlightedWord": "φεύγετε"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "1Co 10:14",
+      "text": "μου, φεύγετε ἀπὸ",
+      "highlightedWord": "φεύγετε"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 6,
+      "verse": 11,
+      "reference": "1Ti 6:11",
+      "text": "ταῦτα φεῦγε· δίωκε",
+      "highlightedWord": "φεῦγε"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "2Ti 2:22",
+      "text": "ἐπιθυμίας φεῦγε, δίωκε",
+      "highlightedWord": "φεῦγε"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 34,
+      "reference": "Heb 11:34",
+      "text": "πυρός, ἔφυγον στόματα",
+      "highlightedWord": "ἔφυγον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 7,
+      "reference": "Jas 4:7",
+      "text": "καὶ φεύξεται ἀφ’",
+      "highlightedWord": "φεύξεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "καὶ ⸀φεύγει ⸂ὁ",
+      "highlightedWord": "φεύγει"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Re 12:6",
+      "text": "γυνὴ ἔφυγεν εἰς",
+      "highlightedWord": "ἔφυγεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Re 16:20",
+      "text": "νῆσος ἔφυγεν, καὶ",
+      "highlightedWord": "ἔφυγεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 11,
+      "reference": "Re 20:11",
+      "text": "προσώπου ἔφυγεν ἡ",
+      "highlightedWord": "ἔφυγεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

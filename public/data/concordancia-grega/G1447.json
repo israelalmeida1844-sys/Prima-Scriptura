@@ -1,0 +1,73 @@
+{
+  "strong": "G1447",
+  "lemma": "Ἑβραϊστί",
+  "lemmaTranslit": "hebraisti",
+  "tokenCount": 7,
+  "verseCount": 7,
+  "bookDistribution": {
+    "João": 5,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Jn 5:2",
+      "text": "ἐπιλεγομένη Ἑβραϊστὶ ⸀Βηθεσδά,",
+      "highlightedWord": "Ἑβραϊστὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 13,
+      "reference": "Jn 19:13",
+      "text": "Λιθόστρωτον, Ἑβραϊστὶ δὲ",
+      "highlightedWord": "Ἑβραϊστὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 17,
+      "reference": "Jn 19:17",
+      "text": "λέγεται Ἑβραϊστὶ Γολγοθα,",
+      "highlightedWord": "Ἑβραϊστὶ"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Jn 19:20",
+      "text": "γεγραμμένον Ἑβραϊστί, ⸂Ῥωμαϊστί,",
+      "highlightedWord": "Ἑβραϊστί"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Jn 20:16",
+      "text": "αὐτῷ ⸀Ἑβραϊστί· Ραββουνι",
+      "highlightedWord": "Ἑβραϊστί"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Re 9:11",
+      "text": "αὐτῷ Ἑβραϊστὶ Ἀβαδδών",
+      "highlightedWord": "Ἑβραϊστὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 16,
+      "reference": "Re 16:16",
+      "text": "καλούμενον Ἑβραϊστὶ Ἁρμαγεδών.",
+      "highlightedWord": "Ἑβραϊστὶ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

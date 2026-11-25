@@ -1,0 +1,108 @@
+{
+  "strong": "G3599",
+  "lemma": "ὀδούς",
+  "lemmaTranslit": "odous",
+  "tokenCount": 12,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Mateus": 8,
+    "Marcos": 1,
+    "Lucas": 1,
+    "Atos": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Mt 5:38",
+      "text": "καὶ ὀδόντα ἀντὶ",
+      "highlightedWord": "ὀδόντα"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 12,
+      "reference": "Mt 8:12",
+      "text": "τῶν ὀδόντων.",
+      "highlightedWord": "ὀδόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 42,
+      "reference": "Mt 13:42",
+      "text": "τῶν ὀδόντων.",
+      "highlightedWord": "ὀδόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 50,
+      "reference": "Mt 13:50",
+      "text": "τῶν ὀδόντων.",
+      "highlightedWord": "ὀδόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Mt 22:13",
+      "text": "τῶν ὀδόντων.",
+      "highlightedWord": "ὀδόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 51,
+      "reference": "Mt 24:51",
+      "text": "τῶν ὀδόντων.",
+      "highlightedWord": "ὀδόντων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 30,
+      "reference": "Mt 25:30",
+      "text": "τῶν ὀδόντων.",
+      "highlightedWord": "ὀδόντων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Mk 9:18",
+      "text": "τοὺς ⸀ὀδόντας καὶ",
+      "highlightedWord": "ὀδόντας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Lk 13:28",
+      "text": "τῶν ὀδόντων, ὅταν",
+      "highlightedWord": "ὀδόντων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 54,
+      "reference": "Ac 7:54",
+      "text": "τοὺς ὀδόντας ἐπ’",
+      "highlightedWord": "ὀδόντας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 8,
+      "reference": "Re 9:8",
+      "text": "οἱ ὀδόντες αὐτῶν",
+      "highlightedWord": "ὀδόντες"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

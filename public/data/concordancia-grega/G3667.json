@@ -1,0 +1,66 @@
+{
+  "strong": "G3667",
+  "lemma": "ὁμοίωμα",
+  "lemmaTranslit": "homoiōma",
+  "tokenCount": 6,
+  "verseCount": 6,
+  "bookDistribution": {
+    "Romanos": 4,
+    "Filipenses": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Ro 1:23",
+      "text": "ἐν ὁμοιώματι εἰκόνος",
+      "highlightedWord": "ὁμοιώματι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Ro 5:14",
+      "text": "τῷ ὁμοιώματι τῆς",
+      "highlightedWord": "ὁμοιώματι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "Ro 6:5",
+      "text": "τῷ ὁμοιώματι τοῦ",
+      "highlightedWord": "ὁμοιώματι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 8,
+      "verse": 3,
+      "reference": "Ro 8:3",
+      "text": "ἐν ὁμοιώματι σαρκὸς",
+      "highlightedWord": "ὁμοιώματι"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 2,
+      "verse": 7,
+      "reference": "Php 2:7",
+      "text": "ἐν ὁμοιώματι ἀνθρώπων",
+      "highlightedWord": "ὁμοιώματι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Re 9:7",
+      "text": "τὰ ὁμοιώματα τῶν",
+      "highlightedWord": "ὁμοιώματα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

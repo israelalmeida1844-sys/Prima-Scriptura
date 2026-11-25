@@ -1,0 +1,56 @@
+{
+  "strong": "G929",
+  "lemma": "βασανισμός",
+  "lemmaTranslit": "basanismos",
+  "tokenCount": 6,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "ὁ βασανισμὸς αὐτῶν",
+      "highlightedWord": "βασανισμὸς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 11,
+      "reference": "Re 14:11",
+      "text": "τοῦ βασανισμοῦ αὐτῶν",
+      "highlightedWord": "βασανισμοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 7,
+      "reference": "Re 18:7",
+      "text": "αὐτῇ βασανισμὸν καὶ",
+      "highlightedWord": "βασανισμὸν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Re 18:10",
+      "text": "τοῦ βασανισμοῦ αὐτῆς",
+      "highlightedWord": "βασανισμοῦ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Re 18:15",
+      "text": "τοῦ βασανισμοῦ αὐτῆς",
+      "highlightedWord": "βασανισμοῦ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

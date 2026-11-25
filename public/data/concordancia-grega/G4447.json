@@ -1,0 +1,24 @@
+{
+  "strong": "G4447",
+  "lemma": "πύρινος",
+  "lemmaTranslit": "pyrinos",
+  "tokenCount": 1,
+  "verseCount": 1,
+  "bookDistribution": {
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Re 9:17",
+      "text": "θώρακας πυρίνους καὶ",
+      "highlightedWord": "πυρίνους"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

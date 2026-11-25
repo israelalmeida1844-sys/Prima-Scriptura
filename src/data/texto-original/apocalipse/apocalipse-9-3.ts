@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:3 · Revisão lexical e sintática */
 export const apocalipse9v3 = {
   "reference": "Apocalipse 9:3",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v3 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Da fumaça saíram gafanhotos para a terra, e foi-lhes concedida autoridade como a que têm os escorpiões da terra.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "Nenhuma entrada neste versículo no aparato comparativo consultado; não implica ausência de variantes manuscritas. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "Não foi encontrada entrada neste versículo no aparato comparativo consultado; não implica ausência de variantes manuscritas. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
     "ἀκρίδες é sujeito de ἐξῆλθον; αὐταῖς é dativo feminino plural; ὡς introduz comparação de autoridade."
   ],
   "exegeticalNotes": [
-    "A imagem dos gafanhotos evoca Êx 10:12–15 e Jl 1–2; o poder de escorpião caracteriza seu efeito."
+    "A imagem dos gafanhotos evoca Êx 10:12–15 e Jl 1–2; o poder de escorpião caracteriza seu efeito.",
+    "A autoridade é concedida (ἐδόθη), não inerente; o contraste entre gafanhotos e escorpiões sinaliza uma figura visionária, não uma descrição zoológica."
   ],
   "words": [
     {
       "id": "ap9-3-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ ἐκ», καὶ tem a função de coordena nova cena; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena nova cena",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -42,7 +44,7 @@ export const apocalipse9v3 = {
     },
     {
       "id": "ap9-3-2",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "de",
@@ -52,13 +54,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «καὶ ἐκ τοῦ», ἐκ tem a função de introduz origem; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz origem",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -77,13 +79,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τοῦ καπνοῦ», τοῦ tem a função de determina καπνοῦ; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina καπνοῦ",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -103,12 +105,12 @@ export const apocalipse9v3 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "fumaça",
-      "explanation": "Glosa contextual: fumaça. ",
+      "explanation": "Na expressão «τοῦ καπνοῦ ἐξῆλθον», καπνοῦ tem a função de complemento de ἐκ; a acepção contextual é «fumaça».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de ἐκ",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -128,12 +130,12 @@ export const apocalipse9v3 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "sair",
-      "explanation": "Glosa contextual: saíram. ",
+      "explanation": "Na expressão «καπνοῦ ἐξῆλθον ἀκρίδες», ἐξῆλθον tem a função de predicado verbal de ἀκρίδες; a acepção contextual é «saíram».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado verbal de ἀκρίδες",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -153,12 +155,12 @@ export const apocalipse9v3 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "gafanhoto",
-      "explanation": "Glosa contextual: gafanhotos. ",
+      "explanation": "Na expressão «ἐξῆλθον ἀκρίδες εἰς», ἀκρίδες tem a função de sujeito de ἐξῆλθον; a acepção contextual é «gafanhotos».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de ἐξῆλθον",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -167,7 +169,7 @@ export const apocalipse9v3 = {
     },
     {
       "id": "ap9-3-7",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "εἰς",
       "transliteration": "eis",
       "gloss": "para",
@@ -177,13 +179,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "para",
-      "explanation": "Glosa contextual: para. ",
+      "meanings": "Para, em direção a; pode indicar finalidade ou referência.",
+      "explanation": "Na expressão «ἀκρίδες εἰς τὴν», εἰς tem a função de introduz destino; a acepção contextual é «para».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz destino",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -202,13 +204,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «εἰς τὴν γῆν», τὴν tem a função de determina γῆν; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina γῆν",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -228,12 +230,12 @@ export const apocalipse9v3 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "terra",
-      "explanation": "Glosa contextual: terra. ",
+      "explanation": "Na expressão «τὴν γῆν καὶ», γῆν tem a função de complemento de εἰς; a acepção contextual é «terra».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de εἰς",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -242,7 +244,7 @@ export const apocalipse9v3 = {
     },
     {
       "id": "ap9-3-10",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -252,13 +254,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «γῆν καὶ ἐδόθη», καὶ tem a função de coordena segunda oração; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena segunda oração",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -278,12 +280,12 @@ export const apocalipse9v3 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "Dar, conceder por graça ou outorgar autoridade",
-      "explanation": "Glosa contextual: foi dada. ",
+      "explanation": "Na expressão «καὶ ἐδόθη αὐταῖς», ἐδόθη tem a função de predicado passivo; a acepção contextual é «foi dada».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado passivo",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -294,21 +296,21 @@ export const apocalipse9v3 = {
       "id": "ap9-3-12",
       "shortMorph": "RP DPF",
       "greek": "αὐταῖς",
-      "transliteration": "aytais",
+      "transliteration": "autais",
       "gloss": "a eles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DPF-",
       "morphology": "Pronome pessoal · dativo · plural · feminino (MorphGNT: RP ----DPF-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: a eles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «ἐδόθη αὐταῖς ἐξουσία», αὐταῖς tem a função de dativo destinatário de ἐδόθη; a acepção contextual é «a eles».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "dativo destinatário de ἐδόθη",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -327,13 +329,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "autoridade",
-      "explanation": "Glosa contextual: autoridade. ",
+      "meanings": "Autoridade, direito, poder concedido ou capacidade de agir.",
+      "explanation": "Na expressão «αὐταῖς ἐξουσία ὡς», ἐξουσία tem a função de sujeito de ἐδόθη; a acepção contextual é «autoridade».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de ἐδόθη",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -342,7 +344,7 @@ export const apocalipse9v3 = {
     },
     {
       "id": "ap9-3-14",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ὡς",
       "transliteration": "hōs",
       "gloss": "como",
@@ -353,12 +355,12 @@ export const apocalipse9v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa contextual: como. ",
+      "explanation": "Na expressão «ἐξουσία ὡς ἔχουσιν», ὡς tem a função de introduz comparação; a acepção contextual é «como».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz comparação",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -377,13 +379,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
-      "meanings": "tinha",
-      "explanation": "Glosa contextual: têm. ",
+      "meanings": "Ter, possuir, manter ou portar.",
+      "explanation": "Na expressão «ὡς ἔχουσιν ἐξουσίαν», ἔχουσιν tem a função de predicado de σκορπίοι; a acepção contextual é «têm».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado de σκορπίοι",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -402,13 +404,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
-      "meanings": "autoridade",
-      "explanation": "Glosa contextual: autoridade. ",
+      "meanings": "Autoridade, direito, poder concedido ou capacidade de agir.",
+      "explanation": "Na expressão «ἔχουσιν ἐξουσίαν οἱ», ἐξουσίαν tem a função de objeto de ἔχουσιν; a acepção contextual é «autoridade».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto de ἔχουσιν",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -427,13 +429,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐξουσίαν οἱ σκορπίοι», οἱ tem a função de determina σκορπίοι; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina σκορπίοι",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -453,12 +455,12 @@ export const apocalipse9v3 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo · nominativo · plural · masculino (MorphGNT: N- ----NPM-)",
       "meanings": "escorpião",
-      "explanation": "Glosa contextual: escorpiões. ",
+      "explanation": "Na expressão «οἱ σκορπίοι τῆς», σκορπίοι tem a função de sujeito de ἔχουσιν; a acepção contextual é «escorpiões».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de ἔχουσιν",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -477,13 +479,13 @@ export const apocalipse9v3 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: da. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «σκορπίοι τῆς γῆς», τῆς tem a função de determina γῆς; a acepção contextual é «da».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina γῆς",
         "clauseId": "AP.9.3",
         "governedBy": null
       },
@@ -503,12 +505,12 @@ export const apocalipse9v3 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "terra",
-      "explanation": "Glosa contextual: terra. ",
+      "explanation": "Na expressão «τῆς γῆς», γῆς tem a função de genitivo especificador de σκορπίοι; a acepção contextual é «terra».",
       "occurrencesExamples": [
         "Ap 9:3"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de σκορπίοι",
         "clauseId": "AP.9.3",
         "governedBy": null
       },

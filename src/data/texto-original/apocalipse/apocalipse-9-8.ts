@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:8 · Revisão lexical e sintática */
 export const apocalipse9v8 = {
   "reference": "Apocalipse 9:8",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v8 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Tinham cabelos como cabelos de mulheres, e seus dentes eram como os de leões.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "Nenhuma entrada neste versículo no aparato comparativo consultado; não implica ausência de variantes manuscritas. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "Não foi encontrada entrada neste versículo no aparato comparativo consultado; não implica ausência de variantes manuscritas. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
     "εἶχον e ἦσαν são imperfeitos; λεόντων é genitivo elíptico, retomando dentes."
   ],
   "exegeticalNotes": [
-    "Os dentes de leão evocam Jl 1:6; a imagem enfatiza a ameaça."
+    "Os dentes de leão evocam Jl 1:6; a imagem enfatiza a ameaça.",
+    "Cabelos humanos e dentes de leão justapõem imagens de espécies diferentes, reforçando o caráter simbólico do retrato."
   ],
   "words": [
     {
       "id": "ap9-8-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v8 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ εἶχον», καὶ tem a função de coordena descrição; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena descrição",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -52,13 +54,13 @@ export const apocalipse9v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-P--",
       "morphology": "Verbo · imperfeito · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3IAI-P--)",
-      "meanings": "tinha",
-      "explanation": "Glosa contextual: tinham. ",
+      "meanings": "Ter, possuir, manter ou portar.",
+      "explanation": "Na expressão «καὶ εἶχον τρίχας», εἶχον tem a função de predicado imperfeito; a acepção contextual é «tinham».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado imperfeito",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -77,13 +79,13 @@ export const apocalipse9v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
-      "meanings": "cabelos",
-      "explanation": "Glosa contextual: cabelos. ",
+      "meanings": "Cabelo, pelo.",
+      "explanation": "Na expressão «εἶχον τρίχας ὡς», τρίχας tem a função de objeto direto de εἶχον; a acepção contextual é «cabelos».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto direto de εἶχον",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -92,7 +94,7 @@ export const apocalipse9v8 = {
     },
     {
       "id": "ap9-8-4",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ὡς",
       "transliteration": "hōs",
       "gloss": "como",
@@ -103,12 +105,12 @@ export const apocalipse9v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa contextual: como. ",
+      "explanation": "Na expressão «τρίχας ὡς τρίχας», ὡς tem a função de introduz comparação; a acepção contextual é «como».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz comparação",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -127,13 +129,13 @@ export const apocalipse9v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
-      "meanings": "cabelos",
-      "explanation": "Glosa contextual: cabelos. ",
+      "meanings": "Cabelo, pelo.",
+      "explanation": "Na expressão «ὡς τρίχας γυναικῶν», τρίχας tem a função de termo comparativo do objeto; a acepção contextual é «cabelos».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "termo comparativo do objeto",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -153,12 +155,12 @@ export const apocalipse9v8 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo · genitivo · plural · feminino (MorphGNT: N- ----GPF-)",
       "meanings": "mulher",
-      "explanation": "Glosa contextual: de mulheres. ",
+      "explanation": "Na expressão «τρίχας γυναικῶν καὶ», γυναικῶν tem a função de genitivo especificador de τρίχας; a acepção contextual é «de mulheres».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de τρίχας",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -167,7 +169,7 @@ export const apocalipse9v8 = {
     },
     {
       "id": "ap9-8-7",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -177,13 +179,13 @@ export const apocalipse9v8 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «γυναικῶν καὶ οἱ», καὶ tem a função de coordena segunda oração; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena segunda oração",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -202,13 +204,13 @@ export const apocalipse9v8 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «καὶ οἱ ὀδόντες», οἱ tem a função de determina ὀδόντες; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ὀδόντες",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -228,12 +230,12 @@ export const apocalipse9v8 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo · nominativo · plural · masculino (MorphGNT: N- ----NPM-)",
       "meanings": "dente",
-      "explanation": "Glosa contextual: dentes. ",
+      "explanation": "Na expressão «οἱ ὀδόντες αὐτῶν», ὀδόντες tem a função de sujeito de ἦσαν; a acepção contextual é «dentes».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de ἦσαν",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -244,21 +246,21 @@ export const apocalipse9v8 = {
       "id": "ap9-8-10",
       "shortMorph": "RP GPF",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPF-",
       "morphology": "Pronome pessoal · genitivo · plural · feminino (MorphGNT: RP ----GPF-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «ὀδόντες αὐτῶν ὡς», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -267,7 +269,7 @@ export const apocalipse9v8 = {
     },
     {
       "id": "ap9-8-11",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ὡς",
       "transliteration": "hōs",
       "gloss": "como",
@@ -278,12 +280,12 @@ export const apocalipse9v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa contextual: como. ",
+      "explanation": "Na expressão «αὐτῶν ὡς λεόντων», ὡς tem a função de introduz comparação; a acepção contextual é «como».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz comparação",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -303,12 +305,12 @@ export const apocalipse9v8 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "leão",
-      "explanation": "Glosa contextual: de leões. ",
+      "explanation": "Na expressão «ὡς λεόντων ἦσαν», λεόντων tem a função de genitivo com substantivo dentes elíptico; a acepção contextual é «de leões».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo com substantivo dentes elíptico",
         "clauseId": "AP.9.8",
         "governedBy": null
       },
@@ -328,12 +330,12 @@ export const apocalipse9v8 = {
       "morphologyCode": "3IAI-P--",
       "morphology": "Verbo · imperfeito · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3IAI-P--)",
       "meanings": "ser",
-      "explanation": "Glosa contextual: eram. ",
+      "explanation": "Na expressão «λεόντων ἦσαν», ἦσαν tem a função de cópula da segunda oração; a acepção contextual é «eram».",
       "occurrencesExamples": [
         "Ap 9:8"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "cópula da segunda oração",
         "clauseId": "AP.9.8",
         "governedBy": null
       },

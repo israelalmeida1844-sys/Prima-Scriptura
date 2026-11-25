@@ -1,0 +1,953 @@
+{
+  "strong": "G565",
+  "lemma": "ἀπέρχομαι",
+  "lemmaTranslit": "aperchomai",
+  "tokenCount": 117,
+  "verseCount": 116,
+  "bookDistribution": {
+    "Mateus": 35,
+    "Marcos": 23,
+    "Lucas": 20,
+    "João": 21,
+    "Atos": 6,
+    "Romanos": 1,
+    "Gálatas": 1,
+    "Tiago": 1,
+    "Judas": 1,
+    "Apocalipse": 8
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Mt 2:22",
+      "text": "ἐκεῖ ἀπελθεῖν· χρηματισθεὶς",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Mt 4:24",
+      "text": "καὶ ἀπῆλθεν ἡ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 30,
+      "reference": "Mt 5:30",
+      "text": "γέενναν ἀπέλθῃ⸃.",
+      "highlightedWord": "ἀπέλθῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 18,
+      "reference": "Mt 8:18",
+      "text": "ἐκέλευσεν ἀπελθεῖν εἰς",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 19,
+      "reference": "Mt 8:19",
+      "text": "ἐὰν ἀπέρχῃ.",
+      "highlightedWord": "ἀπέρχῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 21,
+      "reference": "Mt 8:21",
+      "text": "πρῶτον ἀπελθεῖν καὶ",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Mt 8:32",
+      "text": "ἐξελθόντες ἀπῆλθον εἰς",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Mt 8:33",
+      "text": "καὶ ἀπελθόντες εἰς",
+      "highlightedWord": "ἀπελθόντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Mt 9:7",
+      "text": "ἐγερθεὶς ἀπῆλθεν εἰς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 5,
+      "reference": "Mt 10:5",
+      "text": "μὴ ἀπέλθητε καὶ",
+      "highlightedWord": "ἀπέλθητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Mt 13:25",
+      "text": "καὶ ἀπῆλθεν.",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 28,
+      "reference": "Mt 13:28",
+      "text": "οὖν ἀπελθόντες ⸀συλλέξωμεν",
+      "highlightedWord": "ἀπελθόντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 46,
+      "reference": "Mt 13:46",
+      "text": "μαργαρίτην ἀπελθὼν πέπρακεν",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Mt 14:15",
+      "text": "ἵνα ἀπελθόντες εἰς",
+      "highlightedWord": "ἀπελθόντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 16,
+      "reference": "Mt 14:16",
+      "text": "ἔχουσιν ἀπελθεῖν· δότε",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 4,
+      "reference": "Mt 16:4",
+      "text": "αὐτοὺς ἀπῆλθεν.",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Mt 16:21",
+      "text": "Ἱεροσόλυμα ἀπελθεῖν⸃ καὶ",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 30,
+      "reference": "Mt 18:30",
+      "text": "ἀλλὰ ἀπελθὼν ἔβαλεν",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Mt 19:22",
+      "text": "⸀λόγον ἀπῆλθεν λυπούμενος,",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 5,
+      "reference": "Mt 20:5",
+      "text": "δὲ ἀπῆλθον. ⸀πάλιν",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 29,
+      "reference": "Mt 21:29",
+      "text": "μεταμεληθεὶς⸃ ἀπῆλθεν.",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 30,
+      "reference": "Mt 21:30",
+      "text": "οὐκ⸃ ἀπῆλθεν.",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Mt 22:5",
+      "text": "ἀμελήσαντες ἀπῆλθον, ⸀ὃς",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Mt 22:22",
+      "text": "αὐτὸν ἀπῆλθαν.",
+      "highlightedWord": "ἀπῆλθαν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 10,
+      "reference": "Mt 25:10",
+      "text": "ἀπερχομένων δὲ",
+      "highlightedWord": "ἀπερχομένων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 18,
+      "reference": "Mt 25:18",
+      "text": "λαβὼν ἀπελθὼν ὤρυξεν",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 25,
+      "reference": "Mt 25:25",
+      "text": "φοβηθεὶς ἀπελθὼν ἔκρυψα",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 46,
+      "reference": "Mt 25:46",
+      "text": "καὶ ἀπελεύσονται οὗτοι",
+      "highlightedWord": "ἀπελεύσονται"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 36,
+      "reference": "Mt 26:36",
+      "text": "οὗ ἀπελθὼν ⸂ἐκεῖ",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 42,
+      "reference": "Mt 26:42",
+      "text": "δευτέρου ἀπελθὼν προσηύξατο",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 44,
+      "reference": "Mt 26:44",
+      "text": "⸂πάλιν ἀπελθὼν⸃ προσηύξατο",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 5,
+      "reference": "Mt 27:5",
+      "text": "καὶ ἀπελθὼν ἀπήγξατο.",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 60,
+      "reference": "Mt 27:60",
+      "text": "μνημείου ἀπῆλθεν.",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 8,
+      "reference": "Mt 28:8",
+      "text": "καὶ ⸀ἀπελθοῦσαι ταχὺ",
+      "highlightedWord": "ἀπελθοῦσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 28,
+      "verse": 10,
+      "reference": "Mt 28:10",
+      "text": "ἵνα ἀπέλθωσιν εἰς",
+      "highlightedWord": "ἀπέλθωσιν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 20,
+      "reference": "Mk 1:20",
+      "text": "μισθωτῶν ἀπῆλθον ὀπίσω",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Mk 1:35",
+      "text": "καὶ ἀπῆλθεν εἰς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 42,
+      "reference": "Mk 1:42",
+      "text": "⸀εὐθὺς ἀπῆλθεν ἀπ’",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Mk 3:13",
+      "text": "καὶ ἀπῆλθον πρὸς",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Mk 5:17",
+      "text": "αὐτὸν ἀπελθεῖν ἀπὸ",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 20,
+      "reference": "Mk 5:20",
+      "text": "καὶ ἀπῆλθεν καὶ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 24,
+      "reference": "Mk 5:24",
+      "text": "καὶ ἀπῆλθεν μετ’",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 27,
+      "reference": "Mk 6:27",
+      "text": "⸀καὶ ἀπελθὼν ἀπεκεφάλισεν",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 32,
+      "reference": "Mk 6:32",
+      "text": "καὶ ἀπῆλθον ⸂ἐν",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 36,
+      "reference": "Mk 6:36",
+      "text": "ἵνα ἀπελθόντες εἰς",
+      "highlightedWord": "ἀπελθόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 37,
+      "reference": "Mk 6:37",
+      "text": "αὐτῷ· Ἀπελθόντες ἀγοράσωμεν",
+      "highlightedWord": "Ἀπελθόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 46,
+      "reference": "Mk 6:46",
+      "text": "αὐτοῖς ἀπῆλθεν εἰς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Mk 7:24",
+      "text": "ἀναστὰς ἀπῆλθεν εἰς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Mk 7:30",
+      "text": "καὶ ἀπελθοῦσα εἰς",
+      "highlightedWord": "ἀπελθοῦσα"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Mk 8:13",
+      "text": "ἐμβὰς⸃ ἀπῆλθεν εἰς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Mk 9:43",
+      "text": "ἔχοντα ἀπελθεῖν εἰς",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 22,
+      "reference": "Mk 10:22",
+      "text": "λόγῳ ἀπῆλθεν λυπούμενος,",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Mk 11:4",
+      "text": "⸂καὶ ἀπῆλθον⸃ καὶ",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 12,
+      "reference": "Mk 12:12",
+      "text": "αὐτὸν ἀπῆλθον.",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Mk 14:10",
+      "text": "δώδεκα ἀπῆλθεν πρὸς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 12,
+      "reference": "Mk 14:12",
+      "text": "θέλεις ἀπελθόντες ἑτοιμάσωμεν",
+      "highlightedWord": "ἀπελθόντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 39,
+      "reference": "Mk 14:39",
+      "text": "πάλιν ἀπελθὼν προσηύξατο",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Mk 16:13",
+      "text": "κἀκεῖνοι ἀπελθόντες ἀπήγγειλαν",
+      "highlightedWord": "ἀπελθόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Lk 1:23",
+      "text": "αὐτοῦ, ἀπῆλθεν εἰς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 38,
+      "reference": "Lk 1:38",
+      "text": "καὶ ἀπῆλθεν ἀπ’",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Lk 2:15",
+      "text": "ὡς ἀπῆλθον ἀπ’",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 13,
+      "reference": "Lk 5:13",
+      "text": "λέπρα ἀπῆλθεν ἀπ’",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 14,
+      "reference": "Lk 5:14",
+      "text": "ἀλλὰ ἀπελθὼν δεῖξον",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 25,
+      "reference": "Lk 5:25",
+      "text": "κατέκειτο, ἀπῆλθεν εἰς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 24,
+      "reference": "Lk 7:24",
+      "text": "Ἀπελθόντων δὲ",
+      "highlightedWord": "Ἀπελθόντων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Lk 8:31",
+      "text": "ἄβυσσον ἀπελθεῖν.",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 37,
+      "reference": "Lk 8:37",
+      "text": "⸀Γερασηνῶν ἀπελθεῖν ἀπ’",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 39,
+      "reference": "Lk 8:39",
+      "text": "καὶ ἀπῆλθεν καθ’",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 57,
+      "reference": "Lk 9:57",
+      "text": "⸀ἐὰν ⸀ἀπέρχῃ.",
+      "highlightedWord": "ἀπέρχῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 59,
+      "reference": "Lk 9:59",
+      "text": "μοι ⸂ἀπελθόντι πρῶτον⸃",
+      "highlightedWord": "ἀπελθόντι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 60,
+      "reference": "Lk 9:60",
+      "text": "δὲ ἀπελθὼν διάγγελλε",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Lk 10:30",
+      "text": "ἐπιθέντες ἀπῆλθον ἀφέντες",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 23,
+      "reference": "Lk 17:23",
+      "text": "μὴ ἀπέλθητε μηδὲ",
+      "highlightedWord": "ἀπέλθητε"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 32,
+      "reference": "Lk 19:32",
+      "text": "ἀπελθόντες δὲ",
+      "highlightedWord": "ἀπελθόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 4,
+      "reference": "Lk 22:4",
+      "text": "καὶ ἀπελθὼν συνελάλησεν",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Lk 22:13",
+      "text": "ἀπελθόντες δὲ",
+      "highlightedWord": "ἀπελθόντες"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 12,
+      "reference": "Lk 24:12",
+      "text": "καὶ ἀπῆλθεν πρὸς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 24,
+      "reference": "Lk 24:24",
+      "text": "καὶ ἀπῆλθόν τινες",
+      "highlightedWord": "ἀπῆλθόν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Jn 4:3",
+      "text": "καὶ ἀπῆλθεν ⸀πάλιν",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "Jn 4:8",
+      "text": "αὐτοῦ ἀπεληλύθεισαν εἰς",
+      "highlightedWord": "ἀπεληλύθεισαν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 28,
+      "reference": "Jn 4:28",
+      "text": "καὶ ἀπῆλθεν εἰς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 47,
+      "reference": "Jn 4:47",
+      "text": "Γαλιλαίαν ἀπῆλθεν πρὸς",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 15,
+      "reference": "Jn 5:15",
+      "text": "ἀπῆλθεν ὁ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 1,
+      "reference": "Jn 6:1",
+      "text": "ταῦτα ἀπῆλθεν ὁ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 22,
+      "reference": "Jn 6:22",
+      "text": "αὐτοῦ ἀπῆλθον·",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 66,
+      "reference": "Jn 6:66",
+      "text": "αὐτοῦ ἀπῆλθον⸃ εἰς",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 68,
+      "reference": "Jn 6:68",
+      "text": "τίνα ἀπελευσόμεθα; ῥήματα",
+      "highlightedWord": "ἀπελευσόμεθα"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 7,
+      "reference": "Jn 9:7",
+      "text": "Ἀπεσταλμένος). ἀπῆλθεν οὖν",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Jn 9:11",
+      "text": "νίψαι· ἀπελθὼν ⸀οὖν",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 40,
+      "reference": "Jn 10:40",
+      "text": "Καὶ ἀπῆλθεν πάλιν",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 28,
+      "reference": "Jn 11:28",
+      "text": "εἰποῦσα ἀπῆλθεν καὶ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 46,
+      "reference": "Jn 11:46",
+      "text": "αὐτῶν ἀπῆλθον πρὸς",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 54,
+      "reference": "Jn 11:54",
+      "text": "ἀλλὰ ἀπῆλθεν ἐκεῖθεν",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 19,
+      "reference": "Jn 12:19",
+      "text": "αὐτοῦ ἀπῆλθεν.",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 36,
+      "reference": "Jn 12:36",
+      "text": "καὶ ἀπελθὼν ἐκρύβη",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 7,
+      "reference": "Jn 16:7",
+      "text": "ἐγὼ ἀπέλθω. ἐὰν",
+      "highlightedWord": "ἀπέλθω"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 6,
+      "reference": "Jn 18:6",
+      "text": "εἰμι, ἀπῆλθον εἰς",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Jn 20:10",
+      "text": "ἀπῆλθον οὖν",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Ac 4:15",
+      "text": "συνεδρίου ἀπελθεῖν συνέβαλλον",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 5,
+      "verse": 26,
+      "reference": "Ac 5:26",
+      "text": "τότε ἀπελθὼν ὁ",
+      "highlightedWord": "ἀπελθὼν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 17,
+      "reference": "Ac 9:17",
+      "text": "ἀπῆλθεν δὲ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Ac 10:7",
+      "text": "δὲ ἀπῆλθεν ὁ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 39,
+      "reference": "Ac 16:39",
+      "text": "ἠρώτων ⸂ἀπελθεῖν ἀπὸ⸃",
+      "highlightedWord": "ἀπελθεῖν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 32,
+      "reference": "Ac 23:32",
+      "text": "ἱππεῖς ⸀ἀπέρχεσθαι σὺν",
+      "highlightedWord": "ἀπέρχεσθαι"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Ro 15:28",
+      "text": "τοῦτον, ἀπελεύσομαι δι’",
+      "highlightedWord": "ἀπελεύσομαι"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 1,
+      "verse": 17,
+      "reference": "Ga 1:17",
+      "text": "ἀλλὰ ἀπῆλθον εἰς",
+      "highlightedWord": "ἀπῆλθον"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Jas 1:24",
+      "text": "καὶ ἀπελήλυθεν καὶ",
+      "highlightedWord": "ἀπελήλυθεν"
+    },
+    {
+      "book": "Judas",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jud 1:7",
+      "text": "καὶ ἀπελθοῦσαι ὀπίσω",
+      "highlightedWord": "ἀπελθοῦσαι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Re 9:12",
+      "text": "μία ἀπῆλθεν· ἰδοὺ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Re 10:9",
+      "text": "καὶ ⸀ἀπῆλθα πρὸς",
+      "highlightedWord": "ἀπῆλθα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Re 11:14",
+      "text": "δευτέρα ἀπῆλθεν· ⸂ἰδοὺ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 17,
+      "reference": "Re 12:17",
+      "text": "καὶ ἀπῆλθεν ποιῆσαι",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 2,
+      "reference": "Re 16:2",
+      "text": "Καὶ ἀπῆλθεν ὁ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Re 18:14",
+      "text": "ψυχῆς⸃ ἀπῆλθεν ἀπὸ",
+      "highlightedWord": "ἀπῆλθεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Re 21:1",
+      "text": "γῆ ἀπῆλθαν, καὶ",
+      "highlightedWord": "ἀπῆλθαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 4,
+      "reference": "Re 21:4",
+      "text": "πρῶτα ἀπῆλθαν.",
+      "highlightedWord": "ἀπῆλθαν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

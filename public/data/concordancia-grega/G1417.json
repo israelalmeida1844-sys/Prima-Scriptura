@@ -1,0 +1,1004 @@
+{
+  "strong": "G1417",
+  "lemma": "δύο",
+  "lemmaTranslit": "dyo",
+  "tokenCount": 135,
+  "verseCount": 122,
+  "bookDistribution": {
+    "Mateus": 40,
+    "Marcos": 18,
+    "Lucas": 29,
+    "João": 13,
+    "Atos": 13,
+    "1 Coríntios": 3,
+    "2 Coríntios": 1,
+    "Gálatas": 2,
+    "Efésios": 2,
+    "Filipenses": 1,
+    "1 Timóteo": 1,
+    "Hebreus": 2,
+    "Apocalipse": 10
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 18,
+      "reference": "Mt 4:18",
+      "text": "εἶδεν δύο ἀδελφούς,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 4,
+      "verse": 21,
+      "reference": "Mt 4:21",
+      "text": "ἄλλους δύο ἀδελφούς,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 5,
+      "verse": 41,
+      "reference": "Mt 5:41",
+      "text": "αὐτοῦ δύο.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 6,
+      "verse": 24,
+      "reference": "Mt 6:24",
+      "text": "δύναται δυσὶ κυρίοις",
+      "highlightedWord": "δυσὶ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Mt 8:28",
+      "text": "αὐτῷ δύο δαιμονιζόμενοι",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 27,
+      "reference": "Mt 9:27",
+      "text": "⸀αὐτῷ δύο τυφλοὶ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 10,
+      "reference": "Mt 10:10",
+      "text": "μηδὲ δύο χιτῶνας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 29,
+      "reference": "Mt 10:29",
+      "text": "οὐχὶ δύο στρουθία",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 17,
+      "reference": "Mt 14:17",
+      "text": "καὶ δύο ἰχθύας.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 19,
+      "reference": "Mt 14:19",
+      "text": "τοὺς δύο ἰχθύας,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Mt 18:8",
+      "text": "ἢ δύο χεῖρας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 9,
+      "reference": "Mt 18:9",
+      "text": "ἢ δύο ὀφθαλμοὺς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 16,
+      "reference": "Mt 18:16",
+      "text": "ἢ δύο, ἵνα",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 19,
+      "reference": "Mt 18:19",
+      "text": "ἐὰν δύο ⸂συμφωνήσωσιν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 20,
+      "reference": "Mt 18:20",
+      "text": "εἰσιν δύο ἢ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 5,
+      "reference": "Mt 19:5",
+      "text": "οἱ δύο εἰς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 19,
+      "verse": 6,
+      "reference": "Mt 19:6",
+      "text": "εἰσὶν δύο ἀλλὰ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 21,
+      "reference": "Mt 20:21",
+      "text": "οἱ δύο υἱοί",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 24,
+      "reference": "Mt 20:24",
+      "text": "τῶν δύο ἀδελφῶν.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 30,
+      "reference": "Mt 20:30",
+      "text": "ἰδοὺ δύο τυφλοὶ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 1,
+      "reference": "Mt 21:1",
+      "text": "ἀπέστειλεν δύο μαθητὰς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 28,
+      "reference": "Mt 21:28",
+      "text": "τέκνα δύο. ⸀προσελθὼν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 31,
+      "reference": "Mt 21:31",
+      "text": "τῶν δύο ἐποίησεν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 40,
+      "reference": "Mt 22:40",
+      "text": "ταῖς δυσὶν ἐντολαῖς",
+      "highlightedWord": "δυσὶν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 40,
+      "reference": "Mt 24:40",
+      "text": "τότε ⸂δύο ἔσονται⸃",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 41,
+      "reference": "Mt 24:41",
+      "text": "δύο ἀλήθουσαι",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 15,
+      "reference": "Mt 25:15",
+      "text": "δὲ δύο ᾧ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 17,
+      "reference": "Mt 25:17",
+      "text": "τὰ δύο ⸀ἐκέρδησεν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 22,
+      "reference": "Mt 25:22",
+      "text": "τὰ δύο ⸀τάλαντα",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 2,
+      "reference": "Mt 26:2",
+      "text": "μετὰ δύο ἡμέρας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 37,
+      "reference": "Mt 26:37",
+      "text": "τοὺς δύο υἱοὺς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 60,
+      "reference": "Mt 26:60",
+      "text": "προσελθόντες δύο⸃",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 21,
+      "reference": "Mt 27:21",
+      "text": "τῶν δύο ἀπολύσω",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 38,
+      "reference": "Mt 27:38",
+      "text": "αὐτῷ δύο λῃσταί,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 51,
+      "reference": "Mt 27:51",
+      "text": "εἰς δύο⸃, καὶ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Mk 6:7",
+      "text": "ἀποστέλλειν δύο δύο,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Mk 6:9",
+      "text": "⸀ἐνδύσησθε δύο χιτῶνας.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 38,
+      "reference": "Mk 6:38",
+      "text": "καὶ δύο ἰχθύας.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 41,
+      "reference": "Mk 6:41",
+      "text": "τοὺς δύο ἰχθύας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 43,
+      "reference": "Mk 9:43",
+      "text": "τὰς δύο χεῖρας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 45,
+      "reference": "Mk 9:45",
+      "text": "τοὺς δύο πόδας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 47,
+      "reference": "Mk 9:47",
+      "text": "ἢ δύο ὀφθαλμοὺς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Mk 10:8",
+      "text": "οἱ δύο εἰς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 1,
+      "reference": "Mk 11:1",
+      "text": "ἀποστέλλει δύο τῶν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 42,
+      "reference": "Mk 12:42",
+      "text": "λεπτὰ δύο, ὅ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Mk 14:1",
+      "text": "μετὰ δύο ἡμέρας.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 13,
+      "reference": "Mk 14:13",
+      "text": "ἀποστέλλει δύο τῶν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 27,
+      "reference": "Mk 15:27",
+      "text": "σταυροῦσιν δύο λῃστάς,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 38,
+      "reference": "Mk 15:38",
+      "text": "εἰς δύο ἀπ’",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 12,
+      "reference": "Mk 16:12",
+      "text": "ταῦτα δυσὶν ἐξ",
+      "highlightedWord": "δυσὶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 24,
+      "reference": "Lk 2:24",
+      "text": "ἢ δύο νοσσοὺς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 3,
+      "verse": 11,
+      "reference": "Lk 3:11",
+      "text": "ἔχων δύο χιτῶνας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 2,
+      "reference": "Lk 5:2",
+      "text": "εἶδεν ⸂δύο πλοῖα⸃",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 18,
+      "reference": "Lk 7:18",
+      "text": "προσκαλεσάμενος δύο τινὰς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Lk 7:41",
+      "text": "δύο χρεοφειλέται",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 3,
+      "reference": "Lk 9:3",
+      "text": "⸀ἀνὰ δύο χιτῶνας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 13,
+      "reference": "Lk 9:13",
+      "text": "ἰχθύες δύο, εἰ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Lk 9:16",
+      "text": "τοὺς δύο ἰχθύας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 30,
+      "reference": "Lk 9:30",
+      "text": "ἄνδρες δύο συνελάλουν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 32,
+      "reference": "Lk 9:32",
+      "text": "τοὺς δύο ἄνδρας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Lk 10:1",
+      "text": "ἑβδομήκοντα ⸀δύο καὶ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Lk 10:17",
+      "text": "ἑβδομήκοντα ⸀δύο μετὰ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Lk 10:35",
+      "text": "ἐκβαλὼν ⸂δύο δηνάρια",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Lk 12:6",
+      "text": "ἀσσαρίων δύο; καὶ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 52,
+      "reference": "Lk 12:52",
+      "text": "ἐπὶ δυσὶν καὶ",
+      "highlightedWord": "δυσὶν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "Lk 15:11",
+      "text": "εἶχεν δύο υἱούς.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Lk 16:13",
+      "text": "δύναται δυσὶ κυρίοις",
+      "highlightedWord": "δυσὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 34,
+      "reference": "Lk 17:34",
+      "text": "ἔσονται δύο ἐπὶ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 35,
+      "reference": "Lk 17:35",
+      "text": "⸂ἔσονται δύο⸃ ἀλήθουσαι",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 10,
+      "reference": "Lk 18:10",
+      "text": "Ἄνθρωποι δύο ἀνέβησαν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 29,
+      "reference": "Lk 19:29",
+      "text": "ἀπέστειλεν δύο τῶν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Lk 21:2",
+      "text": "⸂λεπτὰ δύο⸃,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 38,
+      "reference": "Lk 22:38",
+      "text": "ὧδε δύο. ὁ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 32,
+      "reference": "Lk 23:32",
+      "text": "⸂κακοῦργοι δύο⸃ σὺν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 4,
+      "reference": "Lk 24:4",
+      "text": "ἄνδρες δύο ἐπέστησαν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 24,
+      "verse": 13,
+      "reference": "Lk 24:13",
+      "text": "ἰδοὺ δύο ἐξ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 35,
+      "reference": "Jn 1:35",
+      "text": "αὐτοῦ δύο,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 37,
+      "reference": "Jn 1:37",
+      "text": "⸂οἱ δύο μαθηταὶ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 40,
+      "reference": "Jn 1:40",
+      "text": "τῶν δύο τῶν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "Jn 2:6",
+      "text": "μετρητὰς δύο ἢ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 40,
+      "reference": "Jn 4:40",
+      "text": "ἐκεῖ δύο ἡμέρας.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 43,
+      "reference": "Jn 4:43",
+      "text": "τὰς δύο ἡμέρας",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 9,
+      "reference": "Jn 6:9",
+      "text": "καὶ δύο ὀψάρια·",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 17,
+      "reference": "Jn 8:17",
+      "text": "ὅτι δύο ἀνθρώπων",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Jn 11:6",
+      "text": "τόπῳ δύο ἡμέρας·",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 18,
+      "reference": "Jn 19:18",
+      "text": "ἄλλους δύο ἐντεῦθεν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Jn 20:4",
+      "text": "οἱ δύο ὁμοῦ·",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 12,
+      "reference": "Jn 20:12",
+      "text": "θεωρεῖ δύο ἀγγέλους",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Jn 21:2",
+      "text": "αὐτοῦ δύο.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "Ac 1:10",
+      "text": "ἄνδρες δύο παρειστήκεισαν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Ac 1:23",
+      "text": "ἔστησαν δύο, Ἰωσὴφ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Ac 1:24",
+      "text": "τῶν δύο ἕνα,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Ac 7:29",
+      "text": "υἱοὺς δύο.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Ac 9:38",
+      "text": "ἀπέστειλαν ⸂δύο ἄνδρας⸃",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Ac 10:7",
+      "text": "φωνήσας δύο τῶν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ac 12:6",
+      "text": "μεταξὺ δύο στρατιωτῶν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 10,
+      "reference": "Ac 19:10",
+      "text": "ἔτη δύο, ὥστε",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 22,
+      "reference": "Ac 19:22",
+      "text": "Μακεδονίαν δύο τῶν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 34,
+      "reference": "Ac 19:34",
+      "text": "ὥρας δύο κραζόντων·",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 33,
+      "reference": "Ac 21:33",
+      "text": "ἁλύσεσι δυσί, καὶ",
+      "highlightedWord": "δυσί"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 23,
+      "reference": "Ac 23:23",
+      "text": "⸂τινας δύο⸃ τῶν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "1Co 6:16",
+      "text": "οἱ δύο εἰς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 27,
+      "reference": "1Co 14:27",
+      "text": "κατὰ δύο ἢ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 14,
+      "verse": 29,
+      "reference": "1Co 14:29",
+      "text": "δὲ δύο ἢ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "2Co 13:1",
+      "text": "στόματος δύο μαρτύρων",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 22,
+      "reference": "Ga 4:22",
+      "text": "Ἀβραὰμ δύο υἱοὺς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 24,
+      "reference": "Ga 4:24",
+      "text": "εἰσιν δύο διαθῆκαι,",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 15,
+      "reference": "Eph 2:15",
+      "text": "τοὺς δύο κτίσῃ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 5,
+      "verse": 31,
+      "reference": "Eph 5:31",
+      "text": "οἱ δύο εἰς",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Filipenses",
+      "chapter": 1,
+      "verse": 23,
+      "reference": "Php 1:23",
+      "text": "τῶν δύο, τὴν",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "1Ti 5:19",
+      "text": "ἐπὶ δύο ἢ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 18,
+      "reference": "Heb 6:18",
+      "text": "διὰ δύο πραγμάτων",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "Heb 10:28",
+      "text": "ἐπὶ δυσὶν ἢ",
+      "highlightedWord": "δυσὶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Re 9:12",
+      "text": "ἔτι δύο οὐαὶ",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Re 11:2",
+      "text": "⸀τεσσεράκοντα δύο.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "Re 11:3",
+      "text": "τοῖς δυσὶν μάρτυσίν",
+      "highlightedWord": "δυσὶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Re 11:4",
+      "text": "αἱ δύο ἐλαῖαι",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Re 11:10",
+      "text": "οἱ δύο προφῆται",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "⸀αἱ δύο πτέρυγες",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Re 13:5",
+      "text": "⸀τεσσεράκοντα δύο.",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Re 13:11",
+      "text": "κέρατα δύο ὅμοια",
+      "highlightedWord": "δύο"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 20,
+      "reference": "Re 19:20",
+      "text": "οἱ δύο εἰς",
+      "highlightedWord": "δύο"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

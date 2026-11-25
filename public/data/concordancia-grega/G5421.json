@@ -1,0 +1,58 @@
+{
+  "strong": "G5421",
+  "lemma": "φρέαρ",
+  "lemmaTranslit": "phrear",
+  "tokenCount": 7,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Lucas": 1,
+    "João": 2,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 5,
+      "reference": "Lk 14:5",
+      "text": "εἰς φρέαρ ⸀πεσεῖται,",
+      "highlightedWord": "φρέαρ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Jn 4:11",
+      "text": "τὸ φρέαρ ἐστὶν",
+      "highlightedWord": "φρέαρ"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 12,
+      "reference": "Jn 4:12",
+      "text": "τὸ φρέαρ καὶ",
+      "highlightedWord": "φρέαρ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Re 9:1",
+      "text": "τοῦ φρέατος τῆς",
+      "highlightedWord": "φρέατος"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Re 9:2",
+      "text": "τὸ φρέαρ τῆς",
+      "highlightedWord": "φρέαρ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

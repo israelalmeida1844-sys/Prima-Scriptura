@@ -1,0 +1,49 @@
+{
+  "strong": "G716",
+  "lemma": "ἅρμα",
+  "lemmaTranslit": "harma",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Atos": 3,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Ac 8:28",
+      "text": "τοῦ ἅρματος αὐτοῦ",
+      "highlightedWord": "ἅρματος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Ac 8:29",
+      "text": "τῷ ἅρματι τούτῳ.",
+      "highlightedWord": "ἅρματι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Ac 8:38",
+      "text": "τὸ ἅρμα, καὶ",
+      "highlightedWord": "ἅρμα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Re 9:9",
+      "text": "φωνὴ ἁρμάτων ἵππων",
+      "highlightedWord": "ἁρμάτων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

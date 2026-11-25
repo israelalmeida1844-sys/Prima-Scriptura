@@ -1,0 +1,110 @@
+{
+  "strong": "G1497",
+  "lemma": "εἴδωλον",
+  "lemmaTranslit": "eidōlon",
+  "tokenCount": 11,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Atos": 2,
+    "Romanos": 1,
+    "1 Coríntios": 4,
+    "2 Coríntios": 1,
+    "1 Tessalonicenses": 1,
+    "1 João": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Ac 7:41",
+      "text": "τῷ εἰδώλῳ, καὶ",
+      "highlightedWord": "εἰδώλῳ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 15,
+      "verse": 20,
+      "reference": "Ac 15:20",
+      "text": "τῶν εἰδώλων καὶ",
+      "highlightedWord": "εἰδώλων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 2,
+      "verse": 22,
+      "reference": "Ro 2:22",
+      "text": "τὰ εἴδωλα ἱεροσυλεῖς;",
+      "highlightedWord": "εἴδωλα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 4,
+      "reference": "1Co 8:4",
+      "text": "οὐδὲν εἴδωλον ἐν",
+      "highlightedWord": "εἴδωλον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "1Co 8:7",
+      "text": "τοῦ εἰδώλου⸃ ὡς",
+      "highlightedWord": "εἰδώλου"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "1Co 10:19",
+      "text": "ὅτι εἴδωλόν⸃ τί",
+      "highlightedWord": "εἴδωλόν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "1Co 12:2",
+      "text": "τὰ εἴδωλα τὰ",
+      "highlightedWord": "εἴδωλα"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 16,
+      "reference": "2Co 6:16",
+      "text": "μετὰ εἰδώλων; ⸂ἡμεῖς",
+      "highlightedWord": "εἰδώλων"
+    },
+    {
+      "book": "1 Tessalonicenses",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "1Th 1:9",
+      "text": "τῶν εἰδώλων δουλεύειν",
+      "highlightedWord": "εἰδώλων"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 21,
+      "reference": "1Jn 5:21",
+      "text": "τῶν ⸀εἰδώλων.",
+      "highlightedWord": "εἰδώλων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "τὰ εἴδωλα τὰ",
+      "highlightedWord": "εἴδωλα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

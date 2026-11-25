@@ -1,0 +1,27 @@
+name: Validar Apocalipse 9
+on:
+  push:
+    branches: ['rascunho/apocalipse']
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Obter corpus fixado
+        run: |
+          git clone https://github.com/morphgnt/sblgnt.git "$RUNNER_TEMP/morphgnt"
+          git -C "$RUNNER_TEMP/morphgnt" checkout aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+      - name: Auditar 21 versículos
+        run: node scripts/validators/auditar-apocalipse.mjs "$RUNNER_TEMP/morphgnt/87-Re-morphgnt.txt" 9 9 --strict
+      - run: npm run build
+      - run: |
+          npm install --no-save --package-lock=false playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - run: node scripts/testar-apocalipse9-browser.mjs

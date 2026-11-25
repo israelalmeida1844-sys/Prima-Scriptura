@@ -1,0 +1,345 @@
+{
+  "strong": "G1210",
+  "lemma": "δέω",
+  "lemmaTranslit": "deō",
+  "tokenCount": 43,
+  "verseCount": 40,
+  "bookDistribution": {
+    "Mateus": 10,
+    "Marcos": 8,
+    "Lucas": 2,
+    "João": 4,
+    "Atos": 12,
+    "Romanos": 1,
+    "1 Coríntios": 2,
+    "Colossenses": 1,
+    "2 Timóteo": 1,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 29,
+      "reference": "Mt 12:29",
+      "text": "πρῶτον δήσῃ τὸν",
+      "highlightedWord": "δήσῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Mt 13:30",
+      "text": "καὶ δήσατε αὐτὰ",
+      "highlightedWord": "δήσατε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 3,
+      "reference": "Mt 14:3",
+      "text": "Ἰωάννην ἔδησεν ⸀αὐτὸν",
+      "highlightedWord": "ἔδησεν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 16,
+      "verse": 19,
+      "reference": "Mt 16:19",
+      "text": "⸀ἐὰν δήσῃς ἐπὶ",
+      "highlightedWord": "δήσῃς"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 18,
+      "reference": "Mt 18:18",
+      "text": "⸀ἐὰν δήσητε ἐπὶ",
+      "highlightedWord": "δήσητε"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 2,
+      "reference": "Mt 21:2",
+      "text": "ὄνον δεδεμένην καὶ",
+      "highlightedWord": "δεδεμένην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 13,
+      "reference": "Mt 22:13",
+      "text": "διακόνοις· Δήσαντες αὐτοῦ",
+      "highlightedWord": "Δήσαντες"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 2,
+      "reference": "Mt 27:2",
+      "text": "καὶ δήσαντες αὐτὸν",
+      "highlightedWord": "δήσαντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 27,
+      "reference": "Mk 3:27",
+      "text": "ἰσχυρὸν δήσῃ, καὶ",
+      "highlightedWord": "δήσῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 3,
+      "reference": "Mk 5:3",
+      "text": "αὐτὸν δῆσαι",
+      "highlightedWord": "δῆσαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 4,
+      "reference": "Mk 5:4",
+      "text": "ἁλύσεσι δεδέσθαι καὶ",
+      "highlightedWord": "δεδέσθαι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 17,
+      "reference": "Mk 6:17",
+      "text": "καὶ ἔδησεν αὐτὸν",
+      "highlightedWord": "ἔδησεν"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Mk 11:2",
+      "text": "πῶλον δεδεμένον ἐφ’",
+      "highlightedWord": "δεδεμένον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 11,
+      "verse": 4,
+      "reference": "Mk 11:4",
+      "text": "πῶλον δεδεμένον ⸀πρὸς",
+      "highlightedWord": "δεδεμένον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Mk 15:1",
+      "text": "συνέδριον δήσαντες τὸν",
+      "highlightedWord": "δήσαντες"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Mk 15:7",
+      "text": "⸀στασιαστῶν δεδεμένος οἵτινες",
+      "highlightedWord": "δεδεμένος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 16,
+      "reference": "Lk 13:16",
+      "text": "ἣν ἔδησεν ὁ",
+      "highlightedWord": "ἔδησεν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 30,
+      "reference": "Lk 19:30",
+      "text": "πῶλον δεδεμένον, ἐφ’",
+      "highlightedWord": "δεδεμένον"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 44,
+      "reference": "Jn 11:44",
+      "text": "τεθνηκὼς δεδεμένος τοὺς",
+      "highlightedWord": "δεδεμένος"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 12,
+      "reference": "Jn 18:12",
+      "text": "καὶ ἔδησαν αὐτὸν",
+      "highlightedWord": "ἔδησαν"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 24,
+      "reference": "Jn 18:24",
+      "text": "Ἅννας δεδεμένον πρὸς",
+      "highlightedWord": "δεδεμένον"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 40,
+      "reference": "Jn 19:40",
+      "text": "καὶ ἔδησαν ⸀αὐτὸ",
+      "highlightedWord": "ἔδησαν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Ac 9:2",
+      "text": "γυναῖκας, δεδεμένους ἀγάγῃ",
+      "highlightedWord": "δεδεμένους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Ac 9:14",
+      "text": "ἀρχιερέων δῆσαι πάντας",
+      "highlightedWord": "δῆσαι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Ac 9:21",
+      "text": "ἵνα δεδεμένους αὐτοὺς",
+      "highlightedWord": "δεδεμένους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ac 12:6",
+      "text": "στρατιωτῶν δεδεμένος ἁλύσεσιν",
+      "highlightedWord": "δεδεμένος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 22,
+      "reference": "Ac 20:22",
+      "text": "ἰδοὺ ⸂δεδεμένος ἐγὼ⸃",
+      "highlightedWord": "δεδεμένος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 11,
+      "reference": "Ac 21:11",
+      "text": "Παύλου δήσας ⸀ἑαυτοῦ",
+      "highlightedWord": "δήσας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 13,
+      "reference": "Ac 21:13",
+      "text": "μόνον δεθῆναι ἀλλὰ",
+      "highlightedWord": "δεθῆναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 33,
+      "reference": "Ac 21:33",
+      "text": "ἐκέλευσε δεθῆναι ἁλύσεσι",
+      "highlightedWord": "δεθῆναι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 5,
+      "reference": "Ac 22:5",
+      "text": "ὄντας δεδεμένους εἰς",
+      "highlightedWord": "δεδεμένους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 29,
+      "reference": "Ac 22:29",
+      "text": "ἦν⸃ δεδεκώς.",
+      "highlightedWord": "δεδεκώς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 24,
+      "verse": 27,
+      "reference": "Ac 24:27",
+      "text": "Παῦλον δεδεμένον.",
+      "highlightedWord": "δεδεμένον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 7,
+      "verse": 2,
+      "reference": "Ro 7:2",
+      "text": "ἀνδρὶ δέδεται νόμῳ·",
+      "highlightedWord": "δέδεται"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "1Co 7:27",
+      "text": "δέδεσαι γυναικί;",
+      "highlightedWord": "δέδεσαι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 7,
+      "verse": 39,
+      "reference": "1Co 7:39",
+      "text": "Γυνὴ ⸀δέδεται ἐφ’",
+      "highlightedWord": "δέδεται"
+    },
+    {
+      "book": "Colossenses",
+      "chapter": 4,
+      "verse": 3,
+      "reference": "Col 4:3",
+      "text": "καὶ δέδεμαι,",
+      "highlightedWord": "δέδεμαι"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 9,
+      "reference": "2Ti 2:9",
+      "text": "οὐ δέδεται·",
+      "highlightedWord": "δέδεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 14,
+      "reference": "Re 9:14",
+      "text": "τοὺς δεδεμένους ἐπὶ",
+      "highlightedWord": "δεδεμένους"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Re 20:2",
+      "text": "καὶ ἔδησεν αὐτὸν",
+      "highlightedWord": "ἔδησεν"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema e formas de δέω no sentido de ligar/prender; exclui usos impessoais de necessidade e pedidos."
+}

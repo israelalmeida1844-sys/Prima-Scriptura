@@ -1,0 +1,464 @@
+{
+  "strong": "G1140",
+  "lemma": "δαιμόνιον",
+  "lemmaTranslit": "daimonion",
+  "tokenCount": 63,
+  "verseCount": 55,
+  "bookDistribution": {
+    "Mateus": 11,
+    "Marcos": 13,
+    "Lucas": 23,
+    "João": 6,
+    "Atos": 1,
+    "1 Coríntios": 4,
+    "1 Timóteo": 1,
+    "Tiago": 1,
+    "Apocalipse": 3
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Mt 7:22",
+      "text": "ὀνόματι δαιμόνια ἐξεβάλομεν,",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 33,
+      "reference": "Mt 9:33",
+      "text": "τοῦ δαιμονίου ἐλάλησεν",
+      "highlightedWord": "δαιμονίου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 34,
+      "reference": "Mt 9:34",
+      "text": "τῶν δαιμονίων ἐκβάλλει",
+      "highlightedWord": "δαιμονίων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 8,
+      "reference": "Mt 10:8",
+      "text": "καθαρίζετε, δαιμόνια ἐκβάλλετε·",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Mt 11:18",
+      "text": "λέγουσιν· Δαιμόνιον ἔχει·",
+      "highlightedWord": "Δαιμόνιον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 24,
+      "reference": "Mt 12:24",
+      "text": "τὰ δαιμόνια εἰ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 27,
+      "reference": "Mt 12:27",
+      "text": "τὰ δαιμόνια, οἱ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 28,
+      "reference": "Mt 12:28",
+      "text": "τὰ δαιμόνια, ἄρα",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Mt 17:18",
+      "text": "τὸ δαιμόνιον· καὶ",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 34,
+      "reference": "Mk 1:34",
+      "text": "καὶ δαιμόνια πολλὰ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Mk 1:39",
+      "text": "τὰ δαιμόνια ἐκβάλλων.",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 15,
+      "reference": "Mk 3:15",
+      "text": "τὰ δαιμόνια·",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 22,
+      "reference": "Mk 3:22",
+      "text": "τῶν δαιμονίων ἐκβάλλει",
+      "highlightedWord": "δαιμονίων"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 13,
+      "reference": "Mk 6:13",
+      "text": "καὶ δαιμόνια πολλὰ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 26,
+      "reference": "Mk 7:26",
+      "text": "τὸ δαιμόνιον ἐκβάλῃ",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 29,
+      "reference": "Mk 7:29",
+      "text": "τὸ δαιμόνιον⸃.",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 30,
+      "reference": "Mk 7:30",
+      "text": "τὸ δαιμόνιον ἐξεληλυθός⸃.",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 9,
+      "verse": 38,
+      "reference": "Mk 9:38",
+      "text": "ἐκβάλλοντα δαιμόνια, ⸂καὶ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Mk 16:9",
+      "text": "ἑπτὰ δαιμόνια.",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 17,
+      "reference": "Mk 16:17",
+      "text": "μου δαιμόνια ἐκβαλοῦσιν,",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 33,
+      "reference": "Lk 4:33",
+      "text": "πνεῦμα δαιμονίου ἀκαθάρτου,",
+      "highlightedWord": "δαιμονίου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Lk 4:35",
+      "text": "τὸ δαιμόνιον εἰς",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 41,
+      "reference": "Lk 4:41",
+      "text": "καὶ δαιμόνια ἀπὸ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 33,
+      "reference": "Lk 7:33",
+      "text": "λέγετε· Δαιμόνιον ἔχει·",
+      "highlightedWord": "Δαιμόνιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 2,
+      "reference": "Lk 8:2",
+      "text": "ἧς δαιμόνια ἑπτὰ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 27,
+      "reference": "Lk 8:27",
+      "text": "⸀ἔχων δαιμόνια· ⸂καὶ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Lk 8:29",
+      "text": "τοῦ ⸀δαιμονίου εἰς",
+      "highlightedWord": "δαιμονίου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 30,
+      "reference": "Lk 8:30",
+      "text": "⸂εἰσῆλθεν δαιμόνια πολλὰ⸃",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 33,
+      "reference": "Lk 8:33",
+      "text": "τὰ δαιμόνια ἀπὸ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 35,
+      "reference": "Lk 8:35",
+      "text": "τὰ δαιμόνια ⸀ἐξῆλθεν",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 38,
+      "reference": "Lk 8:38",
+      "text": "τὰ δαιμόνια εἶναι",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Lk 9:1",
+      "text": "τὰ δαιμόνια καὶ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 42,
+      "reference": "Lk 9:42",
+      "text": "τὸ δαιμόνιον καὶ",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 49,
+      "reference": "Lk 9:49",
+      "text": "ἐκβάλλοντα δαιμόνια, καὶ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 17,
+      "reference": "Lk 10:17",
+      "text": "τὰ δαιμόνια ὑποτάσσεται",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 14,
+      "reference": "Lk 11:14",
+      "text": "ἐκβάλλων ⸀δαιμόνιον κωφόν·",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Lk 11:15",
+      "text": "τῶν δαιμονίων ἐκβάλλει",
+      "highlightedWord": "δαιμονίων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 18,
+      "reference": "Lk 11:18",
+      "text": "τὰ δαιμόνια.",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 19,
+      "reference": "Lk 11:19",
+      "text": "τὰ δαιμόνια, οἱ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 20,
+      "reference": "Lk 11:20",
+      "text": "τὰ δαιμόνια, ἄρα",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Lk 13:32",
+      "text": "ἐκβάλλω δαιμόνια καὶ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Jn 7:20",
+      "text": "⸀ὄχλος· Δαιμόνιον ἔχεις·",
+      "highlightedWord": "Δαιμόνιον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 48,
+      "reference": "Jn 8:48",
+      "text": "καὶ δαιμόνιον ἔχεις;",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 49,
+      "reference": "Jn 8:49",
+      "text": "Ἐγὼ δαιμόνιον οὐκ",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 52,
+      "reference": "Jn 8:52",
+      "text": "ὅτι δαιμόνιον ἔχεις.",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "Jn 10:20",
+      "text": "αὐτῶν· Δαιμόνιον ἔχει",
+      "highlightedWord": "Δαιμόνιον"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "Jn 10:21",
+      "text": "μὴ δαιμόνιον δύναται",
+      "highlightedWord": "δαιμόνιον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Ac 17:18",
+      "text": "Ξένων δαιμονίων δοκεῖ",
+      "highlightedWord": "δαιμονίων"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 20,
+      "reference": "1Co 10:20",
+      "text": "⸀θύουσιν, δαιμονίοις ⸂καὶ",
+      "highlightedWord": "δαιμονίοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 21,
+      "reference": "1Co 10:21",
+      "text": "ποτήριον δαιμονίων· οὐ",
+      "highlightedWord": "δαιμονίων"
+    },
+    {
+      "book": "1 Timóteo",
+      "chapter": 4,
+      "verse": 1,
+      "reference": "1Ti 4:1",
+      "text": "διδασκαλίαις δαιμονίων",
+      "highlightedWord": "δαιμονίων"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 2,
+      "verse": 19,
+      "reference": "Jas 2:19",
+      "text": "τὰ δαιμόνια πιστεύουσιν",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "τὰ δαιμόνια καὶ",
+      "highlightedWord": "δαιμόνια"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Re 16:14",
+      "text": "πνεύματα δαιμονίων ποιοῦντα",
+      "highlightedWord": "δαιμονίων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 2,
+      "reference": "Re 18:2",
+      "text": "κατοικητήριον ⸀δαιμονίων καὶ",
+      "highlightedWord": "δαιμονίων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

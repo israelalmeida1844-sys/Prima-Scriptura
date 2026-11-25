@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:4 · Revisão lexical e sintática */
 export const apocalipse9v4 = {
   "reference": "Apocalipse 9:4",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v4 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Foi-lhes dito que não danificassem a erva da terra, nem qualquer planta verde, nem árvore alguma, mas somente os seres humanos que não têm o selo de Deus na testa.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "ἀδικήσουσιν em SBLGNT/WH/NA28; ἀδικήσωσιν em Treg/RP. RP acrescenta αὐτῶν após μετώπων. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "ἀδικήσουσιν em SBLGNT/WH/NA28; ἀδικήσωσιν em Treg/RP. RP acrescenta αὐτῶν após μετώπων. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28. Impacto: A alternância futuro/subjuntivo modifica a construção de ἵνα; o acréscimo explicita o possuidor das testas.",
   "syntacticNotes": [
     "ἵνα μή com futuro indicativo ἀδικήσουσιν expressa o conteúdo da ordem; εἰ μή estabelece exceção; οἵτινες caracteriza o grupo atingido."
   ],
   "exegeticalNotes": [
-    "O selo remete a Ap 7:2–3; a restrição aos não selados diferencia esta praga dos gafanhotos naturais."
+    "O selo remete a Ap 7:2–3; a restrição aos não selados diferencia esta praga dos gafanhotos naturais.",
+    "O contraste com a vegetação destruída na primeira trombeta (8:7) é deliberado: o alvo da presente cena é humano. O selo funciona como marcador de distinção entre os grupos."
   ],
   "words": [
     {
       "id": "ap9-4-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ ἐρρέθη», καὶ tem a função de coordena nova ordem; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena nova ordem",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -53,12 +55,12 @@ export const apocalipse9v4 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "dizer",
-      "explanation": "Glosa contextual: foi dito. ",
+      "explanation": "Na expressão «καὶ ἐρρέθη αὐταῖς», ἐρρέθη tem a função de predicado passivo impessoal; a acepção contextual é «foi dito».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado passivo impessoal",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -69,21 +71,21 @@ export const apocalipse9v4 = {
       "id": "ap9-4-3",
       "shortMorph": "RP DPF",
       "greek": "αὐταῖς",
-      "transliteration": "aytais",
+      "transliteration": "autais",
       "gloss": "a eles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DPF-",
       "morphology": "Pronome pessoal · dativo · plural · feminino (MorphGNT: RP ----DPF-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: a eles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «ἐρρέθη αὐταῖς ἵνα», αὐταῖς tem a função de dativo destinatário da ordem; a acepção contextual é «a eles».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "dativo destinatário da ordem",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -92,7 +94,7 @@ export const apocalipse9v4 = {
     },
     {
       "id": "ap9-4-4",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ἵνα",
       "transliteration": "hina",
       "gloss": "que",
@@ -102,13 +104,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "para que",
-      "explanation": "Glosa contextual: que. ",
+      "meanings": "Conjunção que introduz finalidade, resultado ou conteúdo de ordem/concessão.",
+      "explanation": "Na expressão «αὐταῖς ἵνα μὴ», ἵνα tem a função de introduz o conteúdo da ordem; a acepção contextual é «que».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz o conteúdo da ordem",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -117,7 +119,7 @@ export const apocalipse9v4 = {
     },
     {
       "id": "ap9-4-5",
-      "shortMorph": "D- ",
+      "shortMorph": "D-",
       "greek": "μὴ",
       "transliteration": "mē",
       "gloss": "não",
@@ -128,12 +130,12 @@ export const apocalipse9v4 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "não",
-      "explanation": "Glosa contextual: não. ",
+      "explanation": "Na expressão «ἵνα μὴ ἀδικήσουσιν», μὴ tem a função de nega ἀδικήσουσιν; a acepção contextual é «não».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "nega ἀδικήσουσιν",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -145,20 +147,20 @@ export const apocalipse9v4 = {
       "shortMorph": "V-FAI-3-P",
       "greek": "ἀδικήσουσιν",
       "transliteration": "adikēsousin",
-      "gloss": "danificariam",
+      "gloss": "danificassem",
       "strong": "G91",
       "lemma": "ἀδικέω",
       "lemmaTransliteration": "adikeō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3FAI-P--)",
-      "meanings": "fazer injustiça, prejudicar, causar dano",
-      "explanation": "Glosa contextual: danificariam. ",
+      "meanings": "Prejudicar, causar dano, agir injustamente.",
+      "explanation": "Na expressão «μὴ ἀδικήσουσιν τὸν», ἀδικήσουσιν tem a função de verbo do conteúdo da ordem; a acepção contextual é «danificassem».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "verbo do conteúdo da ordem",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -177,13 +179,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido · acusativo · singular · masculino (MorphGNT: RA ----ASM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἀδικήσουσιν τὸν χόρτον», τὸν tem a função de determina χόρτον; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina χόρτον",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -202,13 +204,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
-      "meanings": "erva; vegetação",
-      "explanation": "Glosa contextual: erva. ",
+      "meanings": "Erva, pastagem, vegetação.",
+      "explanation": "Na expressão «τὸν χόρτον τῆς», χόρτον tem a função de primeiro objeto de ἀδικήσουσιν; a acepção contextual é «erva».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "primeiro objeto de ἀδικήσουσιν",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -227,13 +229,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: da. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «χόρτον τῆς γῆς», τῆς tem a função de determina γῆς; a acepção contextual é «da».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina γῆς",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -253,12 +255,12 @@ export const apocalipse9v4 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "terra",
-      "explanation": "Glosa contextual: terra. ",
+      "explanation": "Na expressão «τῆς γῆς οὐδὲ», γῆς tem a função de genitivo especificador de χόρτον; a acepção contextual é «terra».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de χόρτον",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -267,7 +269,7 @@ export const apocalipse9v4 = {
     },
     {
       "id": "ap9-4-11",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "οὐδὲ",
       "transliteration": "oude",
       "gloss": "nem",
@@ -277,13 +279,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Nem; e não",
-      "explanation": "Glosa contextual: nem. ",
+      "meanings": "Nem, e não, nem mesmo.",
+      "explanation": "Na expressão «γῆς οὐδὲ πᾶν», οὐδὲ tem a função de coordena objeto negado; a acepção contextual é «nem».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena objeto negado",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -295,20 +297,20 @@ export const apocalipse9v4 = {
       "shortMorph": "A- ASN",
       "greek": "πᾶν",
       "transliteration": "pan",
-      "gloss": "toda",
+      "gloss": "qualquer",
       "strong": "G3956",
       "lemma": "πᾶς",
       "lemmaTransliteration": "pas",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
-      "meanings": "todo",
-      "explanation": "Glosa contextual: toda. ",
+      "meanings": "Todo, cada, qualquer; quantifica ou distribui.",
+      "explanation": "Na expressão «οὐδὲ πᾶν χλωρὸν», πᾶν tem a função de quantifica χλωρόν; a acepção contextual é «qualquer».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "quantifica χλωρόν",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -327,13 +329,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
-      "meanings": "verde-pálido",
-      "explanation": "Glosa contextual: vegetação verde. ",
+      "meanings": "Verde, de cor verde ou verde-pálida; aqui vegetação verde.",
+      "explanation": "Na expressão «πᾶν χλωρὸν οὐδὲ», χλωρὸν tem a função de segundo objeto substantivado; a acepção contextual é «vegetação verde».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "segundo objeto substantivado",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -342,7 +344,7 @@ export const apocalipse9v4 = {
     },
     {
       "id": "ap9-4-14",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "οὐδὲ",
       "transliteration": "oude",
       "gloss": "nem",
@@ -352,13 +354,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Nem; e não",
-      "explanation": "Glosa contextual: nem. ",
+      "meanings": "Nem, e não, nem mesmo.",
+      "explanation": "Na expressão «χλωρὸν οὐδὲ πᾶν», οὐδὲ tem a função de coordena objeto negado; a acepção contextual é «nem».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena objeto negado",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -370,20 +372,20 @@ export const apocalipse9v4 = {
       "shortMorph": "A- ASN",
       "greek": "πᾶν",
       "transliteration": "pan",
-      "gloss": "toda",
+      "gloss": "qualquer",
       "strong": "G3956",
       "lemma": "πᾶς",
       "lemmaTransliteration": "pas",
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
-      "meanings": "todo",
-      "explanation": "Glosa contextual: toda. ",
+      "meanings": "Todo, cada, qualquer; quantifica ou distribui.",
+      "explanation": "Na expressão «οὐδὲ πᾶν δένδρον», πᾶν tem a função de quantifica δένδρον; a acepção contextual é «qualquer».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "quantifica δένδρον",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -403,12 +405,12 @@ export const apocalipse9v4 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
       "meanings": "árvore",
-      "explanation": "Glosa contextual: árvore. ",
+      "explanation": "Na expressão «πᾶν δένδρον εἰ», δένδρον tem a função de terceiro objeto de ἀδικήσουσιν; a acepção contextual é «árvore».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "terceiro objeto de ἀδικήσουσιν",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -417,10 +419,10 @@ export const apocalipse9v4 = {
     },
     {
       "id": "ap9-4-17",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "εἰ",
       "transliteration": "ei",
-      "gloss": "exceto",
+      "gloss": "se",
       "strong": "G1487",
       "lemma": "εἰ",
       "lemmaTransliteration": "ei",
@@ -428,12 +430,12 @@ export const apocalipse9v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "se",
-      "explanation": "Glosa contextual: exceto. ",
+      "explanation": "Na expressão «δένδρον εἰ μὴ», εἰ tem a função de parte da construção exceptiva εἰ μή; a acepção contextual é «se».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "parte da construção exceptiva εἰ μή",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -442,10 +444,10 @@ export const apocalipse9v4 = {
     },
     {
       "id": "ap9-4-18",
-      "shortMorph": "D- ",
+      "shortMorph": "D-",
       "greek": "μὴ",
       "transliteration": "mē",
-      "gloss": "apenas",
+      "gloss": "não (exceto)",
       "strong": "G3361",
       "lemma": "μή",
       "lemmaTransliteration": "mē",
@@ -453,12 +455,12 @@ export const apocalipse9v4 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "não",
-      "explanation": "Glosa contextual: apenas. ",
+      "explanation": "Na expressão «εἰ μὴ τοὺς», μὴ tem a função de completa a construção exceptiva εἰ μή; a acepção contextual é «não (exceto)».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "completa a construção exceptiva εἰ μή",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -477,13 +479,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido · acusativo · plural · masculino (MorphGNT: RA ----APM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «μὴ τοὺς ἀνθρώπους», τοὺς tem a função de determina ἀνθρώπους; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἀνθρώπους",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -502,13 +504,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
-      "meanings": "homem",
-      "explanation": "Glosa contextual: seres humanos. ",
+      "meanings": "Ser humano, pessoa; conforme o contexto, homem.",
+      "explanation": "Na expressão «τοὺς ἀνθρώπους οἵτινες», ἀνθρώπους tem a função de objeto da exceção; a acepção contextual é «seres humanos».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto da exceção",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -527,13 +529,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Pronome relativo",
       "morphologyCode": "----NPM-",
       "morphology": "Pronome relativo · nominativo · plural · masculino (MorphGNT: RR ----NPM-)",
-      "meanings": "qualquer que",
-      "explanation": "Glosa contextual: que. ",
+      "meanings": "Pronome relativo qualitativo ou indefinido: quem, aquele que.",
+      "explanation": "Na expressão «ἀνθρώπους οἵτινες οὐκ», οἵτινες tem a função de sujeito da relativa que caracteriza ἀνθρώπους; a acepção contextual é «que».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito da relativa que caracteriza ἀνθρώπους",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -542,7 +544,7 @@ export const apocalipse9v4 = {
     },
     {
       "id": "ap9-4-22",
-      "shortMorph": "D- ",
+      "shortMorph": "D-",
       "greek": "οὐκ",
       "transliteration": "ouk",
       "gloss": "não",
@@ -553,12 +555,12 @@ export const apocalipse9v4 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "não",
-      "explanation": "Glosa contextual: não. ",
+      "explanation": "Na expressão «οἵτινες οὐκ ἔχουσι», οὐκ tem a função de nega ἔχουσι; a acepção contextual é «não».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "nega ἔχουσι",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -577,13 +579,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
-      "meanings": "tinha",
-      "explanation": "Glosa contextual: têm. ",
+      "meanings": "Ter, possuir, manter ou portar.",
+      "explanation": "Na expressão «οὐκ ἔχουσι τὴν», ἔχουσι tem a função de predicado da relativa; a acepção contextual é «têm».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado da relativa",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -602,13 +604,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἔχουσι τὴν σφραγῖδα», τὴν tem a função de determina σφραγῖδα; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina σφραγῖδα",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -627,13 +629,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
-      "meanings": "Selo, marca de fechamento",
-      "explanation": "Glosa contextual: selo. ",
+      "meanings": "Selo, marca de autenticação, identificação ou fechamento.",
+      "explanation": "Na expressão «τὴν σφραγῖδα τοῦ», σφραγῖδα tem a função de objeto de ἔχουσι; a acepção contextual é «selo».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto de ἔχουσι",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -652,13 +654,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «σφραγῖδα τοῦ θεοῦ», τοῦ tem a função de determina θεοῦ; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina θεοῦ",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -677,13 +679,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "O Deus Supremo, o Criador e Pai de nosso Senhor",
-      "explanation": "Glosa contextual: Deus. ",
+      "meanings": "Deus, divindade; aqui o Deus adorado na visão.",
+      "explanation": "Na expressão «τοῦ θεοῦ ἐπὶ», θεοῦ tem a função de genitivo de pertencimento de σφραγῖδα; a acepção contextual é «Deus».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo de pertencimento de σφραγῖδα",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -692,7 +694,7 @@ export const apocalipse9v4 = {
     },
     {
       "id": "ap9-4-28",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐπὶ",
       "transliteration": "epi",
       "gloss": "sobre",
@@ -702,13 +704,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre",
-      "explanation": "Glosa contextual: sobre. ",
+      "meanings": "Sobre, junto a, em; sentido depende do caso e da construção.",
+      "explanation": "Na expressão «θεοῦ ἐπὶ τῶν», ἐπὶ tem a função de introduz localização; a acepção contextual é «sobre».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz localização",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -727,13 +729,13 @@ export const apocalipse9v4 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: as. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐπὶ τῶν μετώπων», τῶν tem a função de determina μετώπων; a acepção contextual é «as».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina μετώπων",
         "clauseId": "AP.9.4",
         "governedBy": null
       },
@@ -753,12 +755,12 @@ export const apocalipse9v4 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "testa; fronte",
-      "explanation": "Glosa contextual: testas. ",
+      "explanation": "Na expressão «τῶν μετώπων», μετώπων tem a função de complemento de ἐπί; a acepção contextual é «testas».",
       "occurrencesExamples": [
         "Ap 9:4"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de ἐπί",
         "clauseId": "AP.9.4",
         "governedBy": null
       },

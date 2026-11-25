@@ -1,0 +1,187 @@
+{
+  "strong": "G4127",
+  "lemma": "πληγή",
+  "lemmaTranslit": "plēgē",
+  "tokenCount": 22,
+  "verseCount": 21,
+  "bookDistribution": {
+    "Lucas": 2,
+    "Atos": 2,
+    "2 Coríntios": 2,
+    "Apocalipse": 16
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 30,
+      "reference": "Lk 10:30",
+      "text": "καὶ πληγὰς ἐπιθέντες",
+      "highlightedWord": "πληγὰς"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Lk 12:48",
+      "text": "ἄξια πληγῶν δαρήσεται",
+      "highlightedWord": "πληγῶν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Ac 16:23",
+      "text": "αὐτοῖς πληγὰς ἔβαλον",
+      "highlightedWord": "πληγὰς"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Ac 16:33",
+      "text": "τῶν πληγῶν, καὶ",
+      "highlightedWord": "πληγῶν"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 6,
+      "verse": 5,
+      "reference": "2Co 6:5",
+      "text": "ἐν πληγαῖς, ἐν",
+      "highlightedWord": "πληγαῖς"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 23,
+      "reference": "2Co 11:23",
+      "text": "ἐν πληγαῖς ὑπερβαλλόντως⸃,",
+      "highlightedWord": "πληγαῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 18,
+      "reference": "Re 9:18",
+      "text": "τριῶν πληγῶν τούτων",
+      "highlightedWord": "πληγῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 20,
+      "reference": "Re 9:20",
+      "text": "ταῖς πληγαῖς ταύταις,",
+      "highlightedWord": "πληγαῖς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 6,
+      "reference": "Re 11:6",
+      "text": "πάσῃ πληγῇ ὁσάκις",
+      "highlightedWord": "πληγῇ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 3,
+      "reference": "Re 13:3",
+      "text": "ἡ πληγὴ τοῦ",
+      "highlightedWord": "πληγὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 12,
+      "reference": "Re 13:12",
+      "text": "ἡ πληγὴ τοῦ",
+      "highlightedWord": "πληγὴ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 14,
+      "reference": "Re 13:14",
+      "text": "τὴν πληγὴν ⸂τῆς",
+      "highlightedWord": "πληγὴν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 1,
+      "reference": "Re 15:1",
+      "text": "ἔχοντας πληγὰς ἑπτὰ",
+      "highlightedWord": "πληγὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 6,
+      "reference": "Re 15:6",
+      "text": "ἑπτὰ πληγὰς ἐκ",
+      "highlightedWord": "πληγὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 15,
+      "verse": 8,
+      "reference": "Re 15:8",
+      "text": "ἑπτὰ πληγαὶ τῶν",
+      "highlightedWord": "πληγαὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 9,
+      "reference": "Re 16:9",
+      "text": "τὰς πληγὰς ταύτας,",
+      "highlightedWord": "πληγὰς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 16,
+      "verse": 21,
+      "reference": "Re 16:21",
+      "text": "τῆς πληγῆς τῆς",
+      "highlightedWord": "πληγῆς"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 4,
+      "reference": "Re 18:4",
+      "text": "τῶν πληγῶν αὐτῆς",
+      "highlightedWord": "πληγῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 18,
+      "verse": 8,
+      "reference": "Re 18:8",
+      "text": "αἱ πληγαὶ αὐτῆς,",
+      "highlightedWord": "πληγαὶ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 21,
+      "verse": 9,
+      "reference": "Re 21:9",
+      "text": "ἑπτὰ πληγῶν τῶν",
+      "highlightedWord": "πληγῶν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 18,
+      "reference": "Re 22:18",
+      "text": "τὰς πληγὰς τὰς",
+      "highlightedWord": "πληγὰς"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

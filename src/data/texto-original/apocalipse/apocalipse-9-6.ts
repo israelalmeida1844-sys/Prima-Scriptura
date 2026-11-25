@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:6 · Revisão lexical e sintática */
 export const apocalipse9v6 = {
   "reference": "Apocalipse 9:6",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v6 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Naqueles dias, as pessoas buscarão a morte e de modo algum a encontrarão; desejarão morrer, mas a morte foge delas.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "φεύγει em SBLGNT/WH/Treg/NA28; φεύξεται em RP. RP também altera a ordem de ὁ θάνατος ἀπʼ αὐτῶν. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "φεύγει em SBLGNT/WH/Treg/NA28; φεύξεται em RP. RP também altera a ordem de ὁ θάνατος ἀπʼ αὐτῶν. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28. Impacto: A alternativa futura aproxima a fuga da morte dos futuros anteriores; a diferença de ordem não altera substancialmente o referente.",
   "syntacticNotes": [
     "οὐ μή com futuro indica negação enfática; ἀποθανεῖν completa ἐπιθυμήσουσιν; φεύγει é presente indicativo, em contraste com os futuros."
   ],
   "exegeticalNotes": [
-    "A linguagem expressa a intensidade do tormento; compare a imagem do desejo de morte em Jó 3:20–22."
+    "A linguagem expressa a intensidade do tormento; compare a imagem do desejo de morte em Jó 3:20–22.",
+    "O contraste entre buscar a morte e não encontrá-la intensifica a descrição da aflição, não oferece uma afirmação normativa sobre a morte."
   ],
   "words": [
     {
       "id": "ap9-6-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ ἐν», καὶ tem a função de coordena descrição; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena descrição",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -42,7 +44,7 @@ export const apocalipse9v6 = {
     },
     {
       "id": "ap9-6-2",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐν",
       "transliteration": "en",
       "gloss": "em",
@@ -52,13 +54,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "Em, dentro de, em meio a (uso adverbial ou temporal)",
-      "explanation": "Glosa contextual: em. ",
+      "meanings": "Em, dentro de, entre; conforme a construção pode indicar circunstância, localização ou instrumento.",
+      "explanation": "Na expressão «καὶ ἐν ταῖς», ἐν tem a função de introduz circunstância temporal; a acepção contextual é «em».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz circunstância temporal",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -77,13 +79,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido · dativo · plural · feminino (MorphGNT: RA ----DPF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐν ταῖς ἡμέραις», ταῖς tem a função de determina ἡμέραις; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἡμέραις",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -103,12 +105,12 @@ export const apocalipse9v6 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo · dativo · plural · feminino (MorphGNT: N- ----DPF-)",
       "meanings": "dia",
-      "explanation": "Glosa contextual: dias. ",
+      "explanation": "Na expressão «ταῖς ἡμέραις ἐκείναις», ἡμέραις tem a função de complemento temporal de ἐν; a acepção contextual é «dias».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento temporal de ἐν",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -127,13 +129,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----DPF-",
       "morphology": "Pronome demonstrativo · dativo · plural · feminino (MorphGNT: RD ----DPF-)",
-      "meanings": "aquele",
-      "explanation": "Glosa contextual: aqueles. ",
+      "meanings": "Demonstrativo que indica referente distante: aquele.",
+      "explanation": "Na expressão «ἡμέραις ἐκείναις ζητήσουσιν», ἐκείναις tem a função de modifica ἡμέραις; a acepção contextual é «aqueles».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "modifica ἡμέραις",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -153,12 +155,12 @@ export const apocalipse9v6 = {
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3FAI-P--)",
       "meanings": "procurar; buscar",
-      "explanation": "Glosa contextual: buscarão. ",
+      "explanation": "Na expressão «ἐκείναις ζητήσουσιν οἱ», ζητήσουσιν tem a função de predicado futuro de ἄνθρωποι; a acepção contextual é «buscarão».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado futuro de ἄνθρωποι",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -177,13 +179,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ζητήσουσιν οἱ ἄνθρωποι», οἱ tem a função de determina ἄνθρωποι; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἄνθρωποι",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -202,13 +204,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo · nominativo · plural · masculino (MorphGNT: N- ----NPM-)",
-      "meanings": "homem",
-      "explanation": "Glosa contextual: seres humanos. ",
+      "meanings": "Ser humano, pessoa; conforme o contexto, homem.",
+      "explanation": "Na expressão «οἱ ἄνθρωποι τὸν», ἄνθρωποι tem a função de sujeito de ζητήσουσιν; a acepção contextual é «seres humanos».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de ζητήσουσιν",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -227,13 +229,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido · acusativo · singular · masculino (MorphGNT: RA ----ASM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἄνθρωποι τὸν θάνατον», τὸν tem a função de determina θάνατον; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina θάνατον",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -253,12 +255,12 @@ export const apocalipse9v6 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "morte",
-      "explanation": "Glosa contextual: morte. ",
+      "explanation": "Na expressão «τὸν θάνατον καὶ», θάνατον tem a função de objeto de ζητήσουσιν; a acepção contextual é «morte».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto de ζητήσουσιν",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -267,7 +269,7 @@ export const apocalipse9v6 = {
     },
     {
       "id": "ap9-6-11",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -277,13 +279,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «θάνατον καὶ οὐ», καὶ tem a função de coordena resultado negado; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena resultado negado",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -292,7 +294,7 @@ export const apocalipse9v6 = {
     },
     {
       "id": "ap9-6-12",
-      "shortMorph": "D- ",
+      "shortMorph": "D-",
       "greek": "οὐ",
       "transliteration": "ou",
       "gloss": "não",
@@ -303,12 +305,12 @@ export const apocalipse9v6 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "não",
-      "explanation": "Glosa contextual: não. ",
+      "explanation": "Na expressão «καὶ οὐ μὴ», οὐ tem a função de primeira partícula de οὐ μή; a acepção contextual é «não».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "primeira partícula de οὐ μή",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -317,7 +319,7 @@ export const apocalipse9v6 = {
     },
     {
       "id": "ap9-6-13",
-      "shortMorph": "D- ",
+      "shortMorph": "D-",
       "greek": "μὴ",
       "transliteration": "mē",
       "gloss": "de modo algum",
@@ -328,12 +330,12 @@ export const apocalipse9v6 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "não",
-      "explanation": "Glosa contextual: de modo algum. ",
+      "explanation": "Na expressão «οὐ μὴ εὑρήσουσιν», μὴ tem a função de segunda partícula de negação enfática; a acepção contextual é «de modo algum».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "segunda partícula de negação enfática",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -344,21 +346,21 @@ export const apocalipse9v6 = {
       "id": "ap9-6-14",
       "shortMorph": "V-FAI-3-P",
       "greek": "εὑρήσουσιν",
-      "transliteration": "heyrēsousin",
+      "transliteration": "heurēsousin",
       "gloss": "encontrarão",
       "strong": "G2147",
       "lemma": "εὑρίσκω",
-      "lemmaTransliteration": "heyriskō",
+      "lemmaTransliteration": "heuriskō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3FAI-P--)",
-      "meanings": "achaste",
-      "explanation": "Glosa contextual: encontrarão. ",
+      "meanings": "Encontrar, descobrir, achar.",
+      "explanation": "Na expressão «μὴ εὑρήσουσιν αὐτόν», εὑρήσουσιν tem a função de predicado futuro negado; a acepção contextual é «encontrarão».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado futuro negado",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -369,21 +371,21 @@ export const apocalipse9v6 = {
       "id": "ap9-6-15",
       "shortMorph": "RP ASM",
       "greek": "αὐτόν",
-      "transliteration": "ayton",
+      "transliteration": "auton",
       "gloss": "a",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----ASM-",
       "morphology": "Pronome pessoal · acusativo · singular · masculino (MorphGNT: RP ----ASM-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «εὑρήσουσιν αὐτόν καὶ», αὐτόν tem a função de objeto de εὑρήσουσιν, retoma θάνατον; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto de εὑρήσουσιν, retoma θάνατον",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -392,7 +394,7 @@ export const apocalipse9v6 = {
     },
     {
       "id": "ap9-6-16",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -402,13 +404,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «αὐτόν καὶ ἐπιθυμήσουσιν», καὶ tem a função de coordena novo desejo; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena novo desejo",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -427,13 +429,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3FAI-P--)",
-      "meanings": "desejar; almejar",
-      "explanation": "Glosa contextual: desejarão. ",
+      "meanings": "Desejar, ansiar, almejar.",
+      "explanation": "Na expressão «καὶ ἐπιθυμήσουσιν ἀποθανεῖν», ἐπιθυμήσουσιν tem a função de predicado futuro; a acepção contextual é «desejarão».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado futuro",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -453,12 +455,12 @@ export const apocalipse9v6 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo · aoristo · voz ativa · infinitivo (MorphGNT: V- -AAN----)",
       "meanings": "morrer",
-      "explanation": "Glosa contextual: morrer. ",
+      "explanation": "Na expressão «ἐπιθυμήσουσιν ἀποθανεῖν καὶ», ἀποθανεῖν tem a função de infinitivo complementar de ἐπιθυμήσουσιν; a acepção contextual é «morrer».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "infinitivo complementar de ἐπιθυμήσουσιν",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -467,7 +469,7 @@ export const apocalipse9v6 = {
     },
     {
       "id": "ap9-6-19",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -477,13 +479,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «ἀποθανεῖν καὶ φεύγει», καὶ tem a função de coordena contraste final; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena contraste final",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -494,21 +496,21 @@ export const apocalipse9v6 = {
       "id": "ap9-6-20",
       "shortMorph": "V-PAI-3-S",
       "greek": "φεύγει",
-      "transliteration": "pheygei",
+      "transliteration": "pheugei",
       "gloss": "foge",
       "strong": "G5343",
       "lemma": "φεύγω",
-      "lemmaTransliteration": "pheygō",
+      "lemmaTransliteration": "pheugō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3PAI-S--)",
       "meanings": "fugir",
-      "explanation": "Glosa contextual: foge. ",
+      "explanation": "Na expressão «καὶ φεύγει ὁ», φεύγει tem a função de predicado presente; a acepção contextual é «foge».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado presente",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -527,13 +529,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «φεύγει ὁ θάνατος», ὁ tem a função de determina θάνατος; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina θάνατος",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -553,12 +555,12 @@ export const apocalipse9v6 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "morte",
-      "explanation": "Glosa contextual: morte. ",
+      "explanation": "Na expressão «ὁ θάνατος ἀπ’», θάνατος tem a função de sujeito de φεύγει; a acepção contextual é «morte».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de φεύγει",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -567,7 +569,7 @@ export const apocalipse9v6 = {
     },
     {
       "id": "ap9-6-23",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἀπ’",
       "transliteration": "ap'",
       "gloss": "de",
@@ -577,13 +579,13 @@ export const apocalipse9v6 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "De, desde, para longe de; também causa.",
+      "explanation": "Na expressão «θάνατος ἀπ’ αὐτῶν», ἀπ’ tem a função de introduz afastamento; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz afastamento",
         "clauseId": "AP.9.6",
         "governedBy": null
       },
@@ -594,21 +596,21 @@ export const apocalipse9v6 = {
       "id": "ap9-6-24",
       "shortMorph": "RP GPM",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "eles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: eles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «ἀπ’ αὐτῶν», αὐτῶν tem a função de complemento genitivo de ἀπό; a acepção contextual é «eles».",
       "occurrencesExamples": [
         "Ap 9:6"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento genitivo de ἀπό",
         "clauseId": "AP.9.6",
         "governedBy": null
       },

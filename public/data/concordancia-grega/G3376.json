@@ -1,0 +1,173 @@
+{
+  "strong": "G3376",
+  "lemma": "μήν",
+  "lemmaTranslit": "mēn",
+  "tokenCount": 19,
+  "verseCount": 19,
+  "bookDistribution": {
+    "Lucas": 5,
+    "Atos": 5,
+    "Gálatas": 1,
+    "Hebreus": 1,
+    "Tiago": 1,
+    "Apocalipse": 6
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 24,
+      "reference": "Lk 1:24",
+      "text": "ἑαυτὴν μῆνας πέντε,",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 26,
+      "reference": "Lk 1:26",
+      "text": "τῷ μηνὶ τῷ",
+      "highlightedWord": "μηνὶ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 36,
+      "reference": "Lk 1:36",
+      "text": "οὗτος μὴν ἕκτος",
+      "highlightedWord": "μὴν"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 1,
+      "verse": 56,
+      "reference": "Lk 1:56",
+      "text": "⸀ὡς μῆνας τρεῖς,",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Lk 4:25",
+      "text": "καὶ μῆνας ἕξ,",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Ac 7:20",
+      "text": "ἀνετράφη μῆνας τρεῖς",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 18,
+      "verse": 11,
+      "reference": "Ac 18:11",
+      "text": "καὶ μῆνας ἓξ",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 8,
+      "reference": "Ac 19:8",
+      "text": "ἐπὶ μῆνας τρεῖς",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Ac 20:3",
+      "text": "τε μῆνας τρεῖς·",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 11,
+      "reference": "Ac 28:11",
+      "text": "τρεῖς μῆνας ⸀ἀνήχθημεν",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Gálatas",
+      "chapter": 4,
+      "verse": 10,
+      "reference": "Ga 4:10",
+      "text": "καὶ μῆνας καὶ",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 14,
+      "reference": "Heb 6:14",
+      "text": "⸀Εἰ μὴν εὐλογῶν",
+      "highlightedWord": "μὴν"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 5,
+      "verse": 17,
+      "reference": "Jas 5:17",
+      "text": "καὶ μῆνας ἕξ·",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "⸀βασανισθήσονται μῆνας πέντε·",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Re 9:10",
+      "text": "ἀνθρώπους μῆνας πέντε.",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 15,
+      "reference": "Re 9:15",
+      "text": "καὶ μῆνα καὶ",
+      "highlightedWord": "μῆνα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 2,
+      "reference": "Re 11:2",
+      "text": "πατήσουσιν μῆνας ⸀τεσσεράκοντα",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 13,
+      "verse": 5,
+      "reference": "Re 13:5",
+      "text": "ποιῆσαι μῆνας ⸀τεσσεράκοντα",
+      "highlightedWord": "μῆνας"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 22,
+      "verse": 2,
+      "reference": "Re 22:2",
+      "text": "κατὰ μῆνα ἕκαστον",
+      "highlightedWord": "μῆνα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

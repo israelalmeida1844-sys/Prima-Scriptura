@@ -1,0 +1,116 @@
+{
+  "strong": "G928",
+  "lemma": "βασανίζω",
+  "lemmaTranslit": "basanizō",
+  "tokenCount": 12,
+  "verseCount": 12,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 2,
+    "Lucas": 1,
+    "2 Pedro": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 6,
+      "reference": "Mt 8:6",
+      "text": "δεινῶς βασανιζόμενος.",
+      "highlightedWord": "βασανιζόμενος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 29,
+      "reference": "Mt 8:29",
+      "text": "καιροῦ βασανίσαι ἡμᾶς;",
+      "highlightedWord": "βασανίσαι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Mt 14:24",
+      "text": "ἀπεῖχεν⸃, βασανιζόμενον ὑπὸ",
+      "highlightedWord": "βασανιζόμενον"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 5,
+      "verse": 7,
+      "reference": "Mk 5:7",
+      "text": "με βασανίσῃς.",
+      "highlightedWord": "βασανίσῃς"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Mk 6:48",
+      "text": "αὐτοὺς βασανιζομένους ἐν",
+      "highlightedWord": "βασανιζομένους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Lk 8:28",
+      "text": "με βασανίσῃς·",
+      "highlightedWord": "βασανίσῃς"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 2,
+      "verse": 8,
+      "reference": "2Pe 2:8",
+      "text": "ἔργοις ἐβασάνιζεν—",
+      "highlightedWord": "ἐβασάνιζεν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Re 9:5",
+      "text": "ἵνα ⸀βασανισθήσονται μῆνας",
+      "highlightedWord": "βασανισθήσονται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 10,
+      "reference": "Re 11:10",
+      "text": "προφῆται ἐβασάνισαν τοὺς",
+      "highlightedWord": "ἐβασάνισαν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 2,
+      "reference": "Re 12:2",
+      "text": "καὶ βασανιζομένη τεκεῖν.",
+      "highlightedWord": "βασανιζομένη"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 14,
+      "verse": 10,
+      "reference": "Re 14:10",
+      "text": "καὶ βασανισθήσεται ἐν",
+      "highlightedWord": "βασανισθήσεται"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 10,
+      "reference": "Re 20:10",
+      "text": "καὶ βασανισθήσονται ἡμέρας",
+      "highlightedWord": "βασανισθήσονται"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

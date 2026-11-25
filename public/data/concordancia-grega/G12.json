@@ -1,0 +1,90 @@
+{
+  "strong": "G12",
+  "lemma": "ἄβυσσος",
+  "lemmaTranslit": "abyssos",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Lucas": 1,
+    "Romanos": 1,
+    "Apocalipse": 7
+  },
+  "references": [
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 31,
+      "reference": "Lk 8:31",
+      "text": "τὴν ἄβυσσον ἀπελθεῖν.",
+      "highlightedWord": "ἄβυσσον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 10,
+      "verse": 7,
+      "reference": "Ro 10:7",
+      "text": "τὴν ἄβυσσον; τοῦτ’",
+      "highlightedWord": "ἄβυσσον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Re 9:1",
+      "text": "τῆς ἀβύσσου·",
+      "highlightedWord": "ἀβύσσου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 2,
+      "reference": "Re 9:2",
+      "text": "τῆς ἀβύσσου, καὶ",
+      "highlightedWord": "ἀβύσσου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Re 9:11",
+      "text": "τῆς ἀβύσσου· ὄνομα",
+      "highlightedWord": "ἀβύσσου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 7,
+      "reference": "Re 11:7",
+      "text": "τῆς ἀβύσσου ποιήσει",
+      "highlightedWord": "ἀβύσσου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 17,
+      "verse": 8,
+      "reference": "Re 17:8",
+      "text": "τῆς ἀβύσσου, καὶ",
+      "highlightedWord": "ἀβύσσου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 1,
+      "reference": "Re 20:1",
+      "text": "τῆς ἀβύσσου καὶ",
+      "highlightedWord": "ἀβύσσου"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 3,
+      "reference": "Re 20:3",
+      "text": "τὴν ἄβυσσον, καὶ",
+      "highlightedWord": "ἄβυσσον"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

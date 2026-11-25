@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:15 · Revisão lexical e sintática */
 export const apocalipse9v15 = {
   "reference": "Apocalipse 9:15",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v15 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Foram soltos os quatro anjos que estavam preparados para a hora, o dia, o mês e o ano, para que matassem um terço dos seres humanos.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "RP acrescenta εἰς τὴν após καί; SBLGNT/WH/Treg/NA28 não apresentam o acréscimo. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "RP acrescenta εἰς τὴν após καί; SBLGNT/WH/Treg/NA28 não apresentam o acréscimo. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28. Impacto: O acréscimo repete a preposição e o artigo antes de um elemento temporal da série.",
   "syntacticNotes": [
     "ἡτοιμασμένοι é perfeito passivo; εἰς rege a série temporal com um artigo inicial; ἵνα ἀποκτείνωσιν indica finalidade."
   ],
   "exegeticalNotes": [
-    "O momento preparado ressalta a limitação do juízo; a construção não determina por si só um cálculo cronológico historicista."
+    "O momento preparado ressalta a limitação do juízo; a construção não determina por si só um cálculo cronológico historicista.",
+    "A série temporal pode indicar a ocasião determinada da ação; a leitura historicista que a converte numa duração profética requer justificativa adicional. O propósito declarado é a morte de um terço."
   ],
   "words": [
     {
       "id": "ap9-15-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ ἐλύθησαν», καὶ tem a função de coordena cumprimento da ordem; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena cumprimento da ordem",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -53,12 +55,12 @@ export const apocalipse9v15 = {
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
       "meanings": "soltar",
-      "explanation": "Glosa contextual: foram soltos. ",
+      "explanation": "Na expressão «καὶ ἐλύθησαν οἱ», ἐλύθησαν tem a função de predicado passivo; a acepção contextual é «foram soltos».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado passivo",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -77,13 +79,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐλύθησαν οἱ τέσσαρες», οἱ tem a função de determina ἄγγελοι; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἄγγελοι",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -103,12 +105,12 @@ export const apocalipse9v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
       "meanings": "quatro",
-      "explanation": "Glosa contextual: quatro. ",
+      "explanation": "Na expressão «οἱ τέσσαρες ἄγγελοι», τέσσαρες tem a função de quantifica ἄγγελοι; a acepção contextual é «quatro».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "quantifica ἄγγελοι",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -127,13 +129,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo · nominativo · plural · masculino (MorphGNT: N- ----NPM-)",
-      "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa contextual: anjos. ",
+      "meanings": "Mensageiro; em contextos visionários, anjo ou mensageiro celestial.",
+      "explanation": "Na expressão «τέσσαρες ἄγγελοι οἱ», ἄγγελοι tem a função de sujeito de ἐλύθησαν; a acepção contextual é «anjos».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de ἐλύθησαν",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -152,13 +154,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἄγγελοι οἱ ἡτοιμασμένοι», οἱ tem a função de artigo da posição atributiva; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "artigo da posição atributiva",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -177,13 +179,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPNPM-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · masculino (MorphGNT: V- -XPPNPM-)",
-      "meanings": "preparar",
-      "explanation": "Glosa contextual: preparados. ",
+      "meanings": "Preparar, tornar pronto.",
+      "explanation": "Na expressão «οἱ ἡτοιμασμένοι εἰς», ἡτοιμασμένοι tem a função de particípio atributivo de ἄγγελοι; a acepção contextual é «preparados».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "particípio atributivo de ἄγγελοι",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -192,7 +194,7 @@ export const apocalipse9v15 = {
     },
     {
       "id": "ap9-15-8",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "εἰς",
       "transliteration": "eis",
       "gloss": "para",
@@ -202,13 +204,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "para",
-      "explanation": "Glosa contextual: para. ",
+      "meanings": "Para, em direção a; pode indicar finalidade ou referência.",
+      "explanation": "Na expressão «ἡτοιμασμένοι εἰς τὴν», εἰς tem a função de introduz referência temporal da preparação; a acepção contextual é «para».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz referência temporal da preparação",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -227,13 +229,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «εἰς τὴν ὥραν», τὴν tem a função de determina ὥραν e inicia série coordenada; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ὥραν e inicia série coordenada",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -253,12 +255,12 @@ export const apocalipse9v15 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "hora",
-      "explanation": "Glosa contextual: hora. ",
+      "explanation": "Na expressão «τὴν ὥραν καὶ», ὥραν tem a função de primeiro complemento de εἰς; a acepção contextual é «hora».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "primeiro complemento de εἰς",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -267,7 +269,7 @@ export const apocalipse9v15 = {
     },
     {
       "id": "ap9-15-11",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -277,13 +279,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «ὥραν καὶ ἡμέραν», καὶ tem a função de coordena série temporal; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena série temporal",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -303,12 +305,12 @@ export const apocalipse9v15 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "dia",
-      "explanation": "Glosa contextual: dia. ",
+      "explanation": "Na expressão «καὶ ἡμέραν καὶ», ἡμέραν tem a função de segundo complemento de εἰς; a acepção contextual é «dia».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "segundo complemento de εἰς",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -317,7 +319,7 @@ export const apocalipse9v15 = {
     },
     {
       "id": "ap9-15-13",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -327,13 +329,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «ἡμέραν καὶ μῆνα», καὶ tem a função de coordena série temporal; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena série temporal",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -353,12 +355,12 @@ export const apocalipse9v15 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "mês",
-      "explanation": "Glosa contextual: mês. ",
+      "explanation": "Na expressão «καὶ μῆνα καὶ», μῆνα tem a função de terceiro complemento de εἰς; a acepção contextual é «mês».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "terceiro complemento de εἰς",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -367,7 +369,7 @@ export const apocalipse9v15 = {
     },
     {
       "id": "ap9-15-15",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -377,13 +379,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «μῆνα καὶ ἐνιαυτόν», καὶ tem a função de coordena série temporal; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena série temporal",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -394,21 +396,21 @@ export const apocalipse9v15 = {
       "id": "ap9-15-16",
       "shortMorph": "N- ASM",
       "greek": "ἐνιαυτόν",
-      "transliteration": "eniayton",
+      "transliteration": "eniauton",
       "gloss": "ano",
       "strong": "G1763",
       "lemma": "ἐνιαυτός",
-      "lemmaTransliteration": "eniaytos",
+      "lemmaTransliteration": "eniautos",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "ano",
-      "explanation": "Glosa contextual: ano. ",
+      "explanation": "Na expressão «καὶ ἐνιαυτόν ἵνα», ἐνιαυτόν tem a função de quarto complemento de εἰς; a acepção contextual é «ano».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "quarto complemento de εἰς",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -417,7 +419,7 @@ export const apocalipse9v15 = {
     },
     {
       "id": "ap9-15-17",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ἵνα",
       "transliteration": "hina",
       "gloss": "para que",
@@ -427,13 +429,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "para que",
-      "explanation": "Glosa contextual: para que. ",
+      "meanings": "Conjunção que introduz finalidade, resultado ou conteúdo de ordem/concessão.",
+      "explanation": "Na expressão «ἐνιαυτόν ἵνα ἀποκτείνωσιν», ἵνα tem a função de introduz finalidade; a acepção contextual é «para que».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz finalidade",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -453,12 +455,12 @@ export const apocalipse9v15 = {
       "morphologyCode": "3AAS-P--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 3ª pessoa · plural (MorphGNT: V- 3AAS-P--)",
       "meanings": "matar",
-      "explanation": "Glosa contextual: matassem. ",
+      "explanation": "Na expressão «ἵνα ἀποκτείνωσιν τὸ», ἀποκτείνωσιν tem a função de predicado subjuntivo da finalidade; a acepção contextual é «matassem».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado subjuntivo da finalidade",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -477,13 +479,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἀποκτείνωσιν τὸ τρίτον», τὸ tem a função de determina τρίτον; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina τρίτον",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -502,13 +504,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
-      "meanings": "terceiro",
-      "explanation": "Glosa contextual: terço. ",
+      "meanings": "Terceiro; substantivado no neutro, um terço.",
+      "explanation": "Na expressão «τὸ τρίτον τῶν», τρίτον tem a função de objeto substantivado de ἀποκτείνωσιν; a acepção contextual é «terço».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto substantivado de ἀποκτείνωσιν",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -527,13 +529,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: dos. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «τρίτον τῶν ἀνθρώπων», τῶν tem a função de determina ἀνθρώπων; a acepção contextual é «dos».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἀνθρώπων",
         "clauseId": "AP.9.15",
         "governedBy": null
       },
@@ -552,13 +554,13 @@ export const apocalipse9v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
-      "meanings": "homem",
-      "explanation": "Glosa contextual: seres humanos. ",
+      "meanings": "Ser humano, pessoa; conforme o contexto, homem.",
+      "explanation": "Na expressão «τῶν ἀνθρώπων», ἀνθρώπων tem a função de genitivo partitivo de τρίτον; a acepção contextual é «seres humanos».",
       "occurrencesExamples": [
         "Ap 9:15"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo partitivo de τρίτον",
         "clauseId": "AP.9.15",
         "governedBy": null
       },

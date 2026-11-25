@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "scope": "Apocalipse 1–9",
   "source": "SBLGNT/MorphGNT 6.12",
-  "editorialStatus": "Rascunho; capítulo 9 com novos lemas, concordâncias e auditoria pendentes",
+  "editorialStatus": "Apocalipse 9: dados lexicais, notas e concordâncias revisados; compilação/interface e revisão acadêmica independente pendentes.",
   "entries": {
     "G602": {
       "strong": "G602",
@@ -2848,6 +2848,9 @@
             }
           ]
         }
+      ],
+      "lemmaAliases": [
+        "χρύσεος"
       ]
     },
     "G3319": {
@@ -5499,7 +5502,7 @@
     "G3779": {
       "strong": "G3779",
       "lemma": "οὕτω(ς)",
-      "lemmaTransliteration": "houtō s",
+      "lemmaTransliteration": "houtō(s)",
       "partOfSpeech": "Advérbio",
       "senses": [
         {
@@ -11980,8 +11983,17 @@
         {
           "id": "G5421-1",
           "label": "poço; abertura de poço",
-          "definition": "poço; abertura de poço",
-          "examples": []
+          "definition": "Poço, cisterna ou abertura profunda.",
+          "examples": [
+            {
+              "reference": "Ap 9:1",
+              "greek": "φρέατος",
+              "wordForm": "φρέατος",
+              "translation": "poço",
+              "explanation": "Especifica a abertura ou poço a que se refere a chave.",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -11994,8 +12006,17 @@
         {
           "id": "G12-1",
           "label": "abismo; profundidade",
-          "definition": "abismo; profundidade",
-          "examples": []
+          "definition": "Abismo, profundidade imensa; em Apocalipse, espaço simbólico associado ao confinamento ou às forças destrutivas.",
+          "examples": [
+            {
+              "reference": "Ap 9:1",
+              "greek": "ἀβύσσου",
+              "wordForm": "ἀβύσσου",
+              "translation": "abismo",
+              "explanation": "Especifica o poço em relação ao abismo, sem exigir que sejam entidades independentes.",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12008,8 +12029,17 @@
         {
           "id": "G4656-1",
           "label": "escurecer; tornar-se escuro",
-          "definition": "escurecer; tornar-se escuro",
-          "examples": []
+          "definition": "Escurecer, tornar escuro; na voz passiva, ser obscurecido.",
+          "examples": [
+            {
+              "reference": "Ap 9:2",
+              "greek": "ἐσκοτώθη",
+              "wordForm": "ἐσκοτώθη",
+              "translation": "foi obscurecido",
+              "explanation": "Na expressão «καὶ ἐσκοτώθη ὁ», ἐσκοτώθη tem a função de predicado passivo; a acepção contextual é «foi obscurecido».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ],
       "strongDictionaryLemma": "σκοτόω"
@@ -12024,7 +12054,16 @@
           "id": "G109-1",
           "label": "ar; atmosfera",
           "definition": "ar; atmosfera",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:2",
+              "greek": "ἀὴρ",
+              "wordForm": "ἀὴρ",
+              "translation": "ar",
+              "explanation": "Na expressão «ὁ ἀὴρ ἐκ», ἀὴρ tem a função de segundo sujeito de ἐσκοτώθη; a acepção contextual é «ar».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12038,7 +12077,16 @@
           "id": "G200-1",
           "label": "gafanhoto",
           "definition": "gafanhoto",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:3",
+              "greek": "ἀκρίδες",
+              "wordForm": "ἀκρίδες",
+              "translation": "gafanhotos",
+              "explanation": "Na expressão «ἐξῆλθον ἀκρίδες εἰς», ἀκρίδες tem a função de sujeito de ἐξῆλθον; a acepção contextual é «gafanhotos».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12052,7 +12100,16 @@
           "id": "G4651-1",
           "label": "escorpião",
           "definition": "escorpião",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:3",
+              "greek": "σκορπίοι",
+              "wordForm": "σκορπίοι",
+              "translation": "escorpiões",
+              "explanation": "Na expressão «οἱ σκορπίοι τῆς», σκορπίοι tem a função de sujeito de ἔχουσιν; a acepção contextual é «escorpiões».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12066,7 +12123,16 @@
           "id": "G928-1",
           "label": "atormentar; causar sofrimento",
           "definition": "atormentar; causar sofrimento",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:5",
+              "greek": "βασανισθήσονται",
+              "wordForm": "βασανισθήσονται",
+              "translation": "seriam atormentados",
+              "explanation": "Na expressão «ἵνα βασανισθήσονται μῆνας», βασανισθήσονται tem a função de verbo passivo da segunda subordinada; a acepção contextual é «seriam atormentados».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12080,7 +12146,16 @@
           "id": "G3376-1",
           "label": "mês",
           "definition": "mês",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:5",
+              "greek": "μῆνας",
+              "wordForm": "μῆνας",
+              "translation": "meses",
+              "explanation": "Na expressão «βασανισθήσονται μῆνας πέντε», μῆνας tem a função de acusativo de duração; a acepção contextual é «meses».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12094,7 +12169,16 @@
           "id": "G4002-1",
           "label": "cinco",
           "definition": "cinco",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:5",
+              "greek": "πέντε",
+              "wordForm": "πέντε",
+              "translation": "cinco",
+              "explanation": "Na expressão «μῆνας πέντε καὶ», πέντε tem a função de quantifica μῆνας; a acepção contextual é «cinco».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12108,7 +12192,16 @@
           "id": "G929-1",
           "label": "tormento",
           "definition": "tormento",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:5",
+              "greek": "βασανισμὸς",
+              "wordForm": "βασανισμὸς",
+              "translation": "tormento",
+              "explanation": "Na expressão «ὁ βασανισμὸς αὐτῶν», βασανισμὸς tem a função de sujeito da comparação nominal; a acepção contextual é «tormento».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12122,7 +12215,16 @@
           "id": "G3817-1",
           "label": "golpear; ferir",
           "definition": "golpear; ferir",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:5",
+              "greek": "παίσῃ",
+              "wordForm": "παίσῃ",
+              "translation": "fira",
+              "explanation": "Na expressão «ὅταν παίσῃ ἄνθρωπον», παίσῃ tem a função de predicado subjuntivo da temporal; a acepção contextual é «fira».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12135,8 +12237,17 @@
         {
           "id": "G1565-1",
           "label": "aquele",
-          "definition": "aquele",
-          "examples": []
+          "definition": "Demonstrativo que indica referente distante: aquele.",
+          "examples": [
+            {
+              "reference": "Ap 9:6",
+              "greek": "ἐκείναις",
+              "wordForm": "ἐκείναις",
+              "translation": "aqueles",
+              "explanation": "Na expressão «ἡμέραις ἐκείναις ζητήσουσιν», ἐκείναις tem a função de modifica ἡμέραις; a acepção contextual é «aqueles».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12150,7 +12261,16 @@
           "id": "G2212-1",
           "label": "procurar; buscar",
           "definition": "procurar; buscar",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:6",
+              "greek": "ζητήσουσιν",
+              "wordForm": "ζητήσουσιν",
+              "translation": "buscarão",
+              "explanation": "Na expressão «ἐκείναις ζητήσουσιν οἱ», ζητήσουσιν tem a função de predicado futuro de ἄνθρωποι; a acepção contextual é «buscarão».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12163,22 +12283,40 @@
         {
           "id": "G1937-1",
           "label": "desejar; almejar",
-          "definition": "desejar; almejar",
-          "examples": []
+          "definition": "Desejar, ansiar, almejar.",
+          "examples": [
+            {
+              "reference": "Ap 9:6",
+              "greek": "ἐπιθυμήσουσιν",
+              "wordForm": "ἐπιθυμήσουσιν",
+              "translation": "desejarão",
+              "explanation": "Na expressão «καὶ ἐπιθυμήσουσιν ἀποθανεῖν», ἐπιθυμήσουσιν tem a função de predicado futuro; a acepção contextual é «desejarão».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G5343": {
       "strong": "G5343",
       "lemma": "φεύγω",
-      "lemmaTransliteration": "pheygō",
+      "lemmaTransliteration": "pheugō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
           "id": "G5343-1",
           "label": "fugir",
           "definition": "fugir",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:6",
+              "greek": "φεύγει",
+              "wordForm": "φεύγει",
+              "translation": "foge",
+              "explanation": "Na expressão «καὶ φεύγει ὁ», φεύγει tem a função de predicado presente; a acepção contextual é «foge».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12192,7 +12330,16 @@
           "id": "G3667-1",
           "label": "semelhança; aparência",
           "definition": "semelhança; aparência",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:7",
+              "greek": "ὁμοιώματα",
+              "wordForm": "ὁμοιώματα",
+              "translation": "aparências",
+              "explanation": "Na expressão «τὰ ὁμοιώματα τῶν», ὁμοιώματα tem a função de sujeito de predicação nominal; a acepção contextual é «aparências».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12206,7 +12353,16 @@
           "id": "G4171-1",
           "label": "guerra; combate",
           "definition": "guerra; combate",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:7",
+              "greek": "πόλεμον",
+              "wordForm": "πόλεμον",
+              "translation": "guerra",
+              "explanation": "Na expressão «εἰς πόλεμον καὶ», πόλεμον tem a função de complemento de εἰς; a acepção contextual é «guerra».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12219,8 +12375,17 @@
         {
           "id": "G5557-1",
           "label": "ouro",
-          "definition": "ouro",
-          "examples": []
+          "definition": "Ouro, metal precioso.",
+          "examples": [
+            {
+              "reference": "Ap 9:7",
+              "greek": "χρυσῷ",
+              "wordForm": "χρυσῷ",
+              "translation": "a ouro",
+              "explanation": "Na expressão «ὅμοιοι χρυσῷ καὶ», χρυσῷ tem a função de dativo de comparação de ὅμοιοι; a acepção contextual é «a ouro».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12234,7 +12399,16 @@
           "id": "G3599-1",
           "label": "dente",
           "definition": "dente",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:8",
+              "greek": "ὀδόντες",
+              "wordForm": "ὀδόντες",
+              "translation": "dentes",
+              "explanation": "Na expressão «οἱ ὀδόντες αὐτῶν», ὀδόντες tem a função de sujeito de ἦσαν; a acepção contextual é «dentes».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12248,7 +12422,16 @@
           "id": "G2382-1",
           "label": "couraça",
           "definition": "couraça",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:9",
+              "greek": "θώρακας",
+              "wordForm": "θώρακας",
+              "translation": "couraças",
+              "explanation": "Na expressão «εἶχον θώρακας ὡς», θώρακας tem a função de objeto de εἶχον; a acepção contextual é «couraças».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12262,7 +12445,16 @@
           "id": "G716-1",
           "label": "carro de guerra",
           "definition": "carro de guerra",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:9",
+              "greek": "ἁρμάτων",
+              "wordForm": "ἁρμάτων",
+              "translation": "de carros",
+              "explanation": "Na expressão «φωνὴ ἁρμάτων ἵππων», ἁρμάτων tem a função de genitivo especificador de φωνή; a acepção contextual é «de carros».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12276,7 +12468,16 @@
           "id": "G5143-1",
           "label": "correr",
           "definition": "correr",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:9",
+              "greek": "τρεχόντων",
+              "wordForm": "τρεχόντων",
+              "translation": "correndo",
+              "explanation": "Na expressão «πολλῶν τρεχόντων εἰς», τρεχόντων tem a função de particípio que modifica ἵππων; a acepção contextual é «correndo».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12290,7 +12491,16 @@
           "id": "G3769-1",
           "label": "cauda",
           "definition": "cauda",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:10",
+              "greek": "οὐρὰς",
+              "wordForm": "οὐρὰς",
+              "translation": "caudas",
+              "explanation": "Na expressão «ἔχουσιν οὐρὰς ὁμοίας», οὐρὰς tem a função de objeto de ἔχουσιν; a acepção contextual é «caudas».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12303,8 +12513,17 @@
         {
           "id": "G2759-1",
           "label": "ferrão; aguilhão",
-          "definition": "ferrão; aguilhão",
-          "examples": []
+          "definition": "Ferrão, aguilhão.",
+          "examples": [
+            {
+              "reference": "Ap 9:10",
+              "greek": "κέντρα",
+              "wordForm": "κέντρα",
+              "translation": "ferrões",
+              "explanation": "Na expressão «καὶ κέντρα καὶ», κέντρα tem a função de segundo objeto de ἔχουσιν; a acepção contextual é «ferrões».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12318,7 +12537,16 @@
           "id": "G1447-1",
           "label": "em hebraico",
           "definition": "em hebraico",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:11",
+              "greek": "Ἑβραϊστὶ",
+              "wordForm": "Ἑβραϊστὶ",
+              "translation": "em hebraico",
+              "explanation": "Na expressão «αὐτῷ Ἑβραϊστὶ Ἀβαδδών», Ἑβραϊστὶ tem a função de advérbio de língua; a acepção contextual é «em hebraico».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12331,8 +12559,17 @@
         {
           "id": "G3-1",
           "label": "Abadom; destruição",
-          "definition": "Abadom; destruição",
-          "examples": []
+          "definition": "Abadom; nome hebraico associado à destruição.",
+          "examples": [
+            {
+              "reference": "Ap 9:11",
+              "greek": "Ἀβαδδών",
+              "wordForm": "Ἀβαδδών",
+              "translation": "Abadom",
+              "explanation": "Na expressão «Ἑβραϊστὶ Ἀβαδδών καὶ», Ἀβαδδών tem a função de predicativo do nome; a acepção contextual é «Abadom».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12345,8 +12582,17 @@
         {
           "id": "G1673-1",
           "label": "grego; helênico",
-          "definition": "grego; helênico",
-          "examples": []
+          "definition": "Grego, helênico; aqui designa a língua grega.",
+          "examples": [
+            {
+              "reference": "Ap 9:11",
+              "greek": "Ἑλληνικῇ",
+              "wordForm": "Ἑλληνικῇ",
+              "translation": "grega",
+              "explanation": "Na expressão «τῇ Ἑλληνικῇ ὄνομα», Ἑλληνικῇ tem a função de adjetivo substantivado, complemento de ἐν; a acepção contextual é «grega».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12359,8 +12605,17 @@
         {
           "id": "G623-1",
           "label": "Apoliom; destruidor",
-          "definition": "Apoliom; destruidor",
-          "examples": []
+          "definition": "Apoliom, o destruidor; nome de forma participial.",
+          "examples": [
+            {
+              "reference": "Ap 9:11",
+              "greek": "Ἀπολλύων",
+              "wordForm": "Ἀπολλύων",
+              "translation": "Apoliom",
+              "explanation": "Na expressão «ἔχει Ἀπολλύων», Ἀπολλύων tem a função de aposição ao nome; a acepção contextual é «Apoliom».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12374,7 +12629,16 @@
           "id": "G565-1",
           "label": "ir embora; passar",
           "definition": "ir embora; passar",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:12",
+              "greek": "ἀπῆλθεν",
+              "wordForm": "ἀπῆλθεν",
+              "translation": "passou",
+              "explanation": "Na expressão «μία ἀπῆλθεν ἰδοὺ», ἀπῆλθεν tem a função de predicado da primeira oração; a acepção contextual é «passou».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12388,49 +12652,85 @@
           "id": "G1417-1",
           "label": "dois",
           "definition": "dois",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:12",
+              "greek": "δύο",
+              "wordForm": "δύο",
+              "translation": "dois",
+              "explanation": "Na expressão «ἔτι δύο οὐαὶ», δύο tem a função de quantifica οὐαί; a acepção contextual é «dois».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G2166": {
       "strong": "G2166",
       "lemma": "Εὐφράτης",
-      "lemmaTransliteration": "eyphratēs",
+      "lemmaTransliteration": "euphratēs",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G2166-1",
           "label": "Eufrates",
           "definition": "Eufrates",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:14",
+              "greek": "Εὐφράτῃ",
+              "wordForm": "Εὐφράτῃ",
+              "translation": "Eufrates",
+              "explanation": "Na expressão «μεγάλῳ Εὐφράτῃ», Εὐφράτῃ tem a função de aposição a ποταμῷ; a acepção contextual é «Eufrates».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G1763": {
       "strong": "G1763",
       "lemma": "ἐνιαυτός",
-      "lemmaTransliteration": "eniaytos",
+      "lemmaTransliteration": "eniautos",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G1763-1",
           "label": "ano",
           "definition": "ano",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:15",
+              "greek": "ἐνιαυτόν",
+              "wordForm": "ἐνιαυτόν",
+              "translation": "ano",
+              "explanation": "Na expressão «καὶ ἐνιαυτόν ἵνα», ἐνιαυτόν tem a função de quarto complemento de εἰς; a acepção contextual é «ano».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
     "G4753": {
       "strong": "G4753",
       "lemma": "στράτευμα",
-      "lemmaTransliteration": "strateyma",
+      "lemmaTransliteration": "strateuma",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
           "id": "G4753-1",
           "label": "tropa; exército",
           "definition": "tropa; exército",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:16",
+              "greek": "στρατευμάτων",
+              "wordForm": "στρατευμάτων",
+              "translation": "tropas",
+              "explanation": "Na expressão «τῶν στρατευμάτων τοῦ», στρατευμάτων tem a função de genitivo especificador de ἀριθμός; a acepção contextual é «tropas».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12444,7 +12744,16 @@
           "id": "G2461-1",
           "label": "cavalaria",
           "definition": "cavalaria",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:16",
+              "greek": "ἱππικοῦ",
+              "wordForm": "ἱππικοῦ",
+              "translation": "cavalaria",
+              "explanation": "Na expressão «τοῦ ἱππικοῦ δισμυριάδες», ἱππικοῦ tem a função de genitivo especificador de στρατευμάτων; a acepção contextual é «cavalaria».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12458,7 +12767,16 @@
           "id": "L-dismyrias-1",
           "label": "vinte mil; duas miríades",
           "definition": "vinte mil; duas miríades",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:16",
+              "greek": "δισμυριάδες",
+              "wordForm": "δισμυριάδες",
+              "translation": "vinte mil",
+              "explanation": "Na expressão «ἱππικοῦ δισμυριάδες μυριάδων», δισμυριάδες tem a função de predicativo numeral; a acepção contextual é «vinte mil».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ],
       "strongStatus": "Sem equivalente individual no dicionário Strong consultado; identificador interno, não número Strong."
@@ -12473,7 +12791,16 @@
           "id": "G4447-1",
           "label": "ígneo; da cor do fogo",
           "definition": "ígneo; da cor do fogo",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:17",
+              "greek": "πυρίνους",
+              "wordForm": "πυρίνους",
+              "translation": "ígneas",
+              "explanation": "Na expressão «θώρακας πυρίνους καὶ», πυρίνους tem a função de modifica θώρακας; a acepção contextual é «ígneas».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12487,7 +12814,16 @@
           "id": "G5191-1",
           "label": "de cor de jacinto; azul-escuro",
           "definition": "de cor de jacinto; azul-escuro",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:17",
+              "greek": "ὑακινθίνους",
+              "wordForm": "ὑακινθίνους",
+              "translation": "azul-jacinto",
+              "explanation": "Na expressão «καὶ ὑακινθίνους καὶ», ὑακινθίνους tem a função de modifica θώρακας; a acepção contextual é «azul-jacinto».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12501,7 +12837,16 @@
           "id": "G2306-1",
           "label": "sulfuroso; de enxofre",
           "definition": "sulfuroso; de enxofre",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:17",
+              "greek": "θειώδεις",
+              "wordForm": "θειώδεις",
+              "translation": "da cor do enxofre",
+              "explanation": "Na expressão «καὶ θειώδεις καὶ», θειώδεις tem a função de modifica θώρακας; a acepção contextual é «da cor do enxofre».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12515,7 +12860,16 @@
           "id": "G2303-1",
           "label": "enxofre",
           "definition": "enxofre",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:17",
+              "greek": "θεῖον",
+              "wordForm": "θεῖον",
+              "translation": "enxofre",
+              "explanation": "Na expressão «καὶ θεῖον», θεῖον tem a função de terceiro sujeito de ἐκπορεύεται; a acepção contextual é «enxofre».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12529,7 +12883,16 @@
           "id": "G4127-1",
           "label": "golpe; praga",
           "definition": "golpe; praga",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:18",
+              "greek": "πληγῶν",
+              "wordForm": "πληγῶν",
+              "translation": "pragas",
+              "explanation": "Na expressão «τριῶν πληγῶν τούτων», πληγῶν tem a função de complemento causal de ἀπό; a acepção contextual é «pragas».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12543,7 +12906,16 @@
           "id": "G3789-1",
           "label": "serpente",
           "definition": "serpente",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:19",
+              "greek": "ὄφεσιν",
+              "wordForm": "ὄφεσιν",
+              "translation": "a serpentes",
+              "explanation": "Na expressão «ὅμοιαι ὄφεσιν ἔχουσαι», ὄφεσιν tem a função de dativo exigido por ὅμοιαι; a acepção contextual é «a serpentes».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12557,7 +12929,16 @@
           "id": "G1140-1",
           "label": "demônio",
           "definition": "demônio",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:20",
+              "greek": "δαιμόνια",
+              "wordForm": "δαιμόνια",
+              "translation": "demônios",
+              "explanation": "Na expressão «τὰ δαιμόνια καὶ», δαιμόνια tem a função de primeiro objeto de προσκυνήσουσιν; a acepção contextual é «demônios».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12571,7 +12952,16 @@
           "id": "G1497-1",
           "label": "ídolo; imagem cultual",
           "definition": "ídolo; imagem cultual",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:20",
+              "greek": "εἴδωλα",
+              "wordForm": "εἴδωλα",
+              "translation": "ídolos",
+              "explanation": "Na expressão «τὰ εἴδωλα τὰ», εἴδωλα tem a função de segundo objeto de προσκυνήσουσιν; a acepção contextual é «ídolos».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12585,7 +12975,16 @@
           "id": "G693-1",
           "label": "de prata",
           "definition": "de prata",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:20",
+              "greek": "ἀργυρᾶ",
+              "wordForm": "ἀργυρᾶ",
+              "translation": "de prata",
+              "explanation": "Na expressão «τὰ ἀργυρᾶ καὶ», ἀργυρᾶ tem a função de modifica εἴδωλα; a acepção contextual é «de prata».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ],
       "strongDictionaryLemma": "ἀργύρεος"
@@ -12600,7 +12999,16 @@
           "id": "G5470-1",
           "label": "de cobre ou bronze",
           "definition": "de cobre ou bronze",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:20",
+              "greek": "χαλκᾶ",
+              "wordForm": "χαλκᾶ",
+              "translation": "de bronze",
+              "explanation": "Na expressão «τὰ χαλκᾶ καὶ», χαλκᾶ tem a função de modifica εἴδωλα; a acepção contextual é «de bronze».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ],
       "strongDictionaryLemma": "χάλκεος"
@@ -12615,7 +13023,16 @@
           "id": "G3035-1",
           "label": "de pedra",
           "definition": "de pedra",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:20",
+              "greek": "λίθινα",
+              "wordForm": "λίθινα",
+              "translation": "de pedra",
+              "explanation": "Na expressão «τὰ λίθινα καὶ», λίθινα tem a função de modifica εἴδωλα; a acepção contextual é «de pedra».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12629,7 +13046,16 @@
           "id": "G3585-1",
           "label": "de madeira",
           "definition": "de madeira",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:20",
+              "greek": "ξύλινα",
+              "wordForm": "ξύλινα",
+              "translation": "de madeira",
+              "explanation": "Na expressão «τὰ ξύλινα ἃ», ξύλινα tem a função de modifica εἴδωλα; a acepção contextual é «de madeira».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12643,7 +13069,16 @@
           "id": "G5408-1",
           "label": "homicídio; assassinato",
           "definition": "homicídio; assassinato",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:21",
+              "greek": "φόνων",
+              "wordForm": "φόνων",
+              "translation": "homicídios",
+              "explanation": "Na expressão «τῶν φόνων αὐτῶν», φόνων tem a função de complemento de ἐκ; a acepção contextual é «homicídios».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ]
     },
@@ -12656,8 +13091,17 @@
         {
           "id": "L-pharmakon-1",
           "label": "poção; droga; meio de prática mágica",
-          "definition": "poção; droga; meio de prática mágica",
-          "examples": []
+          "definition": "Substância, poção ou meio empregado em práticas mágicas; o contexto determina o sentido.",
+          "examples": [
+            {
+              "reference": "Ap 9:21",
+              "greek": "φαρμάκων",
+              "wordForm": "φαρμάκων",
+              "translation": "práticas mágicas",
+              "explanation": "Na expressão «τῶν φαρμάκων αὐτῶν», φαρμάκων tem a função de complemento de ἐκ; a acepção contextual é «práticas mágicas».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
         }
       ],
       "strongStatus": "Sem equivalente individual no dicionário Strong consultado; identificador interno, não número Strong."
@@ -12672,7 +13116,39 @@
           "id": "G2809-1",
           "label": "furto; coisa furtada",
           "definition": "furto; coisa furtada",
-          "examples": []
+          "examples": [
+            {
+              "reference": "Ap 9:21",
+              "greek": "κλεμμάτων",
+              "wordForm": "κλεμμάτων",
+              "translation": "furtos",
+              "explanation": "Na expressão «τῶν κλεμμάτων αὐτῶν», κλεμμάτων tem a função de complemento de ἐκ; a acepção contextual é «furtos».",
+              "source": "SBLGNT via MorphGNT 6.12"
+            }
+          ]
+        }
+      ]
+    },
+    "G1210": {
+      "strong": "G1210",
+      "lemma": "δέω",
+      "lemmaTransliteration": "deō",
+      "partOfSpeech": "Verbo",
+      "senses": [
+        {
+          "id": "G1210-1",
+          "label": "Atar, prender, vincular",
+          "definition": "Restringir ou ligar alguém ou algo por vínculo; distingue-se de δεῖ, necessidade, e δέομαι, pedir.",
+          "examples": [
+            {
+              "reference": "Ap 9:14",
+              "greek": "τοὺς δεδεμένους",
+              "wordForm": "δεδεμένους",
+              "translation": "os que estão presos",
+              "explanation": "Particípio perfeito passivo que descreve os quatro anjos em condição de restrição.",
+              "source": "SBLGNT"
+            }
+          ]
         }
       ]
     }

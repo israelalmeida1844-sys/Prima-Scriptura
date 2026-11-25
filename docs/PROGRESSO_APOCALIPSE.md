@@ -58,3 +58,12 @@ A lógica do validador foi executada sobre os dados obtidos e a fonte: 496 unida
 ## Limitações
 
 A validação automatizada não determina qualidade semântica, filológica ou exegética. Nenhuma consulta a obras acadêmicas protegidas é alegada nesta etapa. O cotejo integral de aparato crítico, concordâncias e interface permanece pendente.
+
+## Atualização: conclusão da revisão editorial de Ap 9
+
+- Revisados os 21 versículos e as 496 unidades; cotejo integral de forma, lema, POS e código morfológico com o blob fixado, sem divergências.
+- Funções sintáticas individualizadas; glosas, notas e definições revisadas; cotejo das variantes com o aparato SBLGNT publicado.
+- 50 concordâncias ausentes geradas a partir de 137.554 unidades em 27 livros; corrigida a associação de δεδεμένους a G1210 (em vez de G1163), com concordância por sentido; G5552 conserva χρύσεος como alias.
+- As 158 chaves usadas no capítulo possuem concordância e referências de Ap 9 presentes; 50 verbetes receberam exemplo contextual. Não se afirma verificação independente de todo o léxico global.
+- Validação estrutural direta dos dados: 496 unidades, zero divergências nos campos cotejados e zero funções provisórias identificadas. Workflow de compilação e interação criado; o resultado precisa ser consultado antes da homologação.
+- Próximo lote: Ap 10, após confirmação da compilação e dos testes no GitHub Actions.

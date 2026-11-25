@@ -1,0 +1,1912 @@
+{
+  "strong": "G1565",
+  "lemma": "ἐκεῖνος",
+  "lemmaTranslit": "ekeinos",
+  "tokenCount": 242,
+  "verseCount": 235,
+  "bookDistribution": {
+    "Mateus": 53,
+    "Marcos": 23,
+    "Lucas": 33,
+    "João": 70,
+    "Atos": 22,
+    "Romanos": 3,
+    "1 Coríntios": 4,
+    "2 Coríntios": 5,
+    "Efésios": 1,
+    "2 Tessalonicenses": 1,
+    "2 Timóteo": 6,
+    "Tito": 1,
+    "Hebreus": 8,
+    "Tiago": 2,
+    "2 Pedro": 1,
+    "1 João": 7,
+    "Apocalipse": 2
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 3,
+      "verse": 1,
+      "reference": "Mt 3:1",
+      "text": "ἡμέραις ἐκείναις παραγίνεται",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 22,
+      "reference": "Mt 7:22",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 25,
+      "reference": "Mt 7:25",
+      "text": "οἰκίᾳ ἐκείνῃ, καὶ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 27,
+      "reference": "Mt 7:27",
+      "text": "οἰκίᾳ ἐκείνῃ, καὶ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 13,
+      "reference": "Mt 8:13",
+      "text": "ὥρᾳ ἐκείνῃ.",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 8,
+      "verse": 28,
+      "reference": "Mt 8:28",
+      "text": "ὁδοῦ ἐκείνης.",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 22,
+      "reference": "Mt 9:22",
+      "text": "ὥρας ἐκείνης.",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 26,
+      "reference": "Mt 9:26",
+      "text": "γῆν ἐκείνην.",
+      "highlightedWord": "ἐκείνην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 9,
+      "verse": 31,
+      "reference": "Mt 9:31",
+      "text": "γῇ ἐκείνῃ.",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 14,
+      "reference": "Mt 10:14",
+      "text": "πόλεως ἐκείνης ἐκτινάξατε",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 15,
+      "reference": "Mt 10:15",
+      "text": "πόλει ἐκείνῃ.",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Mt 10:19",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 11,
+      "verse": 25,
+      "reference": "Mt 11:25",
+      "text": "Ἐν ἐκείνῳ τῷ",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Mt 12:1",
+      "text": "Ἐν ἐκείνῳ τῷ",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Mt 12:45",
+      "text": "ἀνθρώπου ἐκείνου χείρονα",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 1,
+      "reference": "Mt 13:1",
+      "text": "ἡμέρᾳ ἐκείνῃ ἐξελθὼν",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mt 13:11",
+      "text": "οὐρανῶν, ἐκείνοις δὲ",
+      "highlightedWord": "ἐκείνοις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 13,
+      "verse": 44,
+      "reference": "Mt 13:44",
+      "text": "ἀγρὸν ἐκεῖνον.",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 1,
+      "reference": "Mt 14:1",
+      "text": "Ἐν ἐκείνῳ τῷ",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 14,
+      "verse": 35,
+      "reference": "Mt 14:35",
+      "text": "τόπου ἐκείνου ἀπέστειλαν",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 22,
+      "reference": "Mt 15:22",
+      "text": "ὁρίων ἐκείνων ἐξελθοῦσα",
+      "highlightedWord": "ἐκείνων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 28,
+      "reference": "Mt 15:28",
+      "text": "ὥρας ἐκείνης.",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 18,
+      "reference": "Mt 17:18",
+      "text": "ὥρας ἐκείνης.",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 17,
+      "verse": 27,
+      "reference": "Mt 17:27",
+      "text": "στατῆρα· ἐκεῖνον λαβὼν",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 1,
+      "reference": "Mt 18:1",
+      "text": "Ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 27,
+      "reference": "Mt 18:27",
+      "text": "δούλου ἐκείνου ἀπέλυσεν",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 28,
+      "reference": "Mt 18:28",
+      "text": "δοῦλος ἐκεῖνος εὗρεν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 18,
+      "verse": 32,
+      "reference": "Mt 18:32",
+      "text": "ὀφειλὴν ἐκείνην ἀφῆκά",
+      "highlightedWord": "ἐκείνην"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 20,
+      "verse": 4,
+      "reference": "Mt 20:4",
+      "text": "καὶ ἐκείνοις εἶπεν·",
+      "highlightedWord": "ἐκείνοις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 21,
+      "verse": 40,
+      "reference": "Mt 21:40",
+      "text": "γεωργοῖς ἐκείνοις;",
+      "highlightedWord": "ἐκείνοις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Mt 22:7",
+      "text": "φονεῖς ἐκείνους καὶ",
+      "highlightedWord": "ἐκείνους"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 10,
+      "reference": "Mt 22:10",
+      "text": "δοῦλοι ἐκεῖνοι εἰς",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 23,
+      "reference": "Mt 22:23",
+      "text": "Ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 46,
+      "reference": "Mt 22:46",
+      "text": "ἀπ’ ἐκείνης τῆς",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 19,
+      "reference": "Mt 24:19",
+      "text": "ἐν ἐκείναις ταῖς",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 22,
+      "reference": "Mt 24:22",
+      "text": "ἡμέραι ἐκεῖναι, οὐκ",
+      "highlightedWord": "ἐκεῖναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 29,
+      "reference": "Mt 24:29",
+      "text": "ἡμερῶν ἐκείνων ὁ",
+      "highlightedWord": "ἐκείνων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 36,
+      "reference": "Mt 24:36",
+      "text": "ἡμέρας ἐκείνης καὶ",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 43,
+      "reference": "Mt 24:43",
+      "text": "ἐκεῖνο δὲ",
+      "highlightedWord": "ἐκεῖνο"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 46,
+      "reference": "Mt 24:46",
+      "text": "δοῦλος ἐκεῖνος ὃν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 48,
+      "reference": "Mt 24:48",
+      "text": "δοῦλος ἐκεῖνος ἐν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 24,
+      "verse": 50,
+      "reference": "Mt 24:50",
+      "text": "δούλου ἐκείνου ἐν",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 7,
+      "reference": "Mt 25:7",
+      "text": "παρθένοι ἐκεῖναι καὶ",
+      "highlightedWord": "ἐκεῖναι"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 25,
+      "verse": 19,
+      "reference": "Mt 25:19",
+      "text": "δούλων ἐκείνων καὶ",
+      "highlightedWord": "ἐκείνων"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 24,
+      "reference": "Mt 26:24",
+      "text": "ἀνθρώπῳ ἐκείνῳ δι’",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 29,
+      "reference": "Mt 26:29",
+      "text": "ἡμέρας ἐκείνης ὅταν",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 26,
+      "verse": 55,
+      "reference": "Mt 26:55",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 8,
+      "reference": "Mt 27:8",
+      "text": "ἀγρὸς ἐκεῖνος Ἀγρὸς",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 19,
+      "reference": "Mt 27:19",
+      "text": "δικαίῳ ἐκείνῳ, πολλὰ",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 27,
+      "verse": 63,
+      "reference": "Mt 27:63",
+      "text": "ὅτι ἐκεῖνος ὁ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 1,
+      "verse": 9,
+      "reference": "Mk 1:9",
+      "text": "ἐν ἐκείναις ταῖς",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 2,
+      "verse": 20,
+      "reference": "Mk 2:20",
+      "text": "ἐν ⸂ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 24,
+      "reference": "Mk 3:24",
+      "text": "βασιλεία ἐκείνη·",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 3,
+      "verse": 25,
+      "reference": "Mk 3:25",
+      "text": "οἰκία ἐκείνη σταθῆναι⸃·",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Mk 4:11",
+      "text": "θεοῦ· ἐκείνοις δὲ",
+      "highlightedWord": "ἐκείνοις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 20,
+      "reference": "Mk 4:20",
+      "text": "καὶ ⸀ἐκεῖνοί εἰσιν",
+      "highlightedWord": "ἐκεῖνοί"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 4,
+      "verse": 35,
+      "reference": "Mk 4:35",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 6,
+      "verse": 55,
+      "reference": "Mk 6:55",
+      "text": "χώραν ἐκείνην καὶ⸃",
+      "highlightedWord": "ἐκείνην"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 20,
+      "reference": "Mk 7:20",
+      "text": "ἐκπορευόμενον ἐκεῖνο κοινοῖ",
+      "highlightedWord": "ἐκεῖνο"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Mk 8:1",
+      "text": "Ἐν ἐκείναις ταῖς",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 12,
+      "verse": 7,
+      "reference": "Mk 12:7",
+      "text": "ἐκεῖνοι δὲ",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 11,
+      "reference": "Mk 13:11",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 17,
+      "reference": "Mk 13:17",
+      "text": "ἐν ἐκείναις ταῖς",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 19,
+      "reference": "Mk 13:19",
+      "text": "ἡμέραι ἐκεῖναι θλῖψις",
+      "highlightedWord": "ἐκεῖναι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 24,
+      "reference": "Mk 13:24",
+      "text": "ἐν ἐκείναις ταῖς",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 13,
+      "verse": 32,
+      "reference": "Mk 13:32",
+      "text": "ἡμέρας ἐκείνης ἢ",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Mk 14:21",
+      "text": "ἀνθρώπῳ ἐκείνῳ δι’",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 14,
+      "verse": 25,
+      "reference": "Mk 14:25",
+      "text": "ἡμέρας ἐκείνης ὅταν",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 10,
+      "reference": "Mk 16:10",
+      "text": "ἐκείνη πορευθεῖσα",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Mk 16:13",
+      "text": "οὐδὲ ἐκείνοις ἐπίστευσαν.",
+      "highlightedWord": "ἐκείνοις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 20,
+      "reference": "Mk 16:20",
+      "text": "ἐκεῖνοι δὲ",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 2,
+      "verse": 1,
+      "reference": "Lk 2:1",
+      "text": "ἡμέραις ἐκείναις ἐξῆλθεν",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Lk 4:2",
+      "text": "ἡμέραις ἐκείναις, καὶ",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Lk 5:35",
+      "text": "ἐν ἐκείναις ταῖς",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 23,
+      "reference": "Lk 6:23",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 48,
+      "reference": "Lk 6:48",
+      "text": "οἰκίᾳ ἐκείνῃ, καὶ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 6,
+      "verse": 49,
+      "reference": "Lk 6:49",
+      "text": "οἰκίας ἐκείνης μέγα.",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Lk 7:21",
+      "text": "ἐν ⸀ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 8,
+      "verse": 32,
+      "reference": "Lk 8:32",
+      "text": "εἰς ἐκείνους εἰσελθεῖν·",
+      "highlightedWord": "ἐκείνους"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 5,
+      "reference": "Lk 9:5",
+      "text": "πόλεως ⸀ἐκείνης τὸν",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Lk 9:36",
+      "text": "ἐν ἐκείναις ταῖς",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 12,
+      "reference": "Lk 10:12",
+      "text": "ἡμέρᾳ ἐκείνῃ ἀνεκτότερον",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 31,
+      "reference": "Lk 10:31",
+      "text": "ὁδῷ ἐκείνῃ, καὶ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 26,
+      "reference": "Lk 11:26",
+      "text": "ἀνθρώπου ἐκείνου χείρονα",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 37,
+      "reference": "Lk 12:37",
+      "text": "δοῦλοι ἐκεῖνοι, οὓς",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 38,
+      "reference": "Lk 12:38",
+      "text": "⸀εἰσιν ἐκεῖνοι.",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 43,
+      "reference": "Lk 12:43",
+      "text": "δοῦλος ἐκεῖνος, ὃν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 45,
+      "reference": "Lk 12:45",
+      "text": "δοῦλος ἐκεῖνος ἐν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 46,
+      "reference": "Lk 12:46",
+      "text": "δούλου ἐκείνου ἐν",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 12,
+      "verse": 47,
+      "reference": "Lk 12:47",
+      "text": "ἐκεῖνος δὲ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 13,
+      "verse": 4,
+      "reference": "Lk 13:4",
+      "text": "ἢ ἐκεῖνοι οἱ",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 14,
+      "verse": 24,
+      "reference": "Lk 14:24",
+      "text": "ἀνδρῶν ἐκείνων τῶν",
+      "highlightedWord": "ἐκείνων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 14,
+      "reference": "Lk 15:14",
+      "text": "χώραν ἐκείνην, καὶ",
+      "highlightedWord": "ἐκείνην"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 15,
+      "verse": 15,
+      "reference": "Lk 15:15",
+      "text": "χώρας ἐκείνης, καὶ",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 17,
+      "verse": 31,
+      "reference": "Lk 17:31",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 3,
+      "reference": "Lk 18:3",
+      "text": "πόλει ἐκείνῃ καὶ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 18,
+      "verse": 14,
+      "reference": "Lk 18:14",
+      "text": "⸂παρ’ ἐκεῖνον⸃· ὅτι",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 19,
+      "verse": 4,
+      "reference": "Lk 19:4",
+      "text": "ὅτι ἐκείνης ἤμελλεν",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 18,
+      "reference": "Lk 20:18",
+      "text": "ἐπ’ ἐκεῖνον τὸν",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 20,
+      "verse": 35,
+      "reference": "Lk 20:35",
+      "text": "αἰῶνος ἐκείνου τυχεῖν",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Lk 21:23",
+      "text": "ἐν ἐκείναις ταῖς",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 21,
+      "verse": 34,
+      "reference": "Lk 21:34",
+      "text": "ἡμέρα ἐκείνη",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 22,
+      "verse": 22,
+      "reference": "Lk 22:22",
+      "text": "ἀνθρώπῳ ἐκείνῳ δι’",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 8,
+      "reference": "Jn 1:8",
+      "text": "ἦν ἐκεῖνος τὸ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "Jn 1:18",
+      "text": "πατρὸς ἐκεῖνος ἐξηγήσατο.",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 33,
+      "reference": "Jn 1:33",
+      "text": "ὕδατι ἐκεῖνός μοι",
+      "highlightedWord": "ἐκεῖνός"
+    },
+    {
+      "book": "João",
+      "chapter": 1,
+      "verse": 39,
+      "reference": "Jn 1:39",
+      "text": "ἡμέραν ἐκείνην· ὥρα",
+      "highlightedWord": "ἐκείνην"
+    },
+    {
+      "book": "João",
+      "chapter": 2,
+      "verse": 21,
+      "reference": "Jn 2:21",
+      "text": "ἐκεῖνος δὲ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 28,
+      "reference": "Jn 3:28",
+      "text": "ἔμπροσθεν ἐκείνου.",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 30,
+      "reference": "Jn 3:30",
+      "text": "ἐκεῖνον δεῖ",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 25,
+      "reference": "Jn 4:25",
+      "text": "ἔλθῃ ἐκεῖνος, ἀναγγελεῖ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 39,
+      "reference": "Jn 4:39",
+      "text": "πόλεως ἐκείνης πολλοὶ",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "João",
+      "chapter": 4,
+      "verse": 53,
+      "reference": "Jn 4:53",
+      "text": "⸀ὅτι ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 9,
+      "reference": "Jn 5:9",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 11,
+      "reference": "Jn 5:11",
+      "text": "ὑγιῆ ἐκεῖνός μοι",
+      "highlightedWord": "ἐκεῖνός"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 19,
+      "reference": "Jn 5:19",
+      "text": "ἂν ἐκεῖνος ποιῇ,",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 35,
+      "reference": "Jn 5:35",
+      "text": "ἐκεῖνος ἦν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 37,
+      "reference": "Jn 5:37",
+      "text": "πατὴρ ⸀ἐκεῖνος μεμαρτύρηκεν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 38,
+      "reference": "Jn 5:38",
+      "text": "ἀπέστειλεν ἐκεῖνος τούτῳ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 39,
+      "reference": "Jn 5:39",
+      "text": "καὶ ἐκεῖναί εἰσιν",
+      "highlightedWord": "ἐκεῖναί"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 43,
+      "reference": "Jn 5:43",
+      "text": "ἰδίῳ, ἐκεῖνον λήμψεσθε.",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 46,
+      "reference": "Jn 5:46",
+      "text": "ἐμοῦ ἐκεῖνος ἔγραψεν.",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 5,
+      "verse": 47,
+      "reference": "Jn 5:47",
+      "text": "τοῖς ἐκείνου γράμμασιν",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "João",
+      "chapter": 6,
+      "verse": 29,
+      "reference": "Jn 6:29",
+      "text": "ἀπέστειλεν ἐκεῖνος.",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 11,
+      "reference": "Jn 7:11",
+      "text": "ἐστιν ἐκεῖνος;",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 7,
+      "verse": 45,
+      "reference": "Jn 7:45",
+      "text": "αὐτοῖς ἐκεῖνοι· Διὰ",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 42,
+      "reference": "Jn 8:42",
+      "text": "ἀλλ’ ἐκεῖνός με",
+      "highlightedWord": "ἐκεῖνός"
+    },
+    {
+      "book": "João",
+      "chapter": 8,
+      "verse": 44,
+      "reference": "Jn 8:44",
+      "text": "ποιεῖν. ἐκεῖνος ἀνθρωποκτόνος",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 9,
+      "reference": "Jn 9:9",
+      "text": "ἐστιν. ἐκεῖνος ἔλεγεν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 11,
+      "reference": "Jn 9:11",
+      "text": "ἀπεκρίθη ⸀ἐκεῖνος· ⸂Ὁ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 12,
+      "reference": "Jn 9:12",
+      "text": "ἐστιν ἐκεῖνος; λέγει·",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "Jn 9:25",
+      "text": "οὖν ⸀ἐκεῖνος· Εἰ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 28,
+      "reference": "Jn 9:28",
+      "text": "εἶ⸃ ἐκείνου, ἡμεῖς",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 36,
+      "reference": "Jn 9:36",
+      "text": "ἀπεκρίθη ἐκεῖνος καὶ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Jn 9:37",
+      "text": "σοῦ ἐκεῖνός ἐστιν.",
+      "highlightedWord": "ἐκεῖνός"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 1,
+      "reference": "Jn 10:1",
+      "text": "ἀλλαχόθεν ἐκεῖνος κλέπτης",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 6,
+      "reference": "Jn 10:6",
+      "text": "Ἰησοῦς· ἐκεῖνοι δὲ",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "João",
+      "chapter": 10,
+      "verse": 35,
+      "reference": "Jn 10:35",
+      "text": "εἰ ἐκείνους εἶπεν",
+      "highlightedWord": "ἐκείνους"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Jn 11:13",
+      "text": "αὐτοῦ. ἐκεῖνοι δὲ",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 29,
+      "reference": "Jn 11:29",
+      "text": "ἐκείνη ⸀δὲ",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 49,
+      "reference": "Jn 11:49",
+      "text": "ἐνιαυτοῦ ἐκείνου, εἶπεν",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 51,
+      "reference": "Jn 11:51",
+      "text": "ἐνιαυτοῦ ἐκείνου ἐπροφήτευσεν",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "João",
+      "chapter": 11,
+      "verse": 53,
+      "reference": "Jn 11:53",
+      "text": "ἀπ’ ἐκείνης οὖν",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "João",
+      "chapter": 12,
+      "verse": 48,
+      "reference": "Jn 12:48",
+      "text": "ἐλάλησα ἐκεῖνος κρινεῖ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 25,
+      "reference": "Jn 13:25",
+      "text": "⸀ἀναπεσὼν ἐκεῖνος οὕτως",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 26,
+      "reference": "Jn 13:26",
+      "text": "Ἰησοῦς· Ἐκεῖνός ἐστιν",
+      "highlightedWord": "Ἐκεῖνός"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 27,
+      "reference": "Jn 13:27",
+      "text": "εἰς ἐκεῖνον ὁ",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "João",
+      "chapter": 13,
+      "verse": 30,
+      "reference": "Jn 13:30",
+      "text": "ψωμίον ἐκεῖνος ⸂ἐξῆλθεν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 20,
+      "reference": "Jn 14:20",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Jn 14:21",
+      "text": "αὐτὰς ἐκεῖνός ἐστιν",
+      "highlightedWord": "ἐκεῖνός"
+    },
+    {
+      "book": "João",
+      "chapter": 14,
+      "verse": 26,
+      "reference": "Jn 14:26",
+      "text": "μου, ἐκεῖνος ὑμᾶς",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 15,
+      "verse": 26,
+      "reference": "Jn 15:26",
+      "text": "ἐκπορεύεται, ἐκεῖνος μαρτυρήσει",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 8,
+      "reference": "Jn 16:8",
+      "text": "ἐλθὼν ἐκεῖνος ἐλέγξει",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 13,
+      "reference": "Jn 16:13",
+      "text": "ἔλθῃ ἐκεῖνος, τὸ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 14,
+      "reference": "Jn 16:14",
+      "text": "ἐκεῖνος ἐμὲ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 23,
+      "reference": "Jn 16:23",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 16,
+      "verse": 26,
+      "reference": "Jn 16:26",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 13,
+      "reference": "Jn 18:13",
+      "text": "ἐνιαυτοῦ ἐκείνου·",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 15,
+      "reference": "Jn 18:15",
+      "text": "μαθητὴς ἐκεῖνος ἦν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 17,
+      "reference": "Jn 18:17",
+      "text": "λέγει ἐκεῖνος· Οὐκ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 18,
+      "verse": 25,
+      "reference": "Jn 18:25",
+      "text": "⸀ἠρνήσατο ἐκεῖνος καὶ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 15,
+      "reference": "Jn 19:15",
+      "text": "οὖν ἐκεῖνοι⸃· Ἆρον",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 21,
+      "reference": "Jn 19:21",
+      "text": "ὅτι ἐκεῖνος εἶπεν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 27,
+      "reference": "Jn 19:27",
+      "text": "ἀπ’ ἐκείνης τῆς",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 31,
+      "reference": "Jn 19:31",
+      "text": "ἡμέρα ἐκείνου τοῦ",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "João",
+      "chapter": 19,
+      "verse": 35,
+      "reference": "Jn 19:35",
+      "text": "καὶ ἐκεῖνος οἶδεν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 13,
+      "reference": "Jn 20:13",
+      "text": "αὐτῇ ἐκεῖνοι· Γύναι,",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 15,
+      "reference": "Jn 20:15",
+      "text": "ζητεῖς; ἐκείνη δοκοῦσα",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 16,
+      "reference": "Jn 20:16",
+      "text": "στραφεῖσα ἐκείνη λέγει",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "João",
+      "chapter": 20,
+      "verse": 19,
+      "reference": "Jn 20:19",
+      "text": "ἡμέρᾳ ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 3,
+      "reference": "Jn 21:3",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 7,
+      "reference": "Jn 21:7",
+      "text": "μαθητὴς ἐκεῖνος ὃν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "João",
+      "chapter": 21,
+      "verse": 23,
+      "reference": "Jn 21:23",
+      "text": "μαθητὴς ἐκεῖνος οὐκ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Atos",
+      "chapter": 1,
+      "verse": 19,
+      "reference": "Ac 1:19",
+      "text": "χωρίον ἐκεῖνο τῇ",
+      "highlightedWord": "ἐκεῖνο"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 18,
+      "reference": "Ac 2:18",
+      "text": "ἡμέραις ἐκείναις ἐκχεῶ",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 2,
+      "verse": 41,
+      "reference": "Ac 2:41",
+      "text": "ἡμέρᾳ ἐκείνῃ ψυχαὶ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 13,
+      "reference": "Ac 3:13",
+      "text": "κρίναντος ἐκείνου ἀπολύειν·",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 3,
+      "verse": 23,
+      "reference": "Ac 3:23",
+      "text": "προφήτου ἐκείνου ἐξολεθρευθήσεται",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 7,
+      "verse": 41,
+      "reference": "Ac 7:41",
+      "text": "ἡμέραις ἐκείναις καὶ",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 1,
+      "reference": "Ac 8:1",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 8,
+      "verse": 8,
+      "reference": "Ac 8:8",
+      "text": "πόλει ἐκείνῃ.",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 37,
+      "reference": "Ac 9:37",
+      "text": "ἡμέραις ἐκείναις ἀσθενήσασαν",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "Ac 10:9",
+      "text": "ὁδοιπορούντων ἐκείνων καὶ",
+      "highlightedWord": "ἐκείνων"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 1,
+      "reference": "Ac 12:1",
+      "text": "Κατ’ ἐκεῖνον δὲ",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 12,
+      "verse": 6,
+      "reference": "Ac 12:6",
+      "text": "νυκτὶ ἐκείνῃ ἦν",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 14,
+      "verse": 21,
+      "reference": "Ac 14:21",
+      "text": "πόλιν ἐκείνην καὶ",
+      "highlightedWord": "ἐκείνην"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 3,
+      "reference": "Ac 16:3",
+      "text": "τόποις ἐκείνοις, ᾔδεισαν",
+      "highlightedWord": "ἐκείνοις"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 33,
+      "reference": "Ac 16:33",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Atos",
+      "chapter": 16,
+      "verse": 35,
+      "reference": "Ac 16:35",
+      "text": "ἀνθρώπους ἐκείνους.",
+      "highlightedWord": "ἐκείνους"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 16,
+      "reference": "Ac 19:16",
+      "text": "οἴκου ἐκείνου.",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 19,
+      "verse": 23,
+      "reference": "Ac 19:23",
+      "text": "καιρὸν ἐκεῖνον τάραχος",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Ac 20:2",
+      "text": "μέρη ἐκεῖνα καὶ",
+      "highlightedWord": "ἐκεῖνα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 21,
+      "verse": 6,
+      "reference": "Ac 21:6",
+      "text": "πλοῖον, ἐκεῖνοι δὲ",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "Atos",
+      "chapter": 22,
+      "verse": 11,
+      "reference": "Ac 22:11",
+      "text": "φωτὸς ἐκείνου, χειραγωγούμενος",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Atos",
+      "chapter": 28,
+      "verse": 7,
+      "reference": "Ac 28:7",
+      "text": "τόπον ἐκεῖνον ὑπῆρχεν",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 6,
+      "verse": 21,
+      "reference": "Ro 6:21",
+      "text": "τέλος ἐκείνων θάνατος·",
+      "highlightedWord": "ἐκείνων"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 14,
+      "reference": "Ro 14:14",
+      "text": "εἶναι, ἐκείνῳ κοινόν.",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 14,
+      "verse": 15,
+      "reference": "Ro 14:15",
+      "text": "σου ἐκεῖνον ἀπόλλυε",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 9,
+      "verse": 25,
+      "reference": "1Co 9:25",
+      "text": "ἐγκρατεύεται, ἐκεῖνοι μὲν",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 11,
+      "reference": "1Co 10:11",
+      "text": "συνέβαινεν⸃ ἐκείνοις, ἐγράφη",
+      "highlightedWord": "ἐκείνοις"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 28,
+      "reference": "1Co 10:28",
+      "text": "δι’ ἐκεῖνον τὸν",
+      "highlightedWord": "ἐκεῖνον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 11,
+      "reference": "1Co 15:11",
+      "text": "εἴτε ἐκεῖνοι, οὕτως",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 7,
+      "verse": 8,
+      "reference": "2Co 7:8",
+      "text": "ἐπιστολὴ ἐκείνη εἰ",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 9,
+      "reference": "2Co 8:9",
+      "text": "τῇ ἐκείνου πτωχείᾳ",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 8,
+      "verse": 14,
+      "reference": "2Co 8:14",
+      "text": "τὸ ἐκείνων ὑστέρημα,",
+      "highlightedWord": "ἐκείνων"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 10,
+      "verse": 18,
+      "reference": "2Co 10:18",
+      "text": "⸀συνιστάνων, ἐκεῖνός ἐστιν",
+      "highlightedWord": "ἐκεῖνός"
+    },
+    {
+      "book": "Efésios",
+      "chapter": 2,
+      "verse": 12,
+      "reference": "Eph 2:12",
+      "text": "καιρῷ ἐκείνῳ χωρὶς",
+      "highlightedWord": "ἐκείνῳ"
+    },
+    {
+      "book": "2 Tessalonicenses",
+      "chapter": 1,
+      "verse": 10,
+      "reference": "2Th 1:10",
+      "text": "ἡμέρᾳ ἐκείνῃ.",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 12,
+      "reference": "2Ti 1:12",
+      "text": "εἰς ἐκείνην τὴν",
+      "highlightedWord": "ἐκείνην"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 1,
+      "verse": 18,
+      "reference": "2Ti 1:18",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 13,
+      "reference": "2Ti 2:13",
+      "text": "ἀπιστοῦμεν, ἐκεῖνος πιστὸς",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 2,
+      "verse": 26,
+      "reference": "2Ti 2:26",
+      "text": "τὸ ἐκείνου θέλημα.",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 3,
+      "verse": 9,
+      "reference": "2Ti 3:9",
+      "text": "ἡ ἐκείνων ἐγένετο.",
+      "highlightedWord": "ἐκείνων"
+    },
+    {
+      "book": "2 Timóteo",
+      "chapter": 4,
+      "verse": 8,
+      "reference": "2Ti 4:8",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    },
+    {
+      "book": "Tito",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "Tit 3:7",
+      "text": "τῇ ἐκείνου χάριτι",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 2,
+      "reference": "Heb 4:2",
+      "text": "ἀκοῆς ἐκείνους, μὴ",
+      "highlightedWord": "ἐκείνους"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 4,
+      "verse": 11,
+      "reference": "Heb 4:11",
+      "text": "εἰς ἐκείνην τὴν",
+      "highlightedWord": "ἐκείνην"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 6,
+      "verse": 7,
+      "reference": "Heb 6:7",
+      "text": "εὔθετον ἐκείνοις δι’",
+      "highlightedWord": "ἐκείνοις"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 7,
+      "reference": "Heb 8:7",
+      "text": "πρώτη ἐκείνη ἦν",
+      "highlightedWord": "ἐκείνη"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 8,
+      "verse": 10,
+      "reference": "Heb 8:10",
+      "text": "ἡμέρας ἐκείνας, λέγει",
+      "highlightedWord": "ἐκείνας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Heb 10:16",
+      "text": "ἡμέρας ἐκείνας, λέγει",
+      "highlightedWord": "ἐκείνας"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 15,
+      "reference": "Heb 11:15",
+      "text": "μὲν ἐκείνης ⸀μνημονεύουσιν",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 12,
+      "verse": 25,
+      "reference": "Heb 12:25",
+      "text": "γὰρ ἐκεῖνοι οὐκ",
+      "highlightedWord": "ἐκεῖνοι"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 1,
+      "verse": 7,
+      "reference": "Jas 1:7",
+      "text": "ἄνθρωπος ἐκεῖνος ὅτι",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "Tiago",
+      "chapter": 4,
+      "verse": 15,
+      "reference": "Jas 4:15",
+      "text": "ἢ ἐκεῖνο.",
+      "highlightedWord": "ἐκεῖνο"
+    },
+    {
+      "book": "2 Pedro",
+      "chapter": 1,
+      "verse": 16,
+      "reference": "2Pe 1:16",
+      "text": "τῆς ἐκείνου μεγαλειότητος.",
+      "highlightedWord": "ἐκείνου"
+    },
+    {
+      "book": "1 João",
+      "chapter": 2,
+      "verse": 6,
+      "reference": "1Jn 2:6",
+      "text": "καθὼς ἐκεῖνος περιεπάτησεν",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 3,
+      "reference": "1Jn 3:3",
+      "text": "καθὼς ἐκεῖνος ἁγνός",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 5,
+      "reference": "1Jn 3:5",
+      "text": "ὅτι ἐκεῖνος ἐφανερώθη",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 7,
+      "reference": "1Jn 3:7",
+      "text": "καθὼς ἐκεῖνος δίκαιός",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 3,
+      "verse": 16,
+      "reference": "1Jn 3:16",
+      "text": "ὅτι ἐκεῖνος ὑπὲρ",
+      "highlightedWord": "ἐκεῖνος"
+    },
+    {
+      "book": "1 João",
+      "chapter": 4,
+      "verse": 17,
+      "reference": "1Jn 4:17",
+      "text": "καθὼς ἐκεῖνός ἐστιν",
+      "highlightedWord": "ἐκεῖνός"
+    },
+    {
+      "book": "1 João",
+      "chapter": 5,
+      "verse": 16,
+      "reference": "1Jn 5:16",
+      "text": "περὶ ἐκείνης λέγω",
+      "highlightedWord": "ἐκείνης"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 6,
+      "reference": "Re 9:6",
+      "text": "ἡμέραις ἐκείναις ζητήσουσιν",
+      "highlightedWord": "ἐκείναις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 11,
+      "verse": 13,
+      "reference": "Re 11:13",
+      "text": "ἐν ἐκείνῃ τῇ",
+      "highlightedWord": "ἐκείνῃ"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

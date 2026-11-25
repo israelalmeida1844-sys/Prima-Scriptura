@@ -142,5 +142,8 @@
   "complete": true,
   "corpusBooks": 27,
   "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
-  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos."
+  "note": "Textos gregos são excertos curtos contextualizadores, não reproduções integrais de versículos. Inclui χρύσεος (2Tm 2:20), forma lexical equivalente sob G5552.",
+  "lemmaAliases": [
+    "χρύσεος"
+  ]
 }

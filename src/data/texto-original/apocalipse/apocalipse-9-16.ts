@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:16 · Revisão lexical e sintática */
 export const apocalipse9v16 = {
   "reference": "Apocalipse 9:16",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v16 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "O número das tropas da cavalaria era de vinte mil miríades; ouvi o número deles.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "ἱππικοῦ em SBLGNT/WH/Treg/NA28; ἵππου em RP. δισμυριάδες em SBLGNT/WH/NA28; δύο μυριάδες em Treg; μυριάδες em RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "ἱππικοῦ em SBLGNT/WH/Treg/NA28; ἵππου em RP. δισμυριάδες em SBLGNT/WH/NA28; δύο μυριάδες em Treg; μυριάδες em RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28. Impacto: A primeira leitura alterna cavalaria e cavalo; as formas numéricas diferem na expressão explícita da quantidade.",
   "syntacticNotes": [
     "δισμυριάδες μυριάδων constitui expressão numeral multiplicativa, com predicação nominal sem cópula expressa."
   ],
   "exegeticalNotes": [
-    "O numeral corresponde a 200 milhões pela multiplicação de vinte mil por dez mil; a função visionária do número deve ser discutida separadamente."
+    "O numeral corresponde a 200 milhões pela multiplicação de vinte mil por dez mil; a função visionária do número deve ser discutida separadamente.",
+    "A audição do número antecede a descrição visual de 9:17. A cifra é extraordinária; sua interpretação literal ou simbólica não se resolve pela gramática."
   ],
   "words": [
     {
       "id": "ap9-16-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v16 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ ὁ», καὶ tem a função de coordena descrição quantitativa; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena descrição quantitativa",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -52,13 +54,13 @@ export const apocalipse9v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «καὶ ὁ ἀριθμὸς», ὁ tem a função de determina ἀριθμός; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἀριθμός",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -78,12 +80,12 @@ export const apocalipse9v16 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Número, quantidade",
-      "explanation": "Glosa contextual: número. ",
+      "explanation": "Na expressão «ὁ ἀριθμὸς τῶν», ἀριθμὸς tem a função de sujeito da predicação nominal; a acepção contextual é «número».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito da predicação nominal",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -102,13 +104,13 @@ export const apocalipse9v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: das. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἀριθμὸς τῶν στρατευμάτων», τῶν tem a função de determina στρατευμάτων; a acepção contextual é «das».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina στρατευμάτων",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -119,21 +121,21 @@ export const apocalipse9v16 = {
       "id": "ap9-16-5",
       "shortMorph": "N- GPN",
       "greek": "στρατευμάτων",
-      "transliteration": "strateymatōn",
+      "transliteration": "strateumatōn",
       "gloss": "tropas",
       "strong": "G4753",
       "lemma": "στράτευμα",
-      "lemmaTransliteration": "strateyma",
+      "lemmaTransliteration": "strateuma",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "tropa; exército",
-      "explanation": "Glosa contextual: tropas. ",
+      "explanation": "Na expressão «τῶν στρατευμάτων τοῦ», στρατευμάτων tem a função de genitivo especificador de ἀριθμός; a acepção contextual é «tropas».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de ἀριθμός",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -152,13 +154,13 @@ export const apocalipse9v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: da. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «στρατευμάτων τοῦ ἱππικοῦ», τοῦ tem a função de determina ἱππικοῦ; a acepção contextual é «da».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἱππικοῦ",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -178,12 +180,12 @@ export const apocalipse9v16 = {
       "morphologyCode": "----GSN-",
       "morphology": "Adjetivo / numeral · genitivo · singular · neutro (MorphGNT: A- ----GSN-)",
       "meanings": "cavalaria",
-      "explanation": "Glosa contextual: cavalaria. ",
+      "explanation": "Na expressão «τοῦ ἱππικοῦ δισμυριάδες», ἱππικοῦ tem a função de genitivo especificador de στρατευμάτων; a acepção contextual é «cavalaria».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de στρατευμάτων",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -203,12 +205,12 @@ export const apocalipse9v16 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "vinte mil; duas miríades",
-      "explanation": "Glosa contextual: vinte mil. Sem equivalente individual no dicionário Strong consultado; identificador interno, não número Strong.",
+      "explanation": "Na expressão «ἱππικοῦ δισμυριάδες μυριάδων», δισμυριάδες tem a função de predicativo numeral; a acepção contextual é «vinte mil».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "predicativo numeral",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -220,7 +222,7 @@ export const apocalipse9v16 = {
       "shortMorph": "N- GPF",
       "greek": "μυριάδων",
       "transliteration": "myriadōn",
-      "gloss": "de miríades",
+      "gloss": "miríades",
       "strong": "G3461",
       "lemma": "μυριάς",
       "lemmaTransliteration": "myrias",
@@ -228,12 +230,12 @@ export const apocalipse9v16 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo · genitivo · plural · feminino (MorphGNT: N- ----GPF-)",
       "meanings": "Miríade, dez mil",
-      "explanation": "Glosa contextual: de miríades. ",
+      "explanation": "Na expressão «δισμυριάδες μυριάδων ἤκουσα», μυριάδων tem a função de genitivo multiplicativo; a acepção contextual é «miríades».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo multiplicativo",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -253,12 +255,12 @@ export const apocalipse9v16 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
       "meanings": "ouvir",
-      "explanation": "Glosa contextual: ouvi. ",
+      "explanation": "Na expressão «μυριάδων ἤκουσα τὸν», ἤκουσα tem a função de predicado de sujeito implícito (João); a acepção contextual é «ouvi».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado de sujeito implícito (João)",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -277,13 +279,13 @@ export const apocalipse9v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido · acusativo · singular · masculino (MorphGNT: RA ----ASM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἤκουσα τὸν ἀριθμὸν», τὸν tem a função de determina ἀριθμόν; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἀριθμόν",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -303,12 +305,12 @@ export const apocalipse9v16 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "Número, quantidade",
-      "explanation": "Glosa contextual: número. ",
+      "explanation": "Na expressão «τὸν ἀριθμὸν αὐτῶν», ἀριθμὸν tem a função de objeto de ἤκουσα; a acepção contextual é «número».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "objeto de ἤκουσα",
         "clauseId": "AP.9.16",
         "governedBy": null
       },
@@ -319,21 +321,21 @@ export const apocalipse9v16 = {
       "id": "ap9-16-13",
       "shortMorph": "RP GPN",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPN-",
       "morphology": "Pronome pessoal · genitivo · plural · neutro (MorphGNT: RP ----GPN-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «ἀριθμὸν αὐτῶν», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:16"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.16",
         "governedBy": null
       },

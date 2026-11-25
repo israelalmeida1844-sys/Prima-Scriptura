@@ -1,0 +1,134 @@
+{
+  "strong": "G3789",
+  "lemma": "ὄφις",
+  "lemmaTranslit": "ophis",
+  "tokenCount": 14,
+  "verseCount": 14,
+  "bookDistribution": {
+    "Mateus": 3,
+    "Marcos": 1,
+    "Lucas": 2,
+    "João": 1,
+    "1 Coríntios": 1,
+    "2 Coríntios": 1,
+    "Apocalipse": 5
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 7,
+      "verse": 10,
+      "reference": "Mt 7:10",
+      "text": "μὴ ὄφιν ἐπιδώσει",
+      "highlightedWord": "ὄφιν"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 10,
+      "verse": 16,
+      "reference": "Mt 10:16",
+      "text": "οἱ ὄφεις καὶ",
+      "highlightedWord": "ὄφεις"
+    },
+    {
+      "book": "Mateus",
+      "chapter": 23,
+      "verse": 33,
+      "reference": "Mt 23:33",
+      "text": "ὄφεις γεννήματα",
+      "highlightedWord": "ὄφεις"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 16,
+      "verse": 18,
+      "reference": "Mk 16:18",
+      "text": "⸀ὄφεις ἀροῦσιν",
+      "highlightedWord": "ὄφεις"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 10,
+      "verse": 19,
+      "reference": "Lk 10:19",
+      "text": "ἐπάνω ὄφεων καὶ",
+      "highlightedWord": "ὄφεων"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 11,
+      "verse": 11,
+      "reference": "Lk 11:11",
+      "text": "ἰχθύος ὄφιν ⸂αὐτῷ",
+      "highlightedWord": "ὄφιν"
+    },
+    {
+      "book": "João",
+      "chapter": 3,
+      "verse": 14,
+      "reference": "Jn 3:14",
+      "text": "τὸν ὄφιν ἐν",
+      "highlightedWord": "ὄφιν"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 10,
+      "verse": 9,
+      "reference": "1Co 10:9",
+      "text": "τῶν ὄφεων ⸀ἀπώλλυντο.",
+      "highlightedWord": "ὄφεων"
+    },
+    {
+      "book": "2 Coríntios",
+      "chapter": 11,
+      "verse": 3,
+      "reference": "2Co 11:3",
+      "text": "ὁ ὄφις ⸂ἐξηπάτησεν",
+      "highlightedWord": "ὄφις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 19,
+      "reference": "Re 9:19",
+      "text": "ὅμοιαι ⸀ὄφεσιν, ἔχουσαι",
+      "highlightedWord": "ὄφεσιν"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 9,
+      "reference": "Re 12:9",
+      "text": "ὁ ὄφις ὁ",
+      "highlightedWord": "ὄφις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 14,
+      "reference": "Re 12:14",
+      "text": "τοῦ ὄφεως.",
+      "highlightedWord": "ὄφεως"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 12,
+      "verse": 15,
+      "reference": "Re 12:15",
+      "text": "ὁ ὄφις ἐκ",
+      "highlightedWord": "ὄφις"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 20,
+      "verse": 2,
+      "reference": "Re 20:2",
+      "text": "⸂ὁ ὄφις ὁ",
+      "highlightedWord": "ὄφις"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

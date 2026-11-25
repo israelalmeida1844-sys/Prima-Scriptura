@@ -1,0 +1,75 @@
+{
+  "strong": "G4753",
+  "lemma": "στράτευμα",
+  "lemmaTranslit": "strateuma",
+  "tokenCount": 8,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Lucas": 1,
+    "Atos": 2,
+    "Apocalipse": 4
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 22,
+      "verse": 7,
+      "reference": "Mt 22:7",
+      "text": "τὰ στρατεύματα αὐτοῦ",
+      "highlightedWord": "στρατεύματα"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 11,
+      "reference": "Lk 23:11",
+      "text": "τοῖς στρατεύμασιν αὐτοῦ",
+      "highlightedWord": "στρατεύμασιν"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 10,
+      "reference": "Ac 23:10",
+      "text": "τὸ στράτευμα ⸀καταβὰν",
+      "highlightedWord": "στράτευμα"
+    },
+    {
+      "book": "Atos",
+      "chapter": 23,
+      "verse": 27,
+      "reference": "Ac 23:27",
+      "text": "τῷ στρατεύματι ⸀ἐξειλάμην,",
+      "highlightedWord": "στρατεύματι"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 16,
+      "reference": "Re 9:16",
+      "text": "τῶν στρατευμάτων τοῦ",
+      "highlightedWord": "στρατευμάτων"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 14,
+      "reference": "Re 19:14",
+      "text": "τὰ στρατεύματα ⸀τὰ",
+      "highlightedWord": "στρατεύματα"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 19,
+      "verse": 19,
+      "reference": "Re 19:19",
+      "text": "τὰ στρατεύματα αὐτῶν",
+      "highlightedWord": "στρατεύματα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

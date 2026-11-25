@@ -1,0 +1,50 @@
+{
+  "strong": "G2759",
+  "lemma": "κέντρον",
+  "lemmaTranslit": "kentron",
+  "tokenCount": 4,
+  "verseCount": 4,
+  "bookDistribution": {
+    "Atos": 1,
+    "1 Coríntios": 2,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Atos",
+      "chapter": 26,
+      "verse": 14,
+      "reference": "Ac 26:14",
+      "text": "πρὸς κέντρα λακτίζειν.",
+      "highlightedWord": "κέντρα"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 55,
+      "reference": "1Co 15:55",
+      "text": "τὸ κέντρον⸃;",
+      "highlightedWord": "κέντρον"
+    },
+    {
+      "book": "1 Coríntios",
+      "chapter": 15,
+      "verse": 56,
+      "reference": "1Co 15:56",
+      "text": "δὲ κέντρον τοῦ",
+      "highlightedWord": "κέντρον"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 10,
+      "reference": "Re 9:10",
+      "text": "καὶ κέντρα, καὶ",
+      "highlightedWord": "κέντρα"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}

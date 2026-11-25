@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:18 · Revisão lexical e sintática */
 export const apocalipse9v18 = {
   "reference": "Apocalipse 9:18",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v18 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Por essas três pragas foi morto um terço dos seres humanos: pelo fogo, pela fumaça e pelo enxofre que saíam de suas bocas.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "ἐκ em SBLGNT/WH/Treg/NA28; ἀπὸ em RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "ἐκ em SBLGNT/WH/Treg/NA28; ἀπὸ em RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28. Impacto: A alternância de preposições mantém a relação causal ou de origem.",
   "syntacticNotes": [
     "ἀπεκτάνθησαν é aoristo passivo plural, apesar do sujeito coletivo τὸ τρίτον; ἀπό e ἐκ exprimem causa ou origem."
   ],
   "exegeticalNotes": [
-    "A morte de um terço contrasta com a proibição de matar na quinta trombeta."
+    "A morte de um terço contrasta com a proibição de matar na quinta trombeta.",
+    "A fração delimita o alcance do juízo. O contraste com 9:5 mostra a progressão entre os dois primeiros ais."
   ],
   "words": [
     {
       "id": "ap9-18-1",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἀπὸ",
       "transliteration": "apo",
       "gloss": "por",
@@ -27,13 +29,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: por. ",
+      "meanings": "De, desde, para longe de; também causa.",
+      "explanation": "Na expressão «ἀπὸ τῶν», ἀπὸ tem a função de introduz causa; a acepção contextual é «por».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz causa",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -52,13 +54,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido · genitivo · plural · feminino (MorphGNT: RA ----GPF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: as. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἀπὸ τῶν τριῶν», τῶν tem a função de determina πληγῶν; a acepção contextual é «as».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina πληγῶν",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -78,12 +80,12 @@ export const apocalipse9v18 = {
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo / numeral · genitivo · plural · feminino (MorphGNT: A- ----GPF-)",
       "meanings": "três",
-      "explanation": "Glosa contextual: três. ",
+      "explanation": "Na expressão «τῶν τριῶν πληγῶν», τριῶν tem a função de quantifica πληγῶν; a acepção contextual é «três».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "quantifica πληγῶν",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -103,12 +105,12 @@ export const apocalipse9v18 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo · genitivo · plural · feminino (MorphGNT: N- ----GPF-)",
       "meanings": "golpe; praga",
-      "explanation": "Glosa contextual: pragas. ",
+      "explanation": "Na expressão «τριῶν πληγῶν τούτων», πληγῶν tem a função de complemento causal de ἀπό; a acepção contextual é «pragas».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento causal de ἀπό",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -127,13 +129,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----GPF-",
       "morphology": "Pronome demonstrativo · genitivo · plural · feminino (MorphGNT: RD ----GPF-)",
-      "meanings": "essas coisas",
-      "explanation": "Glosa contextual: estas. ",
+      "meanings": "Demonstrativo: este, esse.",
+      "explanation": "Na expressão «πληγῶν τούτων ἀπεκτάνθησαν», τούτων tem a função de modifica πληγῶν; a acepção contextual é «estas».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "modifica πληγῶν",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -153,12 +155,12 @@ export const apocalipse9v18 = {
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
       "meanings": "matar",
-      "explanation": "Glosa contextual: foram mortos. ",
+      "explanation": "Na expressão «τούτων ἀπεκτάνθησαν τὸ», ἀπεκτάνθησαν tem a função de predicado passivo plural; a acepção contextual é «foram mortos».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado passivo plural",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -177,13 +179,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἀπεκτάνθησαν τὸ τρίτον», τὸ tem a função de determina τρίτον; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina τρίτον",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -202,13 +204,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
-      "meanings": "terceiro",
-      "explanation": "Glosa contextual: terço. ",
+      "meanings": "Terceiro; substantivado no neutro, um terço.",
+      "explanation": "Na expressão «τὸ τρίτον τῶν», τρίτον tem a função de sujeito coletivo de ἀπεκτάνθησαν; a acepção contextual é «terço».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito coletivo de ἀπεκτάνθησαν",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -227,13 +229,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: dos. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «τρίτον τῶν ἀνθρώπων», τῶν tem a função de determina ἀνθρώπων; a acepção contextual é «dos».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἀνθρώπων",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -252,13 +254,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
-      "meanings": "homem",
-      "explanation": "Glosa contextual: seres humanos. ",
+      "meanings": "Ser humano, pessoa; conforme o contexto, homem.",
+      "explanation": "Na expressão «τῶν ἀνθρώπων ἐκ», ἀνθρώπων tem a função de genitivo partitivo de τρίτον; a acepção contextual é «seres humanos».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo partitivo de τρίτον",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -267,7 +269,7 @@ export const apocalipse9v18 = {
     },
     {
       "id": "ap9-18-11",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "por",
@@ -277,13 +279,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: por. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «ἀνθρώπων ἐκ τοῦ», ἐκ tem a função de introduz causa ou origem; a acepção contextual é «por».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz causa ou origem",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -302,13 +304,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τοῦ πυρὸς», τοῦ tem a função de determina πυρός; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina πυρός",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -328,12 +330,12 @@ export const apocalipse9v18 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "fogo",
-      "explanation": "Glosa contextual: fogo. ",
+      "explanation": "Na expressão «τοῦ πυρὸς καὶ», πυρὸς tem a função de primeiro complemento de ἐκ; a acepção contextual é «fogo».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "primeiro complemento de ἐκ",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -342,7 +344,7 @@ export const apocalipse9v18 = {
     },
     {
       "id": "ap9-18-14",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -352,13 +354,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «πυρὸς καὶ τοῦ», καὶ tem a função de coordena complementos; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena complementos",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -377,13 +379,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «καὶ τοῦ καπνοῦ», τοῦ tem a função de determina καπνοῦ; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina καπνοῦ",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -403,12 +405,12 @@ export const apocalipse9v18 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "fumaça",
-      "explanation": "Glosa contextual: fumaça. ",
+      "explanation": "Na expressão «τοῦ καπνοῦ καὶ», καπνοῦ tem a função de segundo complemento de ἐκ; a acepção contextual é «fumaça».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "segundo complemento de ἐκ",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -417,7 +419,7 @@ export const apocalipse9v18 = {
     },
     {
       "id": "ap9-18-17",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -427,13 +429,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καπνοῦ καὶ τοῦ», καὶ tem a função de coordena complementos; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena complementos",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -452,13 +454,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «καὶ τοῦ θείου», τοῦ tem a função de determina θείου; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina θείου",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -478,12 +480,12 @@ export const apocalipse9v18 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "enxofre",
-      "explanation": "Glosa contextual: enxofre. ",
+      "explanation": "Na expressão «τοῦ θείου τοῦ», θείου tem a função de terceiro complemento de ἐκ; a acepção contextual é «enxofre».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "terceiro complemento de ἐκ",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -502,13 +504,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: o. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «θείου τοῦ ἐκπορευομένου», τοῦ tem a função de artigo da posição atributiva; a acepção contextual é «o».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "artigo da posição atributiva",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -519,21 +521,21 @@ export const apocalipse9v18 = {
       "id": "ap9-18-21",
       "shortMorph": "V-PMP-GSN",
       "greek": "ἐκπορευομένου",
-      "transliteration": "ekporeyomenou",
+      "transliteration": "ekporeuomenou",
       "gloss": "que sai",
       "strong": "G1607",
       "lemma": "ἐκπορεύομαι",
-      "lemmaTransliteration": "ekporeyomai",
+      "lemmaTransliteration": "ekporeuomai",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMPGSN-",
       "morphology": "Verbo · presente · voz média · particípio · genitivo · singular · neutro (MorphGNT: V- -PMPGSN-)",
-      "meanings": "saía",
-      "explanation": "Glosa contextual: que sai. ",
+      "meanings": "Sair, proceder de, dirigir-se para fora.",
+      "explanation": "Na expressão «τοῦ ἐκπορευομένου ἐκ», ἐκπορευομένου tem a função de particípio genitivo ligado a θείου, retomando a série; a acepção contextual é «que sai».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "particípio genitivo ligado a θείου, retomando a série",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -542,7 +544,7 @@ export const apocalipse9v18 = {
     },
     {
       "id": "ap9-18-22",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "de",
@@ -552,13 +554,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «ἐκπορευομένου ἐκ τῶν», ἐκ tem a função de introduz origem; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz origem",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -577,13 +579,13 @@ export const apocalipse9v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: as. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τῶν στομάτων», τῶν tem a função de determina στομάτων; a acepção contextual é «as».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina στομάτων",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -603,12 +605,12 @@ export const apocalipse9v18 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "boca",
-      "explanation": "Glosa contextual: bocas. ",
+      "explanation": "Na expressão «τῶν στομάτων αὐτῶν», στομάτων tem a função de complemento de ἐκ; a acepção contextual é «bocas».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de ἐκ",
         "clauseId": "AP.9.18",
         "governedBy": null
       },
@@ -619,21 +621,21 @@ export const apocalipse9v18 = {
       "id": "ap9-18-25",
       "shortMorph": "RP GPM",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «στομάτων αὐτῶν», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:18"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.18",
         "governedBy": null
       },

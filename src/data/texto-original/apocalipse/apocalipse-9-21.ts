@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:21 · Revisão lexical e sintática */
 export const apocalipse9v21 = {
   "reference": "Apocalipse 9:21",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v21 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "Também não se arrependeram de seus homicídios, de suas práticas mágicas, de sua imoralidade sexual nem de seus furtos.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "φαρμάκων em SBLGNT/WH/NA28; φαρμακειῶν em Treg/RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "φαρμάκων em SBLGNT/WH/NA28; φαρμακειῶν em Treg/RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28. Impacto: A variante troca a forma de φάρμακον pela de φαρμακεία, aproximando a designação da prática mágica.",
   "syntacticNotes": [
     "μετενόησαν é aoristo ativo indicativo negado; os quatro complementos com ἐκ especificam as práticas não abandonadas."
   ],
   "exegeticalNotes": [
-    "A lista final amplia a denúncia da idolatria à violência e a outras práticas; φάρμακον não deve ser equiparado automaticamente a medicamentos modernos."
+    "A lista final amplia a denúncia da idolatria à violência e a outras práticas; φάρμακον não deve ser equiparado automaticamente a medicamentos modernos.",
+    "A repetição de ἐκ e das partículas negativas encerra a unidade: o problema central é a persistência no mal mesmo após o juízo."
   ],
   "words": [
     {
       "id": "ap9-21-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «καὶ οὐ», καὶ tem a função de coordena conclusão; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena conclusão",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -42,7 +44,7 @@ export const apocalipse9v21 = {
     },
     {
       "id": "ap9-21-2",
-      "shortMorph": "D- ",
+      "shortMorph": "D-",
       "greek": "οὐ",
       "transliteration": "ou",
       "gloss": "não",
@@ -53,12 +55,12 @@ export const apocalipse9v21 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "não",
-      "explanation": "Glosa contextual: não. ",
+      "explanation": "Na expressão «καὶ οὐ μετενόησαν», οὐ tem a função de nega μετενόησαν; a acepção contextual é «não».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "nega μετενόησαν",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -78,12 +80,12 @@ export const apocalipse9v21 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "arrepender-se, mudar de orientação",
-      "explanation": "Glosa contextual: se arrependeram. ",
+      "explanation": "Na expressão «οὐ μετενόησαν ἐκ», μετενόησαν tem a função de predicado principal; a acepção contextual é «se arrependeram».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "predicado principal",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -92,7 +94,7 @@ export const apocalipse9v21 = {
     },
     {
       "id": "ap9-21-4",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "de",
@@ -102,13 +104,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «μετενόησαν ἐκ τῶν», ἐκ tem a função de introduz afastamento; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz afastamento",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -127,13 +129,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τῶν φόνων», τῶν tem a função de determina φόνων; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina φόνων",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -153,12 +155,12 @@ export const apocalipse9v21 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "homicídio; assassinato",
-      "explanation": "Glosa contextual: homicídios. ",
+      "explanation": "Na expressão «τῶν φόνων αὐτῶν», φόνων tem a função de complemento de ἐκ; a acepção contextual é «homicídios».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de ἐκ",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -169,21 +171,21 @@ export const apocalipse9v21 = {
       "id": "ap9-21-7",
       "shortMorph": "RP GPM",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «φόνων αὐτῶν οὔτε», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -192,7 +194,7 @@ export const apocalipse9v21 = {
     },
     {
       "id": "ap9-21-8",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "οὔτε",
       "transliteration": "oute",
       "gloss": "nem",
@@ -203,12 +205,12 @@ export const apocalipse9v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "nem",
-      "explanation": "Glosa contextual: nem. ",
+      "explanation": "Na expressão «αὐτῶν οὔτε ἐκ», οὔτε tem a função de coordena negação; a acepção contextual é «nem».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena negação",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -217,7 +219,7 @@ export const apocalipse9v21 = {
     },
     {
       "id": "ap9-21-9",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "de",
@@ -227,13 +229,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «οὔτε ἐκ τῶν», ἐκ tem a função de introduz afastamento; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz afastamento",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -252,13 +254,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: as. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τῶν φαρμάκων», τῶν tem a função de determina φαρμάκων; a acepção contextual é «as».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina φαρμάκων",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -277,13 +279,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
-      "meanings": "poção; droga; meio de prática mágica",
-      "explanation": "Glosa contextual: práticas mágicas. Sem equivalente individual no dicionário Strong consultado; identificador interno, não número Strong.",
+      "meanings": "Substância, poção ou meio empregado em práticas mágicas; o contexto determina o sentido.",
+      "explanation": "Na expressão «τῶν φαρμάκων αὐτῶν», φαρμάκων tem a função de complemento de ἐκ; a acepção contextual é «práticas mágicas».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de ἐκ",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -294,21 +296,21 @@ export const apocalipse9v21 = {
       "id": "ap9-21-12",
       "shortMorph": "RP GPM",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «φαρμάκων αὐτῶν οὔτε», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -317,7 +319,7 @@ export const apocalipse9v21 = {
     },
     {
       "id": "ap9-21-13",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "οὔτε",
       "transliteration": "oute",
       "gloss": "nem",
@@ -328,12 +330,12 @@ export const apocalipse9v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "nem",
-      "explanation": "Glosa contextual: nem. ",
+      "explanation": "Na expressão «αὐτῶν οὔτε ἐκ», οὔτε tem a função de coordena negação; a acepção contextual é «nem».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena negação",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -342,7 +344,7 @@ export const apocalipse9v21 = {
     },
     {
       "id": "ap9-21-14",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "de",
@@ -352,13 +354,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «οὔτε ἐκ τῆς», ἐκ tem a função de introduz afastamento; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz afastamento",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -377,13 +379,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: a. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τῆς πορνείας», τῆς tem a função de determina πορνείας; a acepção contextual é «a».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina πορνείας",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -402,13 +404,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "imoralidade sexual",
-      "explanation": "Glosa contextual: imoralidade sexual. ",
+      "meanings": "Imoralidade sexual; em outros contextos pode ser metafórica.",
+      "explanation": "Na expressão «τῆς πορνείας αὐτῶν», πορνείας tem a função de complemento de ἐκ; a acepção contextual é «imoralidade sexual».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de ἐκ",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -419,21 +421,21 @@ export const apocalipse9v21 = {
       "id": "ap9-21-17",
       "shortMorph": "RP GPM",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «πορνείας αὐτῶν οὔτε», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -442,7 +444,7 @@ export const apocalipse9v21 = {
     },
     {
       "id": "ap9-21-18",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "οὔτε",
       "transliteration": "oute",
       "gloss": "nem",
@@ -453,12 +455,12 @@ export const apocalipse9v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "nem",
-      "explanation": "Glosa contextual: nem. ",
+      "explanation": "Na expressão «αὐτῶν οὔτε ἐκ», οὔτε tem a função de coordena negação; a acepção contextual é «nem».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena negação",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -467,7 +469,7 @@ export const apocalipse9v21 = {
     },
     {
       "id": "ap9-21-19",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
       "gloss": "de",
@@ -477,13 +479,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
-      "explanation": "Glosa contextual: de. ",
+      "meanings": "De, para fora de; pode indicar origem ou causa.",
+      "explanation": "Na expressão «οὔτε ἐκ τῶν», ἐκ tem a função de introduz afastamento; a acepção contextual é «de».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz afastamento",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -502,13 +504,13 @@ export const apocalipse9v21 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐκ τῶν κλεμμάτων», τῶν tem a função de determina κλεμμάτων; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina κλεμμάτων",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -528,12 +530,12 @@ export const apocalipse9v21 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "furto; coisa furtada",
-      "explanation": "Glosa contextual: furtos. ",
+      "explanation": "Na expressão «τῶν κλεμμάτων αὐτῶν», κλεμμάτων tem a função de complemento de ἐκ; a acepção contextual é «furtos».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de ἐκ",
         "clauseId": "AP.9.21",
         "governedBy": null
       },
@@ -544,21 +546,21 @@ export const apocalipse9v21 = {
       "id": "ap9-21-22",
       "shortMorph": "RP GPM",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «κλεμμάτων αὐτῶν», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:21"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.21",
         "governedBy": null
       },

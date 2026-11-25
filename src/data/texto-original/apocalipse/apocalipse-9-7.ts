@@ -1,3 +1,4 @@
+/** Prima Scriptura · Ap 9:7 · Revisão lexical e sintática */
 export const apocalipse9v7 = {
   "reference": "Apocalipse 9:7",
   "book": "Apocalipse",
@@ -6,18 +7,19 @@ export const apocalipse9v7 = {
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT; códigos preservados",
   "translation": "A aparência dos gafanhotos era semelhante à de cavalos preparados para a guerra; sobre suas cabeças havia algo como coroas semelhantes a ouro, e seus rostos eram como rostos humanos.",
-  "translationNote": "Tradução editorial contextual; em revisão.",
-  "textualNotes": "ὅμοιοι χρυσῷ em SBLGNT/WH/Treg/NA28; χρυσοῖ em RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
+  "translationNote": "Tradução editorial contextual do SBLGNT, distinta das glosas palavra por palavra.",
+  "textualNotes": "ὅμοιοι χρυσῷ em SBLGNT/WH/Treg/NA28; χρυσοῖ em RP. Fonte: Faithlife/SBLGNT, data/sblgntapp/text/Rev.txt; WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28. Impacto: A leitura adotada exprime semelhança com ouro; a alternativa qualifica diretamente as coroas como douradas.",
   "syntacticNotes": [
     "ὅμοια rege dativo ἵπποις; ἡτοιμασμένοις é perfeito passivo; as comparações com ὡς não afirmam identidade literal."
   ],
   "exegeticalNotes": [
-    "A repetição de comparações caracteriza uma visão simbólica; compare Jl 2:4–5."
+    "A repetição de comparações caracteriza uma visão simbólica; compare Jl 2:4–5.",
+    "As expressões ὡς e ὅμοιος assinalam analogias. As coroas, os cavalos e as faces humanas combinam elementos de autoridade, combate e inteligência na imagem."
   ],
   "words": [
     {
       "id": "ap9-7-1",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "Καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -27,13 +29,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «Καὶ τὰ», Καὶ tem a função de introduz descrição; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz descrição",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -52,13 +54,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido · nominativo · plural · neutro (MorphGNT: RA ----NPN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: as. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «Καὶ τὰ ὁμοιώματα», τὰ tem a função de determina ὁμοιώματα; a acepção contextual é «as».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ὁμοιώματα",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -78,12 +80,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo · nominativo · plural · neutro (MorphGNT: N- ----NPN-)",
       "meanings": "semelhança; aparência",
-      "explanation": "Glosa contextual: aparências. ",
+      "explanation": "Na expressão «τὰ ὁμοιώματα τῶν», ὁμοιώματα tem a função de sujeito de predicação nominal; a acepção contextual é «aparências».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de predicação nominal",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -102,13 +104,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido · genitivo · plural · feminino (MorphGNT: RA ----GPF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: dos. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ὁμοιώματα τῶν ἀκρίδων», τῶν tem a função de determina ἀκρίδων; a acepção contextual é «dos».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina ἀκρίδων",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -128,12 +130,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo · genitivo · plural · feminino (MorphGNT: N- ----GPF-)",
       "meanings": "gafanhoto",
-      "explanation": "Glosa contextual: gafanhotos. ",
+      "explanation": "Na expressão «τῶν ἀκρίδων ὅμοια», ἀκρίδων tem a função de genitivo especificador de ὁμοιώματα; a acepção contextual é «gafanhotos».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de ὁμοιώματα",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -152,13 +154,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo / numeral · nominativo · plural · neutro (MorphGNT: A- ----NPN-)",
-      "meanings": "semelhante",
-      "explanation": "Glosa contextual: semelhantes. ",
+      "meanings": "Semelhante, parecido; frequentemente com dativo de comparação.",
+      "explanation": "Na expressão «ἀκρίδων ὅμοια ἵπποις», ὅμοια tem a função de predicativo de ὁμοιώματα; a acepção contextual é «semelhantes».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "predicativo de ὁμοιώματα",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -178,12 +180,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "----DPM-",
       "morphology": "Substantivo · dativo · plural · masculino (MorphGNT: N- ----DPM-)",
       "meanings": "cavalo",
-      "explanation": "Glosa contextual: a cavalos. ",
+      "explanation": "Na expressão «ὅμοια ἵπποις ἡτοιμασμένοις», ἵπποις tem a função de dativo exigido por ὅμοια; a acepção contextual é «a cavalos».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "dativo exigido por ὅμοια",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -202,13 +204,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPDPM-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · dativo · plural · masculino (MorphGNT: V- -XPPDPM-)",
-      "meanings": "preparar",
-      "explanation": "Glosa contextual: preparados. ",
+      "meanings": "Preparar, tornar pronto.",
+      "explanation": "Na expressão «ἵπποις ἡτοιμασμένοις εἰς», ἡτοιμασμένοις tem a função de particípio atributivo de ἵπποις; a acepção contextual é «preparados».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Forma verbal; consultar análise da oração",
+        "role": "particípio atributivo de ἵπποις",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -217,7 +219,7 @@ export const apocalipse9v7 = {
     },
     {
       "id": "ap9-7-9",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "εἰς",
       "transliteration": "eis",
       "gloss": "para",
@@ -227,13 +229,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "para",
-      "explanation": "Glosa contextual: para. ",
+      "meanings": "Para, em direção a; pode indicar finalidade ou referência.",
+      "explanation": "Na expressão «ἡτοιμασμένοις εἰς πόλεμον», εἰς tem a função de introduz finalidade; a acepção contextual é «para».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz finalidade",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -253,12 +255,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "guerra; combate",
-      "explanation": "Glosa contextual: guerra. ",
+      "explanation": "Na expressão «εἰς πόλεμον καὶ», πόλεμον tem a função de complemento de εἰς; a acepção contextual é «guerra».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de εἰς",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -267,7 +269,7 @@ export const apocalipse9v7 = {
     },
     {
       "id": "ap9-7-11",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -277,13 +279,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «πόλεμον καὶ ἐπὶ», καὶ tem a função de coordena descrição seguinte; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena descrição seguinte",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -292,7 +294,7 @@ export const apocalipse9v7 = {
     },
     {
       "id": "ap9-7-12",
-      "shortMorph": "P- ",
+      "shortMorph": "P-",
       "greek": "ἐπὶ",
       "transliteration": "epi",
       "gloss": "sobre",
@@ -302,13 +304,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre",
-      "explanation": "Glosa contextual: sobre. ",
+      "meanings": "Sobre, junto a, em; sentido depende do caso e da construção.",
+      "explanation": "Na expressão «καὶ ἐπὶ τὰς», ἐπὶ tem a função de introduz localização; a acepção contextual é «sobre».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Preposição",
+        "role": "introduz localização",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -327,13 +329,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: as. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «ἐπὶ τὰς κεφαλὰς», τὰς tem a função de determina κεφαλάς; a acepção contextual é «as».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina κεφαλάς",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -353,12 +355,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "cabeça",
-      "explanation": "Glosa contextual: cabeças. ",
+      "explanation": "Na expressão «τὰς κεφαλὰς αὐτῶν», κεφαλὰς tem a função de complemento de ἐπί; a acepção contextual é «cabeças».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "complemento de ἐπί",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -369,21 +371,21 @@ export const apocalipse9v7 = {
       "id": "ap9-7-15",
       "shortMorph": "RP GPF",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPF-",
       "morphology": "Pronome pessoal · genitivo · plural · feminino (MorphGNT: RP ----GPF-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «κεφαλὰς αὐτῶν ὡς», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -392,7 +394,7 @@ export const apocalipse9v7 = {
     },
     {
       "id": "ap9-7-16",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ὡς",
       "transliteration": "hōs",
       "gloss": "como",
@@ -403,12 +405,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa contextual: como. ",
+      "explanation": "Na expressão «αὐτῶν ὡς στέφανοι», ὡς tem a função de introduz comparação; a acepção contextual é «como».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz comparação",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -428,12 +430,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo · nominativo · plural · masculino (MorphGNT: N- ----NPM-)",
       "meanings": "coroa, grinalda de honra",
-      "explanation": "Glosa contextual: coroas. ",
+      "explanation": "Na expressão «ὡς στέφανοι ὅμοιοι», στέφανοι tem a função de núcleo nominal da comparação; a acepção contextual é «coroas».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "núcleo nominal da comparação",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -452,13 +454,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
-      "meanings": "semelhante",
-      "explanation": "Glosa contextual: semelhantes. ",
+      "meanings": "Semelhante, parecido; frequentemente com dativo de comparação.",
+      "explanation": "Na expressão «στέφανοι ὅμοιοι χρυσῷ», ὅμοιοι tem a função de modifica στέφανοι; a acepção contextual é «semelhantes».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "modifica στέφανοι",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -477,13 +479,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo · dativo · singular · masculino (MorphGNT: N- ----DSM-)",
-      "meanings": "ouro",
-      "explanation": "Glosa contextual: a ouro. ",
+      "meanings": "Ouro, metal precioso.",
+      "explanation": "Na expressão «ὅμοιοι χρυσῷ καὶ», χρυσῷ tem a função de dativo de comparação de ὅμοιοι; a acepção contextual é «a ouro».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "dativo de comparação de ὅμοιοι",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -492,7 +494,7 @@ export const apocalipse9v7 = {
     },
     {
       "id": "ap9-7-20",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "καὶ",
       "transliteration": "kai",
       "gloss": "e",
@@ -502,13 +504,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa contextual: e. ",
+      "meanings": "Conjunção coordenativa; pode ligar termos, orações ou etapas da narrativa.",
+      "explanation": "Na expressão «χρυσῷ καὶ τὰ», καὶ tem a função de coordena terceira descrição; a acepção contextual é «e».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "coordena terceira descrição",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -527,13 +529,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido · nominativo · plural · neutro (MorphGNT: RA ----NPN-)",
-      "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa contextual: os. ",
+      "meanings": "Artigo definido; determina, identifica ou substantiva uma expressão.",
+      "explanation": "Na expressão «καὶ τὰ πρόσωπα», τὰ tem a função de determina πρόσωπα; a acepção contextual é «os».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "determina πρόσωπα",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -553,12 +555,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo · nominativo · plural · neutro (MorphGNT: N- ----NPN-)",
       "meanings": "rosto",
-      "explanation": "Glosa contextual: rostos. ",
+      "explanation": "Na expressão «τὰ πρόσωπα αὐτῶν», πρόσωπα tem a função de sujeito de predicação nominal; a acepção contextual é «rostos».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "sujeito de predicação nominal",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -569,21 +571,21 @@ export const apocalipse9v7 = {
       "id": "ap9-7-23",
       "shortMorph": "RP GPF",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",
-      "lemmaTransliteration": "aytos",
+      "lemmaTransliteration": "autos",
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GPF-",
       "morphology": "Pronome pessoal · genitivo · plural · feminino (MorphGNT: RP ----GPF-)",
-      "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa contextual: deles. ",
+      "meanings": "Pronome pessoal, intensivo ou identificador; pode indicar posse em genitivo.",
+      "explanation": "Na expressão «πρόσωπα αὐτῶν ὡς», αὐτῶν tem a função de genitivo possessivo; a acepção contextual é «deles».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo possessivo",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -592,7 +594,7 @@ export const apocalipse9v7 = {
     },
     {
       "id": "ap9-7-24",
-      "shortMorph": "C- ",
+      "shortMorph": "C-",
       "greek": "ὡς",
       "transliteration": "hōs",
       "gloss": "como",
@@ -603,12 +605,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa contextual: como. ",
+      "explanation": "Na expressão «αὐτῶν ὡς πρόσωπα», ὡς tem a função de introduz comparação; a acepção contextual é «como».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "introduz comparação",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -628,12 +630,12 @@ export const apocalipse9v7 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo · nominativo · plural · neutro (MorphGNT: N- ----NPN-)",
       "meanings": "rosto",
-      "explanation": "Glosa contextual: rostos. ",
+      "explanation": "Na expressão «ὡς πρόσωπα ἀνθρώπων», πρόσωπα tem a função de predicativo comparativo; a acepção contextual é «rostos».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "predicativo comparativo",
         "clauseId": "AP.9.7",
         "governedBy": null
       },
@@ -652,13 +654,13 @@ export const apocalipse9v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
-      "meanings": "homem",
-      "explanation": "Glosa contextual: de pessoas. ",
+      "meanings": "Ser humano, pessoa; conforme o contexto, homem.",
+      "explanation": "Na expressão «πρόσωπα ἀνθρώπων», ἀνθρώπων tem a função de genitivo especificador de πρόσωπα; a acepção contextual é «de pessoas».",
       "occurrencesExamples": [
         "Ap 9:7"
       ],
       "syntax": {
-        "role": "Função individual em revisão",
+        "role": "genitivo especificador de πρόσωπα",
         "clauseId": "AP.9.7",
         "governedBy": null
       },

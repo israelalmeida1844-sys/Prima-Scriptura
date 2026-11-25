@@ -1,0 +1,94 @@
+{
+  "strong": "G5408",
+  "lemma": "φόνος",
+  "lemmaTranslit": "phonos",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mateus": 1,
+    "Marcos": 2,
+    "Lucas": 2,
+    "Atos": 1,
+    "Romanos": 1,
+    "Hebreus": 1,
+    "Apocalipse": 1
+  },
+  "references": [
+    {
+      "book": "Mateus",
+      "chapter": 15,
+      "verse": 19,
+      "reference": "Mt 15:19",
+      "text": "πονηροί, φόνοι, μοιχεῖαι,",
+      "highlightedWord": "φόνοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 7,
+      "verse": 21,
+      "reference": "Mk 7:21",
+      "text": "κλοπαί, φόνοι,",
+      "highlightedWord": "φόνοι"
+    },
+    {
+      "book": "Marcos",
+      "chapter": 15,
+      "verse": 7,
+      "reference": "Mk 15:7",
+      "text": "στάσει φόνον πεποιήκεισαν.",
+      "highlightedWord": "φόνον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 19,
+      "reference": "Lk 23:19",
+      "text": "καὶ φόνον ⸂βληθεὶς",
+      "highlightedWord": "φόνον"
+    },
+    {
+      "book": "Lucas",
+      "chapter": 23,
+      "verse": 25,
+      "reference": "Lk 23:25",
+      "text": "καὶ φόνον βεβλημένον",
+      "highlightedWord": "φόνον"
+    },
+    {
+      "book": "Atos",
+      "chapter": 9,
+      "verse": 1,
+      "reference": "Ac 9:1",
+      "text": "καὶ φόνου εἰς",
+      "highlightedWord": "φόνου"
+    },
+    {
+      "book": "Romanos",
+      "chapter": 1,
+      "verse": 29,
+      "reference": "Ro 1:29",
+      "text": "φθόνου φόνου ἔριδος",
+      "highlightedWord": "φόνου"
+    },
+    {
+      "book": "Hebreus",
+      "chapter": 11,
+      "verse": 37,
+      "reference": "Heb 11:37",
+      "text": "ἐν φόνῳ ⸀μαχαίρης",
+      "highlightedWord": "φόνῳ"
+    },
+    {
+      "book": "Apocalipse",
+      "chapter": 9,
+      "verse": 21,
+      "reference": "Re 9:21",
+      "text": "τῶν φόνων αὐτῶν",
+      "highlightedWord": "φόνων"
+    }
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBLGNT / MorphGNT 6.12 (aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d)",
+  "note": "Concordância por lema MorphGNT; referências seguem a versificação grega. Textos gregos são excertos contextuais."
+}
