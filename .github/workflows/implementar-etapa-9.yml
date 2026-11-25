@@ -29,6 +29,7 @@ jobs:
           g++ -std=c++17 -O2 scripts/commentaries/export_sword.cpp -o /tmp/export-sword $(pkg-config --cflags --libs sword)
           python3 scripts/commentaries/import_stage9.py
           python3 scripts/commentaries/import_poole.py
+          python3 scripts/commentaries/refine_poole.py
       - name: Importar aparato oficial e notas massoreticas
         run: |
           git init /tmp/sblgnt
@@ -71,6 +72,6 @@ jobs:
           git diff --exit-code -- public/interlinear-corpus public/interlinear-source-structure public/interlinear-syntax public/interlinear-syntax-alternates public/interlinear-gloss-review public/interlinear-strong-review public/interlinear-transliteration public/interlinear-morphology public/interlinear-lexicon public/interlinear-search
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add public/commentaries public/textual-criticism docs/auditoria-comentarios-9.json docs/auditoria-critica-textual-9.json docs/auditoria-poole-9.json docs/testes-etapa-9.json
+          git add public/commentaries public/textual-criticism docs/auditoria-comentarios-9.json docs/auditoria-critica-textual-9.json docs/auditoria-poole-9.json docs/auditoria-poole-refinamento-9.json docs/testes-etapa-9.json
           git diff --cached --quiet || git commit -m 'Record verified classical commentary and textual apparatus data [skip ci] [CF-Pages-Skip]'
           git push origin HEAD:rascunho/interlinear-completo
