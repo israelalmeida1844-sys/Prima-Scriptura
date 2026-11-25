@@ -1,0 +1,42 @@
+name: Normalizar transliteração Apocalipse 1–8 (rascunho)
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths:
+      - '.github/workflows/normalizar-apocalipse-1-8.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: normalizar-apocalipse-1-8
+  cancel-in-progress: false
+jobs:
+  validar:
+    if: github.ref == 'refs/heads/rascunho/apocalipse'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Testes unitários
+        run: node scripts/testar-transliteracao-apocalipse.mjs
+      - name: Normalizar os 143 versículos e léxicos
+        run: |
+          node scripts/normalizar-transliteracao-apocalipse.mjs
+          node scripts/normalizar-transliteracao-apocalipse.mjs --check
+      - name: Compilar sem publicar
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Registrar correções no rascunho
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/texto-original/apocalipse/apocalipse-[1-8]-*.ts src/data/lexico-grego/apocalipse-*.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'fix(apocalipse): normalizar transliteração dos capítulos 1–8'
+            git push origin HEAD:rascunho/apocalipse
+          fi

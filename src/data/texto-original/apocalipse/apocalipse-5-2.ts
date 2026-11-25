@@ -10,11 +10,14 @@ export const apocalipse5v2 = {
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
   "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
   "syntacticNotes": [
-    "κηρύσσοντα é particípio presente ativo no acusativo singular masculino e modifica ἄγγελον.",
-    "Τίς ἄξιος apresenta pergunta nominal sobre a dignidade; os infinitivos ἀνοῖξαι e λῦσαι explicitam as ações."
+    "εἶδον é o verbo principal, com sujeito de primeira pessoa singular subentendido; ἄγγελον é o objeto direto, modificado por ἰσχυρόν e pelo particípio predicativo κηρύσσοντα.",
+    "ἐν φωνῇ μεγάλῃ expressa o modo da proclamação. O adjetivo μεγάλῃ concorda com φωνῇ no dativo singular feminino.",
+    "Τίς ἄξιος constitui pergunta nominal direta, com cópula subentendida. Os infinitivos aoristos ativos ἀνοῖξαι e λῦσαι são coordenados por καί e especificam a ação para a qual se exige dignidade.",
+    "τὸ βιβλίον e τὰς σφραγῖδας são os objetos diretos dos respectivos infinitivos. O genitivo αὐτοῦ indica que os selos pertencem ao rolo."
   ],
   "exegeticalNotes": [
-    "O adjetivo ἄξιος expressa dignidade para a ação de abrir os selos; o texto ressalta que essa dignidade não se encontra em qualquer ser criado."
+    "A pergunta do anjo introduz o problema narrativo da dignidade necessária para abrir o rolo de 5:1. O poder vocal do mensageiro não equivale à autoridade para abrir o rolo.",
+    "A resposta desenvolve-se em 5:3–5 e culmina na apresentação do Cordeiro em 5:6–10. A identidade daquele que pode abrir os selos deve ser estabelecida por esse desenvolvimento narrativo, não apenas pelo significado lexical de ἄξιος."
   ],
   "words": [
     {
@@ -30,12 +33,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conecta a visão de 5:2 à descrição do rolo em 5:1.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conector narrativo",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -54,12 +57,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
       "meanings": "Experimentar percepção visual, observar algo ou reconhecer por meio da visão, em contextos comuns ou narrativos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Aoristo indicativo ativo, primeira pessoa singular; João é o sujeito implícito e ἄγγελον é o objeto direto.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal principal",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -69,7 +72,7 @@ export const apocalipse5v2 = {
       "id": "ap5-2-3",
       "shortMorph": "N-ASM",
       "greek": "ἄγγελον",
-      "transliteration": "aggelon",
+      "transliteration": "angelon",
       "gloss": "anjo",
       "strong": "G32",
       "lemma": "ἄγγελος",
@@ -77,13 +80,13 @@ export const apocalipse5v2 = {
       "partOfSpeech": "Substantivo masculino da 2ª declinação",
       "morphologyCode": "----ASM-",
       "morphology": "MorphGNT 6.12: N- ----ASM-",
-      "meanings": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "meanings": "Mensageiro; neste contexto, mensageiro celestial.",
+      "explanation": "Acusativo singular masculino; recebe a qualificação ἰσχυρόν e o particípio κηρύσσοντα.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Objeto direto de εἶδον",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -98,16 +101,16 @@ export const apocalipse5v2 = {
       "strong": "G2478",
       "lemma": "ἰσχυρός",
       "lemmaTransliteration": "ischyros",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASM-",
       "morphology": "MorphGNT 6.12: A- ----ASM-",
       "meanings": "Que possui força ou capacidade expressiva, física ou figurada.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo acusativo singular masculino, concordando com ἄγγελον; descreve a força do mensageiro.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjunto adnominal de ἄγγελον",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -122,16 +125,16 @@ export const apocalipse5v2 = {
       "strong": "G2784",
       "lemma": "κηρύσσω",
       "lemmaTransliteration": "kēryssō",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPASM-",
       "morphology": "MorphGNT 6.12: V- -PAPASM-",
       "meanings": "Anunciar uma mensagem em voz pública, com caráter de proclamação.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Particípio presente ativo, acusativo singular masculino; apresenta o anjo no ato de proclamar.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Particípio predicativo de ἄγγελον",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -150,12 +153,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Rege o dativo φωνῇ μεγάλῃ, indicando o modo da proclamação.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição introdutória de expressão de modo",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -174,12 +177,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: N- ----DSF-",
       "meanings": "voz; som",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Dativo singular feminino; indica a voz com que o anjo proclama.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Núcleo do complemento de ἐν",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -197,13 +200,13 @@ export const apocalipse5v2 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: A- ----DSF-",
-      "meanings": "grande",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "meanings": "Grande; em referência à voz, alta ou forte.",
+      "explanation": "Dativo singular feminino, concordando com φωνῇ; indica intensidade sonora: alta voz.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjunto adnominal de φωνῇ",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -215,20 +218,20 @@ export const apocalipse5v2 = {
       "shortMorph": "INT-NSM",
       "greek": "Τίς",
       "transliteration": "Tis",
-      "gloss": "Quem?",
+      "gloss": "Quem",
       "strong": "G5101",
       "lemma": "τίς",
       "lemmaTransliteration": "tis",
       "partOfSpeech": "Pronome interrogativo/indefinido",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: RI ----NSM-",
-      "meanings": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "meanings": "Pronome interrogativo usado para perguntar pela identidade de uma pessoa ou coisa; aqui, quem possui a dignidade exigida.",
+      "explanation": "Pronome interrogativo nominativo singular masculino; inicia pergunta direta, com cópula subentendida.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Elemento de ligação ou estruturação",
+        "role": "Sujeito interrogativo da oração nominal",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -246,13 +249,13 @@ export const apocalipse5v2 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "Digno, adequado ou merecedor; em 3:4 funciona como predicativo da promessa de andar com Cristo.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "meanings": "Digno, adequado ou merecedor; aqui, qualifica a pessoa apta a abrir o rolo e romper os selos.",
+      "explanation": "Adjetivo nominativo singular masculino; os infinitivos seguintes especificam as ações para as quais se exige dignidade.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Predicativo do sujeito Τίς",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -270,13 +273,13 @@ export const apocalipse5v2 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-AAN----",
       "morphology": "MorphGNT 6.12: V- -AAN----",
-      "meanings": "Abrir; em 3:7–8, a ação descreve autoridade para abrir o que ninguém fecha.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "meanings": "Abrir algo que está fechado; aqui, o rolo selado.",
+      "explanation": "Aoristo ativo; τὸ βιβλίον é seu objeto direto.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Infinitivo complementar de ἄξιος",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -295,12 +298,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: RA ----ASN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Artigo acusativo singular neutro, concordando com βιβλίον.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante de βιβλίον",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -319,12 +322,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
       "meanings": "livro; rolo",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Acusativo singular neutro; remete ao rolo descrito no versículo anterior.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Objeto direto de ἀνοῖξαι",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -343,12 +346,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Coordena ἀνοῖξαι e λῦσαι, ambos dependentes da noção de dignidade.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conector dos infinitivos coordenados",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -367,12 +370,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "-AAN----",
       "morphology": "MorphGNT 6.12: V- -AAN----",
       "meanings": "soltar; libertar; desatar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Aoristo ativo; τὰς σφραγῖδας é seu objeto direto.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Infinitivo coordenado com ἀνοῖξαι",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -391,12 +394,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: RA ----APF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Artigo acusativo plural feminino; em português, o artigo de selos é masculino.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante de σφραγῖδας",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -411,16 +414,16 @@ export const apocalipse5v2 = {
       "strong": "G4973",
       "lemma": "σφραγίς",
       "lemmaTransliteration": "sphragis",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: N- ----APF-",
       "meanings": "Objeto ou marca com função de autenticar, fechar ou assegurar; o contexto decide a nuance.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Acusativo plural feminino; designa os selos que fecham o rolo.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Objeto direto de λῦσαι",
         "clauseId": "AP.5.2",
         "governedBy": null
       },
@@ -430,7 +433,7 @@ export const apocalipse5v2 = {
       "id": "ap5-2-18",
       "shortMorph": "PRO-GSN",
       "greek": "αὐτοῦ",
-      "transliteration": "aytoy",
+      "transliteration": "autou",
       "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
@@ -439,12 +442,12 @@ export const apocalipse5v2 = {
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: RP ----GSN-",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Pronome genitivo singular neutro; o antecedente é βιβλίον, isto é, os selos do rolo.",
       "occurrencesExamples": [
         "Ap 5:2"
       ],
       "syntax": {
-        "role": "Elemento pronominal, função segundo o caso",
+        "role": "Genitivo possessivo de σφραγῖδας",
         "clauseId": "AP.5.2",
         "governedBy": null
       },

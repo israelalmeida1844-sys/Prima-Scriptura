@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
+import {transliterateGreek} from '../src/scripts/transliteracao-grega.mjs';
 import path from 'node:path';
 const commit='aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d';
 const source=path.join(process.env.MORPHGNT_DIR||'/tmp/prima-morphgnt','87-Re-morphgnt.txt');
@@ -86,7 +87,7 @@ textual[3]='Em ἵνα ἀλλήλους σφάξουσιν a edição-base apre
 textual[10]='ἵνα ἀναπαύσονται na edição-base apresenta futuro indicativo após ἵνα; evitar emendas silenciosas para subjuntivo.';
 textual[16]='Em 6:17 a edição-base lê αὐτῶν («deles»); variantes e traduções podem registrar forma singular. O aparato completo precisa ser conferido antes da homologação.';
 const latin={'α':'a','β':'b','γ':'g','δ':'d','ε':'e','ζ':'z','η':'ē','θ':'th','ι':'i','κ':'k','λ':'l','μ':'m','ν':'n','ξ':'x','ο':'o','π':'p','ρ':'r','σ':'s','ς':'s','τ':'t','υ':'y','φ':'ph','χ':'ch','ψ':'ps','ω':'ō'};
-function translit(s){return [...s.normalize('NFD')].filter(c=>!/\p{M}/u.test(c)).map(c=>latin[c.toLowerCase()]||c).join('').replace(/[.,;··:⸀⸂⸃⸁]/gu,'')}
+function translit(s){return transliterateGreek(s);}
 function short(p,c){if(p==='RA')return 'ART-'+c.slice(4,7).replaceAll('-','');if(p==='V-')return 'V-'+c.slice(1,4).replaceAll('-','')+(c[0]!=='-'?'-'+c[0]:'')+(c.slice(4,7).replaceAll('-','')?'-'+c.slice(4,7).replaceAll('-',''):'');return ({'N-':'N','A-':'ADJ','RP':'PRO','RR':'REL','C-':'CONJ','P-':'PREP','D-':'ADV'}[p]||p)+(c.slice(4,7).replaceAll('-','')?'-'+c.slice(4,7).replaceAll('-',''):'')}
 const sourceLemmas=[...new Set(rows.map(x=>x[6]))];const newStrong=[];
 for(const word of sourceLemmas){

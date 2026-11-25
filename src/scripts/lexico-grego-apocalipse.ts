@@ -11,18 +11,8 @@ const entries=lexicon.entries as Record<string,Entry>;
 export const lemmaForStrong=(strong:string):Entry|undefined=>entries[strong];
 
 /** Transliteração auxiliar dos exemplos; sem marcação dos acentos, não substitui glosa. */
-export function transliterateGreekSnippet(greek:string):string{
- const m:Record<string,string>={
- 'α':'a','β':'b','γ':'g','δ':'d','ε':'e','ζ':'z','η':'ē','θ':'th','ι':'i','κ':'k','λ':'l','μ':'m','ν':'n','ξ':'x','ο':'o','π':'p','ρ':'r','σ':'s','ς':'s','τ':'t','υ':'y','φ':'ph','χ':'ch','ψ':'ps','ω':'ō'
- };
- return (greek.normalize('NFD').match(/\P{M}\p{M}*/gu)||[]).map(chunk=>{
-   const first=chunk[0],base=first.toLowerCase(),roman=m[base];
-   if(!roman)return first==='᾽'||first==='’'?"'":first;
-   const rough=chunk.includes('\u0314');
-   const result=rough&&base==='ρ'?'rh':(rough?'h':'')+roman;
-   return first===first.toUpperCase()?result[0].toUpperCase()+result.slice(1):result;
- }).join('').replace(/[᾽’ʼ]/gu,"'");
-}
+export {transliterateGreek as transliterateGreekSnippet} from './transliteracao-grega.mjs';
+import {transliterateGreek as transliterateGreekSnippet} from './transliteracao-grega.mjs';
 function el<K extends keyof HTMLElementTagNameMap>(tag:K,className:string,value?:string):HTMLElementTagNameMap[K]{
  const n=document.createElement(tag);n.className=className;if(value!==undefined)n.textContent=value;return n;
 }
@@ -33,7 +23,7 @@ export function updateLexiconLemmaAndSenses(root:HTMLElement,strong:string){
  const senses=root.querySelector<HTMLElement>('[data-lexicon-meanings]');
  if(!tr||!senses)return;
  if(!entry){tr.textContent='Lema em revisão';senses.textContent='Verbete lexical não disponível nesta edição.';return;}
- tr.textContent=entry.lemmaTransliteration;
+ tr.textContent=transliterateGreekSnippet(entry.lemma);
  const fragment=document.createDocumentFragment();
  for(const sense of entry.senses||[]){
    if(!useful(sense.label)&&!useful(sense.definition))continue;
@@ -49,7 +39,7 @@ export function updateLexiconLemmaAndSenses(root:HTMLElement,strong:string){
      block.appendChild(el('span','example-field-label','Grego'));
      const g=el('p','lexical-example-greek',sample.greek.trim());g.lang='grc';block.appendChild(g);
      block.appendChild(el('span','example-field-label','Transliteração auxiliar'));
-     block.appendChild(el('p','lexical-example-transliteration',sample.transliteration?.trim()||transliterateGreekSnippet(sample.greek)));
+     block.appendChild(el('p','lexical-example-transliteration',transliterateGreekSnippet(sample.greek)));
      block.appendChild(el('span','example-field-label','Tradução'));
      block.appendChild(el('p','lexical-example-translation',sample.translation.trim()));
      if(useful(sample.explanation))block.appendChild(el('p','lexical-example-note',sample.explanation!.trim()));

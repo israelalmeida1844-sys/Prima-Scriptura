@@ -16,7 +16,7 @@ const valid=(s?:string)=>Boolean(s&&s.trim()&&!['-','—','•'].includes(s.trim
      <span class="example-field-label">Grego</span>
      <p class="lexical-example-greek" lang="grc">{example.greek}</p>
      <span class="example-field-label">Transliteração auxiliar</span>
-     <p class="lexical-example-transliteration">{example.transliteration || transliterateGreekSnippet(example.greek)}</p>
+     <p class="lexical-example-transliteration">{transliterateGreekSnippet(example.greek)}</p>
      <span class="example-field-label">Tradução</span>
      <p class="lexical-example-translation">{example.translation}</p>
      {valid(example.explanation)&&<p class="lexical-example-note">{example.explanation}</p>}

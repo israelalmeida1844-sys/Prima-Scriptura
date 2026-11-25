@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {transliterateGreek} from '../src/scripts/transliteracao-grega.mjs';
 import path from 'node:path';
 const root=process.env.MORPHGNT_DIR??'/tmp/prima-morphgnt', lemmaRoot=process.env.LEMMAS_DIR??'/tmp/prima-lemma-mappings';
 const rows=fs.readFileSync(path.join(root,'87-Re-morphgnt.txt'),'utf8').split(/\r?\n/).filter(s=>/^2702(?:0[1-9]|1[0-2])\s/.test(s)).map(s=>s.trim().split(/\s+/));
@@ -55,7 +56,7 @@ const pos={'N-':'Substantivo','A-':'Adjetivo','V-':'Verbo','RA':'Artigo definido
 const cas={N:'nominativo',G:'genitivo',D:'dativo',A:'acusativo',V:'vocativo'},num={S:'singular',P:'plural'},gen={M:'masculino',F:'feminino',N:'neutro'};
 const ten={P:'presente',I:'imperfeito',F:'futuro',A:'aoristo',X:'perfeito',Y:'mais-que-perfeito'},voi={A:'ativa',M:'média',P:'passiva'},mod={I:'indicativo',D:'imperativo',S:'subjuntivo',O:'optativo',N:'infinitivo',P:'particípio'};
 const map={α:'a',β:'b',γ:'g',δ:'d',ε:'e',ζ:'z',η:'ē',θ:'th',ι:'i',κ:'k',λ:'l',μ:'m',ν:'n',ξ:'x',ο:'o',π:'p',ρ:'r',σ:'s',ς:'s',τ:'t',υ:'y',φ:'ph',χ:'ch',ψ:'ps',ω:'ō'};
-function translit(s){const c=[...s.normalize('NFD').matchAll(/([Α-Ωα-ω])([\u0300-\u036f]*)/g)].map(a=>({v:a[1].toLowerCase(),capital:a[1]!==a[1].toLowerCase(),marks:a[2]}));let out='';for(let i=0;i<c.length;i++){const x=c[i],pr=c[i-1],nx=c[i+1];let z=map[x.v]??'';if(x.v==='γ'&&nx&&'γκχξ'.includes(nx.v))z='n';if(x.v==='υ'&&pr&&'αεηο'.includes(pr.v)&&!x.marks.includes('\u0308'))z='u';if(x.marks.includes('\u0314')){if(i===1&&pr&&'αεηοωυ'.includes(pr.v))out='h'+out;else z='h'+z;}if(x.capital)z=z[0].toUpperCase()+z.slice(1);out+=z;}return out;}
+function translit(s){return transliterateGreek(s);}
 function desc(p,c){if(p==='V-'){const base='Verbo no '+(ten[c[1]]??'tempo não especificado')+', voz '+(voi[c[2]]??'não especificada')+', '+(mod[c[3]]??'modo não especificado');return base+(c[3]==='P'?' '+[cas[c[4]],num[c[5]],gen[c[6]]].filter(Boolean).join(' '):c[3]==='N'?'':', '+c[0]+'ª pessoa '+(num[c[5]]??''));}return [pos[p]??'Classe não mapeada',cas[c[4]],num[c[5]],gen[c[6]]].filter(Boolean).join(' ');}
 const existing=new Set();for(const file of ['apocalipse-1-1.json','apocalipse-1-2.json','apocalipse-1-3-8.json','apocalipse-1-9-20.json'])for(const id of Object.keys(JSON.parse(fs.readFileSync('src/data/lexico-grego/'+file,'utf8')).entries))existing.add(id);
 const template=fs.readFileSync('src/components/TextoOriginalApocalipse1v20.astro','utf8');

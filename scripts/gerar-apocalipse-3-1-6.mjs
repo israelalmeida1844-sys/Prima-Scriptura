@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {transliterateGreek} from '../src/scripts/transliteracao-grega.mjs';
 import path from 'node:path';
 /* Ap 3:1–6: edição de trabalho SBLGNT/MorphGNT 6.12 */
 const source=process.env.MORPHGNT_DIR||'/tmp/prima-morphgnt', mappings=process.env.LEMMAS_DIR||'/tmp/prima-lemma-mappings';
@@ -26,7 +27,7 @@ const notes=[
 'Particípio substantivado e imperativo aoristo, com exortação dirigida a todas as igrejas.'];
 const gloss={ὅδε:'estas coisas',γρηγορέω:'vigia',στηρίζω:'fortalece',ἀποθνῄσκω:'morrer',μνημονεύω:'lembra-te',μολύνω:'contaminar',ἱμάτιον:'vestes',περιβάλλω:'vestir',ἐξαλείφω:'apagar',ὁμολογέω:'confessar',κλέπτης:'ladrão',Σάρδεις:'Sardes',ὄνομα:'nome',ἔργον:'obras',ζάω:'viver',νεκρός:'morto',ἄξιος:'digno',λευκός:'branco',πνεῦμα:'Espírito',ἄγγελος:'anjo',ἐκκλησία:'igreja'};
 const chars={α:'a',β:'b',γ:'g',δ:'d',ε:'e',ζ:'z',η:'ē',θ:'th',ι:'i',κ:'k',λ:'l',μ:'m',ν:'n',ξ:'x',ο:'o',π:'p',ρ:'r',σ:'s',ς:'s',τ:'t',υ:'y',φ:'ph',χ:'ch',ψ:'ps',ω:'ō'};
-function tr(s){return [...s.normalize('NFD')].filter(c=>!/[̀-ͯ]/.test(c)).map(c=>{let x=chars[c.toLowerCase()]||'';return c!==c.toLowerCase()?x.charAt(0).toUpperCase()+x.slice(1):x}).join('');}
+function tr(s){return transliterateGreek(s);}
 const pos={'N-':'Substantivo','A-':'Adjetivo','V-':'Verbo',RA:'Artigo definido',RP:'Pronome',RR:'Pronome relativo',RD:'Demonstrativo',RI:'Pronome', 'P-':'Preposição','C-':'Conjunção','D-':'Advérbio','X-':'Partícula'};
 const ca={N:'nominativo',G:'genitivo',D:'dativo',A:'acusativo'},nu={S:'singular',P:'plural'},ge={M:'masculino',F:'feminino',N:'neutro'},te={P:'presente',I:'imperfeito',F:'futuro',A:'aoristo',X:'perfeito'},vo={A:'ativa',M:'média',P:'passiva'},mo={I:'indicativo',D:'imperativo',S:'subjuntivo',P:'particípio',N:'infinitivo'};
 function morph(p,c){if(p==='V-')return 'Verbo '+(te[c[1]]||'tempo a revisar')+', voz '+(vo[c[2]]||'a revisar')+', '+(mo[c[3]]||'modo a revisar')+(c[3]==='P'?' '+[ca[c[4]],nu[c[5]],ge[c[6]]].filter(Boolean).join(' '):c[3]==='N'?'':', '+c[0]+'ª pessoa '+(nu[c[5]]||''));return (pos[p]||'classe a revisar')+' '+[ca[c[4]],nu[c[5]],ge[c[6]]].filter(Boolean).join(' ');}
