@@ -1,0 +1,67 @@
+name: Auditoria Apocalipse 1-6
+on:
+  push:
+    branches:
+      - rascunho/apocalipse
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter branch de rascunho
+        uses: actions/checkout@v4
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependencias
+        run: npm install --no-audit --no-fund
+      - name: Auditoria estrutural e editorial
+        id: auditoria
+        continue-on-error: true
+        run: node scripts/auditar-apocalipse.mjs
+      - name: Auditar Apocalipse 5 e concordancias canonicas
+        id: auditoria5
+        continue-on-error: true
+        run: node scripts/auditar-apocalipse5.mjs
+      - name: Auditar Apocalipse 6 e concordancias canônicas
+        id: auditoria6
+        continue-on-error: true
+        run: node scripts/auditar-apocalipse6.mjs
+      - name: Compilar Astro
+        id: build
+        continue-on-error: true
+        run: npm run build
+      - name: Verificar as 15 rotas de Apocalipse 5
+        id: rotas5
+        continue-on-error: true
+        run: |
+          test -s dist/comentarios/apocalipse/capitulo-5/index.html
+          for v in $(seq 1 14); do
+            test -s "dist/comentarios/apocalipse/capitulo-5/versiculo-$v/index.html"
+          done
+      - name: Confirmar 18 rotas de Apocalipse 6 e ao menos 184 páginas
+        id: rotas6
+        continue-on-error: true
+        run: |
+          test -s dist/comentarios/apocalipse/capitulo-6/index.html
+          for v in $(seq 1 17); do
+            test -s "dist/comentarios/apocalipse/capitulo-6/versiculo-$v/index.html"
+          done
+          pages=$(find dist -name index.html -type f | wc -l)
+          echo "Páginas HTML geradas: $pages"
+          test "$pages" -ge 184
+      - name: Anexar relatorio
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio-apocalipse-1-6
+          path: audit-results/apocalipse-1-4.json
+          if-no-files-found: warn
+      - name: Falhar quando auditoria ou build falhar
+        if: steps.auditoria.outcome == 'failure' || steps.auditoria5.outcome == 'failure' || steps.auditoria6.outcome == 'failure' || steps.rotas6.outcome == 'failure' || steps.build.outcome == 'failure' || steps.rotas5.outcome == 'failure'
+        run: exit 1

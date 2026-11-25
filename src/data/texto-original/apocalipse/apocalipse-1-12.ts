@@ -8,7 +8,7 @@ export const apocalipse1v12 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Voltei-me para ver a voz que falava comigo e, ao voltar-me, vi sete candelabros de ouro.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "βλέπειν τὴν φωνήν, literalmente «ver a voz», é expressão sensorial marcante; o infinitivo presente depende de ἐπέστρεψα. O particípio ἐπιστρέψας indica uma ação antecedente à visão expressa por εἶδον.\n\n[Revisão acadêmica complementar] βλέπειν depende de ἐπέστρεψα; a metáfora sensorial de ver uma voz pertence ao texto e não deve ser apagada na análise literal.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A imagem de «ver a voz» orienta o leitor do som ao personagem glorioso.",
     "Os candelabros serão identificados em 1:20 como igrejas."
@@ -186,7 +186,7 @@ export const apocalipse1v12 = {
       "id": "ap1-12-8",
       "shortMorph": "Preposição",
       "greek": "μετ’",
-      "transliteration": "met",
+      "transliteration": "met'",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",
@@ -209,9 +209,9 @@ export const apocalipse1v12 = {
     {
       "id": "ap1-12-9",
       "shortMorph": "PPro-GS-",
-      "greek": "ἐμοῦ·",
+      "greek": "ἐμοῦ",
       "transliteration": "emou",
-      "gloss": "mim",
+      "gloss": "de mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -228,7 +228,8 @@ export const apocalipse1v12 = {
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-12-10",
@@ -353,7 +354,7 @@ export const apocalipse1v12 = {
     {
       "id": "ap1-12-15",
       "shortMorph": "Adj-APF",
-      "greek": "χρυσᾶς,",
+      "greek": "χρυσᾶς",
       "transliteration": "chrysas",
       "gloss": "de ouro",
       "strong": "G5552",
@@ -372,7 +373,12 @@ export const apocalipse1v12 = {
         "clauseId": "AP.1.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     }
+  ],
+  "syntacticNotes": [
+    "βλέπειν τὴν φωνήν, literalmente «ver a voz», é expressão sensorial marcante; o infinitivo presente depende de ἐπέστρεψα. O particípio ἐπιστρέψας indica uma ação antecedente à visão expressa por εἶδον.",
+    "βλέπειν depende de ἐπέστρεψα; a metáfora sensorial de ver uma voz pertence ao texto e não deve ser apagada na análise literal."
   ]
 } as const;

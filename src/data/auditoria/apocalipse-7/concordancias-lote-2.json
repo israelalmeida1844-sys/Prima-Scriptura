@@ -1,0 +1,528 @@
+{
+  "scope": "Lote 2: Atos e 13 cartas paulinas integralmente processados; concordância do NT ainda parcial",
+  "complete": false,
+  "batchComplete": true,
+  "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7",
+  "sources": [
+    {
+      "book": "At",
+      "blob": "3aed8e1a1dd9d77b4c448a0893bd4ddee6eb6842",
+      "rows": 18412,
+      "first": "050101",
+      "last": "052831"
+    },
+    {
+      "book": "Rm",
+      "blob": "874480223c7f71bbc71f18d77ed3a6ad734561e1",
+      "rows": 7055,
+      "first": "060101",
+      "last": "061624"
+    },
+    {
+      "book": "1Co",
+      "blob": "28dec6618da3a378f454b6c72776286855857920",
+      "rows": 6812,
+      "first": "070101",
+      "last": "071624"
+    },
+    {
+      "book": "2Co",
+      "blob": "9beb35c77da5ffbcf56a8d7c0e9d6054452a0b43",
+      "rows": 4473,
+      "first": "080101",
+      "last": "081313"
+    },
+    {
+      "book": "Gl",
+      "blob": "b6ba67c907b35700e32a8fa00c0b30328472a992",
+      "rows": 2226,
+      "first": "090101",
+      "last": "090618"
+    },
+    {
+      "book": "Ef",
+      "blob": "c506f4c4933b0c202f07742ca54aad26ff5495bc",
+      "rows": 2416,
+      "first": "100101",
+      "last": "100624"
+    },
+    {
+      "book": "Fp",
+      "blob": "0dde9e397d8e0c8384eab85ca1f61b38b37a6272",
+      "rows": 1626,
+      "first": "110101",
+      "last": "110423"
+    },
+    {
+      "book": "Cl",
+      "blob": "8cdbc8e44370e7ffa2aa92419e2dd2ccaf40cdd2",
+      "rows": 1580,
+      "first": "120101",
+      "last": "120418"
+    },
+    {
+      "book": "1Ts",
+      "blob": "ced6898c215029bc8460c23d1b1600d3fd6f5243",
+      "rows": 1473,
+      "first": "130101",
+      "last": "130528"
+    },
+    {
+      "book": "2Ts",
+      "blob": "123860bf9b3a59ffe1dd7ae0fdeb7a0eddd5d080",
+      "rows": 820,
+      "first": "140101",
+      "last": "140318"
+    },
+    {
+      "book": "1Tm",
+      "blob": "b3a48cf39e72a1d5ab12e22dbfccf50d5273c450",
+      "rows": 1591,
+      "first": "150101",
+      "last": "150621"
+    },
+    {
+      "book": "2Tm",
+      "blob": "9e8982318844d411c26cb29f88fbe2e44f733f6a",
+      "rows": 1235,
+      "first": "160101",
+      "last": "160422"
+    },
+    {
+      "book": "Tt",
+      "blob": "20181fbb5729cc9fbd200b58241ac5e5612c2ec3",
+      "rows": 659,
+      "first": "170101",
+      "last": "170315"
+    },
+    {
+      "book": "Fm",
+      "blob": "a4a64fb468e0110aec98d94d707af8a5188419fd",
+      "rows": 334,
+      "first": "180101",
+      "last": "180125"
+    }
+  ],
+  "entries": {
+    "γωνία": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "At": 2
+      },
+      "references": [
+        "At 4:11",
+        "At 26:26"
+      ]
+    },
+    "πνέω": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "At": 1
+      },
+      "references": [
+        "At 27:40"
+      ]
+    },
+    "μήτε": {
+      "tokenCount": 13,
+      "verseCount": 6,
+      "bookDistribution": {
+        "At": 8,
+        "2Ts": 3,
+        "1Tm": 2
+      },
+      "references": [
+        "At 23:8",
+        "At 23:12",
+        "At 23:21",
+        "At 27:20",
+        "2Ts 2:2",
+        "1Tm 1:7"
+      ]
+    },
+    "δένδρον": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἀνατολή": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "σφραγίζω": {
+      "tokenCount": 4,
+      "verseCount": 4,
+      "bookDistribution": {
+        "Rm": 1,
+        "2Co": 1,
+        "Ef": 2
+      },
+      "references": [
+        "Rm 15:28",
+        "2Co 1:22",
+        "Ef 1:13",
+        "Ef 4:30"
+      ]
+    },
+    "μέτωπον": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἑκατόν": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "At": 1
+      },
+      "references": [
+        "At 1:15"
+      ]
+    },
+    "τεσσεράκοντα": {
+      "tokenCount": 9,
+      "verseCount": 9,
+      "bookDistribution": {
+        "At": 8,
+        "2Co": 1
+      },
+      "references": [
+        "At 1:3",
+        "At 4:22",
+        "At 7:30",
+        "At 7:36",
+        "At 7:42",
+        "At 13:21",
+        "At 23:13",
+        "At 23:21",
+        "2Co 11:24"
+      ]
+    },
+    "δώδεκα": {
+      "tokenCount": 5,
+      "verseCount": 5,
+      "bookDistribution": {
+        "At": 4,
+        "1Co": 1
+      },
+      "references": [
+        "At 6:2",
+        "At 7:8",
+        "At 19:7",
+        "At 24:11",
+        "1Co 15:5"
+      ]
+    },
+    "Ῥουβήν": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Γάδ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἀσήρ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Νεφθαλίμ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Μανασσῆς": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Συμεών": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "At": 2
+      },
+      "references": [
+        "At 13:1",
+        "At 15:14"
+      ]
+    },
+    "Λευί": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἰσσαχάρ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ζαβουλών": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἰωσήφ": {
+      "tokenCount": 7,
+      "verseCount": 6,
+      "bookDistribution": {
+        "At": 7
+      },
+      "references": [
+        "At 1:23",
+        "At 4:36",
+        "At 7:9",
+        "At 7:13",
+        "At 7:14",
+        "At 7:18"
+      ]
+    },
+    "Βενιαμίν": {
+      "tokenCount": 3,
+      "verseCount": 3,
+      "bookDistribution": {
+        "At": 1,
+        "Rm": 1,
+        "Fp": 1
+      },
+      "references": [
+        "At 13:21",
+        "Rm 11:1",
+        "Fp 3:5"
+      ]
+    },
+    "ὄχλος": {
+      "tokenCount": 22,
+      "verseCount": 22,
+      "bookDistribution": {
+        "At": 22
+      },
+      "references": [
+        "At 1:15",
+        "At 6:7",
+        "At 8:6",
+        "At 11:24",
+        "At 11:26",
+        "At 13:45",
+        "At 14:11",
+        "At 14:13",
+        "At 14:14",
+        "At 14:18",
+        "At 14:19",
+        "At 16:22",
+        "At 17:8",
+        "At 17:13",
+        "At 19:26",
+        "At 19:33",
+        "At 19:35",
+        "At 21:27",
+        "At 21:34",
+        "At 21:35",
+        "At 24:12",
+        "At 24:18"
+      ]
+    },
+    "ἀριθμέω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "φοῖνιξ": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "σωτηρία": {
+      "tokenCount": 24,
+      "verseCount": 23,
+      "bookDistribution": {
+        "At": 6,
+        "Rm": 5,
+        "2Co": 4,
+        "Ef": 1,
+        "Fp": 3,
+        "1Ts": 2,
+        "2Ts": 1,
+        "2Tm": 2
+      },
+      "references": [
+        "At 4:12",
+        "At 7:25",
+        "At 13:26",
+        "At 13:47",
+        "At 16:17",
+        "At 27:34",
+        "Rm 1:16",
+        "Rm 10:1",
+        "Rm 10:10",
+        "Rm 11:11",
+        "Rm 13:11",
+        "2Co 1:6",
+        "2Co 6:2",
+        "2Co 7:10",
+        "Ef 1:13",
+        "Fp 1:19",
+        "Fp 1:28",
+        "Fp 2:12",
+        "1Ts 5:8",
+        "1Ts 5:9",
+        "2Ts 2:13",
+        "2Tm 2:10",
+        "2Tm 3:15"
+      ]
+    },
+    "ἀποκρίνομαι": {
+      "tokenCount": 21,
+      "verseCount": 21,
+      "bookDistribution": {
+        "At": 20,
+        "Cl": 1
+      },
+      "references": [
+        "At 3:12",
+        "At 4:19",
+        "At 5:8",
+        "At 5:29",
+        "At 8:24",
+        "At 8:34",
+        "At 9:13",
+        "At 10:46",
+        "At 11:9",
+        "At 15:13",
+        "At 19:15",
+        "At 21:13",
+        "At 22:8",
+        "At 22:28",
+        "At 24:10",
+        "At 24:25",
+        "At 25:4",
+        "At 25:9",
+        "At 25:12",
+        "At 25:16",
+        "Cl 4:6"
+      ]
+    },
+    "πλύνω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "λευκαίνω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "λατρεύω": {
+      "tokenCount": 9,
+      "verseCount": 9,
+      "bookDistribution": {
+        "At": 5,
+        "Rm": 2,
+        "Fp": 1,
+        "2Tm": 1
+      },
+      "references": [
+        "At 7:7",
+        "At 7:42",
+        "At 24:14",
+        "At 26:7",
+        "At 27:23",
+        "Rm 1:9",
+        "Rm 1:25",
+        "Fp 3:3",
+        "2Tm 1:3"
+      ]
+    },
+    "σκηνόω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πεινάω": {
+      "tokenCount": 5,
+      "verseCount": 5,
+      "bookDistribution": {
+        "Rm": 1,
+        "1Co": 3,
+        "Fp": 1
+      },
+      "references": [
+        "Rm 12:20",
+        "1Co 4:11",
+        "1Co 11:21",
+        "1Co 11:34",
+        "Fp 4:12"
+      ]
+    },
+    "διψάω": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Rm": 1,
+        "1Co": 1
+      },
+      "references": [
+        "Rm 12:20",
+        "1Co 4:11"
+      ]
+    },
+    "καῦμα": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ὁδηγέω": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "At": 1
+      },
+      "references": [
+        "At 8:31"
+      ]
+    },
+    "πηγή": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "δάκρυον": {
+      "tokenCount": 4,
+      "verseCount": 4,
+      "bookDistribution": {
+        "At": 2,
+        "2Co": 1,
+        "2Tm": 1
+      },
+      "references": [
+        "At 20:19",
+        "At 20:31",
+        "2Co 2:4",
+        "2Tm 1:4"
+      ]
+    }
+  }
+}

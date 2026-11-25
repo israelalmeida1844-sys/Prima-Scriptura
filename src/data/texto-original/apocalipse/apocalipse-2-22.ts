@@ -8,7 +8,7 @@ export const apocalipse2v22 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eis que a lanço em um leito, e aos que adulteram com ela, em grande tribulação, se não se arrependerem das obras dela.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "βάλλω αὐτὴν εἰς κλίνην: 'lanço-a em um leito'. O leito pode funcionar ironicamente como imagem de enfermidade/juízo contraposta ao adultério; o texto não identifica clinicamente qualquer doença. ἐὰν μή introduz condicional de arrependimento.\n\n[Revisão acadêmica complementar] βάλλω ... εἰς κλίνην estabelece imagem judicial de leito, não diagnóstico de doença. τοὺς μοιχεύοντας é particípio presente substantivado no acusativo.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O leito funciona como imagem de julgamento e possível ironia retórica.",
     "A responsabilidade dos participantes é tratada juntamente com a condição de arrependimento."
@@ -113,7 +113,7 @@ export const apocalipse2v22 = {
     {
       "id": "ap2-22-5",
       "shortMorph": "N-ASF",
-      "greek": "κλίνην,",
+      "greek": "κλίνην",
       "transliteration": "klinēn",
       "gloss": "leito",
       "strong": "G2825",
@@ -132,7 +132,8 @@ export const apocalipse2v22 = {
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-22-6",
@@ -210,7 +211,7 @@ export const apocalipse2v22 = {
       "id": "ap2-22-9",
       "shortMorph": "P-",
       "greek": "μετ’",
-      "transliteration": "met",
+      "transliteration": "met'",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",
@@ -235,7 +236,7 @@ export const apocalipse2v22 = {
       "shortMorph": "PPro-GSF",
       "greek": "αὐτῆς",
       "transliteration": "autēs",
-      "gloss": "dele/dela",
+      "gloss": "dela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -305,7 +306,7 @@ export const apocalipse2v22 = {
     {
       "id": "ap2-22-13",
       "shortMorph": "Adj-ASF",
-      "greek": "μεγάλην,",
+      "greek": "μεγάλην",
       "transliteration": "megalēn",
       "gloss": "grande",
       "strong": "G3173",
@@ -324,7 +325,8 @@ export const apocalipse2v22 = {
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-22-14",
@@ -427,7 +429,7 @@ export const apocalipse2v22 = {
       "shortMorph": "Art-GPN",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -473,9 +475,9 @@ export const apocalipse2v22 = {
     {
       "id": "ap2-22-20",
       "shortMorph": "PPro-GSF",
-      "greek": "αὐτῆς·",
+      "greek": "αὐτῆς",
       "transliteration": "autēs",
-      "gloss": "dele/dela",
+      "gloss": "dela",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -492,7 +494,12 @@ export const apocalipse2v22 = {
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "·"
     }
+  ],
+  "syntacticNotes": [
+    "βάλλω αὐτὴν εἰς κλίνην: 'lanço-a em um leito'. O leito pode funcionar ironicamente como imagem de enfermidade/juízo contraposta ao adultério; o texto não identifica clinicamente qualquer doença. ἐὰν μή introduz condicional de arrependimento.",
+    "βάλλω ... εἰς κλίνην estabelece imagem judicial de leito, não diagnóstico de doença. τοὺς μοιχεύοντας é particípio presente substantivado no acusativo."
   ]
 } as const;

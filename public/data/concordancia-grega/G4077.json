@@ -1,0 +1,35 @@
+{
+  "strong": "G4077",
+  "lemma": "πηγή",
+  "lemmaTranslit": "pēgē",
+  "tokenCount": 11,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Mc": 1,
+    "Jo": 3,
+    "Tg": 1,
+    "2Pe": 1,
+    "Ap": 5
+  },
+  "references": [
+    "Mc 5:29",
+    "Jo 4:6",
+    "Jo 4:14",
+    "Tg 3:11",
+    "2Pe 2:17",
+    "Ap 7:17",
+    "Ap 8:10",
+    "Ap 14:7",
+    "Ap 16:4",
+    "Ap 21:6"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-7/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata do lema MorphGNT, não contagem de todas as grafias ou homônimos de um número Strong.",
+  "strongDictionaryLemma": "πηγή",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml, blob 81b698b7141d8b17951a99086ecc4c67fec29884"
+}

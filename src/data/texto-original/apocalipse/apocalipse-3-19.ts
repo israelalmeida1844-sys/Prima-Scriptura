@@ -8,9 +8,9 @@ export const apocalipse3v19 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eu repreendo e disciplino a todos quantos amo. Portanto, sê zeloso e arrepende-te.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo."
+    "A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6."
   ],
   "words": [
     {
@@ -26,12 +26,12 @@ export const apocalipse3v19 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome nominativo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «ἐγὼ» do lema «ἐγώ» (Strong G1473): Pronome nominativo singular. Glosa contextual de apoio: «eu». Função a revisar. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.19.C1",
         "governedBy": null
       },
@@ -50,12 +50,12 @@ export const apocalipse3v19 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome relativo acusativo plural masculino",
       "meanings": "Relativo que expressa abrangência ou extensão integral dos elementos referidos por um verbo ou situação.",
-      "explanation": "Forma «ὅσους» do lema «ὅσος» (Strong G3745): Pronome relativo acusativo plural masculino. Glosa contextual de apoio: «Tudo quanto, todas as coisas que». Função a revisar. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.19.C1",
         "governedBy": null
       },
@@ -74,12 +74,12 @@ export const apocalipse3v19 = {
       "morphologyCode": "--------",
       "morphology": "Partícula ",
       "meanings": "ἐάν introduz oração condicional prospectiva; com μή e subjuntivo μετανοήσῃς: «se não te arrependeres».",
-      "explanation": "Forma «ἐὰν» do lema «ἐάν» (Strong G1437): Partícula . Glosa contextual de apoio: «se». Função a revisar. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.19.C1",
         "governedBy": null
       },
@@ -98,7 +98,7 @@ export const apocalipse3v19 = {
       "morphologyCode": "1PAS-S--",
       "morphology": "Verbo presente, voz ativa, subjuntivo, 1ª pessoa singular",
       "meanings": "amar",
-      "explanation": "Forma «φιλῶ» do lema «φιλέω» (Strong G5368): Verbo presente, voz ativa, subjuntivo, 1ª pessoa singular. Glosa contextual de apoio: «amar». Predicado verbal. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
@@ -122,7 +122,7 @@ export const apocalipse3v19 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "repreender",
-      "explanation": "Forma «ἐλέγχω» do lema «ἐλέγχω» (Strong G1651): Verbo presente, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «repreender». Predicado verbal. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
@@ -138,7 +138,7 @@ export const apocalipse3v19 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -146,12 +146,12 @@ export const apocalipse3v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.19.C1",
         "governedBy": null
       },
@@ -160,7 +160,7 @@ export const apocalipse3v19 = {
     {
       "id": "ap3-19-7",
       "shortMorph": "V- 1PAI-S--",
-      "greek": "παιδεύω·",
+      "greek": "παιδεύω",
       "transliteration": "paideuō",
       "gloss": "disciplinar",
       "strong": "G3811",
@@ -170,7 +170,7 @@ export const apocalipse3v19 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "disciplinar",
-      "explanation": "Forma «παιδεύω·» do lema «παιδεύω» (Strong G3811): Verbo presente, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «disciplinar». Predicado verbal. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
@@ -179,7 +179,8 @@ export const apocalipse3v19 = {
         "clauseId": "AP.3.19.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap3-19-8",
@@ -194,7 +195,7 @@ export const apocalipse3v19 = {
       "morphologyCode": "2PAD-S--",
       "morphology": "Verbo presente, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "ser zeloso",
-      "explanation": "Forma «ζήλευε» do lema «ζηλεύω» (Strong G2206): Verbo presente, voz ativa, imperativo, 2ª pessoa singular. Glosa contextual de apoio: «ser zeloso». Predicado verbal. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
@@ -218,12 +219,12 @@ export const apocalipse3v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "portanto; pois",
-      "explanation": "Forma «οὖν» do lema «οὖν» (Strong G3767): Conjunção . Glosa contextual de apoio: «portanto». Função a revisar. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.19.C1",
         "governedBy": null
       },
@@ -234,7 +235,7 @@ export const apocalipse3v19 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -242,12 +243,12 @@ export const apocalipse3v19 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.19.C1",
         "governedBy": null
       },
@@ -256,9 +257,9 @@ export const apocalipse3v19 = {
     {
       "id": "ap3-19-11",
       "shortMorph": "V- 2AAD-S--",
-      "greek": "μετανόησον.",
+      "greek": "μετανόησον",
       "transliteration": "metanoēson",
-      "gloss": "arrepender-se, mudar de orientação",
+      "gloss": "arrepender-se",
       "strong": "G3340",
       "lemma": "μετανοέω",
       "lemmaTransliteration": "metanoeō",
@@ -266,7 +267,7 @@ export const apocalipse3v19 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "μετανοέω indica reconsideração/mudança de mente e direção. Em 2:5 articula lembrança e prática das primeiras obras.",
-      "explanation": "Forma «μετανόησον.» do lema «μετανοέω» (Strong G3340): Verbo aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa contextual de apoio: «arrepender-se, mudar de orientação». Predicado verbal. φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão.\n\nExegese: A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6.\n\nCrítica textual: SBLGNT ζήλευε (WH/Treg/NIV) contra ζήλωσον (RP), distinção de aspecto imperativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:19"
       ],
@@ -275,7 +276,11 @@ export const apocalipse3v19 = {
         "clauseId": "AP.3.19.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão."
   ]
 } as const;

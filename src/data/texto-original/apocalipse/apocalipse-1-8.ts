@@ -7,7 +7,7 @@ export const apocalipse1v8 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "Eu sou o Alfa e o Ômega, diz o Senhor Deus, aquele que é, que era e que vem, o Todo-Poderoso.",
-  "textualNotes": "O SBLGNT traz ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος em aposição a κύριος ὁ θεός. Ao contrário de Ap 1:4, aqui não há ἀπό antes da fórmula; portanto, não ocorre neste ponto o solecismo preposicional. Há, contudo, construção deliberadamente solene do nome divino. A inclusão de «o princípio e o fim» em certas tradições textuais não integra o texto-base SBLGNT deste versículo.\n\n[Revisão acadêmica complementar] A forma ὁ παντοκράτωρ é título divino; ὁ ἦν constitui nominalização incomum de imperfeito, sem a regência ἀπό problemática de 1:4.",
+  "textualNotes": "Comparação de edições (não substitui a colação dos manuscritos): o SBLGNT não contém a expressão ἀρχὴ καὶ τέλος («princípio e fim») em Ap 1:8; ela ocorre no Textus Receptus. A redação adotada no interlinear conserva a leitura SBLGNT. Para ponderar o apoio manuscrito, consultar o aparato crítico.",
   "translationNote": "«Alfa» e «Ômega» reproduzem a imagem alfabética do original; «Todo-Poderoso» traduz παντοκράτωρ.",
   "words": [
     {
@@ -15,7 +15,7 @@ export const apocalipse1v8 = {
       "shortMorph": "PPro-NS-",
       "greek": "Ἐγώ",
       "transliteration": "egō",
-      "gloss": "Eu",
+      "gloss": "eu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -157,7 +157,7 @@ export const apocalipse1v8 = {
     {
       "id": "ap1-8-7",
       "shortMorph": "N-NSN",
-      "greek": "Ὦ,",
+      "greek": "Ὦ",
       "transliteration": "ō",
       "gloss": "ômega",
       "strong": "G5598",
@@ -176,7 +176,8 @@ export const apocalipse1v8 = {
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-8-8",
@@ -205,7 +206,7 @@ export const apocalipse1v8 = {
     {
       "id": "ap1-8-9",
       "shortMorph": "N-NSM",
-      "greek": "κύριος,",
+      "greek": "κύριος",
       "transliteration": "kyrios",
       "gloss": "Senhor",
       "strong": "G2962",
@@ -224,7 +225,8 @@ export const apocalipse1v8 = {
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-8-10",
@@ -253,7 +255,7 @@ export const apocalipse1v8 = {
     {
       "id": "ap1-8-11",
       "shortMorph": "N-NSM",
-      "greek": "θεός,",
+      "greek": "θεός",
       "transliteration": "theos",
       "gloss": "Deus",
       "strong": "G2316",
@@ -272,7 +274,8 @@ export const apocalipse1v8 = {
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-8-12",
@@ -375,7 +378,7 @@ export const apocalipse1v8 = {
       "shortMorph": "V-IAI-3S",
       "greek": "ἦν",
       "transliteration": "ēn",
-      "gloss": "que era",
+      "gloss": "era",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -445,7 +448,7 @@ export const apocalipse1v8 = {
     {
       "id": "ap1-8-19",
       "shortMorph": "V-PMP-NSM",
-      "greek": "ἐρχόμενος,",
+      "greek": "ἐρχόμενος",
       "transliteration": "erchomenos",
       "gloss": "que vem",
       "strong": "G2064",
@@ -464,7 +467,8 @@ export const apocalipse1v8 = {
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-8-20",
@@ -493,7 +497,7 @@ export const apocalipse1v8 = {
     {
       "id": "ap1-8-21",
       "shortMorph": "N-NSM",
-      "greek": "παντοκράτωρ.",
+      "greek": "παντοκράτωρ",
       "transliteration": "pantokratōr",
       "gloss": "Todo-Poderoso",
       "strong": "G3841",
@@ -512,7 +516,15 @@ export const apocalipse1v8 = {
         "clauseId": "AP.1.8.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "O SBLGNT traz ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος em aposição a κύριος ὁ θεός. Ao contrário de Ap 1:4, aqui não há ἀπό antes da fórmula; portanto, não ocorre neste ponto o solecismo preposicional. Há, contudo, construção deliberadamente solene do nome divino. A inclusão de «o princípio e o fim» em certas tradições textuais não integra o texto-base SBLGNT deste versículo.",
+    "A forma ὁ παντοκράτωρ é título divino; ὁ ἦν constitui nominalização incomum de imperfeito, sem a regência ἀπό problemática de 1:4."
+  ],
+  "exegeticalNotes": [
+    "O oráculo identifica o Senhor Deus como Alfa e Ômega e Todo-Poderoso. A fórmula «aquele que é, que era e que vem» deve ser interpretada em conjunto com 1:4, sem pressupor que todas as ocorrências do título em Apocalipse tenham automaticamente o mesmo locutor."
   ]
 } as const;

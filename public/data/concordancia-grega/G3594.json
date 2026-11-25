@@ -1,0 +1,30 @@
+{
+  "strong": "G3594",
+  "lemma": "ὁδηγέω",
+  "lemmaTranslit": "hodēgeō",
+  "tokenCount": 5,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Mt": 1,
+    "Lc": 1,
+    "Jo": 1,
+    "At": 1,
+    "Ap": 1
+  },
+  "references": [
+    "Mt 15:14",
+    "Lc 6:39",
+    "Jo 16:13",
+    "At 8:31",
+    "Ap 7:17"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-7/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata do lema MorphGNT, não contagem de todas as grafias ou homônimos de um número Strong.",
+  "strongDictionaryLemma": "ὁδηγέω",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml, blob 81b698b7141d8b17951a99086ecc4c67fec29884"
+}

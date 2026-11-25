@@ -8,7 +8,7 @@ export const apocalipse2v25 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Contudo, conservai o que tendes até que eu venha.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "κρατήσατε é imperativo aoristo ativo, segunda pessoa plural. A expressão ἄχρι οὗ ἂν ἥξω relaciona a perseverança à chegada de Cristo.\n\n[Revisão acadêmica complementar] κρατήσατε é imperativo aoristo plural, diferente dos imperativos singulares dirigidos ao anjo/comunidade; ἄχρι οὗ ἂν ἥξω funciona como delimitação temporal da perseverança.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A fidelidade exigida é manter o que já foi recebido.",
     "A esperança da chegada de Cristo é fundamento da perseverança."
@@ -185,7 +185,7 @@ export const apocalipse2v25 = {
     {
       "id": "ap2-25-8",
       "shortMorph": "V-AAS-1S",
-      "greek": "ἥξω.",
+      "greek": "ἥξω",
       "transliteration": "hēxō",
       "gloss": "venha",
       "strong": "G2240",
@@ -204,7 +204,12 @@ export const apocalipse2v25 = {
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "κρατήσατε é imperativo aoristo ativo, segunda pessoa plural. A expressão ἄχρι οὗ ἂν ἥξω relaciona a perseverança à chegada de Cristo.",
+    "κρατήσατε é imperativo aoristo plural, diferente dos imperativos singulares dirigidos ao anjo/comunidade; ἄχρι οὗ ἂν ἥξω funciona como delimitação temporal da perseverança."
   ]
 } as const;

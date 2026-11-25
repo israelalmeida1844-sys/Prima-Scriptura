@@ -1,0 +1,102 @@
+name: Validar protótipo Apocalipse 1:1 (rascunho, sem deploy)
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths:
+      - '.github/workflows/validar-apocalipse-rascunho.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar ferramentas e Chromium para testar interface
+        run: |
+          npm install --no-audit --no-fund
+          npm install --no-save --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+      - name: Validar 28 tokens, 20 lemas e 20 concordâncias
+        run: node --experimental-strip-types scripts/validar-apocalipse-1-1.mjs
+      - name: Compilar Astro 5 e verificar compatibilidade dos demais livros
+        run: |
+          npm run build
+          test -s dist/comentarios/apocalipse/index.html
+          test -s dist/comentarios/apocalipse/capitulo-1/index.html
+          test -s dist/comentarios/apocalipse/capitulo-1/versiculo-1/index.html
+          grep -q 'data-original-apocalipse-1-1' dist/comentarios/apocalipse/capitulo-1/versiculo-1/index.html
+          grep -q 'Apocalipse' dist/comentarios/index.html
+          for n in {1..8}; do test -s dist/comentarios/genesis/capitulo-1/versiculo-$n/index.html; done
+          test -s dist/comentarios/hebreus/index.html
+          test -s dist/comentarios/1-joao/index.html
+          test -s dist/comentarios/daniel/index.html
+          test -s dist/admin/index.html
+          for strong in G32 G602 G649 G846 G1096 G1163 G1166 G1223 G1325 G1401 G1722 G2316 G2424 G2491 G2532 G3588 G3739 G4591 G5034 G5547; do
+            test -s dist/data/concordancia-grega/$strong.json
+          done
+      - name: Testar interações em Chromium e criar captura de tela para revisão
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 >/tmp/apocalipse-preview.log 2>&1 &
+          for n in $(seq 1 45); do
+            curl -fsS http://127.0.0.1:4321/comentarios/apocalipse/capitulo-1/versiculo-1/ >/dev/null && break
+            sleep 1
+          done
+          node --input-type=module <<'JS'
+          import {chromium} from 'playwright';
+          import assert from 'node:assert/strict';
+          const browser=await chromium.launch({headless:true});
+          try {
+            for(const width of [1440,390,320]){
+              const context=await browser.newContext({viewport:{width,height:850}});
+              const page=await context.newPage();
+              const errors=[];
+              page.on('pageerror',e=>errors.push(e.message));
+              const response=await page.goto('http://127.0.0.1:4321/comentarios/apocalipse/capitulo-1/versiculo-1/',{waitUntil:'networkidle'});
+              assert.equal(response?.status(),200);
+              const root=page.locator('[data-original-apocalipse-1-1]');
+              assert.equal(await root.count(),1);
+              assert.equal(await root.locator('[data-word-index]').count(),28);
+              assert.equal(await page.locator('.book-card:has-text("Apocalipse")').count(),0);
+              await root.locator('[data-word-index="1"]').click();
+              assert.equal((await root.locator('[data-lexicon-strong]').innerText()).trim(),'G2424');
+              assert.ok((await root.locator('[data-lexicon-lemma]').innerText()).includes('Ἰησοῦς'));
+              const checkbox=root.locator('[data-toggle="translation"]');
+              await checkbox.uncheck();
+              assert.ok(await root.evaluate(e=>e.classList.contains('hide-translation')));
+              await checkbox.check();
+              await root.locator('[data-word-index="0"]').click();
+              await root.locator('[data-occurrences-toggle]').click();
+              await root.locator('[data-occurrences-total]:visible').waitFor({timeout:15000});
+              const total=await root.locator('[data-occurrences-total]').innerText();
+              assert.ok(total.includes('17 versículos'),total);
+              assert.equal(await root.locator('.concordance-reference').count(),17);
+              const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth+2);
+              assert.equal(overflow,false,'Rolagem horizontal a '+width+'px');
+              assert.deepEqual(errors,[],'Erros JavaScript');
+              if(width===390)await page.screenshot({path:'apocalipse-1-1-previa-mobile.png',fullPage:true});
+              if(width===1440)await page.screenshot({path:'apocalipse-1-1-previa-desktop.png',fullPage:true});
+              console.log('HOMOLOGAÇÃO OK',width,'px; 28 tokens, troca lexical, 17 referências, controles.');
+              await context.close();
+            }
+            const page=await browser.newPage();
+            const catalogue=await page.goto('http://127.0.0.1:4321/comentarios/');
+            assert.equal(catalogue?.status(),200);
+            assert.equal(await page.locator('.book-card:has-text("Apocalipse")').count(),1);
+            console.log('Catálogo com card de Apocalipse aprovado.');
+          } finally {await browser.close()}
+          JS
+      - name: Guardar prévia visual apenas como artefato de CI
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: apocalipse-1-1-previa-rascunho
+          path: |
+            apocalipse-1-1-previa-mobile.png
+            apocalipse-1-1-previa-desktop.png
+          if-no-files-found: warn

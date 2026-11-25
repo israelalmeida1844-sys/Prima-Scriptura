@@ -1,0 +1,63 @@
+name: Gerar e validar Apocalipse 6 (rascunho)
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths:
+      - '.github/workflows/gerar-apocalipse6.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: gerar-apocalipse6-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout branch de rascunho
+        uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+      - name: Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Obter corpus e mapeamento fixados
+        run: |
+          set -euo pipefail
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+          git clone --quiet https://github.com/jtauber/greek-lemma-mappings.git /tmp/prima-lemma-mappings
+          test "$(git -C /tmp/prima-lemma-mappings hash-object lexemes.yaml)" = "a5cd101e445e51eb67fe05aceb06a14b991d41f2"
+          test "$(find /tmp/prima-morphgnt -maxdepth 1 -name '*-morphgnt.txt' | wc -l)" -eq 27
+      - name: Gerar versiculos, componentes, léxico e rotas
+        run: node scripts/gerar-apocalipse6.mjs
+      - name: Gerar concordancias completas de todos os Strong usados
+        run: node scripts/gerar-concordancias-apocalipse6.mjs
+      - name: Auditar 417 tokens, lexico e concordancias
+        run: node scripts/auditar-apocalipse6.mjs
+      - name: Instalar dependencias
+        run: npm install --no-audit --no-fund
+      - name: Compilar Astro sem publicar
+        run: npm run build
+      - name: Validar 18 paginas novas
+        run: |
+          set -euo pipefail
+          test -s dist/comentarios/apocalipse/capitulo-6/index.html
+          for v in $(seq 1 17); do
+            test -s "dist/comentarios/apocalipse/capitulo-6/versiculo-$v/index.html"
+          done
+          test -s dist/comentarios/apocalipse/capitulo-5/versiculo-14/index.html
+          echo "18 páginas do capítulo 6 e rota anterior validadas"
+      - name: Commit apenas na branch de rascunho
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/texto-original/apocalipse/apocalipse-6-* src/data/lexico-grego/apocalipse-6-1-17.json src/components/TextoOriginalApocalipse6v*.astro src/pages/comentarios/apocalipse/capitulo-6/ src/pages/comentarios/apocalipse/index.astro src/scripts/lexico-grego-apocalipse.ts public/data/concordancia-grega/
+          if ! git diff --cached --quiet; then
+            git commit -m "feat(apocalipse): implementar capítulo 6 em rascunho, com 17 versos e concordâncias"
+            git pull --rebase origin rascunho/apocalipse
+            git push origin HEAD:rascunho/apocalipse
+          fi

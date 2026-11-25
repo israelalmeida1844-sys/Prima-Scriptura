@@ -1,0 +1,31 @@
+{
+  "strong": "G4826",
+  "lemma": "Συμεών",
+  "lemmaTranslit": "symeōn",
+  "tokenCount": 7,
+  "verseCount": 7,
+  "bookDistribution": {
+    "Lc": 3,
+    "At": 2,
+    "2Pe": 1,
+    "Ap": 1
+  },
+  "references": [
+    "Lc 2:25",
+    "Lc 2:34",
+    "Lc 3:30",
+    "At 13:1",
+    "At 15:14",
+    "2Pe 1:1",
+    "Ap 7:7"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-7/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata do lema MorphGNT, não contagem de todas as grafias ou homônimos de um número Strong.",
+  "strongDictionaryLemma": "Συμεών",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml, blob 81b698b7141d8b17951a99086ecc4c67fec29884"
+}

@@ -1,0 +1,34 @@
+{
+  "strong": "G5270",
+  "lemma": "ὑποκάτω",
+  "lemmaTranslit": "ypokatō",
+  "tokenCount": 11,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Mt": 1,
+    "Mc": 3,
+    "Lc": 1,
+    "Jo": 1,
+    "Hb": 1,
+    "Ap": 4
+  },
+  "references": [
+    "Mt 22:44",
+    "Mc 6:11",
+    "Mc 7:28",
+    "Mc 12:36",
+    "Lc 8:16",
+    "Jo 1:50",
+    "Hb 2:8",
+    "Ap 5:3",
+    "Ap 5:13",
+    "Ap 6:9",
+    "Ap 12:1"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

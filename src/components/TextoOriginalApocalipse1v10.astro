@@ -38,7 +38,7 @@ const firstLexicon = (lexicon.entries as Record<string, { lemmaTransliteration: 
         >
           <span class="strong-number" dir="ltr">{word.strong}</span>
           <span class="word-transliteration" dir="ltr">{word.transliteration}</span>
-          <span class="word-greek" lang="grc" dir="ltr">{word.greek}</span>
+          <span class="word-greek" lang="grc" dir="ltr"><span class="greek-form">{word.greek}</span><span class="greek-punctuation" aria-hidden="true">{'trailingPunctuation' in word ? word.trailingPunctuation : ''}</span></span>
           <span class="word-gloss" dir="ltr">{word.gloss}</span>
           <span class="word-morph" dir="ltr">{word.shortMorph}</span>
         </button>
@@ -88,7 +88,7 @@ const firstLexicon = (lexicon.entries as Record<string, { lemmaTransliteration: 
       </div>
     </dl>
 
-    <p data-lexicon-explanation>{firstWord.explanation}</p>
+    <p class="lexical-usage-note" data-lexicon-explanation>{firstWord.explanation}</p>
 
     <!-- 9. Concordância exaustiva do Novo Testamento grego -->
     <h4>Ocorrências no Novo Testamento Grego</h4>
@@ -108,10 +108,20 @@ const firstLexicon = (lexicon.entries as Record<string, { lemmaTransliteration: 
   </section>
 
   <!-- 10. Nota de Crítica Textual -->
-  <section class="textual-criticism-panel">
+  <!-- Seções editoriais separadas: gramática, crítica textual e exegese. -->
+  <section class="syntactic-panel" aria-label="Observações gramaticais do versículo">
+    <h4>Observações gramaticais e sintáticas</h4>
+    <ul>{apocalipse1v10.syntacticNotes.map(note => <li>{note}</li>)}</ul>
+  </section>
+
+  <section class="textual-criticism-panel" aria-label="Crítica textual documentada">
     <h4>Nota de crítica textual</h4>
     <p>{apocalipse1v10.textualNotes}</p>
-    <div class="exegetical-notes"><h4>Notas exegéticas</h4><ul>{apocalipse1v10.exegeticalNotes.map(note => <li>{note}</li>)}</ul></div>
+  </section>
+
+  <section class="exegetical-panel" aria-label="Interpretação exegética do versículo">
+    <h4>Notas exegéticas</h4>
+    {apocalipse1v10.exegeticalNotes.length ? <ul>{apocalipse1v10.exegeticalNotes.map(note => <li>{note}</li>)}</ul> : <p>Sem nota exegética adicional neste versículo.</p>}
   </section>
 
   <!-- 11. Tradução Editorial em Português Natural -->

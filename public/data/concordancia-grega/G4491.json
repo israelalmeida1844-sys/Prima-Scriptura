@@ -1,0 +1,40 @@
+{
+  "strong": "G4491",
+  "lemma": "ῥίζα",
+  "lemmaTranslit": "riza",
+  "tokenCount": 17,
+  "verseCount": 16,
+  "bookDistribution": {
+    "Mt": 3,
+    "Mc": 3,
+    "Lc": 2,
+    "Rm": 5,
+    "1Tm": 1,
+    "Hb": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 3:10",
+    "Mt 13:6",
+    "Mt 13:21",
+    "Mc 4:6",
+    "Mc 4:17",
+    "Mc 11:20",
+    "Lc 3:9",
+    "Lc 8:13",
+    "Rm 11:16",
+    "Rm 11:17",
+    "Rm 11:18",
+    "Rm 15:12",
+    "1Tm 6:10",
+    "Hb 12:15",
+    "Ap 5:5",
+    "Ap 22:16"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

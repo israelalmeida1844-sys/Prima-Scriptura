@@ -1,0 +1,98 @@
+name: Apocalipse 3 — 22 versículos, léxico e concordâncias
+on:
+  push:
+    branches:
+      - rascunho/apocalipse
+    paths:
+      - scripts/gerar-apocalipse-3-1-22.mjs
+      - scripts/gerar-apocalipse-3-1-22-concordancias.mjs
+      - .github/workflows/validar-apocalipse-3-1-22.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: apocalipse-3-completo
+  cancel-in-progress: false
+jobs:
+  gerar-validar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fontes críticas fixadas
+        run: |
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+          git clone --quiet https://github.com/jtauber/greek-lemma-mappings.git /tmp/prima-lemma-mappings
+          test "$(git -C /tmp/prima-lemma-mappings hash-object lexemes.yaml)" = "a5cd101e445e51eb67fe05aceb06a14b991d41f2"
+      - name: Gerar 22 interlineares e léxico
+        run: node scripts/gerar-apocalipse-3-1-22.mjs
+      - name: Gerar concordâncias exaustivas dos 27 livros
+        run: node scripts/gerar-apocalipse-3-1-22-concordancias.mjs
+      - name: Conferir exatamente 525 tokens do SBLGNT
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          const morph=fs.readFileSync('/tmp/prima-morphgnt/87-Re-morphgnt.txt','utf8').split(/\r?\n/).filter(x=>/^2703(?:0[1-9]|1[0-9]|2[0-2])\s/.test(x)).map(x=>x.trim().split(/\s+/));
+          const clean=x=>x.replace(/[⸀⸂⸃⸄⸅]/g,'');
+          let checked=0;
+          for(let verse=1;verse<=22;verse++){
+            const file='src/data/texto-original/apocalipse/apocalipse-3-'+verse+'.ts';
+            const source=fs.readFileSync(file,'utf8');
+            const m=source.match(/=\s*(\{[\s\S]*\})\s*as const;/);
+            assert.ok(m,file);
+            const obj=JSON.parse(m[1]);
+            assert.equal(obj.chapter,3);assert.equal(obj.verse,verse);
+            assert.ok(obj.translation.length>40,file);
+            assert.ok(obj.textualNotes.length>50,file);
+            const subset=morph.filter(t=>Number(t[0].slice(4,6))===verse);
+            assert.equal(obj.words.length,subset.length,file);
+            for(let i=0;i<subset.length;i++){
+              const w=obj.words[i],t=subset[i];
+              assert.equal(w.greek,clean(t[3]),file+':'+i);
+              assert.equal(w.lemma,t[6],file+':'+i);
+              assert.equal(w.morphgntPos,t[1],file+':'+i);
+              assert.equal(w.morphologyCode,t[2],file+':'+i);
+              assert.match(w.strong,/^G\d+$/,file+':'+i);
+              assert.ok(w.transliteration&&w.gloss&&w.explanation,file+':'+i);
+              const loc='public/data/concordancia-grega/'+w.strong+'.json';
+              assert.ok(fs.existsSync(loc),loc);
+              const idx=JSON.parse(fs.readFileSync(loc,'utf8'));
+              assert.equal(idx.complete,true,loc);
+              assert.equal(idx.corpusBooks,27,loc);
+              assert.equal(idx.verseCount,idx.references.length,loc);
+              checked++;
+            }
+            assert.ok(fs.existsSync('src/components/TextoOriginalApocalipse3v'+verse+'.astro'));
+          }
+          assert.equal(checked,525);
+          console.log('APROVADO: 22 versículos, 525 palavras em alinhamento exato; índices de concordância presentes.');
+          NODE
+      - name: Build Astro e regressão dos capítulos anteriores
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          for v in {1..22}; do
+            p="dist/comentarios/apocalipse/capitulo-3/versiculo-$v/index.html"
+            test -s "$p"
+            grep -q "data-original-apocalipse-3-$v" "$p"
+          done
+          test -s dist/comentarios/apocalipse/capitulo-3/index.html
+          test -s dist/comentarios/apocalipse/capitulo-2/versiculo-29/index.html
+          test -s dist/comentarios/apocalipse/capitulo-1/versiculo-1/index.html
+      - name: Persistir somente em rascunho
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/texto-original/apocalipse/apocalipse-3-* src/data/lexico-grego/apocalipse-3-1-22* src/components/TextoOriginalApocalipse3v*.astro src/pages/comentarios/apocalipse/capitulo-3/ public/data/concordancia-grega/
+          if ! git diff --cached --quiet; then
+            git commit -m "feat(apocalipse): 22 interlineares de Ap 3, léxico e concordâncias (rascunho)"
+            git pull --rebase origin rascunho/apocalipse
+            git push origin HEAD:rascunho/apocalipse
+          fi

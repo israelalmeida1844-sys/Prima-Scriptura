@@ -8,7 +8,7 @@ export const apocalipse4v3 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Aquele que estava sentado tinha aparência semelhante ao brilho de jaspe e sárdio; e um arco-íris circundava o trono, semelhante, em aparência, à esmeralda.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "Jaspe, sardônio e esmeralda formam linguagem simbólica de esplendor. Não é possível definir a identidade mineral moderna de cada pedra só pelo texto; comparar Ez 1:26–28 e Ap 21:11,19–20.",
     "O termo σάρδιον designa o sárdio/cornalina; é distinto de σαρδόνυξ, o sardônio. A tradução editorial evita confundir duas pedras referidas de modo distinto em Ap 21:20.",
@@ -28,7 +28,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -44,7 +44,7 @@ export const apocalipse4v3 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "o; a; artigo",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -52,7 +52,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» (ὁ, G3588); Artigo definido nominativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -76,7 +76,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "-PMPNSM-",
       "morphology": "Verbo presente, voz média, particípio nominativo singular masculino",
       "meanings": "Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos.",
-      "explanation": "Forma «καθήμενος» (κάθημαι, G2521); Verbo presente, voz média, particípio nominativo singular masculino. Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos. Particípio em relação descritiva. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -100,7 +100,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιος» (ὅμοιος, G3664); Adjetivo nominativo singular masculino. Sentido lexical contextual: semelhante. Predicativo de ὁ καθήμενος em comparação visual. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -116,7 +116,7 @@ export const apocalipse4v3 = {
       "shortMorph": "N-DSF",
       "greek": "ὁράσει",
       "transliteration": "horasei",
-      "gloss": "aparência; visão",
+      "gloss": "aparência",
       "strong": "G3706",
       "lemma": "ὅρασις",
       "lemmaTransliteration": "horasis",
@@ -124,7 +124,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Visão ou aparência; o dativo ὁράσει expressa comparação visual em 4:3.",
-      "explanation": "Forma «ὁράσει» (ὅρασις, G3706); Substantivo dativo singular feminino. Visão ou aparência; o dativo ὁράσει expressa comparação visual em 4:3. Núcleo de sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -148,7 +148,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Pedra; usado na comparação com gemas na descrição daquele que está sentado no trono em 4:3.",
-      "explanation": "Forma «λίθῳ» (λίθος, G3037); Substantivo dativo singular masculino. Pedra; usado na comparação com gemas na descrição daquele que está sentado no trono em 4:3. Núcleo de sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -172,7 +172,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Jaspe, pedra preciosa referida como imagem de brilho em 4:3; identificação mineral moderna incerta.",
-      "explanation": "Forma «ἰάσπιδι» (ἴασπις, G2393); Substantivo dativo singular feminino. Jaspe, pedra preciosa referida como imagem de brilho em 4:3; identificação mineral moderna incerta. Núcleo de sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -196,7 +196,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -210,7 +210,7 @@ export const apocalipse4v3 = {
     {
       "id": "ap4-3-9",
       "shortMorph": "N-DSN",
-      "greek": "σαρδίῳ,",
+      "greek": "σαρδίῳ",
       "transliteration": "sardiō",
       "gloss": "sárdio",
       "strong": "G4556",
@@ -220,7 +220,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
       "meanings": "sárdio; pedra preciosa frequentemente associada à cornalina",
-      "explanation": "Forma «σαρδίῳ,» (σάρδιον, G4556); Substantivo dativo singular neutro. Sardônio ou pedra de Sárdis, gema preciosa mencionada na descrição do trono em 4:3. Núcleo de sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -229,7 +229,8 @@ export const apocalipse4v3 = {
         "clauseId": "AP.4.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-3-10",
@@ -244,7 +245,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -268,7 +269,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "Arco-íris ou halo colorido que circunda o trono em 4:3, comparado a esmeralda.",
-      "explanation": "Forma «ἶρις» (ἶρις, G2463); Substantivo nominativo singular feminino. Arco-íris ou halo colorido que circunda o trono em 4:3, comparado a esmeralda. Núcleo de sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -292,7 +293,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "Advérbio que significa «em volta», «ao redor», usado ao redor do trono em 4:3–4,8.",
-      "explanation": "Forma «κυκλόθεν» (κυκλόθεν, G2943); Preposição. Advérbio que significa «em volta», «ao redor», usado ao redor do trono em 4:3–4,8. Introdução de complemento preposicional. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -308,7 +309,7 @@ export const apocalipse4v3 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o; a; artigo",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -316,7 +317,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» (ὁ, G3588); Artigo definido genitivo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -340,7 +341,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "trono",
-      "explanation": "Forma «θρόνου» (θρόνος, G2362); Substantivo genitivo singular masculino. Sentido lexical contextual: trono. Núcleo de sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -364,7 +365,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "semelhante",
-      "explanation": "Forma «ὅμοιος» (ὅμοιος, G3664); Adjetivo nominativo singular masculino. Sentido lexical contextual: semelhante. Predicativo de ἶρις com discordância de gênero. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -380,7 +381,7 @@ export const apocalipse4v3 = {
       "shortMorph": "N-DSF",
       "greek": "ὁράσει",
       "transliteration": "horasei",
-      "gloss": "aparência; visão",
+      "gloss": "aparência",
       "strong": "G3706",
       "lemma": "ὅρασις",
       "lemmaTransliteration": "horasis",
@@ -388,7 +389,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Visão ou aparência; o dativo ὁράσει expressa comparação visual em 4:3.",
-      "explanation": "Forma «ὁράσει» (ὅρασις, G3706); Substantivo dativo singular feminino. Visão ou aparência; o dativo ὁράσει expressa comparação visual em 4:3. Núcleo de sintagma nominal. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -402,9 +403,9 @@ export const apocalipse4v3 = {
     {
       "id": "ap4-3-17",
       "shortMorph": "Adj-DSM",
-      "greek": "σμαραγδίνῳ.",
+      "greek": "σμαραγδίνῳ",
       "transliteration": "smaragdinō",
-      "gloss": "esmeraldino; de esmeralda",
+      "gloss": "de esmeralda",
       "strong": "G4664",
       "lemma": "σμαράγδινος",
       "lemmaTransliteration": "smaragdinos",
@@ -412,7 +413,7 @@ export const apocalipse4v3 = {
       "morphologyCode": "----DSM-",
       "morphology": "Adjetivo dativo singular masculino",
       "meanings": "De esmeralda, esverdeado como esmeralda; adjetivo da aparência do arco-íris em 4:3.",
-      "explanation": "Forma «σμαραγδίνῳ.» (σμαράγδινος, G4664); Adjetivo dativo singular masculino. De esmeralda, esverdeado como esmeralda; adjetivo da aparência do arco-íris em 4:3. Termo dativo da comparação introduzida por ὅμοιος. ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:3"
       ],
@@ -421,7 +422,11 @@ export const apocalipse4v3 = {
         "clauseId": "AP.4.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo."
   ]
 } as const;

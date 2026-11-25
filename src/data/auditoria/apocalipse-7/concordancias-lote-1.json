@@ -1,0 +1,927 @@
+{
+  "scope": "Lote 1: quatro Evangelhos integralmente processados; concordância do NT ainda parcial",
+  "complete": false,
+  "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7",
+  "sources": [
+    {
+      "book": "Mt",
+      "blob": "4745674bd63bf0bbec37b8b08f2c8f32b73266b4",
+      "rows": 18329,
+      "first": "010101",
+      "last": "012820"
+    },
+    {
+      "book": "Mc",
+      "blob": "d68222360b161cd6acba11746acfcb092b6af0c3",
+      "rows": 11286,
+      "first": "020101",
+      "last": "021620"
+    },
+    {
+      "book": "Lc",
+      "blob": "474e65703c49ef3890fca4b24403434ab6df6457",
+      "rows": 19446,
+      "first": "030101",
+      "last": "032453"
+    },
+    {
+      "book": "Jo",
+      "blob": "c3dab42934edab531f7dc08b630be8181638bd61",
+      "rows": 15438,
+      "first": "040101",
+      "last": "042125"
+    }
+  ],
+  "entries": {
+    "γωνία": {
+      "tokenCount": 4,
+      "bookDistribution": {
+        "Mt": 2,
+        "Mc": 1,
+        "Lc": 1
+      },
+      "references": [
+        "Mt 6:5",
+        "Mt 21:42",
+        "Mc 12:10",
+        "Lc 20:17"
+      ],
+      "verseCount": 4
+    },
+    "πνέω": {
+      "tokenCount": 5,
+      "bookDistribution": {
+        "Mt": 2,
+        "Lc": 1,
+        "Jo": 2
+      },
+      "references": [
+        "Mt 7:25",
+        "Mt 7:27",
+        "Lc 12:55",
+        "Jo 3:8",
+        "Jo 6:18"
+      ],
+      "verseCount": 5
+    },
+    "μήτε": {
+      "tokenCount": 12,
+      "bookDistribution": {
+        "Mt": 6,
+        "Lc": 6
+      },
+      "references": [
+        "Mt 5:34",
+        "Mt 5:35",
+        "Mt 5:36",
+        "Mt 11:18",
+        "Lc 7:33",
+        "Lc 9:3"
+      ],
+      "verseCount": 6
+    },
+    "δένδρον": {
+      "tokenCount": 20,
+      "bookDistribution": {
+        "Mt": 12,
+        "Mc": 1,
+        "Lc": 7
+      },
+      "references": [
+        "Mt 3:10",
+        "Mt 7:17",
+        "Mt 7:18",
+        "Mt 7:19",
+        "Mt 12:33",
+        "Mt 13:32",
+        "Mt 21:8",
+        "Mc 8:24",
+        "Lc 3:9",
+        "Lc 6:43",
+        "Lc 6:44",
+        "Lc 13:19",
+        "Lc 21:29"
+      ],
+      "verseCount": 13
+    },
+    "ἀνατολή": {
+      "tokenCount": 8,
+      "bookDistribution": {
+        "Mt": 5,
+        "Mc": 1,
+        "Lc": 2
+      },
+      "references": [
+        "Mt 2:1",
+        "Mt 2:2",
+        "Mt 2:9",
+        "Mt 8:11",
+        "Mt 24:27",
+        "Mc 16:8",
+        "Lc 1:78",
+        "Lc 13:29"
+      ],
+      "verseCount": 8
+    },
+    "σφραγίζω": {
+      "tokenCount": 3,
+      "bookDistribution": {
+        "Mt": 1,
+        "Jo": 2
+      },
+      "references": [
+        "Mt 27:66",
+        "Jo 3:33",
+        "Jo 6:27"
+      ],
+      "verseCount": 3
+    },
+    "μέτωπον": {
+      "tokenCount": 0,
+      "bookDistribution": {},
+      "references": [],
+      "verseCount": 0
+    },
+    "ἑκατόν": {
+      "tokenCount": 12,
+      "bookDistribution": {
+        "Mt": 4,
+        "Mc": 3,
+        "Lc": 3,
+        "Jo": 2
+      },
+      "references": [
+        "Mt 13:8",
+        "Mt 13:23",
+        "Mt 18:12",
+        "Mt 18:28",
+        "Mc 4:8",
+        "Mc 4:20",
+        "Mc 6:40",
+        "Lc 15:4",
+        "Lc 16:6",
+        "Lc 16:7",
+        "Jo 19:39",
+        "Jo 21:11"
+      ],
+      "verseCount": 12
+    },
+    "τεσσεράκοντα": {
+      "tokenCount": 5,
+      "bookDistribution": {
+        "Mt": 2,
+        "Mc": 1,
+        "Lc": 1,
+        "Jo": 1
+      },
+      "references": [
+        "Mt 4:2",
+        "Mc 1:13",
+        "Lc 4:2",
+        "Jo 2:20"
+      ],
+      "verseCount": 4
+    },
+    "δώδεκα": {
+      "tokenCount": 46,
+      "bookDistribution": {
+        "Mt": 13,
+        "Mc": 15,
+        "Lc": 12,
+        "Jo": 6
+      },
+      "references": [
+        "Mt 9:20",
+        "Mt 10:1",
+        "Mt 10:2",
+        "Mt 10:5",
+        "Mt 11:1",
+        "Mt 14:20",
+        "Mt 19:28",
+        "Mt 20:17",
+        "Mt 26:14",
+        "Mt 26:20",
+        "Mt 26:47",
+        "Mt 26:53",
+        "Mc 3:14",
+        "Mc 3:16",
+        "Mc 4:10",
+        "Mc 5:25",
+        "Mc 5:42",
+        "Mc 6:7",
+        "Mc 6:43",
+        "Mc 8:19",
+        "Mc 9:35",
+        "Mc 10:32",
+        "Mc 11:11",
+        "Mc 14:10",
+        "Mc 14:17",
+        "Mc 14:20",
+        "Mc 14:43",
+        "Lc 2:42",
+        "Lc 6:13",
+        "Lc 8:1",
+        "Lc 8:42",
+        "Lc 8:43",
+        "Lc 9:1",
+        "Lc 9:12",
+        "Lc 9:17",
+        "Lc 18:31",
+        "Lc 22:3",
+        "Lc 22:30",
+        "Lc 22:47",
+        "Jo 6:13",
+        "Jo 6:67",
+        "Jo 6:70",
+        "Jo 6:71",
+        "Jo 11:9",
+        "Jo 20:24"
+      ],
+      "verseCount": 45
+    },
+    "Ῥουβήν": {
+      "tokenCount": 0,
+      "bookDistribution": {},
+      "references": [],
+      "verseCount": 0
+    },
+    "Γάδ": {
+      "tokenCount": 0,
+      "bookDistribution": {},
+      "references": [],
+      "verseCount": 0
+    },
+    "Ἀσήρ": {
+      "tokenCount": 1,
+      "bookDistribution": {
+        "Lc": 1
+      },
+      "references": [
+        "Lc 2:36"
+      ],
+      "verseCount": 1
+    },
+    "Νεφθαλίμ": {
+      "tokenCount": 2,
+      "bookDistribution": {
+        "Mt": 2
+      },
+      "references": [
+        "Mt 4:13",
+        "Mt 4:15"
+      ],
+      "verseCount": 2
+    },
+    "Μανασσῆς": {
+      "tokenCount": 2,
+      "bookDistribution": {
+        "Mt": 2
+      },
+      "references": [
+        "Mt 1:10"
+      ],
+      "verseCount": 1
+    },
+    "Συμεών": {
+      "tokenCount": 3,
+      "bookDistribution": {
+        "Lc": 3
+      },
+      "references": [
+        "Lc 2:25",
+        "Lc 2:34",
+        "Lc 3:30"
+      ],
+      "verseCount": 3
+    },
+    "Λευί": {
+      "tokenCount": 4,
+      "bookDistribution": {
+        "Mc": 1,
+        "Lc": 3
+      },
+      "references": [
+        "Mc 2:14",
+        "Lc 3:24",
+        "Lc 3:29",
+        "Lc 5:27"
+      ],
+      "verseCount": 4
+    },
+    "Ἰσσαχάρ": {
+      "tokenCount": 0,
+      "bookDistribution": {},
+      "references": [],
+      "verseCount": 0
+    },
+    "Ζαβουλών": {
+      "tokenCount": 2,
+      "bookDistribution": {
+        "Mt": 2
+      },
+      "references": [
+        "Mt 4:13",
+        "Mt 4:15"
+      ],
+      "verseCount": 2
+    },
+    "Ἰωσήφ": {
+      "tokenCount": 25,
+      "bookDistribution": {
+        "Mt": 11,
+        "Mc": 2,
+        "Lc": 8,
+        "Jo": 4
+      },
+      "references": [
+        "Mt 1:16",
+        "Mt 1:18",
+        "Mt 1:19",
+        "Mt 1:20",
+        "Mt 1:24",
+        "Mt 2:13",
+        "Mt 2:19",
+        "Mt 13:55",
+        "Mt 27:56",
+        "Mt 27:57",
+        "Mt 27:59",
+        "Mc 15:43",
+        "Mc 15:45",
+        "Lc 1:27",
+        "Lc 2:4",
+        "Lc 2:16",
+        "Lc 3:23",
+        "Lc 3:24",
+        "Lc 3:30",
+        "Lc 4:22",
+        "Lc 23:50",
+        "Jo 1:45",
+        "Jo 4:5",
+        "Jo 6:42",
+        "Jo 19:38"
+      ],
+      "verseCount": 25
+    },
+    "Βενιαμίν": {
+      "tokenCount": 0,
+      "bookDistribution": {},
+      "references": [],
+      "verseCount": 0
+    },
+    "ὄχλος": {
+      "tokenCount": 148,
+      "bookDistribution": {
+        "Mt": 49,
+        "Mc": 38,
+        "Lc": 41,
+        "Jo": 20
+      },
+      "references": [
+        "Mt 4:25",
+        "Mt 5:1",
+        "Mt 7:28",
+        "Mt 8:1",
+        "Mt 8:18",
+        "Mt 9:8",
+        "Mt 9:23",
+        "Mt 9:25",
+        "Mt 9:33",
+        "Mt 9:36",
+        "Mt 11:7",
+        "Mt 12:23",
+        "Mt 12:46",
+        "Mt 13:2",
+        "Mt 13:34",
+        "Mt 13:36",
+        "Mt 14:5",
+        "Mt 14:13",
+        "Mt 14:14",
+        "Mt 14:15",
+        "Mt 14:19",
+        "Mt 14:22",
+        "Mt 14:23",
+        "Mt 15:10",
+        "Mt 15:30",
+        "Mt 15:31",
+        "Mt 15:32",
+        "Mt 15:33",
+        "Mt 15:35",
+        "Mt 15:36",
+        "Mt 15:39",
+        "Mt 17:14",
+        "Mt 19:2",
+        "Mt 20:29",
+        "Mt 20:31",
+        "Mt 21:8",
+        "Mt 21:9",
+        "Mt 21:11",
+        "Mt 21:26",
+        "Mt 21:46",
+        "Mt 22:33",
+        "Mt 23:1",
+        "Mt 26:47",
+        "Mt 26:55",
+        "Mt 27:15",
+        "Mt 27:20",
+        "Mt 27:24",
+        "Mc 2:4",
+        "Mc 2:13",
+        "Mc 3:9",
+        "Mc 3:20",
+        "Mc 3:32",
+        "Mc 4:1",
+        "Mc 4:36",
+        "Mc 5:21",
+        "Mc 5:24",
+        "Mc 5:27",
+        "Mc 5:30",
+        "Mc 5:31",
+        "Mc 6:34",
+        "Mc 6:45",
+        "Mc 7:14",
+        "Mc 7:17",
+        "Mc 7:33",
+        "Mc 8:1",
+        "Mc 8:2",
+        "Mc 8:6",
+        "Mc 8:34",
+        "Mc 9:14",
+        "Mc 9:15",
+        "Mc 9:17",
+        "Mc 9:25",
+        "Mc 10:1",
+        "Mc 10:46",
+        "Mc 11:18",
+        "Mc 11:32",
+        "Mc 12:12",
+        "Mc 12:37",
+        "Mc 12:41",
+        "Mc 14:43",
+        "Mc 15:8",
+        "Mc 15:11",
+        "Mc 15:15",
+        "Lc 3:7",
+        "Lc 3:10",
+        "Lc 4:42",
+        "Lc 5:1",
+        "Lc 5:3",
+        "Lc 5:15",
+        "Lc 5:19",
+        "Lc 5:29",
+        "Lc 6:17",
+        "Lc 6:19",
+        "Lc 7:9",
+        "Lc 7:11",
+        "Lc 7:12",
+        "Lc 7:24",
+        "Lc 8:4",
+        "Lc 8:19",
+        "Lc 8:40",
+        "Lc 8:42",
+        "Lc 8:45",
+        "Lc 9:11",
+        "Lc 9:12",
+        "Lc 9:16",
+        "Lc 9:18",
+        "Lc 9:37",
+        "Lc 9:38",
+        "Lc 11:14",
+        "Lc 11:27",
+        "Lc 11:29",
+        "Lc 12:1",
+        "Lc 12:13",
+        "Lc 12:54",
+        "Lc 13:14",
+        "Lc 13:17",
+        "Lc 14:25",
+        "Lc 18:36",
+        "Lc 19:3",
+        "Lc 19:39",
+        "Lc 22:6",
+        "Lc 22:47",
+        "Lc 23:4",
+        "Lc 23:48",
+        "Jo 5:13",
+        "Jo 6:2",
+        "Jo 6:5",
+        "Jo 6:22",
+        "Jo 6:24",
+        "Jo 7:12",
+        "Jo 7:20",
+        "Jo 7:31",
+        "Jo 7:32",
+        "Jo 7:40",
+        "Jo 7:43",
+        "Jo 7:49",
+        "Jo 11:42",
+        "Jo 12:9",
+        "Jo 12:12",
+        "Jo 12:17",
+        "Jo 12:18",
+        "Jo 12:29",
+        "Jo 12:34"
+      ],
+      "verseCount": 143
+    },
+    "ἀριθμέω": {
+      "tokenCount": 2,
+      "bookDistribution": {
+        "Mt": 1,
+        "Lc": 1
+      },
+      "references": [
+        "Mt 10:30",
+        "Lc 12:7"
+      ],
+      "verseCount": 2
+    },
+    "φοῖνιξ": {
+      "tokenCount": 1,
+      "bookDistribution": {
+        "Jo": 1
+      },
+      "references": [
+        "Jo 12:13"
+      ],
+      "verseCount": 1
+    },
+    "σωτηρία": {
+      "tokenCount": 6,
+      "bookDistribution": {
+        "Mc": 1,
+        "Lc": 4,
+        "Jo": 1
+      },
+      "references": [
+        "Mc 16:8",
+        "Lc 1:69",
+        "Lc 1:71",
+        "Lc 1:77",
+        "Lc 19:9",
+        "Jo 4:22"
+      ],
+      "verseCount": 6
+    },
+    "ἀποκρίνομαι": {
+      "tokenCount": 210,
+      "bookDistribution": {
+        "Mt": 55,
+        "Mc": 30,
+        "Lc": 47,
+        "Jo": 78
+      },
+      "references": [
+        "Mt 3:15",
+        "Mt 4:4",
+        "Mt 8:8",
+        "Mt 11:4",
+        "Mt 11:25",
+        "Mt 12:38",
+        "Mt 12:39",
+        "Mt 12:48",
+        "Mt 13:11",
+        "Mt 13:37",
+        "Mt 14:28",
+        "Mt 15:3",
+        "Mt 15:13",
+        "Mt 15:15",
+        "Mt 15:23",
+        "Mt 15:24",
+        "Mt 15:26",
+        "Mt 15:28",
+        "Mt 16:2",
+        "Mt 16:16",
+        "Mt 16:17",
+        "Mt 17:4",
+        "Mt 17:11",
+        "Mt 17:17",
+        "Mt 19:4",
+        "Mt 19:27",
+        "Mt 20:13",
+        "Mt 20:22",
+        "Mt 21:21",
+        "Mt 21:24",
+        "Mt 21:27",
+        "Mt 21:29",
+        "Mt 21:30",
+        "Mt 22:1",
+        "Mt 22:29",
+        "Mt 22:46",
+        "Mt 24:2",
+        "Mt 24:4",
+        "Mt 25:9",
+        "Mt 25:12",
+        "Mt 25:26",
+        "Mt 25:37",
+        "Mt 25:40",
+        "Mt 25:44",
+        "Mt 25:45",
+        "Mt 26:23",
+        "Mt 26:25",
+        "Mt 26:33",
+        "Mt 26:62",
+        "Mt 26:66",
+        "Mt 27:12",
+        "Mt 27:14",
+        "Mt 27:21",
+        "Mt 27:25",
+        "Mt 28:5",
+        "Mc 3:33",
+        "Mc 6:37",
+        "Mc 7:28",
+        "Mc 8:4",
+        "Mc 8:29",
+        "Mc 9:5",
+        "Mc 9:6",
+        "Mc 9:17",
+        "Mc 9:19",
+        "Mc 10:3",
+        "Mc 10:24",
+        "Mc 10:51",
+        "Mc 11:14",
+        "Mc 11:22",
+        "Mc 11:29",
+        "Mc 11:30",
+        "Mc 11:33",
+        "Mc 12:28",
+        "Mc 12:29",
+        "Mc 12:34",
+        "Mc 12:35",
+        "Mc 14:40",
+        "Mc 14:48",
+        "Mc 14:60",
+        "Mc 14:61",
+        "Mc 15:2",
+        "Mc 15:4",
+        "Mc 15:5",
+        "Mc 15:9",
+        "Mc 15:12",
+        "Lc 1:19",
+        "Lc 1:35",
+        "Lc 1:60",
+        "Lc 3:11",
+        "Lc 3:16",
+        "Lc 4:4",
+        "Lc 4:8",
+        "Lc 4:12",
+        "Lc 5:5",
+        "Lc 5:22",
+        "Lc 5:31",
+        "Lc 6:3",
+        "Lc 7:22",
+        "Lc 7:40",
+        "Lc 7:43",
+        "Lc 8:21",
+        "Lc 8:50",
+        "Lc 9:19",
+        "Lc 9:20",
+        "Lc 9:41",
+        "Lc 9:49",
+        "Lc 10:27",
+        "Lc 10:28",
+        "Lc 10:41",
+        "Lc 11:7",
+        "Lc 11:45",
+        "Lc 13:2",
+        "Lc 13:8",
+        "Lc 13:14",
+        "Lc 13:15",
+        "Lc 13:25",
+        "Lc 14:3",
+        "Lc 15:29",
+        "Lc 17:17",
+        "Lc 17:20",
+        "Lc 17:37",
+        "Lc 19:40",
+        "Lc 20:3",
+        "Lc 20:7",
+        "Lc 20:24",
+        "Lc 20:39",
+        "Lc 22:51",
+        "Lc 22:68",
+        "Lc 23:3",
+        "Lc 23:9",
+        "Lc 23:40",
+        "Lc 24:18",
+        "Jo 1:21",
+        "Jo 1:26",
+        "Jo 1:48",
+        "Jo 1:49",
+        "Jo 1:50",
+        "Jo 2:18",
+        "Jo 2:19",
+        "Jo 3:3",
+        "Jo 3:5",
+        "Jo 3:9",
+        "Jo 3:10",
+        "Jo 3:27",
+        "Jo 4:10",
+        "Jo 4:13",
+        "Jo 4:17",
+        "Jo 5:7",
+        "Jo 5:11",
+        "Jo 5:17",
+        "Jo 5:19",
+        "Jo 6:7",
+        "Jo 6:26",
+        "Jo 6:29",
+        "Jo 6:43",
+        "Jo 6:68",
+        "Jo 6:70",
+        "Jo 7:16",
+        "Jo 7:20",
+        "Jo 7:21",
+        "Jo 7:46",
+        "Jo 7:47",
+        "Jo 7:52",
+        "Jo 8:14",
+        "Jo 8:19",
+        "Jo 8:33",
+        "Jo 8:34",
+        "Jo 8:39",
+        "Jo 8:48",
+        "Jo 8:49",
+        "Jo 8:54",
+        "Jo 9:3",
+        "Jo 9:11",
+        "Jo 9:20",
+        "Jo 9:25",
+        "Jo 9:27",
+        "Jo 9:30",
+        "Jo 9:34",
+        "Jo 9:36",
+        "Jo 10:25",
+        "Jo 10:32",
+        "Jo 10:33",
+        "Jo 10:34",
+        "Jo 11:9",
+        "Jo 12:23",
+        "Jo 12:30",
+        "Jo 12:34",
+        "Jo 13:7",
+        "Jo 13:8",
+        "Jo 13:26",
+        "Jo 13:36",
+        "Jo 13:38",
+        "Jo 14:23",
+        "Jo 16:31",
+        "Jo 18:5",
+        "Jo 18:8",
+        "Jo 18:20",
+        "Jo 18:22",
+        "Jo 18:23",
+        "Jo 18:30",
+        "Jo 18:34",
+        "Jo 18:35",
+        "Jo 18:36",
+        "Jo 18:37",
+        "Jo 19:7",
+        "Jo 19:11",
+        "Jo 19:15",
+        "Jo 19:22",
+        "Jo 20:28",
+        "Jo 21:5"
+      ],
+      "verseCount": 210
+    },
+    "πλύνω": {
+      "tokenCount": 1,
+      "bookDistribution": {
+        "Lc": 1
+      },
+      "references": [
+        "Lc 5:2"
+      ],
+      "verseCount": 1
+    },
+    "λευκαίνω": {
+      "tokenCount": 1,
+      "bookDistribution": {
+        "Mc": 1
+      },
+      "references": [
+        "Mc 9:3"
+      ],
+      "verseCount": 1
+    },
+    "λατρεύω": {
+      "tokenCount": 4,
+      "bookDistribution": {
+        "Mt": 1,
+        "Lc": 3
+      },
+      "references": [
+        "Mt 4:10",
+        "Lc 1:74",
+        "Lc 2:37",
+        "Lc 4:8"
+      ],
+      "verseCount": 4
+    },
+    "σκηνόω": {
+      "tokenCount": 1,
+      "bookDistribution": {
+        "Jo": 1
+      },
+      "references": [
+        "Jo 1:14"
+      ],
+      "verseCount": 1
+    },
+    "πεινάω": {
+      "tokenCount": 17,
+      "bookDistribution": {
+        "Mt": 9,
+        "Mc": 2,
+        "Lc": 5,
+        "Jo": 1
+      },
+      "references": [
+        "Mt 4:2",
+        "Mt 5:6",
+        "Mt 12:1",
+        "Mt 12:3",
+        "Mt 21:18",
+        "Mt 25:35",
+        "Mt 25:37",
+        "Mt 25:42",
+        "Mt 25:44",
+        "Mc 2:25",
+        "Mc 11:12",
+        "Lc 1:53",
+        "Lc 4:2",
+        "Lc 6:3",
+        "Lc 6:21",
+        "Lc 6:25",
+        "Jo 6:35"
+      ],
+      "verseCount": 17
+    },
+    "διψάω": {
+      "tokenCount": 11,
+      "bookDistribution": {
+        "Mt": 5,
+        "Jo": 6
+      },
+      "references": [
+        "Mt 5:6",
+        "Mt 25:35",
+        "Mt 25:37",
+        "Mt 25:42",
+        "Mt 25:44",
+        "Jo 4:13",
+        "Jo 4:14",
+        "Jo 4:15",
+        "Jo 6:35",
+        "Jo 7:37",
+        "Jo 19:28"
+      ],
+      "verseCount": 11
+    },
+    "καῦμα": {
+      "tokenCount": 0,
+      "bookDistribution": {},
+      "references": [],
+      "verseCount": 0
+    },
+    "ὁδηγέω": {
+      "tokenCount": 3,
+      "bookDistribution": {
+        "Mt": 1,
+        "Lc": 1,
+        "Jo": 1
+      },
+      "references": [
+        "Mt 15:14",
+        "Lc 6:39",
+        "Jo 16:13"
+      ],
+      "verseCount": 3
+    },
+    "πηγή": {
+      "tokenCount": 4,
+      "bookDistribution": {
+        "Mc": 1,
+        "Jo": 3
+      },
+      "references": [
+        "Mc 5:29",
+        "Jo 4:6",
+        "Jo 4:14"
+      ],
+      "verseCount": 3
+    },
+    "δάκρυον": {
+      "tokenCount": 2,
+      "bookDistribution": {
+        "Lc": 2
+      },
+      "references": [
+        "Lc 7:38",
+        "Lc 7:44"
+      ],
+      "verseCount": 2
+    }
+  },
+  "batchComplete": true
+}

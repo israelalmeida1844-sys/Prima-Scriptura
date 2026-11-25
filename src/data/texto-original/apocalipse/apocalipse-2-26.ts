@@ -8,7 +8,7 @@ export const apocalipse2v26 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao vencedor, aquele que guardar até o fim as minhas obras, darei autoridade sobre as nações,",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "ὁ νικῶν e ὁ τηρῶν são particípios presentes ativos substantivados; ἄχρι τέλους estabelece continuidade até o fim. ἐξουσίαν ἐπὶ τῶν ἐθνῶν prepara a aplicação messiânica do Salmo 2.\n\n[Revisão acadêmica complementar] ὁ νικῶν e ὁ τηρῶν são particípios substantivados com sentido de perseverança; τὰ ἔργα μου é objeto de τηρῶν, não referência automática a mérito salvífico.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A autoridade prometida ao vencedor participa da linguagem régia e messiânica.",
     "A obediência perseverante e as obras de Cristo aparecem ligadas."
@@ -43,7 +43,7 @@ export const apocalipse2v26 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "aquele que",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -67,7 +67,7 @@ export const apocalipse2v26 = {
       "shortMorph": "V-PAP-NSM",
       "greek": "νικῶν",
       "transliteration": "nikōn",
-      "gloss": "vence",
+      "gloss": "que vence",
       "strong": "G3528",
       "lemma": "νικάω",
       "lemmaTransliteration": "nikaō",
@@ -115,7 +115,7 @@ export const apocalipse2v26 = {
       "shortMorph": "Art-NSM",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "aquele que",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -211,7 +211,7 @@ export const apocalipse2v26 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -257,9 +257,9 @@ export const apocalipse2v26 = {
     {
       "id": "ap2-26-11",
       "shortMorph": "PPro-GS-",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -276,14 +276,15 @@ export const apocalipse2v26 = {
         "clauseId": "AP.2.26.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-26-12",
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "darei",
+      "gloss": "concederei",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -379,7 +380,7 @@ export const apocalipse2v26 = {
       "shortMorph": "Art-GPN",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -401,7 +402,7 @@ export const apocalipse2v26 = {
     {
       "id": "ap2-26-17",
       "shortMorph": "N-GPN",
-      "greek": "ἐθνῶν,",
+      "greek": "ἐθνῶν",
       "transliteration": "ethnōn",
       "gloss": "nações",
       "strong": "G1484",
@@ -420,7 +421,12 @@ export const apocalipse2v26 = {
         "clauseId": "AP.2.26.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     }
+  ],
+  "syntacticNotes": [
+    "ὁ νικῶν e ὁ τηρῶν são particípios presentes ativos substantivados; ἄχρι τέλους estabelece continuidade até o fim. ἐξουσίαν ἐπὶ τῶν ἐθνῶν prepara a aplicação messiânica do Salmo 2.",
+    "ὁ νικῶν e ὁ τηρῶν são particípios substantivados com sentido de perseverança; τὰ ἔργα μου é objeto de τηρῶν, não referência automática a mérito salvífico."
   ]
 } as const;

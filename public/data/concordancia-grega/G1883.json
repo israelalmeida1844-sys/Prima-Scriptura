@@ -1,0 +1,41 @@
+{
+  "strong": "G1883",
+  "lemma": "ἐπάνω",
+  "lemmaTranslit": "epanō",
+  "tokenCount": 19,
+  "verseCount": 18,
+  "bookDistribution": {
+    "Mt": 8,
+    "Mc": 1,
+    "Lc": 5,
+    "Jo": 2,
+    "1Co": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 2:9",
+    "Mt 5:14",
+    "Mt 21:7",
+    "Mt 23:18",
+    "Mt 23:20",
+    "Mt 23:22",
+    "Mt 27:37",
+    "Mt 28:2",
+    "Mc 14:5",
+    "Lc 4:39",
+    "Lc 10:19",
+    "Lc 11:44",
+    "Lc 19:17",
+    "Lc 19:19",
+    "Jo 3:31",
+    "1Co 15:6",
+    "Ap 6:8",
+    "Ap 20:3"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

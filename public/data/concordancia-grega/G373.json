@@ -1,0 +1,37 @@
+{
+  "strong": "G373",
+  "lemma": "ἀναπαύω",
+  "lemmaTranslit": "anapayō",
+  "tokenCount": 12,
+  "verseCount": 12,
+  "bookDistribution": {
+    "Mt": 2,
+    "Mc": 2,
+    "Lc": 1,
+    "1Co": 1,
+    "2Co": 1,
+    "Fm": 2,
+    "1Pe": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 11:28",
+    "Mt 26:45",
+    "Mc 6:31",
+    "Mc 14:41",
+    "Lc 12:19",
+    "1Co 16:18",
+    "2Co 7:13",
+    "Fm 1:7",
+    "Fm 1:20",
+    "1Pe 4:14",
+    "Ap 6:11",
+    "Ap 14:13"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

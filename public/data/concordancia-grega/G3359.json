@@ -1,0 +1,29 @@
+{
+  "strong": "G3359",
+  "lemma": "μέτωπον",
+  "lemmaTranslit": "metōpon",
+  "tokenCount": 8,
+  "verseCount": 8,
+  "bookDistribution": {
+    "Ap": 8
+  },
+  "references": [
+    "Ap 7:3",
+    "Ap 9:4",
+    "Ap 13:16",
+    "Ap 14:1",
+    "Ap 14:9",
+    "Ap 17:5",
+    "Ap 20:4",
+    "Ap 22:4"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-7/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata do lema MorphGNT, não contagem de todas as grafias ou homônimos de um número Strong.",
+  "strongDictionaryLemma": "μέτωπον",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml, blob 81b698b7141d8b17951a99086ecc4c67fec29884"
+}

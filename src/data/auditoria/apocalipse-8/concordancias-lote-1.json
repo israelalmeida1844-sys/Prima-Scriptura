@@ -1,0 +1,460 @@
+{
+  "scope": "Apocalipse 8 — lote 1: quatro Evangelhos integralmente processados",
+  "batchComplete": true,
+  "complete": false,
+  "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7; possíveis variantes de lema registradas separadamente",
+  "sources": [
+    {
+      "book": "Mt",
+      "blob": "4745674bd63bf0bbec37b8b08f2c8f32b73266b4",
+      "rows": 18329,
+      "first": "010101",
+      "last": "012820"
+    },
+    {
+      "book": "Mc",
+      "blob": "d68222360b161cd6acba11746acfcb092b6af0c3",
+      "rows": 11286,
+      "first": "020101",
+      "last": "021620"
+    },
+    {
+      "book": "Lc",
+      "blob": "474e65703c49ef3890fca4b24403434ab6df6457",
+      "rows": 19446,
+      "first": "030101",
+      "last": "032453"
+    },
+    {
+      "book": "Jo",
+      "blob": "c3dab42934edab531f7dc08b630be8181638bd61",
+      "rows": 15438,
+      "first": "040101",
+      "last": "042125"
+    }
+  ],
+  "entries": {
+    "ἕβδομος": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Jo": 1
+      },
+      "references": [
+        "Jo 4:52"
+      ]
+    },
+    "σιγή": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "ἡμιώριον": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "λιβανωτός": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "καπνός": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "γεμίζω": {
+      "tokenCount": 7,
+      "verseCount": 6,
+      "bookDistribution": {
+        "Mc": 2,
+        "Lc": 2,
+        "Jo": 3
+      },
+      "references": [
+        "Mc 4:37",
+        "Mc 15:36",
+        "Lc 14:23",
+        "Lc 15:16",
+        "Jo 2:7",
+        "Jo 6:13"
+      ]
+    },
+    "ἑτοιμάζω": {
+      "tokenCount": 28,
+      "verseCount": 28,
+      "bookDistribution": {
+        "Mt": 7,
+        "Mc": 5,
+        "Lc": 14,
+        "Jo": 2
+      },
+      "references": [
+        "Mt 3:3",
+        "Mt 20:23",
+        "Mt 22:4",
+        "Mt 25:34",
+        "Mt 25:41",
+        "Mt 26:17",
+        "Mt 26:19",
+        "Mc 1:3",
+        "Mc 10:40",
+        "Mc 14:12",
+        "Mc 14:15",
+        "Mc 14:16",
+        "Lc 1:17",
+        "Lc 1:76",
+        "Lc 2:31",
+        "Lc 3:4",
+        "Lc 9:52",
+        "Lc 12:20",
+        "Lc 12:47",
+        "Lc 17:8",
+        "Lc 22:8",
+        "Lc 22:9",
+        "Lc 22:12",
+        "Lc 22:13",
+        "Lc 23:56",
+        "Lc 24:1",
+        "Jo 14:2",
+        "Jo 14:3"
+      ]
+    },
+    "σαλπίζω": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Mt": 1
+      },
+      "references": [
+        "Mt 6:2"
+      ]
+    },
+    "χάλαζα": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "μίγνυμι": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Mt": 1,
+        "Lc": 1
+      },
+      "references": [
+        "Mt 27:34",
+        "Lc 13:1"
+      ]
+    },
+    "κατακαίω": {
+      "tokenCount": 3,
+      "verseCount": 3,
+      "bookDistribution": {
+        "Mt": 2,
+        "Lc": 1
+      },
+      "references": [
+        "Mt 3:12",
+        "Mt 13:30",
+        "Lc 3:17"
+      ]
+    },
+    "χόρτος": {
+      "tokenCount": 7,
+      "verseCount": 7,
+      "bookDistribution": {
+        "Mt": 3,
+        "Mc": 2,
+        "Lc": 1,
+        "Jo": 1
+      },
+      "references": [
+        "Mt 6:30",
+        "Mt 13:26",
+        "Mt 14:19",
+        "Mc 4:28",
+        "Mc 6:39",
+        "Lc 12:28",
+        "Jo 6:10"
+      ]
+    },
+    "πλοῖον": {
+      "tokenCount": 45,
+      "verseCount": 40,
+      "bookDistribution": {
+        "Mt": 13,
+        "Mc": 17,
+        "Lc": 8,
+        "Jo": 7
+      },
+      "references": [
+        "Mt 4:21",
+        "Mt 4:22",
+        "Mt 8:23",
+        "Mt 8:24",
+        "Mt 9:1",
+        "Mt 13:2",
+        "Mt 14:13",
+        "Mt 14:22",
+        "Mt 14:24",
+        "Mt 14:29",
+        "Mt 14:32",
+        "Mt 14:33",
+        "Mt 15:39",
+        "Mc 1:19",
+        "Mc 1:20",
+        "Mc 4:1",
+        "Mc 4:36",
+        "Mc 4:37",
+        "Mc 5:2",
+        "Mc 5:18",
+        "Mc 5:21",
+        "Mc 6:32",
+        "Mc 6:45",
+        "Mc 6:47",
+        "Mc 6:51",
+        "Mc 6:54",
+        "Mc 8:10",
+        "Mc 8:14",
+        "Lc 5:2",
+        "Lc 5:3",
+        "Lc 5:7",
+        "Lc 5:11",
+        "Lc 8:22",
+        "Lc 8:37",
+        "Jo 6:17",
+        "Jo 6:19",
+        "Jo 6:21",
+        "Jo 6:22",
+        "Jo 21:3",
+        "Jo 21:6"
+      ]
+    },
+    "διαφθείρω": {
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Lc": 1
+      },
+      "references": [
+        "Lc 12:33"
+      ]
+    },
+    "ποταμός": {
+      "tokenCount": 7,
+      "verseCount": 7,
+      "bookDistribution": {
+        "Mt": 3,
+        "Mc": 1,
+        "Lc": 2,
+        "Jo": 1
+      },
+      "references": [
+        "Mt 3:6",
+        "Mt 7:25",
+        "Mt 7:27",
+        "Mc 1:5",
+        "Lc 6:48",
+        "Lc 6:49",
+        "Jo 7:38"
+      ]
+    },
+    "ἄψινθος": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "Ἄψινθος": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πικραίνω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "πλήσσω": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "σκοτίζομαι": {
+      "tokenCount": 2,
+      "verseCount": 2,
+      "bookDistribution": {
+        "Mt": 1,
+        "Mc": 1
+      },
+      "references": [
+        "Mt 24:29",
+        "Mc 13:24"
+      ]
+    },
+    "μεσουράνημα": {
+      "tokenCount": 0,
+      "verseCount": 0,
+      "bookDistribution": {},
+      "references": []
+    },
+    "οὐαί": {
+      "tokenCount": 30,
+      "verseCount": 26,
+      "bookDistribution": {
+        "Mt": 13,
+        "Mc": 2,
+        "Lc": 15
+      },
+      "references": [
+        "Mt 11:21",
+        "Mt 18:7",
+        "Mt 23:13",
+        "Mt 23:15",
+        "Mt 23:16",
+        "Mt 23:23",
+        "Mt 23:25",
+        "Mt 23:27",
+        "Mt 23:29",
+        "Mt 24:19",
+        "Mt 26:24",
+        "Mc 13:17",
+        "Mc 14:21",
+        "Lc 6:24",
+        "Lc 6:25",
+        "Lc 6:26",
+        "Lc 10:13",
+        "Lc 11:42",
+        "Lc 11:43",
+        "Lc 11:44",
+        "Lc 11:46",
+        "Lc 11:47",
+        "Lc 11:52",
+        "Lc 17:1",
+        "Lc 21:23",
+        "Lc 22:22"
+      ]
+    }
+  },
+  "alternativeCandidates": {},
+  "strongMapping": [
+    {
+      "lemma": "ἕβδομος",
+      "strong": "G1442",
+      "aliases": []
+    },
+    {
+      "lemma": "σιγή",
+      "strong": "G4602",
+      "aliases": []
+    },
+    {
+      "lemma": "ἡμιώριον",
+      "strong": "G2256",
+      "aliases": []
+    },
+    {
+      "lemma": "λιβανωτός",
+      "strong": "G3031",
+      "aliases": []
+    },
+    {
+      "lemma": "καπνός",
+      "strong": "G2586",
+      "aliases": []
+    },
+    {
+      "lemma": "γεμίζω",
+      "strong": "G1072",
+      "aliases": []
+    },
+    {
+      "lemma": "ἑτοιμάζω",
+      "strong": "G2090",
+      "aliases": []
+    },
+    {
+      "lemma": "σαλπίζω",
+      "strong": "G4537",
+      "aliases": []
+    },
+    {
+      "lemma": "χάλαζα",
+      "strong": "G5464",
+      "aliases": []
+    },
+    {
+      "lemma": "μίγνυμι",
+      "strong": "G3396",
+      "aliases": []
+    },
+    {
+      "lemma": "κατακαίω",
+      "strong": "G2618",
+      "aliases": []
+    },
+    {
+      "lemma": "χόρτος",
+      "strong": "G5528",
+      "aliases": []
+    },
+    {
+      "lemma": "πλοῖον",
+      "strong": "G4143",
+      "aliases": []
+    },
+    {
+      "lemma": "διαφθείρω",
+      "strong": "G1311",
+      "aliases": []
+    },
+    {
+      "lemma": "ποταμός",
+      "strong": "G4215",
+      "aliases": []
+    },
+    {
+      "lemma": "ἄψινθος",
+      "strong": "G894",
+      "aliases": [
+        "Ἄψινθος"
+      ]
+    },
+    {
+      "lemma": "πικραίνω",
+      "strong": "G4087",
+      "aliases": []
+    },
+    {
+      "lemma": "πλήσσω",
+      "strong": "G4141",
+      "aliases": []
+    },
+    {
+      "lemma": "σκοτίζομαι",
+      "strong": "G4654",
+      "aliases": []
+    },
+    {
+      "lemma": "μεσουράνημα",
+      "strong": "G3321",
+      "aliases": []
+    },
+    {
+      "lemma": "οὐαί",
+      "strong": "G3759",
+      "aliases": []
+    }
+  ],
+  "totalMatches": 134
+}

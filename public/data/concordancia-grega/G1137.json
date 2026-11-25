@@ -1,0 +1,35 @@
+{
+  "strong": "G1137",
+  "lemma": "γωνία",
+  "lemmaTranslit": "gōnia",
+  "tokenCount": 9,
+  "verseCount": 9,
+  "bookDistribution": {
+    "Mt": 2,
+    "Mc": 1,
+    "Lc": 1,
+    "At": 2,
+    "1Pe": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 6:5",
+    "Mt 21:42",
+    "Mc 12:10",
+    "Lc 20:17",
+    "At 4:11",
+    "At 26:26",
+    "1Pe 2:7",
+    "Ap 7:1",
+    "Ap 20:8"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT (blobs registrados nos quatro lotes)",
+  "sourceVersion": "Manifesto SHA por livro em src/data/auditoria/apocalipse-7/concordancias-consolidado.json",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27,
+  "countMethod": "Correspondência exata do lema MorphGNT, não contagem de todas as grafias ou homônimos de um número Strong.",
+  "strongDictionaryLemma": "γωνία",
+  "strongDictionarySource": "morphgnt/strongs-dictionary-xml, blob 81b698b7141d8b17951a99086ecc4c67fec29884"
+}

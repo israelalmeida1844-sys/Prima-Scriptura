@@ -1,0 +1,30 @@
+name: Validar Apocalipse 7
+on:
+  push:
+    branches: ['rascunho/apocalipse']
+permissions:
+  contents: read
+jobs:
+  validar:
+    if: github.ref == 'refs/heads/rascunho/apocalipse'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependências
+        run: npm install --no-audit --no-fund
+      - name: Obter corpus independente
+        run: git clone https://github.com/morphgnt/sblgnt.git "$RUNNER_TEMP/morphgnt"
+      - name: Validar texto, morfologia, léxico e concordâncias
+        run: node scripts/validar-apocalipse7.mjs "$RUNNER_TEMP/morphgnt"
+      - name: Compilar Astro
+        run: npm run build
+      - name: Instalar navegador de testes
+        run: |
+          npm install --no-save --package-lock=false playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Verificar rotas e interação no Chromium
+        run: node scripts/testar-apocalipse7-browser.mjs

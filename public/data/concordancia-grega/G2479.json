@@ -1,0 +1,34 @@
+{
+  "strong": "G2479",
+  "lemma": "ἰσχύς",
+  "lemmaTranslit": "ischys",
+  "tokenCount": 10,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Mc": 2,
+    "Lc": 1,
+    "Ef": 2,
+    "2Ts": 1,
+    "1Pe": 1,
+    "2Pe": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mc 12:30",
+    "Mc 12:33",
+    "Lc 10:27",
+    "Ef 1:19",
+    "Ef 6:10",
+    "2Ts 1:9",
+    "1Pe 4:11",
+    "2Pe 2:11",
+    "Ap 5:12",
+    "Ap 7:12"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

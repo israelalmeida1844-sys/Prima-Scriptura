@@ -8,7 +8,7 @@ export const apocalipse1v14 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sua cabeça e seus cabelos eram brancos como lã branca, como neve; seus olhos, como chama de fogo.",
   "translationNote": "Tradução editorial portuguesa baseada na sintaxe do SBLGNT; as glosas interlineares são auxiliares e não reproduzem todas as relações da oração.",
-  "textualNotes": "κεφαλὴ e τρίχες integram a apresentação dos traços da figura; λευκαὶ é nominativo feminino plural, concordando com τρίχες. Lã e neve evocam Daniel 7:9, sem estabelecer identidade direta entre todos os detalhes.\n\n[Revisão acadêmica complementar] λευκαὶ no feminino plural concorda com τρίχες. A justaposição de imagens lembra Dn 7:9, porém não deve fundir as figuras sem argumento contextual.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A brancura da cabeça e dos cabelos evoca imagens de pureza e majestade.",
     "Os olhos como fogo antecipam o olhar penetrante do Cristo exaltado."
@@ -19,7 +19,7 @@ export const apocalipse1v14 = {
       "shortMorph": "Art-NSF",
       "greek": "ἡ",
       "transliteration": "hē",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -139,7 +139,7 @@ export const apocalipse1v14 = {
       "shortMorph": "Art-NPF",
       "greek": "αἱ",
       "transliteration": "hai",
-      "gloss": "o",
+      "gloss": "as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -257,7 +257,7 @@ export const apocalipse1v14 = {
     {
       "id": "ap1-14-11",
       "shortMorph": "Adj-NSN",
-      "greek": "λευκόν,",
+      "greek": "λευκόν",
       "transliteration": "leukon",
       "gloss": "branca",
       "strong": "G3022",
@@ -276,7 +276,8 @@ export const apocalipse1v14 = {
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-14-12",
@@ -305,7 +306,7 @@ export const apocalipse1v14 = {
     {
       "id": "ap1-14-13",
       "shortMorph": "N-NSF",
-      "greek": "χιών,",
+      "greek": "χιών",
       "transliteration": "chiōn",
       "gloss": "neve",
       "strong": "G5510",
@@ -324,7 +325,8 @@ export const apocalipse1v14 = {
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-14-14",
@@ -355,7 +357,7 @@ export const apocalipse1v14 = {
       "shortMorph": "Art-NPM",
       "greek": "οἱ",
       "transliteration": "hoi",
-      "gloss": "o",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -473,7 +475,7 @@ export const apocalipse1v14 = {
     {
       "id": "ap1-14-20",
       "shortMorph": "N-GSN",
-      "greek": "πυρός,",
+      "greek": "πυρός",
       "transliteration": "pyros",
       "gloss": "fogo",
       "strong": "G4442",
@@ -492,7 +494,12 @@ export const apocalipse1v14 = {
         "clauseId": "AP.1.14.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     }
+  ],
+  "syntacticNotes": [
+    "κεφαλὴ e τρίχες integram a apresentação dos traços da figura; λευκαὶ é nominativo feminino plural, concordando com τρίχες. Lã e neve evocam Daniel 7:9, sem estabelecer identidade direta entre todos os detalhes.",
+    "λευκαὶ no feminino plural concorda com τρίχες. A justaposição de imagens lembra Dn 7:9, porém não deve fundir as figuras sem argumento contextual."
   ]
 } as const;

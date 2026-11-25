@@ -1,0 +1,310 @@
+/** Prima Scriptura · Ap 5:7 · SBLGNT/MorphGNT · Edição em revisão */
+export const apocalipse5v7 = {
+  "reference": "Apocalipse 5:7",
+  "book": "Apocalipse",
+  "chapter": 5,
+  "verse": 7,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "translation": "Ele veio e tomou o livro da mão direita daquele que estava sentado no trono.",
+  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "textualNotes": "Não foi incorporada a esta edição uma variante específica verificada para este versículo; a ausência de variantes não é afirmada. Consultar o aparato crítico antes da homologação.",
+  "syntacticNotes": [
+    "ἦλθεν é aoristo indicativo ativo e εἴληφεν é perfeito indicativo ativo; as duas formas expressam ações verbalmente distintas.",
+    "O objeto retomado de εἴληφεν é o livro já mencionado em 5:1."
+  ],
+  "exegeticalNotes": [
+    "O ato de receber o livro estrutura a transição da busca por alguém digno para a apresentação do Cordeiro como agente da ação."
+  ],
+  "words": [
+    {
+      "id": "ap5-7-1",
+      "shortMorph": "C-",
+      "greek": "καὶ",
+      "transliteration": "kai",
+      "gloss": "e",
+      "strong": "G2532",
+      "lemma": "καί",
+      "lemmaTransliteration": "kai",
+      "partOfSpeech": "Conjunção coordenativa",
+      "morphologyCode": "--------",
+      "morphology": "MorphGNT 6.12: C- --------",
+      "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Conector coordenativo ou subordinativo",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "C-"
+    },
+    {
+      "id": "ap5-7-2",
+      "shortMorph": "V-AAI-3S",
+      "greek": "ἦλθεν",
+      "transliteration": "ēlthen",
+      "gloss": "veio",
+      "strong": "G2064",
+      "lemma": "ἔρχομαι",
+      "lemmaTransliteration": "erchomai",
+      "partOfSpeech": "Verbo",
+      "morphologyCode": "3AAI-S--",
+      "morphology": "MorphGNT 6.12: V- 3AAI-S--",
+      "meanings": "vir; chegar",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Predicado verbal ou forma dependente",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "V-"
+    },
+    {
+      "id": "ap5-7-3",
+      "shortMorph": "C-",
+      "greek": "καὶ",
+      "transliteration": "kai",
+      "gloss": "e",
+      "strong": "G2532",
+      "lemma": "καί",
+      "lemmaTransliteration": "kai",
+      "partOfSpeech": "Conjunção coordenativa",
+      "morphologyCode": "--------",
+      "morphology": "MorphGNT 6.12: C- --------",
+      "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Conector coordenativo ou subordinativo",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "C-"
+    },
+    {
+      "id": "ap5-7-4",
+      "shortMorph": "V-XAI-3S",
+      "greek": "εἴληφεν",
+      "transliteration": "eilēphen",
+      "gloss": "tomou",
+      "strong": "G2983",
+      "lemma": "λαμβάνω",
+      "lemmaTransliteration": "lambanō",
+      "partOfSpeech": "Verbo",
+      "morphologyCode": "3XAI-S--",
+      "morphology": "MorphGNT 6.12: V- 3XAI-S--",
+      "meanings": "λαμβάνων é particípio presente ativo substantivado, sujeito da exceção «aquele que recebe» a pedrinha/nome.",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Predicado verbal ou forma dependente",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "V-"
+    },
+    {
+      "id": "ap5-7-5",
+      "shortMorph": "P-",
+      "greek": "ἐκ",
+      "transliteration": "ek",
+      "gloss": "de",
+      "strong": "G1537",
+      "lemma": "ἐκ",
+      "lemmaTransliteration": "ek",
+      "partOfSpeech": "Preposição",
+      "morphologyCode": "--------",
+      "morphology": "MorphGNT 6.12: P- --------",
+      "meanings": "de; para fora de",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Introduz complemento preposicional",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "P-"
+    },
+    {
+      "id": "ap5-7-6",
+      "shortMorph": "ART-GSF",
+      "greek": "τῆς",
+      "transliteration": "tēs",
+      "gloss": "da",
+      "strong": "G3588",
+      "lemma": "ὁ",
+      "lemmaTransliteration": "ho",
+      "partOfSpeech": "Artigo definido",
+      "morphologyCode": "----GSF-",
+      "morphology": "MorphGNT 6.12: RA ----GSF-",
+      "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "RA"
+    },
+    {
+      "id": "ap5-7-7",
+      "shortMorph": "ADJ-GSF",
+      "greek": "δεξιᾶς",
+      "transliteration": "dexias",
+      "gloss": "direita",
+      "strong": "G1188",
+      "lemma": "δεξιός",
+      "lemmaTransliteration": "dexios",
+      "partOfSpeech": "Adjetivo",
+      "morphologyCode": "----GSF-",
+      "morphology": "MorphGNT 6.12: A- ----GSF-",
+      "meanings": "direita; direito",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Modificador nominal ou predicativo",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "A-"
+    },
+    {
+      "id": "ap5-7-8",
+      "shortMorph": "ART-GSM",
+      "greek": "τοῦ",
+      "transliteration": "toy",
+      "gloss": "do",
+      "strong": "G3588",
+      "lemma": "ὁ",
+      "lemmaTransliteration": "ho",
+      "partOfSpeech": "Artigo definido",
+      "morphologyCode": "----GSM-",
+      "morphology": "MorphGNT 6.12: RA ----GSM-",
+      "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "RA"
+    },
+    {
+      "id": "ap5-7-9",
+      "shortMorph": "V-PMP-GSM",
+      "greek": "καθημένου",
+      "transliteration": "kathēmenoy",
+      "gloss": "sentado",
+      "strong": "G2521",
+      "lemma": "κάθημαι",
+      "lemmaTransliteration": "kathēmai",
+      "partOfSpeech": "Verbo",
+      "morphologyCode": "-PMPGSM-",
+      "morphology": "MorphGNT 6.12: V- -PMPGSM-",
+      "meanings": "Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos.",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Predicado verbal ou forma dependente",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "V-"
+    },
+    {
+      "id": "ap5-7-10",
+      "shortMorph": "P-",
+      "greek": "ἐπὶ",
+      "transliteration": "epi",
+      "gloss": "sobre",
+      "strong": "G1909",
+      "lemma": "ἐπί",
+      "lemmaTransliteration": "epi",
+      "partOfSpeech": "Preposição",
+      "morphologyCode": "--------",
+      "morphology": "MorphGNT 6.12: P- --------",
+      "meanings": "sobre; por causa de",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Introduz complemento preposicional",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "P-"
+    },
+    {
+      "id": "ap5-7-11",
+      "shortMorph": "ART-GSM",
+      "greek": "τοῦ",
+      "transliteration": "toy",
+      "gloss": "do",
+      "strong": "G3588",
+      "lemma": "ὁ",
+      "lemmaTransliteration": "ho",
+      "partOfSpeech": "Artigo definido",
+      "morphologyCode": "----GSM-",
+      "morphology": "MorphGNT 6.12: RA ----GSM-",
+      "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "RA"
+    },
+    {
+      "id": "ap5-7-12",
+      "shortMorph": "N-GSM",
+      "greek": "θρόνου",
+      "transliteration": "thronoy",
+      "gloss": "trono",
+      "strong": "G2362",
+      "lemma": "θρόνος",
+      "lemmaTransliteration": "thronos",
+      "partOfSpeech": "Substantivo",
+      "morphologyCode": "----GSM-",
+      "morphology": "MorphGNT 6.12: N- ----GSM-",
+      "meanings": "trono",
+      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "occurrencesExamples": [
+        "Ap 5:7"
+      ],
+      "syntax": {
+        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "clauseId": "AP.5.7",
+        "governedBy": null
+      },
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
+    }
+  ]
+};

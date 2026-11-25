@@ -8,7 +8,7 @@ export const apocalipse4v5 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Do trono procediam relâmpagos, vozes e trovões; e sete lâmpadas de fogo ardiam diante do trono: são os sete espíritos de Deus.",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "Relâmpagos, vozes e trovões evocam teofania (Êx 19:16). A expressão «sete espíritos» reaparece em Ap 1:4; 3:1; 5:6, exigindo leitura intratextual.",
     "O relativo ἅ está no neutro plural, embora λαμπάδες seja feminino plural; a relação anafórica é semântica e identifica a imagem das sete lâmpadas com «os sete espíritos de Deus».",
@@ -28,7 +28,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -44,7 +44,7 @@ export const apocalipse4v5 = {
       "shortMorph": "P-",
       "greek": "ἐκ",
       "transliteration": "ek",
-      "gloss": "de; desde",
+      "gloss": "de",
       "strong": "G1537",
       "lemma": "ἐκ",
       "lemmaTransliteration": "ek",
@@ -52,7 +52,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de; para fora de",
-      "explanation": "Forma «ἐκ» (ἐκ, G1537); Preposição. Sentido lexical contextual: de; desde. Introdução de complemento preposicional. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -68,7 +68,7 @@ export const apocalipse4v5 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o; a; artigo",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -76,7 +76,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» (ὁ, G3588); Artigo definido genitivo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -100,7 +100,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "trono",
-      "explanation": "Forma «θρόνου» (θρόνος, G2362); Substantivo genitivo singular masculino. Sentido lexical contextual: trono. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -116,7 +116,7 @@ export const apocalipse4v5 = {
       "shortMorph": "V-PMI-3P",
       "greek": "ἐκπορεύονται",
       "transliteration": "ekporeuontai",
-      "gloss": "proceder; sair",
+      "gloss": "saem",
       "strong": "G1607",
       "lemma": "ἐκπορεύομαι",
       "lemmaTransliteration": "ekporeuomai",
@@ -124,7 +124,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "3PMI-P--",
       "morphology": "Verbo presente, voz média, indicativo, 3ª pessoa plural",
       "meanings": "sair; proceder",
-      "explanation": "Forma «ἐκπορεύονται» (ἐκπορεύομαι, G1607); Verbo presente, voz média, indicativo, 3ª pessoa plural. Sentido lexical contextual: proceder; sair. Predicado verbal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -148,7 +148,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "Relâmpago, manifestação luminosa da teofania do trono em 4:5.",
-      "explanation": "Forma «ἀστραπαὶ» (ἀστραπή, G796); Substantivo nominativo plural feminino. Relâmpago, manifestação luminosa da teofania do trono em 4:5. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -172,7 +172,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -196,7 +196,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "voz; som",
-      "explanation": "Forma «φωναὶ» (φωνή, G5456); Substantivo nominativo plural feminino. Sentido lexical contextual: voz. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -220,7 +220,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -234,7 +234,7 @@ export const apocalipse4v5 = {
     {
       "id": "ap4-5-10",
       "shortMorph": "N-NPF",
-      "greek": "βρονταί·",
+      "greek": "βρονταί",
       "transliteration": "brontai",
       "gloss": "trovão",
       "strong": "G1027",
@@ -244,7 +244,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "Trovão, fenômeno associado ao trono em 4:5.",
-      "explanation": "Forma «βρονταί·» (βροντή, G1027); Substantivo nominativo plural feminino. Trovão, fenômeno associado ao trono em 4:5. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -253,7 +253,8 @@ export const apocalipse4v5 = {
         "clauseId": "AP.4.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap4-5-11",
@@ -268,7 +269,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -292,7 +293,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
       "meanings": "sete",
-      "explanation": "Forma «ἑπτὰ» (ἑπτά, G2033); Adjetivo nominativo plural feminino. Sentido lexical contextual: sete. Numeral quantificador de λαμπάδες. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -308,7 +309,7 @@ export const apocalipse4v5 = {
       "shortMorph": "N-NPF",
       "greek": "λαμπάδες",
       "transliteration": "lampades",
-      "gloss": "lâmpada; tocha",
+      "gloss": "tochas",
       "strong": "G2985",
       "lemma": "λαμπάς",
       "lemmaTransliteration": "lampas",
@@ -316,7 +317,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
       "meanings": "Tocha ou lâmpada flamejante, com sete exemplares diante do trono em 4:5.",
-      "explanation": "Forma «λαμπάδες» (λαμπάς, G2985); Substantivo nominativo plural feminino. Tocha ou lâmpada flamejante, com sete exemplares diante do trono em 4:5. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -340,7 +341,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "fogo",
-      "explanation": "Forma «πυρὸς» (πῦρ, G4442); Substantivo genitivo singular neutro. Sentido lexical contextual: fogo. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -356,7 +357,7 @@ export const apocalipse4v5 = {
       "shortMorph": "V-PPP-NPF",
       "greek": "καιόμεναι",
       "transliteration": "kaiomenai",
-      "gloss": "arder; queimar",
+      "gloss": "ardentes",
       "strong": "G2545",
       "lemma": "καίω",
       "lemmaTransliteration": "kaiō",
@@ -364,7 +365,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "-PPPNPF-",
       "morphology": "Verbo presente, voz passiva, particípio nominativo plural feminino",
       "meanings": "Arder, queimar ou estar aceso; καιόμεναι qualifica as sete lâmpadas em 4:5.",
-      "explanation": "Forma «καιόμεναι» (καίω, G2545); Verbo presente, voz passiva, particípio nominativo plural feminino. Arder, queimar ou estar aceso; καιόμεναι qualifica as sete lâmpadas em 4:5. Particípio em relação descritiva. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -388,7 +389,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "diante de; na presença de",
-      "explanation": "Forma «ἐνώπιον» (ἐνώπιον, G1799); Preposição. Sentido lexical contextual: diante de. Introdução de complemento preposicional. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -404,7 +405,7 @@ export const apocalipse4v5 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o; a; artigo",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -412,7 +413,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» (ὁ, G3588); Artigo definido genitivo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -426,7 +427,7 @@ export const apocalipse4v5 = {
     {
       "id": "ap4-5-18",
       "shortMorph": "N-GSM",
-      "greek": "θρόνου,",
+      "greek": "θρόνου",
       "transliteration": "thronou",
       "gloss": "trono",
       "strong": "G2362",
@@ -436,7 +437,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "trono",
-      "explanation": "Forma «θρόνου,» (θρόνος, G2362); Substantivo genitivo singular masculino. Sentido lexical contextual: trono. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -445,14 +446,15 @@ export const apocalipse4v5 = {
         "clauseId": "AP.4.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-5-19",
       "shortMorph": "Rel-NPN",
       "greek": "ἅ",
       "transliteration": "ha",
-      "gloss": "que; o qual",
+      "gloss": "que",
       "strong": "G3739",
       "lemma": "ὅς",
       "lemmaTransliteration": "hos",
@@ -460,7 +462,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPN-",
       "morphology": "Pronome relativo nominativo plural neutro",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "Forma «ἅ» (ὅς, G3739); Pronome relativo nominativo plural neutro. Sentido lexical contextual: que; o qual. Pronome relativo neutro que relaciona as lâmpadas aos sete espíritos. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -476,7 +478,7 @@ export const apocalipse4v5 = {
       "shortMorph": "V-PAI-3P",
       "greek": "εἰσιν",
       "transliteration": "eisin",
-      "gloss": "ser; estar",
+      "gloss": "são",
       "strong": "G1510",
       "lemma": "εἰμί",
       "lemmaTransliteration": "eimi",
@@ -484,7 +486,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser; estar; existir",
-      "explanation": "Forma «εἰσιν» (εἰμί, G1510); Verbo presente, voz ativa, indicativo, 3ª pessoa plural. Sentido lexical contextual: ser; estar. Predicado verbal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -500,7 +502,7 @@ export const apocalipse4v5 = {
       "shortMorph": "Art-NPN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "o; a; artigo",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -508,7 +510,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὰ» (ὁ, G3588); Artigo definido nominativo plural neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -532,7 +534,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo nominativo plural neutro",
       "meanings": "sete",
-      "explanation": "Forma «ἑπτὰ» (ἑπτά, G2033); Adjetivo nominativo plural neutro. Sentido lexical contextual: sete. Numeral quantificador de πνεύματα. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -548,7 +550,7 @@ export const apocalipse4v5 = {
       "shortMorph": "N-NPN",
       "greek": "πνεύματα",
       "transliteration": "pneumata",
-      "gloss": "Espírito; espírito",
+      "gloss": "espíritos",
       "strong": "G4151",
       "lemma": "πνεῦμα",
       "lemmaTransliteration": "pneuma",
@@ -556,7 +558,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo nominativo plural neutro",
       "meanings": "espírito; sopro; vento",
-      "explanation": "Forma «πνεύματα» (πνεῦμα, G4151); Substantivo nominativo plural neutro. Sentido lexical contextual: Espírito; espírito. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -572,7 +574,7 @@ export const apocalipse4v5 = {
       "shortMorph": "Art-GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o; a; artigo",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -580,7 +582,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» (ὁ, G3588); Artigo definido genitivo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -594,7 +596,7 @@ export const apocalipse4v5 = {
     {
       "id": "ap4-5-25",
       "shortMorph": "N-GSM",
-      "greek": "θεοῦ,",
+      "greek": "θεοῦ",
       "transliteration": "theou",
       "gloss": "Deus",
       "strong": "G2316",
@@ -604,7 +606,7 @@ export const apocalipse4v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Forma «θεοῦ,» (θεός, G2316); Substantivo genitivo singular masculino. Sentido lexical contextual: Deus. Núcleo de sintagma nominal. ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:5"
       ],
@@ -613,7 +615,11 @@ export const apocalipse4v5 = {
         "clauseId": "AP.4.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     }
+  ],
+  "syntacticNotes": [
+    "ἐκπορεύονται é presente médio/passivo deponente 3ª pessoa plural, aqui com sujeito plural ἀστραπαί, φωναί, βρονταί. καιόμεναι é particípio presente passivo nominativo feminino plural qualificando λαμπάδες. ἅ é relativo neutro plural retomando a imagem das lâmpadas, identificadas com τὰ ἑπτὰ πνεύματα."
   ]
 } as const;

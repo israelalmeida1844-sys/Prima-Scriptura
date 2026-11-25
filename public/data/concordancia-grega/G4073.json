@@ -1,0 +1,38 @@
+{
+  "strong": "G4073",
+  "lemma": "πέτρα",
+  "lemmaTranslit": "petra",
+  "tokenCount": 15,
+  "verseCount": 14,
+  "bookDistribution": {
+    "Mt": 5,
+    "Mc": 1,
+    "Lc": 3,
+    "Rm": 1,
+    "1Co": 2,
+    "1Pe": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 7:24",
+    "Mt 7:25",
+    "Mt 16:18",
+    "Mt 27:51",
+    "Mt 27:60",
+    "Mc 15:46",
+    "Lc 6:48",
+    "Lc 8:6",
+    "Lc 8:13",
+    "Rm 9:33",
+    "1Co 10:4",
+    "1Pe 2:8",
+    "Ap 6:15",
+    "Ap 6:16"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

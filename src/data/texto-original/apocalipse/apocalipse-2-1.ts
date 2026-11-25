@@ -8,7 +8,7 @@ export const apocalipse2v1 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao anjo da igreja em Éfeso escreve: Assim diz aquele que segura firmemente as sete estrelas em sua mão direita, aquele que anda entre os sete candelabros de ouro:",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "O SBLGNT lê Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας, com τῆς no genitivo feminino singular. Outras tradições, incluindo o Textus Receptus, apresentam designação étnica da igreja. κρατῶν e περιπατῶν são particípios presentes ativos nominativos masculinos singulares.\n\n[Revisão acadêmica complementar] Τάδε é demonstrativo neutro plural na fórmula 'estas coisas diz'; ἐν μέσῳ rege o genitivo τῶν ... λυχνιῶν. κρατῶν e περιπατῶν funcionam como particípios substantivados que identificam Cristo.",
+  "textualNotes": "Comparação de edições: o SBLGNT lê τῆς ἐν Ἐφέσῳ ἐκκλησίας («da igreja em Éfeso»), ao passo que o Textus Receptus de Scrivener (1894) apresenta τῆς Ἐφεσίνης ἐκκλησίας («da igreja efésia»). A questão envolve duas redações distintas de identificação da comunidade; o texto interlinear utiliza a forma SBLGNT.",
   "exegeticalNotes": [
     "Cristo identifica-se como aquele que segura as estrelas e anda entre as igrejas.",
     "O papel exato de «anjo» nas sete mensagens é discutido."
@@ -19,7 +19,7 @@ export const apocalipse2v1 = {
       "shortMorph": "Art-DSM",
       "greek": "Τῷ",
       "transliteration": "Tō",
-      "gloss": "Ao",
+      "gloss": "ao",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -161,7 +161,7 @@ export const apocalipse2v1 = {
     {
       "id": "ap2-1-7",
       "shortMorph": "V-AAD-2S",
-      "greek": "γράψον·",
+      "greek": "γράψον",
       "transliteration": "grapson",
       "gloss": "escreve",
       "strong": "G1125",
@@ -180,7 +180,8 @@ export const apocalipse2v1 = {
         "clauseId": "AP.2.1.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap2-1-8",
@@ -379,7 +380,7 @@ export const apocalipse2v1 = {
       "shortMorph": "Art-DSF",
       "greek": "τῇ",
       "transliteration": "tē",
-      "gloss": "na",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -425,7 +426,7 @@ export const apocalipse2v1 = {
     {
       "id": "ap2-1-18",
       "shortMorph": "PPro-GSM",
-      "greek": "αὐτοῦ,",
+      "greek": "αὐτοῦ",
       "transliteration": "autou",
       "gloss": "dele",
       "strong": "G846",
@@ -444,7 +445,8 @@ export const apocalipse2v1 = {
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-17"
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-1-19",
@@ -547,7 +549,7 @@ export const apocalipse2v1 = {
       "shortMorph": "Art-GPF",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -619,7 +621,7 @@ export const apocalipse2v1 = {
       "shortMorph": "Art-GPF",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -641,7 +643,7 @@ export const apocalipse2v1 = {
     {
       "id": "ap2-1-27",
       "shortMorph": "Adj-GPF",
-      "greek": "χρυσῶν·",
+      "greek": "χρυσῶν",
       "transliteration": "chrysōn",
       "gloss": "de ouro",
       "strong": "G5552",
@@ -660,7 +662,12 @@ export const apocalipse2v1 = {
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-25"
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "·"
     }
+  ],
+  "syntacticNotes": [
+    "Τάδε é demonstrativo neutro plural na fórmula 'estas coisas diz'; ἐν μέσῳ rege o genitivo τῶν ... λυχνιῶν. κρατῶν e περιπατῶν funcionam como particípios substantivados que identificam Cristo.",
+    "τῆς é artigo no genitivo feminino singular e determina ἐκκλησίας; ἐν Ἐφέσῳ intercala um sintagma preposicional de localização no mesmo grupo nominal."
   ]
 } as const;

@@ -198,8 +198,9 @@
     "Ap 22:16"
   ],
   "complete": true,
-  "source": "SBL Greek New Testament / MorphGNT",
-  "sourceVersion": "6.12",
-  "license": "CC BY-SA 3.0 / CC BY 4.0",
-  "attribution": "MorphGNT (James K. Tauber) e SBL Greek New Testament"
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
 }

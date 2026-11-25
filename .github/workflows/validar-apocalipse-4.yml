@@ -1,0 +1,85 @@
+name: Apocalipse 4 — verificar 293 tokens, 11 rotas e build
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths:
+      - 'src/pages/comentarios/apocalipse/capitulo-4/**'
+      - 'src/components/TextoOriginalApocalipse4v*.astro'
+      - 'src/data/texto-original/apocalipse/apocalipse-4-*.ts'
+      - 'src/data/lexico-grego/apocalipse-4-*.json'
+      - 'public/data/concordancia-grega/G*.json'
+      - 'scripts/auditar-apocalipse-4-completo.mjs'
+      - '.github/reports/apocalipse-4-auditoria-morphgnt.json'
+      - '.github/workflows/validar-apocalipse-4.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  auditoria:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validar dados do capítulo 4
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          let count = 0; const strongs = new Set();
+          const lexicon = JSON.parse(fs.readFileSync('src/data/lexico-grego/apocalipse-4-1-11.json', 'utf8')).entries;
+          for (let n=1; n<=11; n++) {
+            const p = 'src/data/texto-original/apocalipse/apocalipse-4-' + n + '.ts';
+            const source = fs.readFileSync(p, 'utf8');
+            const m = source.match(/=\s*(\{[\s\S]*\})\s*as const;/);
+            assert.ok(m, 'Ausência de dados: '+p);
+            const o = JSON.parse(m[1]);
+            assert.equal(o.chapter,4); assert.equal(o.verse,n);
+            assert.ok(o.translation && o.textualNotes && o.exegeticalNotes.length);
+            for (const w of o.words) {
+              assert.ok(w.greek && w.transliteration && w.gloss && w.explanation);
+              assert.match(w.strong,/^G\d+$/);
+              assert.equal(w.morphologyCode.length,8);
+              assert.ok(lexicon[w.strong], 'Lema ausente: '+w.strong);
+              strongs.add(w.strong); count++;
+            }
+            const comp = fs.readFileSync('src/components/TextoOriginalApocalipse4v'+n+'.astro','utf8');
+            assert.ok(comp.includes('data-original-apocalipse-4-'+n));
+            assert.ok(comp.includes('data-occurrences-panel'));
+            assert.ok(comp.includes('data-toggle="greek"'));
+          }
+          assert.equal(count,293);
+          for (const id of strongs) {
+            const p = 'public/data/concordancia-grega/'+id+'.json';
+            assert.ok(fs.existsSync(p), 'Concordância ausente: '+id);
+            const data=JSON.parse(fs.readFileSync(p,'utf8'));
+            assert.equal(data.complete,true); assert.equal(data.corpusBooks,27);
+            assert.equal(data.verseCount,data.references.length);
+          }
+          const route=fs.readFileSync('src/pages/comentarios/apocalipse/capitulo-4/[versiculo].astro','utf8');
+          assert.ok(route.includes('length: 11')); assert.ok(route.includes('length:11'));
+          assert.ok(!route.includes('length:22') && !route.includes('length:29'));
+          console.log('Auditoria estrutural do capítulo 4: 11 versículos, 293 tokens, '+strongs.size+' concordâncias identificadas.');
+          NODE
+      - name: Conferir os 293 tokens e 46 concordâncias com o MorphGNT fixado
+        run: |
+          git clone --quiet https://github.com/morphgnt/sblgnt.git /tmp/prima-morphgnt
+          git -C /tmp/prima-morphgnt checkout --quiet aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d
+          node scripts/auditar-apocalipse-4-completo.mjs /tmp/prima-morphgnt
+      - name: Build Astro e rotas estáticas
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          for v in $(seq 1 11); do
+            p="dist/comentarios/apocalipse/capitulo-4/versiculo-$v/index.html"
+            test -s "$p"
+            grep -q "data-original-apocalipse-4-$v" "$p"
+          done
+          test -s dist/comentarios/apocalipse/capitulo-4/index.html
+          test -s dist/comentarios/apocalipse/capitulo-2/versiculo-29/index.html
+          test -s dist/comentarios/apocalipse/capitulo-3/versiculo-22/index.html
+          pages=$(find dist -type f -name index.html | wc -l)
+          echo "Páginas index.html estáticas: $pages"
+          test "$pages" -ge 150

@@ -1,0 +1,34 @@
+{
+  "strong": "G1637",
+  "lemma": "ἔλαιον",
+  "lemmaTranslit": "elaion",
+  "tokenCount": 11,
+  "verseCount": 11,
+  "bookDistribution": {
+    "Mt": 3,
+    "Mc": 1,
+    "Lc": 3,
+    "Hb": 1,
+    "Tg": 1,
+    "Ap": 2
+  },
+  "references": [
+    "Mt 25:3",
+    "Mt 25:4",
+    "Mt 25:8",
+    "Mc 6:13",
+    "Lc 7:46",
+    "Lc 10:34",
+    "Lc 16:6",
+    "Hb 1:9",
+    "Tg 5:14",
+    "Ap 6:6",
+    "Ap 18:13"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

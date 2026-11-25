@@ -1,0 +1,113 @@
+{
+  "complete": false,
+  "source": "MorphGNT; dicionário Strong XML",
+  "entries": [
+    {
+      "lemma": "ἕβδομος",
+      "strong": "G1442",
+      "aliases": []
+    },
+    {
+      "lemma": "σιγή",
+      "strong": "G4602",
+      "aliases": []
+    },
+    {
+      "lemma": "ἡμιώριον",
+      "strong": "G2256",
+      "aliases": []
+    },
+    {
+      "lemma": "λιβανωτός",
+      "strong": "G3031",
+      "aliases": []
+    },
+    {
+      "lemma": "καπνός",
+      "strong": "G2586",
+      "aliases": []
+    },
+    {
+      "lemma": "γεμίζω",
+      "strong": "G1072",
+      "aliases": []
+    },
+    {
+      "lemma": "ἑτοιμάζω",
+      "strong": "G2090",
+      "aliases": []
+    },
+    {
+      "lemma": "σαλπίζω",
+      "strong": "G4537",
+      "aliases": []
+    },
+    {
+      "lemma": "χάλαζα",
+      "strong": "G5464",
+      "aliases": []
+    },
+    {
+      "lemma": "μίγνυμι",
+      "strong": "G3396",
+      "aliases": []
+    },
+    {
+      "lemma": "κατακαίω",
+      "strong": "G2618",
+      "aliases": []
+    },
+    {
+      "lemma": "χόρτος",
+      "strong": "G5528",
+      "aliases": []
+    },
+    {
+      "lemma": "πλοῖον",
+      "strong": "G4143",
+      "aliases": []
+    },
+    {
+      "lemma": "διαφθείρω",
+      "strong": "G1311",
+      "aliases": []
+    },
+    {
+      "lemma": "ποταμός",
+      "strong": "G4215",
+      "aliases": []
+    },
+    {
+      "lemma": "ἄψινθος",
+      "strong": "G894",
+      "aliases": [
+        "Ἄψινθος"
+      ]
+    },
+    {
+      "lemma": "πικραίνω",
+      "strong": "G4087",
+      "aliases": []
+    },
+    {
+      "lemma": "πλήσσω",
+      "strong": "G4141",
+      "aliases": []
+    },
+    {
+      "lemma": "σκοτίζομαι",
+      "strong": "G4654",
+      "aliases": []
+    },
+    {
+      "lemma": "μεσουράνημα",
+      "strong": "G3321",
+      "aliases": []
+    },
+    {
+      "lemma": "οὐαί",
+      "strong": "G3759",
+      "aliases": []
+    }
+  ]
+}

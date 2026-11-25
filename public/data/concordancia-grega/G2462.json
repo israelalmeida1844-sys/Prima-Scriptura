@@ -1,0 +1,35 @@
+{
+  "strong": "G2462",
+  "lemma": "ἵππος",
+  "lemmaTranslit": "ippos",
+  "tokenCount": 17,
+  "verseCount": 16,
+  "bookDistribution": {
+    "Tg": 1,
+    "Ap": 16
+  },
+  "references": [
+    "Tg 3:3",
+    "Ap 6:2",
+    "Ap 6:4",
+    "Ap 6:5",
+    "Ap 6:8",
+    "Ap 9:7",
+    "Ap 9:9",
+    "Ap 9:17",
+    "Ap 9:19",
+    "Ap 14:20",
+    "Ap 18:13",
+    "Ap 19:11",
+    "Ap 19:14",
+    "Ap 19:18",
+    "Ap 19:19",
+    "Ap 19:21"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

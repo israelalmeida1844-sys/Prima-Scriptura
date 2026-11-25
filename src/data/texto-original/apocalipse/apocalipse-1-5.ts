@@ -7,7 +7,7 @@ export const apocalipse1v5 = {
   "source": "SBL Greek New Testament (Holmes, 2010)",
   "morphologySource": "MorphGNT 6.12 (Tauber), 87-Re-morphgnt.txt",
   "translation": "E da parte de Jesus Cristo, a testemunha fiel, o primogênito dentre os mortos e o soberano dos reis da terra. Àquele que nos ama e nos libertou dos nossos pecados por seu sangue,",
-  "textualNotes": "O SBLGNT lê λύσαντι (particípio aoristo ativo de λύω: «libertou»), em concordância com as principais edições críticas; a tradição do Textus Receptus lê λούσαντι (de λούω: «lavou»). A diferença de uma letra envolve imagens distintas, ambas cristologicamente coerentes. Verificar sempre o aparato para atribuições específicas de testemunhas e suas correções; não se deve apresentar um agrupamento simplificado de manuscritos como colação exaustiva.\n\n[Revisão acadêmica complementar] ὁ μάρτυς ... nominativo após ἀπὸ Ἰησοῦ Χριστοῦ apresenta aposições formalmente dissonantes. λύσαντι significa libertar; λούσαντι, lavar, pertence a outra tradição textual e não pode substituir o lema do texto crítico.",
+  "textualNotes": "Comparação de edições: o SBLGNT lê λύσαντι ἡμᾶς ἐκ τῶν ἁμαρτιῶν («nos libertou dos pecados»); o Textus Receptus de Scrivener (1894) lê λούσαντι ἡμᾶς ἀπὸ τῶν ἁμαρτιῶν («nos lavou dos pecados»). As diferenças atingem o particípio verbal e a preposição. Para atribuir os apoios manuscritos individuais é necessário consultar o aparato crítico; a redação principal não foi harmonizada.",
   "translationNote": "A expressão ἐν τῷ αἵματι αὐτοῦ é vertida como «por seu sangue»; o meio ou esfera requer análise contextual.",
   "words": [
     {
@@ -85,7 +85,7 @@ export const apocalipse1v5 = {
     {
       "id": "ap1-5-4",
       "shortMorph": "N-GSM",
-      "greek": "Χριστοῦ,",
+      "greek": "Χριστοῦ",
       "transliteration": "christoy",
       "gloss": "Cristo",
       "strong": "G5547",
@@ -104,7 +104,8 @@ export const apocalipse1v5 = {
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-5-5",
@@ -181,7 +182,7 @@ export const apocalipse1v5 = {
     {
       "id": "ap1-5-8",
       "shortMorph": "Adj-NSM",
-      "greek": "πιστός,",
+      "greek": "πιστός",
       "transliteration": "pistos",
       "gloss": "fiel",
       "strong": "G4103",
@@ -200,7 +201,8 @@ export const apocalipse1v5 = {
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-5-9",
@@ -445,7 +447,7 @@ export const apocalipse1v5 = {
     {
       "id": "ap1-5-19",
       "shortMorph": "N-GSF",
-      "greek": "γῆς.",
+      "greek": "γῆς",
       "transliteration": "gēs",
       "gloss": "terra",
       "strong": "G1093",
@@ -464,14 +466,15 @@ export const apocalipse1v5 = {
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": "."
     },
     {
       "id": "ap1-5-20",
       "shortMorph": "Art-DSM",
       "greek": "Τῷ",
       "transliteration": "tō",
-      "gloss": "artigo definido",
+      "gloss": "ao",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -687,7 +690,7 @@ export const apocalipse1v5 = {
       "shortMorph": "PPro-GP-",
       "greek": "ἡμῶν",
       "transliteration": "hēmōn",
-      "gloss": "nossos",
+      "gloss": "nosso",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -735,7 +738,7 @@ export const apocalipse1v5 = {
       "shortMorph": "Art-DSN",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "ao",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -781,7 +784,7 @@ export const apocalipse1v5 = {
     {
       "id": "ap1-5-33",
       "shortMorph": "PPro-GSM",
-      "greek": "αὐτοῦ—",
+      "greek": "αὐτοῦ",
       "transliteration": "aytoy",
       "gloss": "dele",
       "strong": "G846",
@@ -800,7 +803,14 @@ export const apocalipse1v5 = {
         "clauseId": "AP.1.5.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "—"
     }
+  ],
+  "syntacticNotes": [
+    "ὁ μάρτυς ... nominativo após ἀπὸ Ἰησοῦ Χριστοῦ apresenta aposições formalmente dissonantes. λύσαντι significa libertar; λούσαντι, lavar, pertence a outra tradição textual e não pode substituir o lema do texto crítico."
+  ],
+  "exegeticalNotes": [
+    "Os títulos «testemunha fiel», «primogênito dentre os mortos» e «soberano dos reis da terra» formam a apresentação cristológica. A leitura λύσαντι («libertou») orienta a imagem de libertação pelo sangue sem eliminar o debate textual com λούσαντι («lavou»)."
   ]
 } as const;

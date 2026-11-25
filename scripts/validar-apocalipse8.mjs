@@ -1,0 +1,71 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {createHash} from 'node:crypto';
+const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+const corpus=process.argv[2];
+assert.ok(corpus,'Diretório MorphGNT obrigatório');
+const manifest=read('src/data/auditoria/apocalipse-8/concordancias-consolidado.json');
+const lex=read('src/data/lexico-grego/apocalipse-8-1-13.json').entries;
+const fileNames=fs.readdirSync(corpus).filter(x=>/^\d\d-.*-morphgnt\.txt$/.test(x)).sort();
+assert.equal(fileNames.length,27);
+const counts=new Map(manifest.entries.flatMap(e=>e.lemmaBreakdown.map(f=>[f.lemma,{tokens:0,refs:new Set(),dist:{}}])));
+let corpusTotal=0, chapterRows=[];
+for(let i=0;i<fileNames.length;i++){
+  const bytes=fs.readFileSync(path.join(corpus,fileNames[i]));
+  const sha=createHash('sha1').update('blob '+bytes.length+'\0').update(bytes).digest('hex');
+  const source=manifest.sources[i];
+  assert.equal(sha,source.blob,'Versão do corpus divergente: '+source.book);
+  const rows=bytes.toString('utf8').trim().split(/\r?\n/).map(l=>l.trim().split(/\s+/));
+  assert.equal(rows.length,source.rows);
+  corpusTotal+=rows.length;
+  for(const r of rows){
+    assert.equal(r.length,7);
+    const ch=Number(r[0].slice(2,4)),v=Number(r[0].slice(4,6));
+    if(source.book==='Ap'&&ch===8) chapterRows.push(r);
+    const e=counts.get(r[6]); if(!e)continue;
+    e.tokens++;e.refs.add(source.book+' '+ch+':'+v);
+    e.dist[source.book]=(e.dist[source.book]??0)+1;
+  }
+}
+assert.equal(corpusTotal,137554);assert.equal(chapterRows.length,319);
+let tokens=0;const ids=new Set(),strongs=new Set();
+for(let v=1;v<=13;v++){
+  const file=fs.readFileSync('src/data/texto-original/apocalipse/apocalipse-8-'+v+'.ts','utf8');
+  const d=JSON.parse(file.slice(file.indexOf('= {')+2).trim().replace(/;\s*$/,''));
+  assert.equal(d.verse,v);assert.equal(d.chapter,8);
+  const rows=chapterRows.filter(r=>Number(r[0].slice(4))===v);
+  assert.equal(d.words.length,rows.length);assert.ok(d.translation&&d.syntacticNotes.length&&d.exegeticalNotes.length&&d.textualNotes);
+  for(let i=0;i<rows.length;i++){
+    const w=d.words[i],r=rows[i]; tokens++;
+    assert.deepEqual([w.greek,w.lemma,w.morphologyCode,w.morphgntPos],[r[4],r[6],r[2],r[1]]);
+    assert.ok(w.gloss&&w.transliteration&&w.morphology&&w.strong);
+    assert.ok(!ids.has(w.id));ids.add(w.id);strongs.add(w.strong);
+    assert.ok(lex[w.strong]?.lemma===w.lemma||lex[w.strong]?.lemmaAliases?.includes(w.lemma));
+    const c=read('public/data/concordancia-grega/'+w.strong+'.json');
+    assert.equal(c.complete,true);assert.ok(c.references.some(r=>typeof r==='string'? /^(Ap|Re|Apocalipse)\s+/.test(r)&&r.split(' ').at(-1)==='8:'+v : (r.book==='Apocalipse'||r.book==='Ap'||r.book==='Re')&&Number(r.chapter)===8&&Number(r.verse)===v),'Referência ausente: '+w.strong+' Ap 8:'+v);
+    assert.equal(c.verseCount,c.references.length);
+    assert.equal(c.references.length,new Set(c.references.map(r=>typeof r==='string'?r:r.reference)).size);
+    assert.equal(c.tokenCount,Object.values(c.bookDistribution).reduce((a,b)=>a+b,0));
+  }
+}
+assert.equal(tokens,319);assert.equal(strongs.size,104);assert.equal(counts.size,22);
+let total=0;
+for(const e of manifest.entries){
+ const c=read('public/data/concordancia-grega/'+e.strong+'.json');
+ assert.equal(c.lemma,e.lemma); assert.equal(c.corpusBooks,27);
+ const refs=new Set(),dist={}; let tokens=0;
+ for(const f of c.lemmaBreakdown){
+  const expected=counts.get(f.lemma);assert.ok(expected);
+  assert.equal(f.tokenCount,expected.tokens);
+  assert.deepEqual(f.references,[...expected.refs]);assert.deepEqual(f.bookDistribution,expected.dist);
+  assert.equal(f.verseCount,expected.refs.size);
+  tokens+=expected.tokens;for(const r of expected.refs)refs.add(r);
+  for(const [b,n] of Object.entries(expected.dist))dist[b]=(dist[b]??0)+n;
+ }
+ assert.equal(c.tokenCount,tokens);assert.equal(c.verseCount,refs.size);
+ assert.deepEqual(new Set(c.references),refs);assert.deepEqual(c.bookDistribution,dist);
+ total+=tokens;
+}
+assert.equal(total,273);
+console.log('OK: 13 versículos, 319 unidades, 104 Strong, 21 concordâncias recontadas em 27 livros, 273 ocorrências.');

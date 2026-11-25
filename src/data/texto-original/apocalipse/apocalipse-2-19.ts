@@ -8,7 +8,7 @@ export const apocalipse2v19 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Conheço tuas obras, teu amor, tua fé, teu serviço e tua perseverança, e sei que tuas últimas obras são mais numerosas que as primeiras.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "πλείονα é comparativo acusativo neutro plural, relacionado a τὰ ἔργα, e τῶν πρώτων oferece o padrão comparativo genitivo; amor, fé, serviço e perseverança são qualidades elogiadas.\n\n[Revisão acadêmica complementar] πλείονα, comparativo neutro plural, concorda com τὰ ἔργα; τῶν πρώτων é genitivo de comparação. A tradução pode suplementar 'sei', mas deve marcar que não há segundo Οἶδα expresso.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O elogio destaca progresso nas obras, em contraste com a acusação que segue.",
     "Fé e serviço coexistem com o problema de tolerância ao ensino descrito."
@@ -43,7 +43,7 @@ export const apocalipse2v19 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "teu/de ti",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -67,7 +67,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -89,7 +89,7 @@ export const apocalipse2v19 = {
     {
       "id": "ap2-19-4",
       "shortMorph": "N-APN",
-      "greek": "ἔργα,",
+      "greek": "ἔργα",
       "transliteration": "erga",
       "gloss": "obras",
       "strong": "G2041",
@@ -108,7 +108,8 @@ export const apocalipse2v19 = {
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-19-5",
@@ -401,9 +402,9 @@ export const apocalipse2v19 = {
     {
       "id": "ap2-19-17",
       "shortMorph": "PPro-GS-",
-      "greek": "σου,",
+      "greek": "σου",
       "transliteration": "sou",
-      "gloss": "teu/de ti",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -420,7 +421,8 @@ export const apocalipse2v19 = {
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-19-18",
@@ -451,7 +453,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -499,7 +501,7 @@ export const apocalipse2v19 = {
       "shortMorph": "PPro-GS-",
       "greek": "σου",
       "transliteration": "sou",
-      "gloss": "teu/de ti",
+      "gloss": "teu",
       "strong": "G4771",
       "lemma": "σύ",
       "lemmaTransliteration": "sy",
@@ -523,7 +525,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-APN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -595,7 +597,7 @@ export const apocalipse2v19 = {
       "shortMorph": "Art-GPN",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "dos/das",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -617,7 +619,7 @@ export const apocalipse2v19 = {
     {
       "id": "ap2-19-26",
       "shortMorph": "Adj-GPN",
-      "greek": "πρώτων.",
+      "greek": "πρώτων",
       "transliteration": "prōtōn",
       "gloss": "primeiras",
       "strong": "G4413",
@@ -636,7 +638,12 @@ export const apocalipse2v19 = {
         "clauseId": "AP.2.19.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "πλείονα é comparativo acusativo neutro plural, relacionado a τὰ ἔργα, e τῶν πρώτων oferece o padrão comparativo genitivo; amor, fé, serviço e perseverança são qualidades elogiadas.",
+    "πλείονα, comparativo neutro plural, concorda com τὰ ἔργα; τῶν πρώτων é genitivo de comparação. A tradução pode suplementar 'sei', mas deve marcar que não há segundo Οἶδα expresso."
   ]
 } as const;

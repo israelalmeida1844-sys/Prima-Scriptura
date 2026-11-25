@@ -1,0 +1,132 @@
+{
+  "sourceCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "chapter": 6,
+  "verses": 17,
+  "tokens": 417,
+  "uniqueLemmas": 146,
+  "newStrongCount": 50,
+  "newStrong": [
+    "G2462",
+    "G5115",
+    "G4450",
+    "G240",
+    "G3162",
+    "G3189",
+    "G2218",
+    "G5518",
+    "G4621",
+    "G1220",
+    "G5140",
+    "G2915",
+    "G1637",
+    "G3631",
+    "G5515",
+    "G1883",
+    "G190",
+    "G3042",
+    "G5259",
+    "G2342",
+    "G3991",
+    "G2379",
+    "G5590",
+    "G2896",
+    "G2193",
+    "G4219",
+    "G1203",
+    "G2919",
+    "G1556",
+    "G4749",
+    "G373",
+    "G4889",
+    "G1623",
+    "G4578",
+    "G4526",
+    "G5155",
+    "G4582",
+    "G4808",
+    "G3653",
+    "G417",
+    "G4579",
+    "G673",
+    "G1667",
+    "G3735",
+    "G3175",
+    "G5506",
+    "G1658",
+    "G4693",
+    "G4073",
+    "G3709"
+  ],
+  "lexiconEntries": 477,
+  "perVerse": [
+    {
+      "verse": 1,
+      "tokens": 23
+    },
+    {
+      "verse": 2,
+      "tokens": 23
+    },
+    {
+      "verse": 3,
+      "tokens": 13
+    },
+    {
+      "verse": 4,
+      "tokens": 27
+    },
+    {
+      "verse": 5,
+      "tokens": 30
+    },
+    {
+      "verse": 6,
+      "tokens": 26
+    },
+    {
+      "verse": 7,
+      "tokens": 14
+    },
+    {
+      "verse": 8,
+      "tokens": 45
+    },
+    {
+      "verse": 9,
+      "tokens": 25
+    },
+    {
+      "verse": 10,
+      "tokens": 26
+    },
+    {
+      "verse": 11,
+      "tokens": 30
+    },
+    {
+      "verse": 12,
+      "tokens": 27
+    },
+    {
+      "verse": 13,
+      "tokens": 19
+    },
+    {
+      "verse": 14,
+      "tokens": 17
+    },
+    {
+      "verse": 15,
+      "tokens": 33
+    },
+    {
+      "verse": 16,
+      "tokens": 26
+    },
+    {
+      "verse": 17,
+      "tokens": 13
+    }
+  ],
+  "editorialStatus": "Edição em rascunho. Aguardando conferência de aparato manuscrito, validação visual e revisão acadêmica final."
+}

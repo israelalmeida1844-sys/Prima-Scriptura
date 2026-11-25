@@ -1,90 +1,63 @@
 /**
- * Renderização dinâmica e acessível de fichas lexicais gregas para Apocalipse.
- * Separação explícita entre ocorrência textual (morfologia/glosa) e lema (semântica).
+ * Prima Scriptura — Apocalipse 1–8.
+ * Fonte unificada do léxico para renderização estática e interação por token.
+ * As observações sintáticas e exegéticas pertencem às seções do versículo.
  */
-import lexicon1 from '../data/lexico-grego/apocalipse-1-1.json';
-import lexicon2 from '../data/lexico-grego/apocalipse-1-2.json';
-import lexicon38 from '../data/lexico-grego/apocalipse-1-3-8.json';
-import lexicon920 from '../data/lexico-grego/apocalipse-1-9-20.json';
-import lexicon2_1_12 from '../data/lexico-grego/apocalipse-2-1-12.json';
-import lexicon2_13_29 from '../data/lexico-grego/apocalipse-2-13-29.json';
-import lexicon4 from '../data/lexico-grego/apocalipse-4-1-11.json';
+import lexicon from '../data/lexico-grego/apocalipse-8-1-13.json';
+type Example={reference:string;greek:string;transliteration?:string;translation:string;explanation?:string};
+type Sense={id:string;label:string;definition:string;examples:Example[]};
+type Entry={strong:string;lemma:string;lemmaTransliteration:string;partOfSpeech:string;senses:Sense[]};
+const entries=lexicon.entries as Record<string,Entry>;
+export const lemmaForStrong=(strong:string):Entry|undefined=>entries[strong];
 
-type Example = {
-  reference: string;
-  greek: string;
-  translation: string;
-  explanation: string;
-};
-
-type Sense = {
-  id: string;
-  label: string;
-  definition: string;
-  examples: Example[];
-};
-
-type Entry = {
-  strong: string;
-  lemma: string;
-  lemmaTransliteration: string;
-  partOfSpeech: string;
-  senses: Sense[];
-};
-
-const entries = { ...lexicon4.entries, ...lexicon2_13_29.entries, ...lexicon2_1_12.entries, ...lexicon920.entries, ...lexicon38.entries, ...lexicon1.entries, ...lexicon2.entries, G1163: lexicon4.entries.G1163 } as Record<string, Entry>; // Rev. 4:1: preservar a revisão filológica de δεῖ.
-
-export function lemmaForStrong(strong: string): Entry | undefined {
-  return entries[strong];
+/** Transliteração auxiliar dos exemplos; sem marcação dos acentos, não substitui glosa. */
+export function transliterateGreekSnippet(greek:string):string{
+ const m:Record<string,string>={
+ 'α':'a','β':'b','γ':'g','δ':'d','ε':'e','ζ':'z','η':'ē','θ':'th','ι':'i','κ':'k','λ':'l','μ':'m','ν':'n','ξ':'x','ο':'o','π':'p','ρ':'r','σ':'s','ς':'s','τ':'t','υ':'y','φ':'ph','χ':'ch','ψ':'ps','ω':'ō'
+ };
+ return (greek.normalize('NFD').match(/\P{M}\p{M}*/gu)||[]).map(chunk=>{
+   const first=chunk[0],base=first.toLowerCase(),roman=m[base];
+   if(!roman)return first==='᾽'||first==='’'?"'":first;
+   const rough=chunk.includes('\u0314');
+   const result=rough&&base==='ρ'?'rh':(rough?'h':'')+roman;
+   return first===first.toUpperCase()?result[0].toUpperCase()+result.slice(1):result;
+ }).join('').replace(/[᾽’ʼ]/gu,"'");
 }
-
-function node<K extends keyof HTMLElementTagNameMap>(
-  tag: K,
-  className: string,
-  value?: string
-): HTMLElementTagNameMap[K] {
-  const el = document.createElement(tag);
-  el.className = className;
-  if (value !== undefined) el.textContent = value;
-  return el;
+function el<K extends keyof HTMLElementTagNameMap>(tag:K,className:string,value?:string):HTMLElementTagNameMap[K]{
+ const n=document.createElement(tag);n.className=className;if(value!==undefined)n.textContent=value;return n;
 }
-
-export function updateLexiconLemmaAndSenses(root: HTMLElement, strong: string) {
-  const entry = lemmaForStrong(strong);
-  const transliteration = root.querySelector<HTMLElement>('[data-lexicon-lemma-transliteration]');
-  const senses = root.querySelector<HTMLElement>('[data-lexicon-meanings]');
-  if (!transliteration || !senses) return;
-
-  if (!entry) {
-    transliteration.textContent = 'Transliteração em revisão';
-    senses.textContent = 'Os sentidos deste lema ainda estão em revisão.';
-    return;
-  }
-
-  transliteration.textContent = entry.lemmaTransliteration;
-
-  const sections = document.createDocumentFragment();
-  for (const sense of entry.senses) {
-    const section = node('section', 'lexical-sense');
-    section.dataset.senseId = sense.id;
-    section.setAttribute('aria-label', sense.label);
-    section.appendChild(node('h5', 'lexical-sense-title', sense.label));
-    section.appendChild(node('p', 'lexical-sense-definition', sense.definition));
-
-    const examples = node('div', 'lexical-examples');
-    for (const example of sense.examples) {
-      const block = node('div', 'lexical-example');
-      block.appendChild(node('p', 'lexical-example-reference', 'Exemplo: ' + example.reference));
-      const greek = node('p', 'lexical-example-greek', example.greek);
-      greek.lang = 'grc';
-      block.appendChild(greek);
-      block.appendChild(node('p', 'lexical-example-translation', example.translation));
-      block.appendChild(node('p', 'lexical-example-note', example.explanation));
-      examples.appendChild(block);
-    }
-    section.appendChild(examples);
-    sections.appendChild(section);
-  }
-
-  senses.replaceChildren(sections);
+const useful=(s?:string)=>Boolean(s&&s.trim()&&s.trim()!=='-'&&s.trim()!=='—'&&s.trim()!=='•');
+export function updateLexiconLemmaAndSenses(root:HTMLElement,strong:string){
+ const entry=lemmaForStrong(strong);
+ const tr=root.querySelector<HTMLElement>('[data-lexicon-lemma-transliteration]');
+ const senses=root.querySelector<HTMLElement>('[data-lexicon-meanings]');
+ if(!tr||!senses)return;
+ if(!entry){tr.textContent='Lema em revisão';senses.textContent='Verbete lexical não disponível nesta edição.';return;}
+ tr.textContent=entry.lemmaTransliteration;
+ const fragment=document.createDocumentFragment();
+ for(const sense of entry.senses||[]){
+   if(!useful(sense.label)&&!useful(sense.definition))continue;
+   const section=el('section','lexical-sense');
+   section.dataset.senseId=sense.id;
+   if(useful(sense.label))section.appendChild(el('h5','lexical-sense-title',sense.label.trim()));
+   if(useful(sense.definition))section.appendChild(el('p','lexical-sense-definition',sense.definition.trim()));
+   const examples=el('div','lexical-examples');let count=0;
+   for(const sample of sense.examples||[]){
+     if(!useful(sample.greek)||!useful(sample.translation))continue;
+     const block=el('div','lexical-example');
+     if(useful(sample.reference))block.appendChild(el('p','lexical-example-reference','Exemplo: '+sample.reference.trim()));
+     block.appendChild(el('span','example-field-label','Grego'));
+     const g=el('p','lexical-example-greek',sample.greek.trim());g.lang='grc';block.appendChild(g);
+     block.appendChild(el('span','example-field-label','Transliteração auxiliar'));
+     block.appendChild(el('p','lexical-example-transliteration',sample.transliteration?.trim()||transliterateGreekSnippet(sample.greek)));
+     block.appendChild(el('span','example-field-label','Tradução'));
+     block.appendChild(el('p','lexical-example-translation',sample.translation.trim()));
+     if(useful(sample.explanation))block.appendChild(el('p','lexical-example-note',sample.explanation!.trim()));
+     examples.appendChild(block);count++;
+   }
+   if(count)section.appendChild(examples);
+   fragment.appendChild(section);
+ }
+ senses.replaceChildren(fragment);
+ if(!senses.childElementCount)senses.textContent='Nenhum exemplo lexical validado para exibição.';
 }

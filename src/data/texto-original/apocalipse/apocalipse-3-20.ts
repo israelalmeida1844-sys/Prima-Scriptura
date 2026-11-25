@@ -8,9 +8,9 @@ export const apocalipse3v20 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Eis que estou à porta e bato. Se alguém ouvir minha voz e abrir a porta, entrarei para estar com ele e cearei com ele, e ele comigo.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo."
+    "O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário."
   ],
   "words": [
     {
@@ -26,12 +26,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Partícula ",
       "meanings": "eis; veja",
-      "explanation": "Forma «ἰδοὺ» do lema «ἰδού» (Strong G2400): Partícula . Glosa contextual de apoio: «eis». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -50,7 +50,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "estar de pé",
-      "explanation": "Forma «ἕστηκα» do lema «ἵστημι» (Strong G2476): Verbo perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «estar de pé». Predicado verbal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -74,12 +74,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "sobre; por causa de",
-      "explanation": "Forma «ἐπὶ» do lema «ἐπί» (Strong G1909): Preposição . Glosa contextual de apoio: «sobre». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -90,7 +90,7 @@ export const apocalipse3v20 = {
       "shortMorph": "RA ----ASF-",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -98,7 +98,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὴν» do lema «ὁ» (Strong G3588): Artigo definido acusativo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -122,7 +122,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "porta",
-      "explanation": "Forma «θύραν» do lema «θύρα» (Strong G2374): Substantivo acusativo singular feminino. Glosa contextual de apoio: «porta». Núcleo nominal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -138,7 +138,7 @@ export const apocalipse3v20 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -146,12 +146,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -160,7 +160,7 @@ export const apocalipse3v20 = {
     {
       "id": "ap3-20-7",
       "shortMorph": "V- 1PAI-S--",
-      "greek": "κρούω·",
+      "greek": "κρούω",
       "transliteration": "krouō",
       "gloss": "bater",
       "strong": "G2925",
@@ -170,7 +170,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "bater",
-      "explanation": "Forma «κρούω·» do lema «κρούω» (Strong G2925): Verbo presente, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «bater». Predicado verbal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -179,7 +179,8 @@ export const apocalipse3v20 = {
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap3-20-8",
@@ -194,12 +195,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "ἐάν introduz oração condicional prospectiva; com μή e subjuntivo μετανοήσῃς: «se não te arrependeres».",
-      "explanation": "Forma «ἐάν» do lema «ἐάν» (Strong G1437): Conjunção . Glosa contextual de apoio: «se». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -218,12 +219,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "----NSM-",
       "morphology": "Pronome nominativo singular masculino",
       "meanings": "alguém",
-      "explanation": "Forma «τις» do lema «τις» (Strong G5100): Pronome nominativo singular masculino. Glosa contextual de apoio: «alguém». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -242,7 +243,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo aoristo, voz ativa, subjuntivo, 3ª pessoa singular",
       "meanings": "ouvir; escutar",
-      "explanation": "Forma «ἀκούσῃ» do lema «ἀκούω» (Strong G191): Verbo aoristo, voz ativa, subjuntivo, 3ª pessoa singular. Glosa contextual de apoio: «ouvir». Predicado verbal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -258,7 +259,7 @@ export const apocalipse3v20 = {
       "shortMorph": "RA ----GSF-",
       "greek": "τῆς",
       "transliteration": "tēs",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -266,7 +267,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῆς» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -290,7 +291,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "voz; som",
-      "explanation": "Forma «φωνῆς» do lema «φωνή» (Strong G5456): Substantivo genitivo singular feminino. Glosa contextual de apoio: «voz». Núcleo nominal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -306,7 +307,7 @@ export const apocalipse3v20 = {
       "shortMorph": "RP ----GS--",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -314,12 +315,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -330,7 +331,7 @@ export const apocalipse3v20 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -338,12 +339,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -362,7 +363,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo aoristo, voz ativa, subjuntivo, 3ª pessoa singular",
       "meanings": "abrir",
-      "explanation": "Forma «ἀνοίξῃ» do lema «ἀνοίγω» (Strong G455): Verbo aoristo, voz ativa, subjuntivo, 3ª pessoa singular. Glosa contextual de apoio: «abrir». Predicado verbal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -378,7 +379,7 @@ export const apocalipse3v20 = {
       "shortMorph": "RA ----ASF-",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -386,7 +387,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὴν» do lema «ὁ» (Strong G3588): Artigo definido acusativo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -400,7 +401,7 @@ export const apocalipse3v20 = {
     {
       "id": "ap3-20-17",
       "shortMorph": "N- ----ASF-",
-      "greek": "θύραν,",
+      "greek": "θύραν",
       "transliteration": "thyran",
       "gloss": "porta",
       "strong": "G2374",
@@ -410,7 +411,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "porta",
-      "explanation": "Forma «θύραν,» do lema «θύρα» (Strong G2374): Substantivo acusativo singular feminino. Glosa contextual de apoio: «porta». Núcleo nominal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -419,14 +420,15 @@ export const apocalipse3v20 = {
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-20-18",
       "shortMorph": "D- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -434,12 +436,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Advérbio . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -458,7 +460,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "1FMI-S--",
       "morphology": "Verbo futuro, voz média, indicativo, 1ª pessoa singular",
       "meanings": "entrar",
-      "explanation": "Forma «εἰσελεύσομαι» do lema «εἰσέρχομαι» (Strong G1525): Verbo futuro, voz média, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «entrar». Predicado verbal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -482,12 +484,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "junto a; em direção a",
-      "explanation": "Forma «πρὸς» do lema «πρός» (Strong G4314): Preposição . Glosa contextual de apoio: «junto a». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -498,7 +500,7 @@ export const apocalipse3v20 = {
       "shortMorph": "RP ----ASM-",
       "greek": "αὐτὸν",
       "transliteration": "auton",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -506,12 +508,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome acusativo singular masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτὸν» do lema «αὐτός» (Strong G846): Pronome acusativo singular masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -522,7 +524,7 @@ export const apocalipse3v20 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -530,12 +532,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -554,7 +556,7 @@ export const apocalipse3v20 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "cear",
-      "explanation": "Forma «δειπνήσω» do lema «δειπνέω» (Strong G1172): Verbo futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «cear». Predicado verbal. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
@@ -569,7 +571,7 @@ export const apocalipse3v20 = {
       "id": "ap3-20-24",
       "shortMorph": "P- --------",
       "greek": "μετ’",
-      "transliteration": "met",
+      "transliteration": "met'",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",
@@ -578,12 +580,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "com; depois de",
-      "explanation": "Forma «μετ’» do lema «μετά» (Strong G3326): Preposição . Glosa contextual de apoio: «com». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -594,7 +596,7 @@ export const apocalipse3v20 = {
       "shortMorph": "RP ----GSM-",
       "greek": "αὐτοῦ",
       "transliteration": "autou",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -602,12 +604,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome genitivo singular masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτοῦ» do lema «αὐτός» (Strong G846): Pronome genitivo singular masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -618,7 +620,7 @@ export const apocalipse3v20 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -626,12 +628,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -642,7 +644,7 @@ export const apocalipse3v20 = {
       "shortMorph": "RP ----NSM-",
       "greek": "αὐτὸς",
       "transliteration": "autos",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -650,12 +652,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "----NSM-",
       "morphology": "Pronome nominativo singular masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτὸς» do lema «αὐτός» (Strong G846): Pronome nominativo singular masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -665,7 +667,7 @@ export const apocalipse3v20 = {
       "id": "ap3-20-28",
       "shortMorph": "P- --------",
       "greek": "μετ’",
-      "transliteration": "met",
+      "transliteration": "met'",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",
@@ -674,12 +676,12 @@ export const apocalipse3v20 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "com; depois de",
-      "explanation": "Forma «μετ’» do lema «μετά» (Strong G3326): Preposição . Glosa contextual de apoio: «com». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -688,9 +690,9 @@ export const apocalipse3v20 = {
     {
       "id": "ap3-20-29",
       "shortMorph": "RP ----GS--",
-      "greek": "ἐμοῦ.",
+      "greek": "ἐμοῦ",
       "transliteration": "emou",
-      "gloss": "eu",
+      "gloss": "de mim",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -698,16 +700,20 @@ export const apocalipse3v20 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «ἐμοῦ.» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro.\n\nExegese: O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário.\n\nCrítica textual: SBLGNT inclui καὶ antes de εἰσελεύσομαι (NIV/RP), ausente em WH/Treg, conforme aparato comparativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro."
   ]
 } as const;

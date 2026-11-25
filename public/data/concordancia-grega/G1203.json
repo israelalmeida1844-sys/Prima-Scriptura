@@ -1,0 +1,36 @@
+{
+  "strong": "G1203",
+  "lemma": "δεσπότης",
+  "lemmaTranslit": "despotēs",
+  "tokenCount": 10,
+  "verseCount": 10,
+  "bookDistribution": {
+    "Lc": 1,
+    "At": 1,
+    "1Tm": 2,
+    "2Tm": 1,
+    "Tt": 1,
+    "1Pe": 1,
+    "2Pe": 1,
+    "Jd": 1,
+    "Ap": 1
+  },
+  "references": [
+    "Lc 2:29",
+    "At 4:24",
+    "1Tm 6:1",
+    "1Tm 6:2",
+    "2Tm 2:21",
+    "Tt 2:9",
+    "1Pe 2:18",
+    "2Pe 2:1",
+    "Jd 1:4",
+    "Ap 6:10"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

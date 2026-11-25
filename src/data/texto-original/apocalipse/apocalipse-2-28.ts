@@ -8,7 +8,7 @@ export const apocalipse2v28 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "assim como eu também recebi de meu Pai; e lhe darei a estrela da manhã.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "τὸν ἀστέρα τὸν πρωϊνόν promete a estrela da manhã; Ap 22:16 identifica Jesus com a estrela resplandecente da manhã. Nm 24:17 é um possível antecedente messiânico. A promessa é escatológica; sua natureza exata merece interpretação contextual.\n\n[Revisão acadêmica complementar] εἴληφα é perfeito ativo de λαμβάνω; a referência ao Pai sustenta a imagem de autoridade recebida. A estrela matutina é interpretada à luz de Ap 22:16, sem apagar a dimensão prometida ao vencedor.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A estrela da manhã constitui promessa de proximidade com o Cristo exaltado.",
     "Apocalipse 22:16 fornece um paralelo intratextual importante."
@@ -161,9 +161,9 @@ export const apocalipse2v28 = {
     {
       "id": "ap2-28-7",
       "shortMorph": "PPro-GS-",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "meu/de mim",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -180,7 +180,8 @@ export const apocalipse2v28 = {
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-28-8",
@@ -211,7 +212,7 @@ export const apocalipse2v28 = {
       "shortMorph": "V-FAI-1S",
       "greek": "δώσω",
       "transliteration": "dōsō",
-      "gloss": "darei",
+      "gloss": "concederei",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -329,7 +330,7 @@ export const apocalipse2v28 = {
     {
       "id": "ap2-28-14",
       "shortMorph": "Adj-ASM",
-      "greek": "πρωϊνόν.",
+      "greek": "πρωϊνόν",
       "transliteration": "prōinon",
       "gloss": "da manhã",
       "strong": "G4407",
@@ -348,7 +349,12 @@ export const apocalipse2v28 = {
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "τὸν ἀστέρα τὸν πρωϊνόν promete a estrela da manhã; Ap 22:16 identifica Jesus com a estrela resplandecente da manhã. Nm 24:17 é um possível antecedente messiânico. A promessa é escatológica; sua natureza exata merece interpretação contextual.",
+    "εἴληφα é perfeito ativo de λαμβάνω; a referência ao Pai sustenta a imagem de autoridade recebida. A estrela matutina é interpretada à luz de Ap 22:16, sem apagar a dimensão prometida ao vencedor."
   ]
 } as const;

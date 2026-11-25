@@ -1,0 +1,68 @@
+{
+  "chapter": 5,
+  "sourceCommit": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "verses": 14,
+  "tokens": 339,
+  "uniqueLemmas": 112,
+  "previousLexiconEntries": 398,
+  "lexiconEntries": 427,
+  "perVerse": [
+    {
+      "verse": 1,
+      "tokens": 18
+    },
+    {
+      "verse": 2,
+      "tokens": 18
+    },
+    {
+      "verse": 3,
+      "tokens": 20
+    },
+    {
+      "verse": 4,
+      "tokens": 14
+    },
+    {
+      "verse": 5,
+      "tokens": 29
+    },
+    {
+      "verse": 6,
+      "tokens": 37
+    },
+    {
+      "verse": 7,
+      "tokens": 12
+    },
+    {
+      "verse": 8,
+      "tokens": 31
+    },
+    {
+      "verse": 9,
+      "tokens": 34
+    },
+    {
+      "verse": 10,
+      "tokens": 14
+    },
+    {
+      "verse": 11,
+      "tokens": 26
+    },
+    {
+      "verse": 12,
+      "tokens": 24
+    },
+    {
+      "verse": 13,
+      "tokens": 50
+    },
+    {
+      "verse": 14,
+      "tokens": 12
+    }
+  ],
+  "editorialStatus": "Rascunho: concordâncias dos Strong novos e sintaxe individual exigem homologação; build ainda não executado."
+}

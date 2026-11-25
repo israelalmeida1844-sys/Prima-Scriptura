@@ -8,7 +8,7 @@ export const apocalipse1v17 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Quando o vi, caí a seus pés como morto. Ele pôs sua mão direita sobre mim e disse: «Não tenha medo. Eu sou o Primeiro e o Último,",
   "translationNote": "Tradução editorial própria; preserva a sequência discursiva e sinaliza os problemas interpretativos nas notas.",
-  "textualNotes": "φοβοῦ é imperativo presente médio/passivo formal de verbo deponente, precedido de μή; significa «não temas». πρῶτος e ἔσχατος fazem eco à linguagem de soberania divina (Is 44:6; 48:12).\n\n[Revisão acadêmica complementar] μή + φοβοῦ é proibição no imperativo presente; a relação entre primeiro/último e linguagem de Isaías é alusão teológica, não equivalência lexical.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "A reação de João combina reverência e incapacidade diante da visão.",
     "A palavra «não temas» altera a dinâmica da cena."
@@ -89,9 +89,9 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-4",
       "shortMorph": "PPro-ASM",
-      "greek": "αὐτόν,",
+      "greek": "αὐτόν",
       "transliteration": "auton",
-      "gloss": "a ele",
+      "gloss": "ele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -108,7 +108,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-17-5",
@@ -257,7 +258,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-11",
       "shortMorph": "Adj-NSM",
-      "greek": "νεκρός·",
+      "greek": "νεκρός",
       "transliteration": "nekros",
       "gloss": "morto",
       "strong": "G3498",
@@ -276,7 +277,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-17-12",
@@ -402,7 +404,7 @@ export const apocalipse1v17 = {
       "id": "ap1-17-17",
       "shortMorph": "Preposição",
       "greek": "ἐπ’",
-      "transliteration": "ep",
+      "transliteration": "ep'",
       "gloss": "sobre",
       "strong": "G1909",
       "lemma": "ἐπί",
@@ -449,7 +451,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-19",
       "shortMorph": "V-PAP-NSM",
-      "greek": "λέγων·",
+      "greek": "λέγων",
       "transliteration": "legōn",
       "gloss": "dizendo",
       "strong": "G3004",
@@ -468,7 +470,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-17-20",
@@ -497,7 +500,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-21",
       "shortMorph": "V-PMD-2S",
-      "greek": "φοβοῦ·",
+      "greek": "φοβοῦ",
       "transliteration": "phobou",
       "gloss": "temas",
       "strong": "G5399",
@@ -516,7 +519,8 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "·"
     },
     {
       "id": "ap1-17-22",
@@ -665,7 +669,7 @@ export const apocalipse1v17 = {
     {
       "id": "ap1-17-28",
       "shortMorph": "Adj-NSM",
-      "greek": "ἔσχατος,",
+      "greek": "ἔσχατος",
       "transliteration": "eschatos",
       "gloss": "último",
       "strong": "G2078",
@@ -684,7 +688,12 @@ export const apocalipse1v17 = {
         "clauseId": "AP.1.17.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     }
+  ],
+  "syntacticNotes": [
+    "φοβοῦ é imperativo presente médio/passivo formal de verbo deponente, precedido de μή; significa «não temas». πρῶτος e ἔσχατος fazem eco à linguagem de soberania divina (Is 44:6; 48:12).",
+    "μή + φοβοῦ é proibição no imperativo presente; a relação entre primeiro/último e linguagem de Isaías é alusão teológica, não equivalência lexical."
   ]
 } as const;

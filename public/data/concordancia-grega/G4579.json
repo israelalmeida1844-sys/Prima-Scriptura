@@ -1,0 +1,25 @@
+{
+  "strong": "G4579",
+  "lemma": "σείω",
+  "lemmaTranslit": "seiō",
+  "tokenCount": 5,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Mt": 3,
+    "Hb": 1,
+    "Ap": 1
+  },
+  "references": [
+    "Mt 21:10",
+    "Mt 27:51",
+    "Mt 28:4",
+    "Hb 12:26",
+    "Ap 6:13"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

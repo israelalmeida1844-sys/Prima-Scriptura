@@ -8,10 +8,9 @@ export const apocalipse1v15 = {
   "morphologySource": "MorphGNT 6.12 (James K. Tauber); commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Seus pés eram semelhantes a metal brilhante, como que incandescente numa fornalha, e sua voz era como o som de muitas águas.",
   "translationNote": "A tradução do particípio πεπυρωμένης é interpretativa; o grego do SBLGNT conserva genitivo formalmente não concordante com καμίνῳ.",
-  "textualNotes": "χαλκολιβάνῳ (G5474) é dativo neutro singular de termo de referência metalúrgica discutida, documentado também em Ap 2:18; portanto, não é hapax legomenon no Novo Testamento. O SBLGNT apresenta πεπυρωμένης, particípio perfeito passivo genitivo feminino singular, que não concorda formalmente com καμίνῳ (dativo feminino singular); a construção é irregular ou elíptica. Não substituir silenciosamente por outra forma.\n\n[Revisão acadêmica complementar] χαλκολίβανον é termo metalúrgico raro de sentido disputado; há duas ocorrências neotestamentárias (1:15 e 2:18). πεπυρωμένης é genitivo feminino singular e não concorda regularmente com καμίνῳ, dativo.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "O substantivo χαλκολίβανον ocorre duas vezes no NT (Ap 1:15; 2:18); é raro, mas não um hapax legomenon, e seu sentido metalúrgico não é estabelecido com precisão.",
-    "O particípio πεπυρωμένης conserva genitivo feminino singular formalmente incongruente com καμίνῳ."
+    "O substantivo χαλκολίβανον ocorre duas vezes no NT (Ap 1:15; 2:18); é raro, mas não um hapax legomenon, e seu sentido metalúrgico não é estabelecido com precisão."
   ],
   "words": [
     {
@@ -43,7 +42,7 @@ export const apocalipse1v15 = {
       "shortMorph": "Art-NPM",
       "greek": "οἱ",
       "transliteration": "hoi",
-      "gloss": "o",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -137,7 +136,7 @@ export const apocalipse1v15 = {
     {
       "id": "ap1-15-6",
       "shortMorph": "N-DSN",
-      "greek": "χαλκολιβάνῳ,",
+      "greek": "χαλκολιβάνῳ",
       "transliteration": "chalkolibanō",
       "gloss": "bronze brilhante",
       "strong": "G5474",
@@ -156,7 +155,8 @@ export const apocalipse1v15 = {
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-15-7",
@@ -233,7 +233,7 @@ export const apocalipse1v15 = {
     {
       "id": "ap1-15-10",
       "shortMorph": "V-XPP-GSF",
-      "greek": "πεπυρωμένης,",
+      "greek": "πεπυρωμένης",
       "transliteration": "pepyrōmenēs",
       "gloss": "aquecida ao fogo",
       "strong": "G4448",
@@ -252,7 +252,8 @@ export const apocalipse1v15 = {
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap1-15-11",
@@ -283,7 +284,7 @@ export const apocalipse1v15 = {
       "shortMorph": "Art-NSF",
       "greek": "ἡ",
       "transliteration": "hē",
-      "gloss": "o",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -425,7 +426,7 @@ export const apocalipse1v15 = {
     {
       "id": "ap1-15-18",
       "shortMorph": "Adj-GPN",
-      "greek": "πολλῶν,",
+      "greek": "πολλῶν",
       "transliteration": "pollōn",
       "gloss": "muitas",
       "strong": "G4183",
@@ -444,7 +445,13 @@ export const apocalipse1v15 = {
         "clauseId": "AP.1.15.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": ","
     }
+  ],
+  "syntacticNotes": [
+    "χαλκολιβάνῳ (G5474) é dativo neutro singular de termo de referência metalúrgica discutida, documentado também em Ap 2:18; portanto, não é hapax legomenon no Novo Testamento. O SBLGNT apresenta πεπυρωμένης, particípio perfeito passivo genitivo feminino singular, que não concorda formalmente com καμίνῳ (dativo feminino singular); a construção é irregular ou elíptica. Não substituir silenciosamente por outra forma.",
+    "χαλκολίβανον é termo metalúrgico raro de sentido disputado; há duas ocorrências neotestamentárias (1:15 e 2:18). πεπυρωμένης é genitivo feminino singular e não concorda regularmente com καμίνῳ, dativo.",
+    "O particípio πεπυρωμένης conserva genitivo feminino singular formalmente incongruente com καμίνῳ."
   ]
 } as const;

@@ -1,0 +1,38 @@
+{
+  "strong": "G4808",
+  "lemma": "συκῆ",
+  "lemmaTranslit": "sykē",
+  "tokenCount": 16,
+  "verseCount": 15,
+  "bookDistribution": {
+    "Mt": 5,
+    "Mc": 4,
+    "Lc": 3,
+    "Jo": 2,
+    "Tg": 1,
+    "Ap": 1
+  },
+  "references": [
+    "Mt 21:19",
+    "Mt 21:20",
+    "Mt 21:21",
+    "Mt 24:32",
+    "Mc 11:13",
+    "Mc 11:20",
+    "Mc 11:21",
+    "Mc 13:28",
+    "Lc 13:6",
+    "Lc 13:7",
+    "Lc 21:29",
+    "Jo 1:48",
+    "Jo 1:50",
+    "Tg 3:12",
+    "Ap 6:13"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

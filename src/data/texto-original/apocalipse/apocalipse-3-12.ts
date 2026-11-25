@@ -8,9 +8,9 @@ export const apocalipse3v12 = {
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Ao vencedor farei coluna no templo do meu Deus, e ele jamais sairá de lá. Escreverei sobre ele o nome do meu Deus e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu da parte do meu Deus, e também meu novo nome.",
   "translationNote": "Tradução contextual distinta do interlinear.",
-  "textualNotes": "ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
-    "ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito)."
+    "A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade."
   ],
   "words": [
     {
@@ -18,7 +18,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----NSM-",
       "greek": "ὁ",
       "transliteration": "ho",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -26,7 +26,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ὁ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -42,7 +42,7 @@ export const apocalipse3v12 = {
       "shortMorph": "V- -PAPNSM-",
       "greek": "νικῶν",
       "transliteration": "nikōn",
-      "gloss": "vencer, conquistar, prevalecer",
+      "gloss": "que vence",
       "strong": "G3528",
       "lemma": "νικάω",
       "lemmaTransliteration": "nikaō",
@@ -50,7 +50,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "νικάω descreve vitória ou superação. Nas mensagens às igrejas, o particípio articular substantivado identifica aquele que vence e recebe promessa escatológica.",
-      "explanation": "Forma «νικῶν» do lema «νικάω» (Strong G3528): Verbo presente, voz ativa, particípio nominativo singular masculino. Glosa contextual de apoio: «vencer, conquistar, prevalecer». Particípio. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -74,7 +74,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "fazer; constituir",
-      "explanation": "Forma «ποιήσω» do lema «ποιέω» (Strong G4160): Verbo futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «fazer». Predicado verbal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -90,7 +90,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RP ----ASM-",
       "greek": "αὐτὸν",
       "transliteration": "auton",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -98,12 +98,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome acusativo singular masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτὸν» do lema «αὐτός» (Strong G846): Pronome acusativo singular masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -122,7 +122,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "coluna",
-      "explanation": "Forma «στῦλον» do lema «στῦλος» (Strong G4769): Substantivo acusativo singular masculino. Glosa contextual de apoio: «coluna». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -138,7 +138,7 @@ export const apocalipse3v12 = {
       "shortMorph": "P- --------",
       "greek": "ἐν",
       "transliteration": "en",
-      "gloss": "Em, dentro de, em meio a (uso adverbial ou temporal)",
+      "gloss": "em",
       "strong": "G1722",
       "lemma": "ἐν",
       "lemmaTransliteration": "en",
@@ -146,12 +146,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "Forma «ἐν» do lema «ἐν» (Strong G1722): Preposição . Glosa contextual de apoio: «Em, dentro de, em meio a (uso adverbial ou temporal)». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O valor da preposição ἐν é determinado pelo dativo e pelo contexto da construção.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -162,7 +162,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----DSM-",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -170,7 +170,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῷ» do lema «ὁ» (Strong G3588): Artigo definido dativo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -194,7 +194,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "santuário",
-      "explanation": "Forma «ναῷ» do lema «ναός» (Strong G3485): Substantivo dativo singular masculino. Glosa contextual de apoio: «santuário». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -210,7 +210,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -218,7 +218,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -234,7 +234,7 @@ export const apocalipse3v12 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "O Deus Supremo, o Criador e Pai de nosso Senhor",
+      "gloss": "o deus supremo",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -242,7 +242,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Forma «θεοῦ» do lema «θεός» (Strong G2316): Substantivo genitivo singular masculino. Glosa contextual de apoio: «O Deus Supremo, o Criador e Pai de nosso Senhor». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -256,9 +256,9 @@ export const apocalipse3v12 = {
     {
       "id": "ap3-12-11",
       "shortMorph": "RP ----GS--",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -266,23 +266,24 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου,» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-12-12",
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -290,12 +291,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -314,12 +315,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "fora",
-      "explanation": "Forma «ἔξω» do lema «ἔξω» (Strong G1854): Advérbio . Glosa contextual de apoio: «fora». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -338,12 +339,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "οὐ é negação objetiva do predicado verbal; em οὐ δύνῃ nega a possibilidade de tolerar os maus.",
-      "explanation": "Forma «οὐ» do lema «οὐ» (Strong G3756): Advérbio . Glosa contextual de apoio: «não». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -362,12 +363,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "não; partícula negativa",
-      "explanation": "Forma «μὴ» do lema «μή» (Strong G3361): Advérbio . Glosa contextual de apoio: «não». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -386,7 +387,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo aoristo, voz ativa, subjuntivo, 3ª pessoa singular",
       "meanings": "sair",
-      "explanation": "Forma «ἐξέλθῃ» do lema «ἐξέρχομαι» (Strong G1831): Verbo aoristo, voz ativa, subjuntivo, 3ª pessoa singular. Glosa contextual de apoio: «sair». Predicado verbal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -400,7 +401,7 @@ export const apocalipse3v12 = {
     {
       "id": "ap3-12-17",
       "shortMorph": "D- --------",
-      "greek": "ἔτι,",
+      "greek": "ἔτι",
       "transliteration": "eti",
       "gloss": "ainda",
       "strong": "G2089",
@@ -410,23 +411,24 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio ",
       "meanings": "ainda",
-      "explanation": "Forma «ἔτι,» do lema «ἔτι» (Strong G2089): Advérbio . Glosa contextual de apoio: «ainda». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Elemento conectivo ou modificador no contexto da oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "D-"
+      "morphgntPos": "D-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-12-18",
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -434,12 +436,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -458,7 +460,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "escrever; registrar",
-      "explanation": "Forma «γράψω» do lema «γράφω» (Strong G1125): Verbo futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa contextual de apoio: «escrever». Predicado verbal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -473,7 +475,7 @@ export const apocalipse3v12 = {
       "id": "ap3-12-20",
       "shortMorph": "P- --------",
       "greek": "ἐπ’",
-      "transliteration": "ep",
+      "transliteration": "ep'",
       "gloss": "sobre",
       "strong": "G1909",
       "lemma": "ἐπί",
@@ -482,12 +484,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "sobre; por causa de",
-      "explanation": "Forma «ἐπ’» do lema «ἐπί» (Strong G1909): Preposição . Glosa contextual de apoio: «sobre». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -498,7 +500,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RP ----ASM-",
       "greek": "αὐτὸν",
       "transliteration": "auton",
-      "gloss": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
+      "gloss": "dele",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "autos",
@@ -506,12 +508,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome acusativo singular masculino",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "Forma «αὐτὸν» do lema «αὐτός» (Strong G846): Pronome acusativo singular masculino. Glosa contextual de apoio: «Pronome pessoal de terceira pessoa (ele, ela, eles, seu)». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A referência do pronome e seu papel na construção são determinados pelo caso e pelo antecedente imediato.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome com função referencial na oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -522,7 +524,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----ASN-",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -530,7 +532,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» do lema «ὁ» (Strong G3588): Artigo definido acusativo singular neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -554,7 +556,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου.",
-      "explanation": "Forma «ὄνομα» do lema «ὄνομα» (Strong G3686): Substantivo acusativo singular neutro. Glosa contextual de apoio: «nome». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -570,7 +572,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -578,7 +580,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -594,7 +596,7 @@ export const apocalipse3v12 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "O Deus Supremo, o Criador e Pai de nosso Senhor",
+      "gloss": "o deus supremo",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -602,7 +604,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Forma «θεοῦ» do lema «θεός» (Strong G2316): Substantivo genitivo singular masculino. Glosa contextual de apoio: «O Deus Supremo, o Criador e Pai de nosso Senhor». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -618,7 +620,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RP ----GS--",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -626,12 +628,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -642,7 +644,7 @@ export const apocalipse3v12 = {
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -650,12 +652,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -666,7 +668,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----ASN-",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -674,7 +676,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» do lema «ὁ» (Strong G3588): Artigo definido acusativo singular neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -698,7 +700,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου.",
-      "explanation": "Forma «ὄνομα» do lema «ὄνομα» (Strong G3686): Substantivo acusativo singular neutro. Glosa contextual de apoio: «nome». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -714,7 +716,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----GSF-",
       "greek": "τῆς",
       "transliteration": "tēs",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -722,7 +724,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῆς» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -746,7 +748,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "cidade",
-      "explanation": "Forma «πόλεως» do lema «πόλις» (Strong G4172): Substantivo genitivo singular feminino. Glosa contextual de apoio: «cidade». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -762,7 +764,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -770,7 +772,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -786,7 +788,7 @@ export const apocalipse3v12 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "O Deus Supremo, o Criador e Pai de nosso Senhor",
+      "gloss": "o deus supremo",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -794,7 +796,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Forma «θεοῦ» do lema «θεός» (Strong G2316): Substantivo genitivo singular masculino. Glosa contextual de apoio: «O Deus Supremo, o Criador e Pai de nosso Senhor». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -808,9 +810,9 @@ export const apocalipse3v12 = {
     {
       "id": "ap3-12-34",
       "shortMorph": "RP ----GS--",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -818,23 +820,24 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου,» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-12-35",
       "shortMorph": "RA ----GSF-",
       "greek": "τῆς",
       "transliteration": "tēs",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "da",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -842,7 +845,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῆς» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -866,12 +869,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Adjetivo genitivo singular feminino",
       "meanings": "καινός pode designar novidade de caráter, estado ou condição. Em Ap 2:17 modifica ὄνομα, o novo nome inscrito na pedra.",
-      "explanation": "Forma «καινῆς» do lema «καινός» (Strong G2537): Adjetivo genitivo singular feminino. Glosa contextual de apoio: «novo, qualitativamente novo». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -880,7 +883,7 @@ export const apocalipse3v12 = {
     {
       "id": "ap3-12-37",
       "shortMorph": "N- ----GSF-",
-      "greek": "Ἰερουσαλήμ,",
+      "greek": "Ἰερουσαλήμ",
       "transliteration": "Ierousalēm",
       "gloss": "Jerusalém",
       "strong": "G2419",
@@ -890,7 +893,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "Jerusalém",
-      "explanation": "Forma «Ἰερουσαλήμ,» do lema «Ἰερουσαλήμ» (Strong G2419): Substantivo genitivo singular feminino. Glosa contextual de apoio: «Jerusalém». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -899,14 +902,15 @@ export const apocalipse3v12 = {
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-12-38",
       "shortMorph": "RA ----NSF-",
       "greek": "ἡ",
       "transliteration": "hē",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "a",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -914,7 +918,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «ἡ» do lema «ὁ» (Strong G3588): Artigo definido nominativo singular feminino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -938,7 +942,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "-PAPNSF-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular feminino",
       "meanings": "descer",
-      "explanation": "Forma «καταβαίνουσα» do lema «καταβαίνω» (Strong G2597): Verbo presente, voz ativa, particípio nominativo singular feminino. Glosa contextual de apoio: «descer». Particípio. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -962,12 +966,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "de; para fora de",
-      "explanation": "Forma «ἐκ» do lema «ἐκ» (Strong G1537): Preposição . Glosa contextual de apoio: «de». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -978,7 +982,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -986,7 +990,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -1010,7 +1014,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "céu",
-      "explanation": "Forma «οὐρανοῦ» do lema «οὐρανός» (Strong G3772): Substantivo genitivo singular masculino. Glosa contextual de apoio: «céu». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -1034,12 +1038,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Preposição ",
       "meanings": "de; desde; procedente de",
-      "explanation": "Forma «ἀπὸ» do lema «ἀπό» (Strong G575): Preposição . Glosa contextual de apoio: «de». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Introduz complemento preposicional; regência interpretada no contexto",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1050,7 +1054,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----GSM-",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "do",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -1058,7 +1062,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοῦ» do lema «ὁ» (Strong G3588): Artigo definido genitivo singular masculino. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -1074,7 +1078,7 @@ export const apocalipse3v12 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "O Deus Supremo, o Criador e Pai de nosso Senhor",
+      "gloss": "o deus supremo",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -1082,7 +1086,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "O único Deus verdadeiro, transcendente, eterno e soberano Criador do universo.",
-      "explanation": "Forma «θεοῦ» do lema «θεός» (Strong G2316): Substantivo genitivo singular masculino. Glosa contextual de apoio: «O Deus Supremo, o Criador e Pai de nosso Senhor». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -1096,9 +1100,9 @@ export const apocalipse3v12 = {
     {
       "id": "ap3-12-46",
       "shortMorph": "RP ----GS--",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -1106,23 +1110,24 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου,» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap3-12-47",
       "shortMorph": "C- --------",
       "greek": "καὶ",
       "transliteration": "kai",
-      "gloss": "Conjunção aditiva e coordenativa",
+      "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",
       "lemmaTransliteration": "kai",
@@ -1130,12 +1135,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» do lema «καί» (Strong G2532): Conjunção . Glosa contextual de apoio: «Conjunção aditiva e coordenativa». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Conector entre orações ou termos coordenados",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1146,7 +1151,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----ASN-",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -1154,7 +1159,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» do lema «ὁ» (Strong G3588): Artigo definido acusativo singular neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -1178,7 +1183,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "ὄνομα designa nome e, neste contexto, compromisso com a identidade e autoridade de Cristo, conforme a frase διὰ τὸ ὄνομά μου.",
-      "explanation": "Forma «ὄνομά» do lema «ὄνομα» (Strong G3686): Substantivo acusativo singular neutro. Glosa contextual de apoio: «nome». Núcleo nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -1194,7 +1199,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RP ----GS--",
       "greek": "μου",
       "transliteration": "mou",
-      "gloss": "eu",
+      "gloss": "meu",
       "strong": "G1473",
       "lemma": "ἐγώ",
       "lemmaTransliteration": "egō",
@@ -1202,12 +1207,12 @@ export const apocalipse3v12 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
       "meanings": "eu; nós",
-      "explanation": "Forma «μου» do lema «ἐγώ» (Strong G1473): Pronome genitivo singular. Glosa contextual de apoio: «eu». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Pronome no genitivo; valor definido pela construção",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1218,7 +1223,7 @@ export const apocalipse3v12 = {
       "shortMorph": "RA ----ASN-",
       "greek": "τὸ",
       "transliteration": "to",
-      "gloss": "Artigo definido identificador e determinador",
+      "gloss": "o",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -1226,7 +1231,7 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὸ» do lema «ὁ» (Strong G3588): Artigo definido acusativo singular neutro. Glosa contextual de apoio: «Artigo definido identificador e determinador». Determinante nominal. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
@@ -1240,7 +1245,7 @@ export const apocalipse3v12 = {
     {
       "id": "ap3-12-52",
       "shortMorph": "A- ----ASN-",
-      "greek": "καινόν.",
+      "greek": "καινόν",
       "transliteration": "kainon",
       "gloss": "novo, qualitativamente novo",
       "strong": "G2537",
@@ -1250,16 +1255,20 @@ export const apocalipse3v12 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo acusativo singular neutro",
       "meanings": "καινός pode designar novidade de caráter, estado ou condição. Em Ap 2:17 modifica ὄνομα, o novo nome inscrito na pedra.",
-      "explanation": "Forma «καινόν.» do lema «καινός» (Strong G2537): Adjetivo acusativo singular neutro. Glosa contextual de apoio: «novo, qualitativamente novo». Função a revisar. ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa.\n\nExegese: A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade.\n\nCrítica textual: SBLGNT ἡ καταβαίνουσα (particípio, WH/Treg/NIV), RP καταβαίνει (verbo finito).",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Função a revisar",
+        "role": "Modificador nominal ou predicativo segundo a construção",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
-      "morphgntPos": "A-"
+      "morphgntPos": "A-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa."
   ]
 } as const;

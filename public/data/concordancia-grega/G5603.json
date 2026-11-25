@@ -1,0 +1,25 @@
+{
+  "strong": "G5603",
+  "lemma": "ᾠδή",
+  "lemmaTranslit": "ōdē",
+  "tokenCount": 7,
+  "verseCount": 5,
+  "bookDistribution": {
+    "Ef": 1,
+    "Cl": 1,
+    "Ap": 5
+  },
+  "references": [
+    "Ef 5:19",
+    "Cl 3:16",
+    "Ap 5:9",
+    "Ap 14:3",
+    "Ap 15:3"
+  ],
+  "complete": true,
+  "source": "SBLGNT / MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "CC BY-SA 3.0 / CC BY 4.0 (ver fontes originais)",
+  "attribution": "SBL Greek New Testament; MorphGNT",
+  "corpusBooks": 27
+}

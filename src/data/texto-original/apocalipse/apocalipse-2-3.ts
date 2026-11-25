@@ -8,7 +8,7 @@ export const apocalipse2v3 = {
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Tens perseverança, suportaste por causa do meu nome e não te cansaste.",
   "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
-  "textualNotes": "O SBLGNT lê καὶ οὐ κεκοπίακες (perfeito ativo indicativo, 2ª pessoa singular) em contraste com a forma aorista ἐκοπίασας em tradições do Textus Receptus. A diferença entre perfeito e aoristo merece anotação sem harmonização.\n\n[Revisão acadêmica complementar] κεκοπίακες é perfeito e não deve ser substituído por leitura aorista para harmonização. O contexto é perseverança por causa do nome de Cristo.",
+  "textualNotes": "Comparação de edições: o SBLGNT/NA28 apresenta καὶ οὐ κεκοπίακες, com perfeito indicativo; Robinson–Pierpont (texto bizantino) apresenta οὐκ ἐκοπίασας, com aoristo. O Textus Receptus de Scrivener (1894) tem redação mais extensa e diferente: κεκοπίακας καὶ οὐ κέκμηκας. Não se devem confundir a leitura bizantina e a do Textus Receptus nem deduzir automaticamente a mesma redação para ambas.",
   "exegeticalNotes": [
     "O esforço perseverante é relacionado ao nome de Cristo.",
     "O perfeito grego é preservado na análise de κεκοπίακες."
@@ -65,7 +65,7 @@ export const apocalipse2v3 = {
     {
       "id": "ap2-3-3",
       "shortMorph": "V-PAI-2S",
-      "greek": "ἔχεις,",
+      "greek": "ἔχεις",
       "transliteration": "echeis",
       "gloss": "tens",
       "strong": "G2192",
@@ -84,7 +84,8 @@ export const apocalipse2v3 = {
         "clauseId": "AP.2.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-3-4",
@@ -209,7 +210,7 @@ export const apocalipse2v3 = {
     {
       "id": "ap2-3-9",
       "shortMorph": "PPro-GS-",
-      "greek": "μου,",
+      "greek": "μου",
       "transliteration": "mou",
       "gloss": "meu",
       "strong": "G1473",
@@ -228,7 +229,8 @@ export const apocalipse2v3 = {
         "clauseId": "AP.2.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "RP"
+      "morphgntPos": "RP",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap2-3-10",
@@ -281,7 +283,7 @@ export const apocalipse2v3 = {
     {
       "id": "ap2-3-12",
       "shortMorph": "V-XAI-2S",
-      "greek": "κεκοπίακες.",
+      "greek": "κεκοπίακες",
       "transliteration": "kekopiakes",
       "gloss": "te cansaste",
       "strong": "G2872",
@@ -300,7 +302,12 @@ export const apocalipse2v3 = {
         "clauseId": "AP.2.3.C1",
         "governedBy": null
       },
-      "morphgntPos": "V-"
+      "morphgntPos": "V-",
+      "trailingPunctuation": "."
     }
+  ],
+  "syntacticNotes": [
+    "κεκοπίακες é perfeito e não deve ser substituído por leitura aorista para harmonização. O contexto é perseverança por causa do nome de Cristo.",
+    "κεκοπίακες é perfeito ativo indicativo de κοπιάω, 2ª pessoa singular, com valor de estado resultante ou situação descrita pelo perfeito. A forma não deve ser reinterpretada como aoristo em razão de outra edição textual."
   ]
 } as const;

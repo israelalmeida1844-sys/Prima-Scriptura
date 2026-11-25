@@ -1,0 +1,42 @@
+{
+  "strong": "G5506",
+  "lemma": "χιλίαρχος",
+  "lemmaTranslit": "chiliarchos",
+  "tokenCount": 21,
+  "verseCount": 21,
+  "bookDistribution": {
+    "Mc": 1,
+    "Jo": 1,
+    "At": 17,
+    "Ap": 2
+  },
+  "references": [
+    "Mc 6:21",
+    "Jo 18:12",
+    "At 21:31",
+    "At 21:32",
+    "At 21:33",
+    "At 21:37",
+    "At 22:24",
+    "At 22:26",
+    "At 22:27",
+    "At 22:28",
+    "At 22:29",
+    "At 23:10",
+    "At 23:15",
+    "At 23:17",
+    "At 23:18",
+    "At 23:19",
+    "At 23:22",
+    "At 24:22",
+    "At 25:23",
+    "Ap 6:15",
+    "Ap 19:18"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}

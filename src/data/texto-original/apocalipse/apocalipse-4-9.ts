@@ -8,10 +8,9 @@ export const apocalipse4v9 = {
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "Sempre que os seres viventes dão glória, honra e ações de graças àquele que está sentado sobre o trono, àquele que vive pelos séculos dos séculos,",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
-  "textualNotes": "ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo. Aparato crítico: as variantes devem ser colacionadas diretamente com a edição SBLGNT; nenhuma leitura de testemunho individual é aqui alegada sem verificação.",
+  "textualNotes": "Esta ficha não apresenta variante manuscrita específica verificada para o versículo. A ausência de variante relevante não pode ser afirmada sem colação dos aparatos NA28/ECM e das testemunhas; o texto exibido segue o SBLGNT.",
   "exegeticalNotes": [
     "O ato dos viventes provoca a prostração dos anciãos no verso seguinte; a fórmula «pelos séculos dos séculos» enfatiza a eternidade divina.",
-    "ὅταν com o futuro indicativo δώσουσιν é uma irregularidade sintática conservada pelo SBLGNT; a construção introduz a resposta futura/recorrente explicitada no v. 10.",
     "διδόναι δόξαν, τιμὴν καὶ εὐχαριστίαν forma um conjunto de atos de adoração; «dar» não implica conferir glória àquele que já a possui."
   ],
   "words": [
@@ -28,7 +27,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -52,7 +51,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Conjunção temporal «sempre que»; em 4:9 ocorre com futuro indicativo δώσουσιν na construção do texto-base.",
-      "explanation": "Forma «ὅταν» (ὅταν, G3752); Conjunção. Conjunção temporal «sempre que»; em 4:9 ocorre com futuro indicativo δώσουσιν na construção do texto-base. Conector de oração. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -76,7 +75,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "Ato voluntário de conferir algo a outrem, outorga de prerrogativa ou revelação divina.",
-      "explanation": "Forma «δώσουσιν» (δίδωμι, G1325); Verbo futuro, voz ativa, indicativo, 3ª pessoa plural. Sentido lexical contextual: dar. Predicado verbal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -92,7 +91,7 @@ export const apocalipse4v9 = {
       "shortMorph": "Art-NPN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "o; a; artigo",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -100,7 +99,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τὰ» (ὁ, G3588); Artigo definido nominativo plural neutro. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -124,7 +123,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo nominativo plural neutro",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "Forma «ζῷα» (ζῷον, G2226); Substantivo nominativo plural neutro. Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9. Núcleo de sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -148,7 +147,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "glória",
-      "explanation": "Forma «δόξαν» (δόξα, G1391); Substantivo acusativo singular feminino. Sentido lexical contextual: glória. Núcleo de sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -172,7 +171,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -196,7 +195,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Honra; qualidade oferecida ao ocupante do trono em 4:9 e 4:11.",
-      "explanation": "Forma «τιμὴν» (τιμή, G5092); Substantivo acusativo singular feminino. Honra; qualidade oferecida ao ocupante do trono em 4:9 e 4:11. Núcleo de sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -220,7 +219,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "Forma «καὶ» (καί, G2532); Conjunção. Sentido lexical contextual: e. Conector de oração. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "Conjunção coordenativa; seu valor exato depende da relação entre os membros que conecta.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -244,7 +243,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Gratidão ou ação de graças; ato litúrgico de 4:9.",
-      "explanation": "Forma «εὐχαριστίαν» (εὐχαριστία, G2169); Substantivo acusativo singular feminino. Gratidão ou ação de graças; ato litúrgico de 4:9. Núcleo de sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -260,7 +259,7 @@ export const apocalipse4v9 = {
       "shortMorph": "Art-DSM",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "o; a; artigo",
+      "gloss": "ao",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -268,7 +267,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῷ» (ὁ, G3588); Artigo definido dativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -292,7 +291,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "-PMPDSM-",
       "morphology": "Verbo presente, voz média, particípio dativo singular masculino",
       "meanings": "Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos.",
-      "explanation": "Forma «καθημένῳ» (κάθημαι, G2521); Verbo presente, voz média, particípio dativo singular masculino. Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos. Particípio em relação descritiva. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -308,7 +307,7 @@ export const apocalipse4v9 = {
       "shortMorph": "P-",
       "greek": "ἐπὶ",
       "transliteration": "epi",
-      "gloss": "sobre; em",
+      "gloss": "sobre",
       "strong": "G1909",
       "lemma": "ἐπί",
       "lemmaTransliteration": "epi",
@@ -316,7 +315,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "sobre; por causa de",
-      "explanation": "Forma «ἐπὶ» (ἐπί, G1909); Preposição. Sentido lexical contextual: sobre; em. Introdução de complemento preposicional. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -332,7 +331,7 @@ export const apocalipse4v9 = {
       "shortMorph": "Art-DSM",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "o; a; artigo",
+      "gloss": "ao",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -340,7 +339,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῷ» (ὁ, G3588); Artigo definido dativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -354,7 +353,7 @@ export const apocalipse4v9 = {
     {
       "id": "ap4-9-15",
       "shortMorph": "N-DSM",
-      "greek": "θρόνῳ,",
+      "greek": "θρόνῳ",
       "transliteration": "thronō",
       "gloss": "trono",
       "strong": "G2362",
@@ -364,7 +363,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "trono",
-      "explanation": "Forma «θρόνῳ,» (θρόνος, G2362); Substantivo dativo singular masculino. Sentido lexical contextual: trono. Núcleo de sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -373,14 +372,15 @@ export const apocalipse4v9 = {
         "clauseId": "AP.4.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     },
     {
       "id": "ap4-9-16",
       "shortMorph": "Art-DSM",
       "greek": "τῷ",
       "transliteration": "tō",
-      "gloss": "o; a; artigo",
+      "gloss": "ao",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -388,7 +388,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῷ» (ὁ, G3588); Artigo definido dativo singular masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -412,7 +412,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "-PAPDSM-",
       "morphology": "Verbo presente, voz ativa, particípio dativo singular masculino",
       "meanings": "viver",
-      "explanation": "Forma «ζῶντι» (ζάω, G2198); Verbo presente, voz ativa, particípio dativo singular masculino. Sentido lexical contextual: viver. Particípio em relação descritiva. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -428,7 +428,7 @@ export const apocalipse4v9 = {
       "shortMorph": "P-",
       "greek": "εἰς",
       "transliteration": "eis",
-      "gloss": "para; até",
+      "gloss": "para",
       "strong": "G1519",
       "lemma": "εἰς",
       "lemmaTransliteration": "eis",
@@ -436,7 +436,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "para; em direção a; por",
-      "explanation": "Forma «εἰς» (εἰς, G1519); Preposição. Sentido lexical contextual: para; até. Introdução de complemento preposicional. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -452,7 +452,7 @@ export const apocalipse4v9 = {
       "shortMorph": "Art-APM",
       "greek": "τοὺς",
       "transliteration": "tous",
-      "gloss": "o; a; artigo",
+      "gloss": "os",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -460,7 +460,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τοὺς» (ὁ, G3588); Artigo definido acusativo plural masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -476,7 +476,7 @@ export const apocalipse4v9 = {
       "shortMorph": "N-APM",
       "greek": "αἰῶνας",
       "transliteration": "aiōnas",
-      "gloss": "era; século",
+      "gloss": "séculos",
       "strong": "G165",
       "lemma": "αἰών",
       "lemmaTransliteration": "aiōn",
@@ -484,7 +484,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "era; século; eternidade",
-      "explanation": "Forma «αἰῶνας» (αἰών, G165); Substantivo acusativo plural masculino. Sentido lexical contextual: era; século. Núcleo de sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -500,7 +500,7 @@ export const apocalipse4v9 = {
       "shortMorph": "Art-GPM",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "o; a; artigo",
+      "gloss": "dos",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -508,7 +508,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "Forma «τῶν» (ὁ, G3588); Artigo definido genitivo plural masculino. Sentido lexical contextual: o; a; artigo. Determinante do sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "O artigo acompanha o termo nominal ou substantiva um elemento da oração; verificar sua concordância com o termo determinado.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -522,9 +522,9 @@ export const apocalipse4v9 = {
     {
       "id": "ap4-9-22",
       "shortMorph": "N-GPM",
-      "greek": "αἰώνων,",
+      "greek": "αἰώνων",
       "transliteration": "aiōnōn",
-      "gloss": "era; século",
+      "gloss": "séculos",
       "strong": "G165",
       "lemma": "αἰών",
       "lemmaTransliteration": "aiōn",
@@ -532,7 +532,7 @@ export const apocalipse4v9 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "era; século; eternidade",
-      "explanation": "Forma «αἰώνων,» (αἰών, G165); Substantivo genitivo plural masculino. Sentido lexical contextual: era; século. Núcleo de sintagma nominal. ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+      "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:9"
       ],
@@ -541,7 +541,12 @@ export const apocalipse4v9 = {
         "clauseId": "AP.4.9.C1",
         "governedBy": null
       },
-      "morphgntPos": "N-"
+      "morphgntPos": "N-",
+      "trailingPunctuation": ","
     }
+  ],
+  "syntacticNotes": [
+    "ὅταν com δώσουσιν (futuro indicativo 3ª plural) é construção não clássica; registrar exatamente, sem substituir por subjuntivo. δόξαν, τιμήν e εὐχαριστίαν são objetos diretos de δίδωμι; os particípios καθημένῳ e ζῶντι estão no dativo.",
+    "ὅταν com o futuro indicativo δώσουσιν é uma irregularidade sintática conservada pelo SBLGNT; a construção introduz a resposta futura/recorrente explicitada no v. 10."
   ]
 } as const;

@@ -1,0 +1,19 @@
+{
+  "strong": "G5518",
+  "lemma": "χοῖνιξ",
+  "lemmaTranslit": "choinix",
+  "tokenCount": 2,
+  "verseCount": 1,
+  "bookDistribution": {
+    "Ap": 2
+  },
+  "references": [
+    "Ap 6:6"
+  ],
+  "complete": true,
+  "corpusBooks": 27,
+  "source": "SBL Greek New Testament via MorphGNT 6.12",
+  "sourceVersion": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "license": "SBLGNT CC BY 4.0 / MorphGNT CC BY-SA 3.0; verificar termos originais",
+  "attribution": "SBL Greek New Testament; MorphGNT"
+}
