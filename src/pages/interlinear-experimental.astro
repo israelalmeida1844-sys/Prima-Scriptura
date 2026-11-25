@@ -1,0 +1,22 @@
+---
+const books = "Gen Exod Lev Num Deut Josh Judg Ruth 1Sam 2Sam 1Kgs 2Kgs 1Chr 2Chr Ezra Neh Esth Job Ps Prov Eccl Song Isa Jer Lam Ezek Dan Hos Joel Amos Obad Jonah Mic Nah Hab Zeph Hag Zech Mal Matt Mark Luke John Acts Rom 1Cor 2Cor Gal Eph Phil Col 1Thess 2Thess 1Tim 2Tim Titus Phlm Heb Jas 1Pet 2Pet 1John 2John 3John Jude Rev".split(" ");
+const names = "Gênesis|Êxodo|Levítico|Números|Deuteronômio|Josué|Juízes|Rute|1 Samuel|2 Samuel|1 Reis|2 Reis|1 Crônicas|2 Crônicas|Esdras|Neemias|Ester|Jó|Salmos|Provérbios|Eclesiastes|Cânticos|Isaías|Jeremias|Lamentações|Ezequiel|Daniel|Oseias|Joel|Amós|Obadias|Jonas|Miqueias|Naum|Habacuque|Sofonias|Ageu|Zacarias|Malaquias|Mateus|Marcos|Lucas|João|Atos|Romanos|1 Coríntios|2 Coríntios|Gálatas|Efésios|Filipenses|Colossenses|1 Tessalonicenses|2 Tessalonicenses|1 Timóteo|2 Timóteo|Tito|Filemom|Hebreus|Tiago|1 Pedro|2 Pedro|1 João|2 João|3 João|Judas|Apocalipse".split("|");
+---
+<html lang="pt-BR"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Interlinear experimental — Prima Scriptura</title></head><body>
+<main><h1>Prima Scriptura — Interlinear experimental</h1><p>Dados de pesquisa; numeração conforme a fonte original. Glossas ausentes não são inferidas.</p>
+<label>Livro <select id="book">{books.map((b,i)=><option value={b} data-rtl={i<39?"yes":"no"}>{names[i]}</option>)}</select></label>
+<label>Capítulo <select id="chapter"></select></label>
+<label>Versículo <select id="verse"></select></label>
+<p id="status" role="status"></p><section id="words" aria-label="Palavras do versículo"></section>
+<p>Fontes: <a href="https://github.com/morphgnt/sblgnt">MorphGNT / SBLGNT</a>; <a href="https://github.com/openscriptures/morphhb">Original work of the Open Scriptures Hebrew Bible</a>. Consulte as licenças originais.</p></main>
+<script>
+type Token={text:string;lemma?:string;morph?:string;gloss_pt?:string;pos?:string};
+const book=document.querySelector<HTMLSelectElement>("#book")!,chapter=document.querySelector<HTMLSelectElement>("#chapter")!,verse=document.querySelector<HTMLSelectElement>("#verse")!,status=document.querySelector<HTMLElement>("#status")!,words=document.querySelector<HTMLElement>("#words")!;
+let data:Record<string,Token[]>={}; let serial=0;
+function options(el:HTMLSelectElement,values:string[]){el.replaceChildren(...values.map(v=>new Option(v,v)));}
+function render(){words.replaceChildren();words.dir=book.selectedOptions[0]?.dataset.rtl==="yes"?"rtl":"ltr";for(const token of data[chapter.value+":"+verse.value]||[]){const card=document.createElement("article");for(const [label,value] of [["",token.text],["Glosa",token.gloss_pt],["Lema",token.lemma],["Morfologia",token.morph]]){const p=document.createElement("p");p.dir=label?"auto":words.dir;p.textContent=label?label+": "+(value||"Não disponível"):value||"";if(!label)p.className="original";card.append(p);}words.append(card);}}
+function chapters(){options(verse,Object.keys(data).filter(k=>k.split(":")[0]===chapter.value).map(k=>k.split(":")[1]));render();}
+async function load(){const id=++serial;data={};options(chapter,[]);options(verse,[]);render();status.textContent="Carregando…";try{const res=await fetch("/interlinear-corpus/"+encodeURIComponent(book.value)+".json");if(!res.ok)throw Error();const next=await res.json();if(id!==serial)return;data=next;options(chapter,[...new Set(Object.keys(data).map(k=>k.split(":")[0]))]);chapters();status.textContent="";}catch{if(id===serial)status.textContent="Corpus ainda não importado ou indisponível.";}}
+book.addEventListener("change",load);chapter.addEventListener("change",chapters);verse.addEventListener("change",render);load();
+</script>
+<style>body{background:#102440;color:#eee;font-family:"Times New Roman",serif;margin:0}main{max-width:1000px;margin:auto;padding:24px}h1,a{color:#d9b66d}label{display:inline-block;margin:8px}select{padding:8px}#words{display:flex;gap:12px;overflow-x:auto;padding:12px 0}article{flex:0 0 auto;border:1px solid #d9b66d;padding:12px;max-width:300px}.original{font-size:1.8rem}article p{margin:6px}</style></body></html>
