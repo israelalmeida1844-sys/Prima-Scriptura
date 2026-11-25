@@ -1,0 +1,77 @@
+name: Validar sintaxe dos 66 livros
+on:
+  push:
+    branches: [rascunho/interlinear-completo]
+    paths:
+      - '.github/workflows/validar-sintaxe-interlinear.yml'
+      - 'scripts/interlinear/import_syntax.py'
+      - 'scripts/interlinear/validate_syntax.py'
+      - 'scripts/interlinear/test_syntax.mjs'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: syntax-experimental
+  cancel-in-progress: true
+jobs:
+  audit:
+    if: github.ref == 'refs/heads/rascunho/interlinear-completo'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recuperar fontes sintaticas com revisoes fixas
+        run: |
+          git init /tmp/macula-greek
+          git -C /tmp/macula-greek remote add origin https://github.com/Clear-Bible/macula-greek.git
+          git -C /tmp/macula-greek sparse-checkout set SBLGNT/lowfat
+          git -C /tmp/macula-greek fetch --depth 1 --filter=blob:none origin 8423afe47b9e8f24b7772e808af45c7159a6fe7e
+          git -C /tmp/macula-greek checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/macula-greek rev-parse HEAD)" = 8423afe47b9e8f24b7772e808af45c7159a6fe7e
+          git init /tmp/macula-hebrew
+          git -C /tmp/macula-hebrew remote add origin https://github.com/Clear-Bible/macula-hebrew.git
+          git -C /tmp/macula-hebrew sparse-checkout set WLC/lowfat
+          git -C /tmp/macula-hebrew fetch --depth 1 --filter=blob:none origin 47db250bd55d0d8577f2a94fba114ef16c35b23c
+          git -C /tmp/macula-hebrew checkout --detach FETCH_HEAD
+          test "$(git -C /tmp/macula-hebrew rev-parse HEAD)" = 47db250bd55d0d8577f2a94fba114ef16c35b23c
+      - name: Alinhar arvores sintaticas
+        run: |
+          python3 scripts/interlinear/import_syntax.py --base public/interlinear-corpus --greek /tmp/macula-greek/SBLGNT/lowfat --hebrew /tmp/macula-hebrew/WLC/lowfat --out public/interlinear-syntax --report docs/auditoria-sintatica-interlinear.json --details docs/sintaxe-pendente
+          cat > public/interlinear-syntax/CREDITOS.md <<'EOF'
+          # Análise sintática — MACULA
+          MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/ © 2022–2024 Biblica, Inc., CC BY 4.0. Revisão 8423afe47b9e8f24b7772e808af45c7159a6fe7e, SBLGNT/lowfat.
+          MACULA Hebrew Linguistic Datasets, available at https://github.com/Clear-Bible/macula-hebrew/ © 2022–2024 Biblica, Inc., CC BY 4.0. Revisão 47db250bd55d0d8577f2a94fba114ef16c35b23c, WLC/lowfat. Westminster Hebrew Syntax without Morphology © 1991–2018 The J. Alan Groves Center for Advanced Biblical Research, CC BY 4.0. Original work of the Open Scriptures Hebrew Bible available at https://github.com/openscriptures/morphhb, CC BY 4.0.
+          Licença da camada sintática adaptada: https://creativecommons.org/licenses/by/4.0/. Atribuição não implica endosso. Preservamos os IDs, funções, regras e hierarquia da fonte e traduzimos rótulos selecionados. Não são redistribuídas glosas, domínios semânticos de terceiros ou textos duplicados.
+          Alinhamento por sequência integral de formas normalizadas dentro da mesma referência; quando divergente, apenas formas únicas dentro de blocos monotônicos de ao menos duas palavras, com confirmação do lema no grego. Mantidos diacríticos vocálicos; removidos cantilação, meteg, pontuação e separadores para comparação. Diferenças de segmentação são sinalizadas. A língua hebraica ou aramaica deve coincidir.
+          A interface mostra projeções de constituintes de cada versículo, com referências das frases que atravessam versículos. Não é uma árvore de dependências nem uma nova análise exegética. Rótulos de funções pertencem aos grupos onde a fonte os registra, e não automaticamente a todas as palavras do grupo. Lacunas sem correspondência segura permanecem pendentes; variantes Qere não são analisadas separadamente.
+          EOF
+          cp /tmp/macula-greek/LICENSE.md public/interlinear-syntax/LICENSE-GREEK.md
+          cp /tmp/macula-hebrew/LICENSE.md public/interlinear-syntax/LICENSE-HEBREW.md
+      - name: Validar todos os caminhos contra XML original
+        run: python3 scripts/interlinear/validate_syntax.py --base public/interlinear-corpus --greek /tmp/macula-greek/SBLGNT/lowfat --hebrew /tmp/macula-hebrew/WLC/lowfat --out public/interlinear-syntax --report docs/auditoria-sintatica-interlinear.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Testar sintaxe e regressao da pesquisa no Chromium
+        run: |
+          npm install --no-save --package-lock=false playwright@1.58.2
+          npx playwright install --with-deps chromium
+          npm run preview -- --host 127.0.0.1 --port 4321 > /tmp/astro-preview.log 2>&1 &
+          server=$!
+          trap 'kill "$server" 2>/dev/null || true' EXIT
+          for i in $(seq 1 60); do if curl -fsS http://127.0.0.1:4321/interlinear-experimental/ >/dev/null; then break; fi; sleep 1; done
+          node scripts/interlinear/test_syntax.mjs
+          node scripts/interlinear/test_search.mjs
+      - name: Salvar somente na branch experimental
+        run: |
+          test "$(git branch --show-current)" = rascunho/interlinear-completo
+          git diff --exit-code -- public/interlinear-corpus public/interlinear-enrichment public/interlinear-source-structure public/interlinear-gloss-review public/interlinear-strong-review public/interlinear-transliteration public/interlinear-morphology public/interlinear-lexicon public/interlinear-search
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/interlinear-syntax docs/auditoria-sintatica-interlinear.json docs/sintaxe-pendente docs/testes-sintaxe-navegador.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record stage 8 syntax alignment and browser tests [skip ci] [CF-Pages-Skip]'
+            git push origin HEAD:rascunho/interlinear-completo
+          fi
