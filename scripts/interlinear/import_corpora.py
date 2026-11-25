@@ -23,7 +23,26 @@ def hebrew(path,book):
         if len(parts)!=3 or parts[0]!=book: raise ValueError(ref)
         key=f"{parts[1]}:{parts[2]}"
         if key in verses: raise ValueError(ref)
-        verses[key]=[dict(text="".join(w.itertext()),lemma=w.get("lemma"),morph=w.get("morph"),gloss_pt=None) for w in v.iter("{*}w")]
+        # The OSIS note tree contains alternate readings (qere), not extra running words.
+        # Keep the primary written text, and retain variants/empty markers separately.
+        def token(w):
+            return dict(text="".join(w.itertext()).strip(),lemma=w.get("lemma"),morph=w.get("morph"),source_id=w.get("id"),gloss_pt=None)
+        def base_words(node):
+            for child in node:
+                tag=child.tag.rsplit("}",1)[-1]
+                if tag in ("note","rdg","catchWord"): continue
+                if tag=="w": yield child
+                else: yield from base_words(child)
+        raw=[token(w) for w in base_words(v)]
+        words=[w for w in raw if w["text"]]
+        annotations=[{"kind":"empty-source-marker","token":w} for w in raw if not w["text"]]
+        for note in v.iter("{*}note"):
+            readings=[{"type":rdg.get("type"),"tokens":[token(w) for w in rdg.iter("{*}w")]} for rdg in note.iter("{*}rdg")]
+            if readings:
+                annotations.append({"kind":"variant","catchword":note.findtext("{*}catchWord"),"readings":readings})
+        if not words: raise ValueError(f"No primary text in {ref}: {ET.tostring(v,encoding='unicode')[:600]}")
+        if annotations: words[-1]["verse_annotations"]=annotations
+        verses[key]=words
     return verses
 def main():
     p=argparse.ArgumentParser()
