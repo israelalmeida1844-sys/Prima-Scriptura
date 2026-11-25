@@ -17,7 +17,7 @@ def greek(path,book):
     return verses
 def hebrew(path,book):
     verses={}
-    for v in ET.parse(path).getroot().iter("{*}verse"):
+    for v in ET.parse(path).getroot().findall(".//{*}verse"):
         ref=v.attrib["osisID"]
         parts=ref.split(".")
         if len(parts)!=3 or parts[0]!=book: raise ValueError(ref)
@@ -36,8 +36,8 @@ def hebrew(path,book):
         raw=[token(w) for w in base_words(v)]
         words=[w for w in raw if w["text"]]
         annotations=[{"kind":"empty-source-marker","token":w} for w in raw if not w["text"]]
-        for note in v.iter("{*}note"):
-            readings=[{"type":rdg.get("type"),"tokens":[token(w) for w in rdg.iter("{*}w")]} for rdg in note.iter("{*}rdg")]
+        for note in v.findall(".//{*}note"):
+            readings=[{"type":rdg.get("type"),"tokens":[token(w) for w in rdg.findall(".//{*}w")]} for rdg in note.findall(".//{*}rdg")]
             if readings:
                 annotations.append({"kind":"variant","catchword":note.findtext("{*}catchWord"),"readings":readings})
         if not words: raise ValueError(f"No primary text in {ref}: {ET.tostring(v,encoding='unicode')[:600]}")
@@ -61,7 +61,9 @@ def main():
         data[book]=hebrew(path,book)
         manifest[book]={"source":"OSHB/WLC","sha256":hashlib.sha256(path.read_bytes()).hexdigest()}
     for book,verses in data.items():
-        if not verses or any(not words or any(not w["text"] for w in words) for words in verses.values()): raise ValueError(book)
+        if not verses: raise ValueError(f"No verses parsed in {book}")
+        for key, words in verses.items():
+            if not words or any(not w["text"] for w in words): raise ValueError(f"Invalid tokens in {book} {key}")
         manifest[book].update(verses=len(verses),tokens=sum(map(len,verses.values())))
     a.out.mkdir(parents=True,exist_ok=True)
     for book,verses in data.items():
