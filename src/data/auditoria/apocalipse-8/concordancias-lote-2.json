@@ -1,6 +1,6 @@
 {
-  "scope": "Apocalipse 8 — lote 2, sublote A: Atos, Romanos, 1–2 Coríntios, Gálatas, Efésios e Filipenses",
-  "batchComplete": false,
+  "scope": "Apocalipse 8 — lote 2: Atos e 13 cartas paulinas integralmente processados",
+  "batchComplete": true,
   "complete": false,
   "source": "MorphGNT/SBLGNT; correspondência exata pelo lema da coluna 7; possíveis variantes de lema registradas separadamente",
   "sources": [
@@ -52,6 +52,55 @@
       "rows": 1626,
       "first": "110101",
       "last": "110423"
+    },
+    {
+      "book": "Cl",
+      "blob": "8cdbc8e44370e7ffa2aa92419e2dd2ccaf40cdd2",
+      "rows": 1580,
+      "first": "120101",
+      "last": "120418"
+    },
+    {
+      "book": "1Ts",
+      "blob": "ced6898c215029bc8460c23d1b1600d3fd6f5243",
+      "rows": 1473,
+      "first": "130101",
+      "last": "130528"
+    },
+    {
+      "book": "2Ts",
+      "blob": "123860bf9b3a59ffe1dd7ae0fdeb7a0eddd5d080",
+      "rows": 820,
+      "first": "140101",
+      "last": "140318"
+    },
+    {
+      "book": "1Tm",
+      "blob": "b3a48cf39e72a1d5ab12e22dbfccf50d5273c450",
+      "rows": 1591,
+      "first": "150101",
+      "last": "150621"
+    },
+    {
+      "book": "2Tm",
+      "blob": "9e8982318844d411c26cb29f88fbe2e44f733f6a",
+      "rows": 1235,
+      "first": "160101",
+      "last": "160422"
+    },
+    {
+      "book": "Tt",
+      "blob": "20181fbb5729cc9fbd200b58241ac5e5612c2ec3",
+      "rows": 659,
+      "first": "170101",
+      "last": "170315"
+    },
+    {
+      "book": "Fm",
+      "blob": "a4a64fb468e0110aec98d94d707af8a5188419fd",
+      "rows": 334,
+      "first": "180101",
+      "last": "180125"
     }
   ],
   "entries": {
@@ -100,15 +149,19 @@
       "references": []
     },
     "ἑτοιμάζω": {
-      "tokenCount": 2,
-      "verseCount": 2,
+      "tokenCount": 4,
+      "verseCount": 4,
       "bookDistribution": {
         "At": 1,
-        "1Co": 1
+        "1Co": 1,
+        "2Tm": 1,
+        "Fm": 1
       },
       "references": [
         "At 23:23",
-        "1Co 2:9"
+        "1Co 2:9",
+        "2Tm 2:21",
+        "Fm 1:22"
       ]
     },
     "σαλπίζω": {
@@ -184,13 +237,15 @@
       ]
     },
     "διαφθείρω": {
-      "tokenCount": 1,
-      "verseCount": 1,
+      "tokenCount": 2,
+      "verseCount": 2,
       "bookDistribution": {
-        "2Co": 1
+        "2Co": 1,
+        "1Tm": 1
       },
       "references": [
-        "2Co 4:16"
+        "2Co 4:16",
+        "1Tm 6:5"
       ]
     },
     "ποταμός": {
@@ -218,10 +273,14 @@
       "references": []
     },
     "πικραίνω": {
-      "tokenCount": 0,
-      "verseCount": 0,
-      "bookDistribution": {},
-      "references": []
+      "tokenCount": 1,
+      "verseCount": 1,
+      "bookDistribution": {
+        "Cl": 1
+      },
+      "references": [
+        "Cl 3:19"
+      ]
     },
     "πλήσσω": {
       "tokenCount": 0,
@@ -367,5 +426,5 @@
       "aliases": []
     }
   ],
-  "totalMatches": 33
+  "totalMatches": 37
 }
